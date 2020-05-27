@@ -1,0 +1,56 @@
+Portaria
+208/2011
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando a implantação do processo eletrônico de controle externo e a crescente adaptação dos usuários à nova ferramenta de gestão processual;
+
+
+considerando o contido no parágrafo único do art. 59 da Resolução-TCU nº 233, de 4 de agosto de 2010, que "dispõe sobre o funcionamento do processo eletrônico e demais serviços eletrônicos ofertados por meio de solução denominada TCU-eletrônico (e-TCU) e altera as Resoluções-TCU nº 170, de 30 de junho de 2004, nº 175, de 25 de maio de 2005, e nº 191, de 21 de junho de 2006";
+
+
+considerando o desenvolvimento de módulo do e-TCU específico para tratamento de recursos; resolve:
+
+
+Art. 1º Os artigos 34, 35 e 37 a 44 da Resolução-TCU nº 233, de 4 de agosto de 2010, que promovem alterações na Resolução-TCU nº191, de 21 de junho de 2006, no que concerne à organização e trâmite processual de recursos no âmbito do TCU, terão vigência a partir de 1º de setembro de 2011.
+
+
+§ 1º Os processos do tipo Recurso terão vinculação obrigatória ao processo objeto do recurso, devendo o e-TCU possibilitar a identificação inequívoca de todos os recursos vinculados a um mesmo processo.
+
+
+§ 2º Os processos do tipo Recurso terão o mesmo número identificador do processo objeto do recurso acrescido da letra "R" e de número sequencial de três dígitos ("R000").
+
+
+§ 3º Os recursos que deram entrada no TCU no período compreendido entre a entrada em vigor da Resolução-TCU nº 233/2010 e o dia 1º de setembro de 2011 terão o seguinte tratamento:
+
+
+a) serão inseridos como peça do processo objeto do recurso, caso o processo objeto do recurso seja eletrônico;
+
+
+b) serão organizados em anexo específico para esse fim, caso o processo objeto do recurso seja em papel.
+
+
+§ 4º Após o dia 1º de setembro de 2011, os recursos de que trata o parágrafo anterior, caso ainda não apreciados, poderão ser autuados como processo eletrônico do tipo Recurso.
+
+
+Art. 2º Fica a Secretaria-Geral de Controle Externo autorizada a dirimir os casos omissos e a expedir os atos necessários à regulamentação desta Portaria.
+
+
+Art. 3º Revoga-se a Portaria-TCU nº 486, de 26 de outubro de 1998.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+Não consta revogação expressa
+Dispõe sobre a organização processual de recursos em meio eletrônico.
+
+

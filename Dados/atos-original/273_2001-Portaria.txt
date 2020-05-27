@@ -1,0 +1,290 @@
+Portaria
+273/2001
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições regulamentares, e
+
+
+Considerando que o Sistema de Registro das Apreciações e Deliberações e Acompanhamento dos Resultados - RADAR visa a dotar o TCU de apoio ágil e eficiente em relação às informações essenciais sobre instruções, pareceres, despachos e deliberações do Tribunal, de modo a permitir registro, acompanhamento e elaboração de estatísticas acerca do cumprimento das deliberações;
+
+
+Considerando a necessidade de definir responsabilidades e atribuições pelo registro e gestão de informações abrangidas pelo sistema RADAR;
+
+
+Considerando que funcionalidades do sistema RADAR necessárias ao registro de deliberações pelos Gabinetes de Ministros e pela Secretaria-Geral das Sessões já se encontram disponíveis para uso;
+
+
+Considerando que funcionalidades necessárias ao registro de informações relativas às instruções, ocorrências e indícios de irregularidades, pareceres e comunicações pelas Unidades Técnicas e pelo Ministério Público estarão disponíveis para uso a partir do quarto trimestre de 2001;
+
+
+Considerando que funcionalidades necessárias ao acompanhamento de determinações pelas Unidades do Tribunal estarão disponíveis para uso a partir do primeiro trimestre de 2002; e
+
+
+Considerando a necessidade de assegurar confiabilidade e integridade das informações registradas na base de dados corporativos do TCU por intermédio do sistema RADAR, nos termos da Portaria n 211, de 28 de junho de 2001, resolve:
+
+
+Art. 1º As informações referentes a instruções, pareceres, despachos e deliberações constantes de processos relativos ao controle externo, na forma do Anexo I desta Portaria, devem ser registradas no sistema RADAR de acordo com os seguintes parâmetros:
+
+
+I - pelas Unidades Técnicas, no prazo de até dois dias da elaboração:
+
+
+a) no módulo de registro de deliberações:
+
+
+1) diligências, audiências e citações, quando houver delegação de competência;
+
+
+2) conclusões da proposta de encaminhamento formulada pelo servidor ou pela equipe e conclusões dos pareceres dos dirigentes;
+
+
+3) quando for o caso: informações sobre ocorrência ou indício de irregularidade verificado, de acordo com a tabela de ocorrências definida no sistema;
+
+
+b) no módulo de comunicações: informações sobre ofícios relativos a diligência, audiência ou citação;
+
+
+II - pela Secretaria de Recursos - SERUR, no prazo de até dois dias do fato gerador: informações sobre admissão de recurso encaminhado para instrução, conclusões da proposta de encaminhamento formulada pelo servidor responsável e conclusões dos pareceres dos dirigentes;
+
+
+III - pelo Ministério Público:
+
+
+a) no módulo de registro de deliberações: conclusões dos pareceres exarados nos processos submetidos a seu exame, quando não se tratar de simples endosso de pareceres uniformes da Unidade Técnica;
+
+
+b) no módulo de comunicações: informações sobre ofícios relativos a cobranças executivas encaminhados à Advocacia-Geral da União;
+
+
+IV - pelos Gabinetes dos Relatores, no módulo de registro de deliberações: conclusões dos despachos; (NR) (Portaria nº 103, de 17/3/2004, BTCU nº 10/2004)
+
+
+
+V - pela Secretaria de Fiscalização de Pessoal - SEFIP, no prazo de até cinco dias da aprovação da Ata da respectiva Sessão:
+
+
+a) no módulo de registro de deliberações:
+
+
+1) diligências, audiências e citações, quando houver delegação de competência;
+
+
+2) conclusões da proposta de encaminhamento formulada pelo servidor ou pela equipe e conclusões dos pareceres dos dirigentes;
+
+
+3) quando for o caso: informações sobre ocorrência ou indício de irregularidade verificado, de acordo com a tabela de ocorrências definida no sistema;
+
+
+4) informações relativas a deliberações concernentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão; (NR) (Portaria nº 103, de 17/3/2004, BTCU nº 10/2004)
+
+
+
+b) no módulo de comunicações, informações sobre ofícios:
+
+
+1) relativos a diligências, audiências e citações;
+
+
+2) decorrentes do cumprimento de determinações de Plenário concernentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão;
+
+
+VI - pela Secretaria-Geral das Sessões:
+
+
+a) informações sobre Sessões;
+
+
+b) no prazo de até cinco dias da aprovação da Ata da respectiva Sessão: informações sobre deliberações proferidas em processos incluídos em pauta e em relação, à exceção dos atos de pessoal, de acordo com a tabela de ocorrências do sistema.(NR) (Portaria nº 103, de 17/3/2004, BTCU nº 10/2004)
+
+
+
+Art. 2º A Secretaria Adjunta de Contas - ADCON deve comunicar às unidades mencionadas nos incisos do art. 1º os prazos a partir dos quais devem iniciar a alimentação do sistema RADAR, na medida em que estejam disponíveis as respectivas funcionalidades do sistema.
+
+
+Art. 3º A partir do primeiro trimestre de 2002, as Unidades Técnicas devem acompanhar o cumprimento das determinações registradas no sistema RADAR.
+
+
+Art. 4º A Secretaria-Adjunta de Contas - ADCON é responsável pela gestão das informações registradas na base de dados corporativos do TCU por intermédio do sistema RADAR.
+
+
+Art. 5º Esta Portaria entra em vigor na data da sua publicação.
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Revogada
+Define critérios para registro de informações no Sistema de Registro das Apreciações e Deliberações e Acompanhamento dos Resultados - RADAR.
+
+ANEXO I DA PORTARIA-TCU Nº 103, DE 17 DE MARÇO DE 2004
+
+
+RESPONSABILIDADE PELO REGISTRO DE INFORMAÇÕES NO SISTEMA RADAR
+
+
+
+(NR) (Portaria nº 103, de 17/3/2004, BTCU nº 10/2004)
+
+
+
+FASE/PEÇA PROCESSUAL
+
+RESPONSÁVEL
+
+Realização de diligência, audiência e citação, quando houver delegação de competência  Unidade Técnica
+
+Proposta do servidor/equipe/informação sobre ocorrência ou indício de irregularidade
+
+Pareceres dos dirigentes da Unidade Técnica
+
+Comunicação dirigida a responsável, órgão ou entidade 
+
+As indicadas acima e deliberação de Colegiado referente a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão
+
+Secretaria de Fiscalização de Pessoal
+
+Admissão de recurso encaminhado à SERUR para instrução
+
+ 
+
+Secretaria de Recursos
+
+Proposta do servidor/equipe/informação sobre ocorrência ou indício de irregularidade
+
+Pareceres dos dirigentes da Unidade Técnica
+
+Parecer do Ministério Público
+
+Ministério Público
+
+Expedição de ofício relativo a cobrança executiva encaminhado à AGU
+
+Despacho do Relator
+
+Gabinete do Relator
+
+Informações sobre sessões 
+
+Secretaria-Geral das Sessões
+
+Deliberação de Colegiado por intermédio de processo incluído em pauta ou em relação, à exceção dos de atos de pessoal
+
+Responsabilidade pela gerência do sistema RADARADCON
+
+Adcon@tcu.gov.br
+
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+Art. 1º ...
+
+
+IV - pelos Gabinetes dos Relatores, no módulo de registro de deliberações: conclusões dos despachos e informações relativas às deliberações proferidas mediante relação, com exceção das concernentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão; (Alterado) (Portaria nº 103, de 17/3/2004, BTCU nº 10/2004)
+
+
+
+V - ...
+
+
+a) ...
+
+
+4) informações relativas a deliberações concernentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão proferidas mediante relação;
+
+
+VI – ...
+
+
+b) no prazo de até cinco dias da aprovação da Ata da respectiva Sessão: informações sobre deliberações proferidas em processos incluídos em pauta, de acordo com a tabela de ocorrências do sistema.
+
+
+ANEXO I da Portaria nº 273, de 20 de agosto de 2001
+RESPONSABILIDADE PELO REGISTRO DE INFORMAÇÕES NO SISTEMA RADAR
+
+
+FASE/PEÇA PROCESSUAL
+
+RESPONSÁVEL
+
+Realização de diligência, audiência e citação, quando houver delegação de competência  Unidade Técnica
+
+Proposta do servidor/equipe/informação sobre ocorrência ou indício de irregularidade
+
+Pareceres dos dirigentes da Unidade Técnica
+
+Comunicação dirigida a responsável, órgão ou entidade 
+
+Admissão de recurso encaminhado à SERUR para instrução
+
+ 
+
+ 
+
+Secretaria de Recursos
+
+Proposta do servidor/equipe/informação sobre ocorrência ou indício de irregularidade
+
+Pareceres dos dirigentes da Unidade Técnica
+
+Parecer do Ministério Público
+
+ 
+
+Ministério Público
+
+Expedição de ofício relativo a cobrança executiva encaminhado à AGU
+
+Despacho do Relator
+
+ 
+
+ 
+
+Gabinete do Relator
+
+Deliberação de Colegiado mediante Relação com considerandos (§ 6 do art. 79 do RI/TCU) e Relação simples, com exceção das concernentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão
+
+Realização de diligência, audiência e citação, quando houver delegação de competência
+
+ 
+
+ 
+
+Secretaria de Fiscalização de Pessoal
+
+Proposta do servidor/equipe/informação sobre ocorrência ou indício de irregularidade
+
+Pareceres dos dirigentes da Unidade Técnica
+
+Deliberação de Colegiado por meio de Relação no que se refere a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão
+
+Comunicação dirigida a responsável, órgão ou entidade
+
+Informações sobre sessões 
+
+ 
+
+Secretaria-Geral das Sessões
+
+Deliberação de Colegiado por intermédio de processo incluído em pauta
+
+Responsabilidade pela gerência do sistema RADARADCON
+
+Adcon@tcu.gov.br
+
+
+

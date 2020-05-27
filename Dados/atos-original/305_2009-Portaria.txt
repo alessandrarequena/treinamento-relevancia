@@ -1,0 +1,376 @@
+Portaria
+305/2009
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício das suas atribuições, tendo em vista o disposto nos art. 145 do Regimento Interno, arts. 13 e 14 da ResoluçãoTCU nº 36, de 30 de agosto de 1995, e arts. 97 e 112 da Resolução-TCU nº 191, de 21 de junho de 2006
+
+
+Considerando a necessidade de oferecer à sociedade serviço mais célere e eficiente de acesso às informações produzidas ou custodiadas pelo TCU e de facilitar o acesso por parte dos procuradores às informações processuais, resguardado o sigilo previsto na legislação;
+
+
+Considerando que a prática de atos processuais por procurador regularmente constituído necessita de prévia habilitação nos autos;
+
+
+Considerando que a habilitação e o credenciamento do procurador no Portal TCU evita o deslocamento dos responsáveis e/ou procuradores às dependências do Tribunal, contribuindo, assim, para o melhor atendimento ao cidadão;
+
+
+Considerando que a oferta do serviço por meio do Portal TCU não dificulta o acesso dos cidadãos que não dispõem de equipamento eletrônico, uma vez que o mencionado serviço continuará, também, a ser realizado presencialmente; e
+
+
+Considerando que a habilitação e o credenciamento do procurador no Portal TCU constituem fase importante na implantação de processo eletrônico no Tribunal, resolve:
+
+
+Art. 1º Os procedimentos para habilitação de procuradores nos autos de controle externo obedecem ao disposto nesta Portaria, observadas as Resoluções-TCU nº 36, de 1995, e nº 191, de 2006.
+
+
+Art. 2º Para os efeitos desta Portaria, entende-se por:
+
+
+I - habilitação de procurador: ato pelo qual o procurador, regularmente constituído mediante instrumento de mandato, é autorizado a ingressar nos autos para a prática de atos processuais;
+
+
+II - unidade detentora: unidade do Tribunal que detém a carga dos autos no momento do recebimento do instrumento de mandato; e
+
+
+III - unidade interessada: unidade do Tribunal competente para a instrução do processo, observadas a natureza do assunto e a vinculação da clientela.
+
+
+Art. 3º A habilitação de procurador pode ser solicitada:
+
+
+I - remotamente, por meio de registro específico no Portal TCU e posterior envio do instrumento de mandato ao Tribunal juntamente com o termo de encaminhamento gerado eletronicamente; ou
+
+
+II - presencialmente, mediante entrega da procuração em qualquer unidade do Tribunal.
+
+
+Art. 4º A habilitação de procurador depende de prévia verificação da documentação encaminhada no que se refere ao atendimento dos requisitos legais, bem como à adequação aos fins a que se destina.
+
+
+Art. 5º A renúncia e a revogação da procuração devem ser comunicadas ao Tribunal por meio de documento específico.
+
+
+Art. 6º Os procedimentos para habilitação dos procuradores nos autos de controle externo estão definidos nos anexos a esta Portaria.
+
+
+Art. 7º Fica a Secretaria-Geral de Controle Externo (Segecex) autorizada a promover, sempre que necessário, a atualização dos anexos desta Portaria, a expedir demais atos necessários à regulamentação da presente norma e a dirimir os casos omissos.
+
+
+Art. 8º Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Presidente
+
+
+
+ANEXO I À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+Procedimentos para habilitação de procurador quando solicitada presencialmente no TCU
+
+
+
+(NR)(Portaria – Segecex nº 5, de 04/03/2010, BTCU nº 9/2010)
+
+
+
+I - o requerente entregará a procuração e o substabelecimento, quando houver, em qualquer unidade do Tribunal;
+
+
+a) somente será aceita no TCU procuração e subestabelecimento mediante instrumento particular com firma reconhecida do outorgante ou por instrumento público, salvo se o instrumento de mandato for conferido a advogado.
+
+
+b) a entrega da procuração realizada pelo próprio signatário dispensa o reconhecimento de firma, cabendo ao servidor responsável pelo recebimento, após o cotejo dos dados do signatário com os documentos de identificação apresentados, fazer o registro no próprio documento de procuração que a entrega foi realizada pessoalmente pelo signatário e nele apor a sua assinatura e matrícula.
+
+
+c) nos casos em que o outorgante da procuração for responsável legal de pessoa jurídica, será exigida cópia da documentação que comprove a relação entre o signatário da procuração e a pessoa jurídica.
+
+
+d) quando a procuração entregue não contiver firma reconhecida do outorgante (exceção prevista na alínea "a"), será obrigatória a apresentação do documento de identidade profissional do(s) advogado(s), cujas cópias física e eletrônica serão juntadas ao processo físico e incluídas no sistema respectivamente.
+
+
+e) a autorização ou subestabelecimento de advogado a estagiários de advocacia para a prática de atos materiais, que não se caracterizem como atividades privativas de advocacia (art. 1º da Lei nº 8.906/1994), a exemplo de vista e cópia de autos, prescinde de reconhecimento de firma, cabendo, no entanto, a apresentação do documento de identidade funcional emitido pela OAB.
+
+
+II - a unidade que receber a procuração providenciará a digitalização do documento, após a sua análise;
+
+
+a) a procuração e os documentos entregues em conjunto, a exemplo do subestabelecimento, da cópia da documentação da pessoa jurídica e da cópia do documento de identidade profissional serão digitalizados e armazenados em um único arquivo eletrônico em formato pdf.
+
+
+b) quando a unidade que receber a procuração não for a unidade detentora do processo, o documento e o correspondente arquivo digitalizado serão encaminhados à unidade detentora.
+
+
+III - a unidade detentora registrará os dados da procuração no(s) processo(s) indicado(s), na aba "Procuradores" da Mesa de Trabalho do Portal TCU;
+
+
+a) a operação será realizada por servidor com perfil de atualização do sistema Processus.
+
+
+IV - concluída a inclusão dos dados da procuração, o documento digitalizado será inserido automaticamente como peça no processo; e
+
+
+V - a procuração deverá ser juntada aos autos, bem como o substabelecimento, quando houver.
+
+
+
+ANEXO II À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+Procedimentos para habilitação de procurador quando solicitada por meio do Portal TCU
+
+
+
+(NR)(Portaria – Segecex nº 5, de 04/03/2010, BTCU nº 9/2010)
+
+
+
+I - o usuário efetuará o cadastramento preliminar no menu "Cadastre-se" do Portal TCU, no qual informará os dados pessoais (número de CPF, nome completo, endereço eletrônico, telefone) e a senha para acesso;
+
+
+II - após ter efetuado o cadastramento preliminar no Portal TCU, o usuário se identificará no "Acesso Restrito", localizado na coluna à direita do Portal, utilizando o login e a senha cadastrados;
+
+
+III - no painel de Pesquisa do Portal, o usuário selecionará a opção "Procuração", onde acessará o sistema disponibilizado para encaminhamento de procuração;
+
+
+IV - na opção "Encaminhar procuração" do menu "Processos" do sistema, o usuário informará o número de inscrição do CPF do responsável (outorgante), os números dos processos em que o procurador irá atuar, os números de inscrição do CPF e os nomes dos procuradores (outorgados), inclusive os dos substabelecidos;
+
+
+a) os processos informados devem ser relativos à mesma unidade interessada do TCU. Para inclusão de processos de unidades interessadas distintas devem ser registradas tantas solicitações quanto forem necessárias.
+
+
+V - será informado ao usuário, para fins de acompanhamento, o número da solicitação de encaminhamento da procuração;
+
+
+VI - o usuário deverá imprimir o termo de encaminhamento da procuração, disponibilizado pelo sistema após informar os dados relacionados no item IV deste Anexo, e enviar ao Tribunal juntamente com a procuração e o substabelecimento, quando houver;
+
+
+VII - os documentos a que se refere o item anterior serão, preferencialmente, encaminhados para o endereço do Serviço de Suporte a Clientes da Secretaria de Tecnologia da Informação (Setec/Sesuc) ou entregues em uma unidade do Tribunal;
+
+
+a) somente será aceita no TCU procuração mediante instrumento particular com firma reconhecida do outorgante ou por instrumento público, salvo se o instrumento de mandato for conferido a advogado, caso em que deverá ser juntada à procuração cópia do documento de identidade funcional do outorgado.
+
+
+b) a entrega da procuração realizada pelo próprio signatário dispensa o reconhecimento de firma, cabendo ao servidor responsável pelo recebimento, após o cotejo dos dados do signatário com os documentos de identificação apresentados, fazer o registro no próprio documento de procuração de que a entrega foi realizada pessoalmente pelo signatário e nele apor a sua assinatura e matrícula.
+
+
+c) nos casos em que o outorgante da procuração for representante legal de pessoa jurídica, será exigida cópia da documentação que comprove a relação entre o signatário da procuração e a pessoa jurídica.
+
+
+d) o prazo para recebimento da procuração e do respectivo termo de encaminhamento no TCU é de 15 dias corridos, contados da data da solicitação no Portal TCU.
+
+
+VIII - a unidade que receber a procuração ou o Sesuc providenciará a digitalização do documento. O arquivo digitalizado correspondente será armazenado no sistema e o documento em papel será encaminhado à unidade detentora para ser juntado aos autos;
+
+
+IX - concluída a digitalização, um aviso da existência da solicitação será enviado à unidade interessada por meio de mensagem eletrônica;
+
+
+X - a solicitação de habilitação de procurador será disponibilizada à unidade interessada que poderá acessá-la por meio do filtro "Solicitações eletrônicas pendentes", localizado na Mesa de Trabalho do Portal TCU;
+
+
+a) caso a unidade detentora necessite habilitar o procurador e não seja a unidade interessada do processo, poderá requisitar a solicitação, informando o número correspondente no filtro "Solicitações eletrônicas pendentes", localizado na Mesa de Trabalho do Portal TCU;
+
+
+b) a operação poderá ser realizada por servidor com perfil "Autorizador" no sistema.
+
+
+XI - o autorizador, após analisar a procuração, procederá à habilitação do(s) procurador(es) nos autos;
+
+
+XII - após a habilitação do(s) procurador(es), o arquivo digitalizado da procuração será inserido automaticamente como peça no processo;
+
+
+XIII - a procuração deverá ser juntada aos autos, bem como o substabelecimento, quando houver; e
+
+
+XIV - o Tribunal comunicará ao usuário o resultado da análise da solicitação por meio de mensagem para o endereço eletrônico informado no ato do cadastramento no Portal TCU.
+
+
+
+ANEXO III À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+Procedimentos para renúncia ou revogação de procurador
+
+
+
+(NR)(Portaria – Segecex nº 5, de 04/03/2010, BTCU nº 9/2010)
+
+
+
+I - a comunicação de renúncia ou de revogação deverá ser encaminhada ou entregue em uma unidade do Tribunal;
+
+
+a) a validação do pedido de renúncia ou de revogação observará os procedimentos estabelecidos para habilitação de procurador estabelecidos no item I, alíneas "a" e "b" do anexo I desta Portaria.
+
+
+II - a unidade que receber a comunicação de renúncia ou de revogação providenciará a digitalização do documento, após a sua análise;
+
+
+a) quando a unidade que receber a comunicação não for a unidade detentora do processo, o documento e o correspondente arquivo digitalizado serão encaminhados à unidade detentora.
+
+
+III - a unidade detentora registrará os dados da renúncia ou da revogação do procurador no(s) processo(s) indicado(s), na aba "Procuradores" do processo, por meio da Mesa de Trabalho do Portal TCU;
+
+
+a) a operação será realizada por servidor com perfil de atualização do sistema Processus.
+
+
+IV - concluída a inclusão dos dados da renúncia ou da revogação, o documento digitalizado será inserido automaticamente como peça no processo; e
+
+
+V - o documento de renúncia ou de revogação deverá ser juntado aos autos.
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre procedimentos relativos à habilitação de procuradores nos autos de controle externo, inclusive quando solicitada por meio do Portal TCU.
+
+ANEXO I À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+
+
+Procedimentos para habilitação de procurador quando solicitada presencialmente no TCU
+
+
+I - o requerente entregará a procuração e o substabelecimento, quando houver, em qualquer unidade do Tribunal;
+
+
+a) somente será aceita no TCU procuração mediante instrumento particular com firma reconhecida do outorgante ou por instrumento público;
+
+
+b) a entrega da procuração realizada pelo próprio signatário dispensa o reconhecimento de firma.
+
+
+II - a unidade que receber a procuração providenciará a digitalização do documento, após a sua análise;
+
+
+a) quando a unidade que receber a procuração não for a unidade detentora do processo, o documento e o correspondente arquivo digitalizado serão encaminhados à unidade detentora.
+
+
+III - a unidade detentora registrará os dados da procuração no(s) processo(s) indicado(s), na aba "Procuradores" da Mesa de Trabalho do Portal TCU;
+
+
+a) a operação será realizada por servidor com perfil de atualização do sistema Processus.
+
+
+IV - concluída a inclusão dos dados da procuração, o documento digitalizado será inserido automaticamente como peça no processo; e
+
+
+V - a procuração deverá ser juntada aos autos, bem como o substabelecimento, quando houver.
+
+
+
+ANEXO II À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+Procedimentos para habilitação de procurador quando solicitada por meio do Portal TCU
+
+
+I - o usuário efetuará o cadastramento preliminar no menu "Cadastre-se" do Portal TCU, no qual informará os dados pessoais (número de CPF, nome completo, endereço eletrônico, telefone) e a senha para acesso;
+
+
+II - após ter efetuado o cadastramento preliminar no Portal TCU, o usuário se identificará no "Acesso Restrito", localizado na coluna à direita do Portal, utilizando o login e a senha cadastrados;
+
+
+III - no painel de Pesquisa do Portal, o usuário selecionará a opção "Procuração", onde acessará o sistema disponibilizado para encaminhamento de procuração;
+
+
+IV - na opção "Encaminhar procuração" do menu "Processos" do sistema, o usuário informará o número de inscrição do CPF do responsável (outorgante), os números dos processos em que o procurador irá atuar, os números de inscrição do CPF e os nomes dos procuradores (outorgados), inclusive os dos substabelecidos;
+
+
+a) os processos informados devem ser relativos à mesma unidade interessada do TCU. Para inclusão de processos de unidades interessadas distintas devem ser registradas tantas solicitações quanto forem necessárias.
+
+
+V - será informado ao usuário, para fins de acompanhamento, o número da solicitação de encaminhamento da procuração;
+
+
+VI - o usuário deverá imprimir o termo de encaminhamento da procuração, disponibilizado pelo sistema após informar os dados relacionados no item IV deste Anexo, e enviar ao Tribunal juntamente com a procuração e o substabelecimento, quando houver;
+
+
+VII - os documentos a que se refere o item anterior serão, preferencialmente, encaminhados para o endereço do Serviço de Suporte a Clientes da Secretaria de Tecnologia da Informação (Setec/Sesuc) ou entregues em uma unidade do Tribunal;
+
+
+a) somente será aceita no TCU procuração mediante instrumento particular com firma reconhecida do outorgante ou por instrumento público;
+
+
+b) a entrega da procuração realizada pelo próprio signatário dispensa o reconhecimento de firma;
+
+
+c) o prazo para recebimento da procuração e do respectivo termo de encaminhamento no TCU é de 15 dias corridos, contados da data da solicitação no Portal TCU.
+
+
+VIII - a unidade que receber a procuração ou o Sesuc providenciará a digitalização do documento. O arquivo digitalizado correspondente será armazenado no sistema e o documento em papel será encaminhado à unidade detentora para ser juntado aos autos;
+
+
+IX - concluída a digitalização, um aviso da existência da solicitação será enviado à unidade interessada por meio de mensagem eletrônica;
+
+
+X - a solicitação de habilitação de procurador será disponibilizada à unidade interessada que poderá acessá-la por meio do filtro "Solicitações eletrônicas pendentes", localizado na Mesa de Trabalho do Portal TCU;
+
+
+a) caso a unidade detentora necessite habilitar o procurador e não seja a unidade interessada do processo, poderá requisitar a solicitação, informando o número correspondente no filtro "Solicitações eletrônicas pendentes", localizado na Mesa de Trabalho do Portal TCU;
+
+
+b) a operação poderá ser realizada por servidor com perfil "Autorizador" no sistema.
+
+
+XI - o autorizador, após analisar a procuração, procederá à habilitação do(s) procurador(es) nos autos;
+
+
+XII - após a habilitação do(s) procurador(es), o arquivo digitalizado da procuração será inserido automaticamente como peça no processo;
+
+
+XIII - a procuração deverá ser juntada aos autos, bem como o substabelecimento, quando houver; e
+
+
+XIV - o Tribunal comunicará ao usuário o resultado da análise da solicitação por meio de mensagem para o endereço eletrônico informado no ato do cadastramento no Portal TCU.
+
+
+
+ANEXO III À PORTARIA-TCU Nº 305, DE 30 DE SETEMBRO DE 2009
+
+
+Procedimentos para renúncia ou revogação de procurador
+
+
+I - a comunicação de renúncia ou de revogação deverá ser encaminhada ou entregue em uma unidade do Tribunal;
+
+
+a) somente será aceita no TCU pedido de renúncia ou de revogação com firma reconhecida do requerente;
+
+
+b) a apresentação de documento de identidade do requerente ou a entrega do requerimento realizada pelo próprio signatário dispensa o reconhecimento de firma.
+
+
+II - a unidade que receber a comunicação de renúncia ou de revogação providenciará a digitalização do documento, após a sua análise;
+
+
+a) quando a unidade que receber a comunicação não for a unidade detentora do processo, o documento e o correspondente arquivo digitalizado serão encaminhados à unidade detentora.
+
+
+III - a unidade detentora registrará os dados da renúncia ou da revogação do procurador no(s) processo(s) indicado(s), na aba "Procuradores" do processo, por meio da Mesa de Trabalho do Portal TCU;
+
+
+a) a operação será realizada por servidor com perfil de atualização do sistema Processus.
+
+
+IV - concluída a inclusão dos dados da renúncia ou da revogação, o documento digitalizado será inserido automaticamente como peça no processo; e
+
+
+V - o documento de renúncia ou de revogação deverá ser juntado aos autos.
+
+
+

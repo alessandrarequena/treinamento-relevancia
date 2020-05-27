@@ -1,0 +1,1055 @@
+Portaria
+142/2003
+
+
+"Mapa de Processos"
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL  DE CONTAS DA UNIÃO, no exercício de suas competências legais e regimentais, resolve:
+
+
+
+Art. 1º. Fica aprovada a nova versão da Técnica de Auditoria "Mapa de Processos", com vistas a subsidiar a atuação dos servidores deste Tribunal em trabalhos de auditoria de natureza operacional. 
+
+
+
+Art. 2º. A Secretaria de Fiscalização e Avaliação de Programas de Governo – SEPROG manterá atualizada a Técnica aprovada por esta Portaria, cabendo-lhe, ainda, o esclarecimento de dúvidas e o recebimento de sugestões para o seu aperfeiçoamento. 
+
+
+
+
+
+Art. 3º. Esta Portaria entra em vigor na data de sua publicação, revogando-se a Portaria- SEGECEX n.º 24, de 30/06/2000.
+
+
+
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a nova versão da Técnica de Auditoria
+
+ANEXO ÚNICO
+
+APRESENTAÇÃO
+
+
+	Este documento técnico é produto das atividades desenvolvidas no âmbito do Acordo de Cooperação Técnica TCU-Reino Unido. A Secretaria de Fiscalização e Avaliação de Programas de Governo – Seprog contou com a colaboração dos analistas participantes do Projeto e de outras Secretarias do Tribunal. 
+
+
+
+
+
+	A Técnica apresentada neste documento foi testada com sucesso durante as auditorias-piloto realizadas pelo TCU e complementa informações contidas no Manual de Auditoria de Natureza Operacional.
+
+
+
+	Na primeira parte é feita uma breve discussão sobre mapa de processo, suas características básicas e sua utilização na identificação de oportunidades de melhoria de desempenho. Em seguida, é apresentada a técnica de mapeamento de processo, a forma de elaboração do mapa e sua aplicação nas auditorias de desempenho. O material, ilustrado com exemplo aplicado em trabalho realizado, procura contribuir para a rápida absorção da técnica e para a disseminação de sua aplicação nos trabalhos de auditoria de natureza operacional deste Tribunal.
+
+
+
+
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+Sumário
+
+
+
+
+
+1.	Introdução	1
+
+
+2.	Aplicação do mapa de processo	1
+
+
+3.	Características	1
+
+
+4.	Elaboração	5
+
+
+5.     Utilização do mapa de processo nas auditorias de natureza operacional	7
+
+
+6.     Referências	9
+
+
+
+
+LISTA DE FIGURAS E EXEMPLOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. 
+Introdução
+
+
+
+O mapa de processo é a representação de um processo de trabalho por meio de um diagrama contendo a seqüência dos passos necessários à consecução de determinada atividade. Para clareza de exposição, faz-se necessário dizer em que sentido utilizamos o termo processo:
+
+
+
+· PROCESSO é a maneira pela qual se realiza uma operação.
+
+
+
+
+
+
+	Assim, pode ser descrita como exemplo de processo a seqüência de tarefas e ações necessárias à aprovação de um pedido de financiamento imobiliário, à aquisição de medicamentos para o Programa de Combate à Tuberculose ou à análise das prestações de contas de convênios firmados pelo Ministério da Educação.
+
+
+
+
+
+
+
+
+
+2. 
+Aplicação do mapa de processo
+
+
+
+A técnica de mapeamento de processo fornece uma representação gráfica das operações sob análise, evidenciando a seqüência de atividades, os agentes envolvidos, os prazos e o fluxo de documentos em uma organização ou área. Isso permite à equipe de auditoria, em conjunto com gerentes e técnicos envolvidos, identificar mais facilmente oportunidades para a racionalização e o aperfeiçoamento dos processos de trabalho em uma organização. 
+
+
+
+
+
+O mapa de processo também é útil para identificar pontos fortes do processo que podem ser reproduzidos ou adaptados a outros processos de uma mesma organização ou de organizações diferentes, como meio de disseminar boas práticas.
+
+
+
+
+
+Os mapas de processo podem representar diversas situações:
+
+
+
+· como o processo deve ser realizado, de acordo com as normas e procedimentos internos, caso estes estejam documentados; 
+
+
+· como o processo está sendo realizado;
+
+
+· qual a forma recomendada de realizar o processo. 
+
+
+
+Note-se que, mesmo que o processo analisado esteja regulamentado por norma interna específica, a equipe de auditoria poderia propor alterações visando ao seu aperfeiçoamento, caso considere adequado. Não devemos esquecer que um dos impactos positivos do trabalho de auditoria de natureza operacional é o aperfeiçoamento de normas e procedimentos do objeto auditado.  
+
+
+
+
+
+
+
+
+
+
+3. 
+Características 
+
+
+
+	O diagrama do mapa de processo pode ter diversos graus de detalhamento, segundo o propósito para o qual é elaborado. Em geral, as informações essenciais são: 
+
+
+
+
+
+· descrição das atividades;
+
+
+· pontos de tomada de decisão;
+
+
+· movimentos de informação e de documentos;
+
+
+· pontos de controle;
+
+
+· prazos;
+
+
+· documentos e relações entre as diversas etapas do processo.
+
+
+
+	Dependendo do escopo do trabalho de auditoria, o mapa de processo pode apresentar, ainda, relativamente a cada tarefa ou atividade, informações detalhadas sobre:
+
+
+ 
+
+
+· custo;
+
+
+· tempo de execução;
+
+
+· tempo decorrido entre uma e outra;
+
+
+· superposição; 
+
+
+· volume e freqüência das transações;
+
+
+· força de trabalho necessária (homem/hora);
+
+
+· habilidades necessárias para execução;
+
+
+· opinião dos clientes / usuários;
+
+
+· impacto tecnológico;
+
+
+· impacto de mudanças em outros departamentos;
+
+
+· limitações externas (por exemplo, limitações orçamentárias).
+
+
+
+
+
+	No mapa de processo, as setas indicam o fluxo da operação, sua seqüência. As caixas são utilizadas para descrever as ações necessárias para que seja completada a operação. Pode-se dizer que as caixas à esquerda, ou no início do processo, representam condições para que sejam desenvolvidas as ações à direita, ou que se encontram mais à frente no fluxo.
+
+
+
+
+
+	As principais características de um mapa de processo são apresentadas na figura 1 a seguir:
+
+
+
+
+
+
+
+
+
+· descreve uma operação passo a passo.
+
+
+· é um método visual-interativo, que favorece o trabalho em grupo e a participação do auditado.
+
+
+· pode incluir informação sobre quantidade, qualidade e prazos. 
+
+
+
+
+
+IMPORTANTE: Mapas de processo e de produto não se confundem, conforme demonstrado na figura 2 abaixo:
+
+
+
+
+
+
+
+
+
+
+
+
+· Mapa de processo apresenta graficamente uma série de atividades interligadas que dão origem a determinados produtos.
+
+
+· Mapa de produtos, por sua vez, apresenta graficamente os produtos gerados por aquelas atividades. Nos mapas de produtos, os processos estão representados pelas setas. 
+
+
+· Processos e atividades mudam com o passar do tempo, enquanto os produtos, se identificados adequadamente, devem permanecer os mesmos, independentemente das atividades realizadas para obtê-los.
+
+
+· Eenfoque nos produtos procura comparar o desempenho de diferentes alternativas (processos) para obter os mesmos produtos. 
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Exemplo 1 - Aquisição de Medicamentos para o Programa de Combate à Tuberculose
+Obter dos Laboratórios preços/capacidades
+Controlar programa de entrega
+Efetuar pagamento
+Remeter PC para avaliação financeira
+Elaborar parecer cumprimento convênio
+Acompanhar
+armazenagem
+Coordenar estoque/
+remanejamento
+Liberar 1ª parcela de recursos
+Elaborar parecer sobre o processo
+Elaborar pauta de distribuição
+Abrir processo de aquisição
+Firmar convênios
+Laboratório oficial
+Elaborar parecer sobre o processo
+Realizar licitação
+laboratório privado
+Coordenar ajustes de estoques
+Consolidar Mapas
+Adequar pedidos dos Estados
+Controlar estoques dos Estados
+Definir programação de entrega
+Pedido
+Correto?
+Analisar pedidos Coordenação PCT
+Receber solicitação dos Estados
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+LEGENDA:
+     SPS
+     DPE/COPMED
+     SAA
+     CONS.JURÍDICA
+     CISET/MS
+     DPE/CODAMED
+N
+S
+Tem orçamento?
+S
+N
+Redução 
+de prazos 
+Ausência de formulário padronizado
+Criação sistema informatizado
+Enviar carta consulta aos laboratórios
+Redução
+de 75% de formulários com erros 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exemplo 2 - Processo de Cobrança de Débitos no IBAMA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+
+
+
+
+
+4. 
+Elaboração 
+
+
+
+O mapa de processo deve ser elaborado preferencialmente com a participação das pessoas da área ou instituição auditada, pois são elas quem melhor conhecem as atividades desempenhadas, os produtos resultantes, os objetivos e a missão da instituição. Essa participação contribui para a elaboração de um mapa de processo que tende a refletir a realidade da instituição.
+
+
+
+A elaboração do mapa de processo é realizada por meio de oficina[footnoteRef:2], envolvendo o pessoal da instituição auditada que, sob a orientação da equipe de auditoria, vai montando, passo a passo, o mapa de processo. Os passos a serem seguidos, basicamente, são os seguintes:  [2:  Reunião destinada à troca de idéias e de conhecimento prático sobre um assunto. ] 
+
+
+
+
+1º passo. Definir claramente o processo que se quer representar. Com base em entrevistas e na documentação disponível, os auditores devem elaborar uma versão preliminar para servir de base para seu raciocínio. Não se utiliza a versão preliminar para guiar a oficina, pois as opiniões dos participantes tendem a refletir "o que deveria ser" e não a realidade.
+
+
+2º passo. Utilizar a técnica de brainstorm, incentivando os participantes da oficina a identificar as atividades do processo e sua seqüência. As idéias surgidas podem ser anotadas em etiquetas autocolantes.
+
+
+3º passo. Identificar a tarefa inicial. Colar a etiqueta que descreve a tarefa inicial em uma grande folha de papel pardo, ou semelhante, fixada na parede da sala em local visível a todos. A folha de papel pardo poderá ser recolhida ao fim da oficina para que o mapa seja transcrito adequadamente, utilizando-se software apropriado.
+
+
+4º passo. Verificar quais atividades – A, B, C etc.– são executadas obedecendo a uma seqüência lógica a partir da tarefa inicial. Colar as etiquetas descrevendo essas atividades segundo a seqüência identificada. 
+
+
+5º passo. Prosseguir dessa maneira até completar todo o ciclo de atividades do processo.
+
+
+6º passo. Utilizar linhas e setas interligando as etiquetas com a descrição das atividades para mostrar de que forma estão relacionadas.
+
+
+7º passo. Desenhar o mapa, utilizando um software apropriado, habitualmente disponível em pacotes para escritório, distribuindo-o entre os participantes e solicitando suas opiniões.
+
+
+8º passo. Utilizar as opiniões dos participantes para aperfeiçoar o mapa e elaborar a versão final.
+
+Recomendações:
+
+
+
+· Usar bloco de notas autocolantes para facilitar a montagem do mapa, pois permite que se rearranjem as ações até se obter uma seqüência adequada.
+
+
+· Escrever as atividades a serem executadas em setores diferentes com cores distintas.
+
+
+· Obter a efetiva participação dos auditados, pois ela é essencial. O papel do auditor na oficina deve ser o de facilitador, incentivando os participantes a elaborarem eles próprios o mapa de processo.
+
+
+· Controlar o tempo, preparando-se para, constantemente, ampliar ou alterar o mapa. As discussões acerca de "como o processo está sendo realizado" e de "como é o processo de acordo com as normas" podem se tornar acaloradas e se prolongar demais.
+
+
+· Anexar ao mapa exemplos de documentos utilizados.
+
+
+· Quantificar as informações, sempre que possível. Por exemplo: volume de cartas datilografadas, tempo de execução de uma tarefa, quantidade de servidores envolvidos, etc.
+
+
+· Procurar obter do pessoal envolvido o máximo de informações sobre as atividades.
+
+
+
+A figura 3, a seguir, apresenta algumas notações usualmente utilizadas em mapas de processo:
+
+
+
+
+
+
+
+Retângulo: Indica atividade executada	Losango: Indica um ponto de tomada de decisão
+
+
+
+Utilizar 5 palavras no máximo. 
+
+
+Começar com verbo de ação.
+
+
+
+
+
+P
+edido 
+correto?
+Remeter Prestação de Contas 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bandeira: Indica oportunidades de melhoria:	Balão ou nuvem: Atenção, comentários ou explicações:	
+
+
+
+Quantificar sempre que possível.
+
+
+
+
+Redução de 75% dos formulários com erros de preenchimento
+
+
+
+Ausência de formulário padronizado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obs.: na página www.openoffice.org.br está disponível, para uso livre, o software openoffice.org., 
+
+
+o qual possui o módulo openoffice.org DRAW que facilita a elaboração do mapa de processo.
+
+
+
+
+ 
+5. Utilização do mapa de processo nas auditorias de natureza operacional
+
+
+
+O emprego da técnica de mapa de processo é uma abordagem útil quando se deseja obter melhorias de desempenho da organização enfocando os processos de trabalho. 
+
+
+
+
+
+Exemplos de situações em que se recomenda o uso da técnica de mapa de processo:
+
+
+
+
+
+· os clientes (os cidadãos ou outras organizações públicas ou privadas) não estão recebendo os serviços com rapidez suficiente;
+
+
+· quando modos mais eficientes de prestação de serviço precisam ser desenvolvidos; ou
+
+
+· quando a seqüência das tarefas realizadas não é claramente entendida dentro da organização ou parece não estar funcionando bem.
+
+
+
+
+
+IMPORTANTE: Antes de optar por essa abordagem, leve em consideração que o exame detalhado de processos de trabalho pode tomar bastante tempo da equipe de auditoria e dos funcionários da organização e, portanto, é caro. Avalie se o ganho esperado com a implantação das possíveis recomendações justifica o investimento.
+
+
+
+
+
+A identificação de oportunidades de melhoria de desempenho é essencial ao sucesso da auditoria. É importante identificar, por exemplo:
+
+
+
+· pontos onde o trabalho sofre atrasos ou onde os documentos são extraviados – "buracos negros";
+
+
+· ocasiões nas quais as pessoas ficam aguardando documentos, procurando o que fazer ou corrigindo erros – tempo perdido;
+
+
+· insuficiente interação entre atividades ou falhas de comunicação;
+
+
+· múltiplas instâncias de aprovação;
+
+
+· duplicidade de tarefas;
+
+
+· áreas onde as metas fixadas não são atingidas;
+
+
+· processos que apresentam oportunidades de redução de custo;
+
+
+· atividades que apresentam alto índice de falhas/erros.
+
+
+
+
+
+
+
+
+
+
+
+Em uma auditoria, as técnicas de análise disponíveis são utilizadas complementarmente para que sejam respondidas as perguntas de auditoria. Uma seqüência típica de atividades a serem desenvolvidas pela equipe pode ser a seguinte:
+
+
+
+
+
+1) preparar o mapa de produto para identificar os indicadores de desempenho relevantes;
+
+
+2) preparar o mapa de processo relativo ao produto-chave com base nas normas e procedimentos internos, caso existam;
+
+
+3) conduzir entrevistas com o pessoal do órgão auditado para identificar os pontos fortes e as principais fragilidades nesse processo;
+
+
+4) preparar o mapa de processo da situação atual – como está sendo realizado – com a  colaboração do pessoal do órgão auditado;
+
+
+5) discutir o mapa com os gestores do órgão auditado;
+
+
+6) identificar oportunidades para melhoria de desempenho e elaborar novo mapa de processo com proposta alternativa de execução, sem se deixar influenciar pela forma como o processo está sendo desenvolvido; 
+
+
+7) apresentar o novo mapa de processo para críticas e comentários dos gestores do órgão auditado; 
+
+
+8) elaborar o mapa de processo definitivo – indicando a forma recomendada de realizá-lo –  que representa a proposta de equipe.
+
+
+Se a equipe chegar à conclusão de que mudanças no processo de trabalho são necessárias, então poderá ser preciso:
+
+
+
+
+
+· apresentar um plano de mudança, prevendo-se os arranjos a ser realizados;
+
+
+· avaliar o custo das alterações a ser realizadas;
+
+
+· obter o comprometimento dos gerentes e dos funcionários com a mudança, convencendo-os de que a implantação das recomendações produzirá a melhoria de desempenho da organização;
+
+
+· elaborar sistemática para avaliar os resultados produzidos pelo novo processo.
+
+
+
+
+IMPORTANTE: Lembre-se de que poderá ser necessário muito tempo para modificar um processo de trabalho. 
+
+
+
+
+
+
+
+
+
+
+
+6. Referências
+
+
+
+KPMG. Desenvolvimento de Técnicas de Auditoria Operacional I. (Notas de Aula). Julho 1998.
+
+
+
+NATIONAL Audit Office. Are we being served? – A value for money guide. Spring 1999.
+
+
+
+
+
+
+BTCU ESPECIAL nº 12, de 30 de junho de 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLHA DE SUGESTÕES
+
+
+
+O TCU preocupa-se com o constante aperfeiçoamento da qualidade de seus manuais e orientações, buscando, para isso, ouvir a valiosa opinião do público-alvo dos referidos trabalhos.
+
+
+
+O questionário a seguir refere-se especificamente à TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS, revisado em maio de 2003. Será muito útil para o TCU se o leitor deste manual puder dispor de alguns minutos para responder as perguntas constantes no referido questionário e enviá-lo pelos Correios (não é preciso selar, pois o porte será pago pelo TCU).
+
+
+
+Sugestões sobre este manual também podem ser enviadas das seguintes formas:
+
+
+
+E-mail: seprog@tcu.gov.br
+
+
+Fax: (061) 316-7896
+
+
+Fone: (061) 316-7313
+
+
+Endereço: Tribunal de Contas da União - TCU
+
+
+Segecex/Seprog
+
+
+Setor de Administração Federal Sul – Quadra 4 - Lote 01
+
+
+Brasília - DF
+
+
+CEP: 70042-900
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+Secretaria de Fiscalização e Avaliação de Programas de Governo – Seprog
+
+ 
+
+QUESTIONÁRIO  DE  AVALIAÇÃO
+
+
+
+FINALIDADE
+
+Este questionário de avaliação tem por objetivo obter a opinião dos leitores sobre a TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS, com vistas ao seu aperfeiçoamento.
+
+
+
+Por favor, responda às questões abaixo assinalando com um “X” a alternativa mais adequada. Desde já agradecemos a sua colaboração.
+
+
+
+1. Em que esfera do governo você trabalha?
+
+ Federal
+
+ Estadual ou DF
+
+ Municipal
+
+2. Em que órgão você trabalha?
+
+ Poder Legislativo
+
+ Poder Executivo
+
+ Poder Judiciário
+
+ Controle Interno
+
+ Outro [especificar] ________________
+
+3. Que partes da TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS você leu?
+
+
+
+
+
+
+
+
+ Todo
+
+ Capítulo I [todo ou parte]
+
+ Capítulo II [todo ou parte]
+
+4. Leia com atenção cada indicador e escolha o ponto da escala que melhor descreve a sua opinião sobre a TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS. Marque com um “X” a opção que melhor representa o seu julgamento.
+
+ 
+
+              Concorda integralmente Concorda Indiferente Discorda Discorda integralmente
+
+ 5 4 3 2 1
+
+ 
+
+ 
+
+ O manual é: 5 4 3 2 1
+
+ Fácil de ser lido     
+
+ Fácil de ser entendido     
+
+ Lógico     
+
+ Sucinto     
+
+ Completo     
+
+ Útil     
+
+5. Como você tomou conhecimento da TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS? 
+
+
+
+ Quando recebeu
+
+ Divulgação interna do TCU
+
+ Por mensagem do SIAFI
+
+ Pela Internet
+
+ Pela imprensa
+
+ Outros [especificar] _______________________
+
+6. Como você obteve a TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS?
+
+ Solicitou diretamente ao TCU
+
+ Download pela Internet
+
+ Outros [especificar] ________________
+
+7. Apresente, a seguir, comentários e sugestões para o aprimoramento da qualidade da TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS. No caso de sugestões para alteração/supressão/aditamento de itens de verificação, favor preencher o quadro anexo.
+
+ 
+
+
+
+
+
+Tribunal de Contas da União
+
+Secretaria de Fiscalização e Avaliação de Programas de Governo - Seprog 
+
+ 
+
+QUADRO  DE  SUGESTÕES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PTR/BSB 880/92
+
+
+UP-AC/TCU
+
+
+DR/BSB
+
+
+
+
+
+
+
+
+CARTA - RESPOSTA
+
+
+NÃO É NECESSÁRIO SELAR
+
+
+
+O SELO SERÁ PAGO POR
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+70099-999	BRASÍLIA-DF
+
+
+
+
+UNIDADES DA SECRETARIA DO TRIBUNAL DE CONTAS DA UNIÃO
+
+
+FINALIDADE
+
+Este quadro de sugestões tem por objetivo obter a opinião dos leitores sobre a TÉCNICA DE AUDITORIA - MAPA DE PROCESSOS, com vistas ao seu aperfeiçoamento.
+
+
+
+
+
+
+
+

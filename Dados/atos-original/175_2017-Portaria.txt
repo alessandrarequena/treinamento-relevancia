@@ -1,0 +1,461 @@
+Portaria
+175/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+Considerando que a Secretaria de Auditoria Interna deve buscar a adoção de padrões internacionais na condução de suas atividades, nos termos do artigo 72, inciso V, da Resolução TCU nº 284/2016;
+
+
+Considerando a necessidade de adaptar as regras de expedição de diligências e propostas de determinações (Portaria TCU nº 257/2010) e os padrões de auditoria de conformidade adotados pela Seaud (Portaria TCU nº 146/2011) às normas internacionais de auditoria interna;
+
+
+Considerando a Estrutura Internacional de Práticas Profissionais (International Professional Practices Framework – IPPF) do Instituto dos Auditores Internos (The Institute of Internal Auditors – IIA) e a Estrutura Integrada de Controles Internos COSO (Committe of Sponsoring Organizations of the Treadway Comission);
+
+
+Considerando as informações constantes do TC 009.001/2016-6, resolve:
+
+
+Art. 1º  Ficam aprovados, na forma do Anexo desta Portaria, os Padrões de Auditoria da Secretaria de Auditoria Interna (Seaud) do Tribunal de Contas da União.
+
+
+Art. 2º  É obrigatória a utilização dos padrões aprovados por esta portaria nos trabalhos de auditoria interna da Seaud.
+
+
+Art. 3º  Ficam revogadas as Portarias TCU nº 257/2010 e nº 146/2011.
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+RAIMUNDO CARREIRO
+
+
+
+Wagner Martins de Morais
+
+
+Secretário de Auditoria Interna
+
+
+
+
+
+
+ANEXO DA PORTARIA-TCU Nº 175, DE 23 DE MARÇO DE 2017.
+
+
+
+
+
+O objetivo deste documento é definir os Padrões de Auditoria da Secretaria de Auditoria Interna do Tribunal de Contas da União, com base em uma metodologia baseada em risco.
+
+
+
+
+
+I – Padrões Gerais
+
+
+
+
+
+1.  Os trabalhos de auditoria interna da Secretaria de Auditoria Interna (Seaud) devem obedecer aos padrões estabelecidos neste documento.
+
+
+2.  A designação da equipe de auditoria é feita mediante portaria com os seguintes elementos:
+
+
+2.1  Deliberação da Presidência que originou a auditoria;
+
+
+2.2  Descrição da auditoria conforme o Plano Anual de Auditoria Interna;
+
+
+2.3  dentificação do supervisor, coordenador e demais membros da equipe;
+
+
+2.4  Período de planejamento e, quando definidos, períodos de execução e elaboração do relatório;
+
+
+2.5  Caso necessário, período de levantamento.
+
+
+3.  Os trabalhos de auditoria interna devem ser executados com proficiência e zelo profissional.
+
+
+3.1  A equipe de auditoria deve possuir coletivamente o conhecimento, as habilidades e outras competências necessárias ao desempenho de suas responsabilidades.
+
+
+3.2  Os auditores internos devem empregar o zelo e habilidades esperados de um auditor interno razoavelmente prudente e competente.
+
+
+3.3  A Seaud pode requisitar especialistas de outras unidades da Secretaria do TCU para dar suporte em áreas nas quais a atividade de auditoria interna não detém proficiência.
+
+
+4.  O secretário da Seaud deve designar um supervisor para cada trabalho de auditoria interna com vistas a assegurar que os objetivos sejam alcançados e que a qualidade seja assegurada.
+
+
+5.  O supervisor tem as funções de orientação, acompanhamento e controle com o propósito de fornecer instruções apropriadas para assegurar o cumprimento dos objetivos e a qualidade dos trabalhos de auditoria interna.
+
+
+6.  O coordenador deve representar a equipe de auditoria junto ao responsável pela atividade auditada, providenciar a solicitação de informações e documentos e coordenar as atribuições de trabalho entre os membros da equipe.
+
+
+7.  A Seaud encaminhará, com a antecedência necessária, memorando de apresentação da equipe de auditoria contendo as informações da portaria de designação.
+
+
+7.1  O memorando de apresentação pode solicitar ambiente reservado para a equipe e designação de um servidor para contato.
+
+
+8.  A solicitação de informações e documentos em todas as fases da auditoria deve ser realizada preferencialmente por meio de comunicação eletrônica, com prazo razoável para seu atendimento, o qual pode ser fixado em comum acordo com o responsável pela atividade auditada.
+
+
+8.1  No caso de não atendimento no prazo fixado, deve ser formalizada reiteração por meio de memorando da Seaud, com o alerta de que a falta de resposta constará como observação no relatório de auditoria.
+
+
+
+
+
+II – Levantamento
+
+
+
+
+
+9.  Caso necessário, a equipe de auditoria pode realizar um levantamento para conhecer a atividade auditada, seus riscos e controles, com o objetivo de identificar as áreas de ênfase do trabalho de auditoria interna.
+
+
+9.1  O levantamento da atividade auditada é feito por meio de interação com a administração, os responsáveis pela governança e outras partes interessadas e deve considerar os normativos e procedimentos aplicáveis.
+
+
+9.2  O conhecimento adquirido no levantamento pode ser consolidado por meio de um mapa de processos ou fluxograma.
+
+
+
+
+
+III – Planejamento
+
+
+
+
+
+10.  Um planejamento baseado em risco deve ser elaborado para cada trabalho de auditoria interna, incluindo os objetivos, o escopo, o prazo e a alocação de recursos de trabalho, considerando os seguintes aspectos:
+
+
+10.1  Os objetivos da atividade que está sendo auditada e os meios pelos quais o desempenho é controlado; 
+
+
+10.2  Os riscos significativos para a atividade e os controles estabelecidos para manter o impacto potencial em um nível aceitável; 
+
+
+10.3  A adequação e a eficácia dos processos de governança, gerenciamento de riscos e controles da atividade em comparação com uma estrutura de controles internos relevante;
+
+
+10.4  As oportunidades para se fazer melhorias significativas nos processos de governança, gerenciamento de riscos e controles da atividade.
+
+
+11.  A equipe de auditoria deve realizar uma avaliação preliminar dos riscos significativos para a atividade auditada, para identificar os controles estabelecidos como resposta para manter o impacto potencial em um nível aceitável.
+
+
+11.1  A avaliação preliminar dos riscos significativos pode ser representada em uma matriz contendo a relação dos objetivos da atividade, riscos, controles e nível de risco residual.
+
+
+12.  Os objetivos do trabalho de auditoria interna devem ser consistentes com os riscos identificados no Plano Anual de Auditoria Interna ou na avaliação preliminar.
+
+
+12.1  Para auditorias não planejadas e determinadas pela Presidência após aprovação do Plano Anual de Auditoria Interna, os objetivos devem ser definidos antes do início do trabalho, sendo projetados para tratar do risco específico que gerou a determinação.
+
+
+13.  O escopo do trabalho de auditoria interna deve ser suficiente para alcançar os objetivos estabelecidos e pode incluir sistemas, registros, pessoal e propriedades físicas relevantes.
+
+
+14.  A alocação de recursos deve ser apropriada e suficiente para cumprir os objetivos do trabalho de auditoria interna, baseada em uma avaliação da natureza e da complexidade de cada trabalho, das restrições de tempo e dos recursos disponíveis.
+
+
+15.  O planejamento deve ser desenvolvido e documentado em um programa de trabalho de auditoria interna, o qual deve ser aprovado pelo supervisor antes de sua execução.
+
+
+15.1  O programa de trabalho de auditoria interna deve descrever os procedimentos para identificar, analisar, avaliar e documentar as informações durante a execução.
+
+
+15.2  O programa de trabalho de auditoria interna pode ser elaborado em forma de matriz de planejamento.
+
+
+15.3 Em caso de trabalhos de auditoria relativos a atividades, riscos e controles similares, pode ser adotado um programa padrão de trabalho de auditoria interna expedido por meio de comunicação interna da Seaud.
+
+
+
+
+
+IV – Execução
+
+
+
+
+
+16.  A apresentação da equipe de auditoria ao responsável pela atividade auditada, ou representante por ele designado, deve ser feita por meio de reunião na qual são informados o objetivo e o escopo do trabalho.
+
+
+17.  A equipe de auditoria deve avaliar os seguintes aspectos da atividade auditada:
+
+
+17.1  Alcance dos objetivos da atividade auditada relacionados a operações, divulgação e/ou conformidade, de acordo com o objetivo do trabalho de auditoria interna;
+
+
+17.2  Adequação e eficácia dos controles estabelecidos para manter o impacto potencial dos riscos significativos em um nível aceitável.
+
+
+18.  Durante a fase de execução, os procedimentos previstos no programa de trabalho de auditoria interna são efetuados para identificar, analisar, avaliar e documentar as informações durante a execução e podem incluir:
+
+
+18.1  Mapeamento de processos: elaboração de fluxograma ilustrativo de um processo de trabalho, para decompô-lo em sua sequência de atividades;
+
+
+18.2  Inspeção in loco: verificação da existência de registros, documentos, processos, procedimentos e ativos tangíveis, podendo ser realizado por amostragem;
+
+
+18.3  Entrevista: formulação de perguntas escritas ou orais ao pessoal da unidade auditada ou a ela vinculado, para obtenção de dados e informações;
+
+
+18.4  Análise documental: verificação de processos e documentos que conduzam à formação de indícios e evidências;
+
+
+18.5  Questionário de controle interno: aplicação de perguntas escritas para a compreensão geral do sistema de controle interno;
+
+
+18.6  Exame de registros: verificação dos registros constantes de controles internos, para determinar a validade de operações;
+
+
+18.7  Conferência de cálculos: verificação e análise das memórias de cálculo que deram origem a registros, manuais ou informatizados; 
+
+
+18.8  Confirmação de terceiros: obtenção de informações relevantes com a finalidade de confrontar declarações de terceiros com os documentos constantes do escopo da auditoria;
+
+
+18.9  Rastreamento de transações: investigação do fluxo original dos dados, que permite o exame da integridade de registros em sistemas de informação;
+
+
+
+18.10  Procedimentos de revisão analítica: avaliação de informações por meio de comparações e análise de relacionamentos entre dados, buscando a identificação de situações ou tendências atípicas;
+
+
+18.11  Testes substantivos: obtenção de evidências quanto à suficiência, exatidão e validação dos dados produzidos pelos sistemas contábeis e administrativos da entidade.
+
+
+19.  A equipe de auditoria deve identificar informações suficientes, confiáveis, relevantes e úteis para cumprir os objetivos do trabalho de auditoria interna.
+
+
+20.  A equipe de auditoria deve analisar as informações para verificar a existência de fatos relevantes para o trabalho, mediante um processo de comparação entre a condição (situação existente) e um critério (situação correta).
+
+
+20.1  Os fatos relevantes para o trabalho são denominados observações (achados de auditoria) e podem ser desfavoráveis, quando demonstram uma discrepância no confronto entre a condição e o critério, ou favoráveis, quando apontam boas práticas de gestão.
+
+
+21.  O critério (situação correta) deve ser definido ainda na fase de planejamento e é essencial no desenvolvimento das observações.
+
+
+21.1  Para aspectos de conformidade, o critério pode ser oriundo de legislação, regulamentos, cláusulas contratuais, convênios e outros ajustes, jurisprudência e entendimento doutrinário.
+
+
+21.2  Para aspectos operacionais, o critério pode ser o indicador estratégico ou operacional que a gestão está utilizando para gerenciar os riscos relevantes para atingir seus objetivos ou um referencial aceito como benchmarking para a atividade auditada, como padrões e boas práticas.
+
+
+22.  A equipe de auditoria deve basear suas conclusões e resultados dos trabalhos de auditoria interna em análises e avaliações apropriadas e sustentadas por evidências.
+
+
+23.  Antes da comunicação dos resultados, o coordenador da equipe de auditoria pode realizar reunião de encerramento com o objetivo de discutir conclusões e recomendações com o responsável pela atividade auditada.
+
+
+23.1  A reunião de encerramento tem por objetivo garantir a precisão das informações usadas, bem como melhorar as relações com as unidades auditadas.
+
+
+23.2  As discussões na reunião de encerramento devem ser documentadas caso surja alguma controvérsia.
+
+
+23.3  O supervisor pode participar da reunião de encerramento para reforçar as observações de auditoria.
+
+
+
+
+
+V – Comunicação dos resultados
+
+
+
+
+
+24.  O relatório é o instrumento de comunicação dos resultados e deve incluir os objetivos e o escopo do trabalho de auditoria interna, bem como observações (achados de auditoria), conclusões, opiniões, recomendações e eventuais planos de ação aplicáveis.
+
+
+24.1  O secretário da Seaud deve encaminhar relatório preliminar ao responsável pela atividade auditada e a outras partes interessadas para manifestação facultativa sobre os fatos apontados.
+
+
+24.1.1  É dispensável o encaminhamento do relatório preliminar no caso de não existirem observações (achados de auditoria) desfavoráveis.
+
+
+24.2 Em trabalhos de auditoria de maior duração ou que requeiram atenção imediata, o secretário da Seaud pode encaminhar relatório preliminar à Presidência do TCU antes de manifestação das partes interessadas, sem prejuízo de sua análise posterior.
+
+
+25.  As comunicações devem ser precisas, objetivas, claras, concisas, construtivas, completas e tempestivas.
+
+
+26.  O Relatório deve ser estruturado com as seguintes seções:
+
+
+26.1  Folha de rosto;
+
+
+26.2  Introdução, com os objetivos e o escopo do trabalho de auditoria interna;
+
+
+26.2.1  As atividades auditadas, os riscos relacionados e os controles examinados devem ser identificados;
+
+
+26.3  Desenvolvimento dos procedimentos efetuados e registro das observações (achados de auditoria) decorrentes;
+
+
+26.3.1  As observações (achados de auditoria) desfavoráveis devem ser descritas com critérios, condição, causa, efeito, recomendação e eventual ação corretiva tomada no curso da auditoria;
+
+
+26.3.1.1  As observações (achados de auditoria) desfavoráveis menos complexas podem prescindir da descrição da causa e do efeito, sendo suficiente a explanação da condição e do critério;
+
+
+26.3.1.2  No caso de não existir necessidade de ação imediata, as observações (achados de auditoria) desfavoráveis podem ter caráter meramente informativo, sem recomendações;
+
+
+26.3.2  As observações (achados de auditoria) favoráveis devem ser registradas para disseminação das boas práticas de gestão identificadas.
+
+
+26.4  Avaliação sobre:
+
+
+26.4.1  Alcance dos objetivos da atividade auditada relacionados a operações, divulgação e/ou conformidade, conforme o objetivo do trabalho de auditoria interna;
+
+
+26.4.2  Adequação e eficácia dos controles estabelecidos para manter o impacto potencial dos riscos significativos em um nível aceitável;
+
+
+26.5  Manifestação preliminar do responsável pela atividade auditada, se houver;
+
+
+26.6  Resultados dos trabalhos com conclusões, opiniões, recomendações e os planos de ação aplicáveis, se houver.
+
+
+27.  O relatório pode seguir estrutura diferenciada prevista em comunicação interna da Seaud.
+
+
+28.  As recomendações devem ser baseadas nas observações e conclusões da equipe de auditoria e podem ser gerais ou específicas. Sendo específicas, devem indicar a unidade operacional responsável pela atividade revisada.
+
+
+
+
+
+VI – Monitoramento
+
+
+
+
+
+29.  O monitoramento é o processo pelo qual a atividade de auditoria interna avalia a adequação, a eficácia e a tempestividade das ações tomadas em resposta às observações e recomendações relatadas.
+
+
+30.  A Seaud deve estabelecer um sistema de monitoramento apenas para as recomendações significativas que requeiram ação imediata das unidades auditadas, por meio das seguintes formas:
+
+
+30.1  Confirmação de cumprimento das recomendações, quando as informações disponíveis forem suficientes para tal conclusão, não sendo necessária qualquer análise sobre o material recebido nem elaboração de proposta de encaminhamento;
+
+
+30.2  Instrução conclusiva sobre o alcance das medidas, ou registro do risco assumido, a ser encaminhada à Presidência do TCU, no caso de dúvidas sobre a suficiência das ações adotadas.
+
+
+
+
+
+VII – Glossário
+
+
+
+
+
+Atividade auditada  –  Objeto de interesse para avaliação, que pode ser unidade gestora, operação, função, processo, sistema ou outro ponto importante, separados ou em conjunto.
+
+
+Causa  –  Razão para a diferença entre a situação correta (critério) e a existente (condição).
+
+
+Comunicações precisas  –  São livres de erros e distorções e são fiéis aos fatos fundamentais.
+
+
+Comunicações objetivas  –  São justas, imparciais e neutras. São o resultado de um julgamento justo e equilibrado de todos os fatos e circunstâncias relevantes.
+
+
+Comunicações claras  –  São lógicas e facilmente compreendidas. Evitam linguagem técnica desnecessária e fornecem todas as informações significativas e relevantes.
+
+
+Comunicações concisas  –  São diretas e evitam elaboração desnecessária, detalhes supérfluos, redundância e excesso de palavras.
+
+
+Comunicações construtivas  –  São úteis à atividade auditada e conduzem às melhorias onde se façam necessárias.
+
+
+Comunicações completas  –  Não omitem nada do que seja essencial à audiência alvo. Incluem todas as  informações significativas e relevantes e as observações que dão suporte às recomendações e conclusões.
+
+
+Comunicações tempestivas  –  São oportunas e práticas e permitem à administração tomar as ações corretivas apropriadas.
+
+
+Condição  –  Evidência factual do que foi encontrado durante a avaliação. É a situação existente.
+
+
+Conformidade  –  Aderência a políticas, planos, procedimentos, leis, regulamentações, contratos ou outras normas.
+
+
+Controle  –  Qualquer medida aplicada para gerenciar os riscos e aumentar a probabilidade de que os objetivos e metas estabelecidos sejam alcançados.
+
+
+Critério  –  Padrão, medida ou expectativa utilizada para fazer uma avaliação. É a situação correta.
+
+
+Efeito  –  Risco devido à condição não ser consistente com os critérios.
+
+
+Informação suficiente  –  Informação factual, adequada e convincente, de forma que uma pessoa prudente e informada chegaria às mesmas conclusões.
+
+
+Informação confiável  –  A melhor informação possível de ser obtida através da utilização de técnicas de auditoria apropriadas.
+
+
+Informação relevante  –  Informação que dá suporte às observações e recomendações e é consistente com os objetivos do trabalho de auditoria.
+
+
+Informação útil  –  Informação que auxilia a organização a atingir as suas metas.
+
+
+Objetivos operacionais  –  Relacionam-se à eficácia e à eficiência das operações, incluindo as metas de desempenho financeiro e operacional e a salvaguarda de ativos.
+
+
+Objetivos de divulgação  –  Relacionam-se a divulgações financeiras e não financeiras, internas e externas.
+
+
+Objetivos de conformidade  –  Relacionam-se ao cumprimento de leis e regulamentações.OBSERVAÇão (achado de auditoria)  –  Descrição pertinente de um fato significativo, com base na comparação do critério (situação correta) com a condição (situação existente). Pode ser desfavorável, quando demonstra uma irregularidade no confronto entre a condição e o critério, ou favorável, quando aponta boas práticas de gestão.
+
+
+Programa de trabalho de auditoria interna  –  Documento que relaciona os procedimentos a serem seguidos durante um trabalho de auditoria, desenvolvido para cumprir o planejamento do trabalho. Pode ter a forma de uma matriz de planejamento.
+
+
+Risco  –  A possibilidade de ocorrer um evento que venha a ter impacto no cumprimento dos objetivos da atividade auditada. O risco é medido em termos de impacto e de probabilidade.
+
+
+Risco residual  –  O risco que resta após a administração ter adotado medidas para alterar a probabilidade ou o impacto dos riscos.
+
+
+Trabalho de auditoria interna  –  Atribuição específica de auditoria interna. Um trabalho de auditoria pode incluir tarefas múltiplas ou atividades desenvolvidas para cumprir com um grupo específico de objetivos relacionados.
+
+
+Não consta revogação expressa
+Dispõe sobre os Padrões de Auditoria da Secretaria de Auditoria Interna (Seaud).
+
+

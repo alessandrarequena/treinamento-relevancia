@@ -1,0 +1,1348 @@
+Portaria
+307/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e tendo em vista o disposto no inciso XXXIV do art. 28 do Regimento Interno do TCU,
+
+
+considerando a necessidade de aperfeiçoar a normatização do controle patrimonial de modo a abrigar os conceitos e boas práticas da matéria no âmbito do Tribunal de Contas da União;
+
+
+considerando o Sistema de Gestão de Segurança Física e Patrimonial e as diretrizes para a Política Corporativa de Segurança Física e Patrimonial do TCU previstos na Resolução-TCU nº 261, de 11 de junho de 2014; 
+
+
+considerando o disposto no item 9.4 do AcórdãoTCU nº 2.876/2012Plenário, que determinou à Secretaria-Geral da Administração o aperfeiçoamento do Manual do Patrimônio; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-046.358/2012-9, resolve: 
+
+
+CAPÍTULO I
+
+
+DAS DEFINIÇÕES GERAIS
+
+
+Art. 1º  A política de gestão dos bens móveis pertencentes ao patrimônio do Tribunal de Contas da União (TCU) obedece ao disposto nesta Portaria, observada a legislação vigente.
+
+
+§ 1º Esta Portaria integra a Política Corporativa de Segurança Física e Patrimonial do Tribunal (PCSF/TCU), na forma estabelecida pela Resolução-TCU nº 261, de 11 de junho de 2014.
+
+
+§ 2º Os procedimentos de controle de acesso físico às dependências do TCU, definidos em normativos específicos, devem possibilitar o cumprimento do disposto nesta Portaria.  
+
+
+Art. 2º Para os fins desta Portaria entende-se por:
+
+
+I - unidade de compras: subunidade administrativa do TCU, localizada em Brasília ou nos Estados, responsável pelas compras de materiais e assuntos correlatos;
+
+
+II - unidade técnica especializada: subunidade da Sede do TCU que se responsabiliza tecnicamente pelas demandas de bens no Tribunal, em especial, nas áreas de engenharia, serviços de apoio, segurança institucional e tecnologia da informação (TI);
+
+
+III - unidade de patrimônio: subunidade administrativa do TCU, localizada em Brasília ou nos Estados, responsável pelo controle patrimonial, armazenamento de materiais em almoxarifado e assuntos correlatos;
+
+
+IV - unidade central de patrimônio: subunidade administrativa do TCU, pertencente à Secretaria-Geral de Administração (Segedam), localizada em Brasília, responsável pelo controle patrimonial, armazenamento de materiais em almoxarifado e assuntos correlatos;
+
+
+V - estoque de almoxarifado: conjunto de materiais de consumo armazenados em um ou mais locais físicos;
+
+
+VI - depósito de patrimônio: conjunto de áreas utilizadas pela unidade de patrimônio para armazenamento de materiais permanentes usados, ou novos em reserva técnica;
+
+
+VII - Sistema Patrimônio: solução corporativa de TI de gestão patrimonial; 
+
+
+VIII - Setorial Contábil: subunidade administrativa do TCU em Brasília, pertencente à Segedam, responsável por supervisionar e orientar a execução das atividades inerentes à gestão orçamentária, financeira e patrimonial do Tribunal, em seus aspectos contábeis e, no caso da Sede, pela realização dos registros contábeis das movimentações dos bens móveis no Sistema Integrado de Administração Financeira (Siafi), em conformidade com os relatórios gerados pelo Sistema Patrimônio;
+
+
+IX - unidade de segurança e serviços de apoio: subunidade administrativa da Sede do TCU, serviço de administração das unidades do TCU nos Estados ou do ISC responsável por operacionalizar a segurança física e patrimonial e assuntos correlatos;
+
+
+X - unidade gestora: unidade gestora executora da gestão orçamentário-financeira do Tribunal; 
+
+
+XI - ordenador de despesas: Presidente do TCU e dirigentes da Segedam, das secretarias nos Estados e do ISC que, por delegação ou subdelegação de competência, são autorizados a realizar movimentação de créditos orçamentários, emissão de empenhos e autorização de pagamentos, suprimentos e dispêndios; 
+
+
+XII - lote de bens: conjunto definido de bens para fins de desfazimento; 
+
+
+XIII - distribuição: movimentação inicial de bens realizada pela unidade de patrimônio; e
+
+
+XIV - destinação: lista de bens a serem adquiridos e das respectivas unidades que devem receber os materiais.
+
+
+Parágrafo único. Os termos "material" e "bem" são designações genéricas de móveis, equipamentos, componentes sobressalentes, acessórios, utensílios, veículos em geral, matérias-primas, suprimentos e outros itens utilizados ou passíveis de utilização nas atividades do TCU. 
+
+
+Art. 3º Bens não relevantes para o controle patrimonial são aqueles cujo valor monetário e/ou o risco de extravio não são significativos.
+
+
+§ 1º Bens de alto risco de extravio são aqueles portáteis com valor monetário significativo.
+
+
+§ 2º Normativo da Segedam definirá o rol de bens não relevantes para o controle patrimonial, bem como aqueles considerados de alto risco de extravio.
+
+
+CAPÍTULO II
+
+
+DA CLASSIFICAÇÃO, DA CODIFICAÇÃO E DA CATALOGAÇÃO
+
+
+Art. 4º Os bens móveis são classificados como material permanente ou material de consumo.
+
+
+§ 1º A classificação de material em permanente ou de consumo baseia-se nos elementos indicados nos dois artigos seguintes, bem como no enquadramento contábil definido pela Setorial Contábil por ocasião da emissão do empenho correspondente pela respectiva unidade gestora. 
+
+
+§ 2º Bem agregado é o material permanente que, em função de suas características físicas, não possui funcionamento autônomo, devendo, em razão disso, ser instalado em um bem principal, mantendo-se para ambos controles patrimoniais individualizados específicos. 
+
+
+Art. 5º Material permanente é aquele que, em razão do uso corrente e da definição da Lei no 4.320, de 17 de março de 1964, e legislações complementares, não perde a sua identidade física e/ou tem durabilidade superior a dois anos, bem como possui controle individualizado após o respectivo registro.
+
+
+§ 1º Materiais de uso duradouro, na forma definida por normas da Secretaria do Tesouro Nacional (STN), são classificados como material permanente.
+
+
+§ 2º Na classificação de material permanente serão adotados os seguintes parâmetros excludentes, considerados em conjunto:
+
+
+I - durabilidade: material que, em uso normal, perde ou tem reduzidas as condições de funcionamento, no prazo máximo de dois anos;
+
+
+II - fragilidade: material cuja estrutura esteja sujeita à modificação, por ser quebradiça ou deformável, caracterizando-se pela irrecuperabilidade e/ou perda de sua identidade;
+
+
+III - perecibilidade: material que se deteriora ou perde sua característica normal de uso, quando sujeito a modificações, químicas ou físicas;
+
+
+IV -  incorporabilidade: material destinado à incorporação a outro bem, não podendo ser retirado sem prejuízo das características do principal; e
+
+
+V - transformabilidade: material adquirido para fim de transformação.
+
+
+Art. 6º Material de consumo é aquele que, em razão do uso corrente e da definição da Lei no 4.320, de 1964, e legislações complementares, perde normalmente sua identidade física e/ou tem sua utilização limitada a dois anos.
+
+
+Parágrafo único. Incumbe à unidade de patrimônio controlar o material de consumo somente enquanto este estiver armazenado em estoque de almoxarifado.
+
+
+Art. 7º Quanto à forma de utilização, um bem móvel classifica-se em:
+
+
+I - de uso individual: quando for possível atribuir a responsabilidade pelo bem a somente um usuário; ou
+
+
+II - de uso coletivo ou comum: quando, pela natureza ou forma de instalação do bem, for utilizado de modo concomitante por vários usuários.
+
+
+Art. 8º Quanto à situação patrimonial, um bem móvel classifica-se em:
+
+
+I - bom: quando estiver em perfeitas condições e em uso normal;
+
+
+II - ocioso: quando, embora esteja em perfeitas condições, não estiver em uso;
+
+
+III - recuperável: quando estiver avariado, a recuperação for possível e o custo de reparo orçar, no máximo, até 50% de seu valor de mercado;
+
+
+IV - antieconômico: quando seu rendimento for precário; quando estiver avariado e os custos acumulados de recuperação, durante sua vida útil, orçarem mais do que 50% do respectivo valor de mercado; ou por obsolescência; e
+
+
+V - irrecuperável: quando não mais puder ser utilizado para o fim a que se destina devido à perda das características físicas.
+
+
+Parágrafo único. Os critérios de classificação dispostos neste artigo poderão ser excepcionalizados para bens de valor histórico ou de significado especial para o TCU.
+
+
+Art. 9º Quanto à natureza e finalidade, os materiais classificam-se conforme aspectos e critérios inerentes a naturezas de despesas contábeis da STN, nos termos dispostos no Plano de Contas da Administração Pública Federal.
+
+
+Art. 10. Nomenclaturas, definições e codificações de materiais para fins de registro no sistema Patrimônio serão definidas em normativo específico, com gestão da unidade central de patrimônio.
+
+
+CAPÍTULO III
+
+
+DAS REQUISIÇÕES
+
+
+Art. 11. A requisição de material de consumo e permanente padronizados deve ser realizada por meio de solução de TI específica ou, não sendo possível, ser efetivada via memorando endereçado à unidade de patrimônio.
+
+
+§ 1º A requisição de material permanente padronizado deve conter, pelo menos, as seguintes informações:
+
+
+I - o código do material padronizado;
+
+
+II - a quantidade de fornecimento; e
+
+
+III - servidor que será responsável pela carga patrimonial.
+
+
+§ 2º Havendo necessidade de aquisição de qualquer bem específico, por parte das unidades localizadas na Sede do TCU, que não faça parte do rol de materiais de consumo e permanentes já fornecidos pela unidade central de patrimônio, deverá ser autuado processo eletrônico contendo memorando endereçado à unidade de compras da Sede acompanhado de termo de referência com as seguintes informações básicas: 
+
+
+I - definição detalhada, leiaute, modelos, gráficos, desenhos, prospectos, amostras, fotos e demais características necessárias à correta identificação, sendo vedadas especificações que frustrem a competetitividade;
+
+
+II - apresentação de, no mínimo, três orçamentos estimativos, fundamentados em pesquisa de preços, de preferência decorrentes de contratações anteriores realizadas por órgãos e entidades da Administração Pública;
+
+
+III - manifestação sobre a forma como se dará o fornecimento de bens;
+
+
+IV - emissão de justificativas quanto à necessidade e urgência da aquisição dos bens requisitados;
+
+
+V - registro da necessidade de apresentação ou não de amostras; e
+
+
+VI - indicação do servidor que será responsável pela carga patrimonial. 
+
+
+§ 3º O termo de referência deve indicar o prazo de entrega para fornecimento do bem em parcela única, ou conter o cronograma de recebimento para fornecimento de forma parcelada.  
+
+
+Art. 12. São competentes para requerer material permanente os servidores de cargo efetivo ocupantes de função de confiança de direção do quadro de pessoal do TCU, com anuência do respectivo dirigente de unidade.
+
+
+Art. 13. Toda requisição será analisada pela unidade de patrimônio e aquela que não puder ser atendida com materiais permanentes em depósito de patrimônio ou, no caso de material de consumo com itens do estoque de almoxarifado, será submetida ao ordenador de despesas, para autorização da compra, observada a oportunidade e a conveniência do dispêndio.
+
+
+CAPÍTULO IV
+
+
+DAS AQUISIÇÕES
+
+
+Art. 14. Os materiais permanentes integrantes do patrimônio do TCU são adquiridos por meio de:
+
+
+I - compra: aquisição de material com utilização de recursos orçamentários;
+
+
+II - doação: entrega gratuita de bens ou materiais ao TCU por instituições públicas, privadas ou pessoas físicas;
+
+
+III - permuta: troca de bens ou materiais permanentes entre o TCU e outros órgãos ou entidades da Administração Pública;
+
+
+IV -  produção interna: confecção ou produção, no próprio TCU, de bens ou materiais; ou
+
+
+V - abandono: abandono de bens ou materiais não pertencentes ao patrimônio do Tribunal, os quais são deixados em condições de uso nas dependências ou terrenos institucionais, bem como sejam de interesse do TCU e não reclamados por seus legítimos proprietários.
+
+
+§ 1º As aquisições serão realizadas por meio dos devidos processos administrativos, os quais deverão conter relação de destinação de cada bem, discriminação das unidades ou detentores de carga contemplados, e detalhamento dos casos de constituição de reserva técnica.
+
+
+§ 2º As especificações do material a ser adquirido constarão do termo de referência a ser elaborado pela unidade de patrimônio, nos casos de bens descritos no catálogo de materiais permanentes do TCU, ou pela unidade solicitante, nos demais casos, com apoio da unidade técnica especializada competente.
+
+
+§ 3º O cálculo do valor de incorporação de um bem abandonado deve obedecer, no que couber, ao disposto no Capítulo XIII desta Portaria.
+
+
+CAPÍTULO V
+
+
+DO RECEBIMENTO E DA ACEITAÇÃO
+
+
+Art. 15. Recebimento é o ato pelo qual o material objeto de aquisição é entregue ao TCU no local previamente designado, não implicando, necessariamente, sua aceitação.
+
+
+ § 1º O procedimento de que trata o caput transfere apenas a responsabilidade pela guarda e conservação do material, do fornecedor à unidade recebedora.
+
+
+§ 2º A prova do recebimento será constituída pela assinatura do recebedor, na nota fiscal ou em outro documento hábil, e serve apenas como comprovação da data e horário da entrega, para os efeitos deste artigo.
+
+
+§ 3º No ato de recebimento, o bem deve estar acompanhado:
+
+
+I - no caso de compra, de nota fiscal ou fatura correspondente;
+
+
+II - no caso de recebimento em doação, pelo respectivo certificado ou termo de doação, termo de avaliação ou outro documento que oriente o registro do bem;
+
+
+III - no caso de permuta, pelo termo de permuta ou outro documento que oriente o registro do bem;
+
+
+IV - no caso de bem produzido internamente, pela guia de produção interna ou termo de avaliação, com o valor do custo de produção; ou
+
+
+V - no caso de abandono, pelo devido processo administrativo, com avaliação físico-financeira feita pela unidade de patrimônio.
+
+
+Art. 16. Compete à unidade de patrimônio o recebimento de materiais adquiridos, na forma definida no artigo anterior. 
+
+
+§ 1º Nas aquisições mediante compra cujo valor total seja superior ao limite de que trata o art. 15 da Lei nº 8.666, de 21 de junho de 1993, o recebimento dos bens será realizado por comissão de servidores, composta por, no mínimo, três membros.
+
+
+§ 2º Excepcionalmente, no caso de aquisição cujo valor total seja inferior ao limite estabelecido no artigo 15 da Lei nº 8.666, de 1993, a unidade de patrimônio poderá, no ato do recebimento, solicitar à unidade técnica especializada a indicação de servidor habilitado ou de comissão técnica para que realize exames, a fim de determinar se o material entregue atende às especificações contidas na nota de empenho ou no contrato de aquisição.
+
+
+Art. 17. Aceitação é o ato pelo qual o servidor ou comissão competente declara, na nota fiscal ou em outro documento hábil, haver recebido o bem que foi adquirido, tornando-se, neste caso, responsável pela quantidade e perfeita identificação do bem, de acordo com as especificações estabelecidas na nota de empenho, contrato de aquisição ou outros instrumentos congêneres, consoante os dispositivos da Lei nº 8.666, de 1993.
+
+
+Art. 18. Material recebido, mesmo após a aceitação, que apresente indícios de fraude, falsificação, alteração na natureza da coisa corpórea, de qualidade ou de quantidade, pode ser retido para exame por órgãos técnicos competentes, assegurada ampla defesa ao fornecedor.
+
+
+CAPÍTULO VI
+
+
+DA INCORPORAÇÃO E DO TOMBAMENTO
+
+
+Art. 19. Tombamento é o procedimento administrativo que consiste em identificar cada material adquirido com um número único de registro patrimonial, denominado Número de Patrimônio (NP).
+
+
+§ 1º Para os fins desta Portaria, NP, Número de Tombamento (NT) ou Registro Geral de Patrimônio (RGP) são expressões sinônimas.
+
+
+§ 2º O NP será único para cada bem patrimoniado.
+
+
+§ 3º O NP é aposto mediante gravação, fixação de plaqueta, etiqueta ou qualquer outro método adequado às características físicas do bem.
+
+
+Art. 20. Incorporação é o procedimento administrativo que consiste em registrar no sistema Patrimônio as características, especificações, NP, valor de aquisição e demais informações referentes a material adquirido.
+
+
+§ 1º A incorporação atribui uma conta patrimonial do Plano de Contas da Administração Pública Federal a cada material de acordo com a finalidade para a qual foi adquirido.
+
+
+§ 2º Materiais recebidos, mediante qualquer processo de aquisição, devem ser incorporados ao patrimônio do TCU antes de serem entregues às unidades que irão utilizá-los.
+
+
+§ 3º Compete à unidade de patrimônio incorporar materiais adquiridos pelas formas previstas nesta Portaria.
+
+
+§ 4º Incumbe à unidade central de patrimônio manter catálogo de material único aplicável às unidades da Secretaria do TCU, com descrição padronizada para todos os materiais.
+
+
+Art. 21. O valor de aquisição do material a ser incorporado é aquele constante do respectivo documento fiscal, da nota de empenho, do documento de avaliação ou do documento de doação ou permuta.
+
+
+§ 1º O valor de que trata o caput será depreciado ou reavaliado na forma normatizada pela STN.
+
+
+§ 2º O pagamento ao fornecedor será efetuado após a prévia incorporação dos bens no sistema Patrimônio.
+
+
+§ 3º Na ocorrência de situação específica, em que a regra contida no parágrafo anterior precise ser excepcionalizada, a responsabilidade pela comprovação da existência física e localização do bem caberá ao servidor que confirmou a existência dos bens.
+
+
+Art. 22. Material incorporado e tombado é denominado material patrimoniado ou bem patrimoniado.
+
+
+CAPÍTULO VII
+
+
+DA CARGA PATRIMONIAL
+
+
+
+Seção I
+
+
+
+
+Definições
+
+
+
+Art. 23. Compete à unidade de patrimônio a distribuição do material permanente adquirido, de acordo com a destinação dada no processo administrativo de aquisição correspondente.                
+
+
+Art. 24. Nenhum material permanente pode ser distribuído a qualquer servidor sem o respectivo registro de carga patrimonial, que se efetiva com o aceite no sistema Patrimônio. 
+
+
+§ 1º Carga patrimonial é o conjunto de bens patrimoniados confiados pelo TCU a servidor de cargo efetivo ocupante de função de confiança, em caráter permanente ou temporário, denominado detentor de carga, para a execução das respectivas atividades profissionais inerentes ao Tribunal.
+
+
+§ 2º Considera-se função de confiança detentora de carga patrimonial e unidade detentora de carga patrimonial sinônimos de detentor de carga patrimonial, no âmbito desta Portaria.
+
+
+§ 3º Quando das substituições do titular de função de confiança detentora de carga patrimonial, ao sair e ao retornar, este e o respectivo substituto devem, em conjunto, conferir, no mínimo, a relação de bens de alto risco de extravio, realizando os respectivos registros de responsabilidade pelo uso, guarda e conservação no sistema Patrimônio, nos termos desta Portaria.
+
+
+Art. 25. Compete à unidade central de patrimônio definir e manter atualizado o conjunto de funções de confiança autorizadas a terem o perfil de detentor de carga.
+
+
+
+Seção II
+
+
+
+
+Da Movimentação
+
+
+
+Art. 26. Os bens do acervo patrimonial do TCU podem ter movimentação:
+
+
+I - física: transferência de um bem entre endereços do TCU ou para fora das dependências deste; e
+
+
+II - lógica: transferência de carga patrimonial entre detentores, também chamada de regularização de carga patrimonial.
+
+
+§ 1º Endereço do TCU é entendido como o menor recinto identificado e numerado pela unidade do Tribunal responsável pela gestão corporativa dos espaços físicos.
+
+
+§ 2º O registro da movimentação de bens será realizado pelo próprio detentor da respectiva carga patrimonial ou, na impossibilidade deste, pela unidade de patrimônio.
+
+
+Art. 27. Configurada a movimentação do bem, o prazo para aceite no sistema Patrimônio será de até sete dias, a contar do registro da movimentação no referido sistema.
+
+
+§ 1º Caso haja movimentação de bens para a unidade, no momento em que o titular de função de confiança detentora de carga patrimonial esteja sendo substituído, o correspondente aceite no sistema Patrimônio deverá ser realizado pelo respectivo substituto.
+
+
+
+§ 2º Findo o prazo estabelecido no caput, será registrada a irregularidade nos termos desta Portaria e o sistema Patrimônio realizará o aceite de forma tácita, transferindo a carga patrimonial correspondente ao detentor de carga recebedor e informando a operação à unidade central de patrimônio e aos detentores de carga envolvidos.
+
+
+§ 3º Caso haja algum impedimento para o aceite da carga patrimonial, parcial ou totalmente, o recebedor deve registrar no sistema Patrimônio as razões desse impedimento, dentro do prazo estipulado neste artigo.
+
+
+Art. 28. São modalidades de movimentação de bens: 
+
+
+I - distribuição;
+
+
+II - recolhimento: movimentação de bens de um endereço do TCU para o depósito de patrimônio, acompanhada da respectiva regularização de carga patrimonial, devendo-se observar:
+
+
+a) bem com situação patrimonial "ociosa" ou que apresente alguma avaria que impeça seu uso normal deve ser recolhido ao depósito de patrimônio; e
+
+
+b) recolhimento de bens em período de garantia deve ser aprovado pelo dirigente da unidade de patrimônio.
+
+
+III - redistribuição: movimentação de bens armazenados no depósito de patrimônio para um endereço do TCU, acompanhada da respectiva regularização de carga patrimonial; ou
+
+
+IV - remanejamento: movimentação de bens entre detentores de carga patrimonial. 
+
+
+Parágrafo único. O remanejamento entre detentores de carga patrimonial lotados em distintas unidades gestoras deve ser aprovado pela unidade central de patrimônio.
+
+
+Art. 29. A movimentação de bens no remanejamento é de exclusiva responsabilidade do detentor de carga de origem e do detentor de carga de destino.
+
+
+§ 1º A movimentação deve ser registrada pelo detentor de carga de origem no sistema Patrimônio ou comunicada por meio de mensagem eletrônica à unidade de patrimônio.
+
+
+§ 2º O detentor de carga de origem, se necessário, deve solicitar com antecedência à unidade de patrimônio o transporte dos bens remanejados.
+
+
+§ 3º Na hipótese do parágrafo anterior, a unidade de patrimônio deve emitir o documento correspondente, a ser assinado pelos detentores de carga envolvidos.
+
+
+§ 4º A concretização de uma transferência de carga patrimonial pode ser vistoriada pela unidade de patrimônio.
+
+
+Art. 30. Quando a unidade central de patrimônio verificar a existência de bem ocioso ou subutilizado na carga de determinado detentor, poderá, após comunicá-lo previamente, submeter ao Secretário-Geral de Administração proposta de remanejamento do bem para outro detentor ou de recolhimento ao depósito do patrimônio.
+
+
+
+Seção III
+
+
+
+
+Da Responsabilidade pelo Uso, pela Guarda e pela Conservação 
+
+
+
+Art. 31. O servidor usuário contínuo de um bem patrimoniado é denominado responsável, cabendo a este a responsabilidade pelo uso, pela guarda e pela conservação do bem.
+
+
+§ 1º O servidor é considerado usuário contínuo ou constante do bem quando este estiver disponível para a sua utilização direta e individualizada durante a jornada de trabalho diária.
+
+
+§ 2º Cessada a necessidade do uso contínuo de um bem, o servidor deve devolver a responsabilidade pelo bem ao respectivo detentor de carga, por meio de registro no sistema Patrimônio. 
+
+
+§ 3º Na impossibilidade de realizar a devolução de que trata o parágrafo anterior, o detentor de carga deve avocar para si a responsabilidade do bem.
+
+
+Art. 32. Um detentor de carga pode atribuir ou avocar a responsabilidade de um bem de qualquer servidor de sua unidade ou subunidade.
+
+
+§ 1º A atribuição de responsabilidade não se aplica a bens de uso coletivo. 
+
+
+§ 2º A atribuição de responsabilidade deve ser realizada sempre que o detentor de carga identificar um usuário contínuo de um bem, por meio de registro no sistema Patrimônio. 
+
+
+§ 3º Caso haja algum impedimento para o aceite da responsabilidade patrimonial, parcial ou totalmente, o recebedor deve registrar no sistema Patrimônio as razões do impedimento.
+
+
+§ 4º A Atribuição de responsabilidade constitui-se prova documental de uso e conservação de bens e pode ser utilizada em processos administrativos de apuração de irregularidades relativas ao controle do patrimônio do TCU.
+
+
+Art. 33. O detentor de carga é responsável por qualquer bem de sua carga patrimonial, cuja responsabilidade não tenha sido por ele atribuída a outro servidor, mesmo que este seja o usuário contínuo do bem.
+
+
+§ 1º O detentor de carga, ou o responsável pelo uso, guarda ou conservação do bem principal, responde também pelos respectivos bens agregados.
+
+
+§ 2º Caso o bem contenha informações não públicas, o detentor da carga ou responsável pelo uso deve aplicar controles administrativos e tecnológicos para proteção das informações, nos termos definidos na Política Corporativa de Segurança da Informação (PCSI/TCU).
+
+
+Art. 34. O registro no sistema Patrimônio da atribuição de responsável por um bem transfere a responsabilidade pelo uso e pela conservação do bem para o signatário, mas não lhe dá o direito de transferir a carga patrimonial deste para outro servidor.
+
+
+
+Seção IV
+
+
+
+
+Das Competências Relativas à Carga Patrimonial
+
+
+
+Art. 35. Compete ao detentor de carga patrimonial:
+
+
+I - requisitar à unidade de patrimônio que realize inventário para receber a respectiva carga patrimonial, ao assumir função de confiança;
+
+
+II - solicitar à unidade de patrimônio que realize inventário para a transferência de sua carga patrimonial para outro detentor, ao ser dispensado de função de confiança;
+
+
+III - adotar medidas e estabelecer procedimentos complementares às normas constantes desta Portaria, que visem a garantir o efetivo controle do material permanente existente em sua unidade ou subunidade;
+
+
+IV - aceitar, no sistema Patrimônio, a carga de bens distribuídos ou inventariados na respectiva unidade;
+
+
+V - realizar conferência periódica, parcial ou total, sempre que julgar conveniente e oportuno, independentemente da realização dos tipos de inventários tratados nesta Portaria;
+
+
+VI - manter controle sobre a distribuição interna e externa de bens de sua carga patrimonial, bem como sobre o período de garantia destes;
+
+
+VII - atribuir a responsabilidade, no sistema Patrimônio, a servidores responsáveis pelo uso contínuo de bens da carga patrimonial do detentor;
+
+
+VIII - supervisionar as atividades relacionadas ao bom uso e à guarda dos bens localizados na respectiva unidade ou subunidade;
+
+
+IX - encaminhar, imediatamente após o seu conhecimento, à unidade de patrimônio e à unidade de segurança e serviços de apoio, comunicações sobre avaria ou desaparecimento de bens; e
+
+
+X - adotar providências para guarda temporária dos bens de sua carga patrimonial, por ocasião de reformas ou mudanças.
+
+
+Art. 36. Compete ao responsável por carga patrimonial:
+
+
+I - receber a responsabilidade pela carga patrimonial dos bens de que é usuário contínuo, atribuída pelo respectivo detentor de carga, mediante aceite no sistema Patrimônio; 
+
+
+II - devolver a responsabilidade ao detentor de carga ao deixar de ser usuário contínuo de um bem, requerendo o respectivo registro no sistema Patrimônio; e
+
+
+III - encaminhar, imediatamente após o seu conhecimento, ao detentor de carga, comunicações sobre avaria ou desaparecimento de bens.
+
+
+Art. 37. Compete aos servidores do TCU:
+
+
+I - zelar pelos bens do acervo patrimonial do TCU, bem como ligar, operar e desligar equipamentos conforme as recomendações e especificações do fabricante;
+
+
+II - adotar ou propor, à respectiva chefia imediata, providências para preservar a segurança e conservação dos bens móveis existentes na unidade;
+
+
+III - manter os bens de pequeno porte em local seguro;
+
+
+IV - comunicar, o mais breve possível, à respectiva chefia imediata ou à unidade de segurança e serviços de apoio, a ocorrência de qualquer irregularidade envolvendo o patrimônio do TCU;
+
+
+V - facilitar o trabalho dos servidores da unidade de patrimônio quando da realização de levantamentos e inventários; e
+
+
+VI - requerer à unidade de patrimônio certificado de "nada consta" patrimonial a qualquer momento, na hipótese de dispensa em função de confiança ou, obrigatoriamente, nos afastamentos da Secretaria do Tribunal sem efetivo exercício, aposentadoria e demais tipos de vacância.
+
+
+§ 1º O emprego e operação inadequados de equipamentos e materiais poderão ser considerados como irregularidade, nos temos desta Portaria.
+
+
+§ 2º O disposto neste artigo aplica-se, no que couber, aos estagiários, prestadores de serviço terceirizado ou quaisquer pessoas com vínculo transitório com o Tribunal, observados os termos especificados nos respectivos instrumentos que regem as atividades por eles desempenhadas.  
+
+
+CAPÍTULO VIII
+
+
+DO CONSERTO E DA MANUTENÇÃO
+
+
+Art. 38. O conserto, a manutenção, a restauração ou a revisão de bem é de responsabilidade do fiscalizador do respectivo contrato de manutenção ou, da unidade de patrimônio, nas demais hipóteses. 
+
+
+§ 1º Caso estejam envolvidas despesas adicionais à garantia, é necessária prévia consulta e autorização da unidade de patrimônio.
+
+
+§ 2º Serviços não autorizados pela unidade de patrimônio realizados em material permanente em período de garantia são irregularidades passíveis de penalização nos termos desta Portaria.
+
+
+§ 3º A saída de bens patrimoniais das dependências do TCU para reparo externo será autorizada exclusivamente pela unidade de patrimônio, mediante registro no sistema Patrimônio e emissão da respectiva autorização de saída. 
+
+
+CAPÍTULO IX
+
+
+DO LEVANTAMENTO E DO INVENTÁRIO
+
+
+
+Seção I
+
+
+
+
+Do Levantamento
+
+
+
+Art. 39. Levantamento é o procedimento administrativo que certifica a existência do bem em endereço específico do TCU, e se desenvolve em duas modalidades:
+
+
+I - físico: quando devem ser verificados, em conformidade com os registros de controle patrimonial, os seguintes elementos:
+
+
+a) exatidão da descrição do material;
+
+
+b) situação patrimonial;
+
+
+c) detentor da carga patrimonial; e
+
+
+d) integridade e afixação da plaqueta ou da etiqueta de identificação de patrimônio.
+
+
+II - eletrônico: quando devem ser verificados os seguintes requisitos: 
+
+
+a) exatidão de bem determinado ou de rol de bens atribuído a um detentor ou responsável, considerando fatores tais como tipo e quantidade, por meio de radiofrequência (RFID); e
+
+
+b)  frequência de conexão do bem à rede do TCU, por intermédio de rede informatizada.
+
+
+§ 1º O levantamento pode abranger um bem, um conjunto de bens ou a totalidade de bens existentes em um ou mais endereços do TCU.
+
+
+§ 2º No relatório de levantamento devem constar os bens classificados de acordo com as seguintes situações:
+
+
+I - encontrado: bem que faz parte do conjunto inicial de bens de um levantamento e foi confirmado por meio de leitura visual ou eletrônica;
+
+
+II - não encontrado: bem que não foi confirmado por meio de leitura visual ou eletrônica, mas faz parte do conjunto inicial de bens de um levantamento;
+
+
+III - não previsto: bem que não faz parte do conjunto inicial de bens de um levantamento, mas foi encontrado e confirmado por meio de leitura visual ou eletrônica; e
+
+
+IV - baixado: bem que foi retirado do controle de bens ativos, mas foi encontrado e confirmado por meio de leitura visual ou eletrônica.
+
+
+
+Seção II
+
+
+
+
+Do Inventário
+
+
+
+Art. 40. Inventário é o procedimento administrativo que consiste na consolidação das informações obtidas por meio de levantamentos e, também, mediante confrontação delas com os bens existentes em um ou mais endereços do TCU.
+
+
+Parágrafo único. O inventário tem como objetivos:
+
+
+I - confirmar a exatidão dos registros de controle patrimonial, mediante a realização de levantamentos em um ou mais endereços do TCU;
+
+
+II - verificar a adequação entre os registros do sistema Patrimônio e os do Siafi;
+
+
+III - fornecer subsídios para a avaliação e controle gerencial de materiais permanentes; 
+
+
+IV - disponibilizar informações a órgãos fiscalizadores; e
+
+
+V - compor o processo de tomada de contas do TCU.
+
+
+Art. 41. Os tipos de inventário são:
+
+
+I - de verificação: realizado a qualquer tempo, com o objetivo de verificar a regularidade de um conjunto de bens, por iniciativa da unidade de patrimônio, ou a pedido do detentor de carga, do responsável, da Segedam ou de autoridade; 
+
+
+II - de transferência: realizado quando da mudança de um titular de função de confiança detentora de carga patrimonial;
+
+
+III - de criação: realizado quando da criação de função de confiança detentora de carga patrimonial, de unidade ou de subunidade, ou de endereço do TCU;
+
+
+IV - de extinção: realizado quando da extinção ou transformação de uma função de confiança detentora de carga patrimonial, de uma unidade ou subunidade ou de endereço do TCU;
+
+
+V - anual: realizado em razão de exigência contida na Lei nº 4.320, de 1964, tem por finalidade comprovar a exatidão dos registros de controle patrimonial de todo o patrimônio do TCU, demonstrando, de acordo com o Plano de Contas da Administração Pública Federal, o acervo de cada detentor de carga, o valor total do ano anterior e as variações patrimoniais ocorridas no exercício; e
+
+
+VI - de baixa: realizado para fins de desfazimento de bens. 
+
+
+§ 1º Os inventários de verificação, de transferência, de criação e de extinção realizados durante o exercício poderão ser considerados para efeito do inventário anual pela unidade central de patrimônio. 
+
+
+§ 2º Para fins de inventário anual, é considerado como encontrado o bem que foi inventariado pelo menos uma vez durante o exercício, exceto se o mesmo bem não tiver sido localizado em levantamento posterior realizado no mesmo ano.
+
+
+§ 3º Bens não relevantes para o controle patrimonial não são objeto de levantamento nos inventários de verificação e nos anuais.
+
+
+§ 4º A unidade de patrimônio deve concluir os inventários indicados nos itens I a IV deste artigo, em até quinze dias do recebimento do pedido.
+
+
+§ 5º Os processos de inventário serão analisados pela unidade central de patrimônio e por ela encerrados.
+
+
+Art. 42. A realização do inventário anual cabe às respectivas unidades de patrimônio localizadas nos Estados e no ISC e, para as demais hipóteses, à unidade central de patrimônio.
+
+
+§ 1º A critério do dirigente da Segedam ou, conforme o caso, de cada uma das unidades mencionadas no caput, poderá ser constituída comissão de inventário, composta por, no mínimo, três servidores de cargo efetivo, a qual contará com suporte da unidade central de patrimônio, considerado o disposto nos §§ 1º e 2º do artigo anterior.
+
+
+§ 2º Entre os membros da comissão de inventário, deverá ser designado um servidor, preferencialmente com experiência na área de administração de material, para presidir os trabalhos.
+
+
+§ 3º Estagiários e funcionários de empresas prestadoras de serviços podem auxiliar a comissão de inventário, desde que os membros desta estejam presentes.
+
+
+§ 4º Dirigentes das unidades do TCU nos Estados e do ISC, bem como detentores de carga, não podem ser designados membros de comissão de inventário.
+
+
+§ 5º Quando da designação da comissão de inventário a que se refere o § 1º deste artigo deverá ser fixado o prazo máximo para a conclusão dos trabalhos.
+
+
+Art. 43. O inventário anual compreende as seguintes atividades, documentos e prazos para sua execução:
+
+
+I - até 30 de setembro do ano do respectivo inventário: registro, no sistema Patrimônio, do levantamento de todos os bens da Sede, do ISC e das unidades do TCU nos Estados;
+
+
+II - até 31 de dezembro do ano do respectivo inventário: registro, no sistema Patrimônio, do levantamento complementar de todos os bens não encontrados até 30 de setembro e dos bens incorporados e recebidos após esta data;
+
+
+III - até 10 de janeiro do ano seguinte ao inventário: envio do relatório circunstanciado em processo administrativo eletrônico à unidade central de patrimônio;
+
+
+IV - até 31 de janeiro do ano seguinte ao inventário: para fins de tomada de contas, a unidade de patrimônio poderá comunicar a localização de bens não encontrados até 31 de dezembro do ano do respectivo inventário; e
+
+
+V - até 15 de fevereiro do ano seguinte ao inventário: para fins de tomada de contas, a unidade central de patrimônio deverá informar, à Setorial Contábil, em processo administrativo eletrônico, a relação consolidada de bens não encontrados no inventário, por unidade gestora.
+
+
+Art. 44. O processo administrativo eletrônico de inventário anual deve conter os seguintes documentos:
+
+
+I - portaria de designação da comissão de inventário, se houver;
+
+
+II - relatório circunstanciado do inventário anual, com anuência do respectivo dirigente de unidade;
+
+
+III - relatório dos levantamentos dos bens de cada detentor de carga, preferencialmente ordenados pelo tipo de situação de levantamento;
+
+
+IV - relatório de bens móveis;
+
+
+V - relatório de bens pertencentes a outro detentor;
+
+
+VI - relatório de bens de detentores não encontrados na Sede, ISC e secretarias nos Estados;
+
+
+VII - relatório comparativo patrimonial-financeiro;
+
+
+VIII - relatório de bens não levantados ou com divergências; e
+
+
+IX - fotografias de bens sem plaquetas ou etiquetas, ou com essas danificadas.
+
+
+§ 1º Os relatórios elencados nos incisos II a VIII devem ser extraídos do Sistema Patrimônio.
+
+
+§ 2º Normativo da Segedam, editado com subsídio em proposta da unidade central de patrimônio, estabelecerá formato e orientações para o preenchimento de formulários-padrão referentes aos relatórios mencionados neste artigo.
+
+
+Art. 45. A unidade de patrimônio e a comissão de inventário, no desempenho de suas funções, são competentes para:
+
+
+I - cientificar dirigente de unidade sobre todos os endereços envolvidos, com antecedência mínima de quarenta e oito horas da data marcada para o início dos trabalhos, no caso de inventário anual;
+
+
+II - solicitar ao detentor de carga elementos de controle interno e outros documentos necessários aos levantamentos;
+
+
+III - requisitar servidores, máquinas, equipamentos, materiais de consumo e demais recursos e serviços necessários ao cumprimento de suas tarefas;
+
+
+IV - identificar o estado de uso e conservação dos bens inventariados, discriminando em relatório os suscetíveis de recolhimento e de desfazimento, para ciência da unidade de patrimônio;
+
+
+V - propor ao Secretário-Geral de Administração, ao Diretor-Geral do ISC ou ao dirigente de unidade do TCU nos Estados a apuração de irregularidades constatadas;
+
+
+VI - relacionar e identificar, conforme disposto no Capítulo VI desta Portaria, os bens que se encontrem sem NT, sem o código de barras, sem plaqueta ou outro tipo de etiqueta que comporte o NP ou sem o devido RGP, possibilitando a adoção das providências cabíveis pela unidade de patrimônio; e
+
+
+VII - solicitar, à autoridade competente, livre acesso, a qualquer recinto, para efetuar levantamento e vistoria de bens.
+
+
+CAPÍTULO X
+
+
+ DO DESFAZIMENTO 
+
+
+
+Seção I
+
+
+
+
+Condições e Definições
+
+
+
+Art. 46. Desfazimento, para fins do controle patrimonial no TCU, consiste na transferência do direito de propriedade de bens do TCU, autorizada pela Presidência do Tribunal ou por servidor com essa competência delegada ou subdelegada, mediante alienação ou renúncia a esse direito, nos termos da Lei no 8.666, de 1993, observado o disposto neste Capítulo.
+
+
+Parágrafo único. Quando do desfazimento de que trata o caput, em quaisquer de suas modalidades, devem ser adotadas as providências necessárias relativas à segurança da informação e à segurança física e patrimonial do bem. 
+
+
+Art. 47. O material permanente é passível de desfazimento quando classificado, quanto à sua situação patrimonial, como ocioso, recuperável, antieconômico ou irrecuperável, ou cuja permanência ou remanejamento no âmbito do TCU for considerado desaconselhável pela comissão indicada no § 2º deste artigo.
+
+
+§ 1º A unidade de patrimônio deverá efetuar, periodicamente, levantamento de bens suscetíveis de desfazimento.
+
+
+§ 2º A avaliação de bens suscetíveis de desfazimento fica a cargo de comissão composta por três membros, designada pelo Secretário-Geral de Administração, quando se tratar de bens da Sede e, pelos respectivos dirigentes, na hipótese de bens das Secretarias nos Estados e no ISC.
+
+
+§ 3º A Segedam pode, em casos especiais, autorizar a contratação, por prazo determinado, de serviço de empresa ou profissional especializado para assessorar a comissão quando se tratar de material de grande complexidade, vulto, valor estratégico ou cujo manuseio possa oferecer risco a pessoas, instalações ou ao meio ambiente.
+
+
+Art. 48. Nos casos de venda ou permuta, o valor do material atribuído pela comissão a que se refere o artigo anterior deve ser calculado em conformidade com os preços atualizados e praticados no mercado ou, na impossibilidade de obtê-los, por valor atribuído por avaliador competente.
+
+
+Parágrafo único. Decorridos mais de cento e vinte dias contados da data de avaliação, o material deverá ter o seu valor reavaliado.
+
+
+
+Seção II
+
+
+
+
+Da Doação
+
+
+
+Art. 49. A doação de bens ociosos e recuperáveis é realizada por meio de oferta pública, pelo prazo mínimo de cinco dias úteis, e obedece à seguinte ordem:
+
+
+I - órgãos ou entidades federais, que deverão ser informados dos bens passíveis de doação por meio de mensagem no Siafi, observando-se preferência aos órgãos da Administração Pública Federal Direta de qualquer esfera de poder;
+
+
+II -  órgãos ou entidades da esfera estadual ou do Distrito Federal, vinculados às áreas de Saúde, Educação ou Segurança Pública, observando-se preferência às entidades localizadas no mesmo Estado da unidade doadora; e
+
+
+III - órgãos ou entidades da esfera municipal, vinculados às áreas de Saúde, Educação ou Segurança Pública, observando-se preferência às entidades localizadas no mesmo Estado da unidade doadora. 
+
+
+§1º Caso haja interesse na doação, as tratativas entre o TCU e o órgão escolhido deverão ser formalizadas. 
+
+
+§ 2º Se houver mais de um ente inscrito na mesma ordem de preferência, o critério de atendimento deverá ser o do pedido de doação com data de solicitação mais antiga.
+
+
+Art. 50. A doação de bens para entidades filantrópicas de interesse público só poderá ocorrer no caso de bens antieconômicos e irrecuperáveis, nos termos desta Portaria, observados os seguintes critérios de preferência:
+
+
+I - data de protocolo ou do recebimento do pedido de doação; e
+
+
+II - data de criação da entidade, segundo informação constante do respectivo Estatuto.
+
+
+Art. 51. A doação somente será realizada em benefício de entidades filantrópicas reconhecidas como de utilidade pública pelo Governo Federal, fato a ser devidamente comprovado por cópia autenticada da seguinte documentação:
+
+
+I - certificado de registro no órgão nacional de assistência social competente;
+
+
+II - registro no Cadastro Geral de Pessoas Jurídicas (CNPJ/MF); e
+
+
+III - ata da eleição da diretoria executiva em exercício.
+
+
+Parágrafo único. As doações a uma mesma entidade serão limitadas a dois lotes de bens por biênio.
+
+
+Art. 52. Os bens inservíveis, destinados às entidades filantrópicas, serão separados em três grupos: 
+
+
+I - informática;
+
+
+II - mobiliário geral; e
+
+
+III - equipamentos diversos.
+
+
+§ 1º A formação dos lotes de bens para doação pode incluir bens dos três grupos referidos no caput, respeitando-se os quantitativos mínimos e máximos previstos nos Anexos I e II desta Portaria, cabendo à Segedam decidir sobre casos de doação com quantitativos diferentes dos mencionados nesses Anexos. 
+
+
+§ 2º Cada um dos três grupos será formado por bens de mesma natureza contábil, sendo que os mais relevantes são definidos como itens-padrão. 
+
+
+§ 3º Para a formação dos lotes de bens, a quantidade dos itens-padrão não pode ser inferior à quantidade mínima por grupo, conforme o Anexo I desta Portaria.
+
+
+§ 4º A quantidade de cada um dos itens-padrão que compõem o lote de bens não pode ser superior à quantidade máxima individual estabelecida no Anexo II desta Portaria.
+
+
+Art. 53. Não ocorrendo a doação de bens nas formas previstas nesta Seção, por falta de manifestação de interesse ou não atendimento às condições legais para recebimento, o processo de doação deverá ser submetido à apreciação da Segedam para avaliação quanto à possibilidade de desfazimento nos termos desta Portaria.
+
+
+
+Seção III
+
+
+
+
+Da Renúncia
+
+
+
+Art. 54. Quando a comissão responsável verificar a impossibilidade ou a inconveniência da alienação de material classificado como irrecuperável, a autoridade competente pode determinar a renúncia ao direito de propriedade, por meio de inutilização e descarte, após a retirada das partes economicamente aproveitáveis ou que permitam a identificação do TCU.
+
+
+§ 1º A inutilização consiste na destruição total ou parcial de material e o descarte é realizado nos locais apropriados, indicados pela Administração Pública.
+
+
+§ 2º A inutilização e o descarte, sempre que necessários, serão realizados mediante consulta a unidades especializadas do TCU, de forma a terem a eficácia assegurada.
+
+
+§ 3º Materiais específicos, a exemplo de símbolos nacionais, armas, munições e materiais pirotécnicos, de natureza tóxica, venenosa ou contaminados por radioatividade, serão inutilizados com a observância de legislação específica.
+
+
+CAPÍTULO XI
+
+
+DA BAIXA PATRIMONIAL
+
+
+Art. 55. Considera-se baixa patrimonial a retirada de bem do patrimônio do Tribunal, mediante registro da transferência deste para o controle de bens baixados, autorizada pela Presidência do TCU ou por servidor com essa competência delegada ou subdelegada, em processo administrativo instruído com a justificativa correspondente. 
+
+
+§ 1º O NP de um bem baixado não deverá ser aproveitado para qualquer outro bem.
+
+
+§ 2º A baixa patrimonial pode ocorrer por quaisquer formas de desfazimento previstas nesta Portaria ou após o devido processo de apuração de irregularidades.
+
+
+§ 3º Após autorizada, a baixa patrimonial dependerá, para sua efetivação, da anuência do dirigente da unidade central de patrimônio.
+
+
+§ 4º Para fins de registro no Siafi, a unidade central de patrimônio deve encaminhar os documentos relativos à baixa patrimonial de bens da Sede do TCU à Setorial Contábil ou, no caso de bens do ISC e das Secretarias nos Estados, às respectivas unidades gestoras.
+
+
+CAPÍTULO XII
+
+
+DAS IRREGULARIDADES
+
+
+Art. 56. Considera-se irregularidade toda ocorrência que resulte em prejuízo ao TCU, relativamente a bens de sua propriedade, ou de terceiros sob sua responsabilidade, percebida por qualquer servidor em desempenho do trabalho ou resultante de levantamentos em inventários.
+
+
+§ 1º As irregularidades podem decorrer de:
+
+
+I - extravio: não localização de bem ou de seus componentes;
+
+
+II - avaria: danificação parcial ou total de bem ou de seus componentes por desgaste natural, por emprego ou operação inadequados de equipamentos e materiais, por imperícia, por eventos imprevisíveis e por eventos previsíveis de consequências incalculáveis;
+
+
+III - inobservância de prazos de garantia: deixar de solicitar a garantia prevista em contrato, ou executar reparo, manutenção ou modificações em bens durante período de garantia sem autorização da unidade central de patrimônio;
+
+
+IV - falta de aceite: deixar de aceitar o bem dentro do prazo estabelecido nesta Portaria, no sistema Patrimônio; e
+
+
+V - falta de comunicação imediata à unidade de patrimônio: deixar de comunicar imediatamente a unidade de patrimônio após a constatação de quaisquer irregularidades previstas nesta Portaria, exceto no caso mencionado no inciso I deste parágrafo, hipótese em que deverá comunicar à unidade de segurança e serviços de apoio.
+
+
+§ 2º Poderá ser considerada imperícia, entre outros casos, a instalação inadequada de equipamentos eletroeletrônicos na rede elétrica.
+
+
+Art. 57. Ao constatar irregularidade, o detentor de carga ou o responsável deve:
+
+
+I - no caso de extravio que envolva o uso de violência, como roubo, arrombamento, ou que venha a colocar em risco a guarda e a segurança de bens móveis, comunicar o fato à unidade de segurança e serviços de apoio, que por sua vez deve:
+
+
+1. adotar as providências imediatas para reaver ou recuperar o bem;
+
+
+1. orientar o comunicante para preservar o local para eventual perícia; e
+
+
+c) comunicar o fato à unidade de patrimônio e ao Departamento de Polícia Federal (DPF), se for o caso.
+
+
+II - nos demais casos de extravio e das irregularidades descritas neste artigo, comunicar o fato à unidade de patrimônio.
+
+
+Parágrafo único. Em caso de extravio de bem que contenha informação produzida ou custodiada pelo TCU, o fato deve ser imediatamente comunicado como incidente de segurança da informação, nos termos da Política Corporativa de Segurança da Informação (PCSI/TCU).
+
+
+Art. 58. Recebida a comunicação ou constatada uma irregularidade, a unidade de patrimônio deve:
+
+
+I - levantar informações para subsidiar, em especial, a instrução de processo de apuração de responsabilidades:
+
+
+1. junto ao detentor de carga, ao responsável e às pessoas envolvidas;
+
+
+1. no sistema Patrimônio;
+
+
+1. no local de ocorrência da irregularidade; e
+
+
+1. com equipes especializadas e entidades conveniadas.
+
+
+II - no caso de extravio, notificar o detentor de carga ou o responsável, para que em quinze dias corridos:
+
+
+1. localize o bem dado como desaparecido;
+
+
+b) reponha outro bem de mesmas características ou superiores, após aprovação prévia da unidade central de patrimônio; e
+
+
+c) apresente justificativas do extravio, para inclusão no devido processo de apuração de responsabilidade.
+
+
+III - na hipótese de avaria em que a perda das características do material decorreu do uso normal ou de outros fatores que independem da ação do usuário, propor ao Secretário-Geral de Administração a baixa patrimonial em processo administrativo;
+
+
+IV - quando de avaria resultante de emprego ou operação inadequados de equipamentos e materiais, por imperícia ou quando comprovados o desleixo ou a má-fé, apresentar a irregularidade, com avaliação dos valores dos prejuízos causados, para apreciação pelo Secretário-Geral de Administração;
+
+
+V - no caso de reparo, manutenção ou modificações, não autorizados pela unidade de patrimônio, de bens em período de garantia, apresentar a irregularidade, com avaliação dos custos envolvidos e do eventual prejuízo de perda de garantia, para apreciação pelo Secretário-Geral de Administração; e
+
+
+VI - quando de falta de aceite, apurar o fato e, quando necessário, informar à unidade de controle interno e à Corregedoria do TCU.
+
+
+Art. 59. A unidade de patrimônio encaminhará processo de apuração de responsabilidade, com relatório de irregularidades não sanadas, cálculo de indenizações devidas, levantadas a qualquer tempo ou em quaisquer inventários, à Corregedoria do TCU e à unidade de controle interno, para ciência, e à Segedam, para a adoção das seguintes providências:
+
+
+I - analisar a irregularidade e a justificativa apresentada, quando houver, e determinar que o servidor responsabilizado arque com as despesas de conserto ou indenização dos valores envolvidos, com eventuais prejuízos causados pela perda de garantia;
+
+
+II - designar comissão de apuração de irregularidades, cujo relatório deve abordar os seguintes tópicos para orientar o julgamento do servidor envolvido quanto à responsabilidade pelo ocorrido no evento:
+
+
+a) ocorrência e suas circunstâncias;
+
+
+b) estado em que se encontra ou se encontrava o material;
+
+
+c) valor do bem no estado em que se encontra ou se encontrava;
+
+
+d) se há ou havia matéria-prima ou componentes passíveis de reaproveitamento;
+
+
+e) sugestão sobre o destino a ser dado ao material, se for o caso; e
+
+
+f) caracterização da responsabilidade da pessoa envolvida.
+
+
+III - analisar a justificativa apresentada e, em caso de acolhimento, não imputar ao servidor envolvido ressarcimento de prejuízos e danos causados.
+
+
+Art. 60. A comissão de apuração de irregularidades de que trata o inciso II do artigo anterior será composta de, no mínimo, três servidores.
+
+
+Parágrafo único. Os servidores mencionados no caput deverão ser – obrigatoriamente na Sede do TCU e, preferencialmente, no ISC e nas unidades nos Estados – um com formação em Direito, um com conhecimentos de controle patrimonial e outro com experiência em procedimentos de segurança e serviços de apoio.
+
+
+Art. 61. O servidor será responsabilizado civilmente quando comprovada sua culpa ou dolo por irregularidade com bens de propriedade ou responsabilidade do TCU, assegurados o contraditório e a ampla defesa, sem prejuízo das sanções administrativas e penais cabíveis.
+
+
+Parágrafo único. A apuração de irregularidades será realizada conforme os dispositivos constantes desta Portaria.
+
+
+CAPÍTULO XIII
+
+
+DA AVALIAÇÃO PARA fins de INDENIZAÇÃO
+
+
+Art. 62. O valor de avaliação de bens, para fins de indenização do ativo imobilizado do TCU, disposto nesta Portaria, será calculado da seguinte forma: 
+
+
+I - inicialmente, será realizada a avaliação do bem, a qual será obtida pelo valor de mercado de bem novo que possua as mesmas características ou superiores;
+
+
+II - na impossibilidade de se obter o valor de mercado do bem, deverá ser atualizado o valor de aquisição pelo Índice de Preços ao Consumidor Amplo (IPCA), ou outro índice que o venha substituir; e
+
+
+III - após a obtenção do novo valor, na forma dos incisos anteriores, observando-se as normas da STN sobre depreciação, calcula-se o percentual de depreciação a que o bem extraviado estaria sujeito na data de comunicação do fato à unidade de patrimônio, e aplica-se, para cálculo da indenização, este percentual de depreciação sobre o valor anteriormente obtido.
+
+
+§ 1º Caso o bem já se encontre totalmente depreciado, mesmo após ter sido reavaliado, o valor a ser ressarcido corresponderá ao valor residual registrado do bem. 
+
+
+§ 2º Bens a exemplo de livros, obras de arte, antiguidades, bens de valor histórico e correlatos não são depreciados na respectiva avaliação.
+
+
+§ 3º Quando necessário, para obter o valor de mercado do bem, de acordo com as suas peculiaridades, a unidade de patrimônio poderá solicitar avaliação por profissional especialista ou servidor do TCU de área especializada.
+
+
+§ 4º A indenização dos bens deve compensar não só o valor das peças avariadas ou extraviadas, mas, também, o dano causado a todo conjunto.
+
+
+§ 5º A comissão de apuração de irregularidades deve atualizar os cálculos de valores de indenização nos termos desta Portaria.
+
+
+Art. 63. O valor de avaliação a ser indenizado pode, mediante autorização do Secretário-Geral de Administração, ter o pagamento dividido, observando-se o disposto na Lei no 8.112, de 11 de dezembro de 1990, quanto a indenizações e reposições ao erário. 
+
+
+§ 1º Conforme acordo com o servidor, a indenização pode ser descontada em folha de pagamento ou recolhida à União, via Guia de Recolhimento da União (GRU), conforme código a ser fornecido pela Setorial Contábil.
+
+
+§ 2º Valores recolhidos após o mês do respectivo cálculo da indenização poderão ser atualizados monetariamente pela taxa Selic, a partir do primeiro dia útil subsequente à elaboração do cálculo pela unidade central de patrimônio.	
+
+
+Art. 64. As indenizações ao erário não efetuadas no prazo estipulado na apuração de irregularidades serão apresentadas à Segedam para inscrição em dívida ativa da União e demais providências cabíveis.
+
+
+CAPÍTULO XIX
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 65. Os bens de valor relevante ou de significado especial para o TCU podem ser segurados, de acordo com proposta de unidade de patrimônio e a respectiva anuência do Secretário-Geral de Administração na Sede do TCU, do Diretor-Geral no ISC ou dos Secretários nas unidades do TCU nos Estados.
+
+
+Art. 66. Cabe ao Secretário-Geral de Administração – ouvido, quando couber, o Comitê de Segurança Institucional (Cosin) – editar normas complementares às atividades de controle patrimonial, bem como dirimir os casos omissos nesta Portaria. 
+
+
+Art. 67. Ficam revogadas as Portarias-TCU nºs 6, de 13 de janeiro de 2004; 358, de 25 de novembro de 2009; 122, de 10 de maio de 2011; e 144, de 10 de junho de 2011.
+
+
+Art. 68. Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+
+ANEXO I DA PORTARIA-TCU Nº 307, DE 11 DE NOVEMBRO DE 2014.
+
+
+QUANTIDADE MÍNIMA POR GRUPO DE ITENS-PADRÃO PARA FORMAÇÃO DE LOTES
+
+
+Grupo de itens-padrão
+
+Itens-padrão
+
+Quantidade mínima
+
+Informática
+
+Computador de mesa, computador portátil, monitor, impressora/multifuncional, scanner de mesa ou servidor de rede.
+
+15
+
+Mobiliário geral
+
+Mesa para escritório, estação de trabalho, cadeira, poltrona, sofá, armário ou estante.
+
+10
+
+Equipamentos diversos
+
+Aparelho telefônico, estabilizador, transformador, condicionador de ar portátil/parede, circulador/umidificador de ar, aparelho de televisão, aparelho de som ou projetor multimídia.
+
+10
+
+
+
+
+
+ANEXO II DA PORTARIA-TCU Nº 307, DE 11 DE NOVEMBRO DE 2014.
+
+
+QUANTIDADE MÁXIMA INDIVIDUAL DE  ITENS-PADRÃO PARA COMPOSIÇÃO DO LOTE
+
+
+ Grupo de bens
+
+Itens-padrão
+
+Quantidade 
+
+Máxima
+
+Informática
+
+Computador de mesa
+
+20 
+
+Computador portátil
+
+5
+
+Monitor
+
+20
+
+Impressora/multifuncional
+
+10
+
+Scanner de mesa
+
+10
+
+Outros
+
+20
+
+Mobiliário
+
+ Geral
+
+Mesa para escritório/estação de trabalho
+
+20
+
+Cadeira/poltrona
+
+50
+
+Sofá
+
+5
+
+Armário/estante
+
+20
+
+Outros
+
+50
+
+Equipamentos diversos
+
+Aparelho telefônico
+
+30
+
+Estabilizador/transformador
+
+30
+
+Condicionador de ar portátil/parede
+
+5
+
+Circulador/umidificador de ar
+
+5
+
+Aparelho de televisão
+
+3
+
+Aparelho de som
+
+3
+
+Projetor multimídia
+
+3
+
+Outros
+
+30
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre a política de gestão dos bens móveis pertencentes ao patrimônio do Tribunal de Contas da União (TCU).
+
+

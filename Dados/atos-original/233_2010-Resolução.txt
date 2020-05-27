@@ -1,0 +1,797 @@
+Resolução
+233/2010
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando a necessidade de facilitar o acesso da sociedade aos serviços prestados pelo Tribunal de Contas da União (TCU) e aprimorar o atendimento oferecido aos cidadãos;
+
+
+considerando as iniciativas em curso para a implantação do processo eletrônico de controle externo no âmbito do TCU e a necessidade de definição de procedimentos relativos à nova sistemática processual;
+
+
+considerando o disciplinamento contido na Lei nº 11.419, de 19 de dezembro de 2006, que dispõe sobre a informatização do processo judicial; 
+
+
+considerando o disposto na Medida Provisória nº 2.200-2, de 24 de agosto de 2001, que institui a Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), para garantir a autenticidade, a integridade e a validade jurídica de documentos eletrônicos;
+
+
+considerando que, nos termos da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), os acórdãos, votos e demais atos processuais podem ser registrados em arquivo eletrônico inviolável e assinados eletronicamente;
+
+
+considerando que os documentos em meio eletrônico produzidos com a utilização de processo de certificação disponibilizado pela ICP-Brasil presumem-se verdadeiros em relação aos signatários, na forma do art. 219 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);
+
+
+considerando o tratamento conferido à numeração de processos de recurso, nos termos da Resolução-CNJ nº 65, de 16 de dezembro de 2008;
+
+
+considerando a necessidade de regulamentar a utilização de serviços eletrônicos prestados pelo TCU por meio de portal na Internet; e
+
+
+considerando os estudos e os pareceres constantes do processo TC 017.920/2010-8, acerca do funcionamento do processo eletrônico e demais serviços eletrônicos ofertados pelo TCU, bem assim os do processo TC 023.402/2009-1, a respeito da validade jurídica dos documentos eletrônicos, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES INICIAIS
+
+
+Art. 1º O funcionamento do processo eletrônico e demais serviços eletrônicos ofertados por meio de solução denominada TCU-eletrônico (e-TCU) obedece ao disposto nesta Resolução, observada a legislação vigente.
+
+
+Art. 2º Para os efeitos desta Resolução, entende-se por:
+
+
+I – usuário interno: autoridade ou servidor ativo do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+II – usuário colaborador: prestador de serviço terceirizado, estagiário ou qualquer outro colaborador do TCU que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal;
+
+
+III – usuário externo: qualquer pessoa física ou jurídica que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU e que não seja caracterizada como usuário interno ou colaborador;
+
+
+IV – documento eletrônico: documento armazenado sob a forma de arquivo eletrônico, inclusive aquele resultante de digitalização;
+
+
+V – processo eletrônico: conjunto de documentos eletrônicos e atos processuais organicamente acumulados no curso de uma ação administrativa ou de controle externo do TCU;
+
+
+VI – assinatura eletrônica: registro realizado eletronicamente por usuário identificado de modo inequívoco com vistas a firmar determinado documento com sua assinatura;
+
+
+VII – certificação digital: conjunto de procedimentos que asseguram a integridade das informações e a autoria das ações realizadas em meio eletrônico, mediante assinatura eletrônica;
+
+
+VIII – peça processual: documento juntado aos autos do processo devendo conter, quando cabível, a respectiva assinatura eletrônica;
+
+
+IX – gestão documental: conjunto de procedimentos que objetiva garantir a produção, a manutenção e a preservação, ao longo do tempo, de documentos fidedignos, autênticos, acessíveis e compreensíveis, independentemente da forma ou do suporte em que a informação resida;
+
+
+X – custodiante: pessoa ou unidade do TCU que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+XI – unidade competente: unidade que detém atribuição institucional afeta ao assunto principal tratado em determinado documento; e
+
+
+XII – unidade gestora de solução de tecnologia da informação: unidade organizacional do TCU responsável por definições relativas a processos de trabalho, regras de negócio, requisitos e utilização de determinada solução de tecnologia da informação.
+
+
+CAPÍTULO II
+
+
+DO FUNCIONAMENTO DO E-TCU
+
+
+Art. 3º O e-TCU constitui-se em canal de serviços eletrônicos oferecidos por meio do Portal do Tribunal na Internet (Portal TCU), disponível para usuários internos, colaboradores e externos, e contempla, entre outras, as seguintes funcionalidades:
+
+
+I – assinatura eletrônica de documentos produzidos eletronicamente ou resultantes de digitalização;
+
+
+II – registro, autuação, instrução e gestão de informações, documentos e processos;
+
+
+III – transferência e divulgação de informações para pessoas, órgãos ou entidades interessados em determinado processo;
+
+
+IV – comunicações e demais atos processuais, inclusive os relacionados às deliberações do TCU;
+
+
+V – atendimento de solicitação formulada por órgão, entidade ou agente legitimado, nos termos dos normativos em vigor;
+
+
+VI – envio de documentos ao TCU; e
+
+
+VII – intercâmbio eletrônico de informações com outros órgãos e entidades.
+
+
+§ 1º Em razão da natureza do serviço, há funcionalidades do e-TCU cujo acesso é exclusivo para usuários internos. § 2º O tipo de operações autorizadas, nas funcionalidades que compõem o e-TCU, para usuários internos, colaboradores e externos, será definido pela respectiva unidade gestora da solução de tecnologia da informação, observado o disposto nesta Resolução e em normativos específicos do Tribunal.
+
+
+§ 3º A incorporação de serviços ao e-TCU será realizada gradualmente em função da implantação de funcionalidades tecnológicas e de alterações regimentais e normativas.
+
+
+§ 4º A oferta de serviços no âmbito do e-TCU não dispensa sua prestação, mediante atendimento presencial nas unidades do Tribunal, ressalvadas as hipóteses previstas em ato do Presidente. 
+
+
+Art. 4º São diretrizes que regem o e-TCU:
+
+
+I – confiabilidade e integridade das informações relativas a documentos e processos cadastrados nas bases de dados corporativas;
+
+
+II – transparência, disponibilidade e agilidade na obtenção, pelo usuário, de informações seguras e precisas sobre deliberações do TCU e andamento de processos, inclusive com possibilidade de leitura das peças produzidas em cada fase, observado o grau de confidencialidade atribuído às informações, consoante os normativos do Tribunal;
+
+
+III – garantia de disponibilidade dos serviços de tecnologia da informação, de modo a assegurar a possibilidade de utilização institucional dos recursos tecnológicos do TCU mesmo com a ocorrência de imprevistos;
+
+
+IV – integração de soluções de tecnologia da informação, com redução gradativa do quantitativo de sistemas utilizados no TCU, bem como melhoria no alinhamento das soluções com as necessidades de negócio;
+
+
+V – aprimoramento da usabilidade das soluções de tecnologia da informação, com padronização de interfaces e da lógica de utilização das funcionalidades tecnológicas;
+
+
+VI – facilidade e agilidade na obtenção, pelas unidades da Secretaria do TCU, de informações gerenciais e de caráter estratégico relativas a documentos e processos;
+
+
+VII – celeridade no andamento processual e na movimentação de documentos no âmbito do TCU;
+
+
+VIII – modernização contínua dos processos de trabalho corporativos do TCU, com intensificação do uso de tecnologia da informação.
+
+
+IX – implantação de serviços eletrônicos de modo alinhado aos princípios da Política de Gestão de Pessoas do TCU, com provimento de inovações tecnológicas e de funcionalidades que possibilitem o aperfeiçoamento de práticas institucionais de gestão de pessoas;
+
+
+X – automatização de procedimentos operacionais, com redirecionamento da força de trabalho neles empregada para realização de outras atribuições; e
+
+
+XI – adoção de práticas de gestão alinhadas com os princípios da sustentabilidade e com a redução dos impactos ambientais decorrentes da atividade institucional.
+
+
+XII - cumprimento dos requisitos de transparência dispostos pela Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal) e pela lei de diretrizes orçamentárias em vigor, bem como dos dispositivos de acesso à informação de que trata a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação). (AC)(Resolução-TCU nº 249, de 02/05/2012, BTCU nº 16/2012, DOU de 07/05/2012)
+
+
+
+Art. 5º Para utilização do e-TCU é necessário:
+
+
+I – autorização de acesso às funcionalidades da solução de tecnologia da informação, para usuário interno e colaborador, mediante prévio cadastramento de conta de identificação única do usuário, senha e concessão de perfis de acesso; ou
+
+
+II – prévio credenciamento de usuário externo, para os demais serviços.
+
+
+§ 1º O credenciamento de que trata o inciso II deste artigo é ato pessoal e dar-se-á a partir de solicitação efetuada no Portal TCU.
+
+
+§ 2º O credenciamento importará aceitação das condições regulamentares que disciplinam o e-TCU, mediante assinatura de termo de adesão, e da responsabilidade do usuário pelo uso indevido da solução de tecnologia da informação.
+
+
+§ 3º A autorização do credenciamento e a consequente liberação dos serviços disponíveis no e-TCU dependem de prévia aprovação por parte do Tribunal, a qual será concedida após análise do cumprimento dos requisitos necessários ao credenciamento e da verificação da legitimidade do usuário para acessar o serviço solicitado.
+
+
+§ 4º O descredenciamento dar-se-á:
+
+
+a) por solicitação expressa do usuário;
+
+
+b) em razão de uso indevido dos serviços do e-TCU ou do descumprimento das condições regulamentares que disciplinam sua utilização;
+
+
+c) quando da ocorrência de situações técnicas previstas em ato do Presidente; ou
+
+
+d) a critério da Administração, mediante ato motivado.
+
+
+§ 5º A consulta, no e-TCU, às informações classificadas como públicas pelo Tribunal, em conformidade com a Resolução-TCU nº 229, de 11 de novembro de 2009, prescinde de autorização ou credenciamento prévio.
+
+
+Art. 6º A utilização do e-TCU deve observar a Política Corporativa de Segurança da Informação do Tribunal.
+
+
+Art. 7º Os atos processuais praticados no e-TCU serão considerados realizados no dia e hora do respectivo registro eletrônico, conforme horário oficial de Brasília.
+
+
+Art. 8º Ato do Presidente definirá o horário de funcionamento do e-TCU, observados o período mínimo de expediente do Tribunal e a ampla divulgação aos usuários, ressalvada a ocorrência de eventuais problemas tecnológicos.
+
+
+§ 1º Quando o ato processual tiver que ser praticado em determinado prazo, por meio de petição eletrônica, serão considerados tempestivos aqueles efetivados até o horário previsto no instrumento normativo mencionado no caput.
+
+
+§ 2º Na hipótese de que trata o parágrafo anterior, a indisponibilidade técnica dos serviços do e-TCU, devidamente atestada pelo Tribunal, implica prorrogação automática do término do prazo para o primeiro dia útil seguinte à resolução do problema, em consonância com o § 2º do art. 10 da Lei nº 11.419, de 2006.
+
+
+Art. 9º Os processos e os documentos eletrônicos do TCU, inclusive os resultantes de digitalização, serão produzidos, assinados e armazenados em meio eletrônico, em ambiente seguro e por meio de tecnologia que garanta a integridade, a autenticidade e a disponibilidade das informações.
+
+
+Parágrafo único. O e-TCU deve contemplar os procedimentos e os controles de segurança da informação previstos no Tribunal, em especial, aqueles relativos à confidencialidade.
+
+
+CAPÍTULO III
+
+
+DA ASSINATURA ELETRÔNICA DE DOCUMENTOS
+
+
+Art. 10. Os documentos eletrônicos produzidos no TCU terão garantia de autoria, autenticidade e integridade asseguradas, nos termos da lei, mediante utilização de assinatura eletrônica nas seguintes modalidades:
+
+
+I – assinatura digital baseada em certificado digital, de uso pessoal e intransferível, emitido por autoridade certificadora credenciada à Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil); ou
+
+
+II – assinatura mediante login e senha.
+
+
+§ 1º Em caso de impossibilidade técnica, os documentos poderão ser produzidos em papel e assinados de próprio punho pela pessoa competente, devendo a versão assinada ser digitalizada e inserida na solução de tecnologia da informação do e-TCU, com a pertinente certificação digital.
+
+
+§ 2º Qualquer servidor ativo poderá certificar documentos eletrônicos oriundos da digitalização, quando solicitado, mediante uso da assinatura eletrônica descrita no inciso I deste artigo.
+
+
+
+§ 3º A prática de atos assinados eletronicamente importará aceitação das normas regulamentares sobre o assunto e da responsabilidade do usuário pela utilização indevida de sua assinatura eletrônica.
+
+
+§ 4º O certificado digital e a senha de acesso à solução de tecnologia da informação são de uso pessoal e intransferível, sendo de responsabilidade do titular sua guarda e sigilo.
+
+
+§ 5º Ato do Presidente disporá sobre as diretrizes relativas à validade e ao uso do certificado digital, a partir de proposta formulada pelo Comitê Gestor de Tecnologia da Informação e examinada pela Comissão de Coordenação Geral.
+
+
+Art. 11. As deliberações do TCU serão assinadas, nos termos do Regimento Interno do Tribunal, com a utilização de certificado digital.
+
+
+Parágrafo único. Julgado o processo, os arquivos eletrônicos relativos à deliberação do TCU não poderão sofrer ajuste em seu conteúdo no que concerne à matéria julgada, exceto nas hipóteses regimentais e mediante nova deliberação do Tribunal.
+
+
+CAPÍTULO IV
+
+
+DOS DOCUMENTOS E PROCESSOS ELETRÔNICOS
+
+
+
+Seção I
+
+
+
+
+Das Regras de Uso
+
+
+
+Art. 12. O procedimento, no âmbito do TCU, para recebimento, autuação e tramitação de processos e documentos, independentemente da natureza do suporte que os contém, observa o disposto na Resolução-TCU nº 191, de 21 de junho de 2006, ressalvados os requisitos específicos ao meio eletrônico estabelecidos nesta Resolução.
+
+
+Art. 13. Os documentos serão recebidos pelo TCU, preferencialmente em meio eletrônico, e devem atender aos requisitos de autenticidade, integridade e validade jurídica preconizados pela ICP-Brasil, bem como outros indicados pelo Tribunal.
+
+
+Art. 14. Os documentos em papel recebidos pelo TCU devem ser digitalizados e os documentos eletrônicos resultantes desse procedimento, após certificação digital que garanta a fidedignidade da versão eletrônica, serão considerados originais para todos os efeitos legais.
+
+
+§ 1º O documento em papel objeto de digitalização será mantido pela unidade competente pelo prazo de retenção devido e o descarte será realizado nos termos indicados em ato do Presidente do TCU.
+
+
+§ 2º Objetos cuja digitalização não seja tecnicamente possível devem ser convertidos em arquivo eletrônico por meios alternativos, tais como captura de vídeo, imagem fotográfica ou áudio, de modo a viabilizar a inserção deles nos autos eletrônicos, cabendo a devolução desses objetos ao respectivo fornecedor.
+
+
+§ 3º Na hipótese de o arquivo eletrônico a que se refere o parágrafo anterior apresentar formato que inviabilize o exame no âmbito dos autos eletrônicos, o objeto deve ser identificado como documento físico vinculado ao processo e enviado à unidade competente para guarda e posterior devolução ao fornecedor ou descarte, nos termos definidos em ato do Presidente.
+
+
+Art. 15. Os documentos produzidos eletronicamente e inseridos em processos com a devida assinatura eletrônica são considerados originais para todos os efeitos legais.
+
+
+Art. 16. Os extratos digitais e os documentos digitalizados e juntados aos autos com a devida certificação digital, por usuário interno, têm a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.
+
+
+Parágrafo único. A arguição de falsidade do documento original será processada na forma da legislação em vigor.
+
+
+Art. 17. A conversão de documentos para o meio eletrônico deve observar os procedimentos e os controles de segurança da informação previstos no TCU, em especial, aqueles relativos à confidencialidade.
+
+
+Art. 18. Os documentos e processos eletrônicos devem ser classificados no âmbito do e-TCU, em especial, quanto à confidencialidade e ao prazo de retenção, em consonância com normativos do Tribunal.
+
+
+Parágrafo único. A classificação quanto ao prazo de retenção é feita mediante Código de Classificação de Documentos de Arquivo estabelecido em ato do Presidente e disponível na solução de tecnologia da informação do e-TCU.
+
+
+Art. 19. O processo eletrônico deve observar os seguintes requisitos:
+
+
+I – ser integralmente eletrônico, ressalvada a existência de documentos físicos vinculados ao processo, nos termos do § 3º do art. 14 desta Resolução;
+
+
+II – ser formado de maneira cronológica e sequencial, com numeração contínua de peças, não cabendo a organização em anexos e o desdobramento em volumes;
+
+
+III – possibilitar a consulta a conjuntos segregados de peças processuais, inclusive quanto à identificação desses como de natureza urgente, consoante determinações normativas;
+
+
+IV – permitir a vinculação entre processos, a ser utilizada nos casos de recurso, apensamento, monitoramento, cobrança executiva e outras situações que requeiram a autuação de novo processo a partir de um originador, de modo a permitir a consulta a partir de qualquer um deles;
+
+
+V – ter os atos processuais realizados preferencialmente em meio eletrônico, com autenticação garantida mediante assinatura eletrônica; e
+
+
+VI – propiciar consulta a arquivos eletrônicos que originaram peça processual, desde que disponíveis para o TCU, de modo a possibilitar a utilização das funcionalidades a eles inerentes, observado o grau de confidencialidade atribuído às informações, em consonância com os normativos do Tribunal.
+
+
+§ 1º A autuação de processos eletrônicos dispensa a realização de procedimentos típicos de processo em papel, tais como, capeamento, inclusão de termo de abertura, numeração de folhas e aposição de etiqueta padronizada.
+
+
+§ 2º O apensamento de processo em papel a autos eletrônicos deve ser precedido da conversão do processo para meio eletrônico, nos termos dispostos nesta Resolução.
+
+
+§ 3º A inserção e o desentranhamento de peças no processo eletrônico implicam registro eletrônico e são realizados por usuário interno ou, para situações previstas em normativos, de modo automático pela solução de tecnologia da informação do e-TCU.
+
+
+§ 4º A solução de tecnologia da informação do e-TCU deve permitir a realização de atos simultâneos no processo eletrônico quando esses não implicarem prejuízo ao tratamento adequado das situações processuais.
+
+
+Art. 20. A exclusão de peça processual indevidamente juntada aos autos eletrônicos pode ser realizada mediante prévia autorização:
+
+
+I – do responsável pela inclusão da peça, quando não houver peças posteriores à que será excluída; ou
+
+
+II – do relator ou do Presidente, nos respectivos processos de sua competência, cabendo delegação quando não se tratar de peça que subsidiou manifestação de colegiado do TCU.
+
+
+§ 1º O ato que autorizou a exclusão de que trata este artigo deve ser inserido eletronicamente nos respectivos autos.
+
+
+§ 2º A peça excluída dos autos deve ficar disponível para consulta, na solução de tecnologia da informação do e-TCU, observado o grau de confidencialidade atribuído às informações, em consonância com os normativos do Tribunal.
+
+
+§ 3º A exclusão de peça processual indevidamente juntada aos autos que subsidiou manifestação de Colegiado do TCU deverá ser comunicada a esse Colegiado na primeira sessão que suceder à exclusão.
+
+
+Art. 21. A retirada de autos em meio eletrônico das dependências do TCU, por parte de advogados, nos termos dispostos em lei, dar-se-á pela vista eletrônica ou, na impossibilidade, pela concessão gratuita de cópia eletrônica.
+
+
+
+Seção II
+
+
+
+
+Da Implantação do Processo Eletrônico de Controle Externo
+
+
+
+Art. 22. Ficam autorizados a implantação e o uso do processo eletrônico de controle externo no TCU a partir de 31 de agosto de 2010.
+
+
+§ 1° Ato do Presidente disciplinará a implantação do processo eletrônico nas unidades da Secretaria do TCU.
+
+
+§ 2º A implantação em cada unidade da Secretaria do TCU deve contemplar, entre outras ações, capacitação e divulgação acerca dos novos procedimentos adotados.
+
+
+§ 3º A partir da respectiva data de implantação, a unidade da Secretaria do TCU somente autuará novos processos em meio eletrônico, ressalvadas situações excepcionais previstas em normativo específico.
+
+
+§ 4º Os autos instaurados até a data de implantação do processo eletrônico continuarão tramitando, até seu encerramento definitivo, em papel, ressalvada a conversão para meio eletrônico prevista no § 2º do art. 19 e no parágrafo único do art. 29 desta Resolução.
+
+
+
+Seção III
+
+
+
+
+Do Funcionamento do Processo Eletrônico Administrativo
+
+
+
+Art. 23. Ato do Presidente definirá a data e as regras para integração do processo eletrônico administrativo às funcionalidades integrantes do e-TCU.
+
+
+Parágrafo único. Ficam mantidas, até a data a que se refere o caput, as atuais regras de funcionamento do processo eletrônico administrativo, aplicando-se, no que couber, o disposto nesta Resolução.
+
+
+Art. 24. A autuação de processos administrativos deve ser realizada, preferencialmente, em meio eletrônico.
+
+
+Parágrafo único. Os autos instaurados em papel continuarão tramitando, até seu encerramento definitivo, em papel, ressalvada a conversão para meio eletrônico prevista no § 2º do art. 19 e no parágrafo único do art. 29 desta Resolução.
+
+
+
+Seção IV
+
+
+
+
+Da Conservação dos Documentos e Processos em Meio Eletrônico
+
+
+
+Art. 25. O tratamento arquivístico – inclusive descarte – de documentos e processos eletrônicos deve observar procedimentos de gestão documental do TCU definidos mediante ato do Presidente. Parágrafo único. A gestão de documentos eletrônicos orienta-se pelos critérios da integridade e da disponibilidade das informações produzidas e custodiadas pelo TCU, respeitados os requisitos legais e os princípios de segurança da informação.
+
+
+Art. 26. Os documentos e processos eletrônicos constantes da base de dados corporativa devem ser armazenados em equipamentos e mídias que permitam acesso com celeridade compatível com as necessidades do negócio do TCU, e possuem como custodiantes:
+
+
+I – lógico: pessoa física, unidade ou projeto do Tribunal que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo TCU; e
+
+
+II – físico: Secretaria de Infraestrutura de Tecnologia da Informação.
+
+
+§ 1º Constitui-se em custodiante físico e lógico das informações, a pessoa física ou unidade do TCU que detenha a posse da mídia – tais como notebook ou pen drive – em que o documento eletrônico se encontre armazenado.
+
+
+§ 2º Ao custodiante, lógico e físico, incumbem as responsabilidades pela segurança da informação previstas na Resolução-TCU nº 217, de 15 de outubro de 2008.
+
+
+Art. 27. Ato do Presidente definirá Plano de Preservação de Documentos Eletrônicos, a partir de proposta formulada pelo Comitê Gestor de Tecnologia da Informação e examinada pela Comissão de Coordenação-Geral, ouvida a Comissão Permanente de Avaliação de Documentos.
+
+
+§ 1º O Plano de Preservação de Documentos Eletrônicos deve conter, entre outros elementos, a política de cópias de segurança (backup) e de recuperação em casos de perda de informação, bem como de retenção de versões de documentos eletrônicos.
+
+
+§ 2º O descarte de documentos e processos eletrônicos poderá ser realizado somente após aprovação do Plano de Preservação de Documentos Eletrônicos, ressalvados os procedimentos relativos a descarte de versões de documentos definidos pela Comissão de Coordenação-Geral. 
+
+
+Art. 28. Os autos dos processos em papel podem ser conservados total ou parcialmente em meio eletrônico.
+
+
+Art. 29. A conversão de autos em papel para o meio eletrônico envolve, necessariamente, a certificação digital que garanta a fidedignidade da versão eletrônica das peças processuais digitalizadas e deve observar os procedimentos definidos em normativo específico. 
+
+
+Parágrafo único. Ato do Presidente pode indicar data para início da conversão sistemática de processos em papel para o meio eletrônico.
+
+
+CAPÍTULO V
+
+
+DA COMUNICAÇÃO ELETRÔNICA DE ATOS PROCESSUAIS
+
+
+Art. 30. Fica incluído o § 4º no art. 3º da Resolução-TCU nº 170, de 30 de junho de 2004, nos seguintes termos:
+
+
+"Art. 3º (...)
+
+
+(...)
+
+
+§ 4º O uso do correio eletrônico deve observar os procedimentos definidos em ato do Presidente."
+
+
+Art. 31. Fica alterado e renumerado o parágrafo único, bem como incluído o § 2º no art. 12 da Resolução-TCU nº 170, de 2004, nos seguintes termos:
+
+
+"Art. 12 (...)
+
+
+(...)
+
+
+§ 1º O expediente citatório far-se-á acompanhar de demonstrativo de atualização de débito e, quando o valor deva ser recolhido ao Tesouro Nacional, da Guia de Recolhimento da União (GRU), devidamente preenchida com dados que não sofrerão modificações até a data indicada para pagamento.
+
+
+§ 2º Havendo disponibilização, no Portal TCU, do demonstrativo de atualização de débito, da GRU e de mecanismo que permita, quando for o caso, a atualização dos valores neles constantes, dar-se-á por atendido o disposto no parágrafo anterior desde que essa informação conste do expediente citatório."
+
+
+Art. 32. Fica alterado e renumerado o parágrafo único e incluído o § 2º no art. 14 da Resolução-TCU nº 170, de 2004, nos seguintes termos:
+
+
+"Art. 14 (...)
+
+
+(...)
+
+
+§ 1º O expediente será acompanhado de demonstrativo de atualização de débito e, quando o valor deva ser recolhido ao Tesouro Nacional, da GRU, devidamente preenchida com dados que não sofrerão modificações até a data indicada para pagamento.
+
+
+§ 2º Havendo disponibilização, no Portal TCU, do demonstrativo de atualização de débito, da GRU e de mecanismo que permita, quando for o caso, a atualização dos valores neles constantes, dar-se-á por atendido o disposto no parágrafo anterior desde que essa informação conste do expediente."
+
+
+Art. 33. Fica alterado o caput e incluído o § 3º no art. 15 da Resolução-TCU nº 170, de 2004, nos seguintes termos:
+
+
+"Art. 15. A notificação para pagamento de débito ou de multa deverá conter informações sobre o acórdão condenatório e demais elementos necessários ao recolhimento da dívida, fazendo-se acompanhar, quando cabível, do demonstrativo de atualização monetária e dos respectivos juros e, sendo o beneficiário do recolhimento o Tesouro Nacional, da GRU, devidamente preenchida com dados que não sofrerão modificações até a data indicada para pagamento.
+
+
+(...)
+
+
+§ 3º Havendo disponibilização, no Portal TCU, do demonstrativo de atualização de débito, da GRU e de mecanismo que permita, quando for o caso, a atualização dos valores neles constantes, dar-se-á por atendido o disposto no caput quanto aos documentos que devem acompanhar a notificação, desde que essa informação conste da notificação para pagamento de débito ou de multa."
+
+
+CAPÍTULO VI
+
+
+DA ALTERAÇÃO DE REGRAS RELATIVAS A DOCUMENTOS E PROCESSOS EM PAPEL E EM MEIO ELETRÔNICO
+
+
+Art. 34. Os §§ 2º e 6º do art. 5º da Resolução-TCU nº 191, de 2006, passam a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 5º (...)
+
+
+(...)
+
+
+§ 2º Devem compor os autos principais, entre outros, as instruções, pareceres, despachos, decisões monocráticas ou de colegiado, e os relatórios de fiscalização, juntados em ordem cronológica, exceto quando se referirem a solicitações ou outras matérias a serem submetidas à apreciação pelo TCU, que deverão ser inseridos nos respectivos anexos.
+
+
+(...)
+
+
+§ 6º Quando o anexo for criado para abrigar solicitação, essa condição deverá ser realçada na respectiva etiqueta, em local apropriado."
+
+
+Art. 35. Fica revogado o § 7º do art. 5º da Resolução-TCU nº 191, de 2006. (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+Art. 36. Ficam alterados os §§ 1º e 2º do art. 12 da Resolução-TCU nº 191, de 2006, nos seguintes termos:
+
+
+"Art. 12 (...)
+
+
+§ 1º A correspondência oficial de natureza sigilosa ou dirigida a autoridade será encaminhada fechada ao respectivo destinatário, com indicação, no envelope, do número de registro no sistema informatizado, cabendo à unidade do destinatário, se for o caso, a conversão para o meio eletrônico.
+
+
+§ 2º A correspondência de natureza sigilosa sem identificação da unidade destinatária será aberta pelos chefes dos setores de que trata o caput e encaminhada à unidade competente em envelope lacrado com a indicação de sigilo e do respectivo número de registro, cabendo à unidade do destinatário, se for o caso, a conversão para o meio eletrônico".
+
+
+Art. 37. Fica alterado o inciso IV do § 2º do art. 16 da Resolução-TCU nº 191, de 2006, nos seguintes termos: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 16 (...)
+
+
+(...)
+
+
+§ 2º (...)
+
+
+(...)
+
+
+IV – vermelha: recurso e matéria urgente, independentemente da natureza do processo, conforme previsto no art. 159 do Regimento Interno e nesta Resolução;"
+
+
+Art. 38. Fica alterado o § 5º e incluído o § 6º no art. 44 da Resolução-TCU nº 191, de 2006, nos seguintes termos: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 44 (...)
+
+
+(...)
+
+
+§ 5º Na hipótese de o processo de fiscalização ou de tomada de contas especial que houver motivado a interposição do recurso tratar de fatos relativos a mais de um exercício, deve-se buscar a reprodução dos documentos que fundamentam a proposta ou desentranhar os elementos para comporem o recurso.
+
+
+§ 6º Havendo outras questões que envolvam contas ordinárias ainda não julgadas, a matéria pertinente às contas julgadas deverá ser apartada e tratada exclusivamente no âmbito do recurso de revisão."
+
+
+Art. 39. O art. 47 da Resolução-TCU nº 191, de 2006, passa a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 47. O recurso que der entrada no TCU será encaminhado à unidade técnica responsável pelo processo objeto da deliberação recorrida, para fins de autuação de novo processo e de vinculação ao processo objeto do recurso, e enviado à Serur, com cópia eletrônica dos autos a que se refira, para exame preliminar de admissibilidade, ou ao gabinete do relator, nos casos de embargos de declaração e agravo.
+
+
+§ 1º Quando do registro de recurso no sistema de controle de processo deverá constar, em campo específico, informação de que se encontra pendente de exame de admissibilidade.
+
+
+§ 2º Fica dispensada a realização da cópia de que trata o caput quando forem eletrônicos os autos aos quais se refira o recurso.
+
+
+§ 3º A unidade ou o gabinete responsável pelo exame do recurso poderá solicitar os autos físicos para fins de subsídio ao exame, quando estiver em papel o processo objeto do recurso." 
+
+
+Art. 40. O caput e o § 4º do art. 48 da Resolução-TCU nº 191, de 2006, passam a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 48. Após efetuado o exame preliminar de admissibilidade, será realizado sorteio eletrônico de relator para o recurso, quando se tratar de recurso de reconsideração, recurso de revisão ou pedido de reexame.
+
+
+(...)
+
+
+§ 4º Nos casos em que a análise preliminar realizada pela Serur concluir tratar-se de petição que não possa ser conhecida como recurso de decisão com trânsito em julgado e que não haja viabilidade jurídica para interposição de quaisquer outros recursos, havendo delegação de competência do Presidente do TCU, caberá ao seu titular, ou a servidor a quem tiver sido subdelegada a competência, negar recebimento do pleito, restituindo a petição ao interessado."
+
+
+Art. 41. O caput e os §§ 2º e 3º do art. 50 da Resolução-TCU nº 191, de 2006, passam a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 50. Realizado o sorteio a que se refere o art. 48 desta Resolução, os autos serão encaminhados ao relator para apreciação da admissibilidade do recurso.
+
+
+(...)
+
+
+§ 2º Na hipótese do parágrafo anterior, a unidade técnica de origem deverá ser cientificada em relação à parte dispositiva não alcançada pelo efeito suspensivo, com vistas ao prosseguimento da execução da decisão, observado o disposto no § 1º do art. 285 do Regimento Interno do TCU, e o recurso deverá ser encaminhado à Serur para análise de mérito dos itens recorridos.
+
+
+§ 3º Ratificando o exame prévio de admissibilidade pelo conhecimento, o Relator determinará providências para instrução, saneamento e julgamento, salvo na hipótese do recurso de revisão interposto pelo Ministério Público junto ao TCU, com fundamento no art. 35, inciso III, da Lei 8.443/1992, c/c arts. 206, § 1º, e 288, § 2º e § 3º, do Regimento Interno, em que o processo deverá ser encaminhado à unidade técnica responsável pela condução do processo que deu causa à reabertura das contas, para identificação dos fatos, dos responsáveis, quantificação do débito, conforme o caso, e posterior instauração do contraditório e exame de mérito, nos termos do art. 288, § 3º, do Regimento Interno."
+
+
+Art. 42. O § 2º do art. 56 da Resolução-TCU nº 191, de 2006, passa a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+Art. 56 (...)
+
+
+(...)
+
+
+"§ 2º As petições autônomas procedentes do Ministério Público, devidamente acompanhadas dos elementos novos supervenientes necessários para análise dos recursos tendentes à reabertura de contas de mais de um exercício, observadas as disposições constantes nos §§ 2º e 3º do art. 44, formarão novos processos de recurso de revisão, nos termos desta Resolução."
+
+
+Art. 43. O § 4º do art. 57 da Resolução-TCU nº 191, de 2006, passa a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 57 (...)
+
+
+(...)
+
+
+§ 4º A comunicação de que trata o parágrafo anterior deste artigo será realizada pela unidade de origem."
+
+
+Art. 44. O art. 61 da Resolução-TCU nº 191, de 2006, passa a vigorar com a seguinte redação: (Vigência a partir de 01/09/2011) (Portaria-TCU nº 208, de 09/08/2011, BTCU nº 31/2011)
+
+
+
+"Art. 61. Apreciado o recurso e realizadas as comunicações processuais devidas, o processo de recurso deve ser encerrado no sistema."
+
+
+Art. 45. Fica incluído o art. 62-A na Resolução-TCU nº 191, de 2006, nos seguintes termos:
+
+
+"Art. 62-A. O atendimento às solicitações de informação ou de cópia, de informação para subsidiar ação judicial, ou de certidão ou informações para defesa de interesses particulares, coletivo ou geral, deve ser realizado, preferencialmente, por meio eletrônico.
+
+
+§ 1º A concessão de vista e de cópia dos autos será realizada em meio eletrônico, salvo por impossibilidade técnica.
+
+
+§ 2º Para os fins a que se refere este artigo, pode ser gerada cópia eletrônica dos autos em papel mediante digitalização, observados os procedimentos definidos em normativo específico.
+
+
+§ 3º A concessão de vista e de cópia dos autos, para atender solicitação de pessoa que não disponha de solução de tecnologia da informação compatível com aquela utilizada pelo TCU, deve ser realizada preferencialmente por meio de mídia eletrônica, que conterá, necessariamente, as peças processuais e os respectivos dados indispensáveis para identificar a organização processual ou, na impossibilidade de uso da mídia, por meio de cópia dos autos em papel."
+
+
+Art. 46. O § 3º do art. 2º da Resolução-TCU nº 175, de 2005, passa a vigorar com a seguinte redação:
+
+
+"Art. 2º (...)
+
+
+(...)
+
+
+§ 3° Nos casos em que não for possível a definição do relator, pelo critério estabelecido no caput, bem como a realização de sorteio automático mediante solução de tecnologia da informação, a documentação será autuada e os autos encaminhados à Secretaria das Sessões, para sorteio de relator, observados os procedimentos definidos em ato do Presidente."
+
+
+Art. 47. O caput e § 1º do art. 36 da Resolução-TCU nº 175, de 2005, passam a vigorar com a seguinte redação:
+
+
+"Art. 36. O sorteio de relator observará os procedimentos definidos em ato do Presidente.
+
+
+§ 1º Havendo urgência, poderá ser realizado sorteio a qualquer tempo, durante o horário de funcionamento do TCU, em consonância com o disposto no ato a que se refere o caput."
+
+
+CAPÍTULO VII
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 48. Incumbe ao Presidente, a partir de proposta formulada pelo Comitê de Segurança da Informação e examinada pela Comissão de Coordenação Geral, aprovar Plano de Continuidade de Negócios relativo ao e-TCU.
+
+
+§ 1º O Plano de que trata o caput deve conter, entre outros elementos, mecanismos de redundância de dados e plano de contingência, de modo a garantir a continuidade das atividades do Tribunal e o retorno à situação de normalidade em caso de desastre ou falhas nos recursos que suportam o e-TCU.
+
+
+§ 2º O plano de contingência relativo à funcionalidade do processo eletrônico do e-TCU deve ser submetido ao Presidente até dezembro de 2010. 
+
+
+Art. 49. Compete às Secretarias de Infraestrutura de Tecnologia da Informação e de Soluções de Tecnologia da Informação prover a contínua atualização tecnológica necessária à implantação plena e efetiva dos serviços previstos para o e-TCU.
+
+
+§ 1º Compete às secretarias a que se refere o caput adequar as soluções tecnológicas do Tribunal aos requisitos definidos pelas unidades gestoras das funcionalidades que compõem o e-TCU.
+
+
+§ 2º A infraestrutura de tecnologia da informação específica para preservação e recuperação de grandes volumes de documentos eletrônicos deve ser provida pela Secretaria de Infraestrutura de Tecnologia da Informação até dezembro de 2011.
+
+
+§ 3º A atualização tecnológica deve privilegiar o provimento de equipamentos e soluções de tecnologia da informação que mais preservem a saúde dos usuários.
+
+
+Art. 50. Ato do Presidente disporá sobre a gestão documental no TCU com a indicação de requisitos específicos ao meio eletrônico, a partir de proposta formulada pela Comissão Permanente de Avaliação de Documentos e examinada pela Comissão de Coordenação Geral até dezembro de 2010.
+
+
+Art. 51. A alocação de pessoas e os meios administrativos necessários ao eventual funcionamento do e-TCU em horário distinto daquele do expediente do Tribunal devem ser definidos em normativo específico, a partir de proposta formulada pelo Comitê de Gestão de Pessoas.
+
+
+Art. 52. Decorridos três anos da entrada em vigor desta Resolução, o Comitê de Gestão de Pessoas deve apresentar proposta de revisão das atribuições dos cargos efetivos que compõem o Quadro de Pessoal do TCU, constantes da Resolução-TCU nº 154, de 4 de dezembro de 2002, de modo a contemplar a evolução dos perfis profissionais requeridos em razão da implantação de funcionalidades do e-TCU e da consequente alteração dos processos de trabalho correlatos.
+
+
+Art. 53. Os atos processuais e demais ações realizadas no âmbito de processos e documentos eletrônicos terão seus registros mantidos nas bases corporativas para fins de auditoria, observado o prazo de retenção das informações disposto em ato do Presidente.
+
+
+Art. 54. Ficam convalidados os atos praticados por meio eletrônico até a data de início da vigência desta norma, relativos à solução de tecnologia da informação do processo eletrônico administrativo e às demais funcionalidades previstas no e-TCU, desde que sua finalidade tenha sido alcançada.
+
+
+Art. 55. O uso inadequado do e-TCU fica sujeito à apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 56. Os casos omissos relativos à assinatura eletrônica das deliberações do Tribunal serão resolvidos pelos respectivos Presidentes dos Colegiados, dando-se ciência ao Presidente do TCU, para fins de uniformização de procedimentos.
+
+
+Art. 57. Fica o Presidente autorizado a expedir os atos necessários à operacionalização desta Resolução e a dirimir os casos omissos, ressalvado o disposto no artigo anterior.
+
+
+Art. 58. Ficam revogadas a Resolução-TCU nº 228, de 21 de outubro de 2009, e a Portaria-TCU nº 118, de 29 de abril de 2010.
+
+
+Art. 59. Esta Resolução entra em vigor em 31 de agosto de 2010, à exceção dos arts. 34, 35 e 37 a 44, cuja vigência dar-se-á em data a ser definida em ato do Presidente. (NR)(Resolução – TCU nº 242,  de 26/01/2011,  DOU de 02/02/2011, BTCU nº 04/2011)
+
+
+
+Parágrafo único. Fica o Presidente do Tribunal autorizado a expedir os atos necessários para regular o tratamento processual a ser dado a recursos, no âmbito do TCU, no período compreendido entre a entrada em vigor desta Resolução e a vigência dos arts. 34, 35 e 37 a 44. (NR)(Resolução – TCU nº 242,  de 26/01/2011,  DOU de 02/02/2011, BTCU nº 04/2011)
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 4 de agosto de 2010.
+
+
+VALMIR CAMPELO
+
+
+na Presidência
+
+
+
+
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+Art. 59. Esta Resolução entra em vigor em 31 de agosto de 2010, à exceção dos arts. 34, 35, 37 a 44, cuja vigência inicia-se no primeiro dia útil de 2011.
+
+
+Parágrafo único. Ato do Presidente disporá sobre o tratamento processual a ser dado a recursos, no âmbito do TCU, no período compreendido entre a entrada em vigor desta Resolução e 31 de dezembro de 2010.
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o funcionamento do processo eletrônico e demais serviços eletrônicos ofertados por meio de solução denominada TCU-eletrônico (e-TCU), e altera as Resoluções-TCU nº 170, de 30 de junho de 2004, nº 175, de 25 de maio de 2005, e nº 191, de 21 de junho de 2006.
+
+

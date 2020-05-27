@@ -1,0 +1,626 @@
+Portaria
+188/2009
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no Art. 83, §1º, da Resolução-TCU nº 214, de 20 de agosto de 2008, e no Art. 5º da Portaria-TCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto de Sistematização dos Pareceres da Sefip, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Helio Kiyoshi Matayoshi, matrícula nº 2420-1, para exercer a atribuição de Coordenador de Projeto, sob regime de dedicação integral.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no Art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos do Tribunal de Contas da União.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+UBIRATAN AGUIAR
+
+
+Presidente
+
+
+
+
+
+
+
+
+1.	Identificação do gestor do projeto
+Nome do gestor
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+Helio Kiyoshi Matayoshi
+
+2420-1
+
+Heliokm@tcu.gov.br
+
+7663Função do gestor
+
+
+
+ Gerente
+
+
+
+xCoordenador
+
+
+
+ Líder
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+Cecília Taira
+
+76-0
+
+CecíliaTaira@tcu.gov.br
+
+7663Local / telefone
+
+
+
+Edifício Sede – Anexo II – Sala 3
+
+Telefones: 3316-7661  3316-7662  3316-7663
+
+
+2.	Identificação do projeto
+Nome do projeto
+
+
+
+Projeto de sistematização dos pareceres da Sefip.Período de realização
+
+Unidade patrocinadora
+
+
+
+18/05/2009 a 18/10/2009
+
+Secretaria de Fiscalização de Pessoal
+
+
+3.	Vinculação estratégica
+Plano Estratégico do TCU (Portaria – TCU nº 02, de 5 de janeiro de 2006).
+
+
+
+a) 
+
+Redução do tempo de apreciação de processos.
+
+b) 
+
+Ampliação do uso de tecnologia da informação nas ações de controle.
+
+c) 
+
+Aperfeiçoamento do processo de trabalho.Plano de Diretrizes do TCU
+
+
+
+a) 
+
+Diretrizes da perspectiva de priorização de processos internos. Objetivo 1: Reduzir o tempo de apreciação de processos.Plano Diretor da Unidade Patrocinadora
+
+
+
+a) 
+
+O Projeto é previsto na proposta do Plano Diretor da Sefip para 2009:
+
+Meta de melhoria 1: Redução do estoque de atos de pessoal com 4 anos ou mais de vigência.
+
+Ação 1.8. Desenvolver, por meio de projeto, e utilizar excertos de instrução padrão para os atos com proposta de ilegalidade.
+
+
+4.	Problema / oportunidade
+Descrição do problema ou da oportunidade 
+
+
+
+a) 
+
+Existe no âmbito da Sefip um conjunto de excertos técnicos em documentos Word, que tratam de temas recorrentes, que foram compilados e gravados em pasta pública para subsidiar o trabalho de instrução de processos de atos de pessoal pelo analista. O fato é que poucos utilizam estes documentos, pois estão desatualizados e constituem textos complexos e de difícil acesso.
+
+b) 
+
+É importante para a Sefip revitalizar e aperfeiçoar esse instrumento de trabalho, de modo que passe a integrar, em futuro próximo, o dia-a-dia desta Secretaria. Neste sentido, poder-se-ia lançar mão de recursos atualmente disponíveis como, por exemplo, o perfil Gestor Setorial do sistema Administrativo, para inclusão de modelos diretamente no Sisac 3.
+
+c) 
+
+ Evolução do quadro (apresentar dados)
+
+
+
+a) 
+
+Situação atual: cada analista ou técnico elabora sua própria instrução. Eventualmente, reaproveita o trabalho elaborado por outro colega que tenha enfrentado o assunto. Neste caso, é comum o servidor realizar pesquisa no sistema de gestão de documentos, Sisdoc, por palavra chave, para, dentro do universo retornado, por vezes extenso, verificar um a um os arquivos, com gasto considerável de tempo, para encontrar aquele mais adequado à sua necessidade. Ou, alternativamente, pesquisar dentre os arquivos de excertos técnicos da unidade e, caso exista um sobre o tema pesquisado, efetuar cópia e promover os ajustes necessários para integrá-lo ao corpo do relatório de instrução do processo.
+
+
+
+
+
+b) 
+
+Análise: Nesse modelo de trabalho, há situação indesejada que consiste na duplicação de esforços, fato que ocorre no momento de elaboração das instruções, que versam sobre um único tema, por diversos servidores. Cada analista vai pesquisar a legislação e a jurisprudência, elaborar o texto do relatório e a proposta de mérito, ou seja, todas estas tarefas poderiam ser feitas por um servidor apenas, uma única vez, e com economia de tempo. É importante salientar, ainda, a alta probabilidade de ocorrência de efeito colateral não desejável desta sistemática. Das diversas instruções resultantes, não se pode garantir tratamento uniforme e propostas convergentes para um determinado assunto analisado.
+
+Toda essa situação é amenizada na hipótese de reaproveitamento de relatórios ou utilização de excertos. Nesse sentido é oportuna a ação 1.8 do Plano Diretor da Sefip para 2009. Este plano, embora faça referência a excertos, pode ser implementado, com diversas vantagens, mediante o uso de modelos mais completos conforme as explicações a seguir.
+
+Em primeiro lugar, os modelos podem ser incluídos no sistema Administrativo para utilização no Sisac 3. Isto agiliza o processo de elaboração de relatórios, pois aquelas etapas de inclusão no Sisdoc são feitas automaticamente, de modo transparente para o usuário, com eliminação de tarefas repetitivas. Aliás, sendo o Sisac 3 o sistema que dará suporte ao processo eletrônico na Sefip, ficarão os modelos desde logo integrados à nova ferramenta de trabalho que será em breve implementada nesta Secretaria. Não faz sentido, portanto, a implementação dos modelos no sistema atualmente em uso, Sisac do Siga, tendo em vista que ele carece de manutenção e, principalmente, porque, em breve, poderá entrar em desuso.
+
+Em segundo lugar, o relatório, em contraposição ao excerto, facilita o trabalho do servidor, em razão de já se encontrar contextualizado com todas as suas partes, inclusive com a proposta de mérito, apresentando-se, portanto, como um produto mais acabado, mais próximo de sua conclusão, pois além de não dar ensejo a pesquisas complexas, em bases de dados estruturadas, ainda dispensa o processo de montagem da instrução, fase indispensável no caso de utilização de excertos. Provavelmente, nestes detalhes resida a maior preferência dos analistas e técnicos por modelos de pareceres em detrimento dos excertos técnicos.
+
+
+5.	Escopo do projeto
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+
+
+Elaboração de modelos de pareceres com proposta de ilegalidade dos atos de pessoal, em especial os de concessões de aposentadorias, reformas e pensões, conforme a jurisprudência do TCU.
+
+
+5.2.	Meta –Produto – Homologador
+META
+
+Produto
+
+Homologador
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+
+
+a) 
+
+Elaborar modelos padrão de instrução.
+
+1. Identificar as irregularidades mais recorrentes.
+
+2. Elaborar o modelo de parecer para cada irregularidade.
+
+3. Aprovar os modelos de parecer elaborados.
+
+ 
+
+20
+
+ 
+
+20
+
+ 
+
+20
+
+ 
+
+25/5/2009
+
+ 
+
+23/10/2009
+
+ 
+
+30/10/2009
+
+Modelos padronizados.
+
+Secretário e Diretores da Sefip
+
+b) 
+
+Treinar os servidores da Sefip na utilização dos modelos e na nova sistemática de trabalho e disseminar os conhecimentos.
+
+2
+
+30/10/2009
+
+40 servidores treinados.
+
+Secretário e Diretores da Sefip
+
+c) 
+
+Elaborar norma sobre atualização dos modelos.
+
+1. Definir e aprovar as regras de negócio para atualização dos modelos de parecer.
+
+2. Elaborar proposta de portaria contemplando as regras aprovadas.
+
+3. Aprovar a portaria da Sefip.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+28/8/2009
+
+ 
+
+30/9/2009
+
+ 
+
+30/10/2009
+
+Minuta da portaria que regulamenta a atualização de pareceres da Sefip.
+
+ 
+
+Diretores da Sefip
+
+d) 
+
+Treinar os agentes responsáveis pelo processo de atualização do conjunto de pareceres padronizados.
+
+1
+
+30/10/2009
+
+3 servidores treinados, sendo 1 de cada diretoria.
+
+Diretores da Sefip
+
+e) 
+
+Definir e implementar sistemática de busca dos modelos de forma integrada com o sistema institucional.
+
+1
+
+14/8/2009
+
+Sistemática de localização dos modelos.
+
+Secretário da Sefip
+
+
+
+
+5.3.	Não escopo (o que o projeto não vai fazer)
+
+
+a) 
+
+Pareceres com proposta pela legalidade dos atos ou que não estejam de acordo com a pacífica jurisprudência do Tribunal. Após a conclusão do projeto, porém, poderão ser incluídos modelos pela legalidade, perda de objeto, inépcia do ato, levantamento de sobrestamento etc.
+
+b) T
+
+Trabalhos de programação de aplicativos de TI.
+
+c) 
+
+Manutenção dos modelos de parecer atualizados.
+
+
+6.	Benefícios (impacto esperado dos produtos do projeto)
+
+
+a) 
+
+Racionalização do serviço, com economia em escala que se traduz em ganho efetivo de produtividade.
+
+b) 
+
+Redução do número de instruções contraditórias, com melhoria na qualidade geral do trabalho.
+
+c) 
+
+Redução de tempo de instrução dos atos de pessoal eivados de irregularidades.
+
+d) 
+
+Ampliação, transparência e disseminação de conhecimentos.
+
+e) 
+
+Utilização de jurisprudência, entendimentos e teses jurídicas atualizadas.
+
+f) 
+
+Os modelos padronizados podem vir a ser aproveitados na instrução eletrônica de processos, cujo sistema encontra-se em fase de implantação no Tribunal.
+
+g) 
+
+Em suma, este projeto viria aumentar a tempestividade da atuação do TCU em sua missão constitucional de apreciação dos atos de concessão de pensões e aposentadorias para fins de registro.
+
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+
+
+a) 
+
+Na definição de uma sistemática de pesquisa dos modelos, pode haver necessidade de alterações no sistema Sisac 3.
+
+Médio
+
+Médio
+
+(R) Utilizar o sistema existente sem modificação, uma vez que ele já contém um módulo de geração de relatórios a partir de modelos informados. A pesquisa, todavia, é feita simplesmente por um componente do tipo combo-box, que exibe uma lista contendo os nomes dos modelos para escolha pelo usuário.
+
+Setec
+
+ 
+
+b) 
+
+Não implementação do processo eletrônico na Sefip.
+
+Alto
+
+Baixo
+
+(E) Transportar os modelos para uma pasta pública com permissão de leitura somente ou incluí-los no Sisdoc para acesso dos servidores da unidade, ou, ainda, no sistema de Jurisprudência Sistematizada.
+
+Sefip
+
+c) 
+
+Falta de interesse pelo servidor em utilizar a nova sistemática em razão da falta de atualização dos modelos de pareceres.
+
+Alto
+
+Médio
+
+(M) Atualização dos pareceres e definição prévia dos agentes envolvidos.
+
+Sefip
+
+ 
+
+
+8.	Identificação das partes envolvidas no projeto (em relação a que)
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+
+
+a) 
+
+Setec/Adsup
+
+Para implementação da sistemática de localização de modelos, de que trata o item 5.2, que será definida ao longo do projeto, pode surgir necessidade de modificação, no Sisac 3, do módulo que gera o relatório a partir dos modelos armazenados.
+
+Nesse módulo, a interface para pesquisa é, como colocado no item 7 desta proposta, apenas uma lista, contendo os nomes dos modelos padronizados, exibida por meio de um componente de programa do tipo combo-box.
+
+
+
+
+
+
+
+
+9.	Relação com outros projetos
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+
+
+ 
+
+Processo Eletrônico. Os modelos serão utilizados a partir do Sistema que dá suporte ao processo eletrônico - Sisac 3.
+
+ 
+
+
+10.	Custos adicionais estimados
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+
+
+a) 
+
+ 
+
+ 
+
+ 
+
+b) 
+
+ 
+
+ 
+
+ Total de custos estimados
+
+
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+11.	Outros recursos necessários
+Recurso
+
+Fornecedor
+
+
+
+a) 
+
+ 
+
+ 
+
+b) 
+
+ 
+
+ 
+
+
+12.	Equipe do projeto
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+
+
+1. 
+
+Helio Kiyoshi Matayoshi
+
+2420-1
+
+Sefip
+
+Duração do Projeto
+
+integral
+
+2. 
+
+Cecília Taira
+
+76-0
+
+Sefip
+
+Duração do Projeto
+
+parcial
+
+
+
+
+
+13.	Finalização
+Data
+
+Assinatura do gestor do projeto
+
+
+
+Em ___/___/2009
+
+Helio Kiyoshi Matayoshi
+
+Coordenador do ProjetoManifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2009.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Sefip, em ___/___/2009
+
+Alessandro giuberti laranja
+
+Secretário da SefipManifestação do titular da Segecex
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2009.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segecex, em ___/___/2009
+
+Paulo roberto wiechers martins
+
+Secretário da SegecexManifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2009
+
+CLAUDIO SARIAN ALTOUNIAN 
+
+Secretário de Planejamento e Gestão
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto de Sistematização dos Pareceres da Sefip.
+
+

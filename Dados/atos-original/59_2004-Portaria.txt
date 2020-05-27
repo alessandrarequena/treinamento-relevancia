@@ -1,0 +1,602 @@
+Portaria
+59/2004
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e tendo em vista os estudos constantes do processo TC 017.158/2001-0, e
+
+
+Considerando o disposto no art. 90, § 2º, da Lei nº 8.443, de 16 de julho de 1992, bem assim a importância estratégica e a necessidade de se mensurar e divulgar os resultados das ações de controle;
+
+
+Considerando os indicadores de gestão constantes do Plano Estratégico do Tribunal de Contas da União, aprovado pela Portaria - TCU nº 59, de 20 de janeiro de 2003;
+
+
+Considerando que o Roteiro de Auditoria de Conformidade, aprovado pela Portaria - TCU nº 90, de 6 de março de 2003, e o Roteiro para Monitoramento das Auditorias de Natureza Operacional, aprovado pela Portaria - Segecex nº 12, de 15 de março de 2002, prevêem que os relatórios de auditoria devem registrar os benefícios estimados das respectivas propostas de encaminhamento, resolve:
+
+
+Art. 1º Fica instituída a sistemática de quantificação e registro dos benefícios das ações de controle externo, de acordo com o disposto nesta Portaria e no seu anexo - Roteiro de Quantificação de Benefícios.
+
+
+Art. 2º Para fins do disposto nesta Portaria e no seu anexo, considera-se:
+
+
+I - ação de controle externo: todas as ações de controle empreendidas em processos relativos à área finalística do Tribunal;
+
+
+II - benefício: débito, multa, economia, ganho ou melhoria decorrente da atuação do Tribunal, bem como a expectativa de controle gerada pelas ações do TCU;
+
+
+III - benefício estimado: benefício esperado em função de proposta formulada pela unidade técnico-executiva, mas ainda não apreciada pelo Tribunal;
+
+
+IV - benefício potencial: benefício relativo a item de deliberação do Tribunal cujo cumprimento ainda não foi verificado;
+
+
+V - benefício efetivo: benefício decorrente do cumprimento de deliberação ou antecipado no âmbito administrativo em razão de processo em andamento no TCU.
+
+
+Art. 3º Os benefícios são registrados no sistema Radar de forma agregada por apreciação de mérito, de modo a refletir o benefício global da ação de controle.
+
+
+§ 1º O benefício do tipo débito ou multa, exceto aquele antecipado no âmbito administrativo em razão de processo em andamento no TCU, corresponde ao respectivo valor registrado na proposta ou deliberação constante do sistema Radar.
+
+
+§ 2º O benefício do tipo economia e ganho, melhoria ou aquele antecipado no âmbito administrativo deve ser registrado pela unidade técnico-executiva em campo próprio do sistema Radar.
+
+
+§ 3º A memória de cálculo dos benefícios do tipo economia e ganho deve ser juntada ao respectivo processo.
+
+
+§ 4º No caso de o relator ou colegiado promover acréscimos, modificações ou supressões de itens de deliberação em relação à proposta original, a unidade técnica, quando for o caso, deverá promover, no prazo de trinta dias da deliberação, a retificação do registro do benefício no sistema, juntando nova memória de cálculo ao processo.
+
+
+§ 5º Na hipótese de provimento de recurso, a unidade técnico-executiva, quando for o caso, deverá retificar os registros dos benefícios de que trata o § 2º deste artigo, juntando ao processo memória de cálculo atualizada.
+
+
+Art. 4º Compete à Secretaria-Adjunta de Contas - Adcon e à Secretaria-Adjunta de Fiscalização - Adfis, de forma coordenada:
+
+
+I - acompanhar a implementação do disposto nesta Portaria;
+
+
+II - expedir as orientações complementares que se façam necessárias à quantificação e registro dos benefícios das ações de controle externo;
+
+
+III - identificar e disseminar as melhores práticas de quantificação dos benefícios das ações de controle, podendo, para tanto, solicitar às unidades técnico-executivas cópia das memórias de cálculo dos benefícios do tipo economia e ganho;
+
+
+IV - estudar e propor metodologia para quantificação e registro dos benefícios decorrentes da expectativa do controle, que se traduz na inibição de falhas e irregularidades em virtude da atividade de controle externo exercida pelo TCU;
+
+
+V - propor, com base nas sugestões recebidas e na avaliação dos registros efetuados, as alterações e aperfeiçoamentos que se façam necessários na sistemática instituída por esta Portaria.
+
+
+Art. 5º Fica a Secretaria de Tecnologia da Informação – Setec, sob a orientação da Adfis e da Adcon, encarregada de promover, no primeiro trimestre de 2004, as alterações necessárias no sistema, a fim de possibilitar o registro dos benefícios estimados e potenciais.
+
+
+Parágrafo único. Até que os sistemas informatizados estejam adequados à sistemática de que trata esta Portaria, os registros serão feitos exclusivamente nas instruções e relatórios de fiscalização.
+
+
+Art. 6º O disposto nesta Portaria aplica-se aos processos que receberem a primeira instrução a partir do exercício de 2004.
+
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+Revogada pela Portaria-TCU nº 82, de 29/03/2012, BTCU nº 11/2012.
+
+
+
+
+
+
+
+ANEXO ÚNICO À PORTARIA-TCU Nº 59, DE 30 DE JANEIRO DE 2004.
+
+
+
+ROTEIRO DE QUANTIFICAÇÃO DE BENEFÍCIOS
+
+
+
+Os benefícios apurados nas ações de controle devem ser quantificados conforme disposto neste Roteiro. Devem, ainda, ser registrados na instrução ou no relatório de fiscalização e lançados no Sistema Radar. Para cada ação de controle pode haver mais de um tipo de benefício.
+
+
+
+1. DÉBITOS E MULTAS
+
+
+
+Esse grupo é formado pelos resultados positivos da atuação do Tribunal cuja quantificação em termos financeiros é totalmente objetiva, conforme detalhado adiante.
+
+
+
+1.1. Recolhimento de multa
+
+
+
+A proposta de aplicação de multa é cadastrada normalmente no sistema Radar. Quando a deliberação do colegiado é lançada no Radar, o sistema passa a considerar o valor da multa como benefício potencial.
+
+
+A comprovação da quitação do valor da multa enseja o registro do cumprimento integral da deliberação e, então, o benefício passa a ser considerado efetivo. Na hipótese de parcelamento do valor da multa, cada parcela comprovadamente recolhida será considerada benefício efetivo.
+
+
+O responsável pela instrução ou pelo relatório de fiscalização não deve, portanto, registrar esse tipo de benefício nos autos nem no sistema, mas deixar que o valor seja informado quando da deliberação do Tribunal.
+
+
+
+1.2. Ressarcimento de débito
+
+
+
+Ao ser lançada no Radar a proposta de citação, informa-se o valor do débito. O sistema, automaticamente, passa a considerar esse valor como benefício estimado. Quando registrada no Sistema a deliberação condenatória, o benefício passa a ser potencial. A comprovação do recolhimento integral transforma o benefício em efetivo. Na hipótese de parcelamento do débito, cada parcela comprovadamente recolhida será considerada benefício efetivo.
+
+
+
+1.3. Ressarcimento de valores por via administrativa
+
+
+
+Trata-se do benefício decorrente do recolhimento do valor do débito na fase de citação, ou, ainda, do ressarcimento antecipado no âmbito administrativo em razão de processo em andamento no Tribunal. Na instrução que encaminhar a proposta de mérito, assim como no Radar, deve ficar registrado o valor do benefício efetivo.
+
+
+
+2. ECONOMIAS E GANHOS
+
+
+
+Esse grupo é formado pelos resultados positivos da atuação do Tribunal cuja quantificação em termos financeiros é parcialmente subjetiva. O autor da proposta de encaminhamento deve, portanto, fazer juntar aos autos memória de cálculo do benefício, a fim de explicitar sua lógica.
+
+
+Benefícios do tipo economias e ganhos decorrem de deliberações do tipo determinação ou recomendação ou, ainda, de providências adotadas pelos gestores em decorrência de trabalho do Tribunal, ainda que anteriores à apreciação pelo relator ou colegiado.
+
+
+
+2.1. Restituição de recursos ao órgão repassador
+
+
+
+Cálculo do benefício:
+
+
+- valor total restituído.
+
+
+Exemplo 1: o município X celebrou convênio com o órgão Y visando à realização de obras de saneamento. Constatou-se que, concluída a obra e feita a prestação de contas, havia um resíduo de R$ 5.000,00 na conta-corrente específica do convênio. A unidade técnico-executiva propõe que seja determinada a restituição dos recursos ao órgão repassador.
+
+
+Valor do benefício: R$ 5.000,00.
+
+
+
+2.2. Interrupção do pagamento de vantagem indevida
+
+
+
+Cálculo do benefício:
+
+
+- valor total que deixará de ser pago ou,
+
+
+- caso o benefício se repita por tempo indeterminado: valor total que deixará de ser pago ao longo dos próximos 12 meses.
+
+
+Exemplo 2: o órgão X está pagando a alguns de seus servidores, a título de despesas de exercícios anteriores, gratificação considerada irregular. O pagamento foi parcelado em 60 vezes e restam 50 meses para a sua conclusão. A cada mês, o órgão X paga uma parcela de R$ 100.000,00, somados os pagamentos feitos a todos os servidores beneficiados. A unidade técnico-executiva propõe a interrupção do pagamento indevido.
+
+
+Valor do benefício: 50 X valor da parcela mensal = 50 X 100.000 = R$ 5.000.000,00.
+
+
+Comentário: o benefício corresponde ao valor total que deixará de ser pago. Se a unidade técnico-executiva propusesse, ainda, a restituição do valor já pago nos primeiros 10 meses, esse benefício seria do tipo débitos e multas, que seria computado cumulativamente ao benefício tratado neste exemplo.
+
+
+Exemplo 3: o órgão Y está pagando a alguns de seus servidores gratificação considerada irregular. A cada mês, o órgão Y paga um total de R$ 100.000,00, somados os pagamentos feitos a todos os servidores beneficiados. A unidade técnico-executiva propõe a interrupção do pagamento indevido.
+
+
+Valor do benefício: 12 X valor da gratificação = 12 X 100.000 = R$ 1.200.000,00.
+
+
+Comentário: em se tratando de interrupção que gerará benefícios por tempo indeterminado, considera-se apenas o benefício correspondente aos próximos 12 meses.
+
+
+
+2.3. Eliminação de desperdícios ou redução de custos administrativos
+
+
+
+Cálculo do benefício:
+
+
+- valor total estimado do desperdício evitado ou da redução de custos ou,
+
+
+- caso o benefício se repita por tempo indeterminado: valor total que deixará de ser desperdiçado ao longo dos próximos 12 meses ou valor da redução de custos ao longo dos próximos 12 meses.
+
+
+Exemplo 4: a gráfica da empresa X lança no lixo as sobras de papel e papelão. Estima-se que esse material, caso fosse vendido para reciclagem, renderia, em média, R$ 50.000,00 por mês. A unidade técnico-executiva propõe que se determine à empresa X que passe a vender as sobras de papel e papelão.
+
+
+Valor do benefício: 12 X valor do desperdício evitado = 12 X 50.000 = R$ 600.000,00.
+
+
+Comentário: em se tratando de determinação que gerará benefícios por tempo indeterminado, considera-se apenas o benefício correspondente aos próximos 12 meses. A metodologia utilizada para estimar o desperdício mensal de R$ 50.000,00 precisaria ser demonstrada pela unidade técnico-executiva.
+
+
+
+2.4. Elevação da receita
+
+
+
+Cálculo do benefício:
+
+
+- valor total estimado da elevação de receita ou,
+
+
+- caso o benefício se repita por tempo indeterminado: valor total da elevação de receita ao longo dos próximos 12 meses.
+
+
+Exemplo 5: o órgão responsável pelo patrulhamento das rodovias federais em determinada Unidade da Federação não tem cobrado as multas por infrações de trânsito. Há um estoque de multas não cobradas que somam R$ 250.000,00. A unidade técnico-executiva propõe que seja determinada a cobrança das multas de acordo com os procedimentos previstos na legislação e nas normas internas do órgão.
+
+
+Valor do benefício: R$ 250.000,00.
+
+
+Comentário: o benefício corresponde ao valor total estimado da elevação da receita.
+
+
+Exemplo 6: no mesmo caso do exemplo anterior, identificou-se que o órgão não dispõe de infra-estrutura suficiente para o processamento das multas. Estima-se que estão sendo deixadas de cobrar multas no valor de R$ 30.000,00 por mês. A unidade técnico-executiva propõe que seja recomendada a celebração de convênio com o Departamento de Trânsito estadual para processamento e cobrança das multas.
+
+
+Valor do benefício: 12 X 30.000 = R$ 360.000,00.
+
+
+Comentário: em se tratando de determinação que gerará benefícios por tempo indeterminado, considera-se apenas o benefício correspondente aos próximos 12 meses.
+
+
+
+2.5. Redução de preço máximo em processo licitatório
+
+
+
+Cálculo do benefício:
+
+
+- diferença entre o preço máximo registrado em edital de licitação e o preço de mercado.
+
+
+Exemplo 7: o órgão X publicou edital para contratação de serviço de conservação e limpeza, fixando o preço máximo em R$ 500.000,00. Com base nas especificações do serviço e nos preços praticados pelo mercado, a unidade técnico-executiva propõe a revogação do edital e a publicação de outro, no qual seja fixado o preço máximo em R$ 200.000,00.
+
+
+Valor do benefício: 500.000 – 200.000 = R$ 300.000,00.
+
+
+Comentário: a metodologia utilizada para estimar o preço máximo em R$ 200.000,00 precisaria ser demonstrada pela unidade técnico-executiva.
+
+
+
+2.6. Redução de valor contratual
+
+
+
+Cálculo do benefício:
+
+
+-diferença entre o valor contratual atual e o valor contratual após a redução
+
+
+Exemplo 8: a autarquia federal X firmou convênio com determinada Unidade da Federação para a restauração de uma rodovia federal. Equipe de auditoria do Tribunal constatou que os preços contratados pela UF com uma empreiteira privada são superiores aos de mercado. O saldo contratual correspondente aos serviços ainda não executados é de R$ 30.000.000,00. A equipe propõe que o saldo contratual correspondente aos serviços ainda não executados seja reduzido em 40%.
+
+
+Valor do benefício: 30.000.000 X 0,40 = R$ 12.000.000,00.
+
+
+Comentário: a metodologia utilizada para estimar a necessidade de redução do valor contratual em 40% precisaria ser demonstrada pela equipe de auditoria.
+
+
+
+2.7. Compensação financeira
+
+
+
+Cálculo do benefício:
+
+
+- valor total a ser compensado.
+
+
+Exemplo 9: no mesmo caso do exemplo 8, a equipe propõe que o valor pago a maior nas faturas já liquidadas seja compensado nas próximas faturas pagas à empreiteira. O total das faturas já liquidadas é de R$ 10.000.000,00 e a equipe propõe que a compensação corresponda a 40% do valor pago.
+
+
+Valor do benefício: 10.000.000 X 0,40 = R$ 4.000.000,00.
+
+
+Comentário: a metodologia utilizada para estimar a necessidade de redução do valor contratual em 40% precisaria ser demonstrada pela equipe de auditoria.
+
+
+
+2.8. Execução de garantia
+
+
+
+Para cálculo do benefício, deve ser considerado o menor entre os seguintes valores:
+
+
+- valor estimado que possa vir a ser apurado com a execução da garantia; ou
+
+
+- valor garantido.
+
+
+Exemplo 10: certo banco estatal mantém na rubrica "Créditos de liquidação duvidosa" dívidas que somam R$ 10.000.000,00. O banco tem em seu poder títulos que foram oferecidos como garantia das dívidas, os quais podem ser comercializados no mercado financeiro por R$ 7.000.000,00. A unidade técnico-executiva propõe que seja recomendado ao banco que execute as garantias.
+
+
+Valor do benefício: R$ 7.000.000,00.
+
+
+Comentário: o benefício corresponde ao valor que pode vir a ser apurado com a execução das garantias, que, neste exemplo, é menor do que o valor garantido (R$ 10.000.000,00).
+
+
+
+2.9. Aplicação de multa prevista em contrato ou em legislação específica
+
+
+
+Cálculo do benefício:
+
+
+- valor máximo da multa prevista.
+
+
+Exemplo 11: o órgão X contratou uma empresa privada para execução dos serviços de conservação e limpeza, pelo valor total de R$ 400.000,00. A empresa descumpriu diversas cláusulas contratuais. A unidade técnico-executiva propõe que seja determinado ao órgão X que aplique a multa prevista no contrato, que varia de 10 a 20% do valor total contratado.
+
+
+Valor do benefício: 0,20 X 400.000 = R$ 80.000,00.
+
+
+Comentário: o benefício corresponde ao valor máximo da multa contratual.
+
+
+
+2.10. Correção de vícios, defeitos ou incorreções no objeto contratado
+
+
+
+Para cálculo do benefício, deve ser considerado o maior entre os seguintes valores:
+
+
+- valor estimado para corrigir o vício, defeito ou incorreção; ou
+
+
+- valor da despesa adicional provocada pela existência do vício, defeito ou incorreção. Caso o benefício se repita por tempo indeterminado, limita-se o cálculo aos próximos 12 meses.
+
+
+Exemplo 12: a entidade X contratou uma empresa privada para desenvolver um sistema informatizado para controle da folha de pagamentos. Equipe de auditoria do Tribunal constatou que o sistema desenvolvido contém um erro, que prejudica sua utilização. Estima-se que a correção do erro demandará o emprego de 40 horas de programação, a um custo unitário de R$ 50,00 por hora, conforme previsto no contrato. Por outro lado, a existência da incorreção obriga a entidade X a efetuar controles paralelos, a um custo estimado de R$ 1.000,00 por mês, considerados os salários dos funcionários envolvidos e o tempo dedicado aos controles paralelos. A equipe propõe que seja determinado à entidade X que exija da empresa contratada a correção do vício detectado.
+
+
+Valor do benefício: 40 X 50 = R$ 2.000,00; ou
+
+
+12 X 1.000 = R$ 12.000,00.
+
+
+Comentário: o benefício corresponde ao maior dos valores calculados, ou seja, R$ 12.000,00. Em se tratando de determinação que gerará benefícios por tempo indeterminado, considera-se apenas o benefício correspondente aos próximos 12 meses.
+
+
+
+2.11. Compatibilização do objeto contratado com as especificações ou com o projeto
+
+
+
+Para cálculo do benefício, deve ser considerado o maior entre os seguintes valores:
+
+
+- valor estimado dos serviços necessários à compatibilização do objeto contratado com as especificações ou com o projeto; ou
+
+
+- valor da despesa adicional provocada pelo não cumprimento das especificações ou do projeto. Caso o benefício se repita por tempo indeterminado, limita-se o cálculo aos próximos 12 meses.
+
+
+Exemplo 13: a autarquia federal X firmou convênio com determinada Unidade da Federação para a construção de uma rodovia federal. Equipe de auditoria do Tribunal constatou que a largura do pavimento media apenas 8 metros, quando, de acordo com o projeto, deveria medir 10 metros. A diferença foi constatada ao longo de um trecho de 20 km. Considerados todos os custos relativos à preparação da base e sub-base e pavimentação, o custo estimado de execução da faixa de 2 metros restante seria de R$ 800.000,00 por quilômetro. A equipe propõe que seja determinada a compatibilização da obra executada com o projeto, por conta da empreiteira.
+
+
+Valor do benefício: 20 X 800.000 = R$ 16.000.000,00.
+
+
+Comentário: caso houvesse estatísticas confiáveis referentes à elevação do número de acidentes e seu custo em virtude do estreitamento da rodovia, esse valor poderia ser considerado como benefício.
+
+
+
+2.12. Glosa ou impugnação de despesa
+
+
+
+Cálculo do benefício:
+
+
+- valor da despesa glosada ou impugnada.
+
+
+Exemplo 14: no curso de auditoria em unidade hospitalar, equipe do TCU constatou que estavam sendo cobrados do órgão federal valores referentes a internações hospitalares inexistentes, no valor total de R$ 300.000,00. A equipe propõe que se determine ao órgão federal que impugne a despesa, deixando de pagar por tais internações.
+
+
+Valor do benefício: R$ 300.000,00.
+
+
+Comentário: outras propostas, como por exemplo a audiência e aplicação de multa ao gestor municipal, poderiam ser formuladas e dariam origem a outros benefícios que seriam registrados cumulativamente.
+
+
+
+2.13. Elevação de preço mínimo para privatização de empresa
+
+
+
+Cálculo do benefício:
+
+
+- diferença entre o preço mínimo indicado no edital e o preço mínimo calculado pelo Tribunal.
+
+
+Exemplo 15: a unidade técnico-executiva detectou erros no cálculo do preço mínimo fixado em edital de privatização de determinada empresa. O preço mínimo fixado pelo edital é de R$ 2.000.000.000,00, enquanto o calculado pela unidade técnico-executiva é de R$ 3.000.000.000,00. A unidade propõe que seja determinada a interrupção do processo de privatização e a publicação de novo edital, com o preço mínimo correto.
+
+
+Valor do benefício: 3.000.000.000 – 2.000.000.000 = R$ 1.000.000.000,00.
+
+
+Comentário: o benefício estimado pela unidade será considerado potencial após a deliberação do Tribunal e efetivo após a publicação do novo edital. O preço final obtido no leilão de venda da estatal não será considerado no cálculo do benefício, pois será impossível definir até que ponto esse preço foi influenciado pela alteração do preço mínimo.
+
+
+
+2.14. Redução de tarifa pública
+
+
+
+Cálculo do benefício:
+
+
+- valor estimado da perda de receita da concessionária até o final do prazo de concessão.
+
+
+Exemplo 16: ao realizar o acompanhamento do processo de revisão tarifária de determinado contrato de concessão de exploração de rodovia, a unidade técnico-executiva identificou um erro de cálculo na tarifa de um dos pedágios, que deveria ser R$ 0,50 inferior ao pretendido. Considerando a estimativa da quantidade de usuários dos serviços e o prazo de vigência do contrato, estima-se que a redução implicará perda de receita para a concessionária de R$ 10.000.000,00. A unidade propõe que seja determinada a fixação da tarifa pelo valor correto.
+
+
+Valor do benefício: R$ 10.000.000,00.
+
+
+
+2.15. Incremento da economia, eficiência, eficácia ou efetividade de programa de governo
+
+
+
+Cálculo do benefício:
+
+
+observam-se as orientações da Seprog, em especial o Roteiro para Monitoramento de Auditorias de Natureza Operacional aprovado pela Portaria Segecex nº 12, de 15 de março de 2002, que prevê, inclusive, a participação dos gestores na estimativa do benefício.
+
+
+Exemplo 17: os portadores de tuberculose que interrompem o tratamento do esquema I, têm que retomá-lo com antibióticos do esquema II, que são muito mais caros. Ao avaliar o processo de planejamento da aquisição de medicamentos, a equipe de auditoria do Tribunal verificou que o prazo e a forma para encaminhamento das necessidades pelos estados ao órgão repassador federal acarretava erros e atrasos, além da necessidade de remanejamento de estoques. Verificou-se que 71,48% dos pedidos continham erros. A equipe recomendou que os pedidos passassem a ser feitos de forma padronizada pelo software, o que reduziria praticamente a zero o número de pedidos errados. Além disso, a implementação da recomendação reduziria o tempo gasto para consolidação dos pedidos pelo órgão repassador, de 32 para 7 dias.
+
+
+O valor do benefício corresponderia à soma das seguintes parcelas:
+
+
+- diferença entre o valor do tratamento realizado em paciente do esquema I em contraposição ao do esquema II, multiplicada pelo número de pacientes que não receberam tratamento contínuo por falta de medicamento; e
+
+
+- valor do frete que deixará de ser contratado para o remanejamento de medicamentos entre estados.
+
+
+
+Sempre que identificado benefício do tipo economias e ganhos que não possa ser enquadrado nos subtipos nºs 2.1 a 2.15, a unidade técnico-executiva deverá informar o fato à Adfis para que seja avaliada a oportunidade de incorporação de novo subtipo de benefício a este roteiro e ao sistema.
+
+
+
+
+3. MELHORIAS
+
+
+
+Esse grupo é formado pelos resultados positivos da atuação do Tribunal cuja quantificação em termos financeiros é inviável ou totalmente subjetiva. O autor da proposta de encaminhamento deve, portanto, registrar o tipo de benefício tanto na instrução ou relatório quanto no Radar, descrevendo-o de forma sucinta. Sempre que possível, devem ser quantificados os benefícios não financeiros, como população beneficiada, número de leitos hospitalares colocados à disposição, área de floresta preservada, etc.
+
+
+Benefícios do tipo melhorias podem decorrer de deliberações do tipo determinação, recomendação, encaminhamento de cópias de peças processuais ou encaminhamento de informações. Enquadram-se nesse grupo:
+
+
+
+3.1. melhoria na organização administrativa;
+
+
+
+
+3.2. melhoria nos controles internos;
+
+
+
+
+3.3. melhoria na forma de atuação;
+
+
+
+
+3.4. melhoria dos resultados apresentados;
+
+
+
+
+3.5. impactos sociais positivos;
+
+
+
+
+3.6. impactos econômicos positivos;
+
+
+
+
+3.7. impactos ambientais positivos;
+
+
+
+
+3.8. incremento da confiança dos cidadãos nas instituições públicas;
+
+
+
+
+3.9. redução do sentimento de impunidade;
+
+
+
+
+3.10. elevação do sentimento de cidadania da população;
+
+
+
+
+3.11. fornecimento de subsídios para a atuação do Congresso Nacional;
+
+
+
+
+3.12. recomendação para atualização/aprimoramento de textos legais;
+
+
+
+
+3.13. fornecimento de subsídios para a atuação dos Tribunais de Contas Estaduais ou Municipais;
+
+
+
+
+3.14. fornecimento de subsídios para a atuação do Ministério Público;
+
+
+
+
+3.15. fornecimento de subsídios para a atuação de autoridades do Poder Executivo;
+
+
+
+
+3.16. fornecimento de subsídios para a atuação de autoridades do Poder Judiciário.
+
+
+
+
+Sempre que identificado benefício do tipo melhorias que não possa ser enquadrado nos subtipos nºs 3.1 a 3.16, a unidade técnico-executiva deverá informar o fato à Adfis para que seja avaliada a oportunidade de incorporação de novo subtipo de benefício a este roteiro e ao sistema.
+
+
+
+
+Revogada
+Institui sistemática de quantificação e registro dos benefícios das ações de controle externo.
+
+

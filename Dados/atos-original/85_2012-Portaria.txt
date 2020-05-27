@@ -1,0 +1,128 @@
+Portaria
+85/2012
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+Considerando o disposto na Lei nº 12.462, de 5 de agosto de 2011, que instituiu o Regime Diferenciado de Contratações - RDC, acerca de informações classificadas como sigilosas até a adjudicação do objeto licitado;
+
+
+Considerando que, no âmbito do RDC, as informações sigilosas serão disponibilizadas estrita e permanentemente aos órgãos de controle externo e interno, e que tal grau de confidencialidade deve ser mantido até o encerramento da licitação;
+
+
+Considerando que tais informações sigilosas disponibilizadas ao TCU podem gerar outras de mesmo caráter em decorrência das ações de controle do Tribunal;
+
+
+Considerando a necessidade de garantir a segurança, em especial a confidencialidade, das informações de caráter sigiloso, por força de lei, custodiadas ou produzidas pelo Tribunal;
+
+
+Considerando a Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU) e a Resolução-TCU nº 229, de 11 de novembro de 2009, que dispõe sobre a classificação das informações produzidas ou custodiadas pelo Tribunal; e
+
+
+Considerando a determinação do item 9.2 do Acórdão nº 163/2012-TCU-Plenário, resolve:
+
+
+Art. 1º O tratamento e a gestão de informações sigilosas, no âmbito do Tribunal, atinentes ao Regime Diferenciado de Contratações - RDC, observará o disposto nesta Portaria.
+
+
+§ 1º Aplicam-se às informações sigilosas disponibilizadas ao TCU por força do RDC os procedimentos de segurança e os controles administrativos e tecnológicos afetos ao respectivo grau de confidencialidade, conforme disposto na Resolução-TCU nº 229, de 11 de novembro de 2009, e na Portaria-TCU nº 124, de 3 de maio de 2010.
+
+
+§ 2º Qualquer documento que faça referência ao orçamento previamente estimado pela Administração, assim classificado conforme o art. 6º da Lei nº 12.462, de 5 de agosto de 2011, deve ser classificado como sigiloso, nos termos da Resolução-TCU nº 229, de 11 de novembro de 2009.
+
+
+Art. 2º O conjunto de informações sigilosas recebidas deverá necessariamente integrar processo de controle externo.
+
+
+§ 1º o rótulo de "sigiloso" deve ser inserido em todas as versões eletrônicas e cópias de instruções ou relatórios, elaboradas ou em elaboração, ainda não inseridas no e-TCU.
+
+
+§ 2º os relatórios, instruções, peças ou documentos inseridos no e-TCU não devem conter os rótulos e devem ser cuidadosamente classificados no sistema quanto ao grau de confidencialidade (sigiloso, restrito ou público, nos termos do art. 5º da Resolução-TCU nº 229/2009).
+
+
+§ 3º Ficarão responsáveis pelo sigilo de matérias em tramitação no Tribunal todas as pessoas que tiveram acesso ao processo ou a qualquer de suas peças, devendo ter seus nomes rigorosamente registrados na movimentação dos autos.
+
+
+§ 4º A classificação dos papéis de trabalho utilizados pelos auditores, bem assim o seu arquivamento ou descarte, devem seguir o disposto nas Normas e nos Padrões de Auditoria do Tribunal.
+
+
+Art. 3º Nas comunicações processuais expedidas pelas unidades técnicas, independentemente da natureza do processo, desde que classificadas como sigilosas em decorrência do RDC, e especialmente quando relacionadas ao disposto no § 9º do art. 91 e no caput do art. 96 da Lei nº 12.465, de 12 de agosto de 2011 - LDO/2012, bem como nos dispositivos análogos daquelas que a sucederem, e no item 9.3. do Acórdão 2.382/2011-TCU-Plenário, deve ser mencionada expressamente a existência de peças de caráter sigiloso, que, por disposição legal, devem permanecer nesta condição até que haja reclassificação do grau de confidencialidade dos autos.
+
+
+Parágrafo único. As unidades técnicas deverão alertar aos órgãos e às entidades responsáveis que, nos expedientes e demais documentos integrantes das respostas a comunicações do Tribunal, bem como em quaisquer outros enviados para saneamento processual relativos ao RDC, deverão ser adotadas medidas de segurança que garantam a confidencialidade das informações, inclusive no momento de sua protocolização no Tribunal.
+
+
+Art. 4º No relatório sintético a ser encaminhado ao Congresso Nacional, nos termos do item 9.7 do Acórdão nº 2.382/2011-TCU-Plenário, deverão ser adotadas medidas de segurança e salvaguarda da condição de sigilo, enquanto esta persistir.
+
+
+Art. 5º Nos pedidos de vista e/ou cópia de peças e documentos de processo classificado como sigiloso, por força da Lei nº 12.462, de 2011:
+
+
+I - as partes, diretamente ou por intermédio de seus procuradores, dirigirão os pedidos ao Relator, a quem caberá o entendimento de quais peças poderão ser compulsadas sem que isto comprometa a preservação do sigilo sob a tutela do TCU;
+
+
+II - a extração de cópias de quaisquer documentos (peças dos autos), enquanto estes não tenham sido definitivamente apreciados pelo Tribunal, caberá apenas a pessoas autorizadas, em ato próprio, pelos dirigentes de unidades técnicas e de gabinetes de autoridades;
+
+
+III - o atendimento dar-se-á mediante assinatura pelo requerente do termo de recebimento, sigilo e responsabilidade quanto à não divulgação ou reprodução das informações recebidas, conforme modelo anexo à Portaria-Segecex nº 39, de 23 de novembro de 2011.
+
+
+Parágrafo único. No caso do inciso II, havendo mais de uma pessoa autorizada, deverão ser mantidos registros que identifiquem qual delas executou a ação.
+
+
+Art. 6º Em trabalho de fiscalização executado por unidade técnica junto a órgãos e entidades, empresas públicas ou sociedades de economia mista, em que sejam colhidos documentos que possam estar acobertados pelo sigilo tratado nesta Portaria, solicitar-se-á do gestor público competente a indicação, mediante termo circunstanciado, de quais partes desses documentos devem ser protegidos pelo referido sigilo.
+
+
+§ 1º No caso de item não digitalizável, este deverá ser criptografado, e sua senha armazenada em peça sigilosa, quando da incorporação ao processo.
+
+
+§ 2º A orientação deste artigo deverá ser igualmente observada quando da realização de diligências.
+
+
+Art. 7º No intercâmbio de informações e de documentos de que trata o inciso I do art. 2º da Resolução-TCU nº 223, de 18 de março de 2009, entre as providências formais que deverão ser tomadas junto aos destinatários, com vistas ao resguardo do sigilo das informações enviadas, aplica-se o disposto no inciso III do art. 5º desta Portaria.
+
+
+Art. 8º Cabe às respectivas unidades gestoras das soluções de TI, nos termos da Portaria-TCU nº 276, de 18 de novembro de 2008, com o apoio da Assessoria de Segurança da Informação e Governança de TI e da Secretaria de Soluções de Tecnologia da Informação:
+
+
+I - promover ajustes no sistema Fiscalis de modo a possibilitar a identificação, em destaque, das fiscalizações que sejam atinentes ao RDC;
+
+
+II - analisar as prerrogativas dos perfis de acesso dos servidores, autoridades e demais usuários, inclusive externos, aos sistemas Fiscalis, e-TCU e Benefícios do Controle, em que são armazenados dados e informações de caráter sigiloso atinentes ao RDC, e propor, no prazo de 30 (trinta) dias após a publicação desta Portaria, os ajustes necessários à segurança da informação, no que concerne à confidencialidade.
+
+
+Parágrafo único. Ficam as unidades básicas, no âmbito de suas atuações, autorizadas a emitir normativo próprio, a fim de regulamentar as medidas que decorram das providências mencionadas neste artigo.
+
+
+Art. 9º Com vistas a operacionalizar os procedimentos e controles descritos na Portaria-TCU nº 124, de 3 de maio de 2010, recomenda-se, em rol não exaustivo, a adoção dos seguintes controles de segurança no trato de informações sigilosas:
+
+
+I - evitar o regime de teletrabalho para a produção de informações sigilosas e para o acesso a elas;
+
+
+II - incluir proteção adequada quando do transporte das informações, tais como:
+
+
+a) para o caso de documentos recebidos em papel, o uso de envelopes fechados, cuja violação possa ser identificada;
+
+
+b) para o caso de documentos eletrônicos armazenados em dispositivos móveis, a utilização de criptografia.
+
+
+Art. 10. Aplicam-se aos autos de processos e documentos que tratem do RDC que contenham informação sigilosa as disposições desta Portaria e das Resoluções-TCU nº 191, de 21 de junho de 2006; nº 223, de 18 de março de 2009, nº 229, de 11 de novembro de 2009; e Portaria-TCU nº 124, de 3 de maio de 2010.
+
+
+Art. 11. Esta Portaria entra em vigor na data de sua publicação.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+Não consta revogação expressa
+Define procedimentos relativos ao trâmite de matérias sigilosas que integrem os processos de licitação da Administração Pública Federal no âmbito do Regime Diferenciado de Contratações.
+
+

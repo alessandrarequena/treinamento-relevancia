@@ -1,0 +1,2051 @@
+Resolução
+255/2013
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso das competências conferidas pelos arts. 73 e 96 da Constituição Federal, pelo art. 1º, inciso XIV, da Lei n.º 8.443, de 16 de julho de 1992, e pelo art. 1º, inciso XXXIII, do Regimento Interno,
+
+
+considerando a necessidade de incorporação institucional das funções de confiança criadas pela Lei n° 12.776, de 28 de dezembro de 2012, cuja autorização orçamentária foi indicada pela Lei nº 12.798, de 4 de abril de 2013;
+
+
+considerando a importância de alinhar a evolução das práticas institucionais ao modelo de governança de tecnologia da informação (TI) disposto em normativo específico do TCU;
+
+
+considerando a importância de ajustar as competências das unidades das secretarias-gerais responsáveis pela coordenação da gestão de soluções tecnológicas, de modo a refletir a evolução do modelo de governança de TI;
+
+
+considerando o aperfeiçoamento dos processos de trabalho estratégicos do TCU que redundou em ajustes de amplo espectro nas rotinas e práticas administrativas adotadas na organização, bem como indicou a necessidade de alteração na estrutura da Secretaria-Geral de Administração, de modo a catalisar o alcance dos resultados institucionais almejados; e
+
+
+considerando os estudos e os pareceres constantes do processo TC 003.045-2013-7, resolve:
+
+
+Art. 1º Fica alterado o art. 4º da Resolução-TCU nº 154, de 4 de dezembro de 2002, que passa a vigorar com a seguinte redação:
+
+
+"Art. 4º As funções de confiança do Quadro de Pessoal do Tribunal de Contas da União, conforme previstas na Lei nº 10.356, de 27 de dezembro de 2001, consolidada, e na Lei nº 11.780, de 17 de setembro de 2008, são as seguintes:
+
+
+1. Secretário-Geral, código FC6;
+
+
+2. Secretário-Geral Adjunto, código FC5;
+
+
+3. Coordenador-Geral, código FC5;
+
+
+4. Secretário, código FC5;
+
+
+5. Diretor-Geral, código FC5;
+
+
+6. Chefe de Assessoria, código FC5;
+
+
+7. Chefe de Gabinete, código FC5;
+
+
+8. Consultor-Geral, código FC5;
+
+
+9. Assessor do Presidente, código FC5;
+
+
+10. Assessor de Ministro, código FC5;
+
+
+11. Assessor de Ministro-Substituto, código FC5;
+
+
+12. Assessor de Procurador-Geral, código FC5;
+
+
+13. Especialista Sênior Nível III, código FC5;
+
+
+14. Subsecretário, código FC4;
+
+
+15. Diretor, código FC4;
+
+
+16. Especialista Sênior Nível II, código FC4;
+
+
+17. Assessor de Secretário-Geral, código FC4;
+
+
+18. Chefe de Serviço, código FC3;
+
+
+19. Gerente de Processo, código FC3;
+
+
+20. Assessor, código FC3;
+
+
+21. Especialista Sênior Nível I, código FC3;
+
+
+22. Oficial de Gabinete, código FC3;
+
+
+23. Assistente Técnico, código FC2;
+
+
+24. Assistente Administrativo, código FC1;
+
+
+25. Auxiliar de Gabinete, código FC1."
+
+
+Art. 2º Fica incluída a Seção XIV no Capítulo I do Título III da Resolução-TCU nº 154, de 2002, com a denominação "Da função de confiança de Especialista Sênior".
+
+
+Art. 3º Fica incluído o art. 51-B na Seção XIV no Capítulo I do Título III da Resolução-TCU nº 154, de 2002, nos seguintes termos:
+
+
+"Art. 51-B Aos Especialistas Seniores Níveis I, II e III, de natureza direção, incumbem as atribuições descritas no art. 39, no âmbito de suas áreas de atuação, de acordo com os trabalhos a eles alocados nos termos definidos em normativo específico, para desenvolvimento de atividades em equipe de maior complexidade e responsabilidade, ou para realização de atividades de grande relevância que possam incrementar o resultado institucional."
+
+
+Art. 4º Fica alterado o art. 58-A da Resolução-TCU nº 154, de 2002, que passa a vigorar com a seguinte redação:
+
+
+"Art. 58-A Aos Especialistas Seniores Níveis I, II e III, de natureza assessoramento, incumbem as atribuições descritas no art. 53, no âmbito de suas áreas de atuação, de acordo com os trabalhos a eles alocados nos termos definidos em normativo específico, para desenvolvimento de atividades em equipe de maior complexidade e responsabilidade, ou para realização de atividades de grande relevância que possam incrementar o resultado institucional."
+
+
+Art. 5º Fica incluído o inciso VII no art. 2º da Resolução-TCU nº 247, de 7 de dezembro de 2011, nos seguintes termos:
+
+
+"Art. 2º (...)
+
+
+(...)
+
+
+VII - unidade coordenadora da gestão de soluções de TI: unidade organizacional do Tribunal responsável por coordenar e orientar a atuação das unidades gestoras de soluções de TI de uma unidade básica, nos termos desta Resolução."
+
+
+Art. 6º Fica alterado o § 2º do art. 10 da Resolução-TCU nº 247, de 2011, que passa a vigorar com a seguinte redação:
+
+
+"Art. 10 (...)
+
+
+(...)
+
+
+§ 2º Ato do Presidente do TCU estabelecerá a composição e o funcionamento do CGTI, observado o rodízio na coordenação do Comitê entre os titulares da Secretaria de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação."
+
+
+Art. 7º Fica incluído o inciso III no art. 11 da Resolução-TCU nº 247, de 2011, nos seguintes termos:
+
+
+"Art. 11 (...)
+
+
+(...)
+
+
+III - apresentar proposta de revisão da PGTI/TCU ao CGTI, no máximo a cada cinco anos, de modo a atualizar a política frente a novos requisitos corporativos."
+
+
+Art. 8º Fica incluído o art. 13-A na Resolução-TCU nº 247, de 2011, nos seguintes termos:
+
+
+"Art. 13-A. Competem à unidade coordenadora da gestão de soluções de TI, no âmbito de cada unidade básica, as atividades de organização, coordenação, orientação e supervisão das unidades gestoras no exercício das competências afetas à gestão de soluções de TI.
+
+
+§ 1º As atividades de organização e de coordenação visam, precipuamente, evitar a dispersão de esforços e de investimentos, promover a integração entre as diversas soluções de TI e subsidiar o CGTI de elementos para análise e manifestação quanto a iniciativas e ações em TI a serem priorizadas.
+
+
+§ 2º As atividades de orientação e de supervisão objetivam assegurar o cumprimento das normas relativas à governança de TI, bem como aprimorar os processos de trabalho envolvidos na gestão de soluções de TI.
+
+
+§ 3º A orientação às unidades gestoras compreende, entre outros, os seguintes aspectos inerentes à gestão de soluções de TI:
+
+
+a) adoção de procedimentos, métodos, controles e instrumentos que aprimorem o desempenho ou facilitem a gestão das soluções de TI;
+
+
+b) definição de requisitos, regras de negócio ou níveis de serviço compatíveis com as soluções de TI geridas; e
+
+
+c) alteração em processos de trabalho, com vistas a otimizar o desempenho ou a integração das soluções de TI.
+
+
+§ 4º A unidade coordenadora da gestão de soluções de TI pode atuar concomitantemente, para determinadas soluções, como unidade gestora.
+
+
+§ 5º Cada unidade básica pode designar unidade integrante de sua estrutura para desempenhar a atribuição de unidade coordenadora da gestão de soluções de TI."
+
+
+Art. 9º Ficam alterado o inciso III e incluído o parágrafo único do art. 14 da Resolução-TCU nº 247, de 2011, nos seguintes termos:
+
+
+"Art. 14 (...)
+
+
+(...)
+
+
+III - examinar, em conjunto com a Setic e a STI, a aplicabilidade das novas soluções de TI no negócio do Tribunal, como por exemplo a plataforma na "nuvem" e o "tablet".
+
+
+Parágrafo único. As competências dispostas neste artigo serão exercidas sob a coordenação e orientação da unidade coordenadora da gestão de soluções de TI, quando esta existir."
+
+
+Art. 10. Ficam transformadas as funções de confiança (FC) dispostas na Resolução-TCU nº 253, de 21 de dezembro de 2012, nos seguintes termos:
+
+
+I - duas FC-5 Especialista Sênior nível III para duas FC-5 Secretário; e
+
+
+II - duas FC-3 Especialista Sênior nível I para uma FC-3 Assessor e uma FC-3 Gerente de Processo.
+
+
+Art. 11. Fica alterado o inciso VI do art. 11 da Resolução-TCU nº 253, de 2012, que passa a vigorar com a seguinte redação:
+
+
+"Art. 11 (...)
+
+
+(...)
+
+
+"VI - atuar como unidade gestora das soluções de tecnologia da informação que dão suporte às atividades de controle externo e administrativas no âmbito dos colegiados do TCU e das unidades de assessoramento a autoridades, inclusive dos Gabinetes dos Membros do Ministério Público junto ao Tribunal, bem como funcionar como unidade coordenadora da gestão das soluções de tecnologia da informação que dão suporte às unidades subordinadas à Segepres, inclusive das iniciativas de provimento descentralizado de soluções de TI, em consonância com a Política de Governança de Tecnologia da Informação do TCU;"
+
+
+Art. 12. Ficam alterados os arts. 48 e 49 da Resolução-TCU nº 253, de 2012, que passam a vigorar com a seguinte redação:
+
+
+"Art. 48. A Seginf tem por finalidade coordenar a gestão das soluções de tecnologia da informação, a obtenção e o tratamento de dados e informações da administração pública que dão suporte ao controle externo.
+
+
+Art. 49. Compete à Seginf:
+
+
+I - definir, sistematizar, obter, produzir, gerenciar e disseminar informações necessárias ao suporte às atividades integradas de controle externo;
+
+
+II - atuar como unidade coordenadora da gestão das soluções de tecnologia da informação que dão suporte ao controle externo, em consonância com a Política de Governança de Tecnologia da Informação do TCU;
+
+
+III - dar suporte às unidades técnicas subordinadas à Segecex no que concerne ao uso das soluções de tecnologia da informação cuja gestão lhe tenha sido atribuída;
+
+
+IV - coordenar, em conjunto com a STI, as iniciativas de provimento descentralizado de soluções de tecnologia da informação essenciais ao controle externo;
+
+
+V - gerenciar e zelar pela atualização das bases de informação do controle externo; e
+
+
+VI - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A Seginf é dirigida por secretário e contará com as funções de confiança definidas em ato do Presidente do Tribunal."
+
+
+Art. 13. Ficam alterados os arts. 52 a 56 da Resolução-TCU nº 253, de 2012, que passam a vigorar com a seguinte redação:
+
+
+"Art. 52. A Segedam tem por finalidade realizar a gestão de atividades e recursos administrativos, com vistas a assegurar o suporte necessário ao funcionamento do Tribunal.
+
+
+Art. 53. Compete à Segedam:
+
+
+I - propor normas, políticas e diretrizes relativas à gestão administrativa do Tribunal;
+
+
+II - administrar e gerir recursos materiais, orçamentários, financeiros e patrimoniais do Tribunal, de acordo com as leis e as normas aplicáveis;
+
+
+III - planejar, organizar, dirigir, coordenar e supervisionar as atividades e as inovações relativas à gestão de pessoas, de serviços gerais e de recursos materiais, orçamentários, financeiros e patrimoniais, bem como avaliar os resultados alcançados;
+
+
+IV - aprovar manuais e regulamentos relativos à padronização de processos de trabalho inerentes à atividade administrativa, para utilização, inclusive, em outras unidades do Tribunal;
+
+
+V - orientar o desdobramento de diretrizes, acompanhar as ações desenvolvidas, controlar o alcance das metas e avaliar o resultado no âmbito de suas unidades integrantes;
+
+
+VI - tomar medidas necessárias à proteção e à conservação do patrimônio do Tribunal;
+
+
+VII - elaborar, em conjunto com a Seplan, e em consonância com os planos institucionais do TCU, a proposta orçamentária anual do Tribunal;
+
+
+VIII - encaminhar ao Presidente do TCU e acompanhar junto aos órgãos competentes a proposta orçamentária anual do Tribunal, bem como verificar a execução do orçamento pelas unidades gestoras;
+
+
+IX - submeter à Secoi a tomada de contas anual do Tribunal;
+
+
+X - promover a integração do Tribunal com outros órgãos dos poderes Executivo, Legislativo e Judiciário no que se refere à gestão administrativa do TCU;
+
+
+XI - auxiliar na celebração, execução e acompanhamento de convênios e acordos de cooperação técnica, ou instrumentos congêneres, que tenham o Tribunal como parte;
+
+
+XII - gerenciar e adotar as medidas necessárias à manutenção e ao aprimoramento das soluções de tecnologia da informação que dão suporte à área administrativa;
+
+
+XIII - gerir informações estratégicas para as ações administrativas; e
+
+
+XIV - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Art. 54. A Segedam conta com a seguinte estrutura:
+
+
+I - Secretaria-Geral Adjunta de Administração (Adgedam);
+
+
+II - Secretaria de Planejamento, Métodos e Gestão de Soluções de TI para a Administração (Seadmin);
+
+
+III - Secretaria de Gestão de Pessoas (Segep);
+
+
+IV - Secretaria de Orçamento, Finanças e Contabilidade (Secof);
+
+
+V - Secretaria de Licitações, Contratos e Patrimônio (Selip);
+
+
+VI - Secretaria de Engenharia (Senge);
+
+
+VII - Secretaria de Segurança e Serviços de Apoio (Sesap); e
+
+
+VIII - Assessoria.
+
+
+Parágrafo único. A Segedam é dirigida por secretário-geral e conta com as funções de confiança constantes do Anexo IV desta Resolução para organização de suas atividades, bem assim com as distribuídas por ato do Presidente do TCU.
+
+
+
+Seção I
+
+
+
+
+Da Secretaria-Geral Adjunta de Administração
+
+
+
+Art. 55. A Adgedam tem por finalidade assessorar a Segedam no exercício de suas competências, especialmente no que se refere à coordenação, acompanhamento e execução das ações estratégicas de administração.
+
+
+Art. 56. Compete à Adgedam:
+
+
+I - propor diretrizes e ferramentas relativas à gestão administrativa do Tribunal;
+
+
+II - planejar, organizar, acompanhar e executar ações e serviços administrativos de natureza estratégica ou que necessitem de atuação intersetorial;
+
+
+III - promover a articulação com as unidades do Tribunal, bem assim com os demais órgãos e entidades públicos no que se refere à área administrativa;
+
+
+IV- obter, identificar, organizar e sistematizar informações necessárias às ações estratégicas de administração, inclusive mediante solicitação de dados às demais unidades do Tribunal;
+
+
+V - zelar pelo cumprimento dos requisitos de transparência da gestão, nos termos da Lei Complementar nº 101, de 4 de maio de 2000, e da lei de diretrizes orçamentárias em vigor, bem como coordenar, no âmbito da Segedam, o cumprimento da Lei nº 12.527, de 18 de novembro de 2012;
+
+
+VI - coordenar o atendimento das demandas administrativas emanadas pelas unidades de assessoramento a autoridades, bem como das solicitações da espécie apresentadas pelas autoridades ativas e inativas, e seus respectivos pensionistas;
+
+
+VII - realizar a coordenação técnica, no âmbito do Tribunal, do funcionamento da Fundação de Previdência Complementar do Servidor Público Federal (Funpresp);
+
+
+VIII - providenciar a apuração de responsabilidade de servidor do Tribunal por infração praticada no exercício de suas atribuições, observadas as orientações da Corregedoria do TCU;
+
+
+IX - disseminar as boas práticas administrativas entre as unidades integrantes da Segedam;
+
+
+X - prestar apoio técnico e operacional às unidades do Tribunal no desenvolvimento das atividades administrativas;
+
+
+XI - promover a publicação dos atos administrativos do Tribunal nos órgãos e veículos oficiais;
+
+
+XII - operacionalizar o apoio administrativo ao funcionamento da Segedam;
+
+
+XIII - supervisionar as atividades da Sala Ministro Henrique de La Roque; e
+
+
+XIV - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A Adgedam é dirigida por secretário-geral adjunto e contará com as funções de confiança definidas em ato do Presidente do Tribunal."
+
+
+Art. 14. Fica alterada a numeração sequencial das Seções II, III, IV e V do Capítulo III do Título II da Resolução-TCU nº 253, de 2012 para, respectivamente, Seções III, IV, V e VI do mesmo capítulo, mantidas as respectivas denominações, à exceção da Seção VI que passa a denominar-se "Da Secretaria de Engenharia".
+
+
+Art. 15. Fica incluída a Seção II no Capítulo III do Título II da Resolução-TCU nº 253, de 2012, com a denominação "Da Secretaria de Planejamento, Métodos e Gestão de Soluções de TI para a Administração".
+
+
+Art. 16. Ficam incluídos os arts. 56-A e 56-B na Seção II do Capítulo III do Título II da Resolução-TCU nº 253, de 2012, nos seguintes termos:
+
+
+"Art. 56-A. A Seadmin tem por finalidade articular e consolidar o planejamento e a normatização das ações estratégicas de administração, auxiliar a Segedam na implantação de inovações administrativas, bem como coordenar a gestão das soluções de tecnologia da informação que dão suporte à área administrativa.
+
+
+Art. 56-B. Compete à Seadmin:
+
+
+I - coordenar e acompanhar, com o apoio da Seplan, o planejamento das atividades da área administrativa, observados os planos institucionais do Tribunal;
+
+
+II - apoiar, em conjunto com a Seplan, a definição e o acompanhamento de metas, medidas e indicadores de desempenho das unidades da Segedam, observados os planos institucionais do Tribunal;
+
+
+III - coordenar a identificação, o desenvolvimento, a sistematização, a normatização, a implantação, a orientação, a publicação e a utilização de métodos e técnicas aplicáveis à área administrativa do Tribunal;
+
+
+IV - manter intercâmbio com especialistas e instituições visando promover o alinhamento dos métodos e técnicas da área administrativa com as normas de referência e as melhores práticas existentes;
+
+
+V - atuar como unidade coordenadora da gestão das soluções de tecnologia da informação que dão suporte à área administrativa do Tribunal, em consonância com a Política de Governança de Tecnologia da Informação do TCU;
+
+
+VI - dar suporte às unidades do Tribunal no que concerne ao uso das soluções de tecnologia da informação cuja gestão lhe tenha sido atribuída, com apoio técnico da STI e da Setic;
+
+
+VII - coordenar, em conjunto com a STI, as iniciativas de provimento descentralizado de soluções de tecnologia da informação essenciais à área administrativa; e
+
+
+VIII - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A Seadmin é dirigida por secretário e contará com as funções de confiança definidas em ato do Presidente do Tribunal."
+
+
+Art. 17. Fica alterado o caput do art. 61 da Resolução-TCU nº 253, de 2012, que passa a vigorar com a seguinte redação:
+
+
+"Art. 61. A Selip tem por finalidade gerenciar e executar atividades inerentes à aquisição e administração de bens patrimoniais e de consumo, à contratação de obras e serviços em geral e à gestão de contratos."
+
+
+Art. 18. Fica alterado o inciso IV do art. 62 da Resolução-TCU nº 253, de 2012, que passa a vigorar com a seguinte redação:
+
+
+"Art. 62. (...)
+
+
+(...)
+
+
+IV - apoiar a atividade de gestão de contratos administrativos firmados pelo Tribunal;"
+
+
+Art. 19. Ficam alterados os arts. 63 e 64 da Resolução-TCU nº 253, de 2012, que passam a vigorar com a seguinte redação:
+
+
+"Art. 63. A Senge tem por finalidade gerenciar e executar as atividades inerentes à engenharia e à manutenção do patrimônio do Tribunal.
+
+
+Art. 64. Compete à Senge:
+
+
+I - planejar, organizar, dirigir, controlar, supervisionar e, quando for o caso, realizar os serviços de obras e os projetos de engenharia, de manutenção predial e reparos, de telecomunicações, de áudio e vídeo, bem como outros serviços de engenharia executados no âmbito do Tribunal, em sintonia com as Políticas Corporativas de Segurança Física e Patrimonial, de Segurança da Informação e de Continuidade de Negócios;
+
+
+II - zelar pela manutenção geral da infraestrutura dos imóveis sob a responsabilidade do Tribunal, bem como de suas instalações hidráulicas, sanitárias, elétricas, dos dispositivos de proteção contra descargas atmosféricas, contra incêndio, de infraestrutura de rede de comunicação de dados e voz, de sistemas de som, de elevadores, de climatização e de telefonia;
+
+
+III - promover o uso racional do espaço físico dos imóveis sob a responsabilidade do Tribunal;
+
+
+IV - manter a programação visual do conjunto arquitetônico do Tribunal, em sintonia com as políticas institucionais de comunicação social;
+
+
+V - prestar serviços de áudio e vídeo, inclusive com captação, edição e transmissão via intranet;
+
+
+VI - acompanhar e atualizar os atos normativos referentes às áreas de engenharia e manutenção, bem como informar e orientar quanto ao cumprimento das normas estabelecidas; e
+
+
+VII - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A Senge é dirigida por secretário e contará com as funções de confiança definidas em ato do Presidente do Tribunal."
+
+
+Art. 20. Fica incluída a Seção VII no Capítulo III do Título II da Resolução-TCU nº 253, de 2012, com a denominação "Da Secretaria de Segurança e Serviços de Apoio".
+
+
+Art. 21. Ficam incluídos os arts. 64-A e 64-B na Seção VII do Capítulo III do Título II da Resolução-TCU nº 253, de 2012, com a seguinte redação:
+
+
+"Art. 64-A. A Sesap tem por finalidade coordenar, orientar e acompanhar a implementação da Política Corporativa de Segurança Física e Patrimonial, gerenciar e executar os serviços de apoio e as atividades inerentes à preservação e conservação do patrimônio do Tribunal.
+
+
+Art. 64-B. Compete à Sesap:
+
+
+I - propor a formulação de estratégias, normas e procedimentos de segurança física e patrimonial em alinhamento às diretrizes institucionais do Tribunal;
+
+
+II - promover, acompanhar, orientar, apoiar e, quando for o caso, executar ações corporativas que visem a aprimorar a segurança física e patrimonial no Tribunal;
+
+
+III - coordenar a centralização, na Sede, de atividades administrativas do Tribunal, no que concerne à elaboração e à racionalização de termos de referência de serviços de natureza continuada;
+
+
+IV - planejar, organizar, dirigir, centralizar, controlar, supervisionar, padronizar e, quando for o caso, realizar os serviços de transportes, de conservação e limpeza predial, de produção gráfica, de copa, de jardinagem, de lavanderia e de dedetização, bem como outros serviços de apoio executados no âmbito do Tribunal;
+
+
+V - promover o uso racional das garagens e do estacionamento localizados na Sede do Tribunal;
+
+
+VI - executar o recebimento, classificação, conversão para o meio eletrônico e cadastramento dos documentos e processos relativos a expedientes e a malotes protocolizados na Sede do Tribunal;
+
+
+VII - supervisionar as atividades da Sala Ministro Luiz Octávio Galloti (Sala dos Advogados);
+
+
+VIII - acompanhar e atualizar os atos normativos referentes aos serviços de apoio, bem como informar e orientar quanto ao cumprimento das normas estabelecidas; e
+
+
+IX - desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A Sesap é dirigida por secretário e contará com as funções de confiança definidas em ato do Presidente do Tribunal."
+
+
+Art. 22. Fica alterado o § 1º do art. 85 da Resolução-TCU nº 253, de 2012, que passa a vigorar com a seguinte redação:
+
+
+"Art. 85 (...)
+
+
+§ 1º O Comitê é integrado pelos dirigentes da Segep, da Adgedam, da Seplan, Adgepres e do ISC, pelo Chefe de Gabinete do Ministro-Corregedor e por dois representantes indicados pela Segecex."
+
+
+Art. 23. Os anexos da Resolução-TCU nº 253, de 2012, passam a vigorar na forma dos anexos a esta Resolução.
+
+
+Art. 24. A dispensa e a designação de servidores para funções de confiança, em razão do disposto nesta Resolução, deverão ser realizadas em até trinta dias contados da vigência da presente norma. 
+
+
+Parágrafo único. Os titulares das unidades que foram criadas ou que tenham sofrido ajuste em sua estrutura em razão desta Resolução terão o prazo de quarenta dias, a contar da vigência da presente norma, para dar cumprimento ao disposto no inciso II do art. 91 da Resolução-TCU nº 253, de 2012.
+
+
+Art. 25. Esta Resolução entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente do TCU
+
+
+
+ANEXO I DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+FUNÇÕES DE CONFIANÇA DA SECRETARIA DO TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+NÍVEL
+
+QUANTIDADE
+
+FC‑6
+
+3
+
+FC‑5
+
+223
+
+FC‑4
+
+192
+
+FC‑3
+
+323
+
+FC‑2
+
+59
+
+FC‑1
+
+113
+
+Total
+
+913
+
+
+
+
+
+
+Não consta revogação expressa
+Altera a Resolução-TCU nº 154, de 4 de dezembro de 2002, que dispõe sobre as atribuições dos cargos e das funções de confiança do quadro de pessoal do Tribunal de Contas da União; a Resolução-TCU nº 247, de 7 de dezembro de 2011, que dispõe sobre a Política de Governança de Tecnologia da Informação do Tribunal de Contas da União; e a Resolução-TCU nº 253, de 21 de dezembro de 2012, que define a estrutura, as competências e a distribuição das funções de confiança das unidades da Secretaria do Tribunal de Contas da União.
+
+ANEXO II DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA
+
+ 
+
+UNIDADE
+
+FC‑6
+
+FC‑5
+
+FC‑4
+
+FC‑3
+
+FC‑2
+
+FC‑1
+
+TOTAL
+
+Secretaria-Geral da Presidência
+
+1
+
+12
+
+25
+
+60
+
+2
+
+11
+
+111
+
+Secretaria-Geral de Controle Externo
+
+1
+
+53
+
+119
+
+146
+
+-
+
+51
+
+370
+
+Secretaria-Geral de Administração
+
+1
+
+7
+
+18
+
+54
+
+-
+
+13
+
+93
+
+Secretaria de Controle Interno
+
+-
+
+1
+
+2
+
+2
+
+-
+
+1
+
+6
+
+Secretaria de Planejamento, Governança e Gestão
+
+-
+
+1
+
+3
+
+2
+
+-
+
+1
+
+7
+
+Gabinete do Presidente
+
+-
+
+1
+
+-
+
+8
+
+7
+
+6
+
+22
+
+Gabinete do Corregedor
+
+-
+
+1
+
+-
+
+2
+
+1
+
+-
+
+4
+
+Gabinetes de Ministro
+
+-
+
+63
+
+-
+
+18
+
+27
+
+18
+
+126
+
+Gabinetes de Ministro Substituto
+
+-
+
+24
+
+-
+
+4
+
+12
+
+4
+
+44
+
+Gabinetes de Membro do Ministério Público junto ao Tribunal
+
+-
+
+33
+
+-
+
+2
+
+10
+
+8
+
+53
+
+Funções alocáveis por trabalho
+
+-
+
+27
+
+25
+
+25
+
+-
+
+-
+
+77
+
+Total
+
+3
+
+223
+
+192
+
+323
+
+59
+
+113
+
+913
+
+
+
+
+
+ANEXO III DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DENOMINAÇÃO DAS FUNÇÕES DE CONFIANÇA
+
+ 
+
+NÍVEL
+
+DENOMINAÇÃO
+
+DIREÇÃO
+
+ASSESSORAMENTO
+
+TOTAL 
+
+FC‑6
+
+Secretário-Geral
+
+3
+
+-
+
+3
+
+Subtotal
+
+3
+
+-
+
+3
+
+FC‑5
+
+Coordenador-Geral
+
+4
+
+-
+
+4
+
+Secretário-Geral Adjunto
+
+3
+
+-
+
+3
+
+Secretário
+
+61
+
+-
+
+61
+
+Diretor-Geral
+
+1
+
+-
+
+1
+
+Chefe de Assessoria
+
+3
+
+-
+
+3
+
+Chefe de Gabinete
+
+21
+
+-
+
+21
+
+Consultor Jurídico
+
+1
+
+-
+
+1
+
+Chefe de Assessoria (Ouvidor)
+
+1
+
+-
+
+1
+
+Assessor do Presidente
+
+-
+
+1
+
+1
+
+Assessor de Ministro
+
+-
+
+54
+
+54
+
+Assessor de Ministro Substituto
+
+-
+
+20
+
+20
+
+Assessor de Procurador
+
+-
+
+26
+
+26
+
+Especialista Sênior Nível III (*)
+
+-
+
+-
+
+27
+
+Subtotal
+
+95
+
+101
+
+223
+
+FC‑4
+
+Subsecretário
+
+3
+
+-
+
+3
+
+Diretor
+
+156
+
+-
+
+156
+
+Assessor de Secretário-Geral
+
+-
+
+8
+
+8
+
+Especialista Sênior Nível II (*)
+
+-
+
+-
+
+25
+
+Subtotal
+
+159
+
+8
+
+192
+
+FC‑3
+
+Chefe de Serviço
+
+140
+
+-
+
+140
+
+Assessor (UCP)
+
+-
+
+1
+
+1
+
+Assessor
+
+-
+
+125
+
+125
+
+Gerente de Processo
+
+7
+
+-
+
+7
+
+Oficial de Gabinete
+
+-
+
+25
+
+25
+
+Especialista Sênior Nível I (*)
+
+-
+
+-
+
+25
+
+Subtotal
+
+147
+
+151
+
+323
+
+FC‑2
+
+Assistente Técnico
+
+-
+
+59
+
+59
+
+Subtotal
+
+-
+
+59
+
+59
+
+FC‑1
+
+Assistente Administrativo
+
+-
+
+77
+
+77
+
+Auxiliar de Gabinete
+
+-
+
+36
+
+36
+
+Subtotal
+
+-
+
+113
+
+113
+
+Total de FC por natureza
+
+404
+
+432
+
+913
+
+Total geral de FC
+
+913
+
+
+(*) A natureza da função de Especialista Sênior (direção ou assessoramento) será indicada no respectivo ato de designação do servidor. Os quantitativos das funções de Especialista Sênior estão computados somente na coluna "Total".
+
+
+
+
+ANEXO IV DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA NAS UNIDADES BÁSICAS
+
+UNIDADES BÁSICAS
+
+NÍVEL
+
+EXISTENTES
+
+TOTAL
+
+FC
+
+DIREÇÃO
+
+ASSESSORA-MENTO
+
+Secretaria-Geral da Presidência
+
+Secretário-Geral
+
+FC‑6
+
+1
+
+-
+
+1
+
+Secretário-Geral Adjunto
+
+FC‑5
+
+1
+
+-
+
+1
+
+Secretário
+
+5
+
+-
+
+5
+
+Diretor-Geral
+
+1
+
+-
+
+1
+
+Consultor-Geral
+
+1
+
+-
+
+1
+
+Chefe de Assessoria
+
+3
+
+-
+
+3
+
+Chefe de Assessoria (Ouvidor)
+
+1
+
+-
+
+1
+
+Assessor de Secretário-Geral
+
+FC‑4
+
+-
+
+2
+
+-
+
+Subsecretário
+
+3
+
+-
+
+3
+
+Diretor
+
+20
+
+-
+
+20
+
+Chefe de Serviço
+
+FC‑3
+
+41
+
+-
+
+41
+
+Assessor
+
+-
+
+18
+
+18
+
+Assessor (UCP)
+
+-
+
+1
+
+1
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+2
+
+2
+
+Assistente Administrativo
+
+FC‑1
+
+-
+
+11
+
+11
+
+Total
+
+77
+
+34
+
+111
+
+Secretaria-Geral de Controle Externo
+
+Secretário-Geral
+
+FC‑6
+
+1
+
+-
+
+1
+
+Coordenador-Geral
+
+FC‑5
+
+4
+
+-
+
+4
+
+Secretário-Geral Adjunto
+
+1
+
+-
+
+1
+
+Secretário
+
+48
+
+-
+
+48
+
+Diretor
+
+FC‑4
+
+116
+
+-
+
+116
+
+Assessor de Secretário-Geral
+
+-
+
+3
+
+3
+
+Chefe de Serviço
+
+FC‑3
+
+58
+
+-
+
+58
+
+Assessor
+
+-
+
+88
+
+88
+
+Assistente Administrativo
+
+FC‑1
+
+-
+
+51
+
+51
+
+Total
+
+228
+
+142
+
+370
+
+Secretaria-Geral de Administração
+
+Secretário-Geral
+
+FC‑6
+
+1
+
+-
+
+1
+
+Secretário-Geral Adjunto
+
+FC‑5
+
+1
+
+-
+
+1
+
+Secretário
+
+6
+
+-
+
+6
+
+Assessor de Secretário-Geral
+
+FC‑4
+
+-
+
+3
+
+3
+
+Diretor
+
+15
+
+-
+
+15
+
+Chefe de Serviço
+
+FC‑3
+
+37
+
+-
+
+37
+
+Assessor
+
+-
+
+10
+
+10
+
+Gerente de Processo
+
+7
+
+-
+
+7
+
+Assistente Administrativo
+
+FC‑1
+
+-
+
+13
+
+13
+
+Total
+
+67
+
+26
+
+93
+
+Total nas unidades básicas
+
+372
+
+202
+
+574
+
+
+
+
+ANEXO V DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA NA UNIDADE DE CONTROLE INTERNO
+
+ 
+
+UNIDADE DE ASSESSORAMENTO ESPECIALIZADO
+
+NÍVEL
+
+FC
+
+EXISTENTES
+
+TOTAL
+
+DIREÇÃO
+
+ASSESSORA-MENTO
+
+Secoi
+
+Secretário
+
+FC‑5
+
+1
+
+-
+
+1
+
+Diretor
+
+FC‑4
+
+2
+
+-
+
+2
+
+Chefe de Serviço
+
+FC‑3
+
+1
+
+-
+
+1
+
+Assessor
+
+-
+
+1
+
+1
+
+Assistente Administrativo
+
+FC‑1
+
+-
+
+1
+
+1
+
+Total
+
+4
+
+2
+
+6
+
+
+
+
+
+ANEXO VI DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA NA UNIDADE DE PLANEJAMENTO, 
+
+GOVERNANÇA E GESTÃO
+
+ 
+
+UNIDADE DE ASSESSORAMENTO ESPECIALIZADO
+
+NÍVEL
+
+FC
+
+EXISTENTES
+
+TOTAL
+
+DIREÇÃO
+
+ASSESSORA-MENTO
+
+Seplan
+
+Secretário
+
+FC‑5
+
+1
+
+-
+
+1
+
+Diretor
+
+FC‑4
+
+3
+
+-
+
+3
+
+Chefe de Serviço
+
+FC‑3
+
+1
+
+-
+
+1
+
+Assessor
+
+-
+
+1
+
+1
+
+Assistente Administrativo
+
+FC‑1
+
+-
+
+1
+
+1
+
+Total
+
+5
+
+2
+
+7
+
+
+
+
+
+ANEXO VII DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA NAS UNIDADES DE 
+ASSESSORAMENTO A AUTORIDADES
+
+ 
+
+UNIDADES DE ASSESSORAMENTO A AUTORIDADES
+
+NÍVEL
+
+FC
+
+EXISTENTES
+
+TOTAL
+
+DIREÇÃO
+
+ASSESSORA-MENTO
+
+Gabinete do Presidente
+
+Chefe de Gabinete (*)
+
+FC‑5
+
+-
+
+-
+
+-
+
+Assessor do Presidente
+
+FC‑5
+
+-
+
+1
+
+1
+
+Chefe de Serviço
+
+FC‑3
+
+2
+
+-
+
+2
+
+Assessor
+
+-
+
+6
+
+6
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+7
+
+7
+
+Auxiliar de Gabinete
+
+FC‑1
+
+-
+
+6
+
+6
+
+Total
+
+2
+
+20
+
+22
+
+Gabinete do Corregedor
+
+Chefe de Gabinete
+
+FC‑5
+
+1
+
+-
+
+1
+
+Assessor
+
+FC‑3
+
+-
+
+1
+
+1
+
+Oficial de Gabinete
+
+FC‑3
+
+-
+
+1
+
+1
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+1
+
+1
+
+Total
+
+1
+
+3
+
+4
+
+Gabinete de Ministro
+
+Chefe de Gabinete
+
+FC‑5
+
+1
+
+-
+
+1
+
+Assessor de Ministro
+
+-
+
+6
+
+6
+
+Oficial de Gabinete
+
+FC‑3
+
+-
+
+2
+
+2
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+3
+
+3
+
+Auxiliar de Gabinete
+
+FC‑1
+
+-
+
+2
+
+2
+
+Total por Gabinete
+
+1
+
+13
+
+14
+
+Total do Grupo (9 Gabinetes)
+
+9
+
+117
+
+126
+
+Gabinete de Ministro Substituto
+
+Chefe de Gabinete
+
+FC‑5
+
+1
+
+-
+
+1
+
+Assessor de Ministro Substituto
+
+-
+
+5
+
+5
+
+Oficial de Gabinete
+
+FC‑3
+
+-
+
+1
+
+1
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+3
+
+3
+
+Auxiliar de Gabinete
+
+FC‑1
+
+-
+
+1
+
+1
+
+Total por Gabinete
+
+1
+
+10
+
+11
+
+Total do Grupo (4 Gabinetes)
+
+4
+
+40
+
+44
+
+Gabinete de Membro do Ministério Público junto ao Tribunal
+
+Chefe de Gabinete
+
+FC‑5
+
+7
+
+-
+
+7
+
+Assessor de Procurador
+
+-
+
+26
+
+26
+
+Oficial de Gabinete
+
+FC‑3
+
+-
+
+2
+
+2
+
+Assistente Técnico
+
+FC‑2
+
+-
+
+10
+
+10
+
+Auxiliar de Gabinete
+
+FC‑1
+
+-
+
+8
+
+8
+
+Total do Grupo
+
+7
+
+46
+
+53
+
+Total Unidades de Assessoramento a Autoridades
+
+23
+
+226
+
+249
+
+
+(*) A função de Chefe de Gabinete no Gabinete do Presidente é oriunda da função de Chefe de Gabinete do ministro eleito presidente.
+
+
+
+
+ANEXO VIII DA RESOLUÇÃO-TCU Nº 255, DE 17 DE ABRIL DE 2013
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES ALOCÁVEIS POR TRABALHO
+
+ 
+
+ 
+
+FUNÇÕES ALOCÁVEIS POR TRABALHO (*)
+
+NÍVEL FC
+
+TOTAL
+
+Especialista Sênior nível III
+
+FC-5
+
+27
+
+Especialista Sênior nível II
+
+FC-4
+
+25
+
+Especialista Sênior nível I
+
+FC‑3
+
+25
+
+Total
+
+77
+
+
+(*) Das funções indicadas no quadro, 20 FC Especialista Sênior nível III, 25 FC Especialista Sênior nível II e 25 Especialista Sênior nível I foram criadas pela Lei nº 12.776, de 2012.  
+
+

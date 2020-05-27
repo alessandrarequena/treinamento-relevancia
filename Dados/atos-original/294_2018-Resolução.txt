@@ -1,0 +1,503 @@
+Resolução
+294/2018
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+considerando o disposto nos incisos X e XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal, sobre acesso à informação e direito à intimidade, à vida privada, à honra e à imagem; e na Lei nº 12.527, de 18 de novembro de 2011, sobre o acesso à informação previsto na Constituição Federal;
+
+
+considerando que o Tribunal produz e custodia informações no exercício de suas competências, e que eventual restrição de acesso a essas informações deve ser resguardado;
+
+
+considerando as hipóteses de restrição de acesso previstas em legislação específica, como sigilo fiscal, bancário, de operação e serviços no mercado de capitais, comercial, profissional e industrial, bem assim aquelas envolvendo segredo de justiça e denúncias;
+
+
+considerando o disposto na Lei nº 8.443, de 16 de julho de 1992 - Lei Orgânica do TCU, no Regimento Interno e na Resolução-TCU nº 259, de 7 de maio de 2014, no que concerne ao tratamento de informações sigilosas; e na Resolução-TCU nº 249, de 2 de maio de 2012, sobre o acesso à informação e a aplicação da Lei nº 12.527, de 2011, no âmbito do Tribunal de Contas da União;
+
+
+considerando a necessidade de regulamentação da classificação das informações produzidas ou custodiadas pelo Tribunal, compatível com as necessidades de negócio e de manutenção da imagem do Tribunal;
+
+
+considerando disposto nos incisos IV e VII do art. 2º da Resolução-TCU nº 247, de 7 de dezembro de 2011, sobre a Política de Governança de Tecnologia do Tribunal de Contas da União; e
+
+
+considerando os estudos e as deliberações constantes no processo 020.596/2017-0, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º A classificação da informação quanto à confidencialidade no âmbito do Tribunal de Contas da União observa os critérios e os procedimentos de segurança estabelecidos nesta Resolução, bem como as disposições constitucionais, legais e regimentais vigentes, em especial, as da Lei nº 12.527, de 18 de novembro de 2011.
+
+
+Art. 2° Esta Resolução integra a Política Corporativa de Segurança da Informação do Tribunal de Contas da União - PCSI/TCU.
+
+
+§ 1º As autoridades do Tribunal, os servidores, terceirizados, estagiários, demais colaboradores e qualquer pessoa que tenha acesso a informações produzidas ou custodiadas pelo TCU, às dependências ou aos sistemas informatizados desse Tribunal estão sujeitos às diretrizes desta norma.
+
+
+
+
+
+§ 2º O intercâmbio de informações e documentos entre o TCU e entidades e órgãos públicos com os quais o Tribunal mantenha acordo de cooperação ou instrumento congênere, disciplinado nos termos da Resolução-TCU nº 223, de 18 de março de 2009, obedece, no que couber, ao disposto nesta Resolução.
+
+
+§ 3º O tratamento de informação sigilosa resultante de tratados, acordos ou atos internacionais atende às normas e recomendações constantes desses instrumentos.
+
+
+Art. 3º Para os efeitos desta Resolução, e em consonância com a PCSI/TCU, entende-se por:
+
+
+I – informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II – segurança da informação: proteção da informação contra ameaças para garantir a continuidade do negócio, minimizar os riscos, maximizar a eficiência e a efetividade das ações do negócio e preservar a imagem do TCU;
+
+
+III – informação sigilosa: aquela submetida à restrição de acesso público, nos termos da lei;
+
+
+IV – informação pessoal: aquela relacionada à pessoa natural identificada ou identificável;
+
+
+V – confidencialidade: princípio de segurança da informação que visa a garantir que a informação seja acessada somente por pessoas ou processos que tenham autorização para tal;
+
+
+VI – custodiante: qualquer pessoa física ou jurídica, interna ou externa, que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+VII – classificação da informação: ação que qualifica a informação quanto à confidencialidade, abrangendo inclusive, para os efeitos desta Resolução, os atos de registro da classificação de documentos eletrônicos internos ou externos em soluções de tecnologia da informação; 
+
+
+VIII – tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação;
+
+
+IX – grupo de acesso implícito: conjunto de pessoas autorizadas a acessar informação que não seja pública, armazenada em sistema informatizado do TCU, em virtude de regra geral previamente definida por colegiado, autoridade ou unidade competente do Tribunal, de acordo com as características da informação.
+
+
+X – grupo de acesso explícito: conjunto de pessoas autorizadas a acessar informação que não seja pública, em virtude de indicação explícita por pessoa competente, no caso concreto, podendo abranger pessoas físicas ou jurídicas que se relacionam com o TCU.
+
+
+XI – documento eletrônico: documento armazenado sob a forma de arquivo eletrônico, inclusive aquele resultante de digitalização.
+
+
+CAPÍTULO II
+
+
+DA CLASSIFICAÇÃO DA INFORMAÇÃO
+
+
+Art. 4º A classificação das informações produzidas pelo TCU observa a publicidade como preceito geral e o sigilo como exceção.
+
+
+Parágrafo único. Compete exclusivamente ao TCU classificar as informações por ele produzidas.
+
+
+
+
+
+Art. 5º A informação produzida pelo Tribunal deve ser obrigatoriamente classificada nas seguintes situações:
+
+
+I - quando a informação for armazenada sob a forma de documento eletrônico em soluções de tecnologia da informação, observado o disposto no parágrafo único deste artigo;
+
+
+II - quando houver indícios ou fundado receio de que a informação se enquadra em qualquer hipótese de sigilo prevista nesta Resolução;
+
+
+III - quando a informação tiver sido requisitada em um Pedido de Acesso à Informação ou em qualquer outra solicitação de informação;
+
+
+IV- quando da publicação das informações na transparência ativa ou outras iniciativas para promover dados abertos.
+
+
+Parágrafo único. É facultado aplicar provisoriamente a chancela "Pendente de classificação" para: 
+
+
+I - documentos não classificados pela origem recebidos pelas unidades da Secretaria do Tribunal até que se confirme a sua classificação, juntamente com todos os atributos previstos no art. 14 desta Resolução, com o órgão ou entidade responsável pela informação; ou
+
+
+II - outras hipóteses previstas em regulamentação específica, nos termos do art. 24 desta Resolução. 
+
+
+Art. 6º Cabe aos servidores do TCU, no momento de recebimento de informação de pessoa física ou jurídica externa ao Tribunal, reproduzir a classificação atribuída na origem.
+
+
+Parágrafo único. Quando o documento recebido de pessoa física ou jurídica externa ao Tribunal for resposta a pedido do próprio TCU, em que haja menção explícita à necessidade de classificação da informação, a informação não classificada pelo órgão de origem será considerada pública.
+
+
+Art. 7º O termo inicial para contagem do prazo de restrição de acesso é a data da produção da informação.
+
+
+Parágrafo único. Para informações armazenadas em soluções de tecnologia da informação, considera-se como data da produção da informação a data da primeira assinatura no documento eletrônico.
+
+
+Art. 8º As informações produzidas pelo TCU classificam-se em públicas ou sigilosas. 
+
+
+§ 1º Classifica-se como pública a informação cujo acesso pode ser franqueado a qualquer pessoa.
+
+
+§ 2º O documento será público quando todas as informações nele contidas estiverem classificadas como públicas.
+
+
+§ 3º São consideradas sigilosas as informações:
+
+
+	I - imprescindíveis à segurança da sociedade ou do Estado;
+
+
+	II - pessoais relativas à intimidade, vida privada, honra e imagem da pessoa; ou
+
+
+	III – protegidas por sigilo estabelecido em legislação específica.
+
+
+§ 4º As informações podem ser enquadradas em mais de uma hipótese de sigilo. 
+
+
+
+Seção I
+
+
+
+
+Das informações imprescindíveis à segurança da sociedade ou do Estado
+
+
+
+Art. 9º São consideradas imprescindíveis à segurança da sociedade ou do Estado as informações cuja divulgação ou acesso irrestrito possam:
+
+
+ I - pôr em risco a defesa e a soberania nacionais ou a integridade do território nacional;
+
+
+ II - prejudicar ou pôr em risco a condução de negociações ou as relações internacionais do País, ou as que tenham sido fornecidas em caráter sigiloso por outros Estados e organismos internacionais;
+
+
+ III - pôr em risco a vida, a segurança ou a saúde da população;
+
+
+ IV - oferecer elevado risco à estabilidade financeira, econômica ou monetária do País;
+
+
+ V - prejudicar ou causar risco a planos ou operações estratégicas das Forças Armadas;
+
+
+ VI - prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico, assim como a sistemas, bens, instalações ou áreas de interesse estratégico nacional;
+
+
+ VII - pôr em risco a segurança de instituições ou de altas autoridades nacionais ou estrangeiras e seus familiares; ou
+
+
+ VIII - comprometer atividades de inteligência do Tribunal, bem como de investigação ou fiscalização em andamento.
+
+
+§ 1º.  A informação de que trata este artigo deverá ser classificada nos graus reservado, secreto ou ultrassecreto.
+
+
+§ 2º Os prazos máximos de restrição de acesso à informação, conforme previsto no §1º, vigoram a partir da data de sua produção e são os seguintes:
+
+
+I – reservada: cinco anos;
+
+
+II – secreta: quinze anos;
+
+
+III – ultrassecreta: vinte e cinco anos; e
+
+
+§ 3º Alternativamente aos prazos previstos nos incisos I a III do § 2º, pode ser estabelecido termo final associado à ocorrência de determinado evento, desde que esse ocorra antes do transcurso do prazo máximo de restrição de acesso.
+
+
+§ 4º O prazo de restrição de acesso à informação ultrassecreta pode ser prorrogado por uma única vez, sempre por prazo determinado e igual ou inferior ao constante no inciso III do § 2º, enquanto o seu acesso ou divulgação puder ocasionar ameaça externa à soberania nacional ou à integridade do território nacional ou grave risco às relações internacionais do País.
+
+
+§ 5º Transcorrido o prazo de restrição de acesso ou consumado o evento que defina o seu termo final, a informação será reclassificada para pública.
+
+
+§ 6º Para a classificação da informação nos graus reservado, secreto e ultrassecreto, deve ser observado o interesse público da informação e utilizado o critério menos restritivo possível, considerados:
+
+
+ I - a gravidade do risco ou dano à segurança da sociedade e do Estado; e
+
+
+II - o prazo máximo de restrição de acesso ou o evento que defina seu termo final.
+
+
+
+Seção II
+
+
+
+
+Das informações relativas à intimidade, vida privada, honra e imagem da pessoa
+
+
+
+Art. 10. O tratamento das informações pessoais a que se refere o inciso II do § 3º do art. 8º deve ser feito de forma transparente e com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais.
+
+
+§ 1º As informações a que se refere este artigo, relativas à intimidade, vida privada, honra e imagem:
+
+
+
+
+
+I – devem ter o seu acesso restrito a agentes públicos legalmente autorizados e à pessoa a que elas se refiram; 
+
+
+II - podem ter autorizada sua divulgação ou acesso por terceiros diante de previsão legal ou consentimento expresso da pessoa a que elas se refiram; e
+
+
+III – devem ter restrição de acesso pelo prazo máximo de cem anos a contar da data de produção.
+
+
+§ 2º O consentimento referido no inciso II do § 1º não é exigido quando as informações forem necessárias:
+
+
+ I - à prevenção e diagnóstico médico, quando a pessoa estiver física ou legalmente incapaz, e para utilização única e exclusivamente para o tratamento médico;
+
+
+ II - à realização de estatísticas e pesquisas científicas de evidente interesse público ou geral, previstos em lei, sendo vedada a identificação da pessoa a que as informações se refiram;
+
+
+III - ao cumprimento de ordem judicial;
+
+
+IV - à defesa de direitos humanos; ou
+
+
+V - à proteção do interesse público e geral preponderante.
+
+
+§ 3º A restrição de acesso à informação relativa à vida privada, honra e imagem de pessoa não pode ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância.
+
+
+
+Seção III
+
+
+
+
+Das informações protegidas por sigilo estabelecido em legislação específica
+
+
+
+Art. 11. São consideras protegidas por sigilo estabelecido em legislação específica, dentre outras, as informações:
+
+
+I - de natureza fiscal ou bancária;
+
+
+II - relacionadas a operações e serviços no mercado de capitais;
+
+
+III - protegidas por sigilo comercial, profissional ou industrial;
+
+
+IV - que envolvam segredo de justiça; ou
+
+
+V -  aquelas relativas a denúncias apresentadas ao TCU nos termos do art. 53 da Lei 8.443, de 16 de julho de 1992.
+
+
+Parágrafo único. A restrição de acesso de que trata este artigo obedece ao prazo estabelecido na lei instituidora do sigilo.
+
+
+CAPÍTULO III
+
+
+DA COMPETÊNCIA PARA A CLASSIFICAÇÃO DA INFORMAÇÃO
+
+
+Art. 12. A classificação da informação é de competência:
+
+
+I – no grau ultrassecreto, de colegiado do TCU, do Presidente, dos relatores ou membros do Ministério Público junto ao TCU;
+
+
+II – no grau secreto, das autoridades e colegiados previstos no inciso I, de colegiado da Secretaria do TCU e dos secretários-gerais, com possibilidade de delegação de competência para o dirigente da unidade responsável pelo processo;
+
+
+III – no grau reservado e nas de natureza pessoal, em outras hipóteses de sigilo previstas em lei e na classificação pública, de todos os servidores do TCU, conforme regulamentação prevista no art.  24. 
+
+
+Parágrafo único. Após manifestação sobre classificação da informação proferida pelo Presidente ou relator nos processos e documentos de suas competências, não cabe classificação diversa, salvo pela própria autoridade ou por colegiado do Tribunal.
+
+
+CAPÍTULO IV
+
+
+DOS PROCEDIMENTOS DE CLASSIFICAÇÃO DA INFORMAÇÃO
+
+
+Art. 13. Compete às autoridades e aos dirigentes da Secretaria do Tribunal editar atos normativos que indiquem orientações para classificação da informação.
+
+
+Art. 14. A classificação da informação sigilosa deve ser formalizada em instrumento que contenha os seguintes elementos:
+
+
+I – hipótese de sigilo, de acordo com o § 3º do art. 8º desta resolução;
+
+
+II – grau de sigilo, de acordo com o art. 9º, caso se trate de informações imprescindíveis à segurança da sociedade ou do Estado;
+
+
+III – assunto sobre o qual versa a informação;
+
+
+IV - fundamento da classificação; 
+
+
+V - indicação do prazo e do termo final de restrição de acesso e, quando for o caso, do evento que defina o termo final alternativo, conforme limites previstos no § 3º do art. 9º; e
+
+
+VI - identificação do responsável pela classificação.
+
+
+§ 1º Caso a informação seja classificada com sigilo estabelecido em legislação específica, o elemento do inciso V não é obrigatório;
+
+
+§ 2º Apenas nos casos de informação imprescindíveis à segurança da sociedade ou do Estado os elementos dos incisos II e III são obrigatórios;
+
+
+§ 3º O assunto de que trata o inciso III deste artigo deve ser mantido na mesma classificação que a informação a que se refere.
+
+
+§ 4º Deve ser mantido histórico nos casos em que houver redução ou prorrogação de prazo de restrição de acesso ou reclassificação da informação.
+
+
+§5º Para informações armazenadas em sistema informatizado de processo eletrônico, os elementos listados neste artigo devem ser formalizados por meio de registro no referido sistema.
+
+
+Art. 15. Todo documento eletrônico de acesso restrito possuirá, de forma automática, grupo de acesso implícito.
+
+
+Parágrafo único. Todo documento de acesso restrito pode possuir, caso necessário, grupo de acesso explícito, que deve ser informado no momento da classificação da informação.
+
+
+CAPÍTULO V
+
+
+DA RECLASSIFICAÇÃO DA INFORMAÇÃO
+
+
+Art. 16. As informações produzidas pelo Tribunal podem ser reclassificadas, por iniciativa de servidor ou autoridade competentes ou mediante provocação.
+
+
+§ 1º Qualquer interessado, nos termos da Lei 12.527, de 18 de novembro de 2011, pode provocar a Ouvidoria do TCU com vistas à reclassificação de informação.
+
+
+§ 2º No caso de indeferimento do pedido de reclassificação da informação, pode o interessado interpor recurso, observado o rito previsto no artigo 28 da Resolução-TCU nº 249, de 2 de maio de 2012.
+
+
+
+
+
+§ 3º A reclassificação deve ser formalizada contendo os mesmos elementos previstos no art. 14 desta resolução.
+
+
+§ 4º A eventual reclassificação da informação não altera o termo inicial da contagem do prazo de restrição de acesso.
+
+
+CAPÍTULO VI
+
+
+DA PROTEÇÃO E DO CONTROLE DA INFORMAÇÃO
+
+
+Art. 17. Cabe ao TCU controlar o acesso e a divulgação de informações sigilosas por ele produzidas ou custodiadas, de forma a resguardar a proteção das informações.
+
+
+§ 1º O acesso, a divulgação e o tratamento de informação sigilosa devem permanecer restritos a pessoas que tenham necessidade de conhecê-la, sem prejuízo das atribuições dos agentes públicos autorizados por lei.
+
+
+§ 2º O acesso à informação sigilosa cria a obrigação para aquele que a obteve de resguardar a confidencialidade.
+
+
+§ 3º A pessoa física ou entidade privada que, em razão de qualquer vínculo com o TCU, executar atividades de tratamento de informações sigilosas deve adotar as providências necessárias para que seus empregados, prepostos ou representantes observem as medidas e procedimentos de segurança da informação resultantes da aplicação desta Resolução.
+
+
+§ 4º Os contratos, convênios, acordos de cooperação e instrumentos congêneres celebrados pelo TCU devem conter cláusulas que estipulem a observância das medidas previstas no parágrafo anterior.
+
+
+§ 5º Sempre que necessário, a exemplo das hipóteses listadas nos incisos II, III e IV do art. 5º desta norma, deverá ser gerado extrato público ou com menor grau de sigilo, de forma a que a informação sigilosa não comprometa a disponibilidade das que com ela estiverem armazenadas.
+
+
+Art. 18. Para informações sigilosas, definidas nos termos desta Resolução, deve ser aplicado um conjunto de controles administrativos e tecnológicos compatíveis com os danos potenciais à imagem ou às operações vitais ao negócio do Tribunal, decorrentes do uso ou do acesso não autorizado à informação.
+
+
+Parágrafo único. O conjunto de controles administrativos e tecnológicos de que trata este artigo será objeto de ato normativo do Presidente.
+
+
+CAPÍTULO VII
+
+
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 19. Em caso de necessidade do serviço, o TCU deve classificar as informações produzidas anteriormente à data de vigência desta Resolução.
+
+
+Art. 20. As infrações aos dispositivos desta Resolução sujeitam os responsáveis às sanções cabíveis nas esferas administrativa, civil e penal, nos termos da legislação em vigor.
+
+
+Art. 21. Até a implementação dos ajustes necessários nas soluções de TI decorrentes do disposto desta Resolução, as informações devem ser cadastradas como:
+
+
+I – sigilosas: quando classificadas como imprescindíveis à segurança da sociedade ou do Estado, nos graus reservado, secreto e ultrassecreto, e ainda as classificadas como pessoais ou protegidas por sigilo estabelecido em legislação específica; e
+
+
+II – públicas: quando classificadas como públicas.
+
+
+Parágrafo único. Nos casos previstos nos incisos I deste artigo, devem-se preservar os elementos relativos à classificação, nos termos do art. 14 desta Resolução.
+
+
+
+
+
+Art. 22. Até a publicação dos atos previstos no art. 24 desta Resolução, fica a unidade gestora, com o apoio da unidade coordenadora de gestão do sistema de informação, autorizada a definir parâmetros para a classificação tempestiva da informação.
+
+
+Art. 23. O art. 2º, inciso I, da Resolução-TCU nº 276, de 17 de fevereiro de 2016, passa a vigorar com a seguinte redação:
+
+
+"I – peça sigilosa: peça processual que contenha informações classificadas em alguma das hipóteses de restrição de acesso previstas no parágrafo 3º do art. 8º da Resolução TCU 294/2018".
+
+
+Art. 24. Fica o Presidente do TCU autorizado a dirimir os casos omissos, bem como a expedir os atos necessários à regulamentação desta Resolução, especialmente, em relação ao art. 5º, parágrafo único, art. 6º, § 3º, art. 12, inciso III, e art. 18, parágrafo único.
+
+
+Art. 25. Fica revogada a Resolução-TCU nº 254, de 10 de abril de 2013.
+
+
+Art. 26. Esta Resolução entra em vigor na data de sua publicação.
+
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 18 de abril de 2018.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre a classificação da informação quanto à confidencialidade no âmbito do Tribunal de Contas da União.
+
+

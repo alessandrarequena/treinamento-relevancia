@@ -1,0 +1,809 @@
+Decisão Normativa
+153/2016
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe confere o art. 161, parágrafo único, da Constituição Federal, o art. 2º, caput, da Lei Complementar 61, de 26 de dezembro de 1989 e o art. 1º, inciso VI, da Lei 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), e tendo em vista o disposto no art. 159, inciso II, da Constituição Federal, e nas Leis Complementares 61, de 26 de dezembro de 1989, e 65, de 15 de abril de 1991, bem assim o que consta no processo TC 020.631/2016-2, resolve:
+
+
+
+Art. 1º Ficam aprovados, na forma dos Anexos I a III desta Decisão Normativa, os coeficientes individuais dos Estados e Distrito Federal destinados ao rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados, previsto no art. 159, inciso II, da Constituição Federal, para aplicação no exercício de 2017.
+
+
+Art. 2º Esta Decisão Normativa entra em vigor na data de sua publicação, produzindo efeitos financeiros a partir de 1º/1/2017.
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 27 de julho de 2016.
+
+
+
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+Presidente
+
+
+
+
+
+
+NORMATIVA - TCU Nº 153  -  
+Não consta revogação expressa
+Aprova os coeficientes individuais de participação dos Estados e do Distrito Federal nos recursos previstos no art. 159, inciso II, da Constituição Federal, para aplicação no exercício de 2017.
+
+ANEXO I
+
+
+
+IPI EXPORTAÇÃO - COEFICIENTES DE DECISÃO PARTICIPAÇÃO
+
+EXERCÍCIO 2017
+
+ 
+
+UF
+
+Unidade da Federação
+
+Coeficiente
+
+AC
+
+Acre
+
+0,008680%
+
+AL
+
+Alagoas
+
+0,259093%
+
+AP
+
+Amapá
+
+0,168432%
+
+AM
+
+Amazonas
+
+0,701300%
+
+BA
+
+Bahia
+
+5,146422%
+
+CE
+
+Ceará
+
+0,701778%
+
+DF
+
+Distrito Federal
+
+0,181948%
+
+ES
+
+Espírito Santo
+
+4,795219%
+
+GO
+
+Goiás
+
+2,693206%
+
+MA
+
+Maranhão
+
+1,379245%
+
+MT
+
+Mato Grosso
+
+1,732259%
+
+MS
+
+Mato Grosso do Sul
+
+1,970484%
+
+MG
+
+Minas Gerais
+
+12,109719%
+
+PA
+
+Pará
+
+5,342087%
+
+PB
+
+Paraíba
+
+0,104974%
+
+PR
+
+Paraná
+
+9,491240%
+
+PE
+
+Pernambuco
+
+1,085163%
+
+PI
+
+Piauí
+
+0,025804%
+
+RJ
+
+Rio de Janeiro
+
+14,946822%
+
+RN
+
+Rio Grande do Norte
+
+0,126368%
+
+RS
+
+Rio Grande do Sul
+
+10,307091%
+
+RO
+
+Rondônia
+
+0,412355%
+
+RR
+
+Roraima
+
+0,001466%
+
+SC
+
+Santa Catarina
+
+6,133303%
+
+SP
+
+São Paulo
+
+20,000000%
+
+SE
+
+Sergipe
+
+0,049720%
+
+TO
+
+Tocantins
+
+0,125822%
+
+T O T A L
+
+100,000000%
+
+
+
+ 
+
+DECISÃO NORMATIVA  -  TCU Nº 153 -  ANEXO II
+
+IPI EXPORTAÇÃO - MEMÓRIA DE CÁLCULO DOS COEFICIENTES
+
+EXERCÍCIO 2017
+
+ 
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+(F)
+
+(G)
+
+(H)
+
+Unidade da Federação
+
+Valor das exportações jul/2015 a jun/2016 (US$ FOB)
+
+Participação inicial
+
+Participação com trava (20%)
+
+Participação excedente
+
+Participação das UFs abaixo da trava
+
+Redistribuição do excedente
+
+Participação final
+
+AC - Acre
+
+8.351.412
+
+0,007169%
+
+0,007169%
+
+0,000000%
+
+0,007169%
+
+0,001512%
+
+0,008680%
+
+AL - Alagoas
+
+249.271.128
+
+0,213969%
+
+0,213969%
+
+0,000000%
+
+0,213969%
+
+0,045124%
+
+0,259093%
+
+AP - Amapá
+
+162.047.263
+
+0,139098%
+
+0,139098%
+
+0,000000%
+
+0,139098%
+
+0,029334%
+
+0,168432%
+
+AM - Amazonas
+
+674.714.919
+
+0,579161%
+
+0,579161%
+
+0,000000%
+
+0,579161%
+
+0,122139%
+
+0,701300%
+
+BA - Bahia
+
+4.951.328.560
+
+4,250114%
+
+4,250114%
+
+0,000000%
+
+4,250114%
+
+0,896308%
+
+5,146422%
+
+CE - Ceará
+
+675.174.801
+
+0,579556%
+
+0,579556%
+
+0,000000%
+
+0,579556%
+
+0,122223%
+
+0,701778%
+
+DF - Distrito Federal
+
+175.050.551
+
+0,150260%
+
+0,150260%
+
+0,000000%
+
+0,150260%
+
+0,031688%
+
+0,181948%
+
+ES - Espírito Santo
+
+4.613.439.160
+
+3,960077%
+
+3,960077%
+
+0,000000%
+
+3,960077%
+
+0,835142%
+
+4,795219%
+
+GO - Goiás
+
+2.591.110.843
+
+2,224154%
+
+2,224154%
+
+0,000000%
+
+2,224154%
+
+0,469053%
+
+2,693206%
+
+MA - Maranhão
+
+1.326.959.488
+
+1,139034%
+
+1,139034%
+
+0,000000%
+
+1,139034%
+
+0,240211%
+
+1,379245%
+
+MT - Mato Grosso
+
+1.666.591.716
+
+1,430567%
+
+1,430567%
+
+0,000000%
+
+1,430567%
+
+0,301693%
+
+1,732259%
+
+MS - Mato Grosso do Sul
+
+1.895.786.177
+
+1,627302%
+
+1,627302%
+
+0,000000%
+
+1,627302%
+
+0,343182%
+
+1,970484%
+
+MG - Minas Gerais
+
+11.650.655.470
+
+10,000672%
+
+10,000672%
+
+0,000000%
+
+10,000672%
+
+2,109045%
+
+12,109719%
+
+PA - Pará
+
+5.139.576.334
+
+4,411702%
+
+4,411702%
+
+0,000000%
+
+4,411702%
+
+0,930385%
+
+5,342087%
+
+PB - Paraíba
+
+100.994.555
+
+0,086692%
+
+0,086692%
+
+0,000000%
+
+0,086692%
+
+0,018282%
+
+0,104974%
+
+PR - Paraná
+
+9.131.441.013
+
+7,838233%
+
+7,838233%
+
+0,000000%
+
+7,838233%
+
+1,653008%
+
+9,491240%
+
+PE - Pernambuco
+
+1.044.025.578
+
+0,896169%
+
+0,896169%
+
+0,000000%
+
+0,896169%
+
+0,188993%
+
+1,085163%
+
+PI - Piauí
+
+24.825.687
+
+0,021310%
+
+0,021310%
+
+0,000000%
+
+0,021310%
+
+0,004494%
+
+0,025804%
+
+RJ - Rio de Janeiro
+
+14.380.207.973
+
+12,343662%
+
+12,343662%
+
+0,000000%
+
+12,343662%
+
+2,603159%
+
+14,946822%
+
+RN - Rio Grande do Norte
+
+121.577.913
+
+0,104360%
+
+0,104360%
+
+0,000000%
+
+0,104360%
+
+0,022008%
+
+0,126368%
+
+RS - Rio Grande do Sul
+
+9.916.363.109
+
+8,511993%
+
+8,511993%
+
+0,000000%
+
+8,511993%
+
+1,795097%
+
+10,307091%
+
+RO - Rondônia
+
+396.723.672
+
+0,340539%
+
+0,340539%
+
+0,000000%
+
+0,340539%
+
+0,071816%
+
+0,412355%
+
+RR - Roraima
+
+1.410.043
+
+0,001210%
+
+0,001210%
+
+0,000000%
+
+0,001210%
+
+0,000255%
+
+0,001466%
+
+SC - Santa Catarina
+
+5.900.798.230
+
+5,065118%
+
+5,065118%
+
+0,000000%
+
+5,065118%
+
+1,068185%
+
+6,133303%
+
+SP - São Paulo
+
+39.531.409.220
+
+33,932912%
+
+20,000000%
+
+13,932912%
+
+0,000000%
+
+0,000000%
+
+20,000000%
+
+SE - Sergipe
+
+47.835.629
+
+0,041061%
+
+0,041061%
+
+0,000000%
+
+0,041061%
+
+0,008659%
+
+0,049720%
+
+TO - Tocantins
+
+121.052.177
+
+0,103909%
+
+0,103909%
+
+0,000000%
+
+0,103909%
+
+0,021913%
+
+0,125822%
+
+T O T A L
+
+116.498.722.621
+
+100,000000%
+
+86,067088%
+
+13,932912%
+
+66,067088%
+
+13,932912%
+
+100,000000%
+
+
+
+
+
+DECISÃO NORMATIVA  -  TCU Nº 153 -  ANEXO III
+
+
+
+
+IPI EXPORTAÇÃO - NOTA EXPLICATIVA
+
+
+
+
+EXERCÍCIO 2017
+
+
+
+
+Em cumprimento ao item 9.2 do Acórdão 196/2003-TCU-Plenário, são publicadas informações adicionais sobre o cálculo previsto no art. 159, inciso II, da Constituição Federal relativo aos coeficientes individuais de participação dos Estados e Distrito Federal no rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados (IPI), fixados pela presente Decisão Normativa TCU.
+
+
+Para o cálculo dos coeficientes devem ser observados os seguintes procedimentos:
+
+
+- os coeficientes para o rateio são calculados para aplicação no ano-calendário, ou seja, de janeiro a dezembro, tomando-se por base o valor em dólar norte-americano das exportações ocorridas nos doze meses antecedentes a primeiro de julho do ano imediatamente anterior (LC 61/89, art. 1º, § 3º);
+
+
+- a participação de cada unidade é limitada ao máximo de 20% (vinte por cento) do montante a ser distribuído, sendo o eventual excesso redistribuído entre os demais participantes, de forma proporcional às respectivas participações (CF, art. 159, e LC 61/89, art. 1º, § 4º).
+
+
+O Anexo I da presente Decisão Normativa TCU apresenta os coeficientes individuais de participação dos estados e do Distrito Federal no rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados (IPI), enquanto o Anexo II apresenta a memória dos cálculos que produziram esses coeficientes. As tabelas apresentadas foram construídas a partir dos preceitos legais e possuem as seguintes informações:
+
+
+
+1) TABELA "COEFICIENTES DE PARTICIPAÇÃO"
+
+
+
+
+"UF": sigla da Unidade da Federação (UF);
+
+
+
+"Unidade da Federação": nome por extenso da UF;
+
+
+
+"Coeficiente": coeficiente individual de participação de cada UF, em percentagem.
+
+
+
+2) TABELA "MEMÓRIA DE CÁLCULO DOS COEFICIENTES"
+
+
+
+
+"Unidade da Federação" (Coluna A) – sigla e nome da UF;
+
+
+
+"Valor das exportações jul/2015 a jun/2016 (US$ FOB)" (Coluna B) – valor FOB, em dólares, das exportações realizadas no período de julho de 2015 a junho de 2016 pela UF, apurado pela Secretaria de Comércio Exterior do Ministério do Desenvolvimento, Indústria e Comércio Exterior – Secex/MDIC;
+
+
+
+"Participação inicial" (Coluna C) – percentual de participação de cada UF no valor total das exportações, sem limitação (cada elemento da coluna B dividido pelo total da coluna B);
+
+
+
+"Participação com trava (20%)" (Coluna D) – percentual de participação de cada UF no valor total das exportações, com limitação superior (trava) de 20% (cada elemento da coluna B dividido pelo total da coluna B, mantendo-se em 20% a participação da UF que ultrapassar esse percentual);
+
+
+
+ "Participação excedente" (Coluna E) – percentual excedente aos 20% que será redistribuído entre os demais participantes;
+
+
+
+"Participação das UFs abaixo da trava" (Coluna F) – percentual de participação de cada UF que ficou abaixo da trava dos 20%;
+
+
+
+"Redistribuição do excedente" (Coluna G) – participação de cada UF na redistribuição do excedente, de forma proporcional à sua respectiva participação (cada elemento da coluna F dividido pelo total da coluna F e, em seguida, multiplicado pelo total da coluna E);
+
+
+
+"Participação final" (Coluna H) – coeficiente final de participação percentual de cada UF, que corresponde à soma das colunas D e G, com 6 casas decimais e total ajustado para exatos 100,000000%.
+
+
+
+
+
+
+
+
+
+
+
+
+

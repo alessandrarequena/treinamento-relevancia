@@ -1,0 +1,116 @@
+Portaria
+277/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas atribuições legais e regimentais,
+
+
+Considerando a necessidade de envolvimento das áreas afins do Tribunal nas decisões que norteiam a segurança da informação no TCU;
+
+
+Considerando a instituição do Comitê de Segurança da Informação nos termos do art. 18 da Resolução-TCU nº 217, de 15 de outubro de 2008;
+
+
+Considerando a importância da atuação do Comitê de Segurança da Informação para a efetividade da implementação da Política Corporativa de Segurança da Informação no Tribunal; e
+
+
+Considerando as recomendações resultantes do diagnóstico de maturidade e aderência de processos de segurança da informação frente à norma NBR ISO/IEC 17799:2005, resolve:
+
+
+Art. 1º O Comitê de Segurança da Informação (CSI) é órgão colegiado, de natureza consultiva e de caráter permanente, que tem por finalidade propor e conduzir diretrizes para a Política Corporativa de Segurança da Informação (PCSI/TCU), bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral (CCG) e a Presidência do Tribunal.
+
+
+Art. 2º Compete ao CSI:
+
+
+I – definir modelo de gestão corporativa da segurança da informação e fomentar sua aplicação;
+
+
+II – propor a elaboração e a revisão de normas e procedimentos inerentes à segurança da informação;
+
+
+III – propor metas e ações corporativas em segurança da informação;
+
+
+IV – propor ajustes no modelo de gestão corporativa da segurança da informação, e nas ações necessárias à sua implementação, com subsídio no monitoramento e avaliação periódica das práticas de segurança da informação;
+
+
+V – submeter à CCG, no máximo a cada cinco anos, proposta de revisão da PCSI/TCU, de modo a atualizar a política frente a novos requisitos corporativos;
+
+
+VI – elaborar proposta e promover atualização periódica de plano com medidas que garantam a continuidade das atividades do TCU e o retorno à situação de normalidade em caso de desastre ou falha nos recursos que suportam os processos vitais de negócio do Tribunal;
+
+
+VII – manifestar-se sobre ações corporativas em segurança da informação;
+
+
+VIII – requerer, às unidades do Tribunal, informações que considerar necessárias ao acompanhamento das ações de gestão de segurança da informação;
+
+
+IX – promover a divulgação de boas práticas em segurança da informação;
+
+
+X – submeter à CCG minutas de normativo e propostas, de natureza estratégica ou que necessitem de cooperação intersetorial, que versem sobre segurança da informação.
+
+
+Art. 3º Integram o CSI:
+
+
+I – o titular da Assessoria em Segurança da Informação e Apoio à Governança de TI (Assig), que o presidirá;
+
+
+II – um representante da Secretaria de Tecnologia da Informação (Setec);
+
+
+III – dois representantes da Secretaria-Geral da Presidência (Segepres);
+
+
+IV – dois representantes da Secretaria-Geral de Controle Externo (Segecex); e
+
+
+V – dois representantes da Secretaria-Geral de Administração (Segedam).
+
+
+§ 1º Nas ausências e impedimentos legais do titular da Assig, a presidência do CSI caberá ao seu respectivo substituto.
+
+
+§ 2º Cada membro referido nos incisos II a V terá um suplente.
+
+
+§ 3º Os membros titulares a que se referem os incisos II a V, e respectivos suplentes, serão indicados pelos dirigentes das unidades básicas e designados em ato da CCG.
+
+
+Art. 4º As reuniões do CSI serão convocadas pelo presidente do Comitê, de ofício, ou a pedido de qualquer de seus membros.
+
+
+Art. 5º Cabe à Assig, observado o modelo de gestão corporativa da segurança da informação:
+
+
+I – coordenar e acompanhar a implementação da PCSI/TCU e normas complementares;
+
+
+II – homologar processos de trabalho e procedimentos operacionais necessários; e
+
+
+III – monitorar e avaliar periodicamente as práticas de segurança da informação adotadas pelo Tribunal;
+
+
+IV – prestar apoio técnico e administrativo às atividades do CSI.
+
+
+Art. 6° Compete ao CSI a edição das demais normas referentes ao seu funcionamento.
+
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+Revogada
+Dispõe sobre o Comitê de Segurança da Informação no âmbito do Tribunal de Contas da União.
+
+

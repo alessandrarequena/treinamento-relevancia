@@ -1,0 +1,4985 @@
+Portaria
+276/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+
+
+Considerando os resultados e propostas decorrentes dos workshops promovidos pelo Grupo de Trabalho de Governança de TI, instituído por meio da Portaria-TCU n º 143, de 2 de junho de 2008, para realizar diagnóstico da governança de TI no Tribunal e propor medidas para seu aprimoramento;
+
+
+Considerando a necessidade de definir as competências das unidades envolvidas com a gestão de soluções de TI, de modo a garantir o bom funcionamento e o aprimoramento contínuo desse modelo de gestão, tendo como base as competências institucionais das unidades da Secretaria do TCU definidas em normativo próprio;
+
+
+Considerando o estabelecido no parágrafo 2º do art. 11 da Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU);
+
+
+Considerando a necessidade de assegurar a participação de usuários finais, da sede e dos estados, na definição e validação de regras de negócio e requisitos, e na homologação das soluções de TI, a fim de garantir o necessário alinhamento às áreas de negócio e aos processos de trabalho, bem como a correta utilização dessas soluções e da infra-estrutura de tecnologia da informação colocadas à disposição da Secretaria do Tribunal; e
+
+
+Considerando a importância de se estabelecer processos de trabalho, responsabilidades e práticas de governança de TI preconizadas por modelos reconhecidos mundialmente como o Control Objectives for Information and Related Technologies (Cobit), o Information Technology Infrastructure Library (ITIL), o Capability Maturity Model Integration (CMMI) e a norma NBR ISO/IEC 27002:2005, como forma de assegurar maior eficiência, eficácia e efetividade às soluções de TI, resolve:
+
+
+Art. 1º A gestão de soluções corporativas de tecnologia da informação observa o disposto nesta Portaria e tem por objetivo contribuir para a eficiência, a eficácia e a efetividade das soluções de TI utilizadas pelo Tribunal de Contas da União, bem como para o alinhamento dessas soluções às estratégias da organização.
+
+
+§ 1º As unidades envolvidas com a gestão de soluções de TI são solidariamente responsáveis pelo desempenho harmônico das competências atribuídas nesta Portaria e pelo alcance do objetivo estabelecido no caput.
+
+
+§ 2º Não são abrangidas por este normativo as soluções de tecnologia da informação de natureza departamental, entendidas como aquelas cujo benefício ou uso se restrinja a uma unidade específica do Tribunal.
+
+
+Art. 2º Para efeito do disposto nesta Portaria, entende-se por:
+
+
+I – solução corporativa de tecnologia da informação (solução de TI): conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam a necessidades do Tribunal;
+
+
+II – requisito de solução de tecnologia da informação: condição ou capacidade com a qual uma solução de tecnologia da informação deve estar de acordo;
+
+
+III – unidade gestora de solução de TI: unidade organizacional do Tribunal responsável por definições relativas a processos de trabalho, regras de negócio, requisitos e utilização de uma ou mais soluções de TI, nos termos do art. 3º desta Portaria;
+
+
+IV – partes interessadas: indivíduos, unidades ou organizações que estejam diretamente envolvidos na gestão e implementação de solução de TI, ou que, ainda que de forma indireta, possam exercer influência ou ser afetados pela solução;
+
+
+V – regra de negócio: conjunto de condições, requisitos e procedimentos que definem e suportam um processo de trabalho e o tratamento das informações a ele inerentes;
+
+
+VI – homologação: ação concebida para verificar a aderência de uma solução de TI às respectivas regras de negócio e requisitos;
+
+
+VII – ambiente de produção: ambiente computacional para uso efetivo de solução de TI pelos usuários a que se destina;
+
+
+VIII – nível de serviço: padrão de qualidade da solução de TI expresso em parâmetros como horários de funcionamento, tempo máximo de resposta, quantidade mínima de transações processadas, percentuais mínimos de disponibilidade e prazo para atendimento a demandas;
+
+
+IX – roteiro de atendimento: instruções destinadas à equipe da Secretaria de Tecnologia da Informação (Setec) responsável pelo atendimento ao usuário acerca de dúvidas e ocorrências relativas à solução de TI;
+
+
+X – comunidade virtual de prática: local específico que permite o contato virtual permanente entre pessoas com interesses comuns cujo objetivo é o compartilhamento de experiências, resolução de problemas, definição de padrões, divulgação de técnicas e metodologias inerentes a uma ou mais soluções de TI.
+
+
+§1º Consideram-se soluções de TI, para fins do disposto no inciso I deste artigo:
+
+
+a) sistema interno – sistema de informação desenvolvido internamente, recebido de outros órgãos ou entidades ou adquirido de terceiros pelo Tribunal;
+
+
+b) sistema externo – sistema de informação desenvolvido e mantido por outra instituição, cujo acesso seja permitido a partir do ambiente computacional do Tribunal;
+
+
+c) software de apoio – produto de software, não caracterizado como sistema interno ou externo, adquirido pelo Tribunal; e
+
+
+d) serviço básico – serviços de comunicação, armazenamento e segurança de dados e informações, que constituem o ambiente computacional do Tribunal.
+
+
+§ 2º Consideram-se requisitos de uma solução de TI, para fins do disposto no inciso II deste artigo:
+
+
+a) funcionalidade – ações que uma solução de TI deve ser capaz de executar, comportamento de entrada e saída de informações, perfis de acesso a ações e informações, e demais características gerais de segurança;
+
+
+b) usabilidade – aspectos da interface com o usuário relacionados a acessibilidade, eficácia, eficiência e satisfação no uso de uma ou mais soluções de TI;
+
+
+c) confiabilidade – aspectos relacionados a freqüência, gravidade e possibilidade de recuperação de falhas e exatidão dos resultados gerados pela solução de TI;
+
+
+d) desempenho – aspectos relacionados ao tempo de resposta da solução de TI;
+
+
+e) suportabilidade – aspectos relacionados a instalação, configuração e capacidade de adaptação, manutenção e teste da solução de TI;
+
+
+f) integração – aspectos relacionados ao compartilhamento de funcionalidades e informações com outras soluções de TI em utilização ou desenvolvimento no âmbito do Tribunal, ou, ainda, com soluções de outros órgãos da administração pública.
+
+
+Art. 3º Compete à unidade gestora de solução de TI, com apoio e orientação técnica da Setec:
+
+
+I – identificar as necessidades institucionais a serem atendidas pela solução de TI, bem como mapear ou modelar os processos de trabalho a serem informatizados, de acordo com métodos, técnicas e padrões definidos pela Secretaria de Planejamento e Gestão (Seplan), de modo a maximizar os benefícios proporcionados pela utilização da solução;
+
+
+II – definir, em conjunto com a Setec, regras de negócio e requisitos da solução de TI, de modo a maximizar os benefícios para o Tribunal e promover a integração com as demais soluções de TI;
+
+
+III – propiciar a participação de representantes de usuários, tanto da sede quanto de estados, para auxiliar na definição ou validação de regras de negócio e requisitos, bem como na homologação da solução de TI;
+
+
+IV – solicitar ao ISC, durante o projeto de desenvolvimento ou contratação da solução de TI, o planejamento das ações de desenvolvimento de competências para uso da solução;
+
+
+V – propor, quando necessário, a criação ou alteração de normativos para regulamentar os processos de trabalho apoiados pela solução de TI;
+
+
+VI – fornecer subsídios para a elaboração e aprovar os roteiros de atendimento da solução de TI;
+
+
+VII – homologar a solução de TI, ou manifestar-se sobre os motivos da não homologação, dentro dos prazos acordados;
+
+
+VIII – autorizar a implantação da solução de TI em ambiente de produção, ou manifestar-se sobre os motivos da não autorização, dentro dos prazos acordados;
+
+
+IX – apoiar ou exercer, em conjunto com a Setec, a fiscalização dos contratos, acordos de cooperação e outros instrumentos congêneres relativos à solução de TI;
+
+
+X – definir, em conjunto com a Setec, estratégia de implantação da solução de TI, considerando a necessidade de capacitação dos usuários e, quando for o caso, a realização de implantação em regime de projeto piloto;
+
+
+XI – manter, quando for o caso, comunidade virtual de prática no Portal TCU com manuais, roteiros de utilização, tutoriais e outras informações necessárias à correta utilização de uma ou mais soluções de TI e à compreensão dos processos de trabalho associados;
+
+
+XII – propor ao ISC a realização de diagnóstico de necessidades de desenvolvimento de competências, quando forem identificadas dificuldades na utilização da solução de TI;
+
+
+XIII – participar do planejamento e da execução de ações de desenvolvimento de competências para utilização da solução de TI;
+
+
+XIV – acompanhar e avaliar a utilização da solução de TI, e adotar as medidas no âmbito de sua competência ou solicitar as providências necessárias para que a confiabilidade, a integridade e a disponibilidade da informação sejam preservadas e os benefícios esperados da solução sejam alcançados;
+
+
+XV – preparar e divulgar informes e dar orientações referentes a procedimentos de utilização da solução de TI, sem prejuízo da atuação do serviço de atendimento ao usuário mantido pela Setec;
+
+
+XVI – receber e analisar solicitações de mudanças ou informações relativas a regras de negócio e requisitos da solução de TI, adotar as providências de sua competência e comunicá-las aos solicitantes;
+
+
+XVII – propor à Setec prioridades de atendimento de demandas relativas à solução de TI, para consolidação e posterior encaminhamento para análise pelas instâncias competentes, observadas as estratégias institucionais, os benefícios esperados e o custo estimado pela Setec para atendimento de tais demandas;
+
+
+XVIII – manifestar-se quanto à conveniência e oportunidade de atendimento a solicitações de órgãos e entidades para cessão de sistema desenvolvido pelo Tribunal.
+
+
+§ 1º O titular da unidade gestora deverá designar formalmente servidores com perfil adequado e em quantidade suficiente para exercer prioritariamente as competências previstas nesta Portaria, sem prejuízo do exercício de outras atribuições por tais servidores.
+
+
+§ 2º A designação de que trata o parágrafo anterior poderá, a critério do titular da unidade gestora, ser efetuada em termos de competências específicas, bem como ter abrangência restrita a módulos ou funcionalidades individuais da solução de TI.
+
+
+§ 3º Quando da definição de regras de negócio ou requisitos que afetem outras soluções de TI, a unidade gestora deverá, em conjunto com a Setec, promover as negociações necessárias com as partes interessadas.
+
+
+§ 4º Quando se tratar de sistema externo, cabe à unidade gestora coordenar negociações com os órgãos e entidades envolvidos, para acesso e uso do sistema pelo Tribunal de Contas da União.
+
+
+§ 5º Quando se tratar de software de apoio, cabe à unidade gestora motivar a contratação, propor a quantidade de licenças a serem contratadas e definir critérios para utilização dessas licenças.
+
+
+Art. 4º Compete à Setec, para efeito do disposto nesta Portaria:
+
+
+I – negociar, junto à unidade gestora e demais partes interessadas, o escopo, os prazos e a alocação de recursos das unidades envolvidas no projeto de desenvolvimento, manutenção ou contratação de solução de TI, respeitadas as premissas e restrições estabelecidas nos planos de tecnologia da informação do Tribunal;
+
+
+II – definir, em conjunto com a unidade gestora, o prazo e os recursos a serem alocados para apoio à fase inicial de operação da solução de TI, de modo a garantir que as correções e os ajustes necessários sejam prontamente executados;
+
+
+III – avaliar as regras de negócio e os requisitos definidos pela unidade gestora da solução de TI e apontar possíveis inconsistências ou incompatibilidades e promover sua integração com as demais soluções de TI e com a arquitetura tecnológica do Tribunal;
+
+
+IV – negociar níveis de serviço para a solução de TI, junto à unidade gestora e demais partes interessadas, e garantir seu funcionamento dentro desses parâmetros;
+
+
+V – desenvolver solução de TI ou solicitar sua contratação, de acordo com as regras de negócio e os requisitos especificados pela unidade gestora;
+
+
+VI – manter a unidade gestora e demais partes interessadas informadas sobre o andamento de demandas e projetos relativos à solução de TI;
+
+
+VII – fiscalizar, com o apoio ou em conjunto com as respectivas unidades gestoras, contratos, acordos de cooperação ou instrumentos congêneres relativos a soluções de TI;
+
+
+VIII – realizar os testes necessários para assegurar o correto funcionamento e a aderência da solução de TI às regras de negócio e aos requisitos especificados;
+
+
+IX – prover ambiente computacional adequado para desenvolvimento, teste, homologação, treinamento e uso da solução de TI;
+
+
+X – elaborar e manter atualizados roteiros de atendimento da solução de TI, submetendo-os à aprovação da unidade gestora, sempre que necessário;
+
+
+XI – participar do planejamento e da execução de ações de desenvolvimento de competências para utilização de soluções de TI;
+
+
+XII – manter a unidade gestora e demais partes interessadas informadas sobre paradas programadas e problemas relacionados à solução nos ambientes de homologação, treinamento e produção;
+
+
+XIII – orientar e apoiar, no âmbito de sua área de atuação, as unidades gestoras na adoção das providências de que trata o inciso XIII do art. 3º desta Portaria;
+
+
+XIV – encaminhar à unidade gestora, para análise e providências cabíveis, solicitações relativas à modificação de regras de negócio e requisitos da solução de TI;
+
+
+XV – apoiar as unidades gestoras na formulação de propostas de prioridades de atendimento de demandas relativas a cada solução de TI, consolidar as propostas apresentadas pelas unidades e encaminhá-las às instâncias competentes para subsidiar o planejamento das ações de TI;
+
+
+XVI – solicitar, sempre que necessário, a atuação das unidades envolvidas na gestão de soluções de TI, no que se refere ao desempenho das competências previstas nesta Portaria;
+
+
+XVII – manifestar-se quanto aos aspectos técnicos e custos envolvidos no atendimento a solicitações de órgãos e entidades para cessão de sistemas desenvolvidos pelo Tribunal;
+
+
+XVIII – realizar, mediante autorização da Comissão de Coordenação Geral (CCG), as modificações necessárias para viabilizar a cessão, a outros órgãos e entidades, de sistemas desenvolvidos pelo Tribunal;
+
+
+XIX – elaborar e manter atualizado catálogo das soluções de TI, com informações como descrição da solução, finalidade, unidade gestora e níveis de serviço acordados.
+
+
+Art. 5º Compete ao ISC, para efeito do disposto nesta Portaria:
+
+
+I – definir, em conjunto com a Secretaria de Gestão de Pessoas (Segep), espaços ocupacionais e respectivas competências necessárias para o desempenho das atribuições previstas nesta Portaria;
+
+
+II – elaborar diagnóstico de necessidades de desenvolvimento de competências profissionais e organizacionais para o desempenho das atribuições previstas nesta Portaria e para utilização de soluções de TI;
+
+
+III – planejar, coordenar, executar e avaliar ações de educação para o desenvolvimento de competências profissionais e organizacionais necessárias ao desempenho das atribuições previstas nesta Portaria e à utilização das soluções de TI.
+
+
+Art. 6º Compete à Secretaria-Geral da Presidência (Segepres), por meio da Assessoria em Segurança da Informação e Apoio à Governança de TI (Assig), para efeito do disposto nesta Portaria:
+
+
+I – monitorar e avaliar periodicamente as práticas relativas à gestão de soluções de TI no Tribunal, a fim de identificar desvios e propor ações corretivas;
+
+
+II – propor diretrizes e orientar as unidades gestoras quanto a aspectos de segurança da informação a serem observados nas definições de regras de negócio e requisitos das soluções de TI;
+
+
+III – orientar e apoiar, no âmbito de sua área de atuação, as unidades gestoras na adoção das providências de que trata o inciso XIII do art. 3º desta Portaria;
+
+
+IV – revisar anualmente, ou sempre que necessário, o anexo desta Portaria e submeter à CCG proposta de alterações afetas à designação de unidade gestora de solução de TI.
+
+
+Art. 7º Quando da cessão de sistemas desenvolvidos pelo Tribunal a outros órgãos e entidades, as responsabilidades da unidade gestora, Setec e demais partes envolvidas serão estabelecidas em ato específico.
+
+
+Art. 8º A classificação de informações relativas a soluções de TI obedece ao dispositivo constante do art. 11 da Resolução-TCU nº 217, de 2008, que trata das atribuições do gestor da informação no Tribunal.
+
+
+Art. 9º As unidades gestoras das soluções de TI são as designadas no anexo a esta Portaria.
+
+
+Art. 10. Qualquer demanda para desenvolvimento ou contratação de nova solução de TI deve ser devidamente motivada pela área demandante, analisada pelas instâncias competentes e submetida à aprovação da CCG.
+
+
+§ 1º A motivação a que se refere o caput deste artigo deve incluir a necessidade institucional a ser atendida, os processos de trabalho abrangidos, os produtos e benefícios esperados, os usuários da solução e as interações com outras soluções de TI.
+
+
+§ 2º A designação de unidade gestora para a nova solução de TI será efetuada pela CCG quando da aprovação da demanda, e constitui requisito indispensável para o início do respectivo projeto de desenvolvimento ou contratação da solução.
+
+
+§ 3º A designação de que trata o parágrafo anterior recairá, preferencialmente, sobre unidade que, em função da sua competência institucional, detenha conhecimento e autonomia de decisão sobre as informações e os processos de trabalho abrangidos pela solução.
+
+
+Art. 11. Fica autorizada a CCG a expedir os atos necessários à regulamentação deste normativo, bem como a alterar, por meio de ato próprio, o anexo a esta Portaria.
+
+
+Art. 12. Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 13. Fica revogada a Portaria-TCU n° 105, de 29 de maio de 2006.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 276, DE 18 DE NOVEMBRO DE 2008
+
+
+
+(NR)(Portaria-CCG nº 36, de 16/12/2011, BTCU nº 49/2011, com a redação dada pela Portaria-CCG nº 2, de 23/01/2012, BTCU nº 01/2012)
+
+
+
+
+UNIDADE GESTORA
+
+SOLUÇÃO DE TI
+
+NOME CONHECIDO
+
+TIPO
+
+ABORDAGEM DE PROVIMENTO
+
+UNIDADE PROVEDORA
+
+ISC
+
+1. Acesso ao Siafi para treinamento
+
+SIAFI Educacional
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso à Base de Dados da Legislação Brasileira
+
+Datalegis
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Agenda de Cursos e Treinamentos
+
+Agenda de Cursos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+4. Ambiente Virtual de Educação Corporativa do TCU
+
+AVEC TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+5. Autenticação de Certificados de Treinamentos
+
+Certificados
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+6. Biblioteca Forense Digital
+
+Biblioteca Forense Digital
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Bolsa Idioma
+
+Bolsa Idioma
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+8. Enciclopédia Jurídica Soibelman
+
+Enciclopédia Jurídica
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Gestão de Publicações e Controle de Estoque
+
+Publicações
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+10. Histórico de Treinamentos – Pessoal e da Unidade
+
+Histórico de Treinamentos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+11. Inscrição Eletrônica em Eventos
+
+Inscrição Eletrônica em Eventos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+12. Sistema de Automação do ISC
+
+ISC Net
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+13. Sistema de Biblioteca
+
+Sofia
+
+Sistema interno
+
+Centralizada
+
+STI
+
+14. Suíte de Design Gráfico, Desenvolvimento Web e Edição de Vídeo
+
+Adobe Master Collection
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Ouvidoria
+
+1. Tratamento das manifestações recebidas pela Ouvidoria
+
+Sisouv-Web
+
+Sistema interno
+
+Descentralizada
+
+Ouvidoria
+
+Secex-2
+
+1. Acesso aos Sistemas do Banco Central
+
+Sisbacen
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+Secex-5
+
+1. Acesso ao Cadastro Nacional de Informações Sociais
+
+CNIS
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso a Guias Gfips Emitidas por Empresas
+
+GfipWeb
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Sistema de Acompanhamento da Dívida Ativa
+
+Dívida
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Sistema de Ajuste de Guias de Arrecadação
+
+Águia i
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Acesso ao Sistema de Débito, Parcelamento e Cobrança
+
+Sicob ii
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+6. Acesso ao Sistema de Informações de Arrecadação
+
+Informar iii
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Acesso ao Sistema de Informações sobre Concessões de Benefícios
+
+Maiprev
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+8. Acesso ao Sistema de Legislação, Jurisprudência e Pareceres
+
+Sislex
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Acesso ao Sistema Único de Benefícios
+
+Sisben
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+Secob-1
+
+1. Acesso ao Sistema de Administração de Serviços Gerais
+
+Siasg
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Sistema Nacional de Preços de Referência
+
+Sinapi
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Apoio a Orçamentação de Obras
+
+Volare
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+4. Modelagem 3D Multiuso
+
+Google SketchUp Pro
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+5. Modelagem de Informações de Construção
+
+Autocad Civil 3D
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+6. Processamento de Dados Topográficos
+
+topoGRAPH iv
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+7. Sistema de Apoio à Fiscalização – módulo de fiscalização de obras
+
+Módulo Fiscobras do Fiscalis
+
+Sistema interno
+
+Centralizada
+
+STI
+
+8. Visualização de Elementos Geográficos
+
+Google Earth Pro
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sefid-1
+
+1. Georeferenciamento de Informações
+
+Maptitude
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sefip
+
+1. Acesso ao Sistema de Administração de Pessoal
+
+Siape
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Análise automática de Atos de Pessoal
+
+A3P
+
+Sistema interno
+
+Descentralizada
+
+Sefip
+
+3. Acesso ao Sistema Informatizado de Controle de Óbito
+
+Sisobi
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Sistema Relação Anual de Informações Sociais
+
+Rais
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac
+
+Sistema interno
+
+Centralizada
+
+STI
+
+6. Registro das Declarações de Bens e Rendas
+
+Sisdbr
+
+Sistema interno
+
+Descentralizada
+
+Sefip
+
+Sefti
+
+1. Auditoria de Dados
+
+ACL
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Segecex
+
+1. Acesso à Rede Infoseg
+
+Infoseg
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Cadastro de Responsáveis Inadimplentes
+
+Cadin
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Cadastro Nacional de Empresas do MDIC
+
+CNE
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Cadastro Nacional de Pessoas Físicas e Jurídicas
+
+CPF/CNPJ
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Acesso ao Cadastro Nacional de Veículos
+
+Detran/ Renavam
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+6. Acesso ao Sistema Ativa
+
+Ativa
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Acesso ao Sistema de Controle da AFRMM
+
+Mercante
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+8. Acesso ao Sistema de Controle de Convênios
+
+Siconv
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Acesso ao Sistema de Parcelamento Especial
+
+PAES
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+10. Acesso ao Sistema de Repasse de Recursos de Projetos de Governo
+
+RPG
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+11. Análise Estatística - Statistical Package for Social Sciences
+
+SPSS
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+12. Atualização de Valores
+
+Débito
+
+Sistema interno
+
+Centralizada
+
+STI
+
+13. Autuação de Processos de Cobrança Executiva
+
+CBEX Web
+
+Sistema interno
+
+Centralizada
+
+STI
+
+14. Benefícios do Controle
+
+Benefícios do Controle
+
+Sistema interno
+
+Centralizada
+
+STI
+
+15. Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Sistema interno
+
+Centralizada
+
+STI
+
+16. Cadastro Integrado de Condenações por Ilícitos Administrativos
+
+Cadicon
+
+Sistema interno
+
+Centralizada
+
+STI
+
+17. Coleta Eletrônica de Processos de Contas
+
+Siscontas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+18. Comunicações Processuais
+
+Comunicações
+
+Sistema interno
+
+Centralizada
+
+STI
+
+19. Controle da Clientela
+
+Clientela
+
+Sistema interno
+
+Centralizada
+
+STI
+
+20. Emissão de Certidões via Web
+
+Certidão
+
+Sistema interno
+
+Centralizada
+
+STI
+
+21. Extração e Análise de Dados Públicos Oficiais
+
+ADP
+
+Sistema interno
+
+Centralizada
+
+STI
+
+22. Gestão de Processos e documentos
+
+Processus
+
+Sistema interno
+
+Centralizada
+
+STI
+
+23. Registro e Monitoramento de Apreciações e Deliberações
+
+Radar
+
+Sistema interno
+
+Centralizada
+
+STI
+
+24. e-TCU – Unidades Técnicas
+
+e-TCU – Unidades Técnicas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+25. Sistema de Apoio à Fiscalização 
+
+Fiscalis
+
+Sistema interno
+
+Centralizada
+
+STI
+
+26. Sistema de gestão de documentos eletrônicos
+
+Sisdoc
+
+Serviço básico
+
+Centralizada
+
+STI
+
+27. Integração de Fontes de Informações para Inteligência de Controle
+
+SGI
+
+Sistema interno
+
+Descentralizada
+
+Segecex
+
+28. Wiki Controle Externo
+
+WikiCE
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+29. Sistema de Inteligência para o Controle Externo
+
+Síntese
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Segedam
+
+1. Processo Eletrônico Administrativo
+
+Processo Eletrônico Administrativo
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Segep
+
+1. Banco de Competências
+
+Banco de Competências
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+2. Folha de Pagamento
+
+Folha
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Gestão de Recursos Humanos
+
+GRH
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Gestão de Prontuários
+
+GSWeb
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Indicador Eletrônico
+
+Indicador
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+6. Sistema de Avaliação de Desempenho
+
+Sipad
+
+Sistema interno
+
+Centralizada
+
+STI
+
+7. Sistema de Gestão de Pessoas
+
+SGP v
+
+Sistema interno
+
+Centralizada
+
+STI
+
+8. Sistema de Gerenciamento de Estágio Estudantil
+
+Sigeste
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+9. Sistema Informatizado do Programa Reconhe-Ser
+
+Reconhe-Ser
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Selip
+
+1. Acompanhamento e Divulgação de Licitações
+
+Licitações
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Controle de Contratos
+
+Contrata
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Controle de Material e Almoxarifado
+
+ASI
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Controle Patrimonial
+
+Patrimônio
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Sistema de Requisição de Materiais
+
+Sismac
+
+Sistema interno
+
+Descentralizada
+
+Selip
+
+Semag
+
+1. Acesso ao Sistema de Orçamentação
+
+Sidor
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Sistema de Patrimônio da União
+
+SPIU
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Sistema Integrado de Administração Financeira
+
+Siafi/Siafi Gerencial
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Contas Públicas - Cadastro de Páginas Publicadas
+
+Contas Públicas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Controle das Transferências Constitucionais
+
+Transcon
+
+Sistema interno
+
+Descentralizada
+
+Semag
+
+Seplan
+
+1. Controle do Cadastro de Unidades do TCU
+
+Sisunidade
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Gerenciamento de Projetos
+
+Project
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+3. Portal de Informações Gerenciais
+
+Sinergia
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Planejamento do TCU
+
+Sisplan
+
+Sistema interno
+
+Descentralizada
+
+Seplan
+
+5. Software de Modelagem de Processos
+
+Aris Toolset
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Seprog
+
+1. Elaboração e Aplicação de Pesquisas
+
+Pesquisar
+
+Sistema interno
+
+Descentralizada
+
+Seprog
+
+2. Análise estatística e econométrica
+
+Stata
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sesap
+
+1. Autoração de DVD
+
+Adobe Encore DVD
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+2. Controle de Acesso de Pessoas
+
+Suricato
+
+Sistema interno
+
+Centralizada
+
+Setic
+
+3. Edição de áudio e vídeo - Final Cut
+
+Final Cut
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+4. Edição de áudio e vídeo - Premiere
+
+Adobe Premiere
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+5. Efeitos em vídeos
+
+Adobe After Efects
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+6. Integração de Voz e Dados na Rede TCU
+
+Telefonia IP / VoIP
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+7. Orçamento, Planejamento e Acompanhamento de Obras
+
+Primasi Sipom
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+8. Projetos de Engenharia
+
+Autocad
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+9. Solicitação de Serviços Gerais
+
+Serviços Gerais
+
+Sistema interno
+
+Descentralizada
+
+Sesap
+
+10. Transmissão de Áudio/Vídeo de Eventos do TCU via Rede
+
+Intramídia/ Streaming
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+Seses
+
+1. Alimentação de Normas e Jurisprudência do TCU
+
+Judoc
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Apoio ao Gerenciamento e Acompanhamento das Sessões
+
+Sagas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Atos Normativos do TCU
+
+Atos
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+4. Automação das Pautas das Sessões
+
+Pautas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Consulta à Jurisprudência
+
+Juris
+
+Sistema interno
+
+Centralizada
+
+STI
+
+6. Console das Sessões
+
+Conses
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+7. Console de Gabinete
+
+Congab
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+8. Controle de Alocação Temporária de Servidores
+
+Cats
+
+Sistema interno
+
+Centralizada
+
+STI
+
+9. e-TCU: Gabinetes e MP/TCU
+
+e-TCU: Gabinetes e MP/TCU
+
+Sistema interno
+
+Centralizada
+
+STI
+
+10. Gera Voto
+
+Gera Voto
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+11. Informativo de Jurisprudência
+
+Infojus
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+12. Jurisprudência Sistematizada
+
+Sisjur
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+13. Push do Informativo de Jurisprudência
+
+Push Infojus
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+14. Questão de Ordem
+
+QDO
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+15. Sinopse de Acórdãos e Decisões do Tribunal
+
+Sinopse
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+16. Sorteio de Processos
+
+Sorteio
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Setic
+
+1. Acesso à Internet
+
+Internet
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+2. Acesso à Rede Serpro
+
+Rede Serpro
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Armazenamento Centralizado de Arquivos
+
+Servidor de Arquivos
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+4. Armazenamento de Arquivos com Controles Criptográficos 
+
+Servidor Seguro
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+5. Automação de Escritório
+
+Office
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+6. Geração de Demonstrações
+
+Adobe Captivate
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+7. Central de Serviços de TI
+
+Service Desk
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+8. Correio Eletrônico
+
+Correio Eletrônico
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+9. Design Gráfico Avançado
+
+Corel Draw
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+10. Edição Avançada de Áudio
+
+SoundForge
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+11. Edição Avançada de Vídeo 
+
+Adobe Premiere
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+12. Edição e Gravação Avançada de CD/DVD
+
+Nero 7
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+13. Editoração Avançada de Publicações
+
+Adobe InDesign
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+14. Enxoval Padrão de Softwares para Estações de Trabalho
+
+Enxoval de Software para Estações
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+15. Estações de Trabalho da Rede TCU
+
+Estações de Trabalho
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+16. Geração de Aplicações Flash
+
+Adobe Flash
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+17. Geração de Diagramas 
+
+Visio
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+18. Geração e Edição Avançada de arquivos PDF
+
+Adobe Acrobat Professional 8
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+19. Gerenciamento de Projetos
+
+Project 2000
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+20. Hospedagem do Site do Pró-TCU
+
+Hospedagem do Pró-TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+21. Impressoras e Impressão 
+
+Impressão
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+22. Processamento Remoto de Aplicações
+
+Citrix Metaframe
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+23. Proteção Antivírus
+
+Antivírus
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+24. Rede de comunicação de dados do Tribunal
+
+Rede TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+25. Sistema de Mensageria Instantânea
+
+Spark
+
+Software de apoio 
+
+Centralizada
+
+Setic
+
+26. Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Sistema interno
+
+Centralizada
+
+Setic
+
+27. Softwares Livres Homologados para Estações de Trabalho
+
+Softwares Livres para Estações
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+28. Videoconferência TCU/Interlegis
+
+Videoconferência
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+STI
+
+1. Acesso a portal especializado em informação jurídica e legislativa
+
+LexML
+
+Sistema externo
+
+Centralizada
+
+STI
+
+2. Portal de Pesquisa Textual
+
+Portal Textual
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Portal TCU
+
+Portal TCU
+
+Serviço básico
+
+Centralizada
+
+STI
+
+
+
+
+
+NOTAS:
+
+
+i O sistema Águia deixou de ser utilizado – em desativação
+
+
+ii O sistema Sicob deixou de ser utilizado – em desativação
+
+
+iii O sistema Informar deixou de ser utilizado – em desativação
+
+
+iv O software topoGRAPH encontra-se em processo de aquisição
+
+
+v a análise de viabilidade para aquisição do sistema SGP não foi concluída"
+
+
+
+
+REDAÇÃO ANTERIOR
+
+
+
+
+
+Revogada
+Dispõe sobre a gestão de soluções corporativas de tecnologia da informação (soluções de TI) do Tribunal de Contas da União.
+
+ANEXO À PORTARIA-TCU Nº 276, DE 18 DE NOVEMBRO DE 2008
+
+
+
+
+
+
+UNIDADE GESTORA
+
+SOLUÇÃO DE TI
+
+NOME CONHECIDO
+
+TIPO
+
+ABORDAGEM DE PROVIMENTO
+
+UNIDADE PROVEDORA
+
+ISC
+
+1. Acesso ao Siafi para treinamento
+
+SIAFI Educacional
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso à Base de Dados da Legislação Brasileira
+
+Datalegis
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Agenda de Cursos e Treinamentos
+
+Agenda de Cursos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+4. Ambiente Virtual de Educação Corporativa do TCU
+
+AVEC TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+5. Autenticação de Certificados de Treinamentos
+
+Certificados
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+6. Biblioteca Forense Digital
+
+Biblioteca Forense Digital
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Bolsa Idioma
+
+Bolsa Idioma
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+8. Enciclopédia Jurídica Soibelman
+
+Enciclopédia Jurídica
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Gestão de Publicações e Controle de Estoque
+
+Publicações
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+10. Histórico de Treinamentos – Pessoal e da Unidade
+
+Histórico de Treinamentos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+11. Inscrição Eletrônica em Eventos
+
+Inscrição Eletrônica em Eventos
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+12. Sistema de Automação do ISC
+
+ISC Net
+
+Sistema interno
+
+Descentralizada
+
+ISC
+
+13. Sistema de Biblioteca
+
+Sofia
+
+Sistema interno
+
+Centralizada
+
+STI
+
+14. Suíte de Design Gráfico, Desenvolvimento Web e Edição de Vídeo
+
+Adobe Master Collection
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Ouvidoria
+
+1. Tratamento das manifestações recebidas pela Ouvidoria
+
+Sisouv-Web
+
+Sistema interno
+
+Descentralizada
+
+Ouvidoria
+
+Secex-2
+
+1. Acesso aos Sistemas do Banco Central
+
+Sisbacen
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+Secex-5
+
+1. Acesso ao Cadastro Nacional de Informações Sociais
+
+CNIS
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso a Guias Gfips Emitidas por Empresas
+
+GfipWeb
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Sistema de Acompanhamento da Dívida Ativa
+
+Dívida
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Sistema de Ajuste de Guias de Arrecadação
+
+Águia [1]
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Acesso ao Sistema de Débito, Parcelamento e Cobrança
+
+Sicob [2]
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+6. Acesso ao Sistema de Informações de Arrecadação
+
+Informar [3]
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Acesso ao Sistema de Informações sobre Concessões de Benefícios
+
+Maiprev
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+8. Acesso ao Sistema de Legislação, Jurisprudência e Pareceres
+
+Sislex
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Acesso ao Sistema Único de Benefícios
+
+Sisben
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+Secob-1
+
+1. Acesso ao Sistema de Administração de Serviços Gerais
+
+Siasg
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Sistema Nacional de Preços de Referência
+
+Sinapi
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Apoio a Orçamentação de Obras
+
+Volare
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+4. Modelagem 3D Multiuso
+
+Google SketchUp Pro
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+5. Modelagem de Informações de Construção
+
+Autocad Civil 3D
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+6. Processamento de Dados Topográficos
+
+topoGRAPH [4]
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+7. Sistema de Apoio à Fiscalização – módulo de fiscalização de obras
+
+Módulo Fiscobras do Fiscalis
+
+Sistema interno
+
+Centralizada
+
+STI
+
+8. Visualização de Elementos Geográficos
+
+Google Earth Pro
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sefid-1
+
+1. Georeferenciamento de Informações
+
+Maptitude
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sefip
+
+1. Acesso ao Sistema de Administração de Pessoal
+
+Siape
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Análise automática de Atos de Pessoal
+
+A3P
+
+Sistema interno
+
+Descentralizada
+
+Sefip
+
+3. Acesso ao Sistema Informatizado de Controle de Óbito
+
+Sisobi
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Sistema Relação Anual de Informações Sociais
+
+Rais
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac
+
+Sistema interno
+
+Centralizada
+
+STI
+
+6. Registro das Declarações de Bens e Rendas
+
+Sisdbr
+
+Sistema interno
+
+Descentralizada
+
+Sefip
+
+Sefti
+
+1. Auditoria de Dados
+
+ACL
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Segecex
+
+1. Acesso à Rede Infoseg
+
+Infoseg
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Cadastro de Responsáveis Inadimplentes
+
+Cadin
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Cadastro Nacional de Empresas do MDIC
+
+CNE
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Acesso ao Cadastro Nacional de Pessoas Físicas e Jurídicas
+
+CPF/CNPJ
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+5. Acesso ao Cadastro Nacional de Veículos
+
+Detran/Renavam
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+6. Acesso ao Sistema Ativa
+
+Ativa
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+7. Acesso ao Sistema de Controle da AFRMM
+
+Mercante
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+8. Acesso ao Sistema de Controle de Convênios
+
+Siconv
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+9. Acesso ao Sistema de Parcelamento Especial
+
+PAES
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+10. Acesso ao Sistema de Repasse de Recursos de Projetos de Governo
+
+RPG
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+11. Análise Estatística - Statistical Package for Social Sciences
+
+SPSS
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+12. Atualização de Valores
+
+Débito
+
+Sistema interno
+
+Centralizada
+
+STI
+
+13. Autuação de Processos de Cobrança Executiva
+
+CBEX Web
+
+Sistema interno
+
+Centralizada
+
+STI
+
+14. Benefícios do Controle
+
+Benefícios do Controle
+
+Sistema interno
+
+Centralizada
+
+STI
+
+15. Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Sistema interno
+
+Centralizada
+
+STI
+
+16. Cadastro Integrado de Condenações por Ilícitos Administrativos
+
+Cadicon
+
+Sistema interno
+
+Centralizada
+
+STI
+
+17. Coleta Eletrônica de Processos de Contas
+
+Siscontas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+18. Comunicações Processuais
+
+Comunicações
+
+Sistema interno
+
+Centralizada
+
+STI
+
+19. Controle da Clientela
+
+Clientela
+
+Sistema interno
+
+Centralizada
+
+STI
+
+20. Emissão de Certidões via Web
+
+Certidão
+
+Sistema interno
+
+Centralizada
+
+STI
+
+21. Extração e Análise de Dados Públicos Oficiais
+
+ADP
+
+Sistema interno
+
+Centralizada
+
+STI
+
+22. Gestão de Processos e documentos
+
+Processus
+
+Sistema interno
+
+Centralizada
+
+STI
+
+23. Registro e Monitoramento de Apreciações e Deliberações
+
+Radar
+
+Sistema interno
+
+Centralizada
+
+STI
+
+24. e-TCU – Unidades Técnicas
+
+e-TCU – Unidades Técnicas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+25. Sistema de Apoio à Fiscalização 
+
+Fiscalis
+
+Sistema interno
+
+Centralizada
+
+STI
+
+26. Sistema de gestão de documentos eletrônicos
+
+Sisdoc
+
+Serviço básico
+
+Centralizada
+
+STI
+
+27. Integração de Fontes de Informações para Inteligência de Controle
+
+SGI
+
+Sistema interno
+
+Descentralizada
+
+Segecex
+
+28. Wiki Controle Externo
+
+WikiCE
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+29. Sistema de Inteligência para o Controle Externo
+
+Síntese
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Segedam
+
+1. Processo Eletrônico Administrativo
+
+Processo Eletrônico Administrativo
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Segep
+
+1. Banco de Competências
+
+Banco de Competências
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+2. Folha de Pagamento
+
+Folha
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Gestão de Recursos Humanos
+
+GRH
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Gestão de Prontuários
+
+GSWeb
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Indicador Eletrônico
+
+Indicador
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+6. Sistema de Avaliação de Desempenho
+
+Sipad
+
+Sistema interno
+
+Centralizada
+
+STI
+
+7. Sistema de Gestão de Pessoas
+
+SGP [5]
+
+Sistema interno
+
+Centralizada
+
+STI
+
+8. Sistema de Gerenciamento de Estágio Estudantil
+
+Sigeste
+
+Sistema interno
+
+Descentralizada
+
+Segep
+
+9. Sistema Informatizado do Programa Reconhe-Ser
+
+Reconhe-Ser
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Selip
+
+1. Acompanhamento e Divulgação de Licitações
+
+Licitações
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Controle de Contratos
+
+Contrata
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Controle de Material e Almoxarifado
+
+ASI
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Controle Patrimonial
+
+Patrimônio
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Sistema de Requisição de Materiais
+
+Sismac
+
+Sistema interno
+
+Descentralizada
+
+Selip
+
+Semag
+
+1. Acesso ao Sistema de Orçamentação
+
+Sidor
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+2. Acesso ao Sistema de Patrimônio da União
+
+SPIU
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Acesso ao Sistema Integrado de Administração Financeira
+
+Siafi/Siafi Gerencial
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+4. Contas Públicas - Cadastro de Páginas Publicadas
+
+Contas Públicas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Controle das Transferências Constitucionais
+
+Transcon
+
+Sistema interno
+
+Descentralizada
+
+Semag
+
+Seplan
+
+1. Controle do Cadastro de Unidades do TCU
+
+Sisunidade
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Gerenciamento de Projetos
+
+Project
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+3. Portal de Informações Gerenciais
+
+Sinergia
+
+Sistema interno
+
+Centralizada
+
+STI
+
+4. Planejamento do TCU
+
+Sisplan
+
+Sistema interno
+
+Descentralizada
+
+Seplan
+
+5. Software de Modelagem de Processos
+
+Aris Toolset
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Seprog
+
+1. Elaboração e Aplicação de Pesquisas
+
+Pesquisar
+
+Sistema interno
+
+Descentralizada
+
+Seprog
+
+2. Análise estatística e econométrica
+
+Stata
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+Sesap
+
+1. Autoração de DVD
+
+Adobe Encore DVD
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+2. Controle de Acesso de Pessoas
+
+Suricato
+
+Sistema interno
+
+Centralizada
+
+Setic
+
+3. Edição de áudio e vídeo - Final Cut
+
+Final Cut
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+4. Edição de áudio e vídeo - Premiere
+
+Adobe Premiere
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+5. Efeitos em vídeos
+
+Adobe After Efects
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+6. Integração de Voz e Dados na Rede TCU
+
+Telefonia IP / VoIP
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+7. Orçamento, Planejamento e Acompanhamento de Obras
+
+Primasi Sipom
+
+Software de apoio
+
+Descentralizada
+
+Sesap
+
+8. Projetos de Engenharia
+
+Autocad
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+9. Solicitação de Serviços Gerais
+
+Serviços Gerais
+
+Sistema interno
+
+Descentralizada
+
+Sesap
+
+10. Transmissão de Áudio/Vídeo de Eventos do TCU via Rede
+
+Intramídia/Streaming
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+Seses
+
+1. Alimentação de Normas e Jurisprudência do TCU
+
+Judoc
+
+Sistema interno
+
+Centralizada
+
+STI
+
+2. Apoio ao Gerenciamento e Acompanhamento das Sessões
+
+Sagas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Atos Normativos do TCU
+
+Atos
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+4. Automação das Pautas das Sessões
+
+Pautas
+
+Sistema interno
+
+Centralizada
+
+STI
+
+5. Consulta à Jurisprudência
+
+Juris
+
+Sistema interno
+
+Centralizada
+
+STI
+
+6. Console das Sessões
+
+Conses
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+7. Console de Gabinete
+
+Congab
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+8. Controle de Alocação Temporária de Servidores
+
+Cats
+
+Sistema interno
+
+Centralizada
+
+STI
+
+9. e-TCU: Gabinetes e MP/TCU
+
+e-TCU: Gabinetes e MP/TCU
+
+Sistema interno
+
+Centralizada
+
+STI
+
+10. Gera Voto
+
+Gera Voto
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+11. Informativo de Jurisprudência
+
+Infojus
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+12. Jurisprudência Sistematizada
+
+Sisjur
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+13. Push do Informativo de Jurisprudência
+
+Push Infojus
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+14. Questão de Ordem
+
+QDO
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+15. Sinopse de Acórdãos e Decisões do Tribunal
+
+Sinopse
+
+Sistema interno
+
+Descentralizada
+
+Seses
+
+16. Sorteio de Processos
+
+Sorteio
+
+Sistema interno
+
+Centralizada
+
+STI
+
+Setic
+
+1. Acesso à Internet
+
+Internet
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+2. Acesso à Rede Serpro
+
+Rede Serpro
+
+Sistema externo
+
+Centralizada
+
+Setic
+
+3. Armazenamento Centralizado de Arquivos
+
+Servidor de Arquivos
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+4. Armazenamento de Arquivos com Controles Criptográficos 
+
+Servidor Seguro
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+5. Automação de Escritório
+
+Office
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+6. Geração de Demonstrações
+
+Adobe Captivate
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+7. Central de Serviços de TI
+
+Service Desk
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+8. Correio Eletrônico
+
+Correio Eletrônico
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+9. Design Gráfico Avançado
+
+Corel Draw
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+10. Edição Avançada de Áudio
+
+SoundForge
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+11. Edição Avançada de Vídeo 
+
+Adobe Premiere
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+12. Edição e Gravação Avançada de CD/DVD
+
+Nero 7
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+13. Editoração Avançada de Publicações
+
+Adobe InDesign
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+14. Enxoval Padrão de Softwares para Estações de Trabalho
+
+Enxoval de Software para Estações
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+15. Estações de Trabalho da Rede TCU
+
+Estações de Trabalho
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+16. Geração de Aplicações Flash
+
+Adobe Flash
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+17. Geração de Diagramas 
+
+Visio
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+18. Geração e Edição Avançada de arquivos PDF
+
+Adobe Acrobat Professional 8
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+19. Gerenciamento de Projetos
+
+Project 2000
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+20. Hospedagem do Site do Pró-TCU
+
+Hospedagem do Pró-TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+21. Impressoras e Impressão 
+
+Impressão
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+22. Processamento Remoto de Aplicações
+
+Citrix Metaframe
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+23. Proteção Antivírus
+
+Antivírus
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+24. Rede de comunicação de dados do Tribunal
+
+Rede TCU
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+25. Sistema de Mensageria Instantânea
+
+Spark
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+26. Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Sistema interno
+
+Centralizada
+
+Setic
+
+27. Softwares Livres Homologados para Estações de Trabalho
+
+Softwares Livres para Estações
+
+Software de apoio
+
+Centralizada
+
+Setic
+
+28. Videoconferência TCU/Interlegis
+
+Videoconferência
+
+Serviço básico
+
+Centralizada
+
+Setic
+
+STI
+
+1. Acesso a portal especializado em informação jurídica e legislativa
+
+LexML
+
+Sistema externo
+
+Centralizada
+
+STI
+
+2. Portal de Pesquisa Textual
+
+Portal Textual
+
+Sistema interno
+
+Centralizada
+
+STI
+
+3. Portal TCU
+
+Portal TCU
+
+Serviço básico
+
+Centralizada
+
+STI
+
+
+
+
+
+
+
+
+NOTAS:
+
+
+ O sistema Águia deixou de ser utilizado – em desativação
+
+
+2 O sistema Sicob deixou de ser utilizado – em desativação
+
+
+3 O sistema Informar deixou de ser utilizado – em desativação
+
+
+
+4 O software topoGRAPH encontra-se em processo de aquisição
+
+
+5 A análise de viabilidade para aquisição do sistema SGP não foi concluída
+
+
+
+ANEXO À PORTARIA-TCU Nº 276, DE 18 DE NOVEMBRO DE 2008
+
+
+
+
+
+
+
+
+
+Unidade gestora
+
+Solução de TI
+
+Sigla
+
+Tipo 
+
+ISC
+
+Acesso à Base de Dados da Legislação Brasileira
+
+Datalegis
+
+Sistema externo
+
+Acesso à Rede Virtual de Bibliotecas Institucionais
+
+Rede RVBI
+
+Sistema externo
+
+Acesso ao Siafi para treinamento
+
+SIAFI Educacional
+
+Sistema externo
+
+Acesso ao Sistema de Acompanhamento de Normas
+
+Sisnorma
+
+Sistema externo
+
+Ambiente Virtual de Educação Corporativa do TCU
+
+AVEC TCU
+
+Serviço básico
+
+Indicador de Conhecimento
+
+Indicador de Conhecimento
+
+Sistema interno
+
+Sistema de Automação do ISC
+
+ISC Net
+
+Sistema interno
+
+Sistema de Biblioteca
+
+Sofia
+
+Sistema interno
+
+[GT Processo Eletrônico][6]
+
+Processo Eletrônico de Controle Externo
+
+Processo Eletrônico
+
+Sistema interno
+
+Secex-2
+
+Acesso aos Sistemas do Banco Central
+
+Sisbacen
+
+Sistema externo
+
+Secex-5
+
+Acesso ao Cadastro Nacional de Informações Sociais
+
+CNIS
+
+Sistema externo
+
+Acesso ao Sistema de Acompanhamento da Dívida Ativa
+
+Dívida
+
+Sistema externo
+
+Acesso ao Sistema de Ajuste de Guias de Arrecadação
+
+Águia
+
+Sistema externo
+
+Acesso ao Sistema de Débito, Parcelamento e Cobrança
+
+Sicob
+
+Sistema externo
+
+Acesso ao Sistema de Informações de Arrecadação
+
+Informar
+
+Sistema externo
+
+Acesso ao Sistema de Legislação, Jurisprudência e Pareceres
+
+Sislex
+
+Sistema externo
+
+Acesso ao Sistema Único de Benefícios
+
+Sisben
+
+Sistema externo
+
+Acesso ao Sistema de Patrimônio da União
+
+SPIU
+
+Sistema externo
+
+Secob-1
+
+Acesso ao Sistema de Administração de Serviços Gerais
+
+SIASG
+
+Sistema externo
+
+Acesso ao Sistema Nacional de Preços de Referência
+
+SINAPI
+
+Sistema externo
+
+Apoio a Orçamentação de Obras
+
+Volare
+
+Software de apoio
+
+Sistema de Apoio à Fiscalização - funcionalidades relativas à fiscalização de obras
+
+Fiscalis (funcionalidade do fiscobras)
+
+Sistema interno
+
+Sefid
+
+Georeferenciamento de Informações
+
+Maptitude
+
+Software de apoio
+
+Sefip
+
+Acesso ao Sistema de Administração de Pessoal
+
+SIAPE
+
+Sistema externo
+
+Acesso ao Sistema Informatizado de Controle de Óbito
+
+Sisobi
+
+Sistema externo
+
+Acesso ao Sistema Relação Anual de Informações Sociais
+
+RAIS
+
+Sistema externo
+
+Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac
+
+Sistema interno
+
+Coleta de Atos de Admissão e Concessões
+
+Sisac Net
+
+Sistema interno
+
+Sefti
+
+Auditoria de Dados
+
+ACL
+
+Software de apoio
+
+Segecex
+
+Acesso à Rede Infoseg
+
+Infoseg
+
+Sistema externo
+
+Acesso ao Cadastro de Responsáveis Inadimplentes
+
+Cadin
+
+Sistema externo
+
+Acesso ao Cadastro Nacional de Pessoas Físicas e Jurídicas
+
+CPF/CNPJ
+
+Sistema externo
+
+Acesso ao Cadastro Nacional de Veículos
+
+Detran/Renavam
+
+Sistema externo
+
+Acesso ao Sistema Ativa
+
+Ativa
+
+Sistema externo
+
+Acesso ao Sistema de Controle da AFRMM
+
+Mercante
+
+Sistema externo
+
+Acesso ao Sistema de Controle de Convênios
+
+Siconv
+
+Sistema externo
+
+Acesso ao Sistema de Parcelamento Especial
+
+PAES
+
+Sistema externo
+
+Acesso ao Sistema de Repasse de Recursos de Projetos de Governo
+
+RPG
+
+Sistema externo
+
+Análise Estatística - Statistical Package for Social Sciences
+
+SPSS
+
+Software de apoio
+
+Atualização de Valores
+
+Débito
+
+Sistema interno
+
+Autuação de Processos de Cobrança Executiva
+
+CBEX Web
+
+Sistema interno
+
+Benefícios do Controle
+
+Benefícios do Controle
+
+Sistema interno
+
+Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Sistema interno
+
+Coleta Eletrônica de Processos de Contas
+
+Siscontas
+
+Sistema interno
+
+Comunicações Processuais
+
+Comunicações
+
+Sistema interno
+
+Controle da Clientela
+
+Clientela
+
+Sistema interno
+
+Emissão de Certidões via Web
+
+Certidão
+
+Sistema interno
+
+Gestão de Processos e documentos
+
+Processus
+
+Sistema interno
+
+Mesa de Trabalho – funcionalidades relativas às soluções de TI sob sua gestão
+
+Mesa de Trabalho
+
+Sistema interno
+
+Registro e Monitoramento de Apreciações e Deliberações
+
+Radar
+
+Sistema interno
+
+Serviços Eletrônicos de Controle Externo
+
+e-TCU
+
+Sistema interno
+
+Sistema de Apoio à Fiscalização
+
+Fiscalis
+
+Sistema interno
+
+Sistema de gestão de documentos eletrônicos
+
+Sisdoc
+
+Serviço básico
+
+Sistema de Inteligência para o Controle Externo
+
+Síntese
+
+Sistema interno
+
+Segedam
+
+Mesa de Trabalho – funcionalidades relativas às soluções de TI sob sua gestão
+
+Mesa de Trabalho
+
+Sistema interno
+
+Processo Eletrônico Administrativo
+
+Pegasus
+
+Sistema interno
+
+Segep
+
+Controle de Alocação Temporária de Servidores
+
+Cats
+
+Sistema interno
+
+Gestão de Recursos Humanos
+
+GRH
+
+Sistema interno
+
+Indicador Eletrônico
+
+Indicador
+
+Sistema interno
+
+Sistema de Gestão de Pessoas
+
+SGP
+
+Sistema interno
+
+Sistema Informatizado do Programa Reconhe-Ser
+
+Reconhe-Ser
+
+Sistema interno
+
+Selip
+
+Acompanhamento e Divulgação de Licitações
+
+Licitações
+
+Sistema interno
+
+Controle de Contratos
+
+Contrata
+
+Sistema interno
+
+Controle de Material e Almoxarifado
+
+ASI
+
+Sistema interno
+
+Controle Patrimonial
+
+Patrimônio
+
+Sistema interno
+
+Semag
+
+Acesso ao Sistema de Orçamentação
+
+SIDOR
+
+Sistema externo
+
+Acesso ao Sistema Integrado de Administração Financeira
+
+SIAFI/SIAFI Gerencial
+
+Sistema externo
+
+Contas Públicas - Cadastro de Páginas Publicadas
+
+Contas Públicas
+
+Sistema interno
+
+Controle das Transferências Constitucionais
+
+Transcon
+
+Sistema interno
+
+Seplan
+
+Controle do Cadastro de Unidades do TCU
+
+Sisunidade
+
+Sistema interno
+
+Gerenciamento de Projetos
+
+Project
+
+Software de apoio
+
+Portal de Informações Gerenciais
+
+Sinergia
+
+Sistema interno
+
+Software de Modelagem de Processos
+
+Aris Toolset
+
+Software de apoio
+
+Seprog
+
+Elaboração e Aplicação de Pesquisas
+
+Pesquisa
+
+Sistema interno
+
+Sesap
+
+Controle de Acesso de Pessoas
+
+CAP
+
+Sistema interno
+
+Integração de Voz e Dados na Rede TCU
+
+Telefonia IP / VoIP
+
+Serviço básico
+
+Projetos de Engenharia
+
+Autocad
+
+Software de apoio
+
+Solicitação de Serviços Gerais
+
+Serviços Gerais
+
+Sistema interno
+
+Transmissão de Áudio/Vídeo via Rede
+
+Intramídia
+
+Serviço básico
+
+Seses
+
+Alimentação de Normas e Jurisprudência do TCU
+
+Judoc
+
+Sistema interno
+
+Apoio ao Gerenciamento e Acompanhamento das Sessões
+
+Sagas
+
+Sistema interno
+
+Automação das Pautas das Sessões
+
+Pautas
+
+Sistema interno
+
+Consulta à Jurisprudência
+
+Juris
+
+Sistema interno
+
+Jurisprudência Sistematizada
+
+Sisjur
+
+Sistema interno
+
+Mesa de Trabalho – funcionalidades relativas às soluções de TI sob sua gestão
+
+Mesa de Trabalho
+
+Sistema interno
+
+Sorteio de Processos
+
+Sorteio
+
+Sistema interno
+
+ 
+
+           Setec
+
+Acesso à Internet
+
+Internet
+
+Serviço básico
+
+Acesso à Rede Serpro
+
+Rede Serpro
+
+Sistema externo
+
+Armazenamento Centralizado de Arquivos
+
+Serviço de Arquivos
+
+Serviço básico
+
+Automação de Escritório
+
+Office
+
+Software de apoio
+
+Captura de Telas
+
+Captivate
+
+Software de apoio
+
+Compactação de arquivos
+
+Masterzip
+
+Software de apoio
+
+Correio eletrônico
+
+Correio Eletrônico
+
+Serviço básico
+
+Dicionário Eletrônico
+
+Dicionário
+
+Software de apoio
+
+Edição de Imagens
+
+Gimp
+
+Software de apoio
+
+Edição e Gravação de CD/DVD
+
+Nero
+
+Software de apoio
+
+Editoração de Publicações
+
+InDesign
+
+Software de apoio
+
+Elaboração de Mapas Mentais
+
+FreeMind
+
+Software de apoio
+
+Estações de trabalho da Rede TCU
+
+Estações de Trabalho
+
+Serviço básico
+
+Geração de arquivos PDF
+
+Acrobat/Free PDF
+
+Software de apoio
+
+Gerenciamento de Recursos Computacionais
+
+Landesk
+
+Serviço básico
+
+Infraestrutura de Gerenciamento Eletrônico de Documentos
+
+GED
+
+Serviço básico
+
+Portal de Pesquisa Textual
+
+Portal Textual
+
+Sistema interno
+
+Portal TCU
+
+Portal TCU
+
+Serviço básico
+
+Processamento remoto de aplicações
+
+Citrix Metaframe
+
+Serviço básico
+
+Proteção Antivírus
+
+Antivírus
+
+Software de apoio
+
+Rede de comunicação de dados do Tribunal
+
+Rede TCU
+
+Serviço básico
+
+Sistema de mensageria instantânea
+
+Spark
+
+Sistema externo
+
+Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Sistema interno
+
+Videoconferência TCU/Interlegis
+
+Videoconferência
+
+Serviço básico
+
+ 
+
+Visualização de arquivos PDF
+
+Acrobat Reader
+
+Software de apoio
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 276, DE 18 DE NOVEMBRO DE 2008
+
+
+
+
+Unidade gestora
+
+Solução de TI
+
+Sigla
+
+Tipo 
+
+ISC
+
+Acesso à Base de Dados da Legislação Brasileira
+
+Datalegis
+
+Sistema externo
+
+Acesso à Rede Virtual de Bibliotecas Institucionais
+
+Rede RVBI
+
+Sistema externo
+
+Acesso ao Siafi para treinamento
+
+SIAFI Educacional
+
+Sistema externo
+
+Acesso ao Sistema de Acompanhamento de Normas
+
+Sisnorma
+
+Sistema externo
+
+Ambiente Virtual de Educação Corporativa do TCU
+
+AVEC TCU
+
+Serviço básico
+
+Indicador de Conhecimento
+
+Indicador de Conhecimento
+
+Sistema interno
+
+Sistema de Automação do ISC
+
+ISC Net
+
+Sistema interno
+
+Sistema de Biblioteca
+
+Sofia
+
+Sistema interno
+
+Secex-2
+
+Acesso aos Sistemas do Banco Central
+
+Sisbacen
+
+Sistema externo
+
+Secex-4
+
+Acesso ao Cadastro Nacional de Informações Sociais
+
+CNIS
+
+Sistema externo
+
+Acesso ao Sistema de Acompanhamento da Dívida Ativa
+
+Dívida
+
+Sistema externo
+
+Acesso ao Sistema de Ajuste de Guias de Arrecadação
+
+Águia
+
+Sistema externo
+
+Acesso ao Sistema de Débito, Parcelamento e Cobrança
+
+Sicob
+
+Sistema externo
+
+Acesso ao Sistema de Informações de Arrecadação
+
+Informar
+
+Sistema externo
+
+Acesso ao Sistema de Legislação, Jurisprudência e Pareceres
+
+Sislex
+
+Sistema externo
+
+Acesso ao Sistema Único de Benefícios
+
+Sisben
+
+Sistema externo
+
+Secex-5
+
+Acesso ao Sistema de Patrimônio da União
+
+SPIU
+
+Sistema externo
+
+Secob
+
+Acesso ao Sistema de Administração de Serviços Gerais
+
+SIASG
+
+Sistema externo
+
+Acesso ao Sistema Nacional de Preços de Referência
+
+SINAPI
+
+Sistema externo
+
+Apoio a Orçamentação de Obras
+
+Volare
+
+Software de apoio
+
+Sistema de Apoio à Fiscalização de Obras
+
+Fiscobras
+
+Sistema interno
+
+Sefid
+
+Georeferenciamento de Informações
+
+Maptitude
+
+Software de apoio
+
+Sefip
+
+Acesso ao Sistema de Administração de Pessoal
+
+SIAPE
+
+Sistema externo
+
+Acesso ao Sistema Informatizado de Controle de Óbito
+
+Sisobi
+
+Sistema externo
+
+Acesso ao Sistema Relação Anual de Informações Sociais
+
+RAIS
+
+Sistema externo
+
+Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac
+
+Sistema interno
+
+Coleta de Atos de Admissão e Concessões
+
+Sisac Net
+
+Sistema interno
+
+Sefti
+
+Auditoria de Dados
+
+ACL
+
+Software de apoio
+
+Segecex
+
+Acesso à Rede Infoseg
+
+Infoseg
+
+Sistema externo
+
+Acesso ao Cadastro de Responsáveis Inadimplentes
+
+Cadin
+
+Sistema externo
+
+Acesso ao Cadastro Nacional de Pessoas Físicas e Jurídicas
+
+CPF/CNPJ
+
+Sistema externo
+
+Acesso ao Cadastro Nacional de Veículos
+
+Detran/Renavam
+
+Sistema externo
+
+Acesso ao Sistema Ativa
+
+Ativa
+
+Sistema externo
+
+Acesso ao Sistema de Comércio Exterior
+
+Siscomex
+
+Sistema externo
+
+Acesso ao Sistema de Informações Financeiras
+
+Reuters
+
+Sistema externo
+
+Acesso ao Sistema de Orçamentação
+
+SIDOR
+
+Sistema externo
+
+Acompanhamento de Processos de Cobrança Executiva
+
+CBEX Web
+
+Sistema interno
+
+Análise Estatística - Statistical Package for Social Sciences
+
+SPSS
+
+Software de apoio
+
+Atualização de Valores
+
+Débito
+
+Sistema interno
+
+Benefícios do Controle
+
+Benefícios do Controle
+
+Sistema interno
+
+Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Sistema interno
+
+Coleta Eletrônica de Processos de Contas
+
+Siscontas
+
+Sistema interno
+
+Comunicações Processuais
+
+Comunicações
+
+Sistema interno
+
+Contas Públicas - Cadastro de Páginas Publicadas
+
+Contas Públicas
+
+Sistema interno
+
+Controle da Clientela
+
+Clientela
+
+Sistema interno
+
+Diferimento de Processos de Contas
+
+Diferimento
+
+Sistema interno
+
+Emissão de Certidões via Web
+
+Certidão
+
+Sistema interno
+
+Gestão de Processos e documentos
+
+Processus
+
+Sistema interno
+
+Instrução Eletrônica de Processos de Contas
+
+IE
+
+Sistema interno
+
+Notificação de Movimentação de Processos
+
+Processus - Push
+
+Sistema interno
+
+Registro e Monitoramento de Apreciações e Deliberações
+
+Radar
+
+Sistema interno
+
+Sistema de Apoio à Fiscalização
+
+Fiscalis
+
+Sistema interno
+
+Sistema de gestão de documentos eletrônicos
+
+Sisdoc/GED
+
+Serviço básico
+
+Sistema de Inteligência para o Controle Externo
+
+Síntese
+
+Sistema interno
+
+Segedam
+
+Processo Eletrônico Administrativo
+
+Pegasus
+
+Sistema interno
+
+Segep
+
+Gestão de Recursos Humanos
+
+GRH
+
+Sistema interno
+
+Indicador Eletrônico
+
+Indicador
+
+Sistema interno
+
+Sistema de Gestão de Pessoas
+
+SGP
+
+Sistema interno
+
+Selip
+
+Acompanhamento e Divulgação de Licitações
+
+Licitações
+
+Sistema interno
+
+Controle de Contratos
+
+Contrata
+
+Sistema interno
+
+Controle de Material e Almoxarifado
+
+ASI
+
+Sistema interno
+
+Controle Patrimonial
+
+Patrimônio
+
+Sistema interno
+
+Semag
+
+Acesso ao Sistema Integrado de Administração Financeira
+
+SIAFI/SIAFI Gerencial
+
+Sistema externo
+
+Controle das Transferências Constitucionais
+
+Transcon
+
+Sistema interno
+
+Seplan
+
+Controle do Cadastro de Unidades do TCU
+
+Sisunidade
+
+Sistema interno
+
+Gerenciamento de Projetos
+
+Project
+
+Software de apoio
+
+Portal de Informações Gerenciais
+
+Sinergia
+
+Sistema interno
+
+Software de Modelagem de Processos
+
+Aris Toolset
+
+Software de apoio
+
+Seprog
+
+Elaboração e Aplicação de Pesquisas
+
+Pesquisa
+
+Sistema interno
+
+Ferramenta de Pesquisas Sphinx
+
+Sphinx
+
+Software de apoio
+
+Sesap
+
+Gerência do Controle de Acesso
+
+Ronda
+
+Sistema interno
+
+Integração de Voz e Dados na Rede TCU
+
+Telefonia IP / VoIP
+
+Serviço básico
+
+Projetos de Engenharia
+
+Autocad
+
+Software de apoio
+
+Solicitação de Serviços Gerais
+
+Serviços Gerais
+
+Sistema interno
+
+Transmissão de Áudio/Vídeo via Rede
+
+Intramídia
+
+Serviço básico
+
+Seses
+
+Alimentação de Normas e Jurisprudência do TCU
+
+Judoc
+
+Sistema interno
+
+Apoio ao Gerenciamento e Acompanhamento das Sessões
+
+Sagas
+
+Sistema interno
+
+Automação das Pautas das Sessões
+
+Pautas
+
+Sistema interno
+
+Automação dos Gabinetes
+
+Autogab
+
+Sistema interno
+
+Consulta à Jurisprudência
+
+Juris
+
+Sistema interno
+
+Jurisprudência Sistematizada
+
+Sisjur
+
+Sistema interno
+
+Sorteio de Processos
+
+Sorteio
+
+Sistema interno
+
+Setec
+
+Acesso à Internet
+
+Internet
+
+Serviço básico
+
+Acesso à Rede Serpro
+
+Rede Serpro
+
+Sistema externo
+
+Armazenamento Centralizado de Arquivos
+
+Serviço de Arquivos
+
+Serviço básico
+
+Automação de Escritório
+
+Office
+
+Software de apoio
+
+Captura de Telas
+
+Captivate
+
+Software de apoio
+
+Compactação de arquivos
+
+Masterzip
+
+Software de apoio
+
+Correio eletrônico
+
+Correio Eletrônico
+
+Serviço básico
+
+Dicionário Eletrônico
+
+Dicionário
+
+Software de apoio
+
+Edição de Imagens
+
+Gimp
+
+Software de apoio
+
+Edição e Gravação de CD/DVD
+
+Nero
+
+Software de apoio
+
+Editoração de Publicações
+
+InDesign
+
+Software de apoio
+
+Elaboração de Mapas Mentais
+
+FreeMind
+
+Software de apoio
+
+Estações de trabalho da Rede TCU
+
+Estações de Trabalho
+
+Serviço básico
+
+Geração de arquivos PDF
+
+Acrobat
+
+Software de apoio
+
+Gerenciamento de Recursos Computacionais
+
+SMS
+
+Serviço básico
+
+Portal de Pesquisa Textual
+
+Portal Textual
+
+Sistema interno
+
+Portal TCU
+
+Portal TCU
+
+Serviço básico
+
+Processamento remoto de aplicações
+
+Citrix Metaframe
+
+Serviço básico
+
+Proteção Antivírus
+
+Antivírus
+
+Software de apoio
+
+Rede de comunicação de dados do Tribunal
+
+Rede TCU
+
+Serviço básico
+
+Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Sistema interno
+
+Sistema de mensageria instantânea
+
+Spark
+
+Sistema externo
+
+Transferência de Arquivos da Rede Serpro
+
+Tempus Transfer
+
+Software de apoio
+
+Videoconferência TCU/Interlegis
+
+Videoconferência
+
+Serviço básico
+
+Visualização de arquivos PDF
+
+Acrobat Reader
+
+Software de apoio
+
+
+
+
+
+

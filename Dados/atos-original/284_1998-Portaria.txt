@@ -1,0 +1,4777 @@
+Portaria
+284/1998
+
+
+O  PRESIDENTE  DO  TRIBUNAL  DE CONTAS DA UNIÃO,  no  uso  de  suas     atribuições legais e regimentais, e
+
+
+Considerando a necessidade de definição dos procedimentos a serem adotados para aplicação da Instrução Normativa TCU nº 13, de 4 de dezembro de 1996, com vistas à instrução dos processos de Tomada de Contas Especial;
+
+
+Considerando as diretrizes estabelecidas pelo Plenário no sentido de que sejam desenvolvidos instrumentos que possibilitem a elaboração de instruções padronizadas e com maior objetividade por parte das Unidades Técnicas; e
+
+
+Considerando o resultado dos estudos da Comissão criada pela Portaria SEGECEX nº 02, de 20 de janeiro de 1998, acrescidos das sugestões dos Dirigentes das Unidades Técnicas integrantes daquela Unidade Básica, resolve:
+
+
+Art. 1º Fica aprovado o Manual de Instrução de Processos de Tomada de Contas Especial, na forma do Anexo a esta Portaria.
+
+
+Art. 2º A Secretaria de Informática - SEINF disponibilizará às Secretarias de Controle Externo, na rede de computadores do Tribunal, os formulários contidos no Capítulo 4 do Manual, e expedirá as instruções para sua utilização, sem prejuízo da imediata utilização dos procedimentos ora aprovados.
+
+
+Art. 3º As Unidades Técnicas ficam autorizadas a fazer as adaptações pertinentes, em razão de peculiaridades relacionadas aos processos de sua clientela e de hipóteses não contempladas pelo Manual.
+
+
+Art. 4º A  SEGECEX, mediante proposta das respectivas Unidades Técnicas, poderá instituir novos modelos de formulários, com vistas às atualizações que se fizerem necessárias.
+
+
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 6º Ficam revogadas as disposições em contrário.
+
+
+
+
+
+HOMERO SANTOS
+
+
+Presidente
+
+
+
+ANEXO ÚNICO
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+
+
+
+
+MANUAL DE INSTRUÇÃO DE PROCESSOS DE TOMADA DE CONTAS ESPECIAL
+
+
+
+(APROVADO PELA PORTARIA TCU Nº 284, DE 27/05/1998)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECRETARIA-GERAL DE CONTROLE EXTERNO – SEGECEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sumário
+
+
+ 
+
+
+
+
+Apresentação
+
+ 
+
+1. Informações Gerais...................................................................... ......................................................
+
+01
+
+1.1. Tomada de Contas Especial.........................................................................................................
+
+01
+
+1.2. Fatos Ensejadores da TCE...........................................................................................................
+
+01
+
+1.3. Dispensa de Instauração da TCE.................................................................................................
+
+01
+
+1.4. Legislação.....................................................................................................................................
+
+01
+
+1.5. Responsável pela Instauração da TCE........................................................................................
+
+02
+
+1.6. Etapas a Serem Seguidas pela Autoridade Administrativa..........................................................
+
+03
+
+1.7. Encaminhamento da TCE ao Tribunal..........................................................................................
+
+03
+
+1.7.1. Peças básicas de uma TCE...............................................................................................
+
+03
+
+1.7.2. Valores para elaboração de TCE sob a forma simplificada...............................................
+
+03
+
+1.7.3. Apresentação da prestação de contas ou recolhimento do débito após o encaminhamento do processo............................................................................................
+
+04
+
+1.8. Instrução da TCE pelo Tribunal....................................................................................................
+
+04
+
+1.9. Julgamento das TCEs pelo Tribunal.............................................................................................
+
+05
+
+1.10. Dados Estatísticos Relativos à TCE...........................................................................................
+
+06
+
+1.11. Sanções.......................................................................................................................................
+
+06
+
+2. Exame dos Processos de Tomada de Contas Especial.....................................................................
+
+08
+
+2.1. Exame Preliminar......................................... ................................................................................
+
+09
+
+2.2. Instrução do Processo – Orientações Gerais...............................................................................
+
+10
+
+2.2.1. Medidas Preliminares.........................................................................................................
+
+11
+
+2.2.2. Propostas de Mérito............................................................................................................
+
+13
+
+2.2.3. Propostas de Arquivamento...............................................................................................
+
+15
+
+2.3. Instrução Inicial.............................................................................................................................
+
+16
+
+2.4. Instrução após Citação dos Responsáveis...................................................................................
+
+18
+
+2.5. Instrução após Cientificação dos Responsáveis..........................................................................
+
+20
+
+2.6. Instrução após Diligência..............................................................................................................
+
+22
+
+2.7. Instrução após Inspeção...............................................................................................................
+
+23
+
+2.8. Instrução após Audiência dos Responsáveis...............................................................................
+
+24
+
+2.9.Instrução após Julgamento pela Irregularidade e Notificação .....................................................
+
+25
+
+2.10.Coleta de Dados Gerenciais........................................................................................................
+
+26
+
+3. Fluxuograma Simplificado de Procedimentos de Tomada de Contas Especial...............................
+
+27
+
+3.1. Diligência.......................................................................................................................................
+
+28
+
+3.2. Inspeção .......................................................................................................................................
+
+29
+
+3.3. Citação .........................................................................................................................................
+
+30
+
+3.4. Audiência ......................................................................................................................................
+
+31
+
+3.5. Notificação.....................................................................................................................................
+
+32
+
+
+
+
+
+
+
+4. Formulários para Instrução..............................................................................................................
+
+33
+
+4.1. Exame Preliminar..........................................................................................................................
+
+34
+
+4.2. Formulário nº 1: Instrução Inicial: Citação Imediata.....................................................................
+
+35
+
+4.3. Formulário nº 2: Instrução após Citação dos Responsáveis com Revelia..................................
+
+36
+
+4.4. Formulário nº 3: Instrução após Citação dos Responsáveis com Defesa Rejeitada...................
+
+38
+
+4.5. Formulário nº 4: Instrução após Citação  dos Responsáveis com Recolhimento do Débito    ou Acolhimento..................................................................................................
+
+39
+
+4.6. Formulário nº 5: Instrução após Cientificação de Novo Prazo Para Recolhimento.....................
+
+41
+
+4.7. Formulários Complementares......................................................................................................
+
+43
+
+4.7.1. Formulário nº 6: Instrução Inicial: Inaplicabilidade de Citação Imediata ...........................
+
+43
+
+4.7.2. Formulário nº 7: Instrução após Diligência.........................................................................
+
+45
+
+4.7.3. Formulário nº 8: Instrução após Inspeção..........................................................................
+
+47
+
+4.7.4. Formulário nº 9: Instrução após Audiência.........................................................................
+
+49
+
+4.7.5. Formulário nº 10: Instrução após Julgamento pela Irregularidade e Notificação..............
+
+52
+
+4.7.6. Formulário nº 11: Coleta de Dados Gerenciais..................................................................
+
+54
+
+5. Jurisprudência.....................................................................................................................................
+
+54
+
+5.1. Súmulas........................................................................................................................................
+
+54
+
+5.2. Acórdãos e Decisões....................................................................................................................
+
+54
+
+
+
+
+1. Informações gerais
+
+
+
+ 
+
+
+
+
+
+1.1. Tomada de Contas Especial
+
+
+
+
+A Tomada de Contas Especial (TCE), que também pode ser entendida como tomada de contas em circunstâncias especiais, é o instrumento legal destinado a identificar eventuais prejuízos, com vistas ao ressarcimento do Erário, na guarda e aplicação de recursos públicos.
+
+
+
+Diferentemente das Contas Anuais, cuja periodicidade é obrigatória e tem como finalidade demonstrar a movimentação dos bens e recursos geridos pelo órgão ou entidade, a TCE objetiva apurar os fatos, identificar o(s) responsável(is) e quantificar os danos.
+
+
+
+
+1.2. Fatos ensejadores da TCE
+
+
+
+
+De acordo com o caput do art. 8º da Lei nº 8.443/92, o Administrador tomará as providências necessárias à instauração da Tomada de Contas Especial nas seguintes ocorrências:
+
+
+
+a) omissão no dever de prestar contas;
+
+
+b) não comprovação da aplicação dos recursos repassados pela União;
+
+
+c) ocorrência de desfalque ou desvio de dinheiros, bens ou valores públicos; ou
+
+
+d) prática de qualquer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao Erário.
+
+
+
+Dentro dessa abrangência, a TCE deve ser instaurada até mesmo em caso de roubo, furto ou perda de bens.
+
+
+
+Merece, no entanto, ser ressaltada a inovação introduzida pela IN/TCU nº 13/96, calcada nos princípios da racionalização administrativa e da economia processual, ao definir a TCE como medida de exceção, que somente deverá "ser instaurada após esgotadas as providências administrativas internas com vistas à recomposição do Erário" (parágrafo único do art. 1º da IN/TCU nº 13/96).
+
+
+
+Assim, a obrigação da autoridade administrativa competente de providenciar a instauração da TCE somente estará caracterizada após "esgotadas as medidas cabíveis no âmbito administrativo interno", com vistas ao reparo do dano.(§ 2º do art. 2º da IN/TCU nº 13/96).
+
+
+
+
+1.3. Dispensa da instauração
+
+
+
+
+O Regimento Interno do Tribunal de Contas da União, tendo em vista o princípio da economia processual, também inseriu dispositivo, constante do § 5º do art. 148, quanto à possível dispensa de se elaborar o processo de TCE quando de ocorrências em que ficar comprovada a ausência de má-fé e o dano for prontamente ressarcido:
+
+
+
+"Na ocorrência de perda, extravio ou outra irregularidade sem que se caracterize má-fé de quem lhe deu causa, se o dano for imediatamente ressarcido, a autoridade administrativa competente deverá, em sua tomada ou prestação de contas anual, comunicar o fato ao Tribunal, que deliberará acerca da dispensa de instauração da tomada de contas especial."
+
+
+
+
+1.4. Legislação
+
+
+
+		
+
+
+Diversos são os dispositivos legais e regulamentares que se referem à matéria, dentre os quais devem ser destacados:
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+· Lei nº 8.443/92 (arts. 8º, 9º, 47 e 50);
+
+
+· Decreto-Lei nº 200/67 (art. 84);
+
+
+· Regimento Interno/TCU (arts. 19, 101, 148, 149, 151, 189, 197, 199);
+
+
+· IN nº 13 - TCU, de 04/12/1996 (Dispõe sobre a instauração e organização de processos de tomada de contas especial e dá outras providências) ;
+
+
+· IN nº 08 - DTN, de 21/12/1990 (Estabelece normas sobre tomada e prestação de contas de gestores de recursos públicos);
+
+
+· IN nº 04 - SFC, de 24/12/1996 (Estabelece normas sobre tomadas e prestações de contas dos gestores de recursos públicos, e rol de responsáveis do Poder Público); e
+
+
+· IN nº 01 – STN[footnoteRef:2], de 15/01/97 (Disciplina a celebração de convênios de natureza financeira que tenham por objeto a execução de projetos ou realização de eventos e dá outras providências) - Capítulo X. [2:   A IN nº 04/96 - STN foi elaborada em consonância com as INs nº 12 e 13/96 - TCU. Porém, diferentemente da IN nº 08/90 - DTN, não possui capítulo específico abordando o tema Tomada de Contas Especial. Em função disso, para o esclarecimento de alguns pontos, poderá ser consultado o capítulo X , da IN nº 01/97 - STN, relativa a convênios.] 
+
+
+
+
+
+1.5. Responsável pela instauração da TCE
+
+
+
+
+A autoridade administrativa competente, sob pena de responsabilidade solidária, deverá imediatamente adotar providências com vistas à apuração dos fatos, identificação dos responsáveis e quantificação do dano (caput do art. 8º da Lei nº 8.443/92), sempre que verificada alguma das hipóteses previstas no item 1.2.
+
+
+
+	  O início do processo com vistas à exigência de prestação de contas ou de ressarcimento ao Erário cabe ao dirigente máximo da entidade ou ao ordenador de despesa, podendo ocorrer de ofício ou por solicitação do Controle Interno.
+
+
+
+
+
+É fundamental ressaltar que, caso não comprovada a conivência entre a autoridade administrativa que constatou a irregularidade e o agente causador do dano, a responsabilidade daquele esgotar-se-á com a adoção de providências visando à reparação do prejuízo (Decisão nº 255/93 - Plenário - Ata nº 25/93).
+
+
+
+Entretanto, a omissão da autoridade competente no que se refere ao dever de adotar as providências com vistas à apuração dos fatos, identificação dos responsáveis, quantificação do dano e ao imediato ressarcimento ao Erário, no prazo máximo de 180 dias, é considerada grave infração à norma legal, sujeitando a referida autoridade à imputação das sanções cabíveis, sem prejuízo de caracterizar a sua solidariedade com o agente causador do dano (§ 1º do art. 2º da IN/TCU nº 13/96). Nesse caso, o Tribunal determinará a instauração da respectiva Tomada de Contas Especial (§ 1º do art. 8º da Lei nº 8.443/92, e § 1º do art. 148 do RI/TCU).
+
+
+
+O Controle Interno, por sua vez, tem o dever de dar ciência ao Tribunal, sob pena de responsabilidade solidária, de qualquer irregularidade ou ilegalidade de que tome conhecimento, conforme dispõe o texto constitucional no § 1º de seu art. 74 (também ressaltado no art. 51, § 2º da Lei nº 8.443/92 e art. 3º da IN/TCU nº 13/96).
+
+
+
+Além disso, poderá também o TCU, a qualquer tempo, determinar a instauração de TCE, independentemente das medidas administrativas internas e judiciais adotadas, se entender que o fato motivador possui relevância suficiente para ensejar a apreciação por seus órgãos colegiados (art. 9º da IN/TCU nº 13/96).
+
+
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+
+1.6. Etapas a serem seguidas pela autoridade administrativa para a instauração da TCE
+
+
+
+
+No âmbito do órgão ou da entidade, o procedimento seguinte à identificação do ato lesivo é a notificação do responsável, objetivando a regularização do fato, assim:
+
+
+
+a) em se tratando de omissão de contas ou não comprovação da aplicação dos recursos repassados mediante convênio, acordo, ajuste ou outros instrumentos congêneres, o responsável será notificado para que apresente a prestação de contas ou que proceda à devolução dos recursos recebidos, acrescidos dos encargos legais; e
+
+
+b) no caso de desfalque ou desvio de dinheiros, bens ou valores públicos, da prática de qualquer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao Erário, o responsável será notificado para que recolha o valor do débito a ele imputado, acrescido de correção monetária  e juros de mora, bem como para que apresente as justificativas e as alegações de defesa julgadas necessárias, nos casos em que a prestação de contas não tenha sido aprovada.
+
+
+
+Expedida a notificação e concedido prazo para sua regularização, a autoridade competente cientificará a CISET respectiva, informando as providências adotadas com vistas à suspensão:
+
+
+
+a)	de liberação de parcela de recursos ainda não transferida;
+
+
+b)	de assinatura de novos convênios, acordos ou ajustes com partícipe inadimplente; ou
+
+
+c) de pagamento de concessão, conforme o caso, de nova subvenção, auxílio ou contribuição à instituição omissa.
+
+
+
+Esgotado o prazo e não apresentada a prestação de contas, nem devolvidos os recursos financeiros desviados, será providenciada a instauração da tomada de contas especial e a inscrição da responsabilidade pelo débito em conta específica.
+
+
+
+
+
+1.7. Encaminhamento da TCE ao Tribunal de Contas da União
+
+
+
+
+Concluso o processo de TCE e devidamente procedidos os registros no SIAFI, para os efeitos de cadastro dos faltosos, omissos e/ou inadimplentes na comprovação ou pelo uso irregular dos recursos públicos, os autos serão encaminhados pela CISET respectiva ao Tribunal para julgamento.
+
+
+
+
+1.7.1. Peças básicas de uma TCE
+
+
+
+
+O processo de TCE será constituído pelas peças definidas pelo art. 4º da IN/TCU nº 13/96 (ver item 2.1 deste Manual). Registre-se que a ausência de qualquer dos elementos constantes do citado artigo enseja a restituição do processo à origem para sua complementação (IN/TCU nº 13/96, art. 4º, parágrafo único e art. 9º, inciso I, Resolução TCU nº 77/96).
+
+
+
+
+1.7.2. Valores para a elaboração de TCE sob forma simplificada
+
+
+
+
+Caso o valor do dano causado ao Erário, atualizado monetariamente, seja de valor igual ou inferior à quantia fixada para esse efeito por decisão normativa (cf. disposto na IN/TCU nº 20, de 04/03/98, que alterou o art. 5º da IN/TCU nº 13/96) a cada ano civil, a tomada de contas especial  será 
+
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+elaborada de forma simplificada, por meio de demonstrativo, e anexada ao processo da respectiva tomada ou prestação de contas anual do ordenador de despesa ou do administrador, para julgamento em conjunto.
+
+
+
+Os valores fixados pelo Tribunal constam da tabela a seguir:
+
+
+
+IN TCU nº
+
+Data
+
+Exercício
+
+Valor (UFIR)
+
+1/93
+
+9/12/93
+
+1994
+
+500,00
+
+8/94
+
+27/12/94
+
+1995
+
+500,00
+
+11/95
+
+5/12/95
+
+1996
+
+500,00
+
+14/96
+
+13/12/96
+
+1997
+
+1.500,00
+
+18/97
+
+11/12/97
+
+1998
+
+3.000,00
+
+
+
+É importante que tal limite não seja confundido com aquele fixado pela Decisão nº 466/95-TCU-Plenário (Ata nº 30/95), no valor de 1.500 UFIRs como limite mínimo para determinar o prosseguimento da cobrança judicial de débitos, devendo ser arquivados os processos de cobrança executiva nos quais a dívida seja inferior a essa quantia, observados os termos do art. 93 da Lei nº 8.443/92 e do art. 248 do Regimento Interno do TCU.
+
+
+
+
+1.7.3. Apresentação da prestação de contas ou recolhimento do débito após encaminhamento do processo ao TCU
+
+
+
+
+Instaurada a TCE e havendo apresentação, embora intempestiva, da prestação de contas ou recolhimento do débito imputado, após o encaminhamento da TCE ao TCU, a autoridade competente procederá a baixa da inadimplência ( art. 38, §2º, da IN nº 01/97 - STN), e:
+
+
+
+a) sendo aprovada a prestação de contas ou comprovado o recolhimento, tal circunstância deverá ser comunicada à respectiva unidade de controle interno que certificou as contas para a adoção das providências junto ao TCU, mantendo-se a baixa da inadimplência bem como a inscrição da responsabilidade apurada, que só poderá ser baixada por decisão do Tribunal;
+
+
+
+b) não sendo aprovada a prestação de contas serão adotadas as providências do item anterior quanto à comunicação à unidade de controle interno, reinscrevendo-se, entretanto, a inadimplência, no caso da TCE referir-se ao atual administrador, tendo em vista sua permanência à frente da administração do órgão convenente.
+
+
+
+
+1.8. Instrução da TCE pelo Tribunal
+
+
+
+
+Diante do processo de TCE, o Tribunal de Contas procederá à análise dos elementos dele integrantes, restituindo o processo à origem, no caso de ausência de um deles, podendo, ainda, diligenciar no intuito de obter esclarecimentos e informações adicionais sobre o assunto.
+
+
+
+Após a verificação das peças básicas, a Unidade Técnica deverá adotar as providências para que seja agilizada a citação do(s) responsável(is).
+
+
+
+Cumpre assinalar que a fase própria da citação feita pela Unidade Técnica, além das conseqüências jurídicas, reveste-se da maior relevância, sendo um dos momentos mais importantes do procedimento em questão, uma vez que, caso exista falha nesse instrumento, poderá ser alegada a nulidade de toda a TCE, por motivo de cerceamento de defesa.
+
+
+
+Verificada a irregularidade, o TCU adotará os seguintes procedimentos, conforme o caso:
+
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+a) se houver débito, ordenará a citação do responsável para, no prazo de 15 dias (art. 153, inciso II, do Regimento Interno), apresentar alegações de defesa ou recolher a quantia devida; e
+
+
+b) se, em caso excepcional, não for possível a quantificação do débito, determinará a audiência do responsável para, no prazo de 15 dias (art. 153, inciso III, do Regimento Interno), apresentar razões de justificativa.
+
+
+
+O valor do débito deve corresponder ao saldo devedor que originou a Tomada de Contas Especial e que gerou o lançamento na conta "Diversos Responsáveis", ou seja, a citação do TCU deve, em regra, nos casos de inadimplência parcial se referir ao valor efetivo da dívida apurada no processo (diferença entre o valor liberado e as quantias já adimplidas).
+
+
+
+A citação ou audiência, competência exclusiva do Tribunal, será efetivada (segundo o RITCU, art. 164, incisos de I a III):
+
+
+
+a) mediante ciência do responsável ou do interessado, efetivada por intermédio de servidor designado, quando assim determinar o Plenário, qualquer das Câmaras ou do Relator;
+
+
+b) pelo correio, mediante carta registrada, com aviso de recebimento;
+
+
+c) por edital publicado no Diário Oficial da União, quando o seu destinatário não for localizado (após as tentativas de encontrar o endereço do responsável pelo SISON, contato com órgãos/entidades envolvidos ou outros procedimentos julgados pertinentes).
+
+
+
+O responsável que não atender à citação ou à audiência será considerado revel pelo Tribunal, para todos os efeitos, dando-se prosseguimento ao processo (art. 12, § 3º, da Lei nº 8.443/92).
+
+
+
+O responsável cujas alegações de  defesa forem rejeitadas pelo Tribunal será cientificado para que, em 15 dias, recolha a importância devida (art. 12, § 1º, da Lei nº 8.443/92).
+
+
+
+No caso de falecimento do responsável, vale ressaltar que a jurisdição do Tribunal abrange os sucessores dos administradores e responsáveis até o limite do valor do patrimônio transferido (art. 5º, inciso IX, da Lei nº 8.443/92)
+
+
+
+
+1.9. Julgamento das TCEs pelo Tribunal
+
+
+
+
+As contas relativas ao processo de TCE poderão ser julgadas, quanto ao mérito, como (art. 16 da Lei nº 8.443/92):
+
+
+
+a) irregulares; ou
+
+
+b) regulares com ressalva.
+
+
+
+Destaque-se que em função dos pressupostos para a constituição de uma TCE, a regra é o julgamento pela irregularidade. Porém, em vista  de determinados fatos, alguns casos vêm sendo julgados pelo Tribunal como regulares com ressalvas. 
+
+
+
+Além disso, o TCU poderá determinar o arquivamento do processo, sem julgamento do mérito, quando:
+
+
+
+a) por caso fortuito ou razão de força maior comprovadamente estranhos à vontade do responsável, o julgamento de mérito for materialmente impossível, sendo as contas consideradas iliquidáveis (art. 20 da Lei nº 8.443/92); ou
+
+
+b) for verificada a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo (art. 163 RI/TCU); e
+
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+c) o valor do débito for inferior ao valor estipulado em decisão normativa (art. 93 da Lei nº 8.443/92 c/c o art 6º, § 1º, da Lei nº 8.443/92)
+
+
+
+As contas serão julgadas regulares com ressalva quando ficar evidenciada impropriedade ou qualquer outra falta de natureza formal de que não resulte dano ao Erário (art. 16, inciso II, da Lei nº 8.443/92); ou ainda, quando o débito for liquidado tempestivamente e se reconhecida pelo Tribunal a boa-fé, desde que não tenham sido observadas outras irregularidades nas contas (art. 12, § 2º, da Lei nº 8.443/92).
+
+
+
+As contas serão julgadas irregulares quando comprovada qualquer das seguintes ocorrências (art. 16, inciso III, da Lei nº 8.443/92):
+
+
+
+a)	omissão no dever de prestar contas;
+
+
+b)	prática de ato de gestão ilegal, ilegítimo ou antieconômico; ou infração a norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial;
+
+
+c)	dano ao Erário decorrente de ato de gestão ilegítimo ou antieconômico; ou
+
+
+d)	desfalque ou desvio de dinheiros, bens ou valores públicos.
+
+
+
+
+1.10. Dados estatísticos relativos às TCEs
+
+
+
+
+Em consulta efetuada no sistema JURIS, em 10/02/98, foram obtidos os seguintes dados relativos ao perfil das TCEs que tramitaram no Tribunal:
+
+
+
+
+Quadro 1- Quanto ao julgamento
+
+
+Julgamento
+
+Percentual (%)
+
+Regulares - 1º julgamento
+
+14
+
+Irregulares - 1º julgamento
+
+73
+
+Irregulares - 1º julgamento e Regulares após recurso
+
+4
+
+Irregulares - 1º julgamento e após recurso
+
+9
+
+
+
+Quadro 2- Quanto à origem
+
+
+Origem
+
+Percentual (%)
+
+Convênios
+
+54
+
+Acordos
+
+14
+
+Royalties
+
+7
+
+Outros
+
+25
+
+
+
+Quadro 3- Quanto à omissão
+
+
+Omissão
+
+Percentual%
+
+Omissão
+
+65
+
+Outros
+
+35
+
+
+
+
+1.11. Sanções aos agentes públicos cujas contas forem julgadas irregulares
+
+
+
+
+
+Havendo débito, o Tribunal condenará o responsável ao pagamento da dívida, acrescida dos encargos legais, podendo ainda, ser aplicada multa de até 100% do valor atualizado do dano (art. 57 da Lei nº 8.443/92).
+
+
+
+
+ 
+
+
+1. Informações Gerais
+
+
+
+Tratando de responsáveis solidários vale ressaltar:
+
+
+
+a) a obrigação com relação ao débito é indivisível, ou seja, a quitação individual depende de que o valor total da dívida seja pago  (parágrafo único do art. 896 do Código Civil), mesmo que aceita pelo TCU a cotização do montante pelos envolvidos;
+
+
+b) a quitação do débito não implica, necessariamente, em que as contas deixem de ser consideradas irregulares; e
+
+
+c) a multa deve ser proposta para cada responsável, ou seja, não pode ser aplicada solidariamente.
+
+
+
+
+Não havendo débito, mas comprovada qualquer das ocorrências previstas nas alíneas a, b e c, do inciso III, do art. 16, o Tribunal aplicará multa ao responsável, conforme estabelece o art. 58, inciso I, da Lei nº 8.443/92, de acordo com a gradação determinada pelo art. 220 do Regimento Interno[footnoteRef:3] (aplicada nas situações constituídas após a vigência da Lei Orgânica do TCU) ou até o limite estabelecido no art. 53 do Decreto-Lei nº 199/67 (nas situações anteriores à vigência da citada lei). [3:   Atualmente, o valor máximo dessa multa está fixado pela Portaria/TCU  nº 216,  de 01.07.94.] 
+
+
+
+
+Expirado o prazo da notificação e não havendo manifestação do responsável, o Tribunal poderá (art. 28, da Lei nº 8.443/92):
+
+
+
+a) determinar o desconto integral ou parcelado da dívida nos vencimentos, salários ou proventos do responsável, observado os limites previstos na legislação vigente; ou
+
+
+b) autorizar a cobrança judicial da dívida por intermédio do Ministério Público junto ao Tribunal, na forma prevista no inciso III, do art. 81, da Lei nº 8.443/92.
+
+
+
+Sem prejuízo das penalidades administrativas aplicáveis pelas autoridades competentes, se o TCU, por maioria absoluta de seus membros, considerar grave a infração cometida, poderá declarar o responsável inabilitado, por um período que variará de cinco a oito anos, para o exercício de cargo em comissão ou função de confiança no âmbito da Administração Pública Federal (art. 60 da Lei nº 8.443/92).
+
+
+
+Os responsáveis que tiverem suas contas julgadas irregulares terão seus nomes encaminhados ao Ministério Público Eleitoral, após esgotados os prazos de interposição de recurso, para fins de declaração de inelegibilidade, conforme disposto na Lei Complementar nº 64/90, art. 1º, inciso I, alínea "g".
+
+
+
+Não é o TCU quem declara o responsável inelegível. Ao TCU compete tão somente, e de ofício, encaminhar a relação de responsáveis que tiveram suas contas julgadas irregulares, em época oportuna, ao Ministério Público Eleitoral. s responsáveis que tiverem
+
+
+
+No caso de contas julgadas irregulares em razão de "dano ao Erário, decorrente de ato ilegítimo ou antieconômico" ou de desfalque ou desvio de dinheiros, bens ou valores públicos" (art. 16, inciso III, da Lei nº 8.443/92), o Tribunal, em função do caso:
+
+
+
+
+
+a) providenciará a imediata remessa de cópia da documentação pertinente ao Ministério Público da União, para ajuizamento das ações civis e penais cabíveis (art. 16, § 3º, da Lei nº 8.443/92);
+
+
+b) verificada a ocorrência de fraude comprovada à licitação, o Tribunal declarará  a inidoneidade do licitante fraudador para participar, por até cinco anos, de licitação na Administração Pública Federal (art. 46 da Lei nº 8.443/92); ou
+
+
+c) por maioria absoluta de seus membros, considerando grave a infração cometida, inabilitará os responsáveis, por um período que variará de cinco a oito anos, para o exercício de cargo em comissão ou função de confiança no âmbito da Administração Pública (art. 60 da Lei nº 8.443/92).  
+
+
+
+2. Exame dos processos de tomada de contas especial
+
+
+
+ 
+
+
+
+
+Os passos a serem seguidos para exame e instrução da TCE variam em função do estágio em que o processo se encontre no Tribunal.
+
+
+
+Assim, optou-se por compartimentar em fases os diversos passos percorridos pela TCE, desde a sua entrada no TCU até o seu encerramento, com o objetivo de facilitar o seu exame. Para tanto, no presente Manual, foram consideradas as seguintes fases:
+
+
+
+  1 - Exame Preliminar (quando da entrada do Processo);
+
+
+  2 - Instrução Inicial;
+
+
+as  3 - Instrução após Citação dos Responsáveis;
+
+
+  4 - Instrução após Cientificação de Novo Prazo para Recolhimento;
+
+
+  5 - Instrução após Diligência;
+
+
+  6 - Instrução após Inspeção;
+
+
+  7 - Instrução após Audiência;
+
+
+  8 - Instrução após Julgamento pela Irregularidade e Notificação; e
+
+
+  9 - Coleta de Dados Gerenciais.
+
+
+
+Preliminarmente, vale destacar que, se devidamente instruída pela respectiva CISET, a TCE deve chegar ao TCU com os fatos precisamente apurados, com o(s) responsável(is) claramente identificado(s) e com o(s) débito(s) adequadamente quantificado(s), isto é, em perfeitas condições para que se proceda à imediata citação do(s) responsável(is). Portanto, salvo em casos excepcionais, em que existam problemas quanto aos itens mencionados, a Unidade Técnica deverá providenciar a imediata citação do(s) responsável(is), para que, após a apresentação de suas alegações de defesa, se possa fazer uma análise mais aprofundada quanto ao mérito do processo.
+
+
+
+Este capítulo do Manual apresenta os procedimentos de exame e análise necessários para a instrução de cada fase da TCE. Para o preenchimento dos formulários correspondentes, são primeiramente apresentadas orientações gerais e, a cada item, sempre que necessário, indicados os procedimentos específicos referentes àquele momento.
+
+
+
+A agilidade no exame e instrução da TCE é aspecto fundamental para a sua eficácia, tendo em vista que o longo decurso de prazo, além de viabilizar a ampliação do dano decorrente do prejuízo sofrido, pode vir a dificultar ou, até mesmo, a impossibilitar o seu ressarcimento.
+
+
+
+
+2.1. Exame preliminar
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+ê	Utilizar o formulário Exame Preliminar.
+
+
+
+ê 	Verificar se constam do processo todas as peças indicadas no art. 4º da IN/TCU nº 13/96, a seguir relacionados, averiguando também se as peças processuais preenchem os devidos requisitos:
+
+
+
+•	ficha de qualificação do responsável, indicando:
+
+
+-	nome;
+
+
+-	CPF;
+
+
+-	endereço residencial, profissional e número de telefone;
+
+
+-	cargo, função e matrícula, se servidor público;
+
+
+
+•	termo formalizador da avença, quando for o caso (convênios, acordos, ajustes, auxílios, contribuições ou subvenções);
+
+
+
+•	Demonstrativo financeiro do débito, indicando:
+
+
+-	valor original;
+
+
+-	origem e data da ocorrência;
+
+
+-	parcelas recolhidas e respectivas datas de recolhimento, se for o caso;
+
+
+
+•	Relatório do Tomador das Contas, indicando, de forma circunstanciada, as providências adotadas pela autoridade competente, inclusive quanto aos expedientes de cobrança do débito remetidos ao responsável;
+
+
+
+•	Certificado de Auditoria emitido pelo órgão de Controle Interno competente, acompanhado do respectivo Relatório, que trará manifestação expressa acerca dos seguintes quesitos:
+
+
+-	adequada apuração dos fatos, indicando inclusive as normas ou regulamentos eventualmente infringidos;
+
+
+-	correta identificação do responsável;
+
+
+-	precisa quantificação do dano e das parcelas eventualmente recolhidas;
+
+
+
+•	pronunciamento indelegável do Ministro de Estado supervisor da área ou da Autoridade de nível hierárquico equivalente, na forma do art. 52 da Lei nº 8.443/92;
+
+
+
+•	cópia do relatório da Comissão de Sindicância ou de inquérito, se for o caso;
+
+
+
+•	cópia das notificações de cobrança expedidas ao responsável;
+
+
+
+•	outras peças que permitam ajuizamento acerca da responsabilidade ou não pelo prejuízo.
+
+
+
+ê	Caso se verifique a ausência de qualquer das peças aqui indicadas, deverá ser proposta a restituição do processo à origem para complementação, com fulcro no parágrafo único do art. 4º da IN 13/96. Contudo, caberá à Unidade Técnica avaliar a conveniência da restituição da TCE quando estiverem ausentes apenas itens das peças que possam ser facilmente obtidos em outras fontes ou por intermédio de Diligência, ou que não interfiram na análise das contas.
+
+
+
+· Caso o processo se encontre adequadamente constituído, deverá ser proposto, salvo em caso excepcional, o seu imediato encaminhamento para instrução, com vistas à citação do(s) responsável(is).
+
+
+
+
+
+
+2.2. Instrução de processos – orientações gerais
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+ê	Para a instrução dos processos de TCE deverá ser utilizado o modelo de formulário próprio, levando-se em consideração a proposta e o estágio em que se encontra a análise, de acordo com o quadro a seguir. O fluxograma simplificado do exame e instrução das TCEs, constante deste Manual, poderá ser utilizado como instrumento facilitador nesta fase.
+
+
+
+PROPOSTA 
+
+ANÁLISE
+
+FORMULÁRIO
+
+SITUAÇÃO
+
+1. Citação
+
+Instrução inicial
+
+1
+
+-
+
+após a diligência
+
+7
+
+3
+
+após inspeção
+
+8
+
+1
+
+2. Cientificação
+
+Após citação, com revelia
+
+2
+
+-
+
+Após citação, com defesa rejeitada
+
+3
+
+-
+
+3. Julgamento regular com ressalvas ou ausência de pressupostos de constituição
+
+Instrução inicial
+
+6
+
+3
+
+após diligência
+
+7
+
+4
+
+após inspeção
+
+8
+
+2
+
+após citação
+
+4
+
+2 ou 3
+
+após audiência
+
+9
+
+3
+
+4. Julgamento Irregular
+
+após citação, com revelia
+
+2
+
+-
+
+após citação, com recolhimento
+
+4
+
+1
+
+após audiência
+
+9
+
+1 ou 3
+
+após cientificação
+
+5
+
+1 ou 3
+
+5. Audiência
+
+instrução inicial
+
+6
+
+2
+
+após diligência
+
+7
+
+1 ou 2
+
+após inspeção
+
+8
+
+1
+
+6. Diligência/Inspeção
+
+instrução inicial
+
+6
+
+2
+
+após diligência
+
+7
+
+2
+
+7. Parcelamento do Débito
+
+após cientificação
+
+5
+
+2
+
+após julgamento pela irregularidade
+
+10
+
+-
+
+8. Aplicação de Multa
+
+não atendimento de diligência
+
+7
+
+1
+
+após audiência
+
+9
+
+1 ou 2
+
+após cientificação
+
+5
+
+1 ou 3
+
+9. Sobrestamento
+
+Instrução inicial
+
+6
+
+2
+
+após diligência
+
+7
+
+2
+
+10. Iliquidáveis
+
+Instrução inicial
+
+6
+
+4
+
+11. Encaminhamento à SECON
+
+após julgamento pela irregularidade e notificação do responsável
+
+10
+
+-
+
+Encaminhamento à SEPLOM (Dados Gerenciais)
+
+após julgamento das Contas pelo Tribunal
+
+11
+
+-
+
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+ê	Ressaltem-se os seguintes pontos, quando do preenchimento dos formulários:
+
+
+
+•	as expressões entre parênteses indicam a possibilidade de inclusão de outro(s) texto(s) em função da(s) situação(ões) encontrada(s), que, caso não utilizadas, deverão ser deletadas;
+
+
+
+•	os formulários foram elaborados prevendo-se as diversas situações encontradas em cada fase da instrução. Por isso, as situações, e respectivas opções, que não se amoldarem ao caso em análise, deverão ser deletadas; e
+
+
+
+•	as expressões que indicam orientação de preenchimento (por exemplo, "situação 1"), também devem ser deletadas quando da instrução.
+
+
+
+ê	Os sinais que precedem as sugestões de texto constantes dos formulários, quando dentro de um mesmo campo/situação, indicam, a princípio:
+
+
+
+•	parênteses - deverá ser selecionada uma das opções apresentadas;
+
+
+
+•	"•" - deverão ser utilizadas todas as opções apresentadas, na seqüência indicada; e
+
+
+
+•	letras - deverão ser utilizadas todas as opções, na ordem apresentada, a não ser quando haja dois ou mais textos antecedidos pela mesma letra, caso em que apenas um desses deverá ser usado.
+
+
+
+ê	A critério da Unidade Técnica ou do Analista, poderão ser adaptados dois ou mais modelos de formulários no caso de situações mistas, em especial após citação ou audiência de vários responsáveis, tais como:
+
+
+
+•	revelia de alguns e atendimento de outros;
+
+
+
+•	parte das alegações de defesa ou razões de justificativa rejeitada e outras acolhidas; ou
+
+
+
+•	tempestividade no atendimento por parte de alguns e intempestividade de outros.
+
+
+
+ê	Os débitos serão atualizados monetariamente e acrescidos de encargos legais, nos termos da legislação vigente, observados os princípios apontados no art. 8º da IN/TCU nº 13/96, devendo os cálculos correspondentes serem realizados por intermédio do Sistema Débito, "software" aplicativo para microcomputador que pode ser obtido junto à Secretaria de Informática do Tribunal ou, via Internet, na "Home-Page" do TCU.
+
+
+
+
+2.2.1. Medidas Preliminares
+
+
+
+
+Preliminarmente à proposição de mérito das contas, poderá ser realizado:
+
+
+
+ê	Para saneamento do processo:
+
+
+
+•	Diligência: solicitação por escrito de esclarecimentos, informações ou documentos;
+
+
+
+•	Inspeção: exame realizado in loco para suprir omissões e lacunas e esclarecer dúvidas quando a diligência não é adequada ou suficiente.
+
+
+
+ê	Audiência: expediente dirigido ao responsável para que apresente, dentro do prazo fixado, suas razões de justificativa, no caso da ocorrência de irregularidades sem débito (art. 12, inciso III, da Lei nº 8.443/92).
+
+
+
+ê	Citação: expediente dirigido ao responsável, no caso de ocorrência de irregularidade com débito quantificado, para que apresente, dentro do prazo fixado, suas alegações de defesa, ou comprove o
+
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+recolhimento do débito (art. 12, inciso II, da Lei nº 8.443/92).
+
+
+
+ê	Sobrestamento: suspensão da apreciação de mérito, quando existe fato relevante ou outro processo em andamento cujo desfecho possa afetar o mérito das contas em análise.
+
+
+
+ê	Homologação de parcelamento do débito, caso conste dos autos solicitação do(s) responsável(is), observado o limite de até 24 parcelas (art. 26 da Lei nº 8.443/92 c/c o art. 168 do RI/TCU), devendo o(s) responsável(is) ser alertado(s) de que o não-recolhimento de qualquer das prestações importa no vencimento antecipado do saldo devedor (art. 168, § 2º, do RI/TCU) e fixado o prazo de 15 dias, a partir da data prevista para o recolhimento de cada parcela, para que o(s) responsável(is) comprove(m), perante o Tribunal, a efetivação do pagamento (art. 165, inciso III, alínea "a" do RI/TCU).
+
+
+
+ê	Rejeição das alegações de defesa apresentadas e cientificação do(s) responsável(is) para que, em novo e improrrogável prazo de 15 dias, a contar da ciência, comprove(m) o recolhimento ao Erário (ou à entidade) da(s) importância(s) devida(s).
+
+
+
+
+Observações:
+
+
+
+
+•	A agilidade da análise e tramitação do processo, sem prejuízo da qualidade do trabalho de instrução, é importante para a eficácia da TCE, portanto:
+
+
+
+-	prescindem de audiência/diligência/inspeção as falhas de natureza formal ou eventuais lacunas no processo que não alterem o mérito das contas; e
+
+
+-	a proposta de citação, sempre que possível, deve ser formulada de pronto, imediatamente após o exame preliminar do processo.
+
+
+
+•	Deverá ser realizada a citação, audiência ou notificação por edital publicado no Diário Oficial da União quando o seu destinatário não for localizado (art. 22, inciso III, da Lei nº 8.443/92). Considera-se não localizado, conforme art. 1º, parágrafo único, da Resolução TCU nº 08/93, o destinatário que:
+
+
+
+-	estiver em lugar ignorado, incerto ou inacessível;
+
+
+-	o Correio informar, no Aviso de Recebimento - Mão Própria (AR-MP), a não localização, embora tenha procurado, por três vezes, no endereço indicado.
+
+
+
+•	A citação de pessoa jurídica deverá ser feita, preferencialmente, na pessoa de seu(s) responsável(is) ou representante(s), nos termos do respectivo contrato social e da legislação vigente, devendo constar do expediente citatório a menção expressa de que sua citação pessoal ocorre na condição de responsável(is) ou representante(s) pela(s) empresa(s) a que se atribui débito ("Por este expediente, fica o Sr. Fulano, na condição de responsável pela empresa XXX, citado ...."). Quanto a esse aspecto, no entanto, cabe destacar o Voto do Exmo. Sr. Ministro Adhemar Paladini Ghisi, proferido na Decisão nº 227/95–TCU–2ª Câmara (Ata nº 30/95): "...na citação de uma pessoa jurídica não é requisito essencial a explicitação do nome de seu representante legal, até por que isso requer o conhecimento prévio do Estatuto de cada uma das empresas que se pretenda citar. Antes mais prático e acertado é utilizar-se da expressão "fica citada a empresa..., na pessoa de seus representantes legais""
+
+
+
+•	O responsável que deixar de atender à citação, não apresentando alegações de defesa nem recolhendo o débito a ele atribuído, e o destinatário de ofício de audiência que não apresentar razões de justificativa serão considerados revéis, dando-se prosseguimento ao processo (art. 12, § 3º, da Lei nº 8.443/92).
+
+
+
+•	O responsável cujas alegações de defesa forem rejeitadas pelo Tribunal será cientificado para que, no prazo de 15 dias, recolha a importância devida (art. 12, § 1º, da Lei nº 8.443/92).
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+•	Na hipótese de TCE instaurada em decorrência de omissão no dever de prestar contas, encontrando-se o processo já no Tribunal, caso o responsável venha a encaminhar sua prestação de contas diretamente a esta Corte, deverá tal peça ser remetida ao órgão ou entidade repassador(a) do recurso, no sentido de obter-se o seu pronunciamento a respeito.
+
+
+
+•	O recolhimento integral do débito ou de multa, a não ser que reconhecida a boa-fé do responsável, não importa necessariamente em modificação do julgamento pela irregularidade das contas (art. 169, parágrafo único, do Regimento Interno).
+
+
+
+
+2.2.2. Propostas de Mérito
+
+
+
+
+ê	No que se refere ao mérito, o encaminhamento da TCE poderá envolver proposta no sentido de que as contas nela contidas sejam:
+
+
+
+•	julgadas irregulares e em débito o(s) responsável(is) (artigos 1º, inciso I, 16, inciso III, alínea "c" ou "d", e 19, caput, da Lei nº 8.443/92), condenando-o(s) ao pagamento da(s) importância(s) especificada(s), atualizada(s) monetariamente e acrescida(s) dos juros de mora, calculado(s) a partir da(s) data(s) discriminada(s) até a efetiva quitação do débito, fixando-lhe(s) o prazo de 15 dias para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional (ou da entidade) (art. 23, inciso III, alínea "a" da Lei Orgânica c/c o art. 165, inciso III, alínea "a" do RI/TCU), quando:
+
+
+
+-	regularmente citado(s), e transcorrido o prazo regimental fixado, o(s) responsável(is) não apresentar(em) suas alegações de defesa quanto às irregularidades verificadas nem efetuar(em) o recolhimento do(s) débito(s), hipótese em que deverá(ão) ser considerado(s) revel(is), dando-se prosseguimento ao processo (art. 12, § 3º, da Lei nº 8.443/92);
+
+
+-	transcorrido o prazo fixado para o recolhimento do débito, após a cientificação do(s) responsável(is) da rejeição de suas alegações de defesa, e não havendo este(s) apresentado o(s) comprovante(s) de recolhimento da(s) importância(s) devida(s); 
+
+
+
+•	julgadas irregulares com quitação ao(s) responsável(is) quando, não obstante o(s) recolhimento(s) integral(is) do(s) débito(s), subsistam as irregularidadas apontadas nos autos ou se caracterize a má-fé do(s) envolvido(s) (artigos 1º, inciso I, 16, inciso III, alínea "c" ou "d", e 27 da Lei nº 8.443/92);
+
+
+
+•	julgadas irregulares (artigos 1º, inciso I, 16, inciso III, alínea "b" ou "c" e 19, parágrafo único, da Lei nº 8.443/92), com aplicação de multa de até 100% do valor máximo estabelecido pelo art. 58 da Lei Orgânica ao(s) responsável(is), segundo a gradação estabelecida pelo Regimento Interno (art. 220 do RI/TCU), sendo a este(s) fixado o prazo de 15 dias, a contar da notificação, para comprovar(em), perante o TCU, o recolhimento da referida quantia ao Erário, quando da rejeição das razões de justificativa apresentadas (artigos 58, inciso I, e 23, inciso III, alínea "a" da Lei nº 8.443/92 c/c o art. 165, inciso III, alínea "a" do RI/TCU);
+
+
+
+•	julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção de medidas corretivas e preventivas, quando:
+
+
+
+· se considerar que as alegações de defesa ou as razões de justificativa apresentadas foram suficientes para elidir as irregularidades e que as  contas  evidenciam  apenas  impropriedade(s) de natureza formal, de que não resultou(aram) dano(s)  ao  Erário  (artigos 1º,  inciso I, 16,  inciso II, 18, e 23, inciso II, da Lei nº 8.443/92);
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+-	recolhido tempestivamente o débito, com a devida atualização monetária, reconhecida a boa-fé do(s) responsável(is) (art. 153, §§ 4º e 5º do RI/TCU);
+
+
+
+
+· Os casos de julgamento pela irregularidade (com débito) poderão ser acompanhados, se o período ou data da ocorrência do débito for posterior à edição da Lei Orgânica ora em vigor, de proposta de se aplicar ao(s) responsável(is) multa:
+
+
+
+•	no valor de até 100% do valor atualizado do dano causado ao Erário (art. 57 da Lei nº 8.443/92), caso o recolhimento do débito ainda não se tenha verificado; ou
+
+
+
+
+
+•	de até 100% do valor máximo estabelecido pelo art. 58 da Lei, segundo a gradação estabelecida pelo Regimento Interno (art. 220 do RI/TCU), caso o débito já haja sido recolhido, quando do julgamento (art. 58, inciso II ou III, da Lei nº 8.443/92).
+
+
+
+ê	Por outro lado, tanto os casos de julgamento pela irregularidade e em débito, quanto aqueles pela irregularidade com quitação em que se propuser a aplicação de multa, deverão ser também acompanhados de proposta no sentido de:
+
+
+
+•	ser autorizada, desde logo, a cobrança judicial da dívida, se não atendida a notificação, caso o valor do débito seja igual ou superior ao limite fixado pelo Tribunal para esse fim (art. 28, inciso II, da Lei nº 8.443/92); ou
+
+
+
+•	ser autorizado, desde logo, o arquivamento dos autos, por economia processual, sem cancelamento do(s) débito(s), a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe possa ser dada quitação, caso o valor do(s) débito(s) individual(is) seja(m) inferior(es) ao limite fixado pelo Tribunal para cobrança judicial da dívida (art. 93 da Lei nº 8.443/92 c/c o art. 248 do RI/TCU).
+
+
+
+· Os casos de julgamento pela irregularidade em função de dano ao Erário decorrente de ato de gestão ilegítimo ou antieconômico, ou de desfalque ou desvio de dinheiros, bens ou valores públicos, deverão também ser acompanhados de proposta no sentido de ser remetida cópia dos correspondentes autos ao Ministério Público da União, para ajuizamento das ações civis e penais cabíveis (art. 16, § 3º, da Lei nº 8.443/92).
+
+
+
+· Ainda nos casos de julgamento pela irregularidade, se a(s) infração(ões) cometida(s) for(em) considerada(s) grave(s), poderá ser formulada proposta no sentido de que o(s) responsável(is) seja(m) declarado(s) inabilitado(s) para exercer cargo em comissão ou função de confiança na Administração Pública Federal (art. 60 da Lei nº 8.443/92).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+2.2.3. Propostas de Arquivamento
+
+
+
+
+ê	Caso se verifique a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, deverá ser proposto o arquivamento dos autos, sem julgamento de mérito (art. 163 do RI/TCU).
+
+
+
+· Ante a existência de caso fortuito ou de força maior, comprovadamente alheio à vontade do responsável, e que tornou materialmente impossível o julgamento de mérito, deverá ser proposto que as contas sejam consideradas iliquidáveis, bem como o trancamento das contas e o conseqüente arquivamento do processo (artigos 161 e 162 do Regimento Interno).
+
+
+
+· O Tribunal poderá, ainda, a título de racionalização administrativa e de economia processual, determinar o arquivamento do processo, com ou sem julgamento do mérito e sem cancelamento do débito, a cujo pagamento continuará obrigado o devedor, para que lhe possa ser dada quitação (art. 93 da Lei nº 8.443/92; ver, também, Decisão Administrativa nº 845/96 – Plenário  - BTCU 70/96).
+
+
+
+
+2.3. Instrução inicial
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Em atenção ao disposto no parágrafo único do art. 1º c/c os §§ 1º e 2º do art. 2º da IN/TCU nº 13/96, averiguar se os elementos constantes do processo atestam que a TCE somente foi instaurada após esgotadas as medidas cabíveis no âmbito administrativo interno do órgão ou entidade.
+
+
+
+ê	Verificar se o(s) responsável(is) é(são) conhecido(s) e se sua(s) culpa(s) está(ão) devidamente caracterizada(s).
+
+
+
+ê	Identificar se o débito está devidamente quantificado.
+
+
+
+ê	Analisar os fatos relativos à TCE confrontando com o relatório da comissão de sindicância ou apuração sumária, parecer(es) do setor jurídico do órgão ou entidade, parecer(es)/relatório do controle interno, defesa(s) porventura apresentada(s) junto ao órgão ou entidade, acordo(s) de parcelamento da dívida, quando for o caso, e outros elementos constantes da TCE, que auxiliem na elucidação dos fatos.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Conforme já registrado anteriormente, se devidamente instruída pela respectiva CISET, a TCE deve chegar ao TCU em perfeitas condições para que se proceda à imediata citação do(s) responsável(is). Portanto, salvo em casos excepcionais, em que existam problemas quanto à apuração dos fatos, identificação do(s) responsável(is) ou quantificação do(s) débito(s), a Unidade Técnica deverá providenciar a instrução com vistas à imediata citação do(s) responsável(is), para que, após a apresentação de suas alegações de defesa, se possa fazer uma análise mais aprofundada quanto ao mérito do processo.
+
+
+
+ê	Para a citação imediata do(s) responsável(is), utilizar o Formulário nº 1 (os formulários constam do item 4 do presente manual); somente nos casos em que se considerar impossível a citação de imediato,  é que se deverá optar pelo Formulário nº 7.
+
+
+
+ê	Inicialmente, preencher o quadro de Qualificação do(s) Responsável(eis) e Quantificação do(s) Débito(s), indicando:
+
+
+
+•	nome completo;
+
+
+•	CPF;
+
+
+•	endereço residencial, profissional e número de telefone;
+
+
+•	cargo, função e matrícula, se servidor público;
+
+
+•	o(s) valor(es) original(is) do(s) débito(s);
+
+
+•	o(s) período(s) ou data(s) do(s) evento(s);
+
+
+•	o valor atualizado do débito como um todo, indicando-se a data para a qual se fez a atualização (normalmente a da instrução); e
+
+
+•	o limite para envio imediato da TCE ao Tribunal, à época da autuação do processo.
+
+
+ê	Fazer,  em  seguida,  uma  breve  síntese  dos  fatos  ensejadores da TCE em análise, em especial quanto à culpabilidade do(s) responsável(eis)  e  à precisa quantificação do(s) débito(s), bem como no que se refere às medidas e/ou providências adotadas  pelo  órgão  ou  entidade com vistas à apuração dos fatos,  identificação dos  responsáveis,  quantificação do  dano e  ao imediato ressarcimento ao Erário, tendo em vista o disposto no § 1º do art. 2º da IN 13/96, de que tais providências deverão ser tomadas no prazo máximo de 180 (cento e oitenta) dias, sob pena de a autoridade administrativa competente  sujeitar -se  à imputação  das  dsanções cabíveis, sem prejuízo da responsabilização solidária.
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+ê	O analista deverá informar as conclusões a que chegou após o exame dos fatos ensejadores da TCE, colocando o seu ponto de vista técnico, caso entenda necessário.
+
+
+
+ê	A proposta de encaminhamento do exame inicial deve ser fundamentada e pode envolver propostas de:
+
+
+
+•	caso se esteja utilizando o Formulário nº 1, citação do(s) responsável(is);
+
+
+
+•	nos casos em que se opte pelo Formulário nº 7:
+
+
+
+-	enquanto medidas preliminares: diligência, inspeção, audiência ou o sobrestamento do julgamento do mérito das contas;
+
+
+-	enquanto proposta de mérito: que as contas sejam julgadas com ressalva, dando-se quitação aos responsáveis;
+
+
+-	em algumas situações,  o arquivamento dos autos, tanto em função da ausência de pressupostos de constituição e de desenvolvimento válido do processo quanto em decorrência do trancamento das contas, quando consideradas iliquidáveis, bem como a título de racionalização administrativa e de economia processual.
+
+
+
+
+2.4. Instrução após citação dos responsáveis
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Observar se as alegações de defesa foram apresentadas tempestivamente ou se houve, também tempestivamente, o recolhimento do débito.
+
+
+
+ê	Analisar se as alegações de defesa apresentadas pelo(s) responsável(eis) elidem ou não as irregularidades levantadas nos autos.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Utilizar, conforme o caso, o Formulário nº 2, 3 ou 4, constantes do item 4 do presente Manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência ao(s) expediente(s) de citação e ao sucesso ou não de seu cumprimento, inclusive quanto ao fato de haver, eventualmente, sido necessária a publicação de edital.
+
+
+
+ê	Informar quando não houver apresentação de defesa, se for o caso, não obstante a ciência do responsável acerca do expediente de citação.
+
+
+
+ê	Analisar os argumentos apresentados pelo(s) responsável(is), colocando o ponto de vista técnico do analista acerca da defesa apresentada, esclarecendo se as alegações do(s) defendente(s) elidem ou não as irregularidades levantadas nos autos, quanto aos aspectos verificados, sempre fundamentando as conclusões, tanto em elementos dos autos quanto nos instrumentos legais ou regulamentares pertinentes, mencionando, quanto aos primeiros (elementos dos autos), as folhas em que podem ser localizados no processo.
+
+
+
+ê	A conclusão deve ser fundamentada e pode envolver proposta de:
+
+
+
+•	caso o(s) responsável(is) não apresente(m) alegações de defesa nem efetue(m) o recolhimento do(s) débito(s) (Revelia - Formulário nº 2): que o(s) responsável(is) seja(m) considerado(s) revel(is) e que:
+
+
+
+-	as contas sejam julgadas irregulares e em débito o responsável;
+
+
+-	seja aplicada ao(s) responsável(is) a multa de até 100% do valor do débito;
+
+
+-	seja autorizada, desde logo, a cobrança judicial da(s) dívida(s), se não atendida a notificação, ou, caso o valor do débito seja inferior ao limite fixado pelo Tribunal para que se proceda à cobrança executiva, seja autorizado, de pronto, o arquivamento dos autos, sem cancelamento do débito;
+
+
+· seja determinada ao responsável pelo órgão ou entidade a adoção de medidas corretivas e preventivas (se for o caso);
+
+
+· o responsável seja declarado inabilitado para exercer cargo em comissão ou função de confiança no âmbito da Administração Pública Federal, se a infração cometida for entendida como grave; e
+
+
+-	seja encaminhada cópia dos autos ao Ministério Público da União para ajuizamento das ações civis e penais cabíveis (se for o caso);
+
+
+
+•	caso as alegações de defesa apresentadas não sejam acolhidas (Defesa Rejeitada - Formulário nº 3): que sejam rejeitadas as alegações de defesa apresentadas e cientificado o(s) responsável(is) para que, em novo e improrrogável prazo de 15 dias, efetue o recolhimento da importância devida, comprovando-o perante o Tribunal;
+
+
+
+•	caso o(s) débito(s) venha(m) a ser recolhido(s), subsistindo ou não irregularidades, ou as alegações de defesa sejam acolhidas (Formulário nº 4):
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+caso o débito tenha sido recolhido mas subsistam irregularidades, proposta de que:
+
+
+
+-	as contas sejam julgadas irregulares, dando-se quitação ao(s) responsável(is);
+
+
+-	seja determinado ao(s) responsável(is) pelo órgão ou entidade a adoção de medidas corretivas e preventivas (se for o caso); e
+
+
+-	seja aplicada ao(s) responsável(is) a multa do art. 58, inciso I, da Lei nº 8.443/92 (se for o caso);
+
+
+-	seja autorizada, desde logo, a cobrança judicial da(s) dívida(s), caso não atendida a notificação, ou, caso o valor do débito seja inferior ao limite fixado pelo Tribunal para que se proceda à cobrança executiva, seja autorizado, de pronto, o arquivamento dos autos, sem cancelamento do débito;
+
+
+· o responsável seja declarado inabilitado para exercer cargo em comissão ou função de confiança no âmbito da Administração Pública Federal, se a infração cometida for entendida como grave; e
+
+
+-	seja encaminhada cópia dos autos ao Ministério Público da União para ajuizamento das ações civis e penais cabíveis (se for o caso);
+
+
+
+em caso de liquidação tempestiva do débito, reconhecida a boa-fé, sem outra irregularidade, proposta de que as contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção de medidas corretivas e preventivas;
+
+
+
+na hipótese de acolhimento das alegações de defesa, proposta de que as contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is).
+
+
+
+
+2.5. Instrução após cientificação do responsável
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Verificar se o responsável foi regularmente cientificado e se, após transcorrido o prazo regimental fixado, ele efetuou, integralmente ou não, o recolhimento do débito, ou, ainda, se foi solicitado o parcelamento deste.
+
+
+
+ê	Caso solicitado o parcelamento do débito, verificar se este se encontra dentro dos limites previstos pelo Regimento Interno (em até 24 parcelas).
+
+
+
+ê	Se recolhido o débito, verificar se subsistem as irregularidades ou se ficou caracterizada a boa-fé.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Utilizar o Formulário nº 5, constante do item 4 do presente Manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência à Decisão e ao(s) expediente(s) de cientificação, bem como ao sucesso ou não do cumprimento deste, inclusive quanto ao fato de haver, eventualmente, sido necessária a publicação de edital.
+
+
+
+ê	Informar se o(s) responsável(is) efetuou(aram) ou não o recolhimento integral do(s) débito(s) ou se foi solicitado o seu parcelamento.
+
+
+
+ê	Caso o recolhimento tenha sido efetuado, registrar se subsistem ou não as irregularidades apontadas nos autos.
+
+
+
+ê	A conclusão deve ser fundamentada e pode envolver proposta de:
+
+
+
+•	caso o(s) responsável(is) efetue(m) o recolhimento integral do(s) débito(s) mas subsistam irregularidades, que:
+
+
+
+-	as contas sejam julgadas irregulares, dando-se quitação ao(s) responsável(is);
+
+
+-	seja aplicada ao(s) responsável(is) a multa do art. 58, inciso I, da Lei nº 8.443/92 (se for o caso);
+
+
+-	seja autorizada, desde logo, a cobrança judicial da(s) dívida(s), caso não atendida a notificação, ou, caso o valor do débito seja inferior ao limite fixado pelo Tribunal para que se proceda à cobrança executiva, seja autorizado, de pronto, o arquivamento dos autos, sem cancelamento do débito;
+
+
+-	seja determinado ao(s) responsável(is) pelo órgão ou entidade a adoção de medidas corretivas e preventivas (se for o caso);
+
+
+· o responsável seja declarado inabilitado para exercer cargo em comissão ou função de confiança no âmbito da Administração Pública Federal, se a infração cometida for entendida como grave; e
+
+
+-	seja encaminhada cópia dos autos ao Ministério Público da União para ajuizamento das ações civis e penais cabíveis (se for o caso);
+
+
+
+•	caso haja sido apresentada solicitação de recolhimento parcelado enquadrada nos limites previstos no RI/TCU, que seja autorizado o parcelamento, na forma regimental;
+
+
+
+•	transcorrido o prazo regimental fixado e não havendo sido comprovado o recolhimento do débito, proposta de que:
+
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+-	as contas sejam julgadas irregulares e em débito o responsável;
+
+
+-	seja aplicada ao(s) responsável(is) a multa de até 100% do valor do débito;
+
+
+-	seja autorizada, desde logo, a cobrança judicial da(s) dívida(s), caso não atendida a notificação, ou, caso o valor do débito seja inferior ao limite fixado pelo Tribunal para que se proceda à cobrança executiva, seja autorizado, de pronto, o arquivamento dos autos, sem cancelamento do débito;
+
+
+-	seja determinada ao responsável pelo órgão ou entidade a adoção de medidas corretivas e preventivas (se for o caso);
+
+
+· o responsável seja declarado inabilitado para exercer cargo em comissão ou função de confiança no âmbito da Administração Pública Federal, se a infração cometida for entendida como grave; e
+
+
+-	seja encaminhada cópia dos autos ao Ministério Público da União para ajuizamento das ações civis e penais cabíveis (se for o caso).
+
+
+
+
+2.6. Instrução após diligência
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Verificar se os esclarecimentos foram prestados tempestivamente.
+
+
+
+ê	Verificar se os elementos e esclarecimentos encaminhados atendem àquilo que foi solicitado no expediente de diligência e se permitem o saneamento do processo.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Utilizar o Formulário nº 8, constante do item 4.8.2 do presente Manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência ao expediente de diligência, relatando os itens diligenciados, mencionando as falhas ou lacunas relativas aos documentos citados.
+
+
+
+ê	Esclarecer o teor da resposta, colocando o ponto de vista técnico do analista quanto aos aspectos questionados, fundamentando-o sempre, tanto em elementos dos autos quanto em instrumentos legais ou regulamentares pertinentes.
+
+
+
+ê	A conclusão deve ser fundamentada e pode envolver proposta de:
+
+
+
+•	caso se identifique a necessidade de informações complementares: nova diligência, inspeção ou o sobrestamento do julgamento do mérito das contas;
+
+
+
+•	na hipótese de se confirmarem as irregularidades: citação ou audiência do(s) responsável(is); ou
+
+
+
+•	caso ocorra a descaracterização das irregularidades: que as contas sejam julgadas com ressalva, dando-se quitação ao(s) responsável(is).
+
+
+
+
+2.7. Instrução após inspeção
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Verificar se os elementos e esclarecimentos permitem o saneamento do processo.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Utilizar o Formulário nº 9, constante do item 4 do presente manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência ao Despacho e à Portaria que autorizaram a Inspeção, relatando os itens a serem verificados.
+
+
+
+ê	Colocar o ponto de vista técnico do analista quanto aos aspectos verificados, fundamentando-o sempre, tanto em elementos dos autos quanto em instrumentos legais ou regulamentares pertinentes.
+
+
+
+ê	A conclusão deve ser fundamentada e pode envolver proposta de:
+
+
+
+•	caso se confirmem as irregularidades: citação ou audiência do(s) responsável(is);
+
+
+
+•	na hipótese de descaracterização das irregularidades: que as contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is).
+
+
+
+2.8. Instrução após audiência dos responsáveis
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Observar se as razões de justificativa foram apresentadas tempestivamente.
+
+
+
+ê	Analisar se as razões de justificativa apresentadas pelo(s) responsável(eis) elidem ou não as irregularidades levantadas nos autos.
+
+
+
+b) Instrução do Processo
+
+
+
+ê	Utilizar o Formulário nº 10, constante do item 4 do presente manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência ao(s) expediente(s) de audiência e ao sucesso ou não de seu cumprimento, inclusive quanto ao fato de haver, eventualmente, sido necessária a publicação de edital.
+
+
+
+ê	Informar quando não houver apresentação de razões de justificativa, se for o caso, não obstante a ciência do responsável acerca do expediente de audiência, situação em que se deverá propor que o mesmo seja considerado revel.
+
+
+
+ê	Esclarecer os argumentos oferecidos pelo(s) responsável(is) e, a partir do ponto de vista técnico do analista acerca das razões de justificativa, registrar se as suas alegações elidem (acolhimento) ou não (rejeição) as irregularidades levantadas nos autos, quanto aos aspectos verificados, sempre fundamentando as conclusões, tanto em elementos dos autos quanto nos instrumentos legais ou regulamentares pertinentes.
+
+
+
+ê	A conclusão deve ser fundamentada e pode envolver proposta de:
+
+
+
+•	caso o(s) responsável(is) não apresente(m) razões de justificativa ou estas sejam rejeitadas, que:
+
+
+
+-	as contas sejam julgadas irregulares, com aplicação da multa prevista no art. 58, inciso I, da Lei nº 8.443/92, no percentual que vier a ser fixado com base no art. 220 do RI/TCU;
+
+
+-	seja autorizada, desde logo, a cobrança judicial da(s) dívida, caso não atendida a notificação, ou, caso o valor do débito seja inferior ao limite fixado pelo Tribunal para que se proceda à cobrança executiva, seja autorizado, de pronto, o arquivamento dos autos, sem cancelamento do débito;
+
+
+-	seja determinada ao responsável pelo órgão ou entidade a adoção de medidas corretivas e preventivas (se for o caso);
+
+
+
+•	caso as razões de justificativa sejam acolhidas, que as contas sejam julgadas com ressalva, dando-se quitação ao(s) responsável(is).
+
+
+
+
+2.9. Instrução após julgamento pela irregularidade e notificação
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	Observar o prazo regulamentar para a interposição de recurso de reconsideração ou de pedido de reexame (quinze dias, de acordo com o art. 233 do Regimento Interno) ou para o recolhimento do débito (quinze dias, segundo o caput do art. 170 do Regimento Interno).
+
+
+
+ê	Verificar se o(s) responsável(is) tomou(aram) conhecimento do expediente de notificação.
+
+
+
+ê	Examinar os termos do Acórdão condenatório, no sentido de verificar a existência ou não de erro material.
+
+
+
+
+b) Instrução do Processo
+
+
+
+
+ê	Utilizar o Formulário nº 11, constante do item 4 do presente Manual.
+
+
+
+ê	Transcrever, da instrução inicial, promovendo as devidas atualizações, os dados de qualificação do(s) responsável(is) e quantificação do(s) débito(s).
+
+
+
+ê	Fazer referência ao Acórdão condenatório e ao expediente de notificação, indicando o sucesso ou não de seu cumprimento, inclusive quanto ao fato de haver sido necessária a publicação de edital.
+
+
+
+ê	Informar quanto à não interposição de recursos, não obstante a ciência da notificação por parte do responsável.
+
+
+
+ê	Informar quanto ao recolhimento ou não do débito corrigido na forma legal.
+
+
+
+ê	A conclusão, devidamente fundamentada, poderá envolver proposta:
+
+
+
+•	havendo erro material, preliminarmente, de retificação do Acórdão;
+
+
+
+•	não se verificando erro material, de encaminhamento dos autos à SECON, para o procedimento de competência daquela Unidade, esclarecendo que o processo trata de:
+
+
+
+-	imputação do débito e/ou aplicação de multa, para cobrança executiva (art. 2º da Resolução nº 41/95 c/c o art. 21, parágrafo único, da Resolução nº 77/96 e com o art. 1º, § 3º, da Portaria nº 62/96);
+
+
+-	imputação de débito e/ou aplicação de multa, tendo sido autorizado o arquivamento do processo, em função de o valor do dano ser inferior ao limite mínimo fixado para cobrança executiva (art. 1º, § 4º, da Portaria nº 62/96);
+
+
+-	parcelamento do débito após recolhimento da 1ª parcela (art. 3º da Portaria nº 62/96);
+
+
+-	solicitação do responsável de parcelamento do débito (art. 4º da Portaria nº 62/96);
+
+
+-	débito e/ou multa quitado(s) quando do julgamento das contas (art. 27 da Lei nº 8.443/92); ou
+
+
+-	proposta de quitação após recolhimento integral do débito e/ou da multa (art. 27 da Lei nº 8.443/92 c/c o art. 4º da Portaria nº 62/96).
+
+
+
+2.10. Coleta de dados gerenciais
+
+
+
+ 
+
+
+2. Exame dos Processos de Tomada de Contas Especial
+
+
+
+
+a) Exame do Processo
+
+
+
+
+ê	O momento de retorno do processo à unidade técnica, quando de seu encerramento, é o mais adequado para o preenchimento do Formulário nº 12, destinado à coleta de dados gerenciais a respeito de TCEs. O preenchimento e a remessa do formulário em questão permitirá o municiamento da SEPLOM de maiores informações acerca dos trabalhos desenvolvidos pelo TCU, constituindo elemento importante para o aperfeiçoamento contínuo das atividades deste Tribunal.
+
+
+
+· Quanto maior a adesão das Unidades Técnicas ao preenchimento do modelo de coleta de dados gerenciais melhores serão as chances de se propor alterações na forma de tratamento dos processos de TCE no âmbito deste Tribunal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+3.1. Diligência
+
+
+
+ 
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2. Inspeção
+
+
+
+ 
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3. Citação
+
+
+
+ 
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4. Audiência
+
+
+
+ 
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.5. Notificação
+
+
+
+ 
+
+
+3. Fluxograma simplificado de procedimentos de Tomada de Contas Especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Formulários para instrução
+
+
+
+ 
+
+
+
+
+4.1. Exame Preliminar
+
+ 
+
+ 
+
+ 
+
+4.2. Formulário nº 1:
+
+Instrução Inicial -  Citação Imediata
+
+ 
+
+ 
+
+4.3. Formulário nº 2:
+
+Instrução após Citação dos Responsáveis, com Revelia
+
+ 
+
+ 
+
+4.4. Formulário nº 3:
+
+Instrução após Citação dos Responsáveis, com Defesa Rejeitada
+
+ 
+
+ 
+
+4.5. Formulário nº 4:
+
+Instrução após Citação dos Responsáveis, com Recolhimento do Débito ou Acolhimento
+
+ 
+
+ 
+
+4.6. Formulário nº 5:
+
+Instrução após Cientificação de Novo Prazo para Recolhimento
+
+ 
+
+ 
+
+4.7.Formulário Complementares
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.1. Formulário nº 6:
+
+Instrução Inicial: Inaplicabilidade de Citação Imediata
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.2. Formulário nº 7:
+
+Instrução após Diligência
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.3. Formulário nº 8
+
+Instrução após Inspeção
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.4. Formulário nº 9:
+
+Instrução após audiência
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.5. Formulário nº 10:
+
+Instrução após Julgamento pela Irregularidade e Notificação
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.7.6. Formulário nº 11:
+
+Coleta de Dados Gerenciais 
+
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+EXAME  PRELIMINAR
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+ÓRGÃO INSTAURADOR
+
+ 
+
+ TC Nº
+
+RESPONSÁVEL(EIS)
+
+CPF
+
+
+
+ 
+
+ 
+
+
+
+1. PEÇAS EXIGIDAS (art. 14 - IN nº 12/96)
+
+
+
+a – Ficha de qualificação do esponsável.....................................................................
+
+ 
+
+b – Termo formalizador da avença (quando for o caso)..............................................
+
+ 
+
+c – Demonstrativo financeiro do débito......................................................................
+
+ 
+
+d – Relatório do Tomador de Contas..........................................................................
+
+ 
+
+e – Certificado de auditoria da CISET e respectivo Relatório .....................................
+
+ 
+
+f – Pronunciamento expresso do Ministro de Estado ou autoridade de nível hierárquico equivalente .............................................................................................................
+
+ 
+
+ 
+
+g – Cópia do Relatório da Comissão de Sindicância ou de Inquérito (quando for o caso).......................................................................................................................
+
+ 
+
+ 
+
+h – Cópia das notificações da cobrança expedidas ao responsável ..................................
+
+ 
+
+i – Outras peças que permitam ajuizamento acerca da responsabilidade ou não pelo prejuízo ...................................................................................................................
+
+ 
+
+ 
+
+
+2. SITUAÇÃO
+
+
+
+1 (    ) A Tomada de Contas Especial está devidamente constituída com as peças acima relacionadas, que estão em conformidade com o art. 4º da IN/TCU nº 13/96, encontrando-se em condição de ser instruída.
+
+2 (    ) Ausente(s) na Tomada de Contas a(s) peça(s) exigida(s) pela IN nº 13/96, enumeradas nas alíneas ______________ desta folha, propomos sua restituição à origem para fins de complementação, no prazo de 15 (quinze) dias, contados de seu recebimento pelo órgão/entidade responsável pela instauração, devendo-se, ainda, cancelar a autuação provisório do processo.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASSINATURA/CARIMBO DO RESPONSÁVEL PELO EXAME
+
+ 
+
+ 
+
+
+
+3. DESPACHO DO SECRETÁRIO
+
+
+
+(    ) Encaminhar o processo para instrução, tendo em vista a imediata citação do(s) responsável(is).
+
+(    ) Restitua-se à origem para fins de complementação, fixando-se o prazo de 15 dias para encaminhamento dos autos ao TCU, cancelando-se a autuação provisória do processo.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ 
+
+ ASSINATURA/CARIMBO
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+INSTRUÇÃO INICIAL – CITAÇÃO IMEDIATA
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+FLS. 1/1
+
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1.  QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente      ________________ UFIR
+
+
+
+2.  DESCRIÇÃO E ANÁLISE DOS FATOS
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3.  CONCLUSÃO:
+
+
+
+Diante do exposto, submetemos os autos à consideração superior, propondo a citação, nos termos dos arts. 10, § 1º, e 12, inciso II, da Lei nº 8.443/92 c/c o art. 153, inciso II, do Regimento Interno, do(s) responsável(is) (solidários) abaixo arrolado(s) e pelo(s) valor(es) do(s) débito(s) indicado(s), para, no prazo de quinze dias, contados a partir da ciência da citação, apresentar(em) alegações de defesa ou recolher(em) aos cofres do Tesouro Nacional (ou da entidade/fundo) a(s) quantia(s) devida(s), atualizada(s) monetariamente e acrescida(s) de juros de mora, nos termos da legislação vigente, em razão das ocorrências relatadas nos subitens ____ desta instrução:
+
+Responsável: ___________________________________________________________________________
+
+Ocorrências: ___________________________________________________________________________
+
+Valor Original do Débito: _________________________       Data da Ocorrência: ____/____/____
+
+Valor Atualizado em _____/_____/_____: R$ _______________________
+
+ 
+
+LOCAL/DATA
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à consideração do Exmº Ministro-Relator ___________________________________________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+INTRUÇÃO APÓS CITAÇÃO DOS RESPONSÁVEIS COM REVELIA
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+FLS. 1/2
+
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1.  QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a   _______________ UFIR
+
+
+
+2.  EXAME DA CITAÇÃO E CONCLUSÃO
+
+
+
+Em cumprimento ao Despacho do Relator, Exmº Sr. Ministro ____________________, às fls. _____, foi promovida a citação do(s) Sr(s) ___________________, por meio do(s) ofício(s) nºs ________, datado(s) de ____/____/____. , (respectivamente). ou por meio do Edital nº ___, publicado no D.O.U. de ____/____/____.)
+
+O(s) responsável(is) tomou(aram) ciência do aludido ofício conforme docs. às fls. _____ (não cabível em citação efetuada por Edital), e, transcorrido o prazo regimental fixado, não apresentou(aram) sua(s) alegações de defesa quanto às irregularidades verificadas nem efetuou(aram) o recolhimento do débito. Por isso, entendemos que deva(m) ser considerado(s) revel(is), dando-se prosseguimento ao processo, de acordo com o art.12, inciso IV, § 3º, da Lei nº 8.443/92.
+
+Diante do exposto, submetemos os autos à consideração superior, propondo que:
+
+a) as presentes contas sejam julgadas irregulares e em débito o(s) responsável(is) abaixo relacionado(s), nos termos dos arts. 1º, inciso I, e 16, inciso III, alínea "(a/d)", e 19, caput, da Lei nº 8.443/92, considerando as ocorrências relatadas no(s) subitem(ns) ____ da instrução de fls. ___, condenando-o(s) ao pagamento da(s) importância(s) especificada(s), atualizada(s) monetariamente e acrescida(s) dos juros de mora, calculada(s) a partir da(s) data(s) discriminada(s) até a efetiva quitação do débito, fixando-lhe(s) o prazo de 15 (quinze) dias, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional (ou da entidade), nos termos do art. 23, inciso III, alínea “a”, da citada Lei c/c o art. 165, inciso III, alínea “a”, do Regimento Interno/TCU:
+
+Responsável: ____________________________________________________________
+
+Valor Original: ________________________     Data da Ocorrência: _____/_____/_____
+
+b) seja aplicada ao(s) responsável(is), Sr(s). ____________________________________, (individualmente,) a multa prevista no art. 57 da Lei nº 8.443/92, fixando-lhe(s) o prazo de 15 (quinze) dias, a contar da notificação, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional, atualizada(s) monetariamente e acrescida(s) dos juros de mora a partir do dia seguinte ao do término do prazo estabelecido, até a data do efetivo recolhimento, na forma da legislação em vigor; (opcional)
+
+c) seja autorizada, desde logo, a cobrança judicial da(s) dívida(s) nos termos do art. 28, inciso II, da Lei nº 8.443/92, caso não atendida a notificação; e
+
+ 
+
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+INTRUÇÃO APÓS CITAÇÃO DOS RESPONSÁVEIS COM REVELIA
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+FLS. 2/2
+
+
+
+c) seja determinado, desde logo, nos termos do art. 93 da Lei nº 8.443/92 c/c o art. 248 do Regimento Interno/TCU, o arquivamento dos autos, por economia processual, sem cancelamento do aludido débito, a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe(s) possa ser dada quitação (Caso o valor do débito seja inferior a 1.500 UFIR); e
+
+d) seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+e) seja remetida cópia dos presentes autos ao Ministério Público da União para ajuizamento da ações civis e penais cabíveis, nos termos do art. 16, § 3º, da Lei nº 8.443/92. (se for o caso)
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator _________________________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+INTRUÇÃO APÓS CITAÇÃO DOS RESPONSÁVEIS COM DEFESA REJEITADA
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+FLS. 1/1
+
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1.  QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a      ____________ UFIR
+
+
+
+2.  EXAME DA CITAÇÃO
+
+
+
+Em cumprimento ao Despacho do Relator, Exmº Sr. Ministro __________________, às fls. ___, foi promovida citação do(s) Sr(s) ________________, por meio do(s) Ofício(s) nºs _____, datado(s) de ___/___/___ , (respectivamente). (ou por meio de Edital  nº_____, publicado no DOU de __/__/__)
+
+O(s) responsável(is) apresentou(aram) (in)tempestivamente suas alegações de defesa, de acordo com docs. às fls. ____ .
+
+Responsável: ___________________________________________________________________________
+
+Irregularidade: __________________________________________________________________________
+
+Valor Atualizado: R$ ___________________  -  correspondente a___________________________ UFIR
+
+Alegações de Defesa Apresentadas (breve relato): _____________________________________________
+
+Análise/fundamentação (rejeição): __________________________________________________________
+
+
+
+3.  CONCLUSÃO
+
+
+
+Diante do exposto, submetemos os autos à consideração superior,  propondo que sejam rejeitadas as alegações de defesa apresentadas, cientificando-se o(s) responsável(is) abaixo relacionado(s), nos termos do disposto no art. 12, § 1º, e 22, parágrafo único, da Lei nº 8.443/92 c/c o art. 153, § 2º, do Regimento Interno/TCU, para, em novo e improrrogável prazo de 15(quinze) dias a contar da ciência, comprovar(em), perante este Tribunal, o recolhimento aos cofres do Tesouro Nacional (ou da entidade) da(s) importância(s) devida(s), a seguir discriminada(s), atualizada(s) monetariamente e acrescida(s) dos juros de mora, calculados a partir da(s) data(s) especificada(s) até a data do efetivo recolhimento, na forma prevista na legislação em vigor (abatendo-se as importâncias já satisfeitas):
+
+Responsável: _______________________________________________________________________
+
+Valor Original do Débito: ______________________________     Data da Ocorrência: _____/___/___
+
+LOCAL/DATA
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator ______________________________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS CITAÇÃO DOS RESPONSÁVEIS COM RECOLHIMENTO DO DÉBITO OU ACOLHIMENTO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   ) RECOLHIMENTO DO DÉBITO     (   )  LIQUIDAÇÃO TEMPESTIVA    (   ) ACOLHIMENTO DAS ALEGAÇÕES DE DEFESA
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1.  QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a  ____________ UFIR
+
+
+
+2. EXAME DA CITAÇÃO E CONCLUSÃO 
+
+
+
+Em cumprimento ao Despacho do Relator, Exmº Sr. Ministro _________________________, às fls. _____, foi promovida a citação do(s)  Sr(s) ___________________,   por meio do(s) Ofício(s) nºs ________, datado(s) de _________, (respectivamente). (ou por meio de Edital  nº _____, publicado no DOU de ________)
+
+
+
+
+
+SITUAÇÃO 1 (RECOLHIMENTO DO DÉBITO, SUBSISTINDO IRREGULARIDADES)
+
+O(s) responsável(is)  apresentou(aram) (in)tempestivamente suas alegações de defesa, com recolhimento integral do débito, de acordo com docs. Às fls. ______ .
+
+Responsável: ____________________________________________________________________________
+
+Irregularidade: ___________________________________________________________________________
+
+Valor Atualizado: R$ ____________________________  -  correspondente a ____________________ UFIR
+
+Alegações de Defesa Apresentadas (breve relato): _______________________________________________
+
+Análise/fundamentação (rejeição): ____________________________________________________________
+
+Não obstante o(s) recolhimento(s) integral(is) do(s) débito(s), subsistem as irregularidades apontadas nos autos à(s) fls. _____,  razão pela qual submetemos os autos à consideração superior, propondo que:
+
+a) sejam as presentes contas julgadas irregulares, nos termos dos arts. 1º, inciso I e 16, inciso III, alínea "(a/d)", e 23, inciso III, da Lei nº 8.443/92, considerando a(s) ocorrência(s) relatada(s) no(s) subitem(ns) ____ da instrução de fls. ___, dando-se quitação ao(s) responsável(is), Sr(s). _____________________;
+
+b) seja determinado ao Controle Interno que adote as providências necessárias com vistas à baixa na inscrição da responsabilidade correspondente;
+
+c) Seja aplicada ao(s) responsável(is), Sr(s). _______________________, (individualmente,) a multa prevista no art. 58, inciso I, da Lei nº 8.443/92, fixando-lhe(s) o prazo de 15 (quinze) dias, a contar da notificação, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional, atualizada(s) monetariamente e acrescida(s) dos juros de mora a partir do dia seguinte ao do término do prazo estabelecido, até a data do efetivo recolhimento, na forma da legislação em vigor;
+
+d) seja autorizada, desde logo, a cobrança judicial da(s) dívida(s) nos termos do art. 28, inciso II, da Lei nº 8.443/92, caso não atendida a notificação;
+
+d) seja determinado, desde logo, nos termos do art. 93 da Lei nº 8.443/92 c/c o art. 248 do Regimento Interno/TCU, o arquivamento dos autos, por economia processual, sem cancelamento do aludido débito, a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe(s) possa ser dada quitação (Caso o valor do débito seja inferior a 1.500 UFIR);
+
+e) seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+___________________________________________________________________________________
+
+f)  seja remetida cópia dos presentes autos ao Ministério Público da União para ajuizamento da ações civis e penais cabíveis, nos termos do art. 16, § 3º, da Lei nº 8.443/92. (se for o caso)
+
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS CITAÇÃO DOS RESPONSÁVEIS COM RECOLHIMENTO DO DÉBITO OU ACOLHIMENTO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   ) RECOLHIMENTO DO DÉBITO     (   )  LIQUIDAÇÃO TEMPESTIVA    (   ) ACOLHIMENTO DAS ALEGAÇÕES DE DEFESA
+
+
+
+
+FLS. 2/2
+
+
+SITUAÇÃO 2 (LIQUIDAÇÃO TEMPESTIVA, BOA-FÉ, SEM OUTRA IRREGULARIDADE)
+
+O(s) responsável(is) apresentou(aram) (in)tempestivamente suas alegações de defesa, com recolhimento integral do débito, de acordo com docs. às fls. ______ .
+
+Responsável: ____________________________________________________________________________
+
+Irregularidade: ___________________________________________________________________________
+
+Valor Atualizado: R$ ________________________  -  correspondente a _______________________ UFIR
+
+Alegações de Defesa Apresentadas (breve relato): _______________________________________________________________________________________
+
+Análise/fundamentação: ___________________________________________________________________
+
+Considerando o(s) recolhimento(s) tempestivo(s) do(s) débito(s), a constatação de boa-fé por parte do(s) responsável(is) e, ainda, a ausência de outras irregularidades, submetemos os autos à consideração superior, propondo que sejam as presentes contas julgadas regulares com ressalva, nos termos dos arts. 1º, inciso I, 12, § 2º, 18 e 23, inciso II, da Lei nº 8.443/92 c/c o art. 153, §§ 4º e 5º, do Regimento Interno/TCU, dando-se quitação ao(s) responsável(is), Sr(s) ______________________, sem prejuízo de que seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+SITUAÇÃO 3 (ACOLHIMENTO)
+
+O(s) responsável(is) tomou(aram) ciência do(s) aludido(s) ofício(s), conforme docs. às fls. __, tendo apresentado, (in)tempestivamente suas alegações de defesa, de acordo com docs. às fls. ___ .
+
+Responsável: ____________________________________________________________________________
+
+Irregularidade: ___________________________________________________________________________
+
+Valor Atualizado: R$ ________________________  -  correspondente a _______________________ UFIR
+
+Alegações de Defesa Apresentadas (breve relato): _______________________________________________________________________________________
+
+Análise/fundamentação: ___________________________________________________________________
+
+ (   ) Considerando que as alegações de defesa apresentadas foram suficientes para elidir as irregularidades, submetemos os autos à consideração superior, propondo que as presentes contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), Sr(s). ____________, arrolados às fls. ____, nos termos dos artigos 1º, inciso I, 16, inciso II, 18, e 23, inciso II, da Lei nº 8.443/92, sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+(   ) Considerando que as alegações de defesa apresentadas descaracterizaram por completo a irregularidade e o débito que motivaram a instauração da presente TCE, submetemos os autos à consideração superior, propondo o arquivamento dos autos, sem julgamento de mérito, ante a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo,nos termos do art. 163 do Regimento Interno/TCU.LOCAL/DATA
+
+
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator _________________________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS CIENTIFICAÇÃO DE NOVO PRAZO PARA RECOLHIMENTO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  RECOLHIMENTO E CONTAS IRREGULARES   (   )  PEDIDO DE PARCELAMENTO    (   ) NÃO RECOLHIMENTO
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a  _______________ UFIR
+
+
+
+2. EXAME DAS CONTAS E CONCLUSÃO
+
+
+
+Em cumprimento à Decisão ________, foi(ram) cientificado(s) o(s)  Sr(s) ___________________, por meio do(s) Ofício(s) nºs ________, datados  de _________ , (respectivamente). (ou por meio de Edital  nº _____, publicado no DOU de ________)
+
+Os responsáveis tomaram ciência do aludido ofício, conforme docs. às fls. _____. (Não cabível em citação efetuada por edital.)
+
+SITUAÇÃO 1 (RECOLHIMENTO E CONTAS IRREGULARES)
+
+O(s) responsável(is) recolheu(ram) o valor integral do débito conforme doc às fls. ______.
+
+Não obstante o(s) recolhimento(s) integral(is) do(s) débito(s), subsistem as irregularidades apontadas nos autos à(s) fls. _____, razão pela qual submetemos os autos à consideração superior, propondo que:
+
+a) sejam as presentes contas julgadas irregulares, dando-se quitação ao(s) responsável(is), Sr(s). ________________, nos termos dos arts. 1º, inciso I, 16, inciso III, alínea "(a/d)", e 27 da Lei nº 8.443/92, considerando as ocorrências relatadas nos subitens ___ da instrução de fls. ___;
+
+b) seja determinado ao Controle Interno que adote as providências necessárias com vistas à baixa na inscrição da responsabilidade correspondente;
+
+c) seja aplicada ao(s) responsável(is), Sr(s). ___________________________, (individualmente,) a multa prevista no art. 58, inciso I, da Lei nº 8.443/92, fixando-lhe(s) o prazo de 15 (quinze) dias, a contar da notificação, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional, atualizada(s) monetariamente e acrescida(s) dos juros de mora a partir do dia seguinte ao do término do prazo estabelecido, até a data do efetivo recolhimento, na forma da legislação em vigor;
+
+d) seja autorizada, desde logo, a cobrança judicial da(s) dívida(s) nos termos do art. 28, inciso II, da Lei nº 8.443/92, caso não atendida a notificação; e
+
+d) seja determinado, desde logo, nos termos do art. 93 da Lei nº 8.443/92 c/c o art. 248 do Regimento Interno/TCU, o arquivamento dos autos, por economia processual, sem cancelamento do aludido débito, a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe(s) possa ser dada quitação (Caso o valor do débito seja inferior a 1.500 UFIR); e
+
+e) seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+_________________________________________________________________________________________
+
+f) seja remetida cópia dos presentes autos ao Ministério Público da União para ajuizamento da ações civis e penais cabíveis, nos termos do art. 16, § 3º, da Lei nº 8.443/92. (se for o caso)
+
+SITUAÇÃO 2 (PEDIDO DE PARCELAMENTO)
+
+O(s) responsável(is) solicita(m) o parcelamento do(s) débito(s) em ____ parcelas mensais.
+
+Diante do exposto submetemos os autos à consideração superior, propondo que:
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS CIENTIFICAÇÃO DE NOVO PRAZO PARA RECOLHIMENTO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  RECOLHIMENTO E CONTAS IRREGULARES    (   )  PEDIDO DE PARCELAMENTO    (   ) NÃO RECOLHIMENTO
+
+
+
+
+FLS. 2/2
+
+
+a) seja autorizado o parcelamento do(s) débito(s) em ____ parcelas mensais, sobre as quais incidirão os acréscimos legais correspondentes, fixando o prazo de quinze dias, a contar da notificação, para o recolhimento da primeira parcela, vencendo as demais em intervalos sucessivos de trinta dias, de acordo com o art. 168 do Regimento Interno/TCU;
+
+b) seja alertado o responsável de que o não recolhimento de qualquer das prestações importa no vencimento antecipado do saldo devedor, nos termos do art. 168, § 2º, do Regimento Interno; e
+
+c) seja fixado o prazo de 15 (quinze) dias, a partir da data prevista para o recolhimento de cada parcela, para que o responsável comprove, perante o Tribunal, a efetivação do pagamento, conforme disposto no art. 165, inciso III, alínea "a", do Regimento Interno do TCU.
+
+SITUAÇÃO 3 (NÃO RECOLHIMENTO)
+
+Tendo transcorrido o prazo regimental fixado, o(s) Sr(s) ________________________ não apresentou(ram) o(s) comprovante(s) do recolhimento da(s) importância(s) devida(s).
+
+Diante do exposto, submetemos os autos à consideração superior, propondo que:
+
+a) as presentes contas sejam julgadas irregulares e em débito o(s) responsável(is) abaixo relacionado(s), nos termos dos arts. 1º, inciso I e 16, inciso III, alínea "(a/d)", e 19, caput, da Lei nº 8.443/92, considerando as ocorrências relatadas no(s) subitem(ns) ____ da instrução de fls. ___, condenando-o(s) ao pagamento da(s) importância(s) especificada(s), atualizada(s) monetariamente e acrescidas dos juros de mora, calculada(s) a partir da(s) data(s) discriminada(s) até a efetiva quitação do débito, fixando-lhe(s) o prazo de quinze dias, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional (ou da entidade), nos termos do art. 23, inciso III, alínea “a”, da citada Lei c/c o art. 165, inciso III, alínea “a”, do Regimento Interno/TCU:
+
+Responsável: _____________________________________________________________________________
+
+Valor Original: ________________________________     Data da Ocorrência: _____/_____/_____
+
+b) seja aplicada ao(s) responsável(is), Sr(s). ___________________________, (individualmente,) a multa prevista no art. 57 da Lei nº 8.443/92, fixando-lhe(s) o prazo de 15 (quinze) dias, a contar da notificação, para que comprove(m), perante o Tribunal, o recolhimento da(s) referida(s) quantia(s) aos cofres do Tesouro Nacional, atualizada(s) monetariamente e acrescida(s) dos juros de mora a partir do dia seguinte ao do término do prazo estabelecido, até a data do efetivo recolhimento, na forma da legislação em vigor; (opcional)
+
+c) seja autorizada, desde logo, a cobrança judicial da dívida, nos termos do art. 28, inciso II, da Lei nº 8.443/92, caso não atendida a notificação; e
+
+c) seja autorizado, desde logo, nos termos do art. 93 da Lei nº 8.443/92 c/c o art. 248 do Regimento Interno/TCU, o arquivamento dos autos, por economia processual, sem cancelamento do débito, a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe(s) possa ser dada quitação (No caso do valor do débito ser inferior a 1.500 UFIR); e
+
+d) seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+____________________________________________________________________________
+
+e) seja remetida cópia dos presentes autos ao Ministério Público da União para ajuizamento das ações civis e penais cabíveis, nos termos do art. 16, §3º, da Lei nº 8.443/92. (se for o caso)
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator ______________________________SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO INICIAL
+
+INAPLICABILIDADE DE CITAÇÃO IMEDIATA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  MEDIDAS PRELIMINARES                   (   )  PROPOSTA DE MÉRITO                      (   ) CONTAS ILIQUIDÁVEIS
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a _______________ UFIR
+
+
+
+2.  DESCRIÇÃO E ANÁLISE DOS FATOS
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3.  CONCLUSÃO:
+
+
+
+Diante do exposto, submetemos os autos à consideração superior, propondo:
+
+SITUAÇÃO 1 (MEDIDAS PRELIMINARES)
+
+(   ) diligência junto ao órgão/entidade, nos termos dos arts. 10, § 1º, e 11 da Lei  nº 8.443/92 c/c o art. 240 do Regimento Interno/TCU, para que apresente, no prazo de _____ dias, os seguintes esclarecimentos/informações necessários ao saneamento dos autos, relatados no(s) subitem(ns) _______ desta instrução:
+
+_______________________________________________________________________________________
+
+(   ) inspeção junto ao órgão/entidade, nos termos dos arts. 10, § 1º, e 41, inciso II, da Lei nº 8.443/92 c/c os arts. 204 e 205 do Regimento Interno/TCU, ante a existência de omissões de informação/dúvidas relatada(s) no(s) subitem(ns) _____ desta instrução, a seguir relacionada(s),:
+
+_______________________________________________________________________________________
+
+(   ) audiência, nos termos dos arts.  10,  § 1º,  e  12,  inciso III,  da  Lei  nº 8.443/92  c/c  o art. 153, inciso III, do Regimento Interno/TCU, do(s) responsável(is) abaixo arrolado(s), para que apresente(m), no prazo de quinze dias, contados a partir da ciência da audiência, razões de justificativa para a(s) seguinte(s) ocorrência(s), relatada(s) no(s) subitem(ns) _____ desta instrução:
+
+Responsável: ____________________________________________________________________________
+
+Ocorrência: _____________________________________________________________________________
+
+(   ) o sobrestamento do julgamento do mérito das contas, ante as razões contidas no subitem ____ desta instrução, nos termos dos arts. 10, § 1º, e 11 da Lei nº 8.443/92 c/c o art. 140 do Regimento Interno/TCU.
+
+SITUAÇÃO 2 (PROPOSTA DE MÉRITO)
+
+(   ) as presentes contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), Sr(s). _______________________, arrolados às fls. ____, nos Termos dos artigos 1º, inciso I, 16, inciso II, 18, e 23, inciso II, da Lei nº 8.443/92, considerando a ocorrência de impropriedades de natureza formal, relatadas nos subitem(ns) ___ desta instrução, de que não resultou(ram) dano ao Erário, sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO INICIAL
+
+INAPLICABILIDADE DE CITAÇÃO IMEDIATA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  MEDIDAS PRELIMINARES                   (   )  PROPOSTA DE MÉRITO                      (   ) CONTAS ILIQUIDÁVEIS
+
+
+
+
+FLS. 2/2
+
+
+ (   ) o arquivamento dos autos, sem julgamento de mérito, ante a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, nos termos do art. 163 do Regimento Interno/TCU.
+
+SITUAÇÃO 4 (CONTAS ILIQUIDÁVEIS)
+
+ (   ) que as presentes contas sejam consideradas iliquidáveis, nos termos dos arts. 20 e 21 da Lei nº 8.443/92, ante a existência de caso fortuito ou de força maior, comprovadamente alheio à vontade do responsável, que tornou materialmente impossível o julgamento de mérito, propondo, ainda, o trancamento das contas e o conseqüente arquivamento do processo.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ 
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator ______________________
+
+(   ) De acordo. (Ou Parecer). Proceda-se à diligência na forma proposta.
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à consideração do Exmº Ministro-Relator _______________________________________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS DILIGÊNCIA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  NECESSIDADE DE INFORMAÇÕE COMPLEMENTARES
+
+(   )  CONFIRMAÇÃO DA IRREGULARIDADES                   (   )  DESCARACTERIZAÇÃO DAS IRREGULARIDADES
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a ______________ UFIR
+
+
+
+2.  EXAME DAS INFORMAÇÕES E ESCLARECIMENTOS PRESTADOS E CONCLUSÃO
+
+
+
+SITUAÇÃO 1 (NECESSIDADE DE INFORMAÇÕES COMPLEMENTARES)
+
+Em resposta à diligência promovida por esta Secretaria, por meio do Ofício n° _____/_____, às fls. ___, datado de _____/_____/_____, o órgão/entidade apresentou(ram), tempestivamente/intempestivamente, as seguintes informações e/ou esclarecimentos adicionais (fls. ____):
+
+Descrição e análise: ________________________________________________________________________________
+
+Considerando, entretanto, que permanecem questões pendentes de esclarecimentos e/ou informações, submetemos os autos à consideração superior, propondo, preliminarmente:
+
+(   ) nova diligência junto ao órgão/entidade, nos termos dos arts. 10, § 1º, e 11 da Lei  nº 8.443/92 c/c o art. 240 do Regimento Interno/TCU, para que apresente, no prazo de _____ dias, os seguintes esclarecimentos/informações necessários ao saneamento dos autos, relatados no(s) subitem(ns) _______ desta instrução:
+
+______________________________________________________________________________________________
+
+(   ) inspeção junto ao órgão/entidade, nos termos dos arts. 10, § 1º, e 41, inciso II, da Lei nº 8.443/92 c/c os arts. 204 e 205 do Regimento Interno/TCU, ante a existência de omissões de informação/dúvidas relatada(s) no(s) subitem(ns) _____ desta instrução, a seguir relacionada(s):
+
+______________________________________________________________________________________________
+
+(   ) o sobrestamento do julgamento do mérito das contas, ante as razões contidas no subitem ____ desta instrução, nos termos dos arts. 10, § 1º, e 11 da Lei nº 8.443/92 c/c o art. 140 do Regimento Interno/TCU.
+
+SITUAÇÃO 2 (CONFIRMAÇÃO DAS IRREGULARIDADES)
+
+Em resposta à diligência promovida por esta Secretaria, por meio do Ofício n° _____/_____, às fls. ___, datado de _____/_____/_____, o(s) responsável(is) apresentou(ram), tempestivamente/intempestivamente, as seguintes informações e/ou esclarecimentos adicionais (fls. ____):
+
+Descrição e análise: _______________________________________________________________________________
+
+Considerando que a ocorrência das irregularidades e a culpabilidade do(s) responsável(is) ficaram devidamente caracterizadas nos autos, submetemos os autos à consideração superior, propondo, preliminarmente:
+
+(   ) citação, nos termos dos arts. 10, § 1º, e 12, inciso II, da Lei nº 8.443/92 c/c o art. 153, inciso II, do Regimento Interno, do(s) responsável(is) (solidários) abaixo arrolado(s), pelo(s) valor(es) do(s) débito(s) indicado(s), para, no prazo de quinze dias, contados a partir da ciência da citação, apresentar(em) alegações de defesa ou recolher(em) aos cofres do Tesouro Nacional (ou da entidade/fundo) a(s) quantia(s) devida(s), atualizada(s) monetariamente e acrescida(s) de juros de mora, nos termos da legislação vigente, em razão das ocorrências relatadas nos subitens ____ desta instrução:
+
+Responsável: ____________________________________________________________________________________
+
+Ocorrências: ____________________________________________________________________________________
+
+Valor Original do Débito: __________________________        Data da Ocorrência: _____/_____/_____
+
+Valor Atualizado em _____/_____/_____: R$ ____________________________________
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS DILIGÊNCIA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  NÃO ATENDIMENTO                                                        (   )  NECESSIDADE DE INFORMAÇÕE COMPLEMENTARES
+
+(   )  CONFIRMAÇÃO DA IRREGULARIDADES                   (   )  DESCARACTERIZAÇÃO DAS IRREGULARIDADES
+
+
+
+
+FLS. 2/2
+
+
+(   ) audiência, nos termos dos arts.  10, § 1º, e 12, inciso III, da Lei nº 8.443/92 c/c o art. 153, inciso III, do Regimento Interno/TCU, do(s) responsável(is) abaixo arrolado(s), para que apresente(m), no prazo de quinze dias, contados a partir da ciência da audiência, razões de justificativa para as seguintes ocorrências, relatadas nos subitens _____ desta instrução:
+
+Responsável: ____________________________________________________________________________________
+
+Ocorrências: _________________________________________________________________________________________
+
+SITUAÇÃO 4 (DESCARACTERIZAÇÃO DAS IRREGULARIDADES)
+
+Em resposta à diligência promovida por esta Secretaria, por meio do Ofício n° _____/_____, às fls. ___, datado de _____/_____/_____, o(s) responsável(is) apresentou(aram), tempestivamente/intempestivamente, as seguintes informações e/ou esclarecimentos adicionais (fls. ____):
+
+Descrição e análise: _____________________________________________________________________________
+
+ (   ) Considerando que as alegações de defesa apresentadas foram suficientes para elidir as irregularidades, submetemos os autos à consideração superior, propondo que as presentes contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), Sr(s). ____________, arrolados às fls. ____, nos termos dos artigos 1º, inciso I, 16, inciso II, 18, e 23, inciso II, da Lei nº 8.443/92, sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+ 
+
+(   ) Considerando que as alegações de defesa apresentadas descaracterizaram por completo a irregularidade e o débito que motivaram a instauração da presente TCE, submetemos os autos à consideração superior, propondo o arquivamento dos autos, sem julgamento de mérito, ante a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo,nos termos do art. 163 do Regimento Interno/TCU. 
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator __________________________.
+
+(   ) De acordo. (Ou Parecer). Proceda-se à diligência na forma proposta.
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à consideração do Exmº Ministro-Relator ___________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS INSPEÇÃO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  CONFIRMAÇÃO DA IRREGULARIDADES                   (   ) DESCARACTERIZAÇÃO  DAS IRREGULARIDADES
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a _______________ UFIR
+
+
+
+2.  EXAME DOS DOCUMENTOS E INFORMAÇÕES OBTIDOS
+
+
+
+Descrição e análise dos documentos e informações obtidos:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3.  CONCLUSÃO
+
+
+
+SITUAÇÃO 1 (CONFIRMAÇÃO DAS IRREGULARIDADES)
+
+Considerando que ficou evidenciada nos autos a ocorrência da(s) irregularidade(s) descritas acima, submetemos os autos à consideração superior, propondo, preliminarmente:
+
+(   ) citação, nos termos dos arts. 10, § 1º, e 12, inciso II, da Lei nº 8.443/92 c/c o art. 153, inciso II, do Regimento Interno, do(s) responsável(is) (solidários) abaixo arrolado(s), pelo(s) valor(es) do(s) débito(s) indicado(s), para, no prazo de quinze dias, contados a partir da ciência da citação, apresentar(em) alegações de defesa ou recolher(em) aos cofres do Tesouro Nacional (ou da entidade/fundo) a(s) quantia(s) devida(s), atualizada(s) monetariamente e acrescida(s) de juros de mora, nos termos da legislação vigente, em razão das ocorrências relatadas nos subitens ____ desta instrução:
+
+Responsável: ____________________________________________________________________________
+
+Valor Original do Débito: ________________________        Data da Ocorrência: ____/____/_____
+
+Valor Atualizado em _____/_____/_____: R$ ___________________________________
+
+(   ) audiência,  nos termos dos arts.  10, § 1º, e  12, inciso III, da  Lei nº 8.443/92 c/c o art.  153, inciso III, do Regimento Interno/TCU, do(s) responsável(is) abaixo arrolado(s), para que apresente(m), no prazo de quinze dias, contados a partir da ciência da audiência, razões de justificativa para as seguintes ocorrências, relatadas nos subitens _____ desta instrução:
+
+Responsável: ____________________________________________________________________________
+
+Ocorrência: _____________________________________________________________________________
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS INSPEÇÃO
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  CONFIRMAÇÃO DA IRREGULARIDADES                   (   ) DESCARACTERIZAÇÃO  DAS IRREGULARIDADES
+
+
+
+
+FLS. 2/2
+
+
+SITUAÇÃO 2 (DESCARACTERIZAÇÃO DAS IRREGULARIDADES)
+
+ 
+
+ (   ) Considerando que as alegações de defesa apresentadas foram suficientes para elidir as irregularidades, submetemos os autos à consideração superior, propondo que as presentes contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), Sr(s). ____________, arrolados às fls. ____, nos termos dos artigos 1º, inciso I, 16, inciso II, 18, e 23, inciso II, da Lei nº 8.443/92, sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+_________________________________________________________________________________
+
+(   ) Considerando que as alegações de defesa apresentadas descaracterizaram por completo a irregularidade e o débito que motivaram a instauração da presente TCE, submetemos os autos à consideração superior, propondo o arquivamento dos autos, sem julgamento de mérito, ante a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo,nos termos do art. 163 do Regimento Interno/TCU.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator ___________.
+
+(   ) De acordo. (Ou Parecer). Encaminhem-se os autos à consideração do Exmº Ministro-Relator _________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS AUDIÊNCIA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  REVELIA                      (   )  JUSTIFICATIVAS REJEITADAS                (   ) JUSTIFICATIVAS ACOLHIDAS
+
+
+
+
+FLS. 1/2
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a  _______________ UFIR
+
+
+
+2.  EXAME DA AUDIÊNCIA
+
+
+
+Em cumprimento ao Despacho do Relator, Exmº Sr. Ministro ____________________, às fls. _____, foi promovida a audiência do(s) Sr(s) ___________________, por meio do(s) Ofício(s) nºs ________, datado(s) de _________, às fls. ___, (respectivamente). ou por meio do Edital nº ___, publicado no D.O.U. de ___/___/___.)
+
+SITUAÇÃO 1 (REVELIA)
+
+O(s) responsável(is) tomou(aram) ciência do(s) aludido(s) ofício(s), conforme docs. às fls. _____, não tendo apresentado razões de justificativa quanto às irregularidades verificadas. (não cabível em audiência efetuada por Edital)
+
+Transcorrido o prazo regimental fixado, e não tendo o(s) retromencionado(s) responsável(is) apresentado razões de justificativa, entendemos que deverá(ão) ser considerado(s) revel(is), dando-se prosseguimento ao processo, de acordo com o art.12, § 3º, da Lei nº 8.443/92.
+
+SITUAÇÃO 2 (REJEIÇÃO)
+
+O(s) responsável(is) tomou(aram) ciência do(s) aludido(s) ofício(s), conforme docs. às fls. _____ (não cabível em audiência efetuada por Edital), tendo apresentado (in)tempestivamente suas razões de justificativas, de acordo com docs. às fls. ____.
+
+Responsável: _____________________________________________________________________________
+
+Irregularidade: ____________________________________________________________________________
+
+Razões de Justificativa Apresentadas (breve relato): ______________________________________________
+
+Análise/fundamentação (rejeição): ____________________________________________________________
+
+SITUAÇÃO 3 (ACOLHIMENTO)
+
+O(s) responsável(is) tomou(aram) ciência do(s) aludido(s) ofício(s), conforme docs. às fls. ____, tendo apresentado, (in)tempestivamente suas razões de justificativas, de acordo com docs. às fls. ____.
+
+Responsável: _____________________________________________________________________________
+
+Irregularidade: ____________________________________________________________________________
+
+Razões de Justificativa Apresentadas (breve relato): ______________________________________________
+
+Análise/fundamentação (acolhimento): _________________________________________________________
+
+
+
+3.  CONCLUSÃO
+
+
+
+(SITUAÇÕES 1 OU 2)
+
+Diante do exposto, submetemos os autos à consideração superior, propondo que:
+
+ 
+
+
+
+Tribunal de Contas da União
+
+
+
+ 
+
+INSTRUÇÃO APÓS AUDIÊNCIA
+
+TOMADA DE CONTAS ESPECIAL
+
+(   )  REVELIA                      (   )  JUSTIFICATIVAS REJEITADAS                (   ) JUSTIFICATIVAS ACOLHIDAS
+
+
+
+
+FLS. 2/2
+
+
+a) as presentes contas sejam julgadas irregulares, nos termos dos arts. 1º, inciso I, 16, inciso III, alínea "(b ou c)" e 19, parágrafo único, da Lei nº 8.443/92, considerando a(s) ocorrência(s) relatada(s) no(s) subitem(ns) ____ desta instrução, com aplicação de multa ao(s) responsável(is), Sr(s). ______________________, fixando-lhe(s) o prazo de 15 (quinze) dias, a contar da notificação, para comprovar(em), perante este Tribunal, o recolhimento da referida quantia aos cofres do Tesouro Nacional, com base nos arts. 58, inciso I, e 23, inciso III, alínea “a” da citada Lei c/c o art. 165, inciso III, alínea “a”, do Regimento Interno/TCU;
+
+b) seja autorizada, desde logo, a cobrança judicial da dívida nos termos do art. 28, inciso II, da Lei nº 8.443/92, atualizada monetariamente e acrescida dos juros de mora, calculados a partir do dia seguinte ao término do prazo ora estabelecido, até a data do recolhimento, caso não atendida a notificação, na forma da legislação em vigor; e
+
+b) seja determinado, desde logo, nos termos do art. 93 da Lei nº 8.443/92 c/c o art. 248 do Regimento Interno/TCU, o arquivamento dos autos, por economia processual, sem cancelamento do aludido débito, a cujo pagamento continuará(ão) obrigado(s) o(s) devedor(es), para que lhe(s) possa ser dada quitação (Caso o valor do débito seja inferior a 1.500 UFIR); e
+
+c) seja determinada ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+_____________________________________________________________________________________
+
+(SITUAÇÃO 3)
+
+(   ) as presentes contas sejam julgadas regulares com ressalva, dando-se quitação ao(s) responsável(is), Sr(s). ____________, arrolados às fls. ____, nos termos dos artigos 1º, inciso I, 16, inciso II, 18, e 23, inciso II, da Lei nº 8.443/92, considerando que as razões de justificativa apresentadas foram suficientes para elidir as irregularidades, sem prejuízo de se determinar ao responsável pelo órgão (ou entidade) a adoção das seguintes medidas (se for o caso):
+
+__________________________________________________________________________________
+
+(   ) o arquivamento dos autos, sem julgamento de mérito, ante a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, nos termos do art. 163 do Regimento Interno/TCU, Considerando que as razões de justificativa apresentadas descaracterizaram por completo a irregularidade e o débito que motivaram a instauração da presente TCE.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à Douta Procuradoria, para posterior envio ao Exmº Ministro-Relator ___________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+INSTRUÇÃO APÓS JULGAMENTO PELA IRREGULARIDADE E NOTIFICAÇÃO
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+FLS. 1/1
+ÓRGÃO INSTAURADOR
+
+
+
+ 
+
+ TC Nº
+
+
+
+
+
+1.  QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO DO(S) DÉBITO(S)
+
+
+
+NOME:
+
+CPF:
+
+ENDEREÇO:
+
+VALOR HISTÓRICO DO DÉBITO:
+
+DATA DA OCORRÊNCIA:
+
+VALOR ATUALIZADO ATÉ ____/____/____:       em R$ ______________________  correspondente a  ______________ UFIRInexatidão Material do Acórdão
+
+
+
+(   ) SIM                      (   ) NÃO
+
+
+
+2.  ACÓRDÃO CONDENATÓRIO
+
+
+
+Em cumprimento ao Acórdão nº ___/__, Sessão de __/__/__, Ata nº ___/__ - _____________, fls. ________, foi(ram) notificado(s) o(s) Sr(s) _______________________________, por meio do(s) Ofício(s) nº(s) ______ datado(s) de __/__/__. ou por meio do(s) Edital(ais) nº(s) _____________, publicado(s) no D.O.U. de _____/_____/_____ ).
+
+O(s) responsável(veis) tomou(aram) ciência do(s) aludido(s) ofício(s) conforme documento(s) de fls. ______. (Não cabível em notificação efetuada por edital.)
+
+Notificado(s) em ____/____/____ e após transcorridos os prazos recursais em __/__/__, o(s) Sr(s)._________________ não recorreu(ram) da decisão proferida pela Egrégia Corte de Contas. ou interpôs(puseram) recurso(s) de _________, apreciado(s) e julgado(s) por meio do Acórdão nº ___/__, Sessão de __/__/__, Ata nº ___/__ - ______________, fls. ____, mantendo-se a irregularidade das contas.)
+
+Diante do exposto, propomos, com fundamento no artigo 21, parágrafo único, da Resolução TCU nº 77/96 e na Portaria TCU nº 62/96, o encaminhamento dos autos à Secretaria de Contas do Governo e Transferências Constitucionais - SECON, para o procedimento de competência daquela Unidade, esclarecendo que o presente processo trata de:
+
+(   ) imputação de débito e/ou aplicação de multa, para cobrança executiva, de acordo com o art. 2º da Resolução nº 41/95 c/c o art. 21, parágrafo único, da Resolução nº 77/96 e com o art. 1º, § 3º, da Portaria nº 62/96;
+
+(   ) imputação de débito e/ou aplicação de multa, tendo sido autorizado o arquivamento do processo, com fundamento no art. 93 da Lei nº 8.443/92 (valores expressos em UFIR), de acordo com o art. 1º, § 4º, da Portaria nº 62/96;
+
+(   ) parcelamento do débito após recolhimento da 1ª parcela, de acordo com o art. 3º da Portaria nº 62/96;
+
+(   ) solicitação do responsável de parcelamento do débito (após análise do pedido pela SECEX), de acordo com o art. 4º da Portaria nº 62/96;
+
+(   ) débito e/ou multa quitado(s) quando do julgamento das contas, de acordo com o art. 27 da Lei nº 8.443/92;
+
+(   ) proposta de quitação após recolhimento integral do débito e/ou da multa (após análise do processo pela SECEX), de acordo com o art. 27 da Lei nº 8.443/92 c/c o art. 4º da Portaria nº 62/96.
+
+LOCAL/DATA
+
+ 
+
+ 
+
+ AFCE / MATRÍCULA / ASSINATURA
+
+
+
+ 
+
+ 
+
+De acordo. (Ou Parecer)
+
+ DIRETOR / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+ 
+
+De acordo. (Ou Parecer). Encaminhem-se os autos à SECON ___________.SECRETÁRIO / CARIMBO / ASSINATURA
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+COLETA DE DADOS GERENCIAIS
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+FLS. 1/2
+
+
+ÓRGÃO / ENTIDADE INSTAURADOR(A)
+
+ 
+
+ CÓDIGO DE CLIENTELA
+
+
+
+ 
+
+ TC Nº
+
+
+
+ 
+
+ 
+
+
+
+1. QUALIFICAÇÃO DO(S) RESPONSÁVEL(IS) E QUANTIFICAÇÃO
+
+NOME
+
+
+
+ 
+
+ 
+
+CPF
+
+ 
+
+ ENDEREÇO
+
+
+
+ 
+
+ 
+
+VALOR HISTÓRICO DO DÉBITO
+
+ 
+
+ 
+
+DATA DA OCORRÊNCIA
+
+ 
+
+ VALOR ATUALIZADO ATÉ (DATA)
+
+
+
+ 
+
+ EM R$
+
+
+
+ 
+
+ 
+
+EM UFIR
+
+ 
+
+ 
+
+
+
+2. MULTA
+
+
+
+EM R$
+
+ 
+
+ 
+
+EM UFIR
+
+ 
+
+ 
+
+DATA PARA RECOLHIMENTO
+
+ 
+
+ 
+
+
+
+3. INFORMAÇÕES GERAIS
+
+
+
+(   ) Órgãos dos poderes legislativo ou judiciário
+
+(   ) Administração direta
+
+(   ) Autarquias e fundações
+
+(   ) Entidades administradas sob contrato de gestão
+
+(   ) Fundos
+
+(   ) Órgãos e  entidades  que  arrecadam  e  gerenciam contribuições parafiscais
+
+(   ) Empresas públicas, sociedades de economia mista
+
+(   ) Prefeituras municipais
+
+(   ) Entidades de direito privadoJULGAMENTO
+
+
+
+(   ) Regular
+
+(   ) Regular com Ressalvas
+
+(   ) Irregular
+
+(   ) Iliquidáveis
+
+(   ) Arquivadas sem cancelamento do débito
+
+(   ) Outros
+
+ATA
+
+ 
+
+ 
+
+COLEGIADO
+
+ 
+
+ 
+
+DATA
+
+ 
+
+ 
+
+IMPROPRIEDADES  (Conforme Classificação do Anexo I)ÁREA
+
+
+
+OCORRÊNCIAREPETIÇÃO
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+Tribunal de Contas da União
+
+ 
+
+COLETA DE DADOS GERENCIAIS
+
+TOMADA DE CONTAS ESPECIAL
+
+
+
+
+
+FLS. 2/2
+
+
+
+MOTIVO DA INSTAURAÇÃO DA TCE
+
+(   ) omissão no dever de prestar contas
+
+(   )  prática   de   ato   de   gestão   ilegal,   ilegítimo, antieconômico ou infração à norma legal
+
+(   ) dano ao erário
+
+(   ) desfalque  ou  desvio de dinheiros, bens ou valores públicos
+
+RECURSOS DECORRENTES DE
+
+
+
+(   ) convênios, acordos, ajustes
+
+(   ) subvenções, auxílios, contribuições
+
+(   ) royalties
+
+(   ) outros
+
+
+
+PENALIDADES COMPLEMENTARES
+
+(   ) afastamento temporário do responsável (art. 44 da Lei nº 8.443/92)
+
+(   ) sustação  de  ato  ou  contrato  (art.  45  da  Lei  nº 8.443/92)
+
+(   ) declaração de inidoneidade do licitante (art. 46 da Lei nº 8.443/92)
+
+(   ) inabilitação  para  o  exercício  de  cargo ou função pública (art. 60 da Lei nº 8.443/92)
+
+(   ) decretação   da   indisponibilidade   de   bens   do responsável (art. 44 da Lei nº 8.443/92)
+
+(   ) solicitação de arresto de bens (art. 61 da Lei nº 8.443/92)
+
+
+
+Remessa  de  cópia  ao  Ministério  Público  da  União  para  ajuizamento  de  ações  civis  e  penais (art. 16, § 3º, Lei nº 8.443/92)
+
+(   ) Sim          (   ) Não
+
+
+
+LOCAL / DATA
+
+ 
+
+ 
+
+ 
+
+AFCE / MATRÍCULA / ASSINATURA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De acordo.
+
+DIRETOR / CARIMBO / ASSINATURA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De acordo.
+
+Encaminhe-se o presente documento à SEPLOM.
+
+SECRETÁRIO / CARIMBO / ASSINATURA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+5. Jurisprudência
+
+
+
+ 
+
+
+
+
+5.1. Súmulas
+
+
+
+
+
+Solidariedade e quitação
+
+
+Súmula nº 227: O recolhimento parcial do débito por um dos devedores solidários não o exonera da responsabilidade pela quantia restante.
+
+
+Solidariedade de Terceiros Beneficiários
+
+
+Súmula nº 187: Dispensa-se a instauração de TCE quando o dano for causado por pessoa estranha ao serviço público e sem conluio com servidor da Administração.
+
+
+Responsabilidade de Terceiros
+
+
+Súmula nº 186: Os co-autores, embora sem vínculo com o serviço público, de peculato praticado por servidores estão sujeitos à TCE.
+
+
+Apresentação das Contas pelo Prefeito Sucessor
+
+
+Súmula nº 230: Compete ao prefeito sucessor apresentar as contas referentes aos recursos federais recebidos por seu antecessor, quando este não o tiver feito ou, na impossibilidade de fazê-lo, adotar as medidas legais visando ao resguardo do patrimônio público com a instauração da competente Tomada de Contas Especial, sob pena de co-responsabilidade.
+
+
+Débitos de Natureza Trabalhista
+
+
+Súmula 134: Refoge da competência do TCU o exame e julgamento de processos de TCE instaurados para ressarcimento de débitos que não se configuram como alcances, provenientes de relação jurídica de natureza trabalhista, por servidores de órgãos ou entidades cujos ordenadores de despesa, dirigentes ou administradores se acham sob jurisdição do TCU.
+
+
+
+
+5.2. acórdãos e decisões
+
+
+
+
+
+
+Arquivamento dos autos, sem julgamento de mérito, nos termos do art. 163 do Regimento Interno.
+
+
+
+- Desvio de finalidade na aplicação dos recursos recebidos, porém com a utilização dos recursos em prol da Municipalidade. Responsável falecido. Julgamento pela irregularidade ou aplicação de multa exigiria audiência, tendo em vista o direito de defesa, o que não pode ser efetivado. (Decisão nº 26/96 - 2ª Câmara - Ata 05/96 e Acórdão nº 110/96 - 2ª Câmara - Ata 08/96));
+
+
+- Objeto e mérito do processo já foram apreciados pelo Tribunal de Contas da União (Decisão nº 2/95 - 1ª Câmara - Ata 01/95);
+
+
+- Responsável demonstra que não tinha ciência da solicitação de esclarecimentos adicional efetuada pela CISET, apresentando tempestivamente a documentação complementar (Decisão nº 21/95 - 1ª Câmara - Ata 05/96);
+
+
+- Débito total atualizado monta valor irrisório, agredindo a economia processual (Decisão nº 04/97-1ª -Câmara  - Ata 01/97);
+
+
+- Causa que determinou a instauração já havia desaparecido, uma vez que o débito já havia sido recolhido (Decisão nº 362/96 - Plenário - Ata 24/96 e Decisão nº 70/96 - Segunda Câmara - Ata 10/96));
+
+
+- Inexistência de provas para determinar a responsabilidade do agente público arrolado nos autos ou conclusões da Comissão de Sindicância são no sentido da impossibilidade do autor do ilícito (Decisão nº 193/97 - 2ª Câmara - Ata 25/97; Decisão nº 251/96 - Plenário - Ata 18/96);
+
+
+
+
+ 
+
+
+5 Jurisprudência
+
+
+- Verificação da inexistência do CPF do responsável tornando inócua qualquer condenação por parte do Tribunal (Decisão nº 106/96- 2ª Câmara - Ata 15/96).
+
+
+- Não compete ao TCU julgar prejuízo causado por descumprimento de cláusula contratual por terceiro sem a participação de agente público. (Decisão nº 31/98 – Plenário – Ata nº 05/98)
+
+
+- Responsável falecido antes da citação/audiência. Impossibilidade de julgamento de mérito. (Acórdão nº 110/97 – Plenário – Ata nº 20/97)
+
+
+Débito e Multa
+
+
+- condenação simultânea ao recolhimento de débito e multa - apenas após a vigência da Lei nº 8.443/92: (Acórdão nº 3/96 - Plenário - Ata nº 3/96; Acórdão nº 60/96 - Plenário - Ata nº 18/96; Acórdão nº 109/96 - 1ª Câmara - Ata nº 13/96)
+
+
+- recolhimento na citação e aplicação da multa prevista no art. 58, inciso I, da Lei nº 8.443/92: (Acórdão nº 5/95 - Plenário - Ata nº 4/95; Acórdão nº 36/94 - 2ª Câmara - Ata nº 7/94)
+
+
+- condenação ao recolhimento de débito e multa com base no art. 58, incisos I, II ou III, da Lei nº 8.443/92: (Acórdão nº 93/95 - Plenário - Ata nº 35/95; Acórdão nº 168/95 - 2ª Câmara - Ata nº 21/95; Acórdão nº 379/94 - 1ª Câmara - Ata nº 30/94; Acórdão nº 906/94 - 2ª Câmara - Ata nº 43/94)
+
+
+- dispensa do recolhimento do débito e aplicação de multa com base no art. 58, incisos I ou II, da Lei nº 8.443/92: (Acórdão nº 191/96 - Plenário - Ata nº 46/96;Acórdão nº 107/95 - 1ª Câmara - Ata nº 20/95)
+
+
+- aplicação de multa, com base no art. 58, inciso IV, da Lei nº 8.443/92, em função do não atendimento de diligência (Acórdão nº 752/94 - 2ª Câmara - Ata nº 38/94)
+
+
+- confissão de dívida e parcelamento junto ao órgão repassador - contas irregulares e aplicação de multa com base no art. 58, inciso III, da Lei nº 8.443/92 (Acórdão nº 525/96 - 2ª Câmara - Ata nº 27/96)
+
+
+
+Solidariedade de terceiros beneficiários (Decisão nº 78/95 - 2ª Câmara - Ata nº 11/95; Acórdão nº 44/96 - Plenário - Ata nº 14/96)
+
+
+
+Tomada de Contas Especial em Sociedade de Economia Mista (Acórdão nº 31/94 – Plenário – Ata nº 14/94; Acórdão nº 70/97 –1ª Câmara– Ata nº 07/97; Acórdão nº 189/97 – Plenário – Ata nº 31/97; Decisão nº 106/95 – Plenário – Ata nº 10/95)
+
+
+- Determinação de Instauração pelo Tribunal (Acórdão nº 27/97 – Plenário – Ata nº 06/97; Acórdão nº 106/94 – Plenário – Ata nº 44/94; Decisão nº 69/97 – Plenário – Ata nº 06/97; Decisão nº 235/92 – Plenário – Ata nº 22/92
+
+
+- Transformação de processo em TCE (Decisão nº 14/92 – Plenário – Ata nº 04/92; Decisão nº 653/96 – Plenário – Ata nº 41/96; Decisão nº 73/94 – 2ª Câmara – Ata nº 11/94; Decisão nº 80/95 – 2ª Câmara – Ata nº 11/95; Decisão nº 85/96 – 2ª Câmara – Ata nº 12/96)
+
+
+
+Citação de Pessoa Jurídica (Decisão nº 227/95 – 2ª Câmara – Ata nº 30/95; Acórdão nº 616/97 – 2ª Câmara – Ata nº 31/97)
+
+
+- Condenação em débito de Pessoa Jurídica (Acórdão nº 47/92 – 2ª Câmara – Ata nº 39/92)
+
+
+Convênios 
+
+
+- A documentação encaminhada diretamente ao TCU, referente aos recursos recebidos por intermédio de convênio, embora constituída de elementos de uma prestação de contas, não é suficiente para um ajuizamento da sua regularidade quando não apreciada pelo ordenador de despesa e pelo órgão de controle interno, por não se poderem suprimir instâncias de controle, sem o prejuízo de anularem-se atribuições e competências.(Acórdão nº 03/94 – 1ª Câmara – Ata nº 01/94; Acórdão nº 15/94 – 2ª Câmara – Ata nº 04/94; Acórdão nº 26/96 – 1ª Câmara – Ata nº 05/96; Acórdão nº 26/93 – Plenário – Ata nº 10/93)
+
+
+- O recolhimento dos valores consolidados na dívida pessoal de prefeito, efetuado pelos cofres da prefeitura municipal, não desobriga o responsável pelo débito que lhe foi imputado.( Acórdão nº 75/95  
+
+
+
+
+ 
+
+
+5 Jurisprudência
+
+
+
+- Plenário – Ata nº 29/95; Acórdão nº 76/95 – Plenário – Ata nº 30/95; Acórdão nº 82/96 – Plenário – Ata nº 22/96; Acórdão nº 176/95 – 1ª Câmara – Ata nº 29/95)
+
+
+- No caso de recolhimento do débito com recursos municipais, deve-se comunicar à Câmara dos Vereadores que a Prefeitura dispõe de crédito junto ao responsável, uma vez que foram utilizados recursos da municipalidade para quitar débito pessoal para com a União. (Acórdão nº 136/97 - 2ª Câmara - Ata nº 9/97)
+
+
+- No caso de convênios firmados após a edição da IN/STN nº 01/97, a não aplicação da contrapartida constitui débito e razão para instauração de TCE. (Acórdão nº 68/97 – 1ª Câmara – Ata nº 07/97; Decisão nº 258 – 2ª Câmara – Ata nº 33/97)
+
+
+- A participação de autoridade na celebração de convênio, mais na qualidade de agente político, no desempenho de atribuições governamentais, do que propriamente como gestor do convênio, descaracteriza a sua responsabilidade. (Acórdão nº 428/96 – 1ª Câmara – Ata nº 44/96)
+
+
+
+
+
+Outros:
+
+
+
+
+ê Ação judicial tramitando na Justiça Federal não gera litispendência quanto à matéria afeta ao TCU. (Decisão nº 97/96 - 2ª Câmara - Ata 14/96)
+
+
+
+ê Pedido de vista a prefeito não envolvido na TCE. Hipóteses especiais de deferimento. (Decisão nº 206/93 – Plenário – Ata nº 18/93)
+
+
+
+ê Indeferimento de recurso que alega violação aos princípios do contraditório e da ampla defesa. (Decisão nº 115/94 - Plenário – Ata nº 08/94)
+
+
+
+ê Indeferimento de solicitação de cópia de processo de denúncia formulada pelo próprio denunciante. (Decisão nº 232/94 – Plenário – Ata nº 13/94)
+
+
+
+ê Os processos em relação aos quais for aplicado o disposto no § 1º do art. 6º da INTCU nº 13/96 serão julgados após a apresentação de razões de defesa pelo responsável, ou quando este comprovar perante o Tribunal o recolhimento do débito. (Decisão Administrativa nº 845/96 – BTCU nº 70/96 - alterada pela Decisão nº 288/97 – Ata nº 18/97 – ambas do Plenário)
+
+
+
+ê Indícios de superfaturamento como razão para instauração de TCE. (Decisão nº 377/96 – Plenário – Ata nº 25/96)
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Manual de Instrução de Processos de Tomada de Contas Especial e dá outras providências.
+
+

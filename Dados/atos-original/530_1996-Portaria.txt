@@ -1,0 +1,810 @@
+Portaria
+530/1996
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais; e
+
+
+Considerando o teor da Decisão nº 484/94 - Plenário, de 27.07.94, resolve:
+
+
+Art. 1º Fica aprovado, conforme modelo anexo, o demonstrativo da nova sistemática para atualização monetária e cálculo dos juros de mora incidentes sobre débitos e multas impostos pelo Tribunal de Contas da União, a ser utilizado pelas unidades da Secretaria-Geral de Controle Externo.
+
+
+Art. 2º Compete à Secretaria de Informática - SEINF coordenar a distribuição do novo programa para microcomputadores desenvolvido para a emissão do demonstrativo de que trata o artigo anterior, bem como fornecimento de manual de operação às referidas unidades.
+
+
+Art. 3º Fica a SEINF autorizada a fornecer aos órgãos e entidades da Administração Pública Federal interessados, jurisdicionados a este Tribunal, cópia do programa desenvolvido por aquela unidade.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 5º Revogam-se as disposições em contrário.
+
+
+
+
+
+
+MARCOS VINICIOS VILAÇA
+
+
+Presidente
+
+
+
+Revogada pela Portaria nº 52, de 6/2/2001, BTCU nº 10/2001.
+
+
+
+
+
+
+
+Revogada
+Aprova modelo de demonstrativo da nova sistemática para atualização monetária e cálculo dos juros de mora incidentes sobre débitos e multas impostos pelo Tribunal e dá outras providências.
+
+ANEXOS
+
+
+
+
+
+
+DEMONSTRATIVO DE DÉBITO
+
+
+
+(Art. 28 c/c os arts. 24 e 23, III b da Lei nº 8.443/92, c/c os arts. 1º, 2º e 3º da Lei nº 6.822/80)
+
+
+
+
+
+Responsável (eis):                                                (Modelo)
+
+
+
+Fundações:
+
+
+
+Origem(ens) do(s) débito(s)
+
+
+
+Período                                   /       /          a            /        /
+
+
+
+
+HISTÓRICO
+
+
+
+
+Data
+
+Evento
+
+D/C Moeda
+
+Valor
+
+Valor
+
+Atualizado
+
+Dedução
+
+Recolh.
+
+Total do Valor
+
+Juros
+
+Juros Atualizados
+
+Dedução Recolh.
+
+Total de Juros
+
+ 
+
+D        Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D        Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C        Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C        Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D        Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           Cr$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Débito(s) a cujo pagamento foi (ram) condenado(s) por Acórdão(s) de              , apurado(s) no processo nº  TC
+
+Cr$
+
+ 
+
+ 
+
+001)
+
+Atualização monetária do valor de Cr$                   no período de       /     /       até               /       /        , utilizando-se o coeficiente
+
+Cr$
+
+ 
+
+ 
+
+002)
+
+Juros de Mora de                %  equivalente a           % do mês-calendário ou fração, calculados sobre o valor de Cr$                                                 , contados a partir de         /       até       /         
+
+Cr$
+
+ 
+
+ 
+
+003)
+
+Resultado da soma do débito de  CR$                                  em             /         /       e do Principal Atualizado até a mesma data no valor de Cr$
+
+Cr$
+
+ 
+
+ 
+
+004)
+
+Conversão   do   Principal   para   Cruzeiros   Novos,   dividindo-se  o  valor de Cr$                                    por 1000.
+
+(Decreto-lei nº 1, de 13.11.65, in DOU de 17.11.65)
+
+NCr$
+
+ 
+
+ 
+
+005)
+
+Conversão   do   Juros   para   Cruzeiros   Novos,   dividindo-se  o  valor de    NCr$                                    por 1000.
+
+(Decreto-lei nº 1, de 13.11.65, in DOU de 17.11.65)
+
+NCr$
+
+ 
+
+ 
+
+006)
+
+Conversão do Principal para Cruzeiros, dividindo-se o valor de                        NCr$                                    por 1.
+
+(Resolução BACEN nº 144, de 31.03.70, in DOU de 06.04.70 (parte II)
+
+Cr$
+
+ 
+
+ 
+
+007)
+
+Conversão dos Juros  para Cruzeiros, dividindo-se o valor de                          NCr$                                    por 1.
+
+(Resolução BACEN nº 144, de 31.03.70, in DOU de 06.04.70 (parte II)
+
+Cr$
+
+ 
+
+ 
+
+008)
+
+Conversão do Principal para Cruzados, dividindo-se o valor de                              Cr$                                    por 1000.
+
+(Decreto Lei nº 2.284/86, in DOU de 11.03.86)
+
+Cz$
+
+ 
+
+ 
+
+009)
+
+Conversão dos Juros  para Cruzados, dividindo-se o valor de                             Cz$                                    por 1000.
+
+(Decreto Lei nº 2.284/86, in DOU de 11.03.86)
+
+Cz$
+
+ 
+
+ 
+
+010)
+
+Atualização monetária do valor de Cz$                                           no período de      /       /      até             /          /              , utilizando-se o coeficiente.
+
+Cz$
+
+ 
+
+ 
+
+011)
+
+Atualização monetária do valor de Cz$                                   (referente aos juros anteriores não ressarcidos) no período de          /          /         até        /        /     , utilizando-se o coeficiente
+
+Cz$
+
+ 
+
+ 
+
+012)
+
+Juros de Mora de                                 equivalente a              % do mês-calendário ou fração, calculados sobre o valor de Cz$                                , contados a partir de           /           /             até            /        /     
+
+Cz$
+
+ 
+
+ 
+
+013)
+
+Totalização dos Juros de Mora (Valor Cz$                               ) e Juros anteriores não ressarcidos com correção (Valor Cz$                                       )
+
+Cz$
+
+ 
+
+ 
+
+014) 
+
+Valor recolhido em       /          /        , deduzido de juros anteriores corrigidos não ressarcidos
+
+Cz$
+
+ 
+
+ 
+
+015)
+
+Saldo dos Juros após recolhimento (Juros –                                                    Dedução = Cz$                                - Cz$                                     )
+
+Cz$
+
+ 
+
+ 
+
+016)
+
+Saldo do débito (Principal de Cz$                         e Juros de Cz$                        ) em               /          /
+
+Cz$
+
+ 
+
+ 
+
+017) 
+
+Conversão do Principal para Cruzados Novos, dividindo-se o valor de                  Cz$                                         por 1000 (lei nº 7.730/89, in DOU 01.02.89)
+
+Cz$
+
+ 
+
+ 
+
+018)
+
+Conversão dos Juros para Cruzados Novos, dividindo-se o valor de                        Cz$                               por 1000 (Lei nº 7.730/89, in DOU de 01.02.89)
+
+NCz$
+
+ 
+
+ 
+
+019)
+
+Atualização monetária do valor de NCz$                                               no período de        /        /         até            /          /              , utilizando-se o coeficiente
+
+NCz$
+
+ 
+
+ 
+
+020)
+
+Atualização monetária do valor de NCz$                                  (referente aos juros anteriores não ressarcidos) no período de           /         /        até         /       /      , utilizando-se o coeficiente
+
+NCz$
+
+ 
+
+ 
+
+021)
+
+Conversão do Principal para Cruzeiros, dividindo-se o valor de                           NCz$                                          por 1 (lei nº 8.024/90, in DOU de 13.04.90)
+
+Cr$
+
+ 
+
+ 
+
+022)
+
+Conversão dos Juros para Cruzeiros, dividindo-se o valor de                              NCz$                               por 1 (Lei nº 8.024/90, in DOU de 13.04.90)
+
+Cr$
+
+ 
+
+ 
+
+023)
+
+Atualização monetária do valor de Cr$                                               no período de        /       /         até            /         /       , utilizando o coeficiente                       , obtido com a divisão do valor do BTN Fiscal de Cr$                                 , vigente em         /          /          pelo valor do BTN Fiscal de NCz$                            , em vigor em         /          / 
+
+Cr$
+
+ 
+
+ 
+
+024)
+
+Atualização monetária do valor de Cr$                               (referente aos juros anteriores não ressarcidos) no período de           /          /        até        /       /         , utilizando-se o coeficiente                   , obtido com a divisão do valor do BTN Fiscal de Cr$                    , vigente em            /         /         , pelo valor do BTN Fiscal de NCz$                           , em vigor em             /           / 
+
+CR$
+
+ 
+
+ 
+
+025)
+
+Aplicação do coeficiente de                          Correspondente a TRD acumulada no período de            /      /         até           /       /        , sobre o valor de Cr$
+
+Cr$
+
+ 
+
+ 
+
+026)
+
+Aplicação do coeficiente de                   Correspondente a TRD acumulada no período de         /          /          até         /        /        , sobre os juros de Mora no valor de Cr$    
+
+Cr$
+
+ 
+
+ 
+
+027)
+
+Atualização monetária do valor de Cr$                                               no período de         /      /        até          /       /       , utilizando-se o coeficiente                , obtido com a divisão da UFIR de Cr$                                                      , vigente em          /       /           , pelo valor de UFIr de  Cr$                             , em vigor em         /         /          
+
+Cr$
+
+ 
+
+ 
+
+028)
+
+Atualização monetária do valor de Cr$                             (referente aos juros anteriores não ressarcidos) no período de          /       /      até          /       /       , utilizando-se o coeficiente                       , obtido com adivisão do valor da UFIR     de Cr$                               , vigente em          /        /          , pelo valor da UFIR de Cr$                               , em vigor em           /          /
+
+Cr$
+
+ 
+
+ 
+
+029)
+
+Juros de Mora de            % equivalentes a                % do mês-calendário ou fração, calculados sobre o valor de Cr$                                    , contados a partir de        /        /     até        /         /        e de          /         /         até        /        /
+
+Cr$
+
+ 
+
+ 
+
+030)
+
+Totalização dos Juros de Mora (Valor Cr$                              ) e Juros Anteriores não ressarcidos com correção (Valor Cr$                                        )
+
+Cr$
+
+ 
+
+ 
+
+031) 
+
+Valor recolhido em           /          /          , deduzido de juros anteriores corrigidos não ressarcidos e principal do débito.
+
+Cr$
+
+ 
+
+ 
+
+032)
+
+Saldo dos Juros após recolhimento (Juros –                                                     Dedução = Cr$                                     Cr$                                    )
+
+Cr$
+
+ 
+
+ 
+
+033)
+
+Saldo do débito (Principal –Dedução = Cr$                        Cr$                             )
+
+Cr$
+
+ 
+
+ 
+
+034)
+
+Conversão do Principal para Cruzeiros Reais, dividindo-se o valor de                   Cr$                          por 1000 (Lei nº 8.697/93, in DOU 28.08.93)
+
+Cr$
+
+ 
+
+ 
+
+035) 
+
+Atualização monetária do valor de Cr$                                               no período de          /        /       até         /          /    , utilizando-se o coeficiente                      , obtido com a divisão da UFIR de Cr$                                                   , vigente em          /       /       , pelo valor da UFIR de Cr$                                   , vigente em        /       /            
+
+Cr$
+
+ 
+
+ 
+
+036)
+
+Juros d Mora de         %    equivalentes a         % do mês-calendário ou fração, calculados sobre o valor de Cr$                                                 , contados a partir de        /             até          /
+
+Cr$
+
+ 
+
+ 
+
+037)
+
+Resultado da soma do débito de Cr$                                em          /        /          e do Principal Atualização até a mesma data no valor de Cr$
+
+Cr$
+
+ 
+
+ 
+
+038)
+
+Conversão do Principal para Reais, dividindo-se o valor de                                 Cr$                            por 2.750 (Lei nº 9.069/95, in DOU de390.06.95)
+
+R$
+
+ 
+
+ 
+
+039)
+
+Conversão dos Juros para Reais, dividindo-se o valor de                                          Cr$                              por 2.750 (Lei 9.069;95, in DOU de 30.06.95)
+
+R$
+
+ 
+
+ 
+
+040)
+
+Atualização monetária do valor de R$                                                no período de        /        /        até          /         /       , utilizando-se o coeficiente                  , obtido com a divisão da UFIR de R$                        , vigente em         /        /       , pelo valor da UFIR de Cr$                                 , em vigor  em          /       /        
+
+R$
+
+ 
+
+ 
+
+041)
+
+Atualização monetária do valor de R$                          (referente aos juros anteriores não ressarcidos) no período de          /        /        até       /       /         , utilizando-se o coeficiente                             , obtido com a divisão do valor da UFIR de R$                                  vigente em          /      /      , pelo valor da UFIR de Cr$                                        em vigor em              /          /
+
+R$
+
+ 
+
+ 
+
+042)
+
+Juros de Mora de             % equivalentes a             % do mês-calendário ou fração, calculados sobre o valor de R$                                     , contados a partir de            /         até            /          
+
+R$
+
+ 
+
+ 
+
+043)
+
+Totalização dos Juros de Mora (Valor R$                                      ) e R$ Juros Anteriores não ressarcidos em correção (Valor R$                                         )
+
+R$
+
+ 
+
+ 
+
+044)
+
+Conversão dos Valores do Principal e Juros de Mora para quantidade de UFIR’S, dividindo-se por R$                                      (valor da UFIR de        /       /          )
+
+ 
+
+ 
+
+ 
+
+
+
+
+044. a) Principal Atualizado (R$                                               ) convertido para UFIR           UFIR
+
+
+044. b) Juro de Mora até                     (R$                                ) convertido para UFIR            UFIR
+
+
+044. c) Total (R$                                                                      ) convertido para UFIR             UFIR
+
+
+____________________________________________________________________________________________________________
+
+
+TCU, em         /        /
+
+
+
+
+__________________________________________
+
+
+AFCE – Matricula nº
+
+
+
+
+___________________________________________
+
+
+Diretor
+
+
+
+
+Visto:
+
+
+
+_______________________________________
+
+
+                           Secretário
+
+
+
+LEGISLAÇÃO/COEFICIENTE UTILIZADOS:
+
+
+
+- De                a 30/06/89 tabela prática aprovada pela Portaria nº 11/89 (in DOU de 10;/0689), da Coordenação do Sistema de Arrecadação/MF;
+
+
+- De                a 01/02/91 – Bônus do Tesouro Nacional – BTN Fiscal – Art. 3º, parágrafo único, da Lei nº 8.177/91 – in DOU de 04/03/91 c/c art. 61, § 2º, da Lei  nº 7.799/89,in  DOU de 11/07/89
+
+
+- De                 a 01/02/92 – Taxa Referencial diária – TRD – Art. 9º da Lei nº 8.177/91 – in DOU de 04/03/91, com redação dada pelo art. 30 da Lei nº 8.218/91 – in DOU de 30/08-91.
+
+
+- De – 02/01/91 a               - Unidade Fiscal de Referência – UFIR – Art. 54 da Lei nº 8.383/91 – in DOU de 31/12/91:
+
+
+- Juros de Mora calculados nos termos do Art. 16 do DL nº 2.323/87 – in DOU de 05/03/87, Art. 54 da lei nº 8.383/91 – in DOU de 31/12 e da Decisão nº 484/94 – TCU – Plenário, de 27/07/94, Ata nº 35/94, in DOU de 08/08/94.
+
+
+
+OBSERVAÇÃO:
+
+
+
+Na data do pagamento, deverá a ser adotado o seguinte procedimento:
+
+
+I – Calcular os juros de mora, a razão de 1% ao mês-calendário ou fração, contados de                     até o mês do pagamento, sobre o quantitativo de UFIR’S indicado na alínea ‘a’ do item (Principal Atualizado).
+
+
+II- Somar o quantitativo obtido no item anterior (1) com o total constante da alínea ‘c’ do item   (Total)
+
+
+III – Converter para reais o somatório no item precedente, multiplicando-o pelo valor da UFIR vigente no mês do pagamento.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1385 @@
+Portaria
+270/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+
+Art. 1º  Fica aprovada a realização do projeto Sintese - Sistema de Inteligência e Suporte ao Controle Externo nos termos da proposta anexa a esta portaria.
+
+
+
+
+
+Art. 2º  Fica designado o Analista de Controle Externo (Área Controle Externo), CHEN WEN LIN, Matrícula 2430-9, para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Gerente de Projeto, código FC-4,  constante da Resolução nº 147, de 28 de dezembro de 2001 e alocada à Secretaria-Geral de Controle Externo mediante Portaria-TCU nº 186, de 8 de agosto de 2003.
+
+
+Parágrafo único. Cabe ao gerente do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria nº 176/2003 e observar o disposto no Manual de Gestão de Projetos. 
+
+
+
+Art. 3º  Fica designado o Comitê Consultivo do projeto Sintese para auxiliar a equipe do projeto nas definições estratégicas, nos levantamentos de requisitos, nas especificações e validações das soluções propostas. 
+
+
+
+
+
+§ 1°  O comitê a que se refere este artigo é composto pelos titulares das unidades:
+
+
+
+
+
+I -  Secretaria-Geral de Controle Externo - Segecex;
+
+
+
+
+
+II - Secretaria Adjunta de Fiscalização - Adfis;
+
+
+
+
+
+III - Secretaria Adjunta de Contas - Adcon;
+
+
+
+
+
+IV - Secretaria de Fiscalização de Pessoal - Sefip;
+
+
+
+
+
+V - Secretaria de Fiscalização de Obras e Patrimônio da União - Secob;
+
+
+
+
+
+VI - Secretaria de Macroavaliação Governamental - Semag;
+
+
+
+
+
+VII - Secretaria de Tecnologia da Informação - Setec.
+
+
+
+
+
+§ 2°  O comitê a que se refere este artigo é presidido pelo titular da Segecex.
+
+
+
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 1 de 7
+
+
+1. Identificação do Gestor do Projeto
+
+
+1.1.
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestorOrigem da FC
+
+
+
+Chen Wen Lin
+
+2430-9
+
+x
+
+Gerente
+
+ 
+
+Coordenador
+
+Segecex
+
+1.2.
+
+E-mail
+
+Chenwl@tcu.gov.br
+
+1.3. Nome do substituto eventual
+
+Matrícula
+
+1.3.1 E-mail
+
+Pedro Koshino
+
+2746-4
+
+pedrok@tcu.gov.br
+
+1.4.
+
+Local/telefone
+
+Sala 428, Anexo 1, ADFIS – ramal 7388
+
+
+2. Identificação do Projeto
+
+
+2.1.
+
+Nome do projeto
+
+“SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+2.2.
+
+Período de realização
+
+03/12/2003 a 07/07/2006 
+
+2.3.
+
+Unidade patrocinadora
+
+SEGECEX
+
+
+3. Vinculação Estratégica
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU – 2003/2007
+
+a)
+
+Estratégia 1: Ampliar e aprimorar o uso da tecnologia da informação. 
+
+b)
+
+Estratégia 3: Fortalecer parcerias do TCU com demais órgãos públicos.
+
+c)
+
+Estratégia 9: Aperfeiçoar processos de trabalho do TCU. 
+
+3.2.
+
+Vínculo com Plano de Diretrizes do TCU  2003
+
+a)
+
+Diretriz  2: incrementar a qualidade das fiscalizações, mantendo o esforço de fiscalização e priorizando áreas de maior significância
+
+Principais medidas associadas ao Projeto:
+
+Desenvolver metodologia de acompanhamento da gestão, seleção e planejamento de auditorias, por meio da utilização de datawarehouse que integre dados de sistemas da Administração Pública (2.4);
+
+Ampliar a integração do TCU com outros órgãos públicos (2.5);
+
+Desenvolver sistemática para análise de despesas nas áreas de pessoal e obras com base em informações disponíveis em sistemas da Administração Pública (2.6);
+
+b)
+
+Diretriz  4: melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo.
+
+Principais medidas associadas ao Projeto:Aprimorar a gestão de informações no âmbito do TCU (medida 4.10);Aperfeiçoar os procedimentos de fiscalização do cumprimento dos dispositivos da Lei de Responsabilidade Fiscal(4.16);Ampliar a integração do TCU com outros órgãos públicos, especialmente tribunais de contas estaduais e Ministério Público(4.17);
+
+c)
+
+Diretriz  7: fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia.
+
+Principais medidas associadas ao Projeto:Implementar ações de parceria que priorizem o intercâmbio de informações de interesse do controle (7.7)
+
+3.3.
+
+Vínculo com Plano Diretor  da SEGECEX  2003
+
+a)
+
+Meta  7: incrementar a qualidade das fiscalizações, mantendo o esforço de fiscalização e priorizando áreas de maior significância.
+
+Principal medida associada ao Projeto:Iniciar o desenvolvimento de metodologia de acompanhamento da gestão, seleção e planejamento de auditorias, por meio da utilização de datawarehouse que integre dados de sistemas da Administração Pública(7.4).Ampliar a integração do TCU com outros órgãos de controle.(7.5);Desenvolver sistemática para análise de despesas nas áreas de pessoal e obras com base em informações disponíveis em sistemas da Administração Pública.(7.6)
+
+ 
+
+b)
+
+Meta 8 – Melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo.
+
+Principal medida associada ao Projeto:Aperfeiçoar os procedimentos de fiscalização do cumprimento dos dispositivos da Lei de Responsabilidade Fiscal. (medida 8.18).Criar mecanismos que viabilizem a obtenção, junto à sociedade e à Administração Pública, de informações sobre áreas de risco de interesse do Tribunal.(8.21)
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 2 de 7
+
+
+4. Problema/Oportunidade
+
+
+4.1.
+
+Descrição do problema ou da oportunidade
+
+a)
+
+Necessidade de utilização cada vez mais intensiva de informações na execução das atividades de Controle Externo, que se encontram dispersas em diversos sistemas informatizados da Administração Pública Federal, e cujo acesso e obtenção é dificultado pelos inúmeros padrões de organização e softwares adotados pelos órgãos e entidades
+
+4.2.
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+O conceito de Data Warehouse – DW consiste em organizar os dados corporativos da melhor maneira para dar subsídio de informações aos gerentes e diretores das organizações para tomada de decisão. Um DW permite a geração de dados integrados e históricos auxiliando os dirigentes decidirem baseados em fatos e não em intuição ou especulação, o que reduz a probabilidade de erros e aumenta a velocidade na hora da decisão. 
+
+b)
+
+A proposta de aplicação da tecnologia de "datawarehousing" no âmbito do Tribunal de Contas da União decorre da necessidade de utilização cada vez mais intensiva de uma vasta gama de informações na execução das atividades de controle externo, com os correspondentes "cruzamentos" e "circularizações", as quais se encontram dispersas em diversos sistemas informatizados da Administração Pública Federal, e cujo acesso e obtenção é dificultado pelos inúmeros padrões de disposição adotados pelos órgãos e entidades patrocinadores.
+
+c)
+
+Como benefícios da utilização da tecnologia de datawarehouse, podemos citar:
+
+-          O planejamento das ações de controle, pela identificação correta das áreas que requerem mais atuação do TCU (risco, materialidade, relevância etc).
+
+-          A implementação do Controle externo  eletrônico com base nas informações dos diversos sistemas e seus cruzamentos;
+
+-          A disponibilização de ferramenta que permite a detecção de indícios de fraude por meio de tratamento de informações.
+
+d)
+
+Inicialmente, foram identicados cinco grandes áreas para aplicação da tecnologia de datawarehouse:
+
+-          Contas Públicas – LRF;
+
+-          Plano de Fiscalização;
+
+-          Fiscalização de Obras;
+
+-          Fiscalização de Pessoal;
+
+-          Certificação de Contas
+
+e)
+
+Nas áreas de Contas Públicas – LRF e Plano de Fiscalização a maior parte das informações já se encontravam levantadas, são conhecidas, são utilizadas com freqüência e são de domínio do Tribunal. Por isso, essas áreas se apresentam como as de maior facilidade para implementação, o que se reveste de grande importância para o sucesso desse novo processo. São as áreas ideais para se testar o uso dessa nova tecnologia no exercício do controle previsto na Constituição Federal e na Lei Complementar nº 101/2000. Atualmente, o processo de verificação do cumprimento da LRF é bastante artesanal;
+
+4.3.
+
+Evolução do quadro (apresentar dados, preferencialmente, em tabelas)
+
+a)
+
+Em 26/05/2003, por determinação do Ministro-Presidente do TCU (OS no 5/2003), foi criado um grupo de trabalho, composto pelos ACEs André Luiz Furtado Pacheco, Francisco Carlos Novaes Galhano, Remis Balaniuk, Mário Audifax Pinto Ribeiro, Roberto Carlos Martins Pontes e Daniel Dias Pereira (Supervisor), para elaborar a especificação das informações para a construção do Data Warehouse do TCU. Em 26/6/2003, o grupo de trabalho criado pela OS no 5 entregou o trabalho, propondo a criação do presente projeto.
+
+b)
+
+Em 8/7/2003, o TCU assinou contrato com o BID, para o Programa de Apoio a Modernização do TCU, que contempla a implementação do Datawarehouse;
+
+c)
+
+Entre julho e agosto de 2003, foi elaborado o termo de referência, visando a contratação da empresa que prestará a consultoria na elaboração do Plano Estratégico para a implementação de Datawarehouse;
+
+d)
+
+Estima-se que em dezembro/2003, já tenha sido contratada a empresa que prestará consultoria ao Projeto. Portanto, é urgente que se constitua um grupo para acompanhar os trabalhos desta empresa. Nos meses de setembro a novembro/2003, os membros deste projeto, os servidores da Setec e os servidores das áreas que vão atuar como consultores no projeto piloto devem ser capacitados para lidarem com a tecnologia de Datawarehouse. 
+
+e)
+
+É também necessário que parte dos membros deste projeto sejam permanentes, já que darão prosseguimento aos trabalhos na fase de implementação do Datawarehouse
+
+4.4.
+
+Se nada for feito (qual a gravidade, a urgência e a tendência)
+
+a)
+
+Caso nada seja feito, o TCU poderá perder a oportunidade de otimizar seus recursos e melhorar sua produtividade, por não poder contar com uma ferramenta que fornece informações para orientar melhor a sua ação de Controle.
+
+b)
+
+A empresa de consultoria não conseguirá viabilizar seus trabalhos;
+
+c)
+
+O TCU poderá não conseguir utilizar adequadamente os recursos obtidos junto ao BID
+
+
+5. ESCOPO DO PROJETO
+
+
+5.1. Objetivo geral do projeto (em relação à solução do problema ou da oportunidade)
+
+
+Conceber, elaborar e implementar  Datawarehouse de Controle da Administração Pública 
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 3 de 7
+
+
+5. 2. Meta – indicador – produto – cliente
+
+
+5.2.1. Objetivo específico
+
+5.2.2. Qtde.
+
+5.2.3. Prazo
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+a)
+
+Elaborar projeto básico do Data Warehouse de Controle da Administração Pública
+
+ 
+
+1
+
+30/8/2004
+
+ Projeto Básico do Datawarehouse aprovado pela Segecex
+
+Projeto Básico do Datawarehouse
+
+SEGECEX
+
+b)
+
+Auxiliar a Elaboração do edital para implementação do Projeto Piloto 
+
+1
+
+30/9/2004
+
+Edital do Projeto Piloto aprovado pelo BID/PNUD
+
+Edital para Implementação do Projeto Piloto
+
+BID/PNUD
+
+c) 
+
+Definir os convênios necessários
+
+1
+
+30/9/2004
+
+Definições para estabelecimento de convênios aprovadas pela SEPRES
+
+Definições para estabelecimento de convênios
+
+SEPRES
+
+d)
+
+Definir os contratos necessários (Ex. SERPRO)
+
+1
+
+30/9/2004
+
+Definições para estabelecimento de contratos aprovadas pela SETEC
+
+Definições para estabelecimento de contratos 
+
+SETEC
+
+e)
+
+Definir Infraestrutura de Tecnologia da Informação (TI) para o Projeto Piloto
+
+1
+
+30/6/2004
+
+Definições de Infraestrutura de TI do Projeto Piloto aprovadas pela SETEC
+
+Definições de Infraestrutura de TI do Projeto Piloto
+
+SETEC
+
+f)
+
+Definir Infraestrutura de Tecnologia da Informação (TI)
+
+1
+
+30/9/2004
+
+Definições de Infraestrutura de TI aprovadas pela SETEC
+
+Definições de Infraestrutura de TI
+
+SETEC
+
+g)
+
+Implementar Projeto Piloto de Datawarehouse 
+
+1
+
+30/6/2005
+
+Projeto Piloto de Datawarehouse homologado 
+
+Componente do Datawarehouse selecionado como projeto piloto  
+
+SEGECEX
+
+ADFIS, ADCON, SEMAG, SECOB ou SEFIP
+
+h)
+
+Definir procedimentos de operação e atendimento a usuários para o Projeto Piloto de Datawarehouse 
+
+1
+
+30/6/2005
+
+Procedimentos de operação e atendimento a usuários para o Projeto Piloto, aprovado pela SETEC
+
+Procedimentos de operação e atendimento a usuários para o Projeto Piloto
+
+SETEC
+
+i)
+
+Definir treinamento para o Projeto Piloto de Datawarehouse para usuários
+
+1
+
+30/6/2005
+
+Treinamento para o componente selecionado como projeto piloto, aprovado pelo ISC
+
+Treinamento para o componente selecionado como Projeto Piloto
+
+ISC
+
+j)
+
+Auxiliar a elaboração do Edital para implementação dos  componentes restantes
+
+1
+
+30/04/2005
+
+Edital aprovado pelo BID/PNUD
+
+Edital
+
+BID/PNUD
+
+k)
+
+Implementar os demais componentes  do Datawarehouse
+
+1
+
+07/07/2006 
+
+Componente  do datawarehouse aprovado pelos respectivos clientes
+
+Componente do datawarehouse
+
+SEGECEX
+
+ADFIS, ADCON, SEMAG, SECOB e/ou SEFIP
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 4 de 7
+
+
+
+
+
+5.2.1. Objetivo específico
+
+5.2.2. Qtde.
+
+5.2.3. Prazo
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+l)
+
+Definir procedimentos de operação e atendimento a usuários para os demais componentes do Datawarehouse
+
+1
+
+07/07/2006
+
+Procedimentos de operação e atendimento a usuários para os demais componentes do Datawarehouse, aprovado pela SETEC
+
+Procedimentos de operação e atendimento a usuários para os demais componentes do Datawarehouse
+
+SETEC
+
+m)
+
+Definir treinamento para os demais componentes do Datawarehouse
+
+1
+
+07/07/2006
+
+Treinamento para os demais componentes do Datawarehouse, aprovado pelo ISC
+
+Treinamento para os demais componentes do Datawarehouse
+
+ISC
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+a)
+
+Gerenciamento do projeto
+
+b)
+
+Estabelecimento das definições estratégicas do Projeto
+
+c)
+
+Acompanhamento do estabelecimento de Convênios para obtenção das informações
+
+d)
+
+Acompanhamento do desenvolvimento
+
+e)
+
+Validação 
+
+f)
+
+Testes
+
+g)
+
+Definição da infra-estrutura de TI, em conjunto com a SETEC
+
+h)
+
+Definição de procedimentos de produção e atendimento a usuários
+
+i)
+
+Definição do treinamentos
+
+j)
+
+Divulgação
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+O projeto não implementará sistemas de informação (transacionais) de entrada de dados
+
+
+Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+SETEC –fornecer as soluções de infra-estrutura de TI necessária ao funcionamento; fornecer analistas de sistemas necessários para a manutenção do código fonte da solução; realizar a operacionalização dos convênios; realizar os procedimentos de produção; realizar os contratos necessários para obtenção de dados; realizar atendimento ao usuário
+
+b)
+
+ISC – disponibilizar o treinamento.
+
+c)
+
+Sepres – negociar convênios
+
+d)
+
+Equipes projetos TCU-BID – acompanhar projeto
+
+e)
+
+Consultoria externa – elaborar e implementar o datawarehouse
+
+f)
+
+Órgãos Externos – disponibilizar acesso às informações
+
+g)
+
+Semag – cliente do componente datawarehouse relativo à área de Contas Públicas
+
+h)
+
+Adfis - cliente do componente datawarehouse relativo à área de Plano de Fiscalização
+
+i)
+
+Secob - cliente do componente datawarehouse relativo à área de Fiscalização de Obras do Datawarehouse
+
+j)
+
+Sefip - cliente do componente datawarehouse relativo à área de Fiscalização de Pessoal do Datawarehouse
+
+k)
+
+Adcon – cliente do componente datawarehouse relativo à área de Certificação de Contas
+
+l)
+
+Segecex – patrocinador, disponibilizar recursos humanos para a realização de testes e para participação no projeto
+
+m)
+
+Congresso Nacional, Controladoria-Geral da União, MPOG – compatibilizar /unificar esforços de implementação do DW 
+
+
+Fatores que podem pôr em risco o êxito do projeto
+
+
+7.1 Risco
+
+7.2. Impacto
+
+7.3. Probabilidade
+
+7.3.  (E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.4. Responsável pela ação
+
+a)
+
+Dificuldade na liberação de servidores para compor a equipe do projeto.
+
+Alto
+
+Alta
+
+ 
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância do Projeto no contexto estratégico do Tribunal.
+
+(M) – Acordar a disponibilidade dos servidores por tarefas.
+
+(E) – Portaria da autoridade competente (SEGECEX e Presidência), nomeando os servidores como parte integrante da equipe do projeto
+
+Coordenador do projeto e titular da SEGECEX
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 5 de 7
+
+
+
+
+
+b)
+
+Mudança de orientação cultural em relação à tecnologia da informação.
+
+Alto
+
+Baixa
+
+(E) – Enfatizar junto às autoridades do TCU a importância do datawarehouse para orientar as ações do TCU.
+
+Coordenador do projeto e titular da SEGECEX
+
+c)
+
+Surgimento de novas demandas ao longo do projeto
+
+Alto
+
+Média
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância de participação na fase de Elaboração do Projeto Básico
+
+ 
+
+Coordenador  do projeto e titular da SEGECEX
+
+d)
+
+Dificuldade de participação dos stakeholders para a  definição da solução 
+
+Alto
+
+Média
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância de participação na fase de Elaboração do Projeto Básico
+
+ 
+
+Coordenador do projeto e titular da SEGECEX
+
+e)
+
+Dificuldade de identificação das necessidades informação pelo gestor do negócio
+
+Alto
+
+Média
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância de participação na fase de Elaboração do Projeto Básico
+
+Coordenador do projeto e titular da SEGECEX
+
+f)
+
+Dificuldade de participação dos stakeholders na avaliação dos produtos
+
+Alto
+
+Média
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância de participação na fase de Testes e avaliação dos Produtos
+
+ 
+
+Coordenador  do projeto e titular da SEGECEX
+
+g)
+
+Restrição orçamentária que inviabilize a realização das metas do projeto
+
+Alto
+
+Alta
+
+(E) – Buscar alternativas para reduzir os custos
+
+ 
+
+(E) – obter mais recursos junto a BID ou aumentar a participação dos recursos do orçamento do TCU no projeto
+
+Coordenador do projeto, Titular da SEGECEX e  
+
+Presidência do TCU
+
+ 
+
+h)
+
+Dificuldade da SETEC para fornecer analistas para acompanhar o desenvolvimento do Datawarehouse
+
+Alto
+
+Alta
+
+ (E) – Negociar com a SETEC a disponibilização de recursos humanos específicos; 
+
+(M) – Negociar a alteração de prioridades.
+
+coordenador do projeto, Titular da SEGECEX 
+
+i)
+
+Dificuldade na obtenção das informações junto aos órgãos externos
+
+Alto
+
+Média
+
+(E) – Solicitar contato da Presidência do TCU com as Autoridades da área correspondente
+
+coordenador do projeto, Titular da SEGECEX 
+
+j)
+
+Necessidade de recursos financeiros para manter o Datawarehouse em operação
+
+Alto
+
+Baixa
+
+(E) – Obter alocação de recursos do orçamento do TCU para manutenção da infraestrutura e para pagamento dos contratos (SERPRO, circuitos de comuicação de dados etc); 
+
+coordenador do projeto, Titular da SEGECEX
+
+k)
+
+Baixa qualidade da informação 
+
+Alto
+
+Média
+
+(R) – Procurar outras fontes de informação
+
+(E) – Determinar aos órgãos a correção das informações
+
+coordenador do projeto e Presidência do TCU
+
+l)
+
+Dificuldade de sincronismo com o PAM-TCU-área de fiscalização
+
+Baixo
+
+Média
+
+(E) – Realizar parceria com a Adfis
+
+(M) – Fazer adaptações em ambos projetos
+
+coordenador do projeto e titular da Adfis
+
+
+Fatores que contribuem para o êxito do projeto
+
+
+a)
+
+Apoio da Presidência do TCU e interesse dos seus dirigentes pelos resultados do presente projeto, ensejando apoio para sua realização.
+
+b)
+
+Motivação e sensibilização dos servidores na utilização das novas ferramentas de trabalho.
+
+c)
+
+Apoio dos demais órgãos da Administração Pública para o fornecimento de informações
+
+
+Projetos predecessores 
+
+
+a)
+
+Não foi identificado projeto predecessor
+
+
+Projetos conexos
+
+
+a)
+
+Projeto Apoio à Modernização do TCU 
+
+Projeto Sinergia
+
+Portal TCU
+
+PAM-TCU-área de fiscalização
+
+
+Projetos sucessores
+
+
+a)
+
+ Não foi identificado projeto sucessor 
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 6 de 7
+
+
+Custos estimados
+
+
+11.1. Recurso
+
+11.2. Valor estimado / 11.3. Prazo
+
+a)
+
+Consultoria para elaboração do Projeto Básico
+
+O valor estimado com auxílio da equipe do PNUD é de US$ 650.000,00  (janeiro de 2004 a agosto de 2004). Recursos oriundos do projeto BID
+
+b)
+
+Implementação do Datawarehouse
+
+Os valores serão estipulados após a conclusão do Projeto Básico. Recursos oriundos do projeto BID
+
+c)
+
+Infra-estrutura de TI para o Datawarehouse (equipamentos e software)
+
+Os valores serão estipulados após a conclusão do Projeto Básico e a contratação estará a cargo da SETEC. 
+
+d)
+
+Remuneração de instrutores
+
+Os valores e os prazos para utilização serão estipulados por ocasião da elaboração do plano para treinamentos.
+
+e)
+
+Custos relativos à remuneração dos órgãos externos para geração de informação
+
+Os valores serão estipulados após a conclusão do Projeto Básico e a contratação estará a cargo da SETEC. Recursos oriundos do orçamento do TCU.
+
+f)
+
+Custos relativos a viagens,  visando visitas a entidades fora de Brasília-DF
+
+R$ 30.000,00 para pagamento de passagens e diárias da equipe do Projeto e de colaboradores eventuais
+
+
+Obs.: os custos previstos serão aprovados oportunamente pela autoridade competente
+
+
+Outros recursos necessários
+
+
+13.1. Recurso
+
+13.2. Fornecedor
+
+a)
+
+Recursos humanos –Analistas de Controle Externo-CE, Analistas de Controle Externo – Tecnologia da Informação
+
+SETEC e unidades técnicas envolvidas nos testes.
+
+b)
+
+Recursos instrucionais (salas de aula, retro projetor, canhão de projeção, etc.) 
+
+ISC e SETEC 
+
+c)
+
+Sala para equipe de projeto e empresa de Consultoria  (com mesa e computadores)
+
+Segedam
+
+
+Equipe do projeto
+
+
+14.1. Nome
+
+14.2. Matrícula
+
+14.3. Lotação
+
+14.4. Período
+
+14.5. Dedicação integral ou parcial
+
+a)
+
+Chen Wen Lin (coordenador)
+
+2430-9
+
+ADFIS
+
+03/12/2003 a 07/07/2006
+
+Integral (gerente)
+
+b)
+
+Pedro Koshino
+
+2746-4
+
+SETEC
+
+03/12/2003 a 07/07/2006
+
+Integral
+
+c)
+
+Claiton Custodio Da Silva
+
+3523-8
+
+SECOB
+
+03/12/2003 a 07/07/2006
+
+Parcial
+
+d)
+
+Remis Balaniuk
+
+2431-7
+
+SETEC
+
+03/12/2003 a 07/07/2006
+
+Parcial
+
+e)
+
+Analistas de Controle Externo – CE que serão indicados oportunamente pelos titulares das unidades técnicas, conforme solicitação da SEGECEX 
+
+(Finalidade: Apoio em conhecimento do negócio, nos testes e na homologação da solução)
+
+-
+
+SECEX da Sede
+
+03/12/2003 a 07/07/2006
+
+Parcial
+
+f)
+
+Analistas de Controle Externo – Tecnologia da Informação, que serão indicados oportunamente pela SETEC
+
+ (Finalidade: implementação da infra-estrutura de TI, acompanhamento do desenvolvimento, elaboração das rotinas de produção e de atendimento ao usuário, realização da transferência de tecnologia)
+
+-
+
+Setec
+
+03/12/2003 a 07/07/2006
+
+Parcial
+
+
+Comitê Consultivo
+
+
+15..1. Nome
+
+15..2. Matrícula
+
+15..3. Lotação
+
+15.4. Período 
+
+a)        
+
+Luciano Carlos Batista (Coordenador)
+
+566-5
+
+SEGECEX
+
+03/12/2003 a 07/07/2006
+
+b)        
+
+Alexandre Valente Xavier
+
+2551-8
+
+ADCON
+
+03/12/2003 a 07/07/2006
+
+c)        
+
+Antonio Julio Ferreira
+
+0341-7
+
+SEFIP
+
+03/12/2003 a 07/07/2006
+
+d)        
+
+Cláudio Cruz
+
+3164-0
+
+SETEC
+
+03/12/2003 a 07/07/2006
+
+e)        
+
+Claudio Sarian Altounian
+
+2813-4
+
+SECOB
+
+03/12/2003 a 07/07/2006
+
+f)         
+
+Claudio Souza Castello Branco
+
+2489-9
+
+ADFIS
+
+03/12/2003 a 07/07/2006
+
+g)        
+
+Paulo Roberto Pinheiro Dias Pereira
+
+2707-3
+
+SEMAG
+
+03/12/2003 a 07/07/2006
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO “SINTESE – Sistema de Inteligência e Suporte ao Controle Externo”
+
+Página 7 de 7
+
+
+
+
+
+16. Consultoria interna ao Projeto 
+
+
+16..1. Nome
+
+16.2. Matrícula
+
+16.3. Lotação
+
+16.4. Período
+
+a)
+
+Andre Luiz Furtado Pacheco
+
+2672-7
+
+CORREGEDORIA
+
+03/12/2003 a 07/07/2006
+
+b)
+
+Daniel Dias Pereira 
+
+3195-0
+
+ADFIS
+
+03/12/2003 a 07/07/2006
+
+c)
+
+Francisco Carlos Novaes Galhano
+
+3110-0
+
+SEMAG
+
+03/12/2003 a 07/07/2006
+
+d)
+
+Laércio Mendes Vieira
+
+5092-0
+
+SEMAG
+
+03/12/2003 a 07/07/2006
+
+
+1. Considerações finais (fundamentação normativa Portaria 176/2003
+
+
+17.1
+
+O que caracteriza o trabalho como projeto (art. 4. da Portaria 176/2003)
+
+a)
+
+Atendimento de demanda específica da SEGECEX que comporta grande esforço de planejamento e coordenação para gerar resultado dentro do prazo estabelecido(inciso IV).
+
+b)
+
+Desenvolvimento de soluções que resultem na melhoria de gestão no âmbito interno do Tribunal(inciso II)
+
+17.2.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador (art. 7º da Portaria 176/2003)
+
+a)
+
+Período mínimo de três meses (inciso IV);
+
+b)
+
+Desenvolvimento de nova tecnologia ou metodologia com impacto geral nas atividades da Secretaria do Tribunal, especialmente na área de controle externo (inciso VII);
+
+c)
+
+Produto de importância estratégica para o alcance de metas institucionais (inciso VI);
+
+d)
+
+Complexidade das atividades de coordenação com relação ao número de metas a serem alcançadas e de itens a serem controlados (inciso VIII).
+
+
+
+
+
+1. Finalização
+
+
+18.1.   Data e assinatura do Coordenador do projeto
+
+Em 8/12/ 2003
+
+ 
+
+ 
+
+ 
+
+ 
+
+Em 8/12/ 2003
+
+ 
+
+ 
+
+ 
+
+CHEN WEN LIN
+
+Gerente de Projeto
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cláudio Souza Castello Branco
+
+Supervisor do Projeto
+
+ 
+
+ 
+
+18.2.   Manifestação do titular unidade patrocinadora
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 3 de dezembro de 2003.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Segecex, em 8/12/ 2003
+
+ 
+
+ 
+
+ 
+
+Cláudio Souza Castello Branco
+
+Secretário-Geral Substituto de Controle Externo
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto Sintese - Sistema de Inteligência e Suporte ao Controle Externo e designa seu gestor.
+
+

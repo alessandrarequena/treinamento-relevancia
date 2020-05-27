@@ -1,0 +1,246 @@
+Resolução
+217/2008
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+Considerando que o Tribunal gera, adquire ou absorve informações no exercício de suas competências constitucionais, legais e regulamentares, e que essas informações devem permanecer íntegras, disponíveis e, quando for o caso, com o sigilo resguardado;
+
+
+Considerando que as informações no Tribunal são armazenadas em diferentes suportes, veiculadas por diferentes formas, tais como meio impresso, eletrônico e microforma, e, portanto, vulneráveis a incidentes como desastres naturais, acessos não autorizados, mau uso, falhas de equipamentos, extravio e furto;
+
+
+Considerando que a adequada gestão da informação precisa nortear todos os processos de trabalho e unidades do Tribunal e deve ser impulsionada por política corporativa de segurança da informação;
+
+
+Considerando que a NBR ISO/IEC 27002:2005, norma que estabelece boas práticas em segurança da informação, recomenda revisões periódicas da política de segurança da informação das instituições;
+
+
+Considerando as recomendações resultantes do diagnóstico de maturidade e aderência de processos de segurança da informação realizado no Tribunal; e
+
+
+Considerando os estudos e pareceres constantes do processo TC 024.669/2008-8, resolve:
+
+
+Art. 1° A Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU) observará os princípios, objetivos e diretrizes estabelecidos nesta Resolução, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+Parágrafo único. Integram, também, a PCSI/TCU normas gerais e específicas de segurança da informação, bem como procedimentos complementares, destinados à proteção da informação e à disciplina de sua utilização, emanados no âmbito do Tribunal.
+
+
+Art. 2º A PCSI/TCU alinha-se às estratégias do Tribunal e tem por objetivos garantir a autenticidade, a confidencialidade, a disponibilidade e a integridade das informações produzidas ou custodiadas pelo Tribunal.
+
+
+Art. 3º Para os efeitos desta Resolução, entende-se por:
+
+
+I - informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II - segurança da informação: proteção da informação contra ameaças para garantir a continuidade do negócio, minimizar os riscos e maximizar a eficiência e a efetividade das ações do negócio;
+
+
+III - gestor da informação: unidade ou projeto do Tribunal que, no exercício de suas competências, produz informações ou obtém, de fonte externa ao Tribunal, informações de propriedade de pessoa física ou jurídica; (NR)(Resolução – TCU nº 229, de 11/11/2009, BTCU 44/2009, DOU de 13/11/2009)
+
+
+
+IV - custodiante: pessoa física, unidade ou projeto do Tribunal que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal; e
+
+
+V - incidente em segurança da informação: qualquer indício de fraude, sabotagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer as operações do negócio ou ameaçar a segurança da informação.
+
+
+Art. 4º A segurança da informação no Tribunal abrange aspectos físicos, tecnológicos e humanos da organização e orienta-se pelos seguintes princípios:
+
+
+I - confidencialidade: garante que a informação seja acessada somente pelas pessoas ou processos que tenham autorização para tal;
+
+
+II - disponibilidade garante que as informações estejam acessíveis às pessoas e aos processos autorizados, no momento requerido; e
+
+
+III - integridade: garante a não-violação das informações com intuito de protegê-las contra alteração, gravação ou exclusão acidental ou proposital.
+
+
+Art. 5º São atributos inerentes à segurança da informação:
+
+
+I - autenticidade: assegura a correspondência entre o autor de determinada informação e a pessoa, processo ou sistema a quem se atribui a autoria; e
+
+
+II - criticidade: define a importância da informação para a continuidade do negócio da instituição.
+
+
+Art 6º Compete à Secretaria-Geral da Presidência (Segepres), por meio da Assessoria de Segurança da Informação e Apoio à Governança de TI (Assig):
+
+
+I - coordenar e acompanhar a implementação da PCSI/TCU e normas complementares;
+
+
+II - homologar processos de trabalho e procedimentos operacionais necessários; e
+
+
+III - monitorar e avaliar periodicamente as práticas de segurança da informação adotadas pelo Tribunal.
+
+
+Parágrafo único. Cabe às demais unidades do Tribunal, no âmbito de suas competências, a implementação e o acompanhamento de ações para segurança da informação.
+
+
+Art. 7º Para fins de segurança da informação, os usuários classificam-se em:
+
+
+I - usuário interno: qualquer servidor ativo ou unidade do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+II - usuário colaborador: prestador de serviço terceirizado, estagiário ou qualquer outro colaborador do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal; e
+
+
+III - usuário externo: qualquer pessoa física ou jurídica que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal e que não seja caracterizada como usuário interno ou usuário colaborador.
+
+
+§ 1º Os usuários internos, externos e colaboradores estão sujeitos às diretrizes, normas e procedimentos de segurança de informação da PCSI/TCU.
+
+
+§ 2º Os usuários internos e colaboradores são responsáveis por garantir a segurança das informações do TCU a que tenham acesso e por reportar à Assig os incidentes em segurança da informação de que tenham conhecimento.
+
+
+Art. 8º O acesso às informações produzidas ou custodiadas pelo Tribunal, que não sejam de domínio público, deve ser limitado às atribuições necessárias ao desempenho das respectivas atividades dos usuários internos ou usuários colaboradores.
+
+
+§ 1º Qualquer outra forma de uso que extrapole as atribuições necessárias ao desempenho das atividades dos usuários internos ou usuários colaboradores necessitará de prévia autorização formal.
+
+
+§ 2º O acesso, quando autorizado, dos usuários colaboradores ou usuários externos a informações produzidas ou custodiadas pelo Tribunal que não sejam de domínio público é condicionado ao aceite a termo de sigilo e responsabilidade.
+
+
+Art. 9º As medidas de segurança da informação devem ser planejadas, aplicadas, implementadas e, periodicamente, avaliadas de acordo com os objetivos institucionais e os riscos para as atividades do TCU.
+
+
+§ 1º Cabe ao Comitê de que trata o art. 18 desta Resolução elaborar proposta e promover atualização periódica de plano com medidas que garantam a continuidade das atividades do Tribunal e o retorno à situação de normalidade em caso de desastre ou falhas nos recursos que suportam os processos vitais de negócio do Tribunal.
+
+
+§ 2º Ações permanentes de divulgação, treinamento, educação e conscientização dos usuários, em relação aos conceitos e às praticas de segurança da informação em toda sua abrangência, devem ser coordenadas pela Assig, com o apoio do Instituto Serzedello Corrêa e das demais unidades pertinentes.
+
+
+Art. 10. As informações produzidas ou custodiadas pelo Tribunal serão classificadas em função do seu grau de confidencialidade, criticidade, disponibilidade, integridade e prazo de retenção.
+
+
+§ 1º A Assig, com o apoio, no que couber, da Comissão Permanente de Avaliação de Documentos (CAD) e demais unidades pertinentes, submeterá, até o final do segundo semestre de 2009, proposta de regulamentação da classificação das informações ao Comitê de que trata o art. 18 desta Resolução.
+
+
+§ 2º A autorização, o acesso e o uso das informações produzidas ou custodiadas pelo Tribunal devem ser controlados de acordo com a respectiva classificação.
+
+
+Art. 11. São responsabilidades do gestor da informação, no que concerne às informações sob sua gestão, produzidas ou custodiadas pelo Tribunal:
+
+
+I - garantir a segurança das informações;
+
+
+II - definir procedimentos, critérios de acesso e classificar as informações, observados os dispositivos legais e regimentais relativos ao sigilo e a outros requisitos de classificação pertinentes; e
+
+
+III - propor regras específicas ao uso das informações.
+
+
+§ 1º As informações recebidas de pessoa física ou jurídica externa ao Tribunal serão submetidas, adicionalmente, a medidas de segurança da informação compatíveis com os requisitos pactuados com quem as forneceu.
+
+
+§ 2º Quando se tratar de informação sob a forma de sistema, serviço ou outra espécie de solução de tecnologia da informação, a designação do gestor da informação e a definição de suas responsabilidades ocorrerão mediante ato da Presidência.
+
+
+§ 3º O Presidente, Ministros e Auditores podem indicar, orientar e autorizar, a qualquer tempo, procedimentos que visem garantir a segurança da informação, nos processos e documentos de sua competência, a serem seguidos pelos gestores da informação pertinentes.
+
+
+Art. 12. São responsabilidades do custodiante da informação:
+
+
+I - garantir a segurança da informação sob sua posse, conforme os critérios definidos pelo respectivo gestor da informação;
+
+
+II - comunicar tempestivamente ao gestor sobre situações que comprometam a segurança das informações sob custódia; e
+
+
+III - comunicar eventuais limitações para cumprimento dos critérios definidos pelo gestor para segurança da informação, para que este decida quanto à cessão ou não da informação.
+
+
+Art. 13. São responsabilidades dos dirigentes das unidades e demais chefias do Tribunal, no que se refere à segurança da informação:
+
+
+I - conscientizar usuários internos e colaboradores sob sua supervisão em relação aos conceitos e às praticas de segurança da informação;
+
+
+II - incorporar aos processos de trabalho de sua unidade, ou de sua área, práticas inerentes à segurança da informação; e
+
+
+III - tomar as medidas administrativas necessárias para que sejam aplicadas ações corretivas nos casos de comprometimento da segurança da informação por parte dos usuários internos e colaboradores sob sua supervisão.
+
+
+Art. 14. As informações produzidas por usuários internos e colaboradores, no exercício de suas funções, são patrimônio intelectual do TCU e não cabe a seus criadores qualquer forma de direito autoral.
+
+
+§ 1º Quando as informações forem produzidas por terceiros para uso exclusivo do Tribunal, instrumento próprio obrigará os criadores ao sigilo permanente do conteúdo dos produtos.
+
+
+§ 2º É vedada a utilização das informações a que se refere o parágrafo anterior em quaisquer outros projetos ou atividades de uso diverso ao estabelecido pelo TCU, salvo autorização específica pelos Ministros e Auditores, nos processos e documentos de sua competência, ou pelo Presidente, nos demais casos.
+
+
+Art. 15. Os contratos, convênios, acordos de cooperação e outros instrumentos congêneres celebrados pelo Tribunal devem observar, no que couber, o contido no artigo anterior e nos demais dispositivos integrantes da PCSI/TCU.
+
+
+Art. 16. O uso de recursos de tecnologia da informação do TCU será regulamentado em norma específica, respeitando-se os dispositivos legais.
+
+
+Art. 17. A não-observância aos dispositivos da PCSI/TCU pode acarretar, isolada ou cumulativamente, nos termos da legislação aplicável, sanções administrativas, civis e penais, assegurados aos envolvidos o contraditório e a ampla defesa.
+
+
+Art. 18. Fica instituído o Comitê de Segurança da Informação (CSI), órgão colegiado de natureza consultiva e de caráter permanente.
+
+
+§ 1º O Comitê tem por finalidade formular e conduzir diretrizes para a PCSI/TCU, analisar periodicamente sua efetividade, propor normas e mecanismos institucionais para melhoria contínua, bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral (CCG) e a Presidência do Tribunal.
+
+
+§ 2º Compete também ao Comitê apresentar proposta de revisão da PCSI/TCU, no máximo a cada cinco anos, de modo a atualizar a política frente a novos requisitos corporativos.
+
+
+§ 3º A composição e os regulamentos do Comitê são estabelecidos por ato da Presidência.
+
+
+Art. 19. Fica a Presidência do Tribunal autorizada a expedir os atos necessários à regulamentação desta Resolução.
+
+
+Art. 20. Incumbe à Segepres, por meio da Assig, a adoção de medidas necessárias ao tratamento de situações inerentes à segurança da informação preeexistentes à edição da PCSI/TCU, inclusive aquelas relativas à obrigatoriedade de aceite, por usuários colaboradores e usuários externos, a termo de sigilo e responsabilidade de que trata o § 2º do art. 8º deste normativo.
+
+
+Art. 21. Esta Resolução entra em vigor na data de sua publicação.
+
+
+Art. 22. Fica revogada a Resolução-TCU nº 126, de 3 de novembro de 1999.
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 15 de outubro de 2008.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+Art. 3º ...
+
+
+III - gestor da informação: unidade ou projeto do Tribunal que, no exercício de suas competências, é responsável pela produção de informações ou pelo tratamento, ainda que temporário, de informações de propriedade de pessoa física ou jurídica entregues ao Tribunal;
+
+
+
+Revogada
+Dispõe sobre a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU).
+
+

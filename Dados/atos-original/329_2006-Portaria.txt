@@ -1,0 +1,677 @@
+Portaria
+329/2006
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º  Fica aprovada a realização do Projeto Padronizar II, nos termos do Anexo desta Portaria.
+
+
+Art. 2º  Fica designado o Técnico de Controle Externo (Área Controle Externo) JOSÉ RONALDO CARVALHO VASCONCELOS, matrícula nº 1868-6, para exercer a função de Líder do Projeto de que trata esta Portaria.
+
+
+Parágrafo único.  Cabe ao líder do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º  Fica autorizado o titular da Secretaria-Geral de Administração a proceder, sempre que necessário, à substituição do líder ou de membro do projeto.
+
+
+Art. 5º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+GUILHERME PALMEIRA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+José Ronaldo Carvalho Vasconcelos
+
+1868-6
+
+josecv@tcu.gov.br
+
+7981Função do gestor
+
+Origem da FC
+
+
+
+ Gerente
+
+
+
+ Coordenador
+
+
+
+xLíder
+
+
+
+ Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+Felipe Guimarães da Silva
+
+6275-8
+
+felipegs@tcu.gov.br
+
+7112Local / telefone
+
+
+
+Sala 435, Anexo II – 7981/5130
+
+
+
+
+2. Identificação do projeto
+
+Nome do projeto
+
+
+
+Padronizar IIPeríodo de realização
+
+Unidade patrocinadora
+
+
+
+15/12/06 a 31/07/2007
+
+SEGEDAM/SECOF
+
+
+
+
+3. Vinculação estratégica
+
+Plano estratégico do TCU (Portaria – TCU nº 02, de 05 de janeiro de 2006).
+
+
+
+a)
+
+Macroprocesso 8 :  logística
+
+b)
+
+Objetivo Estratégico 14: aperfeiçoar instrumentos de controle e processos internos.
+
+c)
+
+Iniciativa Estratégica 11: mapear e racionalizar os principais processos de trabalho do TCU.Plano de diretrizes do TCU – biênio 2005-2006
+
+
+
+a)
+
+Diretriz 5: ampliar a contribuição do TCU para o aperfeiçoamento da administração pública.
+
+b)
+
+Medida 5.13: mapear e racionalizar os principais processos de apoio, especialmente os relativos à  gestão de contratos e de patrimônio e aos processos de compra, indicando sempre que possível os riscos e controles
+
+
+
+
+4. Problema / oportunidade
+
+Descrição do problema ou da oportunidade 
+
+
+
+a)
+
+Assegurar a sustentabilidade do atendimento tempestivo e o desempenho na execução das atividades da Secof  com a inclusão de padronização dos últimos quatro processos de trabalho da matriz/Secof.
+
+b)
+
+Uniformizar os processos de trabalho da Secof  e disseminar  para toda equipe o conhecimento das ativididades de execução de suas rotinas. Evolução do quadro (apresentar dados)
+
+
+
+a)
+
+A experiência obtida e o sucesso nos  resultados alcançados com a utilização da padronização eletrônica de sete processos de trabalho da Secretaria de Orçamento, Finanças e Contabilidade/Secof reforçou a convicção da necessidade  de conclusão deste processo de padronização.
+
+
+
+
+5. Escopo do projeto
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+
+
+Mapear, modelar e publicar na intranet fluxos de processos de trabalhos e padronizar roteiros de atividades críticos da Secof.
+
+
+
+
+5.2 Meta – Indicador – Produto – Cliente
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+
+
+a)
+
+Identificar e mapear processos de trabalho críticos da Secof
+
+4
+
+31/03/2007
+
+Nº de processos mapeados
+
+Fluxos de processos mapeados
+
+Secof
+
+b)
+
+Redesenhar processos de trabalho da Secof 
+
+4
+
+15/04/2007
+
+Nº de processos redesenhados
+
+Fluxos de processos redesenhados
+
+Secof
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+
+
+c)
+
+Elaborar procedimento operacional padrão e modelos de documentos associados para atividades críticas.
+
+100%
+
+16/07/2007
+
+Padronização formalizada
+
+Roteiros de execução das atividades críticas e modelos elaborados.
+
+Secof
+
+d)
+
+Publicar na intranet os fluxos dos processos mapeados, procedimentos operacionais padrão e modelos de documentos associados.
+
+4
+
+31/07/2007
+
+Nº de fluxos publicados 
+
+Fluxos, procedimento operacional padrão e modelos de documentos associados publicados na intranet.
+
+Secof
+
+
+
+
+
+
+5.3.Benefícios (impacto esperado dos produtos do projeto)
+
+
+
+a)
+
+Eliminar o excessivo dispêndio de esforços na execução das atividades, encontrando um meio termo para elaboração de um roteiro auto-explicativo.
+
+b)
+
+Reduzir a sobrecarga de concentração de responsabilidade na chefia, pois, no modelo atual, além de ensinar e supervisionar atividades, acompanha e controla o atendimento das demandas.
+
+c)
+
+Aperfeiçoar a visão sistêmica do fluxo de processos de trabalho na Secof, colaborando, assim, para a melhora do espírito de equipe.
+
+d)
+
+Otimizar a satisfação dos clientes internos.
+
+
+
+
+5.4.Não escopo (o que o projeto não vai fazer)
+
+
+
+a)
+
+Implantação de processos de trabalho redesenhados.
+
+b)
+
+Informatização de processos de trabalho.
+
+c)
+
+Criar índices de medição de produção de trabalho
+
+
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)
+
+Segedam
+
+Patrocinador do projeto. Apoio administrativo para o desenvolvimento do projeto.
+
+b)
+
+Secof
+
+Co-patrocinador do projeto. Assessoramento técnico e alocação de pessoal e de recursos materiais para o projeto.
+
+c)
+
+Seplan
+
+Assessoramento técnico, em especial nas entrevistas a serem realizadas para  mapeamento, redesenho e descrição dos processos de trabalho. 
+
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+
+
+ 
+
+Ausência de cooperação dos chefes e dos servidores de cada subunidade.
+
+alto
+
+Baixa
+
+(M) Solicitar a cooperação com a equipe do projeto e  promover a conscientização da importância do projeto junto aos demais colaboradores; e
+
+(M) Identificar focos de resistência e levar ao conhecimento dos superiores sua ocorrência.
+
+Secretário e líder do projeto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Relação com outros projetos
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+
+
+Padronizar
+
+ 
+
+ 
+
+
+
+
+9. Equipe do projeto
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+
+
+1.
+
+José Ronaldo Carvalho Vasconcelos
+
+1868-6
+
+Secof
+
+15/12/06 a 31/07/2007
+
+integral
+
+2.
+
+Felipe Guimarães da Silva
+
+6275-8
+
+Secof
+
+15/12/06 a 31/07/2007
+
+parcial
+
+3.
+
+Maria Aparecida Araújo Vitalino Machado
+
+2465-1
+
+Secof
+
+15/12/06 a 31/07/2007
+
+parcial
+
+4.
+
+Fabrício Narciso Leal Costa
+
+5179-9
+
+Secof
+
+15/12/06 a 31/07/2007
+
+parcial
+
+5.
+
+Terezinha da Luz Silva de Rezende
+
+2523-2
+
+Secof
+
+15/12/06 a 31/07/2007
+
+parcial
+
+6.Cyro de Castilho Ribeiro
+
+
+
+2979-3
+
+Secof
+
+15/12/06 a 31/07/2007
+
+por atividade
+
+7.
+
+Augusto Orleans Venâncio Ferreira
+
+357-3
+
+Seplan
+
+15/12/06 a 31/07/2007
+
+por atividade
+
+
+
+
+10. Custos adicionais estimados
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+
+
+a)
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+ 
+
+ Total de custos estimados
+
+
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+11. Outros recursos necessários
+
+Recurso
+
+Fornecedor
+
+
+
+a)
+
+ 
+
+ 
+
+b)
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Finalização
+
+Data
+
+Assinatura do gestor do projeto
+
+
+
+Em 14/12/2006
+
+José Ronaldo carvalho vasconcelos
+
+Líder do ProjetoManifestação do titular da unidade co-patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2006.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Secof, em 14/12/2006
+
+ary Fernando Beirão
+
+Secretário de Contabilidade, Orçamento e FinançasManifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2006.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segedam, em 18/12/2006
+
+SÉRGIO FREITAS DE ALMEIDA
+
+Secretário-Geral de AdministraçãoManifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em 19/12/2006
+
+Alessandro Giubert Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Padronizar II e designa seu gestor.
+
+

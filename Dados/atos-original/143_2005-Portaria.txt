@@ -1,0 +1,2395 @@
+Portaria
+143/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto de Automação da Sistemática de Gestão de Pessoas (Pessoa I) nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo GECI ORIONE PEREIRA GOULART, matrícula nº 2982-3, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário e mediante provocação da Unidade patrocinadora, à substituição ou à nomeação do coordenador do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+(Publicada no DOU de 13/7/2005, Seção 2, pág. 25)
+
+
+
+
+Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Geci Orione Goulart
+
+2982-3
+
+geci@tcu.gov.br 
+
+7283
+
+Função do GestorOrigem da FC
+
+
+
+ 
+
+1.1.1.1.1.1.1.1.                                                                                                 Gerente
+
+X
+
+1.1.1.1.1.1.1.2.                                                                                                 Coordenador
+
+1.1.1.1.1.1.1.3.                                                                                                  
+
+1.1.1.1.1.1.1.4.                                                                                                 Líder
+
+1.1.1.1.1.1.1.5.                                                                                                 Segecex
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Raimundo Eustáquio do Carmo
+
+3180-1
+
+raimundoec@tcu.gov.br 
+
+7283
+
+Local / Telefone
+
+Setec/Disin - Anexo I, térreo, sala 49.
+
+
+Identificação do projeto
+
+
+Nome do Projeto
+
+Automação da Sistemática de Gestão de Pessoas – PESSOA I
+
+Período de Realização
+
+Unidade Patrocinadora
+
+01/07/2005 a 31/12/2007
+
+Serec
+
+
+Vinculação estratégica
+Plano Estratégico do TCU (Portaria – TCU nº 59, de 20 de janeiro de 2003).
+
+
+
+a)     
+
+Objetivo estratégico 5: aprimorar política interna de gestão de pessoas.
+
+b)     
+
+Estratégia 1: Ampliar e aprimorar o uso da tecnologia da informação.
+
+c)     
+
+Estratégia 9: aperfeiçoar os processos de trabalho do TCU.
+
+d)     
+
+Estratégia 10: assegurar elevado o nível de satisfação dos servidores do TCU.
+
+Plano de Diretrizes do TCU – biênio 2005-2006 (Portaria – TCU nº 28, de 14 de janeiro de 2005)
+
+ 
+
+Diretriz 8: Aprimorar a gestão de pessoas e equipes no Tribunal.
+
+Medida 8.1: Instituir e disseminar modelo integrado de gestão de pessoas.
+
+Plano Diretor da Segedam – diretriz e medida
+
+ 
+
+Meta 2: Aperfeiçoar a execução dos serviços administrativos do TCU.
+
+Medida 2.4: Auxiliar a Setec na implantação e gerenciamento de soluções tecnológicas para a racionalização de procedimentos administrativos.
+
+Plano Diretor da Setec – diretriz e medida
+
+a)     
+
+Diretriz 1: Ampliar e aprimorar o uso de tecnologia da informação.
+
+Meta 1: Ampliar e aprimorar o uso de tecnologia da informação.
+
+Medida 1.6: Promover, junto aos respectivos gestores, a integração de soluções de TI de modo a racionalizar e uniformizar processos e procedimentos de trabalho a cargo das unidades técnicas.
+
+b)     
+
+Diretriz 3: Manter elevado nível de satisfação/motivação dos servidores
+
+Meta 6: Manter elevado nível de satisfação/motivação dos servidores
+
+Medida 6.10: Melhorar o suporte à gestão de recursos humanos.
+
+
+Problema / oportunidade
+
+
+Descrição do Problema ou da Oportunidade 
+
+a)     
+
+A evolução das regras de negócio no âmbito da gestão de pessoas e, conseqüentemente, as constantes modificações dos processos de trabalho no âmbito da Serec têm gerado um considerável volume de demandas por soluções de Tecnologia da Informação (TI), com o propósito de adequar o atual Sistema de Gerenciamento de Recursos Humanos (GRH) às novas condições de trabalho.
+
+b)     
+
+A defasagem tecnológica do atual GRH, aliada à sua defasagem em termos de modelagem de negócio, tem gerado insatisfação às equipes da Serec e da Setec, visto não ser possível alcançar resultados estáveis e robustos, como desejável, mesmo quando ocorre intensa aplicação de recursos humanos na manutenção do sistema.
+
+c)     
+
+O sistema GRH foi implementado na linguagem de programação Borland Delphi (versão 5.0), utilizando a plataforma de banco de dados o Oracle (versão 8i). Nos últimos anos, em virtude do crescimento da demanda por soluções de TI e o conseqüente aumento do acervo armazenado em mídia magnética, o software da Oracle evoluiu da versão 8i para a 10g, o que provocou o surgimento de inconsistências no código do GRH, devido à defasagem da versão 5.0 do Delphi em relação aos novos componentes oferecidos pela versão 10g do Oracle. Esse fator tem sido motivo de preocupação para a Setec, pois aplicações escritas em código Delphi 5.0 estão cada vez mais defasadas em relação às atuais tecnologias. Para resolver este problema, na medida em que as solicitações por manutenção são atendidas, a Setec está refazendo os programas de aplicação antigos já na linguagem de programação Java (versão 1.4), o que minimiza os riscos de incompatibilidade entre as tecnologias utilizadas.
+
+d)     
+
+Falta de acesso a algumas informações armazenadas nas bases de dados dos sistemas, inconsistências de dados, existência de várias bases paralelas de informação (em MS Access) nos vários setores da Serec, além da falta de interfaces para pesquisas às bases de dados, têm gerado lacunas na disponibilização das informações para os clientes.
+
+Podemos citar como exemplos de bases paralelas: Delenda.
+
+e)     
+
+Portanto, é oportuna a abertura deste projeto, porque:
+
+(i)   poderá utilizar a modelagem da nova visão de futuro de gestão de pessoas definida no âmbito dos Projetos Atuar e Atena e o amplo mapeamento dos processos de trabalho da Serec conduzido pelo Atuar. A visão de futuro e o mapeamento dos processos de trabalho servirão de insumo para o desenvolvimento de um novo conjunto de soluções de TI que promovam a automatização da nova realidade;
+
+(ii) urge a realização de manutenções corretivas[1] e evolutivas[2] sobre o GRH, essenciais à continuidade dos trabalhos da Serec;
+
+(iii)                       algumas atividades de atualização direta de bases de dados demandas pela Serec poderão ser automatizadas por novos programas de computador, liberando a Setec desse ônus operacional;
+
+(iv)                       permitirá a reprogramação de partes do GRH na linguagem Java 1.4, reduzindo assim os riscos de incompatibilidade entre as tecnologias de programação e de armazenamento de dados e ainda tornando mais independente de plataforma, inclusive compatibilizando com software livre;
+
+(v) este projeto utilizará contrato terceirizado para apoio em TI. Por meio do contrato, será possível alocar técnicos de TI para as atividades de codificação e testes, mantendo a equipe do TCU focalizada nas atividades de maior valor agregado e que garantem a qualidade do produto final e a permanência do conhecimento de negócio nas mãos do TCU.
+
+Evolução do Quadro (apresentar dados)
+
+a)     
+
+O GRH entrou em produção em setembro de 1998, após o cancelamento do contrato de serviços vigente com a IBM do Brasil e o total desligamento do computador de grande porte (mainframe), que constituía a infra-estrutura computacional operante na época. O sistema foi projetado e desenvolvido no curtíssimo prazo de um ano por uma equipe da Setec em um ambiente de microcomputadores conectados por rede local, tendo em vista que o Sistema de Administração de Pessoal (Siape), antecessor do GRH, seria desativado juntamente com o desligamento do computador de grande porte. A emergência da situação, na época, levou a Setec a desenvolver um novo sistema de informação, que tinha como premissa básica a simples “substituição” do antigo Siape, já que não seria possível – em virtude da urgência – realizar um levantamento mais detalhado das reais necessidades que a antiga gestão de recursos humanos exigia na época. Muitas manutenções corretivas e evolutivas foram realizadas no GRH ao longo desses sete anos (1998-2005) em que o sistema está em operação. A maioria ocorreu em virtude da necessidade de adequação do sistema às constantes mudanças da lei e dos procedimentos de gestão de recursos humanos.
+
+Fatores Facilitadores
+
+a)     
+
+A Gestão de Projetos no Tribunal, com metodologia própria, é fator fundamental para a consecução deste projeto. A Gestão de Projetos segue os princípios preconizados pelo PMBOK – Project Management Body of Knowledge, um modelo de gerenciamento de projetos definido pelo PMI – Project Management Institute.
+
+b)     
+
+A metodologia de desenvolvimento de sistema TCU-UP, definido com base no Rational Unified Process – RUP, também é fator fundamental para o processo de gestão do projeto. O TCU-UP permite conduzir as atividades de desenvolvimento de software de maneira planejada e sistemática, colaborando com a gestão do projeto (PMBOK) no que concerne às atividades tecnológicas e específicas da área de TI.
+
+c)     
+
+A inclusão dos clientes no processo de trabalho, com participação efetiva nas atividades de requisitos, documentação, testes e homologação de releases dos produtos gerados pelo projeto contribuirá sobremaneira para a melhoria da qualidade de produtos e serviços oferecidos pelo projeto.
+
+Benefícios
+
+a)     
+
+Criar condições propícias para assegurar a consistência dos dados mantidos pelos sistemas de informação.
+
+b)     
+
+Desenvolver um sistema capaz de integrar as várias bases de dados paralelas, que será função do Sistema Integrado de Gestão de Pessoas – SIGP.
+
+c)     
+
+Implementar condições para que o SIGP, futuramente, seja capaz de incorporar funcionalidades do indicador de conhecimento da Adfis e de gestão de pessoas mapeados pelo Projeto Atena.
+
+
+Escopo do projeto
+
+
+5.1. Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema)
+
+Implementar um conjunto de soluções de TI com vistas a:     Redução de problemas críticos que afetam o funcionamento dos sistemas GRH, Folha de Pagamento e Sipad;     Implantação da primeira etapa do novo Sistema Integrado de Gestão de Pessoas (SIGP), cujos processos foram mapeados no âmbito dos projetos Atuar e Atena.
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término  
+
+Manutenção evolutiva da Folha de Pagamento. [3]
+
+100%
+
+31/07/2006
+
+Implantação das 35 demandas que compõem a manutenção evolutiva da Folha de Pagamento.
+
+------
+
+Serec/Dipag
+
+ 
+
+1.1.                        
+
+Modificar os relatórios de fechamento referentes às “despesas e descontos”, de modo a apresentarem os valores totais, quando impressos a partir da visualização.
+
+------ [4]
+
+------
+
+------
+
+Relatórios de fechamento referentes às “despesas e descontos” modificados de modo a apresentarem os valores totais.
+
+Serec/Dipag
+
+ 
+
+1.2.                        
+
+Modificar a geração do “disquete para banco” de modo que não emita o relatório do banco, quando o cliente solicitar somente a gravação do disquete.
+
+------
+
+------
+
+------
+
+Geração do “disquete para banco” modificada de modo a não emitir o relatório do banco, quando o cliente solicitar somente a gravação do disquete.
+
+Serec/Dipag
+
+ 
+
+1.3.                        
+
+Modificar a interface gráfica de emissão dos relatórios de fechamento da folha de pagamento, para que apresente a lista de folhas rodadas em ordem inversa de ano (da última para a primeira).
+
+------
+
+------
+
+------
+
+Interface gráfica de emissão dos relatórios de fechamento da folha de pagamento, modificada para que apresente a lista de folhas rodadas em ordem inversa de ano.
+
+Serec/Dipag
+
+ 
+
+1.4.                        
+
+Criar funcionalidade para gerar automaticamente os dados de fechamento da folha para a SECOF.
+
+------
+
+------
+
+------
+
+Funcionalidade para gerar automaticamente os dados de fechamento da folha para a SECOF.
+
+Serec/Dipag
+
+ 
+
+1.5.                        
+
+Criar funcionalidade para lançamento e cálculo automáticos de substituições de FC.
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de substituições de FC.
+
+Serec/Dipag
+
+ 
+
+1.6.                        
+
+Criar funcionalidade para lançamento e cálculo automáticos de gratificação natalina para servidores que tenham exercido FC por um período ou mais em um exercício.
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de gratificação natalina para servidores que tenham exercido FC por um período ou mais em um exercício.
+
+Serec/Dipag
+
+ 
+
+1.7.                        
+
+Criar funcionalidade para lançamento e cálculo automáticos de acertos no pagamento de FC, quando houver posse ou exoneração em função de confiança.
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de acertos no pagamento de FC, quando houver posse ou exoneração em função de confiança.
+
+Serec/Dipag
+
+ 
+
+1.8.                        
+
+Criar interface gráfica que permita controlar a disponibilidade ou indisponibilidade do módulo de emissão da declaração de margem consignável para o cliente comum.
+
+------
+
+------
+
+------
+
+Interface gráfica que permite controlar a disponibilidade ou indisponibilidade do módulo de emissão da declaração de margem consignável para o cliente comum.
+
+Serec/Dipag
+
+ 
+
+1.9.                        
+
+Criar interface gráfica para lançamento de consignação de ressarcimento à Fazenda Nacional, com opção de valor fixo, valor corrigido e percentual de remuneração (com e sem correção monetária).
+
+------
+
+------
+
+------
+
+Interface gráfica para lançamento de consignação de ressarcimento à Fazenda Nacional.
+
+Serec/Dipag
+
+ 
+
+1.10.                    
+
+Criar funcionalidade que permita a atualização de consignações em massa.
+
+------
+
+------
+
+------
+
+Funcionalidade que permite a atualização de consignações em massa.
+
+Serec/Dipag
+
+ 
+
+1.11.                    
+
+Modificar as interfaces que tratam de “rubricas” e de “modelos de folhas”, de modo que apresentem somente as rubricas e modelos de folha que estão sendo utilizados.
+
+------
+
+------
+
+------
+
+Interfaces que tratam de “rubricas” e de “modelos de folhas” modificadas de modo que apresentem somente as rubricas e modelos de folha que estão sendo utilizados.
+
+Serec/Dipag
+
+ 
+
+1.12.                    
+
+Criar funcionalidade para tratamento do histórico de pensões judiciais (de modo que fiquem registradas as mudanças de tipo, percentual, etc).
+
+------
+
+------
+
+------
+
+Funcionalidade para tratamento do histórico de pensões judiciais.
+
+Serec/Dipag
+
+ 
+
+1.13.                    
+
+Modificar a interface gráfica de lançamento de pensão civil para que considere a data de sua concessão como início da pensão.
+
+ 
+
+------
+
+------
+
+------
+
+Interface gráfica de lançamento de pensão civil modificada de modo a considerar a data de sua concessão como início da pensão.
+
+Serec/Dipag
+
+ 
+
+1.14.                    
+
+Modificar a interface gráfica de pensão alimentícia para que aceite a inclusão de mais de uma pensão para um mesmo pensionista.
+
+ 
+
+------
+
+------
+
+------
+
+Interface gráfica de pensão alimentícia para que aceite a inclusão de mais de uma pensão para um mesmo pensionista.
+
+Serec/Dipag
+
+ 
+
+1.15.                    
+
+Modificar a interface gráfica de pensão judicial referente aos dados bancários para que aponte para as mesmas tabelas utilizadas na interface gráfica Contas Bancárias de Pessoas vinculadas ao TCU.
+
+------
+
+------
+
+------
+
+Interface gráfica de pensão judicial referente aos dados bancários para que aponte para as mesmas tabelas utilizadas na interface gráfica Contas Bancárias de Pessoas vinculadas ao TCU.
+
+Serec/Dipag
+
+ 
+
+1.16.                    
+
+Modificar a interface gráfica de pensão civil para que contemple o lançamento da conta corrente em que a pensão deverá ser paga.
+
+------
+
+------
+
+------
+
+Interface gráfica de pensão civil modificada para que contemple o lançamento da conta corrente em que a pensão deverá ser paga.
+
+Serec/Dipag
+
+ 
+
+1.17.                    
+
+Criar funcionalidade para disponibilizar na intranet a Declaração de Rendimentos Pagos e de Retenção para o Imposto de Renda para os servidores ativos.
+
+------
+
+------
+
+------
+
+Funcionalidade para disponibilizar na intranet a Declaração de Rendimentos Pagos e de Retenção para o Imposto de Renda para os servidores ativos;
+
+Serec/Dipag
+
+ 
+
+1.18.                    
+
+Criar funcionalidade para imprimir a Declaração de Rendimentos Pagos e de Retenção para o Imposto de Renda personalizada, na forma do contracheque atual, para que possa ser envelopada e encaminhada aos servidores inativos e pensionistas civis e judiciais.
+
+------
+
+------
+
+------
+
+Funcionalidade para imprimir a Declaração de Rendimentos Pagos e de Retenção para o Imposto de Renda personalizada, na forma do contracheque atual, para que possa ser envelopada e encaminhada aos servidores inativos e pensionistas civis e judiciais.
+
+Serec/Dipag
+
+ 
+
+1.19.                    
+
+Criar interface gráfica para controle e parametrização das rubricas utilizadas para cálculo das declarações anuais de rendimentos pagos e de retenção para o imposto de renda e da DIRF.
+
+------
+
+------
+
+------
+
+Interface gráfica para controle e parametrização das rubricas utilizadas para cálculo das declarações anuais de rendimentos pagos e de retenção para o imposto de renda e da DIRF.
+
+Serec/Dipag
+
+ 
+
+1.20.                    
+
+Criar relatório que discrimine os lançamentos manuais realizados no mês para um servidor específico, ou para todos os servidores, com possibilidade de especificar a situação (ativo/inativo/pensionista).
+
+ 
+
+------
+
+------
+
+------
+
+Relatório que discrimine os lançamentos manuais realizados no mês para um servidor específico, ou para todos os servidores, com possibilidade de especificar a situação (ativo/inativo/pensionista).
+
+Serec/Dipag
+
+ 
+
+1.21.                    
+
+Criar relatório que discrimine as alterações de consignações (inclusão, quitação antecipada) por entidade consignatária, e por servidor.
+
+ 
+
+ 
+
+ 
+
+Relatório que discrimine as alterações de consignações (inclusão, quitação antecipada) por entidade consignatária, e por servidor.
+
+Serec/Dipag
+
+ 
+
+1.22.                    
+
+Modificar a interface gráfica no módulo cadastro, menu Pagamento, opção Contracheque, botão de pesquisa, na tela Seleção de Pessoa Recebedora Vinculada ao TCU, para que a mesma apareça com foco no radio button Nome, e apresente os nomes à medida que o mesmo for sendo digitado.
+
+------
+
+------
+
+------
+
+Funcionalidade no módulo cadastro, menu Pagamento, opção Contracheque, botão de pesquisa, na tela Seleção de Pessoa Recebedora Vinculada ao TCU, para que a mesma apareça com foco no radio button Nome, e apresente os nomes à medida que o mesmo for sendo digitado.
+
+Serec/Dipag
+
+ 
+
+1.23.                    
+
+Criar interface gráfica para tratamento de valores referenciais dependentes e independentes.
+
+------
+
+------
+
+------
+
+Interface gráfica para tratamento de valores referenciais dependentes e independentes.
+
+Serec/Dipag
+
+ 
+
+1.24.                    
+
+Criar interface gráfica para tratamento de informações relativas à restituição ao erário.
+
+------
+
+------
+
+------
+
+Interface gráfica para tratamento de informações relativas à restituição ao erário.
+
+Serec/Dipag
+
+ 
+
+1.25.                    
+
+Criar interface gráfica que permita à Secof e às Secex nos estados lançarem valores de diárias pagas nas fichas financeiras de servidores beneficiados.
+
+------
+
+------
+
+------
+
+Interface gráfica que permite à Secof e às Secex nos estados lançarem valores de diárias pagas nas fichas financeiras de servidores beneficiados.
+
+Serec/Dipag
+
+ 
+
+1.26.                    
+
+Criar funcionalidade para lançamento e cálculo automáticos de pagamentos de valores retroativos (com opção de correção monetária).
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de pagamentos de valores retroativos.
+
+Serec/Dipag
+
+ 
+
+1.27.                    
+
+Criar funcionalidade para lançamento e cálculo automáticos de adicional de insalubridade.
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de adicional de insalubridade.
+
+Serec/Dipag
+
+ 
+
+1.28.                    
+
+Criar funcionalidade para lançamento e cálculo automáticos de Auxílio Transporte.
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de Auxílio Transporte.
+
+Serec/Dipag
+
+ 
+
+1.29.                    
+
+Criar funcionalidade para cálculo e pagamento automáticos de aposentadorias e pensões fundamentadas pela Emenda Constitucional nº 41/2003.
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade para cálculo e pagamento automáticos de aposentadorias e pensões fundamentadas pela Emenda Constitucional nº 41/2003. 
+
+Serec/Dipag
+
+ 
+
+1.30.                    
+
+Modificar a funcionalidade de cálculo da pensão civil de modo a contemplar, em caso de reversão de cota, o acerto da pensão que está sendo encerrada, em dias devidos, gratificação natalina, etc.
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade de cálculo da pensão civil modificada de modo a contemplar, em caso de reversão de cota, o acerto da pensão que está sendo encerrada.
+
+Serec/Dipag
+
+ 
+
+1.31.                    
+
+Criar funcionalidade para cálculo automático do pagamento relativo aos dias de atividade e de inatividade no mês em que ocorrer a aposentadoria de um servidor.
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade para cálculo automático do pagamento relativo aos dias de atividade e de inatividade no mês em que ocorrer a aposentadoria de um servidor.
+
+ 
+
+Serec/Dipag
+
+ 
+
+1.32.                    
+
+Modificar a funcionalidade de cálculo de consignações para que leve em consideração tanto o padrão do servidor quanto a proporcionalidade, por ocasião da aposentadoria proporcional.
+
+------
+
+------
+
+------
+
+Funcionalidade de cálculo de consignações modificada para que leve em consideração tanto o padrão do servidor quanto a proporcionalidade, por ocasião da aposentadoria proporcional.
+
+Serec/Dipag
+
+ 
+
+1.33.                    
+
+Criar funcionalidade para lançamento e cálculo automáticos de adicional noturno.
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade para lançamento e cálculo automáticos de adicional noturno.
+
+Serec/Dipag
+
+ 
+
+1.34.                    
+
+Criar funcionalidade para calcular automaticamente a pensão do tipo “PA Pré-Escolar”.
+
+------
+
+------
+
+------
+
+Funcionalidade para calcular automaticamente a pensão do tipo “PA Pré-Escolar”.
+
+Serec/Dipag
+
+ 
+
+1.35.                    
+
+Modificar o cálculo do benefício pré-escolar para não pagar indevidamente o mês subseqüente à extinção do benefício (mês em que a criança completa 7 anos).
+
+ 
+
+------
+
+------
+
+------
+
+Funcionalidade que corrige o cálculo do benefício pré-escolar.
+
+ 
+
+Serec/Dipag  
+
+Manutenção evolutiva do Sistema de Gerenciamento de Recursos Humanos - GRH.
+
+100%
+
+31/01/2006
+
+Implantação das 3 demandas que compõem a manutenção evolutiva do GRH.
+
+------
+
+Serec
+
+ 
+
+2.1.                        
+
+Concepção, implementação e implantação da função no GRH para emissão da Relação Anual de Informações Sociais (RAIS).
+
+------
+
+------
+
+------
+
+RAIS.
+
+Serec/Direc
+
+ 
+
+2.2.                        
+
+Criar interface gráfica no módulo da DILP, que permita ao cliente desfazer um cancelamento de pensão civil.
+
+------
+
+------
+
+------
+
+Interface gráfica no módulo da DILP, que permita ao cliente desfazer um cancelamento de pensão civil.
+
+Serec/Dilp
+
+ 
+
+2.3.                        
+
+Criar serviço autônomo para cancelamento automático de pensão civil.
+
+------
+
+------
+
+------
+
+Serviço autônomo para cancelamento automático de pensão civil.
+
+Serec/Dilp  
+
+Manutenção evolutiva do Sistema Permanente de Avaliação de Desempenho – Sipad.
+
+100%
+
+31/12/2006
+
+Implantação das 26 demandas que compõem a manutenção evolutiva do Sipad.
+
+------
+
+Serec/Direc
+
+ 
+
+3.1.                        
+
+Criar relatório de servidores com avaliação inferior a um dado parâmetro (em especial, valor de 70% para fins de promoção).
+
+------
+
+------
+
+------
+
+Relatório de servidores com avaliação inferior a um dado parâmetro (em especial, valor de 70% para fins de promoção).
+
+Serec/Direc
+
+ 
+
+3.2.                        
+
+Criar relatório parametrizado de servidores avaliados no período.
+
+------
+
+------
+
+------
+
+Relatório de servidores avaliados no período.
+
+Serec/Direc
+
+ 
+
+3.3.                        
+
+Criar relatório de servidores não avaliados no período.
+
+------
+
+------
+
+------
+
+Relatório de servidores não avaliados no período.
+
+Serec/Direc
+
+ 
+
+3.4.                        
+
+Criar relatório com os servidores/período avaliativo selecionados pelo perfil avaliador
+
+------
+
+------
+
+------
+
+Relatório com os servidores/período avaliativo selecionados pelo perfil avaliador
+
+ 
+
+ 
+
+3.5.                        
+
+Criar relatório com o valor da Gratificação de Desempenho dos servidores.
+
+------
+
+------
+
+------
+
+Relatório da valor da Gratificação de Desempenho dos servidores.
+
+Serec/Direc
+
+ 
+
+3.6.                        
+
+Criar relatório no Sipad com todas as informações cadastradas no sistema.
+
+------
+
+------
+
+------
+
+Relatório no Sipad com todas as informações cadastradas no sistema
+
+Serec/Direc
+
+ 
+
+3.7.                        
+
+Controlar servidores que estão recebendo o piso de 30%
+
+------
+
+------
+
+------
+
+Campo no registro de avaliação do servidor.
+
+Serec/Direc
+
+ 
+
+3.8.                        
+
+Criar relatório de servidores que estão recebendo o piso de 30%
+
+------
+
+------
+
+------
+
+Relatório de servidores que estão recebendo piso de 30%
+
+Serec/Direc
+
+ 
+
+3.9.                        
+
+Criar função de inclusão automática nas bases de avaliação do Sipad dos servidores recém empossados.
+
+------
+
+------
+
+------
+
+Função de inclusão automática nas bases de avaliação do Sipad dos servidores recém empossados.
+
+Serec/Direc
+
+ 
+
+3.10.                    
+
+Criar relatório gerencial de servidores afastados por mais de 2/3 do período avaliativo.
+
+------
+
+------
+
+------
+
+relatório gerencial de servidores afastados por mais de 2/3 do período avaliativo.
+
+Serec/Direc
+
+ 
+
+3.11.                    
+
+Controlar notas a serem recebidas pelo servidor em caso de freqüência inferior ou igual a 1/3 do período.
+
+------
+
+------
+
+------
+
+Campo com notas a serem recebidas pelo servidor em caso de freqüência inferior ou igual a 1/3 do período
+
+Serec/Direc
+
+ 
+
+3.12.                    
+
+Criar relatório com todas as informações cadastradas no Sipad para detentores do perfil Cadad.
+
+------
+
+------
+
+------
+
+Relatório com todas as informações cadastradas no Sipad para detentores do perfil Cadad
+
+Serec/Direc
+
+ 
+
+3.13.                    
+
+Criar maior vinculação entre GRH e Sipad no que se refere a algumas informações funcionais dos servidores.
+
+------
+
+------
+
+------
+
+Função de vinculação automática entre GRH e Sipad no que se refere a algumas informações funcionais dos servidores
+
+Serec/Direc
+
+ 
+
+3.14.                    
+
+Criar função que permita aos titulares definir quem está autorizado a lançar as notas no Sipad como “avaliador substituto”.
+
+ 
+
+------
+
+------
+
+------
+
+Função que permita aos titulares definir quem está autorizado a lançar as notas no Sipad como “avaliador substituto 
+
+Serec/Direc
+
+ 
+
+3.15.                    
+
+Criar perfil “responsável pela digitação” que apenas permitiria o lançamento de notas para um determinado período em nome do avaliador.
+
+------
+
+------
+
+------
+
+Perfil de “responsável pela digitação” que apenas permitiria o lançamento de notas para um determinado período em nome do avaliador.
+
+Serec/Direc
+
+ 
+
+3.16.                    
+
+Criar função de inclusão do chefe de gabinete como avaliador substituto de autoridade “por delegação de competência”.
+
+------
+
+------
+
+------
+
+Função de inclusão do chefe de gabinete como avaliador substituto de autoridade “por delegação de competência”.
+
+Serec/Direc
+
+ 
+
+3.17.                    
+
+Criar função que permita ao servidor, quando no perfil Sipad de avaliador substituto, poder lançar sua própria nota, para ratificação posterior pelo avaliador.
+
+------
+
+------
+
+------
+
+Função que permita ao servidor, quando no perfil Sipad de avaliador substituto, poder lançar sua própria nota, para ratificação posterior pelo avaliador.
+
+Serec/Direc
+
+ 
+
+3.18.                    
+
+Criar campos de modo a tratar a inclusão de notas com identificação do nome do avaliador e da unidade (no caso de o avaliador estar respondendo por mais de uma unidade).
+
+------
+
+------
+
+------
+
+Campos de modo a tratar a inclusão de notas com identificação do nome do avaliador e da unidade (no caso de o avaliador estar respondendo por mais de uma unidade
+
+Serec/Direc
+
+ 
+
+3.19.                    
+
+Criar consulta, para os detentores do perfil avaliador, que permita a visualização das notas atribuídas aos servidores de uma determinada unidade, em qualquer período.
+
+------
+
+------
+
+------
+
+Consulta, para os detentores do perfil avaliador, que permita a visualização das notas atribuídas aos servidores de uma determinada unidade, em qualquer período.
+
+Serec/Direc
+
+ 
+
+3.20.                    
+
+Padronizar mensagem de confirmação de lançamento de informação.
+
+------
+
+------
+
+------
+
+Mensagem padronizada de confirmação de lançamento de informação.
+
+Serec/Direc
+
+ 
+
+3.21.                    
+
+Criar relatório com as informações de resultado institucional cadastradas no Sipad 
+
+------
+
+------
+
+------
+
+Relatório com as informações de resultado institucional cadastradas no Sipad
+
+Serec/Direc
+
+ 
+
+3.22.                    
+
+Incluir caixas de texto com confirmação dos lançamentos no Sipad
+
+------
+
+------
+
+------
+
+Caixas de texto com confirmação dos lançamentos no Sipad
+
+Serec/Direc
+
+ 
+
+3.23.                    
+
+Alterar regras de disponibilização de menus para determinados perfis (exemplo: acesso ao menu referente ao resultado institucional)
+
+------
+
+------
+
+------
+
+Regras alteradas em relação à disponibilização de menus para determinados perfis 
+
+Serec/Direc
+
+ 
+
+3.24.                    
+
+Disponibilizar última avaliação disponível do servidor na tela de lançamento do avaliador com possibilidade de alteração de nota para o período vigente.
+
+------
+
+------
+
+------
+
+Tela de lançamento das notas alterada
+
+ 
+
+Serec/Direc
+
+ 
+
+3.25.                    
+
+Alteração dos nomes dos menus.
+
+------
+
+------
+
+------
+
+Nomes dos menus alterados
+
+Serec/Direc
+
+ 
+
+3.26.                    
+
+Incluir help on line no Sipad.
+
+------
+
+------
+
+------
+
+help on line no sistema no Sipad
+
+Serec/Direc  
+
+Desenvolvimento do Sistema Integrado de Gestão de Pessoas (SIGP).
+
+100%
+
+31/12/2007
+
+Automação dos 8 processos iniciais do SIGP.
+
+------
+
+ Serec
+
+ 
+
+4.1.                        
+
+Automação do processo de trabalho: “Dados Cadastrais”.
+
+------
+
+------
+
+------
+
+Módulo de “Dados Cadastrais”.
+
+Serec 
+
+ 
+
+4.2.                        
+
+Automação do processo de trabalho: “Dependentes”.
+
+------
+
+------
+
+------
+
+Módulo de “Dependentes”.
+
+Serec
+
+ 
+
+4.3.                        
+
+Automação do processo de trabalho: “Provimento”.
+
+------
+
+------
+
+------
+
+Módulo de “Provimento”.
+
+Serec
+
+ 
+
+4.4.                        
+
+Automação do processo de trabalho: “Vacância”.
+
+------
+
+------
+
+------
+
+Módulo de “Vacância”.
+
+Serec
+
+ 
+
+4.5.                        
+
+Automação do processo de trabalho: “Licenças”.
+
+------
+
+------
+
+------
+
+Módulo de “Licenças”.
+
+Serec
+
+ 
+
+4.6.                        
+
+Automação do processo de trabalho: “Afastamentos”.
+
+------
+
+------
+
+------
+
+Módulo de “Afastamentos”.
+
+Serec
+
+ 
+
+4.7.                        
+
+Automação do processo de trabalho: “Horário especial”.
+
+------
+
+------
+
+------
+
+Módulo de “Horário especial”.
+
+Serec
+
+ 
+
+4.8.                        
+
+Automação do processo de trabalho: “Acompanhamento de freqüência”.
+
+------
+
+------
+
+------
+
+Módulo de “Acompanhamento de freqüência”.
+
+Serec  
+
+Acompanhamento de operações correntes.
+
+100%
+
+31/12/2007
+
+Atendimento de demandas correntes, na medida em que elas sejam solicitadas.
+
+------
+
+Serec
+
+ 
+
+5.1.                        
+
+Dados cadastrais
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.1.1.                  
+
+Cadastramento de autoridade.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.1.2.                  
+
+Cadastramento de novo servidor quando já for dependente de servidor.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.1.3.                  
+
+Atualização de parentesco.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.2.                        
+
+Dados funcionais
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.2.1.                  
+
+Atualização da data de posse de servidor.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.2.2.                  
+
+Atualização do histórico de movimentação de padrões
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.2.3.                  
+
+Atualização de FC anterior a 1998.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.3.                        
+
+Férias
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.3.1.                  
+
+Gozo antecipado de férias por decisão em processo.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.3.2.                  
+
+Alteração de férias, com efeito financeiro, por decisão em processo.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.4.                        
+
+Assistência médica
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.4.1.                  
+
+Correções no cadastro de dependentes de assistência médica.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dibes
+
+ 
+
+5.4.2.                  
+
+Correções em faturas lançadas.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dibes
+
+ 
+
+5.5.                        
+
+Pagamento de pessoal
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.5.1.                  
+
+Criação de método de cálculo de rubrica de pagamento.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dipag
+
+ 
+
+5.5.2.                  
+
+Orientação e auxílio ao processamento da folha.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dipag
+
+ 
+
+5.5.3.                  
+
+Atualização de valores referenciais.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dipag
+
+ 
+
+5.5.4.                  
+
+Realização de cálculos atuariais.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Dipag
+
+ 
+
+5.6.                        
+
+Avaliações
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.6.1.                  
+
+Cadastramento de novo servidor para avaliação de desempenho (GD=30%)
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.6.2.                  
+
+Acertos em avaliação de desempenho
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.                        
+
+Banco de horas
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.7.1.                  
+
+Atualização de cota por decisão em processo.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.2.                  
+
+Lançamento de cota nos meses em que o sistema não cobrou.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.3.                  
+
+Atualização do movimento parcelado em junho de 2003.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.4.                  
+
+Execução da rotina mensal de desconto.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.5.                  
+
+Cancelamento de desconto mensal de servidor, por decisão em processo.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.7.6.                  
+
+Correção de inconsistências no banco de horas.
+
+------
+
+------
+
+------
+
+------
+
+Serec/Direc
+
+ 
+
+5.8.                        
+
+Consultas
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+5.8.1.                  
+
+Geração de planilha padrão, com informações não disponíveis no GRH
+
+------
+
+------
+
+------
+
+------
+
+Serec
+
+ 
+
+5.8.2.                  
+
+Relatório sobre o controle de cotas.
+
+------
+
+------
+
+------
+
+------
+
+Serec
+
+ 
+
+5.8.3.                  
+
+Relatório sobre a utilização do saldo de restituição ao Erário.
+
+------
+
+------
+
+------
+
+------
+
+Serec
+
+ 
+
+5.8.4.                  
+
+Relatório de final de período avaliativo.
+
+------
+
+------
+
+------
+
+------
+
+Serec
+
+ 
+
+5.8.5.                  
+
+Relatório de avaliação por período por Secex.
+
+------
+
+------
+
+------
+
+------
+
+Serec
+
+ 
+
+5.8.6.                  
+
+Pesquisas gerenciais esporádicas para todos os setores da Serec.
+
+------
+
+------
+
+------
+
+------
+
+Serec  
+
+Apoio à documentação e ao treinamento de clientes.
+
+100%
+
+31/12/2007
+
+Documentos gerados pelas 4 atividades de documentação do SIGP e de treinamento de clientes.
+
+------
+
+Serec
+
+ 
+
+6.1.                        
+
+Documentação
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+6.1.1.                  
+
+Apoiar a Serec na elaboração do manual do cliente do Sistema Integrado de Gestão de Pessoas (SIGP).
+
+------
+
+------
+
+------
+
+Manuais de clientes dos diversos produtos gerados pelo projeto.
+
+Serec
+
+ 
+
+6.1.2.                  
+
+Apoiar a Serec na elaboração do help on line do Sistema Integrado de Gestão de Pessoas (SIGP).
+
+------
+
+------
+
+------
+
+Help on line dos diversos produtos gerados pelo projeto.
+
+Serec
+
+ 
+
+6.1.3.                  
+
+Apoiar a Serec na elaboração dos scripts de atendimento ao Sistema Integrado de Gestão de Pessoas (SIGP).
+
+------
+
+------
+
+------
+
+Scripts de atendimento dos diversos produtos gerados pelo projeto.
+
+Serec
+
+ 
+
+6.2.                        
+
+Treinamento
+
+------
+
+------
+
+------
+
+------
+
+ 
+
+ 
+
+6.2.1.                  
+
+Apoiar a Serec na elaboração dos artefatos de treinamento sobre o uso e funcionamento do Sistema Integrado de Gestão de Pessoas (SIGP).
+
+------
+
+------
+
+------
+
+Artefatos de treinamento dos diversos produtos gerados pelo projeto.
+
+Serec
+
+
+5.3. Macroetapas (primeiro nível de Estrutura Analítica do Projeto – EAP)
+
+
+a)     
+
+Planejamento.
+
+b)     
+
+Montagem e mobilização da equipe de projeto.
+
+c)     
+
+Manutenção evolutiva da Folha de Pagamento.
+
+d)     
+
+Manutenção evolutiva do Sistema Permanente de Avaliação de Desempenho – Sipad.
+
+e)     
+
+Manutenção evolutiva do Sistema de Gerenciamento de Recursos Humanos – GRH.
+
+f)      
+
+Acompanhamento de operações correntes.
+
+g)     
+
+Desenvolvimento parcial do Sistema Integrado de Gestão de Pessoas – SIGP.
+
+h)     
+
+Apoiar documentação e treinamento de clientes.
+
+i)      
+
+Desmobilização do projeto.
+
+j)      
+
+Encerramento.
+
+
+5.4. Não escopo
+
+
+Quanto aos sistemas já em operação
+
+a)     
+
+O projeto não visa refazer os sistemas GRH, Folha de Pagamento e Sipad em sua totalidade nesta primeira etapa.
+
+b)     
+
+Os sistemas GRH, Folha de Pagamento e Sipad coexistirão, durante a execução deste projeto, com as novas soluções de TI que forem implementadas para automatizar os processos de trabalho mapeados pela consultoria contratada pela Serec no âmbito do Projeto Atuar.
+
+Quanto à automação dos novos processos de trabalho da Serec
+
+a)     
+
+Não é atribuição do projeto levantar as regras de negócio de processos de trabalho de nível 1 mapeados pela consultoria contratada no âmbito do Projeto Atuar.
+
+b)     
+
+Não é responsabilidade do projeto realizar atualizações em regras de negócio e fluxogramas de processos de trabalho de nível 1 mapeados pela consultoria contratada no âmbito do Projeto Atuar, que se façam necessárias em virtude de exigências ou limitações tecnológicas utilizadas pela Setec para a sua implementação.
+
+c)     
+
+O projeto não implementará soluções de TI para todos os processos de trabalho de nível 1 mapeados pela consultoria contratada no âmbito do Projeto Atuar.
+
+Quanto a produtos que estão em fase de homologação pela Serec
+
+ 
+
+Não é responsabilidade do projeto realizar as implantações do sistema estagiário, do sistema ressarcimento de despesas médicas e do banco de horas, pois elas continuarão a cargo do analista Alexandre Magno.
+
+ 
+
+Não é responsabilidade do projeto realizar as implantações do sistema estagiário, do sistema ressarcimento de despesas médicas e do banco de horas, pois elas continuarão a cargo do analista Alexandre Magno (com apoio de postos de trabalho tercerizados) até sua completa homologação.
+
+Quanto à documentação e ao treinamento de cliente
+
+a)     
+
+Não é atribuição do projeto definir os conteúdos que deverão compor o manual do cliente, o help on line, os scripts de atendimento e os artefatos de treinamento do Sistema Integrado de Gestão de Pessoas (SIGP). O projeto dará apoio à realização das tarefas, inclusive, com a cessão de redatores técnicos contratados.
+
+b)     
+
+Não é atribuição do projeto a realização dos treinamentos para a utilização das soluções de TI produzidas. O treinamento será realizado no âmbito do projeto Atuar, com o apoio da equipe deste projeto e do ISC.
+
+Quanto à base de dados dos sistemas Sipad, GRH e Folha
+
+ 
+
+O projeto não realizará a auditoria das bases de dados dos sistemas GRH, Sipad e Folha.
+
+
+Identificação das partes envolvidas no projeto
+
+
+Nome da Parte Envolvida
+
+Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+a)     
+
+Serec 
+
+Patrocinadora e principal cliente.
+
+Após o encerramento do projeto, será responsável pela utilização das soluções de TI propostas e pela definição, em conjunto com a Setec, sobre a continuidade de automatização dos processos de trabalho mapeados pelo projeto Atuar e não implementados por este projeto.
+
+Realização de auditoria na base de dados do GRH, por meio da utilização de ferramenta ODS disponibilizada pelo projeto Sinergia (conforme definido na Portaria Presi 126/2002).
+
+Definição de mudança de eventuais regras de negócio referentes à avaliação de desempenho quando da manutenção do Sipad
+
+Cessão de 2 estagiários durante todo o período de realização do projeto.
+
+b)     
+
+Setec
+
+Responsável técnica pela execução do projeto e pelo apoio à elaboração de documentação dos softwares produzidos e à execução do treinamento.
+
+Responsável pelo término da manutenção dos sistemas Ressarcimento de despesas médicas, Banco de horas e sistema de controle de estagiários.
+
+c)     
+
+Projeto Atuar
+
+Projeto concomitante. Orientará a execução dos trabalhos. Fornecerá os insumos para o trabalho a ser realizado: definição das regras de negócio e documentação dos processos de trabalho mapeados, definição de prioridades para o atendimento das demandas, tanto corretivas quanto evolutivas, e para a realização das operações correntes.
+
+d)     
+
+Seplan
+
+Contribuição técnica referente ao redesenho dos processos de trabalho da Serec e sua compatibilização do trabalho realizado no âmbito do projeto Atuar com outros projetos, em especial àqueles de modelagem de processos de trabalho.
+
+e)     
+
+Projeto Atena
+
+Delenda - em sintonia com as necessidades do projeto Atena
+
+f)      
+
+Projeto BID
+
+em sintonia com as necessidades do projeto BID
+
+g)     
+
+Adfis
+
+ 
+
+
+Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de Ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela Ação
+
+a)     
+
+Indisponibilidade de tempo de servidores da Serec e dos serviços de administração para participar efetivamente dos trabalhos realizados na fase de levantamento de requisitos, homologação de OS e de produtos.
+
+Alto
+
+Média
+
+(M) Buscar, junto a Serec e com os SA, um maior compromisso e envolvimento com o projeto.
+
+(M) Atuação pró-ativa do coordenador do projeto no monitoramento de serviços e produtos.
+
+(M) Agendar reuniões para levantamento de requisitos com antecipação, para que o cliente possa se programar.
+
+(M) Programar as reuniões para períodos fora de pico de determinados serviços (por exemplo, evitar semana limite para fechamento da folha de pagamento quando se tratar de servidores da Diretoria Técnica de Pagamento de Pessoal – Dipag) 
+
+Serec
+
+Coordenador do projeto
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto de Automação da Sistemática de Gestão de Pessoas (Pessoa I) e designa seu gestor.
+
+

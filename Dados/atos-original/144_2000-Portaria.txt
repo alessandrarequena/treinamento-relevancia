@@ -1,0 +1,2829 @@
+Portaria
+144/2000
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e tendo em vista o disposto no artigo 35 da Instrução Normativa nº 09, de 16 de fevereiro de 1995, resolve:
+
+
+Art. 1º Fica aprovado o Manual de Auditoria de Natureza Operacional do Tribunal de Contas da União, contendo os procedimentos operacionais e as estratégias metodológicas a serem utilizadas na realização de auditorias de desempenho operacional e avaliações de programa.
+
+
+Art. 2º Fica revogada a Portaria nº 222, de 28 de abril de 1998.
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+
+IRAM SARAIVA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+
+
+
+Secretaria-geral de Controle Externo
+
+
+
+
+Secretaria de Fiscalização e Avaliação de Programas de Governo
+
+
+
+
+
+
+
+
+MANUAL DE
+
+
+AUDITORIA OPERACIONAL
+
+
+
+(NR) (Portaria - SEGECEX no 4, de 26/02/2010, BTCU Especial nº 4/2010)
+
+
+
+
+
+
+
+
+
+
+
+Segecex / Seprog
+
+
+
+
+Março/2010
+
+
+
+
+
+
+
+
+
+
+Lista de Quadros
+
+
+
+Quadro 1: Técnicas mais utilizadas na etapa de planejamento	20
+
+
+Quadro 2: Modelo de matriz de planejamento	27
+
+
+Quadro 3: Processo lógico de identificação de achados e produção de recomendações e determinações	33
+
+
+Quadro 4: Modelo de matriz de achados	35
+
+
+Quadro 5: Estrutura recomendada para a parte textual do relatório de auditoria operacional	42
+
+
+Quadro 6: Exemplo de quadro resumo da situação de implementação das deliberações	49
+
+
+Quadro 7: Principais abordagens em auditoria operacional	56
+
+
+Quadro 8: Resumo das principais técnicas de coleta de dados	58
+
+
+
+
+
+Lista de Figuras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMÁRIO
+
+
+
+INTRODUÇÃO	6
+
+
+OBJETIVO	6
+
+
+DIMENSÕES DE DESEMPENHO E CARACTERÍSTICAS DE ANOp	7
+
+
+Economicidade	7
+
+
+Eficiência	7
+
+
+Eficácia	8
+
+
+Efetividade	8
+
+
+Outras dimensões de desempenho	8
+
+
+Equidade	9
+
+
+Características da auditoria operacional	9
+
+
+SELEÇÃO	11
+
+
+Processo de seleção dos objetos de auditoria	11
+
+
+Integração com o planejamento estratégico	11
+
+
+Critérios de seleção	11
+
+
+Agregação de valor	12
+
+
+Materialidade	12
+
+
+Relevância	13
+
+
+Vulnerabilidade	13
+
+
+Levantamento	13
+
+
+Levantamento de escopo amplo	14
+
+
+Levantamento de escopo restrito	14
+
+
+PLANEJAMENTO	16
+
+
+Análise preliminar do objeto auditado	18
+
+
+Definição do objetivo e do escopo da auditoria	21
+
+
+Tipos de questão de auditoria	21
+
+
+Especificação dos critérios de auditoria	25
+
+
+Elaboração da matriz de planejamento	26
+
+
+Validação da matriz de planejamento	27
+
+
+Elaboração de instrumentos de coleta de dados e teste-piloto	28
+
+
+Elaboração do projeto de auditoria	28
+
+
+EXECUÇÃO	30
+
+
+Achado de auditoria	30
+
+
+Evidências	32
+
+
+Desenvolvimento dos trabalhos de campo	34
+
+
+Análise dos dados coletados	34
+
+
+Matriz de achados	35
+
+
+Validação da matriz de achados	36
+
+
+RELATÓRIO	37
+
+
+Orientações gerais para elaboração do relatório	37
+
+
+Padrões de elaboração	39
+
+
+Apresentação de dados	41
+
+
+Citações e referências	41
+
+
+Componentes do relatório de auditoria	41
+
+
+Observação: Não é necessário criar títulos para indicar o conteúdo dos parágrafos.	42
+
+
+Introdução	42
+
+
+Visão geral	43
+
+
+Capítulos principais	43
+
+
+Análise dos comentários dos gestores	44
+
+
+Conclusão	45
+
+
+Proposta de encaminhamento	45
+
+
+MONITORAMENTO	46
+
+
+Plano de ação	46
+
+
+Sistemática de monitoramento	47
+
+
+Relatório de monitoramento	48
+
+
+Situação das deliberações	48
+
+
+CONTROLE DE QUALIDADE	50
+
+
+Modalidades de controle de qualidade	50
+
+
+Os papéis dos principais atores envolvidos com o controle de qualidade	51
+
+
+Ferramentas de controle de qualidade	52
+
+
+APÊNDICE – PLANEJAMENTO E MÉTODO	55
+
+
+Matriz de Planejamento: Como Preenchê-la	55
+
+
+Informações Requeridas	55
+
+
+Fontes de Informação	55
+
+
+Estratégias Metodológicas	56
+
+
+Procedimentos de Coleta de Dados	58
+
+
+Procedimentos de Análise de Dados	60
+
+
+Limitações	61
+
+
+O Que a Análise Vai Permitir Dizer	62
+
+
+REFERÊNCIAS	63
+
+
+NOTAS EXPLICATIVAS	65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUÇÃO
+
+
+Esta é a terceira versão do manual, publicado inicialmente em 1998 e revisto em 2000. Diferencia-se das anteriores, pois aborda todo o ciclo de realização desta modalidade de auditoria. Assim, além da atualização dos capítulos dedicados ao planejamento, execução e elaboração do relatório, incluíram-se orientações gerais sobre a escolha do tema a ser auditado e o monitoramento das deliberações resultantes da apreciação dos relatórios de auditoria. O controle de qualidade também foi objeto de capítulo específico.
+
+
+O documento reflete a evolução dos métodos e técnicas empregados pelo TCU, por meio da acumulação de experiência na execução de auditorias operacionais. Na elaboração deste manual foram consideradas as melhores experiências internacionais sobre o tema, bem como contribuições de profissionais desta Corte. O manual está alinhado aos padrões de auditoria operacional adotados pela International Organization of Supreme Audit Institutions – INTOSAI.
+
+
+
+
+
+OBJETIVO
+
+
+O objetivo deste documento é definir princípios e padrões que orientem a realização e o controle de qualidade das auditorias operacionais a cargo das unidades técnicas do Tribunal. 
+
+
+DIMENSÕES DE DESEMPENHO E CARACTERÍSTICAS DE ANOp
+
+
+1.	Auditoria operacional – ANOpi é o exame independente e objetivo da economicidade, eficiência, eficácia e efetividade de organizações, programas e atividades governamentais, com a finalidade de promover o aperfeiçoamento da gestão públicaii.
+
+
+2.	As auditorias operacionais podem examinar, em um mesmo trabalho, uma ou mais das principais dimensões de análise. O diagrama de insumo-produto ilustra essas dimensões e suas inter-relações:
+
+
+
+
+
+
+
+
+Fonte: Adaptado de ISSAI 3000/1.4, 2004.
+
+
+Economicidade
+
+
+3.	A economicidade é a minimização dos custos dos recursos utilizados na consecução de uma atividade, sem comprometimento dos padrões de qualidade (ISSAI 3000/1.5, 2004)iii. Refere-se à capacidade de uma instituição gerir adequadamente os recursos financeiros colocados à sua disposição.
+
+
+4.	O exame da economicidade poderá abranger a verificação de práticas gerenciais, sistemas de gerenciamento, benchmarking de processos de compra e outros procedimentos afetos à auditoria operacional, enquanto o exame estrito da legalidade de procedimentos de licitação, fidedignidade de documentos, eficiência dos controles internos e outros deverão ser objeto de auditoria de conformidade. Na prática, poderá haver alguma superposição entre auditoria de conformidade e auditoria operacional. Nesses casos, a classificação de uma auditoria específica dependerá do objetivo primordial da auditoria (ISSAI 100/41, 2001).
+
+
+Eficiência
+
+
+5.	A eficiência é definida como a relação entre os produtos (bens e serviços)iv gerados por uma atividade e os custos dos insumos empregados para produzi-los, em um determinado período de tempo, mantidos os padrões de qualidade. Essa dimensão refere-se ao esforço do processo de transformação de insumos em produtos. Pode ser examinada sob duas perspectivas: minimização do custo total ou dos meios necessários para obter a mesma quantidade e qualidade de produto; ou otimização da combinação de insumos para maximizar o produto quando o gasto total está previamente fixado (COHEN; FRANCO, 1993). Nesse caso, a análise do tempo necessário para execução das tarefas é uma variável a ser consideradav. A eficiência pode ser medida calculando-se e comparando-se o custo unitário da produção de um bem ou serviço. Portanto, podemos considerar que o conceito de eficiência está relacionado ao de economicidade.
+
+
+Eficácia
+
+
+6.	A eficácia é definida como o grau de alcance das metas programadas (bens e serviços) em um determinado período de tempo, independentemente dos custos implicados (COHEN; FRANCO, 1993). O conceito de eficácia diz respeito à capacidade da gestão de cumprir objetivos imediatos, traduzidos em metas de produção ou de atendimento, ou seja, a capacidade de prover bens ou serviços de acordo com o estabelecido no planejamento das ações.
+
+
+7.	É importante observar que a análise de eficácia deve considerar os critérios adotados para fixação da meta a ser alcançada. Uma meta subestimada pode levar a conclusões equivocadas a respeito da eficácia do programa ou da atividade sob exame. Além disso, fatores externos como restrições orçamentárias podem comprometer o alcance das metas planejadas e devem ser levados em conta durante a análise da eficácia.
+
+
+Efetividade
+
+
+8.	A efetividade diz respeito ao alcance dos resultados pretendidos, a médio e longo prazo. Refere-se à relação entre os resultados de uma intervenção ou programa, em termos de efeitos sobre a população-alvo (impactos observados), e os objetivos pretendidos (impactos esperados), traduzidos pelos objetivos finalísticos da intervenção. Trata-se de verificar a ocorrência de mudanças na população-alvo que se poderia razoavelmente atribuir às ações do programa avaliado (COHEN; FRANCO, 1993).
+
+
+9.	Portanto, ao examinar a efetividade de uma intervenção governamental, pretende-se ir além do cumprimento de objetivos imediatos ou específicos, em geral consubstanciados em metas de produção ou de atendimento (exame da eficácia da gestão). Trata-se de verificar se os resultados observados foram realmente causados pelas ações desenvolvidas e não por outros fatores (ISSAI 3000/1.5, 2004). A avaliação da efetividade pressupõe que bens e/ou serviços foram ofertados de acordo com o previsto. O exame da efetividade ou avaliação de impacto requer tratamento metodológico específico que busca estabelecer a relação de causalidade entre as variáveis do programa e os efeitos observados, comparando-os com uma estimativa do que aconteceria caso o programa não existisse (ISSAI 3000/1.7, 2004).
+
+
+Outras dimensões de desempenho
+
+
+10.	Além das quatro dimensões de desempenho examinadas, outras, a elas relacionadas, poderão ser explicitadas em razão de sua relevância para a delimitação do escopo das auditorias operacionais. Aspectos como a qualidade dos serviços, o grau de adequação dos resultados dos programas às necessidades das clientelas (geração de valor público), equidade na distribuição de bens e serviços podem ser tratados em auditorias operacionais com o objetivo de subsidiar a accountability de desempenho da ação governamental.
+
+
+Equidade
+
+
+11.	O exame da equidade, que pode ser derivado da dimensão de efetividade da política pública, baseia-se no princípio que reconhece a diferença entre os indivíduos e a necessidade de tratamento diferenciado. Segundo Rawls (apud COHEN; FRANCO, 1993, p. 25), "para proporcionar uma autêntica igualdade de oportunidades a sociedade deve atender mais aos nascidos com menos dotes e aos nascidos em setores socialmente menos favorecidos". Ainda segundo Rawls (apud MEDEIROS, 1999), o tratamento desigual é justo quando é benéfico ao indivíduo mais carente - desigualdade justa. Promover a eqüidade é garantir as condições para que todos tenham acesso ao exercício de seus direitos civis (liberdade de expressão, de acesso à informação, de associação, de voto, igualdade entre gêneros), políticos e sociais (saúde, educação, moradia, segurança)vi. Portanto, as políticas públicas de proteção e de desenvolvimento social têm papel fundamental na construção da eqüidade.
+
+
+12.	O exame da equidade poderá envolver, por exemplo, a investigação dos critérios de alocação de recursos vis-à-vis à distribuição espacial e o perfil socioeconômico da população-alvo; as estratégias adotadas pelo gestor público para adequar a oferta de serviços ou benefícios às diferentes necessidades do público-alvo; ou o exame do impacto diferenciado decorrente da implementação da política públicavii.
+
+
+Características da auditoria operacional
+
+
+13.	As auditorias operacionais possuem características próprias que as distinguem das auditorias tradicionais. Ao contrário das auditorias de regularidadeviii, que adotam padrões relativamente fixos, as auditorias operacionais, devido à variedade e complexidade das questões tratadas, possuem maior flexibilidade na escolha de temas, objetos de auditoria, métodos de trabalho e forma de comunicar as conclusões de auditoria. Empregam ampla seleção de métodos de avaliação e investigação de diferentes áreas do conhecimento, em especial das ciências sociais (ISSAI 3000/1.2, 2.2, 2004; ISSAI 400/4,21, 2001). Além disso, essa modalidade de auditoria requer do auditor flexibilidade, imaginação e capacidade analítica (ISSAI 3000/1.8, 2004).
+
+
+14.	Algumas áreas de estudo, em função de sua especificidade, necessitam de conhecimentos especializados e abordagem diferenciada, como é o caso das avaliações de programa, auditoria de tecnologia de informação e de meio ambiente (ISSAI 3000/1.7, Apêndices 5 e 6, 2004).
+
+
+15.	Nas auditorias de regularidade, as conclusões assumem a forma de opinião concisa e de formato padronizado sobre demonstrativos financeiros e sobre a conformidade das transações com leis e regulamentos, ou sobre temas como a inadequação dos controles internos, atos ilegais ou fraude. Nas auditorias operacionais, o relatório trata da economicidade e da eficiência na aquisição e aplicação dos recursos, assim como da eficácia e da efetividade dos resultados alcançados. Tais relatórios podem variar consideravelmente em escopo e natureza, informando, por exemplo, sobre a adequada aplicação dos recursos, sobre o impacto de políticas e programas e recomendando mudanças destinadas a aperfeiçoar a gestão (ISSAI 400/2-3, 2001).
+
+
+16.	Pela sua natureza, as auditorias operacionais são mais abertas a julgamentos e interpretações e seus relatórios, consequentemente, são mais analíticos e argumentativos (ISSAI 3000/1.2, 2004). Enquanto nas auditorias de regularidade o exame da materialidade está diretamente relacionado ao montante de recursos envolvidos, nas auditorias operacionais essa é uma questão mais subjetiva e pode basear-se em considerações sobre a natureza ou o contexto do objeto auditado (ISSAI 400/29, 2001).
+
+
+17.	A participação do gestor e de sua equipe é fundamental em várias etapas do ciclo de ANOp (
+
+
+
+
+
+
+
+
+Fonte: Adaptado de NAO, 1996.
+
+
+18.	Sinteticamente, o ciclo de auditoria operacional se inicia com o processo de seleção dos temas. Após a definição de tema específico, deve-se proceder ao planejamento com vistas à elaboração do projeto de auditoria, que tem por finalidade detalhar os objetivos do trabalho, as questões a serem investigadas, os procedimentos a serem desenvolvidos e os resultados esperados com a realização da auditoria. Na fase de execução, realiza-se a coleta e análise das informações que subsidiarão o relatório destinado a comunicar os achados e as conclusões da auditoria. A etapa de monitoramento destina-se a acompanhar as providências adotadas pelo auditado em resposta às recomendações e determinações exaradas pelo TCU, assim como aferir o benefício decorrente de sua implementação (ISSAI 3000/3.1, 2004; TCU, 2005).
+
+
+SELEÇÃO
+
+
+Processo de seleção dos objetos de auditoria
+
+
+19.	O processo de seleção do objeto de auditoria é o primeiro estágio do ciclo de auditoria. Sua importância reside na definição de um objeto que ofereça oportunidade para a realização de auditoria que contribua para o aperfeiçoamento da administração pública e forneça à sociedade opinião independente sobre o desempenho da atividade pública.
+
+
+20.	O processo de seleção é necessário porque o campo de atuação do controle externo é muito amplo, se comparado aos seus recursos, que são limitados. Para decidir o que auditar, é necessário estabelecer critérios, visando orientar a aplicação de recursos e aumentar a probabilidade de selecionar objetos de auditoria que tragam oportunidade de realizar trabalhos significativos (ISSAI 200/1.21, 2001). Este capítulo trata desses critérios e de instrumentos que podem apoiar o processo de seleção.
+
+
+21.	Ao determinar a alocação de seus recursos, o Tribunal priorizará atividades que precisam, por lei, ser completadas em certo prazo (ISSAI 200/1.22, 2001), a exemplo do relatório e pareceres prévios sobre as contas do Governo da República. Este capítulo não trata desses casos, mas dos cuidados que devem ser adotados para priorizar as auditorias de iniciativa própria.
+
+
+Integração com o planejamento estratégico
+
+
+22.	O processo de seleção deve estar integrado simultaneamente ao planejamento estratégico e ao sistema de planejamento anual (ISSAI 3000/3.2, 2004; BRASIL, 2005, art. 2°).
+
+
+23.	A razão para a integração da seleção com o planejamento estratégico reside no fato de que o processo de seleção é orientado por escolhas fundamentais, que definem a alocação de recursos e diretrizes de atuação. A definição de prioridades, compatíveis com a manutenção da qualidade das atividades de controle, inclui a tomada de decisões estratégicas, à luz das informações disponíveis (ISSAI 200/1.23, 2001).
+
+
+24.	As escolhas estratégicas do órgão controlador abrangem diferentes perspectivas, desde decisões sobre a alocação de recursos para cumprir suas obrigações legais até decisões sobre áreas de governo que devem ser examinadas prioritariamente.
+
+
+25.	Assim, as escolhas estratégicas afetam a alocação de recursos em geral, tais como a natureza do investimento em capacitação, os tipos de ferramentas de trabalho que devem ser desenvolvidas, o quantitativo de pessoal alocado por linha de atuação. Além disso, a seleção de objetos específicos deve partir de perspectiva geral do órgão de controle sobre temas prioritários de auditoria (ISSAI 300/3.2, 2001).
+
+
+26.	Uma vez definidas as grandes áreas de atuação, levando em consideração os objetivos do órgão de controle, o processo de seleção de objetos de auditoria pode ser mais bem focado, passando-se ao exame das informações setoriais das ações de governo em confronto com critérios de seleção. Essa segunda etapa permitirá passar do planejamento estratégico para a formulação de plano operacional.
+
+
+Critérios de seleção
+
+
+27.	Realizadas as escolhas estratégicas, o próximo passo do processo de seleção de objetos de auditoria é definir os critérios que serão usados para selecionar objetos específicos de auditoria.
+
+
+28.	O principal critério de seleção é a capacidade de a auditoria agregar valor, por meio de sua contribuição para a avaliação e a melhoria da gestão pública (ISSAI 3000/3.2, 2004). Outros critérios podem ser usados, entre os quais se destacam os citados nos normativos da Intosai e do TCU: materialidade, relevância e vulnerabilidade (ISSAI 3000/3.2, 2004; BRASIL, 2005). Esses critérios estão fortemente relacionados, mas são apresentados separadamente de forma a facilitar a compreensão de como operacionalizar o processo de seleção.
+
+
+29.	Os critérios de seleção podem ter maior ou menor peso no processo de escolha, conforme a conjuntura. As características do possível objeto de auditoria devem ser examinadas em relação a cada um desses critérios para, em conjunto, permitir a elaboração de escala de prioridades. O processamento de diferentes informações sobre agregação de valor, materialidade, relevância e vulnerabilidade pode ser feito de diversos modos. O detalhamento de como processar as informações pode ser objeto de roteiro com instruções específicas.
+
+
+30.	É importante deixar claro que qualquer das opções possíveis implica escolhas do órgão de controle. Assim, a seleção dos objetos de auditoria reflete preferências dos operadores do processo de seleção. No entanto, as escolhas realizadas devem ser justificadas mediante alguma fundamentação, mesmo sendo a opinião qualificada de grupo de profissionais.
+
+
+Agregação de valor
+
+
+31.	Agregar valor refere-se a produzir novos conhecimentos e perspectivas sobre o objeto de auditoria (ISSAI 3000/3.2, 2004). As seguintes situações podem indicar a possibilidade de a auditoria agregar valor significativo:
+
+
+a)	 discussão sobre nova política pública ou mudança significativa na implementação de programa ou organização de ente governamental;
+
+
+b)	 surgimento de novas ou urgentes atividades ou mudanças de condição;
+
+
+c)	 escassez de auditorias anteriores ou trabalhos de outros órgãos de pesquisa ou de controle sobre o objeto de auditoria;
+
+
+d)	 pouco conhecimento sobre a relação causa e efeito entre a ação de governo e a solução de problemas.
+
+
+Materialidade
+
+
+32.	O critério de materialidade indica que o processo de seleção deve levar em consideração os valores envolvidos no objeto de auditoria, pois a auditoria deve produzir benefícios significativos.  Nem sempre benefícios das auditorias operacionais são financeiros, mas o aperfeiçoamento de processos em objetos de auditoria com alta materialidade tem grande possibilidade de gerar economia ou eliminar desperdícios.
+
+
+33.	O volume de recursos disponíveis no orçamento é indicador de materialidade. No entanto, em ambientes orçamentários nos quais existe grande diferença entre o orçado, o contratado e o pago, o exame dos valores envolvidos em cada uma dessas fases da despesa pode ser necessário. Além disso, na fiscalização da área de regulação, a dimensão econômica do setor no qual se insere o objeto de auditoria deve ser levada em consideração.
+
+
+Relevância
+
+
+34.	O critério de relevância indica que as auditorias selecionadas devem procurar responder questões de interesse da sociedade, que estão em debate público e são valorizadas.
+
+
+35.	Os seguintes meios podem ser usados para aferir a relevância do possível objeto de auditoria:
+
+
+a)	opinião de parlamentares, de técnicos das casas legislativas ou de institutos de pesquisa, de figuras proeminentes de diversos setores da sociedade;
+
+
+b)	declarações de prioridades nos planos e orçamentos públicos como o Plano Plurianual, a Lei de Diretrizes Orçamentárias, a mensagem do Executivo que encaminha o orçamento ao Legislativo, os planos setoriais, a manifestação pública de priorização pelo governo;
+
+
+c)	relatos reiterados de desperdícios, erros, desobediência a procedimentos;
+
+
+d)	presença na mídia.
+
+
+Vulnerabilidade
+
+
+36.	No contexto do processo de seleção, as vulnerabilidades são situações ou propriedades intrínsecas do objeto de auditoria que podem estar associadas à ocorrência de eventos adversos (ABNT, 2009). Conforme a natureza do objeto de auditoria que esteja sendo selecionado, é necessário investigar áreas específicas referentes à operação de programas de governo, organizações públicas ou mesmo municípios a serem auditados. Nesse último caso, podem ser examinadas características relacionadas ao desenvolvimento institucional local.
+
+
+
+Exemplos de situações que podem estar associadas à ocorrência de eventos adversos
+
+
+
+▪ Estruturas gerenciais complexas que envolvem diferentes organizações governamentais, de uma mesma esfera ou de esferas de governo diferentes, e organizações não-governamentais.
+
+
+▪ Falta de informações confiáveis ou atualizadas sobre o desempenho do objeto de auditoria, como alcance de metas, custos dos produtos, público atendido.
+
+
+▪ Problemas de estrutura, de planejamento, de controle.
+
+
+▪ Falta de clareza sobre objetivos, metas, responsabilidades, processos de tomada de decisão.
+
+
+▪ Problemas operacionais com sistemas informatizados.
+
+
+Fonte: ISSAI 3000/3.2, 2004.
+
+
+Levantamento
+
+
+37.	Para passar do planejamento estratégico para o plano operacional, são necessárias informações atualizadas sobre estrutura, funções e operações dos possíveis objetos de auditoria, que permitam a identificação de áreas com alta materialidade, que apresentem vulnerabilidades e que tenham potencial para que a auditoria contribua para gerar melhorias na administração (ISSAI 200/1.23, 2001). A coleta dessas informações pode ser realizada por meio de levantamento, que é um tipo de instrumento de fiscalização (BRASIL, 2002a, art. 238).
+
+
+38.	O planejamento estratégico, ao qual se liga o processo de seleção, pode ser baseado em análise ou identificação de riscos, ou, de forma menos teórica, na análise de indicadores de problemas existentes ou potenciais (ISSAI 3000/3.2, 2004). Sendo assim, a identificação ou análise de riscos pode ter papel importante na definição do escopo do levantamento e na obtenção de informações que realimentarão o planejamento estratégico.
+
+
+39.	O levantamento pode servir tanto como instrumento para selecionar futuros temas para auditorias quanto para decidir se é viável realizar auditorias específicas. Dependendo do objetivo e do conhecimento acumulado sobre a área em exame, o levantamento poderá ter escopo amplo ou restrito.
+
+
+Levantamento de escopo amplo
+
+
+40.	O levantamento de escopo amplo tem por objetivo conhecer a organização e o funcionamento das áreas que poderão ser fiscalizadas, bem como identificar objetos e instrumentos de fiscalização (BRASIL, 2002a, art. 238, I e II).
+
+
+41.	O levantamento de escopo amplo explora as possibilidades de fiscalizações mediante análise do geral para o particular e em perspectiva plurianual. Tendo em vista sua amplitude, ele pode identificar oportunidades de realizar tanto auditorias operacionais quanto de conformidade.
+
+
+42.	Em geral, são colhidas informações sobre os planos setoriais, base legal dos programas e organizações, previsão orçamentária e execução financeira, sistemas de informação, estruturas de monitoramento e avaliação, metas, planos de programas e organizações, bem como revisão dos trabalhos de órgãos de pesquisa e de controle sobre os possíveis objetos de auditoria.
+
+
+43.	O levantamento é oportunidade para se adquirir conhecimento sistêmico sobre setores de atividade governamental. Procura-se entender a articulação entre programas de governo para alcançar os objetivos de determinada política pública, o papel das organizações públicas e privadas envolvidas, os principais desafios e dificuldades existentes.
+
+
+44.	Além disso, o levantamento permite atualizar ativamente informações sobre áreas de governo, identificar novos desenvolvimentos e tendências nas políticas públicas, mudanças de prioridades, necessidade de uso de novas abordagens e técnicas nas auditorias.
+
+
+45.	Por meio do levantamento, o Tribunal adquire condições de focar melhor sua ação de fiscalização e pode criar estratégia de atuação com perspectiva plurianual, que aborde de forma consistente os principais problemas identificados. O levantamento de escopo amplo, por sua natureza, tem custo maior do que o de escopo restrito, mas não precisa ser realizado com freqüência, porque parte das informações são estáveis e parte pode ser atualizada mediante consulta a bases de dados ou por meio de outros métodos disponíveis.
+
+
+Levantamento de escopo restrito
+
+
+46.	Em alguns casos, pode ser necessário aprofundar o levantamento para estudar a viabilidade de realização da fiscalização, isto é, examinar se o objeto de auditoria indicado é auditável, o que corresponde a um dos possíveis objetivos do levantamento (BRASIL, 2002a, art. 238, inciso III).
+
+
+47.	Um dos motivos que pode exigir a realização do estudo de viabilidade é a questão da oportunidade. Como o levantamento de escopo amplo visa identificar objetos de auditoria no curto, médio e longo prazos, mudanças de condição podem exigir a atualização de informações e a reavaliação dos critérios de seleção. Outro motivo é que as informações levantadas, em abordagem sistêmica, podem não ser suficientes para decidir sobre a realização de fiscalização específica, para a qual seriam necessárias informações mais detalhadas.
+
+
+48.	Em geral, o estudo de viabilidade traz informações sobre os principais processos operacionais e produtos, de forma a esclarecer a forma de execução das ações. Além disso, examinam-se:
+
+
+a)	a qualidade dos indicadores de desempenho já identificados, destacando oportunidades de melhoria;
+
+
+b)	a disponibilidade de dados e sistemas de informações, abordando sua confiabilidade e abrangência;
+
+
+c)	os relatórios gerenciais existentes e as avaliações anteriormente efetuadas;
+
+
+d)	as limitações à execução da auditoria,
+
+
+e)	a receptividade do gestor em participar da fiscalização;
+
+
+f)	a necessidade de empregar habilidades especializadas na auditoria;
+
+
+g)	os possíveis prejuízos aos objetivos do controle externo, caso a fiscalização não seja realizada.
+
+
+49.	A conclusão do estudo de viabilidade deve ser manifestação valorativa, substantiva e convincente sobre a conveniência e a oportunidade de se realizar a fiscalização, abrangendo razões que recomendam a seleção do objeto de auditoria, o potencial do tema para chamar a atenção da mídia, da sociedade civil organizada e do Legislativo, e gerar resultados que agreguem valor.
+
+
+50.	Após a seleção do objeto de auditoria, a próxima etapa do ciclo de auditoria é o planejamento da fiscalização específica.
+
+
+PLANEJAMENTO
+
+
+51.	Segundo a International Organization of Supreme Audit Institution _ Intosai, o planejamento deve ser realizado de modo a assegurar que uma auditoria de alta qualidade seja conduzida de maneira econômica, eficiente, efetiva e com tempestividade (ISSAI 3000/3.3, 2004).
+
+
+52.	As auditorias operacionais devem ser precedidas de planejamento detalhado que ofereça claro senso de direção ao trabalho, proporcione estrutura lógica consistente e auxilie a controlar custos e cumprimento de prazos (NAO, 1997).
+
+
+
+Objetivo do planejamento de auditoria
+
+
+
+O planejamento de auditoria visa delimitar o objetivo e o escopo da auditoria, definir a estratégia metodológica a ser adotada e estimar os recursos, os custos e o prazo necessários a sua realização.
+
+
+53.	O planejamento consiste das seguintes atividades: 
+
+
+a)	análise preliminar do objeto de auditoria;
+
+
+b)	definição do objetivo e escopo da auditoria;
+
+
+c)	especificação dos critérios de auditoria;
+
+
+d)	elaboração da matriz de planejamento;
+
+
+e)	validação da matriz de planejamento; 
+
+
+f)	elaboração de instrumentos de coleta de dados;
+
+
+g)	teste-piloto;
+
+
+h)	elaboração do projeto de auditoria.
+
+
+
+
+
+
+
+
+54.	Considerando que as auditorias operacionais devem ser gerenciadas como projetos, na fase inicial do planejamento, a equipe deve elaborar cronograma contendo as tarefas a executar, os responsáveis e o prazo final para execução. Esse instrumento permite que a equipe organize suas atividades, facilitando a alocação de seus membros de acordo com as tarefas necessárias e o tempo disponível. O cronograma deve ser acordado entre os membros da equipe e submetido ao supervisor, que o utilizará no acompanhamento dos trabalhos. Para facilitar essa tarefa, também podem ser utilizados softwares específicos de acompanhamento de projetos.
+
+
+55.	Compete ao coordenador da equipe assegurar que o trabalho seja planejado corretamente e que os demais membros da equipe e os gestores do objeto da auditoria estejam suficientemente informados acerca do propósito do planejamento. 
+
+
+56.	Para que a equipe forme entendimento comum sobre o trabalho, é importante que todos os membros acompanhem o seu desenvolvimento e partilhem as informações levantadas. Para isso, recomenda-se a realização de reuniões curtas e periódicas, que mantenham todos informados sobre o andamento dos trabalhos e busquem solucionar impasses ou conflitos, quando necessário.
+
+
+57.	A equipe deve repassar ao supervisor, nos prazos acordados, informações a respeito das atividades concluídas e seu impacto sobre os rumos da auditoria, tendo em vista os dados obtidos até aquele ponto do planejamento. As limitações ou entraves ao cumprimento dos prazos e tarefas acordados inicialmente também devem ser informados ao supervisor dos trabalhos. 
+
+
+58.	Durante o planejamento, é importante que o coordenador da equipe avalie os prazos estimados inicialmente. Se houver necessidade de readequação, o coordenador da equipe deve submeter novo cronograma de atividades ao supervisor. Essa proposta deve ser feita logo que a necessidade for identificada, para que providências sejam encaminhadas em tempo hábil. 
+
+
+59.	O estabelecimento de boas relações com os gestores, desde o início dos trabalhos, é de suma importância para o sucesso da auditoria. Especial atenção deve ser dada à cuidadosa organização dos contatos com os gestores, desde a fase de planejamento (ISSAI 3000/Apêndice 4, 2004). O contato inicial deve ser por telefone, seguido de uma reunião em que a equipe de auditoria, acompanhada do supervisor, apresenta os objetivos do trabalho para o gestor e sua equipe. Deve-se solicitar a presença do representante do controle interno.
+
+
+60.	O objetivo desta reunião inicial, além das apresentações das equipes de auditoria e da instituição ou programa auditado, é esclarecer sobre a modalidade de auditoria que será realizada e sua finalidade, as principais dimensões de análise (economicidade, eficiência, eficácia e efetividade), as etapas e os prazos previstos para a realização do trabalho. É fundamental destacar a importância da colaboração do gestor e a garantia de sua participação em todas as fases do trabalho, ressaltando-se o envio de relatório preliminar para sua análise e comentários. A atitude da equipe de auditoria deve favorecer a confiança mútua e a interação produtiva ao longo de todo o trabalho, sem, entretanto, descuidar da observância de limites necessários à salvaguarda de sua independência na condução da auditoria (ISSAI 3000/4.4, 2004; ISSAI 200/2.25/2.29, 2001). 
+
+
+61.	Para evitar conflitos desnecessários, os auditores devem procurar entender a natureza específica do objeto de auditoria. Para isso, deverão considerá-lo a partir de diferentes perspectivas e adotar atitude aberta e objetiva diante de opiniões divergentes, esforçando-se para explicitá-las de maneira a construir uma visão final tão verdadeira e justa quanto possível (ISSAI 3000/4.4, 2004). 
+
+
+62.	É importante registrar, organizar, documentar e referenciar os dados e informações obtidos durante todas as fases da auditoria, em forma de papéis de trabalho (ISSAI 3000/4.2/Apêndice 3, 2004; GAO, 2007). 
+
+
+63.	Papéis de trabalho são os documentos relevantes coletados e gerados durante a auditoria. Devem ser suficientemente completos e detalhados para permitir que um auditor experiente, que não teve contato prévio com a auditoria, seja capaz de entender, a partir da documentação, a natureza e os resultados da auditoria realizada, os procedimentos adotados, as evidências obtidas e as conclusões alcançadas. 
+
+
+64.	A quantidade, tipo e conteúdo da documentação serão definidos pelo auditor. Entretanto, recomenda-se documentar:
+
+
+a)	objetivo, escopo, cronograma e metodologia do trabalho;
+
+
+b)	matrizes de planejamento e achados;
+
+
+c)	instrumentos de coleta de dados;
+
+
+d)	resultados das técnicas de diagnóstico aplicadas;
+
+
+e)	resultados de questionários, entrevistas e grupos focais realizados;
+
+
+f)	resultados de análises estatísticas e de banco de dados;
+
+
+g)	sugestões obtidas nos painéis de referência.
+
+
+65.	Manter os papéis de trabalho organizados e documentados é importante porque:
+
+
+a)	auxilia no planejamento, execução e supervisão da auditoria;
+
+
+b)	subsidia a elaboração do relatório e a resposta a questionamentos do auditado ou de outros atores interessados;
+
+
+c)	aumenta a efetividade e a eficiência da auditoria;
+
+
+d)	auxilia na revisão da qualidade da auditoria;
+
+
+e)	contribui para o desenvolvimento profissional do auditor;
+
+
+f)	pode subsidiar a realização de novos trabalhos.
+
+
+66.	A documentação de auditoria deve ser armazenada durante o tempo necessário para satisfazer as exigências legais e administrativas. Deve-se garantir a segurança, integridade, acessibilidade e recuperabilidade das informações, seja em papel, meio eletrônico ou outras mídias. 
+
+
+Análise preliminar do objeto auditado 
+
+
+67.	A análise preliminar consiste no levantamento de informações relevantes sobre o objeto auditado para adquirir-se o conhecimento necessário à formulação das questões que serão examinadas pela  auditoria.
+
+
+68.	A compreensão do objeto da auditoria permite identificar riscos e pontos críticos existentes e é indispensável à definição do objetivo e do escopo da auditoria. É importante assegurar que os aspectos centrais do objeto auditado tenham sido investigados, documentados e compreendidos. A extensão e o nível de detalhamento dos dados que serão coletados devem levar em consideração a natureza do objeto investigado, o tempo e os recursos disponíveis pela equipe.
+
+
+69.	A equipe deve realizar investigação preliminar dos controles internos e dos sistemas de informação, assim como dos aspectos legais considerados significativos no contexto da auditoria. Nas auditorias operacionais, o exame da confiabilidade da base informativa e dos controles internos deve enfatizar os aspectos que possam comprometer a efetividade e/ou a eficiência das operações. 
+
+
+70.	A avaliação dos controles internos deve ser considerada na estimativa do risco de auditoria, que consiste na possibilidade de o auditor chegar a conclusões equivocadas ou incompletas. Sempre que relevante, o resultado dessa avaliação deve ser registrado no projeto de auditoria. 
+
+
+71.	O levantamento de informações pode ser estruturado da seguinte forma (ISSAI 3000/3.3, 2004):
+
+
+O objeto e seu contexto:
+
+
+a)	objetivos (gerais ou parciais, dependendo da extensão do trabalho);
+
+
+b)	estratégia de atuação (ações desenvolvidas, metas fixadas, clientes atendidos, procedimentos e recursos empregados, bens e serviços ofertados e benefícios proporcionados); 
+
+
+c)	estrutura organizacional (linhas de subordinação e de assessoramento e relação com as atividades desenvolvidas);
+
+
+d)	fontes de financiamento e principais itens de custo e despesa (histórico da execução orçamentária); 
+
+
+e)	situação no contexto das prioridades governamentais; 
+
+
+f)	histórico (a partir da data de criação, as denominações anteriores e mudanças na sua concepção lógica em relação a objetivos, público-alvo e formas de implementação);
+
+
+g)	grupos de interesse e características do ambiente externo e interno;
+
+
+h)	natureza da atuação de outros órgãos ou programas governamentais que atuam na mesma área (linhas de coordenação). 
+
+
+Funcionamento do objeto auditado:
+
+
+a)	processos gerenciais;
+
+
+b)	bases de dados existentes;
+
+
+c)	ambiente de controle; 
+
+
+d)	restrições enfrentadas (imposições legais e limitações impostas pela concorrência, pela tecnologia, pela escassez de recursos ou pela necessidade de cooperar com outras entidades).
+
+
+72.	As informações sobre o objeto auditado podem ser obtidas de diversas fontes, conforme exemplificado no Apêndice.
+
+
+73.	A equipe deverá realizar levantamento de trabalhos relevantes sobre o objeto de auditoria, identificando aspectos avaliados e principais conclusões de relatórios de auditoria do TCU e do controle interno, além de estudos e pesquisas de iniciativa do órgão executor ou de instituição acadêmica conceituada.
+
+
+74.	Ainda na fase de análise preliminar, podem ser utilizadas técnicas com a finalidade de traçar diagnóstico a partir da interpretação sistemática das informações coletadas e da identificação dos principais problemas relativos ao desempenho do objeto selecionado. O Quadro 1 resume as técnicas mais empregadas e os objetivos a que se propõem.
+
+
+Quadro 1: Técnicas mais utilizadas na etapa de planejamento
+
+
+Questão de auditoria
+
+A questão de auditoria é o elemento central na determinação do direcionamento dos trabalhos de auditoria, das metodologias e técnicas a adotar e dos resultados que se pretende atingir.
+
+
+
+Observação: Outras técnicas, como análise de Ishikawa, análise RECI e marco lógico, também podem ser úteis nessa etapa do trabalho de auditoria.
+
+
+
+75.	Dados sobre desempenho são fundamentais para a avaliação dos aspectos da economicidade, eficiência, eficácia e efetividade do objeto da auditoria. O uso de indicadores de desempenho para aferir os resultados alcançados pelos gestores é preconizado pelas doutrinas de gerenciamento voltado para resultados. O Ministério do Planejamento estabelece que para cada programa finalístico é obrigatório haver ao menos um indicador. Para os programas de apoio às políticas públicas e áreas especiaisix, a presença de indicadores é facultativa (BRASIL, 2008). Embora ocupe posição central no planejamento de auditoria, a produção de informações sobre desempenho pelo gestor pode enfrentar os seguintes problemas:
+
+
+a)	dificuldade de desenvolver indicadores de desempenho a partir de objetivos definidos de forma imprecisa;
+
+
+b)	sistemas de informação inadequados ou pouco confiáveis;
+
+
+c)	efeito de fatores externos sobre o desempenho de programas, dificultando a identificação dos resultados diretamente atribuíveis às ações e às políticas específicas;
+
+
+d)	dificuldade de mensurar produtos não homogêneos;
+
+
+e)	dificuldade de incorporar a dimensão qualitativa nos indicadores de desempenho; 
+
+
+f)	necessidade de múltiplos indicadores para se obter um quadro da eficiência e da efetividade de um programa.
+
+
+76.	Em função das dificuldades apontadas, ao examinar informações sobre desempenho, a equipe deve considerar, entre outras questões:
+
+
+a)	Os indicadores de desempenho são válidos, confiáveis e justificáveis à luz da relação custo-benefício? 
+
+
+b)	Os procedimentos de coleta de dados sobre desempenho são suficientes e adequados?
+
+
+c)	Os indicadores de desempenho são parte integrante do processo de tomada de decisões?
+
+
+77.	Sempre que houver necessidade de ampliar o conhecimento sobre os aspectos operacionais do objeto de auditoria, recomenda-se a realização de visitas exploratórias, isto é, o deslocamento da equipe de auditoria para o local (ou locais) onde as atividades se desenvolvem, com o objetivo de colher informações preliminares. A ausência de um claro arcabouço legal, a insuficiência de informações ou, ainda, a diversidade na forma de implementação das ações são exemplos de razões que justificam a visita exploratória na fase de planejamento. Os custos da sua realização devem ser considerados no custo estimado da auditoria.  
+
+
+78.	A visita exploratória é útil para prevenir problemas no decorrer da execução dos trabalhos, reduzir incertezas, auxiliar na definição dos critérios de auditoria, bem como permitir a obtenção de informações que subsidiarão a elaboração dos instrumentos de coleta de dados.  
+
+
+Definição do objetivo e do escopo da auditoria
+
+
+79.	A partir do conhecimento construído durante a análise preliminar do objeto de auditoria, a equipe deverá definir o objetivo da auditoria por meio da especificação do problema e das questões de auditoria que serão investigadas. O objetivo deve esclarecer também as razões que levaram a equipe a sugerir um determinado tema e enfoque, caso estes não tenham sido previamente definidos na deliberação que determinou a realização da auditoria.
+
+
+Questão /subquestão de auditoria
+
+Informações requeridas
+
+Fontes de informação
+
+Procedimentos de coleta de dados
+
+Procedimentos de análise de dados
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Especificar os termos- chave e o escopo da questão:
+
+-critério
+
+ -período de abrangência
+
+-atores envolvidos
+
+-abrangência geográfica
+
+Identificar as informações necessárias para responder à questão de auditoria
+
+Identificar as fontes de cada item de informação
+
+Identificar as técnicas de coleta de dados que serão usadas e descrever os respectivos procedimentos
+
+Identificar as técnicas a ser empregadas na análise de dados e descrever os respectivos procedimentos
+
+Especificar as limitações quanto:
+
+-à estratégia metodológica adotada
+
+-ao acesso a pessoas e informações
+
+-à qualidade das informações
+
+-às condições operacionais de realização do trabalho
+
+Esclarecer precisamente que conclusões ou resultados podem ser alcançados
+
+
+80.	Ao formular as questões e, quando necessário, as subquestões de auditoria, a equipe está, ao mesmo tempo, estabelecendo com clareza o foco de sua investigação, as dimensões e os limites que deverão ser observados durante a execução dos trabalhos.
+
+
+81.	Nesse sentido, a adequada formulação das questões é fundamental para o sucesso da auditoria, uma vez que terá implicações nas decisões quanto aos tipos de dados que serão coletados, à forma de coleta que será empregada, às análises que serão efetuadas e às conclusões que serão obtidas.
+
+
+82.	Na elaboração das questões de auditoria, deve-se levar em conta os seguintes aspectos:
+
+
+a)	clareza e especificidade;
+
+
+b)	uso de termos que possam ser definidos e mensurados;
+
+
+c)	viabilidade investigativa (possibilidade de ser respondida);
+
+
+d)	articulação e coerência (o conjunto das questões elaboradas deve ser capaz de esclarecer o problema de auditoria previamente identificado).
+
+
+Tipos de questão de auditoria
+
+
+83.	O tipo de questão formulada terá uma relação direta com a natureza da resposta e a metodologia a adotar. Podemos classificar questões de auditoria em quatro tipos (GAO,1991; NAO,1997):
+
+
+a)	Questões descritivas: São formuladas de maneira a fornecer informações detalhadas sobre, por exemplo, condições de implementação ou de operação de determinado programa ou atividade, mudanças ocorridas, problemas e áreas com potencial de aperfeiçoamento. São questões que buscam aprofundar aspectos tratados de forma preliminar durante a etapa de planejamento. Exemplos de questão descritiva: "Como os executores locais estão operacionalizando os requisitos de acesso estabelecidos pelo programa? 
+
+
+b)	Questões normativas: São aquelas que tratam de comparações entre a situação existente e aquela estabelecida em norma, padrão ou meta, tanto de caráter qualitativo quanto quantitativo. A abordagem metodológica empregada nesses casos é a comparação com critérios previamente identificados e o desempenho observado. Abordam o que deveria ser e usualmente são perguntas do tipo: "O programa tem alcançado as metas previstas?"; "Os sistemas instalados atendem às especificações do programa?".
+
+
+c)	Questões avaliativas (ou de impacto, ou de causa-e-efeito): As questões avaliativas referem-se à efetividade do objeto de auditoria e vão além das questões descritivas e normativas para enfocar o que teria ocorrido caso o programa ou a atividade não tivesse sido executada. Em outras palavras, uma questão avaliativa quer saber que diferença fez a intervenção governamental para a solução do problema identificado. O escopo da pergunta abrange também os efeitos não esperados, positivos ou negativos, provocados pelo programa. Exemplo de questão avaliativa: "Em que medida os efeitos observados podem ser atribuídos ao programa?". As questões avaliativas quase sempre requerem estratégias metodológicas bastante complexas, envolvendo modelos experimentais com grupos de controle, análises estatísticas sofisticadas e modelagem. Esse tipo de estudo pode trazer resultados reveladores, mas, em função da complexidade envolvida, é caro e de demorada implementação.
+
+
+d)	Questões exploratórias: Destinadas a explicar eventos específicos, esclarecer os desvios em relação ao desempenho padrão ou as razões de ocorrência de um determinado resultado. São perguntas do tipo: "Quais os principais fatores que respondem pela crise do sistema de transporte aéreo?"; "Que fatores explicam o aumento expressivo nos gastos com pagamento dos benefícios de auxílio-doença ao longo da última década?"  
+
+
+84.	A formulação da questão de auditoria é um processo interativo, o qual depende, fundamentalmente, das informações obtidas na fase de planejamento e daquilo que se quer investigar. Geralmente utiliza-se a técnica de brainstorming para o seu preenchimento, o que permite a cada participante expor livremente suas idéias e interpretações, até que se alcance entendimento comum sobre a formulação do problema, das questões e subquestões de auditoria. 
+
+
+85.	Embora não exista um método fácil para se chegar às questões de auditoria, recomenda-se uma abordagem estruturada para sua formulação, inspirada no método cartesiano de solução de problemas, como descrito a seguir:
+
+
+
+1º passo - Descreva o "problema":
+
+
+86.	Com base nas informações propiciadas pela análise preliminar do objeto de auditoria, expresse, de forma clara e objetiva, aquilo que motivou a auditoria. A descrição do problema deve ser suficiente para nortear a concepção da auditoria.
+
+
+87.	Caso a solicitação para realização da auditoria seja formulada de maneira genérica ou muito abrangente, o planejamento deverá definir o escopo da auditoria, etapa fundamental para que se possa ter compreensão clara do que será auditado. A explicitação do não-escopo, ou seja, daquilo que não será tratado pela auditoria, pode ser necessária para estabelecer com precisão os limites do trabalho. 
+
+
+
+Exemplo de formulação de problema de auditoria
+
+
+
+A partir do ano 2000, os dispêndios governamentais com o benefício de auxílio-doença tiveram aumento expressivo. Por isso, para assegurar a prestação de serviços com qualidade e coibir o desperdício de recursos públicos, é importante investigar a adequação dos mecanismos de controle do INSS para gerenciar a concessão e manutenção desse benefício, bem como avaliar a contribuição dos serviços de reabilitação profissional dos beneficiários, visando redução de custos.
+
+
+Fonte: Adaptado do relatório de auditoria operacional sobre benefício de auxílio-doença (TC 012.034/2008-7).
+
+
+
+2º passo – Formule as possíveis questões:
+
+
+88.	O problema deve ser subdividido em partes que não se sobreponham. Por meio de brainstorming identifique possíveis questões que, uma vez respondidas, possam elucidar o problema formulado. A seguir, estabeleça uma hierarquia de questões, como na 
+
+
+
+
+
+
+89.	Não há regras rígidas sobre quando formular subquestões de auditoria. Contudo, as questões devem ser focadas, específicas e tratar de apenas um tema. Se for necessário, subquestões devem ser formuladas para que cada uma delas seja o mais simples possível e, no conjunto, abranjam o que se deseja investigar por meio da questão de auditoria. As subquestões facilitam a organização das informações do projeto de auditoria por linha da matriz de planejamento, permitindo ao leitor acompanhar a lógica do desenho da auditoria. Excesso de subquestões pode tornar a matriz extensa, repetitiva e cansativa. Sendo assim, deve ser adotada a solução mais adequada a cada trabalho.
+
+
+
+Exemplo de formulação de questões e subquestões de auditoria
+Questão 1:
+ Os controles internos sobre o auxílio-doença são adequados para garantir, com razoável segurança, o pagamento desses benefícios?
+Subquestão 1.1:
+ Os controles internos sobre as atividades de concessão dos benefícios de auxílio-doença são adequados para garantir, com razoável segurança, o pagamento desses benefícios?
+Subquestão 1.2:
+ Os controles internos sobre as atividades de manutenção dos benefícios de auxílio-doença são adequados para garantir, com razoável segurança, o pagamento desses benefícios?
+Questão 2:
+ Qual a cobertura de atendimento do serviço de reabilitação profissional e qual o seu impacto econômico nos gastos com o benefício?
+Subquestão 2.1:
+ A estrutura física do serviço e o número de servidores alocados são suficientes para o atendimento da demanda por reabilitação profissional?
+Subquestão 2.2: 
+Qual a economia que o serviço de reabilitação possibilita e qual o seu potencial de crescimento? 
+
+
+Fonte: Adaptado do relatório de auditoria operacional sobre benefício de auxílio-doença (TC 012.034/2008-7).
+
+
+
+3º passo - Teste as questões:
+
+
+90.	Identifique as questões de difícil resposta e considere como as dificuldades podem ser contornadas. Confronte as questões com os recursos disponíveis para a realização da auditoria, definidos em termos de custo, prazos de execução e de pessoal. Considere ainda as competências da equipe, vis-à-vis às necessárias para execução do projeto de auditoria. 
+
+
+
+4º passo - Elimine as questões não essenciais:
+
+
+91.	Descarte questões desprovidas de potencial para melhorar o desempenho ou que não tenham solução viável. Portanto, os critérios para a escolha ou exclusão de determinada questão são a relevância das conclusões que poderão ser alcançadas e a factibilidade da estratégia metodológica requerida para respondê-la de forma satisfatória. Priorize as questões e decida quais devem ser estudadas. Lembre-se que as questões devem ser sucintas e sem ambigüidades.
+
+
+92.	Após definir o problema e as questões de auditoria, a equipe deverá especificar os critérios de auditoria e elaborar a matriz de planejamento.
+
+
+Especificação dos critérios de auditoria
+
+
+93.	Ainda na fase de planejamento, a equipe deve definir os critérios de auditoria, que são padrões de desempenho utilizados para medir a economicidade, eficiência, eficácia e efetividade do objeto de auditoria. Representam o estado ideal ou desejável daquilo que se examina e oferecem o contexto para se avaliar as evidências e compreender os achados, conclusões e recomendações da auditoria. Da comparação entre o critério e a situação existente (condição) são gerados os achados de auditoria. Portanto, critério representa a expectativa razoável e fundamentada do que "deveria ser", as melhores práticas e benchmarks contra os quais o desempenho é comparado ou avaliadox (ISSAI 3000/Apêndice 2, 2004; GAO, 2007). 
+
+
+94.	Critérios de auditoria desempenham papel fundamental no desenvolvimento de diversos aspectos do trabalho, servindo de base para (ISSAI 3000/Apêndice 2, 2004): 
+
+
+a)	definição de arcabouço conceitual básico que facilite a comunicação entre os integrantes da equipe de auditoria, as autoridades do TCU e os gestores;
+
+
+b)	delimitação do escopo da auditoria, tornando explícitos os seus objetivos;
+
+
+c)	orientação da coleta de dados, indicando como obter evidências significativas;
+
+
+d)	fixação de parâmetros balizadores das conclusões e recomendações da auditoria. 
+
+
+95.	Nas auditorias operacionais, a escolha do critério de auditoria é mais flexível e frequentemente  contém elementos de discricionariedade e de julgamento profissional. Dependendo do caso examinado, a fonte mais adequada para o critério de auditoria será ou a norma oficial, expressa em leis e regulamentos, ou a fundamentação científica, tendo como referência literatura especializada, normas profissionais e boas práticas. Entre as fontes que podem ser empregadas para a definição de critérios de auditoria, estão (ISSAI 3000/3.3, 2004; GAO, 2007):
+
+
+a)	leis e regulamentos que regem o funcionamento da entidade auditada;
+
+
+b)	decisões tomadas pelo Poder Legislativo ou Executivo;
+
+
+c)	referências a comparações históricas e comparações com a melhor prática;
+
+
+d)	normas e valores profissionais;
+
+
+e)	indicadores-chave de desempenho estabelecidos pela entidade auditada ou pela Administração;
+
+
+f)	opinião de especialista independente;
+
+
+g)	critérios utilizados em auditorias similares ou empregados por outras entidades de fiscalização superior – EFS;
+
+
+h)	organizações que realizem atividades semelhantes ou tenham programas similares;
+
+
+i)	bibliografia especializada. 
+
+
+96.	Critérios podem ser mais facilmente definidos sempre que os objetivos estabelecidos pelo legislador ou pelo Poder Executivo sejam claros, precisos e relevantes. Quando estes forem vagos ou conflitantes, a equipe de auditoria deve interpretá-los ou reelaborá-los, tornando-os mais operacionais e mensuráveis. Nesse caso, podem ser empregadas duas abordagens alternativas. A primeira consiste em consultar especialistas na área sobre como deveriam ser interpretados e medidos objetivos e metas; quais deveriam ser os resultados esperados sob dadas condições ou, ainda, qual a mais reconhecida prática comparável. A segunda alternativa consiste em consultar gestores e atores interessados relevantes para definir e acordar critérios bem fundamentados e realistasxi.
+
+
+97.	Ao definir critérios de auditoria, a equipe deve assegurar que eles sejam razoáveis, exequíveis e relevantes para os objetivos da auditoria. A definição de critérios adequados deve atender, ainda, às seguintes características (ISSAI 3000/Apêndice 2, 2004):
+
+
+a)	Confiabilidade: deve resultar em conclusões consistentes quando aplicado por outro auditor na mesma circunstância; 
+
+
+b)	Objetividade: deve ser livre de qualquer tendenciosidade por parte do auditor ou da gerência;
+
+
+c)	Utilidade: deve resultar em achados e conclusões que atendam às necessidades de informação dos interessados;
+
+
+d)	Clareza: deve ser claramente enunciado e não estar sujeito a interpretações significativamente diferentes;
+
+
+e)	Comparabilidade: deve ser consistente com critérios utilizados para auditar programa ou atividade similar e com aqueles usados previamente para auditar o mesmo objeto de auditoria;
+
+
+f)	Completude: deve incorporar as dimensões relevantes para avaliar o desempenho; 
+
+
+g)	Aceitabilidade: deve ter aceitação por parte de especialistas independentes, órgão ou entidade auditada, legislativo, mídia e público em geral.
+
+
+Elaboração da matriz de planejamento
+
+
+98.	Uma vez definidos o problema e as questões de auditoria, a equipe deverá elaborar a matriz de planejamento. Trata-se de quadro resumo das informações relevantes do planejamento de uma auditoria. O Quadro 2 apresenta o modelo de matriz de planejamento empregado nas auditorias operacionais.
+
+
+Quadro 2: Modelo de matriz de planejamento
+
+
+
+Problema: Expressar, de forma clara e objetiva, aquilo que motivou a auditoria.
+
+
+Exemplo de achado de auditoria
+
+Achado – Insuficiência de leitos psiquiátricos na maior parte dos estados brasileiros.
+
+Critério – A quantidade de leitos psiquiátricos estabelecida pela Organização Mundial de Saúde é de 0,43 por mil habitantes.
+
+Condição – O Brasil tem, em média, 0,37 leitos psiquiátricos por mil habitantes.
+
+Causas: 
+
+ Distribuição desigual de leitos entre os estados da federação (a região sudeste dispõe de 0,53 leitos por mil habitantes, enquanto na região norte o índice é 0,04)
+
+ Distribuição de leitos não atende a critérios populacionais
+
+ Ausência de planos municipais e estaduais de saúde mental
+
+ Controle social incipiente
+
+Efeitos: 
+
+ Deficiência de atendimento em locais com baixo índice de leitos
+
+ Migração de pessoas com transtornos mentais entre municípios ou entre estados, dificultando o planejamento da atenção à saúde.
+
+
+99.	O propósito da matriz de planejamento é auxiliar a elaboração conceitual do trabalho e a orientação da equipe na fase de execução. É uma ferramenta de auditoria que torna o planejamento mais sistemático e dirigido, facilitando a comunicação de decisões sobre metodologia e auxiliando a condução dos trabalhos de campo. A matriz de planejamento é um instrumento flexível e o seu conteúdo pode ser atualizado ou modificado pela equipe à medida que o trabalho de auditoria progride. 
+
+
+100.	A matriz é também o principal instrumento de apoio à elaboração do projeto de auditoria, pois contém as informações essenciais que o definem. Daí a importância da discussão amadurecida da matriz antes de se iniciar a redação do projeto de auditoria. O Apêndice detalha cada um dos elementos que compõem a matriz de planejamento.
+
+
+Validação da matriz de planejamento
+
+
+101.	O processo de validação da matriz de planejamento passa por duas etapas. Primeiramente, após a revisão do supervisor, a matriz de planejamento deve ser submetida a um painel de referência com o objetivo de colher críticas e sugestões para seu aprimoramento. Esse processo de validação tem por objetivos específicos: 
+
+
+a)	conferir a lógica da auditoria e o rigor da metodologia utilizada, questionando as fontes de informação, a estratégia metodológica e o método de análise a ser utilizado, em confronto com os objetivos da auditoria; 
+
+
+b)	orientar e aconselhar a equipe de auditoria sobre a abordagem a ser adotada pela auditoria; 
+
+
+c)	prover variado conjunto de opiniões especializadas e independentes sobre o projeto de auditoria; 
+
+
+d)	assegurar a qualidade do trabalho e alertar a equipe sobre falhas no seu desenvolvimento/ concepção; e 
+
+
+e)	conferir a presença de benefícios potenciais significativos. 
+
+
+102.	Portanto, a composição do painel, a ser organizado pela equipe de auditoria, deve favorecer o debate e refletir diferentes pontos de vista sobre o tema da auditoria. O painel poderá contar com a participação de especialistas convidados de universidades, centros de pesquisa e consultorias técnicas do Congresso com interesse no tema; representantes do controle interno e dos órgãos de planejamento e orçamento; representante do Ministro-Relator; auditores com reconhecida experiência no tema e representantes de organizações do terceiro setor, quando for o caso. O gestor poderá participar do painel de referência sempre que a equipe e o supervisor entenderem que a sua presença não trará prejuízo aos objetivos propostos no painel.
+
+
+103.	Outro papel, não menos importante, desempenhado pelo painel de referência é o de fortalecimento do controle social, ao possibilitar que atores relevantes participem da discussão do projeto de auditoria e possam ser esclarecidos sobre a natureza da fiscalização exercida pelo TCU, gerando expectativa sobre os resultados do trabalho e fortalecendo a imagem institucional.   
+
+
+104.	A segunda etapa do processo de validação consiste na apresentação da matriz de planejamento aos gestores do órgão ou programa auditado, depois dos ajustes necessários em função do resultado das discussões do painel de referência. A finalidade desse procedimento é apresentar o resultado da etapa de planejamento, realizada com a participação do gestor, visando obter seu comprometimento com o objetivo e a condução da auditoria. 
+
+
+Elaboração de instrumentos de coleta de dados e teste-piloto
+
+
+105.	Uma vez definida e validada a matriz de planejamento, passa-se à elaboração dos instrumentos de coleta de dados que serão utilizados durante a execução da auditoria. Cada técnica de coleta de dados – entrevista, questionário, grupo focal e observação direta – possui um instrumento próprio, a ser desenhado de forma a garantir a obtenção de informações relevantes e suficientes para responder às questões de auditoria.  
+
+
+106.	Toda a equipe deve envolver-se na elaboração dos instrumentos de coleta de dados, os quais devem ser testados para garantir a sua consistência. A realização do teste-piloto permite, ainda, conferir as premissas iniciais acerca do funcionamento do objeto auditado e a qualidade e confiabilidade dos dados.
+
+
+107.	Para obter um quadro representativo, a equipe deve escolher para a realização do teste-piloto um local ou aspecto do objeto da auditoria que apresente dificuldades potenciais à condução dos trabalhos, permitindo que a equipe antecipe os problemas que poderão ser enfrentados. Além disso, os dados coletados permitirão ajustar o tamanho da amostra e assegurar que a estratégia metodológica selecionada oferecerá resposta conclusiva à questão de auditoria.
+
+
+108.	Portanto, a realização de teste-piloto é altamente recomendável no caso de auditorias de grande complexidade, em locais de difícil acesso e custos elevados, pois aumenta as chances de que o trabalho desenvolvido alcance o nível de qualidade desejado com o menor custo possível.
+
+
+Elaboração do projeto de auditoria
+
+
+109.	Ao final da etapa de planejamento, a equipe deve preparar o projeto de auditoria que resume a natureza do trabalho a realizar e os resultados que se pretende alcançar. O projeto deve explicitar a motivação para se investigar determinado problema de auditoria, segundo enfoque específico e com a utilização de certa metodologia.
+
+
+110.	Portanto, o projeto conterá descrição sucinta do objeto de auditoria, objetivos do trabalho, questões a ser investigadas, procedimentos a ser desenvolvidos e resultados esperados com a realização da auditoria. Farão parte do apêndice: a matriz de planejamento, que resume as informações centrais do projeto de auditoria; o cronograma proposto para a condução dos trabalhos; e a estimativa de custos, inclusive de contratação de especialista, quando for o caso.
+
+
+111.	É fundamental destacar os resultados que se pretende alcançar com a realização da auditoria, indicando as oportunidades de aperfeiçoamento e, sempre que possível, de economia de recursos públicos, a fim de permitir análise de custo-benefício da auditoria.
+
+
+112.	Compete ao coordenador da equipe assegurar que o projeto de auditoria contenha todas as informações necessárias à correta e oportuna apreciação da proposta de trabalho.
+
+
+EXECUÇÃO
+
+
+113.	A etapa de execução consiste na obtenção de evidências apropriadas e suficientes para respaldar os achados e conclusões da auditoria.
+
+
+114.	As principais atividades realizadas durante a execução são:
+
+
+a)	desenvolvimento dos trabalhos de campo;
+
+
+b)	análise dos dados coletados;
+
+
+c)	elaboração da matriz de achados;
+
+
+d)	validação da matriz de achados.
+
+
+115.	Em geral, a coleta e a análise de dados não são atividades estanques. Exceto nas pesquisas, os dados são coletados, interpretados e analisados simultaneamente. Dependendo da metodologia adotada no projeto de auditoria, pode haver variação significativa na organização dos trabalhos de campo e na estratégia de análise dos dados.
+
+
+Achado de auditoria
+
+
+116.	Achado é a discrepância entre a situação existente e o critério. Achados são situações verificadas pelo auditor durante o trabalho de campo que serão usadas para responder às questões de auditoria. O achado contém os seguintes atributos: critério (o que deveria ser), condição (o que é), causa (razão do desvio com relação ao critério) e efeito (consequência da situação encontrada). Quando o critério é comparado com a situação existente, surge o achado de auditoria. (ISSAI 3000/4.3, 2004).
+
+
+117.	Critério de auditoria é o padrão de desempenho usado para medir a economicidade, eficiência, eficácia e efetividade do objeto de auditoria. Serve para determinar se o objeto auditado atinge, excede ou está aquém do desempenho esperado. Pode ser definido de forma quantitativa ou qualitativa. Atingir ou exceder o critério pode indicar a ocorrência de boas práticas. Não alcançar o critério indica oportunidade de melhoria de desempenho.  É importante destacar que desempenho satisfatório não é desempenho perfeito, mas é o esperado, considerando as circunstâncias com as quais o auditado trabalha (ISSAI 3000/Apêndice 2, 2004). Os parágrafos 93 a 97 contêm mais informações sobre critério de auditoria.
+
+
+118.	Condição é a situação existente, identificada e documentada durante a auditoria. Causa é a razão da diferença entre a condição e o critério. A causa servirá de base para as deliberações propostas. Efeito é a consequência da diferença constatada pela auditoria entre condição e critério. O efeito indica a gravidade da situação encontrada e determina a intensidade da ação corretiva. (GAO, 2007).
+
+
+Critério de auditoria (o que deveria ser)
+
+↓
+
+Evidência de auditoria (o que é)
+
+↓
+
+Achado de auditoria (“o que é” comparado ao “que deveria ser”)
+
+↓
+
+Determinar causas e efeitos do achado
+
+↓
+
+Desenvolver conclusões, recomendações e determinações
+
+↓
+
+Estimar, sempre que possível, os prováveis benefícios da recomendação ou determinação
+
+
+119.	Nem sempre é obrigatório identificar todos os quatro atributos do achado. Em auditorias cujo objetivo é investigar determinado problema e analisar suas causas, geralmente os critérios não são definidos a priori e, às vezes, nem sequer tem sentido fazê-lo (ISSAI 3000/4.3, 2004). É o caso, por exemplo, das questões exploratórias, definidas no parágrafo 83 d).
+
+
+120.	Por vezes, não é possível identificar com segurança as causas da situação encontrada, pois essa identificação necessitaria de investigações que requerem metodologia sofisticada, que foge ao escopo da auditoria.
+
+
+121.	Uma vez identificado o achado de auditoria, ocorrem duas formas complementares de avaliação: a avaliação da relevância do achado e das causas do desempenho insuficiente. No caso de desempenho acima da expectativa, as causas devem ser investigadas para identificação de boas práticas (ISSAI 3000/4.3, 2004).
+
+
+122.	Os auditores também devem avaliar os efeitos do achado. Quando possível, esses efeitos devem ser quantificados. Por exemplo, o custo de processos ineficientes ou de instalações improdutivas pode ser estimado. Além disso, processos ou gerenciamento ineficientes podem resultar em atrasos ou desperdício de recursos. Efeitos qualitativos, resultantes de decisões gerenciais equivocadas ou de falta de controle de qualidade na prestação de serviços públicos, podem ter impactos significativos sobre os beneficiários. Se o efeito já ocorreu, é importante verificar se foram tomadas providências para evitar que ele volte a ocorrer. Se os efeitos não forem facilmente identificados, o auditor deve tentar estimá-los (ISSAI 3000/4.3, 2004).
+
+
+Evidências
+
+
+123.	Evidências são informações obtidas durante a auditoria e usadas para fundamentar os achados. O conjunto de achados irá respaldar as conclusões do trabalho. A equipe deve esforçar-se para obter evidências de diferentes fontes e de diversas naturezas, porque isso fortalecerá as conclusões (ISSAI/Apêndice 3, 2004).
+
+
+124.	A equipe deve determinar a quantidade e o tipo de evidências necessárias para atender aos objetivos e ao plano de auditoria, de forma adequada. Para isso, é necessário que as evidências tenham alguns atributos. São eles (ISSAI/Apêndice 3, 2004):
+
+
+a)	validade - a evidência deve ser legítima, ou seja, baseada em informações precisas e confiáveis;
+
+
+b)	confiabilidade - garantia de que serão obtidos os mesmos resultados se a auditoria for repetida. Para obter evidências confiáveis, é importante considerar que: é conveniente usar diferentes fontes; é interessante usar diferentes abordagens; fontes externas, em geral, são mais confiáveis que internas; evidências documentais são mais confiáveis que orais; evidências obtidas por observação direta ou análise são mais confiáveis que aquelas obtidas indiretamente;
+
+
+c)	relevância - a evidência é relevante se for relacionada, de forma clara e lógica, aos critérios e objetivos da auditoria;
+
+
+d)	suficiência - a quantidade e qualidade das evidências obtidas devem persuadir o leitor de que os achados, conclusões, recomendações e determinações da auditoria estão bem fundamentados. É importante lembrar que a quantidade de evidências não substitui a falta dos outros atributos (validade, confiabilidade, relevância). Quanto maior a materialidade do objeto auditado, o risco de auditoria e o grau de sensibilidade do auditado a determinado assunto, maior será a necessidade de evidências mais robustas. A existência de auditorias anteriores também indica essa necessidade.
+
+
+125.	As evidências podem ser classificadas em quatro tipos (ISSAI/Apêndice 3, 2004):
+
+
+a)	física – observação de pessoas, locais ou eventos. Pode ser obtida por meio de fotografias, vídeos, mapas. Evidências físicas costumam causar grande impacto. A fotografia de uma situação insalubre ou insegura, por exemplo, pode ser mais convincente que uma longa descrição;
+
+
+b)	documental – é o tipo mais comum de evidência. Pode estar disponível em meio físico ou eletrônico. É obtida de informações já existentes, tais como ofícios, memorandos, correspondências, contratos, extratos, relatórios. É necessário avaliar a confiabilidade e a relevância dessas informações com relação aos objetivos da auditoria;
+
+
+c)	testemunhal – obtida por meio de entrevistas, grupos focais, questionários. Para que a informação testemunhal possa ser considerada evidência, e não apenas contextualização, é preciso corroborá-la, por meio de confirmação por escrito do entrevistado ou existência de múltiplas fontes que confirmem os fatos;
+
+
+d)	analítica – obtida por meio de análises, comparações e interpretações de dados e informações já existentes. Este trabalho pode envolver análise de taxas, padrões e tendências, normalmente por meio de processamento computacional. É o tipo de evidência mais difícil de obter.
+
+
+126.	A equipe de auditoria deve avaliar se a falta de evidências apropriadas e suficientes deve-se a falha na estratégia metodológica ou a deficiências do objeto de auditoria, a exemplo de falhas dos controles internos ou problemas operacionais e estruturais. No primeiro caso, pode ser necessário modificar a estratégia metodológica ou revisar o objetivo da auditoria e seu escopo. No segundo caso, os problemas identificados são achados de auditoria.
+
+
+127.	A equipe de auditoria deve considerar que algumas evidências podem apresentar problemas ou fragilidades. Os principais referem-se a evidências (ISSAI/Apêndice 3, 2004):
+
+
+a)	baseadas em apenas uma fonte;
+
+
+b)	testemunhais não corroboradas por documento ou observação;
+
+
+c)	cujo custo de obtenção não atende a critérios de custo-benefício;
+
+
+d)	provenientes apenas do gestor ou da equipe auditada;
+
+
+e)	cuja única fonte é parcial com relação ao resultado do trabalho;
+
+
+f)	obtidas de amostras não-representativas;
+
+
+g)	relacionadas à ocorrência isolada;
+
+
+h)	conflitantes.
+
+
+128.	Existem algumas técnicas que podem contribuir para a obtenção de evidências mais robustas. Uma delas é a circularização, que consiste na confirmação, junto a terceiros, de fatos e informações apresentados pelo auditado (BRASIL, 2009a). Outra é a triangulação, que é o uso de diferentes métodos de pesquisa e de coleta de dados para estudar o mesmo assunto, com o objetivo de fortalecer as conclusões (PATTON, 1987).
+
+
+Quadro 3: Processo lógico de identificação de achados e produção de recomendações e determinações
+
+
+Achado
+
+Boas práticas
+
+Recomendações e determinações
+
+Benefícios esperados
+
+Situação encontrada
+
+Critério
+
+Evidências e análises
+
+Causas
+
+Efeitos
+
+Constatações de maior relevância, identificadas na fase de execução.
+
+Padrão usado para determi­nar se o objeto auditado atinge, excede ou está aquém do de-sempe-nho espera-do.
+
+Resultado da aplica­ção dos métodos de análise de dados e seu emprego na produção de evidências. De forma sucinta, devem ser indicadas as técnicas usadas para tratar as informa­ções coleta­das durante a execução e os resul­tados obti­dos.
+
+Podem ser relacionadas à operaciona-lização ou à concepção do objeto da auditoria, ou estar fora do controle ou da influência do gestor. 
+
+A identificação de causas requer evi­dências e análises robustas.
+
+As deliberações conterão as medidas consideradas necessárias para sanear as causas do desempenho insuficiente.
+
+Consequên-cias relacio­nadas às causas e aos cor­respon-dentes achados. 
+
+Pode ser uma medida da rele­vância do achado.
+
+Ações identifica­das que compro­vada-mente levam a bom de­sempenho. Essas ações po­derão sub­sidiar a proposta de reco­menda-ções e determina­ções.
+
+Devem ser ela­boradas de forma a tratar a origem dos problemas diagnosticados.
+
+Sugere-se parci­mônia na quanti­dade de delibera­ções e prioriza­ção para solução dos principais problemas. 
+
+Melhorias que se esperam alcançar com a implementação das reco- mendações e determinações. 
+
+Os benefícios podem ser quantitativos e qualitativos. Sempre que possível, quantificá-los. 
+
+ 
+
+
+Fonte: ISSAI 3000/4.3, 2004.
+
+
+Desenvolvimento dos trabalhos de campo
+
+
+129.	O trabalho de campo consiste na coleta de dados e informações definidos no planejamento de auditoria. O tipo de dados a coletar e as fontes desses dados dependerão da estratégia metodológica e dos critérios estabelecidos. Os dados coletados devem ser precisos, completos e comparáveis. Frequentemente, essa coleta é considerada uma tarefa mecânica e a parte menos interessante da auditoria. Porém, é uma atividade importante e consome grande quantidade de tempo e esforço (HATRY, WINNIE, FISK, 1981). A qualidade na coleta, análise e documentação dos dados é fundamental para garantir bons resultados da auditoria (ISSAI 3000/4.2, 2004).
+
+
+130.	Normalmente, a coleta de dados é feita in loco e a equipe aplica os instrumentos desenvolvidos e testados na fase de planejamento. Os métodos de coleta de dados mais usados são entrevista, questionário, grupo focal e observação direta.
+
+
+131.	Quando o objetivo da auditoria inclui a generalização dos achados para o universo pesquisado, as soluções mais comumente adotadas são tratamento estatístico e estudo de caso. Se o estudo de caso é representativo, é possível generalizar os resultados, ou seja, os achados identificados em um caso podem ser aplicados a outros casos (NAO, 199-).
+
+
+132.	É importante que o auditor obtenha as melhores informações possíveis - tanto fatos quanto opiniões, argumentos e reflexões - de diferentes fontes e busque o apoio de especialistas (ISSAI 3000/4.6, 2004). O auditor deve buscar as evidências necessárias para responder às questões de auditoria e ter cuidado para não se desviar do foco do trabalho nem coletar grande quantidade de informações que, muitas vezes, são desnecessárias e irrelevantes (POLLIT  et all, 2002).
+
+
+133.	Para o sucesso dos trabalhos de campo, é necessária a realização de diversas atividades operacionais. Antes da execução da auditoria, a equipe deve:
+
+
+a)	agendar visitas de estudo, entrevistas e grupos focais;
+
+
+b)	providenciar ofícios de apresentação;
+
+
+c)	reservar passagens e hotéis;
+
+
+d)	informar telefones de contato ao supervisor;
+
+
+e)	preparar material necessário (cópias de questionários, roteiros de entrevistas, grupo focal e observação direta).
+
+
+134.	O preenchimento da matriz de achados deve ser iniciado durante os trabalhos de campo, à medida que os achados são constatados. Os esclarecimentos que se fizerem necessários devem ser colhidos ainda em campo, para evitar mal-entendido e eventuais novas solicitações de informações, com o consequente desperdício de esforços (BRASIL, 2009a).
+
+
+Análise dos dados coletados
+
+
+135.	Durante os trabalhos de campo, a equipe obtém grande quantidade de dados, que devem ser organizados, separados e analisados. Serão selecionados aqueles que evidenciam os achados da auditoria e, portanto, ajudam a responder às suas questões. As outras informações devem ser descartadas, para não desviar a auditoria de seu foco e para não retardar a análise dos dados relevantes (POLLITT et al, 2002).
+
+
+136.	Para a análise dos dados coletados, são usadas ferramentas e técnicas adequadas. A definição do método dependerá da estratégia metodológica adotada. O Apêndice apresenta as principais técnicas de análise e o documento Técnicas de Apresentação de Dados (BRASIL, 2001) orienta sobre as formas mais adequadas de comunicar o resultado das análises elaboradas.
+
+
+137.	O estágio final da análise de dados consiste em combinar os resultados obtidos de diferentes fontes. Não há método geral para fazer isto, mas é fundamental que o auditor trabalhe de forma cuidadosa e sistemática na interpretação dos dados e informações coletados. Para essa atividade, é necessário analisar argumentos e afirmações, consultar especialistas e fazer comparações. Também é vital que o auditor adote abordagem crítica e mantenha objetividade com relação às informações disponíveis. Ao mesmo tempo, ele deve ser receptivo a diferentes argumentos e pontos de vista (ISSAI 3000/4.2 e 4.5, 2004).
+
+
+Matriz de achados
+
+
+138.	As constatações e informações obtidas durante a execução da auditoria, bem como as propostas de conclusões, recomendações e determinações, são registradas na matriz de achados.
+
+
+139.	A matriz de achados é instrumento útil para subsidiar e nortear a elaboração do relatório de auditoria, porque permite reunir, de forma estruturada, os principais elementos que constituirão os capítulos centrais do relatório. A matriz propicia compreensão homogênea dos achados e seus elementos constitutivos pelos integrantes da equipe de auditoria e demais interessados. Os itens que compõem a matriz de achados são apresentados no Quadro 4.
+
+
+Quadro 4: Modelo de matriz de achados
+
+
+Questão de auditoria (repetir a questão da matriz de planejamento).
+
+
+Padrão de elaboração de relatório da Intosai, aplicável à auditoria operacional
+
+Ao final de cada auditoria, o auditor deve preparar opinião escrita ou relatório, registrando os achados de forma adequada; seu conteúdo deve ser fácil de entender e livre de idéias vagas e ambíguas, deve incluir somente informações que sejam apoiadas por evidências competentes e relevantes, ser independente, objetivo, justo e construtivo.
+
+
+140.	Durante a execução da auditoria, as situações encontradas são comparadas com os critérios, previamente selecionados e identificados pela equipe. As diferenças observadas são os achados de auditoria, devidamente respaldados pelas evidências.
+
+
+141.	Após caracterizar o achado de auditoria, a equipe deve identificar as causas e os efeitos do desempenho observado. Em geral, esses procedimentos são concluídos ao final do trabalho de campo. Entretanto, em função da complexidade do tema e de evidências supervenientes, a análise pode estender-se até a fase do relatório.
+
+
+142.	Sempre que possível, deve-se mensurar o efeito associado ao achado de auditoria. Por exemplo, no caso de processos antieconômicos, aquisições mal planejadas ou equipamentos improdutivos, os efeitos podem ser estimados em valores monetários. Já os efeitos decorrentes de procedimentos ineficientes, recursos ociosos ou gerenciamento deficiente podem ser dimensionados em termos de descumprimento de prazos e de desperdício de recursos físicos. Os efeitos qualitativos também devem ser mencionados, como deficiência de controle, decisões inadequadas ou má qualidade do bem ou serviço oferecido. As dificuldades de quantificar os benefícios potenciais variam segundo o tipo de benefício. Entretanto, em muitos casos, os benefícios financeiros podem ser estimados com razoável segurança.
+
+
+143.	A causa do achado de auditoria é a base para as deliberações. Se houver múltiplas causas para um mesmo achado, a equipe deve identificar aquela que, se modificada, poderá prevenir situações similares. Deve-se considerar, ainda, a possibilidade de a causa identificada estar fora do controle do auditado, fazendo com que o foco das deliberações transcenda o objeto da auditoria.
+
+
+144.	As propostas que visem à melhoria do desempenho administrativo ou operacional são um dos aspectos mais importantes das auditorias operacionais. Conquanto os aperfeiçoamentos requeridos, e não os meios para alcançá-los, constituam o objetivo das deliberações, convém indicar os aspectos que devem ser examinados pelo gestor na busca de soluções.
+
+
+145.	Ao formular proposta de deliberação, a equipe deve considerar o custo da implementação e a economia de recursos decorrente, pois o custo não deve superar os benefícios esperados. Também é importante destacar os aspectos mais relevantes e evitar quantidade excessiva de deliberações, que pode desviar o foco do gestor da implementação de providências que sanem as principais deficiências do objeto auditado. Também poderá dificultar o monitoramento das deliberações e levar a custo-benefício inadequado.
+
+
+Validação da matriz de achados
+
+
+146.	Após a elaboração da matriz de achados, sua validação é feita por meio da realização do segundo painel de referência. O objetivo principal deste painel é verificar a coerência da matriz apresentada. Nessa ocasião, os participantes são convidados a discutir com a equipe as principais conclusões da auditoria, a suficiência das evidências coletadas, a adequação das análises realizadas e a pertinência das propostas de encaminhamento. Após o painel, a matriz de achados deverá ser validada pelos gestores, a exemplo do procedimento adotado na validação da matriz de planejamento.
+
+
+RELATÓRIO
+
+
+147.	O relatório é o principal produto da auditoria. É o instrumento formal e técnico por intermédio do qual a equipe comunica o objetivo e as questões de auditoria, a metodologia usada, os achados, as conclusões e a proposta de encaminhamento (BRASIL, 2009a). A Intosai apresenta os padrões internacionais de elaboração de relatórios de auditoria governamental para as Entidades de Fiscalização Superior.
+
+
+Concepção da Intosai sobre a elaboração do relatório de auditoria como processo contínuo
+
+À medida que o trabalho progride, o relatório preliminar de auditoria toma forma. Ao longo da auditoria, a análise de dados e informações envolve ponderar argumentos e afirmações, consultar especialistas, fazer comparações e análises. Notas e observações são organizadas de forma estruturada (na matriz de achados) e, à medida que discussões internas e externas progridem, o texto é rascunhado, avaliado e reescrito, detalhes são conferidos e conclusões discutidas. Com base em textos intermediários de discussão, os principais problemas e conclusões podem ser debatidos, fatos confirmados com os auditados e as propostas desenvolvidas.
+
+
+Fonte: ISSAI 400/7, 2001.
+
+
+148.	O objetivo deste capítulo é estabelecer padrões e apresentar diretrizes de elaboração de relatórios de auditoria operacional, que favoreçam a racionalização do processo e a criação de identidade característica. Trata-se também da estrutura das seguintes seções da parte textual do relatório: introdução, capítulos principais, análise dos comentários dos gestores, conclusão e proposta de encaminhamento. Detalhes sobre a composição de cada elemento do relatório estão em documento específico sobre elaboração de relatório de auditoria operacional.
+
+
+149.	A comunicação dos resultados da auditoria deve reportar à sociedade sobre o desempenho da administração pública, contribuindo para a responsabilização dos agentes públicos pelos resultados da ação de governo, mediante controle parlamentar e controle social.
+
+
+150.	A demonstração da qualidade do trabalho depende da forma como as questões de auditoria são tratadas nos relatórios. Importa que as informações sejam organizadas e dispostas com rigor técnico, com apropriado grau de detalhamento e que os principais pontos sejam destacados. O desenvolvimento do texto deve guardar coerência com a seqüência lógica dos argumentos, formando um todo coeso, convincente, claro e visualmente atrativo. Portanto, ser capaz de escrever relatórios de qualidade é competência essencial dos profissionais que realizam auditorias operacionais.
+
+
+151.	Para que o relatório tenha qualidade, além da experiência e da habilidade dos autores, é importante que sua elaboração siga as orientações e padrões deste manual. 
+
+
+Orientações gerais para elaboração do relatório
+
+
+152.	A elaboração do relatório de auditoria deve seguir as seguintes orientações gerais:
+
+
+a)	ser conduzida como processo contínuo;
+
+
+b)	considerar o ponto de vista do leitor;
+
+
+c)	basear-se na matriz de achados.
+
+
+153.	A elaboração do relatório deve ser vista como um processo contínuo de formulação, teste e revisão de idéias sobre o objeto da auditoria. Questões como o benefício potencial da auditoria, possíveis recomendações e determinações, bem como a argumentação convincente sobre as conclusões devem ser consideradas ao longo da auditoria. O estabelecimento de prazos para a entrega de trechos intermediários pode aumentar a probabilidade de o relatório ficar pronto tempestivamente (ISSAI 3000/3.1, 2004).
+
+
+154.	Ao longo de todas as fases da auditoria, a ênfase deve estar na produção do relatório final (ISSAI 3000/3.1, 2004). Por um lado, de nada adianta realizar um excelente trabalho de planejamento ou de execução das auditorias, se o relatório não for capaz de comunicar sua mensagem de forma efetiva. Por outro, não é possível elaborar um relatório de qualidade se o projeto de auditoria não for consistente ou se as evidências coletadas não forem robustas.
+
+
+Diretriz da Intosai sobre divulgação de relatórios de auditoria
+
+Relatórios abrangentes e a distribuição ampla de todos os relatórios são chave para a credibilidade da função de auditoria. Se possível, cada auditoria operacional deve ser publicada em um relatório separado.
+
+
+Fonte: ISSAI 3000/4.5 e 5.1., 2004.
+
+
+155.	Para que os relatórios sejam úteis e acessíveis é importante que levem em consideração o ponto de vista dos leitores (ISSAI 3000/5.3, 2004; BRASIL, 2001). Inicialmente, os relatórios de auditoria operacional terão tramitação interna, direcionados, principalmente, ao Relator da matéria. Além disso, visam comunicar informações sobre desempenho a formuladores de políticas, gestores dos três níveis de governo, outros órgãos de controle e de avaliação. Documentos complementares ao relatório, como sumários executivos, notas para a imprensa e apresentação de slides, têm público mais amplo e obedecem a orientações específicas.
+
+
+156.	O instrumento usado pelo TCU para organização dos principais elementos do relatório é a matriz de achados. A matriz é base para discussão sobre a estrutura do texto entre os integrantes da equipe de auditoria, bem como para discussão com o supervisor do trabalho e para apresentação em painel de referência.
+
+
+157.	O fato de que a redação do relatório normalmente é compartilhada pelos integrantes da equipe de auditoria reforça a necessidade de se dispor de instrumento que apóie a elaboração do relatório. É natural que cada colaborador tenha um estilo próprio de redigir. Por isso, torna-se necessário que todos os membros da equipe discutam previamente a estrutura e a forma de apresentação das informações.
+
+
+158.	A conformidade às orientações e aos padrões de elaboração, bem como a construção de entendimentos comuns por meio de discussões durante a auditoria, diminui a possibilidade de os textos produzidos ficarem muito díspares. É desejável que a equipe mantenha-se mobilizada até que tenha sido finalizada a redação do relatório, realizando nesse período a revisão cruzada dos textos elaborados. Esses cuidados tornarão mais eficiente o trabalho final do coordenador da equipe, a quem cabe conferir ao trabalho unidade de forma e estilo.
+
+
+Padrões de elaboração
+
+
+159.	Os padrões internacionais para elaboração de relatórios, aplicáveis às auditorias operacionais, resumem as principais características de um bom relatório (ISSAI 400, 2001). No TCU, devem-se observar os requisitos de clareza, concisão, convicção, exatidão, relevância, tempestividade e objetividade (BRASIL, 2009a), bem como os de completude e convencimento (ISSAI 3000/5.2, 2004). A formulação dessas características pelo TCU é desenvolvida em seguida.
+
+
+160.	Clareza – produzir texto de fácil compreensão para o leitor informado. Para aumentar a clareza e a compreensão do relatório:
+
+
+a)	defina termos técnicos;
+
+
+b)	defina o significado das siglas na lista correspondente e use o nome por extenso na primeira vez em que aparecerem no texto;
+
+
+c)	apresente fatos de forma precisa;
+
+
+d)	apresente evidências e articule argumentos de forma lógica;
+
+
+e)	use frases curtas, evitando períodos longos que se estendem por diversas linhas;
+
+
+f)	crie coesão textual por meio do sequenciamento lógico das idéias e do uso de conectivos adequados;
+
+
+g)	prefira usar a ordem direta (sujeito, verbo, objeto e complementos), evitando orações intercaladas, parêntesis e travessões (BRASIL, 2009a);
+
+
+h)	complemente o texto com figuras, fotografias, gráficos, diagramas, mapas, caixas de texto e tabelas;
+
+
+i)	evite o uso de sinônimos para designar as mesmas coisas. Diferentemente de um texto literário, no relatório devem-se usar os mesmos termos do início ao fim;
+
+
+j)	evite abreviaturas;
+
+
+k)	evite termos eruditos e expressões em outros idiomas.
+
+
+161.	Convicção – expor os achados e as conclusões com firmeza. Evite expressões que transmitam insegurança e dúvida para o leitor, como "salvo melhor juízo" ou "parece que". A informação apresentada deve convencer os leitores sobre a validade dos achados, a razoabilidade das conclusões e os benefícios decorrentes da implementação das propostas. Portanto, os achados devem ser apresentados de forma persuasiva, articulando-se as conclusões e propostas de forma que elas decorram logicamente ou analiticamente dos fatos e argumentos apresentados (ISSAI 3000/5.2, 2004). O relatório deve ser convincente de modo que as deliberações do Tribunal ganhem apoio dos atores capazes de influenciar na gestão do objeto auditado, sejam implementadas e gerem melhorias de desempenho em benefício da sociedade.
+
+
+162.	Concisão – produzir texto que não seja mais extenso do que o necessário para transmitir a mensagem e fundamentar as conclusões (ISSAI 3000/5.2, 2004). Por concisão, deve-se dar preferência a citações indiretas no lugar de longas transcrições de textos originais, resumindo-se as informações que se deseja transmitir. Como padrão indicativo, a parte textual dos relatórios de auditoria operacional, exceto proposta de encaminhamento, não deve exceder 50 páginas. A análise de temas muito complexos pode requerer relatórios mais longos, mas relatórios completos e também concisos são mais úteis ao leitor e têm maior probabilidade de serem lidos por público maior (ISSAI 3000/5.2, 2004).
+
+
+163.	Exatidão – garantir que todas as informações apresentadas sejam precisas e corretamente registradas. Exatidão é indispensável para assegurar ao leitor que o relatório é crível e confiável. Uma imprecisão no relatório pode lançar dúvida sobre a validade de todo o trabalho e desviar a atenção de pontos importantes (ISSAI 3000/5.2, 2004). Exatidão também significa que sejam descritos corretamente o escopo e a metodologia, bem como apresentados os achados e conclusões de forma consistente com o escopo da auditoria (ISSAI 3000/5.2, 2004). Além disso, o relatório deve informar sobre a qualidade dos dados e o grau de precisão das estimativas. Imprecisões podem prejudicar a imagem do órgão de controle.
+
+
+164.	Relevância – expor apenas o que tem importância, considerando os objetivos da auditoria. Evite longos trechos descritivos que não acrescentam informação necessária à fundamentação dos argumentos. Os relatos não precisam incluir todas as situações encontradas, cujo registro fica preservado nos papéis de trabalho.
+
+
+165.	Tempestividade – cumprir o prazo previsto para elaboração do relatório, sem comprometer a qualidade (BRASIL, 2009a). O relatório deve conter informação atualizada para que possa subsidiar órgãos auditados, bem como formuladores de políticas e demais atores interessados, no aperfeiçoamento de suas atividades. O teor da informação deverá, portanto, agregar valor. (ISSAI 3000/5.3, 2004; ISSAI 400/8.i, 2001). O descumprimento de prazos prejudica a supervisão da auditoria, a participação dos auditados e o encaminhamento processual.
+
+
+166.	Objetividade – produzir texto imparcial, equilibrado e neutro (ISSAI 3000/5.3, 2004). Alguns dos aspectos da objetividade na condução da auditoria, que refletirão no relatório são os seguintes:
+
+
+a)	a estratégia metodológica definida para a auditoria deve assegurar que a seleção dos fatos investigados e apresentados no relatório não seja viesada (ISSAI 3000/5.3, 2004);
+
+
+b)	os achados e o relatório devem estar baseados nas evidências obtidas;
+
+
+c)	os fatos devem ser registrados de acordo com a sua relevância para o escopo da auditoria. Fatos relevantes não devem ser excluídos, nem pequenas falhas devem ser exageradas (ISSAI 3000/5.3, 2004);
+
+
+d)	as explicações gerenciais sempre deverão ser solicitadas e criticamente avaliadas (ISSAI 3000/5.3, 2004);
+
+
+e)	as fatos devem ser apresentados separadamente das opiniões (ISSAI 3000/5.3, 2004);
+
+
+f)	a linguagem utilizada deve ser isenta de qualquer conotação tendenciosa ou ambígua, de forma a evitar atitude defensiva e oposição (ISSAI 3000/5.3, 2004);
+
+
+g)	o relatório de auditoria deve apontar tanto achados negativos quanto fatos positivos. Apesar de o relatório ser focado em falhas e desempenho insuficiente, a apresentação de evidências de forma não viesada contribui para aumentar sua credibilidade (ISSAI 3000/5.3, 2004);
+
+
+h)	a apresentação de fragilidades e achados críticos deve ocorrer de modo que induza a correção, bem como aperfeiçoe sistemas e diretrizes internas (ISSAI 400/24, 2001);
+
+
+i)	o relatório dever ser redigido de forma a denotar impessoalidade.
+
+
+167.	Completude – apresentar toda a informação e argumentos necessários para satisfazer os objetivos da auditoria, permitir a correta compreensão dos temas e situações relatadas e registrar todos os elementos necessários à composição do relatório (ISSAI 3000/5.2, 2004). As relações entre objetivos, critérios, achados e conclusões precisam ser verificáveis, bem como expressas de forma clara e completa. (ISSAI 3000/5.2, 2004).
+
+
+Apresentação de dados
+
+
+168.	Um elemento chave para a qualidade do relatório de auditoria é a análise abrangente dos dados e como ela é apresentada. É importante que as informações sejam bem apresentadas para que os relatórios comuniquem claramente as conclusões, as propostas de deliberação e as análises nas quais se baseiam (NAO, 1996).
+
+
+1. Introdução
+
+Identificação simplificada do objeto de auditoria
+
+Antecedentes
+
+Objetivos e escopo da auditoria
+
+Critérios
+
+Metodologia
+
+2. Visão geral
+
+3. Primeiro capítulo principal
+
+Objetivo do capítulo
+
+Contextualização específica para o capítulo
+
+Descrição do conteúdo do capítulo
+
+3.1 Subtítulo
+
+Parágrafo inicial de impacto, com descrição concisa do achado
+
+Critério
+
+Análise das evidências
+
+Causas
+
+Efeitos e riscos decorrentes da manutenção da situação encontrada
+
+Boas práticas
+
+Conclusão
+
+Propostas
+
+Benefícios esperados
+
+4. Análise dos comentários dos gestores
+
+5. Conclusão
+
+6. Proposta de encaminhamento
+
+
+Fonte: ISSAI 3000/5.4, 2004.
+
+
+169.	Ao se planejar a estrutura do texto, deve-se prever a sequência das ilustrações, de forma que possam demonstrar as principais evidências e conclusões que a equipe de auditoria deseja apontar. Há diversos meios de se apresentar dados, incluindo gráficos, diagramas, mapas, fotografias, caixas de texto. Orientações sobre apresentação de dados são encontradas em roteiro específico do TCU (BRASIL, 2001).
+
+
+Citações e referências
+
+
+170.	A legislação brasileira permite a utilização não autorizada de obras para fins de estudo, crítica ou polêmica, bem como para produzir prova administrativa, sem finalidades lucrativas, desde que seja observado o direito de citação (Lei nº 9.610/1998, art. 46). A Associação Brasileira de Normas Técnicas (ABNT) determina como uma informação colhida de outra fonte deve ser citada e como devem ser elaboradas as referências (ABNT, 2000, 2002).
+
+
+Componentes do relatório de auditoria
+
+
+171.	O relatório, em sua essência, é a comunicação sobre os achados de auditoria, a emissão de uma opinião qualificada sobre desempenho e a articulação de argumentos a favor da adoção de certas medidas visando melhorar o desempenho. Esses achados e argumentos serão desenvolvidos nos capítulos principais do relatório.
+
+
+172.	O principal instrumento de apoio à elaboração do relatório de auditoria é a matriz de achados. A matriz é a representação sintética dos resultados da auditoria, que serão desenvolvidos no relatório. Daí a importância da discussão da matriz entre os integrantes da equipe, com os gestores e demais atores relevantes, antes de se iniciar a redação do texto.
+
+
+173.	O relatório de auditoria divide-se em elementos pré-textuais, texto e elementos pós-textuais. Os elementos pré-textuais são: folha de rosto, resumo, lista de siglas, lista de figuras, lista de tabelas e sumário. O texto compõe-se de: introdução; visão geral; capítulos principais; análise dos comentários do gestor; conclusão e proposta de encaminhamento. Os elementos pós-textuais são: apêndices; referências e glossário.
+
+
+174.	O texto deve ser dividido em capítulos, e estes, em subtítulos. Seção é o nome genérico de qualquer uma das partes em que se divide o texto de um documento (ABNT, 2003). Os parágrafos do texto devem ser numerados sequencialmente, a partir da introdução, sem desdobramento por número de capítulo. A numeração dos subtítulos é constituída pelo número do capítulo a que pertence, seguido de ponto e do número que lhe foi atribuído na seqüência do assunto (ABNT, 2003).
+
+
+Quadro 5: Estrutura recomendada para a parte textual do relatório de auditoria operacional
+
+
+Situação
+
+1º Monitoramento
+
+2º Monitoramento
+
+3º Monitoramento
+
+Itens
+
+%
+
+Itens
+
+%
+
+Itens
+
+%
+
+Implementada/cumprida
+
+9.1.4; 9.1.7; 9.1.12
+
+17
+
+9.1.2; 9.1.4; 9.1.5; 9.1.7; 9.1.12; 9.3
+
+32
+
+9.1.1; 9.1.2; 9.1.3; 9.1.4; 9.1.5; 9.1.7; 9.1.8; 9.1.10; 9.1.11; 9.1.12; 9.2.1, 9.3, 9.4.2;9.5; 9.6
+
+83
+
+Parcialmente implementada/cumprida
+
+ 
+
+0
+
+9.1.1; 9.1.3; 9.1.6; 9.1.8; 9.1.9; 9.1.10; 9.1.11; 9.2.1; 9.2.2; 9.4.1; 9.4.2; 9.5; 9.6
+
+68
+
+9.2.2; 9.1.6; 9.1.9
+
+17
+
+Em implementação
+
+9.1.1; 9.1.2; 9.1.3; 9.1.5; 9.1.9; 9.1.10; 9.1.11; 9.4.1; 9.4.2; 9.5; 9.6; 9.2.2
+
+66
+
+-
+
+0
+
+-
+
+0
+
+Não implementada/não cumprida
+
+9.1.6; 9.3; 9.2.1
+
+17
+
+-
+
+0
+
+-
+
+0
+
+Não aplicável
+
+9.1.8
+
+-
+
+ 
+
+-
+
+9.4.1
+
+-
+
+
+Observação: Não é necessário criar títulos para indicar o conteúdo dos parágrafos.
+
+
+Introdução
+
+
+175.	A introdução é a parte inicial do texto e deve conter os elementos necessários para situar o tema da auditoria. Compõe-se dos seguintes elementos:
+
+
+a)	identificação simplificada do objeto de auditoria. Detalhes são apresentados na visão geral;
+
+
+b)	antecedentes, que contemplam as razões que originaram a auditoria, a decisão que a autorizou e a existência de fiscalizações anteriores no mesmo objeto;
+
+
+c)	objetivos e escopo da auditoria, onde devem ser claramente enunciados os objetivos gerais e específicos e os limites do trabalho, especificando os sistemas ou aspectos que foram auditados, bem como a justificativa de se ter adotado a abordagem descrita;
+
+
+d)	critérios, que deve conter padrões gerais utilizados para emitir opinião sobre o desempenho do objeto de auditoria. Pode incluir o arcabouço conceitual básico, em auditorias mais complexas, bem como a fonte dos padrões de desempenho utilizados. Critérios específicos aplicáveis às questões de auditoria devem ser descritos no capítulo correspondente; e
+
+
+e)	metodologia, que compreende os métodos empregados na coleta e na análise dos dados. A metodologia deve ser exposta resumidamente, registrando-se detalhes em apêndice. Devem ser mencionadas as limitações impostas ao trabalho associadas à metodologia usada para investigar as questões de auditoria; à confiabilidade ou à dificuldade na obtenção de dados, assim como as limitações relacionadas ao próprio escopo do trabalho, ou seja, as áreas e os aspectos não analisados.
+
+
+176.	Opcionalmente, quando for necessário tornar mais clara a lógica do relato, poderá ser acrescentado um parágrafo ao final da introdução que descreva a forma de organização do relatório. Esse parágrafo deve fazer a descrição breve dos temas tratados nos capítulos principais, ressaltando a ligação lógica entre eles.
+
+
+Visão geral
+
+
+177.	Na visão geral, descrevem-se as características do objeto de auditoria que são necessárias para a compreensão do relatório, fazendo-se as correlações com os objetivos da auditoria, quando for o caso. Os textos analíticos resultantes da aplicação das técnicas de diagnóstico são importantes para subsidiar a redação desse capítulo. Alguns dos elementos da visão geral podem ser: objetivos, responsáveis, histórico, beneficiários, principais produtos, relevância, indicadores de desempenho, metas, aspectos orçamentários, processo de tomada de decisão, sistemas de controle.
+
+
+178.	As informações que comporão a visão geral dependem dos objetivos da auditoria. Além disso, por concisão, é possível apresentar informações específicas nos capítulos principais, sem repeti-los na visão geral. Da mesma forma, é possível registrar em apêndice dados históricos ou outras informações de contextualização não diretamente relacionadas com o objetivo da auditoria.
+
+
+Capítulos principais
+
+
+179.	Os capítulos principais compõem-se do relato articulado e argumentado sobre os achados de auditoria. Os capítulos devem ser apresentados em ordem decrescente de relevância, isto é, inicia-se pelo tema que se revelou mais importante. O mesmo se aplica à apresentação dos achados dentro de cada capítulo, em subtítulos apresentados em ordem decrescente de relevância. Portanto, nem sempre será mantida a ordem proposta no projeto de auditoria. Outra forma de organizar o texto é partir dos temas mais gerais para os mais específicos. Essa pode ser a melhor maneira de apresentar assuntos complexos e interligados cuja compreensão seja facilitada a partir da leitura de achados que introduzam o contexto no qual os demais de inserem.
+
+
+180.	A estrutura recomendada pretende abranger casos gerais e mais frequentes. O Quadro 5 apresenta a sequência típica de apresentação das informações. Não significa que cada elemento do relato tenha que ser apresentado em apenas um parágrafo ou que todos os elementos tenham que estar presentes. Como já foi anteriormente esclarecido neste manual, dependendo do tipo de questão de auditoria, nem sempre é possível identificar causas ou formular propostas, por exemplo. Além disso, a discussão das evidências pode ser extensa, incluindo a apresentação de gráficos, tabelas e outras ilustrações.
+
+
+181.	Ponto crucial do relatório é a análise das evidências. As evidências devem ser apresentadas de forma lógica, articulada e com ilustrações que facilitem a compreensão da situação encontrada. Os argumentos que fundamentam a posição da equipe devem ser confrontados com os melhores argumentos contrários (ISSAI 3000/4.5, 2004).
+
+
+182.	Os subtítulos devem conter as conclusões referentes ao ponto tratado. As conclusões são afirmativas relacionadas com o objetivo da investigação, deduzidas da análise das evidências, em contraste com os critérios.
+
+
+183.	Em seguida, se for o caso, a equipe deve formular resumidamente a proposta que constará do capítulo "proposta de encaminhamento", sem, no entanto, enunciá-la de forma idêntica. A proposta pode basear-se em conclusões de mais de um subtítulo. Para evitar sua repetição em vários trechos, a proposta pode ser formulada junto com a conclusão do capítulo.
+
+
+184.	Por fim, a equipe deve quantificar ou, se não for possível, estimar os benefícios que poderão ser obtidos, caso as propostas sejam implementadas. Também por concisão e caso seja conveniente, a equipe poderá estimar os benefícios esperados ao final do capítulo ou na conclusão do relatório, agrupando propostas que contribuam para a obtenção do mesmo benefício (BRASIL, 2009) e detalhar a memória de cálculo em apêndice.
+
+
+Análise dos comentários dos gestores
+
+
+185.	O auditado sempre deve ter oportunidade de examinar o relatório preliminar de auditoria antes que ele seja tornado público (ISSAI 3000/4.5, 2004). Dessa forma, a unidade técnica deve diligenciar para que os auditados apresentem seus comentários escritos sobre o relatório preliminar, fixando prazo compatível. O relatório preliminar tem todos os elementos do relatório final, exceto o capítulo de análise dos comentários dos gestores. Representa a oportunidade do gestor tomar conhecimento dos achados, conclusões e propostas em seu contexto completo e por escrito (ISSAI 3000/4.5, 2004). A unidade técnica poderá deixar de incluir a proposta de encaminhamento no relatório preliminar, caso seu conhecimento pelos gestores coloque em risco o alcance dos objetivos da auditoria.
+
+
+186.	Os gestores devem ser informados sobre o caráter sigiloso do relatório preliminar. A cópia impressa do relatório a ser encaminhada deve conter marca d'água na diagonal de todas suas páginas com a expressão SIGILOSO.
+
+
+187.	Os comentários oferecidos devem ser analisados em instrução na qual a equipe de auditoria avaliará a necessidade de rever pontos do relatório ou apresentará argumentos para manter posições discordantes dos gestores.
+
+
+188.	Quando os auditados fornecerem novas informações ao apresentarem seus comentários, a equipe deverá avaliá-las, segundo os padrões aplicáveis às evidências, antes de incorporá-las ao relatório (ISSAI 3000/4.5, 2004). Caso as novas informações e argumentos dos auditados sejam importantes para esclarecer pontos do relatório ou sejam suficientes para alterar o entendimento da equipe, as modificações serão feitas nos capítulos principais do relatório, sem necessidade de mencioná-las no capítulo de análise dos comentários dos gestores. Nesse caso, deve constar da análise a informação de que foram feitas alterações no relatório em razão dos comentários dos gestores.
+
+
+189.	As informações e argumentos que não forem suficientes para alterar o entendimento da equipe devem ser analisadas no capítulo "análise dos comentários dos gestores" (ISSAI 3000/4.5, 2004), conforme registrado na instrução.
+
+
+Conclusão
+
+
+190.	Esse capítulo deve trazer as respostas às questões de auditoria. As conclusões devem responder aos objetivos da auditoria, basear-se na racionalidade e em critérios específicos da auditoria (ISSAI 3000/4.5, 2004). As conclusões do relatório são afirmações da equipe, deduzidas dos achados. Devem destacar os pontos mais importantes da auditoria e as principais propostas de deliberações (ISSAI 3000/4.3, 2004).
+
+
+191.	Conclusões são afirmações sintéticas e, como tal, inevitavelmente omitem ou simplificam algumas das informações registradas no corpo do relatório (NAO, 200-).
+
+
+192.	A conclusão deve destacar de forma equilibrada os pontos fortes do objeto de auditoria, as principais oportunidades de melhoria de desempenho e os possíveis benefícios esperados quantificando-os, sempre que possível, em termos de economia de recursos ou de outra natureza de melhoria. Devem ser relatadas as dificuldades enfrentadas pelos gestores e destacadas as iniciativas positivas por eles empreendidas no sentido de superar as dificuldades.
+
+
+Proposta de encaminhamento
+
+
+193.	Caso sejam propostas deliberações, elas devem ter correspondência clara com os achados e devem ser baseadas nas causas desses achados (ISSAI 3000/5.2, 2004). As propostas de encaminhamento são recomendações e determinações que a equipe de auditoria demonstra serem necessárias e que contribuirão para sanar alguma deficiência identificada pela auditoria.
+
+
+194.	A causa do problema pode estar fora do controle do auditado. Nesse caso, a proposta pode ser direcionada para outro órgão/entidade, hipótese na qual se recomenda que ela seja discutida com os interessados. Propostas devem ser formuladas focando "o quê" deve ser aperfeiçoado ou corrigido e não o "como", embora circunstâncias possam surgir que demandem a formulação de propostas específicas, como aperfeiçoamento ou correção de regulamentos (ISSAI 400/25, 2001). Essa orientação se deve ao fato de que a equipe de auditoria não pode alegar ter descoberto a única solução para sanar o problema identificado (ISSAI 3000/2.1, 2004). Nos capítulos principais, a equipe pode mencionar possíveis medidas que podem ser adotas pelos gestores, com base, por exemplo, em boas práticas.
+
+
+195.	Na elaboração da proposta de encaminhamento a equipe deverá destacar, mediante ordenação adequada, as propostas mais importantes. Além disso, deverá agrupá-las por destinatário e por tema. Dessa forma, propostas que tiverem relação entre si, mesmo que tenham sido mencionadas em subtítulos diferentes, ficarão agrupadas, em razão da conexão com um mesmo tema.
+
+
+196.	As propostas deverão indicar entre parênteses os números dos parágrafos nos quais os temas a que se referem são tratados no relatório. Independentemente de menção no relatório, deve ser proposta determinação no sentido de que o auditado elabore e encaminhe ao Tribunal plano de ação. O plano deverá conter cronograma de implementação das medidas que o gestor adotará visando atender às deliberações propostas e corrigir os problemas identificados (BRASIL, 2009a). A inclusão de propostas dirigidas a outras unidades técnicas deve ser precedida de negociação entre os titulares (BRASIL, 2009a), com a coordenação da Secretaria-Geral de Controle Externo.
+
+
+197.	É importante garantir que as propostas sejam exequíveis, agreguem valor e tenham relação com os objetivos da auditoria (ISSAI 3000/4.5, 2004). As propostas subsidiarão a elaboração de plano de ação por parte dos gestores, o monitoramento da implementação das deliberações e a quantificação de seus efeitos. Por essas razões, a equipe deve formular o número estritamente necessário de propostas que contemple a correção das principais deficiências identificadas.
+
+
+MONITORAMENTO
+
+
+198.	Monitoramento é a verificação do cumprimento das deliberações do TCU e dos resultados delas advindos, com o objetivo de verificar as providências adotadas e aferir seus efeitos.
+
+
+199.	O principal objetivo do monitoramento é aumentar a probabilidade de resolução dos problemas identificados durante a auditoria, seja pela implementação das deliberações ou pela adoção de outras medidas de iniciativa do gestor. A expectativa de controle criada pela realização sistemática de monitoramentos contribui para aumentar a efetividade da auditoria.
+
+
+200.	O monitoramento permite aos gestores e demais partes envolvidas acompanhar o desempenho do objeto auditado, pois atualiza o diagnóstico e oferece informações necessárias para verificar se as ações adotadas têm contribuído para o alcance dos resultados desejados. Além disso, o monitoramento ajuda a identificar as barreiras e dificuldades enfrentadas pelo gestor para solucionar os problemas apontados.
+
+
+201.	Por meio dos monitoramentos, é possível avaliar a qualidade das auditorias e identificar oportunidades de aperfeiçoamento, de aprendizado e de quantificação de benefícios.   Além de subsidiar o processo de seleção de novos objetos de auditoria, as informações apuradas nos monitoramentos são usadas para calcular o percentual de implementação de deliberações e a relação custo/benefício das auditorias, indicadores de efetividade da atuação das entidades de fiscalização superior.
+
+
+Plano de ação
+
+
+202.	Considerando que o gestor tem a responsabilidade de solucionar as ocorrências apontadas durante a auditoria, cabe a ele apresentar proposta das medidas a adotar e o respectivo cronograma. Isso é feito por meio do plano de ação.
+
+
+203.	O plano de ação é um documento apresentado pelo gestor ao TCU que formaliza as ações que serão tomadas para atender as deliberações propostas no sentido de corrigir os problemas identificados durante a auditoria. Envolve, basicamente, um cronograma em que são definidos responsáveis, atividades e prazos para a implementação das deliberações. Esse instrumento norteia o processo de monitoramento e tende a aumentar a sua efetividade.
+
+
+204.	A elaboração do plano de ação deverá ser realizada pelos gestores e apresentada ao TCU no prazo estipulado pelo Acórdão. É interessante que representantes da equipe de auditoria possam orientar o processo de construção do plano, para que o documento apresentado atenda às necessidades de monitoramento e abranja medidas satisfatórias para solucionar os problemas identificados. Essa interação pode ser viabilizada por meio de reuniões com os gestores. O resultado esperado desse esforço é que o plano de ação seja exequível. 
+
+
+205.	Recomenda-se que o plano de ação inclua campo para registro dos benefícios previstos após a implementação das deliberações. São estes que, em última análise, justificam a realização das auditorias operacionais. Os benefícios devem ser estimados junto aos gestores, ainda durante a auditoria. Podem implicar redução de despesas, aumento de receitas, eliminação de desperdícios, melhoria de desempenho. Também é possível obter benefícios não financeiros, tais como: melhorias organizacionais, aperfeiçoamento de controles internos, benefícios sociais e econômicos, redução do sentimento de impunidade, aumento do sentimento de cidadania.
+
+
+206.	Cabe ressaltar que os benefícios quantificados à época da auditoria e listados no plano de ação foram estimados. Entretanto, o relatório do último monitoramento deve conter os resultados efetivamente atingidos, os benefícios causados pela implementação das deliberações e a forma de mensuração deles. Por exemplo: "a implementação dessa recomendação economizou R$ 2 milhões em custos operacionais". Sempre que possível, os valores apurados, a forma de mensuração e os resultados decorrentes da implementação da deliberação devem ser validados pelo gestor. Possíveis divergências devem ser registradas no relatório.
+
+
+207.	Dependendo da complexidade das medidas propostas, da dificuldade de articulação entre os órgãos e entidades envolvidos na implementação dessas medidas, dos recursos necessários para realizar o monitoramento, o TCU pode elaborar um plano de monitoramento para verificar a adoção das providências e a evolução do desempenho do objeto auditado.
+
+
+Sistemática de monitoramento
+
+
+208.	Logo após a apreciação da auditoria pelo Tribunal, recomenda-se que a unidade técnica do TCU encarregada do monitoramento entre em contato com o gestor do órgão ou programa auditado para orientá-lo sobre o monitoramento da auditoria. Se houver interesse, poderá ser agendada reunião, durante a qual a equipe do TCU explicará aos participantes a sistemática de monitoramento e apresentará ao gestor modelo de plano de ação, a ser entregue no prazo estabelecido pelo Acórdão. Sugere-se convidar representantes do órgão de controle interno (sempre que oportuno), do objeto auditado e de demais órgãos ou entidades envolvidos com a implementação das recomendações e determinações.
+
+
+209.	Se for necessário, haverá outras reuniões entre os interessados, especialmente quando a implementação das deliberações for complexa, demandar mais tempo de monitoramento, envolver diversas unidades governamentais ou quando for percebida alguma resistência por parte do auditado.
+
+
+210.	A partir da análise do plano de ação, o gestor será informado da previsão de monitoramento da auditoria. O cronograma de monitoramento (quantidade, periodicidade, prazo) deverá ser adaptado às particularidades de cada auditoria e definido a partir do teor das deliberações do TCU e das datas estabelecidas no plano de ação. É importante que o monitoramento não demore muito a iniciar, para que não se perca a expectativa de controle. Também não vale a pena monitorar as atividades por muito tempo, pois, de acordo com a experiência do Government Accountability Office (GAO), a maior parte das deliberações é implementada até três anos após a realização da auditoria.
+
+
+211.	Quando o monitoramento for realizado por meio de auditoria, esta terá as mesmas etapas que a auditoria operacional (planejamento, execução, relatório). Porém, há algumas características específicas, que serão destacadas a seguir. Preferencialmente, o coordenador do monitoramento será um integrante da equipe que realizou a auditoria, o que tornará mais fácil apreciar se as medidas tomadas pelos gestores são ou não adequadas frente às deliberações. O responsável pelo monitoramento deve entrar em contato com o coordenador da auditoria para obter informações sobre as condições e peculiaridades do trabalho inicial que possam subsidiar a realização do monitoramento.
+
+
+212.	Durante o planejamento do monitoramento, a equipe lerá o relatório de auditoria, o plano de ação e outros documentos pertinentes. Após a leitura, enviará ao gestor a solicitação de documentos e informações necessários para o monitoramento, fixando prazo condizente com o volume de informações solicitadas.
+
+
+213.	A unidade técnica responsável pelos monitoramentos avaliará a conveniência de aplicar, no monitoramento final, procedimentos de coleta e análise de dados semelhantes aos usados durante a auditoria. A principal razão para aplicar esses procedimentos é a expectativa de conseguir mensurar benefícios.
+
+
+Relatório de monitoramento
+
+
+214.	O relatório de monitoramento deverá ser documento autônomo, ou seja, deverá conter informações suficientes, de forma que não seja necessária, para o entendimento do tema, a leitura do relatório de auditoria e de outros relatórios de monitoramento. O relatório de monitoramento tem por objetivos: apresentar a situação de implementação das deliberações; demonstrar, analiticamente, o benefício efetivo decorrente dessa implementação; mensurar o custo/benefício da auditoria. 
+
+
+215.	A estrutura e a forma de elaboração do relatório de monitoramento deverão seguir os padrões definidos pelo TCU (BRASIL, 2009b). A versão preliminar do relatório de monitoramento, a critério da equipe e do supervisor, poderá ser enviada aos gestores para que eles possam agregar comentários e sugestões que julguem pertinentes sobre as constatações da equipe. A análise desses comentários será incorporada ao relatório final.
+
+
+Situação das deliberações
+
+
+216.	Com base nos dados e informações coletados durante o monitoramento, a equipe classificará as deliberações, segundo o grau de implementação, no período verificado, em uma das seguintes categorias (BRASIL, 2009b):
+
+
+a)	Implementada - quando o problema apontado pela auditoria e objeto da deliberação proposta foi solucionado por meio de providências incorporadas às atividades regulares do objeto auditado;
+
+
+b)	não implementada;
+
+
+c)	parcialmente implementada - quando o gestor considerou concluídas as providências referentes à implementação da deliberação, sem implementá-la totalmente;
+
+
+d)	em implementação - se há evidências de que existem ações em curso no sentido de solucionar as ocorrências apontadas durante a auditoria e que deram origem à deliberação proposta;
+
+
+e)	não mais aplicável - em razão de mudanças de condição ou de superveniência de fatos que tornem inexequível a implementação da deliberação.
+
+
+217.	Quando a deliberação for uma determinação, deve-se substituir os termos "implementada" e "em implementação" por "cumprida" e "em cumprimento". Caso seja fixado prazo pelo TCU para atendimento da deliberação, deve-se registrar se o cumprimento encontra-se em andamento dentro do prazo fixado ou se o prazo já expirou. 
+
+
+218.	A determinação para elaborar plano de ação e as deliberações dirigidas à secretaria do Tribunal não devem constar de quadro resumo e, portanto, não devem ser consideradas no cálculo do percentual de implementação (ex.: enviar cópias do Acórdão, arquivar os autos, publicar o relatório em documento interno do TCU).
+
+
+Quadro 6: Exemplo de quadro resumo da situação de implementação das deliberações
+
+
+Questão de auditoria
+
+Abordagens
+
+O programa está alcançando as metas previstas?
+
+Estudo sobre alcance de metas ou resultados
+
+Como o programa funciona?
+
+Estudo sobre processos
+
+Quais são os efeitos líquidos do programa?
+
+Avaliação de impacto
+
+Os benefícios do programa excedem os custos? Os objetivos são alcançados ao menor custo possível?
+
+Estudos de custo-benefício e de custo-efetividade
+
+As atividades e procedimentos adotados estão sendo realizados conforme as melhores práticas?
+
+Estudo de benchmarking
+
+A qualidade da avaliação realizada é aceitável?
+
+Estudo de meta-avaliação
+
+
+Fonte: Tribunal de Contas da União (Relatórios de Monitoramento: TC 012.271/2003-0 e TC 003.805/2005-5).
+
+
+CONTROLE DE QUALIDADE
+
+
+219.	Controle de qualidade nas auditorias operacionais é o conjunto de políticas, sistemas, e procedimentos estabelecidos para proporcionar adequada segurança de que os trabalhos alcancem seus objetivos, tenham excelência técnica e satisfaçam as normas e os padrões profissionais estabelecidos (ISSAI 3000/Apêndice 4, 2004).
+
+
+220.	A maneira como as auditorias operacionais são desenvolvidas e o grau de excelência dos relatórios produzidos pode afetar a imagem do Tribunal. Por essa razão, é importante assegurar que todas as atividades sejam desenvolvidas com padrões elevados de qualidade (NAO, 2006). O controle de qualidade é importante, ainda, porque possibilita o contínuo aperfeiçoamento dos trabalhos desenvolvidos, a partir da incorporação de lições aprendidas.
+
+
+221.	As entidades de fiscalização superior devem estabelecer sistemas e procedimentos de garantia de qualidade, os quais devem assegurar que todas as auditorias sejam desenvolvidas segundo os padrões e as políticas pertinentes (ISSAI 3000/3, 2004). No TCU, foi estabelecido que todos os trabalhos de fiscalização devem ser submetidos a controle de qualidade (BRASIL, 2005).
+
+
+222.	A qualidade no desenvolvimento dos trabalhos de auditoria operacional é assegurada pela aderência a princípios, procedimentos e metodologias específicos, visando ao alcance de níveis crescentes de objetividade, confiabilidade, consistência e utilidade na elaboração dos relatórios e dos demais documentos produzidos. O controle de qualidade é exercido com os seguintes objetivos:
+
+
+a)	assegurar a qualidade dos relatórios de auditoria (ISSAI  200/1.27, 2001);
+
+
+b)	identificar oportunidades de melhoria na condução de trabalhos futuros e evitar a repetição de deficiências (ISSAI  200/1.27, 2001);
+
+
+c)	localizar deficiências no desenvolvimento dos trabalhos e corrigi-las tempestivamente;
+
+
+d)	reduzir o tempo de tramitação dos processos das auditorias;
+
+
+e)	diminuir a necessidade de retrabalho para correção de deficiências;
+
+
+f)	evidenciar boas práticas na execução dos trabalhos que possam ser disseminadas;
+
+
+g)	contribuir para o desenvolvimento de competências por meio da identificação de necessidades de treinamento;
+
+
+h)	identificar a necessidade de revisão ou de elaboração de documentos técnicos que contenham orientações para a execução das atividades;
+
+
+i)	suprir a administração com informações sistemáticas e confiáveis sobre a qualidade dos trabalhos (NAO, 1996).
+
+
+Modalidades de controle de qualidade
+
+
+223.	O controle de qualidade é um processo contínuo que abrange as atividades de supervisão e orientação da equipe pelo supervisor em todas as fases do ciclo das auditorias operacionais, bem como as atividades de iniciativa da equipe e a revisão do trabalho por outros agentes. O controle de qualidade pode ser concomitante ou a posteriori.
+
+
+224.	O controle de qualidade concomitante integra-se às atividades desenvolvidas durante o ciclo de auditoria. Envolve a orientação da equipe pelo supervisor sobre a concepção da auditoria, o método de trabalho e a análise de evidências, bem como atividades compartilhadas pelo supervisor e a equipe, como o acompanhamento do cronograma, revisões periódicas dos papéis de trabalho, consultas à opinião de especialistas e painéis de referência. O controle de qualidade a posteriori pode ser exercido por meio de revisões internas ou externas dos papéis de trabalho e dos relatórios produzidos, após a conclusão da auditoria.
+
+
+225.	Além da adoção dos procedimentos de controle, a promoção da qualidade também pode ser executada por meio de iniciativas anteriores às fiscalizações, como a redação de manuais com o objetivo de orientar a execução dos trabalhos e a realização de seminários e treinamentos visando à capacitação das equipes de auditoria para os trabalhos a serem desenvolvidos (NAO, 1996).
+
+
+226.	Outra forma efetiva de promover a qualidade das auditorias consiste em criar condições de trabalho que promovam o diálogo, a delegação e a confiança mútua dentro da organização, bem como estimulem o senso de responsabilidade dos auditores (ISSAI 3000/Apêndice 4, 2004).
+
+
+Os papéis dos principais atores envolvidos com o controle de qualidade
+
+
+227.	A atuação do supervisor é essencial para assegurar o alcance dos objetivos da auditoria e para a manutenção da qualidade dos trabalhos, independentemente da competência individual dos auditores. É importante salientar que na auditoria operacional, geralmente, é mais importante apoiar as equipes de auditoria em suas iniciativas para alcançar alto nível de qualidade em seu trabalho, do que supervisioná-las no sentido tradicional do termo (ISSAI 3000/Apêndice 4, 2004).
+
+
+228.	Cabe ao supervisor orientar e revisar tecnicamente a auditoria. A orientação é atividade proativa e abrange discutir com a equipe o mérito da concepção do trabalho, do projeto de auditoria, das conclusões, das propostas de encaminhamento, bem como encaminhar a viabilização dos recursos necessários à execução da auditoria. A revisão dos documentos produzidos refere-se ao relatório, às matrizes de planejamento e achados, ao projeto de auditoria e demais papéis de trabalho, considerando a complexidade da auditoria.
+
+
+229.	A supervisão dos trabalhos deve procurar assegurar que (ISSAI 300/2.3, 2001):
+
+
+a)	os objetivos da auditoria sejam alcançados;
+
+
+b)	as competências necessárias para a execução da auditoria sejam de domínio da equipe ou que sejam incorporadas mediante requisição ou contratação de serviços;
+
+
+c)	os membros da equipe tenham compreensão clara e consistente do projeto de auditoria;
+
+
+d)	os achados e as conclusões da auditoria estejam baseados em informações confiáveis e em evidências válidas, consistentes, relevantes e suficientes;
+
+
+e)	a auditoria seja executada de acordo com padrões e normas técnicas adotadas pelo TCU;
+
+
+f)	o projeto de auditoria seja cumprido;
+
+
+g)	os recursos necessários à execução da auditoria estejam disponíveis, como serviços técnicos, equipamento e meios de deslocamento.
+
+
+230.	Cabe ao coordenador promover discussões com os demais integrantes da equipe de auditoria para a definição do escopo do trabalho, da estratégia metodológica e dos procedimentos e técnicas a serem utilizados. A escolha dos objetivos, dos problemas e das questões de auditoria determina grande parte da qualidade do trabalho (ISSAI 3000/2.1, 2004).
+
+
+231.	Compete ao coordenador da auditoria, ainda, realizar reuniões periódicas com a equipe para a discussão de problemas surgidos durante o desenvolvimento das atividades e de adaptações necessárias nos papéis de trabalho produzidos; reportar ao supervisor o andamento dos trabalhos e com ele discutir o tratamento a ser dado a eventuais problemas e dificuldades; revisar toda a documentação obtida durante a fiscalização, inclusive as contribuições dos demais integrantes da equipe ao relatório de auditoria; e preparar a versão final do relatório. Além disso, o coordenador deve zelar para que:
+
+
+a)	os objetivos da auditoria sejam definidos considerando os dados disponíveis sobre o desempenho do objeto auditado;
+
+
+b)	critérios apropriados sejam definidos para avaliar as questões de auditoria a serem investigadas;
+
+
+c)	os membros da equipe tenham investigado, documentado e compreendido os aspectos centrais do objeto de auditoria;
+
+
+d)	os objetivos da auditoria estejam claros para os membros da equipe e para os auditados;
+
+
+e)	bom ambiente de trabalho seja mantido entre os integrantes da equipe de auditoria e entre a equipe e os auditados;
+
+
+f)	o emprego das diversas técnicas de auditoria siga as prescrições contidas nos documentos técnicos correspondentes;
+
+
+g)	os prazos estimados sejam cumpridos, devendo propor ao supervisor a alteração do cronograma em caso de necessidade;
+
+
+h)	os membros da equipe responsabilizem-se pela execução de tarefas condizentes com seus conhecimentos e habilidades;
+
+
+i)	o projeto de auditoria contenha todas as informações necessárias para a apreciação da proposta de trabalho.
+
+
+Ferramentas de controle de qualidade
+
+
+232.	O controle de qualidade nas auditorias operacionais é realizado com o auxílio de determinadas técnicas e procedimentos rotineiros que facilitam a sua aplicação. As principais ferramentas de controle de qualidade são:
+
+
+a)	checklists de qualidade;
+
+
+b)	cronograma;
+
+
+c)	matriz de planejamento;
+
+
+d)	matriz de achados;
+
+
+e)	painéis de referência;
+
+
+f)	comentários dos gestores.
+
+
+233.	O checklist é uma lista de verificação da realização de atividades e do cumprimento de padrões de qualidade aplicáveis a atividades, papéis de trabalho e produtos da auditoria. A aplicação de checklists pode ser feita tanto concomitante quanto após a auditoria. Quando aplicado concomitantemente, o checklist facilita o trabalho da supervisão, na medida em que permite a verificação do cumprimento pela equipe de auditoria de medidas chave nas diversas etapas que compõem os trabalhos de auditoria e a correção tempestiva de deficiências. Quando aplicado a posteriori, o checklist ajuda a identificar oportunidades de melhoria na condução de trabalhos futuros e a evitar a repetição de deficiências.
+
+
+234.	O cronograma permite que a equipe planeje e organize suas atividades e facilita a alocação de seus membros de acordo com os procedimentos previstos e com o tempo disponível. Deve conter a relação das tarefas a serem executadas, os respectivos responsáveis e o prazo para a sua execução.  Após ser acordado entre os membros da equipe, o cronograma deve ser submetido ao supervisor, que deverá utilizá-lo para acompanhar o desenvolvimento dos trabalhos. 
+
+
+235.	A matriz de planejamento registra os objetivos da auditoria, bem como as questões que serão investigadas e quais as possíveis conclusões. Assim, é base para a discussão da concepção do trabalho e para o posterior acompanhamento da execução do projeto de auditoria. Esse instrumento sistematiza e detalha os procedimentos previstos para a execução do trabalho, portanto, auxilia na identificação de falhas e lapsos no planejamento das atividades. Na medida em que organiza os elementos da metodologia em colunas específicas, evidencia se as informações requeridas são suficientes para responder à questão proposta. Permite verificar, ainda, se essas informações podem ser supridas pelas fontes de informação listadas e se estão coerentes com a estratégia metodológica e com os métodos de coleta e de análise de dados definidos. A matriz de planejamento deve ser revisada nos seguintes pontos:
+
+
+a)	O problema de auditoria foi devidamente explicitado?
+
+
+b)	As questões de auditoria estão claramente formuladas?
+
+
+c)	Existe uma relação clara e satisfatória entre as questões de auditoria e o problema a ser investigado?
+
+
+d)	As metodologias escolhidas (estratégias, métodos de coleta e análise de dados) são adequadas para responder às questões formuladas?
+
+
+e)	As limitações foram identificadas?
+
+
+f)	As conclusões esperadas do trabalho de auditoria ("o que a análise vai permitir dizer") são consistentes com a metodologia proposta e respondem à questão de auditoria?
+
+
+236.	A matriz de achados contribui para o controle de qualidade, na medida em que auxilia na sistematização e análise dos resultados da auditoria. A matriz de achados é importante para a correta elaboração do relatório de auditoria, pois dispõe, de forma estruturada, os achados, suas evidências, causas e efeitos, elementos que compõem os capítulos principais do relatório. É possível verificar, por exemplo, se os achados são suportados por evidências confiáveis e suficientes; se as medidas propostas são adequadas e se incidem sobre as causas dos problemas que se pretende corrigir; e se as questões de auditoria foram respondidas.
+
+
+237.	A realização de painéis de referência é prática importante que possibilita o controle de qualidade nas auditorias operacionais por meio da revisão das matrizes de planejamento e de achados. Tanto a matriz de planejamento, quanto a matriz de achados devem ser validadas em painéis de referência. Normalmente, os painéis de referência contam com a participação de outros servidores do Tribunal com conhecimento sobre o tema da auditoria, de membros do gabinete do Ministro-Relator, de representantes do Controle Interno e de especialistas externos. O painel de referência tem por objetivo avaliar a lógica da auditoria e o rigor da metodologia utilizada. Possibilita, ainda, que a equipe seja alertada sobre falhas na concepção e no desenvolvimento dos procedimentos.
+
+
+238.	Recomenda-se que, após a realização dos ajustes considerados pertinentes, decorrentes dos painéis de referência, as matrizes de planejamento e de achados sejam apresentadas aos gestores responsáveis pelo objeto de auditoria avaliado, de forma que sua apreciação crítica também possa contribuir para a melhoria da qualidade dos trabalhos. No mesmo sentido, o encaminhamento da versão preliminar do relatório de auditoria para a apreciação e manifestação dos gestores, possibilita o esclarecimento de pontos obscuros, a correção de informações imprecisas ou inconsistentes, assim como o aperfeiçoamento das medidas propostas.
+
+
+239.	Além do controle de qualidade concomitante, executado pela unidade técnica que realiza a auditoria, é desejável que sejam estabelecidos sistemas e procedimentos para confirmar se os processos de garantia de qualidade funcionam adequadamente (ISSAI 200/1.27a, 2001). Esses procedimentos incluem a aplicação de checklists pelos setores do Tribunal encarregados de analisar a qualidade dos trabalhos após a sua conclusão, bem como a revisão posterior dos relatórios por servidores experientes de outras unidades técnicas, gabinetes de autoridades ou especialistas externos.
+
+
+APÊNDICE – PLANEJAMENTO E MÉTODO
+
+
+Matriz de Planejamento: Como Preenchê-la
+
+
+Embora os elementos da matriz de planejamento sejam apresentados seqüencialmente, a definição das questões de auditoria, a escolha das estratégias metodológicas apropriadas, assim como os resultados a que se quer chegar com a análise proposta (o que a análise vai permitir dizer) acontecem simultaneamente, confrontando-se essas informações de maneira a assegurar a consistência lógica do projeto de auditoria.  
+
+
+Informações Requeridas
+
+
+Para se determinar o tipo de informação necessária para responder à questão de auditoria, os termos-chave empregados na questão devem ser definidos e suas dimensões ou variáveis identificadas. Por exemplo, ao formular uma questão envolvendo o impacto de uma iniciativa governamental voltada para a melhoria do nível de ensino, deve-se definir o que se entende por "melhoria do nível de ensino", identificando-se as dimensões envolvidas nesse conceito. A tarefa de traduzir conceitos abstratos em variáveis mensuráveis é indispensável para que se possa especificar com clareza o tipo de informação a ser coletada.
+
+
+
+Fontes de Informação
+
+
+Deve-se identificar a fonte específica para cada tipo de informação. Exemplos de fontes de informação:
+
+
+a)	documentação legal e institucional que dá suporte ao objeto de auditoria;
+
+
+b)	legislação orçamentária (PPA, LDO e LOA); 
+
+
+c)	missão declarada, planos estratégicos e relatórios de gestão;
+
+
+d)	pronunciamentos feitos e decisões tomadas pelas autoridades competentes;
+
+
+e)	organogramas, diretrizes internas e manuais operacionais;
+
+
+f)	atas de reuniões; 
+
+
+g)	sistemas de informações gerenciais; 
+
+
+h)	bases de dados informatizadas;
+
+
+i)	sistemas de informações da administração pública (SIAFI, SIGPlan, SIDOR, SIASG);
+
+
+j)	bibliografia especializada;
+
+
+k)	gestores e especialistas;
+
+
+l)	beneficiários de programas governamentais;
+
+
+m)	relatórios e estudos produzidos por fonte credenciada;
+
+
+n)	mídia especializada.
+
+
+Cuidado especial deve ser dedicado ao uso de revistas, jornais e outras publicações jornalísticas, bem como informações da internet que, embora possam oferecer informações de caráter geral e indicar a relevância de determinado tema, não são submetidas a revisões qualificadas, próprias de publicações científicas (revisão por pares).   Outras publicações, mesmo de caráter oficial, devem ser interpretadas com reserva ante à possibilidade de apresentarem fatos seletivamente, de maneira a dar sustentação a determinado ponto de vista (LEE; LINGS, 2008).
+
+
+Estratégias Metodológicas
+
+
+A estratégia metodológica é a forma geral do desenho investigativo que será adotado na auditoria e deve ser especificado nas colunas de procedimentos de coleta e análise de dados. Devem-se registrar a abordagem e os métodos que serão empregados na investigação de cada questão e subquestão formulada. A estratégia metodológica está diretamente relacionada com a qualidade das evidências que podem ser obtidas, o que, por sua vez, influirá na confiabilidade das conclusões do trabalho.
+
+
+A Intosai relaciona as abordagens mais adequadas para responder a algumas questões típicas de auditoria operacional (ISSAI 3000/Apêndice 1, 2004), conforme Quadro 7: 
+
+
+Quadro 7: Principais abordagens em auditoria operacional
+
+
+TÉCNICAS
+
+CARACTERÍSTICAS
+
+APLICAÇÃO EM AUDITORIA OPERACIONAL
+
+Questionários
+
+Método estruturado de coleta de dados, por meio de formulário, usado para quantificar informação padronizada, sobre grande número de unidades de pesquisa. Permite: 
+
+-comparar respostas;
+
+-realizar análise estatística;
+
+-generalizar as conclusões, no caso de amostras aleatórias.
+
+Os meios mais utilizados são os questionários postais ou via internet. As principais desvantagens são:
+
+-o pré-teste e a realização da pesquisa são demorados;
+
+-requer conhecimento sobre elaboração de questionários e desenho amostral; 
+
+-é difícil garantir o rigor das informações prestadas.
+
+Entrevistas
+
+Método presencial de obtenção de informação por meio de perguntas e respostas. Podem ser individuais ou coletivas, estruturadas (questões fechadas), não-estruturadas (questões abertas) ou semi-estruturadas (duas modalidades de questões).
+
+Grande parte da auditoria operacional é baseada em entrevistas. De acordo com o objetivo de cada etapa do trabalho, são aplicadas: entrevistas preparatórias; entrevistas para coletar dados e informações; entrevistas para identificar atitudes e argumentos; entrevistas para gerar e avaliar idéias e sugestões. Podem ser empregadas para confirmar fatos e corroborar dados de outras fontes ou explorar potenciais recomendações. 
+
+Observação Direta
+
+Registro presencial e sistemático de informações, predefinidas em roteiro. Requer treinamento e preparação específica em, por exemplo, técnicas de anotação de campo, bem como capacidade de concentração e percepção seletiva. O observador treinado deve ser capaz de coletar informações exatas, válidas e confiáveis.
+
+Empregado principalmente para obter informação contextualizada sobre a forma de funcionamento do objeto auditado. 
+
+As vantagens desse método podem ser assim resumidas (PATTON, 1987):
+
+-permite ao observador compreender o contexto no qual se desenvolvem as atividades;
+
+-permite ao observador testemunhar os fatos, sem depender de informações de terceiros;
+
+-permite que um observador treinado perceba aspectos que escapam aos participantes, rotineiramente envolvidos com o programa;
+
+-pode captar aspectos do programa sobre os quais os participantes não desejam falar numa entrevista, por ser um tema delicado ou embaraçoso;
+
+-traz para a análise as percepções do próprio observador, que, ao serem confrontadas com as percepções dos entrevistados, fornecem uma visão mais completa do programa estudado;
+
+-permite que o observador forme impressões que extrapolem o que é possível registrar, mesmo nas mais detalhadas anotações de campo, e que podem auxiliar na compreensão do programa e dos seus participantes.
+
+Uso de dados Existentes
+
+O uso de dados existentes requer cuidados especiais por parte da equipe de auditoria. Além da confiabilidade dos dados, outras questões devem ser consideradas:
+
+-Que tipo de dado está disponível? Ele se adapta à questão que se pretende investigar?
+
+-Os dados estão completos e o período de abrangência é suficiente para a análise?
+
+-De que forma o dado está armazenado? Quais as limitações relativas à forma dos dados e quais as dificuldades existentes para a sua obtenção?
+
+-Que atividades de coleta são realizadas regularmente? Foi realizada coleta de dados com objetivo específico?
+
+-Há outras fontes relevantes de dados para o tema a ser investigado?
+
+É possível agregar valor e extrair informações originais de dados existentes, identificando tendências e examinando-as de modo criativo. 
+
+Se a auditoria está inteiramente baseada em dados existentes, especialmente se estes forem de domínio público, a equipe deve dedicar especial atenção à forma de apresentação dos dados e de comunicação mais efetiva da idéia chave (NAO,1997). O uso de softwares especializados pode auxiliar na tarefa de analisar e apresentar dados de diferentes modos. É fundamental levar em conta que qualquer problema relativo à utilização de dados existentes e às suas possíveis limitações deve constar como ressalva às conclusões finais do relatório de auditoria.
+
+
+Fonte: ISSAI 3000/Apêndice 1.
+
+
+Entre os métodos mais empregados nas auditorias operacionais estão pesquisa documental, estudo de caso e pesquisa (survey). A pesquisa experimental, quase-experimental e não-experimental, utilizadas em avaliação de programas, também fazem parte das opções de estratégia metodológica. 
+
+
+a)	Pesquisa documental: abrange o exame de toda espécie de registros administrativos, inclusive estatísticas oficiais. Além de material produzido pela instituição auditada, são pesquisados relatórios de auditorias anteriores do TCU e da CGU, assim como estudos realizados por outras instituições. Denomina-se pesquisa bibliográfica a que abrange a bibliografia tornada pública em relação ao tema de estudo. Ao se realizar pesquisa documental é necessário avaliar a confiabilidade das informações divulgadas, assim como determinar a natureza, localização e disponibilidade dos documentos no início da auditoria. Esses cuidados têm por objetivo garantir o melhor aproveitamento da informação ao menor custo possível e verificar a viabilidade de se responder à questão. 
+
+
+b)	Estudo de Caso: "Estudo de caso é um método usado para conhecer uma situação complexaxii, baseado em compreensão abrangentexiii da situação, obtida a partir de sua ampla descrição e análisexiv, considerada como um todo e no seu contexto." [grifamos] (GAO, 1990, p.14). Em auditoria operacional, os estudos de caso são freqüentemente complementados por outras estratégias metodológicas, como a pesquisa. Segundo Patton (PATTON, 1987, p.19): 
+
+
+Estudos de caso tornam-se especialmente úteis quando é necessário entender algum problema específico ou situação em grande profundidade e onde é possível identificar casos ricos em informação – ricos no sentido de que muito pode ser aprendido de uma pequena amostra do fenômeno em questão. Por exemplo, geralmente muito pode ser aprendido sobre como aperfeiçoar um programa estudando desistências, fracassos e sucessos selecionados.
+
+
+c)	Pesquisa: a pesquisa é uma estratégia metodológica que permite obter informações de caráter quantitativo e qualitativo relacionadas tanto aos aspectos operacionais e gerenciais, como aos resultados esperados. Com freqüência, é utilizada em conjunto com estudos de caso como suporte para as análises de caráter qualitativo, típicas dessa última estratégia. Quando a pesquisa for baseada em amostragem estatísticaxv, é possível generalizar as conclusões para toda a população. Para garantir essa generalização, a amostra deve refletir as características da população-alvo. Qualquer deficiência do método amostral utilizado deve ser levada em conta na interpretação dos resultados da pesquisa e ser devidamente relatada. 
+
+
+d)	Pesquisa Experimental: Na pesquisa experimental, para verificar se um programa é a causa de determinado efeito, selecionam-se dois grupos de unidades de pesquisa (pessoas, escolas, hospitais, etc.): 1) o grupo experimental ou de tratamento, que será exposto ao programa; 2) o grupo de controle, que não será exposto. As diferenças observadas nos resultados obtidos por esses grupos, com algumas qualificações, poderão ser atribuídas à presença do programa. O procedimento, para ser considerado um experimento em sentido estrito, requer que as unidades de pesquisa, em ambos os grupos, sejam selecionadas de forma randômica ou aleatória. Isso visa fortalecer a conclusão sobre o vínculo causal, garantindo que a maioria dos fatores não manipulados pelo programa e que poderiam influenciar os seus resultados está uniformemente distribuída entre os dois grupos. Dessa forma, apenas os efeitos do programa explicariam as diferenças observadas.
+
+
+e)	Pesquisa Quase-Experimental: A realização da pesquisa experimental envolve dificuldades de ordem tanto prática, tratados no subitem anterior, quanto ética (ex.: excluir do programa um grupo de beneficiários em potencial para que operem como grupo de controle). Dessa forma, a pesquisa quase-experimental apresenta-se como estratégia metodológica alternativa. Assim, os grupos de comparação são selecionados com base na disponibilidade e na oportunidade. As estratégias utilizadas nesses casos são menos robustas do que a pesquisa experimental. Quanto maiores forem as diferenças iniciais entre os grupos de tratamento e de controle, mais ambíguas serão as conclusões alcançadas. Para minimizar esse problema, devem-se selecionar grupos que sejam tão equivalentes quanto possível, ou seja, grupos que possam ser comparados. Para se garantir a equivalência entre os grupos, é essencial aplicar um pré-teste, destinado a verificar as diferenças preexistentes e, dessa forma, permitir a interpretação e o controle dos resultados do estudo. 
+
+
+f)	Pesquisa Não-Experimental: muitas vezes é impossível utilizar até mesmo modelos quase-experimentais. A fragilidade inerente a essas pesquisas é o fato de que não há controle sobre explicações alternativas, ou seja, as mudanças observadas podem ter sido causadas por variáveis não associadas ao programa. Quando a coleta de dados é executada adequadamente, estudos dessa natureza oferecem valiosas informações sobre o programa. Entretanto, apresentam problemas consideráveis quando o objetivo é estabelecer um juízo sobre o programa ou determinar em que medida os resultados obtidos podem ser a ele atribuídos. Assim, quando se tratar de uma avaliação de programa, essas pesquisas devem ser realizadas em conjunto com outras estratégias metodológicas.
+
+
+Procedimentos de Coleta de Dados
+
+
+Uma vez definida a estratégia metodológica, deve-se detalhar na matriz de planejamento os procedimentos que serão empregados na coleta de dados, utilizando-se as técnicas apropriadas. As técnicas mais utilizadas são: questionário, entrevista, observação direta e utilização de dados existentes.
+
+
+A utilização de dados novos, provenientes de questionários ou entrevistas ou de registros e anotações originárias de visitas da equipe às instalações de projetos, oferece a possibilidade de produzir algo inédito e confiável, desde que os benefícios superem os custos incorridos. Ao optar por utilizar dados existentes, a equipe deve avaliar a confiabilidade dos dados, além de outros aspectos que podem impactar na qualidade das evidências a serem obtidas. O Quadro 8:  apresenta resumidamente  as características das principais técnicas de coleta de dados e de aspectos relevantes da sua aplicação em auditoria operacional:
+
+
+Quadro 8: Resumo das principais técnicas de coleta de dados
+
+
+
+
+ 
+
+
+As auditorias operacionais também recorrem a outras técnicas de coleta de dados, como grupo focal, painéis de especialistas e seminários.  
+
+
+A coleta de dados é um ajuste entre a solução ideal e a solução possível. Um projeto de auditoria muito ambicioso na coleta de dados, de forma perfeitamente completa, precisa e exata, pode prejudicar a realização da auditoria. A necessidade de ser exato deve ser equilibrada com critérios de razoabilidade, economia e relevância, à luz dos objetivos da auditoria. Por conseqüência, o relatório de auditoria deve sempre informar sobre a qualidade das informações e como foram coletadas (ISSAI 3000/4.5, 2004).
+
+
+Procedimentos de Análise de Dados
+
+
+Devem-se detalhar na matriz de planejamento os procedimentos que serão empregados na análise de dados. Técnicas de análise de dados são ferramentas usadas para organizar os dados coletados e investigar as relações que se pretende estabelecer entre as variáveis selecionadas para responder às questões de auditoria. A especificação da técnica é parte fundamental do projeto de auditoria e deve, portanto, constar da matriz de planejamento. Essas ferramentas têm correspondência com as técnicas adotadas na coleta de dados. 
+
+
+Geralmente, a análise de dados é um procedimento interativo, isto é, realizam-se análises iniciais na fase de planejamento e, à medida que a auditoria progride, as análises são refinadas. Ampla variedade de técnicas de análise pode ser usada em auditoria operacional, incluindo análise estatística multivariada, análise por envoltória de dados, análise de regressão. As mais comuns são análise de freqüências em tabelas e análise gráfica:
+
+
+a)	Tabulação de freqüências, tabulações complexas para checar relações. A análise deve ser realizada com o auxílio de software adequado que permita o cálculo de freqüências, o teste de hipóteses e a representação gráfica dos dados. Essas técnicas são usadas para analisar dados coletados por meio de questionários ou de extração de dados administrativos;
+
+
+b)	Análise gráfica de dados: por meio do uso de gráficos (histograma, gráfico de Pareto, gráfico de barras, setogramaxvi, gráfico de dispersão, caixa-e-hastexvii) é possível sintezar informações e revelar tendências, regularidades, descontinuidades, desempenhos extremos (bons e ruins), desigualdades na distribuição de bens e serviços públicos. 
+
+
+Usa-se ainda a análise qualitativa, com base em julgamento profissional da equipe ou de especialistas consultados, das informações coletadas ou produzidas pela equipe, registradas em mapas de processo, indicadores de desempenho, documentos oficiais, avaliações realizadas por outros agentes. O tipo de análise depende do problema a ser investigado e dos recursos disponíveis para o trabalho. 
+
+
+As análises qualitativas abrangem a comparação e o contraste entre informações proveniente de fontes diferentes, de unidades de pesquisa que apresentam boas e más práticas, comparações mais gerais entre unidades de pesquisa (ISSAI 3000/4.5, 2004).
+
+
+Na análise e interpretação de dados qualitativos, pode-se adotar ainda (PATTON, 1987):
+
+
+a)	Análise de conteúdo: técnica de análise sistemática de informação textual, organizada de forma padronizada, que permite realizar inferência sobre seu conteúdo. Pode ser usada para analisar transcrições de entrevistas, grupos focais e documentos, como relatórios, descrição de política pública. Recomenda-se usar software adequado em caso de grande quantidade de material a ser analisado.
+
+
+b)	Triangulação: uso de diferentes métodos de pesquisa e/ou de coleta de dados para estudar a mesma questão, com o objetivo de fortalecer as conclusões finais, podendo assumir as formas a seguir indicadas:
+
+
+coletar dados de diferentes fontes sobre a mesma questão;
+
+
+empregar diferentes entrevistadores e pesquisadores de campo para evitar vieses na coleta de dados;
+
+
+usar múltiplos métodos de pesquisa para estudar a mesma questão;
+
+
+usar teorias diferentes para interpretar os dados coletados.
+
+
+c)	Interpretações alternativas: uma vez formulada uma interpretação a partir das principais relações identificadas na análise, devem-se buscar interpretações alternativas; caso não sejam encontradas evidências substantivas que sustentem essas interpretações, reforça-se a confiança na interpretação originalmente formulada (PATTON, 1987). Em uma auditoria operacional de qualidade, os argumentos sustentados pela equipe devem ser confrontados com os melhores contra-argumentos possíveis (ISSAI 3000/4.5, 2004).
+
+
+d)	Caso negativo: relacionado ao item anterior, trata-se de identificar as situações que não seguem a interpretação principal ou corrente em razão de circunstâncias específicas e que, por isso mesmo, funcionam como "exceções (casos negativos) que confirmam a regra" e que ajudam a esclarecer os limites e as características da interpretação principal.
+
+
+A efetividade dos procedimentos tratados acima se apoia na honestidade intelectual do analista, que deve despender na busca de casos negativos ou de evidências que deem sustentação às hipóteses alternativas, o mesmo esforço empregado na construção da interpretação principal. 
+
+
+O processo de análise é interativo e compartilhado pela equipe, com a participação do supervisor, bem como com a consulta a outros auditores experientes, especialistas e gestores. À medida que as informações são estruturadas, comparadas, confrontadas, discutidas com atores internos e externos, o relatório deve ser rascunhado, avaliado e reescrito (ISSAI 3000/4.5, 2004). Pode ser necessário discutir esses textos preliminares com gestores e especialistas, para confirmar dados, desenvolver argumentos e propostas de recomendação (ISSAI 3000/4.5, 2004).
+
+
+Limitações
+
+
+Nesse elemento da Matriz de Planejamento, a equipe de auditoria deve especificar as limitações inerentes à estratégia metodológica adotada, às características das informações que se pretende coletar e às condições operacionais de realização dos trabalhos.
+
+
+Quanto à estratégia metodológica, deve-se considerar que não há estratégia ótima ou ideal, mas apenas aquela que, dadas as circunstâncias, melhor se adapta à questão que se pretende investigar. Uma vez que sempre haverá algum tipo de limitação sobre o que pode ser concluído a partir de determinada metodologia proposta, o melhor a fazer é identificar tais restrições.  A equipe de auditoria deve avaliar as alternativas existentes e estar preparada para defender suas escolhasxviii.
+
+
+Assim, ao se optar por uma estratégia metodológica, é indispensável apontar as limitações que lhe são inerentes, seja do ponto de vista do poder explicativo, seja em relação às possibilidades de generalização dos resultados do estudoxix.
+
+
+Quanto às informações que se pretende utilizar na análise, é importante mencionar que tipo de dificuldade espera-se encontrar, tanto em relação ao acesso aos dados, como em relação à sua qualidade e confiabilidade. Qualquer problema relativo à utilização de dados existentes e às suas possíveis limitações deve constar da matriz de planejamento. 
+
+
+A equipe deve indicar a alternativa a ser adotada para minimizar os riscos correspondentes aos resultados esperados decorrentes das limitações identificadas.
+
+
+O Que a Análise Vai Permitir Dizer
+
+
+Esse elemento da Matriz de Planejamento de Auditoria registra como a análise dos dados responderá à questão de auditoria. O propósito dessa informação é esclarecer quais conclusões ou resultados pretende-se alcançar por meio do projeto de auditoria. Está relacionado com o anterior, pois o que se espera obter da análise está, naturalmente, condicionado pelas limitações previamente identificadas.
+
+
+Assim, deve-se registrar, por exemplo: se as conclusões alcançadas permitirão responder integralmente às questões de auditoria; se será possível fazer afirmações conclusivas sobre o objeto da auditoria; e se as conclusões limitar-se-ão aos casos examinados ou se será possível generalizá-las. Esses esclarecimentos são necessários para que se tenha noção, já na fase de planejamento, do que se pode esperar do esforço que será empreendido pela equipe e dos recursos que serão alocados no desenvolvimento do trabalho. 
+
+
+REFERÊNCIAS
+
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). ISO Guia 73:2009. Rio de Janeiro, 2009.
+
+
+_____. Informação e Documentação – Apresentação de citações em documentos: NBR 10520. Rio de Janeiro, 2002.    
+
+
+_____. Informação e Documentação – Numeração progressiva das seções de um documento escrito. NBR 6024. Rio de Janeiro, 2003.
+
+
+_____. Informação e Documentação – Referências – Elaboração. NBR 6023. Rio de Janeiro, 2000.    
+
+
+BRASIL. Constituição da República Federativa do Brasil. Brasília, DF: Senado, 1988.
+
+
+BRASIL. Lei nº 9.610, de 19 de fevereiro de 1998. Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências. Brasília, 1998. Disponível em: <http://www.planalto.gov.br /ccivil_03/Leis/QUADRO/1998.htm>. Acesso em: 13 jul. 2009.
+
+
+BRASIL. Ministério do Planejamento. Manual Técnico de Orçamento – MTO 2009. Brasília, 2008. Disponível em: < HTTP://www.planejamento.gov.br>. Acesso em: 16 nov. 2008.
+
+
+_____. Tribunal de Contas da União. Padrões de Auditoria de Conformidade. Brasília, 2009a.
+
+
+_____. Tribunal de Contas da União. Padrões de Monitoramento. Brasília, 2009b.  
+
+
+_____. Tribunal de Contas da União (TCU). Resolução nº 185, de 13 de dezembro de 2005. Dispõe sobre o plano de fiscalização previsto no art. 244 do Regimento Interno do TCU. Brasília, 2005. Disponível em: https://contas.tcu.gov.br/juris/Web/Juris/ ConsultarAtoNormativo/ ConsultarAtoNormativo.faces.Acesso em: 24 abr. 2009.
+
+
+_____. Tribunal de Contas da União (TCU). Resolução nº 155, de 4 de dezembro de 2002. Aprova o Regimento Interno do Tribunal de Contas da União. Brasília, 2002a. Disponível em: <http://www.tcu.gov.br>. Acesso em: 8 set. 2008.
+
+
+_____. Tribunal de Contas da União.  Técnicas de Apresentação de Dados. Brasília, 2001. 
+
+
+COHEN, E.; FRANCO, R. Avaliação de Projetos Sociais. Petrópolis: Vozes, 1993.
+
+
+CRONBACH, L. J. Designing evaluations of educational and social programs. San Francisco: Jossey-Bass, 1983.
+
+
+Government Accountability Office (GAO). Government Auditing Standards. Washington, 2007.
+
+
+_____. Designing evaluations. Washington, 1991.
+
+
+_____. Case study evaluations. Washington, 1990.
+
+
+_____. Content analysis: a methodology for structuring and analyzing written material. Washington, 1996.
+
+
+HATRY, Harry P.; WINNIE, Richard E.; FISK, Donald M. Practical Program Evaluation for State and Local Governments. 2a edição. The Urban Institute Press. Washington, 1981.
+
+
+International Organization of Supreme Audit Institutions (Intosai). Auditing Standards – Basic Principles in Government Auditing. (ISSAI 100). Viena, 2001. Disponível em: http://www.issai.org/media(629,1033)/ISSAI_100_E.pdf. Acesso em: 8 set. 2008.
+
+
+_____. General standards in Government Auditing and standards with ethical significance (ISSAI 200). Viena, 2001. Disponível em: <http://www.issai.org/media(630,1033)/ISSAI_200_E.pdf>. Acesso em: 8 set. 2008.
+
+
+_____. Field Standards in Government Auditing (ISSAI 300). Viena, 2001a. Disponível em: <http://www.issai.org/media(630,1033)/ISSAI_300_E.pdf>. Acesso em: 8 set. 2008.
+
+
+_____. Reporting Standards in Government Auditing (ISSAI 400). Viena, 2001b. Disponível em: <www.issai.org>. Acesso em: março de 2009.
+
+
+_____. Implementation Guidelines for Performance Auditing (ISSAI 3000). Viena, 2004. Disponível em: <http://www.issai.org/media(381,1033)/ISSAI_3000E.pdf>. Acesso em: 8 set. 2008.
+
+
+LEE, N.; LINGS, I. Doing business research. London: Sage, 2008.
+
+
+MEDEIROS, M. Princípios de Justiça na Alocação de Recursos em Saúde. Texto para Discussão nº 687. Brasília: IPEA, 1999.
+
+
+NATIONAL AUDIT OFFICE (NAO). Collecting, analysing and presenting data. London: NAO, 1996.
+
+
+_____. Designing vfm studies – A guide. London: NAO, 1997.
+
+
+_____. Getting to the heart of the matter. London, [199-].
+
+
+_____. Quality Matters. London, 2006. 
+
+
+_____. Value for Money : Handbook, London, 1996.
+
+
+_____.  Writing Smart Recommendations. London: NAO, 200-.
+
+
+PATTON, Michael Quinn. How to use qualitative methods in evaluation. Newbury Park: Sage, 1987.
+
+
+POLLITT, Christopher; GIRRE, Xavier; LONSDALE, Jeremy; MUL, Robert; SUMMA, Hilkka; WAERNESS, Marit. Performance or compliance? Performance audit and public management in five countries. Oxford University Press. Oxford, 2002.
+
+
+NOTAS EXPLICATIVAS
+
+
+
+________________________
+
+
+
+i Neste manual utiliza-se o termo auditoria operacional como sinônimo de auditoria de desempenho (performance auditing).
+
+
+ii A definição de auditoria operacional adotada neste manual está baseada nas Diretrizes da Intosai para auditoria de desempenho - Implementation Guidelines for Performance Auditing (ISSAI 3000/1, 2004).
+
+
+iii As referências aos documentos da Intosai seguem as orientações dessa organização e não as normas da ABNT.
+
+
+iv Os produtos (bens e serviços ofertados) podem ser entendidos como resultados imediatos.
+
+
+v "a principal questão é saber se os recursos foram aplicados para obter uso ótimo ou satisfatório ou se resultados similares, em termos de qualidade e tempo, poderiam ter sido alcançados com menos recursos" (ISSAI 3000/1.5, 2004).
+
+
+vi De acordo com a Constituição Federal (art. 3º, inciso III), constitui objetivo fundamental da República Federativa do Brasil erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.  Sobre a ordem econômica, está estabelecido que esta se fundamenta na valorização do trabalho humano e na livre iniciativa e que tem por fim assegurar a todos existência digna, conforme os ditames da Justiça Social observada, entre outros princípios, a redução das desigualdades regionais e sociais (art. 170).
+
+
+vii Um exemplo desse tipo de análise consistiria em verificar os índices de incidência de determinada enfermidade, após campanha de erradicação, segundo a região ou o perfil socioeconômico da população para identificar possíveis distorções derivadas da forma de implementação da política.
+
+
+viii Segundo a Intosai, a auditoria de regularidade (regularity audit) compreende auditoria financeira, auditoria de controles internos e auditoria da legalidade de atos administrativos (ISSAI 100/39, 2001).
+
+
+ix São programas voltados aos serviços típicos de Estado, ao planejamento, à formulação de políticas setoriais, à coordenação, à avaliação ou ao controle dos programas finalísticos, resultando em bens ou serviços ofertados ao próprio Estado, podendo ser composto inclusive por despesas de natureza tipicamente administrativas (BRASIL, 2008).
+
+
+x É importante observar que desempenho satisfatório não significa desempenho perfeito e que qualquer julgamento deve levar em conta as circunstâncias do auditado (ISSAI 3000, Apêndice 2).
+
+
+xi É sempre recomendável obter a opinião dos gestores sobre os critérios de auditoria que serão adotados, para que eventuais discordâncias possam ser discutidas e esclarecidas logo no início da auditoria. Entretanto, os fatos e argumentos apresentados pelos gestores devem ser comparados com os de outras fontes relevantes (ISSAI 3000, Apêndice 2)
+
+
+xii Situação complexa significa que muitos fatos podem influenciar os acontecimentos e que essas influências podem interagir não-linearmente, tornando impossível isolar os efeitos das variáveis sob estudo.
+
+
+xiii Compreensão abrangente indica que os estudos de caso visam obter uma representação, a mais completa possível, do que está acontecendo e do porquê.
+
+
+xiv Ampla descrição e análise refere-se ao emprego de informações ricas e completas, provenientes de várias fontes, particularmente de observações diretas. Ademais, a análise é ampla, comparando dados de diferentes tipos de fontes por meio do método denominado triangulação.
+
+
+xv A pesquisa que tem como objeto todos os membros de uma população é denominada censo.
+
+
+xvi Gráfico tipo pizza ou pie chart.
+
+
+xvii Box plot.
+
+
+
+xviii Sobre a adequação e o potencial explicativo de estratégias metodológicas específicas vide L. J. CRONBACH (1983, p.22-30) e PATTON (1987, p. 60-69).
+
+
+xix Uma boa auditoria levará em conta as limitações existentes, em outras palavras: "... a qualidade técnica de um estudo ou método pode ser determinada pela comparação entre o que foi realizado e o que era possível realizar." (GAO, 1991, p. 8).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secretário-Geral de Controle Externo
+
+
+
+Paulo Roberto Wiechers Martins
+
+
+
+
+Secretário Adjunto de Planejamento e Procedimentos
+
+
+
+Marcelo Luiz Souza da Eira
+
+
+
+
+Secretário de Fiscalização e Avaliação de Programas de Governo
+
+
+
+Carlos Alberto Sampaio de Freitas
+
+
+
+
+Equipe Técnica
+
+
+
+Dagomar Henriques Lima
+
+
+Fábio Mafra
+
+
+Glória Maria Merola da Costa Bastos (coordenadora)
+
+
+Maria Lúcia de Oliveira Feliciano de Lima
+
+
+
+Não consta revogação expressa
+Aprova o Manual de Auditoria de Natureza Operacional do Tribunal de Contas da União.
+
+

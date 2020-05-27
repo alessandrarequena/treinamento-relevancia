@@ -1,0 +1,1307 @@
+Portaria
+247/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução n.º 140, de 13 de dezembro de 2000, e na Portaria-TCU n.º 176 de 20 de julho de 2003, resolve:
+
+
+
+
+
+Art. 1º Fica aprovada a realização do projeto Portal TCU nos termos da proposta anexa a esta portaria.
+
+
+
+
+
+Art. 2º Fica designado o Técnico de Controle Externo (TCE) - Àrea de Apoio Técnico e Administrativo,  Dalton Hissa Souza, matrícula 3361-8 para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Coordenador de Projeto, FC-3, constante da Resolução n.º 147, de 28 de dezembro de 2001 e alocada à Segecex.
+
+
+
+Parágrafo único  Cabe ao coordenador do projeto a responsabilidade de gerenciar o projeto, exercer as competências previstas no art. 7º da Portaria n.º 267/2001 e observar o disposto no Manual de Gestão de Projetos. 
+
+
+
+
+
+Art. 3º Fica designado o Comitê Consultivo do projeto "Portal TCU" para auxiliar a unidade gestora e a equipe do projeto nas definições estratégicas, nos levantamentos de requisitos, nas especificações e validações das soluções propostas para o sistema.
+
+
+
+
+
+Art. 4º O Comitê Consultivo do projeto Portal TCU previsto no Anexo II da Portaria n.º 127, de 6 de maio de 2002, passa a vigorar com a seguinte composição:
+
+
+
+
+
+I - Secretaria de Planejamento e Gestão – Seplan;
+
+
+
+
+
+II - Secretaria Adjunta de Fiscalização – Adfis;
+
+
+
+
+
+III - Assessoria Parlamentar – Aspar;
+
+
+
+
+
+IV - Assessoria de Comunicação Social – Ascom;
+
+
+
+
+
+V - Assessoria de Relações Internacionais – Arint;
+
+
+
+
+
+VI - Assessoria de Cerimonial e Relações Institucionais – Aceri;
+
+
+
+
+
+VII - Instituto Serzedello Corrêa – ISC;
+
+
+
+
+
+VIII - Secretaria de Tecnologia da Informação – Setec;
+
+
+IX - Secretaria Adjunta de Contas – Adcon;
+
+
+
+
+
+X - Centro de Documentação – Cedoc.
+
+
+
+
+
+Parágrafo único.  O  comitê a que se refere este artigo é presidido pelo titular da Secretaria de Planejamento e Gestão.
+
+
+
+
+
+Art. 5º Fica o titular da Secretaria – Geral de Administração autorizado a proceder, sempre que necessário, à substituição e a nomeação de membros da equipe do projeto.
+
+
+
+
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+PRESIDENTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto Portal TCU e designa seu gestor.
+
+ANEXO ÚNICO
+
+
+1.	Identificação do Gestor do Projeto
+
+2.	Identificação do Projeto
+
+
+1.1.
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestorOrigem da FC
+
+Dalton Hissa Souza
+
+3361-8
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+Segecex
+
+1.2.
+
+E-mail
+
+Daltonhs@tcu.gov.br
+
+1.3. Nome do substituto eventual
+
+Matrícula
+
+1.3.1 E-mail
+
+Cássimo Borges da Costa
+
+2448-1
+
+Cassimobc@tcu.gov.br
+
+1.4.
+
+Local/telefone
+
+Anexo I do Ed. Sede do TCU, sala 049 térreo – tel. 316-7283
+3.	Vinculação Estratégica
+
+
+2.1.
+
+Nome do projeto
+
+PORTAL TCU
+
+2.2.
+
+Período de realização
+
+01 de setembro de 2003 a 30 de novembro de 2004
+
+2.3.
+
+Unidade patrocinadora
+
+Secretaria de Planejamento - Seplan
+
+4.	Problema/Oportunidade
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU
+
+Objetivo estratégicos:
+
+a)
+
+cumprir com tempestividade e qualidade as competências do TCU – o Portal favorecerá a tempestividade das ações de competência do TCU, mediante a facilitação do acesso aos sistemas corporativos e aos conteúdos que serão reestruturados dentro do site;
+
+b)
+
+Fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia – este projeto aprimorará esse canal de comunicação do TCU, por meio da centralização do acesso às informações do Tribunal via Internet, a devida estruturação de conteúdo, a publicação de notícias  produzidas pelo TCU, o desenvolvimento de interfaces gráficas amigáveis e a implantação de ferramenta de busca;
+
+c)
+
+combater a corrupção, o desvio e a fraude na gestão dos recursos públicos federais – o Portal TCU pretende auxiliar o Congresso Nacional, órgãos de controle e cidadãos no acompanhamento da aplicação dos recursos públicos por meio da divulgação de informações e estimular a participação da sociedade.
+
+Estratégias:
+
+a)
+
+Estratégia 5 – Gerenciar a imagem institucional e o diálogo público – vinculado às medidas D (fortalecer a comunidade externa do TCU), E (ampliar o uso da internet para divulgar o TCU) e F (aprimorar a divulgação dos resultados das ações de controle);
+
+b)
+
+Estratégia 7 – Desenvolver política de gestão do conhecimento – vinculado à medida C (tornar disponível no Portal TCU informações e conhecimentos estruturados)
+
+3.2.
+
+Vínculo com Plano de Diretrizes
+
+a)
+
+Diretriz 4 – melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo – o Portal TCU contribui com essa diretriz ao disponibilizar, de forma mais eficiente, as informações utilizadas no controle dos recursos públicos, e ainda, ao facilitar o acesso aos sistemas. Essa perspectiva é compatível com a medida 4.10 (aprimorar a gestão de informações no âmbito do TCU) da diretriz em questão.
+
+c)
+
+Diretriz 7 – fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia – este projeto contribui para o cumprimento da meta de aprimoramento do Portal TCU na Internet (medida 7.1 do Plano de Diretrizes) e aperfeiçoamento e divulgação da página Contas Públicas na internet (medida 7.2 Plano de Diretrizes). A divulgação de informações via Internet, seguindo padrões de qualidade e acessibilidade para portais Web, contribuirá para difundir a imagem institucional do TCU perante o Congresso Nacional, a sociedade e a mídia, ressaltando sua importância na defesa dos interesses dos cidadãos.
+
+3.3.
+
+Vínculo com Plano Diretor (se houver)
+
+ 
+
+Meta 2 do Plano Diretor da Seplan / Medida 2.5 – Desenvolver em conjunto com a Setec o Portal TCU.
+5. ESCOPO DO PROJETO
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+4.1.
+
+Descrição do problema ou da oportunidade (situação)
+
+ 
+
+Os atuais sites do TCU não atendem plenamente às necessidades de seus usuários por apresentarem elementos que dificultam o acesso, o gerenciamento das informações e a atualização dos conteúdos neles disponíveis. Um portal mais eficaz, eficiente e amigável, capaz de facilitar o acesso dos usuários internos aos sistemas e informações institucionais e de atrair a atenção dos usuários externos para as informações veiculadas pelo TCU na Internet deverá aumentar o desempenho dos servidores na execução de suas tarefas e melhorar a imagem do Tribunal perante à sociedade.
+
+4.2.
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+A falta de organização sistemática, projeto gráfico e padrões ergonômicos, bem como a replicação de informações em diferentes sites sem gerenciamento consistente de conteúdo dificultam a obtenção das informações disponíveis nos sites atuais.
+
+b)
+
+A dificuldade de gerenciamento das informações veiculadas nos sites atuais do TCU, a necessidade de conhecimentos específicos de linguagem web, a falta de formalização de responsabilidades sobre o conteúdo publicado e a dificuldade de identificação de conteúdos duplicados geram informações parciais, incorretas, duplicadas e defasadas.
+
+c)
+
+A inexistência de mecanismos de atualização automática de conteúdos e de coleta e tratamento das informações sobre o grau de utilização dos sites atuais impede a gestão eficiente dos recursos web disponíveis.
+
+4.3.
+
+Evolução do quadro (apresentar dados)
+
+ 
+
+Após  constatar a incidência desses problemas, a Setec tomou a iniciativa de propor a criação do “Portal TCU”, a ser desenvolvido, sob supervisão e gerência do TCU, por empresa contratada por meio de processo licitatório.
+
+A empresa CTIS, vencedora de processo licitatório, concluiu, até a suspensão do projeto em meados de 2003, as fases de definições preliminares e de requisitos do portal. O trabalho realizado foi capaz de definir a visão geral, do projeto bem como os requisitos de infra-estrutura, funcionais, suplementares e de documentação que embasaram o “Termo de Referência” enviado ao PNUD para a nova licitação do Portal TCU, desta feita, a se realizar com recursos do BID.
+
+A continuação do Projeto Portal, a partir das fases concluídas em sua versão anterior, exige a definição de macroetapas, em virtude da abrangência do projeto e à necessidade de produtos parciais no decorrer de sua execução.
+
+O planejamento do projeto será de responsabilidade da empresa contratada e contemplará todas as fases do projeto, cronograma, recursos alocados, gerenciamento de riscos e descrição sucinta das atividades e produtos. O gestor do projeto será responsável pelo acompanhamento da execução do contrato, bem como pela participação de servidores e uso de recursos do TCU. À equipe do TCU envolvida no projeto, caberá, entre outras providências, a assimilação da tecnologia utilizada no desenvolvimento do portal, de modo a permitir posteriores evoluções e manutenções.
+
+4.4.
+
+Qual a gravidade da situação, a urgência de solução e a tendência se nada for feito  (GUT)
+
+a)
+
+As conseqüências que podem advir da não-implementação deste projeto vão desde a ineficácia e a ineficiência no acesso às informações do Tribunal, seja não contribuindo para a execução das tarefas dos servidores da Casa, seja desestimulando a consulta de informações por parte do público externo (Congresso Nacional, Entidades Fiscalizadoras Superiores, órgãos da administração pública e sociedade em geral), até a falta de controle sobre essas informações e à insatisfação dos usuários, comprometendo a imagem do Tribunal perante o Congresso e a sociedade.
+5. 2. Meta – indicador – produto - cliente
+
+
+O Portal TCU consistirá em um site na Internet que reunirá todas as informações atualmente disponíveis nos sete sites mantidos pelo Tribunal, conferindo a esse conteúdo um padrão visual único e estrutura de navegação mais eficiente. Os sites em questão são: 
+
+-          Site Internet (http://www.tcu.gov.br) – informações sobre atuação, funcionamento e estrutura do TCU, acesso a publicações, relatórios de atividades, sistemas de jurisprudência e controle de processos;
+
+-          Site Intranet (http://intranet.tcu.gov.br) – acesso a sistemas corporativos e divulgação de informações relevantes ao ambiente interno;
+
+-          Site SisacNet (http://sisac.tcu.gov.br) – Sistema de Registro e Apreciação de Atos de Admissão e Concessão, utilizado por toda a Administração Pública Federal para prestar informações ao TCU sobre atoa de admissão e concessão de pessoal;
+
+-          Site SisContas (http://contas.tcu.gov.br) – Sistema de Coleta Eletrônica de Contas, usado para o recebimento on-line das tomadas e prestações de contas anuais da Administração Pública Federal;
+
+-          Site Contas Públicas (http://www.contaspublicas.gov.br) – coletânea de links para páginas web de órgãos da Administração Pública Federal, desenvolvida pelo TCU em atendimento à Lei nº 8.255;
+
+-          Site da X Assembléia Geral da Olacefs (http://www.olacefs.gov.br) – informações sobre esse evento, organizado pelo TCU em dezembro de 2000; e
+
+-          Site dos Tribunais de Contas da Comunidade dos Países de Língua Portuguesa (http://www.tribunaiscplp.gov.br) – informações sobre a atuação conjunta desses tribunais, promovendo sua integração.
+
+O projeto contemplará o gerenciamento da implementação de design gráfico e estrutura de navegação do novo Portal TCU, migração do conteúdo atual, desenvolvimento de novas aplicações, adequação de aplicações existentes e divulgação do portal para o público interno e externo, a serem realizados por empresa contratada.
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+META
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+5.2.1. Objetivo específico
+
+5.2.2. Quanto
+
+5.2.3. Prazo
+
+a)
+
+Planejamento do projeto
+
+100%
+
+ 
+
+ 
+
+-          100%
+
+30/12/2003
+
+ 
+
+ 
+
+31/01/2003
+
+-     Plano do projeto de infra-estrutura concluído;
+
+-     Plano do projeto Portal TCU concluído;
+
+-     Plano do projeto de Infra-estrutura;
+
+-     Plano do projeto Portal TCU.
+
+-          Setec
+
+ 
+
+-          Comitê Consultivo
+
+ 
+
+ 
+
+ 
+
+b)
+
+Implementação da infra-estrutura do portal.
+
+-          100%
+
+ 
+
+-          11 casos de uso
+
+ 
+
+31/01/2004
+
+-     Oracle Portal instalado;
+
+-     Casos de uso de controle de acesso implementados.
+
+-     Oracle Portal instalado, configurado e customizado.
+
+Setec
+
+c)
+
+Implementação de design gráfico e estrutura de navegação.[1]
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+31/01/2004
+
+ 
+
+19/02/2004
+
+-     Projeto gráfico aprovado;
+
+-     Percentagem da estrutura de navegação revisada e implementada.
+
+-     Projeto gráfico e estrutura de navegação publicados em site.
+
+Comitê Consultivo
+
+d)
+
+Migração de conteúdo público.[2]
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+-          100%
+
+30/04/2003
+
+ 
+
+ 
+
+31/05/2004
+
+ 
+
+ 
+
+- Percentagem de testes de conteúdo público concluído;
+
+-     Levantamento de conteúdo público revisado e aprovado;
+
+-     Percentagem de conteúdo público migrado;
+
+-     Percentagem de gestores de conteúdo público treinados na ferramenta de gerência de conteúdo;
+
+-     Percentagem de processos de trabalho de atualização definidos e documentados.
+
+-     Teste de  conteúdo público;
+
+ 
+
+-     Conteúdo público divulgado em site;
+
+ 
+
+ 
+
+-     Treinamento dos gestores de conteúdo público;
+
+ 
+
+ 
+
+-     Documentação de processos de trabalho de atualização;
+
+-     Portaria de formalização dos gestores de conteúdo;
+
+-      
+
+Gestores de conteúdo público
+
+e)
+
+Desenvolvimento e adequação de aplicações de conteúdo público
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+30/04/2003
+
+ 
+
+ 
+
+ 
+
+31/05/2004
+
+ 
+
+ 
+
+ 
+
+-     Percentagem de testes de aplicações de conteúdo público concluído;
+
+ 
+
+-     Percentagem de aplicações de conteúdo público levantadas, implementadas, homologadas e documentadas.
+
+-     Teste de aplicações de conteúdo público;
+
+ 
+
+-     Novos conteúdos públicos e aplicações  já existentes adequadas.
+
+-          Comitê Consultivo
+
+f)
+
+Implantação do conteúdo público e aplicações no ambiente de homologação
+
+-          100%
+
+31/05/2004
+
+-     Percentagem de conteúdo público e aplicações disponíveis em ambiente de homologação
+
+-     Conteúdo público e aplicações no ambiente de homologação
+
+-          Comitê Consultivo
+
+g)
+
+Divulgação do portal para o público externo
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+-          100%
+
+30/04/2004
+
+ 
+
+31/05/2004
+
+ 
+
+ 
+
+31/05/2003
+
+ 
+
+31/05/2003
+
+ 
+
+-     Plano de divulgação aprovado;
+
+-     Percentagem de cadastros em sites de busca;
+
+-     Percentagem de produtos para divulgação gerados.
+
+-     Evento realizado.
+
+-     Plano de divulgação;
+
+-     Cadastro do Portal TCU nos sites de busca;
+
+-     Produtos de divulgação.
+
+ 
+
+-      Evento de  divulgação
+
+ 
+
+-          Comitê Consultivo
+
+h)
+
+Levantamento do conteúdo restrito
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+31/08/2004
+
+-     Percentagem de conteúdos restritos identificados e organizados;[3]
+
+-     Estratégia de migração aprovada.
+
+-     Documento de levantamento do conteúdo restrito;
+
+-     Documento de estrutura do documento restrito;
+
+-     Plano de migração do conteúdo restrito
+
+ 
+
+-          Comitê Consultivo
+
+i)
+
+Migração de conteúdo restrito
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+31/08/2004
+
+-     Percentagem de conteúdo restrito migrado;
+
+-     Percentagem de gestores de conteúdo restrito treinados na ferramenta de gerência de conteúdo.
+
+-     Conteúdo restrito disponível em site;
+
+-     Treinamento dos gestores de conteúdo restrito
+
+ 
+
+-          Gestores de conteúdo restrito
+
+j)
+
+Desenvolvimento e adequação de aplicações de conteúdo restrito
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+-          100%
+
+31/07/2004
+
+ 
+
+ 
+
+31/08/2004
+
+ 
+
+ 
+
+-     Percentagem de testes de aplicações de conteúdo restrito concluída;
+
+-     Percentagem de aplicações de conteúdo restrito levantadas;
+
+-     Percentagem de aplicações de conteúdo restrito redesenvolvidas ou adaptadas;
+
+-     Percentagem de aplicações de conteúdo restrito aprovadas.
+
+-     Teste de aplicações de conteúdo restrito;
+
+ 
+
+-     Aplicações de conteúdo restrito novas, redensenvolvidas ou adaptadas disponíveis em site.
+
+-          Seplan
+
+-          Setec
+
+-          Gestores de conteúdo restrito
+
+k)
+
+Implantação do sistema no ambiente de homologação.
+
+-          100%
+
+ 
+
+30/09/2004
+
+-     Portal implantado no ambiente de homologação.
+
+-     Portal disponível para homologação.
+
+-          Gestores de conteúdo restrito
+
+-          Setec
+
+l)
+
+Definição de processos de trabalho de gestão do portal
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+30/09/2004
+
+-     Percentagem de processos de trabalho de aferição de satisfação de usuários implementados
+
+-     Percentagem de processos de trabalho para definição e aferição de níveis de serviço implementados;[4]
+
+-     Percentagem de processos de trabalho de produção do portal implementados;
+
+-     Percentagem de scripts de atendimento implementados
+
+-     Processos de trabalho definidos.
+
+-          Seplan
+
+-          Setec
+
+-          Gestores de conteúdo restrito
+
+m)
+
+Normatização e elaboração de manuais
+
+-          100%
+
+ 
+
+ 
+
+-          100%
+
+ 
+
+-          100%
+
+30/11/2004
+
+-     Percentagem de normas de produção do portal definidas;
+
+-     Percentagem de normas de evolução do portal definidas;
+
+-     Percentagem de Manuais da unidade gestora, dos gestores de conteúdo e do usuário publicados.
+
+-     Normas e manuais publicados.
+
+-          Comitê Consultivo
+
+n)
+
+Treinamento da unidade gestora, dos gestores de conteúdo e dos usuários.
+
+2 servidores por unidade gestora de conteúdo
+
+30/11/2004
+
+-     Número de servidores por unidade gestora de conteúdo treinados.
+
+-     Treinamento das novas ferramentas de manutenção, publicação e acesso.
+
+-          Gestores de conteúdo
+
+n)
+
+Homologação final
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+-          100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+30/11/2004
+
+-     Portal implantado e aprovado;
+
+-     Percentagem de  produtos e documentos homologados;
+
+-     Transferência de tecnologia completada;
+
+-     Entrega dos registros de ocorrências de problemas detectados durante a homologação final e as respectivas providências tomadas.
+
+-     Portal TCU implantado, documentado e homologado.
+
+-          Seplan
+
+-          Setec
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+Planejamento das atividades;
+
+b)
+
+Implementação da infra-estrutura e conteúdo público;
+
+c)
+
+Divulgação do portal;
+
+d)
+
+Implementação do conteúdo restrito;
+
+e)
+
+Definição do processo de trabalho;
+
+f)
+
+Documentação de processos, normas e manuais;
+
+g)
+
+Treinamento;
+
+h)
+
+Homologação final.
+6.	Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+Remodelar sistemas corporativos existentes que tenham interação com o Portal TCU;
+
+b)
+
+Levantar conteúdo público (atividade concluída na versão anterior do projeto);
+
+c)
+
+Desenvolvimento de aplicações de conteúdo restrito das unidades.
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+
+a)
+
+Assessoria de Cerimonial e Relações Institucionais – Aceri: gestora e provedora de conteúdo institucional; 
+
+b)
+
+Assessoria de Comunicação Social – Ascom: gestora e provedora dos conteúdos referentes à comunicação institucional ;
+
+c)
+
+Assessoria de Relações Internacionais – Arint: gestora e provedora de conteúdo referente às relações internacionais do TCU;
+
+d)
+
+Assessoria Parlamentar – Aspar: gestora e provedora de conteúdo relacionado  ao Congresso Nacional
+
+e)
+
+Centro de Documentação – Cedoc: gestor e provedor dos conteúdos referentes à área de documentação e pesquisa;
+
+f)
+
+Comitê Consultivo: instituído pela portaria 127/2002 PRES, para auxiliar a unidade gestora e a equipe do projeto nas definições estratégicas, nos levantamentos de requisitos, nas especificações e validações das soluções propostas.
+
+g)
+
+Empresa a ser contratada para o desenvolvimento do Portal;
+
+h)
+
+Intituto Serzedello Corrêa – Isc: gestor e provedor de conteúdo educacional.
+
+i)
+
+Secretaria Adjunta de Contas – Adcon: gestora e provedora dos conteúdos referentes aos processos de contas e apreciação de atos;
+
+j)
+
+Secretaria Adjunta de Fiscalização – Adfis: gestora e provedora dos conteúdos referentes às ações de fiscalização;
+
+k)
+
+Secretaria de Planejamento – Seplan: gestora do projeto e provedora e gestora de conteúdo;
+
+l)
+
+Secretaria de Tecnologia – Setec: provedora de infra-estrutura de tecnologia de informação e responsável pela orientação e apoio ao desenvolvimento e readequações de sistemas acessados via portal;
+
+m)
+
+Usuários internos e externos: fornecedores de feedback dos projetos gráfico e estrutural.
+8.	Fatores que contribuem para o êxito do projeto
+
+
+7.1 
+
+Risco
+
+7.2.  
+
+Impacto
+
+7.3.
+
+Probabilidade de ocorrer
+
+7.4. 
+
+(E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.5.
+
+Responsável pela ação
+
+a)
+
+Falta de interesse ou comprometimento de membros da equipe deste projeto e/ou das unidades do TCU em colaborar com o projeto.
+
+Alto
+
+Baixo
+
+(E) Tentar engajar não só os membros da equipe, mas toda a comunidade de usuários neste projeto mediante contato pessoal, e-mails, memorandos e ofícios solicitando apoio, sugestões e a participação de todos.
+
+Dalton
+
+(E) Agendamento antecipado de todos os compromissos.
+
+(M) Divulgar o andamento do projeto.
+
+(R) Informar a todas as unidades as decisões e prazos do projeto.
+
+b)
+
+Não-cumprimento dos prazos contratuais por parte da empresa contratada para elaboração do portal do TCU.
+
+Alto
+
+Médio
+
+(E) Exigir que a fornecedora supra a equipe com informações necessárias para o devido gerenciamento do projeto.
+
+Dalton, Seplan e Setec
+
+(E) Realizar reuniões periódicas entre equipe TCU e equipe da empresa contratada, para verificar marcos do projeto.
+
+(E) Instalação de pelo menos parte da equipe da contratada no ambiente TCU.
+
+(R) Tomar providências necessárias ao restabelecimento do fornecimento junto à empresa contratada e, se necessário, junto à Secretaria de Material, Patrimônio e Comunicação Administrativa (Semat).
+
+c)
+
+Número insuficiente de servidores do TCU responsáveis pelo acompanhamento e transferência tecnológica do projeto.
+
+Alto
+
+Alto
+
+(E) Solicitar às unidades envolvidas a designação de servidores para o projeto.
+
+Dalton.
+
+d)
+
+Surgimento de novas prioridades que exijam adequação de recursos na Setec impactando  no andamento do projeto.
+
+Alto
+
+Alto
+
+(E) Subsidiar a Secretaria de Planejamento com informações para negociação com as diversas instâncias envolvidas.
+
+Dalton, Cássimo
+
+ 
+9.	Projetos predecessores
+
+
+a)
+
+patrocínio do Presidente e interesse da alta direção da Casa pelos resultados deste projeto fornecendo o apoio necessário para sua realização;
+
+b)
+
+motivação da equipe para a realização do projeto;
+
+c)
+
+comprometimento da gerência da Seplan, Segecex e Setec, colaborando com a equipe deste projeto e oferecendo todo o apoio logístico e técnico necessários;
+
+d)
+
+financiamento do projeto com recursos do Banco Interamericano de Desenvolvimento por meio da vinculação com o projeto “Apoio à modernização do TCU – BID”.
+10. Projetos conexos
+
+
+a)
+
+Apesar de não terem se constituído como projetos formais no TCU, os sete sites desenvolvidos nos últimos cinco anos pela Setec, podem ser considerados como predecessores;
+
+b)
+
+Projeto Portal TCU: suspenso após a conclusão das fases iniciais de levantamento.
+
+11. Projetos sucessores
+
+
+a)
+
+Projeto “Apoio à modernização do TCU – BID”: estrategicamente e estruturalmente vinculados, os dois projetos compartilham o objetivo de fortalecer as atividades de fiscalização e controle do TCU difundindo suas ações entre congressistas, gestores e cidadãos.
+
+
+
+12.	Custos estimados
+
+
+ 
+
+Projeto de implantação de ferramentas de gestão de conhecimento no Portal TCU (árvore de conhecimento, comunidade de aprendizagem).
+
+
+Obs.: (comentar sobre base de cálculo e outros esclarecimentos necessários)
+13.	Outros recursos necessários
+
+
+12.1. Recurso
+
+12.2. Valor estimado
+
+12.3. Prazo
+
+a)
+
+Banco Interamericano de Desenvolvimento – Projeto de Apoio à Modernização do TCU
+
+R$ 200.000,00
+
+30/11/2004
+
+b)
+
+Contratação de estagiário de nível superior
+
+R$ 5.148,00
+
+30/11/2004
+
+Total de custos estimados
+
+R$ 205.148,00
+
+ 
+14.	Equipe do projeto
+
+
+13.1. Recurso
+
+13.2. Fornecedor
+
+a)
+
+Espaço físico para acomodar as equipes do TCU e  empresa contratada
+
+SEGEDAM
+
+b)
+
+Microcomputadores, impressoras e estrutura de rede.
+
+SETEC
+
+c)
+
+Mobiliário (mesas, cadeiras, armários, gaveteiros).
+
+SEMAT
+
+d)
+
+2 ramais telefônicos
+
+SESEG
+15.	Considerações finais (fundamentação normativa Portaria 176/2003)
+
+
+14.1. Nome
+
+14.2. Matrícula
+
+14.3. Lotação
+
+14.4. Período
+
+14.5. Dedicação integral/ parcial
+
+a)
+
+Dalton Hissa Souza.
+
+3361-8
+
+Setec
+
+A partir de 01/09/2003
+
+Integral
+
+b)
+
+Cássimo Borges da Costa.
+
+2448-1
+
+Setec
+
+A partir de 01/09/2003
+
+Integral
+
+c)
+
+Sônia Luzia Caldeira Del Fiaco
+
+ 
+
+3683-8
+
+Cedoc
+
+A partir de 17/01/2004
+
+Parcial
+
+d)
+
+Um estagiário de curso superior de Administração de Empresas.
+
+ 
+
+ 
+
+A  partir de 01/12/2003
+
+Integral
+
+16.	Finalização
+
+
+15.1.
+
+O que caracteriza o trabalho como projeto
+
+Este trabalho é caracterizado como projeto, por ser um empreendimento planejado, com começo e término previamente definidos, visando à solução de problema específico e à oferta de produto singular padronizado, de uso interno e externo, para gerenciamento e disseminação de informações geradas e mantidas pelo Tribunal. Este projeto está vinculado ao Plano Estratégico do Tribunal (PET) e ao Plano de Diretrizes para 2003, e atende a itens do art. 4º da Portaria 176/2003, ao realizar:
+
+a)
+
+I - desenvolvimento de soluções que resultam na melhoria de gestão no âmbito interno do Tribunal;
+
+b)
+
+III - estudos que visem à definição de metodologia ou sistemática de trabalho;
+
+c)
+
+IV - atendimento de demanda específica que comporte grande esforço de planejamento e coordenação para gerar resultado dentro de prazo estabelecido.
+
+15.2.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador
+
+A indicação do gestor deste projeto como coordenador atende ao disposto nos itens IV a VIII do art. 7º da Portaria 176/2003:
+
+a)
+
+IV - período mínimo de três meses;
+
+b)
+
+V - justificada relevância da matéria;
+
+c)
+
+VI - produto de importância estratégica para o alcance de metas institucionais;
+
+d)
+
+VII - desenvolvimento de nova tecnologia ou metodologia com impacto geral nas atividades da Secretaria do Tribunal, especialmente da área de controle externo.
+
+
+
+
+

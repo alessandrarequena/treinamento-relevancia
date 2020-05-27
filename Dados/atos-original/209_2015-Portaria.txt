@@ -1,0 +1,830 @@
+Portaria
+209/2015
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe é conferida pelo art. 28, inciso XXXIV, do Regimento Interno do TCU; tendo em vista o disposto no art. 40, § 1º, inciso I, da Lei nº 13.080, de 2 de janeiro de 2015 (LDO), combinado com o art. 4º, inciso I, alínea "a", inciso VI, alínea "a", inciso XIX, alínea "b", item "2" e § 1º da Lei nº 13.115, de 20 de abril 2015 (LOA); e considerando as disposições contidas na Portaria SOF nº 15, de 28 de abril de 2015, resolve:
+
+
+Art. 1º Fica aberto, aos Orçamentos Fiscal e da Seguridade Social, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 77.009.337,00 (setenta e sete milhões, nove mil, trezentos e trinta e sete reais) para atender à programação exposta no Anexo I desta Portaria.
+
+
+Art. 2º Os créditos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial de dotações orçamentárias constante do Anexo II desta Portaria. 
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+
+
+
+ANEXO I DA PORTARIA-TCU Nº 209, DE 22 DE JUNHO DE 2015.
+
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+
+Não consta revogação expressa
+Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 77.009.337,00 (setenta e sete milhões, nove mil, trezentos e trinta e sete reais) para reforço de dotações constantes da lei orçamentária vigente.
+
+ANEXO I
+
+
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0089
+
+Previdência de Inativos e Pensionistas da União
+
+50.000.000
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 272
+
+0089 0181
+
+Pagamento de Aposentadorias e Pensões - Servidores Civis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+50.000.000
+
+09 272
+
+0089  0181 0001
+
+Pagamento de Aposentadorias e Pensões - Servidores Civis - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+50.000.000
+
+ 
+
+ 
+
+ 
+
+S
+
+1
+
+1
+
+90
+
+0
+
+100
+
+50.000.000
+
+0550
+
+Controle Externo
+
+26.996.847
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 20TP
+
+Pagamento de Pessoal Ativo da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19.627.430
+
+01 122
+
+0550  20TP 0001
+
+Pagamento de Pessoal Ativo da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19.627.430
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+19.627.430
+
+ 
+
+ 
+
+Projetos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 12QF
+
+Construção da Secretaria de Controle Externo no Estado de Alagoas - SECEX/AL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60.000
+
+01 122
+
+0550  12QF 1795
+
+Construção da Secretaria de Controle Externo no Estado de Alagoas - SECEX/AL - No Município de Maceió - AL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60.000
+
+ 
+
+ 
+
+ 
+
+F
+
+4
+
+2
+
+90
+
+0
+
+100
+
+60.000
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 09HB
+
+Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.309.417
+
+01 122
+
+0550  09HB 0001
+
+Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.309.417
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+0
+
+91
+
+0
+
+100
+
+7.309.417
+
+0910
+
+Operações Especiais: Gestão da Participação em Organismos e Entidades Nacionais e Internacionais
+
+12.490
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28 846
+
+0910 00OL
+
+Contribuições e Anuidades a Organismos e Entidades Nacionais e Internacionais sem Exigência de Programação Específica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.490
+
+28 846
+
+0910  00OL 0002
+
+Contribuições e Anuidades a Organismos e Entidades Nacionais e Internacionais sem Exigência de Programação Específica - No Exterior
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.490
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+2
+
+80
+
+0
+
+100
+
+12.490
+
+TOTAL – FISCAL
+
+27.009.337
+
+TOTAL – SEGURIDADE
+
+50.000.000
+
+TOTAL - GERAL
+
+77.009.337
+
+
+
+
+
+
+
+ANEXO II DA PORTARIA-TCU Nº 209, DE 22 DE JUNHO DE 2015.
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO II
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (CANCELAMENTO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+72.490
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 032
+
+0550 4018
+
+Fiscalização da Aplicação dos Recursos Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+72.490
+
+01 032
+
+0550  4018 0001
+
+Fiscalização da Aplicação dos Recursos Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+72.490
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+2
+
+90
+
+0
+
+100
+
+12.490
+
+ 
+
+ 
+
+ 
+
+F
+
+4
+
+2
+
+90
+
+0
+
+100
+
+60.000
+
+0909
+
+Operações Especiais: Outros Encargos Especiais
+
+76.936.847
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28 846
+
+0909 00H7
+
+Contribuição da União para o Custeio do Regime de Previdência dos Servidores Públicos Federais decorrente do Provimento de Cargos e Funções e Reestruturação de Cargos e Carreiras e Revisão de Remunerações
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.309.417
+
+28 846
+
+0909  00H7 0001
+
+Contribuição da União para o Custeio do Regime de Previdência dos Servidores Públicos Federais decorrente do Provimento de Cargos e Funções e Reestruturação de Cargos e Carreiras e Revisão de Remunerações - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.309.417
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+0
+
+91
+
+0
+
+100
+
+7.309.417
+
+28 846
+
+0909 0C04
+
+Provimento de Cargos e Funções e Reestruturação de Cargos, Carreiras e Revisão de Remunerações
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+69.627.430
+
+28 846
+
+0909  0C04 0001
+
+Provimento de Cargos e Funções e Reestruturação de Cargos, Carreiras e Revisão de Remunerações - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+69.627.430
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+69.627.430
+
+TOTAL – FISCAL
+
+77.009.337
+
+TOTAL – SEGURIDADE
+
+0
+
+TOTAL - GERAL
+
+77.009.337
+
+
+   
+
+ 
+
+
+

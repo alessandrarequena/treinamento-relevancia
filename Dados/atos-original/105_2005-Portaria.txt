@@ -1,0 +1,1014 @@
+Portaria
+105/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução-TCU nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do projeto de Implementação do Processo de Educação a Distância - Pégaso nos termos da proposta anexa a esta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo PEDRO KOSHINO, matrícula 2746-4, para exercer, relativamente ao projeto de que trata esta Portaria, a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada ao Instituto Serzedello Corrêa.
+
+
+Parágrafo único. Cabe ao gestor do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário, à substituição ou à nomeação do gestor do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+(Publicada no DOU de 27/4/2005, Seção 2, pág. 131)
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestor
+
+Origem da FC
+
+Pedro Koshino
+
+2746-4
+
+ 
+
+Gerente
+
+x
+
+Coordenador
+
+ 
+
+Líder
+
+FC-3
+
+Nome do substituto eventual
+
+Matrícula
+
+Violeta Maria dos Santos Galvão
+
+2178-4
+
+Local/telefone
+
+ISC – Sala 310 – 316 5836
+
+
+2. Identificação do projeto
+
+
+Nome do projeto
+
+Pégaso
+
+Período de realização
+
+Unidade patrocinadora
+
+12/04/2005 a 01/12/2006 
+
+ISC
+
+
+3. Vinculação estratégica
+
+
+Vínculo principal com Plano Estratégico do TCU (objetivo e estratégia) – Portaria – TCU nº 59, de 20 de janeiro de 2003.
+
+a)
+
+Objetivo estratégico 1: Cumprir com tempestividade e qualidade as competências do TCU
+
+Estratégia 1: Ampliar e aprimorar o uso de tecnologia da informação
+
+Estratégia 9: Aperfeiçoar os processos de trabalho do TCU
+
+b)
+
+Objetivo estratégico 2: Fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia.
+
+Estratégia 4: Fortalecer as ações de controle voltadas para melhoria do desempenho da gestão pública
+
+c)
+
+Objetivo estratégico 5: Aprimorar política interna de gestão de pessoas.
+
+Estratégia 7: Desenvolver política de gestão do conhecimento
+
+Estratégia 10: Assegurar elevado nível de satisfação dos servidores do TCU
+
+Vínculo principal com Plano de Diretrizes - se houver (diretriz e medida) – Portaria – TCU nº 28, de 14 de janeiro de 2005.
+
+ 
+
+Diretriz 8 Aprimorar a gestão de pessoas e equipes no Tribunal
+
+Medida 8.3: Desenvolver as competências gerenciais e profissionais críticas dos servidores da sede e nos estados
+
+Medida 8.12: Aprimorar capacitação específica para os servidores sobre dificuldades práticas enfrentadas por unidades do TCU
+
+
+
+
+
+4. Problema / oportunidade
+
+
+Descrição do problema ou da oportunidade 
+
+ 
+
+Problemas: 
+
+a)
+
+Baixa oferta de ações de aprendizagem para servidores, especialmente para os lotados nas Secretarias dos  estados;
+
+b)
+
+Baixo compartilhamento do conhecimento produzido na atividade de controle externo;
+
+c)
+
+Ausência de base de dados sobre ações de aprendizagem que disponibilize informações gerenciais;
+
+d)
+
+Em decorrência de aposentadorias e exonerações há uma perda de conhecimento pelo Tribunal, uma vez que não existe um sistema de armazenamento das ações de aprendizagem;
+
+f)
+
+O ISC não possui um sistema informatizado de gerenciamento dos processos de trabalho concernente aos eventos de educação, comprometendo suas eficiência e eficácia;
+
+g)
+
+O ISC não possui um modelo de processo de execução e gestão de educação a distância;
+
+h)
+
+Existe a dificuldade de se atualizar os materiais do curso. 
+
+ 
+
+Oportunidades:
+
+a)
+
+Ampliar as possibilidades de treinamento e de desenvolvimento dos servidores do TCU, principalmente os das Secretarias nos estados;
+
+b)
+
+Estender as ações de aprendizagem do TCU para as gestores públicos em geral;
+
+c)
+
+Disponibilizar conhecimentos relacionados ao negócio e propiciar a aprendizagem colaborativa;
+
+e)
+
+Ampliar as competências profissionais dos servidores do TCU na medida em que compartilham seus conhecimentos nas atividades dos cursos e atuam como autores de conteúdos para EaD e em comitês gestores de conteúdos; 
+
+f)
+
+Complementar ações de aprendizagem presenciais com uso de recursos de EaD;
+
+
+
+
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+Existe discrepância entre as ofertas de eventos de educação para os servidores da sede e dos estados, de acordo com os dados apresentados a seguir:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Os índices de satisfação nas pesquisas de 2003 e 2004, quanto à capacitação e ao aprimoramento profissional dos servidores, apesar de crescentes, ainda representam um quadro de maior satisfação dos servidores da sede em relação aos dos estados.
+
+ 
+
+                                 2003    2004     
+
+Satisfação geral            53        58
+
+Satisfação – sede          63       65
+
+Satisfação – estados      37       45
+
+Nos diversos Encontros de Dirigentes a maior reclamação em relação ao ISC tem sido a inexistência de ofertas de capacitação para os Estados.
+
+A não implementação de EaD no TCU manterá o problema de atendimento de treinamento de servidores das regionais e a não disponibilização de novas tecnologias de aprendizado.
+
+O sucesso da Comunidade de Práticas criadas para atender as SA´s demonstra que ferramentas  de EaD, podem ter largo uso no TCU.
+
+O tutorial SISAC, desenvolvido pelo ISC em parceria com a Sefip, para o uso pelos gestores públicos é uma demonstração da potencialidade da EaD na explicitação do conhecimento detido pelo corpo técnico do TCU.
+
+A entrada de novos servidores, em torno de 100 por ano, irá gerar aumento progressivo da demanda a eventos educacionais, agravando o quadro.
+
+A implantação da solução de videoconferência irá requerer a definição de processos de trabalho para uso desse solução como uma das ferramentas de EaD.
+
+
+
+Tipo de evento
+2002
+Sede
+Estados
+Treinamentos realizados ou promovidos pelo ISC
+1755
+1058
+Palestras e Seminários
+581
+56
+Capacitação para Analistas e Técnicos na área de controle externo
+63
+5
+Capacitação para Analistas e Técnicos na área de apoio administrativo
+170
+0
+2004
+Treinamento em competências básicas técnicas
+525
+180
+Capacitação na atividade de controle externo
+355
+593
+Capacitação em Gestão
+380
+234
+ 
+Observação
+: a sistemática de aferição entre os anos 2002 e 2004 são diferentes, e o ISC não dispõe de uma posição fechada em relação ao ano de 2003. 
+
+
+5. Escopo do projeto
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+Implementar o processo de  educação a distância – EaD, suportado por um sistema de gerenciamento de aprendizagem (Learning Management System – LMS).
+
+
+5.2. Meta – indicador – produto – cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Elaborar  processo de EaD  no TCU.
+
+1
+
+02/12/2005
+
+Processo elaborado
+
+Documento descrevendo o processo de EaD no TCU. 
+
+ISC
+
+b)
+
+Promover cursos de auditoria de natureza operacional (Anop) como testes piloto de uso de EaD. 
+
+3 cursos
+
+02/12/2005
+
+Número de cursos realizados 
+
+Cursos realizados
+
+ISC/Segecex
+
+c)
+
+Promover cursos a distância no TCU ofertados por terceiros.
+
+4 cursos
+
+02/12/2005
+
+Número de cursos realizados
+
+Cursos realizados
+
+TCU
+
+d)
+
+Contratar e implantar sistema de gerenciamento de aprendizagem – LMS.
+
+1
+
+17/03/2006
+
+Sistema implantado.
+
+Sistema implantado
+
+Setec e ISC
+
+e)
+
+Treinar servidores na  gestão do sistema de gerenciamento de aprendizagem – LMS.
+
+20 servidores
+
+31/03/2006
+
+ 
+
+Número de pessoas Treinadas
+
+Servidores com competência em utilizar o LMS.
+
+ISC
+
+f)
+
+Transpor cursos presenciais para a modalidade a distância
+
+3 cursos (90 horas)
+
+30/06/2006
+
+Hora de curso transpor-tados
+
+Cursos transportados
+
+ISC
+
+g)
+
+Implantar processo de educação a distância 
+
+1
+
+30/06/2006
+
+Processo implantado
+
+processo de trabalho implantado
+
+ISC
+
+h)
+
+Desenvolver e executar a campanha de disseminação de uso da EaD
+
+1
+
+29/09/2006
+
+Quantidade de pessoas utilizando EaD
+
+Campanha realizada
+
+TCU
+
+i)
+
+Realizar cursos na modalidade EaD com o processo desenvolvido
+
+3 cursos
+
+11/11/2006
+
+Número de cursos realizados
+
+Cursos realizados 
+
+TCU
+
+j) 
+
+Capacitar servidores da equipe gestora do projeto
+
+8 servidores
+
+11/11/2006
+
+Número de pessoas capacitadas
+
+Pessoas capacitadas
+
+ISC
+
+k)
+
+Avaliar o processo de EaD desenvolvido 
+
+1
+
+01/12/2006
+
+Índice de satisfação dos cursos realizados.
+
+Relatório de avaliação do processo EaD
+
+TCU
+
+
+5.3. Macroetapas (primeiro nível de estrutura analítica do projeto – EAP)
+
+
+a)
+
+ Elaboração do processos de EAD
+
+b)
+
+Contratação e implantação do sistema de gerenciamento de aprendizagem - LMS 
+
+c)
+
+Treinamento das equipes de gestão no LMS contratado
+
+d)
+
+ Implantação do processo de EaD.
+
+e)
+
+Transposição/desenvolvimento de cursos presenciais para a modalidade a distância. 
+
+f)
+
+Realização de cursos no TCU ofertados por terceiros.
+
+g)
+
+Realização do curso de auditoria de natureza operacional (ANOp)
+
+h)
+
+Desenvolvimento e disseminação da campanha de uso da EaD
+
+i)
+
+Realização de cursos transpostos/desenvolvidos para a modalidade a distância
+
+j)
+
+Capacitação da equipe gestora do projeto
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+O projeto não prevê a oferta de eventos de educação na modalidade EaD em idiomas estrangeiros;
+
+b)
+
+O projeto não realizará pesquisa de necessidades educacionais;
+
+c)
+
+O projeto não irá modelar nem implantar os processos do ISC na ferramenta LMS que não sejam pertinentes à modalidade EaD;
+
+d)
+
+O projeto não proverá conteudistas para os cursos a serem promovidos, utilizando as parcerias para suprimir esse requisito.
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida
+
+(registrar  patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos - humanos e  físicos)
+
+Item negociado com as partes envolvidas internas ou
+
+item a negociar com as partes envolvidas externas
+
+a)
+
+ISC
+
+Principal patrocinador do Projeto. 
+
+Provedor da infra-estrutura necessária ao Projeto.
+
+Orientação estratégica da função EaD.
+
+b)
+
+Enicef
+
+Avaliação e implementação do processo de EaD.
+
+Participação na elaboração do processo de EaD.
+
+Participação no treinamento de uso do LMS.
+
+c)
+
+Setec
+
+Suporte tecnológico e participação no processo licitatório para contratação e instalação do LMS.
+
+Participação em processo de contratação que envolva recurso de TI mediante prévia negociação.
+
+Disponibilização de infra-estrutura necessária para a implantação e uso do LMS.
+
+d)
+
+Segecex
+
+Alocação de autores e especialistas em conteúdos
+
+e)
+
+Projeto Atena
+
+Apoio na elaboração do processo de EaD sob a visão de gestão por competência.
+
+f)
+
+Projeto BID
+
+Contratação e pagamentos de consultores para transposição dos cursos e capacitação da equipe até o dia 7/06/2006.
+
+g)
+
+Cedoc
+
+Apoio para registro de direitos autorais dos cursos do TCU
+
+h)
+
+Conjur
+
+Apoio para registro de direitos autorais dos cursos do TCU
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) evitar ocorrência do risco
+
+(M) mitigar ocorrência do risco
+
+(R) reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+a)
+
+Falta de recursos para contratação de soluções EaD
+
+A
+
+B
+
+E – Apresentar projeto bem estruturado mostrando as vantagens do investimento  
+
+Diretor do ISC; Gestor do Projeto.
+
+b)
+
+Dificuldade de alocação de analistas da área de TI para as atividades concernentes ao projeto.
+
+A
+
+A
+
+E – terceirizar serviços de TI;
+
+E - negociar antecipadamente as tarefas a serem realizadas pela Setec e suas prioridades;
+
+M – alocar técnicos do ISC com experiência em informática;
+
+M - implantar processos de trabalho para os serviços a serem atendidos pela unidade de TI 
+
+Diretor do ISC; Gestor do Projeto.
+
+c)
+
+Ausência de analistas de TI alocados na implantação do LMS
+
+A
+
+B
+
+E – contratação de consultoria externa;
+
+M – alocação de servidores do ISC com conhecimento em TI.
+
+Diretora da 
+
+Diplad
+
+d)
+
+Baixa receptividade a modalidade de educação a distância
+
+A
+
+B
+
+R – Efetuar constantes divulgações sobre as vantagens e resultados do uso de EaD 
+
+Gestor do projeto
+
+e)
+
+Atraso decorrente do processo de licitação
+
+B
+
+M
+
+M - Acompanhar o trabalho de licitação junto a Setec e a CPL
+
+M - Responder rapidamente aos questionamentos, impugnações e recursos
+
+Gestor do projeto
+
+ISC
+
+CPL
+
+f)
+
+Não participação de autores/conteudistas internos  no desenvolvimento dos cursos 
+
+A
+
+M
+
+R – contratar conteudistas externos; 
+
+M - Negociar antecipadamente a participação de autores de conteúdo
+
+Diretora da Diplad
+
+Gestor do Projeto
+
+
+8. Relação com outros projetos
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+ 
+
+Estruturação da Educação a Distância no TCU 
+
+Atena – Gestão de Competências
+
+Implantação dos demais processos de trabalho do ISC no LMS.
+
+ 
+
+Informatização da Gestão da Educação Corporativa no TCU
+
+Portal do TCU
+
+ 
+
+
+9. Custos estimados
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Contratação de LMS temporário para hospedar do curso ANOp 
+
+R$ 80.000,00
+
+31/05/2005
+
+b)
+
+Transposição/Desenvolvimento de conteúdos para EaD
+
+R$210.000,00
+
+30/07/2005
+
+c)
+
+Contratação do LMS ( custos previstos para 4 anos de suporte)
+
+R$500.000.00
+
+10/10/2005
+
+d)
+
+Capacitação da equipe do projeto
+
+R$166.000,00
+
+01/08/2005
+
+Total de custos estimados
+
+R$956.000,00
+
+ 
+
+
+Quanto ao item (b), a tarefa Transposição/Desenvolvimento de conteúdo para EaD possui R$870.500,00 de orçamento para converter 370 horas de conteúdo. Entretanto, o presente Projeto irá, como atividade piloto, converter 90 horas de conteúdo.
+
+
+10. Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+Tutores (4 estagiários)
+
+Segedam
+
+b) 
+
+Web-designer (terceirizado ou estagiário)
+
+Segedam
+
+c)
+
+Sala
+
+ISC
+
+d)
+
+9 mesas 
+
+ISC
+
+e)
+
+9 computadores estações de trabalho ligados à rede TCU
+
+ISC
+
+f)
+
+1 microcomputador a ser usado como servidor ligado à rede TCU para realização de testes em ferramentas concernentes à EaD, tais como LMS e programas de autoria.
+
+Setec
+
+
+
+
+
+11. Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+a)
+
+Pedro Koshino
+
+2746-4
+
+Setec
+
+12/04/2005 a 01/12/2006
+
+integral
+
+b)
+
+Violeta Maria dos Santos Galvão
+
+2178-4
+
+Diplad
+
+12/04/2005 a 01/12/2006
+
+integral
+
+c)
+
+Francisco Alencar
+
+1727-2 
+
+ 
+
+Diplad
+
+12/04/2005 a 01/12/2006
+
+integral
+
+d)
+
+Ana Carolina Dytz Fagundes
+
+5846-7
+
+Diplad
+
+12/04/2005 a 01/12/2006
+
+Integral
+
+e)
+
+Ricardo Dantas Stumpf
+
+5526-3
+
+Setec
+
+17/01/2005 a 01/12/2006
+
+Por atividade
+
+f)
+
+Edward Lúcio Vieira Borba
+
+2433-3
+
+Setec
+
+17/01/2005 a 01/12/2006
+
+Por atividade
+
+g)
+
+Ricardo Nelson Gonçalves
+
+4177-7
+
+Seape
+
+17/01/2005 a 01/12/2006
+
+Parcial
+
+h)
+
+Gustavo Parolin Pimenta
+
+2762-6
+
+Secom
+
+17/01/2005 a 01/12/2006
+
+Parcial
+
+
+Finalização
+
+
+Data e assinatura do gestor do projeto
+
+ISC, 11 de abril de 2005
+
+ 
+
+ 
+
+Manifestação do titular da unidade patrocinadora
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em ____/_____/2005.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+ISC, _____/______/2005
+
+ 
+
+ 
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto de Implementação do Processo de Educação a Distância - Pégaso e designa seu gestor.
+
+

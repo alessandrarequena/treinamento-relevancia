@@ -1,0 +1,2082 @@
+Portaria
+318/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o art. 28, inciso XXXIV, do Regimento Interno/TCU, e
+
+
+Considerando a necessidade de racionalizar o armazenamento de bens em almoxarifado;
+
+
+Considerando a necessidade de planejar as compras de bens de consumo;
+
+
+Considerando a necessidade de regulamentar os fluxos de pedidos de material;
+
+
+Considerando o que dispõem a Portaria-TCU nº 206/2003, resolve:
+
+
+Art. 1º O planejamento das compras, o armazenamento de bens de consumo em almoxarifado e a distribuição desses materiais na Sede do TCU obedecerão às regras constantes desta Portaria.
+
+
+Art. 2º Para os efeitos desta Portaria, considera-se:
+
+
+I – material de estoque: bem de consumo necessário às atividades rotineiras de todas as unidades do Tribunal, que deverá ser mantido no almoxarifado num nível ideal de estoque;
+
+
+II – material de demanda específica: bem de consumo necessário à atividade rotineira de determinada unidade, ou cujo plano de consumo incumbe a uma unidade específica do Tribunal. Pode ser mantido no almoxarifado;
+
+
+III – material de demanda eventual: bem de consumo cuja demanda é inconstante ou imprevisível, que não deve ser mantido no almoxarifado;
+
+
+IV – reserva técnica: material em estoque para atender a eventuais atrasos nas compras e pedidos que extrapolam, em pequenas quantidades, as demandas previstas;
+
+
+V – estoque ideal: intervalo adequado de quantidade de bem de consumo em estoque para atender à demanda prevista até o recebimento dos materiais da próxima compra;
+
+
+VI – excesso de estoque: quantidade de bem de consumo que supera o máximo do intervalo de estoque ideal;
+
+
+VII – material inservível: material que não atende à demanda do Tribunal;
+
+
+VIII – unidade interessada: unidade do Tribunal que demanda materiais de estoque, ou que demanda a aquisição de outros bens de consumo;
+
+
+IX – plano de consumo de material: formulário eletrônico por meio do qual a unidade interessada informa ao almoxarifado a demanda de material prevista para o semestre seguinte;
+
+
+X – pedido de material: formulário eletrônico por meio do qual a unidade interessada demanda material do almoxarifado;
+
+
+XI – pedido em excesso: pedido de material cuja quantidade ultrapassa a quantidade prevista no respectivo plano de consumo de material;
+
+
+XII – item: espécie de material;
+
+
+XIII – grupo de material: conjunto de materiais que são fornecidos por empresários de um mesmo ramo de negócio;
+
+
+XIV – compra extraordinária: compra realizada para atender a demanda não prevista no plano de consumo de material da unidade interessada.
+
+
+
+Planejamento das Compras
+
+
+
+
+
+Materiais de Estoque
+
+
+
+
+Art. 3º Devem ser mantidos no almoxarifado os materiais de estoque constantes do Anexo 1 desta Portaria.
+
+
+§ 1º As unidades interessadas deverão enviar eletronicamente seus planos semestrais de consumo de material por meio de aplicativo próprio, disponibilizado no site da Selip.
+
+
+§ 2º O plano de consumo de material para o primeiro semestre do ano deve ser enviado até 15 de setembro do ano anterior e o plano de consumo do segundo semestre do ano deve ser enviado até 15 de março do ano em curso.
+
+
+§ 3º Os planos de consumo dos materiais de estoque serão consolidados pela Selip, com base nos planos de consumo das unidades, nos históricos de consumo e nas reservas técnicas pré-estabelecidas, para determinação dos quantitativos das compras.
+
+
+§ 4º As compras de materiais de estoque ocorrerão a cada seis meses, mediante procedimento licitatório, com adjudicação por grupo de material.
+
+
+§ 5º Os grupos de materiais cujos valores não ultrapassam R$ 4.000,00 serão adquiridos mediante cotação eletrônica.
+
+
+§ 6º Os pedidos em excesso que comprometem o atendimento aos planos de consumo das outras unidades serão atendidos por compra extraordinária.
+
+
+§ 7º As compras extraordinárias decorrentes de pedidos em excesso, e que não ultrapassam os limites previstos na Portaria-TCU nº 206/2003, poderão ser realizadas mediante suprimento de fundos.
+
+
+
+
+Materiais de Demanda Específica
+
+
+
+
+Art. 4º São considerados materiais de demanda específica os seguintes bens de consumo:
+
+
+I – bens necessários às atividades rotineiras da Sesap, constantes do anexo 2 desta Portaria; e
+
+
+II – bens necessários à manutenção do parque de informática do Tribunal, constantes do anexo 3 desta Portaria.
+
+
+§ 1º Alguns materiais de demanda específica serão armazenados no almoxarifado e outros não serão considerados materiais de estoque, de acordo com as regras e diretrizes definidas nos arts. 9º, 10 e 11 desta Portaria.
+
+
+§ 2º Os planos semestrais de consumo dos materiais de demanda específica serão apresentados nas mesmas datas estabelecidas no §2º do art. 3º desta Portaria, com base no histórico anual de consumo informado pela Selip e nas alterações de rotinas identificadas pelas próprias unidades.
+
+
+§ 3º As compras de materiais de demanda específica serão realizadas concomitantemente com as compras de materiais de estoque, aplicando-se-lhes, no que couber, as regras do artigo anterior.
+
+
+§ 4º Os materiais não armazenados no almoxarifado cujos valores não ultrapassam os limites previstos na Portaria-TCU nº 206/2003 poderão ser adquiridos mediante suprimento de fundos.
+
+
+§ 5º A Selip monitorará os níveis de estoque, informando à Sesap e à Setec quando algum material atingir quantidade inferior ao estoque ideal.
+
+
+§ 6º A pedido da Selip, anualmente, a Sesap e a Setec indicarão os materiais de demanda específica que são inservíveis ou apresentam excesso de estoque, devendo ser alienados, total ou parcialmente.
+
+
+
+
+Materiais de Demanda Eventual
+
+
+
+
+Art. 5º As necessidades de materiais de demanda eventual serão identificadas com a chegada à Selip do pedido da unidade interessada, que o enviará eletronicamente por meio de aplicativo próprio, disponibilizado no site da Selip.
+
+
+§ 1º Os materiais de demanda eventual não serão mantidos no almoxarifado.
+
+
+§ 2º A aquisição de materiais de demanda eventual será realizada por meio de procedimentos de compra autônomos, salvo na hipótese do parágrafo seguinte.
+
+
+§ 3º Quando se tratar de material do mesmo grupo de um material de estoque que está em processo de compra, sua aquisição será realizada por meio do procedimento licitatório em andamento.
+
+
+§ 4º Aplicam-se às compras de materiais de demanda eventual, no que couber, as regras dos arts. 3º e 4º desta Portaria.
+
+
+
+
+Especificação de Materiais e Estimativa de Preços
+
+
+
+
+Art. 6º A elaboração dos termos de referência e a especificação dos materiais para os processos de compra competem à Selip quando se tratar de materiais já adquiridos pelo Tribunal.
+
+
+Art. 7º A elaboração dos termos de referência e a especificação dos materiais que jamais foram adquiridos pelo Tribunal competem:
+
+
+I – à Selip, com apoio de outras unidades, quando se tratar de novos materiais de estoque ou de materiais de demanda específica;
+
+
+II – à Sesap, quando se tratar de materiais de demanda específica de sua área;
+
+
+III – à Setec, quando se tratar de materiais de demanda específica de sua área;
+
+
+IV – à unidade interessada, nos demais casos.
+
+
+Parágrafo único. A unidade interessada na aquisição de material que não é armazenado no almoxarifado deverá oferecer informações que permitam a correta identificação do material demandado, enviando exemplar, indicando o número do processo em que se adquiriu o material pela última vez, ou apresentando especificações técnicas suficientes para o processo de compra.
+
+
+Art. 8º Sempre que possível, a estimativa de preços dos materiais será obtida a partir da extração de dados do SIASG, por meio de consulta eletrônica às licitações dos últimos 12 meses, para obtenção da mediana, após a devida exclusão dos valores discrepantes (outliers).
+
+
+Parágrafo único. As estimativas de preço baseadas em orçamentos apresentados por potenciais fornecedores deverão, salvo motivo justificado, ser obtidas pela média de no mínimo três cotações de preço para cada item, desprezados os valores que não correspondem exatamente à especificação dos materiais e os valores discrepantes do conjunto de dados.
+
+
+
+
+Estoque de Materiais
+
+
+
+
+Art. 9º Não serão estocados no almoxarifado materiais tóxicos, inflamáveis ou explosivos.
+
+
+Art. 10. Compete à Selip definir o estoque ideal e a reserva técnica de cada item armazenado no almoxarifado.
+
+
+Art. 11. Anualmente, a Selip promoverá a atualização das listas de materiais de demanda não eventual (Anexos 1, 2, 3 e 4 desta Portaria), de acordo com as seguintes diretrizes:
+
+
+I – segurança das pessoas, dos materiais e das instalações;
+
+
+II – racionalização da variedade de materiais de estoque;
+
+
+III – preferência para materiais com ciclos de vida menos agressivos ao meio ambiente;
+
+
+IV – preferência para materiais que oferecem melhor relação custo/benefício;
+
+
+V – preterição dos materiais frágeis ou que exigem condições especiais de armazenamento ou guarda;
+
+
+VI – adequação dos estoques ideais aos históricos de consumo e às alterações de rotina ocorridas durante o ano ou previstas para o ano seguinte;
+
+
+VII – adequação das reservas técnicas aos históricos de consumo e às alterações de rotina ocorridas durante o ano ou previstas para o ano seguinte.
+
+
+Art. 12. Os materiais de demanda específica que não são estocados no almoxarifado (anexos 2 e 3 desta Portaria) deverão ser armazenados nos depósitos das unidades interessadas de acordo com as normas de segurança aplicáveis.
+
+
+
+
+Pedido, Distribuição e Devolução de Materiais
+
+
+
+
+Art. 13. As unidades interessadas deverão enviar eletronicamente seus pedidos de material, por meio de aplicativo próprio, disponibilizado no site da Selip.
+
+
+§ 1º São competentes para solicitar materiais:
+
+
+I – os Chefes de Gabinetes;
+
+
+II – os Chefes de Serviço de Administração – SA;
+
+
+III – os Chefes das unidades vinculadas diretamente à Presidência que não disponham de Serviço de Administração; e
+
+
+IV – o Gerente de Processo da Gerência de Pessoal e Patrimônio vinculada à Segedam.
+
+
+§ 2º O sistema eletrônico deverá conter regra de uso que atenda ao disposto neste artigo.
+
+
+Art. 14. O almoxarifado da Sede do Tribunal visa precipuamente ao atendimento das unidades da Sede.
+
+
+Parágrafo único. As Secex estaduais poderão solicitar ao almoxarifado, mensalmente, os materiais constantes do Anexo 4 desta Portaria.
+
+
+Art. 15. Os pedidos de materiais de estoque e de materiais de demanda específica deverão ser apresentados, mensalmente, nas seguintes datas:
+
+
+I – Entre os dias 1º e 8, pelos gabinetes dos Ministros, Auditores e do Ministério Público, pelas unidades da Segepres, exceto ISC, pela Secoi e pelas Secex estaduais;
+
+
+II – Entre os dias 9 e 16, pelas unidades da Segecex;
+
+
+III – Entre os dias 17 e 24, pelas unidades da Segedam;
+
+
+IV – Entre os dias 25 e 31, pelo ISC.
+
+
+§ 1º Os pedidos de materiais apresentados fora do prazo serão atendidos no mês seguinte.
+
+
+§ 2º Em caso de urgência, poderá ser apresentado pedido extemporâneo, por meio de memorando em que conste justificativa plausível.
+
+
+Art. 16. A Selip deverá atender os pedidos de materiais das unidades da Sede no prazo de 5 (cinco) dias úteis e os das Secex estaduais no prazo de 10 (dez) dias úteis.
+
+
+Parágrafo único. A entrega dos materiais à unidade interessada será realizada mediante recibo, no qual o servidor responsável pelo recebimento aporá o número de sua matrícula.
+
+
+Art. 17. As unidades da Sede que detêm bens de consumo que não atendem às suas previsões de demanda devem devolvê-los ao almoxarifado.
+
+
+
+
+Disposições Finais
+
+
+
+
+Art. 18. A Selip elaborará os seguintes relatórios:
+
+
+I – Mensal de recebimento, suprimento e níveis de estoque: informando o valor do estoque e as entradas e saídas do almoxarifado, destacando os materiais que se encontram em quantidades inferiores aos respectivos níveis ideais de estoque e comparando os resultados obtidos com as metas estabelecidas para o período;
+
+
+II – Trimestral: consolidando informações dos últimos três relatórios mensais e informando sobre as medidas gerenciais de maior destaque no período;
+
+
+III – Anual: consolidando informações dos quatro relatórios trimestrais, fixando metas para o ano seguinte e apresentando oportunidades de melhoria para a atividade de gestão de materiais.
+
+
+Parágrafo único. Os relatórios mensais, trimestrais e anuais serão elaborados, respectivamente, nos prazos de 7, 15 e 30 dias contados do encerramento dos períodos a que se referem.
+
+
+Art. 19. A Selip adotará os seguintes indicadores mensais de desempenho para a atividade de gestão de materiais:
+
+
+I – Percentual de pedidos de materiais atendidos no prazo e integralmente durante o mês: em %;
+
+
+II – Número de entregas de fornecedores rejeitadas, parcial ou totalmente, no mês: em unidade;
+
+
+III – Número de itens que atingiram patamar inferior ao nível de estoque ideal durante o mês: em unidade.
+
+
+Art. 20. São partes integrantes desta Portaria os seguintes anexos:
+
+
+I – Anexo 1: Materiais do almoxarifado;
+
+
+II – Anexo 2: Materiais demandados pela Sesap;
+
+
+III – Anexo 3: Materiais demandados pela Setec;
+
+
+IV – Anexo 4: Materiais fornecidos para as Secex estaduais.
+
+
+
+
+Disposições Transitórias
+
+
+
+
+Art. 21. Enquanto não forem disponibilizados os formulários eletrônicos para planejamento de consumo e pedido de material, essas ações serão executadas por meio do preenchimento de formulários comuns disponibilizados no Portal do TCU.
+
+
+Art. 22. Enquanto não forem definidos os formatos e padrões de impressos para autoridades, de acordo com os novos padrões a serem estabelecidos pelo comitê de identidade visual, esses materiais não serão armazenados no almoxarifado nem disponibilizados pela Selip às unidades interessadas.
+
+
+Art. 23. Fica revogada a Portaria-TCU no 364, de 27 de julho de 1998.
+
+
+Art. 24. Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o armazenamento de materiais no almoxarifado, o planejamento das compras e o fluxo de pedidos de materiais de consumo na Sede do TCU.
+
+ANEXO À PORTARIA-TCU Nº 318, DE 26 DE DEZEMBRO DE 2008
+
+
+
+Materiais do Almoxarifado - Anexo 1Materiais de Consumo Individual
+
+Código
+
+Material
+
+Unidade
+
+753002802
+
+BLOCO PARA RECADO POST-IT REF. 653, TAMANHO 38MMX50MM, C/ 100 FLS
+
+UN
+
+753002805
+
+BLOCO PARA RECADO POST-IT REF. 657, MED. 76X102MM, C/ 100 FLS
+
+UN
+
+753002804
+
+BLOCO PARA RECADO POST-IT REF. 659, MED. 102X152MM, C/ 100 FLS
+
+UN
+
+751000201
+
+BORRACHA PARA CANETA
+
+UN
+
+751000203
+
+BORRACHA PARA LAPIS
+
+UN
+
+751000301
+
+CANETA ESFEROGRAFICA AZUL
+
+UN
+
+751000302
+
+CANETA ESFEROGRAFICA PRETA
+
+UN
+
+751000304
+
+CANETA ESFEROGRAFICA VERMELHA
+
+UN
+
+751000502
+
+CANETA MARCA TEXTO AMARELA
+
+UN
+
+751000501
+
+CANETA MARCA TEXTO VERDE
+
+UN
+
+751000903
+
+CLIPS NIQUELADO PARA PAPEIS Nº 2 EMB. COM 100 UNIDADE
+
+CX
+
+751000911
+
+CLIPS NIQUELADO PARA PAPEIS Nº 2, FORMATO EM ''X''
+
+CX
+
+751000906
+
+CLIPS NIQUELADO PARA PAPEIS Nº 4/0 EMB. COM 50 UNIDADES
+
+CX
+
+751000908
+
+CLIPS NIQUELADO PARA PAPEIS Nº 6/0 EMB. COM 25 UNIDADES
+
+CX
+
+751002802
+
+LAPIS PRETO Nº 02
+
+DZ
+
+751003001
+
+LIQUIDO CORRETOR DE ESCRITA
+
+FR
+
+752001201
+
+PORTA CLIPS COM IMA
+
+UN
+
+ 
+
+Subtotal
+
+17Bens Duráveis Individuais
+
+Código
+
+Material
+
+Unidade
+
+752000106
+
+ALMOFADA PARA CARIMBO Nº 3 - COM TINTA VERMELHA
+
+UN
+
+752000107
+
+ALMOFADA PARA CARIMBO Nº 4 - COM TINTA AZUL
+
+UN
+
+752000108
+
+ALMOFADA PARA CARIMBO Nº 4 - COM TINTA PRETA
+
+UN
+
+752000301
+
+APONTADOR DE LAPIS MANUAL
+
+UN
+
+752000401
+
+BANDEJA PARA EXPEDIENTE EM ACRILICO
+
+UN
+
+752000601
+
+EXTRATOR DE GRAMPO TIPO ESPATULA
+
+UN
+
+752001006
+
+PORTA CARIMBO COM 18 LUGARES
+
+UN
+
+751003501
+
+REGUA PLASTICA TRANSPARENTE MED. 30 CM
+
+UN
+
+752001801
+
+TESOURA EM ACO INOX 08"
+
+UN
+
+752001902
+
+UMEDECEDOR DE DEDOS PASTOSO
+
+UN
+
+ 
+
+Subtotal
+
+10
+
+Materiais de Uso Coletivo
+
+Código
+
+Material
+
+Unidade
+
+752000901
+
+GRAMPEADOR TAM. MEDIO
+
+UN
+
+752000902
+
+GRAMPEADOR TAM. GRANDE
+
+UN
+
+751009701
+
+GRAMPO PARA ENCADERNACAO MED. 9CM EMB. COM 50 UNIDADES
+
+CX
+
+751002307
+
+GRAMPO PARA GRAMPEADOR 26/6 EMB. COM 5000
+
+CX
+
+751002303
+
+GRAMPO PARA GRAMPEADOR RAPID-9 E ETONA MED. 14MM
+
+CX
+
+752002902
+
+BASE PLASTICA PARA FITA ADESIVA MED. 25X65MM
+
+UN
+
+752002101
+
+PERFURADOR PARA PAPEL
+
+UN
+
+753005701
+
+PAPEL PARA COPIA FOTOSTATICA MED. 210 X 297MM A-4
+
+RM
+
+753003536
+
+PAPEL RECICLADO A-4
+
+RM
+
+ 
+
+Subtotal
+
+9
+
+
+
+
+
+
+Materiais para Serviços de Administração
+
+Código
+
+Material
+
+Unidade
+
+751011601
+
+ALFINETE PARA MAPA, COM CABEÇA COLORIDA, C/ 50 UNIDADES
+
+CX
+
+402000101
+
+BARBANTE DE ALGODAO 08 FIOS ROLO COM 250GR
+
+NV
+
+753003001
+
+BOBINA DE PAPEL PARA FAC-SIMILE MED. 216MM X 30M
+
+UN
+
+751004201
+
+COLA BRANCA TUBO COM 40GR
+
+FR
+
+751004501
+
+ELASTICO Nº 18
+
+CX
+
+751004502
+
+ELASTICO Nº 32
+
+CX
+
+667500401
+
+ESTILETE .
+
+UN
+
+751001302
+
+FITA ADESIVA MAGICA MED. 25MM X 65M
+
+RL
+
+751004701
+
+FITA ADESIVA MED. 12MM X 33M
+
+RL
+
+751008904
+
+FITA CREPE MED. 19MM X 50M
+
+RL
+
+751008902
+
+FITA CREPE MED. 50MM X 50M
+
+RL
+
+751005401
+
+FITA PARA EMPACOTAMENTO MED. 48MM X 50M.
+
+RL
+
+753001401
+
+LIVRO PROTOCOLO DE CORRESPONDENCIA COM 100 FOLHAS MED. 160 X 220MM
+
+UN
+
+753003505
+
+PAPEL PARA EMBRULHO KRAFT COR PARDA
+
+UN
+
+ 
+
+Subtotal
+
+14
+
+Materiais para Apresentação
+
+Código
+
+Material
+
+Unidade
+
+752000201
+
+APAGADOR PARA QUADRO BRANCO
+
+UN
+
+753002803
+
+BLOCO SERIADO PARA FLIP-CHART EM PAPEL ACETINADO
+
+UN
+
+751000601
+
+CANETA PARA QUADRO BRANCO, NA COR AZUL
+
+UN
+
+751000602
+
+CANETA PARA QUADRO BRANCO, NA COR PRETA
+
+UN
+
+751000603
+
+CANETA PARA QUADRO BRANCO, NA COR VERDE
+
+UN
+
+751000604
+
+CANETA PARA QUADRO BRANCO, NA COR VERMELHA
+
+UN
+
+751003201
+
+PINCEL ATOMICO COR AZUL
+
+UN
+
+751003202
+
+PINCEL ATOMICO COR PRETA
+
+UN
+
+751003203
+
+PINCEL ATOMICO COR VERDE
+
+UN
+
+751003204
+
+PINCEL ATOMICO COR VERMELHA
+
+UN
+
+ 
+
+Subtotal
+
+10
+
+Materiais para Arquivo de Documentos
+
+Código
+
+Material
+
+Unidade
+
+811500101
+
+CAIXA ARQUIVO EM PAPELÃO MED. 340 X 120 X 240MM
+
+UN
+
+751011101
+
+CAIXA EM PLASTICO PARA PERIODICOS, MED. 300X260X100MM
+
+UN
+
+754001503
+
+ENVOLTORIO PLASTICO MED. 238 X 329MM
+
+DA
+
+751006001
+
+PASTA CATALOGO EM PLASTICO COM VISOR EXTERNO
+
+UN
+
+751005902
+
+PASTA EM CARTOLINA COM GRAMPO
+
+UN
+
+751005901
+
+PASTA EM CARTOLINA PLASTIFICADA COM ELÁSTICO NAS PONTAS
+
+UN
+
+751005905
+
+PASTA EM PLASTICO TIPO "L"
+
+UN
+
+751005913
+
+PASTA PORTA DOSSIE
+
+UN
+
+751006601
+
+PASTA SUSPENSA COM HASTE MED. 240 X 378MM
+
+UN
+
+751006605
+
+PASTA SUSPENSA P/ ARQUIVAMENTO LATERAL, MED. 275X375MM
+
+UN
+
+751005914
+
+PASTA TUBO, LOMBADA DE 50MM(ESTREITA)
+
+UN
+
+751005917
+
+PASTA TUBO, LOMBADA DE 80MM(LARGA)
+
+UN
+
+751004001
+
+REGISTRADOR AZ LOMBADA ESTREITA TAM. OFÍCIO
+
+UN
+
+751004002
+
+REGISTRADOR AZ LOMBADA LARGA TAM. OFÍCIO
+
+UN
+
+753005807
+
+SEPARADOR SEM INDICE MED. 220 X 330MM
+
+JG
+
+ 
+
+Subtotal
+
+15
+
+
+
+
+
+
+Materiais para Constituição de Processos
+
+Código
+
+Material
+
+Unidade
+
+754000406
+
+CAPA PARA AUTUACAO DE PROCESSO COR AMARELA
+
+CT
+
+754000401
+
+CAPA PARA AUTUACAO DE PROCESSO COR AZUL
+
+CT
+
+754000402
+
+CAPA PARA AUTUACAO DE PROCESSO COR BRANCA
+
+CT
+
+754000403
+
+CAPA PARA AUTUACAO DE PROCESSO COR ROSA
+
+CT
+
+754000404
+
+CAPA PARA AUTUACAO DE PROCESSO COR VERDE
+
+CT
+
+754000405
+
+CAPA PARA AUTUACAO DE PROCESSO COR VERMELHA
+
+CT
+
+751008403
+
+CINTA ELASTICA PARA PROCESSO MED. 440MM DE CIRCUNFERENCIA
+
+UN
+
+751008404
+
+CINTA ELASTICA PARA PROCESSO MED. 500MM DE CIRCUNFERENCIA
+
+UN
+
+753000706
+
+ETIQUETA AUTO ADESIVA PARA IMPRESSORA LASER, CAPA DE PROCESSO, TAMANHO 9,84X19,05CM
+
+UN
+
+753000713
+
+ETIQUETA AUTO ADESIVA "URGENTE" EMB. COM 210 UNIDADES
+
+CX
+
+ 
+
+Subtotal
+
+10
+
+Envelopes
+
+Código
+
+Material
+
+Unidade
+
+754000902
+
+ENVELOPE BRANCO MED. 115 X 165MM COM TIMBRE E CEP MOD. 1/4 OFÍCIO
+
+DA
+
+754000909
+
+ENVELOPE BRANCO MED. 115 X 230MM COM TIMBRE E CEP MOD. 1/3 OFÍCIO
+
+CT
+
+754000904
+
+ENVELOPE BRANCO MED. 185 X 250MM COM TIMBRE 1/2 OFÍCIO
+
+CT
+
+754000911
+
+ENVELOPE BRANCO MED. 260 X 360MM COM TIMBRE MOD. OFÍCIO
+
+CT
+
+754001201
+
+ENVELOPE EM PAPEL KRAFT MED. 200 X 280MM COM SANFONA E TIMBRE
+
+CT
+
+754001202
+
+ENVELOPE EM PAPEL KRAFT MED. 265 X 360MM COM SANFONA E TIMBRE
+
+CT
+
+754001203
+
+ENVELOPE EM PAPEL KRAFT MED. 265 X 360MM SEM SANFONA COM TIMBRE
+
+CT
+
+754001204
+
+ENVELOPE EM PAPEL KRAFT MED. 310 X 410MM COM SANFONA E TIMBRE
+
+DA
+
+754001302
+
+ENVELOPE EM POLIETILENO LINEAR MED. 176 X 250MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001303
+
+ENVELOPE EM POLIETILENO LINEAR MED. 250 X353MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001304
+
+ENVELOPE EM POLIETILENO LINEAR MED. 330 X 458MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001306
+
+ENVELOPE EM POLIETILENO LINEAR MED. 405 X 485MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+ 
+
+Subtotal
+
+12
+
+
+
+
+
+
+Cartuchos para Impressoras
+
+Código
+
+Material
+
+Unidade
+
+749002453
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET 4355 - COLORIDO
+
+UN
+
+749002449
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET 4355 - PRETO
+
+UN
+
+749002421
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET K550 - CIANO
+
+UN
+
+749002423
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET PRO K550 - AMARELO
+
+UN
+
+749002422
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET PRO K550 - MAGENTA
+
+UN
+
+749002420
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP OFFICEJET PRO K550 - PRETO
+
+UN
+
+749002417
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP PSC2210 MULTIFUNCIONAL (COLORIDO C6657)
+
+UN
+
+749002416
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP PSC2210 MULTIFUNCIONAL (PRETO C6656)
+
+UN
+
+749002415
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP, MODELO DESKJET 1220C (COLORIDO)
+
+UN
+
+749002414
+
+CARTUCHO DE TINTA P/ IMPRESSORA HP, MODELO DESKJET 1220C (COR PRETA)
+
+UN
+
+749002419
+
+CARTUCHO DE TINTA P/ IMPRESSORA MULTIFUNCIONAL HP, MODELO PSC2610 (COLORIDO)
+
+UN
+
+749002418
+
+CARTUCHO DE TINTA P/ IMPRESSORA MULTIFUNCIONAL HP, MODELO PSC2610 (PRETO)
+
+UN
+
+749006403
+
+CARTUCHO DE TONER COMBINADO P/ XEROX MODELO S332/340/440/441, REF. 113R70321
+
+UN
+
+749006404
+
+CARTUCHO DE TONER COMBINADO P/ XEROX MODELO S423/428, REF. 113R00635
+
+UN
+
+749006412
+
+CARTUCHO DE TONER PARA IMPRESSORA COLORIDA XEROX PHASER 6350, AMARELO
+
+UN
+
+749006411
+
+CARTUCHO DE TONER PARA IMPRESSORA COLORIDA XEROX PHASER 6350, CYAN
+
+UN
+
+749006410
+
+CARTUCHO DE TONER PARA IMPRESSORA COLORIDA XEROX PHASER 6350, MAGENTA
+
+UN
+
+749006413
+
+CARTUCHO DE TONER PARA IMPRESSORA COLORIDA XEROX PHASER 6350, PRETO
+
+UN
+
+749004714
+
+CARTUCHO DE TONER PARA IMPRESSORA LASER LEXMARK OPTRA T-520
+
+UN
+
+749004708
+
+CARTUCHO DE TONER PARA IMPRESSORA LASER LEXMARK OPTRA T-614N
+
+UN
+
+749004716
+
+CARTUCHO DE TONER PARA IMPRESSORA LEXMARK T-420DN
+
+UN
+
+749006409
+
+CARTUCHO DE TONER PARA IMPRESSORA MULTIFUNCIONAL HP LASERJET 3390 - REF. Q5949X
+
+UN
+
+749004717
+
+CARTUCHO DE TONER PARA IMPRESSORA SAMSUNG ML-2551N
+
+UN
+
+749006414
+
+CARTUCHO DE TONER PARA IMPRESSORA XEROX PHASER 3428
+
+UN
+
+ 
+
+Subtotal
+
+24
+
+Outros Materiais de Expediente
+
+Código
+
+Material
+
+Unidade
+
+735000302
+
+COPO PLASTICO PARA AGUA - 200ML
+
+CT
+
+753003501
+
+PAPEL CONTACT TRANSPARENTE
+
+MT
+
+752001702
+
+PRANCHETA EM DURATEX
+
+UN
+
+424001701
+
+PRO-PÉ BRANCO
+
+PR
+
+753000725
+
+ETIQUETA AUTO ADESIVA PARA IMPRESSORA LASER MED. 33,9 X101,6 MM CAIXA COM 25 UN
+
+CX
+
+753000720
+
+ETIQUETA AUTO ADESIVA PARA IMPRESSORA LASER MED. 70 X 33MM. C/ 27 UNIDADES
+
+CX
+
+ 
+
+Subtotal
+
+6
+
+Materiais de Informática de Uso Geral
+
+Código
+
+Material
+
+Unidade
+
+705002601
+
+PEN DRIVE INTERFACE USB 2.0
+
+UN
+
+702502401
+
+CD GRAVÁVEL (CD-R) VIRGEM
+
+UN
+
+702502701
+
+MÍDIA DE DVD-R
+
+UN
+
+702502702
+
+MÍDIA DE DVD-RW
+
+UN
+
+753000722
+
+ETIQUETA AUTO ADESIVA PARA USO EM CD
+
+CX
+
+702502901
+
+MINI MOUSE NA COR PRETA, COM TRÊS BOTÕES, SENDO 1 DE ROLAGEM
+
+UN
+
+702500805
+
+PROTETOR PARA MOUSE ERGONÔMICO COM APOIO EM GEL
+
+UN
+
+ 
+
+Subtotal
+
+7
+
+Equipamentos Elétricos
+
+Código
+
+Material
+
+Unidade
+
+593502102
+
+FILTRO DE LINHA, C/ 6 TOMADAS
+
+UN
+
+ 
+
+Subtotal
+
+1
+
+ 
+
+Total
+
+135
+
+
+
+
+
+
+Materiais Demandados pela Sesap - Anexo 2
+
+Alimentos
+
+Código
+
+Material
+
+Unidade
+
+892500201
+
+ACUCAR REFINADO, EM PACOTE DE 1KG
+
+KG
+
+892500301
+
+ADOCANTE DIETETICO COM ASPARTAME, FRASCO COM 100ML
+
+FR
+
+896000201
+
+AGUA MINERAL COM GÁS, EM EMB. PLÁSTICA COM 12 UNIDADES DE 500ML
+
+CX
+
+896000101
+
+AGUA MINERAL COND. EM GARRAFAO DE 20 LITROS
+
+GF
+
+896000105
+
+AGUA MINERAL EMB. COM 12 UNIDADES DE 500 ML
+
+UN
+
+895500101
+
+CAFE MOIDO, EM PACOTE DE 500G
+
+KG
+
+ 
+
+Subtotal
+
+6
+
+Aparelhos para servir
+
+Código
+
+Material
+
+Unidade
+
+735000501
+
+BANDEJA EM ACO INOX
+
+UN
+
+734000201
+
+COLHER EM ACO INOX PARA CAFE
+
+DZ
+
+734000202
+
+COLHER EM ACO INOX PARA CHA
+
+DZ
+
+735000801
+
+ACUCAREIRO EM ACO INOX
+
+UN
+
+735001601
+
+DESCANCA COPOS EM ACO INOX, CONJUNTO COM 06 UNIDADES
+
+CJ
+
+733000201
+
+GARRAFA TERMICA REVESTIDA EM ACO INOX COM BASE PLASTICA CAP. 01L
+
+UN
+
+735000401
+
+XICARA PARA CAFE EM PORCELANA COM FRISO DOURADO
+
+DZ
+
+735000402
+
+XICARA PARA CHA EM PORCELANA COM FRISO DOURADO
+
+DZ
+
+735001401
+
+PRATO PARA SOBREMESA
+
+UN
+
+721002002
+
+ROLO DE PAPEL ALUMINIO
+
+RL
+
+721002001
+
+ROLO DE PAPEL FILME EM PVC
+
+RL
+
+854000102
+
+GUARDANAPO DE PAPEL MED. 34 X 34CM
+
+PT
+
+735000305
+
+COPO PLASTICO PARA AGUA - 300ML, TIPO CRISTAL
+
+CT
+
+ 
+
+Subtotal
+
+13
+
+Materiais para filtros de água
+
+Código
+
+Material
+
+Unidade
+
+461000302
+
+ELEMENTO FILTRANTE PARA FILTRO DE PAREDE, C/ CARVAO ATIVADO E PRATA COLOIDAL
+
+UN
+
+461000301
+
+ELEMENTO FILTRANTE PARA FILTRO DE PAREDE, MOD. HF230F,C/CARVAO ATIVO
+
+UN
+
+461000402
+
+REFIL PARA PURIFICADOR DE ÁGUA IBBL MODELO FR-600, COM BLISTER
+
+UN
+
+ 
+
+Subtotal
+
+3
+
+Materiais para limpeza das copas
+
+Código
+
+Material
+
+Unidade
+
+793001601
+
+LIMPADOR MULTIUSO, EM FRASCO DE 500 ML
+
+UN
+
+793000101
+
+AGUA SANITARIA EMB. COM 01 LITRO
+
+GA
+
+793001002
+
+PASTA SAPONÁCEA PARA LIMPEZA PESADA, ROSA, EMB. COM 500GR
+
+UN
+
+793000301
+
+SABAO EM PO BIODEGRADAVEL EMB. COM 1KG
+
+CX
+
+792000501
+
+FLANELA PARA LIMPEZA
+
+UN
+
+810500101
+
+SACO DE PANO
+
+UN
+
+ 
+
+Subtotal
+
+6
+
+Materiais para lavar louças
+
+Código
+
+Material
+
+Unidade
+
+793000201
+
+DETERGENTE LIQUIDO NEUTRO EMB. COM 500ML
+
+FR
+
+792000403
+
+PANO DE PRATO EM ALGODAO MED. 40 X 70CM
+
+UN
+
+792000102
+
+ESPONJA PARA LIMPEZA, BUCHA DUPLA FACE, TAM. 110X70X21MM
+
+UN
+
+ 
+
+Subtotal
+
+3
+
+Etiquetas para visitantes
+
+Código
+
+Material
+
+Unidade
+
+753000714
+
+ETIQUETA AUTO ADESIVA PARA VISITANTES MED. 34 X 34MM, COR AMARELA
+
+MH
+
+753000728
+
+ETIQUETA AUTO ADESIVA PARA VISITANTES MED. 34X34MM, COR AZUL
+
+MH
+
+753000727
+
+ETIQUETA AUTO ADESIVA PARA VISITANTES MED. 34X34MM, COR BRANCA
+
+MH
+
+753000724
+
+ETIQUETA AUTO ADESIVA PARA VISITANTES MED. 34X34MM, COR VERDE
+
+MH
+
+753000726
+
+ETIQUETA AUTO ADESIVA PARA VISITANTES MED. 34X34MM, COR VERMELHA
+
+MH
+
+ 
+
+Subtotal
+
+5
+
+
+
+
+
+
+Material de uso exclusivo do Sefan e Sespe
+
+Código
+
+Material
+
+Unidade
+
+753003002
+
+BOBINA DE PAPEL SULFITE, MED. 914X50MM
+
+UN
+
+ 
+
+Subtotal
+
+1
+
+Materiais de expedição e protocolo
+
+Código
+
+Material
+
+Unidade
+
+754003401
+
+ETIQUETA PARA IMPRESSORA RABBIT
+
+MH
+
+754001716
+
+FORMULARIO GUIA DE EXPEDICAO DE MALOTE MED. 210 X 297MM BLOCO COM 50 JOGOS DE 3 VIAS
+
+UN
+
+810500302
+
+LACRE DE SEGURANCA PARA MALOTE
+
+CT
+
+751012201
+
+RIBBON RESINA PRETA PARA IMPRESSÃO DE TRANSFERENCIA TÉRMICA IMPRESSORA RABITT
+
+UN
+
+ 
+
+Subtotal
+
+4
+
+Outros materiais da Sesap
+
+Código
+
+Material
+
+Unidade
+
+735000301
+
+COPO PLASTICO PARA CAFE - 50ML
+
+CX
+
+734000602
+
+PAZINHA EM PLASTICO PARA CAFE EMB. COM 10.000 UNIDADES
+
+CX
+
+854000202
+
+PAPEL TOALHA MED. 22 X 22,80CM
+
+PC
+
+721000601
+
+TOALHA DE ROSTO LISA
+
+UN
+
+793000303
+
+SABAO EM BARRA 200GR
+
+UN
+
+753001903
+
+PAPEL CARBONO COR PRETA MED. 220 X 330MM
+
+CX
+
+792000101
+
+ESPONJA DE ACO C/ 14 EMBALAGENS DE 8 UNIDADES
+
+PT
+
+ 
+
+Subtotal
+
+7
+
+ 
+
+Total
+
+48
+
+
+
+
+
+Materiais Demandados pela Setec - Anexo 3
+
+CD, DVD e pen drive
+
+Código
+
+Material
+
+Unidade
+
+754002610
+
+ENVELOPE DE PAPEL DE 110G + 20G DE POLIETILENO COM MANTA DE PLÁSTICO-BOLHA
+
+UN
+
+ 
+
+Subtotal
+
+1
+
+Componentes de impressoras
+
+Código
+
+Material
+
+Unidade
+
+749006105
+
+KIT DE MANUTENÇAO P/ IMPRESSORA LASER LEXMARK T-520
+
+UN
+
+749006103
+
+KIT DE MANUTENÇAO P/ IMPRESSORA LASER LEXMARK T-614
+
+UN
+
+ 
+
+Subtotal
+
+2
+
+ 
+
+Total
+
+3
+
+
+
+
+
+
+
+
+Materiais Fornecidos para as Secex Estaduais - Anexo 4
+
+Materiais para Constituição de Processos
+
+Código
+
+Material
+
+Unidade
+
+754000406
+
+CAPA PARA AUTUACAO DE PROCESSO COR AMARELA
+
+CT
+
+754000401
+
+CAPA PARA AUTUACAO DE PROCESSO COR AZUL
+
+CT
+
+754000402
+
+CAPA PARA AUTUACAO DE PROCESSO COR BRANCA
+
+CT
+
+754000403
+
+CAPA PARA AUTUACAO DE PROCESSO COR ROSA
+
+CT
+
+754000404
+
+CAPA PARA AUTUACAO DE PROCESSO COR VERDE
+
+CT
+
+754000405
+
+CAPA PARA AUTUACAO DE PROCESSO COR VERMELHA
+
+CT
+
+751008403
+
+CINTA ELASTICA PARA PROCESSO MED. 440MM DE CIRCUNFERENCIA
+
+UN
+
+751008404
+
+CINTA ELASTICA PARA PROCESSO MED. 500MM DE CIRCUNFERENCIA
+
+UN
+
+753000706
+
+ETIQUETA AUTO ADESIVA PARA IMPRESSORA LASER, CAPA DE PROCESSO, TAMANHO 9,84X19,05CM
+
+UN
+
+ 
+
+Subtotal
+
+9
+
+Envelopes
+
+Código
+
+Material
+
+Unidade
+
+754000902
+
+ENVELOPE BRANCO MED. 115 X 165MM COM TIMBRE E CEP MOD. 1/4 OFÍCIO
+
+DA
+
+754000909
+
+ENVELOPE BRANCO MED. 115 X 230MM COM TIMBRE E CEP MOD. 1/3 OFÍCIO
+
+CT
+
+754000904
+
+ENVELOPE BRANCO MED. 185 X 250MM COM TIMBRE 1/2 OFÍCIO
+
+CT
+
+754000911
+
+ENVELOPE BRANCO MED. 260 X 360MM COM TIMBRE MOD. OFÍCIO
+
+CT
+
+754001201
+
+ENVELOPE EM PAPEL KRAFT MED. 200 X 280MM COM SANFONA E TIMBRE
+
+CT
+
+754001202
+
+ENVELOPE EM PAPEL KRAFT MED. 265 X 360MM COM SANFONA E TIMBRE
+
+CT
+
+754001203
+
+ENVELOPE EM PAPEL KRAFT MED. 265 X 360MM SEM SANFONA COM TIMBRE
+
+CT
+
+754001204
+
+ENVELOPE EM PAPEL KRAFT MED. 310 X 410MM COM SANFONA E TIMBRE
+
+DA
+
+754001302
+
+ENVELOPE EM POLIETILENO LINEAR MED. 176 X 250MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001303
+
+ENVELOPE EM POLIETILENO LINEAR MED. 250 X353MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001304
+
+ENVELOPE EM POLIETILENO LINEAR MED. 330 X 458MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+754001306
+
+ENVELOPE EM POLIETILENO LINEAR MED. 405 X 485MM COM ABA LACRAVEL E ADESIVO
+
+UN
+
+ 
+
+Subtotal
+
+12
+
+Outros Materiais de Expediente
+
+Código
+
+Material
+
+Unidade
+
+754001716
+
+FORMULARIO GUIA DE EXPEDICAO DE MALOTE MED. 210 X 297MM BLOCO COM 50 JOGOS DE 3 VIAS
+
+UN
+
+810500302
+
+LACRE DE SEGURANCA PARA MALOTE
+
+CT
+
+ 
+
+Subtotal
+
+2
+
+ 
+
+Total
+
+23
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+

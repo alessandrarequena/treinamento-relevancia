@@ -1,0 +1,899 @@
+Portaria
+278/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 31 de março de 2008, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto AI – Arquitetura da Informação, aprovado pela Portaria-TCU nº 141, de 6 de julho de 2006.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 3º Esta Portaria entra em vigor a partir de 15 de dezembro de 2007.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+Período do projeto
+
+Unidade patrocinadora
+
+Gestor do projeto
+
+03/07/2006 a 14/12/2007
+
+Segepres
+
+Luís Henrique Raja Gabaglia Mitchell
+
+
+
+
+1.	Objetivo do projeto
+
+
+
+Instrumentalizar a gestão de conteúdos do Portal TCU com vistas a promover acesso integrado e padronizado aos produtos e serviços de informação do Tribunal.
+
+
+
+
+
+
+2.	Situação do projeto (em relação ao previsto na proposta)
+
+
+Execução em relação ao total do projeto
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+(X) 41% a 80% executado
+
+(    ) acima de 80% executado
+
+Controle
+
+(    ) Execução adiantada
+
+(    ) Execução dentro do previsto
+
+(X) Execução atrasada
+
+
+
+
+Produto
+
+Indicador
+
+Quanto
+
+Data de término
+
+Comentários
+
+(comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+a.1)
+
+Apresentação do projeto.
+
+Projeto apresentado.
+
+100%
+
+P: 31/07/2006
+
+R: 31/07/2006
+
+Concluído e aceito pelo patrocinador.
+
+a.2)
+
+Minuta de portaria da Presidência definindo as áreas responsáveis pela gestão de conteúdo.
+
+Minuta de portaria aceita.
+
+100%
+
+P: 31/07/2006
+
+R: 
+
+Cancelado, com o aceite do patrocinador
+
+Obs.: Será contemplado no produto “h”.
+
+b)
+
+Diagnóstico dos conteúdos do TCU.
+
+Diagnóstico aprovado por componente.
+
+100%
+
+P: 31/08/2006
+
+R: 04/09/2006
+
+Concluído e aceito pelo patrocinador.
+
+c.1)
+
+Documento com a Tipologia de conteúdos do TCU.
+
+Tipologia aprovada.
+
+100%
+
+P: 13/09/2006
+
+R:15/09/2006
+
+Concluído e aceito pelo patrocinador.
+
+c.2)
+
+Recomendações de alterações no ambiente corporativo.
+
+Tipologia aprovada.
+
+100%
+
+P: 13/09/2006
+
+R: 15/12/2006
+
+Concluído e aceito pelo patrocinador.
+
+Obs.: As recomendações serão documentadas no relatório final do projeto.
+
+d.1)
+
+Documento com as classes e subclasses que representam os conteúdos do TCU disponíveis no Portal e na Intranet validado.
+
+Taxonomia de três níveis aprovada (classe e subclasses).
+
+100%
+
+P: 24/10/2006
+
+R: 27/10/2006
+
+Concluído e aceito pelo patrocinador.
+
+d.2)
+
+Recomendações de alterações no ambiente corporativo.
+
+Taxonomia de três níveis aprovada (classe e subclasses).
+
+100%
+
+P: 24/10/2006
+
+R: 27/10/2006
+
+Concluído e aceito pelo patrocinador.
+
+e)
+
+Documento com os tipos de conteúdos que serão incluídos no Portal.
+
+Universo de conteúdos selecionado e aprovado.
+
+100%
+
+P: 31/10/2006
+
+R:15/09/2006
+
+Concluído e aceito pelo patrocinador.
+
+f)
+
+Documento com modelo de representação da informação validado.
+
+Modelo aprovado.
+
+100%
+
+P: 15/12/2006
+
+R: 15/12/2006
+
+Concluído e aceito pelo patrocinador.
+
+g)
+
+Documento e protótipo dos projetos das telas do Portal.
+
+Modelos (templates) de todas as telas do Portal definidos e  aprovados.
+
+100%
+
+P: 31/05/2007
+
+R: 31/05/2007
+
+Concluído e aceito pelo patrocinador.
+
+
+
+
+
+
+
+
+
+Produto
+
+Indicador
+
+Quanto
+
+Data de término
+
+Comentários
+
+(comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+h)
+
+Minuta de portaria da política e práticas de gestão de conteúdos.
+
+Política de gestão de conteúdos definida e aprovada.
+
+100%
+
+P: 15/06/2007
+
+R: 
+
+Em andamento, 80% executado.
+
+Previsão de entrega: 18/01/2008
+
+Alteração de Escopo, com o aceite do patrocinador
+
+Obs.: Será feita portaria única, abrangendo as políticas e práticas da gestão de conteúdos e as  áreas responsáveis (produtos “a.2” e “h”).
+
+i)
+
+Telas de entrada de dados do Oracle Portal com os metadados implementados.
+
+Conjunto de metadados (atributos) implementado e validado no Oracle Portal.
+
+100%
+
+P: 31/08/2007
+
+R: 
+
+Em andamento, 90% executado.
+
+Previsão de entrega: 04/01/2008.
+
+j.1)
+
+Estrutura de conteúdos publicada no Portal, em um novo leiaute, de acordo com os modelos definidos.
+
+Modelo de apresentação de conteúdos implantados.
+
+100%
+
+P: 31/08/2007
+
+R: 
+
+Em andamento, 90% executado.
+
+Previsão de entrega: 04/01/2008.
+
+j.2)
+
+Solicitação formal de certificação de acessibilidade.
+
+Certificação de acessibilidade solicitada.
+
+100%
+
+P: 31/08/2007
+
+R: 
+
+Suspenso. 
+
+Motivo: Necessita da implantação do novo Portal para iniciar.
+
+Previsão de início: 29/02/2008.
+
+Previsão de entrega: 29/02/2008.
+
+k)
+
+Manual de Navegação e Atualização do Portal atualizado e publicado.
+
+Manual atualizado.
+
+100%
+
+P: 31/08/2007
+
+R: 
+
+Suspenso. 
+
+Motivo: Necessita da implantação do novo Portal para iniciar.
+
+Previsão de início: 17/12/2007.
+
+Previsão de entrega: 11/01/2008.
+
+Obs.: Será um Manual de gestão do conteúdo, abrangendo, também, estilos e fluxos de publicação.
+
+l)
+
+Treinamento realizado.
+
+Provedores de conteúdo treinados.
+
+100%
+
+P: 02/10/2007
+
+R: 
+
+Não iniciado.
+
+Previsão de início: 21/01/2008.
+
+Previsão de entrega: 29/02/2008 
+
+m)
+
+Portal com dados migrados.
+
+Migração concluída pelos provedores de conteúdo das unidades.
+
+100%
+
+P: 26/11/2007
+
+R: 
+
+Em andamento, 10% executado.
+
+Iniciado em: 05/12/2007.
+
+Previsão de entrega: 26/03/2008 
+
+Serão migrados todos os conteúdos diretamente acessíveis através do perfil Cidadão. 
+
+n)
+
+Material de divulgação do novo Portal publicado e distribuído.
+
+Nova estrutura do Portal divulgada aos usuários internos e externos do TCU.
+
+100%
+
+P: 28/11/2007
+
+R: 
+
+Em andamento, 50% executado.
+
+1a entrega (50%), para o evento “30 anos de TI”.
+
+Data prevista: 04/12/2007.
+
+Entregue em: 04/12/2007.
+
+2a entrega, para o evento de Arquitetura de Informação:
+
+Data prevista: 29/02/2008.
+
+o)
+
+Relatório consolidado com as opiniões dos usuários acerca da usabilidade da arquitetura definida.
+
+Satisfação dos usuários internos e externos com o Portal analisada e ajustes realizados.
+
+100%
+
+P: 07/12/2007
+
+R: 
+
+Não iniciado.
+
+Previsão de início: 27/12/2007.
+
+Previsão de entrega: 07/03/2008.
+
+Obs.: As opiniões serão recebidas durante o período de transição entre o Portal atual e novo.
+
+
+
+
+
+
+
+
+
+
+4.	Atividade realizada fora do plano (se couber)
+
+
+Descrição
+
+Comentários
+
+a)
+
+Evento 30 anos de TI: desenvolvimento da exposição virtual (sítio), design e organização do evento.
+
+As atividades foram demandadas ao Segec – Serviço de Sistemas de Gestão de Conteúdos – da Setec, sendo que não estavam previstas no Plano Diretor de TI como tarefas para o serviço. Como a equipe do projeto confunde-se com a equipe do serviço, tais atribuições impactaram o cronograma do projeto.
+
+b)
+
+Desenvolvimento da comunidade virtual para a CGTI – Comunidade de Gestores de TI da Administração Pública Federal.
+
+A atividade pertencia ao Segec. Como a equipe do projeto confunde-se com a equipe do serviço, tal atribuição impactou o cronograma do projeto.
+
+
+
+
+
+
+5.	Dificuldade encontrada (se couber)
+
+
+Dificuldade
+
+Ação para saneamento
+
+a)
+
+Ocorreu o risco previsto no item 7.d da proposta do projeto: “Dificuldades tecnológicas de customização da ferramenta de gestão de conteúdos Oracle Portal para adequação às definições do modelo proposto.”
+
+Para evitar o risco era a seguinte ação era prevista: “Contratar consultoria para solução de questões pontuais de desenvolvimento em Oracle Portal.” Esta providência foi tomada e as dificuldades tecnológicas foram sanadas. Contudo, houve impacto nos prazos de desenvolvimento, que se estenderam por 3 meses adicionais.
+
+
+
+
+6.	Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a)
+
+Pesquisa de opinião sobre os produtos do TCU disponíveis no portal atual. Será utilizada para embasar procedimentos do Plano de Comunicação do TCU, cuja confecção está em andamento.
+
+b)
+
+Foram realizadas apresentações dos conceitos de arquitetura de informação e dos aspectos técnicos do desenvolvimento do novo portal ao TST e ao TSE, a pedido destes órgãos.
+
+c)
+
+Foi feito o pré-lançamento do portal para o público interno em 05/12/2007, com o efeito de sensibilizar os gestores de conteúdo do Portal TCU para a necessidade de migrarem seus conteúdos. 
+
+
+
+
+
+
+7.	Definição do formato da prorrogação
+
+1.          Período da prorrogação
+
+
+
+15/12/2007 a 31/03/20082.          Justificativa da prorrogação
+
+
+
+A estratégia original para a inauguração do novo portal era desligar o portal antigo no dia 05/12/2007, substituindo-o pelo novo em um único movimento. Ao longo do projeto, porém, esta estratégia foi amadurecida. Em face do impacto que uma mudança tão repentina iria causar no ambiente de trabalho dos servidores, em especial considerando-se o grande fluxo de trabalho ao final do ano, preferiu-se adotar uma transição em várias fases. No dia 05/12/2007 foi feito um pré-lançamento do portal para o público interno do TCU, com o fim de demonstrar algumas de suas novas funcionalidades e também para sensibilizar os gestores de conteúdo a alimentarem o ambiente definitivo. A alimentação se dará ao longo do treinamento (janeiro e fevereiro). Em março o portal será inaugurado, substituindo o portal antigo para o público externo (perfil cidadão). 3.         Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+
+
+- - - 
+
+
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente4.          Objetivo específico
+
+5.          Quanto
+
+6.          Data de término
+
+7.          a)
+
+
+
+Revisar política e práticas (normas e
+
+procedimentos) de gestão de conteúdos para o Portal TCU, com indicação das áreas responsáveis.
+
+100%
+
+P: 18/01/2008
+
+R:
+
+Política de gestão de conteúdos definida e aprovada.
+
+Minuta de portaria da política e práticas de gestão de conteúdos.
+
+Segepres8.          b)
+
+
+
+Implantar os modelos de representação da
+
+informação (entrada de dados) e de apresentação de conteúdos (leiaute).
+
+100%
+
+P: 04/01/2008
+
+R:
+
+Conjunto de metadados (atributos) implementados e validados no Oracle Portal.
+
+Modelos de apresentação de conteúdos implantados e validados no Oracle Portal.
+
+Formulários de entrada de conteúdos 
+
+implementados.
+
+Páginas e estruturas de
+
+apresentação implementadas.
+
+ISC
+
+Setec9.          c)
+
+
+
+Treinar os gestores de conteúdo para a inclusão de conteúdos no Portal, realizando assim a migração dos dados.
+
+100%
+
+P: 26/03/2008
+
+R:
+
+Gestores de
+
+conteúdo do portal
+
+treinados.
+
+Manual atualizado.
+
+Migração de todos os conteúdos diretamente acessíveis através do perfil Cidadão.
+
+Manual de Gestão de conteúdos, abrangendo também estilos e fluxos de publicação.
+
+  Workshops de treinamento nas unidades.
+
+ISC
+
+Setec
+
+Gestores de conteúdo10.      d)
+
+
+
+Divulgação do novo portal
+
+100%
+
+P: 29/02/2008
+
+R:
+
+Nova estrutura do Portal divulgada aos usuários internos e externos do TCU.
+
+Certificação de acessibilidade solicitada.
+
+Material de divulgação do novo Portal publicado e distribuído.
+
+Solicitação formal de certificação de acessibilidade.
+
+Segepres11.      e)
+
+
+
+Avaliar a satisfação dos usuários internos e externos com o novo Portal e propor as
+
+modificações necessárias.
+
+100%
+
+P: 07/03/2008
+
+R:
+
+Satisfação dos
+
+usuários internos
+
+e externos com o
+
+Portal analisada e
+
+proposta de ajustes gerada.
+
+Relatório
+
+consolidado com
+
+as opiniões dos
+
+usuários acerca da
+
+usabilidade da
+
+arquitetura
+
+definida, detalhando também as ações para melhoria futura.
+
+Segepres
+
+Setec
+
+
+
+
+12.      Não escopo (o que o projeto não vai fazer)
+
+
+
+a)
+
+Integração de todos os sistemas de automação de processos de trabalho do TCU e armazenamento dos conteúdos em um
+
+único repositório de dados.
+
+b)
+
+Representação do inteiro teor de todos os tipos de documento em um mesmo padrão.
+
+c)
+
+Elaboração de um tesauro capaz de representar todos os conteúdos do Tribunal.
+
+d)
+
+Elaboração de Sistema de Gestão Eletrônica de Documentos.
+
+e)
+
+Implantação de soluções de TI para automação de processos de trabalho nas unidades.
+
+f)
+
+Conversão ou integração de sistemas legados ou desenvolvidos pelas próprias unidades.
+
+g)
+
+Contratação de ferramentas e/ou equipamentos para as soluções de Gestão de Conteúdo.
+
+h)
+
+Reestruturação de conteúdos disponíveis em NTFS e nas bases de dados textuais.
+13.      Identificação das partes envolvidas no projeto (em relação a que)
+
+14.      Nome da parte envolvida
+
+15.        patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+16.      Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)
+
+Segepres
+
+Patrocínio do projeto; apoio político e operacional ao projeto.
+
+b)
+
+ISC
+
+Elaboração do diagnóstico dos conteúdos do TCU; definição da tipologia de documentos, da taxonomia, dos modelos de representação e apresentação dos conteúdos do Portal; avaliação da satisfação dos usuários; treinamento dos provedores de conteúdo; disponibilização de estagiários; e divulgação da nova estrutura do Portal.
+
+c)
+
+Setec
+
+Definição da estratégia de migração do conteúdo da Intranet para o Portal e sua operacionalização; definição e implantação dos modelos de representação e apresentação de conteúdos; treinamento dos gestores e provedores para a utilização da ferramenta de gestão de conteúdos; suporte de TI ao projeto; disponibilização de recursos para contratação de consultoria; implantação das alterações de tipos de conteúdo e mudanças de taxonomia no ambiente corporativo; fornecimento de ferramentas de editoração para web; e contratação de consultoria para a elaboração do novo leiaute do Portal, se necessário.
+
+d)
+
+Gestores de conteúdo
+
+Participação do treinamento para publicação de conteúdos no Portal; publicação dos conteúdos das respectivas unidades na nova estrutura do Portal.17.     Custos estimados (registrar se houver alteração dos custos previstos na proposta)
+
+18.      Recurso
+
+19.      Valor estimado
+
+20.      Data inicial de liberação do recurso
+
+
+
+ 
+
+-----
+
+------
+
+------21.      Total de custos estimados
+
+
+
+ 
+
+ 
+
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+22.     Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+
+
+
+
+
+
+
+
+23.      Nome
+
+24.      Matrícula
+
+25.      Lotação
+
+26.      Período
+
+27.      Dedicação integral/ parcial / por atividade
+
+28.      1.
+
+
+
+Luís Henrique Raja Gabaglia Mitchell
+
+6260-0
+
+Segepres
+
+03/07/2006 a 31/03/2008
+
+Integral29.      2.
+
+
+
+Flávia Lacerda Oliveira de Macedo 
+
+6265-0
+
+Setec
+
+03/07/2006 a 31/03/2008
+
+Parcial30.      3.
+
+
+
+Márcia Martins de Araújo Altounian
+
+2655-7
+
+ISC
+
+03/07/2006 a 31/03/2008
+
+Parcial31.      4.
+
+
+
+Benoni Batista Braga Júnior
+
+1622-5
+
+Setec
+
+03/07/2006 a 31/03/2008
+
+Parcial32.      5.
+
+
+
+Cássimo Borges da Costa
+
+2448-1
+
+Setec
+
+03/07/2006 a 31/03/2008
+
+Parcial33.      6.
+
+
+
+Marcello Augusto Cardoso dos Santos
+
+3655-2
+
+Setec
+
+03/07/2006 a 31/03/2008
+
+Parcial34.      7.
+
+
+
+Alexandre França de Araújo
+
+3382-0
+
+Setec
+
+01/02/2007 a 31/03/2008
+
+Parcial35.      8.
+
+
+
+Ricardo Bravo
+
+6340-1
+
+Setec
+
+01/06/2007 a 31/03/2008
+
+Parcial
+
+
+
+
+8.	Finalização
+
+
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto AI &#8211; Arquitetura da Informação.
+
+

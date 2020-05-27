@@ -1,0 +1,575 @@
+Portaria
+123/2012
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando o contido na Resolução-TCU nº 249, de 2 de maio de 2012, que dispõe sobre o acesso à informação e a aplicação da Lei nº 12.527, de 18 de novembro de 2011, no âmbito do Tribunal de Contas da União;
+
+
+considerando o disposto no Decreto nº 7.724, de 16 de maio de 2011;
+
+
+considerando os objetivos constantes do Plano Estratégico do Tribunal que visam intensificar o relacionamento do TCU com a sociedade e estimular o controle social;
+
+
+considerando a necessidade de regulamentação dos procedimentos institucionais afetos às manifestações encaminhadas pelos cidadãos ao Tribunal de Contas da União;
+
+
+considerando o contido nos arts. 31 e 32 da Resolução-TCU nº 240, de 23 de dezembro de 2010, que dispõem sobre a finalidade e competências da Ouvidoria do Tribunal;
+
+
+considerando o estabelecido no voto condutor do Acórdão nº 2092/2010-TCU-Plenário acerca dos procedimentos a serem adotados quanto ao tratamento de comunicação de supostas irregularidades encaminhadas à Ouvidoria do Tribunal; e
+
+
+considerando os pareceres constantes do TC-036.981/20117, resolve:
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º O recebimento, a triagem, a classificação, a distribuição e o atendimento de demandas encaminhadas à Ouvidoria do Tribunal de Contas da União (TCU) obedecerão ao disposto nesta Portaria, observada a legislação vigente.
+
+
+Art. 2º Incumbe à Ouvidoria coordenar o atendimento das demandas a ela encaminhadas.
+
+
+§ 1º A Ouvidoria deve, sempre que possível, atender às demandas sem a participação de outra unidade da Secretaria do TCU.
+
+
+§ 2º Compete às unidades da Secretaria do TCU colaborar com a Ouvidoria mediante a prestação de esclarecimentos, a adoção de providências cabíveis e o fornecimento de informações imprescindíveis ao atendimento das demandas.
+
+
+Art. 3º Para os fins desta Portaria, entende-se por:
+
+
+I - informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;
+
+
+II - demanda: comunicação feita ao TCU, por meio de manifestação ou solicitação de acesso à informação, por pessoa física ou jurídica, que não se caracterize como consulta, denúncia, representação ou qualquer das espécies previstas no Regimento Interno do TCU;
+
+
+III - demandante: pessoa física ou jurídica que encaminha demanda ao TCU;
+
+
+IV - manifestação: demanda encaminhada à Ouvidoria do TCU contendo sugestão, elogio, crítica, reclamação ou comunicação de irregularidade sobre serviço prestado pelo Tribunal ou sobre matéria de competência do Tribunal;
+
+
+V - manifestante: autor da manifestação, pessoa física ou jurídica, identificada ou não;
+
+
+VI - solicitação de acesso à informação: solicitação de acesso à informação formulada com fundamento na Lei nº 12.527, de 2011;
+
+
+VII - requerente: pessoa física ou jurídica identificada que encaminhou ao TCU pedido de acesso à informação nos termos da Lei nº 12.527, de 2011; não se confunde com o conceito de interessado a que se refere o art. 144, § 2º, do Regimento Interno do TCU;
+
+
+VIII - consulta: dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes à matéria de competência do Tribunal, formulada por uma das autoridades elencadas no art. 264 do Regimento Interno, cuja resposta tem caráter normativo e constitui prejulgamento da tese, mas não do fato ou caso concreto;
+
+
+IX - denúncia: comunicação de irregularidade ou ilegalidade ao TCU, com necessária identificação do denunciante e atendimento aos demais requisitos previstos no Regimento Interno do TCU;
+
+
+X - representação: provocação à ação do Tribunal promovida pelos agentes legitimados nos termos do art. 237 do Regimento Interno do TCU;
+
+
+XI - informação sigilosa: aquela submetida temporariamente a restrição de acesso público nos termos da lei;
+
+
+XII - informação pessoal: aquela relacionada à pessoa identificada ou identificável;
+
+
+XIII - unidade competente: unidade responsável pela prestação de serviço no âmbito do TCU ou que detém competência institucional afeta a tema de controle externo objeto da demanda;
+
+
+XIV - recebimento provisório: registro da manifestação em sistema informatizado do Tribunal de Contas da União;
+
+
+XV- recebimento definitivo: confirmação do registro provisório pela Ouvidoria, após avaliação preliminar do conteúdo da manifestação;
+
+
+XVI - triagem: conjunto de procedimentos a ser realizado com vistas a esclarecer o conteúdo das manifestações e a viabilizar os atos de recebimento definitivo, classificação e distribuição;
+
+
+XVII - atendimento de manifestação: conclusão de todos os procedimentos aplicáveis à manifestação nos termos disciplinados por esta Portaria;
+
+
+XVIII - exames preliminares: conjunto de procedimentos utilizados pela Ouvidoria ou pela unidade competente para avaliar materialidade, risco, relevância para fins de controle social e pertinência dos fatos descritos na manifestação, previamente à eventual autuação de processo;
+
+
+XIX - resposta - padrão: texto padronizado utilizado pela Ouvidoria para elaboração de respostas; e
+
+
+XX - documentos de referência: texto informativo utilizado pela Ouvidoria para atender a perguntas recorrentes.
+
+
+Art. 4º Os processos de trabalho da Ouvidoria observarão as seguintes diretrizes:
+
+
+I - presteza no atendimento;
+
+
+II - informação como direito fundamental do cidadão;
+
+
+III - garantia de sigilo; e
+
+
+IV - clareza, informalidade e objetividade nas comunicações.
+
+
+§ 1º No atendimento às manifestações, quando não implicar prejuízo, os dados do manifestante poderão ser informados à unidade competente, ressalvado o disposto no § 2º deste artigo.
+
+
+§ 2º É vedada a divulgação da autoria de manifestação relativa a indícios de irregularidades.
+
+
+§ 3º A garantia de sigilo não se aplica à solicitação de acesso à informação, que é de natureza pública.
+
+
+§ 4º A aplicação da diretriz de informalidade compreende, entre outros, os seguintes requisitos:
+
+
+I - preferência pela comunicação eletrônica, telefônica ou pessoal, em detrimento do envio de memorandos ou ofícios, observadas as normas de comunicação do TCU;
+
+
+II - uso de linguagem coloquial quando necessária à facilitação do entendimento pelo interlocutor; e
+
+
+III - intermediação junto às unidades do TCU, quando esse procedimento puder colaborar para o melhor atendimento da manifestação.
+
+
+CAPÍTULO II
+DO RECEBIMENTO, TRIAGEM E CLASSIFICAÇÃO DAS DEMANDAS
+
+
+
+Seção I
+
+
+
+
+Aspectos gerais das demandas
+
+
+
+Art. 5º São demandas passíveis de encaminhamento à Ouvidoria do TCU: manifestações e solicitações de acesso à informação.
+
+
+Art. 6º As manifestações serão classificadas, de acordo com o conteúdo, em:
+
+
+I - de interesse administrativo: sugestões de melhoria, elogios, críticas ou reclamações acerca de serviços prestados pelo TCU;
+
+
+II - comunicação de irregularidade interna: informações acerca de suposta irregularidade cometida por autoridade, servidor, terceirizado, estagiário ou contratado do TCU;
+
+
+III - comunicação de irregularidade externa: informações acerca de suposta irregularidade ocorrida fora do âmbito do Tribunal, que podem ensejar procedimentos para apuração dos fatos de acordo com as prerrogativas do Tribunal inscritas no inciso IV do art. 71 da Constituição Federal e no inciso II do art. 1º da Lei nº 8.443, de 16 de julho de 1992;
+
+
+IV - de interesse do controle externo: elogios ou comentários acerca de trabalhos do TCU, sugestão de fiscalização e demais informações úteis para o planejamento de ações de controle externo;
+
+
+V - de interesse do cidadão: solicitação de informação sobre serviço prestado pelo TCU, solicitação de orientação técnica para localização e interpretação da jurisprudência do TCU ou de norma aplicável no âmbito da competência do Tribunal;
+
+
+VI - sobre serviços públicos: sugestões, reclamações, críticas, elogios ou solicitações de informações sobre aplicação de recursos federais, serviço público federal ou programas do Governo Federal.
+
+
+Art. 7º O pedido de acesso à informação rege-se pelo contido na Lei nº 12.527, de 18 de novembro de 2011, e na Resolução TCU nº 249, de 2 de maio de 2012, compreendendo, entre outros, o direito de obter:
+
+
+I - orientação sobre os procedimentos para acesso, bem como sobre o local onde poderá ser encontrada ou obtida a informação almejada;
+
+
+II - informação contida em registros ou documentos, produzidos ou acumulados pelo Tribunal, recolhidos ou não a arquivos públicos;
+
+
+III - informação produzida ou custodiada por pessoa física ou entidade privada decorrente de qualquer vínculo com o Tribunal, mesmo que esse vínculo já tenha cessado;
+
+
+IV - informação primária, íntegra, autêntica e atualizada;
+
+
+V - informação sobre atividades exercidas pelo Tribunal, inclusive as relativas à sua política, organização e serviços;
+
+
+VI - informação pertinente à administração do patrimônio público, utilização de recursos públicos, licitação, contratos administrativos;
+
+
+VII - informação relativa:
+
+
+a) à implementação, acompanhamento e resultados dos programas, projetos e ações do Tribunal, bem como metas e indicadores propostos; e
+
+
+b) ao resultado de inspeções, auditorias, prestações e tomadas de contas realizadas pelo Tribunal, incluindo prestações de contas relativas a exercícios anteriores;
+
+
+VIII - demais informações cujo acesso é assegurado em lei.
+
+
+Parágrafo único. As solicitações de acesso à informação feitas por responsável ou interessado, qualificados nos termos dos §§ 1º e 2º do art. 144 do Regimento Interno do TCU, ou por entidade ou órgão que detenha prerrogativa constitucional ou legal, observarão os procedimentos dispostos em normativo específico, assim como a consulta de que trata o art. 264 do Regimento Interno do TCU.
+
+
+Art. 8º A solicitação de acesso à informação compreenderá, entre outras, as seguintes hipóteses:
+
+
+I - solicitação de informação ou de cópia;
+
+
+II - solicitação de certidão ou informação para defesa de interesses particulares, coletivos
+
+
+ou geral; e
+
+
+III - pedidos de vista e de cópia dos autos.
+
+
+Art. 9º Qualquer pessoa poderá apresentar demanda à Ouvidoria.
+
+
+§ 1º As demandas deverão ser apresentadas, preferencialmente, por intermédio de formulário disponível no Portal do Tribunal de Contas da União;
+
+
+§ 2º O demandante poderá, ainda, enviar a demanda pelos seguintes canais de comunicação: central de atendimento; fax; correio eletrônico; atendimento presencial na Ouvidoria, conforme prévio agendamento.
+
+
+§ 3º A identificação do autor de manifestação não será exigida e, quando disponível, será mantida em sigilo pela Ouvidoria, ressalvado o disposto no § 4º deste artigo.
+
+
+§ 4º Quando for essencial ao atendimento da manifestação e não implicar prejuízo ao manifestante, seus dados poderão ser informados à unidade competente, que, nesse caso, tornar-se-á corresponsável pela manutenção do sigilo.
+
+
+§ 5º Não se exigirão os motivos determinantes da solicitação de acesso à informação, que obrigatoriamente deverá conter a identificação do requerente e a especificação da informação requerida.
+
+
+Art. 10. As solicitações de acesso à informação deverão conter:
+
+
+I - nome do requerente;
+
+
+II - número de documento de identificação válido;
+
+
+III - especificação, de forma clara e precisa, da informação requerida; e
+
+
+IV - endereço físico ou eletrônico do requerente, para recebimento de comunicações ou da informação requerida.
+
+
+Art. 11. Não serão atendidas solicitações de acesso à informação:
+
+
+I - genéricas;
+
+
+II - desproporcionais ou desarrazoadas; ou
+
+
+III - que exijam trabalhos adicionais de análise, interpretação ou consolidação de dados e informações, ou serviço de produção ou tratamento de dados que não seja de competência do Tribunal.
+
+
+Parágrafo único. Na hipótese do inciso III do caput, a Ouvidoria indicará o local onde se encontram as informações a partir das quais o requerente poderá realizar a interpretação, consolidação ou tratamento de dados.
+
+
+
+Seção II
+Recebimento Provisório das Demandas
+
+
+
+Art. 12. As demandas apresentadas perante o TCU deverão ser encaminhadas à Ouvidoria, para fins de recebimento, triagem, classificação, distribuição e, se for o caso, atendimento.
+
+
+§ 1º A demanda eventualmente encaminhada à outra unidade do Tribunal deverá ser redirecionada à Ouvidoria, com indicação, se for o caso, da providência já adotada para o respectivo atendimento, ressalvada a hipótese do § 2º deste artigo.
+
+
+§ 2º A solicitação de acesso à informação encaminhada à outra unidade que não a Ouvidoria poderá ser respondida pela recebedora caso se refira a matéria de competência da própria unidade, situação na qual deverá cumprir o disposto no art. 13 e os demais procedimentos previstos nesta Portaria para recebimento, classificação e atendimento da demanda.
+
+
+Art. 13. As demandas recebidas por outros meios que não o formulário disponível no Portal TCU deverão ser cadastradas em sistema informatizado próprio, pela Ouvidoria ou, na hipótese prevista no § 2º do art. 12 desta Portaria, pela unidade recebedora.
+
+
+§ 1º O cadastro a que se refere este artigo caracterizará o recebimento provisório da demanda.
+
+
+§ 2º O cumprimento do disposto neste artigo não se aplica às situações abrangidas pelo art. 13 da Resolução-TCU nº 249, de 2012.
+
+
+
+Seção III
+Triagem e Classificação das Demandas
+
+
+
+Art. 14. Após o recebimento provisório, a demanda deverá ser submetida à triagem, com vistas a esclarecer seu conteúdo e objetivo.
+
+
+§ 1º No processo de triagem, a Ouvidoria poderá consultar as bases de dados disponíveis no Tribunal, bem assim contatar outras unidades ou o demandante.
+
+
+§ 2º As demandas repetidas ou com conteúdo vazio ou ininteligível serão arquivadas.
+
+
+§ 3º Será aceita manifestação sem identificação de autoria; contudo, quando inexistirem dados de contato que possibilitem o envio da resposta, seja por meio de contato telefônico, envio de correspondência ou de mensagem eletrônica, a manifestação será arquivada após registro da resposta cabível no sistema informatizado da Ouvidoria, nos termos do art. 20 desta Portaria.
+
+
+§ 4º Os pedidos de acesso à informação que não atenderem aos requisitos de identificação do autor e especificação do objeto de que trata o art. 10 desta Portaria serão sumariamente arquivados, sem qualquer apreciação.
+
+
+
+Seção IV
+Recebimento Definitivo das Demandas
+
+
+
+Art. 15. Uma vez procedida à triagem, as demandas serão recebidas em definitivo, ressalvado o disposto no § 2º e no § 4º do art. 14 desta Portaria.
+
+
+Parágrafo único. Quando do recebimento definitivo, a demanda, registrada em sistema informatizado da Ouvidoria, será acrescida de informações que permitam sua posterior utilização para fins gerenciais e de controle externo.
+
+
+CAPÍTULO III
+DO ATENDIMENTO DAS DEMANDAS
+
+
+
+Seção I
+Procedimentos para Distribuição e Atendimento das Demandas
+
+
+
+Art. 16. Após o recebimento definitivo, a Ouvidoria adotará, de imediato, providências com vistas ao tratamento e atendimento das manifestações e dos pedidos de acesso à informação.
+
+
+Parágrafo único. Ressalvada a hipótese do § 2º do art. 12 desta Portaria, o encaminhamento da resposta ao demandante se dará de forma centralizada pela Ouvidoria, observados os procedimentos dispostos nesta Portaria.
+
+
+Art. 17. A Ouvidoria fornecerá a resposta direta e imediatamente ao demandante, sem o concurso de outras Unidades do TCU, sempre que dispuser de dados e informações suficientes para o pleno atendimento da demanda ou puder obtê-los nas bases de dados disponibilizadas pelo Tribunal.
+
+
+§ 1º A Ouvidoria poderá solicitar às unidades competentes a elaboração ou a atualização de documentos de referência ou minutas de resposta-padrão, especificando as questões recorrentes, ou, se necessário, esclarecendo eventuais alterações fáticas ou normativas que justifiquem a atualização.
+
+
+§ 2º Dependerá de prévia autorização do Presidente do Tribunal ou do relator o fornecimento de:
+
+
+I - informações relacionadas a processos de controle externo;
+
+
+II - informações pessoais, assim consideradas as que dizem respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais, nos termos do art. 31 da Lei 12.527, de 2011;
+
+
+III - negativa de acesso a pedido de informação; e
+
+
+IV - dados relativos a outras hipóteses previstas em ato normativo do Tribunal ou da sua Presidência.
+
+
+Art. 18. Na hipótese de a Ouvidoria não dispor de elementos suficientes para o pleno atendimento da demanda, deverá requisitá-los às unidades competentes, fixando prazo para resposta nos termos do art. 27 desta Portaria.
+
+
+Parágrafo único. O encaminhamento da demanda às unidades competentes será realizado sem a identificação do demandante, ressalvadas as reclamações e os pedidos de acesso à informação nos quais a indicação dos dados do demandante revele-se essencial ao atendimento da demanda e não implique prejuízo ao cidadão.
+
+
+Art. 19. Com o objetivo de auxiliar o demandante, quando a demanda contiver pedido de orientação sobre matéria referente à área de atuação do Tribunal, a Ouvidoria ou a unidade técnica competente poderão promover o atendimento mediante orientação técnica.
+
+
+§ 1º A orientação técnica será realizada mediante indicação de jurisprudência e estará isenta de qualquer conteúdo normativo, consistindo em simples sugestão ao demandante e não consistindo, em hipótese alguma, em pré-julgamento de tese.
+
+
+§ 2º A orientação técnica não se confunde com a consulta prevista nos arts. 264 e 265 do Regimento Interno do TCU.
+
+
+Art. 20. Quando a Ouvidoria não dispuser de dados de contato do manifestante, impossibilitando o contato telefônico ou o envio de correspondências ou de mensagens eletrônicas, a manifestação será considerada atendida no momento em que a Ouvidoria registrar, em seu sistema informatizado, a resposta passível de encaminhamento ao demandante.
+
+
+Art. 21. A Ouvidoria manterá informados os autores das manifestações mencionadas nos incisos I, II e III do art. 6º desta Portaria a respeito de averiguações e providências adotadas pelos setores competentes do Tribunal.
+
+
+Art. 22. Quando a manifestação puder ser enquadrada, concomitantemente, em mais de uma das classificações dispostas no art. 6º desta Portaria, a Ouvidoria adotará, no que couber, os procedimentos relativos a todas as espécies nas quais se enquadrar.
+
+
+Art. 23. Nas solicitações de acesso à informação, caso não seja possível autorizar ou conceder o acesso imediato à informação solicitada, a Ouvidoria deverá informar ao respectivo requerente, em prazo não superior a vinte dias, contados da data do recebimento da demanda:
+
+
+I - data, local e modo para se realizar a pesquisa, efetuar a reprodução ou obter a certidão;
+
+
+II - razões de fato ou de direito da recusa, total ou parcial, do acesso pretendido; ou
+
+
+III - não possuir a informação, com indicação, se for do seu conhecimento, do órgão ou a entidade que a detém e, se couber, da remessa do pedido de informação ao respectivo órgão ou entidade.
+
+
+Parágrafo único. O prazo referido no caput poderá ser prorrogado por até dez dias, mediante justificativa expressa, da qual será cientificado o requerente.
+
+
+Art. 24. Caso a informação solicitada esteja disponível ao público em formato impresso, eletrônico ou em qualquer outro meio de acesso universal, a Ouvidoria informará ao demandante, por escrito, o lugar e a forma pela qual se poderá pesquisar, obter ou reproduzir a referida informação, procedimento esse que desonerará o Tribunal da obrigação de seu fornecimento direto, salvo se o requerente declarar não dispor de meios para realizar por si mesmo tais procedimentos.
+
+
+Art. 25. A informação armazenada em meio digital será fornecida nesse formato, caso haja anuência do requerente.
+
+
+
+Seção II
+Da Proteção à Informação Sigilosa e Pessoal
+
+
+
+Art. 26. Cabe à Ouvidoria assegurar a devida proteção à informação classificada pelo Tribunal como sigilosa, bem como à informação pessoal, observada a sua disponibilidade, autenticidade, integridade e eventual restrição de acesso.
+
+
+§ 1º Quando não for autorizado o acesso à informação por ser ela total ou parcialmente sigilosa, o requerente deverá ser informado sobre a possibilidade de recurso, prazos e condições para interposição, devendo, ainda, ser-lhe indicada a autoridade competente para apreciação.
+
+
+§ 2º Quando se tratar de informação parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.
+
+
+§ 3º O tratamento de informação sigilosa resultante de tratados, acordos ou atos internacionais atenderá às normas e recomendações constantes desses instrumentos.
+
+
+§ 4º O intercâmbio de informações e documentos sigilosos, para fins de fiscalização e controle, com entidades e órgãos públicos com os quais o TCU mantenha acordo de cooperação ou instrumento congênere observará o contido na Resolução-TCU nº 223, de 18 de março de 2009.
+
+
+
+Seção III
+Da resposta da unidade competente à Ouvidoria
+
+
+
+Art. 27. A unidade competente tem o prazo de dez dias, contados a partir da data do recebimento da demanda, para encaminhar à Ouvidoria as informações indispensáveis ao respectivo atendimento.
+
+
+§ 1º Caso seja necessário prazo superior ao estabelecido no caput deste artigo, a unidade competente informará tal fato à Ouvidoria, esclarecendo os motivos da impossibilidade e indicando novo prazo para atendimento, que não excederá a 5 (cinco) dias.
+
+
+§ 2º Esgotado o prazo referido no caput deste artigo sem que a unidade competente justifique a necessidade de prorrogação ou proceda ao envio das informações, a Ouvidoria reiterará a demanda, fixando novo prazo de 5 (cinco) dias.
+
+
+§ 3º Transcorridos os prazos previstos neste artigo, a Ouvidoria enviará à Secretaria-Geral da Presidência, com cópia para a unidade competente e respectiva unidade básica, mensagem comunicando que a manifestação ou o pedido de acesso à informação não pôde ser atendido em virtude da ausência das informações ou esclarecimentos necessários.
+
+
+Art. 28. A unidade para a qual a demanda houver sido encaminhada deverá comunicar tempestivamente à Ouvidoria as situações nas quais entender que a matéria não é de sua competência, de modo a permitir o redirecionamento, ou, se for o caso, o encaminhamento à unidade básica envolvida, para indicação da unidade competente para atendimento da demanda.
+
+
+Art. 29. A unidade competente deverá cientificar imediatamente a Ouvidoria sempre que:
+
+
+I - adotar medidas complementares para o atendimento da manifestação, tais como a realização de diligência ou a autuação de processo;
+
+
+II - encaminhar aos órgãos competentes os indícios de crimes ou de outras ocorrências cuja competência para apuração não seja do Tribunal, nos termos do parágrafo único do art. 34 desta Portaria;
+
+
+III - o objeto da demanda já tenha sido ou esteja sendo alvo de apuração ou solução pelo Tribunal; e
+
+
+IV - prolatada deliberação do Tribunal sobre processo autuado em decorrência de manifestação recebida pela Ouvidoria.
+
+
+Art. 30. Prescinde de resposta à Ouvidoria a manifestação encaminhada à unidade competente do Tribunal apenas para ciência e providências que entender cabíveis, salvo se forem adotadas medidas que possam ser de interesse do manifestante, tais como autuação de processo, realização de diligência e solução de problema apontado na manifestação.
+
+
+CAPÍTULO IV
+DO TRATAMENTO DAS COMUNICAÇÕES DE IRREGULARIDADES EXTERNAS
+
+
+Art. 31. As comunicações de irregularidades externas recebidas pela Ouvidoria serão encaminhadas à unidade técnica competente.
+
+
+Parágrafo único. As comunicações que preencham os requisitos previstos nos arts. 234 a 236 do Regimento Interno do TCU não serão autuadas pela unidade competente como denúncia, exceto se o manifestante assim o desejar.
+
+
+Art. 32. Cabe à unidade responsável avaliar as comunicações de irregularidades recebidas, segundo critérios de materialidade, risco, relevância, interesse social e veracidade dos fatos descritos, para decidir se os exames preliminares devem prosseguir ou se as informações servirão de subsídios ao planejamento de futuras fiscalizações.
+
+
+Parágrafo único. Na hipótese de prosseguimento dos exames preliminares, a unidade responsável avaliará a necessidade de realizar diligências com vistas ao esclarecimento dos fatos.
+
+
+Art. 33. Ao término dos exames preliminares, se constatados indícios de irregularidades passíveis de fiscalização pelo TCU, atendidos os critérios de relevância, materialidade, risco e interesse social, a unidade responsável poderá:
+
+
+I - formular representação ao relator acerca da irregularidade, com a respectiva proposta de encaminhamento; ou
+
+
+II - propor fiscalização, com observância aos procedimentos e requisitos definidos sobre a matéria, inclusive aqueles dispostos em normativos da Secretaria-Geral de Controle Externo.
+
+
+§ 1º A manifestação não deverá ser juntada aos autos como prova direta ou indireta de qualquer irregularidade, nem poderá ser transcrita - total ou parcialmente - nas instruções, despachos e pareceres, de modo que o processo instaurado fundamente-se, exclusivamente, em procedimentos de iniciativa do Tribunal com base em informações por ele coligidas.
+
+
+§ 2º Quando da autuação de processo, a unidade competente deverá cientificar imediatamente a Ouvidoria que dará ciência ao manifestante.
+
+
+Art. 34. A unidade responsável comunicará à Ouvidoria, para resposta ao demandante, a demanda que versar sobre assunto cujo exame seja de competência de outro órgão ou entidade de controle ou fiscalização, informando as providências adotadas.
+
+
+Parágrafo único. Se concluir que há indícios de crimes ou de outras ocorrências cuja competência para apuração não seja do Tribunal, a unidade responsável adotará as providências cabíveis com vistas ao encaminhamento desses indícios aos órgãos competentes, dando imediata ciência do fato à Ouvidoria.
+
+
+Art. 35. Se, ao término dos exames preliminares, não forem detectados indícios de irregularidades que se incluam na esfera de competência do TCU, a Ouvidoria orientará o manifestante sobre o órgão a ser contatado, e arquivará a respectiva manifestação.
+
+
+Art. 36. Sem prejuízo da atribuição prevista no art. 237, inciso VI, do Regimento Interno do Tribunal, a Ouvidoria deve comunicar:
+
+
+I - ao Gabinete do Corregedor do TCU a existência de indícios de suposta prática de infração funcional por parte de servidor do Tribunal, dando ciência à Comissão de Coordenação-Geral;
+
+
+II - à Secretaria de Controle Interno, à Comissão de Coordenação-Geral e à unidade de controle externo que detém o Tribunal em sua clientela a existência de indícios de suposta irregularidade que teria sido praticada em atos de gestão do TCU; e
+
+
+III - aos Gabinetes do Presidente e do Corregedor do TCU a existência de indícios de suposta prática de infração por parte de autoridade do Tribunal.
+
+
+CAPÍTULO V
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 37. As informações contidas no cadastro de demandas do sistema informatizado da Ouvidoria poderão ser utilizadas institucionalmente, de forma consolidada, para fins administrativos e de controle externo, observadas as diretrizes expedidas pela Comissão de Coordenação-Geral.
+
+
+Art. 38. A Secretaria-Geral de Controle Externo, por meio de unidade/subunidade especificamente designada, pode realizar o tratamento e a análise dos dados das manifestações cadastradas no sistema de que trata o art. 37 desta Portaria, para subsidiar o planejamento e a realização de ações de controle, resguardado o sigilo dos autores das manifestações.
+
+
+Art. 39. Incumbe à Secretaria de Soluções de Tecnologia da Informação apoiar o desenvolvimento das soluções de Tecnologia da Informação necessárias ao cumprimento dos dispositivos constantes desta Portaria, observadas as prioridades tecnológicas indicadas pela Comissão de Coordenação-Geral.
+
+
+Art. 40. Anualmente, a Ouvidoria encaminhará à Presidência do TCU proposta de relatório estatístico contendo:
+
+
+I - a quantidade de manifestações recebidas e outros dados gerenciais a essas relacionados;
+
+
+II - a quantidade de solicitações de acesso à informação recebidas, atendidas e indeferidas, bem como informações genéricas sobre os solicitantes.
+
+
+Art. 41. A Comissão de Coordenação-Geral fica autorizada a expedir os atos necessários à regulamentação desta Portaria.
+
+
+Art. 42. Os casos omissos serão dirimidos pela Comissão de Coordenação-Geral.
+
+
+Art. 43. Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 44. Revoga-se a Portaria-TCU nº 121, de 13 de junho de 2005.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+Revogada
+Dispõe sobre o atendimento das manifestações e das solicitações de acesso à informação encaminhadas ao Tribunal de Contas da União.
+
+

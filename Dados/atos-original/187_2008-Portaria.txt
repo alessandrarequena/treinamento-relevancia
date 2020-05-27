@@ -1,0 +1,1089 @@
+Portaria
+187/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 84, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e no art. 5º da PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Segurança de TI – fase 1, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+1.Identificação do gestor do projeto
+
+I - Nome do gestor
+
+II - Matrícula
+
+III - E-mail
+
+IV - Ramal
+
+
+
+Geraldo Magela Lopes de Freitas
+
+2426/0
+
+geraldomf@tcu.gov.br
+
+7252V - Função do gestor
+
+
+
+ VI - Gerente
+
+
+
+XVII - Coordenador
+
+
+
+ VIII - Líder
+
+IX - Nome do substituto eventual
+
+X - Matrícula
+
+XI - E-mail
+
+XII - Ramal
+
+
+
+Fábio Mendonça Magliano
+
+2519/4
+
+fabiomm@tcu.gov.br
+
+7232XIII - Local / telefone
+
+
+
+Em negociação com o patrocinador
+
+
+
+
+2.Identificação do projeto
+
+XIV - Nome do projeto
+
+
+
+Segurança de TI - fase 1 XV - Período de realização
+
+XVI - Unidade patrocinadora
+
+
+
+11/08/2008 a 31/03/2009
+
+ Segepres/Setec 
+
+
+
+
+3.Vinculação estratégica
+
+XVII - Plano Estratégico do TCU (Portaria – TCU nº 2, de 5 de janeiro de 2006)
+
+
+
+a)    XVIII - Objetivo 15: Ampliar o uso de tecnologia da informação nas ações de controle
+
+
+
+Iniciativa 12: Disseminar o uso de TI para apoio ao controle externoXIX - Iniciativa 14: Assegurar a qualidade das informações das bases de dados corporativas do TCU
+
+
+
+b)    XX - Objetivo 21: Assegurar adequado suporte logístico às necessidades do TCU
+
+XXI - Iniciativa 22: Definir e implantar plano de sustentabilidade
+
+XXII - Plano de Diretrizes do TCU – 2008 (Portaria – TCU nº 51, de 5 de março de 2008)
+
+
+
+c)    
+
+Ação 7.4: Implementar modelos de governança e gerenciamento de serviços de TI
+
+d)    
+
+Ação 7.11: Definir e implantar modelo institucional para segurança da informaçãoXXIII - Plano Diretor de TI 2007– 2008 (Portaria – Setec nº 1, de 30 de maio de 2007)
+
+
+
+e)    XXIV - Ação 8.9: Aumentar a segurança da rede do TCU
+
+XXV - Ação 8.9.3: Instituir política de utilização e rotina de verificação para serviços de arquivo, correio eletrônico e internet
+
+
+
+Ação 8.9.4: Estabelecer regras de segurança e ajustar permissões de acesso às pastas dos servidores de arquivos da Sede, do ISC e dos Estados
+
+f)     
+
+Ação 8.10: Implantar rotinas de atualização de sistemas operacionais e aplicativos de todos os servidores corporativos do TCU
+
+g)    
+
+Ação 9.1: Instituir no âmbito da Setec responsáveis pela administração de cada solução de TI (matriz de responsabilidades).
+
+Ação 9.1.1: Rever estrutura, competências e responsabilidades das subunidades da Setec, inclusive no que se refere à segurança da informação
+
+h)    
+
+Ação 9.3: Aperfeiçoar o processo de monitoramento e manutenção da infra-estrutura, com foco nas soluções críticas
+
+Ação 9.3.3: Definir períodos e horários para realização de manutenções preventivas e implantação de novas versões de soluções de TI
+
+Ação 9.3.5: Definir mudanças administrativas para aumentar disponibilidade
+
+i)      
+
+Ação 10.6: Aperfeiçoar a segurança da informação no TCU
+
+Ação 10.6.1: Realizar avaliação dos processos de segurança da informação do TCU segundo a ISO/IEC 17799
+
+
+
+
+4.Problema / oportunidade
+
+XXVI - Descrição do problema ou da oportunidade
+
+
+
+a)    
+
+Elevado grau de risco nas soluções de TI do TCU, conforme apresentado no Relatório de Diagnóstico de Riscos;
+
+b)    
+
+Carência de normativos que definam a forma correta de utilização de soluções de TI;
+
+c)    
+
+Falta de definição expressa de responsabilidade dos setores da Setec em relação às atividades de segurança de TI;
+
+d)    
+
+Evolução rápida da área de TI, com implententações freqüentes de novos serviços e sistemas, sem devida atenção a aspectos relativos à segurança da informação;
+
+
+
+
+
+e)    
+
+Dependência cada vez maior do TCU em relação às soluções de TI;
+
+f)     
+
+A criação da Assig e o lançamento da PCSI do TCU - previsto para setembro – criam o momento propício para a conscientização dos servidores para o tema.I - Evolução do quadro
+
+
+
+g)    
+
+Tendo em consideração que o negócio do TCU é essencialmente amparado no uso de informações, torna-se imprescindível a preocupação com a segurança da informação, sob os três aspectos fundamentais: disponibilidade, integridade e confidencialidade. Equivale a dizer que a informação precisa estar disponível no momento necessário, de forma íntegra e confiável e ao alcance somente das pessoas legitimadas para acessá-la.
+
+Segundo a norma ISO 17799, “a segurança da informação é obtida a partir da implementação de um conjunto de controles adequados, incluindo políticas, processos, procedimentos, estruturas organizacionais e funções de software e hardware. Esses controles precisam ser estabelecidos, implementados, monitorados, analisados criticamente e melhorados continuamente para garantir que os objetivos das áreas de negócio e de segurança da organização sejam atendidos. Convém que isto seja feito em conjunto com outros processos de gestão do negócio.”
+
+h)    
+
+O Ministro Sherman, responsável pela coordenação das ações relativas à tecnologia da informação e governança de TI, tem ressaltado a importância de assegurar a necessária disponibilidade e continuidade dos serviços de TI, de estabelecer acordos de nível de serviço, assim como de identificar e o tratar os principais riscos existentes.
+
+i)      
+
+Em abril de 2008, foi criada a Assessoria em Segurança da Informação e Apoio à Governança de TI (Assig), vinculada à Segepres. Essa iniciativa demonstra a crescente importância que o TCU tem dado ao assunto segurança da informação (SI). Nesse contexto, mostra-se importante definir a forma de integração das áreas mais diretamente envolvidas com os procedimentos de segurança da informação, tais como Assig, Setec, áreas de segurança patrimonial e de gestão de pessoas. Uma das primeiras ações previstas para a Assig é a revisão da Política de Segurança da Informação (PSI) do TCU. É importante que, juntamente com a revisão da PSI, sejam elaboradas e publicadas diversas normas, a fim de disciplinar o uso de ativos de informação do TCU, entre elas: correio eletrônico, servidores de arquivos, rede e dispositivos móveis.
+
+j)      
+
+Em evento realizado no TCU, em 17/04/2008, workshop sobre segurança da informação, ministrado pela empresa Módulo, e que contou com a presença do Ministro Sherman e de representantes de diversas áreas do TCU, restou clara a urgência de o Tribunal investir em diferentes frentes de segurança da informação, ante os riscos e vulnerabilidades identificadas no diagnóstico de SI. Foi apontada a necessidade de criação de área específica para tratamento de SI em nível institucional, que se coaduna com a criação da Assig, e também a necessidade de se criar área específica para tratamento de SI em nível mais técnico, que deveria ser vinculada à área de TI. 
+
+k)    
+
+O TCU contratou dois diagnósticos na área de TI no ano de 2007. O primeiro, relativo à verificação da adoção das melhores práticas de gestão de serviços de TI, baseado na biblioteca ITIL, englobava, além da elaboração de diagnóstico, o planejamento de implantação de melhores práticas ITIL na Setec. O segundo, relativo à verificação do grau de maturidade em segurança da informação, com base na norma de segurança ISO 17799, englobava o diagnóstico e a análise de risco dos principais ativos de informação do TCU.
+
+O contrato de diagnóstico de segurança da informação, que está em fase de conclusão, não inclui a fase de planejamento de implementação de melhorias. Por isso, é importante a criação de um projeto com a finalidade de dar prosseguimento ao planejamento e implantação dessas melhorias, a fim de sanar ou mitigar os riscos mais importantes. A fase de diagnóstico dos riscos é somente a primeira etapa do processo de gestão de riscos, que fica incompleto sem o tratamento dos riscos identificados.
+
+l)      
+
+A dinamicidade da área de TI impõe mudanças com elevada freqüência. O levantamento de informações que subsidiaram a elaboração do diagnóstico de segurança da informação foi concluído em fevereiro. Depois disso, novas soluções foram implementadas (ex. rede wireless e aceleradores de tráfego wan) e outras foram completamente substituídas (ex. switches da sede, anexos e ISC). Por isso, os diferentes aspectos e procedimentos relativos a segurança da informação precisam continuamente ser complementados, testados e avaliados. Uma nova rodada de avaliação deve ocorrer em breve, possivelmente por meio de aditivo contratual com a empresa que realizou o primeiro diagnóstico. Alguns servidores do TCU estão sendo treinados na metodologia e na ferramenta utilizadas pela Módulo para diagnóstico de segurança. A criação de um projeto de segurança nesse momento é bastante propícia, pois as pessoas alocadas ao projeto poderão acompanhar os consultores no processo de levantamento das informações e internalizarem o conhecimento necessário às próximas rodadas de diagnóstico de segurança, com vistas a permitir futuramente que os diagnósticos sejam executados por servidores do TCU. 
+
+
+
+
+
+
+m)  
+
+Em função da criticidade e do sigilo de algumas informações armazenadas, é importante aprimorar o tratamento da questão de concessão e revogação de privilégios de acesso para consulta e atualização de informações custodiadas no TCU. Vale ressaltar que há informações sensíveis pertencentes à clientela do Tribunal.
+
+n)    
+
+Adicionalmente, a Comunidade de Tecnologia da Informação Aplicada ao Controle (TIControle) concebida em 2005 e formalizada no início de 2008, tem como objetivo permitir o compartilhamento de conhecimentos, informações, base de dados e soluções de tecnologia da informação voltados para o controle de gestão pública e melhoria dos resultados da administração pública. É importante que o compartilhamento dessas informações ocorra de maneira segura e, para que isso ocorra, é imprescindível o estabelecimento de protocolos e mecanismos de segurança para troca e acesso às informações.
+
+o)    
+
+Diversos normativos concernentes à segurança da informação têm sido elaborados pelo governo federal. Por outro lado, o TCU e, principalmente, a Sefti, tem orientado os órgãos públicos a seguirem, além desses normativos, as melhores práticas de governança de TI, de gestão de serviços de TI e de segurança da informação. É importante que o próprio TCU dê exemplo de alinhamento aos normativos e de adoção das melhores práticas.
+
+p)    
+
+As normas ISO referentes à segurança da informação estão em fase de revisão. A norma ISO 17799 está sendo substituída pela ISO 27002. A norma ISO 27001, recentemente publicada, define o Sistema de Gestão de Segurança da Informação. A norma ISO 27005, recentemente lançada, define o tratamento a ser dado para Gestão de Riscos em Segurança da Informação. É preciso analisar todo esse normativo e verificar sua aplicabilidade na área de TI do TCU.
+
+q)    
+
+A Portaria-TCU n° 143, de 2 de junho de 2008, designou grupo de trabalho para realizar diagnóstico da governança de TI do TCU e propor medidas para o seu aprimoramento. Dentre as medidas estão a revisão da portaria de gestor (Portaria-TCU n° 105/2006) e a elaboração de propostas de normativos para formalização de modelo de governança de TI para o TCU. Esses normativos devem levar em consideração os aspectos relativos à segurança de TI.
+
+
+
+
+5.Escopo do projeto
+
+I - 5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+
+
+Aperfeiçoar a segurança de Tecnologia da Informação no Tribunal de Contas da União, englobando aspectos básicos de integridade, disponibilidade e confidencialidade.
+
+
+
+
+5.2 Meta – Indicador – Produto – Cliente
+
+II - META
+
+III - Produto
+
+IV - Homologador
+
+V - Objetivo específico
+
+VI - Quanto
+
+VII - Data de término
+
+
+
+a)    
+
+Compilar normas de segurança aplicáveis à tecnologia de informação do TCU[1]
+
+1
+
+11/09/08
+
+Relatório consolidado de normas aplicáveis a segurança do TCU aprovado
+
+Setec
+
+b)    
+
+Levantar normas de segurança e uso de soluções de TI de outros órgãos públicos, visando a explicitar conteúdos e boas práticas aplicáveis e subsidiar a elaboração dos normativos do TCU
+
+1
+
+11/09/08
+
+Relatório de visitas a órgãos públicos contendo levantamento sobre normas de segurança e uso de soluções de TI[2]
+
+Setec
+
+c)    
+
+Reduzir veiculação e armazenamento de mensagens eletrônicas que não sejam relacionados com o trabalho do TCU ou que representem riscos à segurança da rede, bem como definir direitos e critérios de uso do serviço
+
+1
+
+15/09/08
+
+Minuta de portaria de norma de uso de correio eletrônico aprovada
+
+CCG
+
+Segepres/
+
+Assig
+
+Setec/Secont
+
+
+
+
+
+
+
+I - META
+
+II - Produto
+
+III - Homologador
+
+IV - Objetivo específico
+
+V - Quanto
+
+VI - Data de término
+
+
+
+d)    
+
+Definir que tipos de dispositivos podem ser conectados à rede e requisitos para conexão e para autorização de uso da rede por usuários
+
+1
+
+15/09/08
+
+Minuta de portaria de norma de uso da rede aprovada
+
+CCG
+
+Segepres/
+
+Assig
+
+Setec/Semin
+
+Setec/Sesuc
+
+e)   I
+
+Identificar entidades externas e grupos de SI para troca de experiências 
+
+1
+
+06/10/08
+
+Relação de entidades externas e grupos de SI apresentada
+
+Setec
+
+f)     
+
+Prover meios para uniformização de configuração de ativos de rede, de forma a garantir que tais configurações obedeçam às melhores práticas
+
+3
+
+06/10/08
+
+Definição de diretivas e templates de configuração para roteadores e equipamentos de rede (switches)[3] validados
+
+Setec/Semin
+
+g)    
+
+Reduzir a necessidade de espaço em disco e disciplinar os tipos de arquivos ou conteúdos que podem ser armazenados nos servidores de rede, bem como critérios para concessão/revogação de permissões
+
+1
+
+10/11/08
+
+Minuta de portaria de norma de uso de servidor de arquivos aprovada
+
+CCG
+
+Segepres/
+
+Assig
+
+Setec/Sesin
+
+Setec/Disin
+
+h)    
+
+Definir requisitos para aquisição, instalação e manutenção de equipamentos servidores e aplliances, visando melhoria da segurança da rede 
+
+1
+
+10/11/08
+
+Minuta de portaria de norma de segurança para equipamentos servidores e appliances aprovada
+
+Segepres/
+
+Assig
+
+Setec/Semin
+
+Setec/Sesin
+
+i)      
+
+Definir política de cópia e retenção de arquivos da rede TCU
+
+1
+
+01/12/08
+
+Minuta de portaria sobre política de backup aprovada
+
+CCG
+
+Segepres/
+
+Assig
+
+Setec/Sesin
+
+j)      
+
+Definir responsabilidade das subunidades da Setec em relação ao tema Segurança da Informação
+
+1
+
+01/12/08
+
+Minuta de revisão da Portaria-Setec 13/2005, definindo as competências das subunidades da Setec em relação à segurança de TI aprovada
+
+Segepres/Assig Setec
+
+k)    
+
+Apoiar a revisão do modelo de desenvolvimento de sistemas do TCU (TCU-UP), com vistas a inserir artefatos de segurança e requisitos de infra-estrutura
+
+1
+
+16/02/09
+
+ Relatório com sugestões de mudanças na metodologia de desenvolvimento sistemas aprovado
+
+Setec/Disin
+
+Setec/Sequap
+
+l)      
+
+Elaborar plano de implantação de melhores práticas de segurança da informação em TI (baseado na norma ISO 17799 e diagnóstico de segurança elaborado pela Módulo), visando a atingir grau de maturidade desejado pelo TCU
+
+1
+
+27/02/09
+
+Relatório contendo análise e plano de implementação de melhorias propostas nos relatórios de análise de risco aprovado
+
+Setec
+
+m)  
+
+Propor ações para o PDTI 2009 da Setec, com vistas à melhoria da segurança e disponibilidade de serviços de TI
+
+1
+
+27/02/09
+
+Relatório com proposta de ações para inclusão no PDTI 2009 aprovado
+
+Setec
+
+
+
+I - META
+
+II - Produto
+
+III - Homologador
+
+IV - Objetivo específico
+
+V - Quanto
+
+VI - Data de término
+
+
+
+n)    
+
+Assegurar que um enfoque consistente e efetivo seja aplicado à gestão de incidentes de segurança da informação
+
+1
+
+16/03/09
+
+Relatório com procedimentos para tratamento de incidentes de segurança aprovado
+
+Segepres/
+
+Assig
+
+Setec/Sequap
+
+o)    
+
+Acompanhar/coordenar a implantação de melhorias de segurança nas soluções de TI existentes, de forma a atender aos principais riscos apontados no diagnóstico de segurança da informação 
+
+1
+
+18/03/09
+
+Relatório com as melhorias implementadas durante o projeto aprovado
+
+Segepres/
+
+Assig Setec
+
+p)    
+
+Apresentar características necessárias aos certificados digitais, a fim de atender aos projetos de processo eletrônico, controle de acesso de pessoas e assinatura digital de e-mail
+
+1
+
+18/03/09
+
+Relatório com características de certificados digitais aprovado
+
+Segepres/
+
+Assig Setec
+
+q)    
+
+Propor modelo para gestão de segurança da TI do TCU
+
+1
+
+18/03/2009
+
+Proposta de modelo de gestão de segurança de TI aprovada
+
+Segepres/
+
+Assig Setec
+
+r)     
+
+Realizar workshop com servidores da Setec e CTIS para disseminar conhecimento e prestar esclarecimentos relativos às normas propostas
+
+1
+
+26/03/2009
+
+Workshop para servidores da Setec e CTIS realizado
+
+Setec
+
+s)     
+
+Apresentar melhorias de segurança de TI que ocorreram durante o projeto 
+
+1
+
+30/03/09
+
+Quadro comparativo dos índices de riscos levantados antes e ao final do projeto apresentado
+
+Segepres/
+
+Assig Setec
+
+
+
+
+5.3 Benefícios (impacto esperado dos produtos do projeto)
+VII - Impacto esperado com a realização do projeto
+
+
+
+a)    
+
+Definição clara das responsabilidades e atribuições das diversas subunidades da Setec no que se refere à segurança da informação
+
+b)    
+
+A instituição de normas de uso do serviço de correio eletrônico, de servidores de arquivos e de dispositivos móveis sem fio, permitirá configurar, nesses recursos, restrições de segurança e de gerência, que contribuirão para reduzir os riscos de utilização indevida, de fraudes e de contaminação da rede por pragas virtuais, com reflexo na melhoria do desempenho e da disponibilidade dos serviços
+
+c)    
+
+Coordenação das ações de melhoria de segurança da informação, no âmbito da Setec, com vistas a eliminar ou mitigar principais riscos apontados nos diagnósticos de maturidade do TCU, relativos à norma ISO 17799
+
+d)    
+
+A definição do tratamento de incidentes de segurança permitirá contornar com maior rapidez as falhas e vulnerabilidades de segurança e, por conseqüência, restabelecer o serviço afetado à condição normal de funcionamento em tempo mais condizente com as expectativas do usuário
+
+e)    
+
+Aumento da disponibilidade dos serviços de TI providos pela Setec
+
+
+
+
+5.4Não escopo (o que o projeto não vai fazer)
+
+
+a)    
+
+Definir normas de segurança da informação que não sejam referentes à área de TI, por exemplo, normas que digam respeito a pessoas, PSI e classificação de informações
+
+b)    
+
+Treinar ou conscientizar usuários
+
+c)    
+
+Garantir a aderência do TCU às normas ISO de segurança da informação
+
+d)    
+
+Reavaliar os diagnósticos de segurança para adequá-los às normas ISO da família 27000
+
+e)    
+
+Elaborar Plano de Continuidade de Negócio para o TCU
+
+f)     
+
+Tratamento de todos os riscos de segurança apresentados pelo diagnóstico de segurança, elaborado pela Módulo
+
+g)    
+
+Implantação da gerência de incidentes
+
+h)    
+
+Aquisição de ferramenta e capacitação de servidores do TCU para execução de análise de riscos
+
+
+
+
+
+
+
+
+
+i)      
+
+Elaboração das demais normas ou procedimentos operacionais previstas no Relatório de Diagnósticos de Riscos, elaborado pela Módulo
+
+j)      
+
+Implantação das normas de uso de correio eletrônico, de uso de rede, de política de back up e de servidores de arquivos
+
+k)    
+
+Implantação da metodologia de desenvolvimento de sistemas
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+I - Nome da parte envolvida
+
+II - patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+III - Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)
+
+Setec (co-patrocinador e fornecedor interno)
+
+Apoio formal à constituição do projeto
+
+Apoio à priorização das ações de melhoria de segurança nas soluções e processos de trabalho
+
+1 servidor como gestor do projeto
+
+1 servidor como integrante da equipe do projeto (dedicação integral)
+
+1 estagiário
+
+3 microcomputadores
+
+1 impressora
+
+b)
+
+Segepres (patrocinador)
+
+Segepres/Assig
+
+Apoio à constituição do projeto
+
+c)
+
+Segedam (fornecedor interno)
+
+Sala específica para o projeto
+
+2 estações de trabalho duplas
+
+d)
+
+ISC (parceiro) 
+
+Apoio quanto a participação da equipe nos módulos 1 e 2 do curso Security Officer
+
+e)
+
+Unidades usuárias
+
+Participação das unidades envolvidas na elaboração das normas
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+IV - Risco
+
+V - Impacto
+
+VI - Probabilidade
+
+VII - de ocorrer
+
+VIII - Ação para
+
+IX - (E) Evitar ocorrência do risco
+
+X - (M) Mitigar ocorrência do risco
+
+XI - (R) Reduzir impacto do risco ocorrido
+
+XII - Responsável pela ação
+
+
+
+a)    
+
+Perda de recursos humanos e/ou físicos. 
+
+Alto
+
+Média
+
+(R) Negociar cessão e reposição, caso necessário, de recursos humanos e/ou físicos
+
+Coordenador
+
+b)    
+
+Falta de apoio das unidades envolvidas. 
+
+Alto
+
+Baixa
+
+(E) Envolver todos os interessados nas discussões e definições.
+
+ 
+
+Coordenador
+
+c)    
+
+Não priorização das melhorias de segurança pelas subunidades da Setec
+
+Alto
+
+Média
+
+(E) Envolver as chefias e o Secretário nas definições e informar possíveis atrasos em relação ao previsto no cronograma
+
+Coordenador
+
+d)    
+
+Modificação do escopo do projeto
+
+Alto
+
+Média
+
+(E) Discutir com as outras áreas interessadas no projeto, principalmente Assig e Sequap
+
+Coordenador
+
+e)    
+
+Alocação da equipe do projeto em outras atividades, estranhas ao escopo do projeto
+
+Alto
+
+Média
+
+(E) Alocar equipe do projeto em área distinta da ocupada originalmente pelos integrantes da equipe e entregar função de confiança, atualmente ocupada pelo futuro gestor do projeto
+
+Coordenador
+
+
+
+
+I - Risco
+
+II - Impacto
+
+III - Probabilidade
+
+IV - de ocorrer
+
+V - Ação para
+
+VI - (E) Evitar ocorrência do risco
+
+VII - (M) Mitigar ocorrência do risco
+
+VIII - (R) Reduzir impacto do risco ocorrido
+
+IX - Responsável pela ação
+
+
+
+f)
+
+Indisponibilidade das unidades usuárias para discussão das minutas de normativos
+
+Alto
+
+Média
+
+(E) Planejar tempestivamente as datas das reuniões e encaminhar antecipadamente as propostas ou minutas de normativos
+
+Coordenador
+
+
+
+
+8. Relação com outros projetos
+
+X - Projetos predecessores
+
+XI - Projetos conexos
+
+XII - Projetos sucessores
+
+
+
+Governança de TI
+
+(grupo de trabalho de governança de TI)
+
+Segurança de TI – fase 2
+
+
+
+
+9. Equipe do projeto
+
+XIII - Nome
+
+XIV - Matrícula
+
+XV - Lotação
+
+XVI - Período
+
+XVII - Dedicação integral/ parcial / por atividade
+
+  
+
+GERALDO MAGELA LOPES DE FREITAS
+
+2426/0
+
+Setec
+
+11/08/2008 a 31/03/2009
+
+Integral  
+
+FÁBIO MENDONÇA MAGLIANO
+
+2519/4
+
+Setec
+
+11/08/2008 a 31/03/2009
+
+Integral  
+
+ALFRAM ROBERTO RODRIGUES DE ALBUQUERQUE
+
+5562/0
+
+Setec
+
+11/08/2008 a 30/11/2009
+
+Por atividade  
+
+ESTAGIÁRIO
+
+ 
+
+ 
+
+11/08/2008 a 31/03/2009
+
+Parcial
+
+
+
+
+10. Custos adicionais estimados
+
+XVIII - Recurso
+
+XIX - Valor estimado
+
+XX - Data inicial de liberação do recurso
+
+
+
+a)
+
+Alocação de um estagiário para auxiliar nas atividades do projeto (1 x 8 x R$ 700,00).
+
+R$ 5.600,00
+
+08/2008
+
+b)
+
+Treinamento da equipe. Considerou-se no cálculo os módulos 1 e 2 do curso Security Officer, para dois participantes, em Brasília, com base em ata de registro de preços do Ministério da Defesa
+
+R$ 5.120,00
+
+09/2008XXI - Total de custos estimados
+
+
+
+R$ 10.720,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+11. Outros recursos necessários
+
+XXII - Recurso
+
+XXIII - Fornecedor
+
+
+
+a)    
+
+1 quadro branco
+
+Semat
+
+b)    
+
+3 microcomputadores e 1 impressora
+
+Setec
+
+c)    
+
+Telefone: 1 aparelho e 1 ramal
+
+Sesap
+
+d)    
+
+Sala a ser ocupada pelo projeto
+
+Segedam
+
+e)    
+
+Mobiliário: 2 estações de trabalho de dois postos, 1 mesa de reuniões e 6 cadeiras
+
+Segedam
+
+
+
+12. Finalização
+XXIV - Data
+
+XXV - Assinatura do gestor do projeto
+
+
+
+Em 04/08/2008
+
+GERaldo magela lopes de freitas
+
+Coordenador do Projeto
+
+
+
+
+
+
+
+I - Manifestação do titular da unidade co-patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em 04/08/2008.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+ Setec, em ___/08/2008
+
+Mauro giacobbo
+
+Secretário da SetecII - Manifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em 04/08/2008.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+
+
+Segepres, em ___/___/2008
+
+Maurício DE ALBUQUERQUE wanderley
+
+Secretário-Geral da PresidênciaIII - Manifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2008
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Segurança de TI &#8211; Fase 1.
+
+

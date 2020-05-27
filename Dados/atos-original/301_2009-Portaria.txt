@@ -1,0 +1,68 @@
+Portaria
+301/2009
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas atribuições legais e regimentais, e tendo em vista o estabelecido no art. 170 do Regimento Interno, aprovado pela Resolução-TCU nº 155, de 4 de dezembro de 2002,
+
+
+considerando que todas as ações relativas a processos devem ser registradas em sistema informatizado de controle de processos visando resguardar a integridade e a confiabilidade dos dados, consoante o disposto no art. 3º da Resolução-TCU nº 191, de 21 de junho de 2006;
+
+
+considerando que as tramitações para as unidades da Secretaria do Tribunal à época da migração do sistema Capt para o sistema Processus foram efetuadas sem a adequada convalidação ou a confrontação entre os dados registrados e os processos físicos;
+
+
+considerando o excessivo volume de processos de controle externo encerrados no sistema Processus, cujo prazo legal e normativo para a interposição de recurso encontra-se expirado e cuja localização física é desconhecida; e
+
+
+considerando a necessidade de definir regras e requisitos para o tratamento da carga processual das unidades do Tribunal, resolve:
+
+
+Art. 1º O tratamento, nas bases informatizadas de dados corporativos, da carga de processos encerrados com localização física desconhecida obedece ao disposto nesta Portaria, observada a legislação vigente.
+
+
+Art. 2º Fica a Secretaria-Geral de Controle Externo (Segecex) autorizada a baixar, por iniciativa própria ou mediante solicitação de suas unidades integrantes, nas bases informatizadas de dados corporativos, a carga de processos de controle externo encerrados com localização física desconhecida, nos termos regidos por esta Portaria.
+
+
+Parágrafo único. O procedimento a que se refere o caput deste artigo denomina-se "baixa da carga processual", é autorizado por meio de ato da Segecex e visa harmonizar as informações constantes das bases corporativas de dados informatizados com a existência física dos autos.
+
+
+Art. 3º Antes de solicitar à Segecex que determine a baixa da carga processual, a unidade que detém a carga do processo deverá realizar, no mínimo, as seguintes ações:
+
+
+I – efetuar conferência física dos processos, no intuito de verificar se a atribuição da carga processual para a unidade decorre de erro humano ou de sistema;
+
+
+II – solicitar ao Serviço de Gestão Documental (Seged) do Centro de Documentação (Cedoc) do Instituto Serzedello Corrêa (ISC) que proceda ao levantamento em seus arquivos de guarda e/ou de descarte; e
+
+
+III – relacionar os processos em ordem crescente de data de encerramento, observado o prazo de vigência para interposição de recurso indicado no inciso II do art. 4º desta Portaria.
+
+
+Art. 4º A Segecex pode determinar a baixa de carga processual para qualquer processo de controle externo cuja localização física seja desconhecida, desde que sejam atendidos os seguintes requisitos:
+
+
+I – o processo estar registrado no sistema Processus na situação "encerrado";
+
+
+II – os prazos legais e normativos para interposição de recurso estarem expirados, observado o prazo mínimo de seis anos, a contar do trânsito em julgado; e
+
+
+III – a unidade ter executado as ações descritas no artigo anterior.
+
+
+Art. 5º A baixa da carga processual será operacionalizada pela Secretaria de Tecnologia da Informação (Setec) mediante a exclusão lógica dos processos no sistema Processus e o devido registro do ato que determinou a adoção do procedimento.
+
+
+Art. 6° Compete a Segecex expedir os atos necessários à operacionalização desta norma e dirimir os casos omissos.
+
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Não consta revogação expressa
+Dispõe sobre o tratamento, nas bases informatizadas de dados corporativos, da carga de processos de controle externo encerrados com localização física desconhecida.
+
+

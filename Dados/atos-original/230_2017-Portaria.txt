@@ -1,0 +1,504 @@
+Portaria
+230/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições regulamentares e tendo em vista o disposto no art. 17 da Resolução-TCU nº 247, de 7 de dezembro de 2011,
+
+
+considerando as disposições constantes da Política de Governança de Tecnologia da Informação e da Política Corporativa de Segurança da Informação do Tribunal de Contas da União;
+
+
+considerando a importância da ampliação do uso da tecnologia e da informação para o alcance dos objetivos estratégicos do TCU e para a transformação e aumento da eficiência e efetividade de processos de trabalho e da forma de atuação do Tribunal de Contas da União;
+
+
+considerando a importância de se estabelecer papéis e responsabilidades das unidades envolvidas com o provimento e a gestão de soluções de tecnologia da informação;
+
+
+considerando a necessidade de assegurar a participação dos usuários finais e dos gestores da informação na definição e na validação de requisitos e regras de negócio, assim como na homologação das soluções de TI; e
+
+
+considerando os estudos e os pareceres constantes dos autos do TC 007.671/20164, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º O provimento e a gestão de soluções de Tecnologia da Informação no âmbito do Tribunal de Contas da União observam o disposto nesta portaria e têm por objetivo contribuir para a eficiência, a eficácia e a efetividade dos processos de trabalho no âmbito do Tribunal, bem como para o alinhamento das ações de TI às estratégias da organização.
+
+
+§ 1º As unidades envolvidas com as funções de provimento e de gestão de soluções de TI são solidariamente responsáveis pelo cumprimento harmônico das competências atribuídas por meio desta Portaria.
+
+
+§ 2º Esta portaria aplica-se às soluções de TI independentemente da abordagem e modalidade de provimento previstas na Política de Governança de Tecnologia da Informação (PGTI).
+
+
+Art. 2º Para efeito do disposto nesta portaria, entende-se por:
+
+
+I - solução de TI: conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam necessidades ou oportunidades de negócio;
+
+
+II - provimento de solução de TI: ações e responsabilidades requeridas para fornecimento, sustentação e suporte ao uso de solução de tecnologia da informação colocado à disposição para atendimento a necessidades de negócio;
+
+
+
+
+
+III - provimento centralizado: quando o desenvolvimento, a aquisição ou a manutenção da solução é de responsabilidade da área de TI;
+
+
+IV - provimento descentralizado: quando o desenvolvimento, a aquisição ou a manutenção da solução estiverem a cargo de unidade de negócio do Tribunal;
+
+
+V - unidade provedora: unidade da Secretaria do Tribunal responsável pelo provimento centralizado ou descentralizado de solução de tecnologia da informação;
+
+
+VI - unidade coordenadora: unidade da estrutura organizacional da Secretaria do Tribunal responsável por coordenar e orientar a atuação de unidades gestoras de soluções de TI;
+
+
+VII - unidade gestora: unidade da Secretaria do Tribunal responsável pela definição de processos de trabalho, requisitos, regras de negócio e níveis de serviço aplicáveis à solução de TI;
+
+
+VIII - área de TI: termo utilizado para referenciar conjuntamente a Secretaria de Soluções de Tecnologia da Informação (STI) e a Secretaria de Infraestrutura de Tecnologia da Informação (Setic) que têm por competência finalística o provimento centralizado de infraestrutura e de soluções de tecnologia da informação para o TCU;
+
+
+IX - solução corporativa: solução de TI destinada ao atendimento de necessidades de negócio da organização como um todo, com impacto abrangente sobre resultados ou funcionamento do Tribunal;
+
+
+X - solução departamental: solução de TI destinada ao atendimento de necessidades de uma unidade ou de conjunto reduzido de unidades, com impacto limitado sobre resultados ou funcionamento do Tribunal;
+
+
+XI - protótipo: solução de TI de caráter experimental desenvolvido para teste e validação de conceitos e hipóteses para o atendimento a necessidades ou oportunidades de negócio do Tribunal;
+
+
+XII - homologação: conjunto de ações que tem por objetivo verificar a conformidade de uma solução de TI às regras de negócio e aos requisitos de funcionamento, demarcando o final do desenvolvimento e o aceite da solução pela unidade gestora;
+
+
+XIII - ambiente de produção: ambiente computacional para uso efetivo da solução de TI pelos usuários aos quais se destina;
+
+
+XIV - nível de serviço: meta de desempenho ou de qualidade definida para a solução de TI, como: horário de funcionamento, tempo máximo de resposta, quantidade mínima de transações a processar e nível mínimo de disponibilidade;
+
+
+XV - acordo de nível de serviço: compromisso estabelecido entre a unidade provedora e a unidade gestora da solução de TI, no qual se estabelecem níveis de serviço para a solução no ambiente de produção, considerando-se as necessidades do negócio, o custo e a capacidade de alocação de recursos para provimento da solução;
+
+
+XVI - Central de Serviços de TI: equipe responsável pelo atendimento centralizado dos usuários de soluções de TI do Tribunal;
+
+
+XVII - roteiro de atendimento: conjunto de instruções destinadas à Central de Serviços de TI que orientam no atendimento de ocorrências e requisições e no esclarecimento de dúvidas relativas ao uso e funcionamento de solução de TI; 
+
+
+XVIII - gestor da informação: nos termos da Portaria-TCU nº 210, de 14 de agosto de 2014, colegiado do Tribunal ou de sua Secretaria, autoridade do Tribunal ou dirigente de unidade responsável por informação em matéria de sua competência ou inerente a sua área de atuação; e
+
+
+
+
+
+
+
+
+XIX - portfólio corporativo de soluções de TI: repositório único de registro de todas as soluções de tecnologia da informação à disposição do Tribunal de Contas da União, inclusive de origem externa cujo acesso seja permitido a partir do ambiente computacional do Tribunal.
+
+
+Art. 3º Consideram-se requisitos de uma solução de Tecnologia da Informação:
+
+
+I - funcionalidade: conjunto de capacidades, ações e resultados que a solução deve possuir, realizar ou produzir para atender necessidades do negócio e para assegurar níveis adequados de usabilidade e de segurança da informação;
+
+
+II - usabilidade: conjunto de aspectos relativos à interação do usuário com a solução, consideradas a acessibilidade, a facilidade e a satisfação com o uso;
+
+
+III - confiabilidade: conjunto de atributos relacionados à frequência, gravidade e possibilidade de recuperação de falhas, bem como exatidão dos resultados gerados pela solução;
+
+
+IV - desempenho: conjuntos de atributos relativos à eficiência da solução em operação, como tempo de resposta e quantidade de recursos utilizados;
+
+
+V - suportabilidade: conjunto de aspectos relacionados à instalação, à configuração e à capacidade de adaptação, de manutenção e de teste;
+
+
+VI - integração: conjunto de aspectos relacionados ao compartilhamento de funcionalidades e de informações com outras soluções em uso ou em desenvolvimento no âmbito do Tribunal, ou, ainda, com soluções de mercado ou de outros órgãos da administração pública; e
+
+
+VII - segurança da informação: conjunto de aspectos relacionados à disponibilidade, integridade e confidencialidade dos dados e informações gerados ou tratados pela solução, critérios para definição de perfis de acesso a funcionalidades, rastreamento de ações realizadas, verificação de autenticidade e garantia de não repúdio, quando for o caso.
+
+
+CAPÍTULO II
+
+
+DA ABORDAGEM DE PROVIMENTO
+
+
+Art. 4º O provimento de solução de tecnologia da informação poderá ser de forma centralizada ou descentralizada.
+
+
+§ 1º O provimento centralizado será adotado preferencialmente para soluções de tecnologia da informação de natureza corporativa ou que requeiram contratação ou licenciamento de equipamento ou de software e, obrigatoriamente, para soluções de infraestrutura de tecnologia da informação e comunicação.
+
+
+§ 2º O provimento descentralizado será adotado preferencialmente para soluções de TI de natureza departamental ou desenvolvimento de protótipos ou soluções de caráter experimental, independentemente da tecnologia envolvida.
+
+
+CAPÍTULO III
+
+
+DAS UNIDADES COORDENADORAS DE SOLUÇÕES DE TI
+
+
+Art. 5º Compete à unidade coordenadora, independentemente da natureza, da modalidade ou abordagem de provimento utilizada:
+
+
+I - coordenar e articular a captura de demandas inerentes a tecnologia da informação no âmbito da respectiva área de atuação;
+
+
+II - integrar e subsidiar o Comitê Gestor de Tecnologia da Informação (CGTI) de elementos para análise e manifestação de sua competência;
+
+
+III - participar do processo de planejamento e de priorização de atendimento das demandas inerentes a tecnologia da informação no âmbito do Tribunal de Contas da União;
+
+
+
+
+
+IV - coordenar e articular a integração de soluções de TI sob sua responsabilidade de atuação, inclusive quanto às atribuições de gerente de relacionamento;
+
+
+V - articular com as demais unidades coordenadoras a concepção de soluções sistêmicas que privilegiem a harmonização de conceitos, funcionalidades e usabilidade da solução, bem assim a otimização de recursos e de investimentos;
+
+
+VI - promover o mapeamento e a modelagem de processos de trabalho em conjunto com as unidades gestoras, com propósito de contribuir para eficiência, eficácia e efetividade;
+
+
+VII - zelar pela concepção e orientação das soluções para atendimento das necessidades e oportunidades de negócio e de governo digital, considerando-se todas as etapas e atividades que compõem os processos de trabalho a serem beneficiados;
+
+
+VIII - promover a gestão do conhecimento inerente às soluções sob sua coordenação; 
+
+
+IX - coordenar, em conjunto com a área de TI, as iniciativas de provimento centralizado ou descentralizado de soluções de tecnologia da informação inerentes à respectiva área de atuação;
+
+
+X - decidir acerca da descontinuidade de solução de natureza departamental provida de forma descentralizada, ouvida a unidade gestora e a área de TI;
+
+
+XI - comunicar ao CGTI, na periodicidade definida pelo Comitê, as iniciativas de desenvolvimento descentralizado priorizadas e em curso; e
+
+
+XII - aprimorar a gestão e o uso do rol de soluções à disposição do TCU.
+
+
+CAPÍTULO IV
+
+
+DA UNIDADE GESTORA DE SOLUÇÕES DE TI
+
+
+Art. 6º Compete à unidade gestora de soluções de TI, independentemente da natureza, da modalidade ou abordagem de provimento utilizada:
+
+
+I - identificar as necessidades institucionais ou oportunidades de negócio a serem atendidas por meio da solução de TI e mapear ou modelar os processos de trabalho a serem informatizados, se necessário, de modo a maximizar os benefícios esperados e a entrega de valor aos processos de trabalho, ao TCU, à Administração Pública e ao cidadão;
+
+
+II - articular e definir, juntamente com as partes interessadas, proposta de solução técnica, requisitos e regras de negócio, bem como acordar com as unidades envolvidas níveis de serviço desejados;
+
+
+III - identificar e promover a integração com demais soluções de TI em funcionamento ou em desenvolvimento no âmbito do TCU;
+
+
+IV - propor, quando necessário, a criação ou alteração de normativos para regulamentar os processos de trabalho apoiados pela solução;
+
+
+V - autorizar, em conjunto com a unidade provedora, o início das atividades relativas ao provimento da solução de TI;
+
+
+VI - homologar as funcionalidades da solução ou fundamentar a não homologação dentro dos prazos acordados com a unidade provedora;
+
+
+VII - solicitar, fundamentadamente, a suspensão, o cancelamento ou a alteração de atividade de provimento previamente autorizada;
+
+
+VIII - participar do planejamento e da execução de ações de capacitação inerentes ao uso da solução;
+
+
+
+
+
+
+
+
+IX - solicitar ao Instituto Serzedello Correa (ISC), durante o projeto de desenvolvimento ou contratação da solução, o planejamento de ações de capacitação, bem assim quando identificadas dificuldades na utilização do recurso;
+
+
+X - definir, em conjunto com a unidade provedora, estratégia de implantação da solução, considerando a necessidade de capacitação dos usuários e, quando for o caso, a implantação em regime de projeto piloto;
+
+
+XI - autorizar, em conjunto com a área de TI, a implantação inicial e posteriores mudanças da solução em ambiente de produção, ou manifestar-se sobre os motivos da não autorização, dentro dos prazos acordados com a unidade provedora;
+
+
+XII - apoiar ou exercer, em conjunto com a unidade provedora, a fiscalização dos contratos, acordos de cooperação e outros instrumentos congêneres relativos à solução de TI;
+
+
+XIII - elaborar, disponibilizar e manter atualizados manuais, roteiros de atendimento, informes e orientações necessárias à compreensão de conceitos e processos de trabalho associados e à utilização da solução de TI;
+
+
+XIV - acompanhar e avaliar a eficiência e a efetividade na utilização da solução de tecnologia da informação;
+
+
+XV - definir, ouvidos os gestores da informação, os requisitos de segurança necessários para a solução relacionados à obtenção, tratamento, transmissão, uso, armazenamento e descarte das informações recebidas, produzidas ou tratadas pela solução;
+
+
+XVI - definir e revisar periodicamente, ouvidos os gestores da informação, os privilégios, perfis e direitos de acesso de usuários às funcionalidades e às informações disponibilizadas pela solução, bem como as regras de concessão e de revogação;
+
+
+XVII - avaliar a necessidade de serem implementadas funcionalidades que permitam aos usuários e aos gestores da informação classificar, em conformidade com as normas institucionais pertinentes, os elementos de informação produzidos ou utilizados pela solução;
+
+
+XVIII - coordenar, em conjunto com a área de TI, negociações com órgãos e entidades envolvidos, para modelar proposta de acesso e uso da solução por parte de público externo, assim como de acesso e uso de sistema externo;
+
+
+XIX - receber, analisar e tratar as solicitações de mudanças ou informações relativas a regras de negócio e requisitos da solução;
+
+
+XX - propor à unidade provedora prioridades de atendimento às demandas de manutenção, observadas as estratégias institucionais, os benefícios esperados e o custo estimado para atendimento; e
+
+
+XXI - reavaliar, periodicamente, os benefícios, a necessidade, a utilidade e o uso da solução e informar à unidade provedora e à unidade coordenadora sobre razões que possam ensejar a descontinuidade da solução.
+
+
+§ 1º Quando da definição da proposta de solução técnica e de regras de negócio ou requisitos que afetem outras soluções de TI, a unidade gestora deverá, em conjunto com a unidade provedora, promover as negociações necessárias com as partes interessadas.
+
+
+§ 2º Em caso de dúvida quanto à identificação da unidade gestora ou do gestor da informação, a matéria deverá ser submetida à deliberação do CGTI.
+
+
+§ 3º No caso de unidade gestora não vinculada a unidade básica, a coordenação e orientação das atividades dispostas neste artigo competem à STI.
+
+
+
+
+
+
+
+
+Art. 7º No caso de solução provida na abordagem descentralizada, compete à unidade gestora, observados os requisitos técnicos estabelecidos pela área de TI, autorizar a implantação da solução em conjunto com a unidade coordenadora.
+
+
+CAPÍTULO V
+
+
+DA UNIDADE PROVEDORA DE SOLUÇÕES DE TI
+
+
+Art. 8º Compete à unidade provedora de soluções de TI, independentemente da natureza, da modalidade ou abordagem de provimento utilizada:
+
+
+I - negociar, junto à unidade gestora e demais partes interessadas, escopo e prazos do projeto de desenvolvimento, manutenção ou contratação de solução de TI, respeitadas as premissas e as restrições estabelecidas nos planos institucionais do Tribunal de Contas da união;
+
+
+II - definir, em conjunto com a unidade gestora, a estratégia de implantação e de sustentação durante a fase de estabilização da solução de TI;
+
+
+III - avaliar as regras de negócio, os requisitos e os níveis de serviço definidos e apontar possíveis inconsistências ou incompatibilidades, de modo a promover a integração das soluções de TI, a padronização da arquitetura tecnológica e a maximização dos benefícios para o Tribunal e cidadãos;
+
+
+IV - desenvolver e sustentar as soluções de tecnologia da informação sob sua responsabilidade de provimento;
+
+
+V - manter a unidade gestora e demais partes interessadas informadas sobre o andamento de demandas e projetos relativos à TI, bem assim sobre paradas programadas e incidentes relacionados a soluções nos ambientes de homologação, de treinamento e de produção;
+
+
+VI - realizar os testes necessários para assegurar o correto funcionamento e a aderência às regras de negócio, aos requisitos e aos níveis de serviço especificados;
+
+
+VII - assegurar a aderência à solução técnica, aos requisitos e aos níveis de serviço acordados com a unidade gestora;
+
+
+VIII - apoiar as unidades gestoras no planejamento e execução de ações de capacitação para utilização de soluções de TI;
+
+
+IX - encaminhar à unidade gestora, para análise e providências cabíveis, solicitações relativas a modificação de regras de negócio e requisitos da solução;
+
+
+X - apoiar a unidade gestora na elaboração de roteiros de atendimento; e
+
+
+XI - prever, quando necessário, as alternativas de continuidade de negócio para eventuais indisponibilidades de solução que apoie processo crítico de trabalho.
+
+
+Parágrafo único. Os níveis de serviço a que se refere este artigo devem ser estabelecidos em comum acordo entre a unidade provedora, a unidade gestora e a área de TI, considerados os requisitos de negócio, a capacidade e os custos de atendimento.
+
+
+Art. 9º No caso de provimento descentralizado de solução, a unidade provedora deverá:
+
+
+I - disponibilizar suporte aos usuários da solução de TI que se fizer necessário, relativamente às atividades de provimento que executar, em complemento ao atendimento realizado pela Central de Serviços de TI;
+
+
+II - realizar as atividades dispostas no artigo anterior observando os processos, métodos, técnicas, ferramentas, orientações e padrões estabelecidos pela área de TI; e
+
+
+III - prever, quando necessário, as alternativas de continuidade de negócio para eventuais indisponibilidades de solução que apoie processo crítico de trabalho.
+
+
+
+
+
+Parágrafo único. O disposto no inciso II deste artigo é dispensável enquanto na condição de protótipo ou solução de caráter experimental, sendo aplicável quando da conversão e disponibilização para integrar o portfólio corporativo de soluções de TI do TCU.
+
+
+Art. 10. Solicitações de serviço terceirizado para apoiar o desenvolvimento ou sustentação de solução provida de forma descentralizada deverão ser encaminhadas para análise prévia da área de TI pela unidade gestora em conjunto com a unidade coordenadora.
+
+
+§ 1º Na análise de que trata este artigo, a área de TI avaliará os aspectos técnicos envolvidos, incluindo eventuais riscos para a disponibilidade da solução, assim como a capacidade de gestão e de fiscalização do serviço contratado.
+
+
+§ 2º Na hipótese de contratação, a área de TI será responsável pela avaliação técnica e a unidade gestora será responsável pela avaliação de negócio do serviço prestado.
+
+
+CAPÍTULO VI
+
+
+DAS RESPONSABILIDADES DA ÁREA DE TI
+
+
+Art. 11. Compete à área de TI, independentemente da natureza da solução, da modalidade ou abordagem de provimento utilizada, consideradas as respectivas competências institucionais dessas unidades:
+
+
+I - prover ambiente computacional adequado para desenvolvimento, teste, homologação, treinamento e uso das soluções de TI;
+
+
+II - definir e zelar pelos processos, métodos, técnicas, ferramentas e padrões aplicáveis ao provimento de soluções de TI;
+
+
+III - apoiar as unidades gestoras no processo de captura e tratamento de demandas, assim como na formulação de propostas de solução técnica para problemas e oportunidades de negócio a serem tratadas por meio de solução ou ferramenta de tecnologia da informação;
+
+
+IV - prover as informações inerentes a requisitos técnicos para subsidiar o exame e priorização de demandas a cargo do CGTI;
+
+
+V - custodiar, na forma da Política de Segurança da Informação, as informações geradas ou utilizadas por soluções ou ferramentas de TI;
+
+
+VI - decidir, em situação de emergência, sobre a interrupção de funcionamento de solução de TI que esteja degradando o desempenho ou afetando o funcionamento das demais soluções; 
+
+
+VII - autorizar o acesso a bases e dados custodiados sob sua responsabilidade necessários ao desenvolvimento e funcionamento das soluções a que se refere esta portaria; e
+
+
+VIII - gerenciar a Central de Serviços de TI.
+
+
+§ 1º A Setic e a STI devem manter-se tempestiva e reciprocamente informadas sobre necessidades ou requisitos de soluções de TI cujo provimento esteja a seu cargo e que requeiram providências da outra unidade ou que possam impactar significativamente o ambiente computacional ou os planos de TI.
+
+
+§ 2º A viabilização de acesso para fins do disposto no inciso XVII deste artigo observará os critérios de acesso definidos pelo gestor da informação nos termos dos atos normativos que disciplinam a matéria.
+
+
+§ 3º Na hipótese da necessidade de interrupção de serviços de tecnologia da informação, a área de TI comunicará, tempestivamente, às unidades gestoras e aos usuários.
+
+
+§ 4º Na hipótese de dados resguardados por sigilo, a autorização a que se refere o inciso XVII deverá ser precedida de manifestação da unidade gestora.
+
+
+
+
+
+CAPÍTULO VII
+
+
+DO COMITÊ GESTOR DE TECNOLOGIA DA INFORMAÇÃO
+
+
+Art. 12. Para fins do disposto nesta portaria, compete ao Comitê Gestor de Tecnologia da Informação manifesta-se sobre:
+
+
+I - o provimento de solução na forma centralizada, de natureza corporativa ou que demande contratação;
+
+
+II - o atendimento de demandas de manutenção com impacto significativo sobre os planos de tecnologia da informação; e
+
+
+III - a descontinuidade de solução de natureza corporativa ou de solução de natureza departamental provida por unidade não vinculada a unidade básica.
+
+
+Parágrafo único. As demandas a que se refere o inciso II deste artigo serão apresentadas por meio de unidade integrante do CGTI contendo, no mínimo: justificativa da necessidade, descrição da proposta de solução técnica e dos produtos e benefícios esperados, demonstração de aderência aos planos institucionais e identificação das interações com outras soluções de TI.
+
+
+CAPÍTULO VIII
+
+
+DA CAPACITAÇÃO E GESTÃO DE CONHECIMENTO
+
+
+Art. 13. Compete ao Instituto Serzedello Corrêa a promoção do desenvolvimento de competências profissionais e organizacionais necessárias ao provimento e utilização de soluções de TI.
+
+
+Parágrafo único. As ações de capacitação necessárias deverão ser solicitadas ao ISC pela unidade gestora e poderão ser executadas com apoio da área de TI, especialmente no caso de o objeto estar relacionado a processos, métodos, técnicas, ferramentas, padrões e arquitetura de desenvolvimento.
+
+
+Art. 14. Compete à área de TI a promoção de práticas de gestão do conhecimento acerca de processos, métodos, técnicas, ferramentas e padrões estabelecidos para o provimento centralizado e descentralizado de soluções de tecnologia da informação.
+
+
+CAPÍTULO VIII
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 15. Os papéis de unidade coordenadora, gestora e provedora de solução de TI poderão ser exercidos cumulativamente por uma mesma unidade da estrutura organizacional.
+
+
+Art. 16. As soluções providas de forma centralizada ou descentralizada deverão integrar o portfólio corporativo de soluções de TI do TCU.
+
+
+§ 1º O portfólio a que se refere este artigo deve conter, entre outras, informações suficientes para o exercício dos diferentes papéis e responsabilidades a que se refere esta portaria, assim como para os usuários das soluções de tecnologia da informação.
+
+
+§ 2º A unidade gestora deverá manter as informações referentes às soluções sob sua responsabilidade atualizadas no portfólio de que trata este artigo, em especial no que se refere ao início do desenvolvimento da solução e à disponibilização em ambiente de produção.
+
+
+Art. 17. Compete à área técnica responsável pela matéria, com apoio da área de TI, propor diretrizes e orientar as unidades gestoras quanto aos aspectos inerentes a segurança da informação e continuidade de negócio a serem observados na definição dos requisitos da solução de TI.
+
+
+Art. 18. A seleção e a supervisão de estágio estudantil relacionado a provimento descentralizado de soluções de TI são de responsabilidade da unidade provedora, que poderá solicitar a contribuição da área de TI, em especial quanto à avaliação técnica dos candidatos.
+
+
+
+
+
+
+
+
+Art. 19. A cessão de solução de tecnologia da informação deve seguir as orientações e requisitos estabelecidos em normativo específico.
+
+
+Art. 20. Fica autorizado o CGTI a expedir os atos necessários à regulamentação desta Portaria e a decidir sobre casos omissos.
+
+
+Art. 21. Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 22. Fica revogada a Portaria-TCU nº 156, de 11 de julho de 2012.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente
+
+
+Rainério Rodrigues Leite
+
+
+Secretário-Geral da Presidência
+
+
+
+Não consta revogação expressa
+Dispõe sobre o provimento e a gestão de soluções de tecnologia da informação no âmbito do Tribunal de Contas da União.
+
+

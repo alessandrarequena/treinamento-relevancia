@@ -1,0 +1,641 @@
+Portaria
+317/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe confere o art. 28, incisos XXXIV e XXXIX, do Regimento Interno do Tribunal de Contas da União, e tendo em vista o art. 45, § 1º, inciso I e art. 55 da Lei nº 13.473, de 8 de agosto de 2017 (LDO), o art. 4º, caput, inciso II, alínea "a", item "1" da Lei nº 13.587, de 2 de janeiro de 2018 (LOA), o art. 8º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Portaria SOF nº 487, de 15 de janeiro de 2018, resolve:
+
+
+Art. 1º Fica aberto, aos Orçamentos Fiscal e da Seguridade Social, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 70.500.000,00 (setenta milhões e quinhentos mil reais) para atender à programação exposta no Anexo I desta Portaria.
+
+
+Art. 2º Os créditos necessários à execução do disposto no art. 1º decorrerão da anulação parcial de dotação orçamentária constante do Anexo II desta Portaria. 
+
+
+Art. 3º Fica alterado o Anexo I da Portaria-TCU nº 10, de 15 de janeiro de 2018, que passa a vigorar conforme especificado no Anexo III desta Portaria, em decorrência do remanejamento de dotação do Plano Orçamentário - P.O 0005 (Auxílio-Alimentação de civis) para o P.O 0009 (Auxílio Funeral e Natalidade de Civis) da Ação 212B - Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes, no valor de R$ 100.000,00, e do remanejamento de dotação da vinculação 400 para a vinculação 500, no valor de R$ 500.000,00.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+RAIMUNDO CARREIRO
+
+
+Carlos Roberto Caixeta
+
+
+Secretário-Geral de Administração
+
+
+(Publicado no DOU Edição nº 216 de 09/11/2018, Seção 1, p. 123)
+
+
+
+
+
+
+
+Não consta revogação expressa
+Abre, aos Orçamentos Fiscal e da Seguridade Social, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 70.500.000,00 (setenta milhões e quinhentos mil reais) para reforço de dotações constantes da lei orçamentária vigente, bem como altera a Portaria-TCU nº 10, de 15 de janeiro de 2018, que aprova o Cronograma Anual de Desembolso Mensal, nos termos do art. 55 da Lei nº 13.473, de 8 de agosto de 2017 (LDO).
+
+ANEXOS I E II DA PORTARIA-TCU Nº 317, DE 7 DE NOVEMBRO DE 2018.
+
+
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO I
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0089
+
+Previdência de Inativos e Pensionistas da União
+
+70.000.000
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 272
+
+0089 0181
+
+Aposentadorias e Pensões Civis da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70.000.000
+
+09 272
+
+0089  0181 0001
+
+Aposentadorias e Pensões Civis da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70.000.000
+
+ 
+
+ 
+
+ 
+
+S
+
+1
+
+1
+
+90
+
+0
+
+100
+
+70.000.000
+
+0550
+
+Controle Externo
+
+500.000
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 301
+
+0550 2004
+
+Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500.000
+
+01 301
+
+0550  2004 0001
+
+Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500.000
+
+ 
+
+ 
+
+ 
+
+S
+
+3
+
+1
+
+90
+
+0
+
+100
+
+500.000
+
+TOTAL – FISCAL
+
+0
+
+TOTAL – SEGURIDADE
+
+70.500.000
+
+TOTAL - GERAL
+
+70.500.000
+
+
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO II
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (CANCELAMENTO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+70.500.000
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 20TP
+
+Ativos Civis da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70.000.000
+
+01 122
+
+0550  20TP 0001
+
+Ativos Civis da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70.000.000
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+70.000.000
+
+01 331
+
+0550 212B
+
+Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500.000
+
+01 331
+
+0550  212B 0001
+
+Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500.000
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+1
+
+90
+
+0
+
+100
+
+500.000
+
+TOTAL – FISCAL
+
+70.500.000
+
+TOTAL – SEGURIDADE
+
+0
+
+TOTAL - GERAL
+
+70.500.000
+
+
+ANEXO III DA PORTARIA-TCU Nº 317, DE 7 DE NOVEMBRO DE 2018.
+
+
+
+"ANEXO I DA PORTARIA-TCU Nº 10, DE 15 DE JANEIRO DE 2018.
+
+
+
+
+
+03000 - TRIBUNAL DE CONTAS DA UNIÃO
+
+
+Outras Despesas Correntes.
+
+
+Em Reais 
+
+
+ 
+
+Fonte 0100
+
+Mês
+
+Outras Despesas Correntes ODC 
+
+ODC-Benefícios 
+
+ODC - Benefícios  Auxílio Funeral
+
+Outras Despesas Correntes ODC (Discricionárias da Folha de Pessoal)
+
+Janeiro
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Fevereiro
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Março
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Abril
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Maio
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Junho
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Julho
+
+ 15.688.410,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Agosto
+
+ 13.288.409,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Setembro
+
+ 13.288.409,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 366.667,00 
+
+Outubro
+
+ 13.288.409,00 
+
+ 6.135.004,00 
+
+ 73.506,00 
+
+ 466.667,00 
+
+Novembro
+
+ 13.188.409,00 
+
+ 6.085.003,00 
+
+ 123.505,00 
+
+ 566.667,00 
+
+Dezembro
+
+ 12.888.408,00 
+
+ 6.085.001,00 
+
+ 123.499,00 
+
+ 566.663,00 
+
+Total
+
+ 175.760.914,00 
+
+ 73.520.044,00 
+
+ 982.064,00 
+
+ 4.900.000,00 
+
+
+

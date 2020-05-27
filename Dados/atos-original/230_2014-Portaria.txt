@@ -1,0 +1,1730 @@
+Portaria
+230/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando que o Plano Estratégico do Tribunal definiu como objetivos estratégicos "Promover a melhoria da governança no TCU" e "Aprimorar as ações de controle voltadas à melhoria do desempenho da Administração Pública";
+
+
+considerando o acordo assinado entre o TCU e a Organização para a Cooperação e Desenvolvimento Econômico (OCDE) para realização de estudo internacional intitulado "Fortalecimento da Governança Pública: Boas Práticas das Entidades Fiscalizadoras Superiores", conforme aprovação do Plenário desta Casa publicada na Ata nº 30, de 7 de agosto de 2013;
+
+
+considerando a importância da governança em políticas públicas para o aperfeiçoamento da Administração Pública em benefício da sociedade;
+
+
+considerando a necessidade de padronizar o conteúdo mínimo de informações a serem utilizadas como referência em ações de controle externo sobre governança em políticas públicas; e
+
+
+considerando a necessidade de orientar a Administração Pública acerca de boas práticas que podem contribuir para a melhoria da governança, resolve:
+
+
+Art. 1º  Fica aprovado o Referencial para Avaliação de Governança em Políticas Públicas, na forma do Anexo Único desta Portaria, a ser observado pelo Tribunal de Contas da União em ações de controle e de melhoria de processos que tratem direta ou indiretamente do tema governança.
+
+
+Art. 2º  Cabe à Secretaria Geral de Controle Externo manter atualizado o Referencial de que trata o artigo anterior e promover a devida complementação e detalhamento desse Documento, de modo a explicitar os itens de controle a serem avaliados, bem como o modelo de avaliação a ser observado.
+
+
+Art. 3º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Referencial para Avaliação de Governança em Políticas Públicas.
+
+ANEXO ÚNICO DA
+
+
+
+
+PORTARIA-TCU Nº 230, DE 25 DE AGOSTO DE 2014
+
+
+
+
+
+
+
+REFERENCIAL
+PARA AVALIAÇÃO DE
+
+
+
+
+GOVERNANÇA EM POLÍTICAS PÚBLICAS
+
+
+
+
+
+
+
+
+Brasília, 2014
+
+
+
+© Copyright 2014, Tribunal de Contas de União
+
+
+Impresso no Brasil / Printed in Brazil
+
+
+<www.tcu.gov.br>
+
+
+Permite-se a reprodução desta publicação,
+em parte ou no todo, sem alteração do conteúdo,
+desde que citada a fonte e sem fins comerciais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brasil. Tribunal de Contas da União.
+
+
+Referencial para Avaliação de Governança em Políticas Públicas / Tribunal de Contas da União. – Brasília: TCU, Secretaria de Macroavaliação Governamental, Secretaria de Métodos Aplicados e Suporte à Auditoria, Secretaria de Controle Externo da Administração do Estado, Secretaria Geral de Controle Externo, 2014.
+
+
+46 p.
+
+
+1.Governança. 2.Pólíticas Públicas. 3.Transparência.
+
+
+Ficha catalográfica elaborada pela Biblioteca Ministro Ruben Rosa
+
+
+
+Palavra do Ministro Presidente Augusto Nardes
+
+
+
+	O Brasil enfrenta uma série de desafios para alcançar o tão almejado desenvolvimento nacional, conjugando crescimento econômico com qualidade de vida da população. 
+
+
+	Manter a estabilidade econômico-financeira, investir mais e melhor nas áreas da saúde, educação, inovação tecnológica e obras de infraestrutura, além da necessidade de minimizar os desequilíbrios sociais e regionais, são aspectos-chave sempre mencionados como parte desses desafios.
+
+
+	Por ser o Estado Brasileiro um importante ator do desenvolvimento, a melhoria da governança pública representa uma premissa fundamental para a superação de grande parte dos desafios postos. 
+
+
+	Atento a essa conjuntura e à sua missão institucional, o TCU, sem descurar da legalidade e da conformidade, tem buscado atuar de forma cada vez mais seletiva e sistêmica, com ênfase em questões estruturantes da Administração Pública, sempre com a finalidade de salvaguardar os interesses da população. 
+
+
+	Uma dessas questões estruturantes, e que afeta a qualidade do gasto público em geral, diz respeito ao contexto e a forma pela qual as políticas públicas são formuladas, implementadas e avaliadas. 
+
+
+	Por esse motivo, este referencial se propõe a orientar as ações de controle externo e de controle interno com vistas a contribuir para a formação de um ambiente mais seguro e favorável para que as políticas públicas apresentem resultados efetivamente transformadores, à altura das expectativas da sociedade.
+1. 
+INTRODUÇÃO
+
+
+O Plano Estratégico do TCU para o quinquênio 2011-2015 previu, nas perspectivas "processos internos" e "orçamento e logística", a necessidade de realização de ações voltadas à governança tanto externamente – como mecanismo de controle para o aperfeiçoamento dos demais órgãos da Administração Pública – quanto internamente, com a otimização de seus processos com vistas à promoção da melhoria da governança institucional, conforme demonstrado na figura a seguir.
+
+
+
+
+
+Fonte: TCU.
+
+
+Nesse contexto, é fundamental observar que a expressão "governança pública" comporta uma considerável multiplicidade de significados, derivados dos diferentes contextos e abordagens de análise aplicáveis[footnoteRef:2]. À luz do documento elaborado pela Universidade Nacional da Austrália (EDWARDS et al., 2012), e nos termos do Referencial Básico de Governança e Gestão aplicável às Organizações do Setor Público deste Tribunal de Contas da União (BRASIL, 2013), a governança pública pode ser analisada sob quatro perspectivas de observação: (1) Estado e sociedade; (2) entes federativos, esferas de poder e políticas públicas; (3) órgãos e entidades; e (4) atividades intraorganizacionais. [2:  Como exemplo, a autora Rachel M. Gisselquist, no paper intitulado "Good Governance as a Concept" (2012), assinala que: "o termo é amplamente utilizado em relação a uma variedade de contextos e abordagens específicas: por exemplo, governança corporativa, governança participativa, governança global, governança de tecnologia da informação (TI), governança ambiental, governança local, governança de ONGs e governança sustentável". Hill e Hupe (2002), sob prisma semelhante, sintetizam essa complexidade conceitual nos seguintes termos: "By adding an adjective, several authors particularly focus on a specific sort of governance".] 
+
+
+
+
+
+
+
+Fonte: TCU.
+
+
+
+
+Considerando os diferentes enfoques de governança para campos de aplicação específicos, entendeu-se importante haver modelos particulares para a avaliação da governança a depender do seu objeto. No exercício de 2013, sob a perspectiva "órgãos e entidades", foi elaborado, no âmbito deste Tribunal, o Referencial Básico de Governança Aplicável a Órgãos e Entidades da Administração Pública Federal com o objetivo de incentivar os agentes públicos na adoção de boas práticas de governança corporativa e se tornar guia para as ações do próprio TCU na melhoria da sua governança institucional.
+
+
+Além disso, na busca do aprimoramento das ações de controle voltadas à melhoria do desempenho da Administração Pública, foi instituído, em fevereiro de 2014, grupo de trabalho para elaborar proposta de modelo para a avaliação de governança em políticas públicas, sob a perspectiva de entes federativos, esferas de poder e políticas públicas. Essa perspectiva, de acordo com o já citado referencial de governança corporativa (BRASIL, 2013), pode ser compreendida como a vertente político-administrativa da governança no setor público, com foco na formulação, na implementação e na efetividade de políticas públicas (WORLD BANK, 2012 apud BRASIL, 2013); nas redes transorganizacionais, que extrapolam as barreiras funcionais de uma organização (STROKE, 1998 apud BRASIL, 2013); e na capacidade de auto-organização dos envolvidos.
+
+
+Este Referencial, ademais, é um documento paralelo e complementar ao estudo internacional conduzido pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE) com vistas à identificação de boas práticas de governança pública adotadas por órgãos centrais dos governos nacionais – Fazenda, Planejamento, Casa Civil – e Entidades Fiscalizadoras Superiores (EFS), no âmbito do grupo de doze países participantes do estudo, com ênfase nas seguintes áreas temáticas: Orçamento, Regulação, Centro de Governo e Controle Interno. 
+
+
+Cabe esclarecer, portanto, que se tratam de iniciativas distintas, e que o presente Referencial tem como objetivo orientar as unidades de controle externo do TCU na condução de trabalhos especificamente relacionados à avaliação da governança em políticas públicas.
+
+
+Para tanto, o produto deste trabalho foi organizado em três partes: a primeira apresenta o referencial, informando como foi desenvolvido e a forma como deve ser utilizado; a segunda abrange o referencial teórico e conceitos associados à governança, de modo a alinhar os conhecimentos das unidades técnicas desta Corte de Contas que realizarão as avaliações de governança em políticas públicas; e a terceira caracteriza o modelo do TCU de governança em políticas públicas, composto de oito componentes de avaliação, identificados a partir de conceituação geral de governança pública apresentada por Peters (2010; 2012), e da identificação de boas práticas mapeadas na literatura. 
+
+1.1 	Desenvolvimento do Referencial
+
+
+Para o desenvolvimento deste Referencial foi utilizado, como ponto de partida, o modelo metodológico já empregado pelo Tribunal de Contas da União (TCU) para a avaliação da governança da Política Nacional de Desenvolvimento Regional – PNDR (Acórdão 2.919/2009-TCU-Plenário e TC 033.934/2011-8). Este modelo, por seu turno, fundamentou-se na abordagem de governança apresentada por Peters (2012 apud ALBERNAZ, 2013), que apresenta quatro pilares compreendidos pela boa governança pública.
+
+
+a) Definição de objetivos coletivos, eleitos de forma legítima por uma sociedade; 
+
+
+b) Coerência entre as políticas públicas e existência de coordenação entre diferentes atores para sua realização; 
+
+
+c) Condições para implementação das políticas públicas, contemplando a capacidade da burocracia estatal e os arranjos institucionais que propiciem a atuação conjunta com entes não governamentais; 
+
+
+d) Monitoramento e avaliação, que assegurem aprendizado e aperfeiçoamento contínuos, e também criem condições para que haja accountability, envolvendo as dimensões de transparência da ação pública e responsabilização perante a sociedade.
+
+
+A partir desse modelo inicial, foram agregados, por meio de análise comparada, novos elementos encontrados em outras referências nacionais e estrangeiras consultadas, de modo a abranger uma variedade considerável de aspectos-chave que caracterizam a boa governança em políticas públicas. Entre as referências, destacam-se os seguintes documentos: a) Characteristics of good governance for drug policy: findings from an expert consultation. UK Drug Policy Commission (UKDPC), 2010; b) The Coordination of Australian Illicit Drug Policy: A Governance Perspective. DPMP Monograph Series. Sydney: National Drug and Alcohol Research Centre, 2010; c) Modern Policy-Making: Ensuring Policies Deliver Value for Money. National Audit Office (NAO), 2001; d) A Practical Guide to Policy Making in Northern Ireland. Office of the First Minister and Deputy First Minister. Economic Policy Unit, (2003); e) Framework for assessing governance of the health system in developing countries: Gateway to good governance. Health Policy Journal, 2009; f) Integrated Governance and Healthy Public Policy: Two Canadian Examples. National Collaborating Centre for Healthy Public Policy (NCCHPP), 2008; g) Redes e Governança das Políticas Públicas. Centro de Estudos Avançados de Governo e de Administração Pública (CEAG), 2013.
+
+
+
+Com base nessas referências, foram identificados oito componentes que viabilizam uma boa governança em políticas públicas, que serão devidamente tratados na sessão 4 deste Referencial, quais sejam: a) Institucionalização; b) Planos e Objetivos; c) Participação; d) Capacidade Organizacional e Recursos; e) Coordenação e Coerência; f) Monitoramento e Avaliação; g) Gestão de Riscos e Controle Interno; e h) Accountability. Esses componentes correspondem à base do modelo de avaliação da governança em políticas públicas proposto neste referencial.
+
+
+Foram identificadas boas práticas relacionadas a cada um desses componentes, as quais correspondem a exemplos não exaustivos do que se espera de uma boa governança em uma política pública, que possam incrementar a qualidade e a efetividade dos serviços prestados aos cidadãos.
+
+
+Por fim, no Apêndice, consta proposta de Matriz de Planejamento exemplificativa contendo questões referentes a cada um dos oito componentes, acompanhadas de informações sobre possíveis análises, as quais, por sua vez, refletem as boas práticas identificadas. 
+
+1.2 	Forma de Utilização do Presente Referencial
+
+
+A aplicação do presente referencial na avaliação da governança em políticas públicas deve ser realizada considerando as peculiaridades de cada política em questão. 
+
+
+No Brasil existem políticas públicas que nascem tal como a teoria prevê, ou seja, iniciando-se por um amplo processo de diagnóstico da situação a ser tratada, passando por uma fase de planejamento, pelo estabelecimento de diretrizes, pela definição do modelo de implementação, pela realização de testes, pela implantação propriamente dita da política e, por fim, pela sua avaliação e monitoramento, entre outras fases (DIAS, 2012; FREY, 2000; KINGDOM, 1984). Entretanto, o surgimento de políticas públicas que não consideram várias dessas importantes etapas é algo que acontece com frequência. O que se verifica, em síntese, é que os modelos descritores do ciclo de políticas públicas raramente refletem a real dinâmica de uma política pública (SECCHI, 2010). As fases geralmente se apresentam sobrepostas, e algumas etapas se antecipam a outras. O processo de uma política pública é incerto, sendo pouco nítidas as fronteiras entre suas diversas fases. 
+
+
+Mas isso não indica que haja óbice para o desenvolvimento e a aplicação de instrumentos de controle que, na proporção em que apontam lacunas, motivem o avanço da governança em políticas públicas. É desejável e possível, portanto, que seja utilizada uma abordagem de controle com amplos potenciais para elevar a eficiência e eficácia na aplicação de recursos públicos destinados à resolução de problemas de interesse da sociedade, mediante esforço coletivo empreendido por conjuntos de atores.
+
+
+Nesse contexto, é relevante observar que a implantação de uma política pública não se traduz apenas em problema técnico ou administrativo, mas sim em um grande emaranhado de elementos políticos que frustram os planejamentos definidos (SECCHI, 2010).
+
+
+Em muitos casos, as políticas públicas podem surgir para tratar dos problemas existentes identificados, sem considerar a fundo as causas desses problemas. Nem sempre o Governo possui tempo hábil para efetuar um adequado processo de planejamento de suas políticas. Em muitas situações, o estudo adequado sobre o processo de implantação de uma política é raramente realizado (PRESSMAN e WILDAVSKY, 1984). Entretanto, em muitos outros casos, governos atuam em políticas públicas com duração de várias décadas e com tendências de prosseguimento por tempo indeterminado. É, portanto, necessário considerar que tanto o tempo pode ser insuficiente para o planejamento de governos, quanto pode não haver obstáculos para planejamento e atuação eficiente de arranjos de governança em políticas públicas institucionalizadas como políticas de Estado.
+
+
+Não existe, portanto, um modelo ideal de política pública, uma vez que ela varia a depender do lugar, da época e dos atores envolvidos (DIAS, 2012). O que pode funcionar bem em um lugar e um momento, pode não dar certo em outro. Note-se que, mesmo nesse caso, não se inviabiliza a utilização de critérios para avaliar que motivos permitiram que houvesse sucesso ou fracasso de dada política pública.
+
+
+Há, ainda, que se ponderar a relação entre governança e governabilidade de uma política pública, aspecto este mais bem detalhado na sessão 2.2.4. Em algumas situações, aspectos de governança acabam sendo negligenciados em favor de uma maior governabilidade. Isso não é fundamentalmente algo ruim, tendo em vista a necessidade do caráter emergencial de algumas políticas públicas, de modo que cabe aos avaliadores da governança da política pública sopesar esse balanço com a governabilidade, levando em conta que esses conceitos não são excludentes. 
+
+
+Apesar de as práticas atuais poderem, em alguns casos, estar distantes de modelos e boas práticas pautadas em perspectivas de governança em políticas públicas, espera-se que, com o tempo, mesmo as políticas públicas destoantes do ciclo normal das políticas públicas passem a, crescente e consistentemente, incorporar os elementos de boa governança descritos no presente referencial.
+
+
+Do ponto de vista das ações de controle, importa mencionar que a avaliação de governança em políticas públicas se insere no contexto das Auditorias Operacionais (ou Auditorias de Desempenho), requerendo que os auditores designados para essa avaliação tenham, preliminarmente, conhecimento do Manual de Auditoria Operacional e, se possível, tenham sido capacitados e tenham alguma experiência nesse tipo de auditoria. 
+
+
+Quanto a esse quesito, deve-se destacar que, antes de se avaliar o sistema de governança que envolve uma política pública, é essencial que essa política seja bem conhecida pelos avaliadores. Desse modo, as equipes de auditoria devem estudar a política objeto de análise, identificar suas peculiaridades e quais aspectos da política pública devem ser enfocados na análise a ser realizada. 
+
+
+Será possível, dessa forma, estimar a importância relativa que cada um dos componentes de avaliação do presente referencial possui na política, tendo em vista o seu tempo de existência, a experiência dos gestores, entre outros aspectos. A partir disso, poderão ser priorizados e delimitados os componentes que serão objeto de avaliação. Isso significa que raramente uma única avaliação de governança em determinada política pública será capaz de avaliar os oito componentes apresentados neste Referencial, tendo em vista a amplitude de análise de cada um desses componentes. 
+
+
+Na condução dessas avaliações, é pertinente notar que os oito componentes do modelo apresentado possuem sobreposições, de forma que não é possível fazer uma separação integral entre esses componentes, pois seus temas possuem conexão. O componente "Capacidade Organizacional e Recursos", por exemplo, contém aspectos que se aproximam do componente "Institucionalização" e todos os componentes possuem relação com o componente "Planos e Objetivos". Essa aparente repetição é intencional e busca dar robustez a cada um dos componentes, pois raramente uma avaliação abordará todos ao mesmo tempo.
+
+
+A avaliação da governança em políticas públicas embasada no presente Referencial fornecerá elementos que possibilitarão fazer um diagnóstico do estágio de desenvolvimento em que se situa o sistema de governança. Essa avaliação, ao perpassar os oito componentes do modelo, fornecerá uma fotografia do estado de governança em que se insere a política pública. Assim, um único trabalho não necessita abarcar todos os componentes apresentados nesse Referencial, nem todas as questões de auditoria e possíveis análises sugeridas no Apêndice. Caberá aos auditores responsáveis pela auditoria, portanto, identificar quais componentes serão avaliados no trabalho com base nos estudos preliminares da política pública objeto de avaliação. O escopo dos trabalhos, conseguintemente, já deve estar definido antes de se utilizar este Referencial, com a indicação de quais componentes serão priorizados.
+
+
+No que se refere às expectativas relacionadas a essas avaliações, destaque-se que o presente Referencial não pretende solucionar, por si só, os problemas de governança identificados, apenas visa contribuir para que se conheçam os problemas de governança existentes em determinada política, indicando os caminhos que precisam ser melhorados. O processo de tratamento, ou seja, a forma como essa governança precisa ser melhorada, nos casos concretos, cabe aos gestores públicos responsáveis pela política pública.
+
+
+Não se espera, ademais, que os resultados de uma política pública sejam mensurados por meio da aplicação deste Referencial e que por meio deste se obtenha um juízo de valor sobre o alcance de objetivos de uma política pública. Entretanto, este Referencial possui a capacidade de orientar a identificação das estruturas de governança que dão suporte e embasamento para que os resultados de uma política pública sejam alcançados. Caso conclua-se que essa estrutura de governança não se mostra adequada, é possível que os resultados da política também estejam comprometidos, mas essa relação deve ser analisada caso a caso.
+
+
+No âmbito do TCU, espera-se que o presente Referencial funcione como embasamento para o planejamento das avaliações da governança em políticas públicas. Isso significa que as orientações e propostas contidas nesse documento não substituem a fase de planejamento da auditoria. Ela é necessária e extremamente importante. A partir do Referencial, as equipes de avaliação ou de auditoria terão subsídio para formular suas próprias questões de auditoria que orientarão seus trabalhos.
+
+
+O modelo apresentado na sessão 3, coerentemente, não é exaustivo. Isso significa que outras análises e temas podem ser utilizadas na avaliação de governança em uma política pública. As equipes avaliadoras devem ter a liberdade de adaptar as propostas de questões de auditoria e de análises, existentes no Apêndice deste Referencial, ao caso específico da política pública em questão, acrescentando e/ou suprimindo questões de auditoria e possíveis análises.  
+
+2.	REFERENCIAL CONCEITUAL
+
+2.1 	Aspectos conceituais sobre Políticas Públicas
+
+
+Políticas públicas "são um conjunto articulado e estruturado de ações e incentivos que buscam alterar uma realidade em resposta a demandas e interesses dos atores envolvidos" (MARTINS, 2007). Dispõem usualmente sobre "o que fazer" (ações), "aonde chegar" (objetivos relacionados ao estado de coisas que se pretende alterar) e "como fazer" (princípios e macroestratégias de ação) (MARTINS, 2003). Política Pública diz respeito, portanto, "à mobilização político-administrativa para articular e alocar recursos e esforços para tentar solucionar dado problema coletivo" (PROCOPIUCK, 2013).
+
+
+O Ciclo de Políticas Públicas, por sua vez, é o conjunto articulado das macroetapas de formulação, implementação e avaliação. De acordo com Frey (2000), as tradicionais divisões do ciclo político nas várias propostas na bibliografia se diferenciam apenas gradualmente, possuindo em comum as fases da formulação, da implementação e do controle dos impactos das políticas.
+
+
+Complementarmente, o autor esclarece que, "do ponto de vista analítico, uma subdivisão um pouco mais sofisticada parece pertinente", propondo que se faça distinção entre as seguintes fases: "percepção e definição de problemas, formação de agenda, elaboração de programas e decisão, implementação de políticas e, finalmente, a avaliação de políticas e a eventual correção da ação" (FREY, 2000). A sequência resultante de estágios é usualmente denominada de "ciclo político-administrativo" (HOWLETT et al., 2013).
+
+
+Tendo em vista a variedade de abordagens existentes para descrever esse ciclo, este Referencial se utiliza do modelo construído sob a lógica de resolução de problemas, já que o objeto das políticas públicas são "problemas ou demandas públicas".
+
+
+O referido modelo, constituído por cinco estágios, é ilustrado por Howlett et al. (2013) conforme apresentado na tabela a seguir.
+
+
+
+Quadro 1: Cinco estágios do ciclo de políticas públicas
+
+
+Resolução Aplicada a Problemas
+
+Estágios do ciclo da política públicaReconhecimento do ProblemaFormação de AgendaPropostas de SoluçãoFormulação da PolíticaEscolha da SoluçãoTomada de Decisão PolíticaEfetivação da SoluçãoImplementação da PolíticaMonitoramento dos ResultadosAvaliação da Política
+
+
+Fonte: HOWLETT, Michael; RAMESH, M.; PERL, Anthony. Política Pública, seus ciclos e subsistemas: uma abordagem integral. 2013. p. 16.
+
+
+
+Uma das grandes utilidades desse modelo, e de outros semelhantes, reside no fato de que facilita a compreensão dos diferentes papéis desempenhados pelos principais atores envolvidos em estágios específicos do ciclo de determinada política, conforme o paralelo entre o "ciclo" e "atores" traçado pela "ampulheta" proposta por Howlett et al. (2013).
+
+
+
+
+
+
+
+Fonte: HOWLETT, Michael; RAMESH, M.; PERL, Anthony. Política Pública, seus ciclos e subsistemas: uma abordagem integral. 2013. p. 16.
+
+
+
+De acordo com essa representação, na forma de ampulheta: no estágio 1 do ciclo de políticas públicas todos os atores (universo da política pública) podem estar envolvidos na montagem da agenda; no estágio 2, apenas um subconjunto desse universo participa das discussões mais especializadas relativas à discussão de alternativas que compõem o processo de formulação da política; e no estágio 3 o número de atores é reduzido ainda mais, restringindo-se aos tomadores de decisões governamentais oficiais. Posteriormente, o leque de atores volta a se abrir a partir do estágio 4, na medida em que a implementação da política geralmente envolve uma considerável constelação de atores públicos e privados; por fim, no estágio 5 o rol de atores se expande ainda mais, a ponto de contemplar, novamente, todo o universo da política pública na avaliação da política.
+
+
+No que tange às desvantagens dos modelos representativos do ciclo de políticas públicas, o grande risco se refere à sua interpretação incorreta, na hipótese de ser tomado como se fosse dotado de linearidade e racionalidade idealizadas e constantes. Na realidade, conforme advertem HOWLETT et al. (2013), este não é o caso, haja vista que "a identificação de problemas e o desenvolvimento de soluções são, muitas vezes, processos ad hoc e idiossincráticos".
+
+
+Ainda de acordo com os citados autores, em que pese a elegância da lógica apresentada, na prática, os estágios são, muitas vezes, comprimidos, invertidos[footnoteRef:3] ou até mesmo evitados. Em síntese, é importante observar que várias políticas públicas não seguem esse ciclo racional ou didático. Em muitas ocasiões não é possível identificar todas as fases de uma política pública, ou fazer uma distinção clara entre essas fases (SECCHI, 2010). [3:  Sobretudo quando "soluções procuram problemas".] 
+
+
+
+Além disso, se for considerado o desenvolvimento no tempo, há possibilidades de existência de políticas públicas em formação em diferentes estágios ou, ainda, em maior ou menor nível de institucionalização (conceito abordado na sessão 3.1.1). Contudo, essas condições não invalidam inciativas de controle sobre políticas públicas. 
+
+
+No caso de políticas públicas fragmentadas ou com fases de desenvolvimento não consonantes com o desenvolvimento sequencial descrito anteriormente, do mesmo modo como ocorre com aquelas com níveis incipientes de institucionalização, não há inviabilização quanto à aplicação de instrumentos de avaliação externa destinadas a verificar e explicitar os meios e as condições de governança existentes. 
+
+
+Quando se trata de avaliação da governança em políticas públicas a tendência é que, em grande parte dos casos, os instrumentos de avaliação e sua aplicação tenham que ter flexibilidade suficiente para abarcar diferentes estágios ou fases de políticas públicas em desenvolvimento. Isso pressupõe, em primeiro lugar, considerar a política pública a partir de macro perspectivas e, a partir disso, ter sensibilidade analítica para identificar lacunas ou dissonâncias entre inciativas, técnicas e instrumentos de gestão utilizados pelos diferentes atores que compõem o arranjo de governança da política pública.
+2.2 Aspectos Conceituais sobre Governança Pública 
+
+
+
+	Embora no campo acadêmico a literatura sobre governança tenha precedentes mais remotos[footnoteRef:4], sobretudo no domínio econômico, o desenvolvimento do tema no âmbito da administração pública está intimamente relacionado ao movimento propagado pelo Banco Mundial ao final da década de 80. Com efeito, até 1989, data de publicação do relatório "Sub-Saharan Africa: From Crisis to Sustainable Growth" (BANCO MUNDIAL, 1989), o termo governança raramente era utilizado nos círculos de debates sobre desenvolvimento. No citado relatório, o conceito foi apresentado, à época, como "o exercício do poder político para gerir os assuntos de uma nação". [4:  Pode ser mencionado, como exemplo, o artigo "Transaction-Cost Economics: The Governance of Contractual Relations" (Williamson, 1979). Convém citar, ainda, os textos de Jessop (1999) e Buchanan (2003). ] 
+
+
+
+Naquela ocasião, o mesmo documento identificou a "crise de governança" como um dos principais entraves para a superação da persistente pobreza na África Subsaariana. Haveria a necessidade, entre outras mudanças, de reformas institucionais que tornassem o setor público mais efetivo na região.
+
+
+Pouco depois, com a publicação do relatório "Governance and Development" (BANCO MUNDIAL,1992), é aprimorado e expandido o conceito de governança, assim reformulado: "a maneira pela qual o poder é exercido na administração dos recursos econômicos e sociais do país, com vistas ao desenvolvimento". E no bojo dessa redefinição são apresentados três aspectos distintos de governança: (i) a forma de regime político; (ii) o processo pelo qual a autoridade é exercida na gestão dos recursos econômicos e sociais de um país, em prol do desenvolvimento; e (iii) a capacidade dos governos de conceber, formular e implementar políticas e exercer suas funções[footnoteRef:5]. [5:  O último aspecto, na qualidade de objeto de controle, é o que se apresenta mais diretamente abrangido pelo mandato e competências dos tribunais de contas.] 
+
+
+
+No relatório "Governance: the World Bank's experience" (BANCO MUNDIAL, 1994), o conceito foi novamente revisto e apresentado nos seguintes termos:
+
+
+
+Governança é sintetizada por formulação previsível, aberta e esclarecida de políticas (ou seja, processos transparentes); uma burocracia imbuída com ethos profissional; um braço executivo responsável por suas ações; e uma forte participação da sociedade civil nos negócios públicos; e todos se comportando sob as regras da lei. [Tradução do TCU] 
+
+
+
+No cenário nacional, no ano seguinte, o Plano Diretor da Reforma do Aparelho do Estado (BRASIL, 1995), na esteira dos conceitos até então disseminados pelo Banco Mundial[footnoteRef:6], apontava como inadiável uma "reforma do aparelho do Estado, com vistas a aumentar sua ‘governança’, ou seja, sua capacidade de implementar de forma eficiente políticas públicas".  [6:  Para uma discussão mais aprofundada sobre a evolução conceitual sobre governança no Banco Mundial, recomenda-se a leitura do artigo "The World Bank’s evolving concept of good governance and its impact on human rights" (MALDONADO, 2010).  ] 
+
+
+
+Na década seguinte, no mesmo diapasão, o documento "Gestão Pública para um Brasil de Todos" (BRASIL, 2003) declarou que "aumentar a governança é promover a capacidade do governo em formular e implementar políticas públicas [...]".
+
+
+O Decreto nº 5.378/2005, que instituiu o Programa Nacional de Gestão Pública e Desburocratização – Gespública (BRASIL, 2005), consignou que caberia a este programa, entre outras atribuições, "promover a governança, aumentando a capacidade de formulação, implementação e avaliação das políticas públicas".
+
+
+Em face dessa contextualização histórico-conceitual, importa observar, como complemento, que a governança pública não se limita à capacidade estatal de implementar – além de formular e avaliar – políticas públicas. Conforme preleciona Diniz (2001), se por um lado a governança pode ser descrita como a "capacidade de ação estatal na implementação das políticas e na consecução das metas coletivas", por outro implica o aperfeiçoamento da interação entre atores diversos, de forma a articular seus interesses e garantir a transparência e a accountability da atuação governamental. 
+
+
+Essa concepção dupla também foi apresentada por Azevedo e Anastasia (2002), ao defenderem que a governança não é restrita ao aparato burocrático-institucional do Estado e sua eficácia na implementação de políticas públicas. Sintetizando as conclusões dos referidos autores, entende-se a governança pública como a combinação de dois elementos:
+
+
+- a "capacidade operacional da burocracia governamental, seja nas atividades de atuação direta, seja naquelas relacionadas à regulação das políticas públicas";
+
+
+- a "criação de canais institucionalizados, legítimos e eficientes de mobilização e envolvimento da comunidade na elaboração e implementação de políticas".
+
+
+Nesse contexto, Marini e Martins (2014) ofertam importante contribuição conceitual ao associar a ideia de governança à geração de valor público. Sustentam, nesse sentido, que governança pública "é capacidade de governo; é governar em rede de forma colaborativa; é governar orientado para resultados; todos estes elementos juntos para gerar valor público sustentável".
+
+
+Por essa razão, os autores ponderam que o fortalecimento da capacidade de governo e o esforço de governar em rede só fazem sentido na medida em que contribuem para a geração de valor público, o qual, por sua vez, demanda o desenvolvimento de capacidades e relacionamentos interinstitucionais.
+
+
+Assim, uma cadeia de valor público implica não apenas a consideração de variáveis objetivas de desempenho (inputs, atividades, outputs e outcomes), como também a devida reputação a variáveis de natureza mais subjetiva, relacionadas a "expectativas, satisfação, confiança e requisitos valorativos referentes ao processo de governança como um todo".
+
+2.2.1	Governança e Redes de Políticas Públicas
+
+
+A governança pública inclui o Estado, mas o transcende, na medida em que contempla atores da sociedade civil como partes essenciais do processo de governo. Expande o foco, portanto, ao abranger "qualquer coletividade, pública ou privada, que se utilize de mecanismos formais ou informais de direção para demandar soluções, estruturar objetivos, direcionar problemas, buscar a efetivação de políticas públicas e gerar confiança" (PROCOPIUCK, 2013; PNUD, 1997, apud DIAS, 2012). 
+
+
+Essa percepção sobre a governança está relacionada à reformulação do papel do Estado, que, no Brasil, se intensificou durante a década de noventa. Com essa nova configuração, projetou-se o entendimento de que o êxito das políticas públicas não depende unicamente do aparato governamental. Passa a ser necessário um maior grau de interação e cooperação entre o Estado e atores não estatais, como em uma estrutura de redes.
+
+
+As redes de políticas públicas representam uma forma específica de interação entre atores públicos e privados (BÖRZEL, 1998 apud SECCHI, 2009) e podem ser definidas como:
+
+
+Um conjunto de relações relativamente estáveis de natureza não hierárquica e interdependente ligando uma variedade de atores que compartilham interesses comuns em relação a uma política e trocam recursos com o objetivo de perseguir estes interesses comuns conscientes de que a cooperação é o melhor modo de se alcançar as metas comuns. (BÖRZEL, 1998, p. 254) Grifos nossos
+
+
+
+Na rede de políticas públicas, há a dependência mútua entre os diversos atores envolvidos em uma finalidade comum, haja vista que, isoladamente, não conseguem alcançar seus objetivos sem a participação dos demais partícipes. A cooperação entre atores, desse modo, torna-se questão central para explicar o sucesso ou o fracasso das políticas públicas (HILL e HUPE, 2002).
+
+
+A governança em redes, por conseguinte, passa a ser definida como a articulação horizontal de atores interdependentes, mas operacionalmente autônomos (PROCOPIUCK, 2013).
+
+
+Considerando a complexidade em que as políticas públicas estão inseridas, especialmente no tocante aos múltiplos atores que participam ou possuem interesse nela, é importante que exista uma boa coordenação dessas políticas. A coordenação deve existir horizontalmente, englobando atores da mesma esfera de governo e nível hierárquico, e também verticalmente, com atores de outras esferas de governo e de diferentes níveis hierárquicos na Administração Pública (MARTINS, 2003). A coordenação vertical está diretamente relacionada à governança em multiníveis, que é abordada na próxima sessão.
+
+2.2.2 	Governança em Multiníveis
+
+
+O sistema político adotado por um país tem impacto crucial no modo como são elaboradas e implementadas as políticas e em como são apropriados os seus resultados. Em uma Federação existe mais de um nível autônomo de governo dentro do país, os quais não possuem relação de subordinação. Em países federativos, consequentemente, há dificuldade por parte dos governos de desenvolver políticas consistentes e coerentes, uma vez que na maioria das áreas, as políticas nacionais exigem acordo intergovernamental, envolvendo negociações complexas e extensas que nem sempre são bem-sucedidas (HOWLETT, 2013). 
+
+
+As redes de política pública, em suma, podem ser intergovernamentais, na medida em que incorporam atores da esfera nacional e local, e requerem a articulação entre ações locais e orientações definidas nacionalmente. No caso concreto do Brasil, destacam-se as redes de políticas públicas intergovernamentais nas áreas da saúde e educação (NASCIMENTO, 2007).
+
+
+Com fundamento na ênfase dada à multiplicidade de atores envolvidos no processo de políticas públicas, a perspectiva da governança multinível (multi-level governance[footnoteRef:7]), segundo PROCOPIUCK (2013), sobressai em importância em ambientes desprovidos de "claros limites e fronteiras entre diferentes níveis jurisdicionais de entidades governamentais", sem prejuízo da necessidade de articulação com atores não estatais. [7:  A teorização da governança multinível tem origem na União Europeia, onde políticas públicas comumente operam sob múltiplas jurisdições.] 
+
+
+
+Isso é especialmente relevante, conforme sugerido, para políticas públicas que se desdobram em contextos de federalismo de Estado, em que há difusão de autoridade distribuída em arranjos policêntricos, constituídos em multiníveis ou múltiplas camadas. 
+
+
+No Brasil, com efeito, esse aspecto da governança é de fundamental relevância para a construção de avaliações mais abrangentes sobre a ação governamental, na medida em que a articulação entre União, Estados e Municípios não raro se apresenta como fator determinante para o êxito das políticas públicas.
+
+2.2.3	Governança e Boa Governança em Políticas Públicas
+
+
+
+Governança em políticas públicas se refere aos arranjos institucionais que condicionam a forma pela qual as políticas são formuladas, implementadas e avaliadas, em benefício da sociedade.
+
+
+Nesse contexto, os arranjos institucionais dizem respeito, entre outros aspectos, a estruturas, processos, mecanismos, princípios, regras, normas que influencias a governança em política pública. Os arranjos podem ser formais ou informais, e devem ser considerados sempre que tiverem influência na política.
+
+
+Assim, a boa governança em políticas públicas dependerá justamente da caracterização do ambiente de ação que envolve o ciclo de políticas públicas e do modo pelo qual, e em benefício de quem, esse ciclo é operacionalizado.
+
+
+Um dos possíveis enfoques para essa qualificação da governança consiste na observância de princípios clássicos de boa governança. Por esse ângulo, uma das referências usualmente utilizadas, especialmente no contexto do processo decisório, é rol de oito princípios (ou características) de boa governança preconizado pela Unescap[footnoteRef:8], assim constituído: participação, orientação a consensos, accountability, transparência, responsividade, eficiência e efetividade, estado de direito, equidade e inclusão. [8:  United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP).] 
+
+
+
+Em face disso, oportuno registrar que enquanto alguns[footnoteRef:9] dos referenciais consultados como subsídio para a formulação do presente Referencial são alicerçados e centrados em princípios de boa governança, outros[footnoteRef:10] são mais diretamente associados a modelos de governança, a aspectos típicos do ambiente de políticas públicas, embora também sejam influenciados por aqueles princípios. [9:  Podem ser mencionados, como exemplos, os modelos expostos nos seguintes documentos (já inicialmente citados): "The Coordination of Australian Illicit Drug Policy: A Governance Perspective" e "Framework for assessing governance of the health system in developing countries: Gateway to good governance".]  [10:  São exemplos: "Characteristics of good governance for drug policy: findings from an expert consultation" e "Modern Policy-Making: Ensuring Policies Deliver Value for Money".] 
+
+
+
+Em termos pragmáticos, o modelo proposto optou pela segunda abordagem, de tal sorte que, para efeito deste Referencial, os componentes e fatores da boa governança são mais diretamente articulados ao universo das políticas públicas.
+
+2.2.4	Governança x Governabilidade x Gestão
+
+
+O termo governança pode ser analisado, entre outros ângulos, enquanto elemento constitutivo dos seguintes pares de contraste: "governança x governabilidade" e "governança x gestão".
+
+
+
+
+"Governança x Governabilidade"
+
+
+
+A governabilidade está ligada, entre outras ideias, à existência de "condições políticas" para a sustentação de políticas públicas em ambiente democrático (SANTOS, 1997). No Brasil, em particular, em ambiente de "presidencialismo de coalizão" (ABRANCHES, 1988).
+
+
+Ainda de acordo com Santos (1997), em referência à linha de argumentação desenvolvida por Melo (1995) e Diniz (1995; 1996), a governabilidade pode ser compreendida como "condições sistêmicas e institucionais sob as quais se dá o exercício do poder, tais como as características do sistema político, a forma de governo, as relações entre os Poderes, o sistema de intermediação de interesses". 
+
+
+Nessa esteira, Bresser Pereira (1998) propõe a seguinte diferenciação conceitual: "A governabilidade e a governança são conceitos mal definidos, frequentemente confundidos. Para mim, governabilidade é uma capacidade política de governar derivada da relação de legitimidade do Estado e do seu governo com a sociedade; governança é a capacidade financeira e administrativa, em sentido amplo, de um governo implementar políticas".
+
+
+Adverte Santos (1997), todavia, que a distinção estanque dos conceitos de governança e governabilidade é pouco relevante no contexto atual, sobretudo na medida em que o primeiro conceito passa a incorporar princípios democráticos, voltados à promoção de novos padrões de articulação e cooperação entre atores sociais e políticos. Por essa razão, a autora sugere a realização de uma análise mais ampla em torno de "capacidade governativa", expressão esta que engloba, em resumo, as "noções sistêmicas e operacionais contidas nos conceitos de governabilidade e governança", além de destacar a interação da capacidade operacional e financeira do Estado com as instâncias da política democrática.
+
+
+Em sentido semelhante, após a análise de diferentes tipologias que servem como quadro de referência para a avaliação da relação governabilidade/governança, Araújo (2002) conclui ser quase consensual o entendimento de que "as variáveis de governabilidade e governança mantêm entre si uma relação muito forte, sendo complementares e o seu vínculo instável, dinâmico e indissolúvel, cabendo a separação apenas para fins didáticos analíticos".
+
+
+Registra o referido autor, contudo, que, de acordo com a visão de Bresser Pereira (1998), "sem governabilidade plena é impossível obter a governança, mas esta pode ser muito deficiente em situações satisfatórias de governabilidade, como a presente no Brasil".
+
+
+Em face dessas interpretações, este referencial considera consistente, além de oportuno, o esforço endereçado ao aprimoramento da governança de políticas públicas, nos termos aqui propostos, sem que esse esforço seja necessariamente dependente do equacionamento de desafios políticos mais afetos à dimensão de governabilidade da capacidade governativa.
+
+
+
+
+"Governança x Gestão"
+
+
+
+Também é sutil a linha divisória entre governança e gestão. Para fins didáticos, pode-se afirmar, em linhas gerais, que a "governança condiciona a gestão", em variados níveis de leitura.
+
+
+Do ponto de vista republicano, por exemplo, esse condicionamento pode estar ligado à afirmação de direitos de quarta geração no campo da gestão pública, tais como democracia, informação, transparência e participação. Trata-se do enfoque de governança democrática, ou de boa governança.
+
+
+À luz desse critério, portanto, uma gestão arbitrária, opaca e fechada seria desprovida de boa governança, ao passo que uma gestão democrática, transparente e aberta à participação estaria em maior conformidade com princípios gerais e contemporâneos da governança do Estado e de sua relação com a sociedade.
+
+
+Mas a diferenciação em exame também pode assumir uma conotação mais operacional. De acordo com o Referencial de Governança aplicável a Órgãos e Entidades da Administração Pública, do TCU (2013), com efeito, "a gestão é inerente e integrada aos processos organizacionais, sendo responsável pelo manejo dos recursos e poderes colocados à disposição de órgãos e entidades para a consecução de seus objetivos, enquanto a governança provê direcionamento, monitora, supervisiona e avalia a atuação da gestão".
+
+
+Em uma abordagem integradora, registra o citado documento que, de acordo com o Banco Mundial, governança diz respeito a estruturas, funções, processos e tradições organizacionais que visam garantir que as ações planejadas (programas) sejam executadas de tal maneira que atinjam seus objetivos e resultados de forma transparente (WORLD BANK, 2013). Busca, portanto, maior efetividade (produzir os efeitos pretendidos) e maior economicidade (obter o maior benefício possível da utilização dos recursos disponíveis) das ações. São funções da governança: (a) definir o direcionamento estratégico; (b) supervisionar a gestão; (c) envolver as partes interessadas; (d) gerenciar riscos estratégicos; (e) gerenciar conflitos internos; (f) auditar e avaliar o sistema de gestão e controle; e (g) promover a accountability (prestação de contas e responsabilidade) e a transparência.
+
+
+De modo complementar, gestão diz respeito ao funcionamento do dia a dia de programas e de organizações no contexto de estratégias, políticas, processos e procedimentos que foram estabelecidos pelo órgão (WORLD BANK, 2013); preocupa-se com a eficácia (cumprir as ações priorizadas) e a eficiência das ações (realizar as ações da melhor forma possível, em termos de custo-benefício). São funções da gestão: (a) implementar programas; (b) garantir a conformidade com as regulamentações; (c) revisar e reportar o progresso de ações; (d) garantir a eficiência administrativa; (e) manter a comunicação com as partes interessadas; e (f) avaliar o desempenho e aprender.
+
+2.2.5	Governança em políticas públicas: a abordagem do controle
+
+
+As Entidades Fiscalizadoras Superiores (EFS), dada à limitação relativa de recursos disponíveis para o exercício do controle, ante a amplitude e complexidade crescentes da atuação governamental, deve delimitar a priorização de sua atuação. 
+
+
+Essa percepção leva a considerações sobre a seletividade dos trabalhos a serem empreendidos e tende a direcionar os esforços de fiscalização para as áreas de maior risco na ação estatal. Por conseguinte, tendem a emergir como prioritárias questões estruturantes tais como a interação de arranjos de governança com o aparelho burocrático e suas relações com a sociedade civil e com as políticas públicas em curso.
+
+
+No Brasil, o vasto rol de competências do Tribunal de Contas da União, exercido sobre órgãos e agentes públicos de um estado extenso, potencializa o desafio da seletividade do controle externo.
+
+
+Assim, a abordagem sobre a governança em políticas públicas representa uma atuação do Tribunal de Contas da União (TCU), na medida em que orienta esforços de controle para aspectos estruturantes que condicionam a intervenção governamental.
+
+
+Essa perspectiva de controle, todavia, implica a necessidade de superação de desafios imediatos, entre os quais se destaca a inexistência de padrões que orientem esse tipo de fiscalização, especificamente no que concerne à governança em políticas públicas.
+
+
+O presente Referencial se propõe, portanto, a apresentar um modelo de análise de políticas públicas baseado em fatores de governança, acompanhado de questões avaliativas. 
+
+
+O enfoque da análise, conforme será destacado ao longo deste documento, não se concentra de forma prioritária no desempenho da gestão das políticas públicas em si, tendo em vista que focaliza a qualidade dos fatores estruturais que aumentam a probabilidade de que os resultados previstos sejam alcançados, ao mesmo tempo em que fomenta a criação de um melhor ambiente para o uso dos recursos públicos.
+
+
+Oportuno ressaltar, no presente contexto, que também devem ser considerados como pressupostos para o êxito desse direcionamento de trabalhos nas EFS a capacidade técnica e a adequada formatação da estrutura interna das instituições de controle, uma vez que as análises de governança pública requerem uma compreensão mais profunda das políticas em curso. 
+
+
+
+Como boa parte das políticas públicas tem natureza intersetorial ou transversal, e há inegáveis interferências mútuas mesmo em políticas inerentes a setores específicos, o pleno exercício do controle externo sobre a ação estatal depende de um esforço coordenado de natureza também multissetorial. A percepção sobre a necessidade de qualificação e dedicação específica a áreas temáticas da atuação governamental tem encontrado resposta nas alterações estruturais que marcaram a transição de gestões no TCU entre 2012 e 2013 (BRASIL, 2012a).
+3. MODELO DO TCU PARA AVALIAÇÃO DA GOVERNANÇA EM POLÍTICAS PÚBLICAS
+
+
+Em consonância com o capítulo antecedente, o TCU, após avaliar e se embasar em vários modelos de governança em políticas públicas (ALBERNAZ, 2012; CALMON, 2013; PETERS, 2012; NAO, 2001; ANAO, 2006, OFMDFMNI, 2003; NCCHPP, 2008), elaborou um modelo de avaliação da governança em políticas públicas composto por oito componentes, conforme mostrado na figura a seguir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonte: TCU.
+
+
+
+3.1 	Detalhamento dos Componentes para Avaliação da Governança em Políticas Públicas
+
+
+Nas seções seguintes são detalhados cada um dos componentes do modelo de Avaliação de Políticas Públicas do TCU. Inicialmente é apresentada uma descrição do componente e depois algumas boas práticas referentes ao tema, identificadas na literatura. Por fim, no Apêndice deste Referencial são apresentadas propostas de questões de auditoria que podem servir de orientação para as equipes do TCU. Vale destacar que as boas práticas identificadas não são exaustivas, refletindo apenas exemplos do que se espera em uma situação em que exista boa governança da política pública.
+
+
+Cabe reiterar que os componentes do modelo possuem algum grau de sobreposição, tendo em vista que os temas abordados são correlacionados. Assim, aspectos que são marcantemente determinados em um componente poderão ser observados, de maneira mais indireta, em outro componente. Essa sobreposição visa a dar robustez a cada um dos componentes individualmente considerados.
+
+
+Além disso, a proposta de matriz de planejamento apresentada deve ser compreendida como uma orientação geral para os trabalhos que serão desenvolvidos; assim, análises e questões podem ser incorporadas às questões propostas, enquanto outras podem não ser abordadas, a depender do escopo avaliado. 
+
+
+
+
+
+3.1.1. Institucionalização
+
+
+Institucionalização de uma política pública se refere a aspectos, formais ou informais, da existência da política, relacionados a capacidades organizacionais, normatização, padrões, procedimentos, competências e recursos que possibilitam o alcance dos objetivos e resultados da política pública.  
+
+
+Espera-se que uma política pública esteja jurídica e oficialmente formalizada, com o estabelecimento de normas, padrões e procedimentos que definam claramente as arenas decisórias, a divisão de competências e as atribuições dos atores envolvidos. A inexistência de políticas públicas formais fragiliza, por exemplo, a constituição de arcabouços legais para a sua sustentação e a definição segura das fontes de recursos a serem alocados (PROCOPIUCK, 2013).
+
+
+Institucionalização está intimamente relacionada com legitimidade[footnoteRef:11] e com capacidade organizacional (FREITAS, 2005). Uma política pública adequadamente institucionalizada indica que ela é reconhecida como legítima, desejada e que conta com os recursos necessários para o seu desenvolvimento. [11:  Legitimidade é uma percepção generalizada ou suposição de que as ações são desejadas, próprias ou apropriadas dentro de algum sistema de normas, valores, crenças e definições socialmente construída (SUCHMAN, 1995 apud FREITAS, 2005).] 
+
+
+
+Conforme o CIPFA (2004), uma das diretrizes para se ter uma boa governança é a definição clara das funções das organizações e das responsabilidades dos envolvidos. Para tanto, algumas políticas públicas estabelecem marcos regulatórios, destacando as competências de cada um dos atores envolvidos, enquanto outras constituem fóruns específicos para discussão de temas e deliberação de propostas de atuação. Mesmo as políticas pouco integradas podem estar formalmente estabelecidas, enquanto outras podem estar baseadas apenas nas relações informais entre seus membros. Políticas formalmente institucionalizadas dispõem de maior grau de governança (CALMON, 2013).
+
+
+Entretanto, um excesso de normas e formalidades pode dificultar a participação e a coordenação dessas políticas.
+
+
+
+Boas práticas:
+
+
+
+
+· Institucionalização formal da política pública por meio de norma legal (lei, decreto, resolução etc.) apropriada, emitida por órgão dotado de legitimidade e competência para fazê-lo, e na qual normatize-se a atuação dos diversos órgãos, instituições e esferas de governo envolvidos (CALMON, 2013; FREITAS, 2005);
+
+
+· Definição clara e formal das competências das principais partes interessadas envolvidas na política pública (matriz de responsabilidades), de forma que seja possível a identificação  dos objetivos, papéis, responsabilidades, recursos e obrigações de todos os envolvidos, incluindo-se abordagem para tratar resolução de conflitos, identificar e dividir riscos e oportunidades e estabelecer formas de revisão, avaliação e monitoramento (CALMON, 2013; CIPFA, 2004; ANAO, 2006; AUSTRALIAN GOVERNMENT, 2013; NAO, 2006);
+
+
+· Institucionalização formal dos processos decisórios referentes à política pública (CALMON, 2013);
+
+
+· Existência de marco regulatório que não prejudique o desempenho da política pública pelo excesso de formalismo e de detalhamento (CALMON, 2013).
+
+3.1.2. Planos e Objetivos
+
+
+As políticas públicas devem possuir coesão interna. Assim, os objetivos e as metas definidos devem se relacionar com as intervenções escolhidas. Nesse contexto, a política pública orienta-se por uma formulação geral que defina sua lógica de intervenção e por planos que permitam operacionalizar as ações necessárias, delineados em função das diretrizes, objetivos e metas propostas. 
+
+
+Cassiolato e Gueresi (2010) defendem a necessidade de prever as atividades necessárias e os recursos correspondentes para sua realização, de forma logicamente encadeada com os resultados (produtos e efeitos) que a política ou programa se propõe a realizar. Adicionalmente, é essencial que a formulação da política explicite suas prioridades, para que os processos de execução e avaliação sejam adequadamente orientados e possam ser redesenhados caso haja necessidade de ajustes, como, por exemplo, em situações de escassez de recursos ou mudanças relevantes de cenários.
+
+
+Ainda segundo as autoras, no âmbito operacional, é preciso indicar as formas de medição e adoção de ações corretivas. De forma geral, isso inclui avaliar itens como: objetivos; etapas intermediárias de execução; programação de atividades a serem realizadas; cronogramas que sequenciam e delimitam as ações no tempo; alocação de recursos, incluindo orçamentos para projetar e orientar as provisões necessárias; definição precisa de papéis e responsabilidades; interdependências; riscos, possíveis obstáculos e alternativas de atuação, incluindo ações de contingência; e prestação de contas sobre o desempenho e formas de controle.
+
+
+De acordo com Peters (2010), o sucesso da governança requer a definição de objetivos, uma vez que para governar é necessário conhecimento sobre o trajeto para o destino que se pretende atingir, requerendo a integração de objetivos entre todos os níveis do sistema. O estabelecimento de prioridades, objetivos e metas a serem alcançados constitui espinha dorsal de uma política pública, e sinaliza a todos quais são os parâmetros pelos quais se orientar (DIAS, 2012). A política pública deve apresentar diretrizes, objetivos e metas democraticamente selecionadas, para haver legitimidade perante a sociedade. 
+
+
+Ademais, segundo o NAO (2001), deve-se criar uma cultura que encoraje a geração de ideias inovadoras e criativas, assim como promover-se a busca por soluções adotadas em outras organizações ou países, uma vez que, frequentemente, não são novas as questões a serem enfrentadas. Portanto, a experiência externa, além de ser uma fonte útil de inovação, novas ideias e boas práticas, pode minimizar o risco de retrabalho, opção que tende a ser dispendiosa, assim como ajudar a antecipar problemas.
+
+
+Finalmente, as diretrizes, objetivos e metas da política pública devem ser coerentes entre si e com o delineamento estratégico mais amplo ao qual se integram, sob a perspectiva do planejamento governamental e das escolhas sociais que ele deve refletir.
+
+
+
+Boas práticas:
+
+
+
+
+· Definição dos resultados das políticas tendo uma visão de longo prazo (forward looking), considerando a situação nacional e a internacional (outward looking) (UK CABINET OFFICE, 1999; NAO, 2001);
+
+
+· Explicitação do estágio de referência inicial, ou seja, da linha de base (ou "marco zero") que servirá de subsídio para a avaliação do resultado da intervenção pública (MOURA, 2013);
+
+
+· Formulação de políticas baseada em evidências, com o aproveitamento da experiência de outros países, observadas as variações regionais (OCDE, 2013; UK CABINET OFFICE, 1999);
+
+
+· Definição de objetivos precisos o suficiente para permitir uma delimitação nítida do campo de atuação da política, traduzindo-os, por sua vez, em metas precisas e objetivamente caracterizadas, que concorram para a consecução dos propósitos mais gerais da intervenção pública, de modo a orientar as ações governamentais e assegurar a transparência sobre metas e resultados (PETERS, 2012);
+
+
+· Consistência na lógica de intervenção da política, alinhando insumos, atividades, produtos, efeitos e impactos em função dos problemas a serem atacados e das correspondentes causas identificadas na formulação da política pública (ALBERNAZ, 2013);
+
+
+· Consulta a todos os envolvidos na implantação durante o processo de planejamento, incluindo-se a definição consensual dos objetivos, no acordo sobre as prioridades e na pactuação de uma estratégia clara e compreensível, levando em consideração como os produtos e serviços serão prestados e por quem, de modo que estejam cientes dos resultados esperados (AUSTRALIAN GOVERNMENT, 2013; NAO, 2006);
+
+
+· Realização de testes acerca da forma de implantação de uma política pública antes da sua efetiva implantação, bem como de planos de contingência, com vistas a garantir a continuidade da política caso acontecimentos inesperados e/ou eventos imprevistos ocorram (AUSTRALIAN GOVERNMENT, 2013; NAO, 2001);
+
+
+· Identificação e definição de marcos e prazos da implantação de planos em passos administráveis, com vistas a reduzir riscos e a facilitar a identificação de interdependências e obstáculos ao sucesso da implantação (AUSTRALIAN GOVERNMENT, 2013; NAO, 2001);
+
+
+· Elaboração de planejamento flexível e contínuo, considerando que mudanças são inevitáveis durante a implantação para se ajustar a diferentes circunstâncias, novas informações, ou achados dos processos de avaliação e monitoramento (AUSTRALIAN GOVERNMENT, 2013; NAO, 2006);
+
+
+· Estabelecimento, de comum acordo, de objetivos coerentes e alinhados entre todas as organizações envolvidas na implementação da estratégia, para que os resultados esperados possam ser alcançados (BRASIL, 2013);
+
+
+
+
+Boas práticas de outros componentes deste Referencial também relacionadas a planos e objetivos[footnoteRef:12]: [12:  Caso deseje-se avaliar o componente Planos e Objetivos de maneira mais ampla, deve-se incluir as boas práticas descritas nesta seção. Por sua vez, caso a análise não se restrinja apenas a Planos e Objetivos, considerar essas boas práticas no respectivo componente.] 
+
+
+
+· Previsão da participação social e demais partes interessadas nos processos decisórios da política pública (CALMON, 2013); - Participação
+
+
+· Preparação e apresentação tempestiva pelos atores responsáveis de informações técnicas e bases abertas de dados que permitam trabalhar operacionalmente a construção de fundamentos analíticos para criação de condições para a participação informada e efetiva das diversas partes interessadas (WANG, 2009; TURGEON e RENNÓ, 2010; EVANGELISTA, 2010). - Participação
+
+
+· Identificação e provisão de recursos humanos, físicos, financeiros e de tecnologia da informação necessários para o início e o desenvolvimento da política pública (BRASIL, 2012; ALBERNAZ, 2013; GAO, 2005); - Capacidade Organizacional e Recursos
+
+
+· Coerência entre as políticas públicas, de forma que as ações e os objetivos específicos das intervenções empreendidas pelas diversas entidades sejam alinhados, os resultados esperados possam ser alcançados e reforcem-se mutualmente, ampliando o impacto ao cidadão (PETERS, 2012; MARINI & MARTINS, 2006; BRASIL, 2013); - Coordenação e Coerência
+
+
+· Estabelecimento de mecanismos de articulação, comunicação e colaboração que permitam alinhar estratégias e operações das organizações envolvidas em políticas transversais e descentralizadas, para alcançar o resultado comum. (BRASIL, 2013; GAO, 2005); - Coordenação e Coerência
+
+
+· Definição do escopo, do propósito e dos demandantes do sistema de monitoramento e avaliação desde o momento de formulação da política (NAO, 2001); - Monitoramento e Avaliação
+
+
+· Previsão da medição do progresso e conquistas no plano, incluindo-se a identificação de indicadores-chave de progresso para os principais objetivos da política, da disponibilidade suficiente de dados confiáveis e relevantes para dar suporte aos relatórios de desempenho da política, assim como dos principais agentes responsáveis pelo fornecimento e utilização de dados e informações (AUSTRALIAN GOVERNMENT, 2013; NAO, 2001, COMISSÃO EUROPEIA, 2009, ANAO, 2006); - Monitoramento e Avaliação
+
+
+· Identificação e documentação dos riscos durante a formulação da política (NAO, 2001; ANAO, 2006); - Gestão de Riscos e Controles Internos
+
+
+· Definição e reconhecimento das responsabilidades de mitigação de riscos entre as várias partes responsáveis pela implementação da política (ANAO, 2006); - Gestão de Riscos e Controles Internos
+
+
+· Comunicação prévia, aos responsáveis pela implementação, sobre os principais riscos identificados (ANAO, 2006); - Gestão de Riscos e Controles Internos
+
+
+· Definição e formalização dos mecanismos e instrumentos para promoção da accountability entre os diversos atores envolvidos, estabelecendo os padrões mínimos aceitáveis para transparência, comunicação e prestação de contas (NAO, 2001; DPMP, 2010; UKDPC, 2012); - Accountability
+
+
+
+· Designação de um único oficial superior responsável pelo estabelecimento de políticas e diretrizes para a gestão da organização e pelo alcance dos resultados previstos, mesmo que esta pessoa tenha que coordenar o trabalho de outros atores (NAO, 2001; ANAO, 2006; BRASIL, 2013); - Accountability
+
+
+3.1.3. Participação
+
+
+A participação social traz mais legitimidade, justiça e eficácia à política pública (FUNG, 2006 apud SECCHI, 2010). Uma política pública elaborada de forma mais participativa também agrega maior quantidade e qualidade de informações disponíveis, além de facilitar o senso de pertencimento e de responsabilidade coletiva. O grau de governança em uma rede de políticas públicas depende da existência de uma ampla participação legitimada nos processos decisórios, entre outros fatores.
+
+
+A participação pode ocorrer em vários momentos no ciclo de uma política pública, pois, embora ela seja especialmente relevante nas fases do planejamento e da avaliação, também deve ser incentivada nos processos decisórios e consultivos, além da própria cooperação executiva na implementação das ações. Deve-se prever um espaço adequado para facilitar a interlocução entre as partes interessadas de modo a enriquecer os processos de discussão de diagnósticos e análise de alternativas. 
+
+
+A participação é considerada de fundamental importância para a implantação de políticas públicas que atendam às reais necessidades da população (DIAS, 2012).
+
+
+
+Boas práticas:
+
+
+
+
+· Previsão da participação social e demais partes interessadas nos processos decisórios da política pública (CALMON, 2013)[footnoteRef:13]; [13:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Preparação e apresentação tempestiva pelos atores responsáveis de informações técnicas e bases abertas de dados que permitam trabalhar operacionalmente a construção de fundamentos analíticos para criação de condições para a participação informada e efetiva das diversas partes interessadas (WANG, 2009; TURGEON e RENNÓ, 2010; EVANGELISTA, 2010)12.
+
+
+· Existência de espaço para facilitar a interlocução entre as diversas partes interessadas (CALMON, 2013);
+
+
+· Estabelecimento de modelo de participação social, no qual se promova o envolvimento da sociedade, dos usuários e demais partes interessadas na definição de prioridades (BRASIL, 2013);
+
+
+· Garantia de que decisões, estratégias, planos, ações, serviços e produtos fornecidos pela organização atendam ao maior número possível de partes interessadas, de modo balanceado, equitativo, sem permitir a predominância dos interesses de pessoas ou grupos (BRASIL, 2013).
+
+
+
+
+3.1.4. Capacidade Organizacional e Recursos
+
+
+Espera-se que as políticas públicas contem com organizações que possuam estruturas e processos apropriados para empreender as atividades planejadas, assegurar o bom uso dos recursos públicos, supervisionar as ações descentralizadas, monitorar os resultados e realimentar o processo decisório, com vistas ao aperfeiçoamento da sua formulação e da sua própria implantação.
+
+
+As estruturas referem-se à disponibilidade de recursos conforme previsto para a execução das ações, aplicáveis de acordo com as prioridades e os objetivos da política pública, de forma a atender os requisitos de tempestividade, quantidade e direcionamento adequados. Englobam não somente a existência de recursos orçamentários e financeiros, mas também a disponibilidade apropriada de materiais, equipamentos, instalações, sistemas e pessoas.
+
+
+Este componente de estruturas e recursos organizacionais possui grande relação com questões referentes à governança corporativa. O Referencial Básico de Governança Aplicável a Órgãos e Entidades da Administração Pública (BRASIL, 2013) apresenta três mecanismos de governança: liderança, estratégia e controle. Dentro de cada mecanismo existem componentes e práticas, que podem ser claramente aplicáveis para o componente de capacidade organizacional do presente Referencial de Avaliação da Governança em Políticas Públicas. Desses três mecanismos, o de controle não foi considerado, por escapar do escopo do presente componente.
+
+
+
+Boas práticas:
+
+
+
+
+· Garantia da adequada capacitação dos membros da alta administração e da gestão operacional, de modo que as competências necessárias à execução de suas atividades sejam desenvolvidas. O processo de capacitação deve ser realizado quando esses forem nomeados para novas funções ou quando se fizer necessário (BRASIL, 2013);
+
+
+· Definição dos papéis e distribuição das responsabilidades entre os conselhos, a alta administração e a gestão operacional, de modo a garantir o balanceamento de poder e a segregação de funções críticas (BRASIL, 2013);
+
+
+· Definição, de forma clara, dos procedimentos e regulamentos afetos a gestão da estrutura interna de governança, bem como os seguintes processos: elaboração, implementação e revisão de políticas; tomada de decisão, monitoramento e controle (BRASIL, 2013);
+
+
+· Disponibilidade de estrutura de pessoal qualificado e em quantidade suficiente para que todas as etapas da política pública possam ser adequadamente desenvolvidas (BRASIL, 2012; ALBERNAZ, 2013); 
+
+
+· Identificação e provisão de recursos humanos, físicos, financeiros e de tecnologia da informação necessários para o início e o desenvolvimento da política pública (BRASIL, 2012; ALBERNAZ, 2013; GAO, 2005)[footnoteRef:14]; [14:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Direcionamento adequado de todas as formas de recursos em função dos diversos objetivos da política pública, permitindo a realização das ações que a integram na sequência e na intensidade necessárias (ALBERNAZ, 2013);
+
+
+· Disponibilidade de dotação orçamentária suficiente para cobrir todos os gastos previstos com a política pública, bem como manter um planejamento orçamentário plurianual da política (BRASIL, 2011; ALBERNAZ, 2012);
+
+
+· Previsibilidade e disponibilidade de recursos financeiros adequados à realização das ações programadas, abrangendo recursos orçamentários, renúncias tributárias e subsídios financeiros e creditícios (ALBERNAZ, 2013);
+
+3.1.5. Coordenação e Coerência
+
+
+A obtenção de resultados nas políticas públicas exige, cada vez mais, que as organizações públicas trabalhem em conjunto. Do contrário, a fragmentação da missão e a sobreposição de programas tornam-se realidade generalizada no âmbito do governo e muitos programas transversais deixam de ser bem coordenados. Ao trabalharem em conjunto, as organizações públicas podem melhorar e sustentar abordagens colaborativas para atingir as metas estabelecidas.
+
+
+Coordenação e coerência de políticas são valores importantes a serem aspirados no processo da governança. Uma coordenação fraca poderá resultar na piora da qualidade dos serviços prestados pelo governo (PETERS, 2013). 
+
+
+As políticas públicas são formadas por uma miríade de atores, podendo ser lideradas por algum ator específico, mas usualmente recebem influência de diversas instituições e pessoas ao longo de suas fases. De acordo com o Government Accountability Office (GAO), as organizações colaboradoras devem trabalhar em conjunto para definir e concordar sobre seus respectivos papéis e responsabilidades, incluindo como o esforço cooperativo será liderado. Agindo dessa forma, as organizações poderão esclarecer as funções específicas de cada membro, organizar seus esforços conjuntos e individuais e facilitar a tomada de decisão. Uma liderança comprometida por aqueles envolvidos no esforço cooperativo, em todos os níveis da organização, é também necessária para superar as diversas barreiras para se trabalhar além dos limites de cada organização.  (GAO, 2005). 
+
+
+É necessária uma estrutura clara de liderança para melhorar a forma como a política é formulada e entregue (UKPDC, 2012). A definição de papéis e responsabilidades para a coordenação e o estabelecimento de processos de coordenação pode mitigar a existência de fragmentação e sobreposição, bem como reduzir os riscos de duplicidade (GAO, 2013).
+
+
+Esses diversos atores podem ser considerados uma rede, em que há relações tanto formais quanto informais entre os envolvidos. Haja vista que toda política pública pertence ao conjunto de políticas governamentais e constitui contribuição particular para a busca do bem-estar coletivo, devem estar integradas e ser coordenadas de modo que otimizem o alcance dos objetivos comuns. De acordo com OCDE (2003, apud MARINI e MARTINS, 2006), a integração implica que as políticas devem idealmente apoiar umas às outras, ou pelo menos não devem ser contraditórias.
+
+
+As políticas públicas devem ser integradas, tanto interna quanto externamente, de forma que as ações e os objetivos específicos das intervenções empreendidas pelas diversas partes interessadas sejam alinhados para se reforçar mutuamente. Espera-se a institucionalização e reforço dos mecanismos de coordenação, de forma a criar condições para a atuação conjunta e sinérgica, evitando assim superposições ou esforços mutuamente contraproducentes. Deve-se garantir a construção de relações institucionais e articulação entre as esferas de governo, em todas as fases do ciclo das políticas públicas. (ABRUCIO, 2005)
+
+
+A presença de boa governança implica: o aperfeiçoamento da interação entre atores diversos, de forma a articular seus interesses; a integração entre Estado e sociedade, minimizando os limites do isolamento burocrático; e a garantia de accountability (DINIZ, 2001).
+
+
+A coordenação e a coerência entre os diversos atores de uma política pública são desafios que possuem várias dimensões, as quais necessitam ser abordadas de modo sincronizado, reconhecendo que a coerência plena é dificilmente alcançada (OCDE, 2003 apud MARTINS, 2003). A coordenação nas políticas significa fazer com que os diversos sistemas institucionais e gerenciais que formulam políticas trabalhem juntos. 
+
+
+Falar que uma política pública é descoordenada, interna e externamente, significa que seus elementos são de alguma forma incongruentes, que eles não interagem de maneira adequada para produzir os resultados desejados, e/ou que as conexões entre eles criam fricção e conflito excessivos (BRINKERHOFF, 1996 apud MARTINS, 2003). A coerência nas políticas envolve a promoção sistemática de ações que se reforcem mutuamente nas diferentes partes interessadas, criando sinergias para a realização dos objetivos definidos.
+
+
+Além disso, uma política pública deve primar pela comunicação em todos os seus aspectos. A existência e o incentivo a interações coordenadas entre os atores e o intercâmbio de informações entre atores governamentais e da sociedade são aspectos importantes a serem observados. Para garantir a coordenação e cooperação entre os atores com vistas a assegurar a implementação dos objetivos, a informação é essencial para a comunicação, que deve ser transparente, acessível em tempo real para todos, de modo a aumentar a confiança no governo (KETTL, 2002 apud Nota Técnica Seaud 2/2013b).
+
+
+
+Boas práticas:
+
+
+
+
+· Coerência entre as políticas públicas, de forma que as ações e os objetivos específicos das intervenções empreendidas pelas diversas entidades sejam alinhados, os resultados esperados possam ser alcançados e reforcem-se mutualmente, ampliando o impacto ao cidadão (PETERS, 2012; MARINI & MARTINS, 2006; BRASIL, 2013);[footnoteRef:15] [15:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Existência de coordenação e relacionamento horizontal entre atores públicos e privados, atuando de forma articulada para a formulação e a gestão de políticas públicas (SECCHI, 2009; PETERS, 2012);
+
+
+· Estabelecimento de mecanismos de articulação, comunicação e colaboração que permitam alinhar estratégias e operações das organizações envolvidas em políticas transversais e descentralizadas, para alcançar o resultado comum. (BRASIL, 2013; GAO, 2005);14
+
+
+· Identificação dos recursos humanos, de tecnologia da informação, físicos e financeiros necessários para iniciar e manter o esforço cooperativo, na medida em que as organizações possuem diferentes níveis de recursos e capacidades (GAO, 2005);
+
+
+· Adoção de estratégia de comunicação coordenada e abrangente para que todas as partes possam colaborar umas com as outras efetivamente, e na qual preveja-se o estabelecimento e divulgação de canais efetivos de comunicação e consulta com as diferentes partes interessadas, consideradas as características e possibilidades de acesso de cada público-alvo (ANAO, 2006, BRASIL, 2013);
+
+
+· Publicação, para conhecimento de todas as partes interessadas, da estrutura de governança vigente na política pública, assim como dos papéis e das responsabilidades definidos, incluindo-se como o esforço cooperativo será liderado (BRASIL, 2013; GAO, 2005 e GAO, 2013);
+
+3.1.6. Monitoramento e Avaliação
+
+
+Os indivíduos e instituições envolvidos na governança precisam aprender sobre suas ações e isso é importante para a qualidade das decisões que serão tomadas e também para a accountability democrática (PETERS, 2010). A avaliação de uma política pública é um processo de julgamento da ação pública, verificando os sucessos e as falhas que foram colocadas em prática. A implantação e o desempenho da política devem ser examinados com o intuito de adquirir conhecimentos sobre a situação da política e sobre o problema que a originou (SECCHI, 2010).
+
+
+Uma política pública deve possuir rotina para acompanhar suas ações, para aferir seus resultados e os utilizar para promoção de aperfeiçoamentos na política. O andamento das operações inerentes à política pública deve ser constantemente monitorado e os seus resultados periodicamente avaliados, com vistas à concretização dos objetivos programados e ao aperfeiçoamento do desempenho governamental.
+
+
+O monitoramento é um processo que envolve a coleta de informação sobre insumos, produtos, atividades e circunstâncias que são relevantes para a efetiva implementação da política. Através dessas informações, o monitoramento analisa e verifica, num processo contínuo, se os recursos e as atividades se estão implementando segundo o programado e se as metas sobre os resultados estão sendo alcançadas ou não, indicando, ao mesmo tempo, as razões de insucesso. O monitoramento fornece a informação e as sugestões necessárias para que a gerência da política verifique o progresso da implementação, a fim de tomar as decisões cabíveis, no sentido de que as metas programadas sejam alcançadas e/ou ajustadas (BUNIVICH, 1999).
+
+
+A avaliação é um processo conduzido antes, durante e/ou depois da implementação da política, onde se efetua um juízo sobre seu valor ou mérito considerando: a relevância dos objetivos e estratégias, a eficácia (ou efetividade) no alcance dos objetivos e metas esperados, a eficiência no uso de recursos, o impacto e a sustentabilidade da intervenção. Dessa forma, a avaliação trata de: (i) examinar, com juízo crítico e face às mudanças subsequentes, a justificação lógica do programa em termos da adequação dos seus objetivos e estratégias; (ii) comparar a consecução das metas alcançadas com as estabelecidas, identificando as razões de sucesso e insucesso; (iii) verificar a eficiência dos procedimentos utilizados na execução do programa e da qualidade do desempenho gerencial; (iv) determinar a eficiência econômica do programa; (v) determinar e traçar a causalidade dos efeitos e impacto do programa e, (vi) identificar as lições aprendidas e propor recomendações, de modo a reforçar os acertos e/ou, se necessário, ajustar, reorientar e modificar objetivos, metas, arranjos organizacionais e recursos (BUNIVICH, 1999).
+
+
+
+Boas práticas:
+
+
+
+
+· Definição do escopo, do propósito e dos demandantes do sistema de monitoramento e avaliação desde o momento de formulação da política (NAO, 2001)[footnoteRef:16]; [16:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Identificação de indicadores-chave de progresso para os principais objetivos da política (COMISSÃO EUROPÉIA, 2009) 15;
+
+
+· Disponibilidade suficiente de dados confiáveis e relevantes para dar suporte aos relatórios de desempenho da política (ANAO, 2006) 15;
+
+
+· Identificação dos principais agentes responsáveis pelo fornecimento e utilização de dados e informações (COMISSÃO EUROPEIA, 2009) 15;
+
+
+· Comunicação regular sobre o progresso da política, mediante relatórios de implementação, às principais partes interessadas (ANAO, 2006);
+
+
+· Monitoramento e avaliação dos progressos para os principais produtos (deliverables) da implementação (ANAO, 2006; BRASIL, 2013);
+
+
+· Internalização de lições aprendidas antes do início de etapas subsequentes, no caso de políticas constituídas por iniciativas sequenciadas (ANAO, 2006);
+
+
+· Distinção entre os fatores endógenos e exógenos na avaliação do sucesso ou fracasso da política (NAO, 2001);
+
+
+· Comunicação programada dos resultados da avaliação, de modo a promover a retroalimentação tempestiva no âmbito do ciclo de políticas públicas (NAO, 2001; ANAO, 2006; COMISSÃO EUROPEIA, 2009);
+
+
+· Desenvolvimento de mecanismos para monitorar, avaliar e reportar resultados dos esforços cooperativos (GAO, 2005).
+
+3.1.7. Gestão de Riscos e Controle Interno
+
+
+Nos termos da ABNT NBR ISSO 31000:2009, que trata de gestão de riscos, princípios e diretrizes, "organizações de todos os tipos e tamanhos enfrentam influências e fatores internos e externos que tornam incerto se e quando elas atingirão seus objetivos. O efeito que essa incerteza tem sobre objetivos da organização é chamado risco". A gestão de riscos no presente caso, portanto, se refere a atividades coordenadas para dirigir e controlar uma política no que se refere aos riscos. 
+
+
+A consideração dos principais riscos de implementação é essencial durante o desenvolvimento da política pública, o que inclui identificá-los e tratá-los. A avaliação de riscos permitirá comunicar sobre qualquer risco significativo para a implementação da política. 
+
+
+Os riscos de toda política pública devem ser identificados e avaliados durante o seu desenho (ANAO, 2006). Além disso, os responsáveis pela implementação da política pública devem ter condições de dar respostas efetivas e tempestivas aos riscos capazes de afetar o alcance dos objetivos programados. Desse modo, os riscos chave devem ser regularmente identificados, avaliados, comunicados, tratados e monitorados, de modo que trata-se de componente que acaba por integrar todas as fases das políticas públicas. A necessidade de identificá-los adquire ainda maior relevância no caso de adoção de soluções inovadoras, eventualmente necessárias para tratar problemas de maior complexidade, pois permite minimizar e/ou tratar a ocorrência de falhas com potencial de prejudicar a imagem da instituição e/ou da política pública (NAO, 2001). 
+
+
+Em relação ao controle interno, a Instrução Normativa TCU 63/2010 o define como o conjunto de atividades, planos, métodos, indicadores e procedimentos interligados, utilizado com vistas a assegurar a conformidade das ações e a concorrer para que os objetivos e metas estabelecidos sejam alcançados. O controle interno é de responsabilidade das instituições responsáveis pela política.
+
+
+
+Boas práticas:
+
+
+
+
+· Identificação e documentação dos riscos durante a formulação da política (NAO, 2001; ANAO, 2006)[footnoteRef:17]; [17:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Definição e reconhecimento das responsabilidades de mitigação de riscos entre as várias partes responsáveis pela implementação da política (ANAO, 2006) 16;
+
+
+· Comunicação prévia, aos responsáveis pela implementação, sobre os principais riscos identificados (ANAO, 2006) 16;
+
+
+· Identificação, implantação e monitoramento do controle interno necessário para mitigar os riscos identificados à realização dos objetivos da política e para evitar que conflitos de interesse influenciem na implantação da política (COSO, 2013; BRASIL, 2013);
+
+
+· Realização de testes acerca da forma de implantação de uma política pública antes da sua efetiva implantação, com vistas a garantir a continuidade da política caso acontecimentos inesperados e/ou eventos imprevistos ocorram (AUSTRALIAN GOVERNMENT, 2013; NAO, 2001);
+
+
+· Elaboração de planos de contingência, incluindo estratégias de saída para iniciativas de alto risco (ANAO, 2006);
+
+
+· Identificação, avaliação, tratamento, comunicação e monitoramento sistemático dos riscos durante a implementação da política (ANAO, 2006);
+
+
+· Identificação, comunicação e explicação tempestiva dos problemas ocorridos durante a implementação (ANAO, 2006);
+
+
+· Acompanhamento dos resultados das atividades de controle, dos trabalhos de auditoria e das providências adotadas para saneamento das oportunidades de melhoria identificadas (BRASIL, 2013).
+
+3.1.8. Accountability
+
+
+
+
+Accountability envolve, principalmente, transparência, responsabilização, comunicação e prestação sistemática de contas. Os responsáveis pela política pública devem primar por esses aspectos, de forma a possibilitar a análise e o escrutínio do comportamento e do desempenho dos diversos atores responsáveis pela implementação. Um arcabouço de accountability prevê, ainda, mecanismos de incentivo e sanção aos responsáveis pelo alcance dos objetivos da política, bem como instrumentos de imposição de medidas corretivas. A responsabilização é especialmente importante em regimes democráticos (AUCOIN e HEINTZMAN, 2000 apud PETERS, 2013)
+
+
+
+Accountability é um elemento essencial no processo de governar uma sociedade e no processo de detecção e correção de erros. Além disso, é importante para os atores envolvidos nesses processos reconhecer que alcançar resultados abaixo do ótimo não necessariamente é razão para punição, seja política ou pessoal. Em vez disso, pode ser visto como uma oportunidade para aprender e encontrar melhores maneiras para prestação de serviços. Accountability, especialmente focada em melhorar o desempenho, ao invés de punir politicamente, é um meio de institucionalizar uma abordagem de aprendizagem e de direção para a governança (PETERS, 2007).
+
+
+
+Boas práticas:
+
+
+
+
+· Definição e formalização dos mecanismos e instrumentos para promoção da accountability entre os diversos atores envolvidos, estabelecendo os padrões mínimos aceitáveis para transparência, comunicação e prestação de contas (NAO, 2001; DPMP, 2010; UKDPC, 2012)[footnoteRef:18]; [18:  Boa prática também considerada no componente Planos e Objetivos.] 
+
+
+
+· Designação de um único oficial superior responsável pelo estabelecimento de políticas e diretrizes para a gestão da organização e pelo alcance dos resultados previstos, mesmo que esta pessoa tenha que coordenar o trabalho de outros atores (NAO, 2001; ANAO, 2006; BRASIL, 2013) 17;
+
+
+· Documentação, manutenção de registros e divulgação de operações e resultados da política de maneira sistemática (ANAO, 2006);
+
+
+· Prestação de contas clara, periódica e formal sobre as operações e resultados alcançados pela política pública (NAO, 2001; DPMP, 2010);
+
+
+· Divulgação adequada de informações à sociedade e seus representantes, sobre operações e resultados alcançados (PETERS, 2012);
+
+
+· Supervisão e controle capazes de impor a adoção de medidas corretivas e sanções em casos de irregularidades (PETERS, 2012);
+
+
+· Modelo de gestão da estratégia que considere aspectos como transparência, comprometimento das partes interessadas e foco em resultados (BRASIL, 2013).
+
+
+
+Referências Bibliográficas
+
+
+
+ABNT. Associação Brasileira de Normas Técnicas. ABNT NBR ISO 31000: Gestão de riscos - princípios e diretrizes, 2009b. Disponivel em: <http://www.abntcatalogo. com.br/norma.aspx?ID=57311>. Acesso em: 1 Out. 2013.
+
+
+ABRANCHES, Sérgio Henrique Hudson de. Presidencialismo de Coalizão: o Dilema Institucional Brasileiro. Revista de Ciências Sociais. Rio de Janeiro: vol. 31, nº 1, 1988.
+
+
+ALBERNAZ, Leonardo R. Monografia: Análise de Governança em Políticas Públicas: uma proposta de abordagem para o controle externo. Instituto Serzedello Corrêa, 2013.
+
+
+ANAO. Implementation of Programme and Policy Initiatives. Australian National Audit Office, 2006. 
+
+
+ARAÚJO, Vinícius de Carvalho. A conceituação de governabilidade e governança, da sua relação entre si e com o conjunto da reforma do Estado e do seu aparelho. Brasília: ENAP, 2002.
+
+
+AZEVEDO, Sérgio; ANASTASIA, Fátima. Governança, "Accountability" e Responsividade. São Paulo: Revista de Economia Política, vol. 22, nº 1 (85), janeiro-março/2002.
+
+
+BRESSER PEREIRA, Luiz Carlos. Reforma do Estado para a cidadania: A Reforma Gerencial Brasileira na perspectiva internacional. São Paulo: Editora 34, 1998.
+
+
+BANCO MUNDIAL. Sub-Saharan Africa: From Crisis to Sustainable Growth, 1989.
+
+
+_____. Governance and Development, 1992.
+
+
+_____. Governance: the World Bank's experience, 1994.
+
+
+BRASIL. Plano Diretor da Reforma do Aparelho do Estado
+. Presidência da República, Câmara da Reforma do Estado. Brasília, 1995.
+
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Gestão (SEGES). Gestão Pública para um Brasil de todos. Plano de Gestão do Governo Lula. Brasília: MP, SEGES, 2003.
+
+
+BRASIL. Tribunal de Contas da União. Levantamento de Auditoria sobre a Política Nacional de Desenvolvimento Regional (PNDR) – Relatório de Fiscalização (Acórdão 2.919/2009-TCU-Plenário). Brasília: TCU, 2009.
+
+
+_____. Tribunal de Contas da União. Resolução-TCU nº 253, de 21 de dezembro de 2012. Brasília: TCU, 2012a.
+
+
+_____. Tribunal de Contas da União. Levantamento de Auditoria sobre o Modelo Lógico da Política Nacional de Desenvolvimento Regional (PNDR) – Relatório de Fiscalização (TC 033.934/2011-8). Brasília: TCU, 2012b.
+
+
+_____. Tribunal de Contas da União. Referencial básico de governança: Aplicável a Órgãos e Entidades da Administração Pública. Brasília: 2013.
+
+
+_____. Tribunal de Contas da União. SERPA, Selma Maria Hayakawa Cunha. Nota Técnica Seaud 2/2013: Compreendendo os conceitos de governança para controlar. Revista do Tribunal de Contas da União. Número 127. Maio/Agosto 2013b.
+
+
+_____. Decreto nº 5.378, de 23 de fevereiro de 2005. Institui o Programa Nacional de Gestão Pública e Desburocratização - GESPÚBLICA e o Comitê Gestor do Programa Nacional de Gestão Pública e Desburocratização, e dá outras providências.
+
+
+_____. Gestão Pública para um Brasil de Todos. Plano de Gestão do Governo Lula. Ministério do Planejamento Orçamento e Gestão. Secretaria de Gestão (SEGES), 2003.
+
+
+BUCHANAN, James M. Public Choice: The Origins and Development of a Research Program. George Mason University, Center for Study of Public Choice, 2003.
+
+
+BUVINICH, Manuel. Ferramentas para o monitoramento e avaliação de programas e projetos sociais. In: Cadernos de Políticas Sociais, n. 10, out./1999, pp. 1-83 (Série documentos para discussão).
+
+
+CALMON, Paulo; COSTA, Arthur Trindade Maranhão da. Texto para Discussão: Redes e Governança das Políticas Públicas. Centro de Estudos Avançados de Governo e de Administração Pública (CEAG/UnB), 2013.
+
+
+CASSIOLATO, Martha; GUERESI, Simone. Como elaborar Modelo Lógico: roteiro para formular programas e organizar avaliações. IPEA, Nota Técnica nº 6, 2010.
+
+
+CIPFA. Chartered Institute of PublicFinance and Accountancy. The good governance standard for public services, 2004. Disponível em <http://www.jrf.org.uk/system/files/1898531862.pdf>
+
+
+DIAS, Reinaldo. Políticas públicas: princípios, propósitos e processos. São Paulo: Atlas, 2012.
+
+
+DINIZ, Eli. Globalização, reforma do estado e teoria democrática contemporânea. São Paulo: São Paulo em Perspectiva, 15(4), 2001.
+
+
+_____. Governabilidade, Democracia e Reforma do Estado: Os Desafios da Construção de uma Nova Ordem no Brasil nos Anos 90. Rio de Janeiro: Dados, vol. 38, nº 3, 1995.
+
+
+_____. Governabilidade, "Governance" e Reforma do Estado: Considerações sobre o Novo Paradigma. Brasília, ENAP, 1996.
+
+
+DPMP Monograph Series. The Coordination of Australian Illicit Drug Policy: A Governance Perspective. Sydney: National Drug and Alcohol Research Centre, 2010.
+
+
+ECONOMIC POLICY UNIT. Office of the First Minister and Deputy First Minister. A Practical Guide to Policy Making in Northern Ireland, 2003.
+
+
+EDWARDS, Meredith; HALLIGAN, John; HORRIGAN, Bryan; NICOLL, Geoffrey. Public sector governance in Australia. The Australian National University, 2012.
+
+
+EVANGELISTA, Lúcio. Controle social versus transparência pública: uma questão de cidadania. Tribunal de Contas da União, Senado Federal, Ministério do Planejamento, Controladoria-Geral da União. Trabalho de conclusão de curso. 2010.
+
+
+FREITAS, Carlos Alberto Sampaio de. Aprendizagem, isomorfismo e institucionalização: o caso da atividade de auditoria operacional no Tribunal de Contas da União. Dissertação de Mestrado, PPGA/UnB, 2005.
+
+
+FREY, Klaus. Políticas Públicas: Um debate conceitual e reflexões referentes à prática da análise de políticas públicas no brasil. Planejamento e Políticas Públicas nº 21 - Junho de 2000.
+
+
+GAO, Government Accountability Office. GA0-06-15: Governo Orientado a Resultados: práticas que podem ajudar a melhorar e manter uma colaboração entre as agências federais. 2005
+
+
+_________. Government Accountability Office. GAO-13-59T. 
+Government Efficiency and Effectiveness: Oportunities to reduce fragmentation, overlap and duplication trough enhanced performance management and oversight. 2013
+
+
+GISSELQUIST, Rachel M. Good Governance as a Concept, and Why This Matters for Development Policy. United Nations University-World Institute for Development Economics Research (UNU-WIDER), 2012.
+
+
+HILL, M; HUPE, P. Implementing public policy. London: Sage, 2002.
+
+
+HOWLETT, M; RAMESH, M; PERL, A. Políticas Públicas: seus ciclos e subsistemas, uma abordagem integral. Rio de Janeiro: Elsevier, 2013.
+
+
+HUGHES, C., LODGE, M., & RITTER, A. Monograph Nº 18: The Coordination of Australian Illicit Drug Policy: A Governance Perspective. DPMP Monograph Series. Sydney: National Drug and Alcohol Research Centre, 2010.
+
+
+JESSOP, Bob. The Governance of Complexity and the Complexity of Governance: Preliminary Remarks on some Problems and Limits of Economic Guidance. Lancaster University, 1999.
+
+
+KELLY, Gavin; MULGAN, Geoff; MUERS, Stephen. Creating Public Value: An analytical framework for public service reform. UK Strategy Unit discussion paper, 2002.
+
+
+KINGDON, John. Agendas, Alternatives and Public Policies. Boston: Little, Brown, 1984.
+
+
+MALDONADO, Nicole. The World Bank’s evolving concept of good governance and its impact on human rights". Doctoral workshop on development and international organizations. Stockholm, Sweden 2010.
+
+
+MARINI, Caio; MARTINS, Humberto Falcão. Uma metodologia de avaliação de políticas de gestão pública. XI Congreso Internacional del CLAD sobre la Reforma del Estado y de la Administración Pública, Ciudad de Guatemala, 7 - 10 Nov. 2006.
+
+
+_____. Governança pública contemporânea. Instituto Publix, 2014.
+
+
+MARTINS, H. Uma teoria da fragmentação de políticas públicas: desenvolvimento e aplicação na análise de três casos de políticas de gestão pública. Tese apresentada à Escola Brasileira de Administração Pública e de Empresas para a obtenção do grau de doutor em administração. Brasil, 2003.
+
+
+_____. Reforma do Estado na era FHC: diversidade ou fragmentação da agenda de políticas de gestão pública? Revista Eletrônica sobre a Reforma do Estado. Brasil, 2007.
+
+
+MELO, Marcus André B. C. de. Ingovernabilidade: Desagregando o Argumento, in L. Valladares (org.), Governabilidade e Pobreza. Rio de Janeiro, Ed. Civilização Brasileira, 1995.
+
+
+MOURA, Adriana Maria M de. Governança das políticas ambientais no Brasil: desafio à construção de um sistema integrado de avaliação. Texto para discussão – Instituto de Pesquisa Econômica Aplicada – IPEA, 2013.
+
+
+NASCIMENTO, Luiz Carlos. Rede de política pública: Estudo de caso no âmbito do Sistema Único de Saúde do Estado de Minas Gerais/SUS-MG. Dissertação apresentada ao Curso de Mestrado em Administração do Centro da UFMG. Belo Horizonte, 2007.
+
+
+National Audit Office (NAO). Modern Policy-Making: Ensuring Policies Deliver Value for Money. NAO, 2001.
+
+
+National Collaborating Centre for Healthy Public Policy (NCCHPP). Integrated Governance and Healthy Public Policy: Two Canadian Examples. NCCHPP, 2008.
+
+
+OCDE. "Evidence-based decision making in Colombia", in Colombia: Implementing Good Governance. OECD Publishing, 2013.
+
+
+Office of the First Minister and Deputy First Minister (OFMDFMNI). A Practical Guide to Policy Making in Northern Ireland. OFMDFMNI, 2003.
+
+
+ORGANIZATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (OECD). Coerência nas políticas: relatório final de atividades. Organização para Cooperação e Desenvolvimento Econômico - OCDE/ Comitê de Gestão Pública. Março, 2003.
+
+
+PETERS, B. Guy. Governance as Political Theory. In. Jerusalem Paper in Regulation & Governance. Working Paper nº 22, 2010.
+
+
+________. Governance and Sustainable Development Policies. In: Conferência das Nações Unidas sobre Desenvolvimento Sustentável – Rio+20. Organização das Nações Unidas (ONU) – Rio de Janeiro, 2012.
+
+
+________. Performance accountability and combating corruption. World Bank, 2007.
+
+
+________. O que é governança? In Revista do Tribunal de Contas da União, ano 45, nº 127 (pp. 28 a 33). Brasília, 2013.
+
+
+PRESSMAN, Jeffrey L.; WILDAVSKY, Aaron. Implementation: how great expectations in Washington are dashed in Oakland. 3ª ed. Berkeley: University of California Press, 1984.
+
+
+PROCOPIUCK, Mario. Políticas Públicas e fundamentos da administração pública: análise e avaliação, governança e rede de políticas públicas, administração judiciária. São Paulo: Atlas, 2013. 
+
+
+SANTOS, Maria Helena de Castro. Governabilidade, Governança e Democracia: Criação de Capacidade Governativa e Relações Executivo-Legislativo no Brasil Pós-Constituinte. Rio de Janeiro: Dados, v. 40, nº 3, 1997.
+
+
+SECCHI, Leonardo. Políticas públicas: conceitos, esquemas de análise, casos práticos. São Paulo: Cengage Learning, 2010.
+
+
+
+SIDDIQI, Sameen; MASUD, Tayyeb; NISHTAR, Sania; PETERS, David; SABRI, Belgacem; BILE, Khalif, JAMA, Mohamed;. Framework for assessing governance of the health system in developing countries: Gateway to good governance. Health Policy Journal, 2009.
+
+
+TURGEON, Mathieu; RENNÓ, Lucio. Informação política e atitudes sobre gastos governamentais e impostos no Brasil: evidências a partir de um experimento de opinião pública. Opinião Pública, vol. 16, nº 1. Campinas, 2010.
+
+
+United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP). What is Good Governance? Thailand, 2009.
+
+
+UK Strategic Policy Making Team Cabinet Office. Professional Policy Making for the twenty first century. September, 1999.
+
+
+UK Drug Policy Commission (UKDPC). Characteristics of good governance for drug policy: findings from an expert consultation. UKDPC, 2010.
+
+
+
+_________. 
+Characteristics of good governance for drug policy: findings from an expert consultation. December, 2012.
+
+
+VAN METER, Donald S.; VAN HORN, Carl E. The policy implementation process: A conceptual framework. Administration and Society, 1974.
+
+
+WANG, Daniel Wei Liang. Poder Judiciário e participação democrática nas políticas públicas de saúde. Dissertação de Mestrado, Universidade de São Paulo, 2009.
+
+
+WILLIAMSON, Oliver E. Transaction-Cost Economics: The Governance of Contractual Relations. The University of Chicago Press: Journal of Law and Economics, Vol. 22, Nº. 2, 1979.
+
+
+
+APÊNDICE – Questões de auditoria modelo para avaliação da governança em políticas públicas
+
+
+A proposta de matriz de planejamento apresentada deve ser compreendida como uma orientação geral para os trabalhos que serão desenvolvidos; assim, análises e questões podem ser incorporadas às questões propostas, enquanto outras podem não ser abordadas, a depender do objetivo avaliado. Ademais, as colunas referentes a "informações requeridas", "fontes de informação", "método de coleta de dados", método de análise de dados" e "limitações" devem ser preenchidas pelos participantes do trabalho. Elas não foram preenchidas no presente Referencial de maneira intencional, de modo a dar maior liberdade de ação aos auditores, adequando-se à especificidade de cada caso concreto.
+
+
+Problema de Auditoria:
+
+INSTITUCIONALIZAÇÃO
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Em que medida a política pública foi institucionalizada formal e adequadamente por meio de instrumento normativo?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se o normativo que instituiu a política pública possui legitimidade e competência para normatizar a atuação dos diversos órgãos, instituições e esferas de governo envolvidos;
+
+b)    Se as competências das principais partes interessadas envolvidas na política pública estão clara e formalmente definidas, de forma que seja possível a identificação das atribuições, responsabilidades, direitos e deveres de cada um;
+
+c)    De que maneira são tomadas as decisões referentes à política pública e como os processos decisórios referentes à política pública estão formalmente institucionalizados;
+
+d)    Se o marco regulatório existente na política pública tem prejudicado o desempenho da política devido ao excesso de formalismo e de detalhamento.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+PLANOS E OBJETIVOS
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+De que forma a lógica de intervenção da política pública está alinhada com seus componentes e resultados esperados?
+
+ 
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se há consistência interna na lógica de intervenção da política pública e, caso não haja consistência, quais são as fragilidades no encadeamento entre recursos, ações, produtos e efeitos;
+
+b)    Se foram identificados possíveis efeitos indesejados decorrentes da implantação;
+
+c)    Se foram precisamente identificados os principais mecanismos necessários à realização da política pública, como programas do PPA, planos e formas de financiamento;
+
+d)    Se o público-alvo foi precisamente delimitado e a ele foram associados os correspondentes produtos e efeitos esperados;
+
+e)    Se o planejamento identificou e definiu os resultados esperados pela política;
+
+f)     Se foi explicitado o estágio de referência inicial da política (linha de base) que servirá de subsídio para avaliação do resultado da política.
+
+Em que medida o planejamento da política pública orienta a sua operacionalização?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se há planos que traduzam o delineamento estratégico em termos operacionais, de forma a orientar os processos de implementação;
+
+b)    Se há cronogramas, detalhando os marcos e prazos para a realização das etapas intermediárias;
+
+c)    Se há precisa definição de responsabilidades por produtos e ações, incluindo as etapas intermediárias; 
+
+d)    Se foram identificadas ordens de precedência para a realização de atividades e formas de interdependência entre atores diversos;
+
+e)    Se há alternativas para contingências caso ocorra algum evento imprevisto na estratégia de implantação da política;
+
+f)     Se foram previstos meios de controle, com monitoramento e avaliação de esforços e resultados ainda na fase de planejamento;
+
+g)    Se a elaboração dos planos contou com a participação das partes interessadas e, especificamente, dos atores responsáveis pela execução da política pública;
+
+h)    Se as partes interessadas e os atores responsáveis pela execução da política pública têm pleno conhecimento de suas atribuições;
+
+i)      Se a estratégia de implantação da política foi testada antes da sua efetiva implantação.
+
+Como os responsáveis pela política pública definem e declaram as diretrizes, objetivos, metas, priorização, responsáveis, prazos e a orientação estratégica a que a política está alinhada?
+
+ 
+
+ 
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se há diretrizes estratégicas de governo que norteiam a política;
+
+b)    Se a política pública possui uma visão estratégica de longo prazo;
+
+c)    Se a definição dos objetivos é precisa para orientar a execução das ações;
+
+d)    Se os esforços e os resultados são passíveis de mensuração, considerando aspectos como viabilidade física, financeira e temporal;
+
+e)    Se as metas são exequíveis no horizonte temporal proposto para sua realização;
+
+f)     Se os objetivos da política são coerentes entre si;
+
+g)    Se os objetivos e as metas são coerentes com a visão estratégica da política;
+
+h)    Se a visão estratégica da política é coerente com as diretrizes governamentais mais amplas;
+
+i)      Se a ordem de prioridade dos objetivos está identificada, inclusive em termos de importância e urgência;
+
+j)      Se a ordem de precedência para a realização de objetivos e metas dependentes entre si está identificada;
+
+k)    Se foram definidos prazos para a realização dos objetivos intermediários e finais;
+
+l)      Se foram identificados os responsáveis pela consecução dos objetivos;
+
+m)  Se, nos casos de responsabilidade compartilhada, foram identificadas as competências próprias de cada ator;
+
+n)    Se foram realizados estudos para a definição dos objetivos;
+
+o)    Se foram contempladas evidências que suportem a escolha dos objetivos;
+
+p)    Se houve participação ou escrutínio do Parlamento na definição dos objetivos;
+
+j)      Se a sociedade civil participou da definição dos objetivos.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+PARTICIPAÇÃO
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+De que maneira ocorre a participação social e das partes interessadas no âmbito da política pública?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)   Se a participação social e das partes interessadas na política pública é formalizada ou acontece informalmente, mediante a solicitação dos agentes públicos;
+
+b)   Se as partes interessadas possuem acesso a informações técnicas e bases abertas de dados que os permitam participar efetivamente do desenvolvimento da política pública;
+
+c)   Se há a previsão de um espaço para facilitar a interlocução entre as diversas partes interessadas;
+
+d)   Se os processos decisórios da política pública preveem a participação social e das partes interessadas;
+
+e)   Em que momentos da política pública ocorre a participação social e das partes interessadas.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+CAPACIDADE ORGANIZACIONAL E RECURSOS
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Em que medida os órgãos e entidades possuem capacidade organizacional e recursos suficientes para o adequado desenvolvimento da política pública?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)   Se as organizações possuem estrutura de pessoal qualificado e em quantidade suficiente para que todas as etapas da política pública possam ser adequadamente desenvolvidas;
+
+b)   Se as organizações têm conseguido prover os recursos materiais necessários ao desenvolvimento da política pública;
+
+c)   Se a política pública possui dotação orçamentária suficiente para cobrir todos os gastos previstos, bem como se há um planejamento orçamentário plurianual da política;
+
+d)   Se busca-se assegurar a adequada capacitação dos membros da alta administração e da gestão operacional, de modo que as competências necessárias à execução de suas atividades sejam desenvolvidas;
+
+e)    Se há a definição dos papéis e a distribuição das responsabilidades entre os membros dos conselhos, da alta administração e os gerentes, de modo a garantir o balanceamento de poder e a segregação de funções críticas;
+
+f)    Se há a definição, de forma clara, dos procedimentos e regulamentos afetos a gestão da estrutura interna de governança, bem como os seguintes processos: elaboração, implementação e revisão de políticas; tomada de decisão, monitoramento e controle.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+COORDENAÇÃO E COERÊNCIA
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Em que medida os diversos atores governamentais envolvidos com a política pública atuam de maneira coerente e coordenada entre si?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)   Se existe instância de coordenação para alinhar as ações dos diversos atores das políticas públicas;
+
+b)    Se existe normativo que instituiu e dá legitimidade a essa instância de coordenação; 
+
+c)    Se a instância de coordenação contribui para o alinhamento das políticas públicas;
+
+d)    Como se dá a articulação entre os diversos atores da política pública e em que fases da política pública isso ocorre;
+
+e)    Quais são os canais de comunicação e consulta existentes para atender às necessidades dos diferentes interessados na política pública;
+
+f)     Se a estrutura de governança vigente na política pública é amplamente divulgada.
+
+De que maneira ocorre a articulação entre as esferas de governo para que a política pública seja desenvolvida de maneira coesa e coordenada?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se existe fórum de articulação entre as esferas de governo relativas à política pública;
+
+b)   Se existe normativo que formalize essa instância de coordenação;
+
+c)    Se existe participação das diversas esferas de governo na concepção, execução e avaliação da política pública;
+
+d)   Se há uma clara separação do papel de cada esfera na política pública de modo a evitar a sobreposição de esforços;
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+MONITORAMENTO E AVALIAÇÃO
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Em que medida o sistema de monitoramento e avaliação da política pública está adequadamente estruturado para produzir informações com vistas a retroalimentar os processos decisórios de forma a favorecer o aprendizado e o aperfeiçoamento das ações para o alcance dos resultados?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se há clareza quanto aos propósitos dos sistemas de monitoramento e da avaliação e seus principais demandantes;
+
+b)    Se há clara definição de atribuições e competências dos principais demandantes em relação as suas reponsabilidades para produzir e utilizar as informações avaliativas;
+
+c)    Se há clara definição dos fluxos de comunicação das informações avaliativas de modo a promover a retroalimentação tempestiva no âmbito do ciclo de políticas públicas;
+
+d)    Se há indicadores-chave de monitoramento e avaliação da política;
+
+e)    Se há disponibilidade suficiente de dados confiáveis e relevantes para dar suporte aos relatórios de desempenho da política
+
+f)     Se o sistema de monitoramento e avaliação da política dispõe de processos, procedimentos e meios suficientes (recursos financeiros, pessoas, estrutura etc) para assegurar o monitoramento e avaliação que forneça informações confiáveis, tempestivas e necessárias para a tomada de decisão.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+GESTÃO DE RISCOS E CONTROLE INTERNO
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+De que maneira os controles internos envolvidos possuem capacidade de identificação e de resposta aos principais riscos da política pública?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se os riscos chave foram identificados, avaliados, documentados e considerados durante a formulação da política, e se foram apropriadamente comunicados aos respectivos responsáveis;
+
+b)    Se há definição e reconhecimento das responsabilidades de mitigação de riscos entre as várias partes responsáveis pela implementação da política, incluindo os processos de gerenciamento de riscos e controle interno;
+
+c)    Se há identificação, avaliação, tratamento, comunicação e monitoramento sistemático dos riscos durante a implementação da política;
+
+d)    Se há comunicação sistemática sobre riscos e problemas identificados durante as fases de formulação e implementação da política, bem como sobre as respostas e soluções adotadas e sua eficácia;
+
+e)    Se há planos de contingência, incluindo estratégias de saída para iniciativas de alto risco.
+
+
+
+
+
+
+
+Problema de Auditoria:
+
+ACCOUNTABILITY
+
+Questão
+
+Informação Requerida
+
+Fonte de Informação
+
+Método de Coleta de Dados
+
+Método de Análise
+
+Limitações
+
+O que a análise vai permitir dizer
+
+Os arranjos para promoção da accountability preveem mecanismos e instrumentos adequados de comunicação e responsabilização, bem como para assegurar a transparência das ações e dos resultados da política pública?
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+A ser preenchido pela equipe de auditoria.
+
+a)    Se há clara definição e formalização dos mecanismos e instrumentos para promoção da accountability pelos diversos órgãos responsáveis pela implementação da política, com padrões mínimos de transparência, comunicação e prestação de contas;
+
+b)    Se há unidade de comando no que diz respeito à responsabilidade pelos resultados da política e pela coordenação e esforços para alcançá-los;
+
+c)    Se existe de forma sistemática a documentação, registro e divulgação das ações, objetivos, metas, operações e resultados da política;
+
+d)    Se há um processo sistemático e formal de prestação de contas sobre as ações, operações e os resultados alcançados;
+
+e)    Se há mecanismos e instâncias de supervisão e controle capazes de impor a adoção de medidas corretivas e sanções (responsabilização) em casos de irregularidades;
+
+f)     Se existem canais formais de comunicação para receber e fornecer informações sobre as ações, objetivos, metas, operações e resultados das políticas;
+
+g)    Se são divulgadas à sociedade, de forma clara, ampla e periódica, informações sobre as ações, operações e resultados alcançados.
+
+
+
+

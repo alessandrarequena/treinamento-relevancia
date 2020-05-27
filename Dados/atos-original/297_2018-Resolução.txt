@@ -1,0 +1,248 @@
+Resolução
+297/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+considerando o dever de preservar o sigilo imprescindível à segurança da sociedade e do Estado previsto no inciso XXXIII do art. 5º na Constituição Federal;
+
+
+considerando a obrigação institucional de gerenciar documentos da Administração Pública e as providências para franquear sua consulta a quantos dela necessitem, na forma da lei, prevista no §2º do art. 216 da Constituição Federal;
+
+
+considerando os princípios, as diretrizes, as responsabilidades e as competências das organizações relacionados ao compartilhamento, ao acesso e à segurança da informação constantes da Lei nº 12.527, de 18 de novembro de 2011, Lei de Acesso à Informação (LAI);
+
+
+considerando a possibilidade de uso de bases de dados obtidas ou cujo acesso remoto tenha sido franqueado ao TCU em decorrência de trabalhos de fiscalização, com vistas a subsidiar outras ações de controle externo;
+
+
+considerando a obrigação de o TCU resguardar o sigilo dos dados, fornecidos por pessoa física ou jurídica, órgão ou entidade, quando for-lhes atribuída na origem classificação com restrição de acesso, em conformidade com a legislação de regência e com ato normativo específico do TCU sobre classificação das informações;
+
+
+considerando a necessidade de aprimorar procedimentos para o uso de bases de dados obtidas ou cujo acesso remoto tenha sido franqueado ao TCU, com restrição de acesso;
+
+
+considerando a necessidade de aperfeiçoar os controles de informações não públicas;
+
+
+considerando os estudos e pareceres constantes do processo nº TC 028.867/2017-3, resolve:
+
+
+Art. 1º O armazenamento, a concessão de acesso e o compartilhamento de base de dados de pessoa física ou jurídica, órgão ou entidade, obtida pelo Tribunal de Contas da União (TCU) em decorrência de ação de controle externo, que contenha informações classificadas com restrição de acesso nos graus de confidencialidade previstos na legislação de regência e em ato normativo específico do TCU sobre classificação das informações, deve observar a sistemática estabelecida nesta Resolução. 
+
+
+§ 1º As bases de dados de que trata o caput somente poderão ser acessadas no interesse do serviço do TCU, com o fim de subsidiar o planejamento, a execução e as decisões afetas às ações de controle, em consonância com o disposto no inciso III, do art. 3º da Resolução-TCU nº 223, de 18 de março de 2009.
+
+
+§ 2º O acesso a base de dados compartilhada com o TCU em decorrência de acordo de cooperação técnica ou instrumentos congêneres observará os limites, as restrições e os formatos previstos nos respectivos acordos e instrumentos, nos termos do parágrafo único do art. 1º da Resolução-TCU nº 223/2009.
+
+
+§ 3º Esta Resolução integra a Política de Segurança Institucional disposta pela Resolução-TCU nº 261, de 11 de junho de 2014, a qual compreende, entre outras, a Política Corporativa de Segurança da Informação.
+
+
+Art. 2º Para os efeitos desta Resolução, entende-se por:
+
+
+I – base de dados: arquivo ou conjunto de arquivos relacionados entre si com registros sobre entes, compondo uma coleção organizada de dados que se relacionam de forma a criar informação e que requer sistema de gerenciamento de banco de dados (SGBD) para ser acessado; 
+
+
+II – base de dados custodiada: base de dados que tenha sido entregue ao TCU; 
+
+
+III – base de dados acessada: base de dados à qual o acesso remoto tenha sido franqueado ao TCU;
+
+
+IV – concessão de acesso: qualquer procedimento por meio do qual uma pessoa passa a poder ler o conteúdo de uma base de dados, como por exemplo o compartilhamento dos arquivos que a compõem ou da chave de acesso remoto a ela e a concessão de permissões em sistema de gerenciamento de banco de dados;
+
+
+V – controles administrativos: medidas de proteção física e/ou lógica, conforme cada grau de confidencialidade, que garantam acesso exclusivamente a pessoas autorizadas. Controles administrativos poderão eventualmente ser convertidos em controles tecnológicos, à medida que seja tecnicamente viável;
+
+
+VI – informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+VII – informação sigilosa: aquela submetida à restrição de acesso público, nos termos da lei;
+
+
+VIII – interessado externo: pessoa física ou jurídica que encaminhou ao TCU solicitação de acesso à informação nos termos da legislação de regência; não se confunde com o conceito de interessado a que se refere o art. 144, § 2º, do Regimento Interno do Tribunal, nos termos do disposto no inciso X, do art. 2º da Resolução-TCU nº 249, de 2 de maio de 2012;
+
+
+IX – item não digitalizável: objeto recebido em suporte não eletrônico ou em suporte eletrônico incompatível com os padrões de armazenamento definidos pela tecnologia do Tribunal;
+
+
+X – unidade gestora do acesso a base de dados: unidade da Secretaria do TCU responsável pela obtenção de base de dados ou da chave de acesso remoto a ela;
+
+
+XI – unidade interessada: unidade da Secretaria do TCU que, no exercício de suas competências institucionais, encaminha solicitação de acesso à informação para subsidiar ação de controle; e
+
+
+XII – unidade responsável por base de dados: unidade da Secretaria do TCU que detém, mesmo que transitoriamente, a base de dados ou a chave de acesso remoto a ela.
+
+
+Art. 3° A unidade gestora do acesso a base de dados obtida de pessoa física ou jurídica, órgão ou entidade, no exercício do controle externo, classificada com restrição de acesso, deverá juntar um termo ao processo de controle externo no qual a base foi obtida, informando a existência de base de dados vinculada a processo administrativo conexo, especialmente autuado para esse fim, ou como item não digitalizável ou como base de dados incorporada em SGBD corporativo.
+
+
+§ 1º O termo a que se refere o caput deverá ser classificado como "sigiloso" no sistema corporativo específico, e os elementos requeridos pela Lei nº 12.527/2011 para classificação de peças com restrição de acesso devem ser preenchidos e gerenciados por meio da solução de TI corporativa, disponibilizada em aba própria do mencionado sistema.
+
+
+§ 2º A base de dados obtida de pessoa física ou jurídica externa deve ter a classificação atribuída na origem mantida, exceto quando houver necessidade de reclassificação, hipótese em que devem ser adotados os procedimentos descritos em ato normativo específico e em conformidade com a lei. 
+
+
+§ 3º Fica vedado o armazenamento de base de dados obtida de pessoa física ou jurídica, órgão ou entidade, classificada com restrição de acesso, após sua transferência para o TCU, em dispositivo no qual não exista garantia de controle de acesso e de rastreabilidade.
+
+
+§ 4º A base de dados deverá ser incorporada em SGBD corporativo e o arquivo ou conjunto de arquivos que não requer um SGBD para ser acessado deve ser mantido como item não digitalizável, criptografado, em processo administrativo correspondente no sistema corporativo específico.
+
+
+Art. 4º A concessão de acesso a bases de dados de que trata esta Resolução, quando se tratar de solicitação de interessado externo, deverá ser precedida de:
+
+
+I - manifestação da unidade gestora do acesso a base de dados custodiada ou acessada, contendo parecer fundamentado quanto ao atendimento ou não da demanda, inclusive quanto ao disposto no §8º do art. 5º; e
+
+
+II - autorização de acesso do relator do processo no âmbito da qual a base de dados foi obtida ou, no caso de processo encerrado, do Presidente.
+
+
+§1º Quando não for autorizado o acesso, o interessado externo deverá ser informado sobre a possibilidade de recurso, prazos e condições para interposição, devendo ainda ser-lhe indicada a autoridade competente para apreciação.
+
+
+§2º Deverá ser requerida manifestação fundamentada do órgão ou entidade de origem da base de dados quanto à concessão de acesso solicitada, exceto nas hipóteses em que a concessão já houver sido previamente autorizada mediante:
+
+
+I - manifestação anterior, no mesmo processo, do órgão ou entidade de origem da base de dados; 
+
+
+II - acordo de cooperação ou instrumento congênere para compartilhamento da base de dados, nos termos do §2º   do art. 1º;
+
+
+III - norma legal ou regulamentar;
+
+
+IV - decisão judicial; 
+
+
+V - decisão fundamentada do relator, do Presidente ou do Tribunal
+
+
+§3º A concessão de acesso a base de dados contendo informações protegidas por sigilo constitucional ou legal somente poderá ser deferida a terceiros se houver previsão expressa nos termos de autorização judicial que autorizar seu uso, em consonância com o disposto no §1º do art. 3º da Resolução-TCU nº 223/2009;
+
+
+§4º Quando o interessado externo for pessoa jurídica, a concessão de acesso será franqueada às pessoas físicas indicadas como prepostos, devidamente identificadas para fins de responsabilização administrativa, civil e criminal, em caso de divulgação não autorizada dos dados, na forma a ser regulamentada mediante portaria do Presidente, conforme art. 11.
+
+
+Art. 5º A concessão de acesso a bases de dados de que trata esta Resolução, quando se tratar de solicitação de unidade interessada, deverá ser precedida de:
+
+
+I - solicitação da unidade interessada à unidade gestora do acesso a base de dados custodiada ou acessada, contendo a justificativa para o pedido e a identificação do processo à qual se vincula a ação de controle;
+
+
+II - manifestação da unidade gestora do acesso a base de dados custodiada, contendo seu parecer fundamentado quanto ao atendimento da demanda; e
+
+
+III - autorização do relator do processo à qual se vincula a solicitação da unidade interessada ou, no caso de não haver relator definido, do Presidente.
+
+
+§ 1º Quando do encaminhamento da solicitação a que se refere o inciso I do caput, a unidade interessada dará ciência do seu teor à Secretaria de Gestão de Informações para o Controle Externo (SGI).
+
+
+§ 2º Os documentos referidos nos incisos do caput, bem como cópia do termo previsto no art.3º desta Resolução, deverão ser juntados aos autos do processo administrativo no âmbito do qual a base de dados foi vinculada.
+
+
+§ 3º O acesso a base de dados classificada pelo órgão de origem com restrição de acesso cria a obrigação para aquele que a obteve de resguardar o sigilo, consoante o art. 25, §2º, da Lei nº 12.527/2011.
+
+
+§ 4º Em trabalhos realizados por mais de uma unidade técnica, a solicitação deverá ser formulada pela unidade coordenadora com a especificação das unidades que terão acesso à base de dados solicitada.
+
+
+§ 5º A unidade gestora do acesso à base de dados solicitada deve submeter à consideração do relator, na manifestação de que trata o inciso II deste artigo, proposta de procedimentos e critérios de acesso, além de regras específicas de segurança para armazenamento da base e para transferência de seus dados pelas demais unidades.
+
+
+§ 6º Uma vez autorizado, a unidade responsável pela base de dados lhe concederá o acesso ou a compartilhará, obedecidas as condições estabelecidas no despacho de autorização.
+
+
+§ 7º Não havendo disposição em contrário no despacho de autorização, o acesso será concedido aos dirigentes das unidades indicadas na solicitação, a quem caberá conceder acesso aos integrantes de sua unidade com necessidade de conhecimento das informações para a ação que motivou o pleito, ou indicar à unidade responsável pela base de dados os nomes dos referidos integrantes para que ela proceda à concessão.
+
+
+§ 8º Dar-se-á preferência à concessão de acesso por meio de funcionalidades previstas em SGBD corporativos ou outras ferramentas automatizadas, quando se aplicar.
+
+
+Art. 6° Atendido o princípio do contraditório, da ampla defesa e do devido processo legal, todo agente público que detiver acesso às informações disciplinadas nessa Resolução e divulgar ou permitir a divulgação ou permitir acesso indevido à informação sigilosa ou pessoal, nos termos do inciso II, do § 1º e do § 2º do art. 32 da Lei nº 12.527/2011, sujeita-se:
+
+
+I – à responsabilização por infração administrativa nos termos da legislação aplicável;
+
+
+II – a responder por improbidade administrativa, conforme o disposto na Lei nº 8.429, de 2 de junho de 1992; e
+
+
+III – à apuração das demais responsabilidades penais e civis, na forma da legislação em vigor.
+
+
+Parágrafo único. Aplica-se, no que couber, o disposto no inciso III para todo agente privado que detiver acesso às informações disciplinadas nessa Resolução e divulgar ou permitir a divulgação ou permitir acesso indevido à informação sigilosa ou pessoal, nos termos do inciso II, do § 1º e do § 2º do art. 32 da Lei nº 12.527/2011.
+
+
+Art. 7° Deverão ser adotadas medidas de segurança e salvaguarda para manutenção, acesso, alteração e transmissão de bases de dados que contenham informações com restrição de acesso.
+
+
+§ 1º Ficarão responsáveis por resguardar a confidencialidade das informações sigilosas todas as pessoas que tiverem acesso a bases de dados não públicas, as quais deverão ter sua identificação registrada e a data e o horário do acesso.
+
+
+§ 2º O relator ou, conforme o caso, o Presidente, podem determinar, a qualquer tempo, procedimentos que visem garantir a segurança da informação nas bases de dados de sua competência, a serem seguidos pelas unidades responsáveis pelas bases de dados.
+
+
+Art. 8° Serão aplicados controles de acesso administrativos e tecnológicos a base de dados contendo informação classificada com restrição de acesso ou, na sua inviabilidade, utilizadas outras formas de identificação suficientes para proteger a informação de forma compatível com sua classificação, em consonância com as normas de regência aplicáveis.
+
+
+§ 1º O inventário das bases de dados contendo informação classificada com restrição de acesso deve ser mantido nos sistemas informatizados do Tribunal.
+
+
+§ 2º Incumbem às Secretarias de Soluções de Tecnologia da Informação (STI) e de Infraestrutura de Tecnologia da Informação (Setic), no âmbito de suas competências, o fornecimento de soluções de TI e de infraestrutura de tecnológica que possibilitem a implementação dos controles de acesso informatizados previstos no caput.
+
+
+§ 3º A ausência, a insuficiência, a burla e a tentativa de burla de controles administrativos e tecnológicos compatíveis com o grau de confidencialidade da informação configura incidente de segurança da informação, a ser reportado à Secretaria de Planejamento, Governança e Gestão (Seplan) por quem dele tiver conhecimento.
+
+
+Art. 9º Compete às Secretarias de Infraestrutura e de Soluções de Tecnologia da Informação prover, na medida da disponibilização dos correspondentes recursos necessários, a contínua atualização tecnológica requerida para a informatização plena dos requisitos previstos nesta Resolução.
+
+
+Art. 10. Aplica-se o disposto nesta Resolução, no que couber, aos dados obtidos de pessoa física ou jurídica, órgão ou entidade, no exercício das demais atividades institucionais do TCU, inclusive as de caráter administrativo, classificadas com restrição de acesso, observada a prévia autorização das respectivas instâncias cabíveis.
+
+
+Art. 11. Fica o Presidente autorizado a expedir os atos necessários à regulamentação desta Resolução.
+
+
+Parágrafo único. Conforme o caso, incumbe ao Presidente ou ao relator, no âmbito das respectivas competências, dirimir os casos omissos.
+
+
+Art. 12. O artigo 1º da Resolução n° 223, de 18 de março de 2009 passa a vigorar com a seguinte redação:
+
+
+"Art. 1º O intercâmbio de informações e documentos, para fins de fiscalização e controle, entre o TCU e as entidades e órgãos públicos com os quais o Tribunal mantenha acordo de cooperação ou instrumento congênere obedecerá ao disposto nesta Resolução.
+
+
+§1º O intercâmbio de informações e documentos observará, no que couber, os limites, as restrições e os formatos dispostos nos respectivos acordos de cooperação e instrumentos congêneres.
+
+
+§2º Os acordos de cooperação e instrumentos congêneres para intercâmbio de informações e documentos de que trata a presente resolução conterá, sempre que possível, disposições sobre as hipóteses de compartilhamento com terceiros das informações permutadas".
+
+
+Art. 13. Esta Resolução entra em vigor na data de sua publicação.
+
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 26 de junho de 2018.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente
+
+
+Não consta revogação expressa
+Disciplina o armazenamento, a concessão de acesso e o compartilhamento de bases de dados obtidas de pessoa física ou jurídica, órgão ou entidade, no exercício do controle externo, classificadas com restrição de acesso.
+
+

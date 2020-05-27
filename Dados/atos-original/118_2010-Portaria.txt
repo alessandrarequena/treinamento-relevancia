@@ -1,0 +1,58 @@
+Portaria
+118/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando as iniciativas em curso para a implantação do processo eletrônico de controle externo no âmbito do TCU e a necessidade de definição de procedimentos específicos e de caráter transitório a serem adotados até o pleno funcionamento da nova sistemática processual em meio eletrônico;
+
+
+considerando os procedimentos estabelecidos na Lei nº 11.419, de 19 de dezembro de 2006, que dispõe sobre a informatização do processo judicial;
+
+
+considerando o disposto na Medida Provisória nº 2.200-2, de 24 de agosto de 2001, que institui a Infra-Estrutura de Chaves Públicas Brasileira (ICP-Brasil), para garantir a autenticidade, a integridade e a validade jurídica de documentos em forma eletrônica;
+
+
+considerando que os documentos em meio eletrônico produzidos com a utilização de processo de certificação disponibilizado pela ICP-Brasil presumem-se verdadeiros em relação aos signatários, na forma do art. 219 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);
+
+
+considerando que, nos termos da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil), os acórdãos, votos e demais atos processuais podem ser registrados em arquivo eletrônico inviolável e assinados eletronicamente; e
+
+
+
+
+considerando o parecer da Consultoria Jurídica do TCU no âmbito do processo TC 023.402/2009-1, a respeito da validade jurídica dos documentos eletrônicos, resolve:
+
+
+Art. 1º As deliberações do TCU serão produzidas, assinadas e armazenadas em meio eletrônico, em ambiente seguro e por meio de processamento que garanta a integridade e a autenticidade das informações.
+
+
+§ 1º As deliberações do TCU serão assinadas pelas autoridades, nos termos do art. 68 do Regimento Interno do Tribunal, com a utilização de certificado digital de uso pessoal e intransferível (tipo A3), preferencialmente após o término das sessões.
+
+
+§ 2º Em caso de impossibilidade técnica, as deliberações do TCU poderão ser produzidas em papel e assinadas de próprio punho pelas autoridades, devendo a versão assinada ser digitalizada e inserida nas soluções de tecnologia da informação (soluções de TI) do Tribunal.
+
+
+§ 3º O arquivo eletrônico resultante da digitalização de que trata o parágrafo anterior será assinado eletronicamente pelo titular da Secretaria das Sessões (Seses) – ou por servidor por ele indicado formalmente –, de modo a atestar fidedignidade da versão eletrônica. 
+
+
+Art. 2º Julgado o processo, os arquivos eletrônicos relativos à deliberação do TCU não poderão sofrer ajuste em seu conteúdo no que concerne à matéria julgada, exceto nas hipóteses regimentais e mediante nova deliberação do Tribunal.
+
+
+Art. 3º O registro das deliberações do TCU será mantido nas soluções de TI para fins de auditoria.
+
+
+Art. 4º Os casos omissos serão resolvidos pelos respectivos Presidentes dos Colegiados, dando-se ciência ao Presidente do TCU, para fins de uniformização dos procedimentos.
+
+
+Art. 5º Esta Portaria entra em vigor nesta data.
+
+
+UBIRATAN AGUIAR
+
+
+Revogada
+Define, em caráter transitório, procedimentos relativos à assinatura, em meio eletrônico, de deliberações do Tribunal de Contas da União.
+
+

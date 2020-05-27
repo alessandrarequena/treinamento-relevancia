@@ -1,0 +1,633 @@
+Portaria
+70/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Modernização Administrativa da Segedam – Modernizar 1, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo PEDRO SANTANA DE SOUSA, matrícula nº 2708-1, para exercer a função de confiança de Gerente de Projeto, código FC-04, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Administração.
+
+
+Parágrafo único. Cabe ao gerente do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica o Titular da Secretaria-Geral de Administração a proceder, sempre que necessário, à substituição do gerente ou de membro do projeto.
+
+
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+I - Nome
+
+II - Matrícula
+
+III - E-mail
+
+IV - Ramal
+
+
+
+Pedro Santana de Sousa
+
+2708-1
+
+PEDROSS@TCU.GOV.BR
+
+5130V - Função do gestor
+
+VI - Origem da FC
+
+
+
+XVII - Gerente
+
+
+
+ VIII - Coordenador
+
+
+
+ IX - Líder
+
+
+
+SegedamX - Nome do substituto eventual
+
+XI - Matrícula
+
+XII - E-mail
+
+XIII - Ramal
+
+
+
+José Ronaldo Carvalho Vasconcelos
+
+1868-6
+
+JOSECV@TCU.GOV.BR
+
+7781XIV - Local / telefone
+
+
+
+Sala 435 do Anexo II / 3316-5130
+
+
+
+2. Identificação do projeto
+
+XV - Nome do projeto
+
+
+
+Modernização administrativa da Segedam – Modernizar 1XVI - Período de realização
+
+XVII - Unidade patrocinadora
+
+
+
+24/04/2006 a 31/07/2006
+
+Segedam
+
+
+
+3. Vinculação estratégica
+
+XVIII - Plano estratégico do TCU (Portaria – TCU nº 02, de 05 de janeiro de 2006).
+
+
+
+a)       
+
+Objetivo Estratégico 14: aperfeiçoar instrumentos de controle e processos internos.
+
+Iniciativa Estratégica 11: mapear e racionalizar o   s principais processos de trabalho do TCU.
+
+b)      
+
+Objetivo estratégico 21: assegurar adequado suporte logístico às necessidades do TCU.
+
+Iniciativa estratégica: definir e implantar gestão de contratos e planos de aquisição e manutenção.XIX - Plano de diretrizes do TCU – biênio 2005-2006
+
+
+
+a)       
+
+Diretriz 5: ampliar a contribuição do TCU para o aperfeiçoamento da administração pública.
+
+Medida 5.9: definir padrões para materiais permanentes e de consumo no âmbito do TCU, observando-se, sempre que  possível, os princípios de sustentabilidade.
+
+Medida 5.13: mapear e racionalizar os principais processos de apoio, especialmente os relativos à  gestão de contratos e de patrimônio e aos processos de compra indicando sempre que possível os riscos e controles
+
+
+
+4. Problema / oportunidade
+
+XX - Descrição do problema ou da oportunidade
+
+
+
+a)       
+
+Na Secretaria de Material, Patrimônio e Comunicação Administrativa (Semat) observa-se um elevado custo de controle de bens permanentes de baixo valor monetário e de pequeno risco de perda, o que tem provocado dispersão de foco e desperdício de esforços, os quais poderiam ser aproveitados para controle de bens de notória relevância quanto a materialidade, durabilidade e mobilidade, entre outros.
+
+b)      
+
+Na Secretaria de Orçamento, Finanças e Contabilidade (Secof) verifica-se uma tempestividade abaixo da ideal na execução das atividades por ausência de padronização de processos de trabalho e de roteiros de atividades, havendo, assim, espaço para melhoria. 
+
+c)       
+
+Na Secretaria de Serviços Gerais (Seseg) verifica-se deficiência, e até mesmo ausência, de dados gerenciais no que tange ao Serviço de Atividades de Apoio (Serap), o qual é responsável pelos serviços de copa, apoio a eventos (garçon, água e café) e distribuição de água, bem como pela fiscalização de alguns contratos de terceirizados. Essa deficiência impacta negativamente a tomada de decisão tanto da Seseg quanto da Semat, pois a aferição inexata da real demanda pelos produtos distribuídos e controlados pelo Serap dificulta sobremaneira o planejamento de aquisições e a estocagem de produtos.XXI - Evolução do quadro (apresentar dados)
+
+
+
+a)       
+
+A Segedam é dividida em quatro secretarias, a saber: Secretaria de Recursos Humanos (Serec); Secretaria de Material, Patrimônio e Comunicação Administrativa (Semat); Secretaria de Orçamento, Finanças e Contabilidade (Secof); e Secretaria de Serviços Gerais (Seseg).
+
+b)      
+
+Entre as diretrizes traçadas no planejamento e nos planos do TCU e das secretarias, chama atenção a modernização e celeridade na prestação dos serviços afetos à Segedam como um todo e a cada uma das secretarias em particular. Nesse sentido, observa-se que tem sido adotadas várias medidas de cunho administrativo das quais decorreram melhorias consideráveis na gestão dos recursos disponíveis. Exemplificativamente, dentre essas medidas, pode-se citar o fato de que no fim de 2005 foi possível o pagamento de verbas relativas a passivo decorrente da URV sem que o Tribunal precisasse recorrer a outras fontes de recurso que não a economia interna decorrente da revisão de contratos e da racionalização na utilização de recursos, como o uso de telefones, a distribuição de cafezinhos e outros.
+
+
+
+
+
+
+
+c)       
+
+Na Serec há um projeto de grande impacto se desenvolvendo com recursos do BID, o ATUAR, o qual pretende dotar o Tribunal de instrumentos de otimização de seus recursos humanos.
+
+d)       
+
+Quanto às demais secretarias da Segedam, não obstante os esforços individuais de cada uma delas, percebe-se a necessidade de uma ação coordenada visando ao trato simultâneo de questões comuns que demandam equipes focadas exclusivamente em suas resoluções dentro de um prazo de tempo previamente definido.
+
+e)       
+
+Na Semat observou-se que a quantidade de bens tombados cresceu sobremaneira nos últimos anos, bastando citar que, apenas na Sede, entre 1998 e 2005, tais itens aumentaram de 15.000 para 29.000, aproximadamente, gerando perda de foco da gestão patrimonial e, consequentemente, desperdício de esforços, já que grande parte desse total refere-se a bens de pequeno valor e/ou baixa materialidade.
+
+f)        
+
+Na Secof constatou-se que algumas atividades poderiam ser otimizadas, quanto ao tempo de execução e à exatidão de informações, por exemplo, com a padronização de processos de trabalho e a elaboração de roteiros de atividades. Essa constatação veio à tona a partir da modelagem e padronização de alguns procedimentos na Dicon, em 2004, que resultou em considerável economia de tempo e trabalho. Além disso, observou-se que o acompanhamento do atendimento de solicitações, pedidos e demandas que chegam a cada subunidade da Secof é uma constante necessidade, mas cujo sucesso depende principalmente da memória do ocupante da chefia no momento, por falta de instruções procedimentais claras.
+
+
+
+
+
+
+5. 	Escopo do projeto
+
+I - 5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+
+Aprimorar a capacidade de gestão de atividades críticas da Segedam.
+
+
+
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+II - META
+
+III - Indicador
+
+IV - Produto
+
+V - Cliente
+
+VI - Objetivo específico
+
+VII - Quanto
+
+VIII - Data de término
+
+
+
+a)       
+
+Coordenar o mapeamento, a padronização e a disseminação de processos de trabalho críticos da Secof
+
+02
+
+31/07/2006
+
+Nº de processos de trabalho homologados
+
+Fluxos de processos de trabalho críticos e roteiros elaborados e disseminados
+
+Segedam
+
+Secof
+
+b)      
+
+Coordenar o desenvolvimento e implantação de sistemática de gestão de processos de trabalho críticos no Serap com foco em resultado
+
+02
+
+31/07/2006
+
+Nº de processos de trabalho homologados
+
+Sistemática de gestão de processos de trabalho críticos implementada
+
+Segedam
+
+Seseg
+
+c)       
+
+Coordenar a proposição de alteração na regulamentação para incorporação, baixa e controle de bens permanentes
+
+01
+
+31/07/2006
+
+Minuta de norma de classificação de bens aceita
+
+Minuta de norma de classificação de bens no âmbito do TCU
+
+Segedam
+
+Semat
+
+Secof
+
+
+
+
+
+
+5.3	Não escopo (o que o projeto não vai fazer)
+
+
+a)       
+
+Elaboração de indicadores de desempenho.
+
+b)       
+
+Implantação da nova forma de classificação de bens proposta pelo projeto.
+
+c)       
+
+Atualização do sistema patrimônio com base na nova classificação.
+
+d)       
+
+Atualização da contabilização de bens permanentes com base na nova classificação.
+
+e)       
+
+Implantação de processos de trabalho redesenhados.
+
+f)        
+
+Informatização de processos de trabalho.
+
+g)       
+
+Aprimoramento de processos de trabalho da Serec.
+
+
+
+
+
+
+
+
+
+
+5.4	Benefícios (impacto esperado dos produtos do projeto)
+
+
+
+a)       
+
+Diminuição do número de bens patrimoniais controlados e conseqüente diminuição do tempo gasto em seus levantamentos.
+
+b)       
+
+Redução dos custos do controle dos bens patrimoniais.
+
+c)       
+
+Melhoria geral das condições de trabalho.
+
+d)       
+
+Satisfação dos clientes internos.
+
+e)       
+
+Suprimento da deficiência/ausência de dados gerenciais que afetam os serviços da Seseg/Serap.
+
+f)        
+
+Melhoria nos procedimentos de armazenamento de documentos e de coleta de dados no âmbito do Serap.
+
+
+
+
+6.	Identificação das partes envolvidas no projeto (em relação a que)
+I - Nome da parte envolvida
+
+II - patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+III - Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)       
+
+Segedam
+
+Alocação de pessoas e de recursos materiais para o desenvolvimento do projeto.
+
+b)       
+
+Semat
+
+Assessoramento técnico e fornecimento de especialista na gestão de recursos materiais.
+
+c)       
+
+Secof
+
+Assessoramento técnico e fornecimento de especialista na gestão de recursos orçamentários e financeiros.
+
+d)       
+
+Seseg
+
+Assessoramento técnico e fornecimento de especialista em serviço de controle e distribuição de materiais de apoio a copas e eventos.
+
+e)       
+
+Seplan
+
+Contribuição metodologica para o gerenciamento do projeto.
+
+
+
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+IV - Risco
+
+V - Impacto
+
+VI - Probabilidade
+
+VII - de ocorrer
+
+VIII - Ação para
+
+IX - (E) Evitar ocorrência do risco
+
+X - (M) Mitigar ocorrência do risco
+
+XI - (R) Reduzir impacto do risco ocorrido
+
+XII - Responsável
+
+XIII - pela ação
+
+
+
+a)       
+
+Falta de cooperação dos chefes e dos servidores de cada subunidade 
+
+alto
+
+baixa
+
+(M) conscientizar e solicitar a cooperação com a equipe do projeto
+
+(M) identificar focos de resistência e levar ao conhecimento dos superiores sua ocorrência
+
+Titulares da secretarias envolvidas e gerente do projeto
+
+b)       
+
+Falta de comprometimento das unidades envolvidas
+
+alto
+
+baixa
+
+(M) negociar a substituição dos servidores que demonstrem falta de compromisso com o objeto do projeto, junto a sua respectiva secretaria
+
+Gerente do projeto
+
+
+
+
+8.	Relação com outros projetos
+
+
+
+
+
+
+
+
+9.	Equipe do projeto 
+
+I - Nome
+
+II - Matrícula
+
+III - Lotação
+
+IV - Período
+
+V - Dedicação integral/ parcial / por atividade
+
+ 
+
+Pedro Santana de Sousa
+
+2708-1
+
+Segedam
+
+24/04 a 31/07/2006
+
+Integral 
+
+André Luiz Marcelino da Silva   
+
+6008-9
+
+Semat
+
+24/04 a 31/07/2006
+
+Por atividade 
+
+José Ronaldo Carvalho Vasconcelos 
+
+1868-6
+
+Secof
+
+24/04 a 31/07/2006
+
+Por atividade 
+
+Marinaldo Malheiros de Franca
+
+2396-5
+
+Seseg
+
+24/04 a 31/07/2006
+
+Por atividade
+
+
+
+
+10.	Custos adicionais estimados
+
+VI - Recurso
+
+VII - Valor estimado
+
+VIII - Data inicial de liberação do recurso
+
+
+
+a)       
+
+ 
+
+ 
+
+ 
+
+b)       
+
+ 
+
+ 
+
+ 
+
+c)       
+
+ 
+
+ 
+
+ IX - Total de custos estimados
+
+
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+11.	Outros recursos necessários
+
+X - Recurso
+
+XI - Fornecedor
+
+
+
+a)       
+
+ 
+
+ 
+
+b)       
+
+ 
+
+ 
+
+
+
+
+12.	Finalização
+
+XII - Data
+
+XIII - Assinatura do gestor do projeto
+
+
+
+Em ___/___/2006
+
+PEDRO SANTANA DE SOUSA
+
+Gerente do ProjetoXIV - Manifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2006.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+(Unidade Patrocinadora), em ___/___/2006
+
+MAURO MOREIRA BARBOSA
+
+Secretário-Geral de AdministraçãoXV - Manifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2006
+
+MAURO GIACOBBO
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Modernização Administrativa da Segedam &#8211; Modernizar 1 e designa seu gestor.
+
+

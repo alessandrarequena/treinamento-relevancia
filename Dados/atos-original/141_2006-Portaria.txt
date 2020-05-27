@@ -1,0 +1,1042 @@
+Portaria
+141/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Arquitetura da Informação, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designada a Analista de Controle Externo (Área Biblioteconomia) FLÁVIA LACERDA OLIVEIRA DE MACEDO, matrícula nº 6265-0, para exercer a função de confiança de Gerente do Projeto, código FC-04, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria Presidência.
+
+
+Parágrafo único. Cabe ao Gerente do Projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+(Publicada no DOU de 11/7/2006, Seção 2, pág. 49)
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Flávia Lacerda Oliveira de Macedo
+
+6265-0
+
+flaviaom@tcu.gov.br
+
+7593
+
+Função do Gestor
+
+Origem da FC
+
+X
+
+GGerente
+
+ 
+
+CCoordenador
+
+ 
+
+LLíder
+
+Ssepres
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Luís Henrique Raja Gabaglia Mitchell
+
+6260-0
+
+luishr@tcu.gov.br
+
+7834
+
+Local / Telefone
+
+ISC/Cedoc/Biblioteca
+
+
+2. Identificação do projeto
+
+
+Nome do projeto
+
+Arquitetura da Informação
+
+Período de Realização
+
+Unidade Patrocinadora
+
+03/07/2006 a 14/12/2007
+
+Sepres
+
+
+3. Vinculação estratégica
+
+
+Plano Estratégico do TCU (Portaria – TCU nº 2, de 5 de janeiro de 2006).
+
+a)       
+
+Objetivo 7: Estimular o controle social
+
+Iniciativa 4: Ampliar e facilitar o acesso e a compreensão às informações sobre gestão pública
+
+b)      
+
+Objetivo 17: Otimizar a utilização do conhecimento organizacional
+
+Iniciativa 16: Estruturar e integrar práticas de gestão do conhecimento
+
+Iniciativa 14: Assegurar a qualidade das informações das bases de dados corporativas do TCU
+
+Plano de Diretrizes do TCU – 2006 (Portaria – TCU nº 42, de 22 de fevereiro de 2006)
+
+a)       
+
+Diretriz 3: Aumentar a tempestividade na apreciação dos processos de controle externo
+
+Medida 3.4: Implementar solução de gestão da árvore do conhecimento, observando, em especial: a elaboração de uma única biblioteca virtual com os manuais e formulários de fiscalização e instrução processual; a sistematização da jurisprudência do TCU por assunto, disponibilizando-a no site do TCU; o aperfeiçoamento e a divulgação das ações de controle no Portal TCU. 
+
+b)      
+
+Diretriz 6: Melhorar o nível de conhecimento do TCU junto à sociedade
+
+Medida 6.7: Aperfeiçoar e migrar as informações da Intranet para o Portal TCU
+
+Plano Diretor da (Unidade) – diretriz e medida
+
+a)       
+
+Diretriz 3: Realizar ações de gestão do conhecimento  no TCU.
+
+Medida 3.1: Implementar, com o auxílio da Sepres, Segecex, SGS, Segedam, Setec e Seplan, solução de gestão da árvore do conhecimento, observando, em especial: a elaboração de uma única biblioteca virtual com os manuais e formulários de fiscalização e instrução processual; a sistematização da jurisprudência do TCU por assunto, disponibilizando-a no site do TCU; o aperfeiçoamento e a divulgação das ações de controle no Portal TCU.
+
+Medida 3.2: Auxiliar a Setec no aperfeiçoamento e migração das informações da Intranet para o Portal TCU.
+
+
+4. Problema / oportunidade
+
+
+Descrição do Problema ou da Oportunidade 
+
+a)
+
+As informações disponíveis no Portal e na Intranet do TCU estão armazenadas em diferentes formatos, sem padrões de apresentação, organização e classificação. Consequentemente, o fluxo de informações, tanto para o público interno quanto externo, é prejudicado, o que compromete a produtividade dos servidores e a imagem institucional.
+
+b)
+
+A dificuldade de recuperação e compartilhamento de informações no âmbito do Tribunal deve-se à ausência de diretrizes para a gestão de conteúdos, que promove a adoção de formatos diversos para o armazenamento e a apresentação das informações na Intranet e no Portal, além da falta de uniformização de conceitos que representam os conteúdos institucionais.
+
+
+
+
+
+Evolução do Quadro (apresentar dados)
+
+a)       
+
+Estava prevista para o mês de junho de 2006 a migração de todo o conteúdo da Intranet para o Portal pela Setec. Entretanto, para que a migração ocorresse de forma adequada, tornava-se iminente a necessidade de sistematização da estrutura de conteúdos do Portal. Em decorrência da formalização deste projeto, propôs-se que a migração fosse feita após o trabalho de definição do modelo de arquitetura da informação, para evitar a duplicidade de esforços com a mobilização de pessoas para o trabalho de migração em duas oportunidades. Dessa forma, alterou-se o Plano de Diretrizes do Tribunal em vigor, que contemplava essa medida.
+
+b)      
+
+O setor de pesquisa da Biblioteca do TCU registrou no último ano que 3% das solicitações internas e 12% das solicitações externas referiam-se a informações que estavam disponíveis no Portal. Essa estatística mostra a dificuldade de recuperação dos conteúdos pelos usuários.
+
+c)       
+
+Foram computadas 137 solicitações de ferramentas  para editoração Web pelas unidades do Tribunal nos últimos 2 anos, sendo 37 de Dreamweaver, 19 de Fireworks, 29 de Flash e 52 de Frontpage. Essas demandas deverão ser suprimidas pela ferramenta de gestão de conteúdos do Portal.
+
+d)      
+
+A seguir, destaca-se trecho da pesquisa Tendências do Controle da Gestão Pública, realizada em novembro de 2000, que enfatiza a necessidade de implantação de mecanismos de gestão da informação no TCU: “[...] o Tribunal deve abreviar seu tempo de resposta às questões com que é confrontado, o que pode ser conseguido mediante análise e melhoria de processos de trabalho, implantação de mecanismos de gestão da informação, aumento da disponibilidade de equipamentos e sistemas de informática e aumento da delegação formal de competências”.
+
+e)       
+
+Algumas iniciativas de estruturação do conhecimento vêm sendo implementadas no âmbito do Tribunal, como o projeto de Modernização do Controle Externo da Regulação, da Secretaria de Fiscalização de Desestatização, em parceria com a Fundação Getúlio Vargas. Pretende-se com o presente projeto fazer com que o Portal seja capaz de apoiar essas iniciativas, operando como ambiente integrado de produção, disseminação e intercâmbio de informações, que sirva como base para as ações de Gestão do Conhecimento.
+
+f)        
+
+O ISC, por intermédio de suas três diretorias finalísticas (Enicef, Diplad e Cedoc), lançou as bases para o projeto Arquitetura da Informação no programa de formação ACE 2005, oportunidade em que promoveu oficinas de gestão do conhecimento, reunindo os participantes do programa e alguns servidores do TCU (ISC, Setec e SGS). O curso e as oficinas possibilitaram, naquela ocasião, a sensibilização da equipe das três unidades, o mapeamento do problema, a discussão do modelo em que o TCU investiria, bem como o caminho a ser percorrido.
+
+
+5. Escopo do projeto
+
+
+5.1. Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema) 
+
+Instrumentalizar a gestão de conteúdos do Portal TCU com vistas a promover acesso integrado e padronizado aos produtos e serviços de informação do Tribunal.
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término
+
+a)
+
+Apresentar o projeto aos titulares das unidades do TCU e indicar os respectivos gestores de conteúdo.
+
+100%
+
+31/07/2006
+
+Projeto apresentado.
+
+Minuta de portaria aceita.
+
+Apresentação do projeto.
+
+Minuta de portaria da Presidência definindo as áreas responsáveis pela gestão de conteúdo.
+
+Sepres
+
+
+
+
+
+
+b)
+
+Elaborar diagnóstico dos conteúdos do TCU disponíveis no atual Portal, na Intranet, no Banco de Dados Textual e no SisDoc.
+
+ 
+
+100%
+
+31/08/2006
+
+Diagnóstico aprovado por componente.
+
+Diagnóstico dos conteúdos do TCU.
+
+ISC/Cedoc
+
+Setec
+
+c)
+
+Especificar a tipologia de documentos.
+
+ 
+
+100%
+
+13/09/2006
+
+Tipologia aprovada.
+
+Documento com a Tipologia de conteúdos do TCU.
+
+Recomendações de alterações no ambiente corporativo.
+
+ISC/Cedoc
+
+Setec
+
+Semat/Dicom
+
+ 
+
+d)
+
+Elaborar a taxonomia (até o 3º nível).
+
+ 
+
+100%
+
+24/10/2006
+
+Taxonomia de três níveis aprovada (classe e subclasses).
+
+Documento com as classes e subclasses que representam os conteúdos do TCU disponíveis no Portal e na Intranet validado.
+
+Recomendações de alterações no ambiente corporativo.
+
+ISC/Cedoc
+
+Setec
+
+e)
+
+Delimitar o universo de conteúdos a ser implementado no Portal.
+
+ 
+
+100%
+
+31/10/2006
+
+Universo de conteúdos selecionado e aprovado.
+
+Documento com os tipos de conteúdos que serão incluídos no Portal.
+
+ 
+
+CCG
+
+f)
+
+Propor modelo de representação da informação do Portal (definição dos atributos por tipo de documento e forma de entrada de dados).
+
+100%
+
+15/12/2006
+
+ 
+
+Modelo aprovado.
+
+Documento com modelo de representação da informação validado.
+
+ISC/Cedoc
+
+Setec
+
+g)
+
+Propor modelo de apresentação e protótipo de conteúdos (leiaute) com base em conceitos de usabilidade, acessibilidade e identidade visual.
+
+ 
+
+ 
+
+100%
+
+31/05/2007 
+
+Modelos (templates) de todas as telas do Portal definidos e  aprovados.
+
+Documento e protótipo dos projetos das telas do Portal.
+
+ 
+
+CCG
+
+ 
+
+h)
+
+Revisar política e  práticas (normas e procedimentos) de gestão de conteúdos do TCU.
+
+100%
+
+15/06/2007
+
+ 
+
+Política de gestão de conteúdos definida e aprovada.
+
+Minuta de portaria da política e práticas de gestão de conteúdos.
+
+CCG
+
+
+
+
+
+
+
+i)
+
+Implantar modelo de representação da informação (entrada de dados).
+
+100%
+
+31/08/2007
+
+ 
+
+Conjunto de metadados (atributos) implementado e validado no Oracle Portal.
+
+Telas de entrada de dados do Oracle Portal com os metadados implementados.
+
+ISC/Cedoc
+
+Setec
+
+j)
+
+Implantar modelo de apresentação de conteúdos (leiaute) e solicitar certificação de acessibilidade à entidade competente
+
+100%
+
+31/08/2007
+
+ 
+
+Modelo de apresentação de conteúdos implantados.
+
+Certificação de acessibilidade solicitada.
+
+Estrutura de conteúdos publicada no Portal, em um novo leiaute, de acordo com os modelos definidos.
+
+Solicitação formal de certificação de acessibilidade.
+
+ISC/Cedoc
+
+Setec
+
+ 
+
+k)
+
+Atualizar Manual de Navegação e Atualização do Portal.
+
+100%
+
+31/08/2007
+
+ 
+
+Manual atualizado.
+
+Manual de Navegação e Atualização do Portal atualizado e publicado.
+
+ISC
+
+Setec
+
+ 
+
+l)
+
+Treinar os provedores de conteúdo para a inclusão de dados no Portal.
+
+80%
+
+02/10/2007
+
+ 
+
+Provedores de conteúdo treinados.
+
+Treinamento realizado.
+
+ISC
+
+Setec
+
+ 
+
+m)
+
+Apoiar os provedores de conteúdo na migração do antigo Portal e da Intranet para a nova estrutura do Portal.
+
+100%
+
+26/11/2007
+
+ 
+
+Migração concluída pelos provedores de conteúdo das unidades.
+
+Portal com dados migrados.
+
+ISC
+
+Setec
+
+ 
+
+n)
+
+Divulgar a nova estrutura do Portal.
+
+ 
+
+100%
+
+28/11/2007
+
+ 
+
+Nova estrutura do Portal divulgada aos usuários internos e externos do TCU.
+
+Material de divulgação do novo Portal publicado e distribuído.
+
+Sepres
+
+Gestores de conteúdo
+
+o)
+
+Avaliar a satisfação dos usuários internos e externos com o novo Portal e promover as modificações necessárias.
+
+100%
+
+07/12/2007
+
+ 
+
+Satisfação dos usuários internos e externos com o Portal analisada e ajustes realizados.
+
+Relatório consolidado com as opiniões dos usuários acerca da usabilidade da arquitetura definida.
+
+ISC/Cedoc
+
+Setec
+
+ 
+
+
+
+
+
+
+
+5.3. Benefícios (impacto esperado dos produtos do projeto)
+
+
+
+a)       
+
+Aprimoramento do fluxo de informações para os públicos interno e externo do Tribunal.
+
+b)      
+
+Estímulo para utilização do Portal como ambiente de produção, disseminação e recuperação de informações, apoiando ações de Gestão do Conhecimento no TCU.
+
+c)       
+
+Melhoria da divulgação e transparência das ações do TCU, e consequentemente da imagem institucional, considerando o Portal como importante veículo de comunicação entre o Tribunal e a sociedade.
+
+d)      
+
+Simplificação do ambiente computacional com a manutenção de uma única ferramenta para gestão descentralizada de conteúdos.
+
+e)       
+
+Redução de custos com a aquisição de diferentes ferramentas para desenvolvimento Web pelas unidades.
+
+f)        
+
+Adequação do Portal à Resolução n.7, de 29 de julho de 2002, do Comitê Executivo do Governo Eletrônico, e ao Decreto 5.296, de 2 de dezembro de 2004, que regulamenta as Leis nºs 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
+
+
+5.4. Não escopo (o que o projeto não vai fazer
+
+
+
+a)       
+
+Integração de todos os sistemas de automação de processos de trabalho do TCU e armazenamento dos conteúdos em um único repositório de dados.
+
+b)      
+
+Representação do inteiro teor de todos os tipos de documento em um mesmo padrão.
+
+c)       
+
+Elaboração de um tesauro capaz de representar todos os conteúdos do Tribunal.
+
+d)      
+
+Elaboração de Sistema de Gestão Eletrônica de Documentos.
+
+e)       
+
+Implantação de soluções de TI para automação de processos de trabalho nas unidades.
+
+f)        
+
+Conversão ou integração de sistemas legados ou desenvolvidos pelas próprias unidades.
+
+g)      
+
+Contratação de ferramentas e/ou equipamentos para as soluções de Gestão de Conteúdo.
+
+h)      
+
+Reestruturação de conteúdos disponíveis em NTFS e nas bases de dados textuais.
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+
+Nome da Parte Envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+a)       
+
+Sepres
+
+Patrocínio do projeto; apoio político e operacional ao projeto.
+
+b)       
+
+ISC
+
+Elaboração do diagnóstico dos conteúdos do TCU; definição da tipologia de documentos, da taxonomia, dos modelos de representação e apresentação dos conteúdos do Portal; avaliação da satisfação dos usuários; treinamento dos provedores de conteúdo; disponibilização de estagiários; e divulgação da nova estrutura do Portal.
+
+c)
+
+Setec
+
+Definição da estratégia de migração do conteúdo da Intranet para o Portal e sua operacionalização; definição e implantação dos modelos de representação e apresentação de conteúdos; treinamento dos gestores e provedores para a utilização da ferramenta de gestão de conteúdos; suporte de TI ao projeto; disponibilização de recursos para contratação de consultoria; implantação das alterações de tipos de conteúdo e mudanças de taxonomia no ambiente corporativo; fornecimento de ferramentas de editoração para web; e contratação de consultoria para a elaboração do novo leiaute do Portal, se necessário.
+
+
+
+
+
+
+
+d)
+
+SGS
+
+Contribuição com a definição da tipologia e da taxonomia.
+
+e)
+
+Segedam/Serec
+
+Disponibilização de estagiários.
+
+f)
+
+Seplan
+
+Contribuição metodológica para o gerenciamento do projeto.
+
+g)
+
+CCG
+
+Análise e validação das soluções propostas.
+
+h)
+
+Semat/Dicom
+
+Contribuição com a definição da tipologia e da taxonomia.
+
+i)
+
+Gestores de conteúdo
+
+Contribuição com o diagnóstico de conteúdos; participação do treinamento para publicação de conteúdos no Portal; publicação dos conteúdos das respectivas unidades na nova estrutura do Portal.
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+De Ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela Ação
+
+a)       
+
+Falta de interesse ou comprometimento dos gestores de conteúdo do TCU com o projeto.
+
+Alto
+
+Médio
+
+(M) Promover ampla divulgação do projeto, mostrando o comprometimento da Presidência com o problema.
+
+(E) Demonstrar aos gestores de cada área a importância de reestruturar os conteúdos no Portal.
+
+(M) Promover videoconferência para apresentação do projeto.
+
+(M) Propor a substituição do gestor de conteúdo ao titular da unidade técnica, se necessário.
+
+Equipe do projeto
+
+b)       
+
+Falta de disponibilidade de tempo dos gestores de conteúdo para discutir as propostas de reestruturação do Portal e para promover as alterações necessárias nos conteúdos de sua responsabilidade.
+
+Alto
+
+Alto
+
+(M) Identificar pessoas em cada unidade que tenham competência, interesse e disponibilidade para contribuir com o projeto.
+
+(E) Agendar antecipadamente as visitas às unidades.
+
+(M) Propor a substituição do gestor de conteúdo ao titular da unidade técnica, se necessário.
+
+Equipe do projeto / Titulares das unidades
+
+ 
+
+c)       
+
+Divergências entre os gestores de conteúdo de cada área acerca da definição das informações e da forma de divulgação no Portal a ser proposta.
+
+Alto
+
+Alto
+
+(E) Promover reuniões entre os gestores onde haja divergências.
+
+(M) Estabelecer políticas claras para a definição de conteúdos a serem incluídos no Portal.
+
+(R) Tomar decisões com respaldo de dirigentes ou da CCG.
+
+Equipe do projeto/CCG
+
+
+
+
+
+
+
+d)       
+
+Dificuldades tecnológicas de customização da ferramenta de gestão de conteúdos Oracle Portal para adequação às definições do modelo proposto.
+
+Alto
+
+Médio
+
+(E) Contratar consultoria para solução de questões pontuais de desenvolvimento em Oracle Portal.
+
+(E) Capacitar a equipe envolvida no projeto para a utilização da ferramenta Oracle Portal.
+
+(E) Analisar o potencial e as limitações da ferramenta antes de propor o modelo de arquitetura da informação.
+
+(M) Solicitar suporte aos fornecedores da ferramenta.
+
+Equipe do projeto
+
+e)       
+
+Dificuldades para redefinição do leiaute do Portal.
+
+Alto
+
+Médio
+
+(E) Contratar consultoria para solução de questões pontuais na concepção e implementação do novo leiaute. 
+
+(E) Capacitar a equipe envolvida no projeto nas áreas de webdesign e usabilidade.
+
+(E) Promover intercâmbio de informações e experiências com outros órgãos governamentais.
+
+Equipe do projeto
+
+
+8. Relação com outros projetos
+
+
+Projetos Predecessores
+
+Projetos Conexos
+
+Projetos Sucessores
+
+Projeto Portal
+
+Projeto Diagnóstico
+
+ 
+
+ 
+
+Projeto Atena
+
+ 
+
+ 
+
+Projeto Comunicar
+
+ 
+
+
+9. Custos estimados
+
+
+Recurso
+
+Valor Estimado
+
+Data Inicial de Liberação do Recurso
+
+a)       
+
+Consultoria para elaboração do novo leiaute do Portal.
+
+8.000,00
+
+01/11/2007
+
+b)       
+
+Consultoria para desenvolvimento em Oracle Portal.
+
+17.000,00
+
+01/05/2007
+
+c)       
+
+4 estagiários para inclusão de dados no Portal (6 meses)
+
+10.000,00
+
+15/01/2007
+
+Total de custos estimados
+
+35.000,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+10. Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)       
+
+ 
+
+ 
+
+b)       
+
+ 
+
+ 
+
+
+
+
+
+
+11. Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação Integral/ Parcial / Por Atividade 
+
+Flávia Lacerda Oliveira de Macedo
+
+6265-0
+
+ISC
+
+03/07/2006 a 14/12/2007
+
+Integral 
+
+Luis Henrique Raja Gabaglia Mitchell
+
+6260-0
+
+Setec
+
+03/07/2006 a 14/12/2007
+
+Integral 
+
+Márcia Martins de Araújo Altounian
+
+2655-7
+
+ISC
+
+03/07/2006 a 14/12/2007
+
+Integral 
+
+Sonia Luzia Caldeira Del Fiaco
+
+3683-8
+
+ISC
+
+03/07/2006 a 14/12/2007
+
+Parcial 
+
+Benoni Batista Braga Júnior
+
+1622-5
+
+Setec
+
+15/04/2007 a 26/11/2007
+
+Parcial 
+
+Cássimo Borges da Costa
+
+2448-1
+
+Setec
+
+15/04/2007 a 26/11/2007
+
+Parcial 
+
+Dalton Hissa de Souza
+
+3361-8
+
+Setec
+
+01/09/2006 a 14/12/2007
+
+Parcial 
+
+Wilson Moreno dos Santos
+
+2473-2
+
+Setec
+
+01/11/2006 a 25/11/2007
+
+Parcial 
+
+Marcello Augusto Cardoso dos Santos
+
+3655-2
+
+ISC
+
+03/07/2006 a 14/12/2007
+
+Parcial 
+
+Marcelo de Oliveira Vianna
+
+2985-8
+
+SGS
+
+01/09/2006 a 15/12/2006
+
+Por atividade
+
+
+12. Finalização
+
+
+Data
+
+Assinatura do Gestor do Projeto
+
+Em 03/07/2006
+
+FLÁVIA LACERDA OLIVEIRA DE MACEDO
+
+Gerente do Projeto
+
+
+
+Manifestação do Titular da Unidade Patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 22/06/2006.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Sepres, em 03/07/2006
+
+ARY BRAGA PACHECO FILHO
+
+Secretário da Presidência
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em 03/07/2006
+
+ALESSANDRO GIUBERTI LARANJA
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Arquitetura da Informação e designa seu gestor.
+
+

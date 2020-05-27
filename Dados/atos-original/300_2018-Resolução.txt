@@ -1,0 +1,196 @@
+Resolução
+300/2018
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares, 
+
+
+considerando os princípios da publicidade e eficiência, estabelecidos no art. 37 da Constituição Federal, bem assim o disposto na Lei nº 11.419, de 19 de dezembro de 2006, que dispõe sobre a informatização do processo judicial; 
+
+
+considerando a Lei nº 12.527, de 18 de novembro de 2011, que define o acesso a informação previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal e que estabelece a observância da publicidade como preceito geral e do sigilo como exceção;
+
+
+considerando o Decreto nº 9.094, de 17 de julho de 2017, que dispõe sobre a simplificação dos serviços públicos, bem assim o Decreto nº 9.215, de 29 de novembro de 2017, que disciplina a publicação no Diário Oficial da União (DOU); 
+
+
+considerando o contido nos Acórdãos nºs 1.296-TCU-Plenário, de 2011, 174-TCU-Plenário, de 2017, e 8.025-TCU-1ª Câmara, de 2017, em especial no que se refere à aplicação da Lei nº 11.419, de 2006, ao dever de publicação dos atos administrativos no DOU, bem como à observância ao princípio da publicidade; 
+
+
+considerando a importância de aprimoramento contínuo da oferta de acesso aos atos administrativos e processuais exarados pelo Tribunal de Contas da União e o constante aperfeiçoamento dos serviços eletrônicos e digitais prestados institucionalmente em sintonia com o respectivo marco regulatório corporativo preconizado pela Resolução-TCU nº 233, de 4 de agosto de 2010;
+
+
+considerando a classificação da informação quanto à confidencialidade disposta pela Resolução-TCU nº 294, de 18 de abril de 2018; 
+
+
+considerando a racionalização do processo de trabalho inerente ao Boletim do Tribunal de Contas da União (BTCU), o desenvolvimento de solução específica para automatizar a gestão do BTCU e a integração dessa solução com os demais sistemas corporativos;
+
+
+considerando a importância de sistematizar os procedimentos e práticas institucionais afetos à gestão do BTCU; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC 035.044/2017-9, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º O Boletim do Tribunal de Contas da União (BTCU) obedece ao disposto nesta Resolução. 
+
+
+Art. 2º Para os fins desta Resolução, entende-se por:
+
+
+I - autoridades do TCU: Ministros, Ministros-Substitutos e Membros do Ministério Público junto ao TCU;
+
+
+II - colegiados da Secretaria do Tribunal: comitês e comissões constituídos precipuamente por servidores e formalmente definidos em ato normativo do TCU ou do Presidente do Tribunal; e
+
+
+III - unidades institucionais: unidades básicas e suas unidades integrantes, unidades de assessoramento a autoridades e demais unidades da Secretaria do Tribunal, em sintonia com a estrutura organizacional definida em ato normativo do TCU. 
+
+
+CAPÍTULO II
+
+
+DO BTCU
+
+
+Art. 3º O BTCU é considerado órgão oficial, nos termos do art. 98 da Lei nº 8.443, de 16 de julho de 1992, e do art. 295 do Regimento Interno do Tribunal, e tem por finalidade conferir publicidade aos atos institucionais, inclusive aos atos processuais e administrativos próprios e às comunicações em geral.
+
+
+§ 1º O BTCU possui, entre outros, os seguintes requisitos:
+
+
+I - é implementado mediante solução de tecnologia da informação (solução de TI) denominada e-Diário;
+
+
+II - contempla o diário eletrônico do Tribunal, com disponibilização no Portal TCU, em sintonia com o art. 4º da Lei nº 11.419, de 19 de novembro de 2006; e
+
+
+III - substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos expressamente estabelecidos em lei específica.
+
+
+§ 2º A classificação, quanto à confidencialidade, das informações contidas nos atos enviados para publicação no BTCU deve ser realizada, previamente ao respectivo envio, pelo correspondente gestor da informação, em consonância com a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação - LAI), e com os critérios de classificação definidos em ato normativo específico do TCU.
+
+
+§ 3º Compete à Secretaria-Geral Adjunta de Administração (Adgedam) planejar, organizar, coordenar, supervisionar e controlar a execução das atividades relacionadas à edição do BTCU, bem como elaborar e propor normas e padrões técnicos destinados à racionalização e otimização dos trabalhos correlatos. 
+
+
+CAPÍTULO III
+
+
+DA ORGANIZAÇÃO DO BTCU
+
+
+Art. 4º O BTCU pode ser estruturado em quatro cadernos: 
+
+
+I - Administrativo; 
+
+
+II - Controle Externo - Ações em Curso; 
+
+
+III - Deliberações dos Colegiados do TCU e dos Relatores; e
+
+
+IV - Especial. 
+
+
+§ 1º O caderno Administrativo, de edição diária, divulga os atos administrativos normativos, os demais atos administrativos e de gestão considerados de interesse da Administração e dos servidores, exarados por colegiados, comissões, comitês, autoridades do TCU, por colegiados da Secretaria do Tribunal e unidades institucionais. 
+
+
+§ 2º O caderno Administrativo pode conter, também, matérias transcritas de demais veículos oficiais, bem como outras matérias passíveis de publicação a juízo do Presidente do TCU ou do Secretário-Geral de Administração.
+
+
+§ 3º O caderno de Controle Externo - Ações em Curso, de edição diária, contém exclusivamente as portarias de fiscalização exaradas pelas unidades integrantes da Secretaria-Geral de Controle Externo (Segecex).
+
+
+§ 4º O caderno Deliberações dos Colegiados do TCU e dos Relatores, de edição diária, destina-se à publicação das pautas e atas das sessões, das deliberações decorrentes das ações de controle externo - a exemplo dos editais de citação e de notificação -, e das decisões monocráticas dos relatores previstas no art. 4º, §§ 1º e 2º, da Resolução-TCU nº 249, de 2/5/2012, não classificadas pelos relatores como sigilosas. 
+
+
+§ 5º Considera-se que a divulgação das pautas das sessões em BTCU disposta nos termos dos §§ 3º e 4º do art. 141 do Regimento Interno encontra-se suprida mediante a publicação no caderno Deliberações dos Colegiados do TCU e dos Relatores.
+
+
+§ 6º O caderno Especial pode conter atos típicos do caderno Administrativo ou do caderno Deliberações dos Colegiados do TCU e dos Relatores e ocorre, em caráter extraordinário e sob autorização da Adgedam, quando se constatar a necessidade de publicação inadiável de ato em data na qual já houve a edição do respectivo caderno diário, bem como se houver interesse corporativo na segmentação de cadernos por temas específicos. 
+
+
+§ 7º Os cadernos de edição diária possuem publicação em dias úteis do Distrito Federal, com divulgação de mensagem específica quando não houver matérias a publicar. 
+
+
+Art. 5º Cada caderno do BTCU adotará numeração sequencial própria, reiniciada a partir da primeira edição de cada ano. 
+
+
+Parágrafo único. A paginação dos cadernos do BTCU será independente e reiniciada a cada edição. 
+
+
+Art. 6º O BTCU é acessível pelo Portal TCU, observando-se:
+
+
+I - para os cadernos Administrativo, Deliberações dos Colegiados do TCU e dos Relatores e Especial, a disponibilização em área de acesso público do Portal TCU; e
+
+
+II - para o caderno de Controle Externo - Ações em Curso, a disponibilização em área do Portal TCU de acesso ao público interno, em cumprimento ao inciso VIII do art. 23 da Lei nº 12.527, de 2011, ressalvada classificação distinta da informação quanto à confidencialidade realizada pelo relator da ação em curso. 
+
+
+Parágrafo único. O término da restrição de acesso ao caderno de Controle Externo - Ações em Curso ocorre em dois anos, contados da respectiva produção da informação, ressalvada a hipótese em que o caderno contenha informação com prazo específico de término definido pelo respectivo relator da ação em curso, consoante o art. 24 da Lei nº 12.527, de 2011. 
+
+
+CAPÍTULO IV
+
+
+DO ENVIO DAS MATÉRIAS PARA PUBLICAÇÃO
+
+
+Art. 7º As unidades institucionais são responsáveis pelo envio das matérias para publicação no BTCU, mediante uso do sistema e-Diário ou de sua emulação via integração com os demais sistemas corporativos do TCU. 
+
+
+§ 1º Os atos exarados pelo Presidente, pelas demais autoridades e pelos Colegiados do TCU são enviados para publicação, respectivamente, pelo gabinete do Presidente (Gabpres), pela correspondente unidade de assessoramento a autoridade (gabinete de autoridade) e pela Secretaria das Sessões (Seses).
+
+
+§ 2º O envio de matérias para publicação via sistema e-Diário incumbe a servidor da Secretaria do Tribunal mediante uso de perfil específico.
+
+
+§ 3º A unidade que proceder à remessa do arquivo com a matéria a ser publicada fica responsável pelo conteúdo da publicação.
+
+
+
+§ 4º É considerada pública, no que se refere à classificação quanto à confidencialidade, toda informação contida em atos encaminhados para publicação no Diário Oficial da União ou nos cadernos do BTCU Administrativo, Especial e Deliberações dos Colegiados do TCU e dos Relatores. 
+
+
+§ 5º Aplica-se o contido no parágrafo anterior inclusive no que se refere a decisões monocráticas dos relatores enviadas para publicação. 
+
+
+CAPÍTULO V
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 8º Cabe ao Presidente do TCU dirimir os casos omissos a esta Resolução e expedir os atos necessários à operacionalização da presente norma.
+
+
+Parágrafo único. A operacionalização do caderno Deliberações dos Colegiados do TCU e dos Relatores seguirá o disposto em ato normativo do Presidente e poderá observar prévia consulta ao Conselho Consultivo do Tribunal instituído pela Resolução-TCU nº 290, de 18 de outubro de 2017.
+
+
+Art. 9º Esta Resolução entra em vigor na data de sua publicação.
+
+
+Art. 10. Fica revogada a Portaria-TCU nº 148, de 24 de fevereiro de 2017.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente
+
+
+
+Não consta revogação expressa
+Dispõe sobre o Boletim do Tribunal de Contas da União.
+
+

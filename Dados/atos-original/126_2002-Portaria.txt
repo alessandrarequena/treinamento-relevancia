@@ -1,0 +1,341 @@
+Portaria
+126/2002
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista o disposto na Resolução nº 126, de 3 de novembro de 1999, e na Resolução  nº 140, de 13 de dezembro de 2000, resolve:
+
+
+Art. 1º As competências das unidades gestoras de sistema de informação do Tribunal de Contas da União são as estabelecidas nesta Portaria.
+
+
+Art. 2º Para efeito desta Portaria, entende-se por:
+
+
+I – regra de negócio: conjunto de condições, requisitos e procedimentos que definem processo de trabalho e a forma de tratamento das informações a ele inerentes;
+
+
+II – processo de trabalho: atividade que permite a dada unidade ou conjunto realizar seus objetivos funcionais;
+
+
+III – procedimento de homologação: ação concebida para verificar a aderência de um programa de computador e suas rotinas de produção às especificações requeridas pela unidade gestora;
+
+
+IV – procedimento de produção: ação concebida para viabilizar a utilização do sistema de informação pelos usuários a que se destina;
+
+
+V – procedimento de contingência: alternativa operacional para viabilizar a execução do processo de trabalho nas situações em que o sistema não esteja disponível;
+
+
+VI – procedimento de auditoria: ações concebidas para acompanhar a utilização do sistema de informação de modo a garantir que as informações por ele processadas tenham confiabilidade e utilidade;
+
+
+VII – classificação de informações: critérios de criticidade, disponibilidade e confidencialidade que permitem tratamento adequado a cada tipo de informação, nos termos do art. 2º da Resolução 126, de 1999;
+
+
+VIII – nível de serviço: padrão de qualidade expresso em termos de máximo tempo de resposta aceitável na sede e nas secretarias nos estados, dias e horários de disponibilidade do sistema, dias e horários de pausas para manutenção, e limite mínimo aceitável de transações por minuto processadas com sucesso pelo sistema;
+
+
+IX – aceite: declaração formal de que o produto ou serviço requerido pode ser aceito pelo Tribunal;
+
+
+X – manual de usuário: orientações destinadas aos usuários sobre como utilizar o sistema na rotina de trabalho;
+
+
+XI – roteiro de atendimento: instruções destinadas à equipe responsável pelo atendimento ao usuário sobre como tratar dúvidas e ocorrências relativas ao sistema.
+
+
+Art. 3º Cada sistema de informação do Tribunal tem como responsável uma ou mais unidades gestoras, a quem compete, com o apoio e sob a orientação técnica da Secretaria de Tecnologia da Informação:
+
+
+I - definir os procedimentos e rotinas a serem informatizadas, e os procedimentos de homologação, produção, contingência e auditoria do sistema;
+
+
+II – definir as regras de atualização e consulta a informações processadas pelo sistema em meio eletrônico;
+
+
+III – definir as regras de negócio do sistema;
+
+
+IV – realizar a classificação das informações processadas pelo sistema e definir as regras para seu armazenamento e descarte, quando não houver outro gestor formalmente designado para esse fim;
+
+
+V – definir os parâmetros de nível de serviço do sistema;
+
+
+VI - receber e analisar solicitações e ocorrências relativas ao sistema que devam ser objeto de apreciação pelo gestor, adotar providências cabíveis e comunicá-las aos solicitantes;
+
+
+VII – estabelecer as prioridades das demandas relativas ao sistema;
+
+
+VIII - promover auditoria do sistema;
+
+
+IX - testar, em ambiente apropriado, o sistema de informação, indicar eventuais erros ou dificuldades e apresentar orientações ou sugestões para correção;
+
+
+X - homologar, perante a Secretaria de Tecnologia da Informação, os serviços contratados de terceiros para desenvolvimento, manutenção, atualização ou produção do sistema;
+
+
+XI - homologar cada versão do sistema e autorizar sua entrada em produção;
+
+
+XII - divulgar informes e dar orientações referentes a procedimentos de atualização e consulta do sistema, sem prejuízo do serviço de atendimento ao usuário mantido pela Secretaria de Tecnologia da Informação;
+
+
+XIII -  elaborar e manter atualizados os manuais de usuário e roteiros de atendimento do sistema; e
+
+
+XIV – promover, em conjunto com o Instituto Serzedello Corrêa,  treinamentos sobre a utilização do sistema.
+
+
+Art. 4º A designação de unidade gestora de sistema deve ser feita por Portaria do Presidente, nos termos do art. 6º da Resolução nº 126, de 1999.
+
+
+§ 1º Cabe à Secretaria de Tecnologia da Informação identificar a unidade gestora de cada sistema, ouvidos os titulares das unidades básicas, submetendo sua indicação à apreciação do Presidente.
+
+
+§ 2º A indicação de unidade gestora deve recair, preferencialmente, sobre aquela cuja competência funcional melhor se relacione com os processos de trabalho e as informações abrangidas pelo sistema.
+
+
+§ 3º Quando duas ou mais unidades forem designadas como gestoras co-responsáveis por um dado sistema, as decisões serão tomadas conjuntamente.
+
+
+§ 4º Não será iniciado novo sistema sem a designação de unidade gestora.
+
+
+Art. 5º Solicitações de modificação ou notificações de erro de sistema apresentadas pelo usuário diretamente à Setec devem ser encaminhadas à unidade gestora.
+
+
+Art. 6º A gestão de sistemas que impactem nas bases de dados de interesse direto das atividades de controle externo deve ser exercida em coordenação com a Secretaria-Adjunta de Contas, em consonância com o art. 17, inciso V, da Resolução nº 140, de 2000.
+
+
+Art. 7º As unidades gestoras dos sistemas existentes ou em desenvolvimento no Tribunal  são as designadas no Anexo a esta Portaria.
+
+
+Art. 8º Esta portaria entra em vigor na data de sua publicação.
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Revogada pela Portaria nº 105, de 29/5/2006, BTCU nº 20/2006, DOU de 1/6/2006.
+Anexo Único da Portaria nº 126, de 6 de maio de 2002
+
+
+
+
+
+Relação de unidades gestoras de sistemas de informação
+
+
+
+
+
+Sistema de Informação
+
+Sigla
+
+Unid. Gestora    Indicador Eletrônico
+
+Indicador
+
+Aceri    Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Segecex/Adcon    Instrução Eletrônica de Processos de Contas
+
+e-Contas [CSCruz1]
+
+Segecex/Adcon    Gestão de Documentos e Processos
+
+Processus
+
+Segecex/Adcon    Gestão de Documentos e Processos – Web (Processo Eletrônico)
+
+Processus Web
+
+Segecex/Adcon    Sistema de Apoio à Elaboração de Instruções e Documentos Eletrônicos
+
+Sidoc
+
+Segecex/Adcon    Emissão de Certidões via Web
+
+Certidão
+
+Segecex/Adcon    Registro de Apreciações e Deliberações e Acomp. de Resultados
+
+Radar
+
+Segecex/Adcon    Atualização de Valores
+
+Débito
+
+Segecex/Adcon Coleta Eletrônica de Contas
+
+Siscontas
+
+Segecex/Adcon Diferimento de Processos de Contas
+
+Diferimento
+
+Segecex/Adcon Contas Públicas
+
+Contas Públicas
+
+Segecex/Adcon Controle da Clientela
+
+Clientela
+
+Segecex/Adcon[CSCruz2] Planificação, Planejamento, Execução e Controle de Fiscalizações
+
+Fiscalis
+
+Segecex/Adfis Priorização das Ações de Controle
+
+Priori
+
+Segecex/Adfis Automação dos Procedimentos de Auditoria
+
+Proaud
+
+Segecex/Adfis Fiscalização de Obras
+
+Fiscobras
+
+Segecex/Secob Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac
+
+Segecex/Sefip Instrução Eletr. de Atos de Admissão e Concessões
+
+e-Sisac
+
+Segecex/Sefip Cadastro de Declarações de Bens e Rendas
+
+DBR
+
+Segecex/Sefip Análise Eletrônica de Atos de Admissão e Concessões
+
+Audsisac[CSCruz3]
+
+Segecex/Sefip Controle das Transferências Constitucionais
+
+Transcon
+
+Segecex/Semag Acompanhamento da Gestão Pública (Contas Públicas/LRF)
+
+Gestão Pública
+
+Segecex/Semag Elaboração e Aplicação de Pesquisas
+
+Pesquisa
+
+Segecex/Seprog Sistema de Apoio às Licitações
+
+Licitar
+
+Segedam/CPL Controle Patrimonial (Automation Inventory System)
+
+ASI
+
+Segedam/Semat Controle de Contratos
+
+Contrata
+
+Segedam/Semat Controle de Material
+
+Material
+
+Segedam/Semat Gestão de Assistência Médica
+
+Pro-TCU
+
+Segedam/Serec Controle de Acesso e Freqüência
+
+Secaf
+
+Segedam/Serec Gestão de Recursos Humanos
+
+GRH
+
+Segedam/Serec Folha de Pagamentos
+
+Folha
+
+Segedam/Serec Sistema Provisório de Avaliação de Desempenho
+
+Sipad
+
+Segedam/Serec Sistema de Avaliação de Desempenho em Estágio Probatório
+
+Sad
+
+Segedam/Serec Gerenciamento Integrado de Desempenho
+
+Gid
+
+Segedam/Serec Sistema de Manutenção de Organograma
+
+Sisunidade
+
+Segedam/Serec Gerência do Controle de Acesso
+
+Ronda
+
+Segedam/Seseg Informações Gerenciais
+
+Sinergia
+
+Seplan Portal TCU
+
+Portal TCU
+
+Seplan Gerenciamento por Diretrizes
+
+GPD
+
+Seplan Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Setec Automação dos Gabinetes
+
+Autogab
+
+Sgs Automação das Pautas das Sessões
+
+Pautas
+
+Sgs Sorteio de Processos
+
+Sorteio
+
+Sgs Sistema de Inf. Sobre Normas, Jurisprudência e Deliberações do TCU
+
+Juris
+
+Sgs Sistema de Alimentação de Normas, Jurisprudência e Deliberações do TCU
+
+Judoc
+
+Sgs
+
+
+
+Revogada
+Dispõe sobre as competências e designação das unidades gestoras dos sistemas de informação do Tribunal de Contas da União.
+
+

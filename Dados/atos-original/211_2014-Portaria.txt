@@ -1,0 +1,163 @@
+Portaria
+211/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas atribuições legais e regimentais,
+
+
+considerando o art. 90-A da Resolução-TCU nº 253, de 21 de dezembro de 2012, que dispõe sobre o Comitê de Segurança Institucional; 
+
+
+considerando os princípios, objetivos e diretrizes estabelecidos pela Resolução-TCU nº 261, de 11 de junho de 2014, que estabelece a Política de Segurança Institucional (PSI/TCU) e o Sistema de Gestão de Segurança Institucional do Tribunal de Contas da União (SGSIN/TCU); 
+
+
+considerando a importância da atuação do Comitê de Segurança Institucional para a efetividade da implementação da Política de Segurança Institucional no Tribunal;
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-017.270/2014-6; resolve:
+
+
+Art. 1º O Comitê de Segurança Institucional (Cosin) é órgão colegiado de natureza consultiva e de caráter permanente e tem por finalidade formular e conduzir diretrizes para o Sistema de Gestão de Segurança Institucional (SGSIN/TCU) e a Política de Segurança Institucional do TCU (PSI/TCU), analisar periodicamente sua efetividade, propor normas e mecanismos institucionais para melhoria contínua, bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral (CCG) e a Presidência do Tribunal.
+
+
+Parágrafo único. As competências do Cosin englobam as dimensões que integram a segurança institucional, à exceção do Sistema de Gestão da Segurança da Informação (SGSI/TCU) e da Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU) cujas atribuições similares incumbem ao Comitê de Segurança da Informação (CSI).
+
+
+Art. 2º Compete ao Cosin:
+
+
+I - deliberar acerca do modelo de gestão da segurança institucional e fomentar sua aplicação;
+
+
+II - propiciar o funcionamento integrado, coordenado e harmônico dos processos de trabalho das dimensões que integram a segurança institucional;
+
+
+III - manifestar-se sobre propostas de normas e de procedimentos inerentes à segurança institucional;
+
+
+IV - manifestar-se quanto à proposição de metas e ações corporativas em segurança institucional;
+
+
+V - propor ajustes no modelo de gestão da segurança institucional e nas ações necessárias à sua implementação, com subsídios no monitoramento e avaliação periódica das práticas de segurança institucional;
+
+
+VI - manifestar-se sobre ações corporativas que impactem a segurança institucional;
+
+
+VII - requerer às unidades do Tribunal informações que considerar necessárias ao acompanhamento das ações de gestão de segurança institucional; 
+
+
+VIII - submeter à CCG minutas de normativo e propostas, de natureza estratégica ou que necessitem de cooperação intersetorial, que versem sobre segurança institucional; e
+
+
+IX - encaminhar à CCG, no máximo a cada cinco anos, proposta de revisão da PSI/TCU, de modo a atualizar a política frente a novos requisitos institucionais, com subsídios na formulação elaborada pelas respectivas unidades responsáveis pelas dimensões que integram a segurança institucional.
+
+
+§ 1º Incumbe, também, ao Cosin manifestar-se acerca do grau de criticidade dos ativos e a definição dos perímetros de segurança física propostos pelas áreas competentes.
+
+
+§ 2º Os níveis de criticidade e os perímetros de segurança física orientarão, em conjunto com outros requisitos, as regras de controle de acesso de pessoas às áreas e instalações que compõem as dependências do TCU.
+
+
+§ 3º O exame, pelo Cosin, de aspectos que perpassem a segurança da informação e a continuidade de negócios deve ser realizado em reunião conjunta com o CSI, da qual emane deliberação única de ambos os Comitês.
+
+
+§ 4º Os projetos de construção de novos edifícios e de reformas de grande porte, assim compreendidas aquelas cujo valor estimado ultrapasse o previsto no art. 23, inciso I, alínea "c", da Lei nº 8.666, de 21 de junho de 1993, deverão ser submetidos pela Secretaria de Engenharia (Senge) ao Cosin para apreciação.
+
+
+Art. 3º Integram o Cosin:
+
+
+I - dirigente da Secretaria de Segurança e Serviços de Apoio (Sesap);
+
+
+II - dirigente da Senge;
+
+
+III - dirigente da Assessoria de Segurança da Informação e Governança de TI (Assig);
+
+
+IV - dirigente da Secretaria de Infraestrutura de Tecnologia da Informação (Setic);
+
+
+V - representante indicado pelo Gabinete do Presidente (Gabpres), bem como respectivo suplente;
+
+
+VI - dirigente da Secretaria-Geral Adjunta da Presidência (Adgepres);
+
+
+VII - dirigente da Secretaria de Planejamento, Métodos e Gestão de Soluções de TI para a Administração (Seadmin); e
+
+
+VIII - dois dirigentes da Secretaria-Geral de Controle Externo (Segecex) indicados pelo respectivo secretário-geral.
+
+
+§ 1º A coordenação do Cosin será exercida pelo titular da Sesap.
+
+
+§ 2º Nas ausências e impedimentos legais do titular da Sesap, a coordenação do Cosin caberá ao titular da Senge.
+
+
+§ 3º O coordenador do Cosin designará servidor para secretariar os seus trabalhos e elaborar as atas das suas reuniões.
+
+
+§ 4º Os membros a que se referem os incisos V e VIII deste artigo serão designados em ato da CCG.
+
+
+Art. 4º As reuniões do Cosin serão convocadas pelo respectivo coordenador, de ofício, ou a pedido de qualquer de seus membros.
+
+
+§ 1º Em função da matéria em pauta, o coordenador do Cosin poderá convidar dirigentes e servidores de outras unidades da Secretaria do Tribunal para participar das reuniões.
+
+
+
+§ 2º Qualquer membro do Cosin pode solicitar a inclusão de matéria em pauta, devendo o pedido ser encaminhado ao respectivo coordenador.
+
+
+§ 3º Quando a matéria objeto da deliberação não obtiver unanimidade dos membros do Cosin, a decisão será por maioria simples e a proposta será acompanhada dos pareceres divergentes.
+
+
+§ 4º Matéria que tiver inclusão em pauta a pedido de membro do Cosin somente poderá ser dela retirada sem debate de mérito quando assim deliberarem os membros ou a pedido de quem solicitou a inclusão.
+
+
+§ 5º Quando a matéria em pauta enquadrar-se nas condições previstas no § 3º do art. 2º desta Portaria, o coordenador do Cosin deve requerer a retirada de pauta e, em conjunto com o coordenador do CSI, convocar reunião conjunta de ambos os Comitês para deliberação.
+
+
+Art. 5º Para fins do disposto nesta Portaria, compete à Sesap:
+
+
+I - apresentar ao Cosin, no máximo a cada cinco anos, proposta de revisão da PSI/TCU, de modo a atualizá-la frente a novos requisitos corporativos; 
+
+
+II - prestar apoio técnico e administrativo às atividades do Cosin; e
+
+
+III - promover a divulgação de boas práticas em segurança física.
+
+
+Parágrafo único. A divulgação das boas práticas das demais dimensões que integram a PSI/TCU incumbe a cada unidade responsável pela respectiva dimensão, observadas as normas internas do TCU sobre a matéria.
+
+
+Art. 6º Fica incluído na Portaria-TCU nº 20, de 4 de janeiro de 2013, o parágrafo único do art. 2º, nos seguintes termos:
+
+
+"Art. 2º (...)
+
+
+Parágrafo único. O exame, pelo CSI, de aspectos que perpassem outras dimensões que integram a Política de Segurança Institucional deve ser realizado em reunião conjunta com o Cosin, da qual emane deliberação única de ambos os Comitês."
+
+
+Art. 7º Compete também ao Cosin a edição das demais normas referentes ao seu funcionamento.
+
+
+Art. 8º Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+Revogada
+Regulamenta o Comitê de Segurança Institucional (Cosin) no âmbito do Tribunal de Contas da União.
+
+

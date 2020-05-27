@@ -1,0 +1,341 @@
+Resolução
+229/2009
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+Considerando que o Tribunal gera, adquire ou absorve informações no exercício de suas competências, e que essas informações devem permanecer íntegras, disponíveis e, quando for o caso, com o sigilo resguardado;
+
+
+Considerando o disposto no art. 5º, incisos X, XI e XIV, da Constituição Federal, sobre a preservação dos direitos individuais; no Decreto nº 4.553, de 27 de dezembro de 2002, sobre a salvaguarda de dados, informações, documentos e materiais sigilosos de interesse da segurança da sociedade e do Estado, no âmbito da Administração Pública Federal; na Lei Complementar nº 105, de 10 de janeiro de 2001, sobre o sigilo das operações das instituições financeiras; e no art. 5º da Lei nº 11.111, de 5 de maio de 2005, sobre a atribuição do TCU e de outros órgãos de disciplinarem internamente a proteção das informações por eles produzidas;
+
+
+Considerando o disposto na Lei nº 8.443, de 16 de julho de 1992 - Lei Orgânica do TCU, no Regimento Interno e na Resolução TCU nº 191, de 21 de junho de 2006, no que concerne ao tratamento de informações sigilosas;
+
+
+Considerando o disposto nos itens 9.1.3 e 9.6 do Acórdão TCU nº 1.603 - Plenário, de 13 de agosto de 2008, que recomenda ao próprio Tribunal a adoção de medidas para o gerenciamento da segurança da informação, inclusive mediante normatização da classificação da informação, entre outras ações;
+
+
+Considerando o disposto no art. 10 da Resolução TCU nº 217, de 15 de outubro de 2008, sobre a necessidade de regulamentação da classificação das informações produzidas ou custodiadas pelo Tribunal, compatível com as necessidades de negócio e de manutenção da imagem do Tribunal;
+
+
+Considerando que a Portaria TCU nº 108, de 6 de maio de 2005, com redações posteriores, ao definir prazos de guarda dos documentos, já estabelece mecanismos de classificação das informações relativos ao prazo de retenção;
+
+
+Considerando a importância de o Tribunal instituir mecanismos necessários à plena implantação do processo eletrônico e propiciar requisitos de segurança que favoreçam o intercâmbio de informações entre o TCU, seus jurisdicionados e órgãos e entidades partícipes da rede de controle e de demais acordos de cooperação; e
+
+
+Considerando os estudos e os pareceres constantes do processo TC 015.158/2009-6, resolve:
+
+
+Art. 1º A classificação das informações produzidas ou custodiadas pelo Tribunal de Contas da União observará os critérios e os procedimentos de segurança estabelecidos nesta Resolução, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+Art. 2° Esta resolução integra a Política Corporativa de Segurança da Informação do Tribunal de Contas da União - PCSI/TCU, regulamentada pela Resolução TCU nº 217, de 2008.
+
+
+§ 1º As autoridades do Tribunal, os usuários internos e colaboradores estão sujeitos às diretrizes dispostas nesta norma.
+
+
+§ 2º O intercâmbio de informações e documentos entre o TCU e as entidades e os órgãos públicos com os quais o Tribunal mantenha acordo de cooperação ou instrumento congênere, disciplinado nos termos da Resolução TCU nº 223, de 18 de março de 2009, obedecerá, no que couber, à classificação disposta nesta resolução.
+
+
+§ 3º As informações recebidas de pessoa física ou jurídica externa ao Tribunal devem ser classificadas de acordo com os requisitos de segurança da informação pactuados com quem as forneceu.
+
+
+Art. 3º Para os efeitos desta Resolução, e em consonância com a PCSI/TCU, entende-se por:
+
+
+I – informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II – segurança da informação: proteção da informação contra ameaças para garantir a continuidade do negócio, minimizar os riscos e maximizar a eficiência e a efetividade das ações do negócio;
+
+
+III – confidencialidade: princípio de segurança da informação que garante que a informação seja acessada somente por pessoas ou processos que tenham autorização para tal;
+
+
+IV – criticidade: atributo da segurança da informação que define a importância da informação para a continuidade do negócio da instituição;
+
+
+V – disponibilidade: princípio de segurança da informação que garante que as informações estejam acessíveis às pessoas e aos processos autorizados, no momento requerido;
+
+
+VI – integridade: princípio de segurança da informação que garante a não-violação das informações com intuito de protegê-las contra alteração, gravação ou exclusão acidental ou proposital;
+
+
+VII – gestor da informação: unidade ou projeto do Tribunal que, no exercício de suas competências, produz informações ou obtém, de fonte externa ao Tribunal, informações de propriedade de pessoa física ou jurídica;
+
+
+VIII – custodiante: pessoa física, unidade ou projeto do Tribunal que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+IX – usuário interno: qualquer servidor ativo ou unidade do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+X – usuário colaborador: prestador de serviço terceirizado, estagiário ou qualquer outro colaborador do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal;
+
+
+XI – usuário externo: qualquer pessoa física ou jurídica que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal e que não seja caracterizada como usuário interno ou usuário colaborador;
+
+
+XII – rótulo: identificação física ou eletrônica da classificação atribuída à informação:
+
+
+XIII – ciclo de vida da informação: compreende etapas e eventos de produção, recebimento ou alteração, acesso, armazenamento, divulgação, transferência física ou em redes eletrônicas, cópia, impressão ou qualquer outra forma de reprodução, destruição e descarte;
+
+
+XIV – documento de natureza pública: documento relativo ou pertencente à coletividade, de uso comum a todos, universalmente conhecido ou sem restrição de acesso a qualquer pessoa; e
+
+
+XV – documento de domínio público: documento ou obra (artística, invenção, desenho industrial etc.) que pode ser livremente reproduzido, apresentado ou explorado sem necessidade de autorização ou de pagamento de direitos autorais, por esgotamento do prazo previsto em lei ou por outro motivo que tenha feito expirar a propriedade intelectual.
+
+
+Art. 4º Em consonância com a Resolução TCU nº 217, de 2008, as informações produzidas ou custodiadas pelo Tribunal são classificadas em função do seu grau de confidencialidade, criticidade, disponibilidade, integridade e prazo de retenção.
+
+
+§ 1º A classificação disposta por esta Resolução contempla critérios quanto à confidencialidade, disponibilidade e integridade das informações.
+
+
+§ 2º A regulamentação da classificação quanto ao prazo de retenção se dá por meio de ato do Presidente que dispõe sobre procedimentos e ações de gestão documental no TCU.
+
+
+§ 3º As informações produzidas ou custodiadas pelo Tribunal terão sua criticidade posteriormente definida, mediante ato do Presidente, em função da classificação dos processos de trabalho, relacionados às operações vitais ao negócio e de apoio, no âmbito da gestão da continuidade de negócios, prevista no § 1º do art. 9º da Resolução TCU nº 217, de 2008.
+
+
+Art. 5º Quanto à confidencialidade, as informações produzidas ou custodiadas pelo Tribunal classificam-se nos seguintes graus:
+
+
+I – públicas: informações que podem ser divulgadas a qualquer pessoa;
+
+
+II – restritas: informações que, por sua natureza, só podem ser divulgadas a grupo restrito de pessoas;
+
+
+III – sigilosas: informações que, em razão de lei, interesse público ou para a preservação de direitos individuais, devam ser de conhecimento reservado e, portanto, requeiram medidas especiais de segurança e salvaguarda.
+
+
+§ 1º Ao conjunto de informações que não possa sofrer fracionamento para fins de acesso deverá ser atribuído o grau de confidencialidade da sua parte cuja classificação seja a mais restritiva.
+
+
+§ 2º Todas as partes, seções, anexos, páginas, planilhas, gráficos, ou quaisquer outros componentes de informação não-pública, independentemente do suporte em que residam ou da forma pela qual sejam veiculados, devem ter seus graus de confidencialidade identificados por meio de rótulos padronizados, em consonância com as regras de identidade visual do TCU, ressalvados os limites de fracionamento indicados no parágrafo anterior.
+
+
+Art. 6º Observados os dispositivos legais, normativos e regimentais relativos ao sigilo, devem ser classificados como sigilosos:
+
+
+I - informações relativas a despesas caracterizadas, em lei, como de natureza reservada;
+
+
+II - informações protegidas por sigilo fiscal, bancário, comercial ou outros previstos em lei;
+
+
+III - matéria cujo sigilo seja considerado pelo Tribunal como imprescindível à segurança da sociedade e do Estado, ou quando a defesa da intimidade, vida privada, honra, imagem pessoal e/ou o interesse social o exigirem;
+
+
+IV - denúncias formuladas, no resguardo dos direitos e garantias individuais, até decisão definitiva sobre a matéria;
+
+
+V - processos administrativos disciplinares e sindicâncias;
+
+
+VI - dados funcionais e pessoais cuja divulgação comprometa a preservação da intimidade, da vida privada e de direitos individuais; e
+
+
+VII - outros assuntos considerados pelo gestor da informação como de natureza sigilosa.
+
+
+Parágrafo único. O Presidente, os Ministros e os Auditores podem indicar, orientar e autorizar, a qualquer tempo, nos processos e documentos de sua competência, tanto a classificação de determinada informação como sigilosa quanto o levantamento do sigilo e a conseqüente reclassificação da informação.
+
+
+Art. 7º Salvo manifestação contrária de autoridade competente, devem ser classificados no mínimo como restritos:
+
+
+I - informações relacionadas a assuntos de interesse exclusivo de uma ou mais unidades, projetos ou grupos de trabalho do Tribunal;
+
+
+II - documentação e outros dados não públicos referentes a sistemas corporativos de tecnologia da informação;
+
+
+III - peças da etapa de instrução de processo sem parecer conclusivo do titular da unidade técnica ou, por delegação de competência, de diretor da mesma unidade;
+
+
+IV - informações contidas em processo de controle externo ainda não apreciado ou julgado pelo Tribunal; e
+
+
+V - outros assuntos que, a juízo do gestor da informação, não possam ser objeto de divulgação ampla.
+
+
+Parágrafo único. É permitida a elaboração de extratos de documentos restritos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+
+Art. 8º Cabe ao gestor da informação classificá-la quanto à confidencialidade no momento em que a informação for produzida ou obtida, ressalvados os procedimentos dispostos no art. 16 desta Resolução.
+
+
+§ 1º No ato da classificação da informação, o gestor deve considerar a legislação em vigor, os controles administrativos e tecnológicos necessários ao tratamento da confidencialidade da informação, as necessidades de compartilhamento ou restrição de acesso, e os custos de proteção.
+
+
+§ 2º O gestor da informação, ao classificá-la como sigilosa ou restrita, deve indicar, necessariamente, o grupo de pessoas, projetos ou unidades do Tribunal com permissão para acessá-la.
+
+
+§ 3º As informações produzidas pelo Tribunal podem ser reclassificadas pelo gestor da informação ou pela autoridade competente, por iniciativa própria ou por provocação de qualquer usuário, cabendo comunicação imediata da alteração aos custodiantes da informação para correta rotulação.
+
+
+§ 4º Após manifestação sobre classificação da informação proferida pelo Presidente, pelos Ministros ou Auditores nos processos e documentos de sua competência, não cabe classificação diversa por parte do gestor da informação.
+
+
+Art. 9º Não deve ser conferido tratamento sigiloso ou restrito às informações contidas em documentos que, por força de lei, sejam de natureza pública ou de domínio público.
+
+
+Art. 10. As informações produzidas ou custodiadas pelo Tribunal são classificadas quanto à disponibilidade em função do impacto que a indisponibilidade da informação acarretaria à imagem ou às operações vitais ao negócio do Tribunal.
+
+
+Art. 11. O impacto da indisponibilidade das informações produzidas ou custodiadas pelo Tribunal classifica-se em:
+
+
+I - baixo: quando a indisponibilidade (ou interrupção de acesso) da informação não comprometer a imagem ou as operações vitais ao negócio do Tribunal, nem causar qualquer tipo de perda financeira ao TCU;
+
+
+II - médio: quando a indisponibilidade (ou interrupção de acesso) da informação comprometer a imagem, a tomada de decisões ou a produtividade das operações vitais ao negócio do Tribunal, mas sem interrompê-las, ou causar perda financeira ao TCU; e
+
+
+III - alto: quando a indisponibilidade (ou interrupção de acesso) da informação comprometer severamente a imagem ou as operações vitais ao negócio do Tribunal, causar perda financeira significativa ao TCU, ou impossibilitar o cumprimento de determinação legal.
+
+
+Art. 12. As informações produzidas ou custodiadas pelo Tribunal são classificadas quanto à integridade em função do impacto que a alteração, gravação ou exclusão indevida ou não autorizada da informação acarretaria à imagem ou às operações vitais ao negócio do Tribunal.
+
+
+Art. 13. O impacto da perda de integridade das informações produzidas ou custodiadas pelo Tribunal classifica-se em:
+
+
+I - baixo: quando a perda de integridade da informação não comprometer a imagem ou as operações vitais ao negócio do Tribunal, nem causar qualquer tipo de perda financeira ao TCU;
+
+
+II - médio: quando a perda de integridade da informação comprometer a imagem, a tomada de decisões ou a produtividade das operações vitais ao negócio do Tribunal, mas sem interrompê-las, ou causar perda financeira ao TCU; e
+
+
+III - alto: quando a perda de integridade da informação comprometer severamente a imagem ou as operações vitais ao negócio do Tribunal, causar perda financeira significativa ao TCU, ou impossibilitar o cumprimento de determinação legal.
+
+
+Art. 14. A classificação quanto à disponibilidade e à integridade das informações produzidas ou custodiadas pelo Tribunal, de acordo com disposto nesta resolução, será efetuada posteriormente mediante ato do Presidente.
+
+
+Art. 15. A cada grau de confidencialidade e a cada classificação de impacto, definidos nos termos desta resolução, correspondem um conjunto de controles administrativos e tecnológicos compatíveis com os danos à imagem ou às operações vitais ao negócio do Tribunal, decorrentes do uso ou do acesso não autorizado à informação, de sua indisponibilidade ou da perda de integridade.
+
+
+§ 1º O conjunto de controles administrativos e tecnológicos de que trata o caput será objeto de ato do Presidente e contemplará todas as etapas do ciclo de vida da informação produzida ou custodiada pelo Tribunal.
+
+
+§ 2º Todos os usuários sujeitos a esta norma devem observar os controles administrativos e tecnológicos necessários à garantia de confidencialidade, disponibilidade e integridade, de acordo com a classificação da informação a que tenham acesso ou que esteja sob sua guarda.
+
+
+§ 3º No caso de dúvida quanto aos controles administrativos e tecnológicos adequados para proteção da confidencialidade de determinada informação, por inexistência ou má visualização do respectivo rótulo, cabe ao usuário consultar o gestor da informação.
+
+
+§ 4º Os controles administrativos e tecnológicos necessários à garantia de confidencialidade a serem observados por usuários externos, quando autorizados pelo Tribunal a acessar informações que não sejam de domínio público, são expressos no termo de sigilo e responsabilidade de que trata o § 2º do art. 8º da Resolução TCU nº 217, de 2008.
+
+
+Art. 16. A classificação das informações a que se refere esta Resolução será realizada a partir da data a ser definida em ato do Presidente em função da implantação das funcionalidades tecnológicas cabíveis e das alterações normativas necessárias.
+
+
+§ 1º A identificação de informações como sigilosas deve ser realizada sempre que necessária, independentemente da data para início da classificação a que se refere o caput deste artigo.
+
+
+§ 2º Compete à Secretaria de Tecnologia da Informação adequar as soluções corporativas de tecnologia da informação aos requisitos definidos pelas unidades gestoras dos sistemas envolvidos e às informações técnicas indicadas pela Assessoria de Segurança da Informação e Governança de TI.
+
+
+§ 3º As informações produzidas ou recebidas antes da publicação desta resolução podem ser classificadas e, quando necessário, devidamente rotuladas, observando-se os prazos e os procedimentos a serem estabelecidos em ato do Presidente.
+
+
+§ 4º A classificação a que se refere o parágrafo anterior pode ser realizada gradualmente nos termos definidos em ato do Presidente.
+
+
+Art. 17. Fica alterado o art. 9º da Resolução TCU nº 191, de 2006, acrescentando-lhe os §§ 3°, 4°, 5º, 6º, 7º e 8º, que passa a contar com a seguinte redação:
+
+
+‘Art. 9º (...)
+
+
+(...)
+
+
+§ 3º Apenas pessoas autorizadas podem extrair cópias de quaisquer documentos (peças dos autos), enquanto não sejam definitivamente apreciados pelo Tribunal.
+
+
+§ 4º A cópia prevista no parágrafo anterior deve receber a mesma classificação e o mesmo rótulo do documento original.
+
+
+§ 5º Somente poderão ser reproduzidas cópias de relatórios de auditoria ou processos de outra natureza, bem como pareceres, votos e acórdãos de caráter sigiloso, se adotadas medidas de controle na respectiva requisição, tais como: número e natureza do processo, autoridade requisitante, datas da solicitação e da entrega das respectivas cópias, identificando-as, anotando-se, ainda, o nome do servidor que tirou as cópias e a quem foram entregues, além de outras que se tornarem necessárias.
+
+
+§ 6º É de responsabilidade do próprio servidor a guarda e/ou eliminação de eventuais rascunhos que o subsidiaram na elaboração do trabalho por ele produzido.
+
+
+§ 7º Ficarão responsáveis pelo sigilo de matérias em tramitação no Tribunal todas as pessoas que manusearam o processo, que deverão ter seus nomes rigorosamente registrados na movimentação do processo.
+
+
+§ 8º Observada, no que couber, a sistemática dos parágrafos anteriores, os relatórios, pareceres, votos e acórdãos relativos a processos sigilosos a serem submetidos à apreciação do Plenário e Câmaras deverão ser encaminhados com rótulo de ‘Sigiloso’, ao titular da Secretaria das Sessões ou a servidor por este designado, de forma que o sigilo de seu conteúdo seja mantido para pessoas não autorizadas.’
+
+
+Art. 18. Fica alterado o art. 97 da Resolução TCU nº 191, de 2006, acrescentando-lhe o § 7º, que passa a contar com a seguinte redação:
+
+
+‘Art. 97 (...)
+
+
+(...)
+
+
+§ 7º A parte que desejar ter acesso ao processo, para efeito de vista e/ou cópias de elementos, uma vez identificada e credenciada, deverá ser habilitada a compulsar elementos processuais que, no entender do Relator, não ofereçam comprometimento ao princípio consagrado no inciso X do art. 5º da Constituição Federal, relativo à garantia da intimidade e da vida privada dos cidadãos, ou à preservação do sigilo sob a tutela do TCU.’
+
+
+Art.19. Fica alterado o inciso III, do art. 3º da Resolução TCU nº 217, de 2008, que passa a contar com a seguinte redação:
+
+
+‘Art. 3º (...)
+
+
+(...)
+
+
+III - gestor da informação: unidade ou projeto do Tribunal que, no exercício de suas competências, produz informações ou obtém, de fonte externa ao Tribunal, informações de propriedade de pessoa física ou jurídica;’
+
+
+Art. 20. Fica alterado o inciso I do art. 2º da Resolução TCU nº 223, de 2009, que passa a contar com a seguinte redação:
+
+
+‘Art. 2º (...)
+
+
+I - pela Secretaria-Geral de Controle Externo - Segecex, diretamente, no caso de informações e documentos identificados como sigilosos, após prévia autorização do Presidente;’
+
+
+Art. 21. Fica o Presidente autorizado a expedir os demais atos necessários à regulamentação desta Resolução.
+
+
+Art. 22. Fica revogada a Resolução TCU nº 91, de 25 de junho de 1997.
+
+
+Art. 23. Esta Resolução entra em vigor na data de publicação.
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 11 de novembro de 2009.
+
+
+UBIRATAN AGUIAR
+
+
+Presidente
+
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre a classificação das informações produzidas ou custodiadas pelo Tribunal de Contas da União, altera as Resoluções TCU nº 191, de 21 de junho de 2006, nº 217, de 15 de outubro de 2008, e nº 223, de 18 de março de 2009, e revoga a Resolução TCU nº 91, de 25 de junho de 1997.
+
+

@@ -1,0 +1,1396 @@
+Portaria
+292/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Sistematização da Jurisprudência do TCU  SISJUR, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Wallace Campanha Seifert, matrícula nº 5664-2, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 2001, alterada pela Portaria-TCU nº 162, de 2005, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+GUILHERME PALMEIRA
+
+
+Presidente
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+I - Nome
+
+II - Matrícula
+
+III - E-mail
+
+IV - Ramal
+
+
+
+Wallace Campanha Seifert
+
+5664-2
+
+wallacecs@tcu.gov.br
+
+7168V - Função do Gestor
+
+VI - Origem da FC
+
+
+
+ VII - Gerente
+
+
+
+XVIII - Coordenador
+
+
+
+ IX - Líder
+
+
+
+SegecexX - Nome do Substituto Eventual
+
+XI - Matrícula
+
+XII - E-mail
+
+XIII - Ramal
+
+
+
+Elisa Bruno de Araújo
+
+2462-7
+
+elisaab@tcu.gov.br
+
+7592XIV - Local / Telefone
+
+
+
+Ed. sede, sala 131, ramal 7168. 
+
+
+
+2. Identificação do projeto
+
+XV - Nome do projeto
+
+
+
+PROJETO SISJUR – Sistematização da Jurisprudência do TCU.XVI - Período de Realização
+
+XVII - Unidade Patrocinadora
+
+
+
+23/10/2006 a 14/12/2007
+
+Secretaria Geral das Sessões - SGS
+
+
+3. Vinculação estratégica
+XVIII - Plano Estratégico do TCU (Portaria – TCU nº 2, de 5 de janeiro de 2006).
+
+
+
+a)
+
+Objetivo 2 : Ampliar a divulgação de resultados da gestão pública e das ações de controle. 
+
+Iniciativa 4: Ampliar e facilitar o acesso e a compreensão às informações sobre gestão pública.
+
+b)
+
+Objetivo 17: Otimizar a utilização do conhecimento organizacional.
+
+Iniciativa 16: Estruturar e integrar práticas de gestão do conhecimentoXIX - Plano de Diretrizes do TCU – biênio 2005-2006 (Portaria – TCU nº 28, de 14 de janeiro de 2005)
+
+
+
+a)
+
+Diretriz 6 – Ampliar a contribuição do TCU para melhoria da prestação dos serviços públicos federais. 
+
+b)
+
+Diretriz 7 – Melhorar o nível de conhecimento do TCU junto à sociedade.XX - Plano Diretor da SGS
+
+
+
+a)
+
+Meta 1 – Aumentar a confiabilidade e celeridade do registro e da divulgação das deliberações e atos normativos do TCU.
+
+b)
+
+Meta 2 – Fortalecer o relacionamento com a sociedade, Congresso Nacional, órgãos públicos e a mídia.
+
+
+
+4. Problema / oportunidade
+
+XXI - Descrição do Problema/ Oportunidade
+
+
+
+a)       
+
+A jurisprudência é o principal produto do Tribunal de Contas da União. É a partir dela que os jurisdicionados se pautam na condução de suas gestões, tanto assim que cerca de 95% dos acessos feitos ao Portal TCU são direcionados para a coleta de jurisprudência. Além disso, é a jurisprudência a principal fonte para o desenvolvimento dos trabalhos das unidades técnicas desta Corte de Contas. Ocorre que, atualmente, inexiste uma ferramenta que consolide essa jurisprudência, o que dificulta sobremaneira, e em certos casos até inviabiliza, o conhecimento da jurisprudência dominante ou mais atual sobre determinado tema, causando um grande prejuízo decorrente da falta dessa ciência.
+
+b)      
+
+Em virtude da ausência da consolidação da jurisprudência do TCU, hoje o corpo técnico gasta elevado tempo alimentando bancos de jurisprudência próprios das unidades, como é o caso da Serur, Sefid, Sefip, entre outros, e em casos mais graves, essas informações estão concentradas em determinados servidores, que têm essa iniciativa pessoal, com o intuito de facilitar a realização de seus trabalhos. Considerando a necessidade de agilizar os processos de trabalho neste Tribunal, essa questão evidencia um gasto substancial de recursos humanos, indevidamente direcionados, não à instrução de processos, mas à busca de ferramentas de trabalho. Há que se observar que esse gasto apontado não é revertido em favor da instituição, uma vez que as informações coligidas pelo servidor ou unidade ficam restritas àquele universo, não beneficiando as demais unidades técnicas desta Corte. Isso gera uma repetição e concentração de esforços que não seriam despendidos com a sistematização da jurisprudência em um local comum e de fácil acesso, via Portal TCU, democratizando a informação e garantindo o domínio desse conhecimento de forma segura.
+
+c)       
+
+A sistematização da jurisprudência do TCU possibilita, ainda, a atualização da base de súmulas, que traz entendimentos consolidados,  e não sofre qualquer incremento desde fevereiro de 1998, quando se publicou a última súmula do Tribunal. As súmulas têm o poder de otimizar o entendimento jurisprudencial, simplificando consultas e o trabalho de todos os operadores do Direito, de dentro e de fora do Tribunal. Além disso, a atribuição de entendimento sumulado tem o condão de agilizar a instrução e tramitação dos processos das áreas.
+
+
+
+
+
+
+
+XXII - Evolução do Quadro
+
+
+
+a)       
+
+Durante um longo período, as ementas de jurisprudência foram elaboradas a partir de técnicas em que não se privilegiavam os entendimentos do Tribunal, comprometendo, em certa medida, a otimização da pesquisa textual. Embora tenha havido, ao longo dos anos, preocupação em identificar os entendimentos predominantes do Tribunal, tal compilação mantém-se  no  âmbito restrito da Dijur sem a devida sistematização das informações. Também, há muito que não se não se faz uma revisão nas súmulas do TCU. 
+
+b)      
+
+Há pouco tempo, a Diretoria Técnica de Normas e Jurisprudência passou por uma importante reestruturação, por meio da qual buscou adequar seus procedimentos aos adotados por outros Tribunais produtores de jurisprudência , preocupando-se, ainda, com a otimização de seus  trabalhos. Os ementários passaram, então, a ser elaborados com uma nova metodologia, em consonância com os produzidos pelo Poder Judiciário, buscando, além de outras vantagens, a facilidade na recuperação de informações por parte dos usuários. 
+
+c)       
+
+Recentemente, os Gabinetes passaram eles próprios a elaborar as ementas, cabendo à DIJUR a orientação e revisão desse trabalho. Desenvolveu-se, também, um piloto de consulta sistematizada de jurisprudência voltado para a área de pessoal. 
+
+d)      
+
+Apesar dos recentes esforços, ainda há muito o que fazer. É preciso aprimorar os instrumentos de recuperação de informações no banco de dados, ainda hoje calcados exclusivamente na consulta textual, buscar os entendimentos recentes nas diversas áreas de atuação do TCU, bem como incrementar a base de súmulas. É também necessário que modelos de instrução sejam disponibilizados aos Analistas do Tribunal. 
+
+e)       
+
+Já existe uma ação piloto, desenvolvida no âmbito da Dijur, que retrata o produto final do presente projeto. Trata-se de uma base de pessoal pronta para ser publicada no portal do TCU, mas que necessita ainda de uma revisão final. Por ora, a base está disponível apenas internamente, para testes.
+
+
+
+5. Escopo do projeto
+
+XXIII - 5.1. Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema) 
+
+
+
+Sistematizar a jurisprudência do TCU, evidenciando seus entendimentos dominantes e consolidados por área, tornando-a disponível aos usuários internos e externos. 
+
+
+5.2 Meta – Indicador – Produto – Cliente
+XXIV - META
+
+XXV - Indicador
+
+XXVI - Produto
+
+XXVII - Cliente
+
+XXVIII - Objetivo específico
+
+XXIX - Quanto
+
+XXX - Data de Término
+
+
+
+a)
+
+Elaborar e publicar entendimentos da área  de LICITAÇÕES E CONTRATOS, identificando as questões passíveis de atualização da base de súmulas, bem como divergências jurisprudenciais.
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+02/02/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16/02/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+02/02/07
+
+1) Publicação dos entendimentos de decisão coletados na base de jurisprudência da Dijur e dos acórdãos julgados nos últimos doze meses e acórdãos paradigmáticos. 
+
+2) Análise das súmulas disponíveis e dos entendimentos passíveis de serem sumulados.
+
+3) Relatório de divergência aceito.
+
+1)Entendimentos da área de LICITAÇÕES E CONTRATOS publicados no portal do TCU. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2) Relatório fundamentado de sugestão de súmulas. 
+
+ 
+
+ 
+
+ 
+
+3) Relatório de divergências jurisprudenciais detectadas. 
+
+SGS
+
+SEGECEX
+
+
+
+
+
+
+
+XXXI - META
+
+XXXII - Indicador
+
+XXXIII - Produto
+
+XXXIV - Cliente
+
+XXXV - Objetivo específico
+
+XXXVI - Quanto
+
+XXXVII - Data de Término
+
+
+
+
+
+
+
+
+
+b)
+
+Consolidar e publicar instruções na área de LICITAÇÕES E CONTRATOS que possam servir de modelo.
+
+100%
+
+13/04/07
+
+Instruções modelo  aceitas.
+
+ 
+
+Instruções modelo disponíveis, consolidadas por assunto, na área de LICITAÇÕES E CONTRATOS publicadas.
+
+SEGECEX
+
+c)
+
+Elaborar e publicar entendimentos da área  de CONVÊNIOS, identificando as questões passíveis de atualização da base de súmulas, bem como divergências jurisprudenciais.
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+23/04/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30/04/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23/04/07
+
+1) Publicação dos entendimentos de decisão coletados na base de jurisprudência da Dijur e dos acórdãos julgados nos últimos doze meses e acórdãos paradigmáticos.
+
+2) Análise das súmulas disponíveis e dos entendimentos passíveis de serem sumulados.
+
+3) Relatório de divergência aceito
+
+1)Entendimentos da área de CONVÊNIOS publicados no portal do TCU. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2) Relatório fundamentado de sugestão de súmulas. 
+
+ 
+
+ 
+
+ 
+
+3) Relatório de divergências jurisprudenciais detectadas. 
+
+SGS
+
+SEGECEX
+
+d)
+
+Consolidar e publicar instruções na área de CONVÊNIOS que possam servir de modelo.
+
+100%
+
+14/06/07
+
+Instruções modelo  aceitas.
+
+ 
+
+Instruções modelo disponíveis, consolidadas por assunto, na área de CONVÊNIOS publicadas. 
+
+SEGECEX
+
+e)
+
+Estabelecer metodologia (procedimento-padrão) para atualização e catalogação de dados e súmulas e identificação de divergências.
+
+1
+
+11/07/07
+
+Manual de procedimentos aceito. 
+
+Manual de procedimentos entregue. 
+
+SGS
+
+f)
+
+Capacitar servidores da Dijur para atualização e catalogação de dados e súmulas e identificação de divergências.
+
+2
+
+20/07/07
+
+Número de servidores capacitados 
+
+Pessoal treinado no  Manual de procedimentos.
+
+SGS
+
+
+
+XXXVIII - META
+
+XXXIX - Indicador
+
+XL - Produto
+
+XLI - Cliente
+
+XLII - Objetivo específico
+
+XLIII - Quanto
+
+XLIV - Data de Término
+
+
+
+g)
+
+Elaborar e publicar entendimentos da área PROCESSUAL, identificando as questões passíveis de atualização da base de súmulas, bem como divergências jurisprudenciais.
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+30/07/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+06/08/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30/07/07
+
+1) Publicação dos entendimentos de decisão coletados na base de jurisprudência da Dijur e dos acórdãos julgados nos últimos doze meses e acórdãos paradigmáticos. 
+
+ 
+
+ 
+
+ 
+
+2) Análise das súmulas disponíveis e dos entendimentos passíveis de serem sumulados.
+
+3) Relatório de divergência aceito
+
+1)Entendimentos da área PROCESSUAL publicados no portal do TCU. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2) Relatório fundamentado de sugestão de súmulas. 
+
+ 
+
+ 
+
+ 
+
+3) Relatório de divergências jurisprudenciais detectadas. 
+
+SGS
+
+SEGECEX
+
+h)
+
+Consolidar e publicar instruções na área de PROCESSUAL que possam servir de modelo.
+
+100%
+
+27/08/07
+
+Instruções modelo  aceitas.
+
+Instruções modelo disponíveis, consolidadas por assunto, na área de PROCESSUAL publicadas. 
+
+SEGECEX
+
+i)
+
+Elaborar e publicar entendimentos da área  de OBRAS, identificando as questões passíveis de atualização da base de súmulas, bem como divergências jurisprudenciais.
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+08/10/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16/10/07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+08/10/07
+
+1) Publicação dos entendimentos de decisão coletados na base de jurisprudência da Dijur e dos acórdãos julgados nos últimos doze meses e acórdãos paradigmáticos. 
+
+2) Análise das súmulas disponíveis e dos entendimentos passíveis de serem sumulados.
+
+3) Relatório de divergência aceito
+
+1)Entendimentos da área de OBRAS publicados no portal do TCU. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2) Relatório fundamentado de sugestão de súmulas. 
+
+ 
+
+ 
+
+ 
+
+3) Relatório de divergências jurisprudenciais detectadas. 
+
+SGS
+
+SEGECEX
+
+
+
+
+
+5.3 Benefícios (impacto esperado dos produtos do projeto)
+XLV - META
+
+XLVI - Indicador
+
+XLVII - Produto
+
+XLVIII - Cliente
+
+XLIX - Objetivo específico
+
+L - Quanto
+
+LI - Data de Término
+
+
+
+j)
+
+Consolidar e publicar instruções na área de OBRAS que possam servir de modelo.
+
+100%
+
+30/11/07
+
+Instruções modelo  aceitas.
+
+Instruções modelo disponíveis, consolidadas por assunto, na área de OBRAS publicadas. 
+
+SEGECEX
+
+k)
+
+Divulgar a jurisprudência sistematizada por áreas do TCU, instruções modelo e demais produtos gerados pelo projeto aos usuários internos e externos
+
+100%
+
+14/12/07
+
+Plano de divulgação dos produtos aceito e implementado.
+
+Campanha de divulgação dos produtos realizada.
+
+SGS
+
+SEGECEX
+
+
+
+5.4 Não escopo (o que o projeto não vai fazer)
+
+
+a)       
+
+Melhoria da divulgação, da transparência e da compreensão das deliberações do TCU, por me,io da disponibilização de ferramenta de consolidação de temas de jurisprudência previamente selecionados. 
+
+b)      
+
+Otimização da consulta jurisprudencial, proporcionando uma recuperação mais precisa de informações, por meio da utilização da nova ferramenta de consolidação da jurisprudência apoiando os processos de trabalho desenvolvidos pela Segecex.
+
+c)       
+
+Ganho de produtividade, desde a unidade técnica até a elaboração dos votos nos gabinetes, por meio da sugestão de instruções-padrões em local comum e de fácil acesso.
+
+d)      
+
+Democratização da informação e garantia do domínio do conhecimento jurisprudencial de forma segura.
+
+e)       
+
+Atualização da base de súmulas do TCU, por meio da identificação mais precisa de assuntos que mereçam ser sumulados.
+
+f)        
+
+Exposição de eventuais divergências jurisprudenciais, com possibilidade de posterior uniformização de entendimentos.
+
+g)      
+
+Maior facilidade na identificação de súmulas que mereçam ser revogadas.
+
+h)      
+
+Diminuição na demanda por informações nas unidades técnicas, já que os entendimentos passariam a estar disponíveis de forma estruturada e de fácil acesso.
+
+i)        
+
+Eliminação dos esforços isolados de sistematização desenvolvidos no âmbito das unidades técnicas.
+
+j)        
+
+Melhoria no atendimento a demanda do público externo sobre conhecimento do entendimento do TCU nas diversas áreas de atuação.
+
+
+
+
+
+
+
+a)
+
+Elaboração do sumário dos acórdãos, que continua a cargo dos Gabinetes, e a alimentação dessas informações na base de jurisprudência.
+
+a)       
+
+Atualização das páginas de jurisprudência sistematizada publicadas, que ficará a cargo da Dijur. 
+
+b)      
+
+Atualização da base de súmula e o acompanhamento das divergências jurisprudenciais, que ficará a cargo da Dijur.
+
+c)       
+
+Melhoria nas ferramentas de consulta textual, a cargo da Setec.
+
+d)      
+
+Instrução de processo para aprovação ou cancelamento de súmulas, que ficará a cargo da Dijur.
+
+e)       
+
+Atualização das instruções-modelo, que ficará a cargo da Segecex.
+
+f)        
+
+Continuidade da campanha de sensibilização.
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+LII - Nome da Parte Envolvida
+
+LIII - patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+LIV - Item Negociado ou a Negociar com as Partes Envolvidas
+
+
+
+a)
+
+SGS
+
+Patrocinadora do projeto.
+
+b)
+
+Segecex
+
+Validação prévia do material a ser publicado.
+
+Fornecimento de especialistas nas áreas do projeto.
+
+Fornecimento de servidores para colaborar integralmente no Projeto.
+
+c)
+
+Aspar
+
+Assessoramento técnico na área de LICITAÇÃO e fornecimento de especialista.
+
+d)
+
+Serur
+
+Assessoramento técnico em todas as áreas e fornecimento de especialistas.
+
+e)
+
+Serec
+
+Fornecimento de servidores para integrar equipe de apoio e para concepção e produção de campanha de divulgação.
+
+f)
+
+Setec
+
+Responsável pelas soluções de TI, em especial, a estruturação da informação para publicação das páginas e subpáginas no novo Portal do TCU.
+
+g)
+
+Secob
+
+Assessoramento técnico na área de OBRAS e fornecimento de especialistas.
+
+a)       
+
+Adfis
+
+Assessoramento técnico na área de CONVÊNIOS e LICITAÇÃO e fornecimento de especialistas.
+
+b)      
+
+Projeto Arquitetura da Informação.
+
+Verificação da taxonomia utilizada e estruturação da informação para publicação das páginas e subpáginas no novo Portal do TCU 
+
+c)       
+
+Adcon
+
+Assessoramento técnico na consolidação de instrução modelo em todas as áreas e fornecimento de especialistas. 
+
+
+
+
+
+LV - Risco
+
+LVI - Impacto
+
+LVII - Probabilidade
+
+LVIII - de Ocorrer
+
+LIX - Ação para
+
+LX - (E) Evitar ocorrência do risco
+
+LXI - (M) Mitigar ocorrência do risco
+
+LXII - (R) Reduzir impacto do risco ocorrido
+
+LXIII - Responsável
+
+LXIV - pela Ação
+
+
+
+a)
+
+Dificuldade na liberação de servidores para compor a equipe do projeto.
+
+Médio
+
+Baixa 
+
+(E) negociação prévia com as unidades cedentes de servidores
+
+Coordenador
+
+a)       
+
+Dificuldade de obtenção da avaliação das instruções-padrão propostas, bem como sugestões de melhoria, junto às unidades técnicas da SEGECEX.
+
+Médio
+
+Baixa
+
+(M) Salientar junto aos titulares das unidades técnicas a importância da participação na avaliação das instruções-padrão sugeridas.
+
+(M) Acordar com antecedência a disponibilidade da(s) unidade(s) técnica(s) para colher sugestões e validar a instrução-padrão.
+
+Coordenador
+
+c)
+
+Dificuldade da Setec em implementar solução de TI no prazo adequado as necessidades do projeto.
+
+Alto
+
+Média
+
+(M) Negociar com a Setec prazos específicos.
+
+(M) Acompanhar as atividades de implementação das soluções
+
+Coordenador
+
+
+
+
+
+8. Relação com outros projetos
+
+
+
+d)
+
+Resistência à mudança de sistemática de redação padronizada de sumários de acórdãos, que dificultem a identificação dos entendimentos.
+
+Médio
+
+Média
+
+(M) Realizar reuniões com os gabinetes de sensibilização para demonstrar os benefícios que a nova sistemática poderá trazer na recuperação de informações.
+
+ 
+
+Coordenador
+
+e)
+
+Nos benefícios esperados do projeto pela baixa utilização da pesquisa por entendimentos sistematizados e das instruções-padrão.
+
+Médio
+
+Baixa
+
+(M) Realizar amplo processo de divulgação junto às unidades do Tribunal.
+
+(M) Realizar reunião demonstrativa da nova sistemática de pesquisa de jurisprudência com todas as unidades do Tribunal
+
+(M) Tornar atrativa a consulta de entendimentos no Portal do TCU 
+
+(M) Implementar ações de divulgação associadas ao lançamento de cada produto do projeto.
+
+Coordenador
+
+
+
+9. Equipe do projeto
+
+LXV - Projetos Predecessores
+
+LXVI - Projetos Conexos
+
+LXVII - Projetos Sucessores
+
+
+
+Não há
+
+Arquitetura da Informação
+
+Atuação no que se refere às áreas remanescentes, não contempladas no presente projeto. 
+
+
+
+
+
+LXVIII - Nome
+
+LXIX - Matrícula
+
+LXX - Lotação
+
+LXXI - Período
+
+LXXII - Dedicação Integral/ Parcial / Por Atividade
+
+
+
+1.
+
+Wallace Campanha Seifert
+
+5664-2
+
+SGS/Dijur
+
+23/10/2006 a 14/12/07
+
+Integral 
+
+Elisa Bruno de Araújo
+
+2462-7
+
+SGS/Dijur
+
+23/10/2006 a 14/12/07
+
+Integral  
+
+Luciana Miranda Sarmet Paniago
+
+1089-8
+
+SGS/Dijur
+
+23/10/2006 a 14/12/07
+
+Parcial 
+
+Marcelo de Oliveira Vianna 
+
+2185-8
+
+SGS/Sepred
+
+23/10/2006 a 14/12/07
+
+Parcial 
+
+Edison Alves dos Santos
+
+1687-0
+
+SGS/Seain
+
+23/10/2006 a 14/12/07
+
+Parcial 
+
+Leila Fonseca dos Santos V Ferreira
+
+945-8
+
+Aspar
+
+23/10/2006 a 02/02/07
+
+Por atividade 
+
+Sérgio da Silva Mendes
+
+2857-6
+
+Serur
+
+23/10/2006 a 27/08/07
+
+Por atividade 
+
+Maria Inês Ribeiro Lins 
+
+634-3
+
+Serur
+
+23/10/2006 a 13/04/07
+
+Por atividade 
+
+Maycon Ronald Hennenberg 
+
+5077-6
+
+Serur
+
+23/10/2006 a 30/11/07
+
+Por atividade 
+
+Roberto Leal de Carvalho 
+
+6476-9
+
+Serur
+
+23/10/2006 a 30/11/07
+
+Por atividade 
+
+Pedro Ricardo Almeida e Castro
+
+4248-0
+
+Secob
+
+23/10/2006 a 30/11/07
+
+Por atividade 
+
+Carlos Alberto Sampaio de Freitas
+
+2806-1
+
+Adfis
+
+23/10/2006 a 14/06/07
+
+Por atividade 
+
+Carlos Cesar Modena
+
+2678-6
+
+Adfis
+
+23/10/2006 a 14/06/07
+
+Por atividade 
+
+Alexandre França de Araújo
+
+3382-0
+
+Serec
+
+23/10/2006 a 14/12/07
+
+Por atividade 
+
+Elisângela Lima Silva  
+
+5063-6
+
+3ª Secex
+
+13/11/2006 a 14/12/07
+
+Integral 
+
+Vander Pereira Rodrigues  
+
+5691-0
+
+3ª Secex
+
+23/10/2006 a 14/12/07
+
+Integral 
+
+Eduardo Bizarro Pereira Porto
+
+6591-9
+
+Seseg
+
+23/10/2006 a 14/12/07
+
+Integral
+
+
+
+
+10. Custos adicionais estimados
+
+
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+11. Outros recursos necessários
+
+LXXIII - Recurso
+
+LXXIV - Valor estimado
+
+LXXV - Data inicial de liberação do recurso
+
+
+
+a)
+
+ 
+
+ 
+
+ 
+
+a)       
+
+ 
+
+ 
+
+ 
+
+b)      
+
+ 
+
+ 
+
+ LXXVI - Total de custos estimados
+
+
+
+ 
+
+ 
+
+
+
+12. Finalização
+
+LXXVII - Recurso
+
+LXXVIII - Fornecedor
+
+
+
+a)       
+
+ 
+
+ 
+
+b)      
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Sistematização da Jurisprudência do TCU - SISJUR e designa seu gestor.
+
+

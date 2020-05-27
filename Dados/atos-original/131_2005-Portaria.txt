@@ -1,0 +1,772 @@
+Portaria
+131/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Atendimento ao Congresso Nacional, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo MÁRCIO LEMOS SAID, matrícula nº 5662-6, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+Identificação do Gestor do Projeto	
+
+
+Nome do Gestor
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Márcio Lemos Said
+
+5662-6
+
+marciols@tcu.gov.br
+
+7345
+
+Tipo de GestorOrigem da FC
+
+
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Segecex
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Cíntia Zaira Messias de Lima
+
+5044-0
+
+cintiazm@tcu.gov.br
+
+7887
+
+Local [TCU1]
+
+Seplan
+
+
+Identificação do Projeto
+
+
+Nome do projeto
+
+Atendimento ao Congresso Nacional
+
+Período de Realização
+
+Unidade Patrocinadora
+
+27/06/2005 a 25/11/2005
+
+Presidência
+
+
+Vinculação Estratégica
+
+
+3.1.
+
+Plano Estratégico do TCU (Portaria – TCU nº 59, de 20 de janeiro de 2003).
+
+ 
+
+Objetivo estratégico 1: cumprir com tempestividade e qualidade as competências do TCU.
+
+Estratégia 9: aperfeiçoar os processos de trabalho do TCU.
+
+ 
+
+Objetivo estratégico 2: fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia.
+
+Estratégia 5: gerenciar a imagem institucional e o Diálogo Público.
+
+3.2.
+
+Plano de Diretrizes do TCU – biênio 2005-2006 (Portaria – TCU nº 28, de 14 de janeiro de 2005)
+
+ 
+
+Diretriz 1: aprimorar a tempestividade e a qualidade no atendimento às demandas do Congresso Nacional.
+
+Medida 1.1: definir a classificação e os critérios de atendimento às demandas do Congresso Nacional.
+
+Medida 1.2: implantar procedimento de recepção e tratamento das demandas do Congresso Nacional e respectivo encaminhamento das respostas.
+
+Medida 1.3: implementar processo de negociação das expectativas do Congresso Nacional.
+
+Medida 1.4: instituir procedimento que informe ao Congresso Nacional o andamento dos processos de seu interesse.
+
+Medida 1.5: sistematizar o formato das respostas às demandas do Congresso Nacional.
+
+Medida 1.6: priorizar os processos de Solicitação do Congresso Nacional.
+
+3.3.
+
+Plano Diretor da Segecex - biênio 2005-2006 (Portaria - Segecex nº 04, de 14 de março de 2005)[TCU2]
+
+ 
+
+Diretriz 1: aprimorar a tempestividade e a qualidade no atendimento às demandas do Congresso Nacional.
+
+Medida 1.1: priorizar os processos de Solicitação do Congresso Nacional, estabelecendo, para cada processo, o tempo máximo de instrução de mérito pela unidade técnica e considerando os relatórios de acompanhamento desses processos elaborados pela Aspar
+
+Medida 1.2: implantar, em conjunto com a Aspar, procedimento de recepção, tratamento e classificação das demandas do Congresso Nacional, do formato das respostas e do respectivo acompanhamento.
+
+Medida 1.3: implementar, em conjunto com a Presidência, Relatores e Aspar, processo de negociação das expectativas do Congresso Nacional.
+
+
+
+
+
+
+
+3.4.
+
+Plano Diretor da Aspar – biênio 2005-2006 (Portaria - Aspar nº 01, de 28 de março de 2005)[TCU3]
+
+ 
+
+ 
+
+ 
+
+Meta 1: colaborar para aprimorar a tempestividade e a qualidade no atendimento às demandas do Congresso Nacional.
+
+Medida 1.1: definir a classificação e os critérios de atendimento às demandas do Congresso Nacional.
+
+Medida 1.2: implantar procedimento de recepção e tratamento das demandas do Congresso Nacional e respectivo encaminhamento das respostas.
+
+Medida 1.3: instituir procedimento que informe ao Congresso Nacional o andamento dos processos de seu interesse.
+
+Medida 1.4: sistematizar o formato das respostas às demandas do Congresso Nacional.
+
+Medida 1.5: implementar processo de negociação das expectativas do Congresso Nacional.
+
+Medida 1.6: contribuir para a priorização dos processos de Solicitação do Congresso Nacional a cargo da Presidência, dos Gabinetes e da Segecex, por meio da elaboração de relatórios que apontem todos os processos autuados até 2004, ainda pendentes de atendimento final pelo Tribunal.
+
+
+Problema / oportunidade
+
+
+Descrição do problema ou da oportunidade 
+
+ 
+
+a)
+
+O principal problema a afetar o relacionamento entre o Tribunal e o Congresso Nacional diz respeito à intempestividade no atendimento às demandas daquela casa. Esse fato decorre, basicamente, de deficiências relacionadas à interação entre esses órgãos e, internamente, a procedimentos de recepção, de acompanhamento e de resposta às Solicitações do Congresso Nacional (SCN).
+
+Os problemas a seguir relacionados dizem respeito à identificação das SCN no TCU.Em muitos casos, as SCN não são identificadas adequadamente quando da sua entrada no Tribunal nem tratadas de maneira uniforme. O Capítulo VIII da Resolução 136/2000, que trata das “Solicitações ao Tribunal”, o faz de forma genérica para que suas disposições tenham alcance a todos os tipos de solicitação. Assim, a redação dada no caput do art. 42, combinado com o art. 45, permite o entendimento de que as solicitações de informações, em geral, não precisam ser autuadas como processo. Ocorre que o parágrafo único do art. 42 exclui desse âmbito as SCN.Autuação de processos de SCN com informações incorretas ou incompletas, o que dificulta o acompanhamento e adequada resposta ao Congresso Nacional. São problemas relacionados a erros de classificação do tipo de processo, a especificação do colegiado do Parlamento interessado no processo, a falta de clareza quanto ao assunto do processo e a omissão de informações importantes sobre os documentos iniciais que deram origem ao processo.Tratamento das SCN como peças de outros processos, nem sempre com registro de juntada no Sistema Processus, o que dificulta futuras pesquisas sobre a SCN. Em muitos casos, as SCN, além de não serem autuadas como processo quando da sua entrada no Tribunal, são juntadas como peça a outros processos conexos em tramitação. Conseqüentemente, não possuindo identificação específica por meio de um número de processo, qualquer futura pesquisa sobre essa SCN fica impossibilitada.Duplicidade de controle em razão de lacunas verificadas no Sistema Processus.
+
+b)
+
+Os problemas a seguir relacionados referem-se à tramitação e ao atendimento no mérito dos processos de SCN pelo TCU. O cerne desses problemas é a fragilidade ou a ausência de normas e rotinas processuais detalhadas e específicas para a tramitação dos processos de SCN, o que acarreta a adoção de procedimentos diversos para processos e solicitações em situações semelhantes. Encerramento ou arquivamento do processo logo após a deliberação que acolheu a solicitação e determinou a realização de fiscalização sem o atendimento no mérito do processo de solicitação. Isso não significa que não haverá atendimento no mérito, por meio de outros autos, por conta do encerramento do processo da solicitação. Mas representa, dado o desconhecimento do processo que tratará do mérito da solicitação, a impossibilidade de acompanhar o pedido do Parlamento no Tribunal até o seu atendimento final, o que não permite ter certeza de que houve o atendimento e, neste caso, quando foi feito, nem permite a correção de algum engano. Não-comunicação ou comunicação equivocada ao colegiado do Congresso Nacional de deliberações do TCU em processos de seu interesse. O que caracteriza a presente ocorrência é a não-comunicação da decisão proferida pelo TCU tanto na fase de admissão do processo de solicitação, quanto na fase do exame de mérito, ou, então, o encaminhamento equivocado de qualquer uma dessas deliberações. Atendimento da SCN em processo diverso daquele autuado para atendê-la ou seu atendimento de forma difusa por meio de deliberações ou despachos proferidos em diversos processos. Esse problema apresenta duas dimensões: autuação de processo específico para uma SCN, mas com atendimento por deliberações proferidas ou despachos exarados em outro processo ou, de maneira difusa, por intermédio de vários outros processos; e, ausência de padrão nas formas pelas quais as SCN são atendidas (em muitos casos, o atendimento se dá por intermédio de diversas deliberações do Plenário e despachos do relator, que são comunicados ao Parlamento em diferentes momentos e por expedientes diversos). Alteração de dados essenciais de processo do Congresso Nacional ao longo do curso de sua tramitação, o que permite que a SCN perca todo o seu caráter de urgência. Acontece quando, por exemplo, uma SCN é convertida em Tomada de Contas Especial (TCE), que não é urgente e nem é de interesse do Congresso Nacional, o mesmo ocorrendo com os casos de apensamento.
+
+c)
+
+As oportunidades identificadas são as seguintes: atendimento tempestivo e com qualidade das demandas do Congresso Nacional; conhecimento e efetivo controle da tramitação e do atendimento das demandas do Poder Legislativo; agilidade, segurança, unicidade e uniformidade no atendimento às demandas do Congresso Nacional;
+
+O incremento dessas oportunidades importará, certamente, em fortalecimento da imagem institucional do Tribunal junto ao Congresso Nacional, bem como na aproximação das duas instituições.
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+O art. 71, inciso IV, da Constituição Federal de 1988 inclui entre as competências do TCU a de realizar, por iniciativa própria, da Câmara dos Deputados, do ­Senado Federal, de comissão técnica ou de inquérito, inspeções e auditorias, de natureza contábil, financeira, orçamentária, operacional e patrimonial. Já o inciso VII do referido artigo dispõe que está entre as competências do TCU prestar as informações solicitadas pelo Congresso Nacional, por qualquer de suas casas, ou por qualquer das respectivas comissões, sobre as fiscalizações e sobre resultados de auditorias e inspeções realizadas.
+
+b)
+
+Conforme o art. 1º do Regimento Interno compete ao Tribunal: realizar, por iniciativa própria ou por solicitação do Congresso Nacional, de suas casas ou das respectivas comissões, auditorias, inspeções ou acompanhamentos nas unidades administrativas dos poderes Legislativo, Executivo e Judiciário e demais órgãos e entidades sujeitos à sua jurisdição; e, prestar as informações solicitadas pelo Congresso Nacional, por qualquer de suas casas, ou por suas comissões, sobre as fiscalizações e os resultados de auditorias e inspeções realizadas.
+
+c)
+
+O art. 159 do Regimento Interno do TCU dispõe que consideram-se urgentes, e nessa qualidade terão tramitação preferencial, os papéis e processos referentes a solicitação de realização de auditorias e inspeções formulada pelo Congresso Nacional, por qualquer de suas casas ou pelas respectivas comissões.
+
+d)
+
+O art. 231 do Regimento Interno do TCU dispõe que o Tribunal apreciará, em caráter de urgência, os pedidos de informação e as solicitações que lhe forem endereçados pelo Congresso Nacional, por qualquer de suas casas ou pelas respectivas comissões.
+
+e)
+
+Com base nos dispositivos citados, percebe-se que compete à Câmara dos Deputados, Senado Federal e qualquer comissão, técnica ou de inquérito, solicitar auditorias, inspeções e acompanhamentos junto ao TCU e, conforme exposto pela Lei Orgânica e pelo Regimento Interno do Tribunal, essas solicitações possuem caráter urgente e prioritário no TCU.
+
+
+
+f)
+
+Ocorre que, por uma série de fatores, em muitos casos a tramitação das SCN dentro do TCU não são atendidas com a urgência requerida. Por exemplo, conforme explicitado no campo “Descrição do problema ou da oportunidade” desta proposta, um processo de SCN pode se transformar em TCE ou ser apensado a outro processo que segue o rito normal de tramitação, o que remete à perda de toda a característica de urgência e prioridade dos referidos processos de SCN.
+
+g)
+
+Assim, fica patente que o principal problema a afetar a adequada tramitação e o tempestivo atendimento das SCN é a ausência de uma processualística específica para a matéria, que abarque todo o trâmite de uma SCN, desde a negociação e recepção até a adequada resposta ao Congresso Nacional.
+
+h)
+
+Existe no estoque do Tribunal cerca de 70 (setenta) SCN, algumas do ano de 1998, o que mais uma vez demonstra a intempestividade no atendimento Congresso Nacional.
+
+i)
+
+Um outro fato que chama a atenção é um procedimento recente da Comissão de Fiscalização e Controle do Senado Federal que trata da solicitação de servidores do TCU para realizarem fiscalização sob a coordenação de consultores legislativos daquela Casa ao invés de requerer a fiscalização ao próprio Tribunal.
+
+
+Escopo do Projeto
+
+
+Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema) 
+
+Aperfeiçoar o relacionamento entre o Tribunal de Contas da União e o Congresso Nacional.
+
+
+5.1. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término
+
+a)
+
+Analisar e consolidar informações, já existentes no Tribunal, sobre o relacionamento entre as duas casa (TCU e Congresso Nacional).
+
+1
+
+27/06/2005 a 15/07/2005
+
+19 dias
+
+Relatório elaborado
+
+Relatório com diagnóstico sobre o relacionamento entre o TCU e o Congresso Nacional.
+
+Presidência, Aspar e Seplan
+
+b)
+
+Elaborar diagnóstico e análise dos normativos e jurisprudência que tratam dos procedimentos para recebimento, autuação e tramitação de processos e documentos de interesse do Congresso Nacional no âmbito do TCU.
+
+1
+
+27/06/2005 a 29/07/2005
+
+33 dias
+
+Relatório elaborado
+
+Relatório com diagnóstico e análise dos normativos e jurisprudência atuais.
+
+Presidência e Aspar
+
+c)
+
+Elaborar proposta de normativo definindo rito processualístico específico para o atendimento das demandas do Congresso Nacional, contemplando:
+
+1
+
+01/08/2005 a
+
+23/09/2005
+
+54 dias
+
+Proposta elaborada
+
+Proposta de normativo contendo rito processualístico específico para atendimento ao Congresso Nacional.
+
+Aspar, Seplan, Segecex, Adcon, Adfis, Sepres e Setec
+
+   definição da classificação e dos critérios de atendimento às demandas do Congresso Nacional;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   definição de procedimento de recepção e tratamento das demandas do Congresso Nacional e respectivo encaminhamento das respostas;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   definição de procedimento de comunicação ao Congresso Nacional sobre o andamento dos processos de seu interesse;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   sistematização do formato das respostas às demandas do Congresso Nacional;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   processo de negociação das expectativas do Congresso Nacional em relação ao atendimento de suas demandas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d)
+
+Elaborar proposta de aperfeiçoamento dos sistemas do Tribunal de modo a facilitar a identificação, acompanhamento e resposta dos processos de SCN.
+
+1
+
+26/09/2005 a 28/10/2005
+
+33 dias
+
+Proposta elaborada
+
+Proposta de aperfeiçoamento dos sistemas do TCU.
+
+Aspar, Seplan, Segecex, Adcon, Adfis, Sepres e Setec
+
+e)
+
+Elaborar sistemática de relacionamento entre o TCU e o Congresso Nacional.
+
+1
+
+31/10/2005 a 25/11/2005
+
+26 dias
+
+Documento elaborado
+
+Documento com estratégia de relacionamento entre o TCU e o Congresso Nacional.
+
+Aspar, Seplan, Segecex, Adcon, Adfis, Sepres e Setec
+
+
+5.2. Macroetapas (primeiro nível de Estrutura Analítica do Projeto – EAP)
+
+
+a)    
+
+Diagnóstico sobre o relacionamento entre o TCU e o Congresso Nacional.
+
+b)    
+
+Diagnóstico de normativos processualísticos do TCU.
+
+c)    
+
+Elaboração de proposta de normativos e de processo de negociação das expectativas do Congresso Nacional.
+
+d)    
+
+Elaboração de proposta de aperfeiçoamento dos sistemas do TCU.
+
+e)    
+
+Elaboração de sistemática de relacionamento entre o TCU e o Congresso Nacional.
+
+
+5.3. Não Escopo (o que o projeto não vai fazer)
+
+
+a)    
+
+Colher novas informações (entrevistas, pesquisas e outros) sobre o relacionamento entre o Congresso Nacional e o TCU.
+
+b)    
+
+Mapear parlamentares-chave com vistas ao estabelecimento de fluxo de informação.
+
+c)    
+
+Tratar de demandas individualmente formalizadas por parlamentares (representações, denúncias, consultas, solicitações e outros)
+
+d)    
+
+Adequar os sistemas do TCU.
+
+
+
+
+
+
+
+
+
+Identificação das Partes Envolvidas no Projeto (em relação a que)
+
+
+Nome da Parte Envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+a)    
+
+Presidência
+
+Patrocinador e principal cliente. Apoio político e operacional ao projeto.
+
+b)    
+
+Seplan
+
+Contribuição técnica no desenvolvimento das propostas e fornecimento de informações e de recursos humanos.
+
+c)    
+
+Aspar
+
+Contribuição técnica e fornecimento de informações e de recursos humanos para o desenvolvimento dos produtos do projeto.
+
+d)    
+
+Segecex
+
+Contribuição técnica para o desenvolvimento das propostas e compartilhamento de informações relativas ao impacto dos produtos gerados pela nova sistemática de atendimento ao Congresso Nacional.
+
+e)    
+
+Adfis
+
+Contribuição técnica para o desenvolvimento das propostas, compartilhamento de informações relativas ao impacto dos produtos gerados pela nova sistemática de atendimento ao Congresso Nacional e fornecimento de recursos humanos.
+
+f)     
+
+Adcon
+
+Contribuição técnica para o desenvolvimento das propostas, compartilhamento de informações relativas ao impacto dos produtos gerados pela nova sistemática de atendimento ao Congresso Nacional e fornecimento de recursos humanos.
+
+g)    
+
+Setec
+
+Avaliação de oportunidades para aplicações de TI, fornecimento de informações e suporte.
+
+
+Fatores que podem pôr em Risco o Êxito do Projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade de ocorrer
+
+Ação para
+
+(E) evitar ocorrência do risco
+
+(M) mitigar ocorrência do risco
+
+(R) reduzir impacto do risco ocorrido
+
+Responsável pela ação
+
+a)    
+
+Dificuldade em obter contribuição das unidades e pessoas envolvidas no Projeto.
+
+Alto
+
+Média
+
+(M) Salientar junto aos titulares das unidades técnicas a importância do Projeto no contexto estratégico do Tribunal.
+
+Gestor do projeto, titular da Seplan e titular da Aspar.
+
+b)    
+
+Não obter a legitimidade necessária para aprovação das propostas apresentadas perante a Casa.
+
+Alto
+
+Baixa
+
+(M) Adotar prática de validação de produtos com formadores de opinião.
+
+Equipe do projeto
+
+c)    
+
+Necessidade de revisões significativas nos produtos propostos.
+
+Alto
+
+Baixa
+
+(M) Manter processo de negociação da estratégia de execução do projeto e de requisitos e atributos dos produtos intermediários com a Presidência.
+
+Equipe do projeto
+
+
+
+Relação com Outros Projetos
+
+
+Projetos Predecessores
+
+Projetos Conexos
+
+Projetos Sucessores
+
+ 
+
+Projeto para estudo do impacto gerado pela incorporação de novos cargos ao TCU – Integrar
+
+ 
+
+
+Outros Recursos Necessários
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+Sala de trabalho com duas mesas de computadores, uma mesa de reuniões, cadeiras e armário.
+
+ 
+
+b)
+
+Dois computadores pessoais e uma impressora.
+
+ 
+
+c)
+
+Quadro branco e flipchart
+
+ 
+
+
+Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação Integral/ Parcial / Por Atividade
+
+a)    
+
+Márcio Lemos Said
+
+5662-6
+
+Seplan
+
+27/06 a 25/11/2005
+
+Integral
+
+b)    
+
+Leila Fonseca dos Santos Ferreira 
+
+945-8
+
+Aspar
+
+27/06 a 25/11/2005
+
+Integral
+
+c)    
+
+Paulo Carvalho de Azevedo Carioca
+
+2705-7
+
+Gab. Min. AM
+
+27/06 a 25/11/2005
+
+Parcial
+
+d)    
+
+Cíntia Zaira Messias de Lima
+
+5044-0
+
+Adcon
+
+27/06 a 25/11/2005
+
+Parcial
+
+e)    
+
+Marçal Roberto Ferreira de Freitas
+
+2842-8
+
+Aspar
+
+27/06 a 25/11/2005
+
+Parcial
+
+f)     
+
+Manoel Antônio de Albuquerque
+
+5624-3
+
+Adfis
+
+27/06 a 25/11/2005
+
+Parcial
+
+g)    
+
+Antônio Júlio Ferreira
+
+0341-7
+
+Sepres
+
+27/06 a 25/11/2005
+
+Parcial
+
+h)    
+
+Cláudio Silva da Cruz
+
+3164-0
+
+Setec
+
+26/09 a 28/10/2005
+
+Por atividade
+
+i)      
+
+Gledson Pompeu Correa da Costa
+
+3165-8
+
+Setec
+
+26/09 a 28/10/2005
+
+Por atividade
+
+
+Finalização
+
+
+Data e assinatura do gestor do projeto
+
+Em 24/06/2005
+
+ 
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 23/06/2005.
+
+ 
+
+Secretaria da Presidência[TCU4] em 24/06/2005
+
+ 
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Atendimento ao Congresso Nacional e designa seu gestor.
+
+

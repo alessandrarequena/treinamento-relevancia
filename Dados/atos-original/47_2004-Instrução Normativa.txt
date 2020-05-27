@@ -1,0 +1,792 @@
+Instrução Normativa
+47/2004
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regimentais, e
+
+
+Considerando o poder regulamentar que lhe confere o art. 3º da Lei nº 8.443, de 16 de julho de 1992, para expedir atos e instruções normativas sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos, obrigando ao seu cumprimento, sob pena de responsabilidade;
+
+
+Considerando que compete ao Tribunal julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos, nos termos da Constituição Federal, art. 71; da Lei nº 8.443, de 1992, arts. 1º, 6º, 7º, 8º e 9º; e do Regimento Interno, arts. 1º, 188, 189 e 197;
+
+
+Considerando que os processos de tomada e prestação de contas deverão conter elementos e demonstrativos que evidenciem a boa e regular aplicação dos recursos públicos, nos termos do caput do art. 194 do Regimento Interno do TCU;
+
+
+Considerando a necessidade de integrar, no exame e julgamento das tomadas e prestações de contas dos gestores, o controle da conformidade e do desempenho da gestão, a fim de contribuir para o aperfeiçoamento da administração pública; e
+
+
+Considerando os princípios da racionalização e simplificação do exame e do julgamento das tomadas e prestações de contas e a necessidade de estabelecer critérios de seletividade para formalização e instrução desses processos, nos termos do parágrafo único do art. 194 e do art. 195 do Regimento Interno deste Tribunal, tendo em vista os estudos e pareceres que constam do processo TC 013.493/2004-1, resolve:
+
+
+
+
+
+TÍTULO I
+
+
+DISPOSIÇÕES GERAIS
+
+
+
+Art. 1º As tomadas e prestações de contas dos administradores e demais responsáveis abrangidos pelos incisos I, III, IV, V e VI do art. 5º da Lei nº 8.443, de 1992, serão organizadas e apresentadas ao Tribunal de Contas da União de acordo com as disposições desta Instrução Normativa.
+
+
+§ 1º Para os fins do disposto nesta Instrução Normativa, considera-se: (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+I - processo de contas: processo de trabalho do controle externo destinado a avaliar a conformidade e o desempenho da gestão das pessoas abrangidas pelos incisos I, III, IV, V e VI do art. 5º da Lei nº 8443/92, com base em um conjunto de documentos, informações e demonstrativos de natureza contábil, financeira, orçamentária, operacional ou patrimonial, obtidos direta ou indiretamente; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - processo de contas ordinárias: processo de tomada ou prestação de contas organizado anualmente pelas unidades jurisdicionadas cujos responsáveis estão sujeitos à obrigação prevista no art. 70, parágrafo único, da Constituição Federal; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - processo de contas extraordinárias: processo de tomada ou de prestação de contas organizado e apresentado quando da extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização de unidades jurisdicionadas cujos responsáveis estejam alcançados pela obrigação prevista no art. 70, parágrafo único, da Constituição Federal; (NR) (Instrução Normativa nº 51, de 6/12/2006)
+
+
+
+IV - processo de tomada de contas: processo de contas relativo à gestão dos responsáveis por unidades jurisdicionadas da administração federal direta;
+
+
+V - processo de prestação de contas: processo de contas relativo à gestão dos responsáveis por unidades jurisdicionadas da administração federal indireta e daquelas não classificadas como integrantes da administração direta federal;
+
+
+VI – (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007);
+
+
+
+VII - processo de contas consolidado: processo de contas ordinárias referente a um conjunto de unidades jurisdicionadas organizado com a finalidade de possibilitar a avaliação sistêmica da gestão de unidades que se relacionam em razão de hierarquia, função ou programa de governo, sendo submetido ao Tribunal pela unidade jurisdicionada responsável pela coordenação hierárquica, supervisão funcional ou gerência de programa incluído no Plano Plurianual. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VIII - processo de contas agregado: processo de contas ordinárias organizado com a finalidade de possibilitar o exame conjunto da gestão de unidades administrativas não integrantes da estrutura da unidade jurisdicionada de que trata as contas;
+
+
+IX – (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007);
+
+
+
+X - risco: suscetibilidade de ocorrência de eventos indesejáveis, tais como, falhas e irregularidades em atos e procedimentos, ou de insucesso na obtenção de resultados esperados;
+
+
+XI - materialidade: representatividade do valor orçamentário, financeiro e patrimonial colocados à disposição dos gestores e/ou do volume de bens e valores efetivamente geridos;
+
+
+XII - relevância: importância social ou econômica de uma unidade jurisdicionada para a Administração Pública Federal ou para a sociedade, em razão das suas atribuições e dos programas, projetos e atividades sob a responsabilidade de seus gestores, assim como das ações que desempenha, dos bens que produz e dos serviços que presta à população;
+
+
+XIII - exame da conformidade: análise da legalidade, legitimidade e economicidade da gestão em relação a padrões normativos e operacionais, expressos nas normas e regulamentos aplicáveis, e da capacidade dos controles internos de identificar e corrigir falhas e irregularidades;
+
+
+XIV - exame do desempenho: análise da eficácia, eficiência e efetividade da gestão em relação a padrões administrativos e gerenciais, expressos em metas e resultados negociados com a administração superior ou definidos nas leis orçamentárias, e da capacidade dos controles internos de minimizar riscos e evitar falhas e irregularidades;
+
+
+XV - controles internos: conjunto de atividades, planos, métodos, indicadores e procedimentos interligados utilizados com vistas a assegurar a conformidade dos atos administrativos e concorrer para que os objetivos e metas estabelecidos sejam alcançados; e
+
+
+XVI - órgãos de controle interno: unidades administrativas integrantes dos sistemas de controle interno da administração pública federal, incumbidos, dentre outras funções, da verificação da consistência e qualidade dos controles internos, bem como do apoio às atividades de controle externo exercidas pelo Tribunal.
+
+
+XVII – processo de contas individual: processo de contas apresentado por uma única unidade jurisdicionada. (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 2º Os processo de contas de unidades jurisdicionadas com parecer do dirigente do órgão de controle interno pela irregularidade deverão ser apresentados como processos individuais; (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 3º Os processos de contas serão organizados anualmente pelos responsáveis pela apresentação ao Tribunal ou quando da extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização de unidades jurisdicionadas cujos responsáveis estejam alcançados pela obrigação prevista no art. 70, parágrafo único, da Constituição Federal (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 4º Em razão da complexidade do processo de contas ou da necessidade de acompanhamento mais tempestivo dos atos de gestão das unidades jurisdicionadas integrantes dos processos de contas, o Tribunal poderá determinar a apresentação de informações, documentos e demonstrativos parciais em periodicidade inferior a um ano, que comporão anexo do processo de contas anual. (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+Art. 2º Para os efeitos desta Instrução Normativa, constituem unidades jurisdicionadas ao Tribunal: 
+
+
+I - os órgãos e entidades da administração pública federal direta e indireta, incluídas as fundações e empresas estatais, bem como suas unidades internas; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - os fundos de transferência e de destinação cujo controle se enquadre como competência do Tribunal; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - os serviços sociais autônomos; (NR) (Instrução Normativa nº 54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IV - as contas nacionais das empresas supranacionais de cujo capital social a União participe, de forma direta ou indireta, nos termos do respectivo tratado constitutivo; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+V - as empresas encampadas, sob intervenção federal ou que, de qualquer modo, venham a integrar, provisória ou permanentemente, o patrimônio da União ou de entidade pública federal; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VI - as entidades cujos gestores, em razão de previsão legal, devam prestar contas ao Tribunal. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 1º Os responsáveis pelas entidades de fiscalização do exercício profissional estão dispensados de apresentar prestação de contas ordinárias ao Tribunal, sem prejuízo da manutenção das demais formas de fiscalização exercidas pelo controle externo.
+
+
+§ 2º Os estados, o Distrito Federal, os municípios e as pessoas físicas ou entidades privadas, quando beneficiários de transferência de recursos federais, incluindo auxílios, subvenções, contribuições ou outra forma de transferência de valores por intermédio de órgãos e entidades da administração federal direta, indireta, de fundações instituídas e mantidas pelo poder público federal e de suas entidades paraestatais, prestarão contas ao órgão ou entidade repassador quanto à boa e regular aplicação de tais recursos, apresentando documentos e informações necessários à composição das tomadas e prestações de contas dessas unidades jurisdicionadas.
+
+
+Art. 3º Os órgãos de controle interno utilizarão sistema de informações, preferencialmente informatizado, para validação dos dados atualizados relativos às unidades jurisdicionadas e rol de responsáveis.
+
+
+§ 1º A atualização do sistema indicado no caput deste artigo ficará a cargo de cada unidade jurisdicionada, sendo que aquelas que não estiverem interligadas informarão os dados necessários à compreensão das alterações promovidas ao respectivo órgão de controle interno, no prazo máximo de dez dias a contar da publicação oficial.
+
+
+§ 2º Os órgãos de controle interno deverão informar ao Tribunal de Contas da União, no prazo de trinta dias a contar da publicação dos respectivos atos legais e regimentais, dados necessários para se conhecer a extensão e a amplitude das alterações promovidas pelos gestores na estrutura e funcionamento das unidades jurisdicionadas, em especial, as que afetem os procedimentos de administração operacional, orçamentária, financeira e patrimonial. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+TÍTULO II
+
+
+APRESENTAÇÃO DOS PROCESSOS DE CONTAS
+
+
+CAPÍTULO I
+
+
+CRITÉRIOS DE APRESENTAÇÃO
+
+
+
+Art. 4º Os processos de contas serão apresentados pelas unidades jurisdicionadas definidas anualmente pelo Tribunal de Contas da União em decisão normativa.
+
+
+Parágrafo único. Os processos de contas abrangerão a gestão dos responsáveis relacionados no art. 12 desta Instrução Normativa. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+Art. 5º Sem prejuízo do disposto no art. 75 do Regimento Interno, o anteprojeto da decisão normativa prevista no art. 4º desta Instrução Normativa, antes da remessa à Presidência, para sorteio de relator, será submetido à consideração dos ministros e auditores para aprovação quanto às unidades integrantes das Listas de Unidades Jurisdicionadas que lhes foram atribuídas.
+
+
+Art. 6º No anteprojeto da decisão normativa prevista no art. 4º desta Instrução Normativa, poderá ser incluída proposta de liberação da responsabilidade de prestar contas, nos termos do art. 6º da Lei 8.443/1992.
+
+
+Art. 7º Os processos de contas serão formalizados, de acordo com os critérios estabelecidos nesta Instrução Normativa e na decisão normativa prevista no artigo anterior, como:
+
+
+I - tomada de contas individual; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - prestação de contas individual; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - tomada de contas consolidada; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IV - prestação de contas consolidada; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+V - tomada de contas agregada; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VI - prestação de contas agregada; (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VII - tomada de contas extraordinárias; ou (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VIII - prestação de contas extraordinárias. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 1º Os processos de contas previstos nos incisos I a VI deste artigo são indicados pelo Tribunal na decisão normativa de que trata o art. 4º. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 2º Caberá ao órgão de controle interno competente classificar os processos que serão remetidos ao Tribunal, conforme disposto neste artigo, informando as unidades jurisdicionadas integrantes do processo. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+CAPÍTULO II
+
+
+PRAZOS
+
+
+
+Art. 8º A apresentação dos processos de contas ordinárias deverá ocorrer de acordo com escalonamento definido na decisão normativa de que trata o art. 4º deste normativo e no prazo máximo de cento e oitenta dias, contados da data do encerramento do correspondente exercício financeiro.
+
+
+§ 1º As tomadas de contas da Justiça Eleitoral serão apresentadas no prazo máximo de duzentos e dez dias, contados da data do encerramento do correspondente exercício financeiro.
+
+
+§ 2º º Os processos de contas extraordinárias deverão ser apresentados ao Tribunal em até cento e vinte dias da efetiva extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização da unidade jurisdicionada. (NR) (Instrução Normativa nº 51, de 06/12/2006)
+
+
+
+Art. 9º Os prazos estabelecidos no artigo anterior poderão ser prorrogados pelo Plenário do Tribunal, em caráter excepcional, mediante solicitação fundamentada, formulada, conforme o caso, pelas seguintes autoridades:
+
+
+I - Presidente da Câmara dos Deputados, do Senado Federal, do Supremo Tribunal Federal, dos demais Tribunais Superiores e dos Tribunais Federais nos Estados e no Distrito Federal;
+
+
+II - Ministro de Estado ou autoridade de nível hierárquico equivalente; e
+
+
+III - Procurador-Geral da República.
+
+
+Art. 10. A inobservância dos prazos previstos no art. 8º ou do prazo concedido na forma do art. 9º configurará, em princípio, omissão no dever de prestar contas para efeito do disposto na alínea "a" do inciso III do art. 16 da Lei nº 8.443, de 1992.
+
+
+Art. 11. Os processos de contas somente serão considerados entregues ao Tribunal se contiverem todas as peças e conteúdos exigidos nesta instrução normativa, formalizados de acordo com o estabelecido no Título III desta Instrução Normativa.
+
+
+§ 1º Nos casos de inadimplemento das condições previstas no caput deste artigo, o processo será devolvido ao órgão de controle interno competente, para comunicação aos responsáveis e adoção das medidas necessárias, em até quinze dias do recebimento do processo recusado, permanecendo os respectivos responsáveis em situação de inadimplência no dever de prestar contas.
+
+
+§ 2º Vencido o prazo estipulado no parágrafo anterior e não saneadas as falhas que levaram à recusa do processo, a unidade técnica competente deverá representar ao relator da respectiva Lista de Unidades Jurisdicionadas - LUJ, comunicando a ocorrência de omissão no dever de prestar contas e propondo a adoção das providências cabíveis.
+
+
+
+CAPÍTULO III
+
+
+ROL DE RESPONSÁVEIS
+
+
+
+Art. 12. Serão arrolados nos processos de contas os titulares e seus substitutos que desempenharem, durante a gestão de que trata as contas, as seguintes naturezas de responsabilidade, se houver:
+
+
+I - dirigente máximo da unidade jurisdicionada de que trata as contas;
+
+
+II - dirigente máximo de unidade administrativa consolidada ou agregada às contas;
+
+
+III - dirigente máximo de órgão ou entidade supervisora ou gestora;
+
+
+IV - dirigente máximo de banco operador;
+
+
+V - membro de diretoria;
+
+
+VI - membro de órgão colegiado, que por definição legal, regimental ou estatutária, seja responsável por atos de gestão;
+
+
+VII - membro de conselho de administração, deliberativo, curador ou fiscal;
+
+
+VIII - membro de colegiado de órgão ou entidade supervisora ou gestora;
+
+
+IX - dirigente de unidade administrativa ou gerente responsável pela gestão de programa governamental definido no Plano Plurianual ou na Lei Orçamentária Anual;
+
+
+X - responsável pela definição de critérios de distribuição, pela aprovação de plano de trabalho e pela aprovação das prestações de contas de recursos concedidos mediante convênio, acordo, ajuste, termo de parceria ou outro instrumento de execução indireta ou descentralizada;
+
+
+XI - dirigente de unidade administrativa ou gerente responsável pela gestão patrimonial;
+
+
+XII - dirigente de unidade administrativa ou gerente responsável pela gestão de valores mobiliários da União;
+
+
+XIII - ordenador de despesas;
+
+
+XIV - ordenador de restituição de receitas;
+
+
+XV - encarregado pelo controle de operações de crédito, avais, garantias e direitos da União;
+
+
+XVI - encarregado da gestão orçamentária e financeira ou outro co-responsável por atos de gestão;
+
+
+XVII - encarregado de arrecadação de receitas;
+
+
+XVIII - encarregado de almoxarifado ou de material em estoque; e
+
+
+XIX - encarregado de depósito de mercadorias e de bens apreendidos.
+
+
+§ 1º Nos processos de contas dos Poderes Legislativo e Judiciário, do Ministério Público da União e do Tribunal de Contas da União serão arrolados os responsáveis previstos nos incisos IX, X, XI, XIII, XIV, XVI e XVIII deste artigo.
+
+
+§ 2º Nos processos de contas dos órgãos da administração federal direta do Poder Executivo serão arrolados os responsáveis previstos nos incisos I, II, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII e XIX deste artigo.
+
+
+§ 3º Nos processos de contas das autarquias que não arrecadem ou gerenciem contribuições parafiscais e das fundações serão arrolados os responsáveis previstos nos incisos I, II, VI, IX, X, XI, XII, XVI, XVIII e XIX deste artigo, no que couber.
+
+
+§ 4º Nos processos de contas das empresas públicas, sociedades de economia mista e demais empresas controladas direta ou indiretamente pela União e empresas encampadas ou sob intervenção federal serão arrolados os responsáveis previstos nos incisos I, II, V e VII deste artigo.
+
+
+§ 5º Nos processos de contas dos órgãos e entidades que arrecadem ou gerenciem contribuições parafiscais, serão arrolados os responsáveis previstos nos incisos I, II, VI, VII e XVI deste artigo.
+
+
+§ 6º Nos processos de contas dos fundos constitucionais e de investimentos serão arrolados os responsáveis previstos nos incisos III, IV, VIII, XIII, XV e XVI deste artigo.
+
+
+§ 7º Nos processos de contas dos demais fundos serão arrolados os responsáveis previstos nos incisos I, II, VII, VIII, XIII, XV e XVI deste artigo.
+
+
+§ 8º Nos processos de contas das instituições não previstas nos parágrafos anteriores que celebrarem contrato de gestão com órgãos e entidades da administração pública federal serão arrolados os responsáveis previstos nos incisos I, II, V, VI e VII deste artigo.
+
+
+§ 9º Nos caso de liquidação, extinção ou intervenção em autarquia ou fundação pública, empresa pública, sociedade de economia mista ou outra empresa controlada direta ou indiretamente pela União, serão arrolados, também, o liquidante, o inventariante ou o interventor.
+
+
+§ 10. Nos casos de delegação de competência, serão arroladas as autoridades delegantes e delegadas, desde a delegação originária.
+
+
+§ 11. Os processos de contas serão submetidos ao Tribunal para julgamento pelo dirigente máximo das unidades jurisdicionadas envolvidas no processo de contas. (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 12. O Tribunal poderá relacionar outros responsáveis a serem elencados no rol em Decisão Normativa. (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+Art. 13. Constarão do rol referido no artigo anterior:
+
+
+I - nome, completo e por extenso, e número do Cadastro de Pessoa Física do Ministério da Fazenda (CPF/MF);
+
+
+II - identificação das naturezas de responsabilidade, conforme descrito no artigo anterior, e dos cargos ou funções exercidos;
+
+
+III - indicação dos períodos de gestão, por cargo ou função;
+
+
+IV - identificação dos atos de nomeação, designação ou exoneração, incluindo a data de publicação no Diário Oficial da União;
+
+
+V - endereço residencial completo; e
+
+
+VI - endereço eletrônico, se houver.
+
+
+
+TÍTULO III
+
+
+ORGANIZAÇÃO DOS PROCESSOS DE CONTAS
+
+
+CAPÍTULO I
+
+
+PEÇAS E CONTEÚDOS
+
+
+
+Art. 14. Os processos de contas serão compostos das seguintes peças:
+
+
+I - rol de responsáveis, observado o disposto no capítulo III do título II desta instrução normativa;
+
+
+II - relatório de gestão, emitido pelos responsáveis;
+
+
+III - demonstrativos contábeis, exigidos pela legislação aplicável e necessários à gestão orçamentária, financeira e patrimonial;
+
+
+IV - declaração expressa da respectiva unidade de pessoal de que os responsáveis a que se refere o inciso I estão em dia com a exigência de apresentação da declaração de bens e rendas de que trata a Lei nº 8.730, de 10 de novembro de 1993;
+
+
+V - relatórios e pareceres de órgãos e entidades que devam se pronunciar sobre as contas ou sobre a gestão da unidade jurisdicionada, consoante previsto em lei ou em seus atos constitutivos;
+
+
+VI - relatório de auditoria de gestão, emitido pelo órgão de controle interno competente;
+
+
+VII - certificado de auditoria, emitido pelo órgão de controle interno competente;.
+
+
+VIII - parecer conclusivo do dirigente do órgão de controle interno competente; e
+
+
+IX - pronunciamento expresso do Ministro de Estado supervisor da unidade jurisdicionada ou da autoridade de nível hierárquico equivalente sobre as contas e o parecer do dirigente do órgão de controle interno competente, atestando haver tomado conhecimento das conclusões nele contidas.
+
+
+§ 1º O conteúdo das peças indicadas nos itens II a IX deste artigo será detalhado pelo Tribunal, por meio da decisão normativa prevista no art. 4º desta Instrução Normativa, de acordo com a natureza jurídica da unidade jurisdicionada e pelas necessidades de informação que permitam examinar a conformidade e o desempenho da gestão dos seus responsáveis, segundo a natureza da responsabilidade de cada um.
+
+
+§ 2º Os processos de contas deverão incluir todos os recursos, orçamentários e extra-orçamentários, utilizados, arrecadados, guardados ou geridos pela unidade jurisdicionada ou pelos quais ela responda, inclusive aqueles oriundos de fundos de natureza contábil, recebidos de entes da administração pública federal ou descentralizados para execução indireta.
+
+
+§ 3º O pronunciamento ministerial ou de autoridade de nível hierárquico equivalente sobre as contas e o parecer do dirigente do órgão de controle interno competente não poderá ser objeto de delegação, conforme dispõe o art. 52 da Lei nº 8.443, de 1992.
+
+
+§ 4º O responsável pela apresentação do processo de contas responde perante o Tribunal pela fidedignidade das informações, documentos e demonstrativos contidos no processo de contas. (AC) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+CAPÍTULO II
+
+
+PROCESSO DE CONTAS SIMPLIFICADO
+
+
+
+Art. 15. (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+CAPÍTULO III
+
+
+PROCESSO DE CONTAS CONSOLIDADO
+
+
+
+Art. 16. Os processos de contas ordinárias poderão, conforme previsto no art. 7º desta Instrução Normativa, ser apresentados de forma consolidada, incluindo, neste caso, o conteúdo pertinente às unidades indicadas pelo Tribunal.
+
+
+§ 1º O conteúdo dos processos de contas consolidados constitui elemento necessário à avaliação sistêmica da gestão das unidades envolvidas e das relações hierárquicas, funcionais ou programáticas entre as unidades envolvidas.  (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 2º (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007).
+
+
+
+
+
+
+CAPÍTULO IV
+
+
+PROCESSO DE CONTAS AGREGADO
+
+
+
+Art. 17. Os processos de contas poderão, conforme previsto no art. 7º desta Instrução Normativa, ser apresentados de forma agregada, incluindo, neste caso, o conteúdo pertinente às unidades indicadas pelo Tribunal.
+
+
+Parágrafo único. Os processos de contas referidos no caput conterão elementos necessários à avaliação da gestão de responsáveis, previstos no art. 12 desta Instrução Normativa, que não integram a estrutura hierárquica da unidade jurisdicionada de que trata as contas, mas que dela se utilizam para executar atos administrativos pelos quais são co-responsáveis.
+
+
+
+CAPÍTULO V
+
+
+PROCESSO DE CONTAS EXTRAORDINÁRIAS
+
+
+
+Art. 18. O órgão ou entidade da administração pública federal que for submetido a processo de extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização deverá apresentar processo de contas extraordinárias, abrangendo o período compreendido entre o início do exercício financeiro e a data da efetiva extinção, liquidação, dissolução, transformação, fusão. incorporação ou desestatização. (NR) (Instrução Normativa nº 51, de 06/12/2006)
+
+
+
+§ 1º As unidades jurisdicionadas em processo de extinção, liquidação dissolução, transformação, fusão, incorporação ou desestatização que extrapolem o exercício civil deverão apresentar os respectivos processos de contas ordinárias. (NR) (Instrução Normativa nº 51, de 12/12/2006)
+
+
+
+§ 2º Os processos de contas extraordinárias deverão conter, nas peças definidas no art. 14 deste normativo, os documentos e informações relativos às providências adotadas para encerramento das atividades da unidade, em especial os termos de transferência patrimonial e a situação dos processos administrativos não encerrados, com o aceite dos respectivos destinatários.
+
+
+
+CAPÍTULO VI
+
+
+PROCESSO DE CONTAS INFORMATIZADO
+
+
+
+                  Art. 19 Os processos de contas poderão ser organizados e remetidos ao Tribunal por meio informatizado, conforme as orientações para remessa e apresentação fixadas pelo Tribunal na decisão normativa prevista no art. 4º desta Instrução Normativa. (NR) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+Parágrafo único. Os critérios de aplicabilidade e as orientações para a remessa e a apresentação das contas previstas neste artigo serão fixados pelo Tribunal na decisão normativa prevista no art. 4º desta Instrução Normativa.
+
+
+
+TÍTULO IV
+
+
+DISPOSIÇÕES FINAIS
+
+
+
+Art. 20. As unidades jurisdicionadas deverão manter, para fins de fiscalização, os documentos comprobatórios, inclusive de natureza sigilosa, pelo prazo mínimo de cinco anos, a partir da decisão definitiva de julgamento das contas pelo Tribunal de Contas da União.
+
+
+Parágrafo único. O descumprimento do disposto no caput deste artigo sujeitará o responsável à sanção prevista no inciso II do art. 58 da Lei nº 8.443, de 1992, sem prejuízo da instauração de tomada de contas especial, para apuração dos fatos, identificação dos responsáveis e quantificação do dano ao erário.
+
+
+Art. 21. Os procedimentos de instrução dos processos de contas de que trata esta Instrução Normativa, incluindo a análise simplificada e o diferimento previstos no art. 195 do Regimento Interno do Tribunal, serão estabelecidos em normativo específico.
+
+
+Parágrafo único. Enquanto não editado o ato normativo previsto neste artigo, os processos em estado de diferimento deverão ser instruídos pelas unidades técnicas, com proposta de mérito, até noventa dias antes do término do prazo mencionado no art. 14 da Lei nº 8.443, de 1992.
+
+
+Art. 22. Esta Instrução Normativa entra em vigor na data de sua publicação e aplica-se aos processos de contas referentes ao exercício de 2004 e seguintes.
+
+
+Art. 23. Ficam revogadas as Instruções Normativas - TCU nº 12, de 24 de abril de 1996, nº 15, de 2 de fevereiro de 1997, nº 17, de 29 de outubro de 1997, nº 23, de 2 de setembro de 1998, nº 25, de 4 de novembro de 1998, nº 26, de 18 de novembro de 1998, nº 29, de 19 de maio de 1999, nº 30, de 3 de novembro de 1999, nº 32, de 15 de dezembro de 1999, nº 33, de 9 de fevereiro de 2000, nº 34, de 10 de maio de 2000, nº 37, de 13 de dezembro de 2000, nº 42, de 3 de julho de 2002 e nº 45, de 12 de dezembro de 2002; as Decisões Normativas - TCU nº 10, de 19 de dezembro de 1995, nº 29, de 15 de dezembro de 1999, nº 30, de 12 de abril de 2000, e nº 49, de 12 de dezembro de 2002; as Resoluções - TCU nº 152, de 22 de outubro de 1974, nº 182, de 7 de dezembro de 1976, nº 202, de 10 de dezembro de 1979, nº 206, de 27 de novembro de 1980, nº 214, de 7 de dezembro de 1983,e nº 248, de 28 de novembro de 1990.
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+Revogada pela Instrução Normativa nº 57, de 27/08/2008.
+
+
+
+
+
+REDAÇÃO ANTERIOR
+
+
+Art. 1º ..................................
+
+
+Parágrafo único. Para os fins do disposto nesta Instrução Normativa, considera-se: (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+I - processo de contas: conjunto de documentos e informações, obtidos direta ou indiretamente, que permitam avaliar a conformidade e o desempenho da gestão dos responsáveis por políticas públicas, bens, valores e serviços públicos federais; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - processo de contas ordinárias: processo de tomada ou prestação de contas organizado anualmente pelas unidades jurisdicionadas cujos responsáveis estão sujeitos à obrigação prevista no art. 70, parágrafo único, da Constituição Federal; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - processo de contas extraordinárias: processo de tomada ou de prestação de contas organizado e apresentado quando da extinção, liquidação, dissolução, transformação, fusão ou incorporação de unidades jurisdicionadas cujos responsáveis estejam alcançados pela obrigação prevista no art. 70, parágrafo único, da Constituição Federal; (Alterado) (Instrução Normativa nº 51, de 06/12/2006)
+
+
+
+§ 2º Os processos de contas extraordinárias deverão ser apresentados ao Tribunal em até cento e vinte dias da efetiva extinção, liquidação, dissolução, transformação, fusão ou incorporação da unidade jurisdicionada. (Alterado) (Instrução Normativa nº 51, de 06/12/2006)
+
+
+
+VI - processo de contas simplificado: processo de tomada ou de prestação de contas organizado de forma simplificada, a partir da aplicação de critérios de risco, materialidade e relevância, estabelecidos pelo Tribunal; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VII - processo de contas consolidado: processo de contas ordinárias organizado com a finalidade de possibilitar a avaliação sistêmica da gestão de unidades jurisdicionadas subordinadas a uma unidade central, responsável pela coordenação, supervisão e definição dos objetivos, metas e formas de atuação das primeiras; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IX - processo de contas informatizado: processo de contas ordinárias organizado e apresentado em meio eletrônico, a partir de sistema que coleta dados postados pelas unidades jurisdicionadas e órgãos de controle interno; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IV - o Ministério Público da União; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+V - os serviços sociais autônomos; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VI - os conselhos de fiscalização das profissões liberais; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+Art. 3º .................................................
+
+
+
+§ 2º Os órgãos de controle interno deverão informar ao Tribunal de Contas da União, no prazo de trinta dias a contar da publicação dos respectivos atos legais e regimentais, dados necessários para se conhecer a extensão e a amplitude das alterações promovidas pelos gestores na estrutura e funcionamento das unidades jurisdicionadas, em especial, as que afetem os procedimentos de administração orçamentária, financeira e patrimonial. . (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+Art. 4º ..............................................
+
+
+
+Parágrafo único. Os processos de contas abrangerão a gestão dos responsáveis que desempenharem as atribuições relativas às naturezas de responsabilidade especificadas no art. 12 desta Instrução Normativa. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+Art. 7º ...........................................
+
+
+
+I - tomada de contas; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - prestação de contas; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - tomada de contas simplificada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IV - prestação de contas simplificada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+V - tomada de contas consolidada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VI - prestação de contas consolidada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VII - tomada de contas agregada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VIII - prestação de contas agregada; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+IX - tomada de contas extraordinárias; ou  (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+X - prestação de contas extraordinárias. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+
+
+
+§ 1º Os processos de contas, previstos nos incisos III e IV deste artigo, são organizados na forma simplificada de acordo com a aplicação de critérios de risco, materialidade e relevância, estabelecidos pelo Tribunal na decisão normativa de que trata o art. 4º. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 2º Os processos de contas previstos nos incisos V a VIII deste artigo são indicados pelo Tribunal na decisão normativa de que trata o art. 4º. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 3º Caberá ao órgão de controle interno competente classificar os processos que serão remetidos ao Tribunal, conforme disposto neste artigo, informando as unidades jurisdicionadas integrantes do processo. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+Art. 15. O conteúdo das peças dos processos de contas organizados de forma simplificada será discriminado pelo Tribunal na decisão normativa de que trata o art. 4º desta Instrução Normativa. (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+
+Art. 16º ..............................................
+
+
+
+§ 1º O conteúdo dos processos consolidados constitui elemento necessário à avaliação sistêmica da gestão das unidades envolvidas e das relações de subordinação, coordenação e supervisão entre as unidades gestoras e a unidade central, responsável pela definição dos objetivos, metas e formas de atuação das primeiras. . (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+§ 2º Para que o processo de contas possa ser apresentado na forma consolidada, deverá haver manifestação do órgão de controle interno competente pela regularidade ou pela regularidade com ressalvas das contas dos responsáveis das unidades gestoras que integram o processo consolidado. (Revogado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+Art. 18. O órgão ou entidade da administração pública federal que for submetido a processo de extinção, liquidação, dissolução, transformação, fusão ou incorporação deverá apresentar processo de contas extraordinárias, abrangendo o período compreendido entre o início do exercício financeiro e a data da efetiva extinção, liquidação, dissolução, transformação, fusão ou incorporação. (Substituído) (Instrução Normativa nº 51, de 06/12/2006)
+
+
+
+§ 1º As unidades jurisdicionadas em processo de extinção, liquidação dissolução, transformação, fusão ou incorporação que extrapolem o exercício civil deverão apresentar os respectivos processos de contas ordinárias. (Substituído) (Instrução Normativa nº 51, de 12/12/2006)
+
+
+
+
+
+
+Art. 2º ..............................................
+
+
+I - os órgãos e entidades da administração federal direta, indireta e fundacional, incluídas as empresas controladas direta ou indiretamente pela União; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+II - os órgãos do Poder Legislativo; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+III - os órgãos do Poder Judiciário; (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+VII - os fundos constitucionais, de investimento e os outros fundos cujo controle se enquadre como competência do Tribunal, incluindo órgãos e entidades supervisores ou gestores e os bancos operadores desses fundos; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+VIII - as entidades públicas ou privadas que tenham firmado contrato de gestão com a administração pública federal e em razão desse contrato recebam recursos orçamentários da União; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+IX - as contas nacionais das empresas supranacionais de cujo capital social a União participe, de forma direta ou indireta, nos termos do respectivo tratado constitutivo; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+X - as empresas encampadas, sob intervenção federal ou que, de qualquer modo, venham a integrar, provisória ou permanentemente, o patrimônio da União ou de entidade pública federal; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+XI - os Estados, o Distrito Federal e os Municípios, no tocante aos recursos federais repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres; (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+XII - as entidades cujos gestores, em razão de previsão legal, devam prestar contas ao Tribunal. (Revogado) (Instrução Normativa nº  54, de 19/9/2007, BTCU nº 36/2007)
+
+
+
+
+Art. 19. Os processos de contas ordinárias poderão ser organizados e remetidos ao Tribunal por meio informatizado, considerando as necessidades de racionalização e simplificação do exame e do julgamento. (Alterado) (Instrução Normativa nº  54, de 19/9/2007, DOU de 24/9/2007)
+
+
+
+
+
+
+Revogada
+Estabelece normas de organização e apresentação de processos de tomada e prestação de contas.
+
+

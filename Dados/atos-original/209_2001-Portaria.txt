@@ -1,0 +1,1367 @@
+Portaria
+209/2001
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e  considerando a Resolução TCU nº 41/1995, combinada com o inciso VI do artigo 35 da Resolução TCU nº 136/2000 e com o inciso V do artigo 17, os incisos V e VII do artigo 20 e o inciso VI do artigo 23 da Resolução TCU nº 140/2000, resolve:
+
+
+
+
+
+Art. 1º Fica aprovado o anexo Manual de Cobrança Executiva.
+
+
+
+
+
+Art. 2º A Secretaria-Geral de Controle Externo – Segecex, mediante proposta das respectivas Unidades Técnicas, poderá instituir modificações  no Manual aprovado por esta Portaria, com vistas aos aprimoramentos que se fizerem necessários.
+
+
+ 
+
+
+Art. 3º Esta portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+Publicada no BTCU nº 46, de 04/07/2001
+
+
+	
+
+
+	 
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMÁRIO
+
+
+
+
+
+Introdução..........................................................03
+
+Roteiro para montagem do processo de Cobrança Executiva – CBEX .................
+
+04
+
+ 
+
+Prazo para Montagem............................................
+
+04
+
+ 
+
+Providências Preliminares..........................................
+
+04
+
+ 
+
+Procedimento de Formalização......................................
+
+05
+
+ 
+
+Procedimentos Finais.............................................
+
+ 08
+
+ 
+
+Providências após o retorno do processo de CBEX à Secretaria................
+
+09
+
+
+Não consta revogação expressa
+Aprova o Manual para Formalização de Processos de Cobrança Executiva.
+
+Anexos.............................................................11Anexo I – Tabela auxiliar para verificação da moeda vigente à época das condenações e para elaboração de demonstrativo de débito              11Anexo II – Tabela auxiliar para verificação da determinação de recolhimento de débito e/ou multa              13Anexo III – Modelo de ficha de informações pessoais de responsável..............14Anexo IV – Ofício-Circular encaminhado pelo Ministério Público/TCU............15Anexo V – Modelo de despacho de encaminhamento do processo de CBEX ao MP/TCU.16Anexo VI – Modelo de Ofício de encaminhamento de acórdão condenatório..........17Anexo VII – Modelo de ofício de solicitação de informações sobre imóveis do responsável 18Anexo VIII – Modelo de despacho para arquivamento do processo principal na Secretaria 19Anexo IX – Modelo de ficha de acompanhamento de ação de execução judicial.......20Anexo X – Modelo de relatório final do processo de CBEX, com proposta de arquivamento 21
+
+
+
+
+INTRODUÇÃO
+
+
+
+
+	A Resolução TCU nº 140/2000, atribui às Secretarias de Controle Externo e de Fiscalização a organização, quanto aos processos de sua competência, dos respectivos autos de cobrança executiva – CBEX decorrentes de Acórdãos condenatórios do Tribunal, conforme se verifica em seus artigos 20, inciso V e 23, inciso VI.
+
+
+	Como, até a entrada em vigor daquela Resolução, a formalização dos processos de CBEX era centralizada na antiga SECEX-11, fez-se necessário adaptar os procedimentos e o fluxo deste tipo de processo, a fim de facilitar o trabalho das Secretarias envolvidas.
+
+
+	Com esse intuito e a fim de incrementar a efetividade da execução judicial dos Acórdãos condenatórios desta Corte, foi elaborado o presente Manual, por meio do qual pretende-se padronizar os procedimentos de formalização dos processos de CBEX, bem como o acompanhamento das ações judiciais dele decorrentes por parte das Secretarias.
+
+
+	
+
+
+
+
+Roteiro para montagem do processo de Cobrança Executiva – CBEX
+
+
+
+
+Prazo para Montagem
+
+
+
+	- Em até 30 dias (artigo 35, inciso VI, da Resolução TCU nº 136/00) após o vencimento, sem manifestação do(s) interessado(s), dos prazos para interposição de recursos com efeito suspensivo (Embargos de Declaração, Recurso de Reconsideração e Pedido de Reexame), ou após o vencimento antecipado do débito, no caso de ter havido o seu parcelamento. 
+
+
+
+Providências Preliminares
+
+
+
+1.	Verificar se o Acórdão condenatório indica como credor do débito imputado Prefeitura Municipal ou Estado:
+
+
+
+
+
+
+	Em caso positivo:
+
+
+
+1.1. não formalizar processo de CBEX;
+
+
+1.2. proceder as verificações constantes dos passos 5.1. e 5.4. do presente Manual; 
+
+
+1.3. remeter cópia do Acórdão e dos correspondentes Relatório e Voto, conforme modelo constante do Anexo VI, aos destinatários abaixo relacionados (por determinação dos Acórdãos nº 225/99 – TCU – Plenário e nº 180/00 – TCU – Plenário): 
+
+
+1.3.1. - Prefeitura Municipal ou Estado Federado;
+
+
+1.3.2. - Câmara de Vereadores ou Assembléia Legislativa;
+
+
+1.3.3. - Tribunal de Contas do Município (ou órgão congênere) ou do Estado;
+
+
+1.3.	Proceder ao encerramento e ao arquivamento do processo na Secretaria.
+
+
+1.4.	Se não houver interposição de qualquer recurso no prazo de cinco anos, contados da condenação do responsável, enviar os autos para o Serviço de Arquivo na Sede. 
+
+
+
+	Em caso negativo:
+
+
+
+1.1.	siga para o próximo passo.	  
+
+
+2. Verificar se o Acórdão condenatório determina a solidariedade de responsáveis quanto ao pagamento do débito imputado.
+
+
+
+
+
+
+Se existirem responsáveis solidários:
+
+
+
+2.1.	constituir um único processo de cobrança executiva, para todos os responsáveis solidários;
+
+
+
+	Se não houver solidariedade entre os responsáveis:
+
+
+
+2.1.	constitua um processo de Cobrança Executiva para cada um dos responsáveis.
+
+
+3. Verificar se há imputação de débito e/ou multa ao mesmo responsável, com determinação de recolhimento a diferentes cofres credores (ver tabela constante do Anexo II).
+
+
+
+
+
+	Em caso positivo:
+
+
+
+3.1.	formalizar um processo de CBEX para cada cofre credor;
+
+
+	Em caso negativo:
+
+
+
+3.1. formalizar um único processo de CBEX.
+
+
+4. Em caso de haver responsável falecido, poderão ocorrer duas situações (Código Civil, artigo 905 c/c o artigo 1796):
+
+
+4.1. - formalização da CBEX antes de efetuada a partilha dos bens:
+
+
+4.1.1. - nesse caso, arrolar como devedor do débito/multa o espólio do responsável. Os procedimentos quanto à solidariedade são idênticos aos estabelecidos para o caso de responsável vivo;
+
+
+4.2. - formalização da CBEX após efetuada a partilha dos bens:
+
+
+4.2.1. - nesse caso, podem existir duas situações:
+
+
+4.2.1.1. - se houver solidariedade, montar um único processo de CBEX para todos os responsáveis solidários, conforme orientação contida no item 2, arrolando o conjunto de herdeiros no lugar do responsável falecido;
+
+
+4.2.1.2. - em caso de não haver solidariedade, montar um processo de CBEX para cada um dos herdeiros, que responderão pelo débito, proporcionalmente, até o limite da quota que corresponder ao quinhão hereditário de cada um deles.
+
+
+
+Procedimento de Formalização
+
+
+
+5.	Providencie duas vias de cada um dos documentos relacionados a seguir:
+
+
+5.1.	- Acórdão condenatório (original ou cópia autenticada);
+
+
+5.2.	- demonstrativo de débito/multa (original);
+
+
+5.3.	- ficha de informações pessoais do responsável (original); e
+
+
+5.4.	- notificação do responsável, com o respectivo Aviso de Recebimento – AR (caso a ciência tenha sido obtida por intermédio dos correios), ou Edital publicado no DOU (cópia autenticada).
+
+
+
+Verificações Fundamentais –  Quanto aos documentos elencados nos itens 5.1. a 5.4. acima, devem ser verificados os seguintes itens: 
+
+
+5.1.	Acórdão Condenatório
+
+
+
+5.1.1.	- se há erros de nome(s) do(s) responsável(is), data(s), valor(es) ou grafia(s) de moeda(s) (utilizar a tabela constante do Anexo I);
+
+
+5.1.2.	- se a determinação de recolhimento do(s) débito(s) está correta quanto aos seguintes aspectos (ver tabela constante do Anexo II):
+
+
+
+
+
+5.1.2.1.	- responsáveis perante a Administração Direta devem recolher aos cofres da União;
+
+
+5.1.2.2.	- responsáveis perante entidade da Administração Indireta devem recolher aos cofres das respectivas entidades;
+
+
+5.1.2.3.	- valores referentes a multa(s) aplicada(s) a qualquer responsável devem ser recolhidos aos cofres da União;
+
+
+5.1.3. 	- se do Acórdão consta autorização expressa para cobrança judicial do débito, na forma da lei, caso não seja atendida a notificação.
+
+
+
+Se existir algum dos erros apontados acima:
+
+
+
+5.1.4.	- remeter os autos ao Gabinete do Ministro-Relator (quando se tratar de processos de contas, deve ser encaminhado via MP/TCU, conforme inciso II do artigo 81 da LO/TCU), com proposta de correção dos dados inconsistentes e, após o apostilamento da correção do acórdão, retornar ao passo 1;
+
+
+
+Se não existir nenhum dos erros apontados acima:
+
+
+
+5.1.4.	- seguir para o próximo passo.
+
+
+5.1.5.	- se há correção do Acórdão por Apostila ou Decisão:  
+
+
+
+Se existe correção:
+
+
+
+5.1.5.1.	- juntar original ou cópia autenticada do Acórdão que tiver retificado a deliberação anterior; 
+
+
+
+Se não existe correção:
+
+
+
+5.1.5.1.	- seguir para o próximo passo.
+
+
+5.2.	Demonstrativo de Débito
+
+
+
+5.2.1	- elaborar o demonstrativo de débito por meio do Sistema Débito, disponível na página do TCU na Internet, com observância dos seguintes procedimentos:
+
+
+5.2.1.1.	- verificar a data indicada no Acórdão para início da atualização do débito e/ou multa;
+
+
+5.2.1.2.	- observar que, sobre multas aplicadas pelo Tribunal, em virtude do artigo 19, c/c o artigo 58, §2º, da Lei Orgânica do TCU, não incidem juros de mora (Decisão nº 1122/00 – TCU – Plenário); utilizar, nesse caso, o campo do Sistema Débito que permite atualização sem juros;
+
+
+5.2.1.3.	- verificar se no Acórdão condenatório há reconhecimento explícito da boa fé do responsável.
+
+
+
+Se não houver reconhecimento explícito de boa fé:
+
+
+
+5.2.1.3.1. 	- calcular o débito com incidência de juros de mora na atualização do valor, conforme artigo 19, c/c o artigo 58, §2º, da Lei Orgânica do TCU e com a Decisão nº 484/94 – TCU - Plenário.
+
+
+
+Se houver reconhecimento explícito de boa fé:
+
+
+
+5.2.1.3.1.	- calcular o débito sem incidência de juros de mora na atualização do valor, conforme Decisão 484/94 – TCU – Plenário; utilizar, nesse caso, o campo do Sistema Débito que possibilita atualização sem juros;.
+
+
+5.2.1.4.	- se já tiver havido recolhimento parcial do débito pelo responsável, lançar os valores respectivos como créditos no Sistema Débito;
+
+
+5.2.1.5.	- se a data da atualização da multa (15 dias a partir do recebimento da notificação pelo responsável ou da publicação do edital) coincidir com sábado, domingo ou feriado, calcular os acréscimos legais a partir do dia útil seguinte, lançando a data desse dia no Sistema Débito, para fins de atualização;
+
+
+5.2.1.6.	- imprimir o demonstrativo de débito com o histórico completo de atualização dos valores;
+
+
+5.2.1.7.	- após sua emissão, o demonstrativo de débito deve, necessariamente, ser assinado tanto pelo servidor que o emitiu como pela chefia imediata ou pelo responsável pelo encaminhamento do processo de CBEX ao MP/TCU. 
+
+
+5.3.	Ficha de Informações Pessoais do Responsável
+
+
+
+5.3.1.	- Preencher a ficha de informações pessoais, constante do Anexo III, com as seguintes informações:
+
+
+5.3.1.1.	- nome do responsável;
+
+
+5.3.1.2.	- CPF;
+
+
+5.3.1.3.	- endereço atualizado;
+
+
+5.3.1.4.	- outros endereços;
+
+
+5.3.1.5.	- qualificação profissional;
+
+
+5.3.1.6.	- repartição(ões) em que serviu;
+
+
+5.3.1.7.	- repartição(ões) de que recebe vencimentos ou proventos;
+
+
+5.3.1.8.	- bens penhoráveis; e
+
+
+5.3.1.9.	- outras informações pertinentes.
+
+
+5.3.2.	- Quanto aos dados do item 5.3.1.8 – bens penhoráveis –, observar as disposições do Ofício-Circular nº 03/97 – CBEX/MP/TCU, de 22.09.97, constante do Anexo IV, especialmente o seguinte:
+
+
+5.3.2.1.	- no que se refere ao procedimento fixado no último parágrafo do Ofício-Circular, a partir de agora, encaminhar ao MP/TCU, juntamente com o processo de CBEX, a documentação comprobatória de bens penhoráveis do devedor;
+
+
+5.3.2.2.	- no que tange à necessidade de realização de pesquisa de bens em nome do devedor por parte das Secretarias, conforme orientação constante da segunda parte do parágrafo quarto do Ofício-Circular, "é importante observar que um eventual levantamento decorrerá de prévia comunicação formal e específica deste Procurador, nas hipóteses de inexistência ou insuficiência de bens, após pesquisa realizada" PELA PROCURADORIA. Ou seja, as Secretarias somente devem proceder à pesquisa de bens quando expressamente solicitada pelo MP/TCU;
+
+
+5.3.2.3.	- no caso de haver solicitação de pesquisa de bens por parte do MP/TCU:
+
+
+5.3.2.3.1.	- quanto à pesquisa referente à linhas telefônicas, ela somente deve ser realizada nos locais em que o valor das mesmas ainda for relevante, ficando a cargo de cada Secretaria a decisão sobre a matéria;
+
+
+5.3.2.3.2.	- relativamente à pesquisa de bens imóveis urbanos em nome do responsável, a fim de evitar demora excessiva do processo de CBEX na Secretaria, ela deverá ser feita por meio de consulta, no mínimo, ao(s) cartório(s) de registro de imóveis do município de domicílio do responsável ou de sede da pessoa jurídica condenada, ressalvados os casos de especificação, pelo MP/TCU, dos municípios a serem consultados;
+
+
+5.3.2.3.3.	- fica a critério de cada Secretaria a realização da pesquisa a que se refere o item anterior em outros municípios, devendo-se levar em conta, para fins de tomada de decisão, a situação individual dos responsáveis de cada processo;
+
+
+5.3.2.3.4.	- para realização das pesquisas de bens, a Secretaria deverá consultar os Cartórios de Registro de Imóveis ou as Empresas de Telefonia, quando for o caso, por meio de encaminhamento de ofício, conforme modelo constante do Anexo VII;
+
+
+5.3.2.3.5.	- a fim de agilizar o procedimento de pesquisa, o Secretário de cada Estado deverá manter contato pessoal com os Oficiais dos cartórios a serem consultados, a fim estreitar relacionamento e solicitar priorização dos pedidos de informações formulados pelo Tribunal.
+
+
+5.4.	Notificação/AR e Edital
+
+
+
+5.4.1. - A norma que regulamenta os procedimentos relativos a expedição de notificação/AR e edital no âmbito do Tribunal é a Resolução TCU nº 08/93. No que se refere aos procedimentos de montagem da CBEX, verificar os seguintes itens quanto à notificação/AR e/ou edital:
+
+
+5.4.1.1. - se o valor da condenação, a data de incidência de juros e correção monetária, a indicação do cofre para recolhimento (verificar Anexo II) e a moeda vigente à época do evento (utilizar tabela constante do Anexo I) estão grafados corretamente;
+
+
+5.4.1.2. - se consta do AR ou da notificação a data de ciência do responsável; e
+
+
+5.4.1.3. - se consta do AR ou da notificação a assinatura do próprio responsável.
+
+
+5.4.2. 	- Verificar se, da cópia do edital de notificação, consta a data, a página e a Seção do Diário Oficial da União onde ocorreu a publicação.
+
+
+
+Procedimentos Finais 
+
+
+
+6.	Encerrada a preparação dos documentos discriminados acima, autuar o processo de CBEX: 
+
+
+6.1. - no momento da autuação do processo de CBEX, inserir o seguinte texto no campo "complemento" da tela de autuação do Sistema Processus: ‘Cobrança Executiva de débito originário do AC ___/__-TCU-____________, referente à(ao) [tipo de processo] nº TC ________/____-__’
+;
+
+
+6.2. - inserir, no campo "interessados", o(s) nome(s) completo(s) do(s) responsável(is) contra o(s) qual(is) será(ão) ajuizada a ação judicial.
+
+
+7.	Montar o processo de CBEX, com a devida numeração de páginas, com uma via das seguintes peças: 
+
+
+7.1. - Acórdão condenatório (original ou cópia autenticada);
+
+
+7.2. - demonstrativo de débito (original);
+
+
+7.3. - ficha de informações pessoais do responsável (original);
+
+
+7.4. - notificação ou edital (cópia autenticada); e
+
+
+7.5. - AR (quando houver) (cópia autenticada).
+
+
+8.	A última peça do processo de CBEX deve ser o despacho de encaminhamento ao MP/TCU, que deve ser feito em uma única via, para os fins previstos no inciso III do artigo 81 da Lei nº 8.443/92, nos termos do modelo constante do Anexo V.
+
+
+9.	Providenciar uma cópia do despacho de encaminhamento do processo de CBEX ao MP/TCU, elaborado no item 8 acima e juntá-la ao processo em que foi proferido o Acórdão condenatório.
+
+
+10. Grampear na contracapa do processo de CBEX as vias de documentos discriminadas nos itens 5.1 a 5.4 não utilizadas na sua montagem e remetê-lo ao chefe imediato ou ao responsável pelo seu encaminhamento ao MP/TCU.
+
+
+11. Antes da assinatura, pelo Secretário, do despacho de encaminhamento do processo de CBEX ao MP/TCU, o chefe imediato do responsável pela montagem do processo deve proceder à verificação de todas as peças constantes dos autos, a fim de evitar a necessidade de futuro retorno do processo à Secretaria, para eventuais correções. Deve ser analisado, especialmente, o seguinte item:
+
+
+11.1. - se do demonstrativo de débito constam todos os débitos/créditos referentes à condenação do responsável; com o intuito de prevenir fraudes, deve-se verificar, quanto aos créditos lançados, a existência dos comprovantes de recolhimento parcial respectivos.
+
+
+
+12. Encerrar e arquivar o processo principal na Secretaria, conforme modelo constante do Anexo VIII, e, em seguida, remeter o processo de CBEX ao MP/TCU, que, após adoção das providências cabíveis, devolvê-lo-á, para fins de acompanhamento da Ação Judicial respectiva.
+
+
+12.1. - quando da tramitação do processo de CBEX para o MP/TCU no sistema Processus, deve-se selecionar, como motivo da tramitação, a opção "para exame e expedição de ofício à AGU/órgão jurídico".
+
+
+
+Providências após o retorno do processo de CBEX à Secretaria 
+
+
+
+13. Devolvido o processo de CBEX pelo MP/TCU, seu estado, no sistema PROCESSUS, deverá ser alterado para "suspenso", por meio da inclusão da ação "acompanhamento de ação judicial". 
+
+
+14. A Secretaria deverá manter atualizados os registros referentes aos processos de execução judicial dos débitos/multas apurados pelo Tribunal, e adotará, para tanto, as seguintes providências: 
+
+
+14.1. - criar, no windows explorer, uma nova pasta denominada "Acompanhamento de CBEX";
+
+
+14.2. - criar, dentro da pasta "Acompanhamento de CBEX", uma pasta nova para cada ano indicado nos processos de CBEX em acompanhamento no âmbito da Secretaria. Por exemplo: se há processo de CBEX em acompanhamento com número de autuação dos anos de 1997, 1999 e 2000, deve-se abrir uma pasta denominada "1997", outra "1999" e outra "2000";
+
+
+14.3. - para cada processo de CBEX já existente na Secretaria e para os que vierem a ser formalizados a partir de agora, deve-se abrir um arquivo específico, do qual constará a ficha constante do Anexo IX, que deve ser salvo com a seguinte formatação de denominação: "123456-99-5";
+
+
+14.4. - a ficha (Modelo constante do Anexo IX) de cada arquivo deverá ser preenchida com os dados referentes ao processo de CBEX e à ação de execução judicial respectivos;
+
+
+14.5. - as fichas de todos os processos de CBEX de responsabilidade da Secretaria deverão ser atualizadas permanentemente, para fins de encaminhamento dos dados à Secretaria-Adjunta de Contas – ADCON, que, após compilação da informações recebidas, remeterá relatórios gerenciais à SEGECEX, ao Presidente do Tribunal e ao MP/TCU;
+
+
+14.6. - as fichas dos processos de CBEX deverão ser encaminhadas pelas Secretarias à ADCON a cada três meses, até o dia 05 dos meses de abril, julho, outubro e janeiro;
+
+
+15. - Após o encerramento da ação de execução judicial e da devida atualização da ficha de acompanhamento respectiva, inserir uma via da mencionada ficha nos autos de CBEX, elaborar despacho com proposta de expedição da quitação do débito/multa – quando for o caso – e arquivamento do mesmo, conforme modelo constante do Anexo X, e remeter os autos ao MP/TCU para parecer e posterior encaminhamento ao Ministro-Relator.
+
+
+16. - Acolhida a proposta de arquivamento, proceder o encerramento dos autos no Sistema PROCESSUS e tramitá-los para o Serviço de Arquivo, na Sede, para arquivamento físico.
+
+
+
+
+ANEXO I
+Tabela auxiliar para verificação da moeda vigente à época das condenações e para elaboração de demonstrativo de débito
+
+Discriminação
+
+Símbolo
+
+Período de Vigência
+
+Paridade em Relação à Moeda anterior
+
+Extinção de Centavos
+
+Fundamento Legal
+
+CRUZEIRO
+
+Cr$
+
+1º.11.1942 a 12.02.1967
+
+1.000 réis = 1,00 cruzeiro 
+
+(1 conto de réis = 1.000 cruzeiros)
+
+a partir de 1º.12.1964
+
+Dec 4.791, de 05.10.42
+
+Lei 4.511, de 1º.12.64
+
+CRUZEIRO NOVO
+
+NCr$
+
+13.02.1967 a 14.05.1970
+
+1.000 cruzeiros = 1,00 cruzeiro novo
+
+-
+
+Dec-Lei 1, de 13.11.65
+
+Res BACEN 47, de 12.02.67
+
+CRUZEIRO
+
+Cr$
+
+15.05.1970 a 27.02.1986
+
+1,00 cruzeiro novo = 1,00 cruzeiro
+
+a partir de 16.08.1984
+
+Res BACEN 144, de 31.03.70
+
+Lei 7.214, de 15.08.84
+
+CRUZADO
+
+Cz$
+
+28.02.1986 a 15.01.1989
+
+1.000 cruzeiros = 1,00 cruzado
+
+-
+
+Dec-Lei 2.283, de 27.02.86 e 2.284, de 10.03.86
+
+Res BACEN 1.100, de 28.02.86
+
+CRUZADO NOVO
+
+NCz$
+
+16.01.1989 a 15.03.1990
+
+1.000 cruzados = 1,00 cruzado novo
+
+-
+
+MP 32, de 15.01.89, 
+
+Lei 7.730, de 31.01.89
+
+Res BACEN 1.565, de 16.01.89
+
+CRUZEIRO
+
+Cr$
+
+16.03.1990 a 31.07.1993
+
+1,00 cruzado novo = 1,00 cruzeiro
+
+-
+
+MP 168, de 15.03.90, Lei 8.024, de 12.04.90
+
+Res BACEN 1689, de 18.03.90
+
+CRUZEIRO REAL
+
+CR$
+
+1º.08.1993 a 30.06.1994
+
+1.000 cruzeiros = 1,00 cruzeiro real
+
+-
+
+MP 336, de 28.07.93,
+
+Lei 8.697, de 27.08.93, Res BACEN 2.010, de 28.07.93
+
+REAL
+
+R$
+
+Desde 1º.07.1994
+
+Vide tópico seguinte *
+
+-
+
+MP 542, de 30.06.94,
+
+Lei 8.880, de 27.05.94,  MP 681, de 27.10.94
+* real – paridade em relação ao cruzeiro real
+
+
+		A paridade entre o real e o cruzeiro real, a partir de 1º.07.94, é igual à paridade entre URV (Unidade Real de Valor) e o cruzeiro real fixada pelo Banco Central do Brasil para o dia 30.06.94 (CR$ 2.750,00).
+
+
+		
+
+
+
+
+
+			Diante disso, a conversão de cruzeiros reais deve ser feita mediante a divisão do valor em CR$ pelo valor da URV de CR$ 2.750,00. Exemplificando:
+
+
+
+
+
+
+
+
+	CR$ 2.750,00 = R$ 1,00 		CR$ 1.000.000,00 = R$ 363,63  
+
+
+	CR$ 2.750,00/R$			CR$ 2.750,00/R$ 
+
+
+
+
+
+Em resumo:
+
+
+
+De
+
+Cr$
+
+Para
+
+NCr$
+
+Dividir
+
+Por
+
+1.000DeNCr$
+
+Para
+
+Cr$
+
+Dividir
+
+Por
+
+1
+
+De
+
+Cr$
+
+Para
+
+Cz$
+
+Dividir
+
+Por
+
+1.000
+
+De
+
+Cz$
+
+Para
+
+NCz$
+
+Dividir
+
+Por
+
+1.000
+
+De
+
+NCz$
+
+Para
+
+Cr$
+
+Dividir
+
+Por
+
+1
+
+De
+
+Cr$
+
+Para
+
+CR$
+
+Dividir
+
+Por
+
+1.000
+
+De
+
+CR$
+
+ParaR$
+
+Dividir
+
+Por
+
+2.750
+
+
+
+
+ANEXO II
+
+Tabela auxiliar para verificação da determinação de recolhimento de débito e/ou multa
+
+
+Do Recolhimento do Débito
+
+
+
+Débito Originário                                       Aos Cofres da(o)
+
+ 
+
+CEF                            CEF
+
+CNPQ                            CNPQ
+
+CODEVASF                           CODEVASF
+
+ECT                            ECT
+
+FNDE                            FNDE
+
+FUNDO ESPECIAL (ROYALTIES)                       PREFEITURA MUNICIPAL
+
+FUNDO NACIONAL DE SAÚDE E EXTINTO INAMPS         FUNDO NACIONAL DE SAÚDE
+
+FUNDO PARTIDÁRIO                         FUNDO PARTIDÁRIO
+
+INCRA                           INCRA
+
+INSS OU EX-INPS                          INSS
+
+MINISTÉRIOS                         UNIÃO OU TESOURO NACIONALÓRGÃOS EXTINTOS, EXCETO INAMPS                                UNIÃO OU TESOURO NACIONALOUTRAS ENTIDADES DA ADMINISTRAÇÃO INDIRETA  RESPECTIVA ENTIDADE
+
+
+
+
+Do Recolhimento da Multa
+
+
+
+A multa é sempre recolhida aos cofres da União ou Tesouro Nacional.
+
+
+ 
+
+
+
+
+
+ANEXO III
+
+Modelo de ficha de informações pessoais de responsável
+
+
+
+
+
+
+
+
+Ficha de informações pessoais do responsável
+
+
+
+
+
+
+1-
+
+RESPONSÁVEL
+
+ 
+
+1.1-
+
+Nome: 
+
+ 
+
+1.2-
+
+C.P.F:
+
+ 
+
+2-
+
+Endereço atualizado:
+
+ 
+
+3-
+
+Outros endereços:
+
+ 
+
+4-
+
+Qualificação profissional:
+
+ 
+
+5-
+
+Repartição(ões) em que serviu:  
+
+ 
+
+6-
+
+Repartição(ões) em que recebe vencimentos ou proventos: 
+
+ 
+
+7-
+
+Bens penhoráveis: 
+
+ 
+
+8-
+
+Outras informações pertinentes:
+
+ 
+
+
+
+
+Secretaria de ..., em    de          de            .
+
+
+
+
+
+_____________________________________
+AFCE
+Matr.
+
+
+ANEXO IV
+
+Ofício-Circular encaminhado pelo Ministério Público/TCU
+
+Ofício-Circular nº 03/97-CBEX/MP/TCU
+Brasília-DF, em 22 de setembro de 1997.
+
+Do Procurador do Ministério Público junto ao Tribunal de Contas da União
+Aos Senhores Secretários de Controle Externo
+Assunto: Cobrança Executiva
+
+	Senhor(a) Secretário(a)
+
+	Com base no art. 5º, II, da Resolução TCU nº 41/95, transmito a V.Sª as instruções e regras necessárias ao levantamento de bens dos condenados em débito por este Tribunal, sujeitos a cobrança executiva, solicitando especial atenção ao cumprimento do disposto neste expediente.
+	No que concerne à identificação de veículos, tendo em vista a recente habilitação deste Procurador para ter acesso ao sistema RENAVAM, que reúne dados de quase todas as unidades da Federação, fica essa Secretaria dispensada de proceder a pesquisa junto ao Departamento de Trânsito estadual, salvo instrução específica em contrário.
+	De igual forma, este Procurador já se encontra habilitado junto aos sistemas SNCR (cadastro nacional de imóveis rurais), mediante autorização do INCRA, e RAIS (sistema que permite a identificação de vínculos empregatícios), conforme permissão do Ministério do Trabalho, tornando desnecessários levantamentos dessa Secretaria nesse sentido.
+	Portanto, ficará sob a responsabilidade de V.Sª, basicamente, o levantamento de bens que não constem de cadastros centralizados em âmbito nacional como, por exemplo, imóveis urbanos e linhas telefônicas. É importante observar que um eventual levantamento decorrerá de prévia comunicação formal e específica deste Procurador, nas hipóteses de inexistência ou insuficiência de bens, após pesquisa realizada neste Gabinete.
+	Além disso, para evitar, em alguns casos, uma sucessão freqüente de pedidos de levantamento de bens, os expedientes observarão, sempre que possível, periodicidade mensal.
+	Enfim, quando forem detectados bens de devedores, essa Secretaria deverá encaminhar a documentação comprobatória ao Procurador-Chefe da AGU ou, em sendo o caso, das entidades jurisdicionadas, fazendo referência ao responsável e ao Acórdão condenatório, com cópia a este Procurador, para controle, tudo em envelopes lacrados, aposta tarja de reservado.
+Atenciosamente,		
+
+ASSINOU O ORIGINAL
+Marinus Eduardo De Vries Marsico
+Procurador do MP/TCU	  
+
+
+ANEXO V
+
+Modelo de despacho de encaminhamento do processo de CBEX ao MP/TCU
+
+
+
+TC nº _____.______/____-___
+
+
+
+
+Trata-se de processo especial de Cobrança Executiva, organizado de acordo com o art. 3º  da Resolução TCU nº 041/95, de 08.11.95, relativo ao débito ou à multa de __$ ____________ (______________________), a cujo pagamento, atualizado monetariamente e acrescido dos juros de mora (não incidem juros de mora sobre multa – Decisão nº 1122/00 – TCU – Plenário), foi condenado o Sr(a). ___________________________, (Acórdão nº _____ –TCU – _________, de _________), em razão de  __________________________.
+
+
+O responsável, após ser devidamente notificado (fls.). _____ , não recolheu o valor do débito/multa imposto(a)(s), e não interpôs recurso ou interpôs Recurso/Embargos de _______________, que não tem efeito suspensivo ou que não foi provido, consoante o Acórdão nº  _______ - TCU - __________, Ata nº ______, Sessão de _____________, cf. fl. ______ [somente em caso de interposição de recurso]
+  
+
+
+Assim, promovido o registro no Cadastro de Responsáveis por Contas Julgadas Irregulares – CADIRREG, de que trata o §1º do artigo 1º da Resolução TCU nº 113/1998 [somente em caso de processos de contas]
+, propomos o encaminhamento do presente processo ao Ministério Público junto ao Tribunal, para os fins previstos no art. 81, inciso III, da  Lei nº 8.443, de 16 de julho de 1992.
+
+Secretaria de ..., em ___ de __________ de _____
+
+
+ 
+
+
+
+_________________________
+
+
+
+AFCE - Mat. ________
+
+
+
+De acordo.
+
+Em ____/___/____
+
+
+
+_________________________
+Diretor
+
+
+
+De acordo.
+
+
+Encaminhe-se ao Ministério Público junto ao Tribunal
+Secretaria de ..., em  ____/____/____
+
+
+
+
+
+_________________________
+
+Secretário
+
+
+
+ANEXO VI
+
+Modelo de ofício de encaminhamento de acórdão condenatório
+
+
+
+Exmo. Sr. _____________.
+
+
+
+
+
+Em obediência aos Acórdãos nº 225/99 – TCU – Plenário e 
+nº 180/2000 – TCU – Plenário, encaminho a V.Exa. 1 (uma) via ou cópia autenticada do Acórdão nº ___ /___ –TCU–_________, que imputou débito/multa a responsável(is) por irregularidades na aplicação de recursos. Por força do último Acórdão mencionado, o credor da dívida é esse Município ou Estado.
+
+
+2. Informo que a condenação em questão, conforme preceitua o §3º do art. 71 da Constituição Federal, tem força de título executivo extrajudicial, cabendo a esse Município ou Estado, por meio de seu Poder Executivo, se lhe for conveniente, adotar as providências cabíveis para cobrança judicial do respectivo(s) valor(es).
+
+
+Com o intuito de conferir maior efetividade à Deliberação proferida por esta Corte, saliento que as informações deste expediente foram remetidas, também, à(ao) 
+[mencionar os demais órgãos, conforme o caso]
+.
+
+	Respeitosamente,
+
+
+
+
+
+
+
+
+
+
+_________________________
+
+Secretário
+
+
+
+ANEXO VII 
+
+Modelo de ofício de solicitação de informações sobre imóveis/linhas telefônicas do responsável
+
+
+
+Ilmo. Sr. Oficial de Cartório/____________ [cargo do gerente da Empresa de Telefonia].
+
+
+
+
+
+Tendo em vista as disposições do Acórdão nº _____/_____ – TCU – ________________, que condenou o Sr. _______________________ ao pagamento do débito/multa no valor de R$_________________, a serem recolhidos aos cofres da(o) _________________________, e considerando que o referido responsável não recolheu a dívida, solicito de V.Sa. o encaminhamento a esta Secretaria de Controle Externo/Fiscalização, no prazo máximo de 30 (trinta) dias, de todos os registros de imóveis/linhas telefônicas existentes nesse(a) respeitável Cartório/Empresa em nome do mencionado senhor.
+
+
+As informações encaminhadas por V.Sa. servirão de subsídio para a interposição da ação de execução judicial da dívida prevista nos artigos 28, inciso II, 61 e 81, inciso III da Lei Federal nº 8.443/93, a ser ajuizada pelo Órgão competente da Entidade credora e, consequentemente, para o efetivo cumprimento do artigo 71 da Constituição Federal.
+
+	Atenciosamente,
+
+
+
+
+
+
+
+
+
+
+_________________________
+
+Secretário
+
+
+
+ANEXO VIII 
+
+Modelo de despacho para arquivamento do processo principal na Secretaria
+
+
+
+
+TC nº _____.______/____-___
+
+
+
+
+Considerando já ter(em) sido montado(s) o(s) processo(s) de cobrança executiva referente(s) ao(s) débito(s)/multa(s) imputado(s) ao(s) responsável(is) ___________________________, nos termos da Resolução TCU nº 41/95, c/c o inciso VI do artigo 35 da Resolução TCU nº 136/00 e com o inciso V do artigo 17, os incisos V e VII do artigo 20 e o inciso VI do artigo 23 da Resolução TCU nº 140/00, propomos o encerramento dos presentes autos bem como seu arquivamento no âmbito desta Secretaria pelo prazo de cinco anos, termo legal para interposição de Recurso de Revisão, após o quê, desde que encerrados os eventuais processos de cobrança executiva existentes e desde que não haja pendências referentes a outros responsáveis condenados no mesmo julgado, deverá ser remetido ao Serviço de Arquivo, na Sede do Tribunal.
+
+Secretaria de ..., em ___ de __________ de _____
+
+
+ 
+
+
+
+
+_________________________
+Diretor
+
+
+
+De acordo.
+Secretaria de ..., em  ____/____/____
+
+
+
+
+
+_________________________
+
+Secretário
+
+ANEXO IX
+
+
+Modelo de ficha de acompanhamento de ação de execução judicial
+
+
+
+1-        
+
+Nº do processo de CBEX:
+
+[TC-123.456/7890-1]
+
+2-        
+
+Nome(s) do(s) responsável(is):
+
+[nome completo de todos os responsáveis listados no processo de CBEX. Se houver mais de um, numerá-los da seguinte forma: 2.1-; 2.2;etc.]
+
+3-        
+
+Nº do processo principal:
+
+[TC-123.456/7890-1]
+
+4-        
+
+Natureza do processo principal:
+
+[Acompanhamento, Denúncia, Prestação de Contas, Prestação de Contas Simplificada,  Relatório de Auditoria, Representação, Relatório de Inspeção, Tomada de Contas, Tomada de Contas Especial e Tomada de Contas Simplificada]
+
+5-        
+
+Data de entrada do processo principal na Secretaria, após a prolação do Acórdão condenatório:
+
+[01/23/45]
+
+6-        
+
+Data em que o(s) responsável(s) foi(ram) efetivamente notificado(s) :
+
+[inserir a data para cada responsável, referindo-se a cada um deles pelo número constante do item 2 acima]
+
+7-        
+
+Data do trânsito em julgado da deliberação:
+
+[15 dias após a notificação. Inserir a data para cada responsável, referindo-se a cada um deles pelo número constante do item 2 acima]
+
+8-        
+
+Data da remessa da CBEX ao MP/TCU:
+
+[01/23/45]
+
+9-        
+
+Data de retorno da CBEX do MP/TCU:
+
+[01/23/45]
+
+10-     
+
+Nº do Acórdão que imputou o débito/multa:
+
+[1234/56 – TCU – Plenário]
+
+11-     
+
+Natureza da imputação:
+
+[débito, multa ou débito/multa]
+
+12-     
+
+Valor do débito/multa:
+
+[valor atualizado, em reais, no seguinte formato: R$ 1.234,00]
+
+13-     
+
+Cofre credor:
+
+[instituição à qual deve ser recolhido o valor da condenação]
+
+14-     
+
+Nº da ação de execução judicial:
+
+[nº do processo na justiça federal]
+
+15-     
+
+Endereço eletrônico para consulta do andamento processual:
+
+[www.endereço.gov.br]
+
+16-     
+
+Data do último andamento da ação de execução judicial: 
+
+[01/23/45]
+
+17-     
+
+Último andamento da ação de execução judicial:
+
+[descrever o andamento verificado]
+
+18-     
+
+Nº dos embargos à execução:
+
+[se não houver, informar aqui que “não há”]
+
+19-     
+
+Data do encerramento da ação de execução judicial:
+
+[01/23/45]
+
+20-     
+
+Valor ressarcido em decorrência da ação de execução judicial:
+
+[valor em reais, no seguinte formato: R$ 1.234,00. Se não houver ressarcimento, informar aqui que “não há”]
+
+21-     
+
+Motivo da frustração da ação de execução judicial:
+
+[descrever o motivo pelo qual não houve sucesso. Em caso de ter havido sucesso, informar aqui que “não há”]
+
+
+
+Secretaria de ..., em    de          de            .
+
+
+[esta data deve ser o dia 05 dos meses de abril, julho, outubro ou janeiro, conforme explicitado no item 14.6. do Manual]
+
+
+
+_____________________________________
+AFCE/Diretor/Secretário
+Matr.
+
+
+ANEXO X
+
+Modelo de relatório final do processo de CBEX, com proposta de arquivamento
+
+
+
+TC nº _____.______/____-___
+
+
+
+
+Trata-se de processo especial de Cobrança Executiva, organizado de acordo com o art. 3º  da Resolução TCU nº 041/95, de 08.11.95, relativo ao débito ou à multa de __$ ____________ (______________________), a cujo pagamento, atualizado monetariamente e acrescido dos juros de mora (não incidem juros de mora sobre multa – Decisão nº 1122/00 – TCU – Plenário), foi condenado o Sr(a). ___________________________, (Acórdão nº _____ –TCU – _________, de _________), em razão de  __________________________.
+
+
+A ação de execução judicial, interposta na Justiça Federal no Estado do ____________, onde  recebeu o nº ______________, resultou no ressarcimento do montante atualizado de _____________ [ou] não teve resultados positivos por motivos de _____________________________.
+
+
+Assim, ante o encerramento da ação judicial referente ao presente processo de CBEX, propomos a expedição da quitação do débito/multa 
+[quando for o caso]
+, bem como o arquivamento dos autos, com posterior encaminhamento ao Serviço de Arquivo, na sede do Tribunal, pelo que remetemos os autos ao MP/TCU, para parecer e posterior envio ao Ministro-Relator do acórdão condenatório.
+
+Secretaria de ..., em ___ de __________ de _____
+
+
+ 
+
+
+
+
+_________________________
+
+
+
+AFCE - Mat. ________
+
+
+
+De acordo.
+
+Em ____/___/____
+
+
+
+_________________________
+Diretor
+
+
+
+De acordo.
+Secretaria de ..., em  ____/____/____
+
+
+
+
+
+_________________________
+
+Secretário
+
+
+
+

@@ -1,0 +1,1988 @@
+Portaria
+128/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando o disposto no art. 57, inciso II, da Lei nº 8.666, de 21 de junho de 1993, na Lei Complementar nº 116, de 31 de julho de 2003, na Lei Complementar nº 123, de 14 de dezembro de 2006, na Lei nº 8.212, de 24 de julho de 1991, no art. 10, § 7º, do Decreto-Lei nº 200, de 25 de fevereiro de 1967, no Decreto nº 2.271, de 7 de julho de 1997, na Resolução-TCU nº 158, de 22 de janeiro de 2003, e na Portaria-TCU nº 116, de 25 de abril de 2003;
+
+
+considerando os entendimentos e as orientações contidas no Acórdão nº 1214/2013TCUPlenário; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-012.392/2013-8; resolve: 
+
+
+TÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º A licitação e a execução de contratos de serviços no âmbito da Secretaria do Tribunal de Contas da União (TCU) obedecerão ao disposto nesta Portaria.
+
+
+Art. 2º Para os fins desta Portaria, entende-se por:
+
+
+I - serviços terceirizados: serviços prestados por meio da execução indireta de atividades acessórias, instrumentais ou complementares de interesse do TCU, mediante a disponibilização de empregado terceirizado, na forma de posto de trabalho, por intermédio de empresário ou de sociedade empresária;
+
+
+II - empregado terceirizado: pessoa física com vínculo trabalhista junto a empresário ou sociedade empresária contratada pelo TCU;
+
+
+III - projeto básico ou termo de referência: documento com elementos técnicos capazes de propiciar a avaliação do custo com a contratação e os elementos técnicos necessários e suficientes, com nível de precisão adequado para caracterizar o serviço a ser contratado e orientar a execução e a fiscalização contratual;
+
+
+IV - unidade de medida: parâmetro de medição adotado para possibilitar a quantificação dos serviços e a aferição dos resultados;
+
+
+V - produtividade: capacidade de realização de determinado volume de tarefas, em função de determinada rotina de execução de serviços, considerando-se os recursos humanos, materiais e tecnológicos disponibilizados, o nível de qualidade exigido e as condições do local de prestação do serviço;
+
+
+VI - rotina de execução de serviços: detalhamento das tarefas que deverão ser executadas em determinados intervalos de tempo, sua ordem de execução, especificações, duração e frequência;
+
+
+VII - pesquisa de preços: procedimentos realizados objetivando a busca de preços de referência ou comparativos em outros órgãos ou entidades da Administração Pública, na iniciativa privada, ou em outras fontes idôneas;
+
+
+VIII - planilha de custos e formação de preços: documento a ser utilizado para detalhar os componentes de custos que incidem na formação do preço dos serviços;
+
+
+IX - estimativa de preços ou preço de referência: documento que expressa a estimativa de custo total da contratação;
+
+
+X - salário: componente da planilha de custos e formação de preços que indica o valor a ser efetivamente pago ao profissional envolvido diretamente na execução contratual, não podendo ser inferior ao salário mínimo ou ao estabelecido em lei, acordo ou convenção coletiva de trabalho, ou sentença normativa;
+
+
+XI - encargos sociais: componentes da planilha de custos e formação de preços destinados às alocações dos custos de mão de obra decorrentes da legislação trabalhista e previdenciária, estimados em função das peculiaridades da contratação, calculados mediante incidência percentual sobre a remuneração;
+
+
+XII - insumos de mão de obra: componentes da planilha de custos e formação de preços destinados às alocações dos custos decorrentes da execução dos serviços, tais como transporte, seguros de vida e de saúde, alimentação, e, ainda, custos relativos a uniformes;
+
+
+XIII - materiais e equipamentos: componentes da planilha de custos e formação de preços destinados às alocações dos custos relativos a materiais, utensílios, suprimentos, máquinas, equipamentos, entre outros, utilizados diretamente na execução dos serviços;
+
+
+XIV - despesas operacionais e administrativas: componentes da planilha de custos e formação de preços destinados às alocações dos custos indiretos envolvidos na execução contratual decorrentes dos gastos da contratada com sua estrutura administrativa, organizacional e gerenciamento de seus contratos, tais como as despesas relativas a:
+
+
+a) funcionamento e manutenção da Sede da contratada, a exemplo de aluguel, água, luz, telefone, tributos, dentre outros;
+
+
+b) pessoal administrativo;
+
+
+c) material e equipamentos de escritório;
+
+
+d) supervisão de serviços;
+
+
+e) seguros; e
+
+
+f) demais despesas não contempladas por itens específicos da planilha de custos e formação de preços.
+
+
+XV- tributos: componentes da planilha de custos e formação de preços destinados às alocações dos custos dos impostos e das contribuições incidentes sobre o faturamento, conforme estabelecido pela legislação vigente;
+
+
+XVI - instrumento legal: todo ato normativo ou instrumento jurídico ao qual seja atribuída força de lei, que tenha abrangência geral ou coletiva e disponha sobre matéria tutelada pelo Direito Público, tais como acordos, convenções coletivas e decisões normativas trabalhistas;
+
+
+XVII - reajustamento de preços: acréscimo de preços contratuais, conforme estiver definido no edital e no contrato;
+
+
+XVIII - reajuste de preços: espécie de reajustamento de preços efetuado pela aplicação de índices de preços oficiais gerais, específicos, setoriais, ou definidos pela Administração do TCU, de acordo com o objeto da contratação;
+
+
+XIX - repactuação de preços: espécie de reajustamento de preços que visa adequar o valor original do contrato, baseado em planilha analítica de custos, aos novos preços de mercado, observada a variação efetiva dos custos de execução do objeto;
+
+
+XX - produtos ou utilidades: bens materiais ou imateriais, quantitativamente delimitados, a serem entregues pela contratada por força do contrato; e
+
+
+XXI - nível mínimo de serviço: ajuste escrito que define, em bases compreensíveis, tangíveis, objetivamente observáveis e comprováveis, os níveis esperados de qualidade da prestação do serviço e respectivas adequações de pagamento.
+
+
+Art. 3º Quanto à duração, os contratos de serviços podem ser classificados em:
+
+
+I - continuados: serviços cuja necessidade de contratação deva se estender por mais de um exercício financeiro e continuamente, na forma do art. 57, inciso II, da Lei nº 8.666, de 21 de junho de 1993; ou
+
+
+II - não-continuados: serviços que tenham por escopo o fornecimento de bens ou utilidades, ou a prestação de serviços específicos em um período pré-determinado.
+
+
+Art. 4º Quanto ao modo, os contratos de serviços podem ser prestados:
+
+
+I - por meio da disponibilização de empregados terceirizados vinculados à contratada, na forma de postos de trabalho;
+
+
+II - por meio da disponibilização de empregados terceirizados vinculados à contratada, na forma de postos de trabalho, com fornecimento dos materiais e/ou dos equipamentos necessários à realização dos serviços; ou
+
+
+III - por meio do fornecimento de bens ou de utilidades pela contratada para uso final, realizados ou produzidos nas dependências do TCU ou fora delas.
+
+
+TÍTULO II
+DOS REQUISITOS PARA ELABORAÇÃO DOS EDITAIS DE LICITAÇÃO
+
+
+CAPÍTULO I
+DA ELABORAÇÃO DO PROJETO BÁSICO OU DO TERMO DE REFERÊNCIA E DA JUSTIFICATIVA DA CONTRATAÇÃO
+
+
+Art. 5º O projeto básico ou o termo de referência deverão contemplar ou serem acompanhados, quando cabíveis, das seguintes informações, sem prejuízo de outras não previstas nesta Portaria:
+
+
+I - descrição do objeto a ser contratado;
+
+
+II - prazo de vigência do contrato;
+
+
+III - especificação dos serviços e descrição das atribuições a serem desempenhadas pela contratada;
+
+
+IV - especificação das qualificações técnico-operacional, técnico-profissional, e qualificação econômico-financeira;
+
+
+V - definição das sanções;
+
+
+VI - manifestação quanto à necessidade, ou não, de exigência de garantia contratual;
+
+
+VII - metas físicas a serem contratadas;
+
+
+VIII - local de execução do serviço;
+
+
+IX - estimativa de preços em planilha detalhada, quando for o caso;
+
+
+X - critérios e procedimentos para os reajustamentos de preços do contrato;
+
+
+XI - critérios e formas de pagamentos relativos aos serviços contratados;
+
+
+XII - unidades de medida;
+
+
+XIII - rotinas de execução dos serviços;
+
+
+XIV - produtividade, quando for o caso;
+
+
+XV - obrigações da contratada;
+
+
+XVI - níveis mínimos de serviço; e
+
+
+XVII - critérios para elaboração da proposta do licitante.
+
+
+§ 1° As justificativas da contratação deverão constar do despacho que encaminhar o termo de referência ou o projeto básico.
+
+
+§ 2° A unidade técnica responsável pela elaboração do termo de referência ou do projeto básico, quando da contratação de empresário ou sociedade empresária para prestação de serviços, deverá manifestar-se quanto ao cabimento, ou não-cabimento, da participação na licitação de consórcios de empresas, observado o disposto no art. 33 da Lei nº 8.666, de 1993, ou de cooperativas.
+
+
+Art. 6º Serviços não especializados, a exemplo de limpeza, copeiragem, recepção, serão, preferencialmente, licitados conjuntamente e adjudicados globalmente na licitação.
+
+
+Parágrafo único. Serviços em que reste comprovado que as empresas atuam no mercado de forma segmentada, por especialização, deverão ser objeto de parcelamento.
+
+
+Art. 7º A contratação de serviços terceirizados de natureza continuada depende de autorização da Presidência do TCU e deverá ser instruída com plano de trabalho, conforme disposto na Portaria-TCU nº 116, de 25 de abril de 2003.
+
+
+CAPÍTULO II
+DAS ESTIMATIVAS DE PREÇOS
+
+
+Art. 8º A estimativa de preços relativamente à mão de obra para prestação de serviços terceirizados será elaborada com base em planilha analítica de composição de custos da mão de obra e dos insumos, e observará os seguintes critérios:
+
+
+I - os salários dos empregados terceirizados serão fixados com base em acordo ou convenção coletiva de trabalho da categoria profissional pertinente;
+
+
+II - havendo mais de uma categoria em uma mesma contratação, os salários serão fixados com base no acordo ou na convenção coletiva de cada categoria profissional;
+
+
+III - não havendo acordo ou convenção coletiva de trabalho, os salários serão fixados com base em preços médios obtidos em pesquisa de mercado, em fontes especializadas, em empresas privadas do ramo pertinente ao objeto licitado, ou em órgãos públicos;
+
+
+IV - os encargos sociais e tributos deverão ser fixados de acordo com as leis específicas; e
+
+
+V - os valores dos insumos serão apurados com base em pesquisa de preços, na forma dos arts. 9º a 11 desta Portaria, ou em preços fixados nos instrumentos legais pertinentes.
+
+
+§ 1º Não havendo acordo ou convenção coletiva de trabalho, o valor do vale-alimentação poderá ser fixado com base na média aritmética simples dos valores pagos em pelo menos 3 (três) contratos do TCU, ou de outros órgãos e entidades da Administração Pública.
+
+
+§ 2º O valor dos insumos poderá ser fixado como percentual do valor do salário do prestador de serviços, utilizando-se como referência percentual equivalente de contrato anterior e de mesmo objeto.
+
+
+§ 3º Deverá constar dos editais de licitação que as propostas de preço consignarão expressamente os custos de vale-alimentação e de vale-transporte.
+
+
+§ 4º Deverá constar dos editais de licitação e dos contratos que o pagamento de vale-alimentação e de vale-transporte será obrigatório, ainda que não esteja previsto em acordo ou convenção coletiva de trabalho.
+
+
+§ 5º Deverá constar do edital de licitação que o valor da remuneração dos empregados terceirizados não poderá ser inferior ao previsto em acordo ou convenção coletiva de trabalho, ou ainda, se for caso, ao fixado pela Administração.
+
+
+§ 6º Por razões de ordem técnica, devidamente justificadas, os salários poderão ser fixados em valores superiores aos de acordos ou convenções coletivas de trabalho.
+
+
+Art. 9º A estimativa de preço de materiais, de equipamentos, de insumos, e de serviços contratados para fornecimento de bens ou utilidades, deverá ser elaborada com base na média aritmética simples de, no mínimo, 3 (três) referências de preço, obtidas, isoladas ou conjuntamente, por meio de pesquisa de preços no mercado, em órgãos ou em entidades da Administração Pública.
+
+
+§ 1º No cálculo da média aritmética simples a que se refere o caput deverão ser excluídos os valores extremos e desarrazoados que possam alterar significativamente a tendência central do resultado da amostra.
+
+
+§ 2º Havendo contrato em andamento, a pesquisa de preços poderá ser feita contemplando os materiais que representem, no mínimo, 60% (sessenta por cento) do preço total de materiais do contrato vigente.
+
+
+§ 3º Os preços dos materiais que não tenham sido objeto de pesquisa poderão ser corrigidos pela variação percentual apurada entre os preços dos itens pesquisados na forma do § 2º deste artigo.
+
+
+§ 4º Para fins desta Portaria, os preços praticados em órgãos ou em entidades da Administração Pública se provam, dentre outras formas, por meio de resultados de recentes processos licitatórios, de aquisições e contratações recentemente empenhadas, de preços registrados em atas de registro de preços vigentes, ou de preços praticados em contratos em execução.
+
+
+§ 5º No caso de serviços de engenharia, a estimativa de preços deverá ser elaborada, preferencialmente e no que couber, com base em preços obtidos no Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (Sinapi).
+
+
+Art. 10. As pesquisas de preços no mercado poderão ser realizadas na internet, por telefone, via e-mail ou correspondência, em publicações especializadas, e pessoalmente junto a fornecedores por meio de representante da Administração do TCU, observadas as seguintes orientações:
+
+
+I - no caso de pesquisa de preços realizada em lojas na internet, deverá ser juntada aos autos a cópia da página pesquisada em que conste o preço, a descrição do bem, e a data da pesquisa;
+
+
+II - no caso de pesquisa de preços realizada por telefone, devem ser registrados e juntados aos autos, o número do telefone, a data, o horário, o nome da empresa e das pessoas que forneceram o orçamento;
+
+
+III - no caso de pesquisa de preços realizada por e-mail ou correspondência, deverão ser juntados aos autos o pedido e a resposta do fornecedor;
+
+
+IV - no caso de pesquisa de preços em publicações especializadas, deverá ser juntada aos autos a cópia da capa e da página pesquisada ou, alternativamente, indicado o número da publicação e da página pesquisada; e
+
+
+V - no caso de pesquisas de preço pessoalmente realizadas junto a fornecedores por meio de representante da Administração do TCU, deverá ser juntado aos autos documento em nome da empresa, contendo a data, o nome e a assinatura do representante ou responsável pelo fornecimento do preço.
+
+
+Art. 11. Para as pesquisas de preços no mercado via e-mail ou por correspondência deverão ser adotados os seguintes procedimentos:
+
+
+I - após 5 (cinco) dias úteis, contados da emissão do e-mail ou da correspondência, não havendo resposta, o responsável pela pesquisa de preços deverá reiterar o pedido;
+
+
+II - decorrido o prazo de 20 (vinte) dias úteis, contado da emissão do primeiro e-mail ou da primeira correspondência, os procedimentos relacionados à estimativa de preços poderão ser continuados com base nas propostas já obtidas, ainda que em número inferior a 3 (três), desde que comprovado que os procedimentos previstos neste artigo foram adotados.
+
+
+Art. 12. Constatada a inviabilidade da obtenção de preços nas formas previstas nos arts. 9º a 11 desta Portaria, justificadamente, poderão ser adotadas outras soluções a fim de não frustrar a compra ou a contratação pretendida.
+
+
+CAPÍTULO III
+DA QUALIFICAÇÃO TÉCNICO-OPERACIONAL, TÉCNICO-PROFISSIONAL 
+E ECONÔMICO-FINANCEIRA
+
+
+Art. 13. As qualificações técnico-operacional, técnico-profissional e econômico-financeira serão fixadas de acordo com os critérios a seguir enumerados:
+
+
+I - qualificação técnico-operacional:
+
+
+a) exigência de comprovação por parte do licitante de, no mínimo, 3 (três) anos de experiência na execução de serviços semelhantes ao objeto da licitação, comprovados por meio de atestados ou declarações de capacidade técnica, cópias de contratos, registros em órgãos oficiais, ou outros documentos idôneos;
+
+
+b) para contratação de serviços por meio da disponibilização de empregados terceirizados ao TCU vinculados à contratada, na forma de postos de trabalho, exigência de apresentação de um ou mais atestados ou declarações de capacidade técnica expedidos por pessoa jurídica de direito público ou privado, comprovando que gerenciou ou gerencia contratos em atividades pertinentes e compatíveis com o objeto da licitação de, no mínimo, 50% (cinquenta por cento) do número de empregados terceirizados previstos no edital de licitação, devendo observar também:
+
+
+1) quando, além da disponibilização de empregados terceirizados ao TCU, a contratação envolver o fornecimento de materiais e/ou de equipamentos, os atestados ou declarações de capacidade também deverão comprovar que o licitante gerenciou ou gerencia contratos de, no mínimo, 50% (cinquenta por cento) do valor total estimado para materiais e/ou equipamentos;
+
+
+2) quando, além da disponibilização de empregados terceirizados e de materiais e/ou equipamentos, a contratação envolver área ou outra variável que seja relevante para a prestação do serviços, os atestados ou declarações de capacidade também deverão comprovar que o licitante gerenciou ou gerencia contratos de, no mínimo, 50% (cinquenta por cento) do valor estimado para a área total ou outra variável estimada na contratação;
+
+
+c) para contratação de serviços por meio do fornecimento de bens ou de utilidades pela contratada para uso final, realizados ou produzidos nas dependências do TCU ou fora delas, exigência de apresentação de um ou mais atestados ou declarações de capacidade técnica expedidos por pessoa jurídica de direito público ou privado que comprovem que o licitante executou contrato correspondente a, no mínimo, 50% (cinquenta por cento) do estimado pela Administração do TCU; e
+
+
+d) para serviços prestados em quaisquer das formas previstas na alínea "b" deste inciso, se a licitação destinar-se a contratar menos de 40 (quarenta) empregados terceirizados, exigência de comprovação de que o licitante gerencia, na data de abertura da sessão pública do procedimento licitatório, no mínimo, 20 (vinte) empregados terceirizados no âmbito de sua atividade econômica principal e/ou secundária especificada no seu contrato social registrado na junta comercial competente, bem como no cadastro de pessoas jurídicas da Receita Federal do Brasil (RFB).
+
+
+II - qualificação técnico-profissional:
+
+
+a) a qualificação técnico-profissional será dimensionada de acordo com as características de cada serviço licitado e corresponderá, no mínimo, a 50% (cinquenta por cento) de cada item considerado relevante para o desempenho regular das atividades; e
+
+
+b) a comprovação da qualificação técnico-profissional será realizada por meio de documentos hábeis que demonstrem que o licitante possui, na data prevista para entrega da proposta, contrato ou declaração de contratação com profissional de nível superior ou outro devidamente reconhecido pela entidade competente, detentor de atestado de responsabilidade técnica por execução de serviços de características semelhantes aos licitados, no limite fixado na alínea "a" deste inciso.
+
+
+III - qualificação econômico-financeira:
+
+
+a) comprovação de Índices de Liquidez Geral (LG), Liquidez Corrente (LC) e Solvência Geral (SG) superiores a 1;
+
+
+b) comprovação de Capital Circulante Líquido (CCL) ou Capital de Giro (CG) (Ativo Circulante - Passivo Circulante) de, no mínimo, 16,66% (dezesseis inteiros e sessenta e seis centésimos por cento) do valor anual estimado para a contratação;
+
+
+c) comprovação de Patrimônio Líquido (PL) igual ou superior a 10% (dez por cento) do valor estimado da contratação;
+
+
+d) comprovação de que 1/12 (um doze avos) do valor total dos contratos firmados com a Administração Pública e/ou com a iniciativa privada, vigentes na data da sessão pública de abertura do processo licitatório, não é superior ao Patrimônio Líquido do licitante; e
+
+
+e) apresentação de certidão negativa de feitos sobre falência, recuperação judicial ou recuperação extrajudicial, expedida pelo distribuidor da Sede do licitante.
+
+
+§ 1º A comprovação da qualificação econômico-financeira de que trata o inciso III deste artigo será realizada por meio:
+
+
+a) do balanço patrimonial do exercício social exigível na forma da lei e regulamentos na data de realização da licitação, vedada sua substituição por balancetes ou balanços provisórios, podendo ser atualizado por índices oficiais quando encerrados há mais de 3 (três) meses da data da sessão pública de abertura do processo licitatório;
+
+
+b) da Demonstração do Resultado do Exercício (DRE) relativa ao último exercício social exigível, apresentado na forma da lei; e
+
+
+c) da relação de contratos firmados com a iniciativa privada e com a Administração Pública, vigentes na data da sessão pública de abertura do procedimento licitatório, contendo o nome do contratante, do Cadastro Nacional de Pessoas Jurídicas (CNPJ), a data de assinatura do contrato, a vigência e o valor anual do contrato, ou, se o contrato tiver sido assinado com vigência inferior a 12 (doze) meses, o valor total do contrato.
+
+
+§ 2º O valor total da relação de contratos de que trata a alínea "c" do parágrafo anterior que apresentar divergência percentual superior a 10% (dez por cento), para mais ou para menos, em relação ao valor da receita bruta apresentado na DRE, deverá estar acompanhado das devidas justificativas a respeito da divergência.
+
+
+§ 3º A Administração do TCU fixará prazo para apresentação das justificativas de que trata o parágrafo anterior, quando não forem entregues concomitantemente à documentação exigida no processo licitatório.
+
+
+Art. 14. Será aceito o somatório de atestados para comprovar a qualificação técnicooperacional e profissional, desde que os contratos que lhes deram origem tenham sido executados de forma concomitante.
+
+
+Parágrafo único. Somente poderão ser aceitos atestados de capacidade técnica expedidos após a conclusão do contrato ou se decorrido, no mínimo, um ano do início de sua execução, exceto se houver sido firmado para ser prestado em prazo inferior.
+
+
+Art. 15. A Administração do TCU poderá realizar as diligências necessárias, solicitando documentos ou realizando visitas, na Sede ou na filial do licitante, em entidade pública ou privada, com o objetivo de comprovar a veracidade das informações apresentadas pelo licitante.
+
+
+Art. 16. Justificadamente, a depender da especificidade do objeto a ser licitado, os requisitos de qualificação técnico-operacional, técnico-profissional e econômico-financeira constantes deste Capítulo poderão ser suprimidos, adaptados ou acrescidos de outros considerados importantes para a contratação.
+
+
+Parágrafo único. Quando permitida a contratação de consórcio de empresas, deverá ser observado, adicionalmente, os requisitos de habilitação dispostos no art. 33 da Lei nº 8.666, de 1993.
+
+
+Art. 17. O registro do licitante no módulo "Qualificação Técnica" do SICAF, nos termos da Instrução Normativa SLTI nº 02, de 11/10/2010, supre a exigência de registro ou inscrição na entidade competente de que trata o inciso I do art. 30 da Lei n° 8.666, de 1993.
+
+
+CAPÍTULO IV
+DA CONTRATAÇÃO DE EMPRESAS OPTANTES PELO SIMPLES NACIONAL PARA PRESTAÇÃO DE SERVIÇOS TERCEIRIZADOS
+
+
+Art. 18. Deverão constar dos editais de licitação as condições consignadas no Anexo III desta Portaria, para fins de instrução e regularização da participação de Microempresas (ME) ou Empresas de Pequeno Porte (EPP), optantes pelo Simples Nacional, em processos licitatórios destinados à contratação de empresário ou sociedade empresária para prestação de serviços terceirizados mediante a disponibilização de empregado terceirizado ao TCU.
+
+
+CAPÍTULO V
+DA CONTRATAÇÃO DE COOPERATIVAS E DE INSTITUIÇÕES SEM FINS LUCRATIVOS
+
+
+Art. 19. A contratação de sociedades cooperativas somente poderá ocorrer quando, pela sua natureza, o serviço a ser contratado evidenciar:
+
+
+I - a possibilidade de ser executado com autonomia pelos cooperados, de modo a não demandar relação de subordinação entre a cooperativa e os cooperados, nem entre a Administração do TCU e os cooperados; e
+
+
+II - a possibilidade de gestão operacional do serviço for compartilhada ou em rodízio, em que as atividades de coordenação e supervisão da execução dos serviços, e a de preposto, conforme determina o art. 68 da Lei nº 8.666, de 1993, sejam realizadas pelos cooperados de forma alternada, em que todos venham a assumir tal atribuição.
+
+
+Parágrafo único. Quando admitida a participação de cooperativas, estas deverão apresentar um modelo de gestão operacional adequado ao estabelecido neste artigo, sob pena de desclassificação.
+
+
+Art. 20. Não será admitida a contratação de cooperativas cujo estatuto e objetivos sociais não prevejam ou não estejam de acordo com o objeto contratado.
+
+
+Parágrafo único. Quando da contratação de cooperativas, o serviço contratado deverá ser executado obrigatoriamente pelos cooperados, vedada qualquer intermediação ou subcontratação.
+
+
+Art. 21. Somente poderá ocorrer a contratação de instituição sem fins lucrativos cujo estatuto e objetivos sociais prevejam ou estejam de acordo com o objeto a ser contratado.
+
+
+§ 1º Quando da contratação de instituição sem fins lucrativos, o serviço contratado deverá ser executado obrigatoriamente pelos profissionais pertencentes aos quadros funcionais da instituição.
+
+
+§ 2º O procedimento de contratação de instituição sem fins lucrativos, quando cabível, será realizado prevendo a participação e a concorrência, preferencialmente, entre instituições congêneres, podendo, justificadamente, ser permitida a participação de cooperativas, empresário, sociedade empresária, e consórcio de empresas.
+
+
+§ 3º Considerando-se que as instituições sem fins lucrativos gozam de benefícios fiscais e previdenciários específicos, condição que reduz seus custos operacionais em relação às pessoas jurídicas ou físicas legal e regularmente tributadas, não será permitida, em observância ao princípio da isonomia, a participação de instituições sem fins lucrativos em processos licitatórios destinados à contratação de empresário, de sociedade empresária ou de consórcio de empresas.
+
+
+CAPÍTULO VI
+DA REGULARIDADE FISCAL E TRABALHISTA DOS LICITANTES
+
+
+Art. 22. São requisitos para comprovação da regularidade fiscal e trabalhista dos licitantes:
+
+
+I - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ);
+
+
+II - prova de regularidade junto às fazendas federal, estadual ou distrital e municipal do domicílio ou Sede do licitante;
+
+
+III - prova de regularidade relativa à Seguridade Social e ao Fundo de Garantia do Tempo de Serviço (FGTS), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei; e
+
+
+IV - prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa.
+
+
+Parágrafo único. O registro regular e atualizado no SICAF, supre, no que couber, as exigências previstas nos incisos I a IV deste artigo.
+
+
+TÍTULO III
+DAS EXIGÊNCIAS E DAS CLÁUSULAS CONTRATUAIS
+
+
+CAPÍTULO I
+DA VIGÊNCIA E DA PRORROGAÇÃO DOS CONTRATOS DE SERVIÇOS CONTINUADOS
+
+
+Art. 23. O prazo inicial de vigência dos contratos de serviços continuados será, preferencialmente, de 12 (doze) meses.
+
+
+Art. 24. Após o prazo inicial, desde que previsto no contrato e no edital de licitação, o contrato poderá ser prorrogado, sucessivamente, por meio de termo de apostilamento, instruído em processo específico, limitado a 60 (sessenta) meses, desde que preenchidos, cumulativamente, a cada prorrogação, os seguintes requisitos:
+
+
+I - os serviços tenham sido prestados regularmente;
+
+
+II - a contratada não tenha sofrido punição de natureza pecuniária por mais de 3 (três) vezes no TCU, a cada período de vigência do contrato;
+
+
+III - a Administração do TCU tenha interesse na continuidade dos serviços;
+
+
+IV - o valor do contrato permaneça economicamente vantajoso para a Administração do TCU; e
+
+
+V - a contratada concorde com a prorrogação.
+
+
+§ 1º A vantajosidade econômica para a prorrogação de contratos de serviços terceirizados de natureza continuada, de que trata o inciso IV do caput deste artigo, estará assegurada, dispensando-se a realização de pesquisa de preços, quando:
+
+
+a) houver previsão contratual de que as repactuações dos itens envolvendo a folha de salários serão efetuadas com base em convenção ou acordo coletivo de trabalho, sentença normativa ou lei, previamente definidos no edital;
+
+
+b) houver previsão contratual de que os reajustes dos itens envolvendo insumos, materiais e equipamentos serão efetuados com base em índices oficiais de preços, previamente definidos no edital;
+
+
+c) nos casos específicos dos serviços continuados de limpeza, conservação, higienização e de vigilância, os valores da contratação a cada prorrogação forem inferiores aos limites estabelecidos em ato normativo da Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão (SLTI/MP).
+
+
+§ 2º Se os valores forem superiores aos fixados pela SLTI/MP, caberá negociação objetivando a redução dos preços de modo a viabilizar economicamente as prorrogações de contrato.
+
+
+§ 3º A vantajosidade econômica, de que trata o inciso IV do caput deste artigo, para prorrogação de contratos de serviços continuados para fornecimento de bens ou utilidades, produzidos ou elaborados nas dependências do TCU ou fora delas, estará assegurada, dispensando-se a realização de pesquisa de preços, quando houver previsão contratual de que o objeto contratado será reajustado tendo por base índice previamente definido no edital.
+
+
+§ 4º Nos demais casos, quando não houver previsão de reajuste contratual com base em índices de preços, a comprovação da vantajosidade econômica do contrato deverá ser realizada comparando-se, analiticamente, o valor vigente do contrato com o de pesquisa de preços, por item ou itens de custo, realizada na forma dos arts. 9º a 11 desta Portaria.
+
+
+Art. 25. A depender das características do objeto do contrato de serviços continuados, justificadamente, a contratação inicial ou total poderá ser superior a 12 (doze) meses, limitada a 60 (sessenta) meses.
+
+
+Art. 26. Os contratos de serviços não-continuados, que tenham por escopo o fornecimento de bens ou utilidades, ou a prestação de serviços específicos em um período pré-determinado, motivadamente, poderão ser prorrogados pelo prazo necessário à conclusão do objeto.
+
+
+CAPÍTULO II
+DO REAJUSTAMENTO DE PREÇOS DOS CONTRATOS DE SERVIÇOS CONTINUADOS
+
+
+
+Seção I
+Das Regras Gerais Aplicáveis aos Reajustamentos de Preços de Contratos de Serviços Continuados
+
+
+
+Art. 27. É admitido o reajustamento dos preços dos contratos de serviços continuados, desde que seja observado o interregno mínimo de 12 (doze) meses.
+
+
+§ 1º O interregno mínimo de 12 (doze) meses será contado:
+
+
+a) no caso de mão de obra, a partir da data do acordo, ou convenção coletiva de trabalho ou sentença normativa vigente à época da apresentação da proposta;
+
+
+b) no caso dos preços de insumos, materiais e equipamentos, a partir da data do orçamento ou da proposta, conforme fixado no edital; e
+
+
+c) no caso de serviços prestados por meio do fornecimento de bens ou de utilidades pela contratada para uso final, realizados ou produzidos nas dependências do TCU ou fora delas, a partir da data do orçamento ou da proposta, conforme fixado no edital.
+
+
+§ 2º Os preços de insumos decorrentes de convenção, acordo coletivo de trabalho, sentença normativa ou definidos pelo poder público serão reajustados com base nos respectivos instrumentos legais, na mesma data que ocorrer a repactuação da mão de obra.
+
+
+Art. 28. Os reajustamentos de preços serão precedidos de solicitação da contratada, e acompanhados de:
+
+
+I - no caso das repactuações:
+
+
+a) documentos indispensáveis à comprovação da alteração dos preços de mercado de cada um dos itens da planilha a serem alterados, quando for o caso;
+
+
+b) novo acordo ou convenção coletiva de trabalho, sentença normativa ou lei, que fundamentam o pedido de repactuação;
+
+
+c) demonstração da alteração dos custos, por meio de apresentação das planilhas analíticas de composição de custos e formação de preços; e
+
+
+d) documentos que comprovem que a contratada já arca com os custos decorrentes das disposições do novo acordo ou convenção coletiva.
+
+
+II - no caso de reajustes, dos índices oficiais de preços previstos no contrato.
+
+
+Art. 29. É vedada a inclusão, por ocasião dos reajustamentos, de benefícios não previstos na proposta inicial, exceto quando se tornarem obrigatórios por força de instrumento legal.
+
+
+Art. 30. Caso a contratada não requeira tempestivamente o reajustamento de preços e prorrogue o contrato sem pleiteá-lo, ocorrerá a preclusão do direito.
+
+
+Art. 31. Os reajustamentos de preços serão formalizados, conforme definido no edital e no contrato, por meio de apostilamento.
+
+
+Art. 32. Os reajustes serão calculados com base na seguinte fórmula:
+
+
+R =
+
+(I – I0) .
+
+P
+
+I0
+
+ 
+
+
+Onde:
+
+
+a) para o primeiro reajuste:
+
+
+R = reajuste procurado;
+
+
+I = índice relativo ao mês do reajuste;
+
+
+I0 = índice relativo ao mês da data limite para apresentação da proposta ou orçamento, conforme fixado em edital;
+
+
+P = preço atual dos serviços;
+
+
+b) para os reajustes subsequentes:
+
+
+R = reajuste procurado;
+
+
+I = índice relativo ao mês do novo reajuste;
+
+
+I0 = índice relativo ao mês do início dos efeitos financeiros do último reajuste efetuado;
+
+
+P = preço dos serviços/produtos atualizado até o último reajuste efetuado.
+
+
+
+Seção II
+Do Reajustamento de Preços de Contratos de Serviços Terceirizados de natureza Continuada – com ou sem o fornecimento de material
+
+
+
+Art. 33. A repactuação de preços da mão de obra será efetuada com base nos acordos ou convenções coletivas de trabalho adotados para elaboração da proposta do licitante, sentença normativa ou lei.
+
+
+§ 1º Inexistindo convenção coletiva ou acordo coletivo de trabalho, a repactuação dos preços da mão de obra terá como base a pesquisa de preços realizada na mesma fonte utilizada para a fixação da remuneração inicial, devendo ser observados os mesmos critérios fixados quando da elaboração da estimativa de preços.
+
+
+§ 2º No caso do parágrafo anterior, inexistindo a mesma fonte utilizada para elaboração do orçamento inicial, poderá ser utilizada nova fonte, desde que devidamente justificado.
+
+
+Art. 34. Os reajustes de preços de insumos, de materiais e de equipamentos serão efetuados com base em índices oficiais de preços, previamente definidos no edital, correlacionados ao objeto do contrato.
+
+
+§ 1º Na falta de índice específico ou setorial, poderá servir como base o Índice Nacional de Preços ao Consumidor Amplo (IPCA/IBGE).
+
+
+§ 2º Qualquer que seja o índice adotado para reajustar o contrato, o percentual de reajuste não poderá ultrapassar a meta de inflação fixada pelo Conselho Monetário Nacional (CMN), nos termos do Decreto n° 3.088, de 21 de junho de 1999.
+
+
+Art. 35. Nos contratos de serviços prestados por meio da disponibilização de empregados terceirizados na forma de postos de trabalho, com ou sem fornecimento do material necessário à realização dos serviços, quando houver previsão no edital e no contrato de que os custos dos insumos, dos materiais e dos equipamentos serão corrigidos por meio de índice de preços, o reajustamento será realizado, simultaneamente:
+
+
+I - para a mão de obra, por meio de repactuação;
+
+
+II - para os insumos, materiais e equipamentos, por meio de reajuste.
+
+
+§ 1º Os insumos, materiais e equipamentos serão reajustados simultaneamente com a mão de obra quando decorrido, no mínimo, o interregno de 12 (doze) meses previsto na alínea "b" do §1º do art. 27 desta Portaria.
+
+
+§ 2º Quando o interregno mínimo de 12 (doze) meses previsto no parágrafo anterior não tiver sido cumprido, serão repactuados exclusivamente os custos vinculados à mão de obra.
+
+
+
+Seção III
+Do Reajustamento de Preços dos Demais Contratos de Serviços Continuados
+
+
+
+Art. 36. Os reajustamentos dos preços dos serviços prestados por meio do fornecimento de bens ou utilidades, produzidos ou elaborados nas dependências do TCU ou fora delas, serão efetuados com base no menor percentual dentre os discriminados abaixo:
+
+
+I - variação apurada a partir da comparação entre os novos preços obtidos em pesquisa realizada na forma dos arts. 9º a 11 desta Portaria, e as estimativas de preços utilizadas quando da realização da licitação;
+
+
+II - variação percentual de índices oficiais de preço definidos no contrato.
+
+
+Parágrafo único. Justificadamente, o contrato poderá fixar como critério de reajustamento de preços o reajuste mediante aplicação da variação prevista no inciso I, ou o reajuste mediante a aplicação da variação prevista no inciso II, ambos deste artigo, ou, ainda, a repactuação, mediante variação de custos unitários apurado em planilha de composição de custos.
+
+
+
+Seção IV
+Dos efeitos financeiros dos Reajustamentos de preços de Contratos Continuados
+
+
+
+Art. 37. Os reajustamentos produzirão efeitos financeiros:
+
+
+I - no caso de repactuação de mão de obra, a partir da data prevista no acordo, ou na convenção coletiva de trabalho ou na sentença normativa ou lei, motivadores do pedido de repactuação;
+
+
+II - no caso de reajustes, a partir da implementação do direito da contratada, conforme fixado no edital e no contrato, tendo por referência a data de apresentação da proposta ou do orçamento a que a proposta se referir, conforme fixado em edital;
+
+
+III - nas demais repactuações envolvendo materiais e equipamentos ou contratos de serviços continuados para fornecimento de bens ou utilidades, produzidos ou elaborados nas dependências do TCU ou fora delas, a partir da implementação do direito da contratada, tendo por referência a data de apresentação da proposta ou do orçamento a que a proposta se referir, conforme definido no edital e no contrato.
+
+
+Parágrafo único. Os reajustamentos subsequentes ao primeiro produzirão efeitos financeiros 12 (doze) meses a contar da data de início dos efeitos financeiros da última repactuação ou reajuste ocorridos.
+
+
+CAPÍTULO III
+DO REAJUSTE DE PREÇOS DOS CONTRATOS DE SERVIÇOS NÃO-CONTINUADOS, CELEBRADOS POR PRAZO DETERMINADO OU POR ESCOPO
+
+
+Art. 38. Os preços unitários e o saldo do contrato poderão ser reajustados, por meio de apostila, utilizando-se a variação do índice oficial de preços adotado no contrato, acumulado em 12 (doze) meses, com base na seguinte fórmula:
+
+
+R =
+
+(I – I0) .
+
+P
+
+I0
+
+ 
+
+
+Onde:
+
+
+a) para o primeiro reajuste:
+
+
+R = reajuste procurado;
+
+
+I = índice relativo ao mês do reajuste;
+
+
+I0 = índice relativo ao mês da data limite para apresentação da proposta;
+
+
+P = preços unitários/saldo contratual na data de aquisição do direito ao reajuste;
+
+
+b) para os reajustes subsequentes:
+
+
+R = reajuste procurado;
+
+
+I = índice relativo ao mês do novo reajuste;
+
+
+I0 = índice relativo ao mês do início dos efeitos financeiros do último reajuste efetuado;
+
+
+P = preços unitários/saldo contratual na nova data de aquisição do direito ao reajuste;
+
+
+§ 1º Os reajustes deverão ser precedidos de solicitação da contratada;
+
+
+§ 2º O saldo contratual sobre o qual incidirá o reajuste deverá ser informado pela fiscalização do contrato.
+
+
+§ 3º Na apuração do saldo contratual para incidência do reajuste serão deduzidos, além dos serviços medidos e pagos até o momento de aquisição do direito ao reajuste, os serviços previstos em cronograma físico-financeiro, mas não executados por culpa exclusiva da contratada.
+
+
+CAPÍTULO IV
+DA GARANTIA DE EXECUÇÃO DE CONTRATOS E DO SEGURO CONTRA RISCOS DE ENGENHARIA E ACIDENTE DE TRABALHO E DO SEGURO DE PAGAMENTO ANTECIPADO
+
+
+Art. 39. Quando das contratações de serviços poderá ser exigido da contratada a apresentação de uma das modalidades de garantias contratuais previstas no art. 56, § 1º, da Lei nº 8.666, de 1993, adotando-se, de acordo com as especificações do objeto, um dos modelos de cláusula de garantia constantes do Anexo I, Modelos de "A" a "D", desta Portaria.
+
+
+§ 1º A prestação de garantia contratual, quando exigida, deverá estar prevista expressamente no instrumento convocatório.
+
+
+§ 2º A Secretaria-Geral de Administração (Segedam) poderá definir, em ato próprio, o valor mínimo do contrato a partir do qual caberá a exigência de garantia contratual.
+
+
+Art. 40. Quando das contratações de serviços de engenharia deverá ser exigido da contratada a apresentação de seguro contra riscos de engenharia e de seguro coletivo contra acidentes de trabalho, adotando-se o modelo constante do Anexo I, Modelo "E", desta Portaria.
+
+
+Art. 41. A depender do tipo de objeto contratado, motivadamente, quando prevista a possibilidade de pagamentos antecipados no edital e no contrato, deverá ser exigido seguro garantia nos termos do art. 40, inciso XIV, alínea "e", da Lei nº 8.666, de 1993.
+
+
+CAPÍTULO V
+DA PROTEÇÃO DOS DIREITOS DOS EMPREGADOS TERCEIRIZADOS
+
+
+Art. 42. Deverá constar do contrato de serviço prestado por meio da disponibilização de empregados terceirizados, na forma de postos de trabalho, com ou sem fornecimento do material e/ou equipamentos, que a contratada:
+
+
+I - estará obrigada a viabilizar a emissão do cartão cidadão pela Caixa Econômica Federal, ou outro documento análogo, para todos os empregados;
+
+
+II - estará obrigada a oferecer todos os meios necessários aos seus empregados terceirizados para que obtenham os extratos dos recolhimentos de suas contribuições previdenciárias ao Instituto Nacional do Seguro Social (INSS) e dos seus depósitos ao FGTS, sempre que solicitados pela fiscalização do contrato;
+
+
+III - deverá efetuar os pagamentos de seus empregados em agência bancária localizada na cidade ou na região metropolitana na qual os serviços estejam sendo prestados, ou localizada em outro ponto definido pela Administração do TCU;
+
+
+IV - deverá dispor ou montar matriz, filial ou escritório em local previamente definido no edital, com pessoal qualificado e em quantidade suficiente para gerir o contrato; e
+
+
+V - autoriza a Administração do TCU a realizar os pagamentos de salários e demais benefícios diretamente aos empregados, bem como das contribuições previdenciárias e do FGTS, quando estes não forem honrados pela contratada.
+
+
+CAPÍTULO VI
+DAS RETENÇÕES DE IMPOSTOS E CONTRIBUIÇÕES SOCIAIS NA FONTE
+
+
+Art. 43. Deverá constar da minuta de contrato previsão expressa da possibilidade de retenções de impostos e contribuições na fonte, conforme Anexo IV desta Portaria.
+
+
+CAPÍTULO VII
+DAS SANÇÕES ADMINISTRATIVAS
+
+
+Art. 44. À contratada e ao licitante, conforme o caso, poderão ser aplicadas as sanções administrativas previstas nos arts. 86 e 87, incisos I a IV, da Lei nº 8.666, de 1993; e art. 7º da Lei nº 10.520, de 17 de julho de 2002, respectivamente, de:
+
+
+I - advertência;
+
+
+II - multa;
+
+
+III - suspensão temporária de participação em licitação e impedimento de contratar com a Administração do TCU, por prazo não superior a 2 (dois) anos;
+
+
+IV - declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a contratada ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior; ou
+
+
+V - impedimento de licitar e contratar com a União e descredenciamento no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da Lei nº 10.520, de 2002, pelo prazo de até 5 (cinco) anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais.
+
+
+Art. 45. Deverão ser fixadas em contrato as sanções pelo descumprimento ou cumprimento irregular deste, adaptando-as, de acordo com as especificidades de cada objeto, ao Anexo II desta Portaria.
+
+
+Art. 46. A dimensão das sanções poderá ser fixada em valores preestabelecidos ou em percentual do valor diário, mensal ou anual do contrato.
+
+
+Parágrafo único. A dimensão das penas deverá ser fixada e aplicada de acordo com a gravidade da infração cometida.
+
+
+Art. 47. Constitui cláusula obrigatória do contrato a autorização da contratada para que a Administração do TCU deduza, dos valores devidos pelos serviços prestados, o valor das multas aplicadas.
+
+
+TITULO IV
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 48. A Segedam, com apoio das unidades técnicas da área de tecnologia da informação do TCU, deverá adotar providências com o objetivo de desenvolver ferramentas que padronizem e automatizem a elaboração de termos de referência, editais, contratos e planilhas orçamentárias para fins de licitação, pagamento, reajuste e repactuação de preços e acompanhamento de serviços.
+
+
+Art. 49. Das instruções que encaminharem à autoridade competente o termo de referência ou o projeto básico, o edital e a minuta de contrato, deverá constar informação no sentido de que os documentos foram elaborados seguindo o disposto nesta Portaria.
+
+
+Parágrafo único. A utilização de critérios não fixados nesta Portaria deverá ser justificada.
+
+
+Art. 50. O disposto nesta Portaria aplica-se, no que couber e com as adequações que se fizerem necessárias, às aquisições de materiais de consumo e permanente, a quaisquer das modalidades de licitação, às inexigibilidades e dispensas de licitação, previstas na Lei nº 8.666, de 1993, e na Lei nº 10.520, de 2002.
+
+
+Art. 51. O disposto nesta Portaria aplica-se, no que couber e justificadamente, aos contratos vigentes.
+
+
+Art. 52. A Segedam fica autorizada a dirimir os casos omissos e a atualizar os Anexos desta Portaria.
+
+
+Art. 53. Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+ANEXO I DA PORTARIA-TCU Nº 128, DE 14 DE MAIO DE 2014
+
+
+
+
+Modelos de Cláusulas de Garantia e de Seguros
+
+
+
+
+
+Modelo "A"
+
+
+
+
+
+Cláusula de Garantia de Execução de Contratos Terceirizados de Natureza Continuada Mediante a Disponibilização de Empregado Terceirizado na Forma de Postos de Trabalho
+
+
+
+1. A CONTRATADA deverá apresentar à Administração do CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato, comprovante de prestação de garantia correspondente ao percentual de 5% (cinco por cento) do valor atualizado do contrato, podendo optar por caução em dinheiro ou títulos da dívida pública, seguro-garantia ou fiança bancária.
+
+
+2. A garantia assegurará, qualquer que seja a modalidade escolhida, o pagamento de:
+
+
+2.1. Prejuízos advindos do não cumprimento do contrato;
+
+
+2.2. Multas punitivas aplicadas pela FISCALIZAÇÃO à CONTRATADA;
+
+
+2.3. Prejuízos diretos causados à CONTRATANTE decorrentes de culpa ou dolo durante a execução do contrato;
+
+
+2.4. Obrigações previdenciárias e trabalhistas não honradas pela CONTRATADA.
+
+
+3. No caso de a CONTRATADA optar pelo seguro-garantia, poderá decidir-se por uma das seguintes alternativas:
+
+
+3.1. apresentar seguro-garantia para os riscos elencados nos subitens 2.1 a 2.4 do item 2 acima, correspondente a 5% (cinco por cento) do valor atualizado do contrato, na modalidade "Seguro-garantia do Construtor, do Fornecedor e do Prestador de Serviço" com cláusula específica indicando a cobertura adicional de obrigações previdenciárias e/ou trabalhistas não honradas pela CONTRATADA; ou
+
+
+3.2. apresentar seguro-garantia, modalidade "Seguro-garantia do Construtor, do Fornecedor e do Prestador de Serviço" para cobertura dos subitens 2.1 a 2.3 do item 2 acima, complementada com a garantia adicional da modalidade "Seguro-Garantia de Ações Trabalhistas e Previdenciárias" para o subitem 2.4 do item 2 acima, correspondentes a 1% (um por cento) e 4% (quatro por cento), respectivamente, do valor atualizado do contrato.
+
+
+4. A garantia em dinheiro deverá ser efetuada na Caixa Econômica Federal, em conta específica com correção monetária, em favor do Tribunal de Contas da União.
+
+
+5. A garantia na modalidade fiança bancária deverá ser apresentada conforme o modelo constante do Modelo "A-1".
+
+
+6. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,2% (dois décimos por cento) do valor do contrato por dia de atraso, até o máximo de 5% (cinco por cento).
+
+
+7. O atraso superior a 25 (vinte e cinco) dias autoriza a Administração a promover o bloqueio dos pagamentos devidos à CONTRATADA, até o limite de 5% (cinco por cento) do valor anual do contrato, a título de garantia.
+
+
+7.1. O bloqueio efetuado com base no item 7 desta cláusula não gera direito a nenhum tipo de compensação financeira à CONTRATADA;
+
+
+7.2. A CONTRATADA, a qualquer tempo, poderá substituir o bloqueio efetuado com base no item 7 desta cláusula por quaisquer das modalidades de garantia, caução em dinheiro ou títulos da dívida pública, seguro-garantia ou fiança bancária.
+
+
+7.3. O valor da multa moratória decorrente do atraso da entrega da garantia poderá ser glosado de pagamentos devidos à CONTRATADA.
+
+
+8. O número do contrato garantido e/ou assegurado deverá constar dos instrumentos de garantia ou seguro a serem apresentados pelo garantidor e/ou segurador.
+
+
+9. Quando da abertura de processos para eventual aplicação de penalidade, a fiscalização do contrato deverá comunicar a seguradora e/ou a fiadora paralelamente às comunicações de solicitação de defesa prévia à CONTRATADA e das decisões finais de 1ª e última instância administrativa.
+
+
+10. O garantidor não é parte interessada para figurar em processo administrativo instaurado pelo Tribunal de Contas da União com o objetivo de apurar prejuízos e/ou aplicar sanções à CONTRATADA.
+
+
+11. Será considerada extinta a garantia:
+
+
+11.1. Com a devolução da apólice, carta fiança ou autorização para o levantamento de importâncias depositadas em dinheiro a título de garantia, acompanhada de declaração da Administração, mediante termo circunstanciado, de que a CONTRATADA cumpriu todas as cláusulas do contrato;
+
+
+11.2. Com a extinção do contrato.
+
+
+12. Isenção de responsabilidade da garantia:
+
+
+12.1. O Tribunal de Contas da União não executará a garantia na ocorrência de uma ou mais das seguintes hipóteses:
+
+
+12.1.1. Caso fortuito ou força maior;
+
+
+12.1.2. Alteração, sem prévio conhecimento da seguradora ou do fiador, das obrigações contratuais;
+
+
+12.1.3. Descumprimento das obrigações pela CONTRATADA decorrentes de atos ou fatos praticados pela Administração; e
+
+
+12.1.4. Atos ilícitos dolosos praticados por servidores da Administração.
+
+
+12.2. Caberá à própria Administração apurar a isenção da responsabilidade prevista nos itens 12.1.3 e 12.1.4 desta cláusula, não sendo a entidade garantidora parte no processo instaurado pelo Tribunal de Contas da União. 
+
+
+13. Para efeitos da execução da garantia, os inadimplementos contratuais deverão ser comunicados pelo CONTRATANTE à CONTRATADA e/ou à Instituição Garantidora, no prazo de até 90 (noventa) dias após o término de vigência do contrato.
+
+
+
+Obs.: Quando se tratar de contratos com disponibilização de bens sob guarda da contratada, incluir a cláusula abaixo:
+
+
+
+14. A CONTRATADA também estará obrigada a apresentar, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato, seguro multirriscos básico com coberturas adicionais, no mínimo, de Danos Elétricos, Subtração de Bens e Mercadorias, Responsabilidade Civil de Operações, Responsabilidade Civil do Empregador, Equipamentos Estacionários e Móveis, a fim de garantir as instalações e todos os bens a serem entregues a guarda da CONTRATADA.
+
+
+14.1. no caso da cobertura adicional dos Equipamentos
+
+
+Estacionários e Móveis, o valor segurado deverá corresponder à totalidade dos bens e equipamentos colocados sob a guarda da CONTRATADA.
+
+
+
+
+Modelo "A-1"
+
+
+
+
+
+Modelo de Carta de Fiança Bancária para Garantia de Execução Contratual
+
+
+
+1. Pela presente, o (a) (nome da instituição fiadora) com sede em (endereço completo), por seus representantes legais infra-assinados, declara que se responsabiliza como FIADOR e principal pagador, com expressa renúncia dos benefícios estatuídos no Artigo 827, do Código Civil Brasileiro, da empresa (nome da empresa), com sede em (endereço completo), até o limite de R$ (valor da garantia) (valor por escrito) para efeito de garantia à execução do Contrato nº (número do contrato, formato xx/ano), decorrente do processo licitatório (modalidade e número do instrumento convocatório da licitação – ex.: PE nº xx/ano), firmado entre a AFIANÇADA e o Tribunal de Contas da União para (objeto da licitação).
+
+
+2. A fiança ora concedida visa garantir o cumprimento, por parte de nossa AFIANÇADA, de todas as obrigações estipuladas no contrato retromencionado, abrangendo o pagamento de:
+
+
+a) Prejuízos advindos do não cumprimento do contrato;
+
+
+b) Multas punitivas aplicadas pela FISCALIZAÇÃO à CONTRATADA;
+
+
+c) Prejuízos diretos causados à CONTRATANTE decorrentes de culpa ou dolo durante a execução do contrato; e
+
+
+d) Obrigações previdenciárias e/ou trabalhistas não honradas pela CONTRATADA.
+
+
+3. Esta fiança é valida por (prazo, contado em dias, correspondente à vigência do contrato) (valor por escrito) dias, contados a partir de (data de início da vigência do contrato), vencendo-se, portanto em (data).
+
+
+4. Na hipótese de inadimplemento de qualquer das obrigações assumidas pela AFIANÇADA, o (a) (nome da instituição fiadora) efetuará o pagamento das importâncias que forem devidas, no âmbito e por efeito da presente fiança, até o limite acima estipulado, no prazo de 48 (quarenta e oito) horas, contado do recebimento de comunicação escrita do Tribunal de Contas da União.
+
+
+5. A comunicação de inadimplemento deverá ocorrer até o prazo máximo de 90 (dias) após o vencimento desta fiança.
+
+
+6. Nenhuma objeção ou oposição da nossa AFIANÇADA será admitida ou invocada por este FIADOR com o fim de escusar-se do cumprimento da obrigação assumida neste ato e por este instrumento perante o Tribunal de Contas da União.
+
+
+7. Obriga-se este FIADOR, outrossim, pelo pagamento de quaisquer despesas judiciais e/ou extrajudiciais, bem assim por honorários advocatícios, na hipótese do Tribunal de Contas da União se ver compelido a ingressar em juízo para demandar o cumprimento da obrigação a que se refere a presente fiança.
+
+
+8. Se, no prazo máximo de 90 (noventa) dias após a data de vencimento desta fiança, o (a) (nome da instituição fiadora) não tiver recebido do Tribunal de Contas da União qualquer comunicação relativa a inadimplemento da AFIANÇADA, ou termo circunstanciado de que a AFIANÇADA cumpriu todas as cláusulas do contrato, acompanhado do original desta Carta de Fiança, esta fiança será automaticamente extinta, independentemente de qualquer formalidade, aviso, notificação judicial ou extrajudicial, deixando, em consequência, de produzir qualquer efeito e ficando o FIADOR exonerado da obrigação assumida por força deste documento.
+
+
+9. Declara, ainda, este FIADOR, que a presente fiança está devidamente contabilizada e que satisfaz às determinações do Banco Central do Brasil e aos preceitos da legislação bancária aplicáveis e, que, os signatários deste Instrumento estão autorizados a prestar a presente fiança.
+
+
+10. Declara, finalmente, que está autorizado pelo Banco Central do Brasil a expedir Carta de Fiança e que o valor da presente se contém dentro dos limites que lhe são autorizados pela referida entidade federal.
+
+
+(Local e data)
+
+
+(Instituição garantidora)
+
+
+(Assinaturas autorizadas)
+
+
+
+
+
+Modelo "B"
+
+
+
+
+
+Cláusula de Garantia de Execução de Contratos de Serviços de Natureza Continuada sem Disponibilização de Empregado Terceirizado na Forma de Postos de Trabalho (Serviços Comuns) Com Bens Colocados Sob Guarda da Contratada
+
+
+
+1. A CONTRATADA deverá apresentar à Administração do CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato de prestação de serviços, comprovante de prestação de garantia de 5% (cinco por cento) sobre o valor anual do contrato, mediante a opção por uma das seguintes modalidades:
+
+
+1.1 - caução em dinheiro ou títulos da dívida pública;
+
+
+1.1.1 - a garantia em apreço, quando em dinheiro, deverá ser efetuada na Caixa Econômica Federal, em conta específica, com correção monetária, em favor do Tribunal de Contas da União.
+
+
+1.2 - seguro-garantia, modalidade "Seguro-garantia do Construtor, do Fornecedor e do Prestador de Serviço"; ou
+
+
+1.3 - fiança bancária.
+
+
+2. A CONTRATADA também estará obrigada a apresentar, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato, seguro multirriscos básico com coberturas adicionais, no mínimo, de Danos Elétricos, Subtração de Bens e Mercadorias, Responsabilidade Civil de Operações, Responsabilidade Civil do Empregador, Equipamentos Estacionários e Móveis, a fim de garantir as instalações e todos os bens a serem entregues a guarda da CONTRATADA.
+
+
+2.1 no caso da cobertura adicional dos Equipamentos Estacionários e Móveis, o valor segurado deverá corresponder à totalidade dos bens e equipamentos colocados sob a guarda da CONTRATADA.
+
+
+3. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,2% (dois décimos por cento) do valor do contrato por dia de atraso, até o máximo de 5% (cinco por cento).
+
+
+4. O atraso superior a 25 (vinte e cinco) dias autoriza a Administração a promover o bloqueio dos pagamentos devidos à CONTRATADA, até o limite de 5% (cinco por cento) do valor anual do contrato, a título de garantia.
+
+
+4.1. O bloqueio efetuado com base no item 4 desta cláusula não gera direito a nenhum tipo de compensação financeira à CONTRATADA;
+
+
+4.2. A CONTRATADA, a qualquer tempo, poderá substituir o bloqueio efetuado com base no item 4 desta cláusula por quaisquer das modalidades de garantia, caução em dinheiro ou títulos da dívida pública, seguro-garantia ou fiança bancária.
+
+
+
+
+
+Modelo "B-1"
+
+
+
+
+
+Modelo de Carta de Fiança Bancária para Garantia de Execução Contratual
+
+
+
+1. Pela presente, o (a) (nome da instituição fiadora) com sede em (endereço completo), por seus representantes legais infra-assinados, declara que se responsabiliza como FIADOR e principal pagador, com expressa renúncia dos benefícios estatuídos no Artigo 827, do Código Civil Brasileiro, da empresa (nome da empresa), com sede em (endereço completo), até o limite de R$ (valor da garantia) (valor por escrito) para efeito de garantia à execução do Contrato nº (número do contrato, formato xx/ano), decorrente do processo licitatório (modalidade e número do instrumento convocatório da licitação – ex.: PE nº xx/ano), firmado entre a AFIANÇADA e o Tribunal de Contas da União para (objeto da licitação).
+
+
+2. A fiança ora concedida visa garantir o cumprimento, por parte de nossa AFIANÇADA, de todas as obrigações estipuladas no contrato retromencionado, abrangendo o pagamento de:
+
+
+a) Prejuízos advindos do não cumprimento do contrato;
+
+
+b) Multas punitivas aplicadas pela FISCALIZAÇÃO à CONTRATADA; e
+
+
+c) Prejuízos diretos causados à CONTRATANTE decorrentes de culpa ou dolo durante a execução do contrato.
+
+
+3. Esta fiança é válida por (prazo, contado em dias, correspondente à vigência do contrato) (valor por escrito) dias, contados a partir de (data de início da vigência do contrato), vencendo-se, portanto em (data).
+
+
+4. Na hipótese de inadimplemento de qualquer das obrigações assumidas pela AFIANÇADA, o (a) (nome da instituição fiadora) efetuará o pagamento das importâncias que forem devidas, no âmbito e por efeito da presente fiança, até o limite acima estipulado, no prazo de 48 (quarenta e oito) horas, contado do recebimento de comunicação escrita do Tribunal de Contas da União.
+
+
+5. A comunicação de inadimplemento deverá ocorrer até o prazo máximo de 90 (dias) após o vencimento desta fiança.
+
+
+6. Nenhuma objeção ou oposição da nossa AFIANÇADA será admitida ou invocada por este FIADOR com o fim de escusar-se do cumprimento da obrigação assumida neste ato e por este instrumento perante o Tribunal de Contas da União.
+
+
+7. Obriga-se este FIADOR, outrossim, pelo pagamento de quaisquer despesas judiciais e/ou extrajudiciais, bem assim por honorários advocatícios, na hipótese do Tribunal de Contas da União se ver compelido a ingressar em juízo para demandar o cumprimento da obrigação a que se refere a presente fiança.
+
+
+8. Se, no prazo máximo de 90 (noventa) dias após a data de vencimento desta fiança, o (a) (nome da instituição fiadora) não tiver recebido do Tribunal de Contas da União qualquer comunicação relativa a inadimplemento da AFIANÇADA, ou termo circunstanciado de que a AFIANÇADA cumpriu todas as cláusulas do contrato, acompanhado do original desta Carta de Fiança, esta fiança será automaticamente extinta, independentemente de qualquer formalidade, aviso, notificação judicial ou extrajudicial, deixando, em consequência, de produzir qualquer efeito e ficando o FIADOR exonerado da obrigação assumida por força deste documento.
+
+
+9. Declara, ainda, este FIADOR, que a presente fiança está devidamente contabilizada e que satisfaz às determinações do Banco Central do Brasil e aos preceitos da legislação bancária aplicáveis e, que, os signatários deste Instrumento estão autorizados a prestar a presente fiança.
+
+
+10. Declara, finalmente, que está autorizado pelo Banco Central do Brasil a expedir Carta de Fiança e que o valor da presente se contém dentro dos limites que lhe são autorizados pela referida entidade federal.
+
+
+(Local e data)
+
+
+(Instituição garantidora)
+
+
+(Assinaturas autorizadas)
+
+
+
+
+
+Modelo "C"
+
+
+
+
+
+Cláusula de Garantia de Execução de Contratos de Serviços de Natureza Continuada sem Disponibilização de Empregado Terceirizado na Forma de Postos de Trabalho (Serviços Comuns)
+
+
+
+1. A CONTRATADA deverá apresentar à Administração do CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato, comprovante de prestação de garantia de 5% (cinco por cento) sobre o valor anual do contrato, mediante a opção por uma das seguintes modalidades:
+
+
+1.1 - caução em dinheiro ou títulos da dívida pública;
+
+
+1.1.1 - a garantia em apreço, quando em dinheiro, deverá ser efetuada na Caixa Econômica Federal, em conta específica, com correção monetária, em favor do Tribunal de Contas da União.
+
+
+1.2 - seguro-garantia, modalidade "Seguro-garantia do Construtor, do Fornecedor e do Prestador de Serviço"; ou
+
+
+1.3 - fiança bancária.
+
+
+2. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,2% (dois décimos por cento) do valor do contrato por dia de atraso, até o máximo de 5% (cinco por cento).
+
+
+3. O atraso superior a 25 (vinte e cinco) dias autoriza a Administração a promover o bloqueio dos pagamentos devidos à CONTRATADA, até o limite de 5% (cinco por cento) do valor anual do contrato, a título de garantia.
+
+
+3.1. O bloqueio efetuado com base no item 3 desta cláusula não gera direito a nenhum tipo de compensação financeira à CONTRATADA;
+
+
+3.2. A CONTRATADA, a qualquer tempo, poderá substituir o bloqueio efetuado com base no item 3 desta cláusula por quaisquer das modalidades de garantia, caução em dinheiro ou títulos da dívida pública, seguro-garantia ou fiança bancária.
+
+
+
+
+Modelo "C-1"
+
+
+
+
+
+Modelo de Carta de Fiança Bancária para Garantia de Execução Contratual
+
+
+
+1. Pela presente, o (a) (nome da instituição fiadora) com sede em (endereço completo), por seus representantes legais infra-assinados, declara que se responsabiliza como FIADOR e principal pagador, com expressa renúncia dos benefícios estatuídos no Artigo 827, do Código Civil Brasileiro, da empresa (nome da empresa), com sede em (endereço completo), até o limite de R$ (valor da garantia) (valor por escrito) para efeito de garantia à execução do Contrato nº (número do contrato, formato xx/ano), decorrente do processo licitatório (modalidade e número do instrumento convocatório da licitação – ex.: PE nº xx/ano), firmado entre a AFIANÇADA e o Tribunal de Contas da União para (objeto da licitação).
+
+
+2. A fiança ora concedida visa garantir o cumprimento, por parte de nossa AFIANÇADA, de todas as obrigações estipuladas no contrato retromencionado, abrangendo o pagamento de:
+
+
+a) Prejuízos advindos do não cumprimento do contrato;
+
+
+b) Multas punitivas aplicadas pela FISCALIZAÇÃO à CONTRATADA; e
+
+
+c) Prejuízos diretos causados à CONTRATANTE decorrentes de culpa ou dolo durante a execução do contrato.
+
+
+3. Esta fiança é válida por (prazo, contado em dias, correspondente à vigência do contrato) (valor por escrito) dias, contados a partir de (data de início da vigência do contrato), vencendo-se, portanto em (data).
+
+
+4. Na hipótese de inadimplemento de qualquer das obrigações assumidas pela AFIANÇADA, o (a) (nome da instituição fiadora) efetuará o pagamento das importâncias que forem devidas, no âmbito e por efeito da presente fiança, até o limite acima estipulado, no prazo de 48 (quarenta e oito) horas, contado do recebimento de comunicação escrita do Tribunal de Contas da União.
+
+
+5. A comunicação de inadimplemento deverá ocorrer até o prazo máximo de 90 (dias) após o vencimento desta fiança.
+
+
+6. Nenhuma objeção ou oposição da nossa AFIANÇADA será admitida ou invocada por este FIADOR com o fim de escusar-se do cumprimento da obrigação assumida neste ato e por este instrumento perante o Tribunal de Contas da União.
+
+
+7. Obriga-se este FIADOR, outrossim, pelo pagamento de quaisquer despesas judiciais e/ou extrajudiciais, bem assim por honorários advocatícios, na hipótese do Tribunal de Contas da União se ver compelido a ingressar em juízo para demandar o cumprimento da obrigação a que se refere a presente fiança.
+
+
+8. Se, no prazo máximo de 90 (noventa) dias após a data de vencimento desta fiança, o (a) (nome da instituição fiadora) não tiver recebido do Tribunal de Contas da União qualquer comunicação relativa a inadimplemento da AFIANÇADA, ou termo circunstanciado de que a AFIANÇADA cumpriu todas as cláusulas do contrato, acompanhado do original desta Carta de Fiança, esta fiança será automaticamente extinta, independentemente de qualquer formalidade, aviso, notificação judicial ou extrajudicial, deixando, em consequência, de produzir qualquer efeito e ficando o FIADOR exonerado da obrigação assumida por força deste documento.
+
+
+9. Declara, ainda, este FIADOR, que a presente fiança está devidamente contabilizada e que satisfaz às determinações do Banco Central do Brasil e aos preceitos da legislação bancária aplicáveis e, que, os signatários deste Instrumento estão autorizados a prestar a presente fiança.
+
+
+10. Declara, finalmente, que está autorizado pelo Banco Central do Brasil a expedir Carta de Fiança e que o valor da presente se contém dentro dos limites que lhe são autorizados pela referida entidade federal.
+
+
+(Local e data)
+
+
+(Instituição garantidora)
+
+
+(Assinaturas autorizadas)
+
+
+
+
+
+Modelo "D"
+
+
+
+
+
+Cláusula de Garantia de Execução de Contratos de Serviços de Engenharia
+
+
+
+1. A CONTRATADA deverá apresentar à Administração do CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato de prestação de serviços, comprovante de prestação de garantia de 5% (cinco por cento) sobre o valor anual do contrato, mediante a opção por uma das seguintes modalidades:
+
+
+1.1 - caução em dinheiro ou títulos da dívida pública;
+
+
+1.1.1 - a garantia em apreço, quando em dinheiro, deverá ser efetuada na Caixa Econômica Federal, em conta específica, com correção monetária, em favor do Tribunal de Contas da União.
+
+
+1.2 - seguro-garantia, modalidade "Seguro-garantia do Construtor, do Fornecedor e do Prestador de Serviço"; ou
+
+
+1.3 - fiança bancária.
+
+
+2. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,2% (dois décimos por cento) do valor do contrato por dia de atraso, até o máximo de 5% (cinco por cento).
+
+
+3. O atraso superior a 25 (vinte e cinco) dias autoriza a Administração a promover o bloqueio dos pagamentos devidos à CONTRATADA, até o limite de 5% (cinco por cento) do valor anual do contrato, a título de garantia.
+
+
+3.1. O bloqueio efetuado com base no item 3 desta cláusula não gera direito a nenhum tipo de compensação financeira à CONTRATADA; e
+
+
+3.2. A CONTRATADA, a qualquer tempo, poderá substituir o bloqueio efetuado com base no item 3 desta cláusula por quaisquer das modalidades de garantia, caução em dinheiro ou títulos da dívida pública, seguro-garantia ou fiança bancária.
+
+
+
+
+Modelo "D-1"
+
+
+
+
+
+Modelo de Carta de Fiança Bancária para Garantia de Execução Contratual
+
+
+
+1. Pela presente, o (a) (nome da instituição fiadora) com sede em (endereço completo), por seus representantes legais infra-assinados, declara que se responsabiliza como FIADOR e principal pagador, com expressa renúncia dos benefícios estatuídos no Artigo 827, do Código Civil Brasileiro, da empresa (nome da empresa), com sede em (endereço completo), até o limite de R$ (valor da garantia) (valor por escrito) para efeito de garantia à execução do Contrato nº (número do contrato, formato xx/ano), decorrente do processo licitatório (modalidade e número do instrumento convocatório da licitação – ex.: PE nº xx/ano), firmado entre a AFIANÇADA e o Tribunal de Contas da União para (objeto da licitação).
+
+
+2. A fiança ora concedida visa garantir o cumprimento, por parte de nossa AFIANÇADA, de todas as obrigações estipuladas no contrato retromencionado, abrangendo o pagamento de:
+
+
+a) Prejuízos advindos do não cumprimento do contrato;
+
+
+b) Multas punitivas aplicadas pela FISCALIZAÇÃO à CONTRATADA; e
+
+
+c) Prejuízos diretos causados à CONTRATANTE decorrentes de culpa ou dolo durante a execução do contrato.
+
+
+3. Esta fiança é válida por (prazo, contado em dias, correspondente à vigência do contrato) (valor por escrito) dias, contados a partir de (data de início da vigência do contrato), vencendo-se, portanto em (data).
+
+
+4. Na hipótese de inadimplemento de qualquer das obrigações assumidas pela AFIANÇADA, o (a) (nome da instituição fiadora) efetuará o pagamento das importâncias que forem devidas, no âmbito e por efeito da presente fiança, até o limite acima estipulado, no prazo de 48 (quarenta e oito) horas, contado do recebimento de comunicação escrita do Tribunal de Contas da União.
+
+
+5. A comunicação de inadimplemento deverá ocorrer até o prazo máximo de 90 (dias) após o vencimento desta fiança.
+
+
+6. Nenhuma objeção ou oposição da nossa AFIANÇADA será admitida ou invocada por este FIADOR com o fim de escusar-se do cumprimento da obrigação assumida neste ato e por este instrumento perante o Tribunal de Contas da União.
+
+
+7. Obriga-se este FIADOR, outrossim, pelo pagamento de quaisquer despesas judiciais e/ou extrajudiciais, bem assim por honorários advocatícios, na hipótese do Tribunal de Contas da União se ver compelido a ingressar em juízo para demandar o cumprimento da obrigação a que se refere a presente fiança.
+
+
+8. Se, no prazo máximo de 90 (noventa) dias após a data de vencimento desta fiança, o (a) (nome da instituição fiadora) não tiver recebido do Tribunal de Contas da União qualquer comunicação relativa a inadimplemento da AFIANÇADA, ou termo circunstanciado de que a AFIANÇADA cumpriu todas as cláusulas do contrato, acompanhado do original desta Carta de Fiança, esta fiança será automaticamente extinta, independentemente de qualquer formalidade, aviso, notificação judicial ou extrajudicial, deixando, em consequência, de produzir qualquer efeito e ficando o FIADOR exonerado da obrigação assumida por força deste documento.
+
+
+9. Declara, ainda, este FIADOR, que a presente fiança está devidamente contabilizada e que satisfaz às determinações do Banco Central do Brasil e aos preceitos da legislação bancária aplicáveis e, que, os signatários deste Instrumento estão autorizados a prestar a presente fiança.
+
+
+10. Declara, finalmente, que está autorizado pelo Banco Central do Brasil a expedir Carta de Fiança e que o valor da presente se contém dentro dos limites que lhe são autorizados pela referida entidade federal.
+
+
+(Local e data)
+
+
+(Instituição garantidora)
+
+
+(Assinaturas autorizadas)
+
+
+
+
+
+Modelo "E"
+
+
+
+
+
+Cláusula de Seguro Contra Riscos de Engenharia e Acidente de Trabalho
+
+
+
+1. A CONTRATADA deverá apresentar ao CONTRATANTE, no prazo máximo de 10 (dez) dias úteis, contado da data de entrega do protocolo da via assinada do Contrato, seguro contra riscos de engenharia com validade para todo o período de execução do serviço, o qual deverá cobrir eventuais prejuízos de origem súbita e imprevista por qualquer causa, inclusive as avarias causadas por erros de projetos, desentulho e despesas extraordinárias.
+
+
+1.1. Em caso de sinistros não cobertos pelo seguro contratado, a CONTRATADA responderá pelos danos e prejuízos que causar à Administração, propriedade ou posse de terceiros, em decorrência da execução do serviço.
+
+
+2. A CONTRATADA deverá, ainda, na forma da lei, fazer e apresentar, no mesmo prazo estipulado no item anterior, seguro coletivo contra acidentes de trabalho, com validade para todo o período de execução do serviço, correndo a sua conta as despesas não cobertas pela respectiva apólice, sem prejuízo do seguro obrigatório contra acidentes de trabalho previsto no art. 7º, XXVIII, da Constituição Federal, e regulado pelas Leis nº 8.212, de 24/07/1991 e nº 8.213, de 24/07/1991.
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre a licitação e a execução de contratos de serviços no âmbito da Secretaria do Tribunal de Contas da União (TCU).
+
+ANEXO II DA PORTARIA-TCU Nº 128, DE 14 DE MAIO DE 2014
+
+
+
+
+
+
+Das Sanções
+
+
+
+1. Com fundamento no artigo 7º da Lei nº 10.520/2002, ficará impedida de licitar e contratar com a União e será descredenciada do SICAF e do cadastro de fornecedores da CONTRATANTE, pelo prazo de até 5 (cinco) anos, garantida a ampla defesa, sem prejuízo da rescisão unilateral do contrato e da aplicação de multa de até 30% (trinta por cento) sobre o valor total da contratação, a CONTRATADA que:
+
+
+1.1. apresentar documentação falsa;
+
+
+1.2. fraudar a execução do contrato;
+
+
+1.3. comportar-se de modo inidôneo;
+
+
+1.4. cometer fraude fiscal; ou
+
+
+1.5. fizer declaração falsa.
+
+
+Para os fins do item 1.3, reputar-se-ão inidôneos atos tais como os descritos nos artigos 92, parágrafo único, 96 e 97, parágrafo único, da Lei nº 8.666/1993.
+
+
+Com fundamento nos artigos 86 e 87, incisos I a IV, da Lei nº 8.666, de 1993; e no art. 7º da Lei nº 10.520, de 17/07/2002, nos casos de retardamento, de falha na execução do contrato ou de inexecução total do objeto, garantida a ampla defesa, a contratada poderá ser apenada, isoladamente, ou juntamente com as multas definidas nos itens "4", "5.3", e nas tabelas 2 a 3 abaixo, com as seguintes penalidades:
+
+
+3.1. advertência;
+
+
+3.2. suspensão temporária de participação em licitação e impedimento de contratar com a Administração do Tribunal de Contas da União (TCU), por prazo não superior a dois anos;
+
+
+3.3. declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a contratada ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior; ou
+
+
+3.4. impedimento de licitar e contratar com a União e descredenciamento no SICAF, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da Lei nº 10.520/2002, pelo prazo de até cinco anos.
+
+
+4. No caso de inexecução total do objeto, garantida a ampla defesa e o contraditório, a CONTRATADA estará sujeita à aplicação de multa de até 30% (trinta por cento) do valor do contrato.
+
+
+5. Configurar-se-á o retardamento da execução quando a CONTRATADA:
+
+
+5.1. deixar de iniciar, sem causa justificada, a execução do contrato após 7 (sete) dias contados da data da ordem de serviço; ou
+
+
+5.2. deixar de realizar, sem causa justificada, os serviços definidos no contrato por 3 (três) dias seguidos ou por 10 (dez) dias intercalados.
+
+
+6. No caso do cometimento das infrações elencadas nos subitens "5.1" e "5.2" acima, a contratada poderá ser sancionada com multa de até 5% do contrato.
+
+
+7. A falha na execução do contrato estará configurada quando a CONTRATADA enquadrar-se em pelo menos uma das situações previstas na tabela 3 abaixo, respeitada a graduação de infrações conforme tabela 1 deste item, e alcançar o total de 20 (vinte) pontos, cumulativamente.
+
+
+Tabela 1
+
+
+GRAU DA INFRAÇÃO
+
+PONTOS DA INFRAÇÃO
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4
+
+5
+
+5
+
+8
+
+6
+
+10
+
+
+
+8. Pelo descumprimento das obrigações contratuais, a Administração poderá aplicar multas conforme a graduação estabelecida nas tabelas seguintes:
+
+
+
+Tabela 2
+
+
+GRAU
+
+CORRESPONDÊNCIA (R$)
+
+1
+
+300,00
+
+2
+
+500,00
+
+3
+
+700,00
+
+4
+
+900,00
+
+5
+
+2.000,00
+
+6
+
+5.000,00
+
+
+
+Tabela 3 (deve ser ajustada de acordo com o tipo de objeto contratado)
+
+
+
+ITEM
+
+DESCRIÇÃO
+
+GRAU
+
+INCIDÊNCIA
+
+1
+
+Permitir a presença de empregado não uniformizado ou com uniforme manchado, sujo, mal apresentado e/ou sem crachá.
+
+1
+
+Por empregado e por ocorrência
+
+2
+
+Manter funcionário sem qualificação para a execução dos serviços.
+
+1
+
+Por empregado e por dia
+
+3
+
+Executar serviço incompleto, paliativo, provisório como por caráter permanente, ou deixar de providenciar recomposição complementar.
+
+2
+
+Por ocorrência
+
+4
+
+Fornecer informação pérfida de serviço ou substituir material licitado por outro de qualidade inferior.
+
+2
+
+Por ocorrência
+
+5
+
+Suspender ou interromper, salvo motivo de força maior ou caso fortuito, os serviços contratados.
+
+6
+
+Por dia e por tarefa designada
+
+6
+
+Destruir ou danificar documentos por culpa ou dolo de seus agentes.
+
+3
+
+Por ocorrência
+
+7
+
+Utilizar as dependências do CONTRATANTE para fins diversos do objeto do contrato.
+
+5
+
+Por ocorrência
+
+8
+
+Recusar a execução de serviço determinado pela FISCALIZAÇÃO, sem motivo justificado.
+
+5
+
+Por ocorrência
+
+9
+
+Permitir situação que crie a possibilidade de causar ou que cause dano físico, lesão corporal ou conseqüências letais.
+
+6
+
+Por ocorrência
+
+10
+
+Retirar das dependências do TCU quaisquer equipamentos ou materiais de consumo previstos em contrato, sem autorização prévia.
+
+1
+
+Por item e por ocorrência
+
+11
+
+Retirar funcionários ou encarregados do serviço durante o expediente, sem a anuência prévia do CONTRATANTE. 
+
+4
+
+Por empregado e por dia
+
+
+
+
+Para os itens a seguir, deixar de:
+
+
+
+12
+
+Registrar e controlar, diariamente, a assiduidade e a pontualidade de seu pessoal.
+
+1
+
+Por empregado e por dia
+
+13
+
+Substituir empregado que tenha conduta inconveniente ou incompatível com suas atribuições.
+
+1
+
+Por empregado e por dia
+
+14
+
+Manter a documentação de habilitação atualizada.
+
+1
+
+Por item e por ocorrência
+
+15
+
+Cumprir horário estabelecido pelo contrato ou determinado pela FISCALIZAÇÃO. 
+
+1
+
+Por ocorrência
+
+16
+
+Cumprir determinação da FISCALIZAÇÃO para controle de acesso de seus funcionários.
+
+1
+
+Por ocorrência
+
+17
+
+Cumprir determinação formal ou instrução complementar da FISCALIZAÇÃO. 
+
+2
+
+Por ocorrência
+
+18
+
+Efetuar a reposição de funcionários faltosos.
+
+2
+
+Por ocorrência
+
+19
+
+Efetuar o pagamento de salários, vales-transporte, vales-refeição, seguros, encargos fiscais e sociais, bem como arcar com quaisquer despesas diretas e/ou indiretas relacionadas à execução do contrato nas datas avençadas.
+
+6
+
+Por mês
+
+20
+
+Efetuar os recolhimentos das contribuições sociais da Previdência Social ou do FGTS.
+
+6
+
+Por mês
+
+21
+
+Entregar o uniforme aos empregados a cada 6 (seis) meses.
+
+1
+
+Por empregado e por dia
+
+22
+
+Manter sede, filial ou escritório de atendimento na cidade local de prestação dos serviços.
+
+1
+
+Por ocorrência e por dia
+
+23
+
+Apresentar, quando solicitado, documentação fiscal, trabalhista, previdenciária e outros documentos necessários à comprovação do cumprimento dos demais encargos trabalhistas.
+
+2
+
+Por ocorrência e por dia
+
+24
+
+Creditar os salários nas contas bancárias dos empregados, em agências localizadas na cidade local da prestação dos serviços ou em outro definido pela Administração.
+
+1
+
+Por ocorrência e por dia
+
+25
+
+Entregar ou entregar com atraso ou incompleta documentação exigida em cláusula específica do contrato - DOCUMENTAÇÃO FISCAL, TABALHISTA E PREVIDENCIÁRIA.
+
+1
+
+Por ocorrência e por dia
+
+26
+
+Apresentar notas fiscais discriminando preço e quantidade de todos os materiais utilizados mensalmente, indicando marca, quantidade total e quantidade unitária (volume, peso etc.).
+
+4
+
+Por ocorrência
+
+27
+
+Entregar ou entregar com atraso os esclarecimentos formais solicitados para sanar as inconsistências ou dúvidas suscitadas durante a análise da documentação exigida por força do contrato.
+
+2
+
+Por ocorrência e por dia
+
+28
+
+Manter em estoque equipamentos discriminados em contrato, para uso diário. 
+
+2
+
+Por Item e por dia
+
+29
+
+Fornecer EPIs (Equipamentos de Proteção Individual) aos seus empregados e de impor penalidades àqueles que se negarem a usá-los.
+
+2
+
+Por empregado e por ocorrência
+
+30
+
+Cumprir quaisquer dos itens do contrato e seus anexos não previstos nesta tabela de multas, após reincidência formalmente notificada pela unidade fiscalizadora.
+
+3
+
+Por item e por ocorrência
+
+31
+
+Substituir os equipamentos que apresentarem defeitos e/ou apresentarem rendimento insatisfatório em até 48 horas, contadas da comunicação da contratante.
+
+2
+
+Por dia
+
+32
+
+Providenciar a manutenção para solução de problema que acarrete suspensão de disponibilidade ou de operacionalidade do sistema predial.
+
+4
+
+Por ocorrência
+
+33
+
+Cumprir o programa periódico de manutenção preventiva determinada em contrato.
+
+3
+
+Por item e por ocorrência
+
+
+
+
+Obs.: constatada a inviabilidade prática do uso de tabelas (na forma acima especificada), alternativamente, sem que signifique esgotamento das opções, poder-se-á adotar a seguinte clausula:
+
+
+
+7. Quando do descumprimento de obrigações específicas e gerais da CONTRATADA especificadas no contrato, a CONTRATADA, caso não sejam acatadas suas justificativas, estará sujeita à penalidade de multa entre 0,1% e 0,5% do valor do contrato, por item obrigatório descumprido, limitado ao percentual máximo de 2%, se descumprido mais 1 (um) item obrigatório concomitantemente.
+
+
+9. O valor da multa poderá ser descontado das faturas devidas à CONTRATADA.
+
+
+9.1. Se o valor a ser pago à CONTRATADA não for suficiente para cobrir o valor da multa, a diferença será descontada da garantia contratual.
+
+
+9.2. Se os valores das faturas e da garantia forem insuficientes, fica a CONTRATADA obrigada a recolher a importância devida no prazo de 15 (quinze) dias, contados da comunicação oficial.
+
+
+9.3. Esgotados os meios administrativos para cobrança do valor devido pela CONTRATADA ao CONTRATANTE, este será encaminhado para inscrição em dívida ativa.
+
+
+9.4. Caso o valor da garantia seja utilizado no todo ou em parte para o pagamento da multa, esta deve ser complementada no prazo de até 10 (dez) dias úteis, contado da solicitação do CONTRATANTE.
+
+
+10. O contrato, sem prejuízo das multas e demais cominações legais previstas no contrato, poderá ser rescindido unilateralmente, por ato formal da Administração, nos casos enumerados no art. 78, incisos I a XII e XVII, da Lei nº 8.666/93.
+
+
+
+
+ANEXO III DA PORTARIA-TCU Nº 128, DE 14 DE MAIO DE 2014
+
+
+
+
+Contratação de Micro e Pequenas Empresas para Prestação de Serviços Terceirizados de Natureza Continuada Mediante a Disponibilização ao Tribunal de Empregados Terceirizados Vinculados à Contratada
+
+
+
+1 - Considerando tratar-se de contratação de serviços mediante cessão de mão de obra, conforme previsto no art. 31 da Lei nº 8.212, de 24/07/1991 e alterações e nos artigos 112, 115, 117 e 118, da Instrução Normativa - RFB nº 971, de 13/11/2009 e alterações, licitante Microempresa - ME ou Empresa de Pequeno Porte - EPP, optante pelo Simples Nacional, que, porventura venha a ser contratada, não poderá beneficiar-se da condição de optante e estará sujeita à retenção na fonte de tributos e contribuições sociais, na forma da legislação em vigor, em decorrência de sua exclusão obrigatória do Simples Nacional a contar do mês seguinte ao da contratação, em conseqüência do que dispõem os arts. 17, inciso XII, 30, inciso II, e 31, inciso II, da Lei Complementar n º 123, de 14 de dezembro de 2006 e alterações.
+
+
+1.1. O licitante optante pelo Simples Nacional, que, porventura venha a ser contratado, após a assinatura do contrato, no prazo de 90 (noventa) dias, deverá apresentar cópia dos ofícios, com comprovantes de entrega e recebimento, comunicando a assinatura do contrato de prestação de serviços mediante cessão de mão de obra (situação que gera vedação à opção por tal regime tributário) às respectivas Secretarias Federal, Estadual, Distrital e/ou Municipal, no prazo previsto no inciso II do § 1º do artigo 30 da Lei Complementar nº 123, de 14 de dezembro de 2006 e alterações.
+
+
+1.2. Caso o licitante optante pelo Simples Nacional não efetue a comunicação no prazo assinalado acima, o próprio Tribunal de Contas da União - TCU, em obediência ao princípio da probidade administrativa, efetuará a comunicação à Secretaria da Receita Federal do Brasil - RFB, para que esta efetue a exclusão de ofício, conforme disposto no inciso I do artigo 29 da Lei Complementar nº 123, de 14 de dezembro de 2006 e alterações.
+
+
+1.3. A vedação de realizar cessão ou locação de mão de obra não se aplica às atividades de que trata o art. 18, § 5º-C, da Lei Complementar nº 123, de 14 de dezembro de 2006 e alterações, conforme dispõe o art. 18, § 5º-H, da mesma Lei Complementar, desde que não exercidas cumulativamente com atividades vedadas.
+
+
+
+
+
+
+ANEXO IV DA PORTARIA-TCU Nº 128, DE 14 DE MAIO DE 2014
+
+
+
+
+Das Retenções de Impostos e Contribuições na Fonte
+
+
+
+1. Os pagamentos a serem efetuados em favor da CONTRATADA estarão sujeitos, no que couber, às retenções na fonte nos seguintes termos:
+
+
+1.1. do Imposto de Renda da Pessoa Jurídica - IRPJ, da Contribuição Social sobre o Lucro Líquido - CSLL, da contribuição para seguridade social - COFINS e da contribuição para o PIS/PASEP, na forma da Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, conforme determina o art. 64 da Lei nº 9.430, de 27/12/1996 e alterações;
+
+
+1.2. da contribuição previdenciária ao Instituto Nacional do Seguro Social - INSS, correspondente a 11% (onze por cento), na forma da Instrução Normativa RFB nº 971, de 13/11/2009, conforme determina a Lei nº 8.212, de 24/07/1991 e alterações;
+
+
+1.3. do Imposto Sobre Serviços de Qualquer Natureza - ISSQN, na forma da Lei Complementar nº 116, de 31/07/2003, c/c a legislação Distrital ou municipal pertinente.
+
+
+
+
+ANEXO V DA PORTARIA-TCU Nº 128, DE 14 DE MAIO DE 2014
+
+
+
+Da Comprovação da Qualificação Econômico-financeira 
+
+
+
+Modelo de Declaração de Contratos Firmados com a Iniciativa Privada e com a Administração Pública, nos termos do art. 13, § 1º, alínea "c", desta Portaria 
+
+
+
+
+Declaramos que a empresa _______________________________________, inscrita no CNPJ (MF) nº ____________________, possui os seguintes contratos firmados com a iniciativa privada e a administração pública:	
+
+
+
+Órgão/Empresa
+
+Nº Contrato/ Aditivo
+
+Vigência
+
+Valor Total Atual do Contrato
+
+Início
+
+Término
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Valor Total dos Contratos (Atualizados)
+
+ 
+
+
+
+
+Local e data
+
+
+
+______________________________________________
+
+
+Assinatura e carimbo do emissor
+
+
+
+
+
+Comprovação da exigência de que trata o art. 13, inciso III, alínea "d", desta Portaria
+
+
+
+
+Cálculo demonstrativo visando comprovar que o patrimônio líquido é igual ou superior a 1/12 (um doze avos) do valor dos contratos firmados com a administração pública e com a iniciativa privada.
+
+
+
+Valor do Patrimônio Líquido x 12 > 1
+
+
+Valor total dos contratos
+
+
+
+Obs.: Esse resultado deverá ser superior a 1.
+
+
+
+
+
+Comprovação da exigência de que trata o art. 13, § 2º, desta Portaria
+
+
+
+
+Cálculo demonstrativo da variação percentual do valor total constante na declaração de contratos firmados com a iniciativa privada e com a Administração Pública em relação à receita bruta informada na DRE.
+
+
+
+(Valor da receita bruta – Valor total dos contratos) x 100 = X %
+
+
+Valor da receita bruta
+
+
+
+Obs.: Caso o percentual encontrado seja maior que 10% (positivo ou negativo), o licitante deverá apresentar as devidas justificativas.
+
+
+
+

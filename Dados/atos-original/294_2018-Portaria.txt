@@ -1,0 +1,285 @@
+Portaria
+294/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das competências que lhe são conferidas pelos incisos XIV e XXXIV do art. 28 do Regimento Interno do TCU, e tendo em vista o disposto no art. 8º da Resolução-TCU nº 300, de 10 de outubro de 2018;
+
+
+considerando a importância de aprimoramento contínuo dos mecanismos e da oferta de acesso aos atos administrativos e processuais exarados pelo Tribunal de Contas da União (TCU);
+
+
+considerando a racionalização do processo de trabalho inerente ao Boletim do Tribunal de Contas da União (BTCU), o desenvolvimento de solução específica para automatizar a gestão do BTCU e a integração dessa solução com os demais sistemas corporativos do Tribunal;
+
+
+considerando a importância de sistematizar os procedimentos e práticas institucionais afetos à gestão do BTCU; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC 035.044/2017-9, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º O funcionamento do Boletim do Tribunal de Contas da União (BTCU) obedece ao disposto nesta Portaria, observadas a Resolução-TCU nº 300, de 10 de outubro de 2018, e a legislação de regência da matéria.
+
+
+Art. 2º Para os fins desta Portaria, entende-se por: 
+
+
+I - autoridades do TCU: Ministros, Ministros-Substitutos e Membros do Ministério Público junto ao TCU; 
+
+
+II - colegiados da Secretaria do Tribunal: comitês e comissões constituídos precipuamente por servidores e formalmente definidos em ato normativo do TCU ou do Presidente do Tribunal; e 
+
+
+III - unidades institucionais: unidades básicas e suas unidades integrantes, unidades de assessoramento a autoridades e demais unidades da Secretaria do Tribunal, em sintonia com a estrutura organizacional definida em ato normativo do TCU.
+
+
+CAPÍTULO II
+
+
+DO BTCU
+
+
+Art. 3º O BTCU, instituído pela Portaria nº 173, de 18 de novembro de 1968, é considerado órgão oficial, nos termos do art. 98 da Lei nº 8.443, de 16 de julho de 1992, e do art. 295 do Regimento Interno do TCU, e tem por finalidade conferir publicidade aos atos institucionais, inclusive aos atos processuais e administrativos próprios e às comunicações em geral do Tribunal.
+
+
+Art. 4º O BTCU possui, entre outras, as seguintes particularidades:
+
+
+
+
+
+I - é implementado mediante solução de tecnologia da informação (solução de TI) denominada e-Diário;
+
+
+II - contempla o diário eletrônico do Tribunal, com disponibilização no Portal TCU, em sintonia com o art. 4º da Lei nº 11.419, de 19 de novembro de 2006; 
+
+
+III - substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos expressamente estabelecidos em lei específica; e
+
+
+IV - deve ser disponibilizado com ferramenta de pesquisa de conteúdo que permita o acesso à informação de forma objetiva, transparente, clara e em linguagem de fácil compreensão, em sintonia com o inciso I do § 3º do art. 8º da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação - LAI). 
+
+
+Parágrafo único. A solução e-Diário contempla também, entre outros atributos, funcionalidades para envio de matérias pelo TCU para publicação no Diário Oficial da União (DOU) mediante integração com o sistema disponibilizado pela Imprensa Nacional, bem como para disponibilização no Portal TCU da gestão dos custos inerentes à publicação no DOU.
+
+
+Art. 5º A classificação das informações contidas nos atos enviados para publicação no BTCU deve ser realizada, previamente ao envio, pelo respectivo gestor da informação, nos termos da Resolução-TCU nº 294, de 18 de abril de 2018.
+
+
+Art. 6º Compete à Secretaria-Geral Adjunta de Administração (Adgedam) planejar, organizar, coordenar, supervisionar e controlar a execução das atividades relacionadas à edição do BTCU, bem como elaborar e propor normas e padrões técnicos destinados à racionalização e otimização dos trabalhos correlatos. 
+
+
+CAPÍTULO III
+
+
+DA ORGANIZAÇÃO DO BTCU
+
+
+Art. 7º O BTCU é editado em quatro cadernos: 
+
+
+I - Administrativo; 
+
+
+II - Controle Externo - Ações em Curso;
+
+
+III - Deliberações dos Colegiados do TCU e dos Relatores; e
+
+
+IV - Especial.
+
+
+Art. 8º O caderno Administrativo, de edição diária, divulga os atos administrativos normativos, bem como os demais atos administrativos e de gestão considerados de interesse da Administração e dos servidores, exarados por colegiados, comissões, comitês e autoridades do TCU, bem como por colegiados da Secretaria do Tribunal e unidades institucionais. 
+
+
+Parágrafo único. O caderno Administrativo pode conter, também, matérias transcritas de demais veículos oficiais, bem como outras matérias passíveis de publicação a juízo do Presidente do TCU ou do Secretário-Geral de Administração.
+
+
+Art. 9º O caderno de Controle Externo - Ações em Curso, de edição diária, contém exclusivamente as portarias de fiscalização exaradas pelas unidades integrantes da Secretaria-Geral de Controle Externo (Segecex).
+
+
+Art. 10. O caderno Deliberações dos Colegiados do TCU e dos Relatores, de edição diária, destina-se à publicação das pautas e atas das sessões, das deliberações decorrentes das ações de controle externo - a exemplo dos editais de citação e de notificação -, e das decisões monocráticas dos relatores previstas no art. 4º, §§ 1º e 2º, da Resolução-TCU nº 249, de 2 de maio de 2012, não classificadas pelos relatores como sigilosas. 
+
+
+Parágrafo único. Considera-se que a divulgação das pautas das sessões em BTCU disposta nos termos dos §§ 3º e 4º do art. 141 do Regimento Interno encontra-se suprida mediante a publicação no caderno Deliberações dos Colegiados do TCU e dos Relatores.
+
+
+Art. 11. O caderno Especial pode conter atos típicos do caderno Administrativo ou do caderno de Deliberações dos Colegiados do TCU e dos Relatores, e ocorre, em caráter extraordinário e sob autorização da Adgedam, quando constatada a necessidade de publicação inadiável de ato em data na qual já houve a edição do respectivo caderno diário, bem como se houver interesse corporativo na segmentação de cadernos por temas específicos. 
+
+
+Parágrafo único. Cabe à Adgedam definir a antecedência mínima para envio de matérias para da edição de caderno Especial em razão de segmentação por temas específicos. 
+
+
+Art. 12. Os cadernos de edição diária serão publicados em dias úteis do Distrito Federal, com divulgação de mensagem específica quando não houver matérias a publicar.
+
+
+§ 1º Os cadernos de edição diária conterão as matérias previamente agendadas, desde que encaminhadas para publicação até o dia útil imediatamente anterior. 
+
+
+§ 2º Na aplicação do parágrafo anterior, observa-se que:
+
+
+I - a Adgedam pode definir horário limite para envio das matérias no dia útil anterior à respectiva publicação; e
+
+
+II - é considerado, como agendamento padrão para publicação, o primeiro dia útil posterior à respectiva data de envio da matéria. 
+
+
+Art. 13. Cada caderno do BTCU adotará numeração sequencial própria reiniciada a partir da primeira edição de cada ano. 
+
+
+§ 1º As últimas edições anuais dos cadernos de edição diária serão publicadas no último dia útil do mês de dezembro, independentemente da vigência do recesso regulamentar mencionado no art. 68 da Lei nº 8.443, de 1992, e no parágrafo único do art. 92 do Regimento Interno do TCU. 
+
+
+§ 2º A paginação dos cadernos do BTCU será independente e reiniciada a cada edição. 
+
+
+Art. 14. O BTCU ficará disponível no Portal TCU, observando-se:
+
+
+I - para os cadernos Administrativos, Deliberações dos Colegiados do TCU e dos Relatores, e Especial, a disponibilização em área de acesso público do Portal TCU; e
+
+
+II - para o caderno de Controle Externo - Ações em Curso, a disponibilização em área do Portal TCU de acesso do público interno, em cumprimento ao inciso VIII do art. 23 da Lei nº 12.527, de 2011 (LAI), ressalvada classificação distinta da informação quanto à confidencialidade realizada pelo relator da ação em curso. 
+
+
+§ 1º O término da restrição de acesso ao caderno de Controle Externo - Ações em Curso ocorre em dois anos contados da respectiva produção da informação, ressalvada a hipótese em que o caderno contenha informação com prazo específico de término definido pelo respectivo relator da ação em curso, consoante o art. 24 da Lei nº 12.527, de 2011.
+
+
+§ 2º Cabe à Adgedam, com subsídio em funcionalidade da solução e-Diário, promover a disponibilização dos cadernos de Controle Externo - Ações em Curso, em área de acesso público do Portal TCU, após o respectivo término da restrição de acesso.
+
+
+CAPÍTULO IV
+
+
+DO CADERNO ADMINISTRATIVO DO BTCU
+
+
+Art. 15. Serão publicados no caderno Administrativo do BTCU:
+
+
+I - atos normativos do TCU, do Presidente, dos Ministros, dos Ministros-Substitutos, dos Membros do Ministério Público junto ao Tribunal e dos dirigentes das unidades institucionais, a exemplo de portarias, ordens de serviço, apostilas, editais e eventuais retificações;
+
+
+II - decisões administrativas decisórias sobre concessão de vantagens e benefícios, reconhecimento de direitos, indenizações ou gratificações; e
+
+
+III - outros atos concernentes à vida funcional.
+
+
+Parágrafo único. Os atos mencionados no inciso I deste artigo contemplam, entre outros, os seguintes assuntos:
+
+
+I - convocações dos Ministros-Substitutos para substituir os Ministros em suas ausências e impedimentos;
+
+
+II - designação para função de confiança em caráter interino, de substitutos eventuais e de substituições em período definido; 
+
+
+III - constituição de comissões, grupos de trabalho, juntas médicas e bancas examinadoras;
+
+
+IV - designação para viagens a serviço; e
+
+
+V - movimentação interna de pessoal.
+
+
+Art. 16. Serão publicados, também, no caderno Administrativo do BTCU as seguintes matérias transcritas de outros veículos oficiais: 
+
+
+I - leis, medidas provisórias, decretos e normas afins emanadas das autoridades legalmente constituídas, sobre assuntos de natureza administrativa de interesse das unidades institucionais e servidores do Tribunal; e
+
+
+II - atos e matérias, com publicação obrigatória no Diário Oficial da União (DOU), abaixo relacionados:
+
+
+a) atos normativos expedidos pelo TCU que fixem normas de caráter geral, a saber, instruções normativas, resoluções e decisões normativas;
+
+
+b) enunciados das súmulas da jurisprudência; e
+
+
+c) portarias de provimento e vacância de cargos, e de designação e dispensa de funções de confiança.
+
+
+Art. 17. Poderão, ainda, ser publicados no Caderno Administrativo, a juízo do Presidente do TCU ou do Secretário-Geral de Administração:
+
+
+I - pareceres dos dirigentes das unidades institucionais, emitidos e apreciados pelo Tribunal, pelo Presidente ou pelo Secretário-Geral de Administração, firmando jurisprudência ou entendimento sobre assuntos de pessoal; 
+
+
+II - atos concernentes à vida funcional dos servidores;
+
+
+III - matérias de natureza patrimonial, orçamentária e financeira; e
+
+
+IV - outros expedientes considerados de interesse geral.
+
+
+CAPÍTULO V
+
+
+DO ENVIO DE MATÉRIAS PARA PUBLICAÇÃO
+
+
+Art. 18. As unidades institucionais são responsáveis pelo envio das matérias para publicação no BTCU, mediante uso do sistema e-Diário acessado pela funcionalidade "Solicitar Publicação" no sistema e-TCU ou Sagas, ou da emulação do sistema via integração com as demais soluções corporativas do TCU. 
+
+
+§ 1º Os atos exarados pelo Presidente, pelas demais autoridades e pelos Colegiados do TCU são enviados para publicação, respectivamente, pelo Gabinete do Presidente (Gabpres), pela correspondente unidade de assessoramento a autoridade (Gabinete de Autoridade) e pela Secretaria das Sessões (Seses).
+
+
+§ 2º O envio de matérias para publicação via sistema e-Diário incumbe a servidor da Secretaria do Tribunal mediante uso de perfil específico.
+
+
+§ 3º A unidade que proceder à remessa do arquivo com a matéria a ser publicada fica responsável pelo conteúdo da publicação.
+
+
+§ 4º É considerada pública, no que se refere à classificação quanto à confidencialidade, toda a informação contida em atos encaminhados para publicação no DOU ou nos cadernos do BTCU Administrativo, Especial e Deliberações dos Colegiados do TCU e dos Relatores. 
+
+
+§ 5º O disposto no parágrafo anterior aplica-se inclusive no que se refere às decisões monocráticas dos relatores enviadas para publicação. 
+
+
+Art. 19. Somente serão publicadas no BTCU as matérias produzidas no software adotado como padrão pelo TCU, elaboradas com fiel observância do formato exigido pela correspondente legislação de regência.
+
+
+Parágrafo único. A Adgedam poderá restituir à unidade de origem os atos encaminhados para publicação produzidos em desacordo com os requisitos previstos no caput deste artigo, bem como emanar orientações a respeito.
+
+
+CAPÍTULO VI
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 20. A cada edição do BTCU, a Adgedam enviará uma cópia impressa para o Instituto Serzedello Corrêa (ISC) promover a guarda e disponibilizar para consulta na Biblioteca do Tribunal de Contas da União. 
+
+
+Art. 21. A operacionalização do caderno Deliberações dos Colegiados do TCU e dos Relatores será iniciada em 1º de novembro de 2018 e observará as orientações procedimentais a serem divulgadas conjuntamente pela Seses e pela Adgedam.
+
+
+Art. 22. Cabe ao Presidente do TCU dirimir os casos omissos inerentes ao caderno Deliberações dos Colegiados do TCU e dos Relatores, com eventual consulta prévia ao Conselho Consultivo do Tribunal instituído pela Resolução-TCU nº 290, de 18 de outubro de 2017. 
+
+
+Art. 23. Fica a Secretaria-Geral de Administração (Segedam) autorizada a expedir os atos necessários à operacionalização desta Portaria, a esclarecer os procedimentos operacionais inerentes ao caderno Deliberações dos Colegiados do TCU e dos Relatores, bem como a dirimir os casos omissivos ressalvado o artigo anterior.
+
+
+Art. 24. Esta Portaria terá vigência da data de sua publicação. 
+
+
+RAIMUNDO CARREIRO
+
+
+
+Não consta revogação expressa
+Dispõe sobre o funcionamento do Boletim do Tribunal de Contas da União (BTCU).
+
+

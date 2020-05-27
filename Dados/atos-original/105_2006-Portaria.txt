@@ -1,0 +1,1306 @@
+Portaria
+105/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista o disposto na Resolução nº 126, de 3 de novembro de 1999, e na Resolução nº 140, de 13 de dezembro de 2000, resolve:
+
+
+Art. 1º As competências das unidades gestoras de soluções de tecnologia da informação do Tribunal de Contas da União são as estabelecidas nesta Portaria.
+
+
+Art. 2º Para efeito desta Portaria, entende-se por:
+
+
+I – solução de tecnologia da informação (solução de TI): conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam às necessidades do Tribunal. Consideram-se soluções de TI os seguintes conjuntos:
+
+
+a) sistema interno – sistemas de informação desenvolvidos ou adquiridos de terceiros pela Secretaria de Tecnologia da Informação para apoio a processos de trabalho específicos;
+
+
+b) sistema externo – sistemas de informação desenvolvidos e mantidos por outras instituições, cujo acesso seja permitido a partir do ambiente computacional do Tribunal em apoio a processos de trabalho específicos;
+
+
+c) softwares – ferramentas informatizadas, não vinculadas a sistemas de informação, adquiridas pela Secretaria de Tecnologia da Informação para apoio a processos de trabalho específicos;
+
+
+d) serviço básico – serviços de comunicação, armazenamento e segurança de dados que constituem o ambiente computacional do Tribunal;
+
+
+II – regra de negócio: conjunto de condições, requisitos e procedimentos que definem um processo de trabalho e a forma de tratamento das informações a ele inerentes;
+
+
+III – processo de trabalho: conjunto de atividades que permite a dada unidade ou grupo de unidades realizar seus objetivos funcionais;
+
+
+IV – procedimento de homologação: ação concebida para verificar a aderência de uma solução de TI às regras de negócio definidas pela unidade gestora;
+
+
+V – procedimento de produção: ação concebida para viabilizar a utilização da solução de TI pelos usuários a que se destina;
+
+
+VI – procedimento de contingência: alternativa operacional para viabilizar a execução do processo de trabalho nas situações em que a solução de TI não esteja disponível;
+
+
+VII – procedimento de auditoria: ações concebidas para acompanhar a utilização da solução de TI de modo a garantir que as informações por ela processadas tenham confiabilidade e utilidade;
+
+
+VIII – classificação de informações: critérios de criticidade, disponibilidade e confidencialidade que permitem tratamento adequado a cada tipo de informação, nos termos do art. 2º da Resolução 126, de 1999;
+
+
+IX – nível de serviço: padrão de qualidade expresso em termos do tempo máximo de resposta da solução de TI na sede e nas secretarias nos estados, quantidade mínima de transações por minuto processadas pela solução de TI e percentuais mínimos de disponibilidade da solução de TI no horário de funcionamento normal do Tribunal e fora desse horário;
+
+
+X – aceite: declaração formal de que um produto ou serviço contratado de terceiros pode ser aceito pelo Tribunal;
+
+
+XI – manual de usuário: orientações destinadas aos usuários sobre como utilizar a solução de TI em sua rotina de trabalho;
+
+
+XII – roteiro de atendimento: instruções destinadas à equipe responsável pelo atendimento ao usuário sobre como tratar dúvidas e ocorrências relativas à solução de TI.
+
+
+Art. 3º Cada solução de TI do Tribunal tem como responsável uma ou mais unidades gestoras, a quem compete, com apoio e orientação técnica da Secretaria de Tecnologia da Informação:
+
+
+I – identificar os processos de trabalho a serem informatizados e promover a sua modelagem, de modo a maximizar os benefícios proporcionados pela utilização da solução;
+
+
+II – definir as regras de negócio e demais requisitos da solução, seus parâmetros de nível de serviço e seus procedimentos de homologação, produção, contingência e auditoria;
+
+
+III – realizar a classificação das informações processadas pela solução e definir as regras para seu armazenamento e descarte, quando não houver outro gestor formalmente designado para esse fim;
+
+
+IV – receber e analisar solicitações e ocorrências relativas à solução que sejam de sua competência, adotar providências cabíveis e comunicá-las aos solicitantes;
+
+
+V – analisar e priorizar as demandas para manutenção e evolução da solução, em consonância com o planejamento do Tribunal, as diretrizes de priorização formuladas pela Comissão de Coordenação Geral, os benefícios esperados e o custo de atendimento de tais demandas;
+
+
+VI – assegurar, nas atividades de sua responsabilidade, a observância dos prazos e procedimentos estabelecidos nos contratos pactuados;
+
+
+VII – homologar cada versão da solução e autorizar sua entrada em produção;
+
+
+VIII – promover auditoria da solução;
+
+
+IX – divulgar informes e dar orientações referentes a procedimentos de utilização da solução, sem prejuízo do serviço de atendimento ao usuário mantido pela Secretaria de Tecnologia da Informação;
+
+
+X – elaborar e manter atualizados os manuais de usuário e roteiros de atendimento da solução;
+
+
+XI – promover, em conjunto com o Instituto Serzedello Corrêa, treinamentos sobre a utilização da solução.
+
+
+Art. 4º As solicitações de modificação ou notificações de erros relativas às regras de negócio, quando apresentadas pelo usuário diretamente à Setec, serão encaminhadas à unidade gestora da solução.
+
+
+Art. 5º As unidades gestoras das soluções de TI existentes, em implementação ou planejadas no Tribunal, são as designadas no Anexo desta Portaria.
+
+
+Art. 6° Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 7º Fica revogada a Portaria-TCU n° 126, de 6 de maio de 2002.
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+Revogada pela Portaria nº 276, de 18/11/2008, BTCU nº 45/2008.
+
+
+
+
+Revogada
+Dispõe sobre competências e designação das unidades gestoras de soluções de tecnologia da informação do Tribunal de Contas da União.
+
+ANEXO DA PORTARIA-TCU Nº 105, DE 29 DE MAIO DE 2006
+
+
+
+
+
+
+
+Unidade Gestora
+
+Solução de TI
+
+Sigla
+
+Tipo de solução
+
+Aceri
+
+Indicador Eletrônico
+
+Indicador
+
+Sistema interno
+
+Aceri
+
+Software de catálogo e pesquisa de imagens
+
+Catálogo de imagens
+
+Sistema interno
+
+Aceri
+
+Videoconferência TCU
+
+Videoconferência
+
+Serviço básico
+
+Aceri
+
+Videoconferência via Interlegis
+
+Interlegis
+
+Serviço básico
+
+Ascom
+
+Clipping Eletrônico Nacional
+
+Clipping
+
+Serviço contratado
+
+Aspar
+
+Acompanhamento de Processos de Interesse do Congresso Nacional
+
+APICON
+
+Sistema interno
+
+ISC
+
+Acesso à Base de Dados da Legislação Brasileira
+
+Datalegis
+
+Sistema externo
+
+ISC
+
+Acesso à Rede Virtual de Bibliotecas Institucionais
+
+Rede RVBI
+
+Sistema externo
+
+ISC
+
+Acesso ao Siafi para treinamento
+
+SIAFI Educacional
+
+Sistema externo
+
+ISC
+
+Acesso ao Sistema de Acompanhamento de Normas
+
+Sisnorma
+
+Sistema externo
+
+ISC
+
+Sistema de Gerenciamento de Aprendizagem
+
+LMS
+
+Sistema interno
+
+Segecex/Adcon
+
+Acesso ao Cadastro de Responsáveis Inadimplentes
+
+Cadin
+
+Sistema externo
+
+Segecex/Adcon
+
+Acesso ao Cadastro Nacional de Pessoas Físicas e Jurídicas
+
+CPF/CNPJ
+
+Sistema externo
+
+Segecex/Adcon
+
+Acesso ao Cadastro Nacional de Veículos
+
+Detran
+
+Sistema externo
+
+Segecex/Adcon
+
+Acesso ao Cadastro Nacional de Veículos
+
+Renavam
+
+Sistema externo
+
+Segecex/Adcon
+
+Acompanhamento de Deliberações
+
+Radar Acompanhamento
+
+Sistema interno
+
+Segecex/Adcon
+
+Acompanhamento de Processos de Cobrança Executiva
+
+CBEX Web
+
+Sistema interno
+
+Segecex/Adcon
+
+Atualização de Valores
+
+Débito
+
+Sistema interno
+
+Segecex/Adcon
+
+Cadastro de Responsáveis com Contas Julgadas Irregulares
+
+Cadirreg
+
+Sistema interno
+
+Segecex/Adcon
+
+Cadastro de Responsáveis Inidôneos e Inabilitados
+
+Cadinab
+
+Sistema interno
+
+Segecex/Adcon
+
+Coleta Eletrônica de Processos de Contas
+
+Processus Siscontas
+
+Sistema interno
+
+Segecex/Adcon
+
+Comunicações Processuais
+
+Radar Comunicações
+
+Sistema interno
+
+Segecex/Adcon
+
+Controle da Clientela
+
+Clientela
+
+Sistema interno
+
+Segecex/Adcon
+
+Diferimento de Processos de Contas
+
+Diferimento
+
+Sistema interno
+
+Segecex/Adcon
+
+Emissão de Certidões via Web
+
+Certidão
+
+Sistema interno
+
+Segecex/Adcon
+
+Instrução Eletrônica de Processos de Contas
+
+IES
+
+Sistema interno
+
+Segecex/Adcon
+
+Registro de Apreciações e Deliberações
+
+Radar
+
+Sistema interno
+
+Segecex/Adfis
+
+Acesso ao Sistema Ativa
+
+Ativa
+
+Sistema externo
+
+Segecex/Adfis
+
+Acesso ao Sistema de Comércio Exterior
+
+Siscomex
+
+Sistema externo
+
+Segecex/Adfis
+
+Acesso ao Sistema Integrado de Administração Financeira
+
+SIAFI
+
+Sistema externo
+
+Segecex/Adfis
+
+Acesso ao Sistema Relação Anual de Informações Sociais
+
+RAIS
+
+Sistema externo
+
+Segecex/Adfis
+
+Acesso aos Sistemas do Banco Central
+
+Sisbacen
+
+Sistema externo
+
+Segecex/Adfis
+
+Análise Estatística - Statistical Package for Social Sciences
+
+SPSS
+
+Software
+
+Segecex/Adfis
+
+Auditoria de Dados
+
+ACL
+
+Software
+
+Segecex/Adfis
+
+Benefícios do Controle
+
+Benefícios do Controle
+
+Sistema interno
+
+Segecex/Adfis
+
+Execução de Auditorias de Natureza Operacional
+
+Fiscalis ANOP
+
+Sistema interno
+
+Segecex/Adfis
+
+Fiscalis - Execução de Auditorias de Conformidade
+
+Fiscalis Execução
+
+Sistema interno
+
+Segecex/Adfis
+
+Fiscalis - Planificação, Planejamento e Controle de Fiscalizações
+
+Fiscalis
+
+Sistema interno
+
+Segecex/Adfis
+
+Sistema de Inteligência para o Controle Externo
+
+Síntese TCU
+
+Sistema interno
+
+Segecex/Adfis
+
+Sistema de Padronização de Diretórios
+
+Sisdir
+
+Serviço básico
+
+Segecex/Adfis
+
+Transferência de Arquivos do SIAFI
+
+Tempus SIAFI
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Cadastro Nacional de Informações Sociais
+
+CNIS
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema de Acompanhamento da Dívida Ativa
+
+Dívida
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema de Ajuste de Guias de Arrecadação
+
+Águia
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema de Débito, Parcelamento e Cobrança
+
+Sicob
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema de Informações Gerenciais de Arrecadação
+
+Informar
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema de Legislação, Jurisprudência e Pareceres
+
+Sislex
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema Informatizado de Controle de Óbito
+
+Sisobi
+
+Sistema externo
+
+Segecex/Secex-4
+
+Acesso ao Sistema Único de Benefícios
+
+Sisben
+
+Sistema externo
+
+Segecex/Secob
+
+Acesso ao Sistema de Administração de Serviços Gerais
+
+SIASG
+
+Sistema externo
+
+Segecex/Secob
+
+Acesso ao Sistema de Patrimônio da União
+
+SPIU
+
+Sistema externo
+
+Segecex/Secob
+
+Acesso ao Sistema Nacional de Preços de Referência
+
+SINAPI
+
+Sistema externo
+
+Segecex/Secob
+
+Acompanhamento SIASG
+
+Fiscobras Reforme
+
+Sistema interno
+
+Segecex/Secob
+
+Apoio a Orçamentação de Obras
+
+Volare
+
+Software
+
+Segecex/Secob
+
+Fiscobras - Atendimento de Decretos Legislativos
+
+Fiscobras - DL
+
+Sistema interno
+
+Segecex/Secob
+
+Fiscobras - Execução de Levantamentos de Auditoria
+
+Fiscobras
+
+Sistema interno
+
+Segecex/Secob
+
+Fiscobras - Levantamento de Processos
+
+Fiscobras - LP
+
+Sistema interno
+
+Segecex/Secob
+
+Fiscobras - Outras Fiscalizações de Obras
+
+Fiscobras - OFO
+
+Sistema interno
+
+Segecex/Sefid
+
+Georeferenciamento de Informações
+
+Maptitude
+
+Software
+
+Segecex/Sefip
+
+Acesso ao Sistema de Administração de Pessoal
+
+SIAPE
+
+Sistema externo
+
+Segecex/Sefip
+
+Análise Eletrônica de Atos de Admissão e Concessões
+
+Audsisac
+
+Sistema interno
+
+Segecex/Sefip
+
+Apreciação e Registro de Atos de Admissão e Concessões
+
+Sisac Rede
+
+Sistema interno
+
+Segecex/Sefip
+
+Cadastro de Declarações de Bens e Rendas
+
+DBR
+
+Sistema interno
+
+Segecex/Sefip
+
+Coleta de Atos de Admissão e Concessões
+
+Sisac Net
+
+Sistema interno
+
+Segecex/Sefip
+
+Instrução Eletrônica de Atos de Admissão e Concessões
+
+e-Sisac
+
+Sistema interno
+
+Segecex/Sefip
+
+Transferência de Arquivos do SIAPE
+
+Tempus Siape
+
+Sistema externo
+
+Segecex/Semag
+
+Acesso ao Siafi Gerencial
+
+SIAFI Gerencial
+
+Sistema externo
+
+Segecex/Semag
+
+Acesso ao Sistema de Informações Financeiras
+
+Reuters
+
+Sistema externo
+
+Segecex/Semag
+
+Acesso ao Sistema de Orçamentação
+
+SIDOR
+
+Sistema externo
+
+Segecex/Semag
+
+Contas Públicas - Cadastro de Páginas Publicadas
+
+Contas Públicas
+
+Sistema interno
+
+Segecex/Semag
+
+Controle das Transferências Constitucionais
+
+Transcon
+
+Sistema interno
+
+Segecex/Seprog
+
+Elaboração e Aplicação de Pesquisas
+
+Pesquisa
+
+Sistema interno
+
+Segecex/Seprog
+
+Ferramenta de Pesquisas Sphinx
+
+Sphinx
+
+Software
+
+Segedam/Semat
+
+Acompanhamento e Divulgação de Licitações
+
+Licitações
+
+Sistema interno
+
+Segedam/Semat
+
+Controle de Contratos
+
+Contrata
+
+Sistema interno
+
+Segedam/Semat
+
+Controle de Material
+
+Material
+
+Sistema interno
+
+Segedam/Semat
+
+Controle Patrimonial - Automation System Inventory
+
+ASI
+
+Sistema interno
+
+Segedam/Serec
+
+Avaliação de Desempenho em Estágio Probatório
+
+GRH SAD
+
+Sistema interno
+
+Segedam/Serec
+
+Cadastro de Estagiários
+
+GRH Estagiários
+
+Sistema interno
+
+Segedam/Serec
+
+Controle de Acesso e Freqüência
+
+GRH Freqüência
+
+Sistema interno
+
+Segedam/Serec
+
+Folha de Pagamentos
+
+GRH Folha
+
+Sistema interno
+
+Segedam/Serec
+
+Gestão de Assistência Médica
+
+GRH ProTCU
+
+Sistema interno
+
+Segedam/Serec
+
+Gestão de Recursos Humanos
+
+GRH
+
+Sistema interno
+
+Segedam/Serec
+
+Indicador de Conhecimento
+
+Indicador de Conhecimento
+
+Sistema interno
+
+Segedam/Serec
+
+Indicador de Riscos de Doenças Cardíacas
+
+Circuito Vida
+
+Sistema interno
+
+Segedam/Serec
+
+Sistema Provisório de Avaliação de Desempenho
+
+Sipad
+
+Sistema interno
+
+Segedam/Seseg
+
+Gerência do Controle de Acesso
+
+Controle de Acesso
+
+Sistema interno
+
+Segedam/Seseg
+
+Integração de Voz e Dados na Rede TCU
+
+Telefonia IP / VoIP
+
+Serviço básico
+
+Segedam/Seseg
+
+Projetos de Engenharia
+
+Autocad
+
+Software
+
+Segedam/Seseg
+
+Solicitação de Serviços Gerais
+
+Serviços Gerais
+
+Sistema interno
+
+Segedam/Seseg
+
+Transmissão de Áudio via Rede
+
+Rádio TCU
+
+Serviço básico
+
+Segedam/Seseg
+
+Transmissão de Vídeo via Rede
+
+TCU Intramídia
+
+Serviço básico
+
+Seplan
+
+Controle do Cadastro de Unidades do TCU
+
+Sisunidade
+
+Sistema interno
+
+Seplan
+
+Gerenciamento por Diretrizes
+
+GPD
+
+Sistema interno
+
+Seplan
+
+Informações Gerenciais
+
+Sinergia
+
+Sistema interno
+
+Seplan
+
+Priorização das Ações de Controle
+
+Priori
+
+Sistema interno
+
+Seplan
+
+Puma - Planejamento Estratégico e Análise Prospectiva
+
+PUMA
+
+Software
+
+Seplan
+
+Software de Modelagem de Processos
+
+Aris Toolset
+
+Software
+
+Setec
+
+Acesso à Internet
+
+Internet
+
+Serviço básico
+
+Setec
+
+Acesso à Rede Serpro
+
+Rede Serpro
+
+Sistema externo
+
+Setec
+
+Acesso à Rede TCU via Internet
+
+VPN TCU
+
+Serviço básico
+
+Setec
+
+Acompanhamento de Demandas em Sistemas Corporativos
+
+SISADE
+
+Sistema interno
+
+Setec
+
+Armazenamento Centralizado de Arquivos
+
+Serviço de Arquivos
+
+Serviço básico
+
+Setec
+
+Central de Atendimento ao Usuário
+
+Help Desk
+
+Serviço básico
+
+Setec
+
+Compactação de arquivos
+
+Masterzip
+
+Software
+
+Setec
+
+Controle remoto
+
+VNC
+
+Serviço básico
+
+Setec
+
+Correio eletrônico
+
+Correio Eletrônico
+
+Serviço básico
+
+Setec
+
+Diário de Bordo da Setec
+
+DB Setec
+
+Sistema interno
+
+Setec
+
+Dicionário Eletrônico
+
+Dicionário
+
+Software
+
+Setec
+
+Edição de Animações Gráficas Web e páginas dinâmicas
+
+Flash
+
+Software
+
+Setec
+
+Edição de Imagens
+
+Photoshop
+
+Software
+
+Setec
+
+Editoração de Publicações
+
+Pagemaker
+
+Software
+
+Setec
+
+Estações de trabalho da Rede TCU
+
+Estações de Trabalho
+
+Serviço básico
+
+Setec
+
+Geração de Arquivos PDF
+
+Gerador PDF
+
+Software
+
+Setec
+
+Gerência de Uso de Sistemas Corporativos
+
+GUS
+
+Sistema interno
+
+Setec
+
+Gerenciamento da Rede TCU
+
+NSM
+
+Serviço básico
+
+Setec
+
+Gerenciamento de Projetos
+
+Project
+
+Software
+
+Setec
+
+Gerenciamento de Recursos Computacionais
+
+SMS
+
+Serviço básico
+
+Setec
+
+Gestão de Documentos e Processos Eletrônicos
+
+Processus Web
+
+Sistema interno
+
+Setec
+
+Infra-estrutura para Gestão de Documentos e Processos
+
+Processus
+
+Sistema interno
+
+Setec
+
+Notificação de Movimentação de Processos
+
+Processus - Push
+
+Sistema interno
+
+Setec
+
+Portal de Pesquisa Textual
+
+Portal de Pesquisa Textual
+
+Sistema interno
+
+Setec
+
+Portal do Ambiente Computacional
+
+Portal CA
+
+Serviço básico
+
+Setec
+
+Portal TCU
+
+Portal TCU
+
+Sistema interno
+
+Setec
+
+Processamento remoto de aplicações
+
+Citrix Metaframe
+
+Serviço básico
+
+Setec
+
+Rede de comunicação de dados do Tribunal
+
+Rede TCU
+
+Serviço básico
+
+Setec
+
+Sistema de Segurança da Conexão Internet
+
+Firewall
+
+Serviço básico
+
+Setec
+
+Sistema de suporte ao documento eletrônico
+
+Sisdoc
+
+Sistema interno
+
+Setec
+
+Sistema Gerenciador de Ordens de Serviço
+
+SGOS
+
+Sistema interno
+
+Setec
+
+Sistema Integrado de Gerenciamento de Acesso
+
+Siga
+
+Sistema interno
+
+Setec
+
+Software de Automação de Escritório
+
+Automação de Escritório
+
+Software
+
+Setec
+
+Software de edição de páginas Web
+
+Edição Web
+
+Software
+
+Setec
+
+Software de editoração eletrônica
+
+Editoração Eletrônica
+
+Software
+
+Setec
+
+Software de mind-management
+
+FreeMind
+
+Software
+
+Setec
+
+Softwares de Edição Gráfica
+
+Edição Gráfica
+
+Software
+
+Setec
+
+Solução de Proteção Antivírus
+
+Antivírus
+
+Software
+
+Setec
+
+Transferência de Arquivos da Rede Serpro
+
+Tempus Transfer
+
+Software
+
+Setec
+
+Visualização de arquivos PDF
+
+Acrobat Reader
+
+Software
+
+Sgs
+
+Alimentação de Normas e Jurisprudência do TCU
+
+Judoc
+
+Sistema interno
+
+Sgs
+
+Apoio ao Gerenciamento e Acompanhamento das Sessões
+
+Sagas
+
+Sistema interno
+
+Sgs
+
+Automação das Pautas das Sessões
+
+Pautas Access
+
+Sistema interno
+
+Sgs
+
+Automação das Pautas das Sessões
+
+Pautas Web
+
+Sistema interno
+
+Sgs
+
+Automação dos Gabinetes
+
+Autogab
+
+Sistema interno
+
+Sgs
+
+Base de Normas e Jurisprudência do TCU
+
+Juris
+
+Sistema interno
+
+Sgs
+
+Sorteio de Processos
+
+Sorteio
+
+Sistema interno
+
+
+
+
+
+

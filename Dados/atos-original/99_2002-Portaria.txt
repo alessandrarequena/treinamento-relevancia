@@ -1,0 +1,564 @@
+Portaria
+99/2002
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas competências legais e regimentais e
+
+
+considerando a necessidade de sanear inconsistências verificadas nas bases de dados alimentadas por meio do sistema Processus, bem como de executar medidas para evitar ocorrências de mesma natureza;
+
+
+considerando os critérios fixados pela Portaria nº 267, de 16 de agosto de 2001, para constituição e funcionamento de projetos no TCU, resolve:
+
+
+Art. 1º Fica aprovado o projeto "Saneamento do Sistema Processus", nos termos do anexo a esta Portaria.
+
+
+Art. 2º O Projeto de que trata esta Portaria fica vinculado à Secretaria Adjunta de Contas – ADCON.
+
+
+Art. 3º Fica designado Coordenador do Projeto de que trata esta Portaria o Analista de Controle Externo, Área de Controle Externo, Roberto Carlos Martins Pontes, matrícula n° 4587-0.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+Anexo Único à Portaria nº 99, de 4 de abril  de 2002
+
+
+
+
+
+SANEAMENTO DO SISTEMA PROCESSUS
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+
+1.1 Coordenador de Projeto: Roberto Carlos M. Pontes, matrícula 4587-0, lotado na Secretaria Adjunta de Contas – ADCON
+
+
+1.2 e-mail: robertocm@tcu.gov.br
+
+
+1.3 Substituto eventual: Marcus Vinícius Borela de Castro.
+
+
+1.4 Sede do Projeto: Anexo I do Ed. Sede do TCU, sala 408, telefone:316-7890
+
+
+
+2. Identificação do projeto
+
+
+
+2.1 Nome: Saneamento do Sistema Processus 
+
+
+2.2 Período de realização do projeto: 08 de Abril de 2002 a 22 de Setembro de 2002.  
+
+
+2.3 Unidade de vinculação do projeto: Secretaria Adjunta de Contas – ADCON
+
+
+
+3. Vinculação Estratégica
+
+
+
+3.1 Vínculo com o PET:
+
+
+a) Atender as expectativas da sociedade e do Congresso Nacional em relação às atividades de controle externo – As diversas solicitações do Congresso Nacional exigem que o TCU mantenha um controle preciso do trâmite, ações tomadas nos  processos, sua localização, etc. possibilitando o acesso tempestivo às informações;  
+
+
+b) Monitorar o cumprimento e o impacto das deliberações do TCU, avaliando os resultados delas decorrentes – Os sistemas de informação relacionados ao controle externo recentemente implantados, como o RADAR – Registro de Apreciações,  Deliberações e Acompanhamento de Resultados,  são interligados e utilizam uma base de dados corporativa, de forma que a consistência e integridade dos dados poderá impactar o monitoramento das deliberações do TCU e o acompanhamento dos resultados;
+
+
+c) Manter política de valorização do servidor – A recente sistemática de gratificação de desempenho visando o incremento da produtividade dos servidores foi regulamentada tendo as informações para o acompanhamento de metas extraídas dos sistemas oficiais do TCU, que os obrigam a ter a máxima precisão.
+
+
+
+3.2 Vínculo com o Plano de Diretrizes do TCU – 2002:
+
+
+a) Diretriz 1 - Aumentar o número de processos julgados ou apreciados de forma conclusiva –  Os  indicadores para avaliação desta meta serão obtidos dos sistema Processus (número de processos encerrados, tempo médio dos processos em estoque, tempo médio dos processos julgados e tempo médio de permanência dos processos de fiscalização no TCU).
+
+
+
+3.3 Vínculo com o Plano de Diretrizes da Segecex – 2002:
+
+
+a) Meta 8 – Medida 4 – Definir e alimentar campos obrigatórios nos sistemas Processus e Radar para TCE´s e contas - O sistema de informação deve estar preparado para alertar os usuários os campos obrigatórios e auxiliar na prevenção de erros na entrada de dados;
+
+
+
+b) Meta 1 – Medida 6 – Orientar as unidades para o cumprimento de prazos para alimentação dos Sistemas Processus e Radar – Para um bom funcionamento dos sistemas de informação e a integridade das bases de dados é essencial a alimentação tempestiva e correta das informações. 
+
+
+4. Problema:
+
+
+
+		O Sistema Processus apresenta em sua base de dados um grande número de inconsistências de informações cadastrais que interferem em outros sistemas, por exemplo no RADAR. Outras inconsistências interferem na obtenção de estatísticas e informações precisas sobre processos. 
+
+
+
+5. Justificativa
+
+
+
+Os esforços do TCU em direção a um maior nível de informatização têm refletido no desenvolvimento de vários sistemas. Alguns já estão em implantação enquanto outros estão em fase de licitação e especificação. As consagradas técnicas de desenvolvimento e gestão de sistemas de informação recomendam a utilização de bases de dados corporativas em busca da otimização de recursos computacionais, além de evitar inconsistências de informações. 	
+
+
+Os sistemas de informação devem buscar equilíbrio entre o rigor nas críticas da entrada de dados, onde há o risco de se criar obstáculos e reduzir a agilidade dos trabalhos, e a flexibilidade total,  permitindo uma "poluição"  dos dados e gerando consequências em outros sistemas de informação. (Por exemplo: os dados de responsáveis, ações e peças recursais são fundamentais para o bom funcionamento do sistema RADAR).
+
+
+O sistema Processus que foi implantado em 1988, com os dados migrados do sistema CAPT, é um sistema bastante flexível com baixo nível de crítica, privilegiando a agilização das atividades sem guardar muita atenção com  a qualidade da informação inserida. Aliado a este fato a implantação não foi acompanhada de um treinamento abrangente, deixando os usuários com certo grau de liberdade para alimentar o que julgavam essencial.
+
+
+A base de dados completa do sistema Processus possui mais de um milhão de registros, desta forma,  para se realizar um estudo viável sobre a base de dados é essencial a limitação do escopo da análise. O Grupo de Trabalho  constituído pela presidência do Tribunal mediante a OS n° 15 de 10/08/2001 para avaliar e apresentar relatório sobre as inconsistências da base de dados,  limitou a análise ao seguinte escopo: 
+
+
+a) processos não encerrados, independente da data de autuação;
+
+
+b) processos em qualquer estado, autuados a partir de 01/01/1999.
+
+
+
+Considerando o escopo acima, alguns dados revelam o quadro atual:
+
+
+
+a) Número de TCE sem responsáveis cadastrados: 35% dos processos abertos de TCE não têm nenhum responsável cadastrado; 
+
+
+b) Número de TCE sem montante: 40% dos processos abertos de TCE  não têm montante cadastrado; 
+
+
+c) Tramitações com o motivo "desvio de tramitação" (aceite sem a devida tramitação):10.127 tramitações;
+
+
+d) Diversas ocorrências com datas inválidas:  em diversas tabelas há ocorrências de datas nulas ou anteriores a 1960;
+
+
+e) Divergências quanto a posse de processos: (em razão de transferência de unidades, aposentadoria, etc): 3.569 divergências em processos abertos.
+
+
+
+Neste contexto, o saneamento das informações já inseridas, bem como a preparação do sistema para evitar a alimentação de informações erradas ou incompletas, são essenciais para que a migração para a nova versão do Processus se faça sem problemas.
+
+
+Além disso a definição formal via Portaria (Portaria-TCU Nº 53, de 23/01/2002, art. 3º) que o sistema Processus será uma das fontes de informação para efeito de acompanhamento das metas, gera a necessidade de se manter com a maior  precisão os dados geridos por este sistema.
+
+
+6. Resultados Esperados (objetivos):
+
+
+
+O escopo do presente projeto refere-se apenas ao saneamento dos processos relativos à área de controle externo, estando eles sob a responsabilidade de qualquer unidade do Tribunal.
+
+
+a) Aumentar a comunicação com usuários do sistema Processus, orientando a forma correta de alimentação do sistema (meta 1);  
+
+
+b) Facilitar a interação com demais sistemas corporativos ligados ao Controle Externo com a troca de informações consistentes, por exemplo, com o sistema Radar (meta 2);  
+
+
+c) Melhorar a usabilidade do sistema, tornando-o mais pró-ativo, facilitando as atividades de tramitações e aceites, implementando alertas aos usuários como forma de evitar erros (metas 3 e 4);  
+
+
+d) Tornar o sistema Processus a fonte acessível e confiável de informações sobre os processos no Tribunal, tornando desnecessário a utilização de sistemas paralelos (meta 5);
+
+
+e) Disponibilizar um canal de comunicação efetivo e permanente para os usuários encaminharem  sugestões e reportarem erros de sistema (meta 6).
+
+                   METAS (*)
+
+
+
+              INDICADORES
+
+1. Até 30/04/2002 100% dos usuários do sistema Processus devem estar formalmente orientados a alimentar corretamente o sistema Processus.
+
+N° de Unidades Técnicas informadas dos padrões corretos de alimentação.
+
+▪ Acompanhamento único
+
+▪ Resultado a)
+
+2. Até 30/08/2002, 100% dos processos que exigem responsáveis, dentre os sistemas abertos, devem ter pelo menos um responsável cadastrado sem a ocorrência de termos “e outros” ou “e demais”.
+
+% de processos, no escopo, com pelo menos um responsável  cadastrado.
+
+▪ Acompanhamento mensal
+
+▪ Resultado b)
+
+3. Até 30/08/2002, 0% de novas ocorrências de datas nulas ou inválidas.
+
+N° de novas ocorrências de datas nulas ou inválidas. 
+
+▪ Acompanhamento mensal
+
+▪ Resultado c)
+
+4. Até 30/08/2002, disponibilizar relatórios gerenciais de acompanhamento, permitindo identificar indícios de possíveis erros de alimentação, tais como pendências de aceite, ações não encerradas, etc. 
+
+Relatórios disponíveis, alertas implementados, execução de aceite pendente de processos  via e-mail.
+
+▪ Acompanhamento bimestral. 
+
+▪ Resultado c)
+
+5. Até 30/08/2002, disponibilizar relatórios gerenciais que contenham informações hoje disponíveis apenas em sistemas paralelos.
+
+% de informações constantes de relatórios de acompanhamentos paralelos, que possuem correspondentes no sistema Processus.
+
+▪ Acompanhamento trimestral
+
+▪ Resultado d)
+
+6. Até 15/05/2002, disponibilizar a documentação atualizada do sistema Processus com os devidos recursos para encaminhamento de dúvidas e problemas.
+
+Documentação atualizada disponível na intranet, bem como, mecanismos de envio de dúvidas, sugestões, FAQ, etc. implementados
+
+▪ Acompanhamento mensal
+
+▪ Resultado e)
+
+
+
+(*) Em virtude de priorização estabelecida pelo gestor do Sistema Processus, bem como novas funcionalidades inadiáveis surgidas ao longo do tempo do projeto, as metas podem ser reavaliadas.
+
+
+
+7. Solução Proposta: 
+
+
+
+Tendo em mãos o relatório gerado pelo já citado grupo de trabalho do sistema Processus, a equipe do projeto irá analisar em conjunto com o gestor do sistema, os problemas identificados e estabelecer a prioridade para sua solução.
+
+
+A solução dos problemas seguirá as recomendações do relatório do grupo de trabalho. Tais recomendações dividem-se em ações preventivas e corretivas. As primeiras objetivam evitar a ocorrência de diversos tipos de erro encontrados na base de dados. No entanto, nem sempre isto é viável, em virtude de não ser possível a verificação de erros do tipo: medidas saneadoras atendidas na realidade e não informadas ao sistema,  ou ainda processos recebidos sem o respectivo aceite.
+
+
+Para estes casos, as soluções preventivas envolvem a implementação de um maior nível de crítica na alimentação dos dados, a implementação de relatórios gerenciais periódicos que permitam a verificação da consistência das informações, treinamento e sensibilização dos usuários para a importância dos dados, mesmo que não sejam do interesse direto de quem os digita.
+
+
+As ações corretivas objetivam o acerto dos erros que já se encontram na base de dados. Neste momento, é importante relembrar a delimitação das ações ao escopo comentado anteriormente. 
+
+
+Quando possível, a correção  pode ser feita via rotinas automáticas, ou ainda, através da emissão de relatórios com dados contendo indícios de inconsistências para acerto manual, se for o caso.
+
+
+O inventário físico pode vir a ser utilizado quando as alternativas anteriores falharem. 
+
+
+As novas funcionalidades identificadas para melhoria do sistema que implicarem em alto grau de modificação da versão atual, não serão implementadas durante o projeto, em virtude de um novo sistema Processus estar em fase de licitação e especificação. São exemplos a completa adequação do Processus à Resolução 136/2000 e o tratamento do estorno de processos.
+
+
+Uma sistemática de manutenção da qualidade dos dados (mediante análises periódicas) também deverá ser avaliada, visando identificar a origem dos principais erros de alimentação dos dados, e assim orientando os usuários a fim de evitá-los ou planejando treinamento.
+
+
+A implementação das rotinas preventivas será realizada  primeiro, de modo a não permitir a deterioração dos dados corrigidos. No geral, estas medidas se enquadram em:
+
+
+a)  Críticas diversas da entrada de dados;
+
+
+a) Relatórios e consultas gerenciais de controle das informações;
+
+
+b) Implementação de novas funcionalidades;
+
+
+c) Treinamento e sensibilização de usuários.
+
+
+	
+
+
+As ações corretivas virão em seguida e serão divididas em:
+
+
+a) Acertos automáticos dos dados existentes na base;
+
+
+b) Acertos manuais mediante relatórios de inconsistência;
+
+
+c) Acertos manuais mediante inventário físico.
+
+
+
+
+8. Produtos Finais.
+
+
+
+
+                              Produto 
+
+                             Cliente
+
+1. Base de dados de Processos(*) saneada e disponível para estatísticas,  relatórios Gerenciais e interação com demais sistemas.Todas as unidades do TCU. 
+
+
+
+2. Base de dados do Processus(*) saneada para a migração do Novo Processus.Todas as unidades do TCU. 
+
+
+
+
+
+
+(*) Conforme escopo comentado no item 5. Justificativa 
+
+
+
+9. Produtos Intermediários.
+
+
+
+
+                              Produto
+
+Cliente
+
+1. Dados pré-requisitos para o sistema Radar saneados. (campos de responsáveis, ações e peças recursais).Todas as SECEX
+
+
+
+2. Atualização do manual do sistema e Help do sistema.Todas as SECEX
+
+
+
+3. Disponibilização de Forum de dúvidas e FAQ (Perguntas Mais Frequentes).Todas as SECEX
+
+
+
+4. Subsídios de especificação para a nova versão do sistema Processus.SETEC, ADCON.
+
+
+
+
+
+
+10. Fatores que podem por em risco o êxito do projeto
+
+
+
+a) Dificuldade na liberação de servidores para compor a equipe do projeto;
+
+
+b) Mudança de orientação cultural em relação a utilização dos sistemas de informação do TCU;
+
+
+c) Não sensibilização dos usuários quanto a necessidade de alimentar os dados corretamente ainda que o sistema não o obrigue;
+
+
+d) Surgimento de novas demandas inadiáveis e alterações de prioridades ao longo do projeto.
+
+
+
+
+11.  Fatores que podem contribuir para o êxito do projeto:
+
+
+
+a) Utilização dos dados do sistema Processus e Radar como fonte oficial para acompanhamento das metas institucionais e individuais;
+
+
+a) Utilização de informações próprias do sistema Processus como entrada (pré-requisito) para o sistema Radar;
+
+
+b) Apoio da Segecex e ADCON para os resultados do presente projeto;
+
+
+c) Apoio dos titulares das SECEX regionais para a motivação e sensibilização dos usuários do sistema na correta alimentação dos dados;
+
+
+d) Comunicação eficaz com os usuários na solução de dúvidas e problemas.
+
+
+
+
+12.  Macro-etapas:
+
+
+
+a) Constituição da equipe do projeto;
+
+
+b) Planejamento das atividades;
+
+
+c) Execução de medidas preventivas;
+
+
+d) Revisão de documentação;
+
+
+e) Criação de mecanismos de comunicação com usuários prevendo encaminhamento de dúvidas, sugestões, divulgação de melhorias, etc.;
+
+
+f) Execução de medidas corretivas eletronicamente;
+
+
+g) Inventário físico de processos (visando complementar a correção eletrônica);
+
+
+h) Disponibilização de treinamento para usuários da sede;
+
+
+i) Avaliação, por amostragem, dos dados alimentados durante, e após, o saneamento do sistema.
+
+
+
+
+13.  Recursos estimados
+
+
+
+Os recursos necessários para o projeto o Tribunal já dispõe.
+
+
+
+
+14.  Projetos Predecessores e Sucessores
+
+
+
+Não foram identificados projetos predecessores que tenham tratados sobre a qualidade das bases de dados dos sistemas corporativos ligados ao controle externo, entretanto se seguirá as conclusões do grupo de trabalho para avaliação das inconsistências do sistema Processus. 
+
+
+O projeto da SEGECEX/ADCON – Gestão de Sistemas Corporativos de Controle Externo, no qual está inserida a gestão do sistema Radar e a nova versão do sistema Processus (Processo Eletrônico) irá se beneficiar significativamente com o saneamento e manutenção dos dados consistentes. 
+
+
+
+
+15.  Equipe do Projeto
+
+
+
+
+			
+
+
+
+Nome do Servidor
+
+Cargo
+
+Matr.
+
+Lotação
+
+Período
+
+Dedicação
+
+Roberto Carlos Martins Pontes
+
+ACE-CE
+
+4587-0
+
+ADCON
+
+01/03/2002 a 30/08/2002
+
+Integral (coordenador) 
+
+Marcus Vinicius Borela de Castro
+
+ACE-TI
+
+3200-0
+
+SETEC
+
+01/03/2002 a 30/08/2002
+
+Parcial (70% do tempo semanal)
+
+Benoni Batista Braga Júnior
+
+ACE-TI
+
+1622-5
+
+SETEC
+
+01/03/2002 a 30/08/2002Parcial (70% do tempo semanal)
+
+
+
+ 
+
+Luiz Antônio Zenóbio da Costa
+
+ACE-CE
+
+4227-7
+
+SEPLAN
+
+01/03/2002 a 30/08/2002
+
+Parcial (10% do tempo semanal)
+
+
+
+A participação dos servidores constantes deste quadro foi negociada com os próprios servidores, estando pendente a autorização por  seus chefes imediatos
+
+
+
+
+16. Considerações Finais
+
+
+
+A indicação e designação do gestor do projeto na função de coordenador  observou o disposto no artigo 6°, incisos II, III, IV, VI e VII da Portaria n° 267/2001, que dispõe sobre a constituição de projetos no Tribunal.
+
+
+A ferramenta MSProject será utilizada para o planejamento, acompanhamento e controle das atividades do projeto.
+
+
+
+
+
+Em 01 de abril de 2002
+
+
+
+_____________________
+
+
+Roberto Carlos M. Pontes
+
+
+Coordenador do Projeto
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o projeto "Saneamento do Sistema Processus".
+
+

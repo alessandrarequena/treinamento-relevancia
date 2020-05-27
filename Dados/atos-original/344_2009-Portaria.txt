@@ -1,0 +1,515 @@
+Portaria
+344/2009
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas competências legais e regimentais
+
+
+Considerando a importância e o impacto dos serviços de tecnologia da informação (TI) e da rede de computadores para a execução das atividades administrativas e de controle externo a cargo do Tribunal;
+
+
+Considerando que o uso indevido da rede de computadores do TCU, de dispositivos portáteis e de demais recursos de TI pode comprometer a segurança das informações produzidas ou custodiadas pelo Tribunal;
+
+
+Considerando os direitos e as garantias individuais assegurados na Constituição Federal, assim como os deveres e as obrigações dos servidores públicos, definidos na Lei nº 8.112, de 11 de dezembro de 1990;
+
+
+Considerando as diretrizes, os objetivos, os princípios e as definições constantes da Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação (PCSI/TCU);
+
+
+Considerando a necessidade de aprimorar mecanismos de proteção às informações e aos serviços de TI disponíveis na rede de computadores do TCU; e
+
+
+Considerando que o aprimoramento da segurança da informação no uso da rede de computadores, dos dispositivos portáteis e de demais recursos de TI constitui-se em etapa fundamental para a implantação sustentável do processo eletrônico no Tribunal, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º As regras gerais para uso da rede de computadores, de dispositivos portáteis e de demais recursos de TI do Tribunal obedecem ao disposto nesta Portaria e à legislação pertinente, e estão alinhadas com os princípios e as diretrizes da PCSI/TCU.
+
+
+Parágrafo único. Para os fins desta norma, o conceito de recursos de TI não abrange as soluções de TI e compreende somente os equipamentos e funcionalidades – como grupos de usuários, diretórios e listas de distribuição – que sejam utilizados para prover serviços de TI da rede de computadores do TCU, ou que utilizem esses serviços.
+
+
+Art. 2º A rede de computadores, os dispositivos portáteis e demais recursos de TI de propriedade do TCU constituem recursos corporativos para utilização no interesse do serviço.
+
+
+Art. 3º Para efeito do disposto nesta Portaria, entende-se por:
+
+
+I – rede de computadores do TCU (rede TCU): conjunto de computadores, funcionalidades e outros dispositivos, de propriedade do TCU ou por ele providos, que, ligados em uma rede de comunicação de dados, possibilitam a prestação de serviços de TI;
+
+
+II – conta: identificação única de usuário, com senha associada, para acesso à rede TCU;
+
+
+III – conta de uso coletivo: conta para acesso à rede TCU utilizada por mais de um usuário, com finalidade específica;
+
+
+IV – estação de trabalho: computador de mesa (desktop) de propriedade do TCU;
+
+
+V – dispositivo portátil: qualquer dispositivo utilizado para acessar a rede TCU e que tenha como característica a portabilidade, tais como notebooks, organizadores pessoais eletrônicos (PDAs) e smartphones;
+
+
+VI – dispositivo de comunicação: equipamento, como roteador e switch, utilizado para prover serviços de TI e comunicação entre estações de trabalho e dispositivos portáteis por meio da rede TCU, com ou sem fio;
+
+
+VII – diretório: espaço de armazenamento específico na rede TCU;
+
+
+VIII – administrador de diretório: servidor que responde pela unidade, subunidade, projeto, comissão, comitê ou grupo de trabalho em relação à utilização do diretório;
+
+
+IX – incidente em segurança da informação: nos termos da PCSI/TCU, qualquer indício de fraude, sabotagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer as operações do negócio ou ameaçar a segurança da informação;
+
+
+X – administrador de recurso de TI: usuário ou grupo de usuários responsável por definir critérios de utilização e autorizar, conceder ou modificar permissões de uso sobre o recurso de TI;
+
+
+XI – administrador de grupo: usuário responsável pela criação manual e manutenção de grupos de usuários;
+
+
+XII – privilégio: permissão concedida a usuário e grupos de usuários de um recurso de TI;
+
+
+XIII – cópia-imagem: cópia do disco da configuração padrão para cada modelo de estação de trabalho, contendo todos os programas instalados e configurados, conforme definido pela Secretaria de Tecnologia da Informação (Setec);
+
+
+XIV – acesso interno: acesso a serviços de TI providos pelo Tribunal, por meio de equipamento conectado diretamente à rede TCU;
+
+
+XV – acesso externo: acesso a serviços de TI providos na rede TCU, por meio de conexão à internet não fornecida pelo Tribunal;
+
+
+XVI – nível de serviço: padrão de qualidade expresso em parâmetros como horários de funcionamento, tempo máximo de resposta, quantidade mínima de transações processadas, percentuais mínimos de disponibilidade e prazo para atendimento a demandas;
+
+
+XVII – autenticação: processo de validação da identidade do usuário, que pode ser feito por diversos meios, tais como: combinação de usuário/senha, biometria ou utilização de certificado digital;
+
+
+XVIII – programa de captura de tráfego: programa (software) que permite a captura e a apresentação dos dados que trafegam entre estações de trabalho, ou dispositivos portáteis, e a rede;
+
+
+XIX – programa de geração de tráfego: programa (software) que permite a definição de parâmetros para geração e transmissão de dados a partir de estações de trabalho ou dispositivos portáteis, e que possibilita testar ou medir o tráfego de dados na rede;
+
+
+XX – conexão à rede TCU: ligação de equipamento à rede TCU por meio de cabeamento físico (telefônico, elétrico, óptico ou coaxial), de equipamentos de radiofrequência ou de comunicação via infravermelho ou microondas (rede sem fio); e
+
+
+XXI – central de serviços de TI: setores vinculados à Setec que têm a atribuição de atender, ou providenciar para que sejam atendidas, solicitações de usuários relativas aos serviços e soluções de TI corporativos.
+
+
+Parágrafo único. Para os fins desta norma, dispositivo portátil de propriedade do TCU tem tratamento equivalente ao de estação de trabalho.
+
+
+Art. 4º São usuários da rede TCU:
+
+
+I – usuário interno: autoridade ou servidor ativo do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+II – usuário colaborador: nos termos da PCSI/TCU, prestador de serviço terceirizado, estagiário ou qualquer outro colaborador do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal;
+
+
+III – usuário externo: servidor inativo, pessoa física ou jurídica que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal e que não se enquadre nas definições contidas nos incisos I e II deste artigo; e
+
+
+IV – usuário visitante: pessoa física, que não se enquadre na definição disposta nos incisos I, II e III deste artigo, com acesso temporário, somente à internet, autorizado a partir da rede TCU.
+
+
+
+CAPÍTULO II
+
+
+
+DA IDENTIFICAÇÃO DE USUÁRIOS E DO TRATAMENTO DE SENHAS
+
+
+Art. 5º Cada usuário deve possuir uma única conta para acesso à rede TCU, exceto nos casos explicitamente definidos e autorizados pela Setec.
+
+
+Art. 6º A criação e a atualização de conta de usuário interno para acesso à rede TCU devem ser realizadas pela Setec com base nos registros contidos no sistema informatizado de gestão de pessoas.
+
+
+§ 1º A Setec deve definir e divulgar os procedimentos a serem executados com vistas à criação e à desativação de contas de usuários externos, colaboradores e visitantes.
+
+
+§ 2º A utilização de conta de uso coletivo é permitida para usuário em treinamento.
+
+
+§ 3º A criação de conta de uso coletivo para finalidade diferente de treinamento deve ser solicitada à central de serviços de TI, e autorizada somente em casos devidamente justificados e avaliados pela Setec, para os quais não seja possível trabalhar com a conta de usuário individual.
+
+
+Art. 7º O usuário é responsável pelas atividades realizadas por meio da utilização de sua conta para acesso à rede TCU.
+
+
+Art. 8º As contas para acesso à rede TCU têm os seguintes prazos de validade:
+
+
+I – contas de autoridades e de servidores ativos e inativos: enquanto durar o vínculo com o TCU;
+
+
+II – contas de usuários colaboradores: durante o exercício de suas atividades para o TCU;
+
+
+III – contas de usuários visitantes e contas de uso coletivo: pelo período necessário para a execução das atividades que motivaram a criação; e
+
+
+IV – contas de usuários externos, à exceção daquelas relativas a servidores inativos: sem prazo de validade previamente fixado, ressalvados os casos em que norma específica defina os prazos pertinentes.
+
+
+Art. 9º As situações abaixo identificadas acarretam a suspensão do uso da rede TCU:
+
+
+I – conta com cinco tentativas sucessivas de autenticação com senha incorreta;
+
+
+II – conta sem uso por período igual ou superior a seis meses;
+
+
+III – quando o servidor ativo não estiver em efetivo exercício, por prazo igual ou superior a quinze dias, em função das licenças e dos afastamentos previstos na Lei n° 8.112, de 1990; ou
+
+
+IV – quando o servidor ativo estiver em afastamento preventivo do exercício do cargo em decorrência do disposto no art. 147 da Lei nº 8.112, de 1990.
+
+
+§ 1° A suspensão de conta a que se referem os incisos I e II é realizada automaticamente, observados os procedimentos estabelecidos pela Setec.
+
+
+§ 2º A suspensão de conta em decorrência do inciso I é revogada automaticamente, de acordo com parâmetros definidos pela Setec.
+
+
+§ 3º A suspensão de conta em decorrência do inciso II pode ser revogada pela central de serviços de TI, mediante solicitação do usuário.
+
+
+§ 4° A suspensão e a posterior liberação do uso da rede TCU para a hipótese prevista no inciso III são realizadas pela Setec a partir de solicitação encaminhada pela Secretaria de Gestão de Pessoas (Segep).
+
+
+§ 5º A suspensão e a posterior liberação do uso da rede TCU para a situação indicada no inciso IV são realizadas pela Setec a partir de solicitação enviada pela Secretaria-Geral de Administração (Segedam).
+
+
+Art. 10. A senha associada à conta de usuário para acesso à rede TCU é pessoal, intransferível e o devido sigilo é de responsabilidade exclusiva do titular da conta.
+
+
+§ 1º A Setec é responsável pela definição e pela divulgação das regras de formação da conta de usuário e da senha.
+
+
+§ 2º A senha associada à conta de uso coletivo só deve ser divulgada para as pessoas que efetivamente utilizam a conta para o treinamento ou para a finalidade para a qual foi criada.
+
+
+Art. 11. A alteração da senha associada à conta de usuário para acesso à rede TCU pode ser solicitada ou efetuada pelo próprio usuário ou, mediante seu pedido, pela chefia imediata.
+
+
+Parágrafo único. A alteração de senha associada à conta de uso coletivo deve ser solicitada por quem demandou a criação ou pelo responsável pelo treinamento a ser ministrado.
+
+
+
+CAPÍTULO III
+
+
+
+DAS PERMISSÕES DE ACESSO A RECURSOS DE TI
+
+
+Art. 12. As permissões de acesso a recursos de TI são concedidas a grupos de usuários pelo respectivo administrador do recurso.
+
+
+§ 1º Os grupos de usuários relativos a unidades de lotação são automaticamente criados e atualizados pela Setec, com base nas informações lançadas no sistema informatizado de gestão de pessoas.
+
+
+§ 2º Para os grupos de usuários com atualização manual, cabe ao administrador do grupo a verificação periódica de seus componentes e a inclusão ou retirada tempestiva de membros.
+
+
+§ 3º As permissões devem ser concedidas de forma que o usuário tenha somente o privilégio necessário para desempenhar suas funções.
+
+
+§ 4º É responsabilidade do administrador do recurso de TI verificar e adequar periodicamente as permissões de acesso.
+
+
+Art. 13. No caso de mudança de lotação de servidor ou de usuário colaborador, as permissões que foram concedidas em razão das atividades realizadas na unidade são revogadas automaticamente, exceto no caso definido no § 2° do artigo anterior.
+
+
+
+CAPÍTULO IV
+
+
+
+DO ACESSO À REDE
+
+
+Art. 14. Os acessos à rede TCU obedecem aos seguintes critérios:
+
+
+I – o acesso interno é concedido a autoridades e servidores ativos durante o vínculo com o TCU, e a usuários colaboradores durante o exercício de suas atividades para o TCU;
+
+
+II – o acesso externo a conteúdo restrito fornecido pelos sites do TCU na internet é provido somente a usuário autenticado; e
+
+
+III – o acesso externo a conteúdo público fornecido pelos sites do TCU na internet não requer autenticação.
+
+
+
+§ 1º Na aplicação do inciso II, entre os usuários autenticados incluem-se os servidores inativos.
+
+
+§ 2º O acesso interno restrito à internet pode ser concedido a servidor inativo, e a usuário interno, colaborador ou visitante, quando da utilização de equipamento particular, observado o disposto nos arts. 27 e 29 desta Portaria.
+
+
+CAPÍTULO V
+
+
+
+DO ARMAZENAMENTO DE ARQUIVOS NA REDE TCU
+
+
+Art. 15. A rede TCU deve prover ambiente seguro para armazenamento de arquivos.
+
+
+Art. 16. Unidades, subunidades, grupos de trabalho, comissões, comitês, projetos, autoridades, servidores ativos e colaboradores têm diretório específico na rede TCU.
+
+
+§ 1º A definição das permissões dos diretórios de unidades, subunidades, grupos de trabalho, comissões, comitês e projetos é responsabilidade do administrador do diretório.
+
+
+§ 2º O administrador do diretório de unidade deve solicitar à central de serviços de TI a concessão, a alteração ou a revogação de permissões sobre o diretório.
+
+
+§ 3º O disposto no parágrafo anterior não se aplica aos casos de diretórios com conteúdo sigiloso, para os quais a concessão, a alteração ou a revogação de permissões deve ser feita pelo administrador do diretório.
+
+
+Art. 17. É vedado o armazenamento das seguintes informações nos diretórios da rede TCU:
+
+
+I – arquivo em desacordo com o definido na PCSI/TCU, tais como arquivos de imagem, apresentação, áudio ou vídeo que não sejam de interesse do serviço;
+
+
+II – programa não homologado ou licenciado pelo TCU;
+
+
+III – programa de conteúdo potencialmente prejudicial à segurança da rede TCU;
+
+
+IV – programa em desacordo com demais critérios e requisitos de segurança de que trata a PCSI/TCU; e
+
+
+V – cópia de segurança de diretório de usuário ou cópia-imagem de estação de trabalho.
+
+
+Parágrafo único. A Setec deve definir parâmetros para armazenamento de arquivos nos equipamentos servidores, incluindo requisitos como tamanho máximo e tipos de arquivo permitidos, com vistas a não comprometer o desempenho e a segurança dos serviços de TI.
+
+
+Art. 18. As informações armazenadas nos diretórios da rede TCU podem ser inspecionadas pela Setec, ouvida a Assessoria de Segurança da Informação e Governança de TI (Assig), por meio de programa ou procedimento automatizado da Setec, quando houver indícios de armazenamento de informações em desacordo com o disposto no artigo anterior.
+
+
+§ 1º Os procedimentos citados no caput também se aplicam aos diretórios residentes nas estações de trabalho existentes no Tribunal no curso de sindicâncias ou de procedimentos investigativos preliminares, mediante prévia autorização da Comissão de Coordenação Geral (CCG).
+
+
+§ 2º A informação armazenada em diretório da rede TCU em desacordo com o disposto no artigo anterior será excluída pela Setec, e o fato caracterizado como incidente de segurança da informação, com prévia comunicação ao administrador do diretório, à sua chefia imediata e ao titular da unidade em que está lotado.
+
+
+
+CAPÍTULO VI
+
+
+
+DA INSTALAÇÃO E EXECUÇÃO DE PROGRAMAS, E DAS ESTAÇÕES DE TRABALHO
+
+
+Art. 19. A identificação de cada estação de trabalho do TCU é realizada pela Setec e deve estar de acordo com padrões por ela definidos.
+
+
+Art. 20. A instalação de programas em estações de trabalho ou na rede TCU é atribuição exclusiva da Setec ou de pessoa ou empresa por ela expressamente autorizada.
+
+
+§ 1º É vedado ao usuário o privilégio de administração e o acesso à senha do administrador local da estação de trabalho, exceto nos casos autorizados pela Setec, em que seja estritamente necessário para o desempenho das funções.
+
+
+§ 2º É vedado ao usuário modificar a configuração da estação de trabalho, desabilitar ou desinstalar programas de segurança.
+
+
+Art. 21. Cabe à Setec elaborar, manter atualizada e divulgar relação de programas homologados para utilização na rede TCU.
+
+
+Art. 22. Compete à Setec definir os critérios e requisitos de segurança para a instalação ou a execução de programas em estações de trabalho da rede TCU.
+
+
+Parágrafo único. Programa instalado ou executado em desacordo com os critérios e requisitos de segurança de que trata o caput será desinstalado pela Setec, e o fato caracterizado como incidente de segurança da informação e previamente comunicado ao dirigente da respectiva unidade em que se encontra a estação de trabalho para que sejam tomadas as providências pertinentes.
+
+
+Art. 23. Caso haja necessidade de o usuário utilizar programa de computador não homologado ou licenciado para o TCU, deve ser encaminhada solicitação de aquisição ou de instalação à Setec, acompanhada de justificativa e, quando for o caso, dos requisitos necessários.
+
+
+Art. 24. A estação de trabalho deve dispor de área em disco destinada a informações personalizadas e dados do usuário.
+
+
+Parágrafo único. Somente os dados dessa área e que estejam de acordo com a PCSI/TCU são resguardados pela central de serviços de TI quando da instalação de cópia-imagem.
+
+
+Art. 25. É vedada a abertura física ou a desmontagem de equipamento de informática de propriedade do TCU, exceto se realizada pela Setec ou por pessoa ou empresa por ela expressamente autorizada.
+
+
+Art. 26. É vedada a conexão de mais de um equipamento a um ponto de rede, exceto nos casos expressamente autorizados pela Setec.
+
+
+Art. 27. É vedada a conexão à rede TCU, por meio de cabeamento físico, de computador de mesa ou dispositivo portátil que não sejam de propriedade do Tribunal, exceto nos casos expressamente autorizados pela Setec.
+
+
+§ 1º A autorização da Setec depende de solicitação justificada do motivo e do período da conexão, bem como da verificação da segurança do computador.
+
+
+§ 2º No caso de necessidade de conexão à rede TCU de computador de organização que utilize as dependências do Tribunal, cabe à Setec autorizar e definir os critérios e requisitos de segurança necessários.
+
+
+Art. 28. É vedada a instalação de programa licenciado para o TCU em computador de mesa ou dispositivo portátil que não sejam de propriedade do Tribunal, excetuando-se programa específico para acesso à rede TCU.
+
+
+
+CAPÍTULO VII
+
+
+
+DOS DISPOSITIVOS PORTÁTEIS E DA REDE SEM FIO
+
+
+Art. 29. A conexão de dispositivo portátil à rede TCU deve seguir procedimentos específicos definidos pela Setec.
+
+
+Parágrafo único. No caso de dispositivo portátil particular, a conexão direta à rede TCU fica restrita ao acesso à internet por meio de rede sem fio.
+
+
+Art. 30. Em caso de extravio ou roubo de dispositivo portátil de propriedade do TCU, a ocorrência deve ser imediatamente registrada junto à Assig como incidente de segurança da informação, sem prejuízo das demais providências necessárias.
+
+
+Art. 31. A Setec deve divulgar os requisitos de compatibilidade e de configuração de dispositivo portátil para conexão à rede sem fio do Tribunal.
+
+
+Parágrafo único. A configuração de dispositivo portátil particular para acesso à rede sem fio do TCU é responsabilidade do usuário.
+
+
+Art. 32. A Setec não é responsável pela resolução de problemas na utilização da rede sem fio do TCU por dispositivos portáteis particulares nem pela resolução de problemas relativos a acesso de dispositivos portáteis do Tribunal a redes de terceiros.
+
+
+
+CAPÍTULO VIII
+
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 33. Cabe ao usuário, como custodiante nos termos da PCSI/TCU, garantir a segurança das informações sob sua guarda, armazenadas tanto em computadores de mesa como em dispositivos portáteis, independentemente de o Tribunal ser proprietário desses equipamentos.
+
+
+Art. 34. Cabe à Setec, como administradora do serviço de rede:
+
+
+I – garantir a disponibilidade dos serviços, de acordo com níveis de serviço definidos;
+
+
+II – implantar e manter atualizados mecanismos e procedimentos de monitoramento e proteção da rede contra ataques externos e internos; e
+
+
+III – implantar e manter atualizados sistemas operacionais e mecanismos de proteção das estações de trabalho, servidores e equipamentos de rede.
+
+
+Art. 35. O acesso à internet e a redes de outros órgãos, por meio da rede TCU, deve ser provido exclusivamente pela Setec.
+
+
+Parágrafo único. Enquanto conectado à rede TCU, o computador ou o dispositivo portátil não pode estar conectado à internet por solução diferente daquela provida pela Setec.
+
+
+Art. 36. A utilização dos recursos de TI integrantes da rede TCU pode ser monitorada pela Setec, com vistas a identificar inobservâncias às normas definidas na PCSI/TCU e a fornecer evidências, no caso de incidentes de segurança da informação, respeitados os direitos e as garantias individuais previstos em lei, e observados os procedimentos previstos para situações específicas dispostas nesta Portaria.
+
+
+Art. 37. As seguintes ações indevidas relativas à rede TCU são passíveis de apuração de responsabilidade:
+
+
+I – conexão à rede, sem autorização expressa da Setec, de dispositivo de comunicação, tais como dispositivo de acesso a rede sem fio ou equipamento de rede que não seja de propriedade do TCU;
+
+
+II – utilização de programa para captura ou geração de tráfego na rede, exceto pelas equipes de administração da rede e segurança do TCU;
+
+
+III – desenvolvimento, manutenção, utilização ou divulgação de mecanismo que permita ou tente violar os sistemas de segurança da rede TCU;
+
+
+IV – tentativas de acesso não autorizado a recursos de TI, com indícios de fraude ou sabotagem;
+
+
+V – utilização ou tentativa de utilização, com indícios de fraude ou sabotagem, de conta cujo acesso não seja autorizado ao usuário;
+
+
+VI – utilização de recurso tecnológico para burlar dispositivo de segurança ou restrição de acesso implementada na rede;
+
+
+VII – utilização, com indícios de fraude ou sabotagem, de mecanismo que provoque congestionamento da rede, sobrecarga ou indisponibilidade de serviço; e
+
+
+VIII – outras utilizações em desacordo com as normas de segurança estabelecidas pela PCSI/TCU.
+
+
+Art. 38. Ao utilizar rede de computadores externa por meio de dispositivos portáteis de propriedade do TCU, o usuário deve obedecer também às normas e às diretrizes daquelas redes.
+
+
+Parágrafo único. Em caso de divergência entre as normas das redes externas e a PCSI/TCU, prevalece o definido nas normas do TCU.
+
+
+Art. 39. Cabe à Setec, por meio da central de serviços de TI, esclarecer eventuais dúvidas do usuário quanto à conformidade de determinada atitude ou utilização em relação às normas de uso da rede TCU.
+
+
+Art. 40. A violação a normas da PCSI/TCU ou a inobservância aos dispositivos desta Portaria podem acarretar, isolada ou cumulativamente:
+
+
+I – limitação do uso da rede TCU, conforme estabelecido nos arts. 41 e 42 desta Portaria; e
+
+
+II – nos termos da legislação aplicável, outras sanções administrativas, civis e penais.
+
+
+Art. 41. Para o servidor ativo, o uso da rede TCU pode ser limitado cautelarmente mediante anuência dos titulares das respectivas unidade e secretaria-geral as quais se encontra vinculado, com posterior comunicação ao usuário envolvido.
+
+
+§ 1º A limitação cautelar do uso da rede TCU pode ser proposta por iniciativa da Setec ou da Assig ou, ainda, mediante solicitação justificada, pelo titular da unidade de lotação do usuário.
+
+
+§ 2º A liberação da limitação do uso da rede TCU a que se refere o caput deste artigo será realizada pela Setec no 1º dia útil após a expiração da medida cautelar.
+
+
+Art. 42. A limitação do uso da rede TCU por usuários colaboradores, externos e visitantes pode ser realizada pela Setec, a qualquer tempo, com prévia autorização da CCG cabendo delegação de competência à Assig.
+
+
+Parágrafo único. A limitação de que trata o caput deste artigo deve ser comunicada ao usuário envolvido, e a respectiva liberação realizada no 1º dia útil após o término da limitação.
+
+
+Art. 43. Incumbe ao Comitê de Segurança da Informação (CSI), em consonância com o disposto na Portaria-TCU nº 277, de 18 de novembro de 2008, monitorar e avaliar periodicamente as práticas de segurança da informação relativas às regras estabelecidas nesta Portaria, e propor os ajustes que considerar necessários.
+
+
+Art. 44. Os casos omissos são analisados conjuntamente pela Setec e pela Assig, ouvido o administrador do recurso de TI em questão, e dirimidos pela Secretaria-Geral da Presidência (Segepres).
+
+
+Art. 45. Ficam a Setec e a Assig autorizadas, no âmbito de suas respectivas competências, a editar os atos que se fizerem necessários para a operacionalização do disposto nesta portaria.
+
+
+Parágrafo único. Os atos a que se refere o caput deste artigo devem ser submetidos previamente ao exame da CCG.
+
+
+Art. 46. Esta Portaria integra a PCSI/TCU.
+
+
+Art. 47. Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+
+Não consta revogação expressa
+Dispõe sobre regras gerais de uso da rede de computadores, de dispositivos portáteis e de demais recursos de TI do Tribunal de Contas da União.
+
+

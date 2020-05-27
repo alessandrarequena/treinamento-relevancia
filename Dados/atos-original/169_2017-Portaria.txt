@@ -1,0 +1,204 @@
+Portaria
+169/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e tendo em vista o disposto no inciso XXXIV do art. 28 do Regimento Interno do TCU,
+
+
+considerando que a Administração Pública deve observar os princípios de eficiência e publicidade previstos no art. 37 da Constituição Federal de 1988; 
+
+
+considerando os dispositivos de transparência e de acesso a informação estabelecidos pela Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação); 
+
+
+considerando o regramento do acesso à informação no âmbito do Tribunal contido na Resolução-TCU nº 249, de 2 de maio de 2012, em especial no art. 8º, § 2º; 
+
+
+considerando a importância da plena utilização de solução corporativa de tecnologia da informação (TI) de apoio à gestão dos contratos celebrados pelo TCU; 
+
+
+considerando que, para o bom funcionamento da solução corporativa de TI de apoio à gestão contratual do TCU, é imprescindível a adequada e tempestiva alimentação de dados pelas unidades responsáveis; e 
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-003.574/2017-2, resolve: 
+
+
+Art. 1º O registro de dados e a inserção de documentos em solução corporativa de tecnologia da informação (TI) de apoio à gestão contratual, relativos aos contratos celebrados no âmbito da Secretaria do Tribunal de Contas da União (TCU), dar-se-á conforme o disposto nesta Portaria, observada a legislação de regência.
+
+
+Art. 2º A solução corporativa de TI de apoio à gestão contratual do TCU denomina-se sistema Contrata.
+
+
+Parágrafo único. Na hipótese de substituição do sistema Contrata por outro de finalidade similar, aplicar-se-á, no que couber, o disposto nesta Portaria.  
+
+
+Art. 3º É obrigatório o registro de dados e a inserção de documentos no sistema Contrata, bem como dos respectivos termos aditivos, apostilamentos e rescisões, sempre que houver a formalização dos termos a seguir:
+
+
+I - contrato, inclusive emergencial;
+
+
+II - registro de preços;
+
+
+III - cessão de uso;
+
+
+IV - convênio;
+
+
+
+
+
+V - comodato; 
+
+
+VI - credenciamento; e
+
+
+VII - acordo de cooperação técnica, quando cabível.
+
+
+Parágrafo único. O prazo máximo para atendimento ao disposto no caput é de quinze dias corridos, contados da data de assinatura do termo ou da produção da informação passível de inserção no sistema.
+
+
+Art. 4º No caso de contratações formalizadas exclusivamente por meio de nota de empenho, cabe à unidade fiscalizadora realizar o registro de dados e a inserção de documentos no sistema Contrata. (NR)(Portaria-TCU nº 107, de 9/4/2018, BTCU Admiistrativo nº 66/2018)
+
+
+
+§ 1º Entende-se por unidade fiscalizadora a unidade do TCU responsável por acompanhar a execução contratual e atestar a execução de serviços e/ou o fornecimento de bens contratados.
+
+
+§ 2º Para efetuar o registro e a inserção de que trata o caput, o fiscal deverá solicitar perfil específico à Diretoria de Gestão Contratual da Secretaria de Licitações, Contratos e Patrimônio (Dicad/Selip) ou à Secretaria de Gestão de Soluções de TI para a Administração (Seadmin).
+
+
+Art. 5º Os procedimentos de registro e inserção devem cumprir as regras previstas nesta Portaria, em especial aquelas indicadas nos artigos 6º e 7º. 
+
+
+Art. 6º Deverão ser incluídos no sistema Contrata arquivos digitais de todos os documentos importantes relativos aos termos contratuais de qualquer espécie, tais como:
+
+
+I - termo contratual assinado;
+
+
+II - edital de licitação;
+
+
+III - autorização de dispensa ou de inexigibilidade de licitação e respectivo projeto básico;
+
+
+IV - proposta da contratada, incluindo a planilha de preços, quando existir;
+
+
+V - nota de empenho; 
+
+
+VI - extrato de publicação inerente ao termo contratual no Diário Oficial da União (DOU); 
+
+
+VII - garantias de execução contratual;
+
+
+VIII - termos aditivos;
+
+
+IX - apostilamentos; e
+
+
+X - rescisões contratuais.
+
+
+§ 1º Incumbe à Dicad/Selip o registro e a inserção de informações relativos a termos firmados na Sede do TCU, bem como aqueles firmados com as Secretarias de Controle Externo nos Estados abrangidos pela centralização administrativa, nos termos da Portaria-TCU nº 56, de 23 de fevereiro de 2011.
+
+
+§ 2º Para os termos firmados com o ISC e demais unidades não listadas no parágrafo anterior, a responsabilidade pelo registro e inserção das informações no sistema Contrata recai sobre a unidade responsável pela formalização do termo contratual.
+
+
+Art. 7º Às unidades fiscalizadoras incumbe incluir no sistema Contrata, entre outras, as informações sobre: 
+
+
+I – notas de empenho relativas ao termo contratual;
+
+
+II – ocorrências relevantes, tais como data de aceite definitivo, data de término de garantia e de suporte técnico;
+
+
+
+
+
+III – números dos processos de fiscalização e pagamento, de documentação trabalhista e de aplicação de sanção; e
+
+
+IV – colaboradores e terceirizados vinculados ao contrato.
+
+
+Parágrafo único. Informações e documentos atinentes às aplicações de sanção e aos termos de recebimento definitivo de bens ou serviços que alterem a vigência final do contrato serão incluídos exclusivamente pela Dicad/Selip.
+
+
+Art. 7º Compete à Dicad/Selip, com apoio da Seadmin, se necessário, orientar as unidades quanto às regras de negócio inerentes ao uso do sistema Contrata.  
+
+
+Art. 8º O disposto nesta Portaria aplica-se também:
+
+
+I - aos termos contratuais vigentes na data de publicação do presente normativo; e
+
+
+II - aos termos contratuais encerrados no período compreendido entre janeiro de 2012 e a data de publicação do presente normativo, em observância ao disposto no art. 7º, VI da Lei nº 12.527, de 18 de novembro de 2011.
+
+
+Art. 9º Cabe ao Secretário-Geral de Administração dirimir os casos omissos do presente normativo, bem como editar as normas necessárias à operacionalização desta Portaria.
+
+
+Art. 10. Esta Portaria entra em vigor na data de sua publicação. 
+
+
+Art. 11. Fica revogada a Portaria-TCU nº 336, de 10 de dezembro de 2014.
+
+
+RAIMUNDO CARREIRO
+
+
+Felicio Ribas Torres
+
+
+Secretário-Geral da Presidência, Substituto Eventual 
+
+
+Delenda Assunção Araújo Bruno
+
+
+Secretária-Geral de Administração, Substituta Eventual
+
+
+
+
+
+
+
+
+
+Redação anterior:
+
+
+
+................................................ Por força da Portaria-TCU nº 107, de 9/4/2018.............................................
+
+
+
+
+
+Art. 4º É facultado às unidades fiscalizadoras, bem como ao Instituto Serzedêllo Corrêa (ISC), realizar o registro de dados e a inserção de documentos no sistema Contrata de contratações formalizadas exclusivamente por meio de nota de empenho.
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o registro de dados e a inserção de documentos, em solução corporativa de tecnologia da informação de apoio à gestão contratual, relativos aos contratos celebrados no âmbito da Secretaria do Tribunal de Contas da União.
+................................................ Por força da Portaria-TCU nº 107, de 9/4/2018.............................................
+
+
+
+Art. 4º É facultado às unidades fiscalizadoras, bem como ao Instituto Serzedêllo Corrêa (ISC), realizar o registro de dados e a inserção de documentos no sistema Contrata de contratações formalizadas exclusivamente por meio de nota de empenho.
+

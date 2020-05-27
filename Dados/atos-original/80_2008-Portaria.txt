@@ -1,0 +1,836 @@
+Portaria
+80/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Modelagem do Processo de Concurso Público com o objetivo de aprimorar o processo de seleção externa mediante concurso público realizado pelo TCU, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designada a Analista de Controle Externo Maria Antonia Ferraz Zelenovsky, matrícula nº 4582-9, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos do Tribunal de Contas da União.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Modelagem do Processo de Concurso Público e designa seu gestor.
+
+ANEXO À PORTARIA-TCU Nº 80, DE 3 DE ABRIL DE 2008
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Maria Antonia Ferraz Zelenovsky
+
+4582-9
+
+zelenovskyma@tcu.gov.br
+
+5811
+
+Função do gestor
+
+Origem da FC
+
+ 
+
+Gerente
+
+X
+
+Coordenadora
+
+ 
+
+Líder
+
+ISC
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Gladson Raeff Rocha Viana
+
+5853-0
+
+gladsonrr@tcu.gov.br
+
+5811
+
+Local / telefone
+
+Sala 304 do ISC / 3316-5811
+
+
+
+
+2. Identificação do projeto
+
+
+
+Nome do projeto
+
+Modelagem do Processo de Concurso Público – Projeto Concurso Público
+
+Período de realização
+
+Unidade patrocinadora
+
+28/3/2008 a 05/12/2008
+
+Instituto Serzedello Corrêa – ISC
+
+
+
+
+3. Vinculação estratégica
+
+
+
+Plano estratégico do TCU
+
+ 
+
+Objetivo Estratégico 17: Otimizar a utilização do conhecimento organizacional.
+
+ 
+
+Objetivo Estratégico 19: Desenvolver cultura orientada a resultados. 
+
+ 
+
+Objetivo Estratégico 20: Modernizar as práticas de gestão de pessoas.
+
+Plano de diretrizes do TCU
+
+ 
+
+Perspectiva de pessoas e inovação.
+
+Iniciativa Estratégica 1: Implantar modelo de gestão por competências.
+
+Ação 1.1: Definir e implantar processo de seleção externa e formação com base nos perfis profissionais necessários ao TCU.
+
+
+
+
+4. Problema / oportunidade
+
+
+
+Descrição do problema ou da oportunidade 
+
+ 
+
+Dificuldade em manter equipe dedicada à realização de concursos.
+
+ 
+
+Excesso de mandados de segurança interpostos por candidatos contra atos do Presidente do Concurso.
+
+ 
+
+O conhecimento para conduzir processos seletivos externos no ISC está concentrado em pessoas, não existindo procedimentos operacionais padronizados e institucionalizados.
+
+ 
+
+Retrabalho em razão de falhas cometidas ao longo do processo.
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+A necessidade de servidores especializados em diversas áreas de conhecimento tem feito com que cada concurso público do TCU possua uma configuração diferente. Aliada a essa heterogeneidade dos perfis profissionais, requeridos em cada seleção externa realizada pelo Tribunal, constata-se a ausência de padronização e institucionalização de seus procedimentos operacionais, ocasionando dificuldades na coordenação das ações que envolvem suas duas etapas. Na 1ª etapa do certame podem ser apontados como principais problemas enfrentados a definição precisa dos perfis profissionais exigidos, o estabelecimento dos objetos da avaliação, além do crescente número de ações judiciais visando a impugnação de editais. Na 2ª etapa do certame, que consiste na realização do Programa de Formação, podem ser apontados como principais problemas enfrentados a definição do Projeto Pedagógico e a coordenação da execução do Programa de Formação.
+
+
+
+
+5 . Escopo do projeto
+
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Aprimorar o processo de seleção externa mediante concurso público realizado pelo TCU.
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 80, DE 3 DE ABRIL DE 2008
+
+
+
+
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+ 
+
+Mapear o processo de seleção externa.
+
+1
+
+23/05/2008
+
+Processo mapeado
+
+Fluxo do processo de seleção externa mapeado
+
+ISC
+
+ 
+
+Validar o processo mapeado.
+
+1
+
+30/05/2008
+
+Processo validado
+
+Fluxo do processo de seleção externa validado
+
+ISC
+
+ 
+
+Mapear os subprocessos do processo de seleção externa.
+
+100%
+
+12/09/2008
+
+Subprocessos mapeados
+
+Fluxos dos subprocessos mapeados
+
+ISC
+
+ 
+
+Validar os subprocessos do processo de seleção externa.
+
+100%
+
+19/09/2008
+
+Subprocessos validados
+
+Fluxos dos subprocessos validados
+
+ISC
+
+ 
+
+Analisar e melhorar o processo de seleção externa e seus subprocessos, examinando-os de forma separada.
+
+100%
+
+17/10/2008
+
+Processo e subprocessos melhorados
+
+Novos fluxos do processo e dos subprocessos desenhados
+
+ISC
+
+1
+
+17/10/2008 
+
+Relatório de escuta dos clientes elaborada e aprovada
+
+Relatório de escuta dos clientes elaborada
+
+ 
+
+Construir indicadores de desempenho do processo e de seus subprocessos.
+
+100%
+
+17/10/2008
+
+ 
+
+Lista de indicadores de desempenho do processo elaborada
+
+Lista de indicadores de desempenho do processo elaborada
+
+ISC
+
+ 
+
+Validar o novo processo de seleção externa e os seus subprocessos melhorados, bem como os indicadores de desempenho do processo elaborados.
+
+100%
+
+31/10/2008
+
+Novos processo e subprocessos validados
+
+Novos fluxos do processo e dos subprocessos desenhados validados
+
+ 
+
+ 
+
+ 
+
+ISC
+
+100%
+
+31/10/2008
+
+Lista de indicadores de desempenho do processo validada
+
+Lista de indicadores de desempenho do processo validada
+
+ 
+
+Publicar os novos processo e subprocessos no Portal, bem como os indicadores de desempenho do processo.
+
+100%
+
+07/11/2008
+
+Processos e subprocessos publicados
+
+Fluxos publicados no Portal
+
+ 
+
+ 
+
+ISC
+
+100%
+
+07/11/2008
+
+Lista de indicadores de desempenho publicada no Portal
+
+Lista de indicadores de desempenho publicada no Portal
+
+ 
+
+Propor eventuais alterações, atualizações ou elaboração de normativos.
+
+100%
+
+21/11/2008
+
+Minuta de normativos aceita
+
+Minuta de normativos elaborada
+
+ISC
+
+
+
+ANEXO À PORTARIA-TCU Nº 80, DE 3 DE ABRIL DE 2008
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+ 
+
+Elaborar e publicar o procedimento operacional padrão (POP) do processo de seleção externa e de seus subprocessos.
+
+100%
+
+05/12/2008
+
+POPs elaborados, aceitos e publicados
+
+POPs publicados no Portal
+
+ISC
+
+ 
+
+Elaborar e publicar o Manual de Gestão de Concurso Público.
+
+1
+
+05/12/2008
+
+Manual de Gestão de Concurso Público aprovado e publicado
+
+Manual de Gestão de Concurso Público elaborado e publicado no Portal
+
+ISC
+
+
+
+
+5.3. Benefícios (impacto esperado dos produtos do projeto)
+
+
+ 
+
+Institucionalização de um processo de trabalho de seleção externa (apropriação do conhecimento que está concentrado em pessoas pela organização).
+
+ 
+
+Melhoria da eficácia e da eficiência dos processos seletivos, com menor incidência de erros e retrabalhos. 
+
+ 
+
+Mitigar risco do concurso público não alcançar seus objetivos.
+
+ 
+
+Criação e manutenção de base de conhecimento sobre o processo seletivo, priorizando-se o registro de lições aprendidas com concursos anteriores e de boas práticas.
+
+ 
+
+Realização do próximo concurso público para ACEs (1ª e 2ª etapas) com aplicação das lições aprendidas e boas práticas registradas nos processos anteriores, em conjunto com a equipe do ISC.
+
+ 
+
+Facilidade em treinar futuros integrantes da equipe de coordenação de concursos.
+
+
+
+
+5.4  Não escopo (o que o projeto não vai fazer):
+
+
+ 
+
+Coordenar e executar diretamente o planejamento e a execução das ações do Concurso Público – ACE 2008;
+
+ 
+
+Mapear e modelar o processo de educação corporativa, que inclui o planejamento e execução das ações do programa de formação (projeto Apolo);
+
+ 
+
+Definir e analisar os perfis profissionais dos participantes do concurso;
+
+ 
+
+Prestar serviços logísticos e de secretaria ao Programa de Formação;
+
+ 
+
+Avaliar a aprendizagem e a reação das disciplinas do Programa de Formação;
+
+ 
+
+Implantar os novos fluxos;
+
+ 
+
+Implementar a medição dos indicadores de desempenho dos processos;
+
+ 
+
+Manter os fluxos publicados no Portal;
+
+ 
+
+Aprovar e publicar os normativos;
+
+ 
+
+Treinar futura equipe de gestão do processo de seleção externa.
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+ 
+
+ISC/Diger, ISC/Didec e ISC/Seges, ISC/Seduc, Comitê Consultivo do Programa de Formação.
+
+Definições e informações para elaboração dos procedimentos operacionais padrão.
+
+ 
+
+Projeto Apolo
+
+Fornecimento de informações para a execução de trabalhos correlatos. 
+
+ 
+
+Seplan
+
+Assessoramento técnico no mapeamento, na modelagem e na descrição dos processos de trabalho.
+
+Servidor para atuar, por atividade, na equipe do projeto.
+
+ 
+
+Setec
+
+Tornar disponível o programa de suporte ao desenho de processos (ARIS).
+
+Capacitação dos membros da equipe do projeto no ARIS.
+
+ 
+
+ISC/AS
+
+Apoio logístico ao projeto.
+
+ 
+
+Segep
+
+Servidor para atuar, em tempo integral , na equipe do projeto.
+
+Definições e informações para elaboração dos procedimentos operacionais padrão.
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 80, DE 3 DE ABRIL DE 2008
+
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+
+Risco
+
+Impacto
+
+Probabilidade de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco 
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável pela ação
+
+ 
+
+Ausência de capacitação e/ou a não adaptação à metodologia de levantamento, à utilização e aos padrões da ferramenta Aris.
+
+Alto
+
+ 
+
+Baixa
+
+ 
+
+(E) Treinar a equipe na utilização da ferramenta Aris (padrão e metodologia).
+
+(R) Apoio metodológico da Seplan e/ou do Projeto Apolo.
+
+Setec 
+
+Seplan
+
+ 
+
+Ausência de cooperação dos gerentes e dos servidores responsáveis pelas ações do atual processo de seleção externa.
+
+Alto
+
+Média
+
+(R) Reunião de conscientização e solicitação de cooperação com a equipe do projeto.
+
+Diretor-Geral do 
+
+ISC
+
+ 
+
+Envolvimento nas atividades de coordenação do Concurso Público ACE/2008.
+
+Alto
+
+Média
+
+(E) Designar pessoa de fora do projeto para a coordenação do Concurso Público ACE/2008.
+
+Diretor-Geral do ISC
+
+
+
+
+8. Relação com outros projetos
+
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+Projeto Atena
+
+Projeto Apolo (mapeamento de processos do ISC)
+
+(-----)
+
+
+
+
+9. Equipe do projeto
+
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+ 
+
+Maria Antonia Ferraz Zelenovsky
+
+4582-9
+
+ISC 
+
+28/3/2008 a 05/12/2008
+
+Integral
+
+ 
+
+Gladson Raeff Rocha Viana
+
+5853-0
+
+ISC/Seges
+
+28/3/2008 a 05/12/2008
+
+Integral
+
+ 
+
+Maria Raquel Vieira 
+
+3373-1
+
+Segep
+
+28/3/2008 a 05/12/2008
+
+Integral
+
+ 
+
+Dora Bastos Botelho
+
+6498-0
+
+Seplan
+
+28/3/2008 a 05/12/2008
+
+Por atividade
+
+
+
+
+10. Custos adicionais estimados
+
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+ 
+
+Não há custos adicionais.
+
+ 
+
+ 
+
+Total de custos estimados
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+11. Outros recursos necessários
+
+
+
+Recurso
+
+Fornecedor
+
+ 
+
+Sala, computadores, impressora, ramal, pontos de rede.
+
+ISC
+
+ 
+
+Programa ARIS.
+
+SETEC
+
+
+
+
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 80, DE 3 DE ABRIL DE 2008
+
+
+
+
+
+
+12. Finalização
+
+
+
+Data
+
+Assinatura do gestor do projeto
+
+Em 28/3/2008
+
+Maria antonia ferraz zelenovsky
+
+Coordenadora do Projeto
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2008.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Instituto Serzedello Corrêa, em ___/___/2008
+
+Carlos eduardo de queiroz pereira
+
+Diretor Geral
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2008
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+

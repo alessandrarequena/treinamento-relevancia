@@ -1,0 +1,2188 @@
+Instrução Normativa
+16/1997
+
+
+
+
+
+
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares, e
+
+
+
+
+
+Considerando que ao sistema de controle interno cabe apoiar o controle externo, no exercício de sua missão institucional, nos termos do art. 74, inc. IV, da Constituição Federal;
+
+
+
+
+
+Considerando que compete ao Tribunal, nos termos do art. 71, inc. III, da Constituição Federal e do art. 1º da lei nº 8.443/92, apreciar, para fins de registro, na forma estabelecida no Regimento Interno, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público federal, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório;
+
+
+
+
+
+Considerando, ainda, o Poder Regulamentar que lhe confere o art. 3º da lei nº 8.443/92, para expedir atos e instruções normativas sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos, obrigando ao seu cumprimento, sob pena de responsabilidade, resolve:
+
+
+
+
+
+
+Seção I
+
+
+
+
+Do Objeto
+
+
+
+
+
+
+Art. 1º O envio e a análise das informações concernentes a atos de admissão de pessoal, Concessões de aposentadoria, reformas e pensões, bem como as melhorias posteriores que alterem o fundamento legal, para fins de apreciação e registro pelo Tribunal de Contas da União, observarão as disposições desta Instrução Normativa.
+
+
+
+
+
+
+Seção II
+
+
+
+
+Das Informações Enviadas ao Tribunal de Contas da União
+
+
+
+
+
+
+Art. 2º Os órgãos setoriais de controle interno submeterão ao Tribunal de Contas da União, na forma definida pelo Manual de Instrução do Sistema de Apreciação e Registro dos Atos de Admissão e concessões – SISAC, as informações relativas aos seguintes atos, expedidos em todas as unidades que lhe são vinculadas:
+
+
+
+
+
+I – no caso de admissão de pessoal:
+
+
+
+
+
+a) dados do admitido
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+1. data do nascimento;
+
+
+
+
+
+b) dados do órgão e do responsável pela admissão:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. código do órgão no SIAPE;
+
+
+
+
+
+3. CPF, nome e cargo do responsável pela admissão;
+
+
+
+
+
+c) dados do concurso:
+
+
+
+
+
+1. data de publicação do edital e da homologação;
+
+
+
+
+
+2. data e prazo de validade do concurso;
+
+
+
+
+
+3. previsão de prorrogação da validade do concurso no edital e ocorrência da prorrogação;
+
+
+
+
+
+1 . classificação obtida pelo admitido;
+
+
+
+
+
+d) dados da admissão:
+
+
+
+
+
+1. código do cargo/emprego/posto/graduação;
+
+
+
+
+
+1. regime jurídico;
+
+
+
+
+
+2. data de vencimento do contrato, se for o caso;
+
+
+
+
+
+3. datas da admissão /nomeação, da posse e de início do efetivo exercício;
+
+
+
+
+
+4. tipo e nº do ato de admissão.
+
+
+
+
+
+e) dados da vaga:
+
+
+
+
+
+1. motivo da vaga;
+
+
+
+
+
+1. tipo, origem, nº e data da publicação do ato que gerou a vaga;
+
+
+
+
+
+f) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+3. descumprimento dos prazos previstos nesta Instrução Normativa.
+
+
+
+
+
+II. no caso de desligamento de servidor:
+
+
+
+
+
+a) dados do servidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+3. data de nascimento;
+
+
+
+
+
+b) dados do órgão e do responsável pelo desligamento:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. código do órgão no SIAPE;
+
+
+
+
+
+3. CPF, nome e cargo do responsável pelo desligamento.
+
+
+
+
+
+c) dados da admissão:
+
+
+
+
+
+1. código do cargo/emprego/posto;
+
+
+
+
+
+1. regime jurídico;
+
+
+
+
+
+2. data da admissão/ nomeação;
+
+
+
+
+
+1 tipo do ato de admissão;
+
+
+
+
+
+1  vencimento do contrato, ser for o caso;
+
+
+
+
+
+2 ocorrência de prorrogação.
+
+
+
+
+
+d) dados do desligamento:
+
+
+
+
+
+1. data, motivo e data de publicação do desligamento;
+
+
+
+
+
+e) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. parecer.
+
+
+
+
+
+III. no caso de cancelamento do desligamento e restabelecimento da admissão:
+
+
+
+
+
+a) dados do servidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+3. data do nascimento.
+
+
+
+
+
+b) dados do órgão/entidade e autoridade responsável:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. código do órgão no SIAPE;
+
+
+
+
+
+2. unidade de origem militar;
+
+
+
+
+
+3. CPF, nome e cargo do responsável pelo cancelamento/restabelecimento;
+
+
+
+
+
+c) dados da admissão:
+
+
+
+
+
+1. código do cargo/emprego/posto/graduação;
+
+
+
+
+
+1. regime jurídico;
+
+
+
+
+
+2. data da admissão/nomeação;
+
+
+
+
+
+d) dados do desligamento:
+
+
+
+
+
+1.data, motivo e data de publicação do desligamento;
+
+
+
+
+
+e) dados do cancelamento do desligamento;
+
+
+
+
+
+1. data, motivo e data de publicação do cancelamento do desligamento;
+
+
+
+
+
+f) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. parecer;
+
+
+
+
+
+IV. no caso de concessão de aposentadoria:
+
+
+
+
+
+a) dados do servidor;
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+1. data de nascimento.
+
+
+
+
+
+b) dados do órgão e do responsável:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. código do órgão no SIAPE;
+
+
+
+
+
+3. CPF, nome e cargo do responsável pela concessão;
+
+
+
+
+
+c) dados sobre a situação do servidor:
+
+
+
+
+
+1. código do cargo;
+
+
+
+
+
+1 data de admissão e tempo de permanência no cargo;
+
+
+
+
+
+2. regime antes da lei nº 8.112/90.
+
+
+
+
+
+3. Informações sobre a posição do servidor na carreira;
+
+
+
+
+
+d) dados da concessão:
+
+
+
+
+
+1. tipo de registro (inicial ou alteração);
+
+
+
+
+
+1.seqüencial da alteração e registro inicial, se for o caso;
+
+
+
+
+
+2.datas de publicação e de vigência;
+
+
+
+
+
+3.cota da união;
+
+
+
+
+
+4.tempo de serviço para aposentadoria e para Gratificação Adicional por tempo de serviço;
+
+
+
+
+
+5.tempo de efetivo exercício no magistério ou na judicatura, se for o caso;
+
+
+
+
+
+6.quantidade de anexos;
+
+
+
+
+
+7.código dos fundamentos legais da aposentadoria/alteração;
+
+
+
+
+
+e) dados dos proventos:
+
+
+
+
+
+1. base legal da tabela de vencimentos no mês da concessão;
+
+
+
+
+
+1.informações sobre a posição do servidor na tabela de vencimentos, para efeito de proventos;
+
+
+
+
+
+1.valor do vencimento base;
+
+
+
+
+
+2. código, denominação e valor do fundamento legal das vantagens.
+
+
+
+
+
+f) dados do órgão controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1.parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+2. descumprimento dos prazos previstos nesta Introdução Normativa;
+
+
+
+
+
+g) discriminação dos tempos de serviço, averbação e licenças;
+
+
+
+
+
+h) discriminação dos tempos em exercício na judicatura para magistrados togados e classistas;
+
+
+
+
+
+i) discriminação dos tempos em funções comissionadas;
+
+
+
+
+
+V. no caso de cancelamento/restabelecimento da concessão:
+
+
+
+
+
+a) dados do servidor/instituidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+1. data de nascimento.
+
+
+
+
+
+b) dados sobre o órgão/entidade e autoridade responsável:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. código do órgão no SIAPE;
+
+
+
+
+
+2. unidade de origem militar;
+
+
+
+
+
+3. CPF, nome e cargo do responsável pelo cancelamento/restabelecimento;
+
+
+
+
+
+c) dados da concessão:
+
+
+
+
+
+1. tipo de concessão;
+
+
+
+
+
+1. cargo/posto da concessão;
+
+
+
+
+
+2. data de vigência;
+
+
+
+
+
+3. número do processo no TCU.
+
+
+
+
+
+d) dados do cancelamento:
+
+
+
+
+
+1. data, motivo e data de publicação do cancelamento,
+
+
+
+
+
+e) dados do restabelecimento:
+
+
+
+
+
+1.data, motivo e data de publicação do restabelecimento;
+
+
+
+
+
+f) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+3. descumprimento dos prazos previstos nesta Instrução Normativa.
+
+
+
+
+
+VI. no caso de concessão de pensão civil:
+
+
+
+
+
+a) dados do instituidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+3. data de nascimento;
+
+
+
+
+
+4. estado civil;
+
+
+
+
+
+5. regime jurídico antes da lei nº 8.112/90;
+
+
+
+
+
+6. código do último cargo ocupado;
+
+
+
+
+
+7. informações sobre a posição do servidor na carreira;
+
+
+
+
+
+1. tempo de serviço para aposentadoria e para Gratificação Adicional por tempo de serviço;
+
+
+
+
+
+2. data do óbito;
+
+
+
+
+
+3. situação na data do óbito;
+
+
+
+
+
+4. código dos fundamentos legais da aposentadoria do instituidor;
+
+
+
+
+
+5. órgão deliberativo, data da apreciação e registro da aposentadoria pelo TCU;
+
+
+
+
+
+b) dados sobre o órgão/entidade e autoridade responsável:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. código do órgão no SIAPE;
+
+
+
+
+
+2. CPF, nome cargo do responsável pela concessão.
+
+
+
+
+
+c) dados da concessão:
+
+
+
+
+
+1. tipo de registro (inicial ou alteração);
+
+
+
+
+
+1. seqüencial da alteração e registro inicial, se for o caso;
+
+
+
+
+
+2. data da vigência;
+
+
+
+
+
+3. cota da união;
+
+
+
+
+
+4. cota de beneficiário em reserva, se for o caso;
+
+
+
+
+
+5. quantidade de fichas de beneficiários anexadas;
+
+
+
+
+
+6. códigos dos fundamentos legais da pensão/alteraçã;
+
+
+
+
+
+d) dados do benefício:
+
+
+
+
+
+1. base legal da tabela de vencimento no mês da concessão;
+
+
+
+
+
+1. informações sobre a posição do instituidor na tabela de vencimentos;
+
+
+
+
+
+2. valor do vencimentos base;
+
+
+
+
+
+3. códigos dos fundamentos legais, denominação e valor das vantagens.
+
+
+
+
+
+e) dados do órgão de Controle Interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+2. descumprimento dos prazos previstos nesta Instrução Normativa;
+
+
+
+
+
+f) dados de beneficiários:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. cota de pensão;
+
+
+
+
+
+3. matrícula no SIAPE;
+
+
+
+
+
+4. relação de parentesco/dependência;
+
+
+
+
+
+5. recebimento de outros benefícios, se for o caso;
+
+
+
+
+
+6. data da invalidez e comprovação de dependências econômicas se for o caso;
+
+
+
+
+
+7. códigos dos fundamentos legais;
+
+
+
+
+
+8. parecer do controle interno;
+
+
+
+
+
+VII. no caso de concessão de pensão especial (ex-combatente);
+
+
+
+
+
+a) dados dos instituidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. matrícula no SIAPE;
+
+
+
+
+
+3. estado civil;
+
+
+
+
+
+4. data do óbito;
+
+
+
+
+
+5. beneficiários;
+
+
+
+
+
+6. outro beneficiário;
+
+
+
+
+
+7. órgão deliberativo, data da apreciação e registro do outro benefício pelo TCU, se for o caso;
+
+
+
+
+
+b) dados sobre o órgão/entidade e autoridade responsável:
+
+
+
+
+
+1. código do órgão e denominação;
+
+
+
+
+
+1. código do órgão no SIAPE;
+
+
+
+
+
+2. CPF, nome e cargo de responsável pela concessão;
+
+
+
+
+
+c) dados da concessão:
+
+
+
+
+
+1. tipo de registro (inicial, alteração ou reversão);
+
+
+
+
+
+1. seqüencial da alteração/reversão e registro inicial, se for o caso;
+
+
+
+
+
+2. data de vigência;
+
+
+
+
+
+3. valor do benefício;
+
+
+
+
+
+4. cota de beneficiário em reserva, se for o caso;
+
+
+
+
+
+5. quantidade de fichas de beneficiários anexadas;
+
+
+
+
+
+6. códigos dos fundamentos legais da pensão/alteração/reversão;
+
+
+
+
+
+d) dados do benefício:
+
+
+
+
+
+1. posto/graduação base para cálculo;
+
+
+
+
+
+1. valor do vencimento base;
+
+
+
+
+
+2. códigos dos fundamentos legais, denominação e valor das vantagens;
+
+
+
+
+
+e) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+2. descumprimento dos prazos previstos nesta Instrução Normativa;
+
+
+
+
+
+VIII. no caso de concessão de reforma:
+
+
+
+
+
+a) dados do servidor:
+
+
+
+
+
+1. nome, sexo e CPF do servidor;
+
+
+
+
+
+2. datas do nascimento;
+
+
+
+
+
+3. situação funcional;
+
+
+
+
+
+4. código do posto/graduação anterior e atual;
+
+
+
+
+
+5. datas da praça e do desligamento;
+
+
+
+
+
+b) dados sobre o órgão/entidade e autoridade responsável;
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. unidade de origem militar;
+
+
+
+
+
+2. CPF, nome e cargo do responsável pela reforma.
+
+
+
+
+
+c) dados da concessão:
+
+
+
+
+
+1. motivo da reforma;
+
+
+
+
+
+1. tipo de registro (inicial ou alteração);
+
+
+
+
+
+2. seqüencial da alteração e registro inicial, se for o caso;
+
+
+
+
+
+3. cota da união;
+
+
+
+
+
+4. tempo de serviço para reforma e para Gratificação Adicional por Tempo de Serviço;
+
+
+
+
+
+5. data do laudo médico, se for o caso;
+
+
+
+
+
+6. data da publicação da reserva;
+
+
+
+
+
+7. datas de publicação e de vigência da reforma;
+
+
+
+
+
+8. códigos dos fundamentos legais da reforma/alteração;
+
+
+
+
+
+d) discriminação dos tempos de serviço;
+
+
+
+
+
+e) dados do benefício:
+
+
+
+
+
+1. posto/graduação base para cálculo;
+
+
+
+
+
+1. valor do vencimento base;
+
+
+
+
+
+2. códigos dos fundamentos legais, denominação e valor das vantagens;
+
+
+
+
+
+f) dados do órgão controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+1. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+2. descumprimento dos prazos previstos nesta Instrução Normativa;
+
+
+
+
+
+IX. no caso de concessão de pensão militar:
+
+
+
+
+
+a) dados do instituidor:
+
+
+
+
+
+1. nome, sexo e CPF;
+
+
+
+
+
+2. estado civil;
+
+
+
+
+
+3. data do óbito;
+
+
+
+
+
+4. situação na data do óbito;
+
+
+
+
+
+5. posto/graduação;
+
+
+
+
+
+6. tempo de serviço para reforma e para Gratificação Adicional por Tempo de Serviço;
+
+
+
+
+
+7. posto/graduação de contribuição;
+
+
+
+
+
+8. código dos fundamentos legais da reforma do instituidor, se for o caso;
+
+
+
+
+
+9. órgão deliberativo, data da apreciação e registro da reforma pelo TCU, se for o caso;
+
+
+
+
+
+b) dados sobre o órgão/entidade e autoridade responsável:
+
+
+
+
+
+1. código do órgão e denominação;
+
+
+
+
+
+1. unidade de origem militar;
+
+
+
+
+
+2. CPF, nome e cargo do responsável pela concessão;
+
+
+
+
+
+c) dados da concessão:
+
+
+
+
+
+1. tipo de registro (inicial, alteração ou reversão);
+
+
+
+
+
+1. seqüencial da alteração/reversão e registro inicial, se for o caso;
+
+
+
+
+
+2. data da vigência;
+
+
+
+
+
+3. cota da união;
+
+
+
+
+
+4. valor do benefício;
+
+
+
+
+
+5. cota de beneficiário em reserva, se for o caso;
+
+
+
+
+
+6. quantidade de fichas de beneficiários anexadas;
+
+
+
+
+
+7. códigos dos fundamentos legais da pensão/alteração;
+
+
+
+
+
+d) dados do beneficiário:
+
+
+
+
+
+1. posto/graduação base para cálculo;
+
+
+
+
+
+1. valor do vencimento base;
+
+
+
+
+
+2. códigos dos fundamentos legais, denominação e valor das vantagens;
+
+
+
+
+
+e) dados do órgão de controle interno:
+
+
+
+
+
+1. código e denominação do órgão no SISAC;
+
+
+
+
+
+2. parecer e identificação de falhas ou irregularidades constatadas;
+
+
+
+
+
+3. descumprimento dos prazos previstos nesta Instrução Normativa.
+
+
+
+
+
+Art. 3º As melhorias posteriores à data da concessão inicial, que não alterem o fundamento legal do ato concessório, não serão submetidas ao Tribunal para fins de novo registro, observado o disposto no parágrafo único deste artigo.
+
+
+
+
+
+Parágrafo único. O acréscimo ao proventos de novas parcelas, gratificações ou outras vantagens de qualquer natureza, ou a introdução de novos critérios ou bases de cálculo dos componentes do benefício, não previstos no ato concessório originalmente submetido à apreciação do Tribunal, ou por este já apreciado e registrado, constituem alteração de seu fundamento legal, quando se caracterizarem como vantagem pessoal e individual, do servidor público civil ou militar de que resulte, necessariamente, alteração do ato concessório.
+
+
+
+
+
+Art. 4º As informações a que se refere o art. 2º devem ser apresentadas ao Tribunal de Contas da União, ressalvado o disposto no art. 29 desta Instituição Normativa, por meio de transmissão eletrônica de dados.
+
+
+
+
+
+Art. 5º As informações relativas aos atos de desligamento dos servidores da administração pública federal direta, indireta e fundacional, observado, no que couber, o disposto no art. 6º desta Instrução Normativa, deverão, também, ser encaminhadas ao Tribunal, no prazo de trinta dias, contado da data do desligamento, e na forma estabelecida no arts. 2º e 4º antecedentes.
+
+
+
+
+
+Art. 6º Será concedido prazo de trinta dias, para apresentação de razões de justificativa, à autoridade responsável pelo não encaminhamento ao Tribunal, nos prazos estabelecidos, das informações de que trata esta Instrução Normativa.
+
+
+
+
+
+Parágrafo único. A não manifestação da autoridade, no prazo fixado, ensejará a aplicação, pelo Tribunal, da multa prevista no art. 58, item IV, da lei nº 8.443, de 16/07/92.
+
+
+
+
+
+
+Seção III
+
+
+
+
+Da Atuação do Órgão de Pessoal
+
+
+
+
+
+
+Art. 7º A unidade administrativa responsável pelos atos de admissão e de concessão deverá cadastrar, no Sistema de Apreciação e Registro dos Atos de Admissões e Concessões – SISAC, as informações a eles pertinentes e encaminhar os respectivos processos ao órgão setorial de controle interno, no prazo de vinte dias a partir da data de sua publicação ou, sendo esta dispensada, a partir da assinatura do ato.
+
+
+
+
+
+§ 1º Nos casos de atos de admissão de pessoal e de concessão de pensão, contar-se-á o prazo a partir da posse do interessado e do deferimento do benefício pensional respectivamente.
+
+
+
+
+
+§ 2º As informações relativas aos atos de que trata o caput deste artigo, bem como o resultado da apreciação pelo Tribunal de Contas da União deverão, para fins de fiscalização ser consignados nos assentamentos individuais do beneficiário e no Sistema Integrado de Administração de Recursos Humanos – SIAPE, ou em outro que venha a substitui-lo ou, ainda, em sistema de informação a ser definido pelo órgão.
+
+
+
+
+
+
+Seção IV
+
+
+
+
+Da Ação do Controle Interno
+
+
+
+
+
+
+Art. 8º O órgão setorial de controle interno emitirá parecer quanto à legalidade dos atos de admissão e de concessões praticados nas unidades a ele vinculadas, colocando-os à disposição do Tribunal, no prazo de trinta dias, contado do recebimento do processo respectivo, que lhe será encaminhado pela unidade administrativa responsável, conforme previsto na Seção III desta Instrução Normativa.
+
+
+
+
+
+§ 1º No exame dos atos sujeitos a registro, incumbirá ao órgão setorial de controle interno proceder ao cotejo dos dados previamente cadastrados no SISAC, pela autoridade administrativa, com aqueles constantes dos respectivos processos.
+
+
+
+
+
+§ 2º A diligência promovida pelo órgão setorial de controle interno, em razão de inexatidão ou insuficiência dos dados recebidos, ou para que o ato seja adequado à legislação aplicável à espécie e à jurisprudência do Tribunal de Contas da União, interrompe o prazo previsto no caput, cuja contagem se iniciará novamente no primeiro dia útil seguinte ao término do prazo estipulado para cumprimento da referida diligência.
+
+
+
+
+
+§ 3º A diligência promovida pelo órgão setorial de controle interno deverá ser cumprida pela Unidade de Pessoal no prazo máximo de trinta dias, a contar do recebimento da determinação pela autoridade administrativa.
+
+
+
+
+
+§ 4º Findo o prazo fixado no parágrafo anterior, e ainda que não seja atendida a diligência, o órgão setorial de controle interno, procederá conforme disposto no caput deste artigo, devendo fazer constar de seu parecer a identificação da autoridade responsável pelo descuprimento das diligências promovidas, se for o caso.
+
+
+
+
+
+§ 5º O prazo fixado no caput deste artigo poderá ser prorrogado em até 90 (noventa) dias, mediante solicitação fundamentada do órgão setorial de controle interno, cuja autorização dependerá de decisão do Relator ou do Tribunal.
+
+
+
+
+
+§ 6º O não cumprimento dos prazos previstos neste artigo sujeitará o responsável à sanção prevista no parágrafo único do art. 6º desta Instrução Normativa.
+
+
+
+
+
+Art. 9º Visando o acesso e utilização pelo Tribunal de Contas da União, a Secretaria Federal de Controle adotará providências no sentido de definir parâmetros para geração de relatórios do Sistema Integrado de Administração de Recursos Humanos – SIAPE as quantidades e os valores financeiros referentes aos atos sujeitos a registro – iniciais e de alteração – expedidos pelas diversas unidades vinculadas 
+
+
+
+
+
+§ 1º Os relatórios a que se refere este artigo deverão permitir que as quantidades e os valores financeiros referentes aos atos sujeitos a registro sejam sinteticamente consolidados por unidade vinculada e pelas espécies de atos enumerados no art. 2º desta Instrução Normativa.
+
+
+
+
+
+§ 2º Os órgãos de controle interno das unidades jurisdicionadas que não utilizem o Sistema Integrado de Administração de Recursos Humanos – SIAPE emitirão relatórios semestrais evidenciando as quantidades e os valores financeiros referentes aos atos sujeitos a registro, ocorridos nos seis meses imediatamente anteriores, incluindo relação nominal dos servidores e beneficiários incluídos e excluídos de sua folha de pagamento, bem como as alterações funcionais verificadas no período abrangido pelo relatório.
+
+
+
+
+
+Art. 10. Os titulares dos órgãos setoriais de controle interno, sem prejuízo da adoção das providências de sua alçada, ao tomarem conhecimento de irregularidades, ilegalidades ou omissões, inclusive descumprimento de prazos, delas darão ciência ao Tribunal, sob pena de responsabilidade solidária.
+
+
+
+
+
+
+Seção V
+
+
+
+
+Da Atuação do Tribunal
+
+
+
+
+
+
+
+Subseção I
+
+
+
+
+Do Cadastramento das Informações
+
+
+
+
+
+
+Art. 11. O Sistema de Apreciação e Registro dos Atos de Admissão de Pessoal e de Concessões – SISAC é, no âmbito do Tribunal, o instrumento que tem a função de cadastro e registro de informações referentes aos atos de admissão de pessoal, concessões de aposentadorias, reformas e pensões, bem como das melhorias posteriores que alterem seu fundamento legal.
+
+
+
+
+
+§ 1º O Tribunal encaminhará aos órgãos setoriais de controle interno Manual de Instrução explicitando a forma de envio das informações relativas aos atos sujeitos a registro, sua tramitação, procedimentos requeridos e operacionalização do SISAC, na forma estabelecida nesta Instrução Normativa.
+
+
+
+
+
+§ 2º O Manual de Instrução deverá conter campo específico para cadastramento dos dados necessários à identificação da autoridade responsável pelo ato de admissão ou de concessão.
+
+
+
+
+
+Art. 12. As informações de que trata o § 2º do artigo anterior serão armazenadas no SISAC e utilizadas nas fases de planejamento e execução das auditorias, bem como de instrução dos processos e apreciação dos atos sujeitos a registro, além de constituir base de dados para cadastramento das decisões prolatadas pelo Tribunal em relação a esses atos.
+
+
+
+
+
+§ 1º As informações transmitidas ao Tribunal de Contas da União por meio eletrônico de dados serão criticadas pelo SISAC quanto à conformidade com o Manual de Instrução, ressalvado o disposto no art. 29 desta Instrução Normativa.
+
+
+
+
+
+§ 2º Em relação aos dados rejeitados pela crítica, o SISAC emitirá, automaticamente, comunicado aos respectivos órgãos setoriais de controle interno a que se ache vinculado a unidade de pessoal responsável pelo cadastramento, a fim de serem adotadas as providências para o saneamento das falhas detectadas, observando-se os prazos e disposições previstas no art. 8º desta Instrução Normativa.
+
+
+
+
+
+§ 3º No âmbito do Tribunal de Contas da União, os procedimentos descritos neste artigo são de competência de sua Unidade de Processamento de Dados.
+
+
+
+
+
+
+Subseção II
+
+
+
+
+Dos Procedimentos de Fiscalização
+
+
+
+
+
+
+Art. 13. Os trabalhos de fiscalização, objeto desta Instrução Normativa, constarão do Plano de que trata o art. 206, § 1º do Regimento Interno do Tribunal de Contas da União, devendo abranger, no menor prazo possível todos os órgãos de controle interno que tenham a incumbência de informar ao Tribunal sobre atos sujeitos a registro.
+
+
+
+
+
+Art. 14 Nos procedimentos de planejamento e execução da fiscalização de atos sujeitos a registro serão utilizadas, além das informações contidas no Sistema de Apreciação e Registro dos Atos de Admissão e Concessões – SISAC, aquelas cadastradas no Sistema Integrado de Recursos Humanos – SIAPE, ou em outro similar utilizado pelo órgão fiscalizado e, ainda, em outros sistemas de informação na área de pessoa disponível na Administração Pública.
+
+
+
+
+
+Parágrafo único. Serão também consideradas, no planejamento dos trabalhos de fiscalização, as informações contidas nos relatórios semestrais encaminhados pelos órgãos de controle interno.
+
+
+
+
+
+Art. 15. Havendo necessidade, poderão, excepcionalmente, ser inseridas no Plano de que trata o art. 13 desta Instrução Normativa, fiscalização em unidades administrativas que expeçam atos sujeitos à registro.
+
+
+
+
+
+Art. 16. Compete à Segunda Secretaria de Controle Externo, juntamente com as Secretarias de Controle Externo situadas nos Estados, realizar os trabalhos de fiscalização de que trata esta Instrução Normativa, bem como proceder ao acompanhamento das determinações promovidas pelo Tribunal de Contas da União.
+
+
+
+
+
+Parágrafo único. As Secretarias situadas nos Estados ficarão responsáveis pelos trabalhos de fiscalização e acompanhamento nas unidades de controle interno que constem de sua clientela.
+
+
+
+
+
+Art.17. As Secretarias de Informática e de Auditoria e Inspeções darão apoio necessário à implantação dos procedimentos definidos nesta Instrução Normativa.
+
+
+
+
+
+Parágrafo único. As Secretarias de Informática e de Auditoria e Inspeções trabalharão conjuntamente para a implantação de procedimentos de extração de dados a serem utilizados nos trabalhos de fiscalização, bem como de cadastro específico que atendam o disposto no art.22 desta Instrução Normativa.
+
+
+
+
+
+
+Subseção III
+
+
+
+
+Da Autuação E Tramitação Dos Processos De Fiscalização
+
+
+
+
+
+
+Art. 18. Os processos decorrentes de fiscalização de atos sujeitos a registro serão autuados a partir dos respectivos relatórios de auditoria, elaborados segundo normas próprias.
+
+
+
+
+
+§ 1º Os atos de admissão de pessoal e de concessões de aposentadorias, reformas e pensões em relação aos quais não sejam apontadas falhas, impropriedades ou irregularidades, bem como aqueles cujas falhas ou impropriedades forem sanadas durante o curso da auditoria serão autuados em conjunto, de acordo com o tipo (admissão, aposentadoria, reforma e pensão), com proposta de legalidade e registro.
+
+
+
+
+
+§ 2º Serão autuados em processo distintos os atos em relação aos quais a Equipe de Auditoria constate alguma falha ou irregularidade, devendo ser indicada com precisão a ocorrência verificada, bem como o dispositivo legal contrariado, com proposta de ser promovida a audiência dos responsáveis para apresentação das respectivas razões de justificativas.
+
+
+
+
+
+§ 3º Os processos referentes a atos de admissão e de concessões de aposentadorias, reformas e pensões, em relação aos quais a Equipe de Auditoria apresente proposta de audiência, serão encaminhados diretamente ao Relator.
+
+
+
+
+
+§ 4º Determinada a audiência, e examinadas as razões de justificativas apresentadas, o processo será encaminhado pela Unidade Técnica ao Ministério Público, com parecer conclusivo quanto aos atos sujeitos a registro, nos termos do art. 21 desta Instrução Normativa.
+
+
+
+
+
+§ 5º Expirado o prazo, sem que o responsável atenda à audiência promovida, a Unidade Técnica dará andamento ao processo, apresentando proposta de mérito quanto ao ato inquinado, observadas, as disposições presentes nos artigos 19 e 21 desta Instrução Normativa.
+
+
+
+
+
+Art.19 Os processos concernentes à fiscalização de atos de admissão de pessoal ou de concessões de aposentadorias, reformas e pensões, para fins de registro, que apresentem propostas de legalidade ou que, ao contrário, concluam pela ilegalidade, serão encaminhados ao Ministério Público junto ao Tribunal de Contas da União para audiência, na forma do art. 81, inc. II, da Lei nº 8.443/92.
+
+
+
+
+
+Parágrafo único. Se o Ministério Público discordar das conclusões apresentadas pela Unidade Técnica, proporá o destaque do ato e as medidas que julgar pertinentes.
+
+
+
+
+
+
+Subseção IV
+
+
+
+
+Da Apreciação e Registro
+
+
+
+
+
+
+Art. 20. O registro dos atos de admissão de pessoal e concessões de aposentadorias, reformas e pensões será efetivado a partir de processo formalizados em virtude de auditorias realizadas nos órgãos de controle interno, na forma definida nesta Instrução Normativa e no Regimento Interno do Tribunal de Contas da União.
+
+
+
+
+
+Parágrafo único. Ao processo relativo à fiscalização de que trata este artigo serão aplicados, no que couber, os procedimentos definidos para fiscalização de atos e contratos, na forma prevista pelo Regimento Interno do Tribunal de Contas da União e em atos normativos específicos.
+
+
+
+
+
+Art. 21. Promovida a audiência e examinadas as razões de justificativas o Tribunal considerará legal a admissão ou concessão, ordenando-lhe o registro, caso sejam acolhidas as razões de justificativas.
+
+
+
+
+
+§ 1º Rejeitadas as razões de justificativas, o Tribunal assinará prazo ao responsável para o exato cumprimento da lei, adotando, se não atendido, as seguintes medidas:
+
+
+
+
+
+a) considerará ilegal o ato impugnado;
+
+
+
+
+
+b) trimestralmente, comunicará à Câmara dos Deputados e ao Senado Federal as decisões adotadas nesse sentido;
+
+
+
+
+
+c) aplicará ao responsável a multa prevista no inc. II do art. 220 do Regimento Interno.
+
+
+
+
+
+§ 2º Caso o responsável permaneça silente em relação à audiência promovida, o Tribunal apreciará a legalidade do ato de admissão ou de concessão, podendo aplicar multa ao responsável revel.
+
+
+
+
+
+Art. 22. Os atos que tiverem seu registro ordenado ou denegado pelo Tribunal, ou que sejam objeto de determinações, constarão de cadastro específico, no Sistema de Apreciação e Registro dos Atos de Admissão de Pessoal e de Concessões – SISAC.
+
+
+
+
+
+Parágrafo único. As informações atinentes a melhorias posteriormente concedidas, que sejam objeto de registro pelo Tribunal, deverão constituir, conforme definido no Manual, item específico no SISAC.
+
+
+
+
+
+Art. 23. A decisão definitiva concernente a ato de admissão ou de concessão será publicada no Diário Oficial da União e constituirá, quando o Tribunal ordenar o respectivo registro, título de legalidade do ato, para todos os fins de direito.
+
+
+
+
+
+Art.24. A negativa de registro de atos de admissão obrigará o órgão de origem, no prazo de quinze dias contados da ciência da recusa, ou da publicação da Decisão do TCU no Diário Oficial da União, a adotar as medidas saneadoras cabíveis, observadas a legislação pertinente, fazendo cessar todo e qualquer pagamento decorrente do ato impugnado, sob pena de solidariedade do responsável na obrigação de ressarcimento das quantias pagas após essa data.
+
+
+
+
+
+Parágrafo único. Quando a ilegalidade da admissão decorrer da ausência de aprovação prévia em concurso público ou da inobservância de seu prazo de validade, o Tribunal declarará a nulidade do ato correspondente, nos termos do § 2º do art. 37 da Constituição Federal, e determinará adoção da medida prevista no art. 26 desta Instrução Normativa.
+
+
+
+
+
+Art. 25. Quando o registro do ato de concessão de aposentadoria, reforma ou pensão for negado, ou ordenado com determinação de que seja retificada qualquer parcela, o órgão de origem, no prazo de quinze dias, contados a partir da ciência da Decisão do Tribunal, fará cessar o pagamento dos proventos ou benefícios no todo ou na parcela impugnada pelo Tribunal, sob pena de solidariedade do responsável na obrigação de ressarcimento das quantias pagas após essa data.
+
+
+
+
+
+Art. 26. Nas hipóteses previstas nos arts. 24 e 25, se não for suspenso o pagamento, ou havendo indício de procedimento culposo ou doloso, o Tribunal determinará a conversão do processo de fiscalização em tomada de Contas Especial, para apurar responsabilidade e promover o ressarcimento aos cofres públicos das despesas irregularmente efetuadas.
+
+
+
+
+
+
+
+
+
+
+Seção VI
+
+
+
+
+Das Disposições Finais e Transitórias
+
+
+
+
+
+
+Art. 28. Não será conhecido requerimento dirigido diretamente ao Tribunal por interessado que busque a obtenção de benefícios referentes à concessão de aposentadoria, reformas ou pensões, devendo o respectivo processo ser arquivado, após comunicação ao requerente. 
+
+
+
+
+
+Art.29. Na impossibilidade do envio das informações de que trata esta Instrução Normativa por transmissão eletrônica de dados, estas devem ser encaminhadas, em meio magnético, à Unidade de Processamento de Dados do Tribunal de Contas da União que, ao recebê-las, verificará sua conformidade com o Manual de Instrução, procedendo-se de acordo com o disposto no art.11 e seus parágrafos.
+
+
+
+
+
+Art. 30. Os órgãos de controle interno das unidades jurisdicionadas que não utilizem o Sistema Integrado de Administração de Recursos Humanos – SIAPE tornarão disponíveis ao Tribunal, em meio magnético, a folha de pagamento dos servidores das referidas unidades, em data a ser definida, oportunamente, segundo a disponibilidade daqueles órgãos.
+
+
+
+
+
+Art. 31. A partir da vigência desta Instrução Normativa, o Tribunal de Contas da União não mais receberá processos relativos a atos sujeitos a registro.
+
+
+
+
+
+Art.32. Os processos constituídos nos moldes convencionais ou de acordo com a Res. TCU nº 255/91, que já se encontrem autuados, no âmbito do Tribunal, serão apreciados seguindo a metodologia introduzida por esta Instrução Normativa, devendo ser posteriormente restituídos à origem ou arquivados, conforme o caso.
+
+
+
+
+
+Parágrafo único. A critério do Relator, os processos de que trata o caput deste artigo poderão ser apreciados de per si, na forma adotada anteriormente à vigência desta Instrução Normativa.
+
+
+
+
+
+Art. 33. Esta Instrução Normativa entrará em vigor em 01.01.98, revogadas as disposições em contrário, em especial as Resoluções nº 187/77 e nº 255/91 e a Instrução Normativa nº 002/93.
+
+
+
+
+
+PAULO AFFONSO MARTINS DE OLIVEIRA
+
+
+
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A redação original do art. 27 da Instrução Normativa nº 16, de 6/10/1997, consta no BTCU nº 63/1997.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre o envio de informações relativas aos atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensões, ao Tribunal de Contas da União, para fins de apreciação da legalidade e registro, e dá outras providências.
+
+

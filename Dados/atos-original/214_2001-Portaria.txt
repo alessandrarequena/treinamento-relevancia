@@ -1,0 +1,3034 @@
+Portaria
+214/2001
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e tendo em vista o disposto no artigo 35 da Instrução Normativa nº 09, de 16 de fevereiro de 1995, resolve:
+
+
+
+Art. 1º Fica aprovado o Manual de Auditoria Ambiental  do Tribunal de Contas da União, contendo informações gerais, procedimentos operacionais e estratégias metodológicas visando orientar a execução de auditorias de Meio Ambiente.
+
+
+
+Art. 2º A Secretaria-Geral de Controle Externo – Segecex poderá instituir modificações no Manual aprovado por esta Portaria, com vistas aos aprimoramentos que se fizerem necessários. 
+
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUÇÃO	4
+
+
+
+2.	O TCU E O CONTROLE DA GESTÃO AMBIENTAL	5
+
+
+2.1	FUNÇÃO DO TRIBUNAL DE CONTAS DA UNIÃO	5
+
+
+
+2.2	CONTROLE DA GESTÃO AMBIENTAL	5
+
+
+3.	OBJETO DO CONTROLE	6
+
+
+3.1	PROTEÇÃO AMBIENTAL	7
+
+
+3.2	 PREVENÇÃO DE DANOS AMBIENTAIS	8
+
+
+4.	ENTES SUJEITOS AO CONTROLE	10
+
+
+4.1	ENTES RESPONSÁVEIS PELA PROTEÇÃO AMBIENTAL	10
+
+
+4.2	ENTES RESPONSÁVEIS PELA PREVENÇÃO DE DANOS AMBIENTAIS	11
+
+
+5.	AUDITORIA AMBIENTAL	13
+
+
+5.1	CONCEITO	13
+
+
+5.1.1	AUDITORIA AMBIENTAL DE CONFORMIDADE	13
+
+
+5.1.2	AUDITORIA AMBIENTAL DE NATUREZA OPERACIONAL	13
+
+
+5.1.2.1	AUDITORIA AMBIENTAL DE DESEMPENHO OPERACIONAL	14
+
+
+5.1.2.2	AVALIAÇÃO AMBIENTAL DE PROGRAMA	15
+
+
+5.2	RECURSOS PARA A REALIZAÇÃO DE AUDITORIAS AMBIENTAIS	17
+
+
+5.2.1	RECURSOS TÉCNICOS E MATERIAIS	17
+
+
+5.2.2	INFORMAÇÕES AMBIENTAIS E LEGISLAÇÃO AMBIENTAL	17
+
+
+5.2.3	EQUIPE DE AUDITORIA	18
+
+
+6.	ROTEIRO PARA AUDITORIA AMBIENTAL DE CONFORMIDADE	19
+
+
+6.1	PLANEJAMENTO	19
+
+
+6.2	EXECUÇÃO	20
+
+
+6.2.1	CUMPRIMENTO DOS PRINCÍPIOS AMBIENTAIS:	20
+
+
+6.2.2	CUMPRIMENTO DAS NORMAS AMBIENTAIS. VERIFICAR:	21
+
+
+6.2.3	CUMPRIMENTO DA JURISPRUDÊNCIA AMBIENTAL. VERIFICAR:	24
+
+
+6.3.	RELATÓRIO	24
+
+
+7.	ROTEIRO PARA AUDITORIA AMBIENTAL DE NATUREZA OPERACIONAL	26
+
+
+7.1.	LEVANTAMENTO	26
+
+
+7.2	EXECUÇÃO	29
+
+
+7.3	RELATÓRIO	30
+
+
+
+Não consta revogação expressa
+Aprova o Manual de Auditoria Ambiental do Tribunal de Contas da União.
+
+ANEXO I - MEIO AMBIENTE: OBJETO DA GESTÃO AMBIENTAL	31
+
+
+
+
+ANEXO II - PRINCÍPIOS AMBIENTAIS	35
+
+
+1.	EQUILÍBRIO ECOLÓGICO	35
+
+
+2.	DESENVOLVIMENTO SUSTENTADO	35
+
+
+3.	PRECAUÇÃO	36
+
+
+4.	PREVENÇÃO	36
+
+
+5.	POLUIDOR-PAGADOR	37
+
+
+6.	INFORMAÇÃO AMBIENTAL	38
+
+
+7.	PARTICIPAÇÃO	39
+
+
+8.	UBIQÜIDADE	40
+
+
+9.	RESPONSABILIDADE DOS PAÍSES	42
+
+
+ANEXO III - NORMAS AMBIENTAIS DE ADESÃO VOLUNTÁRIA	43
+
+
+GLOSSÁRIO	44
+
+
+REFERÊNCIA BIBLIOGRÁFICA	48
+
+
+
+
+
+
+
+
+LISTA DE SIGLAS
+
+
+
+
+
+
+
+
+
+AIA........................................	avaliação de impacto ambiental
+
+
+
+Conama................................	Conselho Nacional de Meio Ambiente
+
+
+
+eia/rima.................................	estudo de Impacto ambiental / relatório de impacto ambiental
+
+
+
+Ibama....................................Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais 	Renováveis
+
+
+
+Intosai...................................	International Organisation of Supreme Audit Institutions
+
+
+
+OCDE...................................	Organisation de Coopération et de Développement 	Économiques
+
+
+
+Secob....................................Secretaria de Fiscalização de Obras e Patrimônio da União
+
+
+
+Segecex...............................	Secretaria-Geral de Controle Externo
+
+
+
+SGA.....................................	Sistema de Gestão Ambiental
+
+
+
+Sisnama...............................	Sistema Nacional do Meio Ambiente
+
+
+
+TCU.....................................	Tribunal de Contas da União
+
+
+
+
+
+ 
+
+
+INTRODUÇÃO
+
+
+
+
+	O Estado tem o dever de proteger sua população e garantir-lhe vida digna e saudável. Tal tarefa só é possível caso o meio ambiente seja mantido sadio e equilibrado, pois essa é condição imprescindível para a sobrevivência dos seres humanos. Por isso, é importante que o Poder Público participe de maneira efetiva da gestão ambiental.
+
+
+
+Esse pensamento encontra reflexos na própria Constituição Federal. Assim, mais que um dever baseado na razão, há o dever positivado em norma jurídica, que obriga o Poder Público à ação, à defesa e à proteção do meio ambiente ecologicamente equilibrado.
+
+
+
+	O Tribunal de Contas da União, como parte integrante do Poder Público, está também imbuído desse dever. Ao exercer sua competência, o TCU participa da gestão ambiental de responsabilidade do Governo Federal, pois o controle lhe é parte integrante, garantindo o zelo por sua eficiência, eficácia e efetividade e pela economicidade, legalidade e legitimidade dos atos praticados pelos responsáveis por essa gestão, sempre que jurisdicionados a esta Corte. 
+
+
+
+	O controle sobre os atos praticados no âmbito da gestão ambiental e sobre seus resultados deve ser implementado com o objetivo último de promover a coerência entre a ação governamental e as exigências de um modelo de desenvolvimento sustentável. Isso, porque a Constituição Federal e outras normas legais fornecem base de sustentação para tal modelo, e cabe ao Tribunal assegurar que todos os que lhe estiverem jurisdicionados atuem conforme o que dita a legislação.
+
+
+
+	Nesse sentido, este documento pretende fornecer subsídios à tomada de decisões pelas Unidades Técnicas que desempenham a função de controle da gestão ambiental. São identificados o objeto do controle, os órgãos, entidades e ações sujeitas ao mesmo.
+
+
+
+Outro objetivo visado é o de orientar a execução de auditorias, por meio da descrição das modalidades de auditoria ambiental, dos manuais aplicáveis e de roteiros gerais para a coleta e a análise de dados durante cada trabalho.
+
+
+
+Serão ainda fornecidas informações básicas relacionadas a meio ambiente (anexo I) e gestão ambiental, que deverão auxiliar tanto a tomada de decisão relacionada à programação de auditorias, quanto a execução das auditorias planejadas e a avaliação das contas dos órgãos e das entidades jurisdicionadas ao Tribunal.
+
+
+
+2.	O TCU E O CONTROLE DA GESTÃO AMBIENTAL
+
+
+2.1	FUNÇÃO DO TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+A autorização constitucional e legislativa que permite ao Tribunal o exercício de suas funções e prerrogativas no campo do controle da gestão ambiental é exatamente a mesma que o autoriza a exercer o controle externo nos demais segmentos de ação da Administração Federal. Nesse sentido, os arts. 70 e 71 da Constituição Federal determinam que a fiscalização quanto à legalidade, legitimidade e economicidade da utilização de recursos e do gerenciamento de bens públicos federais seja executada pelo Tribunal de Contas da União, em auxílio ao Congresso Nacional. Advém desses dispositivos a obrigação de o TCU controlar não apenas a boa e regular aplicação dos recursos públicos federais na área ambiental, mas também os resultados da gestão do meio ambiente, o qual integra o patrimônio público na qualidade de bem de uso comum do povo. Assim, o Tribunal tem competência para julgar as contas, proceder à fiscalização contábil, financeira, orçamentária, operacional e patrimonial das pessoas que lhe estão jurisdicionadas e que participam da gestão do meio ambiente.
+
+
+
+Em adição, o art. 225 da Constituição de 1988 atribui ao Poder Público o dever de defender e preservar o meio ambiente. Esse é um mandato amplo, que alcança todos os entes e esferas da Administração Pública. As diversas instituições que compõem o Poder Público cumprirão seu dever de defesa e preservação do meio ambiente dentro dos limites constitucionais e legais de suas atribuições e competências. Assim, pois, o Tribunal de Contas da União, ao exercer sua função na área ambiental, deve cingir suas atividades às competências legais e constitucionais que lhe foram outorgadas.
+
+
+
+Diante disso, a função desta Corte com relação à gestão ambiental do País é zelar para que os órgãos e entidades federais cumpram suas responsabilidades relacionadas à preservação e à restauração do meio ambiente. Tais responsabilidades lhes foram atribuídas pela Constituição - principalmente no art. 225 citado -, pela legislação infraconstitucional e por outras normas que atendem.
+
+
+
+2.2	CONTROLE DA GESTÃO AMBIENTAL
+
+
+
+A execução de auditorias, acompanhamentos, inspeções e levantamentos exige planejamento prévio que identifique os órgãos ou entidades que serão fiscalizados em um determinado período e os pontos que serão investigados. Desse modo, o controle da gestão ambiental deverá ser iniciado com o planejamento da ação do Tribunal nessa área, o qual deverá ser elaborado periodicamente. 
+
+
+
+
+Depois de planejado quais órgãos, entidades, programas, projetos e atividades serão analisados, pode-se desenvolver o trabalho operacional. A auditoria ambiental seguirá os mesmos procedimentos aplicáveis ao controle de outras áreas: levantamento de informações, elaboração do plano de auditoria e execução. As particularidades desse tipo de auditoria relacionam-se ao objeto da análise - a gestão ambiental.
+
+
+
+Assim, para as etapas de programação e realização das auditorias ambientais, é necessário que se conheça qual o objeto do controle e quem está sujeito ao mesmo. Com o intuito de fornecer subsídios para a identificação tanto de um quanto de outro, é apresentada uma visão geral desses aspectos antes da exposição das modalidades de auditoria ambiental.
+
+
+
+3.	OBJETO DO CONTROLE
+
+
+
+Gestão ambiental é a tarefa de administrar o uso produtivo dos recursos ambientais de maneira que não sejam reduzidas a qualidade ambiental e a produtividade de recursos renováveis. Essa tarefa pode advir da obrigação de prevenir, mitigar ou compensar a degradação decorrente de ação implementada. Assim, ações necessárias à preservação e restauração ambiental compõem a gestão ambiental de responsabilidade do Governo Federal que, como nas outras esferas, é compartilhada por vários órgãos e entidades que o integram. Naturalmente, cada um desses exerce funções diferenciadas na execução dessa gestão. São, portanto, essas ações o objeto de controle da gestão ambiental.
+
+
+
+As obrigações atribuídas à Administração Pública compreendidas na gestão ambiental estão estabelecidas na legislação - tanto naquela específica para cada ente jurisdicionado ao Tribunal, quanto na legislação ambiental de aplicação geral. O Poder Público e também a coletividade têm a obrigação positiva de defender e preservar o meio ambiente e de reparar danos ambientais que causarem (caput e §§2º e 3º, art. 225, CF). O particular, de um lado, não mais está obrigado apenas negativamente, ou seja, não está obrigado apenas a não poluir. Assim, o monopólio da função de proteção ambiental não pertence mais ao Estado, ele a divide com o particular. Aquele, por sua vez, detém uma função mais abrangente, que compreende a função legislativa e a jurisdicional, além da administrativa.
+
+
+
+A necessidade de que a gestão ambiental de responsabilidade do governo seja efetiva encontra fundamentos na Constituição Federal  - principalmente nos arts. 5º e 225. O art. 5º da Carta Magna garante a igualdade de todos e a inviolabilidade do direito à vida. O art. 225 da mesma norma assegura a todos o direito ao meio ambiente ecologicamente equilibrado, essencial à sadia qualidade de vida. A finalidade última da preservação e da restauração da qualidade ambiental será sempre a sadia qualidade de vida e o bem-estar da população, a segurança e a independência da Nação.
+
+
+
+A existência de um ministério ou de órgãos especialmente incumbidos da missão de tutela do meio ambiente atribuída ao Estado não isenta a participação de outros órgãos ou entidades na sua proteção. Assim, atribui-se a obrigação de preservação aos diversos entes públicos, enquanto a obrigação de restauração atribui-se àqueles que possuam essa função específica ou que estejam promovendo ações a que, devido ao alto impacto que causam, devem seguir-se providências que visem a prevenir, corrigir ou mitigar danos.
+
+
+
+Desse modo, como gestor dos bens públicos, algumas vezes o objetivo específico do Estado é o de proteger o meio ambiente. Outras vezes, o objetivo específico concorre com o de preservação da boa qualidade ambiental e, para mantê-la, como mencionado, são necessárias ações preventivas, corretoras, mitigadoras ou compensadoras dos impactos resultantes da atuação do Governo. Vê-se que os dois casos envolvem ações de preservação e restauração da qualidade ambiental. Porém, distinguem-se pelo fato de que, no segundo, essas ações estão relacionadas a outras potencial ou efetivamente degradadoras praticadas todas por um mesmo ente público. 
+
+
+
+Com fins didáticos, passaremos, adiante, a tratar separadamente os dois aspectos da gestão ambiental mencionados: a) ações governamentais que têm como objetivo a proteção ambiental; e b) ações governamentais que têm como objetivo a prevenção, mitigação ou restauração de danos causados pelo própria ação governamental. 
+
+
+3.1	PROTEÇÃO AMBIENTAL 
+
+
+
+
+
+Conforme visto, algumas ações governamentais são implementadas com o objetivo principal de proteger o meio ambiente. São levadas a efeito a fim de dar cumprimento à missão do órgão ou entidade responsável por desempenhá-la. Pode, contudo, estar associada a outros objetivos, como, por exemplo, promoção da saúde da população por meio do saneamento básico, do desenvolvimento regional por meio do gerenciamento de microbacias, da criação de empregos por meio do incentivo ao ecoturismo, etc.
+
+
+
+Sob esse prisma, portanto, a gestão ambiental se enquadra no seguinte conceito: "a condução, a direção e o controle pelo governo do uso dos recursos naturais, através de determinados instrumentos, o que inclui medidas econômicas, regulamentos e normalização, investimentos públicos e financiamento, requisitos interinstitucionais e judiciais" (Selden, 1973, in FEEMA, 1986)[footnoteRef:2]. [2:  In FEEMA, 1986.] 
+
+
+
+
+Recordemo-nos de que a finalidade última da gestão ambiental será sempre a sadia qualidade de vida. Assim, quando se afirma que o objetivo específico desse aspecto da gestão ambiental é a preservação ou a restauração da qualidade ambiental, não se pretende dissociar tal objetivo do objetivo geral mencionado. Não é menos o que o governo busca, por exemplo, ao pesquisar métodos de manejo agrícola sustentáveis, ao realizar tratamento de água destinada a consumo, ao fornecer saneamento básico à população ou, até mesmo, ao restaurar as condições naturais de florestas nativas.
+
+
+
+A consecução dos objetivos perseguidos e a forma de utilização de recursos e instrumentos necessários para tal serão foco de investigações realizadas quando da execução da fiscalização.
+
+
+
+A incumbência de preservar ou restaurar a qualidade ambiental pode ser cumprida por vias diretas e indiretas. A primeira refere-se à execução direta das ações necessárias e suficientes à preservação da qualidade ambiental ou à restauração de danos que prejudiquem os processos ecológicos essenciais por meio de investimentos públicos nessa área. A segunda, via indireta, refere-se às ações necessárias e suficientes à garantia do cumprimento da obrigação, por parte de terceiros, de prevenir, mitigar, reparar ou indenizar danos causados ao meio ambiente. Esta pode ser executada por meio de controle, que inclui a regulamentação e normalização, fiscalização, concessão de licenças, etc., e ainda por meio de incentivos, desincentivos e financiamentos, de educação ambiental, entre outras formas. 
+
+
+
+Assim, no desempenho de sua competência no campo ambiental, a Administração Federal executa diversos programas, projetos e atividades que não envolvem diretamente a obrigação de terceiros de preservar ou restaurar a qualidade ambiental. Podem-se citar a instituição e manutenção de áreas especialmente protegidas, a realização de pesquisas, o reflorestamento de áreas degradadas, a vigilância da qualidade ambiental, etc.
+
+
+
+Do mesmo modo, o Poder Público controla as atividades humanas que provocam alterações no meio ambiente. A obrigação de instituir e fazer cumprir as normas ambientais inclui não apenas o controle da utilização de recursos naturais, mas de toda a "produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem riscos para a vida, qualidade de vida e o meio ambiente" (art. 225, § 1º, inciso V, CF). Assim, por exemplo, a fiscalização exercida por órgãos públicos recai tanto sobre extração de madeira e a exploração pesqueira quanto sobre a fabricação, comercialização e utilização de agrotóxicos, sobre a produção de energia utilizável, sobre os processos industriais potencialmente poluidores, etc.
+
+
+Incentivos governamentais podem também ser utilizados como instrumentos da gestão ambiental. "Os incentivos a produção e instalação de equipamentos e à criação ou absorção de tecnologia, voltados para a melhoria da qualidade ambiental" são especificados como instrumentos para a Política Nacional do Meio Ambiente no art. 9º, inciso V, da Lei 6.938/81. Por sua vez, o art. 13 da mesma lei estipula que "o Poder Executivo incentivará as atividades voltadas ao meio ambiente...". Esse incentivo visa:
+
+
+
+I. ao desenvolvimento, no País, de pesquisas e processos tecnológicos destinados a reduzir a degradação da qualidade ambiental;
+
+
+II. à fabricação de equipamentos antipoluidores;
+
+
+III. a outras iniciativas que propiciem a racionalização do uso de recursos ambientais.
+
+
+
+Refletindo o grande alcance desse instrumento, aquela lei estabelece, no art. 13, parágrafo único, que "os órgãos, entidades e programas do Poder Público, destinados ao incentivo das pesquisas científicas e tecnológicas, considerarão, entre as suas metas prioritárias, o apoio aos projetos que visem a adquirir e desenvolver conhecimentos básicos e aplicáveis na área ambiental e ecológica". 
+
+
+
+O estímulo ou desestímulo a certas condutas pode ser implementado pela utilização de instrumentos econômicos. É possível incentivar, por esse meio, o cumprimento da legislação ambiental e a adoção de outras atitudes que objetivem a melhoria ou a manutenção da qualidade do meio ambiente. Segundo Motta, 1996, há dois tipos de instrumentos a se considerar: "incentivos que atuam na forma de prêmios" e "incentivos que atuam na forma de preços". De acordo com o que afirma o mesmo autor, "os primeiros requerem um comprometimento de recursos do Tesouro enquanto os outros geram fundos fiscais. Ambos, entretanto, devem ser combinados...".
+
+
+3.2		PREVENÇÃO DE DANOS AMBIENTAIS
+
+
+
+O governo também implementa ações que visam a prevenir, mitigar ou restaurar danos ambientais causados por sua própria atuação. A gestão ambiental, no caso, compreende os atos que visam à melhor utilização do meio ambiente que possibilite a consecução de um dado objetivo.
+
+
+
+O controle da gestão ambiental, nesse caso, inclui a verificação da conformidade da ação de governo com relação a normas e regras ambientais e da legitimidade, eficiência, e economicidade da utilização dos recursos alocados para o alcance dos objetivos dessa gestão, além da avaliação de sua eficácia e efetividade.
+
+
+
+Todos os que submeterem o meio ambiente ao risco da degradação são obrigados a tomar as medidas necessárias à sua proteção. Desse modo, a gestão das ações governamentais potencialmente ou efetivamente causadoras de impactos ambientais negativos deve incluir a formulação e execução dessas medidas e observar os limites estabelecidos pela legislação ambiental. Note-se que essa legislação não pretende proibir a utilização de todos os recursos naturais, apenas restringir seu uso na medida necessária a sua preservação.
+
+
+
+O Poder Público deve compatibilizar a obrigação de promover o desenvolvimento da Nação com a obrigação de zelar pelo equilíbrio ecológico do meio ambiente. É necessário, portanto, que a atuação do Governo no sentido de promover o desenvolvimento econômico e social inclua a manutenção do equilíbrio ecológico como uma de suas premissas. Assim, o planejamento e a execução de políticas, programas, projetos e atividades governamentais devem considerar as conseqüentes externalidades ambientais. 
+
+
+A forma de utilização dos recursos e dos instrumentos disponíveis para a consecução dos objetivos ambientais são aspectos a serem analisados durante a fiscalização das ações do governo que potencial ou efetivamente causem impactos ambientais. Incluem-se como recursos administrados no âmbito da gestão ambiental não apenas os recursos ambientais, mas também recursos humanos, materiais, técnicos, etc., necessários ao alcance dos objetivos estabelecidos. 
+
+
+
+Para garantir o bom desempenho ambiental de órgãos, entidades, programas, projetos e atividades, é necessário, além de um planejamento que considere a variável ambiental, que haja o acompanhamento das ações implementadas e de seus resultados. Monitoramento contínuo e auditorias periódicas são meios de controle das fontes de impactos negativos ou de identificação de impactos já produzidos que necessitam ser reparados. 
+
+
+
+Entre outros fatores, os aspectos observados por esse acompanhamento devem incluir alterações do meio ambiente previstas ou não. Devem incluir ainda alterações de procedimentos ou de outros aspectos relacionados à ação potencialmente ou efetivamente degradadora e suas conseqüências. Sempre que houver, não é menos importante o controle dos níveis de emissão de poluentes. O objetivo deve ser a manutenção da amplitude dos impactos ambientais dentro de padrões aceitáveis, tendo como importantes parâmetros o interesse público e as regras estabelecidas por normas ambientais.
+
+
+
+A adoção de um sistema de gestão ambiental - SGA por organizações públicas e privadas tem sido bastante comum. "O SGA corresponde ao conjunto interrelacionado das políticas, práticas e procedimentos organizacional, técnico e administrativo de uma empresa que objetiva obter melhorias, controle e, sempre que possível, redução dos seus impactos ambientais."[footnoteRef:3] O sistema adiciona a variável ambiental à gestão das empresas, tendo como objetivo a implementação e a execução da gestão ambiental. Ao adotar um SGA, a empresa pode promover a conformidade legal de seus atos, reduzir riscos, promover a melhora contínua de seu desempenho ambiental, alcançar vantagens mercadológicas por meio da divulgação de seus sucessos relativos ao desempenho ambiental, entre outros benefícios. [3:  Barata, 1995] 
+
+
+
+
+Alguns outros instrumentos utilizados na gestão ambiental de órgãos, entidades, programas, projetos e/ou atividades governamentais são, por exemplo: as informações sobre meio ambiente fornecidas por entidades responsáveis por coletá-las; avaliação de impacto ambiental e outros métodos de ajuda à decisão; tecnologias desenvolvidas por universidades e institutos de pesquisa; etc.
+
+
+4.	ENTES SUJEITOS AO CONTROLE
+
+
+4.1	ENTES RESPONSÁVEIS PELA PROTEÇÃO AMBIENTAL 
+
+
+
+Os atores envolvidos na gestão ambiental vista sob o aspecto ora tratado estão relacionados no art. 6º da Lei 6.938/81 e seus incisos. Esse dispositivo criou o Sistema Nacional do Meio Ambiente - Sisnama, como segue:
+
+
+
+Art. 6° - Os órgãos e entidades da União, dos Estados, do Distrito Federal, dos territórios e dos Municípios, bem como as Fundações instituídas pelo Poder Público, responsáveis pela proteção e melhoria da qualidade ambiental, constituirão o Sistema Nacional do Meio Ambiente - SISNAMA, assim estruturado:
+
+
+I - Órgão Superior: o Conselho de Governo, com a função de assessorar o Presidente da República, na formulação da política nacional e nas diretrizes governamentais para o meio ambiente e os recursos ambientais;
+
+
+II - Órgão Consultivo e Deliberativo: o Conselho Nacional do Meio Ambiente - CONAMA, com a finalidade de assessorar, estudar e propor ao Conselho de Governo, diretrizes de políticas governamentais para o meio ambiente e os recursos naturais e deliberar, no âmbito de sua competência, sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida;
+
+
+III - Órgão Central: o Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, com a finalidade de planejar, coordenar, supervisionar e controlar, como órgão federal, a política nacional e as diretrizes governamentais fixadas para o meio ambiente;
+
+
+IV - Órgão Executor: o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, com a finalidade de executar e fazer executar, como órgão federal, a política e diretrizes governamentais fixadas para o meio ambiente;
+
+
+V - Órgãos Setoriais: os órgãos ou entidades integrantes da Administração Pública Federal Direta ou Indireta, bem como as Fundações instituídas pelo Poder Público, cujas atividades estejam associadas às de proteção da qualidade ambiental ou àquelas de disciplinamento do uso de recursos ambientais.
+
+
+VI - Órgãos Seccionais: os órgãos ou entidades estaduais responsáveis pela execução de programas, projetos e pelo controle e fiscalização das atividades capazes de provocar degradação ambiental;
+
+
+VII - Órgãos Locais: os órgãos ou entidades municipais, responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas jurisdições.
+
+
+
+Os órgãos e entidades federais do Sisnama estão sujeitos ao controle da gestão ambiental exercido pelo TCU. Os demais sujeitam-se a esse controle, assim como quaisquer pessoas, sempre que, com o objetivo de gerir o meio ambiente, utilizem, arrecadem, guardem, gerenciem ou administrem dinheiros, bens ou valores públicos federais ou pelos quais a União responda, ou quando, em nome desta, assumirem obrigações de natureza pecuniária.
+
+
+
+É importante destacar que, no Brasil, a função de proteção da qualidade ambiental e do disciplinamento do uso dos recursos ambientais, em âmbito federal, não é exclusiva do Ministério do Meio Ambiente e dos órgãos e entidades que lhe estão vinculados. Tal função é compartilhada com os Órgãos Setoriais do Sisnama. Todos, sujeitos ao controle de responsabilidade do TCU.
+
+
+
+São exemplos da participação de outros ministérios na gestão ambiental:
+
+
+
+· Ministério da Agricultura e do Abastecimento. Um aspecto importante da participação desse Ministério é seu papel na execução da Política Agrária[footnoteRef:4] (Lei nº 8.171/91), que estabelece entre seus objetivos a proteção ambiental, a garantia da utilização racional dos recursos ambientais e o estímulo a sua recuperação. Outro aspecto que se destaca é sua participação no controle da produção, comercialização e utilização de agrotóxicos, conforme dita a Lei 7.802/89, regulamentada pelo Dec. 98.816/90. [4:  A Lei 8.171/91 "fixa os fundamentos, define os objetivos e as competências institucionais, prevê os recursos e estabelece as ações e instrumentos da política agrícola, relativamente às atividades agropecuárias, agro-industriais e de planejamento das atividades pesqueira e florestal."] 
+
+
+
+· Ministério das Minas e Energia. Dentre as competências do Ministério, destacam-se as de "propor critérios para o apoio governamental à organização, expansão, modernização e aumento da eficiência e da produtividade do setor energético, bem como sua compatibilização com o meio ambiente" (Art. 8º do Decreto no 3.404, de 5 de abril de 2000).
+
+
+
+
+· Ministério da Saúde. Sua competência abrange responsabilidades relativas a "c) saúde ambiental e ações de promoção, proteção e recuperação da saúde individual e coletiva, inclusive a dos trabalhadores e dos índios" (Lei nº 9.649, de 27 de maio de 1998, art. 14, XVII, "c"). O Sistema Único de Saúde - SUS "participa do controle e fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos; colabora na proteção ao meio ambiente, nele compreendido o do trabalho" (CF, art. 200, VII e VIII). Não se pode esquecer a atuação do SUS na área de saneamento e vigilância sanitária.
+
+
+
+· Ministério do Planejamento, Orçamento e Gestão. As linhas de ação desse Ministério no campo ambiental encontram-se organizadas em: promoção do desenvolvimento regional e nacional, política nacional de saneamento e defesa civil.
+
+
+
+· Ministério da Educação. Sua competência inclui a promoção da educação ambiental, importante fator na formação de uma cultura nacional de valorização do meio ambiente.
+
+
+
+· Ministério das Relações Exteriores. Cabe ao Ministério exercer a função de manter relações com estados estrangeiros, organismos e organizações internacionais, incluindo-se aí aspectos relacionados ao meio ambiente que afetem tais relações. O órgão, por exemplo, participa da divulgação no exterior de notícias sobre o estado do meio ambiente e coordena discussões que antecedem acordos internacionais nessa área.
+
+
+
+Com um intuito ilustrativo, podem-se citar alguns programas, projetos e atividades implementados pelo governo federal que causam impactos ambientais positivos:
+
+
+
+· Programa Nacional de Racionalização de Uso de Derivados de Petróleo e Gás Natural - COMPET;
+
+
+· Programa Brasileiro de Qualidade e Produtividade - PBPQ (esse Programa inclui o aspecto ambiental como um dos componente da qualidade e da produtividade);
+
+
+· Programa Nacional de Ecoturismo (um dos objetivos do Programa é tornar sustentável a exploração do ecoturismo nacional);
+
+
+· Programa de Expansão da Base de Florestas Plantadas;
+
+
+· Programa Nacional de Educação Ambiental;
+
+
+· Projeto Parques e Reservas (Inclui a identificação dos corredores ecológicos e a elaboração de aplicação de recursos financeiros em unidades de conservação);
+
+
+· Atividade de controle da produção, da comercialização e da utilização de agrotóxicos;
+
+
+· Atividade de monitoramento de unidades de conservação.
+
+
+4.2	ENTES RESPONSÁVEIS PELA PREVENÇÃO DE DANOS AMBIENTAIS
+
+
+
+Entes cuja atuação interfira na qualidade ambiental devem participar do esforço necessário ao cumprimento da missão de proteção do meio ambiente. Assim, a eles são atribuídas responsabilidades relativas à preservação e à restauração ambiental.
+
+
+Está sujeita ao controle da gestão ambiental pelo TCU toda pessoa física ou entidade pública que, ao exercer as funções que lhe são afetas, potencial ou efetivamente provoque degradação ambiental e que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens ou valores Públicos Federais ou pelos quais a União responda, ou todos que, em nome desta, assumam obrigações de natureza pecuniária.
+
+
+
+Assim, pode-se incluir a variável ambiental na apreciação de programas, projetos e atividades que potencial ou efetivamente degradem o meio ambiente, a exemplo dos que se seguem:
+
+
+
+· Programa Pró-Moradia e Habitar-Brasil. Esses programas, cujo objetivo é o de atingir o público de baixa renda que vive em condições inadequadas de habitabilidade, podem causar impactos ambientais tanto negativos quanto positivos. A promoção da ocupação de áreas ambientalmente frágeis, por exemplo, pode trazer sérias conseqüências ao meio ambiente;
+
+
+
+· Programa de Reforma Agrária. Do mesmo modo, o assentamento de famílias em áreas inadequadas pode prejudicar processos ecológicos essenciais;
+
+
+
+· Estudo de viabilidade das diversas modalidades de transportes de cargas e passageiros. O impacto causado por diferentes modalidades de transportes afeta de maneira distinta o meio ambiente. Em alguns casos certas modalidades podem mostrar-se mais adequadas, em termos ambientais, que outras. Assim, o aspecto ambiental deve ser incluído como uma das variáveis componentes do objeto analisado;
+
+
+· Projetos do Corredor Centro-Norte. Envolvem as hidrovias do Araguaia e do Tocantins e a ferrovia Norte-Sul. As obras e atividades relacionadas ao projeto estão sujeitas ao licenciamento e ao eia/rima, que deve ser exigido pelo órgão competente e que deve contemplar todos os aspectos determinados nas normas pertinentes.
+
+
+
+· Atividade de produção de petróleo. A extração e o tratamento de petróleo, da mesma forma, estão sujeitos ao licenciamento ambiental e ao eia/rima;
+
+
+
+· Programa de Garantia da Atividade Agropecuária - Proagro. Os gestores do programa devem considerar o fato de que essa atividade pode ser altamente degradadora do meio ambiente e inserir no processo de decisão a variável ambiental. O incentivo ao uso de técnicas inadequadas tem sido, em vários países, causa, principal ou secundária, de degradação de recursos ambientais, como solo, recursos hídricos, etc;
+
+
+
+· Programa de Apoio ao Desenvolvimento do Setor de Papel e Celulose. A exploração madeireira é outra atividade que, dependendo do tipo de manejo adotado, pode trazer grandes prejuízos ambientais. A promoção de seu desenvolvimento, portanto, deve observar as limitações ambientais presentes.
+
+
+
+5.	AUDITORIA AMBIENTAL
+
+
+5.1	CONCEITO
+
+
+
+A auditoria ambiental a ser executada nesta Casa é: o conjunto de procedimentos aplicados ao exame e avaliação dos aspectos ambientais envolvidos em políticas, programas, projetos e atividades desenvolvidas pelos órgãos e entidades sujeitos ao seu controle.
+
+
+
+
+A auditoria ambiental de responsabilidade do TCU difere daquela realizada ou determinada por outros órgãos do Poder Público por seu objetivo –  que é o exercício do controle externo de sua responsabilidade – e pelas pessoas que deverá auditar – que são aquelas sob a jurisdição do Tribunal .
+
+
+
+Inclui, pois, o exame da ação praticada por pessoas jurisdicionadas ao Tribunal que tenham a obrigação de exercer o controle ou a proteção ambiental, em decorrência de sua competência original ou da obrigação de prevenir ou reparar danos ambientais decorrentes de seus atos (conforme exposto nas seções 2 e 3, que descrevem com maiores detalhes o objeto do controle da gestão ambiental e aqueles que estão sujeitos ao mesmo).
+
+
+
+Essa modalidade de auditoria difere de outras executadas pelo TCU pelo objeto de análise. A gestão ambiental é, portanto, uma espécie do gênero auditoria e pode ter objetivos relacionados tanto à auditoria de regularidade quanto à auditoria de natureza operacional. Na seção seguinte, o assunto será discutido com maior profundidade.
+
+
+
+5.1.1	AUDITORIA AMBIENTAL DE CONFORMIDADE
+
+
+
+O foco da auditoria ambiental de conformidade é a análise do cumprimento de políticas, diretrizes, regras, procedimentos, etc., estabelecidos por normas, instituídas ou não pelo órgão ou entidade responsável pela ação investigada. Assim, deve-se avaliar se o que foi estabelecido, que se constitui no critério de auditoria, está sendo adotado.
+
+
+
+5.1.2	AUDITORIA AMBIENTAL DE NATUREZA OPERACIONAL
+
+
+
+	A auditoria ambiental de natureza operacional tem o objetivo de avaliar os resultados alcançados pela gestão ambiental. Assim, essa modalidade de auditoria consiste na avaliação sistemática da economicidade, eficiência, eficácia e efetividade de providências relativas à preservação do meio ambiente, por meio da prevenção da degradação ambiental ou da reparação da mesma.
+
+
+
+Caso a ação governamental implique impactos ambientais negativos, entre os aspectos a serem examinados devem ser incluídos o da eficácia e da efetividade no alcance dos objetivos principais dessa ação. Isso, para que seja possível a comparação entre seus impactos positivos e seu custo ambiental. A análise efetuada deve incluir os custos ambientais externos, ou seja, aqueles provocados pela atuação governamental, mas que não são arcados pelo Governo. A comparação entre os benefícios e os custos gerados é importante, inclusive, porque não se pode admitir que uma ação pouco eficaz ou pouco efetiva consuma recursos escassos em medida incompatível com o benefício proporcionado à população - do contrário, admitir-se-ia o desperdício desses recursos.
+
+
+	Deve-se ter em conta ainda que a utilização[footnoteRef:5] do meio ambiente e de seus recursos é possível e desejável. Porém essa utilização deve ocorrer sem o comprometimento da qualidade ou da capacidade produtiva do meio ambiente.  [5:  Essa utilização inclui o uso do espaço (por exemplo, para a construção de estradas)] 
+
+
+
+
+	A auditoria ambiental de natureza operacional compreende duas modalidades: a auditoria ambiental de desempenho operacional e a avaliação ambiental de programa. Para sua realização, o auditor deve utilizar, além deste, o Manual de Auditoria de Natureza Operacional, seguindo as instruções e procedimentos recomendados na seção 2 - Etapas da Auditoria de Natureza Operacional - e seus anexos.
+
+
+
+5.1.2.1	AUDITORIA AMBIENTAL DE DESEMPENHO OPERACIONAL
+
+
+
+A auditoria ambiental de desempenho operacional, tem por finalidade examinar a ação governamental quanto à economicidade, à eficiência e à eficácia. A análise realizada por esse tipo de auditoria deve levar em conta não só o uso dos recursos ambientais, como também a gestão dos recursos, humanos, materiais, financeiros, etc., utilizados na realização da gestão ambiental. Assim, considera por exemplo:
+
+
+
+· uso de água para a produção sustentável de energia;
+
+
+· uso de madeira nativa para a construção de uma estrada-de-ferro, de maneira que não comprometa o equilíbrio ecológico;
+
+
+· a aplicação de recursos financeiros na restauração de uma floresta;
+
+
+· a aplicação de recursos financeiros na compra dos equipamentos necessários à redução de efluentes lançados ao ambiente; e
+
+
+· os recursos humanos envolvidos na realização da avaliação ambiental de um programa.
+
+
+
+Com relação à eficácia, as metas a serem perseguidas, muitas vezes, são estabelecidas não pelo gestor, mas por normas ambientais. Assim, por exemplo, mesmo que a meta declarada seja apenas a construção de uma hidrelétrica, está implícito o aspecto da sustentabilidade da ação. Portanto, no caso, a meta a ser examinada deverá ser a construção de uma hidrelétrica de forma que sejam preservados, restaurados ou compensados os processos ecológicos essenciais potencial ou efetivamente afetados. Isso, por força do § 1º, inciso I, do art. 225 da Constituição Federal. A adição da condição relacionada à sustentabilidade ambiental faz com que se possa incluir a variável ambiental na avaliação da ação governamental realizada no âmbito da auditoria.
+
+
+
+Na auditoria ambiental de desempenho operacional, são examinados:
+
+
+
+· o modo como os órgãos e entidades públicas adquirem, protegem e utilizam seus recursos (economicidade e eficiência);
+
+
+
+· as causas de práticas antieconômicas e ineficientes;
+
+
+
+· o cumprimento das metas previstas (eficácia);
+
+
+· as causas de eventuais desvios no atingimento das metas previstas;
+
+
+
+· a obediência a dispositivos legais aplicáveis aos aspectos da economicidade, eficiência e eficácia da gestão.
+
+
+
+	Desse modo, o foco da auditoria de desempenho operacional é o processo de gestão nos múltiplos aspectos - planejamento, organização, procedimentos operacionais e acompanhamento gerencial. Durante a execução de uma auditoria operacional, podem ser verificados: 
+
+
+
+· a existência de sistemas de planejamento (planejamento);
+
+
+
+· a adequação da estrutura organizacional aos objetivos do órgão ou entidade (organização);
+
+
+
+· o uso adequado dos recursos humanos, instalações e equipamentos voltados para a produção e prestação de bens e serviços na proporção, qualidade e prazos requeridos (operacionalização);
+
+
+
+· o cumprimento das metas previstas pela administração ou legislação pertinente (operacionalização);
+
+
+
+· o cumprimento das práticas recomendadas pela legislação para aquisição de bens e serviços (operacionalização);
+
+
+
+· a adequação das aquisições no que se refere aos prazos, à quantidade, ao tipo, à qualidade e aos preços (operacionalização);
+
+
+
+· a guarda e manutenção dos bens móveis e imóveis (operacionalização);
+
+
+
+· a existência de rotinas e procedimentos de trabalho documentados e atualizados (acompanhamento gerencial);
+
+
+
+· a existência de sistemas de controle adequados, destinados a monitorar, com base em indicadores de desempenho válidos e confiáveis, aspectos ligados à economicidade e à eficiência (acompanhamento gerencial).
+
+
+
+5.1.2.2	AVALIAÇÃO AMBIENTAL DE PROGRAMA
+
+
+
+Na avaliação ambiental de programa, o objetivo é examinar o impacto (efetividade) das funções, programas, atividades e projetos governamentais.
+
+
+
+Enquanto na auditoria ambiental de desempenho operacional verifica-se até que ponto as metas estabelecidas foram cumpridas, e a que custo, na avaliação ambiental de programa busca-se apurar a efetividade da ação governamental, ou seja, procura-se levantar até que ponto a ação governamental está sendo bem sucedida. Deve-se, portanto, incluir na análise elementos que permitam concluir se os resultados da atuação do Governo são coerentes com o objetivo de proteger o meio ambiente e zelar para que não sejam comprometidas a qualidade ambiental e a capacidade de as gerações presentes e futuras usufruírem dos bens ambientais. Ou seja, deve-se verificar em que medida as ações implementadas lograram resolver os problemas relacionados ao meio ambiente.
+
+
+
+O quadro abaixo exemplifica, apresentando uma comparação entre o que deve estar incluído na investigação realizada no âmbito da auditoria ambiental de desempenho operacional e da avaliação ambiental de programa.
+
+
+
+
+TIPO DE VERIFICAÇÃO A SER FEITA CONFORME O TIPO DE AUDITORIA DE NATUREZA OPERACIONAL
+
+
+
+
+O QUE ESTÁ SENDO AUDITADO
+
+VERIFICAÇÃO A SER FEITA NA AUDITORIA AMBIENTAL DE DESEMPENHO OPERACIONAL
+
+ 
+
+VERIFICAÇÃO A SER FEITA NA AVALIAÇÃO AMBIENTAL DE PROGRAMA
+
+Fiscalização ambiental
+
+Número de empreendimentos fiscalizados durante um determinado período
+
+ 
+
+Diminuição da ocorrência de infrações à legislação ambiental
+
+Reflorestamento
+
+Área reflorestada em um determinado período, ou na conclusão de um projeto
+
+ 
+
+Restauração do equilíbrio ecológico em conseqüência do reflorestamento feito no âmbito do programa auditado 
+
+Educação ambiental 
+
+Número de pessoas atingidas pela campanha educativa considerada na auditoria
+
+Redução nos impactos ambientais, relacionados a aspectos abordados na campanha educativa realizada no âmbito do programa auditado
+
+ 
+
+Combate da poluição
+
+Quantidade de efluentes lançados em um rio por uma determinada empresa pública
+
+Redução dos impactos causados ao curso d'água  receptor dos efluentes
+
+ 
+
+
+
+É importante distinguir entre essas duas dimensões, uma vez que o cumprimento de uma meta física ou a disponibilidade de um serviço pode ser uma condição necessária, mas não suficiente, para que determinado problema seja efetivamente resolvido, ou para que determinada necessidade seja atendida. Muitas vezes, todas as metas podem ser atingidas com eficiência, porém, o efeito esperado pode não ocorrer ou ser insignificante (houve eficiência e eficácia, porém a ação não foi efetiva).
+
+
+
+Além do mais, uma intervenção governamental específica pode provocar conseqüências inesperadas, tanto negativas quanto positivas. Nas duas situações, ao proceder a uma avaliação de programa, devem-se buscar as relações de causalidade subjacentes aos fenômenos observados. Trata-se, portanto, de verificar, valendo-se de uma estratégia metodológica apropriada, em que medida os efeitos observados, previstos ou imprevistos, intencionais ou não, foram causados pelo programa.
+
+
+
+Segundo o Grupo de Trabalho sobre Avaliação de Programa da Intosai, uma avaliação de programa distingue-se de uma auditoria de desempenho operacional porque permite responder a questões não abordadas por essa última[footnoteRef:6] A avaliação de programa é, via de regra, mais ambiciosa em relação à análise dos objetivos e dos resultados da ação. Essa modalidade de auditoria de natureza operacional utiliza estratégias metodológicas raramente empregadas em auditoria de desempenho operacional, tais como, pesquisa, experimento de campo e delineamentos quase-experimentais. [6:  INTOSAI, 1995] 
+
+
+
+
+Entre os aspectos a serem examinados mediante uma avaliação de programa em programas, projetos ou atividades, destacam-se:
+
+
+
+· a sua concepção lógica;
+
+
+· a adequação e a relevância de seus objetivos, declarados ou não, e a consistência entre esses e as necessidades previamente identificadas;
+
+
+· a consistência entre as ações desenvolvidas e os objetivos estabelecidos;
+
+
+· as conseqüências globais para a sociedade;
+
+
+· os efeitos não incluídos explicitamente nos seus objetivos;
+
+
+· a relação de causalidade entre efeitos observados e política proposta;
+
+
+· os fatores inibidores do seu desempenho;
+
+
+· a qualidade dos impactos alcançados;
+
+
+· a existência de outras alternativas de ação, consideradas ou não pela administração, e os respectivos custos envolvidos (análise de custo-efetividade);
+
+
+
+
+Cabe assinalar, ainda, que uma avaliação ambiental de programa pode não tratar, necessariamente, de todos os aspectos acima mencionados. A ênfase em um ou outro desses aspectos dependerá das questões específicas que se pretende abordar, sendo importante ressaltar, entretanto, que o rigor metodológico deve estar sempre presente.
+
+
+5.2	RECURSOS PARA A REALIZAÇÃO DE AUDITORIAS AMBIENTAIS
+
+
+5.2.1	RECURSOS TÉCNICOS E MATERIAIS
+
+
+
+Para a realização de auditorias ambientais, é necessário que se disponha de uma série de recursos técnicos e, algumas vezes, de recursos materiais específicos. Contudo, algumas vezes isso não ocorre no Tribunal. Para possibilitar a execução do trabalho a ser realizado, há caminhos que permitem acesso a esses recursos.
+
+
+
+	Há a possibilidade de que se firmem instrumentos de cooperação com outras instituições. Um exemplo é o convênio firmado com o Ibama em 1996, cuja vigência encerrou-se em dezembro de 1997, o qual tornava disponíveis alguns recursos desse órgão. O convênio mencionado objetivava "estabelecer formas de cooperação entre as duas instituições, visando ao esforço conjunto nas áreas de auditoria ambiental e de treinamento e aperfeiçoamento profissional de servidores de ambas as Casas, bem como a utilização da infra-estrutura de transporte daquele órgão na região amazônica, quando no exercício de auditorias" (Relatório de Atividades do TCU - Exercício de 1996).
+
+
+
+	Pode-se obter ainda apoio técnico de órgãos federais, de acordo com o disposto no art. 101 da Lei Orgânica do TCU, independentemente de acordo de cooperação. 
+
+
+
+	Algumas análises só podem ser realizadas por especialistas, os quais nem sempre fazem parte do quadro de servidores do Tribunal. Além dos instrumentos já citados, a contratação de consultoria é possível quando seguidos os requisitos legais necessários para tal – inclusive aqueles previstos na Lei nº 8.666.
+
+
+5.2.2	INFORMAÇÕES AMBIENTAIS E LEGISLAÇÃO AMBIENTAL
+
+
+
+	Informações sobre o meio ambiente e a legislação pertinente são também imprescindíveis para a realização de auditorias ambientais.
+
+
+
+	O Ibama desenvolveu o Sistema Nacional de Informações sobre o Meio Ambiente - Sinima, que é composto pela Rede Nacional de Computadores do Ibama - RNCI, por um conjunto de bases de dados e pela Rede Nacional de Informação sobre Meio Ambiente - Renima. Esse sistema tem como objetivo sistematizar a informação necessária para apoiar a tomada de decisão na área de meio ambiente, permitindo a rápida recuperação e atualização, bem como o compartilhamento dos recursos informacionais e serviços disponíveis. As informações contidas no sistema referem-se a legislação, bibliografia e publicações seriadas; instituições; projetos; eventos; vídeos produzidos no País e pessoas ligadas à área; entre outros assuntos. Já disponíveis para o público encontram-se informações sobre legislação e bibliografia. Esse Sistema, portanto, poderá auxiliar a execução de auditorias pelo Tribunal. As informações disponíveis podem ser acessadas pela Internet, na página do Ibama (http://www.ibama.br). 
+
+
+
+Além disso, no documento "Controle da Gestão Ambiental - Estratégia de Atuação do Tribunal para o Controle da Gestão Ambiental", aprovado pela Portaria TCU nº 383 de 05 de agosto de 1998, está programada a implantação de um banco de dados com informações gerais sobre meio ambiente e auditorias ambientais realizadas pelo Tribunal. Esse banco de dados será alimentado por informações coletadas pelas Unidades Técnico-Executivas do Tribunal. 
+
+
+5.2.3	EQUIPE DE AUDITORIA
+
+
+
+	Há alguns fatores que devem ser observados para a escolha dos integrantes de uma equipe de auditoria ambiental além daqueles comuns a qualquer área. 
+
+
+
+	O estudo do meio ambiente envolve uma série de disciplinas, como economia e direito ambiental, administração, biologia, geologia, geografia, agronomia, engenharia florestal, etc. Do mesmo modo, a análise a ser realizada durante uma auditoria ambiental compreenderá, muitas vezes, mais de uma área de conhecimento. Assim, sempre que for o caso, uma equipe multidisciplinar deverá ser formada para sua execução.
+
+
+
+	O enfoque sobre o qual recairá a avaliação também deverá influenciar a escolha dos participantes da auditoria. Assim, por exemplo, se for necessária uma análise econômica de uma determinada ação de Governo, será necessária a participação de pessoas com os conhecimentos na área de economia. Porém, se o enfoque se restringir à conformidade dessa ação com relação a normas, regras, diretrizes, padrões, etc, auditores com formação mais geral poderão realizá-la.
+
+
+
+A complexidade do que se pretende analisar é outro ponto a ser observado para a composição da equipe. Há análises que demandam conhecimentos especializados, por exemplo, referentes a técnicas de ajuda à decisão que envolvem a valoração de recursos ambientais, a análise de riscos e/ou a avaliação de impacto ambiental, além de outros conhecimentos relacionados à administração de recursos ambientais. 
+
+
+
+Deve-se considerar ainda a possibilidade de suprir-se a necessidade da participação de pessoas que possuam conhecimentos específicos por meio da contratação de consultores, da utilização de acordos de cooperação ou da requisição de apoio técnico de órgão ou entidade federal, instrumentos mencionados na seção anterior.
+
+
+6.	ROTEIRO PARA AUDITORIA AMBIENTAL DE CONFORMIDADE
+
+
+6.1	PLANEJAMENTO
+
+
+
+O planejamento de uma auditoria ambiental de conformidade consiste do conhecimento do objeto da auditoria; do estabelecimento dos objetivos da auditoria e do universo a ser examinado; da definição da metodologia a ser adotada; do estabelecimento dos critérios de auditoria; da definição de um cronograma para sua execução e da elaboração de um relatório.
+
+
+
+Para conhecer o objeto a ser auditado, deve-se estudar a legislação que o regula e ainda, se necessário, as alterações sofridas ao longo de tempo.
+
+
+
+Os objetivos da auditoria e o universo a ser examinado normalmente já vêm definidos no Plano de Auditoria do Tribunal. Caso não esteja, ou caso a auditoria seja extra-plano, essas informações podem ser levantadas junto aos atos que deram causa à auditoria (Decisões do Tribunal, Despachos de Ministro do Tribunal, solicitações de Casas ou Comissões do Congresso Nacional, etc.).
+
+
+
+As técnicas e os procedimentos a serem utilizados são definidos pela equipe de auditoria. São consideradas técnicas de auditoria a definição de amostras, a análise de procedimentos, a realização de entrevistas, a aplicação de questionários, observações de campo, etc.
+
+
+
+A amostragem serve para definir quantos documentos ou procedimentos de uma mesma espécie devem ser examinados (processos licitatórios, editais de licitação, contratos, convênios, acordos de empréstimo, autos de infração, autorizações de desmatamento, guias de transporte de madeira, etc.).
+
+
+
+A amostragem pode ser estatística e não estatística. A amostragem estatística permite o estabelecimento do grau de confiabilidade e da margem de erro da pesquisa. A amostragem não estatística funciona mais como uma redução do universo do que como uma definição de amostra.
+
+
+
+No Tribunal, costuma-se adotar três tipos de amostragem não estatística: 1- por período determinado, em que é feita uma seleção de documentos ou procedimentos circunscritos a um intervalo de tempo determinado; 2- amostragem sistemática, onde em cada período de tempo considerado é selecionada uma quantidade fixa de procedimentos ou documentos; e 3 amostragem pela materialidade, na qual os procedimentos são escolhidos, para análise, em função do seu valor monetário. Pode-se, ainda, combinar a técnica da materialidade com a da amostragem por período determinado, ou com a da amostragem sistemática. Em suma, a amostragem não estatística pode ser utilizada da forma que mais se adequar ao caso concreto. 
+
+
+
+Quanto à análise dos procedimentos na auditoria de conformidade, a metodologia empregada é a comparação de procedimentos. Pode-se comparar os procedimentos realizados pelo gestor com aqueles prescritos, proibidos ou vetados pela norma (entender norma no sentido amplo: princípios, legislação, jurisprudência e outras). Ou seja, o principal critério da auditoria ambiental de conformidade é o cumprimento dos princípios, da legislação, da jurisprudência e de outras normas. 
+
+
+
+Na fase de planejamento, os recursos necessários para a realização da auditoria devem ser estimados, incluindo-se os custos diretos e indiretos que a auditoria acarretará ao tribunal.
+
+
+6.2	EXECUÇÃO
+
+
+
+A execução da auditoria ambiental de conformidade consiste de:
+
+
+
+· levantamento dos achados de auditoria, ou seja determinar os pontos em que houve dissonância entre o procedimento analisado pela equipe e o critério de auditoria (ou seja, a norma);
+
+
+· estabelecimento dos efeitos de cada achado de auditoria;
+
+
+· mensuração dos efeitos dos achados, de preferência em valores monetários;
+
+
+· identificação das causas de cada achado de auditoria. Essas causas podem ser improbidade, má gestão, etc.; e
+
+
+· definição de providências (determinações, recomendações, imputação de débitos e multa, etc.) com vistas a extinguir, compensar ou prevenir as causas dos achados de auditoria, ou a punir o mau gestor.
+
+
+
+Na busca de achados de auditoria ambiental de conformidade pode ser verificado o cumprimento das normas relacionadas a seguir – sempre que coerente com os objetivos da auditoria.
+
+
+6.2.1	CUMPRIMENTO DOS PRINCÍPIOS AMBIENTAIS:
+
+
+
+1) Princípios da Administração Pública estabelecidos no art. 37 da Constituição Federal (com a redação dada pela Emenda Constitucional nº 19, de 04/06/98): 
+
+
+
+· Legalidade;
+
+
+· Impessoalidade;
+
+
+· Moralidade;
+
+
+· Eficiência;
+
+
+· Licitação; e
+
+
+· Publicidade.
+
+
+
+2) Princípios da Política nacional de Meio Ambiente (art. 2º, incisos I a X da Lei nº 6.938/81
+
+
+3) :
+
+
+
+· Ação governamental na manutenção do equilíbrio ecológico, considerando o meio ambiente como um patrimônio público a ser necessariamente assegurado e protegido, tendo em vista o uso coletivo; 
+
+
+· Racionalização do uso do solo, do subsolo, da água e do ar;
+
+
+· Planejamento e fiscalização do uso dos recursos ambientais; 
+
+
+· Proteção dos ecossistemas, com a preservação de áreas representativas;
+
+
+· Controle e zoneamento das atividades potencial ou efetivamente poluidoras;
+
+
+· Incentivos ao estudo e à pesquisa de tecnologias orientadas para o uso racional e a proteção dos recursos ambientais; 
+
+
+· Recuperação de áreas degradadas; 
+
+
+· Proteção de áreas ameaçadas de degradação; 
+
+
+· Educação ambiental a todos os níveis de ensino, inclusive a educação da comunidade, objetivando capacitá-la para participação ativa na defesa do meio ambiente. 
+
+
+
+3)	Princípios do Direito Ambiental consagrados na doutrina (subitem 1.4):
+
+
+
+· Princípio do direito ao meio ambiente ecologicamente equilibrado;
+
+
+· Princípio do direito ao desenvolvimento sustentável;
+
+
+· Princípio da precaução;
+
+
+· Princípio da prevenção;
+
+
+· Princípio da informação ambiental;
+
+
+· Princípio da ubiqüidade;
+
+
+· Princípio da participação; e
+
+
+· Princípio do poluidor-pagador.
+
+
+6.2.2	CUMPRIMENTO DAS NORMAS AMBIENTAIS. VERIFICAR:
+
+
+
+1)	se o Poder Público está cumprindo o seu dever de defender, preservar e proteger o meio ambiente para as gerações presentes e futuras e se está sendo atribuído o devido respeito ao "meio ambiente ecologicamente equilibrado" na condição de "bem de uso comum do povo essencial à sadia qualidade de vida" (art. 225 da Constituição).
+
+
+
+2)	se está sendo desconsiderada alguma das normas constitucionais relacionadas no Quadro I, conforme o caso:
+
+
+
+
+Quadro I
+
+
+
+
+
+NORMAS CONSTITUCIONAIS RELACIONADAS
+
+
+
+Norma
+
+Assunto
+
+Art. 5º, XXIII
+
+Tutela constitucional imediata do meio ambiente artificial
+
+Art. 5º, LXXIII
+
+Ação popular, incluindo aquela relacionada à proteção ambiental
+
+Art. 7º, XXII, XXXII
+
+Tutela constitucional imediata do meio ambiente do trabalho
+
+Art. 20, II, III, IV, V, VI, VIII, IX, X, XI
+
+Bens da União relacionados ao meio ambiente
+
+Art. 21, XX
+
+Tutela constitucional imediata do meio ambiente artificial
+
+Art. 129, III
+
+Funções do Ministério Público relacionadas a meio ambiente
+
+Art. 170, VI
+
+Princípio da defesa do meio ambiente, ao qual observa a ordem econômica
+
+Art. 182
+
+Tutela constitucional imediata do meio ambiente artificial
+
+Art. 200, VIII
+
+Tutela constitucional imediata do meio ambiente do trabalho
+
+Art. 215, § 1º, § 2º
+
+Tutela constitucional imediata do meio ambiente cultural
+
+Art. 216, V
+
+Patrimônio cultural brasileiro
+
+Art. 225, § 1º, I e II
+
+Tutela constitucional imediata do meio ambiente natural ou físico
+
+
+
+3)	se a atuação da instituição auditada está em sintonia com a Política Nacional do Meio Ambiente, ou seja se tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento socio-econômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana (art. 2º da Lei nº 6.938/81).
+
+
+
+4)	se estão sendo aplicadas sanções a todos que deixarem de cumprir "as medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação da qualidade ambiental"; e se os causadores do dano estão sendo obrigados a repará-los (art. 14 da Lei nº 6.938/81).
+
+
+
+5)	se está sendo informado o "impacto sobre o meio ambiente (sempre que o ato ou medida proposta possa vir a tê-lo)", quando do encaminhamento de documentos relativos a atos normativos de competência dos órgãos do Poder Executivo (Decreto nº 2.954,  1999, Anexo II, item 6).
+
+
+
+Nesses casos, o servidor responsável pela proposição do ato ou medida a ser tomada tem o dever de proceder à análise dos possíveis efeitos ambientais deles resultantes, mesmo nos casos em que a lei não exige EIA/RIMA. Deve constar a avaliação circunstanciada sobre a extensão dos efeitos (positivos e negativos) sobre o meio ambiente.
+
+
+
+
+6)	se está sendo exigida a comprovação do licenciamento ambiental, sempre que a legislação o prescrever, quando da concessão de financiamento por entidades governamentais (Dec. 99.274/90, art. 23).
+
+
+
+
+Inclusive o Banco Central, ao exercer sua competência fiscalizadora, deve examinar o cumprimento do Dec. 99.274/90, art. 23
+
+
+
+
+7)	se os órgãos e entidades federais estão destinando, no mínimo, 1% da dotação orçamentária de cada projeto ou obra à prevenção ou à correção dos respectivos efeitos negativos de natureza ambiental, cultural e social, quando houver (Dec. 95.733/88, art. 1º, parágrafo único).
+
+
+
+8)	se os impactos ambientais estão sendo considerados nos projetos básicos e executivos de obras e serviços (art. 12, caput, da Lei 8.666/93)
+
+
+
+9)	se o projeto básico foi "...elaborado com base nas indicações dos estudos técnicos preliminares, que assegurem a viabilidade técnica e o adequado tratamento do impacto ambiental do empreendimento..." (art. 6º, inciso IX, da Lei nº 8.666/93).
+
+
+
+10)	se entes que atuam na exploração de atividades relacionadas aos recursos naturais estão observando as normas pertinentes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As principais normas relacionadas a essas atividades são apresentadas a seguir
+
+
+
+
+
+Quadro II
+
+
+
+
+NORMAS FEDERAIS REGULADORAS DA EXPLORAÇÃO DE ATIVIDADES RELACIONADAS AOS RECURSOS NATURAIS
+
+
+
+Objeto
+
+Legislação
+
+Bens de interesse arqueológico, histórico e artístico 
+
+CF, art. 23, II e IV, arts. 210 e 216; Lei nº 3.924/61; Dec.-Lei nº 25/37; e Resolução CONAMA nº 5/87
+
+Populações Indígenas
+
+ 
+
+CF, art. 231; Lei nº 6.001/73 (Estatuto do Índio)
+
+Águas 
+
+ 
+
+ 
+
+CF, art. 23; Leis nºs 6.662/79, 4.771/65 (Código Florestal), 7.754/89, 6.938/81, (Política Nacional do Meio Ambiente); 9.433/1997 9.984/2000 (Política Nacional de Recursos Hídricos), Dec. nº 24.643/34 (Código de Águas); Dec.-Lei nº 221/67 (Código de Pesca); e Resoluções CONAMA nºs 2/86 e 6/87.
+
+Crimes Ambientais
+
+Lei nº 9.605, 12 de fevereiro de 1998 (dispõe sobre as sanções penais e administrativas  derivadas de condutas e atividades lesivas ao meio ambiente).
+
+Licenciamento ambiental
+
+Lei nº 6.938/81 (Política Nacional do Meio Ambiente); Resolução CONAMA Nº 237, de 19 de dezembro de 1997; Resolução CONAMA Nº 010, de 24 de outubro de 1996.
+
+Educação Ambiental
+
+ 
+
+Lei nº  9.765, de 17 de dezembro de 1998; Decreto nº 2.959, de 10 de fevereiro de 1999.
+
+Ar
+
+Lei nº 6.938/81 (Política Nacional do Meio Ambiente), Lei n° 8.723, de 28 de outubro de 1993 e Resoluções CONAMA nºs 18/86 e 3/90; Resolução CONAMA nº 242, de 30 de junho de 1998; Resolução CONAMA nº 241, de 30 de janeiro de 1998; Resolução CONAMA nº 230, de 22 de agosto de 1997; Resolução CONAMA nº 226, de 20 de agosto de 1997.
+
+Solo Rural
+
+CF, arts. 186 e 225; Leis nºs 6.225/76 e 4.504/64 (Estatuto da Terra)
+
+Solo Urbano
+
+Lei nº 6.766/79
+
+Zona Costeira
+
+Lei nº 7.661/88 (Plano Nacional de Gerenciamento Costeiro)
+
+Agrotóxicos
+
+Lei nº 9.974, de 06 de junho de 2000 e Lei nº 7.803/89 e Dec. nº 98.816/90
+
+Mineração e Garimpagem
+
+CF, arts. 22, 174 e 225; Lei nº 7.805/89 (Código de Mineração); e Resolução do CONAMA nº 9/90
+
+Flora
+
+CF, arts. 24 e 225; e Lei nº 4.771/65 (Código Florestal) e Lei nº 9.985, de18 de junho de 2000 (Cria o Sistema Nacional de Unidades de Conservação); Decreto nº 3.420, de 20 de abril de 2000 (cria o Programa Nacional de Flonas); Decreto nº 2.661, de 08 de julho de 1998; Resolução CONAMA no 248, de 11 de fevereiro de 1999.
+
+Fauna
+
+CF, arts. 23, 24 e 225; Dec.-Lei nº 221/67 (Código de Pesca); e Lei nº 5.197/67 (Código de Caça).
+
+Atividades Nucleares
+
+CF, arts. 21, 22 e 225; Lei nº 9.765, de 17 de dezembro de 1998; Leis nºs 4.118/62, 6.189/74, 7.781/89, 6.453/77; e Resolução da Comissão Nacional de Energia Nuclear nº 7/80.
+
+Transporte de Cargas Perigosas
+
+CF, art. 22; Dec.-Lei nº 2.063/83 e Resolução CONAMA nº 1-A/86
+
+Controle do Mercúrio, Detergentes e Aerossóis
+
+CF, art.225; Dec.-Lei nº 227/67 (Código de Mineração); Lei nº 7.805/89; Decretos. nºs 97.507/89 e 97.634/89; e Portaria nº 534/88
+
+Poluição Sonora
+
+Lei nº 6.938/81 (Política Nacional do Meio Ambiente); Lei nº 7.565/86 (Código Brasileiro de Aeronáutica); e Resolução CONAMA nº 1/90
+
+Poluição Industrial
+
+CF, art. 23; Lei nº 6.803/80 e Lei nº 9.966, de 28 de abril de 2000; Dec. - Lei nº 1.413/75.
+
+Atividades Potencialmente Modificadoras do Meio Ambiente
+
+Resoluções Conama nº 1/86, 6/87 e  9/90.
+
+Saúde 
+
+CF, arts. 196, 197, 198, 200 e 225; Leis nºs 8.080/90 e 5.138/67
+
+
+
+11)	se o auditado cometeu crime ambiental.
+
+
+
+
+Os crimes ambientais na Lei nº 9.605/98 (regulamentada pelo Dec. nº 3.179/99) podem ser: contra a fauna (artigos 29 a 37); contra a flora (artigos 38 a 53); crime de poluição (artigo 54); crimes contra o ordenamento urbano e o patrimônio cultural (artigos 62 a 69) e outros crimes (artigos 55 a 61).
+
+
+
+
+12)	se o auditado cometeu infração administrativa (artigo 70 da Lei nº 9.605/98).
+
+
+
+13)	se atividades efetivamente ou potencialmente poluidoras foram devidamente licenciadas (art. 9º, IV, da Lei 6.938/81).
+
+
+
+14)	se o processo de licenciamento ambiental seguiu os trâmites estabelecidos na norma (Res. nº 11/94 e 237/97).
+
+
+
+15)	se existe eia/rima, se for o caso (Res. 001/86 e 237/97 - CONAMA, combinadas com o Dec. 99.274/90 - art. 17). 
+
+
+
+16)	se os padrões de qualidade ambiental estão sendo respeitados, caso existam padrões estabelecidos pelo órgão ambientam competente.
+
+
+
+17)	se estão sendo cumpridas normas de adesão voluntária, se for o caso. Por exemplo: ISO 14.000, BS 7750 (norma elaborada pela British Standard Institution) e Esquema para Gerenciamento e Auditoria Ambiental - Emas (Regulamentação 1836/93 da Comunidade Européia).
+
+
+
+18)	se as determinações estabelecidas no Estudo de Impacto Ambiental - EIA e no Relatório de Impactos sobre o Meio Ambiente - RIMA estão sendo cumpridas
+
+
+6.2.3	CUMPRIMENTO DA JURISPRUDÊNCIA AMBIENTAL. VERIFICAR:
+
+
+
+1)	a conformidade com a jurisprudência do TCU e dos tribunais judiciais no tocante ao tema ambiental.
+
+
+6.3.	RELATÓRIO
+
+
+
+A elaboração do relatório de uma auditoria ambiental de conformidade não é diferente da elaboração dos demais relatórios de auditoria normalmente feitos no Tribunal. Isto porque esse tipo de trabalho, seja ele ambiental ou não, pauta-se pela verificação do cumprimento de normas. Dessa forma, elaborar seu relatório consiste em: narrar o desenvolvimento dos trabalhos; listar os achados de auditoria, seus efeitos (e respectivas quantificações) e suas causas; relacionar as recomendações e determinações com vistas a eliminar ou minimizar as causas dos achados de auditoria; e indicar o encaminhamento do relatório de auditoria.
+
+
+Os achados de auditoria são fruto da comparação entre os procedimentos adotados pelo gestor do ente auditado e os procedimentos prescritos pela norma. No relatório deve ser demonstrado qual norma foi utilizada para a comparação; se foram leis, princípios, jurisprudência, etc. Os efeitos de cada achado de auditoria, quando possível, devem ser apresentados de forma quantificada, de preferência em valores monetários (como por exemplo: desvio de R$ 1.000,00; ou aquisição de um equipamento por R$ 1000,00, quando o valor de mercado desse equipamento era R$ 200,00). As causas dos achados de auditoria devem ser relacionadas, sejam elas impropriedades ou irregularidades, indicando a norma transgredida. Devem ser, ainda apresentadas as providências com vistas a extinguir ou compensar as causas dos achados de auditoria (determinações, imputação de débitos, etc.). Ao final, devem ser proposto o encaminhamento a ser dado ao relatório de auditoria.
+
+
+7.	ROTEIRO PARA AUDITORIA AMBIENTAL DE NATUREZA OPERACIONAL
+
+
+
+A auditoria ambiental de natureza operacional possui três fases, que são: realização do levantamento de auditoria, onde é estabelecido o planejamento da auditoria (planejamento das atividades a serem desenvolvidas na fase seguinte); execução da auditoria; e elaboração do relatório da auditoria. Nesta seção apresenta-se um roteiro básico para a realização desse tipo de auditoria.
+
+
+ 
+
+7.1.	LEVANTAMENTO
+
+
+
+As auditorias ambientais de natureza operacional devem ser precedidas de um levantamento de auditoria no ente governamental a ser auditado (programa, projeto, atividade, órgão ou entidade). A finalidade desse levantamento é proporcionar à equipe um conhecimento aprofundado do programa, projeto, atividade, órgão objeto da auditoria. De posse desse conhecimento, a equipe pode delimitar a abrangência da auditoria, bem como estabelecer a melhor forma de avaliar a gestão, traçando, inclusive, a estratégia metodológica a ser utilizada na avaliação.
+
+
+
+O Manual de Auditoria de Natureza Operacional é uma das fonte de orientação que o auditor deverá utilizar nessa fase. Segundo aquele documento, o levantamento de auditoria possui fundamentalmente as seguintes fases: 1 - elaboração da análise preliminar do ente auditado; 2 - coleta de dados para avaliação do desempenho do ente auditado; 3 - especificação dos critérios de auditoria; e 4 - definição da metodologia a ser adotada; e 5 - elaboração do relatório de levantamento de auditoria. 
+
+
+
+Especificamente na fase de coleta de dados para a avaliação do desempenho da gestão ambiental auditada podem ser utilizadas as questões apresentadas a seguir. Elas referem-se aos principais dados úteis à analise de ações que potencial ou efetivamente causem impactos ambientais negativos[footnoteRef:7]. São questões gerais, que podem ser desmembradas em questões específicas para cada trabalho. Note-se que a auditoria pode não tratar de todos os aspectos mencionados, pois a abrangência da investigação dependerá dos objetivos atribuídos ao trabalho e do tipo de ação que está sendo analisada, entre outros fatores. As questões devem ainda ser adaptadas às circunstâncias da ação investigada. Outras instruções sobre como proceder durante a coleta desses dados estão incluídas na seção citada. [7:  As questões gerais referentes à análise de ações que tenham por objetivo causar impactos ambientais positivos são exatamente as que estão relacionadas no Manual de Auditoria de Natureza Operacional, na seção 2.1.3 - Coleta de Dados sobre Desempenho.] 
+
+
+
+
+	As questões referem-se ao aspecto ambiental, porém não se pode esquecer que deve ser analisado também o desempenho relacionado aos objetivos principais da ação.
+
+
+Assim, além das questões apresentadas a seguir, convém que, sempre que pertinente, sejam coletados os dados relativos a este aspecto conforme orientado no Manual de Auditoria de Natureza Operacional, na seção 2.1.3 - Coleta de Dados sobre Desempenho. 
+
+
+
+
+DADOS A SEREM COLETADOS
+
+
+
+
+
+1. Organização
+
+
+
+
+· Existe uma ou mais seções ou pessoas responsáveis pelas questões ambientais associadas à ação investigada, cuja função inclui, por exemplo:
+
+
+· formulação de políticas ou normas ambientais a serem observadas;
+
+
+· acompanhamento do desempenho ambiental;
+
+
+· documentação sistemática de informações ambientais, etc.?
+
+
+· Existe algum sistema que contenha e disponibilize adequadamente as informações suficientes, oportunas, confiáveis e necessárias às atividades relacionadas à gestão ambiental? Esse sistema, caso exista, está integrado com outros sistemas de informação importantes para a gestão?
+
+
+
+
+2. Recursos
+
+
+
+
+· Para que sejam alcançados os objetivos ambientais relacionados à ação, estão sendo alocados os recursos necessários e suficientes?
+
+
+
+· Os recursos alocados são adequados (pessoal capacitado, equipamentos em bom estado de funcionamento, etc.)?
+
+
+
+· Há provisão adequada para situações contingentes (mudanças ambientais, acidentes, etc.)?
+
+
+
+
+3. Políticas e diretrizes
+
+
+
+
+· Foram formuladas políticas e/ou diretrizes ambientais para orientar a ação (componentes ou não de políticas mais gerais)?
+
+
+
+· São claras?
+
+
+· Abrange todos os aspectos e riscos ambientais?
+
+
+
+· As políticas e diretrizes ambientais formuladas são coerentes com as políticas, diretrizes, princípios e normas ambientais de hierarquia superior?
+
+
+
+· As demais políticas e diretrizes que orientam a ação são coerentes com políticas, diretrizes, princípios e normas ambientais?
+
+
+
+· As políticas e diretrizes ambientais existentes são bem divulgadas, aceitas e aplicadas pelos planejadores e executores da ação?
+
+
+
+· As políticas e diretrizes ambientais existentes são avaliadas periodicamente ou sempre que haja alterações das circunstâncias existentes e, caso necessário, adequadamente reformuladas?
+
+
+
+
+4. Princípios e normas
+
+
+
+
+· Foram formuladas pelos gestores da ação normas aplicáveis ao planejamento, à operação, ao acompanhamento e à avaliação da gestão ambiental (ou outro procedimento relacionado à gestão)? São apropriadas?
+
+
+
+· São adotadas pelos gestores da ação normas cuja adesão não é legalmente obrigatória?
+
+
+· As pessoas envolvidas na ação estão conscientes dos princípios e normas que devem orientá-las no cumprimento de sua função?
+
+
+· Os princípios e normas ambientais (inclusive acordos internacionais) aplicáveis são adequadamente observados?
+
+
+
+5. Planejamento e operação
+
+
+
+
+· Foram fornecidas ou disponibilizadas à sociedade informações sobre a degradação ambiental decorrente da ação e seus efeitos?
+
+
+
+· Houve a participação da sociedade no planejamento da ação?
+
+
+
+· Foram devidamente considerados os aspectos ambientais envolvidos na ação?
+
+
+
+· O planejamento e a execução da ação baseiam-se em informações necessárias, suficientes, oportunas e confiáveis relativas a, por exemplo:
+
+
+
+· prováveis impactos ambientais resultantes;
+
+
+· impactos ambientais e danos decorrentes das ações já implementadas;
+
+
+· riscos ambientais (inclusive com relação à probabilidade e à importância);
+
+
+· estado, vulnerabilidade e importância ambiental da área atingida; 
+
+
+· características da população atingida pela degradação ambiental resultante;
+
+
+· outras ações que estão sendo, foram ou provavelmente serão implementadas e que podem, como resultado de interação sinérgica, causar ou intensificar algum impacto ambiental?
+
+
+· extensão e importância das conseqüências (impactos indiretos), econômicos e sócio-culturais dos prováveis impactos ambientais diretos resultantes, relacionados a, por exemplo:
+
+
+
+· mudanças na densidade da população que resultem em problemas ambientais, sócio-culturais e econômicos;
+
+
+· indução ao aumento, na região, de empreendimentos que venham a causar impactos ambientais (por exemplo, atração de empreendimentos que visem ao beneficiamento de produtos explorados em resultado da ação implementada, etc.);
+
+
+· comprometimento das atividades econômicas tradicionalmente exercidas na área atingida (por exemplo, turismo, pesca, extrativismo vegetal, etc.);
+
+
+· comprometimento de áreas de lazer ou do patrimônio histórico e cultural existente na região atingida;
+
+
+· comprometimento da saúde da população?
+
+
+
+· Foram estabelecidos objetivos e metas ambientais adequados? 
+
+
+
+· A ênfase recai sobre medidas preventivas?
+
+
+
+· Os objetivos e metas ambientais incluem a prevenção (especialmente com relação a conseqüências irreversíveis ao meio ambiente), a mitigação e/ou a compensação de danos ambientais, incluindo, entre outros aspectos:
+
+
+· a racionalização da exploração dos recursos renováveis de tal forma que seja possível sua renovação;
+
+
+· a racionalização da exploração dos recursos não renováveis, de maneira a economizá-los;
+
+
+· o fornecimento da estrutura necessária à adaptação da população atingida pela degradação à nova situação ambiental (por exemplo, investimentos necessários a seu deslocamento para outras áreas, o acompanhamento do estado de saúde da população, a realocação de mão-de-obra, o incremento do fornecimento de serviços básicos, etc.)?
+
+
+
+· Foi utilizada alguma técnica de ajuda à decisão que permita avaliar os impactos ambientais da ação? 
+
+
+· Foram consideradas as alternativas existentes para a ação, tendo sido comparados seus resultados ambientais?
+
+
+· Foram observados princípios, diretrizes e normas ambientais aplicáveis;
+
+
+· Foram considerados objetivos e metas ambientais definidas por planos de hierarquia superior;
+
+
+· Foram considerados relatórios sobre o acompanhamento e a análise dos procedimentos operacionais e os resultados ambientais dos componentes da ação já implementados?
+
+
+· Foram elaborados planos para solucionar problemas advindos de situações contingênciais?
+
+
+· O planejamento contempla o longo prazo (inclusive com relação à expansão futura da ação)?
+
+
+
+· A execução da ação é coerente com os objetivos e metas ambientais formulados?
+
+
+
+· Já ocorreu algum acidente ou incidente relacionado à ação? As providências necessárias foram devidamente tomadas?
+
+
+
+
+6. Controle
+
+
+
+
+· É realizado acompanhamento que permita avaliar e corrigir, caso necessário, os procedimentos operacionais e os resultados ambientais da ação?
+
+
+
+· Os dados necessários à análise são adequadamente coletados, tratados e registrados, inclusive aqueles relativos aos impactos ambientais ocorridos ao longo da implementação da ação?
+
+
+· Foram especificados critérios válidos para o desempenho?
+
+
+· Os resultados da análise são fornecidos ou estão disponíveis para a sociedade e para órgãos ou entidades públicas interessadas?
+
+
+· Os resultados das análises realizadas são adequadamente documentados?
+
+
+· A análise permite que sejam apontados aspectos da ação que devam ser modificados?
+
+
+· A análise inclui mudanças em fatores externos?
+
+
+
+
+
+
+
+
+
+7.2	EXECUÇÃO
+
+
+
+Nesta fase são procurados os achados de auditoria: diferenças levantadas pela equipe entre o que está sendo verificado e os critérios de auditoria, entre o real e o esperado, entre o estabelecido e o detectado, entre o programado e o realizado, entre o impacto esperado e o impacto constatado, entre o que é e o que deveria ser (segundo os critérios de auditoria). 
+
+
+
+Como se vê, um achado de auditoria de natureza operacional é um desvio na gestão avaliada. Como efeito desse desvio teremos, por exemplo, a realização de um processo por um custo acima do custo de mercado (ineficiência da gestão); um desvio no cumprimento das metas planejadas (ineficácia); ou, ainda, um desvio em relação à magnitude ou aos impactos de um programa ou projeto governamental (falta de efetividade). 
+
+
+Entretanto, um achado de auditoria não tem somente efeito. Tem também causas (ou seja, as causas das distorções detectadas). No decorrer da execução de uma auditoria ambiental de natureza operacional, não somente os efeitos dos achados de auditoria, mas, também, as causas desses achados devem ser levantadas. Essas causas podem ser descumprimento da legislação, adoção de medidas equivocadas, superposições de ações com a mesma finalidade, desinteresse dos gestores no cumprimento do planejamento (ou mesmo falta de planejamento) e desvio na finalidade do objeto auditado. Podem ser, ainda, resultado de debilidades internas ou de ameaças externas ao objeto da auditoria.
+
+
+Os efeitos associados a achados de auditoria, sempre que possível devem ser mensurados, pois indicam o grau de economicidade, eficiência, eficácia e efetividade da gestão do ente auditado. Portanto, dão ao controle a dimensão do desempenho da gestão auditada.
+
+
+No caso de, por exemplo, processos antieconômicos, aquisições mal planejadas ou equipamentos improdutivos, os efeitos podem ser estimados em valores monetários. Já os efeitos decorrentes de procedimentos ineficientes, recursos ociosos ou gerenciamento deficiente podem ser dimensionados em termos de descumprimento de prazos e de desperdício de recursos físicos. Por outro lado, os efeitos qualitativos também devem ser mencionados, como ausência de controle, decisões inadequadas ou descompromisso com a qualidade do bem ou serviço oferecido. O efeito deve demonstrar a necessidade de ação corretiva e pode ter ocorrido no passado, estar ocorrendo no momento da auditoria, ou vir a ocorrer no futuro. 
+
+
+
+Já as causas de um achado de auditoria são importantes por serem a base para as recomendações resultantes da auditoria. As recomendações devem ser feitas visando a suspender ou evitar as ações causadoras dos achados de auditoria. Para ser efetiva, a recomendação deve ser elaborada de tal forma que, se cumprida pelo gestor, extinga ou minimize o efeito correspondente. 
+
+
+
+Importante notar que há a possibilidade de determinada causa identificada situar-se fora do campo de ação do gestor, fazendo com que o foco das recomendações transcenda o objeto da auditoria. Isso pode ocorrer no caso de a causa do achado de auditoria ser uma ameaça externa ao ente auditado, por exemplo. Nesses casos, as recomendações devem ser dirigidas a autoridades, que não a responsável diretamente pelo órgão/entidade, programa, projeto auditado. 
+
+
+
+
+
+
+
+
+
+7.3	RELATÓRIO
+
+
+
+
+
+
+
+
+
+
+O relatório de auditoria de natureza operacional é o produto final do trabalho da equipe, que deve ser apreciado pelo Relator, após ter sido analisado pelas instâncias administrativas competentes. O relatório de auditoria de natureza operacional deve conter: um sumário; um resumo; uma introdução; capítulos sobre os temas principais; comentários do gestor; conclusão; e proposta de encaminhamento. Na Introdução, devem-se incluir os antecedentes, os objetivos, o escopo e a estratégia metodológica da auditoria.
+
+
+
+
+
+
+
+
+
+
+Nos Capítulos sobre os Temas Principais, devem ser apresentados os achados de auditoria e as recomendações. Os efeitos e as causas dos achados devem ser bem explorados. Ou seja, as causas de desempenhos fracos eventualmente observados devem ser apontadas, indicando-se aquelas ligadas à operacionalização ou à concepção do objeto da auditoria, bem como aquelas que estão fora do controle ou da influência do gestor, quando for o caso. Para tanto, é necessário incluir uma análise das evidências que indicam as causas. Da mesma forma, achados e recomendações devem ser sustentados por evidências. É imprescindível que se faça distinção entre fatos e opiniões.
+
+
+
+
+
+ANEXO I - MEIO AMBIENTE: OBJETO DA GESTÃO AMBIENTAL
+
+
+
+	Para o exercício do controle da gestão ambiental, é importante conhecer o objeto dessa gestão, o meio ambiente. Isso se aplica tanto à seleção de áreas a serem auditadas, quanto à realização de auditorias e à inclusão da variável ambiental na análise de contas. É necessário saber o que é meio ambiente, qual sua natureza jurídica. Deve-se ainda ter noção das alterações a que está sujeito. É isso o que, sinteticamente, pretende-se apresentar nesta seção. 
+
+
+
+
+1 O que é meio ambiente
+
+
+
+
+A Política Nacional do Meio Ambiente (Lei nº 6.938/81) conceitua meio ambiente como sendo "o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas". Mesmo sendo uno, o termo encerra aspectos diversos que, embora interrelacionados, podem ser explicitados para uma maior compreensão do conjunto.
+
+
+
+
+
+1.1 Classificação do meio ambiente
+
+
+
+
+
+Segundo Celso Fiorillo (1997), pelo menos quatro aspectos importantes estão incluídos no significado do termo: natural ou físico, cultural, artificial e do trabalho. Todos tutelados mediatamente pelo caput do art. 225 da Constituição Federal e imediatamente por outros trechos da mesma carta política e da legislação infraconstitucional. A análise apresentada abaixo baseia-se nas conclusões expostas pelo autor no livro "Manual de Direito Ambiental e Legislação Aplicável".
+
+
+
+
+
+1.1.1 Meio ambiente natural ou físico
+
+
+
+
+
+Sob o aspecto natural ou físico, o meio ambiente é constituído por solo, água, ar atmosférico, flora e fauna - elementos responsáveis pelo equilíbrio dinâmico que envolve seres vivos e seu meio. Imediatamente, é tutelado pelos incisos I e IV do § 1º do art. 225 da Constituição Federal.
+
+
+
+Art. 225 ...
+
+
+§ 1º Para assegurar a efetividade deste direito incumbe ao Poder Público:
+
+
+I - preservar e restaurar os processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas;
+
+
+IV - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécies ou submetam animais à crueldade.
+
+
+
+
+
+1.1.2 Meio ambiente cultural
+
+
+
+
+
+	O meio ambiente cultural é formado por bens materiais e imateriais - previstos no art. 216, CF - que constituem o patrimônio cultural brasileiro artístico, histórico, paisagístico, arqueológico, turístico. Imediatamente, é tutelado pelo art. 215 da Constituição Federal.
+
+
+
+Art. 215. O estado garantirá a todos o pleno exercício dos direitos culturais e acesso às fontes da cultura nacional, e apoiará e incentivará a valorização e a difusão das manifestações culturais.
+
+
+§ 1º O Estado protegerá as manifestações das culturas populares, indígenas e afro-brasileiras, e das de outros grupos participantes do processo civilizatório nacional.
+
+
+§ 2º A lei disporá sobre a fixação de datas comemorativas de alta significação para os diferentes segmentos étnicos nacionais.
+
+
+
+
+1.1.3 Meio ambiente artificial
+
+
+
+
+
+
+	O meio ambiente artificial é constituído pelo "espaço urbano construído, consubstanciado no conjunto de edificações (espaço urbano fechado) e dos equipamentos públicos (espaço urbano aberto)"[footnoteRef:8] (Fiorillo, 1997, pág. 59). Sua tutela constitucional imediata está expressa no art. 182, no inciso XX do art. 21 e no inciso XXIII do art. 5º. [8:  O autor salienta, em outro trecho do mesmo parágrafo, que "o termo urbano nesta sede não está posto em contraste com o termo ‘campo’ ou ‘rural’, já que qualifica algo que se refere a todos os espaços habitáveis..."] 
+
+
+
+
+Art. 21. Compete a União: 
+
+
+...
+
+
+XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos.
+
+
+
+Art. 182. A política de desenvolvimento urbano, executada pelo Poder Público Municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes.
+
+
+
+Art. 5º 
+
+
+...
+
+
+XXIII - a propriedade atenderá a sua função social;[footnoteRef:9] [9:  A função social da propriedade estará sempre condicionada e delimitada pelo bem-estar do cidadão em sentido amplo. Esse, por sua vez, condiciona-se à sadia qualidade do meio ambiente. A propriedade, como componente do meio ambiente urbano, também insere-se como componente para a consecução da função social da cidade, garantido pelo art. 182 da CF.] 
+
+
+
+
+
+
+1.1.4 Meio ambiente do trabalho
+
+
+
+
+
+	O meio ambiente do trabalho é aquele onde o homem exerce seu labor. Segundo Simone Louro, "a concepção de meio ambiente do trabalho não pode ficar restrita à relação obrigacional, nem ao limite físico da fábrica, já que a saúde é tópico de direito de massa e o meio ambiente equilibrado, essencial à sadia qualidade de vida, é direito constitucionalmente garantido"[footnoteRef:10]. Desse modo, o direito ao lazer, por exemplo, está inserido nesse contexto, constituindo-se em condicionante da qualidade de vida do trabalhador. [10:  Louro, Simone Fritschy . Mandado de Segurança Coletivo e Meio Ambiente do Trabalho. Monografia do Curso de Direito Ambiental II, PUC - SP, 1995, pág 31. In Fiorillo, 1997, p. 66.] 
+
+
+
+
+A tutela imediata do meio ambiente do trabalho está inscrita em vários trechos da Constituição, podendo-se citar os arts. 7º, XXII, e 200,VIII.
+
+
+
+Art. 7º. São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
+
+
+XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;
+
+
+
+Art. 200. Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:
+
+
+VIII - colaborar na proteção do meio ambiente, nele compreendido o do trabalho;
+
+
+
+
+2. Natureza jurídica do meio ambiente
+
+
+
+
+O art. 225 da Constituição Federal inscreveu o meio ambiente ecologicamente equilibrado no rol dos bens de uso comum do povo. Note-se que o termo meio ambiente aparece adjetivado pela expressão "ecologicamente equilibrado". A dissociação do termo de sua adjetivação altera o sentido intencionado pela norma, que não se refere ao meio ambiente em qualquer de seus possíveis estados, e sim naquele que permita a "sadia qualidade de vida".
+
+
+Por bens de uso comum do povo entendem-se aqueles caracterizados pela indivisibilidade e pela indeterminabilidade de seus titulares, sendo destinados ao uso coletivo, à fruição própria do povo. Espécie do gênero bens públicos, sobre aqueles recai o domínio eminente do Estado. O domínio eminente difere do domínio patrimonial. Sobre o meio ambiente não há, pois, o exercício, pelo Estado, do poder que recai sobre bens patrimoniais, há sim o poder de condicionar seu uso, a fim de garantir sua função social.
+
+
+
+A expressão ‘uso comum do povo’ quando aplicada a bens públicos, refere-se a uma coisa corpórea; quando aplicada ao meio ambiente, refere-se a uma coisa incorpórea. Em um e outro caso, trata-se de coisas insuscetíveis de avaliação patrimonial. Em um e outro caso, trata-se de coisas cuja proteção ultrapassa a esfera dos direitos individuais para entrar na categoria dos interesses públicos. Em um e outro caso, o uso do bem está sujeito a normas especiais de proteção, de modo a assegurar que o exercício dos direitos de cada um se faça sem prejuízo do interesse de todos. (Di Pietro, 1992)[footnoteRef:11] [11:  In Machado, 1996.] 
+
+
+
+
+É errôneo imaginar que, por ser o meio ambiente pertencente à classe de bens de uso comum do povo, seus componentes não possam ser apropriados por particulares. São seus atributos que não admitem tal apropriação. Aqueles permanecem sempre sujeitos ao domínio eminente do Estado, mesmo quando gravados por titularidade particular. Seu uso está condicionado ao interesse público, ao bem-estar social.
+
+
+
+
+3. Degradação do meio ambiente
+
+
+
+
+A Lei 6.938/81 denomina degradação da qualidade ambiental a alteração adversa das características do meio ambiente (art. 3º, II). Por sua vez, denomina poluição a degradação resultante de atividades que direta ou indiretamente (art. 3º, III): "a) prejudiquem a saúde, a segurança e o bem-estar da população; b) criem condições adversas às atividades sociais e econômicas; c) afetem desfavoravelmente a biota; d) afetem as condições estéticas ou sanitárias do meio ambiente; e) lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos" .
+
+
+
+Podemos citar como sendo ações que potencialmente ou efetivamente provocam degradação ambiental aquelas relacionadas às seguintes áreas, entre outras: transportes; energia; agricultura; indústria; extrativismo mineral, vegetal e animal; tratamentos de saúde; ocupação territorial; comércio de produtos tóxicos.
+
+
+
+A degradação dos recursos ambientais atmosfera, água e solo e de outros elementos da biosfera altera o equilíbrio dinâmico dos ecossistemas e afeta os seres vivos. Assim, o homem é atingido quando essa perturbação prejudica sua saúde ou qualidade de vida ou ainda quando a mesma torna indisponíveis recursos ou condições necessárias à sua sobrevivência.
+
+
+
+O Quadro III apresenta alguns problemas ambientais e seus efeitos sobre a saúde e sobre a produtividade econômica. Os resultados da degradação ambiental podem representar custos ao País, que devem ser considerados na análise da gestão ambiental.
+
+
+
+
+QUADRO III
+
+
+
+
+ALGUNS PROBLEMAS AMBIENTAIS E SEUS EFEITOS SOBRE A SAÚDE E A PRODUTIVIDADE
+
+
+
+Problema ambiental
+
+Efeitos Sobre a Saúde
+
+Efeitos Sobre a Produtividade
+
+Escassez 
+
+e Poluição 
+
+da Água
+
+A poluição contribui anualmente para mais de 2 milhões de mortes e bilhões de casos de doenças; a escassez resulta em higiene doméstica precária e em mais riscos para a saúde.
+
+Diminuição da pesca; obtenção de água potável acarreta custos para os municípios e desperdício de tempo para as famílias da zona rural; esgotamento dos aqüíferos, resultando em compactação irreversível; atividade econômica restringida pela escassez de água.
+
+Poluição do Ar
+
+Muitos efeitos agudos e crônicos sobre a saúde: os níveis excessivos de matéria particulada nas zonas urbanas são responsáveis por 300 a 700 mil mortes prematuras anualmente e por 50% dos casos de tosse crônica em crianças; nas zonas rurais, 400 a 700 milhões de pessoas (sobretudo mulheres e crianças) são afetadas pela fumaça em recinto fechado.
+
+Restrições ao uso de veículos e à atividade industrial durante épocas críticas; efeito da chuva ácida sobre florestas, solo, lagos, rios e edificações.
+
+Resíduos
+
+Sólidos 
+
+e Tóxicos
+
+O lixo em decomposição propaga doenças e obstrui esgotos. Os resíduos tóxicos representam, em geral, um risco localizado, mas grave.
+
+Poluição dos lençóis freáticos.
+
+Degradação do
+
+Solo
+
+Menos alimentos para os agricultores pobres que cultivam solos esgotados; maior vulnerabilidade à seca.
+
+Perda de produtividade de 0,5 a 1,5% do PNB comum em solos tropicais; sedimentação de reservatórios, leitos de rios navegáveis e outros investimentos hidrológicos.
+
+Desmatamento
+
+Inundações localizadas que acarretam mortes e doenças.
+
+Perda do potencial madeireiro sustentável e também da proteção contra a erosão, da estabilidade das bacias hidrográficas e da capacidade de absorção do carbono, proporcionada pelas florestas.
+
+Alterações Atmosféricas
+
+Possíveis mudanças nas doenças transmitidas por vetores, risco de desastres climáticos naturais; doenças causadas pela destruição da camada de ozônio (cerca de 300 mil casos adicionais de câncer de pele no mundo anualmente; 1,7 milhão de casos de catarata).
+
+Danos nos investimentos litorâneos causados pela elevação do nível do mar; alterações regionais na produtividade agrícola; ruptura da cadeia alimentar marinha.
+
+
+Fonte: The World Bank, 1993 , in IBAMA, 1995
+
+
+ANEXO II - PRINCÍPIOS AMBIENTAIS[footnoteRef:12] [12:  Todos os trechos citados como enunciado dos princípios são de autoria de Machado (1996), com exceção daquele que enuncia o princípio da ubiqüidade, de autoria de Fiorillo (1997).] 
+
+
+
+
+Os princípios do meio ambiente "moldam a concepção fundamental e a política procedimental de racionalidade de proteção do meio ambiente". Desse modo, conforme mencionado, são base para a formulação dos critérios a serem considerados na análise da gestão ambiental.
+
+
+
+1.	EQUILÍBRIO ECOLÓGICO
+
+
+
+Enunciado: "O homem tem direito fundamental a condições de vida satisfatórias, em um ambiente saudável, que lhe permita viver com dignidade e bem-estar, em harmonia com a natureza, sendo educado para defender e respeitar esses valores."[footnoteRef:13] [13:  Machado, 1996] 
+
+
+
+
+A Constituição Brasileira garante a todos o "...direito ao meio ambiente ecologicamente equilibrado, (...) essencial à sadia qualidade de vida..." (art. 225, caput). Esse direito advém de outro: o direito fundamental à vida, expresso no art. 5º, caput, da mesma norma.
+
+
+
+A Lei 6.938/81, por sua vez, em seu art. 2º, caput,  estabelece como objetivo da Política Nacional do Meio Ambiente "a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar no País, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana". Em adição, o art. 4º, inciso VI, reafirma o objetivo de preservar e restaurar os recursos ambientais, tendo-se como alvo "sua utilização racional e disponibilidade permanente, concorrendo para a manutenção do equilíbrio ecológico propício à vida".
+
+
+
+Esses dispositivos, combinados, demonstram que o princípio ora em destaque foi acolhido pela legislação brasileira.
+
+
+
+Conforme se pode concluir, o direito ao meio ambiente ecologicamente equilibrado encontra significado dentro dos limites de uma visão antropocêntrica. Preserva-se a qualidade ambiental com a finalidade de garantir vida digna e saudável ao homem. É exatamente esse o objetivo pretendido pelo texto legal exposto.
+
+
+
+2.	DESENVOLVIMENTO SUSTENTADO
+
+
+
+Enunciado: "O homem tem direito ao desenvolvimento sustentável, de tal forma que responda eqüitativamente às necessidades ambientais e de desenvolvimento das gerações presentes e futuras."[footnoteRef:14] [14:  Machado, 1996] 
+
+
+
+
+Na Constituição Federal, esse princípio está contemplado no art. 225, caput, dispositivo que afirma ser o meio ambiente bem de uso comum do povo, essencial à sadia qualidade de vida. Seu texto impõe ao Poder Público e à coletividade o dever de defender e preservar esse bem, para que as gerações presentes e futuras possam usufruir de seus recursos. Há aí a idéia de fruição, que possibilita o desenvolvimento, e a idéia de defesa e preservação, que permitem a sustentabilidade desse processo de desenvolvimento. 
+
+
+
+Em adição, o art. 170 da Constituição coloca a defesa do meio ambiente como um dos princípios orientadores da ordem econômica, que tem por objetivo garantir a todos existência digna.
+
+
+Dispositivos da Lei 6.938/81 dão também suporte à adoção do princípio em tela. O art. 2º, caput, atribui à preservação, à melhoria e à recuperação da qualidade ambiental a condição de meio de obtenção do desenvolvimento socioeconômico. Por sua vez, o inciso I do artigo 4º estabelece o objetivo de tornar compatíveis o desenvolvimento econômico e social e a preservação da qualidade ambiental e do equilíbrio ecológico. Finalmente, o   inciso VI do mesmo artigo, aponta como alvos da Política Nacional do Meio Ambiente, entre outros, a utilização racional e a disponibilidade permanente dos recursos ambientais. 
+
+
+
+3.	PRECAUÇÃO
+
+
+
+Enunciado: "Quando houver perigo de dano grave e irreversível, a falta de certeza científica absoluta não deverá ser utilizada como razão para adiar-se a adoção de medidas eficazes em função dos custos, para impedir a degradação do meio ambiente." [footnoteRef:15] [15:  Machado, 1996] 
+
+
+
+
+Desse modo, se há perigo de o resultado de uma ação causar dano grave e irreversível ao meio ambiente (sem a necessidade da certeza absoluta de sua ocorrência), devem-se tomar todas as precauções para que o mesmo não ocorra. Inclui-se aí a precaução de não se realizar a ação, caso necessário. 
+
+
+
+A adoção desse princípio possibilita o alcance de objetivos estabelecidos pela legislação ambiental. Assim, se o objetivo é o de preservar o meio ambiente para as presentes e futuras gerações (como garante a Constituição), diante do dano grave e irreversível iminente, não se pode adiar ou deixar de realizar ação que o previna, devido à falta de certeza absoluta de sua ocorrência de tal dano.
+
+
+
+Da mesma forma, a preservação dos recursos ambientais e a compatibilização do desenvolvimento socioeconômico com a preservação da qualidade do meio ambiente e do equilíbrio ecológico, objetivos visados pela Política Nacional do Meio Ambiente (Lei 6.938/81, art.4º, I e VI), somente são alcançáveis se observado o princípio mencionado.
+
+
+
+4.	PREVENÇÃO
+
+
+
+Enunciado: "O Poder Público e os particulares devem prevenir os danos ambientais, havendo correção, com prioridade, na fonte causadora." [footnoteRef:16] [16:  Machado, 1996] 
+
+
+
+
+As estratégias preventivas são fundamentais. Tal afirmação fundamenta-se na idéia de que, na maior parte dos casos, é muito mais interessante prevenir danos ambientais que remediá-los, tanto do ponto de vista econômico quanto do ambiental.
+
+
+O princípio da prevenção vem crescendo de importância desde a Conferência de Estocolmo, em 1972, sendo visto atualmente como um megaprincípio do Direito Ambiental.[footnoteRef:17] A dificuldade ou impossibilidade de reversão ou reparação do dano ambiental o ergueu a essa condição. Como reconstruir uma floresta devastada, quando não se conhece, ao menos, o que lá existia? Como reconstituir espécies extintas? Como recriar um equilíbrio construído ao longo de milhões de anos? [17:  Fiorillo, 1997] 
+
+
+
+
+Diante da impotência do sistema e face a impossibilidade lógico-jurídica de fazer voltar a uma situação igual a que teria sido criada pela própria natureza, adota-se, com inteligência e absoluta necessidade, o princípio da prevenção do dano ao meio ambiente como verdadeira chave-mestra, pilar e sustentáculo da disciplina ambiental, dado o objetivo fundamentalmente preventivo do Direito ambiental. (grifo do original) [footnoteRef:18] [18:  Fiorillo, 1997] 
+
+
+
+Quando a Constituição Federal e a Lei 6.938/81 referem-se ao dever de preservação da qualidade do meio ambiente, há a idéia, contida na essência desse objetivo, da obrigação de que as devidas providências sejam tomadas para que o equilíbrio ecológico não fique comprometido. Conclui-se que devem prevenir-se danos à qualidade do meio ambiente. A atitude de correção é portanto apenas complementar, ou seja, ocorre quando a ação preventiva não for efetiva, o que não pode ser a regra.
+
+
+
+O art. 225, §3º, deixa claro que condutas e atividades consideradas lesivas ao meio ambiente são condenáveis, pois, caso ocorram, à obrigação de reparar o dano causado soma-se a sujeição às sanções administrativas e penais aplicáveis. Subentende-se, portanto, que o correto teria sido prevenir o dano.
+
+
+
+Do mesmo modo, a omissão por parte do Poder Público de praticar ação exeqüível que previna o dano, dado o dever de defender e preservar o meio ambiente, pode ser considerada conduta lesiva ao mesmo.
+
+
+
+Indo ao encontro da observância desse princípio, a legislação estabelece uma série de formas preventivas de proteção ambiental. Podem-se citar, entre outras: a criação e manutenção de unidades de conservação, a exigência da realização do estudo prévio de impacto ambiental e a promoção da educação ambiental.
+
+
+
+Para que se atue preventivamente, a variável ambiental deve ser incorporada ainda na fase de elaboração da política econômica e das políticas públicas setoriais, assim como no planejamento de programas, projetos e atividades públicas e de empreendimentos do setor privado.
+
+
+
+5.	POLUIDOR-PAGADOR
+
+
+
+Enunciado: "Quem polui deve pagar e, assim, as despesas resultantes das medidas de prevenção, de redução da poluição e da luta contra a mesma devem ser suportadas pelo poluidor." [footnoteRef:19] [19:  Machado, 1996] 
+
+
+
+
+A União Européia definiu esse princípio da seguinte forma: 
+
+
+
+As pessoas naturais ou jurídicas, sejam regidas pelo direito público ou privado, devem pagar os custos das medidas que sejam necessárias para eliminar a contaminação ou para reduzi-la ao limite fixado pelos padrões ou medidas equivalentes que assegurem a qualidade de vida, inclusive os fixados pelo Poder Público competente.[footnoteRef:20] [20:  In  Fiorillo, 1997] 
+
+
+
+
+Essa obrigação não recai apenas sobre atos praticados ilicitamente. O caráter objetivo da responsabilidade por danos ambientais obriga a que também a prática de atos lícitos, quando configurarem causa desses danos, sujeitem seus agentes a repará-los.
+
+
+
+Na Constituição Federal, esse princípio foi acolhido pelo art. 225, § 3º, que ordena: "As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados" (nosso grifo).
+
+
+
+Por sua vez, a Lei nº 6.938/81, em seu art. 4º, inciso VII, atribui à Política Nacional do Meio Ambiente o objetivo de impor "ao poluidor e ao predador (...) [a] obrigação de recuperar e/ou indenizar os danos causados..."
+
+
+O mesmo dispositivo dita que é obrigatória a contribuição pela utilização de recursos ambientais com fins econômicos. A adequada internalização dos custos externos advindos da utilização de recursos ambientais nas diversas atividades de produção e consumo é a base da abordagem econômica das políticas de meio ambiente adotadas face à limitação desses recursos e à sua eventual deterioração. Quando a utilização do meio ambiente deixa de ser gratuita, seus utilizadores tendem a tomar medidas no sentido de limitar seu consumo. Deste modo, enquanto os instrumentos regulamentares fixam normas ou concedem autorizações, os instrumentos econômicos procuram provocar uma mudança de comportamento dos usuários do meio ambiente por meio da combinação de tributos e subsídios.
+
+
+
+Visto que o conceito de poluição inscrito na Lei nº 6.938/81 abrange a utilização de bens ambientais, desde que resulte nas hipóteses previstas nas alíneas do inciso III do art. 3º, pode-se incluir a obrigação de contribuir pela utilização de recursos ambientais como componente do princípio do poluidor-pagador.
+
+
+
+6.	INFORMAÇÃO AMBIENTAL
+
+
+
+Enunciado: "As informações ambientais devem ser transmitidas pelos causadores, ou potenciais causadores de poluição e degradação da natureza, e repassadas pelo Poder Público à coletividade." [footnoteRef:21] [21:  Machado, 1996] 
+
+
+
+
+O princípio da informação ambiental é considerado um dos principais do Direito Ambiental. Faz parte de nossas normas legais, constituindo-se em um instrumento de tutela ambiental. O art. 6º, § 3º, da Lei 6.938/81 está diretamente relacionado a esse princípio. De aplicação mais geral, o art. 220 (caput e § 4º) da Constituição Federal prevê o direito à informação, incluindo, implicitamente, a informação ambiental.
+
+
+
+Art. 6º (...)
+
+
+§ 3º - Os órgãos central, setoriais, seccionais e locais [do Sisnama] deverão fornecer os resultados das análises efetuadas e sua fundamentação, quando solicitados por pessoa legitimamente interessada. (Lei 6.938/81)
+
+
+
+Art. 220. A manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo não sofrerão qualquer restrição, observado o disposto nesta Constituição. (CF, nosso grifo)
+
+
+
+A informação é um poderoso instrumento gerencial, pois a tomada de decisões exige o conhecimento das alternativas de ação possíveis e de suas conseqüências prováveis. Para isso, no caso da gestão ambiental, é necessário que se obtenha uma série de dados relativos ao estado do meio ambiente e às implicações de cada ação alternativa.
+
+
+
+A Lei nº 6.938/81 estabeleceu diversos instrumentos relacionados à coleta, utilização e fornecimento de informações. Em conjunto, eles possibilitam o exercício da gestão ambiental tanto pelo Poder Público quanto pela iniciativa privada. 
+
+
+
+Art. 9º São instrumentos da Política Nacional do Meio Ambiente:
+
+
+...
+
+
+VII - o sistema nacional de informações sobre o meio ambiente;
+
+
+VIII - o Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental;
+
+
+...
+
+
+X - a instituição do Relatório de Qualidade do Meio Ambiente, a ser divulgado anualmente pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA;
+
+
+XI - a garantia da prestação de informações relativas ao Meio Ambiente, obrigando-se o Poder Público a produzi-las, quando inexistentes;
+
+
+XII - o Cadastro Técnico Federal de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais.
+
+
+
+Alguns órgãos e entidades governamentais têm a obrigação de coletar e fornecer informações ambientais (conforme ordena o inciso XI do art. 9º da Lei nº 6.938/81, citado acima). Porém, a omissão por parte desses não justifica qualquer dano ambiental provocado por decisão tomada na ausência daquelas informações. Tal fato advém do caráter objetivo da responsabilidade por danos causados ao meio ambiente.
+
+
+
+7.	PARTICIPAÇÃO
+
+
+
+Enunciado: "A participação das pessoas e das organizações não governamentais nos procedimentos de decisões administrativas e nas ações judiciais ambientais deve ser facilitada e encorajada." [footnoteRef:22] [22:  Machado, 1996] 
+
+
+
+
+A administração de bens e recursos públicos deve satisfazer às necessidades da população, promovendo o bem-estar social. Assim, a participação popular no processo de decisão dá oportunidade de os destinatários dos benefícios oferecidos pelo Poder Público manifestarem suas preferências com relação às alternativas possíveis, direcionando escolhas no sentido daquelas que realmente contemplem tais preferências.
+
+
+
+Desse modo, o posicionamento da sociedade diante das diferentes variáveis relativas à implementação de programas, projetos e atividades que tenham por objetivo a proteção ambiental ou que sejam potencialmente ou efetivamente poluidores é fundamental para a efetiva obtenção dos objetivos sociais relacionados à qualidade ambiental. Esse é direito do cidadão, pois, em última análise, é a sociedade quem paga, direta ou indiretamente, os custos associados aos danos ambientais, inclusive os relativos à prevenção, reparação ou atenuação dos mesmos.
+
+
+
+A Constituição Federal, no art. 225, determina ao Poder Público e à coletividade o dever de defender e preservar o meio ambiente e estabelece algumas formas de atuação para o primeiro. Porém, não se pretendeu separar de maneira estanque a responsabilidade de um e outro grupo. O sentido pretendido para o texto é o de participação dos dois na tarefa lá definida - defesa e preservação ambiental. 
+
+
+
+O meio ambiente está sob a custódia do Poder Público, que deve facilitar e encorajar a participação da coletividade nas decisões administrativas e nas ações judiciais. Para que a sociedade possa controlar as atividades da Administração relacionadas a proteção e exploração do meio ambiente e participar do processo decisório que é concernente à gestão ambiental, é importante que pelo menos dois requisitos sejam atendidos: o acesso à educação e à informação ambiental. Ambos estão garantidos na Constituição e em outras normas legais.
+
+
+
+Promover a educação ambiental é tarefa do Poder Público, conforme art. 225, § 1º, inciso VI, que a garante em todos os níveis de ensino. Cabe-lhe também, como indica o mesmo dispositivo, a promoção da conscientização pública para a preservação do meio ambiente. A Lei 6.938/81, em seu art. 2º, inciso X, dá à educação ambiental o status de princípio, garantindo-a também a todos os níveis de ensino e à comunidade e atribuindo-lhe explicitamente o objetivo de capacitar a mesma para participação ativa na defesa do meio ambiente.
+
+
+Com relação ao acesso à informação, dentre os instrumentos da Política Nacional do Meio Ambiente previstos no art. 9º da Lei 6.938/81, destaca-se o estabelecido no inciso XI. Por intermédio desse, garante-se a "prestação de informações relativas ao Meio Ambiente, obrigando-se ao Poder Público produzi-las, quando inexistentes".
+
+
+
+8.	UBIQÜIDADE
+
+
+
+Enunciado: "Este princípio vem evidenciar que o objeto de proteção do meio ambiente, localizado no epicentro dos direitos humanos, deve ser levado em consideração sempre que uma política, atuação, legislação sobre qualquer tema, atividade, obra, etc., tiver que ser criada e desenvolvida."[footnoteRef:23] [23:  Machado, 1996] 
+
+
+
+
+A Política Nacional do Meio Ambiente (Lei n.º 6.938/81), em seu art. 4º, inciso I, estabelece como um de seus objetivos "a compatibilização do desenvolvimento econômico-social com a preservação da qualidade do meio ambiente e do equilíbrio ecológico". Para isso, é necessária a observância do princípio da ubiqüidade.
+
+
+
+A apropriação dos bens ambientais - com o objetivo de promover crescimento econômico e social - e a adoção de política de preservação ambiental constituem-se em dois objetivos compatíveis e interdependentes. Durante a Conferência Internacional sobre Meio Ambiente e Economia, realizada em 1984, em Paris, concluiu-se haver a necessidade de que a questão ambiental fosse colocada no centro do processo de decisão da política econômica -  consequentemente, permeando toda a elaboração das políticas setoriais - não só para permitir uma utilização mais racional dos recursos, mas também para evitar a suscetibilidade da sociedade diante de danos ambientais futuros.
+
+
+
+A atuação do Governo, em vários setores, interfere na qualidade ambiental. Tratar separadamente a questão promove incompatibilidades e dificulta alcançar o objetivo do desenvolvimento sustentável. 
+
+
+
+A consideração da variável ambiental no planejamento é mais efetiva quando inserida no processo desde níveis mais globais, ou seja, desde a formulação de políticas até a implementação de projetos e atividades. Em termos territoriais, o processo de tomada de decisão deve evoluir da esfera nacional para a regional e local. O Quadro apresentado a seguir fornece exemplo da abordagem mencionada.
+
+
+
+ 
+
+NÍVEIS DE INSERÇÃO DA AIA NO PROCESSO DE PLANEJAMENTO
+
+ 
+
+ 
+
+NÍVEIS DE ANÁLISE
+
+Nível de política
+
+
+
+Nível de programa
+
+                            
+
+ Estudo de impactos 
+
+ Específicos
+
+ 
+
+ 
+
+ 
+
+EXEMPLO                           
+
+Plano Energético nacional
+
+
+
+Programa de produção de
+
+petróleo off-shore       
+
+                            
+
+AIA para AIA para
+
+produção outras
+
+no litoral localizações
+
+fluminense
+
+ 
+
+
+Fonte: IPEA, 1996
+
+
+A inserção da preocupação com a proteção ambiental apenas nos níveis de atuação que causam diretamente impactos, por sua vez, traz problemas importantes.
+
+
+
+O inconveniente de um estudo sobre um projeto é que freqüentemente não se pode constatar senão uma situação encontrada, sem ser possível proporem-se verdadeiras alternativas. Poder-se-ia discutir o traçado de uma auto-estrada, com a mudança em alguns quilômetros, mas os inconvenientes ecológicos subsistiram, quando teria sido possível em um estudo mais global a nível do planejamento dos transportes, medir mais adequadamente as influências sobre o ambiente de uma rede de auto-estradas em relação ao desenvolvimento das estradas de ferro ou do aperfeiçoamento da rede rodoviária existente. O mesmo exemplo pode ser dado a propósito da construção de uma central nuclear, cujo impacto local sobre o ambiente não é problema principal, mas o impacto global do nuclear frente a outras fontes de energia. (...) Parece, pois, necessário preconizar, de modo indissolúvel, o estudo de impacto a nível dos projetos, como a nível dos planejamentos. (Claude Lambrechts e Michel Prieur)[footnoteRef:24]. [24:  In Machado, 1996.] 
+
+
+
+
+Existem alguns métodos que têm a finalidade de inserir a variável ambiental no processo de tomada de decisão. Esses métodos não fornecem soluções exatas, mas contribuem significativamente, por disponibilizarem informações obtidas sob diferentes enfoques. A análise pelo auditor da adequada utilização dos métodos disponíveis deve basear-se na literatura especializada, que os descreve mais detalhadamente.
+
+
+
+Utilizam-se esses métodos com o objetivo de estabelecer comparação entre vantagens e desvantagens da ação que se quer implementar. Eles variam conforme a regra de decisão ou a técnica adotada. 
+
+
+
+Qualquer uma destas regras de decisão consiste em: [footnoteRef:25] [25:  Bursztyn, 1994] 
+
+
+
+· definir os ganhos e as perdas em função do objetivo ou dos grupos de objetivos procurados;
+
+
+· recensear os ganhos e as perdas;
+
+
+· medir os ganhos e as perdas em unidades idênticas ou diferentes e,
+
+
+· utilizar coeficientes de importância explícitos ou então exprimi-los ex-post, tomando-se decisões em função das fases anteriores (OCDE, 1989).
+
+
+
+A seguir, são relacionadas sinteticamente algumas características de técnicas de ajuda à tomada de decisão, de acordo com OCDE, 1989, in Bursztyn, 1994:
+
+
+
+a)	Análise Custo-Benefício:
+
+
+
+
+Característica: avalia as medidas a partir de uma estimativa quantificada de suas vantagens líquidas (custos-benefícios).
+
+
+
+Vantagens: considera o valor (ou seja, o quanto os indivíduos se propõem a pagar) e o custo das ações; exprime os resultados em termos mensuráveis; coerente em relação à avaliação da eficácia.
+
+
+
+Desvantagens: não leva em conta diretamente a repartição dos benefícios e dos custos; exige um grande número de informações; tende a negligenciar as conseqüências cujos efeitos não podem ser quantificados; tende a levar à manutenção do status quo.
+
+
+
+b)	Análise Custo-Eficácia:
+
+
+
+
+Característica: seleciona a medida que reduz ao mínimo os custos necessários para se atingir o objetivo ou os objetivos correspondentes.
+
+
+
+Vantagens: não é necessário conhecer os benefícios; baseia-se em dados geralmente fáceis de serem obtidos; o custo marginal do crescimento de uma unidade).
+
+
+
+Desvantagens: negligencia a respectiva importância dos resultados; grau de consideração de todos os custos para determinar a melhor estratégia; problemas na consideração dos custos sociais resultantes dos efeitos colaterais.
+
+
+
+c)	Análise Multicritério:
+
+
+
+
+Característica: utiliza técnicas de programação matemática para selecionar os projetos, segundo as funções-objetivos, inclusive os objetivos ponderados ao tomador de decisão, tendo em conta explicitamente as limitações que afetam as ações e os custos.
+
+
+
+Vantagens: serve de base coerente à tomada de qualquer decisão sobre projetos ou regulamentação; reflete perfeitamente os objetivos e as limitações; permite estabelecer uma lista das prioridades dos projetos.
+
+
+
+Desvantagens: o valor dos resultados é tributário dos elementos introduzidos no modelo; caracterização irrealista do processo de decisão; deve fornecer os coeficientes de ponderação a serem atribuídos aos objetivos; necessita de um grande número de informações para a estimativa quantificada.
+
+
+d)	Análise Riscos-Benefícios:
+
+
+
+
+Característica: avalia os benefícios de uma medida em relação aos seus riscos.
+
+
+
+Vantagens: estrutura voluntariamente pouco definida, visando permitir  uma flexibilidade; concebida para permitir a consideração de todos os riscos, benefícios e custos; não é uma regra de decisão automática.
+
+
+
+Desvantagens: muito vaga: fatores considerados como mensuráveis não o são.
+
+
+
+e) Análise Decisional:
+
+
+
+
+Característica: analisa por etapas as conseqüências de escolhas efetuadas na incerteza.
+
+
+
+Vantagens: permite utilizar diferentes objetivos; torna as escolhas explícitas; reconhece explicitamente a incerteza.
+
+
+
+Desvantagens: os objetivos nem sempre são claros; o mecanismo de escolha das ponderações não é bem definido.
+
+
+
+f)	Avaliação de Impacto Ambiental:
+
+
+
+
+Característica: descrição detalhada dos impactos negativos e positivos de uma medida, ou de diversas ações possíveis; exige uma comparação de benefícios e custos econômicos e ambientais.
+
+
+
+Vantagens: exige explicitamente a consideração dos efeitos sobre o meio ambiente; a possibilidade de monetizar não impede a enumeração de todos os benefícios e custos de uma ação.
+
+
+
+Desvantagens: dificuldade de integrar as análises descritivas dos efeitos intangíveis aos custos e benefícios monetizados; ausência de critérios claros para a utilização das informações no processo decisório.
+
+
+
+9	RESPONSABILIDADE DOS PAÍSES
+
+
+
+Paulo Afonso Leme Machado (1996) cita três princípios relativos às responsabilidades dos países no que diz respeito à proteção ambiental:
+
+
+
+Enunciados: 
+
+
+
+
+"Os países têm responsabilidade por ações ou omissões cometidas em seu território, ou sob seu controle, concernente aos danos potenciais ou efetivos ao meio ambiente de outros países ou de zonas que estejam fora dos limites da jurisdição nacional."
+
+
+
+
+"Os países têm responsabilidades ambientais comuns, mas diferenciadas, segundo seu desenvolvimento e sua capacidade."
+
+
+
+
+
+"Os países devem elaborar uma legislação nacional correspondente à responsabilidade ambiental em todos os seus aspectos."
+
+
+
+
+Os efeitos tanto da depleção quanto da degradação ambientais são sentidos muito além das fronteiras de cada país. Daí a importância de serem observados os princípios mencionados.
+
+
+
+Aos países é dado explorar seus recursos naturais, respeitando, porém, o direito de outros países usufruírem de um meio ambiente saudável. Assim, a preservação ambiental é uma responsabilidade de todos. Contudo, participação de cada país nessa tarefa deve ser diferenciada, de acordo com sua capacidade. Isso, porque os benefícios advindos da preservação ambiental são sentidos por todos, e não é justo que alguns arquem com sacrifícios excessivos. 
+
+
+
+Pode-se levar a efeito esse raciocínio por meio da formulação e do cumprimento de acordos internacionais, que firmam compromissos mútuos. Mesmo na ausência desses, as ações implementadas pelo Governo devem ter em conta o direito dos demais países.
+
+
+
+ANEXO III - NORMAS AMBIENTAIS DE ADESÃO VOLUNTÁRIA 
+
+
+
+NORMAS
+
+TÍTULO
+
+14000
+
+Sistemas de Gestão Ambiental - Mapa Guia
+
+14001
+
+SGA - Especificações para implantação e guia
+
+14004
+
+Sistemas de Gestão Ambiental (SGA) - Diretrizes gerais
+
+14010
+
+Guia para auditoria ambiental - Diretrizes gerais
+
+14011-1
+
+Diretrizes para a auditoria ambiental e procedimentos para auditoria 
+
+Parte 1: Princípios gerais para auditoria dos SGAs
+
+14011-2
+
+Diretrizes para a auditoria ambiental e procedimentos para auditoria
+
+Parte 2: Princípios gerais para auditoria legal
+
+14012
+
+Diretrizes para auditoria ambiental - Critérios de qualificação de auditores
+
+14014
+
+Diretrizes para auditoria ambiental - Guia para avaliações iniciais
+
+14015
+
+Diretrizes para auditoria ambiental - Guia para avaliação de sítios
+
+14020
+
+Rotulagem Ambiental - Princípios Básicos
+
+14021
+
+Rotulagem Ambiental - Termos e definições para aplicação específica e auto-declarações
+
+14022
+
+Rotulagem Ambiental - simbologia para os rótulos
+
+14023
+
+Rotulagem Ambiental - Testes e metodologias de verificação
+
+14024
+
+Rotulagem Ambiental - Guia para certificação com base em análise multicriterial
+
+14031
+
+Avaliação do desempenho ambiental
+
+14040
+
+Análise do ciclo de vida - Princípios gerais e prática
+
+14041
+
+Análise do ciclo de vida - Inventário
+
+14042
+
+Análise do ciclo de vida - Análise dos impactos
+
+14043
+
+Análise do ciclo de vida - Interpretação
+
+14050
+
+Termos e definições - Vocabulário
+
+Iso Guide 64
+
+Guia de inclusão dos aspectos ambientais nas normas de produto
+
+
+Fonte: Gazeta Mercantil, 17/04/96
+
+
+GLOSSÁRIO
+
+
+
+
+Ação Compensadora: ação que visa a reparar o dano ambiental por meio da substituição do bem danificado por outro de igual valor (incluindo indenizações financeiras).
+
+
+
+
+Ação Mitigadora: ação que visa a suavizar, abrandar ou atenuar dano causado ao meio ambiente.
+
+
+
+
+Aqüífero: "Estrato subterrâneo de terra, cascalho ou rocha porosa que contém água" (The World Bank, 1978, in Feema, 1990).
+
+
+
+
+Avaliação de Impacto Ambiental - AIA: "Instrumento de política ambiental, formado por um conjunto de procedimentos capaz de assegurar, desde o início do processo, que se faça um exame sistemático dos impactos ambientais de uma ação proposta (projeto, programa, plano ou política) e de suas alternativas, e que os resultados sejam apresentados de forma adequada ao público e aos responsáveis pela tomada de decisão e por eles considerados. Além disso, os procedimentos devem garantir a adoção das medidas de proteção do meio ambiente determinadas, no caso de decisão sobre a implantação do projeto" (Feema, 1990).
+
+
+
+
+Bacia Hidrográfica: "Área total drenada por um rio e seus afluentes" (The World Bank, 1978, in Feema, 1990).
+
+
+
+
+Biodiversidade: "a variedade de formas de vida, os papéis ecológicos que elas desempenham e a diversidade genética que contêm" (Wilcox, 1984, in Wilson, 1997)
+
+
+
+
+Biosfera: "...inclui todos os organismos vivos da Terra que interagem com o meio ambiente físico como um todo, para manter um sistema de estado contínuo, intermediário no fluxo de energia entre a entrada de energia de origem solar e o dissipador térmico do espaço" (Odum, 1983).
+
+
+
+
+Biota: conjunto dos elementos bióticos (vivos) de um ecossistema. 
+
+
+
+
+Chuva Ácida: é a chuva formada a partir da reação do vapor d’água atmosférico e dos óxidos de enxofre (SOX) e de nitrogênio (NOX), provenientes da queima de matéria orgânica para a obtenção de energia. 
+
+
+
+
+Critério de Auditoria: "... padrões utilizados para determinar se uma dada condição satisfaz ou supera o esperado" (GAO, 1994).
+
+
+
+
+Custos Externos: v. externalidade.
+
+
+
+
+Custo Marginal: "variação do custo total, dada uma variação na quantidade produzida" (Montoro Filho, 1998).
+
+
+
+
+Degradação: segundo a Lei nº 6.938/81, "é a alteração adversa das características do meio ambiente". Muitas vezes, porém, o termo é utilizado quando as alterações ambientais referem-se apenas aos recursos renováveis, em contraste com o termo depleção, que é a diminuição dos recursos não renováveis.
+
+
+
+
+Depleção: é a diminuição dos recursos ambientais não renováveis.
+
+
+
+
+Desenvolvimento Sustentável: "desenvolvimento que satisfaz as necessidades da geração atual sem comprometer a capacidade de as gerações futuras satisfazerem suas próprias necessidades" (ONU, 1987).
+
+
+
+Economicidade: minimização dos custos dos recursos utilizados na consecução de uma atividade, sem comprometimento dos padrões de qualidade.
+
+
+
+
+Ecossistema: "chamamos de sistema ecológico ou ecossistema qualquer unidade (biossistema) que abranja todos os organismos que funcionam em conjunto (a comunidade biótica) numa dada área, interagindo com o ambiente físico de tal forma que um fluxo de energia produza estruturas bióticas claramente definidas e uma ciclagem de materiais entre as partes vivas e não-vivas" (grifo do original, Odum, 1983).
+
+
+
+
+Efetividade: relação entre os resultados (impactos observados) e os objetivos (impactos esperados).
+
+
+
+
+Eficácia: grau de alcance das metas programadas em um determinado período de tempo, independentemente dos custos implicados; pode ser representada pela seguinte relação:
+
+
+
+ 
+
+ onde: 
+
+ 
+
+Conclusões:[25]
+
+ se Ec > 1, eficácia superior à prevista;se Ec = 1, eficácia prevista;se Ec < 1, eficácia inferior à prevista.
+
+ 
+
+
+
+
+Eficiência: relação entre os produtos (bens e serviços) gerados por uma atividade e os custos dos insumos empregados em um determinado período de tempo. O resultado expressa o custo de uma unidade de produto final em um dado período de tempo. Analogamente ao conceito de eficácia, pode-se estabelecer o grau de eficiência relativa de um programa, projeto ou atividade comparando-o com as metas e custos programados ou com dados de outras iniciativas que perseguem os mesmos objetivos. Nesse caso, somente serão comparáveis iniciativas que, além dos objetivos, possuam as mesmas características de programação. Pode ser representada pela seguinte relação:
+
+
+
+ 
+
+ onde: 
+
+ 
+
+Conclusões:
+
+ se Ef > 1, eficiência superior à prevista;se Ef = 1, eficiência igual à prevista;se Ef < 1, eficiência inferior à prevista.
+
+ 
+
+
+
+Equilíbrio Dinâmico do ecossistema: é o estado de estabilidade que a comunidade atinge por meio do processo de mudanças por que passa o meio ambiente. Atingido esse estado, as atividades biológicas não mais provocam alterações no meio.
+
+
+
+
+Estrutura Biótica: estrutura viva.
+
+
+
+
+Estudo de Impacto Ambiental - EIA: "Um dos elementos do processo de avaliação de impacto ambiental. Trata-se da execução por equipe multidisciplinar das tarefas técnicas e científicas destinadas a analisar, sistematicamente, as conseqüências da implantação de um projeto no meio ambiente, por meio de métodos de AIA e técnicas de previsão dos impactos ambientais" (Feema, 1990).
+
+
+
+
+Externalidade: "quando a produção ou o consumo de um bem acarreta efeitos sobre outros indivíduos, e esses custos não se refletem nos preços" (Montoro Filho, 1998).
+
+
+
+
+Impacto Ambiental: qualquer alteração do sistema ambiental físico, químico, biológico e cultural resultante da ação humana. Conforme Feema, 1990, pode ser classificado da seguinte forma:
+
+
+
+
+Impacto positivo ou benéfico
+
+
+
+Quando uma ação resulta na melhoria da qualidade de um fator ou parâmetro ambiental.
+
+
+
+Impacto negativo ou adverso
+
+
+
+Quando a ação resulta em danos à qualidade de um fator ou parâmetro ambiental.
+
+
+
+Impacto direto
+
+
+
+Quando resulta de uma simples relação de causa e efeito: também chamado impacto primário ou de primeira ordem.
+
+
+
+Impacto indireto
+
+
+
+Quando é uma reação secundária em relação à ação ou quando é parte de uma cadeia de reações: também chamado impacto secundário ou de enésima ordem (segunda, terceira, etc.), de acordo com sua situação na cadeia de reações.
+
+
+
+Impacto local
+
+
+
+Quando a ação afeta apenas o próprio sítio e suas imediações.
+
+
+
+Impacto regional
+
+
+
+Quando um efeito se propaga por um área além das imediações do sítio onde se dá a ação.
+
+
+
+Impacto estratégico
+
+
+
+Quando é afetado um componente ou recurso ambiental de importância coletiva ou nacional.
+
+
+
+Impacto imediato
+
+
+
+Quando o efeito surge no instante em que se dá a ação. 
+
+
+
+Impacto a médio ou longo prazo
+
+
+
+Quando o efeito se manifesta depois de decorrido certo tempo após a ação.
+
+
+
+Impacto temporário
+
+
+
+Quando o efeito permanece por um tempo determinado.
+
+
+
+Impacto permanente
+
+
+
+Quando, uma vez executada a ação, os efeitos não cessam de se manifestar, num horizonte temporal conhecido.
+
+
+
+
+Licenciamento Ambiental: é o processo por meio do qual o órgão competente analisa e concede, quando pertinente, autorização para que se seja implementada a "... construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadoras de recursos ambientais, considerados efetivos ou potencialmente poluidores, bem como os capazes, sob qualquer forma, de causar degradação ambiental..."
+
+
+
+Padrões Ambientais: podem ser agrupados em padrões de qualidade ambiental e padrões de emissão de poluentes: estes indicam valores máximos permitidos para o lançamento de poluentes, aqueles apontam condições de normalidade da água, do ar e do solo.
+
+
+
+
+PNB - Produto Nacional Bruto: "renda que pertence efetivamente aos nacionais. É o PIB mais a renda líquida do exterior (dada pela diferença entre a renda recebida e a renda enviada, na forma de juros, lucros, royalties e assistência técnica)" (Montoro Filho, 1998).
+
+
+
+
+Poluidor: "... a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental" (Lei nº 6.938/81).
+
+
+
+
+Recursos Ambientais: "recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora" (Lei nº 6.938/81).
+
+
+
+
+Recursos Naturais: "O patrimônio nacional nas suas várias partes, tanto os recursos não renováveis, como jazidas minerais, e os renováveis, como florestas e meio de produção" (Carvalho, 1981, in Feema, 1990).
+
+
+
+
+Tutela Imediata: tutela direta.
+
+
+
+
+Tutela Mediata: tutela indireta.
+
+
+
+
+Unidades de conservação: Sítios Ecológicos de Relevância Cultural criadas por atos do poder público: Estações Ecológicas; Reservas Ecológicas; Áreas de Proteção Ambiental, especialmente suas zonas de vida silvestre e os Corredores Ecológicos; Parques Nacionais, Estaduais e Municipais; Reservas Biológicas; Florestas Nacionais, Estaduais e Municipais; Monumentos Naturais; Jardins Botânicos; Jardins Zoológicos e Hortos Florestais (Res. Conama nº 11/87).
+
+
+
+
+Vetor: "Portador, usualmente artrópode, que é capaz de transmitir um agente patogênico de um organismo para o outro" (The World Bank, 1978, in Feema, 1990).
+
+
+
+
+Zoneamento Ambiental: "... destinação, factual ou jurídica, da terra a diversas modalidades de uso humano. Como instituto jurídico, o conceito se restringe à destinação administrativa fixada ou reconhecida" (Moreira Neto, 1976, in Feema, 1990).
+
+
+
+
+
+
+REFERÊNCIA BIBLIOGRÁFICA
+
+
+
+Antures, Paulo de Bessa. Curso de Direito Ambiental (Doutrina, Legislação e     Jurisprudência). Renovar. 
+
+
+
+Araújo, Marcos Valério de. Auditoria Ambiental - Emergente Forma de Controle do Patrimônio Público. 1996.
+
+
+
+Barata, Martha Macedo de Lima. Auditoria ambiental no Brasil - uma nova ferramenta de gestão empresarial - Tese de Pós-Graduação em Engenharia pela Universidade Federal do Rio de Janeiro. Rio de Janeiro, 1995. 
+
+
+
+Brasil. Constituição da República Federativa do Brasil. Brasília, Centro Gráfico do Senado Federal, 1988.
+
+
+
+Brasil, Presidente (F.H. Cardoso). Protocolo Verde, 1995.
+
+
+
+Brasil. Política Nacional do Meio Ambiente. (aprovada pela Lei nº6.938 de 1981)
+
+
+
+Brasil. Tribunal de Contas da União. Instrução Normativa nº00009, 1995.
+
+
+
+Brasil. Tribunal de Contas da União. Lei Orgânica do Tribunal de Contas da União (Lei nº8443 de 1992).
+
+
+
+Brasil. Tribunal de Contas da União. Manual de Auditoria de Natureza operacional. TCU,1997.
+
+
+
+Brasil. Tribunal de Contas da União. Manual de Auditoria do Tribunal de Contas da União. (aprovado pela Portaria nº63 de 1996).
+
+
+
+Brasil. Tribunal de Contas da União. Regimento Interno do Tribunal de Contas da União. (aprovado pela Resolução Administrativa nº15 de 1993).
+
+
+
+Bursztyn, Maria Augusta Almeida. Gestão ambiental - instrumentos e práticas. Brasília, IBAMA, 1994.
+
+
+
+Corrêa, Elizeu de Moraes. Auditoria ambiental - guia básico no âmbito dos tribunais de contas. Curitiba, Tribunal de Contas do Estado do Paraná, 1997.
+
+
+
+Fundação Estadual de Engenharia do Meio Ambiente. Vocabulário básico de meio ambiente. Rio de Janeiro, Serviço de Comunicação Social da Petrobrás, 1990
+
+
+
+Fiorillo, Celso Antonio Pacheco; Rodrigues, Marcelo Abelha. Manual de Direito Ambiental e legislação aplicável. São Paulo, Max Limonad, 1997.
+
+
+
+Freitas, Vladimir Passos de. Crimes contra a Natureza. São Paulo, Editora Revista dos Tribunais, 3ª edição, 1992.
+
+
+
+GAO (1994). Case study evaluations. Washigton.
+
+
+
+Grupo de Trabalho/Meio Ambiente/TCU. PDFA - relatório de acompanhamento. Brasília, 1996.
+
+
+Instituto de Pesquisa Econômica Aplicada. Meio ambiente - aspectos técnicos e econômicos. Brasília, IPEA, 1996.
+
+
+
+Lakatos, Eva Maria & Marconi, Marina de Andrade. Metodologia do Trabalho Científico. São Paulo, Editora Atlas S. A., 4ª edição, 1995. 214p.
+
+
+
+Machado, Paulo Affonso Leme. Direito ambiental brasileiro. São Paulo, Malheiros Editores Ltda., 6ª edição, 1996.
+
+
+
+Meirelles, Hely Lopes. Direito Administrativo Brasileiro. São Paulo, Malheiros Editores, 20ª edição, 1990.
+
+
+
+Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis. Avaliação de Impacto Ambiental: agentes sociais, procedimentos e ferramentas. Brasília, IBAMA, 1995.
+
+
+
+Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis. Diretrizes de Pesquisa Aplicada ao Planejamento e Gestão Ambiental. Brasília, IBAMA, 1994.
+
+
+
+Montoro Filho, André Franco et al. Manual de economia. São Paulo, Editora Saraiva, 1998.
+
+
+
+Odum, Eugene P. et al. Ecologia. Rio de Janeiro, Editora Guanabara, 1998.
+
+
+
+Oliveira, Helli Alves de. Da responsabilidade do Estado por danos ambientais. Rio de Janeiro, Ed. Forense, 1990.
+
+
+
+Panayotou, Theodore. 
+Mercados verdes: a economia do desenvolvimento alternativo. Ed. Nórdica Ltda, 1994.
+
+
+
+Pinheiro, Antonio Carlos F.B. & Monteiro, Ana Lúcia F.B. Pinheiro André. Ciência do Ambiente: Ecologia, Poluição e Impacto Ambiental. São Paulo, MAKRON Books do Brasil Edtora Ltda. / Editora McGraw-Hill Ltda, 1992.
+
+
+
+Ministério do Meio Ambiente, Conselho Nacional do Meio Ambiente, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis. Resoluções CONAMA - 1984 a 1991. Brasília, IBAMA, 1992.
+
+
+
+Senado Federal. Meio Ambiente (legislação). Brasília, Subsecretaria de Edições Técnicas, 1996.
+
+
+
+Silva, José Afonso da. Curso de Direito Constitucional Positivo. São Paulo, Malheiros Editores, 9ª ed.,1993.
+
+
+
+Tilbor, Tom; Feldman, Ira. ISO 14000 - Um guia para as novas normas de gestão ambiental. São Paulo, Futura, 1996.
+
+
+
+Tribunal de Contas da União. Relatório das Atividades do TCU - Exercício de 1996. Brasília, 1997.
+
+
+
+Universidade Livre do Meio Ambiente. Curso sobre auditorias ambientais. Curitiba, 1996. mimeo.
+
+
+
+Wilson, E. O. Biodiversidade. Rio de Janeiro, Nova Fronteira, 1997.
+
+
+
+
+
+
+
+
+
+

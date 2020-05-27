@@ -1,0 +1,448 @@
+Portaria
+117/2016
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o inciso XXXIV do art. 28 do Regimento Interno do TCU;
+
+
+Considerando a necessidade de planejar as compras de bens de consumo e de obter orçamentos estimativos precisos e confiáveis;
+
+
+Considerando a necessidade de racionalizar o recebimento, o armazenamento, a requisição e a distribuição de bens em almoxarifado; e
+
+
+Considerando o que dispõem a Portaria-TCU nº 206, de 18 de setembro de 2003, que regulamenta a concessão, aplicação e comprovação de suprimento de fundos, e a Portaria-TCU nº 307, de 11 de novembro de 2014, que trata da gestão de bens móveis, resolve:
+
+
+Art. 1º As competências, o planejamento das compras, as regras para a obtenção de estimativa de preços, o recebimento, o armazenamento, a requisição e a distribuição de materiais de consumo no âmbito do Tribunal obedecerão ao disposto nesta Portaria.
+
+
+Art. 2º Para os efeitos deste normativo, consideram-se:
+
+
+I – catálogo de materiais de consumo: rol dos bens de consumo disponíveis para requisição pelas unidades;
+
+
+II – compra de grande vulto: aquisição de materiais de consumo cujo valor supera o limite previsto na alínea "a" do inciso II do art. 23 da Lei nº 8.666, de 21 de junho de 1993;
+
+
+III – compra extraordinária: aquisição de bens de consumo realizada para atender à demanda não prevista no plano de reposição de material de consumo;
+
+
+IV – consumo médio mensal: média aritmética mensal do consumo de determinado material calculada considerando-se os 6 (seis) meses anteriores à requisição;
+
+
+V – estoque de almoxarifado: conjunto de materiais de consumo armazenados fisicamente em local adequado;
+
+
+VI – estoque de segurança: quantidade limitada de determinado material de consumo imprescindível ao funcionamento das unidades do Tribunal, mantida em estoque para atender a eventuais atrasos nas compras e a requisições que extrapolem, em pequenas quantidades, as demandas previstas;
+
+
+VII – estoque em excesso: quantidade de material de consumo que supera o limite máximo do intervalo de estoque ideal e que não se destina à constituição de estoque de segurança;
+
+
+VIII – estoque ideal: nível adequado de material de consumo em estoque para atender à demanda prevista até o recebimento dos bens da próxima compra; 
+
+
+IX – grupo de material: conjunto de materiais de consumo adquiridos com fornecedores de um mesmo ramo de negócio;
+
+
+X – material de consumo: bem de consumo que, em razão do uso corrente e da definição contida na Lei nº 4.320, de 15 de maio de 1964, e legislações complementares, perde normalmente a sua identidade física e/ou tem a sua utilização limitada a 2 (dois) anos;
+
+
+XI – material de consumo de demanda específica: bem de consumo necessário ao cumprimento das atividades rotineiras de determinada unidade, devendo também ser mantido no almoxarifado até a sua requisição;
+
+
+XII – material de consumo de fornecimento controlado: bem de consumo sujeito a fornecimento limitado em razão de elevado valor de compra ou de quantidade adquirida restrita;
+
+
+XIII – material de consumo inservível: bem de consumo que não atende às necessidades do Tribunal por apresentar obsolescência, avaria, perda de validade etc.;
+
+
+XIV – material de consumo não padronizado: bem de consumo cuja demanda é inconstante, imprevisível ou eventual e que, em razão desses aspectos, não deve ser incluído no catálogo de materiais de consumo e tampouco ser mantido no almoxarifado;
+
+
+XV – material de consumo padronizado: bem de consumo necessário à realização das atividades rotineiras de todas as unidades do Tribunal e que deverá ser incluído no catálogo de materiais de consumo e ser mantido no almoxarifado em nível ideal de estoque;
+
+
+XVI – plano de reposição de material de consumo: documento que contempla projeções de consumo futuro e de estoque disponível de bens de consumo;
+
+
+XVII – quantidade a ser reposta: número de unidades de determinado material de consumo que deve ser adquirido a fim de recompor o estoque ideal;
+
+
+XVIII – recebimento: ato de entrega física de material de consumo pelo fornecedor ao almoxarifado, mediante a conferência, por parte deste, da documentação fiscal comprobatória;
+
+
+XIX – requisição de material de consumo:  solicitação de fornecimento de bens de consumo realizada por meio de sistema informatizado de gestão de almoxarifado;
+
+
+XX – sistema informatizado de gestão de almoxarifado: software que contempla as atividades inerentes à gestão de materiais de consumo;
+
+
+XXI – unidade central de almoxarifado: subunidade do TCU, integrante da Secretaria-Geral de Administração (Segedam), localizada em Brasília, responsável pelo controle de estoque e armazenamento de materiais de consumo em almoxarifado e pelos demais assuntos correlatos;
+
+
+XXII – unidade de almoxarifado: subunidade do TCU, localizada em Brasília ou nos estados, responsável pelo controle de estoque e armazenamento de materiais de consumo em almoxarifado e pelos demais assuntos correlatos;
+
+
+XXIII – unidade requisitante: unidade do Tribunal autorizada a demandar materiais de consumo, mediante cadastramento prévio em sistema informatizado de gestão de almoxarifado; e
+
+
+XXIV – unidade técnica especializada: subunidade da Sede do TCU que se responsabiliza tecnicamente pelas demandas de bens no Tribunal, por exemplo, nas áreas de engenharia, serviços de apoio, segurança institucional e tecnologia da informação (TI).
+
+
+Parágrafo único. Os termos "material de consumo", "bem de consumo" e "item de consumo" são considerados expressões sinônimas, constituindo-se em designações genéricas de componentes sobressalentes, acessórios, utensílios, matérias-primas, suprimentos e outros itens de consumo utilizados ou passíveis de utilização nas atividades do TCU.
+
+
+CAPÍTULO I
+COMPETÊNCIAS
+
+
+Art. 3º Compete à unidade central de almoxarifado manter catálogo de material de consumo atualizado de acordo com os seguintes parâmetros:
+
+
+I – segurança das pessoas, dos materiais e das instalações;
+
+
+II – racionalização da variedade de materiais de estoque;
+
+
+III – predileção por materiais com ciclos de vida menos agressivos ao meio ambiente;
+
+
+IV – preferência por materiais que ofereçam melhor relação custo/benefício;
+
+
+V – preterição de materiais frágeis ou que exijam condições especiais de armazenamento ou guarda; e
+
+
+VI – adequação dos estoques ideais e dos estoques de segurança aos históricos de consumo e às alterações de rotina ocorridas durante o ano ou previstas para o ano seguinte.
+
+
+Art. 4º Compete à unidade de almoxarifado definir o estoque ideal e o estoque de segurança de cada item de consumo armazenado.
+
+
+Parágrafo único. Para os materiais que não possuam histórico de consumo, a unidade de almoxarifado contará com apoio da unidade técnica especializada para definição do estoque ideal e do estoque de segurança.
+
+
+Art. 5º Compete à unidade de almoxarifado promover ajustes, quando necessários, nas requisições de fornecimento de bens enviadas pelas unidades administrativas, em função do consumo médio apurado em série histórica anterior que tenha servido de suporte para a projeção do estoque vigente.
+
+
+Art. 6º Compete à unidade de almoxarifado controlar o material de consumo somente enquanto este estiver armazenado em seu estoque.
+
+
+Art. 7º Compete à Secretaria de Licitações, Contratos e Patrimônio (Selip) a intermediação e a consolidação das demandas das secretarias de controle externo localizadas nos estados para elaboração dos projetos básicos e termos de referência atinentes a aquisições de bens de consumo, quando ultrapassado, no âmbito da referida unidade de almoxarifado, o limite previsto no inciso I, do art. 24, da Lei nº 8.666/1993.
+
+
+CAPÍTULO II
+
+
+PLANEJAMENTO DAS COMPRAS
+
+
+Art. 8º A atividade de planejamento de compras, realizada pela unidade de almoxarifado a partir do acompanhamento dos níveis de estoque, tem por finalidade aperfeiçoar os processos de aquisição de materiais de consumo para atendimento das necessidades das unidades requisitantes, garantindo a continuidade dos seus processos de trabalho e evitando interrupções de fornecimento indesejadas. 
+
+
+Art. 9º Para fins do planejamento de compras no âmbito do Tribunal, serão observadas, entre outras, as seguintes ações:
+
+
+I – cálculo da quantidade de materiais de consumo necessários, considerando-se o período de cobertura das compras e o consumo previsto, com utilização, se possível, de métodos padronizados de previsão de demanda futura;
+
+
+II – realização de compras de materiais de consumo para as unidades localizadas na Sede do Tribunal, com periodicidade semestral, mediante procedimento licitatório, com adjudicação por grupo de material; 
+
+
+III – execução, quando possível, de pesquisas no mercado a respeito do lançamento de novos produtos que venham a apresentar maiores vantagens comparativas em relação aos materiais atualmente catalogados;
+
+
+IV – verificação, prévia à compra, da inexistência, no almoxarifado, do bem solicitado, similar ou sucedâneo, que possa atender às necessidades da unidade requisitante, no caso de demanda por bem não padronizado;
+
+
+V – realização de compras de grande vulto que envolvam a aquisição de materiais específicos somente após a apreciação prévia da unidade técnica especializada correspondente; e
+
+
+VI – vedação da realização de compra volumosa de materiais de consumo que estejam sujeitos, num curto espaço de tempo, à perda de suas características normais de uso, bem como daqueles propensos ao obsoletismo.
+
+
+Art. 10. A partir do planejamento de compras objetiva-se, entre outros, o alcance dos seguintes resultados:
+
+
+I – racionalização e padronização de processos de compras e de especificações de bens;
+
+
+II – redução do tempo de análise e tramitação de processos;
+
+
+III – diminuição de despesas de custeio;
+
+
+IV – identificação das oportunidades de melhoria nos processos de compra e contratação;
+
+
+V – diminuição do número de processos de compras; e
+
+
+VI – redução dos índices de desabastecimento.
+
+
+
+
+
+CAPÍTULO III
+
+
+DA ESTIMATIVA DE PREÇOS
+
+
+Art. 11. A estimativa de preços para aquisição de materiais de consumo deve ser elaborada com base na média aritmética simples de, no mínimo, 3 (três) referências de preços, obtidas por meio de pesquisas realizadas preferencialmente em contratos firmados por órgãos ou entidades da Administração Pública.
+
+
+§ 1º As pesquisas de preços previstas no caput podem ser comprovadas, entre outras formas, por meio de resultados de recentes processos licitatórios, de aquisições e contratações, de preços registrados em atas de registro de preços vigentes ou de preços praticados em contratos em execução.
+
+
+§ 2º No cálculo da média aritmética simples a que se refere o caput deste artigo serão excluídos os valores extremos e desarrazoados que alterem significativamente a tendência central do resultado da amostra.
+
+
+Art. 12. Na impossibilidade da obtenção do orçamento nos moldes previstos no caput do Art. 11 desta Portaria, as pesquisas de preços no mercado podem ser realizadas via internet, e-mail, correspondência postal, por telefone, em publicações especializadas ou pessoalmente com os fornecedores por representante da Administração do TCU, observadas as seguintes orientações: 
+
+
+a)	em lojas da internet: juntar aos autos cópia da página consultada em que conste o preço, a descrição do bem e a data da pesquisa;
+
+
+b)	via telefone: após registro, juntar aos autos o número da linha telefônica, a data, o horário e o nome da empresa e das pessoas que forneceram o orçamento;
+
+
+c)	por e-mail ou correspondência postal: juntar aos autos cópias dos e-mails referentes à consulta e à resposta do fornecedor;
+
+
+d)	em publicações especializadas: juntar aos autos cópias da capa da publicação e da página pesquisada ou, alternativamente, indicar os números da publicação e da página consultada; e
+
+
+e)	pessoalmente com os fornecedores: juntar aos autos documento em nome da empresa, contendo a data, o nome e a assinatura do representante da firma ou do funcionário responsável pela emissão da proposta de preço.
+
+
+Art. 13. Para as pesquisas de preços realizadas via e-mail ou por correspondência postal, serão adotados os seguintes procedimentos:
+
+
+I - após 5 (cinco) dias úteis, contados da emissão do e-mail ou da correspondência postal, não havendo resposta, o responsável pela pesquisa de preços deve reiterar a consulta; e
+
+
+II - decorrido o prazo de 20 (vinte) dias úteis, contado da emissão do primeiro e-mail ou da primeira correspondência postal, os procedimentos relacionados à estimativa de preços poderão ser continuados com base nas propostas já obtidas, ainda que em número inferior a 3 (três), desde que comprovada a adoção dos procedimentos previstos neste artigo.
+
+
+Art. 14. Constatada a inviabilidade da obtenção de preços nas formas previstas nos Arts. 11 e 12 desta Portaria, podem ser adotadas, mediante justificativa adequada, outras soluções possíveis, a fim de não frustrar a compra ou a contratação pretendida.
+
+
+CAPÍTULO IV
+
+
+RECEBIMENTO E ARMAZENAMENTO DE MATERIAIS DE CONSUMO
+
+
+Art. 15. O recebimento de materiais de consumo decorrerá de compra, cessão, doação, permuta, transferência ou produção interna, mediante a apresentação dos seguintes documentos hábeis:
+
+
+a)	nota fiscal, fatura e nota fiscal/fatura;
+
+
+b)	termo de cessão/doação ou declaração exarada no processo relativo à permuta;
+
+
+c)	guia de remessa de material de consumo ou nota de transferência; e
+
+
+d)	guia de produção.
+
+
+Art. 16. O armazenamento de materiais de consumo compreende a guarda, localização, segurança e preservação do bem adquirido, a fim de suprir adequadamente as necessidades das unidades requisitantes. 
+
+
+Art. 17. São mantidos no almoxarifado os materiais de consumo padronizado e os materiais de consumo de demanda específica. 
+
+
+Art. 18. Qualquer que seja o local de recebimento do material de consumo entregue pelo fornecedor, o registro de entrada será sempre efetivado pela unidade de almoxarifado.
+
+
+Art. 19. Os materiais de consumo serão resguardados contra o furto e o roubo e protegidos contra a ação de ameaças climáticas e de animais daninhos.
+
+
+Art. 20. Os materiais de consumo serão organizados e estocados de modo a facilitar inspeções e inventários.
+
+
+Art. 21. Os materiais de consumo estocados há mais tempo serão fornecidos em primeiro lugar, utilizando o método PEPS ("primeiro a entrar; primeiro a sair"), com a finalidade de evitar o envelhecimento do estoque.
+
+
+Art. 22. Os materiais de consumo que possuem grande movimentação serão estocados em lugar de fácil acesso e próximos às áreas de expedição.
+
+
+Art. 23. A arrumação dos materiais de consumo não deve prejudicar o acesso a aparelhos de prevenção contra fogo ou a circulação do pessoal especializado no combate a incêndios.
+
+
+Art. 24. Os materiais de consumo pesados e/ou volumosos serão estocados nas partes inferiores das estantes e porta-estrados, eliminando o risco de acidentes e avarias e facilitando a movimentação.
+
+
+Art. 25. Os materiais de consumo serão conservados nas embalagens originais, as quais somente serão abertas quando houver necessidade de fornecimento parcelado ou por ocasião da efetiva utilização.
+
+
+Art. 26. A arrumação dos materiais de consumo deve ser realizada de modo a manter voltada para o lado de acesso ao local de armazenagem a face da embalagem, ou etiqueta, contendo a marcação do item de consumo e das demais informações registradas, a fim de permitir a fácil e rápida leitura de identificação.
+
+
+Art. 27. Quando o material de consumo tiver de ser empilhado, deve-se atentar para a segurança e altura das pilhas, de modo a não afetar sua qualidade em razão de pressão excessiva ou arejamento deficiente.
+
+
+Art. 28. Não serão estocados no almoxarifado materiais de consumo tóxicos, inflamáveis ou explosivos. 
+
+
+CAPÍTULO V
+
+
+REQUISIÇÃO E DISTRIBUIÇÃO DE MATERIAIS DE CONSUMO PADRONIZADOS 
+E NÃO PADRONIZADOS 
+
+
+Art. 29. Para fins de requisição de material de consumo padronizado, encontra-se disponível no sistema informatizado de gestão de almoxarifado o catálogo atualizado.
+
+
+Art. 30. A requisição de material de consumo padronizado deve ser realizada por meio do sistema informatizado de gestão de almoxarifado ou, em caso de sua indisponibilidade momentânea, via mensagem eletrônica endereçada à unidade de almoxarifado.
+
+
+§ 1º A requisição de material de consumo padronizado deve conter, no mínimo, o código do material padronizado, a quantidade e a unidade de fornecimento.
+
+
+§ 2º Havendo necessidade de requisição de bem de consumo não padronizado por parte das unidades localizadas na Sede do TCU, deve ser autuado processo eletrônico contendo memorando endereçado à unidade central de almoxarifado acompanhado de termo de referência com as seguintes informações básicas: 
+
+
+I – descrição detalhada do bem não padronizado, acompanhada, quando possível, de leiaute, modelos, gráficos, desenhos, prospectos, amostras, fotografias e demais características ou quaisquer outras indicações necessárias à correta identificação do produto, sendo vedadas especificações que frustrem a competitividade;
+
+
+II – apresentação de, no mínimo, 3 (três) orçamentos estimativos, fundamentados em pesquisa de preços, de preferência decorrentes de contratações anteriores realizadas por órgãos e entidades da Administração Pública, conforme regramento detalhado disposto no Capítulo III desta Portaria;
+
+
+III – indicação da forma de fornecimento do bem solicitado;
+
+
+IV – emissão de justificativas quanto à necessidade e à urgência da aquisição do bem requisitado; 
+
+
+V - registro da necessidade de apresentação ou não de amostras do produto; e
+
+
+VI - indicação, no termo de referência, do prazo de entrega para fornecimento dos bens em parcela única ou do cronograma de recebimento para fornecimento de forma parcelada.
+
+
+Art. 31. São competentes para requisitar a aquisição de material de consumo não padronizado os servidores de cargo efetivo ocupantes de função de confiança de direção do quadro de pessoal do TCU, com anuência do respectivo dirigente de unidade.
+
+
+Art. 32. Toda requisição de material de consumo não padronizado será analisada pela unidade de almoxarifado e submetida ao ordenador de despesas para autorização da compra, observada a oportunidade e a conveniência do dispêndio.
+
+
+Art. 33. As unidades requisitantes devem enviar requisição de material de consumo, por meio de sistema informatizado de gestão de almoxarifado, disponibilizado aos respectivos usuários autorizados.
+
+
+Parágrafo único. São competentes para solicitar materiais de consumo:
+
+
+I – chefes de gabinetes de Autoridades;
+
+
+II – chefes de serviço e funções correlatas; 
+
+
+III – diretores; 
+
+
+IV – titulares das unidades vinculadas diretamente à Presidência do Tribunal que não disponham de Serviço de Administração; e
+
+
+V – servidores, estagiários e empregados terceirizados devidamente autorizados, via sistema informatizado de gestão de almoxarifado, por meio de perfil específico, pelos detentores de funções comissionadas relacionados nos incisos anteriores. 
+
+
+Art. 34. O depósito administrado pela unidade central de almoxarifado visa precipuamente ao atendimento das unidades localizadas na Sede do Tribunal. 
+
+
+Parágrafo único. O titular da Secretaria de Licitações, Contratos e Patrimônio (Selip) definirá, mediante portaria específica, os materiais de consumo que serão encaminhados mensalmente às secretarias de controle externo localizadas nos estados.
+
+
+Art. 35. As requisições de materiais de estoque e de materiais de demanda específica serão apresentadas mensalmente à unidade central de almoxarifado, observado o seguinte cronograma:
+
+
+I – Entre os dias 1º e 8, pelos gabinetes dos Ministros, Ministros Substitutos e de membros do Ministério Público junto ao TCU, pelas unidades da Secretaria-Geral da Presidência (Segepres), exceto Instituto Serzedello Corrêa (ISC) e pela Secretaria de Controle Interno (Secoi); 
+
+
+II – Entre os dias 9 e 16, pelas unidades da Secretaria-Geral de Controle Externo (Segecex) localizadas na Sede;
+
+
+III – Entre os dias 17 e 24, pelas unidades da Segedam; e
+
+
+IV – Entre os dias 25 e 31, pelo ISC e pelas secretarias de controle externo situadas nos estados.
+
+
+Parágrafo único. Em caso de urgência, deve ser apresentada requisição extemporânea, via sistema informatizado de gestão de almoxarifado, em que conste justificativa.
+
+
+Art. 36. A unidade central de almoxarifado deve atender às requisições de materiais de consumo das unidades da Sede no prazo 3 (três) dias úteis e às requisições das secretarias de controle externo localizadas nos estados no prazo de 5 (cinco) dias úteis, contados a partir da geração da demanda no sistema informatizado de gestão de almoxarifado.
+
+
+Parágrafo único. O recibo de entrega dos materiais de consumo à unidade interessada será obrigatoriamente assinado por servidor do órgão, com aposição do respectivo número de matrícula, ainda que a requisição tenha sido realizada por estagiário ou funcionário terceirizado autorizados nos termos do inciso V do Art. 33 desta Portaria.
+
+
+Art. 37. No caso de requisições em excesso que venham a desfalcar o estoque, o ordenador de despesa poderá autorizar a realização de compra extraordinária, observados os procedimentos licitatórios legais, oportunidade em que serão incluídos outros materiais de consumo que porventura apresentem níveis de estoque inferiores àqueles considerados necessários.
+
+
+Art. 38. As requisições envolvendo materiais de consumo em excesso devem, quando possível, ser realizadas com a antecedência mínima de 60 (sessenta) dias. 
+
+
+Art. 39. As requisições em excesso que possam vir a comprometer o consumo de outras unidades somente serão atendidas mediante anuência prévia do ordenador de despesa;
+
+
+Art. 40. As compras extraordinárias decorrentes de requisições de materiais em excesso, que não ultrapassem os limites previstos na Portaria-TCU nº 206, de 2003, serão realizadas mediante suprimento de fundos.
+
+
+CAPÍTULO VI
+
+
+DISPOSIÇÕES FINAIS
+
+
+Art. 41. Somente serão realizadas compras centralizadas na Sede do Tribunal ou supridos estoques de materiais de consumo das secretarias de controle externo localizadas nos estados pela unidade central de almoxarifado quando a operação se comprovar vantajosa ao Tribunal em termos de economicidade, considerados a relação custo-benefício e o ganho de escala.
+
+
+Art. 42. O sistema informatizado de gestão de almoxarifado disponibilizará os seguintes documentos: 
+
+
+I – Relatório mensal de recebimento, suprimento e níveis de estoque: informando o valor do estoque e as entradas e saídas do almoxarifado, destacando os materiais que se encontram em quantidades inferiores aos respectivos níveis ideais de estoque e comparando os resultados obtidos com as metas estabelecidas para o período;
+
+
+II – Relatório trimestral de recebimento, suprimento e níveis de estoque: consolidando informações dos últimos 3 (três) relatórios mensais e informando sobre as medidas gerenciais de maior destaque no período; e
+
+
+III – Relatório anual de recebimento, suprimento e níveis de estoque: consolidando informações dos 4 (quatro) relatórios trimestrais, fixando metas para o ano seguinte e apresentando oportunidades de melhoria para a atividade de gestão de materiais.
+
+
+Art. 43. Eventualmente podem ser celebrados, nos termos do art. 296 do Regimento Interno do TCU, combinado com as regras específicas dispostas na Resolução-TCU nº 211, de 18 de julho de 2008, acordos de cooperação ou convênios com outros órgãos ou outras entidades da Administração Pública Federal que visem ao recebimento ou à concessão de empréstimos transitórios de materiais de consumo para recompor temporariamente os respectivos estoques de almoxarifado.
+
+
+Art. 44. Será implementada consulta no sistema informatizado de gestão de almoxarifado que permitirá à unidade central de almoxarifado verificar o estoque de bens de consumo existente nas demais unidades de almoxarifado localizadas na Sede e nos estados.
+
+
+Art. 45. As unidades requisitantes que detêm bens de consumo que não atendam às suas previsões de demanda devem devolvê-los à respectiva unidade de almoxarifado dentro de, no máximo, 60 (sessenta) dias imediatamente posteriores à publicação desta Portaria, sendo vedada a constituição de subalmoxarifados.
+
+
+Art. 46. Fica revogada a Portaria-TCU no 318, de 26 de dezembro de 2008.
+
+
+Art. 47. Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+Não consta revogação expressa
+Dispõe sobre as competências, o planejamento das compras, as regras para a obtenção de estimativa de preços, o recebimento, o armazenamento, a requisição e a distribuição de materiais de consumo no âmbito do Tribunal de Contas da União (TCU).
+
+

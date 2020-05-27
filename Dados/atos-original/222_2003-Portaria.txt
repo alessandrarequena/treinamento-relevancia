@@ -1,0 +1,340 @@
+Portaria
+222/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas competências, resolve: 
+
+
+
+Art. 1º  Ficam aprovados os critérios para cálculo do volume de recursos fiscalizados (VRF) definidos nos Anexos I e II desta Portaria.
+
+
+
+§ 1º  As unidades técnico-executivas devem registrar o volume de recursos fiscalizados nos relatórios de auditoria ou inspeção, bem como nos relatórios de levantamento em obras públicas e nos de acompanhamento em que a quantificação seja cabível, conforme disposto no item 3.4 do Anexo I desta Portaria. 
+
+
+
+§ 2º  A memória de cálculo do volume de recursos fiscalizados deve ser juntada ao respectivo processo. 
+
+
+
+§ 3º  Nas fiscalizações em que a quantificação do volume de recursos fiscalizados não seja cabível, deve ser informado no relatório que "a mensuração do VRF não se aplica".
+
+
+ 
+
+
+Art. 2º  Compete à Secretaria Adjunta de Fiscalização (Adfis):
+
+
+
+I – desenvolver, em conjunto com as unidades competentes, critérios específicos para mensuração do VRF das áreas de macroavaliação governamental e de desestatização, submetendo-os, no prazo de sessenta dias a contar do início da vigência desta Portaria, à Presidência;
+
+
+
+II – acompanhar a implementação do disposto nesta Portaria;
+
+
+
+III – expedir as orientações complementares que se façam necessárias à mensuração do VRF nos trabalhos de fiscalização;
+
+
+
+IV – propor a atualização dos Anexos desta Portaria.
+
+
+
+Art. 3º  A mensuração do VRF durante o segundo semestre de 2003 será aplicada, a título de projeto-piloto, em processos previamente definidos pela Adfis, em coordenação com as unidades executoras. 
+
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação. 
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+ANEXO I DA  PORTARIA-TCU Nº 222, DE 10 DE OUTUBRO DE 2003
+
+
+
+
+
+
+Critérios para Mensuração do Volume de Recursos Fiscalizados (VRF)
+
+
+
+
+
+
+
+1. Critérios gerais
+
+
+
+
+Nas auditorias ou inspeções, bem como nos acompanhamentos em que a quantificação seja cabível, realizados via sistema ou não, deve ser calculado o VRF e registrado no relatório. Quando for implementado campo específico, a informação deverá constar também no sistema Fiscalis. 
+
+
+
+
+
+Os critérios a seguir apresentados não são excludentes entre si e não estão dispostos em ordem de prioridade. Na maioria das vezes, deverão ser associados para se adaptarem ao caso concreto. São válidos de forma generalizada para todos os processos de fiscalização que podem ter seu objeto quantificado.
+
+
+
+
+
+1.1 O VRF equivalerá ao valor empenhado do(s) ato(s), projeto(s) ou atividade(s) auditada(s), nos orçamentos do período abrangido pelos exames. Nos órgãos/entidades não sujeitos à contabilidade pública, deverá ser considerado o instrumento equivalente ao empenho ou, na falta deste, a despesa executada.
+
+
+
+1.2 Quando forem examinados procedimentos licitatórios que ainda não tenham resultado no empenho da despesa, o VRF corresponderá ao valor estimado pelo órgão com base na pesquisa prévia de mercado, ou, tendo havido adjudicação para uma empresa, o VRF será o valor da proposta vencedora.
+
+
+
+1.3 Para o exame de contratos em execução, o VRF corresponderá ao valor empenhado para pagamento dos contratos selecionados. Assim, se a equipe delimitou o objeto aos contratos vigentes no exercício de 2002 e analisou os atos praticados desde a assinatura do contrato, devem ser considerados os valores empenhados desde a assinatura do contrato, ainda que compreendam outro exercício. Em suma, considera-se tudo que foi examinado.
+
+
+
+Exemplo: Inspeção em contrato específico: VRF = somatório  dos valores empenhados (não cancelados) até a análise da equipe. 
+
+
+
+1.4 Quando utilizada amostragem estatística (o resultado da amostra permite concluir sobre o universo, a amostra é representativa), o VRF corresponderá ao universo auditado. Quando a amostra não for estatística, o VRF limitar-se-á à despesa relativa aos procedimentos efetivamente analisados. 
+
+
+
+Exemplo: Auditoria de conformidade para verificar e avaliar a situação patrimonial de determinada empresa, bem como os mecanismos de controle de seus bens: se a amostra de bens examinados for selecionada estatisticamente, o VRF corresponderá ao valor em que foi avaliado todo o patrimônio da entidade, caso contrário, apenas ao valor dos bens analisados.
+
+
+
+1.5 Nas auditorias de tecnologia da informação ou em áreas de planejamento e controle, o VRF limitar-se-á à despesa empenhada nas rubricas referentes ao desenvolvimento ou manutenção/operação do sistema ou da atividade de planejamento ou controle. Uma auditoria no sistema de arrecadação da Receita Federal, por exemplo, terá como VRF o valor empenhado relativo à manutenção/operação das atividades, e não o montante dos recursos controlados ou arrecadados pelo órgão. Constituem exceção a essa regra os casos de auditoria em bases de dados de sistemas, ou seja, aqueles em que se utiliza o sistema como ferramenta para auditar um conjunto de atos ou contratos. Nessas situações, o VRF será calculado de acordo com as regras 1.1 a 1.4.
+
+
+
+1.6 Nas auditorias de convênios, será tomado como VRF o valor empenhado no orçamento do órgão/entidade recebedor dos recursos, inclusive o referente à contrapartida, quando houver. 
+
+
+
+2. Fiscalizações em áreas especializadas
+
+
+
+
+
+
+2.1 Auditorias de Natureza Operacional
+
+
+
+Nas auditorias de avaliação de programa, o VRF corresponderá à despesa empenhada para o programa ou ação auditada, no período abrangido pelos exames. 
+
+
+
+O mesmo princípio deve ser aplicado para as auditorias de desempenho operacional: o VRF equivalerá à despesa empenhada, no órgão ou no setor cujo desempenho esteja sendo analisado, no período abrangido pelos exames. A informação poderá ser buscada no SIAFI ou em outro sistema ou documento equivalente. 
+
+
+
+Exemplo: Auditoria de desempenho operacional do setor responsável pelas licitações e contratos do órgão X: VRF = somatório dos valores empenhados nas rubricas concernentes à manutenção do setor durante o período abrangido pelos exames, inclusive as relativas à remuneração do pessoal do setor. Caso a rubrica se refira à manutenção do órgão/entidade como um todo, adotar valor proporcional à lotação de servidores no setor auditado.
+
+
+
+2.2 Área de Obras
+
+
+
+O VRF nas fiscalizações de obras corresponderá ao VRF dos contratos analisados, calculado de acordo com o item 1.3.
+
+
+
+2.3 Área de Pessoal
+
+
+
+Nas auditorias sobre despesas com pessoal, sendo elas componentes ou não da folha de pagamento, o VRF corresponderá ao valor empenhado pelo órgão ou entidade, a título de tais despesas, no período abrangido pelos exames.  
+
+
+
+
+3. Processos em que não é cabível a quantificação do VRF
+
+
+
+
+3.1 Objeto não quantificável 
+
+
+
+Nos casos em que o objeto da auditoria não é quantificável em valores monetários, deve constar no processo a informação de que "a mensuração do VRF não se aplica". 
+
+
+
+Exemplo: Avaliação do Sistema Brasileiro de Telecomunicações. Trata-se da avaliação de uma política pública, cujo valor é intangível e não se limita nem ao orçamento nem ao patrimônio gerido pelo setor de telecomunicações.
+
+
+
+3.2 Objeto parcialmente quantificável
+
+
+
+Em alguns processos é possível quantificar o VRF para apenas uma parte do objeto auditado. Um exemplo: auditoria para verificação da estrutura da Secretaria Nacional de Esporte do Ministério do Esporte e Turismo, da Política de Fomento ao Desporto e da regularidade dos convênios firmados entre janeiro de 2000 e março de 2001. Por conseguinte, deve constar no processo o VRF referente aos convênios auditados, além da informação de que "a mensuração do VRF não se aplica à verificação da estrutura da Secretaria e da Política de Fomento ao Desporto". Ou seja, é importante destacar que a fiscalização realizada não se restringe àquele montante mencionado, pois está sendo verificada, também, uma outra área não quantificável. 
+
+
+3.3 Levantamento 
+
+
+
+Nos levantamentos a que se refere o art. 238 do Regimento Interno não há que ser quantificado o VRF, já que visam apenas à obtenção de uma visão geral da entidade/órgão auditado e não aprofundam a análise em nenhuma área específica. Logo, "a mensuração do VRF não se aplica". Os levantamentos que consistirem em análise de risco também se enquadram nessa regra.
+
+
+
+Entretanto, os levantamentos de obras fogem à regra, uma vez que efetivamente analisam contratos, obras, licitações e geram recomendações, sendo possível quantificar os recursos fiscalizados (item 2.2).
+
+
+
+
+
+3.4 Acompanhamento 
+
+
+
+Nos acompanhamentos de que trata o art. 241 do Regimento Interno somente deverá ser quantificado o VRF quando o objeto da fiscalização e o método utilizado permitirem uma efetiva avaliação dos valores envolvidos, não se aplicando quando os valores a título de despesas ou receitas forem assumidos presumidamente como verdadeiros. 
+
+
+
+
+
+3.5 Monitoramento 
+
+
+
+Nos monitoramentos mencionados no art. 243 do Regimento Interno, por sua vez, também não há quantificação do VRF, uma vez que buscam apenas verificar se o órgão ou entidade vem adotando as determinações e recomendações propostas pelo Tribunal. Da mesma forma, "a mensuração do VRF não se aplica". 
+
+
+
+
+
+4. Composição do VRF e memória de cálculo
+
+
+
+
+A composição do VRF, observados os critérios definidos neste Anexo, fica a cargo de cada Secretaria. Sempre que o cálculo do VRF, embora viável, não puder obedecer aos critérios deste Documento, caberá à Secretaria desenvolver critérios próprios para o caso, mantendo contato prévio com a Adfis, se necessário.
+
+
+
+Em todos os processos em que o VRF é mensurável, a Secretaria deverá anexar ao relatório memória de cálculo que indique os critérios utilizados, sejam deste Anexo ou criados especificamente para o caso. 
+
+
+
+A análise das formas de composição adotadas e dos novos critérios desenvolvidos será realizada pela Adfis e demais unidades incumbidas do Controle de Qualidade. Eventualmente, a Adfis divulgará orientações complementares para cálculo do VRF.
+
+
+
+
+
+
+5. Consolidação do VRF no exercício
+
+
+
+
+Para fins de consolidação do volume total de recursos fiscalizados pelo TCU no exercício, os VRFs de cada fiscalização serão somados de acordo com o instrumento e a modalidade, obtendo-se, portanto, o VRF total das avaliações de programas, das auditorias de desempenho operacional, das auditorias/inspeções/acompanhamentos de conformidade e dos levantamentos em obras. Caso um mesmo programa, órgão ou atividade tenha sido fiscalizado duas vezes, sob diferentes enfoques, serão considerados os VRFs dos dois trabalhos, sem necessidade de desconto. Da mesma forma, recursos fiscalizados tanto no órgão repassador quanto no beneficiário, em fiscalizações distintas, serão computados em duplicidade.
+
+
+
+ANEXO II  DA  PORTARIA-TCU Nº 222, DE 10 DE OUTUBRO DE 2003
+
+
+
+
+
+
+
+
+
+Quadro-Resumo dos Critérios para Mensuração do Volume de Recursos Fiscalizados (VRF)
+
+
+
+
+
+Critérios Gerais
+
+
+
+Objeto da Fiscalização
+
+Mensuração do VRF
+
+Ato(s), projeto(s) ou atividade(s)
+
+Valor empenhado nos orçamentos do período abrangido pelos exames. Nos órgãos/entidades não sujeitos à contabilidade pública, deverá ser considerado o instrumento equivalente ao empenho ou, na falta deste, a despesa executada.
+
+Procedimentos licitatórios que ainda não tenham resultado no empenho da despesa
+
+Valor estimado pelo órgão com base na pesquisa prévia de mercado, ou, tendo havido adjudicação para uma empresa, o VRF será o valor da proposta vencedora.
+
+Contratos em execução, inclusive de obras
+
+Valor empenhado para pagamento dos contratos selecionados, nos exercícios abrangidos pelos exames.
+
+Atos ou contratos selecionados mediante amostragem estatística 
+
+ 
+
+Valor do universo auditado. Quando a amostra não for estatística, o VRF limitar-se-á à despesa relativa aos procedimentos efetivamente analisados.
+
+Tecnologia da Informação ou áreas de planejamento e controle 
+
+Despesa empenhada nas rubricas referentes ao desenvolvimento ou manutenção/operação do sistema ou da atividade de planejamento ou controle. Constituem exceção a essa regra os casos de auditoria em bases de dados de sistemas, ou seja, aqueles em que se utiliza o sistema como ferramenta para auditar um conjunto de atos ou contratos. Nessas situações, o VRF será calculado de acordo com as regras anteriores.
+
+Convênios
+
+Valor empenhado no orçamento do órgão/entidade recebedor dos recursos, inclusive o referente à contrapartida, quando houver.
+
+Avaliações de Programas
+
+ 
+
+Despesa empenhada para o programa ou ação auditada, no período abrangido pelos exames. 
+
+Auditorias de desempenho operacional
+
+Despesa empenhada, no órgão ou no setor cujo desempenho esteja sendo analisado, no período abrangido pelos exames. 
+
+Despesas com pessoal, sendo elas componentes ou não da folha de pagamento
+
+Valor empenhado pelo órgão ou entidade, a título de tais despesas, no período abrangido pelos exames.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova critérios para cálculo e registro do volume de recursos fiscalizados nos processos de fiscalização do Tribunal.
+
+

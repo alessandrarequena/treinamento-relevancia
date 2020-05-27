@@ -1,0 +1,1541 @@
+Portaria
+183/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na Portaria-GP nº 176 de 28 de julho de 2003, resolve:
+
+
+
+
+
+Art. 1º  Fica autorizada a realização do projeto TRADOC - Critérios de Tratamento Documental nos termos da proposta anexa a esta portaria.
+
+
+
+Art. 2º  Fica designada, a partir desta data, a Analista de Controle Externo (Área Controle Externo), LOHIR MACHADO, Matrícula 558-4, para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Coordenador de Projeto constante da Resolução nº 147, de 28 de dezembro de 2001 e alocada à Secretaria-Geral de Controle Externo mediante Portaria nº 37, de 3 de janeiro de 2003.
+
+
+
+Parágrafo único.  Cabe ao coordenador do projeto a responsabilidade de gerenciar o projeto, exercer as competências previstas no art. 8º da Portaria nº 176/2003 e observar o disposto no Manual de Gestão de Projetos.
+
+
+
+
+
+Art. 3º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+VALMIR CAMPELO
+
+
+PRESIDENTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Autoriza a realização do projeto TRADOC - Critérios de Tratamento Documental e designa seu gestor.
+
+ANEXO ÚNICO
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 1 de 6
+
+1. Identificação do Gestor do Projeto
+
+
+1.1.
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestor
+
+Origem da FC
+
+Lohir Machado
+
+558-4
+
+ 
+
+Ggerente
+
+X
+
+Ccoordenador
+
+Segecex
+
+1.2.
+
+E-mail
+
+Lohirm@tcu.gov.br
+
+1.3. Nome do substituto eventual
+
+Matrícula
+
+1.3.1 E-mail
+
+Onesild José da Silva
+
+4205-6
+
+Onesildjs@tcu.gov.br
+
+1.4.
+
+Local/telefone
+
+Anexo II, sala 335, ramal 7934
+2. Identificação do Projeto 
+
+
+2.1.
+
+Nome do projeto
+
+TRADOC – Critérios de Tratamento Documental
+
+2.2.
+
+Período de realização
+
+1º de agosto de 2003 a 30 de outubro de 2004
+
+2.3.
+
+Unidade patrocinadora
+
+Secretaria da Presidência - Sepres
+3. Vinculação Estratégica
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU
+
+a)
+
+Estratégia 1 – ampliar e aprimorar o uso da tecnologia da informação;
+
+b)
+
+Estratégia 7 – desenvolver política de gestão do conhecimento;
+
+c)
+
+Estratégia 9 – aperfeiçoar processos de trabalho do TCU;
+
+d)
+
+O projeto deve definir critérios e instrumentos de tratamento documental, de modo a possibilitar a prestação de informações, a realização de consultas e pesquisas, bem como a emissão de relatórios com agilidade, segurança e racionalidade, viabilizando, também, o acesso generalizado à informação. Além disso, devem permitir/orientar o controle da temporalidade e a execução das diversas ações relacionadas à gestão documental durante todo o ciclo de vida dos documentos. Portanto, está vinculado a essas estratégias.
+
+3.2
+
+Vínculo com Plano de Diretrizes
+
+a)
+
+Diretriz 4: melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo.
+
+Medida 4.10 – aprimorar a gestão de informações no âmbito do TCU – uma vez que o projeto visa à melhoria nos instrumentos de gestão documental e da informação.
+
+Medida 4.11 – implantação e operação inicial dos sistemas Processus Web e Coleta Eletrônica de Contas – os produtos deste projeto serão subsídios para os dois sistemas mencionados.
+
+b)
+
+Diretriz 6: aperfeiçoar os serviços de apoio e administrativo no TCU.
+
+Medida 6.6 – aprimorar sistema de informações gerenciais.
+
+Medida 6.9 – aprimorar relações e a comunicação internas no âmbito do Tribunal.
+
+A vinculação do projeto a essas diretrizes se dá também pelo aprimoramento dos instrumentos de gestão documental, destacando-se, neste caso, a possibilidade de emissão de relatórios gerenciais com maior confiabilidade e segurança.
+
+3.3.
+
+Vínculo com Plano Diretor da Segedam
+
+a)
+
+Diretriz 2: aperfeiçoar a prestação de serviços administrativos no TCU.
+
+Medida 2.4 – aprimorar o sistema de informações gerenciais.
+
+Ações: 
+
+estabelecer tipos e subtipos de processos administrativos, com levantamento de prazos máximos, complexidade e tramitação, e promover os ajustes no sistema Processus;
+
+estabelecer metodologia para implementação do código de classificação de documentos na autuação dos processos.
+
+aperfeiçoar a tabela de código de classificação.
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 2 de 6
+
+4. Problema/Oportunidade
+
+
+4.1
+
+Descrição do problema ou da oportunidade
+
+a)
+
+No contexto do presente projeto o Tribunal tem como oportunidade a regulamentação dos dispositivos constitucionais, legais e regulamentares que regem o tratamento de documentos de arquivo no País, especialmente os contidos nos arts. 5º, 19, 23, 24, 215 e 216 da Constituição Federal e na Lei nº 8.159/1991, relacionados à responsabilidade sobre o tratamento documental no âmbito da administração pública, nas três esferas de Poder, para a União, Estados, DF e Municípios.
+
+b)
+
+O problema que se apresenta são as dificuldades relativas à recuperação de documentos nas fases corrente, intermediária e permanente, de forma ágil, segura e racional. Para dar solução a isso, há de se definir critérios e sistematizar a gestão documental.
+
+4.2
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+ No contexto deste projeto, entende-se:
+
+por documento – a informação contida em qualquer suporte (papel, fitas e discos magnéticos, microfilme; hardware);
+
+por informação – o assunto contido no documento;
+
+por documento de arquivo – aquele cujo o assunto vincula-se à estrutura ou à funcionalidade da organização.
+
+b)
+
+São considerados documentos de arquivo do Tribunal aqueles que contenham assunto(s) relacionado(s) com as funções ou com a estrutura organizacional do TCU, independentemente do suporte em que se encontrem. O ciclo de vida dessa documentação é iniciado com sua produção ou recebimento, podendo passar pelas três fases que compõem esse ciclo, nas quais as ações, os métodos e as técnicas de gestão documental são diferenciados. 
+
+Na primeira fase, a corrente, a documentação encontra-se voltada para seus valores primários, normalmente vinculada a uma atividade a ser desenvolvida pela administração, para o atendimento de uma demanda interna ou externa. Nessa etapa o mais importante é o acesso rápido ao documento ou à informação nele contida, para que a atividade demandada seja executada com agilidade. 
+
+Nas outras duas fases, intermediária e permanente, as ações sobre os documentos estão voltadas para a guarda e preservação, que requerem técnicas próprias a serem aplicadas por setor especializado (arquivo central) com vistas a possibilitar a organização documental para facilitar o acesso aos documentos e informações. 
+
+4.3.
+
+Evolução do quadro (apresentar dados, preferencialmente, em tabelas)
+
+a)
+
+A Dicom e o Setor de Arquivo, diante da sua experiência e de várias visitas técnicas realizadas em outros órgãos públicos, puderam identificar como causas dos problemas (item 4.1.):
+
+critérios de classificação ineficiente para criar vínculos visando à avaliação, organização, recuperação de documentos;
+
+inexistência de padronização de termos para cadastramento documental nos sistemas informatizados do TCU, o que dificulta a construção de relatórios gerenciais e de outras consultas de caráter geral;
+
+inexistência de critérios técnicos e seguros para transferência, recolhimento e descarte de documentos;
+
+indefinição de suporte para a guarda e preservação de documentos - originais e cópias - e informações neles contidos;
+
+indefinição de responsabilidades e de locais e condições adequados para o armazenamento de documentos;
+
+proliferação de arquivos paralelos e sem técnica apropriada;
+
+b)
+
+Para as causas elencadas o código de classificação de documentos por assunto oferece uma solução capaz de facilitar pesquisas e consultas no sistema de gerenciamento eletrônico, possibilitando também a extração de relatórios gerenciais e de outras naturezas. 
+
+Por outro lado, o uso do código de classificação aliado à tabela de temporalidade é de grande importância para a racionalização dos espaços disponíveis, por viabilizar a correta avaliação documental, permitindo a eliminação daqueles documentos desprovidos de valor e a transferência para o arquivo central dos que ainda tenham valor arquivístico, mas com baixa freqüência de consultas.
+
+Com a definição e adoção, em todo o TCU, de código de classificação e de tabela de temporalidade o controle dos documentos de arquivo do Tribunal poderá ser automatizado, com a emissão periódica de relatórios indicativos dos que possam ser transferidos ou eliminados, viabilizando a gestão documental e a otimização do uso dos espaços disponíveis. 
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 3 de 6
+
+
+
+4.4.
+
+Se nada for feito (qual a gravidade, a urgência e a tendência)
+
+a)
+
+Caso não sejam providenciadas as soluções descritas na alínea “b”, acima, bem como as medidas necessárias para a sistematização desses instrumentos no Tribunal, não estaremos atacando as causas dos problemas e com isso haverá uma tendência natural ao agravamento das seguintes situações:
+
+insatisfação dos clientes em relação à recuperação de informação e de documentos, com possíveis reflexos negativos para o desempenho das atividades e da imagem do Tribunal;
+
+saturação dos espaços (na unidade ou no arquivo central) destinados à guarda e preservação de documentos; 
+
+eliminação descentralizada de documentos motivada apenas pela necessidade de mais espaço físico nas unidades, com risco de perda de documentos de valor histórico;
+
+elevação dos custos relacionados ao tratamento documental, em razão da ausência de instrumentos e práticas que permitam a interligação das três fases do ciclo de vida.
+5. ESCOPO DO PROJETO
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+Definir solução visando à eficiência da gestão documental relativa à utilização, organização, controle, segurança, racionalidade, agilidade de procedimentos e  recuperação de documentos e informações.
+5. 2. Meta – indicador – produto - cliente
+
+
+META
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+5.2.1. Objetivo específico
+
+5.2.2. Quanto
+
+5.2.3. Prazo
+
+a)
+
+Adaptar o código de classificação de documentos existente para a área adminis-trativa.
+
+1 doc
+
+16-12-2004
+
+ 
+
+Código adaptado e encaminhado ao CONARQ para aprovação, até a data prevista.
+
+ 
+
+Código de Classificação de documentos da área administrativa.
+
+Unidade gestora do Processus;
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+b)
+
+Adaptar a tabela de temporalidade e desti-nação de documentos para a área adminis-trativa
+
+1 doc
+
+16-02-2004
+
+ 
+
+Tabela adaptada e encaminhada ao CONARQ para aprovação, até a data prevista.
+
+ 
+
+Tabela de tem-poralidade e destinação de documentos da área adminis-trativa.
+
+Unidade gestora do Processus;
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+c)
+
+Elaborar código de classificação de documentos por assunto, contendo a tipologia de documentos da área de controle externo.
+
+1 doc
+
+16-08-2004
+
+ 
+
+Código elaborado e encaminhado ao CONARQ para aprovação, até a data prevista.
+
+ 
+
+Código de Classificação de documentos da área de controle externo.
+
+Unidade gestora do Processus;
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+d)
+
+Elaborar tabela de temporalidade e desti-nação de documentos para a área de controle externo.
+
+1 doc
+
+16-08-2004
+
+ 
+
+Tabela elaborada e encaminhada ao CONARQ para aprovação, até a data prevista.
+
+ 
+
+Tabela de tem-poralidade e destinação de documentos da área de controle externo.
+
+Unidade gestora do Processus;
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 4 de 6
+
+
+
+META
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+5.2.1. Objetivo específico
+
+5.2.2. Quanto
+
+5.2.3. Prazo
+
+e)
+
+Definir suporte para a guarda e preservação de documentos.
+
+1 doc
+
+16-08-2004
+
+ 
+
+Definição elaborada até o prazo
+
+Definição de suporte documental
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+f)
+
+Definir sistemática de organização para a guarda e preservação de documentos.
+
+1 doc
+
+30-09-2004
+
+ 
+
+Sistemática definida até o prazo.
+
+Sistemática para organização documental
+
+Dicom, SPT, ARQ (Semat) e CAD;
+
+Setec;
+
+Unidades usuárias.
+
+g)
+
+Treinar servidores dos Serviços de Adminis-tração e demais setores responsáveis pelo cadas-tramento e autuação de documentos nas unidades da Sede. 
+
+pelo menos 2 servidores de cada unidade
+
+30-09-2004
+
+ 
+
+nº de servidores trei-nados por unidade.
+
+Servidores treinados
+
+Servidores lotados nas unidades usuárias
+
+h)
+
+Oferecer treinamento aos  servidores lotados nos Estados
+
+pelo menos 80% dos servidores em cada Secex
+
+30-10-2004
+
+ 
+
+percentual de servi-dores treinados por unidade nos estados.
+
+Servidores treinados
+
+Servidores lotados nas Secex nos Estados
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+a)
+
+Gerenciamento do projeto;
+
+b)
+
+Obtenção de recursos;
+
+c)
+
+Adaptação do código de classificação e da tabela de temporalidade dos documentos da área administrativa;
+
+d)
+
+Definição do código de classificação e da tabela de temporalidade dos documentos da área de controle externo;
+
+e)
+
+Definição de suporte para a guarda e preservação de documentos;
+
+f)
+
+Definição de sistemática de organização para a guarda e preservação de documentos;
+
+g)
+
+Divulgação;
+
+h)
+
+Treinamento.
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+A pretensão de ser uma opção de GED - Gerenciamento Eletrônico de Documentos. No entanto,  seus produtos devem servir de referência básica para que ele seja desenvolvido.
+
+b) 
+
+O desenvolvimento e/ou implementação de sistema informatizado para as soluções propostas neste projeto.
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+Segecex – principal fornecedora dos informação para o desenvolvimento do projeto. 
+
+b)
+
+Dicom (Semat) – principal cliente para os instrumentos de gestão documental a serem desenvolvidos no projeto.
+
+c)
+
+Setec – cliente dos produtos deste projeto como subsídios para alteração do Processus e  desenvolvimento do GED.
+
+d)
+
+Comissão de Avaliação e Destinação de Documentos – CAD (Segedam) – cliente dos produtos a serem desenvolvidos no projeto, especialmente para a tabela de temporalidade, nos termos da Portaria nº 371/98.
+
+e)
+
+Consultoria  externa – treinamento, orientação e avaliação do trabalho.
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+7.1 
+
+Risco
+
+7.2.  
+
+Impacto
+
+7.3.
+
+Probabi-lidade de ocorrer
+
+7.3. 
+
+(E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.4.
+
+Responsável pela ação
+
+a)
+
+Inexistência de apoio da alta administração
+
+Alta
+
+Baixa
+
+(E) Conseguir o apoio da Presidência, da Segecex e da Segedam para a realização do projeto.
+
+(M) Demonstrar à Segecex e à Segedam a importância do trabalho a ser desenvolvido pelo projeto e dos benefícios esperados.
+
+Coordenador do projeto
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 5 de 6
+
+
+
+7.1 
+
+Risco
+
+7.2.  
+
+Impacto
+
+7.3.
+
+Probabi-lidade de ocorrer
+
+7.3. 
+
+(E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.4.
+
+Responsável pela ação
+
+b)
+
+Pouca colaboração das unidades para reuniões, levantamento dos documentos e fornecimento de informações.
+
+Médio
+
+Média
+
+(E) Divulgar o projeto, monstrando os benefícios que ele poderá trazer no dia-a-dia do trabalho.
+
+(M) Sensibilizar e conscientizar os titulares das unidades quanto à importância dos instrumentos de gestão documental a serem desenvolvidos pelo projeto, especialmente em relação à agilidade na recuperação da informação e à preservação de documento de valores históricos.
+
+Coordenador do projeto.
+
+c)
+
+Atraso na licitação e contratação de consultoria.
+
+Média 
+
+Alta
+
+(E) Negociar com a Segedam e Conjur, na reunião de abertura, os prazos factíveis para serem inseridos no planejamento do projeto.
+
+(M) Acompanhar o processo de licitação e contratação, prestando as informações necessárias sempre a tempo.
+
+(R) Adequar os prazos do cronograma do projeto e se houver impacto no prazo final negociar a prorrogação.
+
+(R) Mudar a estratégia de consultoria externa para treinamento no serviço. Para isso, negociar orçamento com o ISC ou repasse da Segedam. 
+
+Coordenador do projeto.
+
+c)
+
+Indisponibilidade de recursos orçamentários e humanos para o desenvolvimento das atividades do projeto.
+
+Médio
+
+Média
+
+(E) Negociar e conseguir a aprovação dos recursos necessários na reunião de abertura.
+
+(M) Ajustar o cronograma do projeto e se houver impacto no prazo final, caso os recursos orçamentários e humanos não sejam disponibilizados de acordo com o planejado.
+
+Coordenador do projeto.
+8. Fatores que contribuem para o êxito do projeto
+
+
+a)
+
+Apoio e empenho pessoal dos titulares da Segecex, Segedam, Semat, Dicom e da CAD, para o desenvolvimento do projeto.
+
+c)
+
+Competência e capacidade da empresa de consultoria a ser contratada e experiência na área pública.
+
+d)
+
+Integração do presente projeto com a Setec para melhoria do Processus, para o desenvolvimento do projeto Processus Web e também outras.
+
+e)
+
+Motivação da equipe do projeto.
+9. Projetos predecessores
+
+
+a)
+
+Não identificado.
+10. Projetos conexos
+
+
+a)
+
+Processus Web – uma vez que estaria aproveitando os produtos deste projeto.
+
+b)
+
+PROSIG – que deve observar a classificação e tipologia documental a serem definidas no presente projeto
+11. Projetos sucessores
+
+
+a)
+
+Perfil de acesso e segurança documental
+12. Custos estimados
+
+
+12.1. Recurso
+
+11.2. Valor estimado
+
+11.3. Prazo
+
+a)
+
+Consultoria externa para treinamento, orientação e avaliação.
+
+R$78.000,00
+
+a partir 
+
+b)
+
+Treinamento na Sede com base na remuneração de instrutor do TCU para 7 turmas de 25 alunos, com carga horária de 8h.
+
+R$4.200,00
+
+a partir de fev-2004
+
+c)
+
+Estagiário – nível superior - de agosto a outubro de 2004.
+
+R$6.435,00
+
+a partir de agosto-2003
+
+Total de custos estimados
+
+R$88.635,00
+
+
+Obs.: o custo do treinamento para servidores nos estados deve ser calculado conforme estratégia a ser definida à época.
+13. Outros recursos necessários
+
+
+13.1. Recurso
+
+12.2. Fornecedor
+
+a)
+
+Livros e publicações do acervo do TCU.
+
+Biblioteca do TCU
+
+b)
+
+Recursos humanos para o levantamento e avaliação dos documentos produzidos ou recebidos pelas unidades.
+
+Unidades da Secretaria do TCU
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 6 de 6
+
+14. Equipe do projeto
+
+
+14.1. Nome
+
+13.2. Matrícula
+
+13.3. Lotação
+
+13.4. Período
+
+13.5. Dedicação integral ou parcial
+
+a)
+
+Lohir Machado
+
+558-4
+
+Sepres
+
+de 01-08-2003 a 30-10-2004
+
+Integral - gestora
+
+b)
+
+Carlos Orfila
+
+3028-7
+
+Secex-2
+
+de 01-08-2003 a 30-10-2004
+
+Integral a partir de set/2003
+
+c)
+
+Martinho Lara Gaia 
+
+2020-6
+
+Serec 
+
+de 01-08-2003 a 30-10-2004
+
+Integral no projeto
+
+d)
+
+Onesild José da Silva
+
+4205-6
+
+Seplan
+
+de 01-08-2003 a 30-10-2004
+
+Integral no projeto
+
+e)
+
+Edvaldo Silva Reis
+
+2758-8
+
+Dicom - Semat
+
+de 01-08-2003 a 30-10-2004
+
+Integral na atividade atribuída
+
+f)
+
+Daniel von Paraski - Estagiário
+
+ 
+
+Sepres
+
+de 01-08-2003 a 30-10-2004
+
+Integral - (4h diárias) a partir de set/2003
+15. Considerações finais (fundamentação normativa Portaria 176/2003)
+
+
+15.1.
+
+O que caracteriza o trabalho como projeto
+
+ 
+
+O projeto ora proposto encontra-se em conformidade com o art. 4º, incisos:
+
+a)
+
+III  estudos que visem à definição de metodologia ou de orientação para posterior disseminação;
+
+b)
+
+IV –   atendimento de demanda específica que comporte grande esforço de planejamento e coordenação para gerar  resultado dentro de um prazo estabelecido;
+
+c)
+
+V –     desenvolvimento de soluções que resultem na melhoria de gestão no âmbito interno do Tribunal;
+
+d)
+
+VI –   desenvolvimento de soluções de favoreçam a melhoria de resultados e a prevenção de danos á gestão de recursos  e de patrimônio públicos;
+
+e)
+
+VII –  conjunto de eventos vinculados a um objetivo específico na área de formação, de treinamento e de  desenvolvimento de gerentes e servidores.
+
+15.2.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador (incisos do art. 7º da Portaria 176/2003)
+
+ 
+
+A percepção da FC-3 de coordenador de projeto encontra respaldo na Portaria nº 176, de 28 de julho de 2003, art. 7º, parágrafo 2º, combinado com os seguintes incisos do mesmo artigo:
+
+a)
+
+IV –  período superior a três meses;
+
+b)
+
+V –  justificada relevância da matéria;
+
+d)
+
+VII – desenvolvimento de nova tecnologia ou metodologia com impacto geral nas atividades da Secretaria do Tribunal, especialmente da área de controle externo;
+
+e)
+
+VIII –  complexidade das atividades de coordenação com relação ao número de metas a serem alcançadas e de itens a  serem controlados.
+16. Finalização
+
+
+16.1.   Data e assinatura do Coordenador do projeto
+
+Em ____/______/ 2003
+
+ 
+
+Lohir Machado
+
+Coordenadora do Projeto
+
+16.2.   Manifestação do titular unidade patrocinadora
+
+De acordo com a presente proposta,  em consonância com a ata da reunião de abertura realizada em 23 de julho de 2003.
+
+Sepres, em ______/_______/ 2003
+
+ 
+
+Paulo Nogueira de Medeiros
+
+Secretário da Sepres
+
+
+
+
+
+
+
+
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 1 de 4
+
+
+
+
+
+1. Identificação da reunião
+
+
+1.1. Ano e número da reunião
+
+1.2. “X” -  Tipo de reunião
+
+2003/01
+
+X
+
+abertura
+
+ 
+
+interna
+
+ 
+
+acompanhamento
+
+ 
+
+desempenho
+
+ 
+
+outro
+
+1.2. Data da reunião
+
+1.3.  Horário efetivo
+
+1.4. Local
+
+1.5. Coordenador
+
+23-jul-2003
+
+Início
+
+Término
+
+Sala 335, Anexo II, TCU
+
+Lohir Machado
+
+15:00h
+
+18:15h
+
+
+2. Objetivo
+
+
+a)
+
+Promover a aprovação da proposta e do plano do projeto Critérios de Tratamento Documental, junto às partes envolvidas.
+
+
+3. Participantes
+
+
+3.1. Participante
+
+2.2. Lotação
+
+2.3. Telefone
+
+2.4. E-mail
+
+a)
+
+Lohir Machado – gestora do projeto
+
+Sepres
+
+7934
+
+lohirm@tcu.gov.br 
+
+b)
+
+Paulo Nogueira de Medeiros – unidade patrocinadora
+
+Sepres
+
+7203
+
+Sepres@tcu.gov.br 
+
+c)
+
+Antonio José Ferreira da Trindade (justificou ausência)
+
+Segedam
+
+7100
+
+Antonioft@tcu.gov.br 
+
+d)
+
+José Fernando de Almeida – equipe de acompanhamento PJ
+
+Seplan
+
+7345
+
+josefg@tcu.gov.br 
+
+e)
+
+Cláudio Cruz – interface com solução de TI
+
+Setec
+
+7276
+
+cscruz@tcu.gov.br 
+
+f)
+
+Roberto Carlos M. Pontes - 
+
+Adcon
+
+7882
+
+robertocm@tcu.gov.br
+
+g)
+
+Ary Fernando Beirão  - representando a Segedam
+
+Semat
+
+7110
+
+aryfb@tcu.gov.br 
+
+h)
+
+Ernoldo Donisete Pereira  - área de documentação da Semat
+
+Dicom
+
+7426
+
+ernoldodp@tcu.gov.br
+
+i)
+
+Luciano Carlos Batista - 
+
+Segecex
+
+7322
+
+lucianocb@tcu.gov.br
+
+
+4. Discussão da pauta
+
+
+4.1. Decisão
+
+3.2.  Responsável pela implementação / alteração
+
+3.3. Data limite
+
+4.1.1
+
+Exposição sucinta da proposta do projeto.
+
+a)
+
+Foi sugerido pelos Srs. Paulo Medeiros e Ary Beirão que após a elaboração de portaria aprovando código de classificação e tabela de temporalidade para o TCU o sistema Processus tivesse dispositivo que obrigasse o preenchimento dessas informações.
+
+Não se aplica
+
+Não se aplica
+
+b)
+
+A urgência da implementação de critérios para tratamento documental foi ressaltada pelo Sr. Ary Beirão, tendo em vista os ganhos que o TCU terá em termos de: gestão, racionalidade e padronização de procedimentos; espaço físico; economicidade; celeridade na obtenção de informação, entre outros.
+
+Não se aplica
+
+Não se aplica
+
+c)
+
+Foi lembrado pelo Sr. Luciano Batista, que a proposta de solução para os problemas de tratamento documental no TCU vem sendo atualizada há quatro anos, no entanto, sem chegar a uma ação efetiva de trabalho para implementação de uma sistemática a ser utilizada por todo Tribunal.
+
+Não se aplica
+
+Não se aplica
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 2 de 4
+
+
+
+4.1. Decisão
+
+3.2.  Responsável pela implementação / alteração
+
+3.3. Data limite
+
+d)
+
+Para adiantar as atividades, foi sugerido pelo Sr. Ary Beirão e a Sra. Lohir, que a futura gestora do TRADOC solicitasse treinamento já no início do projeto, visando a nivelar o conhecimento dos integrantes da equipe e também para não desperdiçar tempo enquanto se aguarda o processamento da licitação e contrato da consultoria. A sugestão foi acatada pelos demais presentes.
+
+Lohir
+
+Até 15-08-2003 
+
+e)
+
+Como o desenvolvimento do projeto levará a resultados que terão impacto em todo o Tribunal, o Sr. Paulo Medeiros observou que o patrocínio da Sepres é importante por tratar-se de unidade que propicia a integração entre todas as áreas do Tribunal.
+
+Não se aplica
+
+Não se aplica
+
+4.1.2
+
+Discussão e sugestão sobre o escopo do projeto (objetivo, metas-prazo, produtos, não escopo, macroetapas).
+
+a)
+
+Em consenso entre os presentes foi alterado o objetivo do projeto. O qual seria “DESENVOLVER solução ... de documentos e informações” passou a ser “DEFINIR solução ... de documentos e informações”, portanto, não cabe ao projeto o desenvolvimento ou a operacionalização da solução.
+
+Lohir
+
+01-08-2003
+
+b)
+
+Em decorrência do tempo necessário à contratação da consultoria (por licitação), o período de realização do projeto foi modificado, passando a ser de 01/08/03 a 30/10/04.
+
+Lohir
+
+01-08-2003
+
+c)
+
+Considerando a mudança acima, foram alterados os prazos das metas, a saber:
+
+-          Meta a, prazo passou de 30/11/03 para 16/02/04;
+
+-          Meta b, prazo passou de 30/11/03 para 16/02/04;
+
+-          Meta c, prazo passou de 30/06/04 para 16/08/04;
+
+-          Meta d, prazo passou de 30/06/04 para 16/08/04;
+
+-          Meta e, prazo passou de 30/06/04 para 16/08/04;
+
+-          Meta f, prazo passou de 15/08/04 para 30/09/04;
+
+-          Meta g, prazo passou de 15/08/04 para 30/09/04; e
+
+-          Meta h, prazo passou do 1º semestre de 2004 para 30/10/04.
+
+Lohir
+
+01-08-2003
+
+d)
+
+O indicador “Aprovação do código pelo  CONAR ou autoridade competente” foi excluído de todas as metas em que estava presente.
+
+Lohir
+
+01-08-2003
+
+e)
+
+O indicador das Metas a, b, c, d,  passou a ter a seguinte redação: “Código adaptado e encaminhado ao CONAR para aprovação até a data prevista”.
+
+Lohir
+
+01-08-2003
+
+f)
+
+Foi sugerido pelo Sr. Luciano a alteração da Meta h (5.2.2. Quanto), porque no caso das Secex nos Estados o treinamento deve ser oferecido a todos indistintamente. Para isso foram levantadas duas  alternativas: a utilização do Interlegis ou deslocamento de instrutores até as unidades técnicas, à exemplo do Fiscobras. Assim, um número maior de pessoas será atingido, evitando a dependência de uma pessoa para atuar como multiplicador da informação.
+
+Lohir
+
+01-08-2003
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 3 de 4
+
+
+
+4.1. Decisão
+
+3.2.  Responsável pela implementação / alteração
+
+3.3. Data limite
+
+
+
+g)
+
+Ficou esclarecido que o escopo do TRADOC não inclui o GED (gerência eletrônica de documentos), e sim, as definições sobre a sistemática de tratamento documental no TCU. Não incumbindo-se de operacionalizá-la
+
+Não se aplica
+
+Não se aplica
+
+h)
+
+Consultado sobre a relação entre os projetos Processus Web e  TRADOC, o Sr. Cláudio Cruz, afirmou que para manter uma direção e concentrar esforços deve existir uma forte integração entre esses dois projetos,  uma vez que o TRADOC deve indicar critérios e oferecer produtos que serão incorporados pelo Processus Web. Afirmou, também, que no decorrer das atividades serão feitos os ajustes necessários para evitar tanto o retrabalho quanto a duplicidade de tarefas. Restou esclarecido que os prazos entre esses projetos estão compatíveis.
+
+Não se aplica
+
+Não se aplica
+
+i)
+
+O Sr. Paulo Medeiros, considerando a complexidade do processo de licitação e visando dar celeridade à contratação da consultoria, considerou que a equipe do projeto já pode iniciar imediatamente a elaboração do projeto básico do edital de licitação, inclusive consultando outros órgão que tenham feito isso.
+
+Lohir
+
+15-08-2003
+
+4.1.3
+
+Identificação das fontes de financiamento / custeio e autorização de realização dos custos estimados.
+
+a)
+
+Após consulta à Secretaria de Orçamento e Finanças, foi confirmado pelo Sr. Ary Beirão, representando a SEGEDAM, a possibilidade de utilização de recursos orçamentários do corrente exercício, para a contratação da consultoria externa conforme proposta da equipe do TRADOC.
+
+Não se aplica
+
+Não se aplica
+
+b)
+
+A Sra. Lohir e o Sr. Ernoldo informaram aos presentes a execução do trabalho em campo será realizada pela equipe do projeto, juntamente com a CAD e que o trabalho de consultoria a ser contratado envolve treinamento, orientação e  avaliações necessárias ao desenvolvimento da sistemática de tratamento documental.
+
+Não se aplica
+
+Não se aplica
+
+c)
+
+Foi excluído do projeto o custo estimado em R$ 1.000,00, relativo à aquisição de livros e publicações, mas falta registrar o custo do estagiário.
+
+Lohir
+
+01-08-2003
+
+4.1.4
+
+Compromisso, por partes dos titulares que cedem recursos (local, RH, móveis e equipamentos), em relação ao prazo e ao modo da cessão dos recursos.
+
+a)
+
+O Sr. Paulo Medeiros questionou o número de integrantes da equipe, considerando-o elevado. Para justificar esse ponto a Sra. Lohir lembrou que o projeto irá fazer levantamento in loco, na área-meio e área-fim, da documentação atinente aos processos de trabalho do TCU e isso demandará considerável esforço. O Sr. Luciano complementou esclarecendo que a maioria dos projetos são específicos de uma ou outra área, por isso as equipes são menores, uma vez que utilizam informalmente os recursos da própria unidade de vinculação dos projetos. Ao final concordaram com a proposição da equipe.
+
+Não se aplica
+
+Não se aplica
+
+b)
+
+Com relação à equipe do projeto, apenas a cessão do servidor Carlos Orfila está pendente de confirmação pelo Sr. Eduardo Duailibe, Secretário da SECEX-2.
+
+Secretário da 
+
+2ª Secex
+
+01-08-2003
+
+TRADOC - Critérios de Tratamento Documental
+
+Página 4 de 4
+
+
+
+4.1. Decisão
+
+3.2.  Responsável pela implementação / alteração
+
+3.3. Data limite
+
+c)
+
+A Sra. Lohir consultou o Sr. Ozeas, Chefe do Serv.Adm da Sepres, quanto à cessão dos móveis e equipamentos, que foram utilizados até agora pela Equipe PJGP.  Ele não vê qualquer inconveniente quanto a isso. 
+
+Não se aplica
+
+Não se aplica
+
+d)
+
+A Sra. Lohir, via e-mail,  consultou a Segedam sobre cessão da sala 335, utilizada até agora pela Equipe PJGP.  Até o momento não obteve resposta a respeito. 
+
+Segedam
+
+01-08-2003
+
+4.1.5
+
+Verificar se o plano (MS Project) está compatível com o compromisso e as sugestões apresentadas.
+
+a)
+
+Conforme norma do TCU, a equipe TRADOC terá o prazo de 30 dias úteis, a partir da autorização do projeto para elaboração do plano do projeto.
+
+Lohir
+
+30 dias úteis a partir da autorização
+
+
+5. Outros assuntos
+
+
+5.1. Decisão
+
+4.2. Responsável pela ação
+
+4.3. Data limite
+
+a)
+
+Não foram abordados outros assuntos.
+
+-----
+
+-----
+
+
+6. Pendência identificada
+
+
+6.1. Decisão
+
+5.2.  Responsável pelo saneamento
+
+5.3. Data limite
+
+a)
+
+Itens 3.1.4, alíneas b.
+
+2ª Secex
+
+01-08-2003
+
+b)
+
+Itens 3.1.4, alíneas d.
+
+Segedam
+
+01-08-2003
+
+c)
+
+Ajustar a Proposta do TRADOC
+
+Lohir 
+
+01-08-2003
+
+
+7. Fechamento da ata
+
+
+7.1. Data da ata
+
+6.2. Nome do relator
+
+6.3. Assinatura do relator
+
+28-jul-2003
+
+Carlos Orfila
+
+(o coordenador assinou o original)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

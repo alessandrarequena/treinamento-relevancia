@@ -1,0 +1,790 @@
+Portaria
+232/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto "Instrução Eletrônica Simplificada de Contas – IES" nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo JOÃO BATISTA DE CAMARGO JÚNIOR, matrícula nº 5087-3, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição do coordenador ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DO PROJETO
+
+Instrução Eletrônica Simplificada de Contas – IES
+
+Página 1 de 5
+
+
+a) Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+João Batista de Camargo Júnior
+
+5087-3
+
+juniorjb@tcu.gov.br
+
+7982
+
+Função do GestorOrigem da FC
+
+
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Segecex
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Maria de Fátima Elias da Silva
+
+5690-1
+
+fatimaes@tcu.gov.br
+
+7889
+
+Local / Telefone
+
+Secretaria Adjunta de Contas – Adcon
+
+
+b) Identificação do projeto
+
+
+Nome do projeto
+
+Instrução Eletrônica Simplificada de Contas –  IES
+
+Período de Realização
+
+Unidade Patrocinadora
+
+13.10.2005 a 31.03.2006
+
+Secretaria Geral de Controle Externo – Segecex
+
+
+c) Vinculação estratégica
+Vínculo principal com Plano Estratégico do TCU 2003-2007 (objetivo e estratégia) – Portaria-TCU nº 59, de 20 de janeiro de 2003
+
+
+
+a)        
+
+Objetivo 1 : Cumprir com tempestividade e qualidade as competências do TCU
+
+b)        
+
+Estratégia 1: Ampliar e aprimorar o uso da tecnologia da informação.c)        
+
+
+
+Estratégia 9: Aperfeiçoar processos de trabalho no TCUVínculo principal com Plano de Diretrizes para o biênio 2005-2006 - (diretriz e medida) – Portaria-TCU nº Nº 28 de 14 de janeiro de 2005
+
+
+
+a)
+
+ 
+
+ 
+
+Diretriz 2: Ampliar e consolidar a qualidade nas ações de controle
+
+Medida  2.5 : Racionalizar e uniformizar os processos/procedimentos de trabalho a cargo das unidades técnicas, prevendo a integração de sistemas informatizados Vínculo principal com Plano Diretor 2005 da Segecex - (diretriz e medida) – Portaria-Segecex nº 04, de 14 de março de 2005
+
+
+
+a)        
+
+Diretriz 2: Ampliar e consolidar a qualidade nas ações de controle
+
+Medida 2.5 : Consolidar a nova sistemática de apresentação e análise de contas
+
+b)        
+
+Diretriz 3 : Manter fluxo positivo de instrução de mérito de processos de controle externo e de atos de pessoal, sem prejuízo do cumprimento dos planos de fiscalização.
+
+Medida 3.1 : Desenvolver e implementar sistemática de exame sumário de processos de baixa materialidade, especialmente TCEs.
+
+
+d) Problema / oportunidade
+
+
+Descrição do Problema ou da Oportunidade 
+
+a)        
+
+O Sistema de Coleta Eletrônica de Tomada ou Prestação de Contas – Siscontas coletou 298 contas, referentes ao exercício de 2004, das Forças Armadas (Exército Marinha e Aeronáutica). 
+
+b)        
+
+A implantação da Sistemática de Coleta Eletrônica de Tomada e Prestação de Contas foi coordenada pela Secretaria Adjunta de Contas (Adcon),  com a participação da Secretaria de Tecnologia da Informação (Setec), responsável pelo desenvolvimento do Sistema, e da 3ª Secex, facilitadora e colaboradora, além de receptora das contas da clientela militar no âmbito do Tribunal.
+
+c)        
+
+O Sistema objetivou dotar a clientela militar deste Tribunal de ferramenta “on-line” capaz de registrar, de forma padronizada, as peças que compõem os processos de tomadas de contas, ao tempo em que reduziu o trâmite de papéis entre as unidades jurisdicionadas, o Controle Interno e o TCU, cujo encaminhamento deu-se mediante o uso da internet.
+
+d)        
+
+O projeto recebeu maciço apoio dos 3 comandos militares e do Ministério da Defesa, estando presentes dirigentes e servidores de diversas áreas e regiões do País nos eventos  realizados e dirigidos pela equipe do projeto, da Setec e 3ª Secex, oportunidade em que ocorreram reuniões, treinamentos dos controles internos e apoio às unidades jurisdicionadas em 4 capitais (Brasília, Porto Alegre, Rio de Janeiro e São Paulo).
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DO PROJETO
+
+Instrução Eletrônica Simplificada de Contas – IES
+
+Página 2 de 5
+
+
+
+e)        
+
+Neste período iniciaram-se as conversações com a Setec e com a 3ª Secex para o desenvolvimento do módulo de autuação das contas coletadas pelo Siscontas. A 3ª Secex receberá as mesmas e fará a autuação (via sistema) dos processos relativos a cada uma delas.
+
+f)         
+
+Em conseqüência dessa nova concepção, o Tribunal vê-se diante de novo desafio para desenvolver metodologias e ferramentas que possibilitem a instrução, exame e julgamento das contas coletadas eletronicamente pelo Siscontas, obtendo assim a agilidade no trâmite das contas entre unidade técnica, Ministério Público, gabinetes e SGS.
+
+g)        
+
+Com base nesta necessidade, a Secretaria Adjunta de Contas iniciou, ainda na vigência do projeto Siscontas, estudos preliminares visando ao desenvolvimento de ferramenta de instrução/julgamento eletrônico (Instrução Eletrônica Simplificada-IES) para as contas eletrônicas.
+
+h)        
+
+Esta ferramenta irá permitir que cada participante (unidade técnica, Ministério Público, gabinete do ministro-relator e SGS) do processo de instrução/julgamento o faça utilizando-se deste sistema. O processo será tramitado eletronicamente até o julgamento pelo colegiado. Este sistema inicialmente servirá para a instrução das contas coletadas pelo Siscontas.  O objetivo da equipe é construir um sistema flexível, que possa futuramente servir para instrução/julgamento de outros tipos de processos.
+
+Evolução do Quadro (apresentar dados)
+
+a)        
+
+Algumas tarefas relacionadas com o projeto já foram iniciadas antes do início formal do mesmo, em especial a tarefa de especificar os módulos da ferramenta automatizada.
+
+b)        
+
+Situação atual: nenhum processo instruído/tramitado/julgado eletronicamente.
+
+c)        
+
+Situação após o fim do projeto: todos os 298 processos coletados eletronicamente serão instruídos/tramitado/julgados eletronicamente.
+
+d)        
+
+Situação futura: automatização de todo o ciclo dos processos dentro do Tribunal.
+
+
+e) Escopo do projeto
+
+
+5.1. Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema) 
+
+Implantar sistemática de instrução, tramitação e julgamento eletrônico das contas coletadas pelo sistema Siscontas.
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término
+
+a)        
+
+Efetuar levantamento de requisitos junto às áreas envolvidas e de necessidades de integração com outros sistemas
+
+100 %
+
+15.11.2005
+
+Requisitos levantados
+
+Termo de especificação (casos de uso prontos)
+
+Adcon
+
+b)        
+
+Desenvolver módulos de instrução da unidade técnica e do parecer do Ministério Público.
+
+100 %
+
+15.02.2006
+
+Módulos desenvolvidos
+
+Módulos de instrução da UT e do parecer do MP desenvolvidos
+
+3ª Secex e Gabinete dos Procuradores
+
+c)        
+
+Desenvolver módulo de confecção das relações e julgamento das contas coletadas eletronicamente.
+
+100 %
+
+15.03.2006
+
+Módulo desenvolvido
+
+Módulo de confecção das relações e julgamento das contas desenvolvido
+
+Gabinete dos Ministros-Relatores das unidades militares e SGS
+
+d)        
+
+Lançar no sistema as 298 contas eletrônicas aptas a serem  julgadas e publicadas.
+
+100 %
+
+31.03.2006
+
+298 contas lançadas no sistema
+
+298 contas aptas a serem julgadas lançadas no sistema
+
+ TCU
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DO PROJETO
+
+Instrução Eletrônica Simplificada de Contas – IES
+
+Página 3 de 5
+
+
+
+e)        
+
+Efetuar treinamento dos usuários envolvidos.
+
+100%
+
+31.03.2006
+
+Unidades envolvidas treinadas
+
+Metodologia disseminada
+
+3ª Secex, Gabinete dos Procuradores, 
+
+Gabinete dos Ministros-Relatores das unidades militares e SGS
+
+f)         
+
+Identificar e propor atualização das normas que suportam o processo eletrônico
+
+100 %
+
+15.02.2006
+
+Normas revisadas
+
+Normas atualizadas
+
+ TCU
+
+g)        
+
+Confecção do manual do usuário
+
+100 %
+
+15.03.2006
+
+Manual confeccionado
+
+Manual do usuário
+
+3ª Secex, Gabinete dos Procuradores, 
+
+Gabinete dos Ministros-Relatores das unidades militares e SGS
+
+
+5.3. Macroetapas (primeiro nível de Estrutura Analítica do Projeto – EAP)
+
+
+a)       
+
+Especificação dos módulos
+
+b)       
+
+Desenvolvimento dos módulos do sistema
+
+c)       
+
+Lançamento das contas no sistema
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)        
+
+Automatização da instrução, tramitação e julgamento de contas não coletadas pelo sistema Siscontas.
+
+b)        
+
+As contas eletrônicas que, por ventura, demandarem algum tipo de saneamento processual ou que tiverem parecer pela irregularidade, mesmo que coletadas eletronicamente, não serão instruídas/julgadas eletronicamente.
+
+
+f) Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da Parte Envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+a)        
+
+Segecex
+
+Patrocinadora do projeto.
+
+b)        
+
+Adcon
+
+Responsável pela definição das funcionalidades, testes e implantação do sistema, bem como pela coordenação dos trabalhos junto às partes envolvidas.
+
+c)        
+
+Setec
+
+Responsável pela implementação da ferramenta automatizada de instrução, tramitação e julgamento das contas.
+
+d)        
+
+3ª Secex
+
+Contribuição na definição, testes e confecção das instruções  e do parecer do titular da unidade técnica.
+
+e)        
+
+MP-TCU
+
+Contribuição na definição, testes e confecção dos pareceres das contas eletrônicas.
+
+f)         
+
+Gabinete dos ministros-relatores que tem contas coletadas eletronicamente 
+
+Contribuição na definição da confecção das relações e de toda a automatização da fase de julgamento das contas eletrônicas, viabilizando a integração com o sistema Sagas.
+
+g)        
+
+SGS
+
+Contribuição na definição da automatização da fase de julgamento das contas eletrônicas, viabilizando a integração com o sistema Sagas e Juris.
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DO PROJETO
+
+Instrução Eletrônica Simplificada de Contas – IES
+
+Página 4 de 5
+
+
+g) Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de Ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela Ação
+
+a)        
+
+Carência de pessoal capacitado para implementar a ferramenta a tempo de as 298 contas eletrônicas estarem lançadas no sistema e aptas a serem julgadas
+
+Alto
+
+Baixa
+
+(E) Alocação imediata, por parte da Setec, de profissionais para o desenvolvimento da ferramenta (especificação de requisitos e programação) 
+
+Setec
+
+b)        
+
+Carência de pessoal na 3ª Secex para colaborar com a equipe do projeto na definição dos requisitos e validação dos produtos
+
+Alto
+
+Baixa
+
+(M) Iniciar rapidamente a definição dos requisitos 
+
+Adcon/
+
+Segecex 
+
+c)        
+
+Ausência de tempestividade da 3ª Secex na elaboração das instruções e do parecer do titular da UT das contas eletrônicas
+
+Alto
+
+Baixa
+
+(E) Unidade iniciar, assim que a ferramenta for disponibilizada,  o trabalho nas contas eletrônicas
+
+3ª Secex 
+
+d)        
+
+Falta de interação com os gabinetes dos procuradores na definição dos requisitos e validação dos produtos
+
+Alto
+
+Baixa
+
+(M) Iniciar rapidamente a definição dos requisitos 
+
+Adcon/
+
+Segecex
+
+e)        
+
+Ausência de tempestividade dos gabinetes dos procuradores na confecção dos pareceres das contas eletrônicas
+
+Alto
+
+Baixa
+
+(E) Gabinete iniciar, assim que a ferramenta for disponibilizada,  o trabalho nas contas eletrônicas
+
+Gabinete dos Procuradores
+
+f)         
+
+Falta de interação com os gabinetes dos Ministros-Relatores e a SGS na definição dos requisitos e validação dos produtos
+
+Alto
+
+Baixa
+
+(M) Iniciar rapidamente a definição dos requisitos  com os Gabinetes e a SGS
+
+Adcon/
+
+Segecex
+
+g)        
+
+Ausência de tempestividade dos gabinetes dos Ministros-Relatores na confecção dos pareceres das contas eletrônicas
+
+Alto
+
+Baixa
+
+(E) Gabinete iniciar, assim que a ferramenta for disponibilizada,  o trabalho nas contas eletrônicas
+
+Gabinetes dos Ministros-Relatores
+
+h)        
+
+Não atualização dos normativos que suportam o processo eletrônico
+
+Alto
+
+Baixa
+
+(M) sensibilizar a Instituição sobre a viabilidade do processo totalmente eletrônico 
+
+Adcon/Segecex
+
+
+h) Relação com outros projetos
+
+
+Projetos Predecessores
+
+Projetos Conexos
+
+Projetos Sucessores
+
+a)        
+
+Siscontas – Implantação da Sistemática da Coleta Eletrônica de Contas
+
+Sistema de Apoio, Gerenciamento e Assessoramento das Sessões - SAGAS
+
+Instrução/tramitação e julgamento eletrônicos dos atos de pessoal. 
+
+b)        
+
+Certificação da gestão pública
+
+ 
+
+ 
+
+
+i) Custos estimados
+
+
+Recurso
+
+Valor Estimado
+
+Data Inicial de Liberação do Recurso
+
+a)        
+
+Analistas terceirizados que participarão da implementação da ferramenta automatizada
+
+R$ 180.180,00
+
+ 
+
+-----------------------
+
+Total de custos estimados
+
+R$ 180.180,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DO PROJETO
+
+Instrução Eletrônica Simplificada de Contas – IES
+
+Página 5 de 5
+
+
+j) Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)        
+
+Espaço físico para alocar os analistas terceirizados
+
+Setec
+
+
+k) Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação Integral/ Parcial / Por Atividade
+
+a)        
+
+João Batista de Camargo Júnior
+
+5087-3
+
+Adcon
+
+13.10.2005 a 31.03.2006
+
+Integral
+
+b)        
+
+Maria de Fátima Elias da Silva 
+
+5690-1
+
+Adcon
+
+13.10.2005 a 31.03.2006
+
+Parcial
+
+c)        
+
+Álvaro Pereira da Silva
+
+5827-0
+
+Adcon
+
+13.10.2005 a 31.03.2006
+
+Parcial
+
+d)        
+
+João Robertson Kramer Santana
+
+3167-4
+
+Setec
+
+13.10.2005 a 31.03.2006
+
+Parcial
+
+e)        
+
+Fábio Alcides de Souza
+
+5559-0
+
+Setec
+
+13.10.2005 a 15.11.2005
+
+Parcial (fase de levantamento de requisitos)
+
+
+l) Finalização
+
+
+Data
+
+Assinatura do Gestor do Projeto
+
+Em 07/10/2005
+
+Maria de Fátima Elias da Silva
+
+Coordenadora Substituta do Projeto
+
+Manifestação do Titular da Unidade Patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 06/10/2005.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Brasília, em 07/10/2005
+
+ 
+
+ 
+
+Paulo Roberto Wiechers Martins 
+
+Secretário-Geral de Controle Externo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto "Instrução Eletrônica Simplificada de Contas &#8211; IES" e designa seu gestor.
+
+

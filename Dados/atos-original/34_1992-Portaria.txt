@@ -1,0 +1,307 @@
+Portaria
+34/1992
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista o contido no TC-007.586/90-6, resolve:
+
+
+
+Delegar competência ao Sr. Secretário de Auditoria para aprovar os procedimentos de cadastramento, descadastramento e atualização do cadastro dos servidores da atividade-fim do Tribunal de Contas da União nos sistemas de processamento de dados do Governo Federal, bem como os respectivos modelos de memorandos e formulários anexos, elaborados pela Saudi.
+
+
+
+
+
+
+
+
+
+
+
+
+CARLOS ÁTILA ÁLVARES DA SILVA
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada pela Portaria nº 1, de 3 de janeiro de 1994.
+
+
+ 
+
+
+
+PROCEDIMENTOS DE CADASTRAMENTO, DESCADASTRAMENTO E ATUALIZAÇÃO DO CADASTRO DE SERVIDORES DA ATIVIDADE-FIM DO TRIBUNAL DE CONTAS DA UNIÃO NOS SISTEMAS DE PROCESSAMENTO DE DADOS DO GOVERNO FEDERAL
+
+
+
+I - DO CADASTRADOR
+
+
+
+1.1 Compete à Secretaria de Auditoria - Saudi credenciar e descredenciar, junto aos órgãos competentes, o cadastrador de servidores da atividade-fim do Tribunal de Contas da União nos sistemas de processamento de dados do Governo Federal, assim como o seu substituto.
+
+
+
+1.1.1 A escolha do casdatrador e de seu substituto deverá recair sobre servidores integrantes da categoria funcional de Analista de Finanças e Controle Externo (Área I), lotados na Saudi, de reconhecida responsabilidade, visto que lhes competirá o cadastramento ou descadastramento dos operadores dos sistemas de processamento de dados do Governo Federal no âmbito do Tribunal de Contas da União.
+
+
+
+1.1.2 O cadastrador e seu substituto, se do interesse do serviço poderão ser também cadastrados como operadores.
+
+
+
+II - DOS MODELOS DE MEMORANDOS E FORMULÁRIOS
+
+
+
+2.1 Na implementação dos procedimentos em epígrafe serão utilizados os seguintes modelos de memorandos e formulários:
+
+
+
+a) Memorando de Solicitação de Cadastramento/Descadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal (anexo I);
+
+
+
+b) Memorando de comunicação de Descadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal (anexo II);
+
+
+
+c) Memorando de Comunicação de Cadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal (anexo III);
+
+
+
+d) Memorando de Atualização do cadastro de Operadores dos sistemas de Processamento de Dados do Governo Federal (anexo IV);
+
+
+
+e) Termo de Responsabilidade pelo Uso da Senha e das Informações dos Sistemas de Processamento de Dados do Governo Federal (anexo V);
+
+
+
+f) Formulário de Senha Individual e Sigilosa de Acesso aos Sistemas de Processamento de Dados do Governo Federal (anexo VI).
+
+
+
+2.2.1 Caberá à Saudi, em coordenação com a Seplom, aperfeiçoar, quando necessário, os modelos a que se refere este título.
+
+
+
+III - PROCEDIMENTOS A CARGO DA SECRETARIA DE AUDITORIA
+
+
+
+3.1 A Saudi procederá ao cadastramento, descadastramento e atualização dos dados cadastrais dos operados dos sistemas de processamento de dados do Governo Federal da atividade-fim do Tribunal, que forem indicados pelos dirigentes das Unidades Técnicas, através dos respectivos memorandos, identificados no título II (anexos I e IV).
+
+
+
+3.1.2 Os operadores serão cadastrados no nível de acesso de auditoria abrangente.
+
+
+
+3.1.3 O nível de acesso de auditoria abrangente permite ao operador consultar, sintética ou analiticamente, todos os dados registrados nos sistemas de processamento de dados do Governo Federal, inclusive com acesso a todos os documentos de registro.
+
+
+
+3.1.4 Todo operador dos sistemas de processamento de dados do Governo Federal, incluindo os cadastradores, será identificado pelo número do seu CPF, que será associado a uma senha secreta, de conhecimento e utilização exclusiva do operador, a qual, por razões de segurança dos sistemas:
+
+
+
+a) pode ser alterada a qualquer instante;
+
+
+
+b) é composta de no mínimo seis e no máximo doze posições alfanuméricas, não podendo conter somente números;
+
+
+
+c) é armazenada de forma cifrada.
+
+
+
+3.1.5 Manterá atualizado, junto aos órgãos gerentes dos sistemas, o rol de transações referentes ao nível de acesso de auditoria abrangente.
+
+
+
+3.2 Ao receber a autorização de cadastramento no nível de acesso de auditoria abrangente caberá ao cadastrador ou seu substituto:
+
+
+
+a) incluir nos sistemas indicados, como operadores, os servidores cujos nomes constem do memorando autorizativo, anotando a senha respectiva no formulário próprio (anexo VI);
+
+
+
+b) colocar em envelope dirigido ao operador o formulário a que se refere a alínea anterior, bem como o Termo de Responsabilidade pelo Uso da Senha e das Informações dos Sistemas de Processamento de Dados do Governo Federal (anexo V);
+
+
+
+c) lacrar o envelope;
+
+
+
+d) encaminhar ao dirigente da Unidade técnica solicitante, por meio do Memorando de Comunicação de Cadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal (anexo III), a relação dos operadores cadastrados e os envelopes confidencias e pessoais de que trata a letra "c" acima;
+
+
+
+e) arquivar a 2ª via do memorando a que se refere a alínea anterior, em condições de segurança; e
+
+
+
+f) arquivar os Termos de Responsabilidade, devidamente assinados, nas mesmas condições exigidas na alínea anterior.
+
+
+
+3.3 As atualizações dos dados pessoais e funcionais dos operadores de cada Unidade Técnica serão realizadas, pelo cadastrador ou seu substituto, mediante solicitação do dirigente da Unidade Técnica na qual esteja lotado o operador, conforme memorando específico (anexo IV).
+
+
+
+3.4 Nos afastamento legais e eventuais do cadastrador, caberá a seu substituto exercer todas as atribuições cometidas ao titular.
+
+
+
+3.5 Com o objetivo de detectar o uso indevido das senhas, a Saudi, em conjunto com os órgãos gerentes dos sistemas, poderá identificar a data, a hora, o operador, a unidade e o terminal de qualquer transação realizada pelos operadores e cadastradores do Tribunal de Contas da União.
+
+
+
+3.5.1 Qualquer operador do Tribunal de Contas da União que esteja fazendo uso indevido da sua senha poderá ser descadastrado, sem aviso prévio.
+
+
+
+3.5.2 o descadastramento de que trata o subitem anterior será comunicado ao dirigente da Unidade Técnica, para fins do disposto no subitem 4.6.
+
+
+
+3.6 A Saudi poderá, no interesse da auditoria, solicitar aos órgãos competentes a instalação de terminais e as senhas correspondentes para acesso a quaisquer sistemas de processamento de dados do Governo Federal.
+
+
+
+3.6.1 A solicitação de acesso aos sistemas do Governo Federal, por intermédio dos microcomputadores e terminais do Tribunal de Contas da União, far-se-á com base em estudos elaborados pela Saudi em conjunto com as demais Unidades Técnicas e o Centro de Informática e Processamento de Dados - CPD.
+
+
+
+IV - PROCEDIMENTOS A CARGO DAS UNIDADES TÉCNICAS
+
+
+
+4.1 Os dirigentes das Unidades Técnicas deverão encaminhar à Saudi, conforme o caso, o Memorando de Solicitação de Cadastramento/descadastramento. o de Comunicação de Descadastramento e o de Atualização do Cadastro de operadores dos Sistemas de Processamento de Dados do Governo Federal, cujos modelos são apresentados nos anexos I, II e IV.
+
+
+
+4.1.1 Somente poderão ser cadastrados como operadores dos sistemas de processamento de dados do Governo Federal, no nível de acesso de auditoria abrangente, os servidores integrantes da Carreira Finanças e Controle Externo (Área I), de reconhecida responsabilidade, guardando-se estreita correlação entre as atividades que desempenham e o nível das transações às quais lhes será dado acesso.
+
+
+
+4.2 Após o recebimento do Memorando de Credenciamento e seus anexos, encaminhados pela Saudi, os dirigentes das Unidades Técnicas deverão entregar aos servidores cadastrados os envelopes lacrados e pessoais de que trata o subitem 3.2, solicitando-lhes, no ato da entrega, que preencham e assinem o Termo de Responsabilidade que se encontra no interior dos envelopes.
+
+
+
+4.3 Concluída a entrega dos envelopes lacrados, o preenchimento e a assinatura do Termo de Responsabilidade, na forma do subitem anterior, o dirigente da Unidade Técnica encaminhar à Saudi a segunda via do referido Termo, devidamente preenchida e assinada pelo servidor, arquivando a primeira via.
+
+
+
+4.4 As Unidades Técnicas deverão manter arquivados os Memorandos de Cadastramento ou Descadastramento e os Termos de Responsabilidade em condições de segurança.
+
+
+
+4.5 Os dirigentes de cada Unidade Técnica serão cadastrados pela Saudi, como operadores representantes da sua Unidade, admitida a possibilidade de delegação de competência, e nessa condição poderão, a qualquer momento, através de transação de conformidade de operadores, confirmar ou descadastrar os operadores de suas respectivas Unidades.
+
+
+
+4.5.1 A conformidade de operadores deverá ser registrada pelo menos uma vez ao mês, em cada sistema que possuir esta transação, sob pena de descadastramento automático de todos os operadores da Unidade Técnica.
+
+
+
+4.5.2 Os descadastramentos de operadores pela Unidade Técnica, através de transação de conformidade de operadores, deverão ser comunicados imediatamente à Saudi, por intermédio do Memorando de Comunicação de Descadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal, de que trata a letra "b" do subitem 2.1 destes procedimentos (anexo II).
+
+
+
+4.5.3 Nos sistemas que não possuírem transação de conformidade de operadores, os dirigentes de cada Unidade Técnica não necessitarão realizar a conformidade mensal descrita no subitem 4.5.1, porém, caso precisem descadastrar algum operador, deverão solicitar à Saudi o descadastramento através do Memorando de Solicitação de cadastramento/Descadastramento de Operadores dos Sistemas de Processamento de Dados do Governo Federal (anexo I).
+
+
+
+4.6 Ao dirigente de cada Unidade Técnica cabe zelar pelo bom uso das senhas em sua Unidade, adotando as seguintes providências, na hipótese de operadores que não observem as regras definidas no Termo de Responsabilidade, em especial as contidas em suas alíneas "a" e "f", e no artigo 7º da Portaria nº 065, de 12.07.91;
+
+
+
+a) alertar o operador e, se for o caso, descadastrá-lo por prazo a ser determinado de acordo com a natureza da falta cometida;
+
+
+
+b) em caso de reincidência, descadastrar, por prazo indeterminado, o operador dos sistemas; e
+
+
+
+c) em casos graves, além de descadastrar por prazo indeterminado o operador dos sistemas, propor a instauração de processo administrativo disciplinar, com vistas à aplicação das penalidades que o fato requerer.
+
+
+
+4.7 Os operadores que forem licenciados para a prática de atividades políticas ou para o desempenho de mandato classista, bem como os afastados para servirem a outro órgão ou entidade opu para o exercício de mandato eletivo, deverão ser descadastrados dos sistemas de processamento de dados do Governo Federal, durante o período da licença ou do afastamento.
+
+
+
+V - PROCEDIMENTOS A CARGO DO OPERADOR
+
+
+
+5.1 O servidor, ao receber do dirigente da Unidade Técnica o envelope pessoal lacrado, contendo sua senha sigilosa e individual, assinará o Termo de Responsabilidade pelo uso das transações dos sistemas sob sua senha, preenchendo, de próprio punho, os campos destinados aos sistemas em que foi cadastrado, ao CPF, à data e à hora.
+
+
+
+5.2 De posse de sua senha, o operador:
+
+
+
+a) deverá ir imediatamente ao terminal digitar seu CPF e a senha entregue pelo dirigente da Unidade Técnica e substituir essa senha por outra de seu exclusivo conhecimento e uso;
+
+
+
+b) tomará conhecimento, através do terminal, do rol de transações disponíveis para o nível no qual foi cadastrado; e
+
+
+
+c) concluído esse processo, estará habilitado a utilizar as transações do seu nível, comprometendo-se a observar as disposições contidas nestes procedimentos, em especial no Termo de Responsabilidade, bem como na Portaria nº 065/91, de 12.07.91.
+
+
+
+IV - DISPOSIÇÕES FINAIS
+
+
+
+6.1 Os dirigentes das Unidades Técnicas deverão, no prazo de quinze dias da data da publicação destes procedimentos, confirmar o cadastro dos servidores de sua Unidade Técnica já habilitados nos sistemas, mediante o envio à Saudi do Memorando e do Termo de que tratam os anexos I e V.
+
+
+
+Saudi, em 25 de março de 1992
+
+
+
+Não consta revogação expressa
+Delega competência ao Secretário de Auditoria para aprovar procedimentos de cadastramento, descadastramento e atualização do cadastro de servidores da atividade-fim do TCU nos sistemas de processamento de dados do Governo Federal.
+
+

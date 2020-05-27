@@ -1,0 +1,547 @@
+Portaria
+85/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista o disposto no art. 28, incisos XIV e XXXIV, do Regimento Interno;
+
+
+Considerando o disposto no art. 23 da Resolução TCU nº 257, de 6 de novembro de 2013;
+
+
+Considerando a necessidade de definir procedimentos operacionais relativos ao funcionamento do sistema de planejamento e gestão da estratégia do Tribunal, em especial no que se refere à elaboração, ao acompanhamento, à aferição de resultados e à revisão dos planos institucionais;
+
+
+Considerando que, conforme previsto no do art. 188-A do Regimento Interno do TCU, constará do Plano de Controle Externo o direcionamento para o alcance de cada objetivo estratégico associado a ações de controle;
+
+
+Considerando a necessidade de alinhamento conceitual para melhor orientar a elaboração dos planos institucionais do TCU, em especial o Plano de Diretrizes e o Plano de Controle Externo; e
+
+
+Considerando a importância de definir regras que permitam estabelecer e manter o necessário alinhamento entre os sistemas de planejamento e gestão da estratégia do TCU e o de avaliação de desempenho profissional dos servidores, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º  O processo de elaboração, acompanhamento, aferição de resultados e revisão dos planos institucionais do TCU observará o disposto nesta Portaria.
+
+
+Art. 2º  Para os efeitos desta Portaria entende-se por
+
+
+I - 
+accountability
+: dever de prestar contas associado a mecanismos de responsabilização;
+
+
+II - comunicação: dever de divulgar adequada e permanentemente o significado e o processo de formulação e de execução dos planos institucionais, de forma a assegurar a devida participação e apropriação desses instrumentos por parte dos servidores, dirigentes e autoridades do TCU;
+
+
+III - flexibilidade: capacidade de definir e operacionalizar estratégias que permitam ao Tribunal se antecipar e responder tempestivamente às mudanças e aos diferentes cenários econômicos, políticos, tecnológicos, sociais e ambientais nos quais atua;
+
+
+IV - cultura orientada a resultados: conjunto de práticas e convicções que favorecem a compreensão e a observância dos objetivos institucionais por parte de servidores, dirigentes e autoridades, conduzindo o Tribunal ao alcance dos resultados esperados;
+
+
+V - objeto de controle: função, subfunção, programa, ação e outros elementos da Administração Pública Federal ou a ela relacionados que podem ser individualizados e controlados por meio da atividade de controle externo de competência do TCU.
+
+
+VI - universo do controle: conjunto de objetos de controle sob a responsabilidade do TCU, consideradas as variáveis do contexto no qual estão inseridos;
+
+
+VII - produção de conhecimento: estudos, análises e verificações que visam obter e construir conhecimento sobre o universo do controle ou sobre objetos de controle, tendo como fim melhor direcionar as ações do Tribunal no exercício do controle externo.
+
+
+VIII - ação de controle: toda ação sobre objeto de controle capaz de gerar resultado, efetivo ou potencial, mediante deliberação do Tribunal ou de ministro-relator, em cumprimento à atividade de controle externo disposta no Título VI do Regimento Interno do Tribunal de Contas da União.
+
+
+Art. 3º  O processo de elaboração, acompanhamento, aferição de resultados e revisão dos planos institucionais do TCU obedecerá a critérios de governança e a princípios de 
+accountability
+, comunicação, flexibilidade estratégica e cultura orientada a resultados.
+
+
+Art. 4º  São planos institucionais do TCU:
+
+
+I - Plano Estratégico (PET);
+
+
+II - Plano de Controle Externo;
+
+
+III - Plano de Diretrizes;
+
+
+IV - Planos Diretores de Unidades Básicas e Planos Diretores das demais unidades vinculadas à Presidência;
+
+
+V - Plano Diretor de Tecnologia da Informação (PDTI);
+
+
+VI - Plano Diretor de Desenvolvimento de Competências (PDDC).
+
+
+
+Art. 5º  O PET terá periodicidade de seis anos e definirá o conjunto de objetivos, indicadores, metas e ações necessários ao cumprimento da missão e ao alcance da visão de futuro do TCU.
+
+
+Parágrafo único. O PET orienta a elaboração dos demais planos institucionais, a identificação de oportunidades de inovação a serem conduzidas no âmbito do TCU e, em conjunto com critérios definidos em normativo específico do Presidente, a alocação de funções de confiança de Especialista Sênior no Tribunal.
+
+
+Art. 6º  O Plano de Controle Externo, de que trata o art. 188-A do Regimento Interno do TCU, terá periodicidade bianual e conterá as linhas de ação que orientarão as atividades de controle externo, as diretrizes a serem observadas no cumprimento dos dispositivos do Plano, a estimativa de recursos a serem alocados para seu cumprimento e a demonstração de sua compatibilidade com o Plano Estratégico por meio da vinculação das linhas de ação aos objetivos estratégicos do Tribunal.
+
+
+Parágrafo único. O Plano de Controle Externo dará cumprimento ao Plano de Fiscalização disposto no art. 244 do Regimento Interno do Tribunal.
+
+
+Art. 7º  O Plano de Diretrizes tem por objetivos principais o desdobramento periódico das metas estabelecidas no PET e o apoio à execução do Plano de Controle Externo.
+
+
+Parágrafo único. O Plano de Diretrizes terá periodicidade bianual e conterá os objetivos estratégicos, os indicadores de desempenho, as metas e as iniciativas que nortearão as ações do TCU e de sua Secretaria.
+
+
+Art. 8º  Os Planos Diretores de Unidades Básicas terão periodicidade anual e conterão as iniciativas, os programas e os projetos a serem desenvolvidos pelas respectivas unidades integrantes objetivando viabilizar o cumprimento do Plano de Controle Externo e do Plano de Diretrizes, bem como conterão as prioridades setoriais pactuadas pelo dirigente da Unidade Básica e o conjunto de indicadores, metas e ações utilizados para apuração do desempenho de suas unidades integrantes.
+
+
+§2º Aplicam-se, no que couber, aos Planos Diretores das demais unidades vinculadas à Presidência do Tribunal, as disposições referentes aos Planos Diretores das Unidades Básicas.
+
+
+Art. 9º  O PDTI possui periodicidade anual e contempla as ações de tecnologia da informação (TI) necessárias ao cumprimento dos demais planos institucionais, as iniciativas oriundas das próprias unidades de TI, bem como o conjunto de indicadores e metas a serem utilizados para avaliar seu desempenho.
+
+
+Art. 10.  O PDDC possui periodicidade anual e contempla as ações a cargo do Instituto Serzedello Corrêa (ISC) necessárias ao cumprimento dos demais planos institucionais, as ações oriundas da própria unidade e o conjunto de indicadores e metas a serem utilizadas para avaliar seu desempenho.
+
+
+Art. 11.  Os planos de Diretrizes, diretores de unidades básicas, das demais unidades vinculadas diretamente à Presidência, de tecnologia da informação e de desenvolvimento de competências deverão conter, quando pertinente, entre os indicadores que avaliam o desempenho de suas respectivas unidades, indicadores oriundos do Plano Estratégico.
+
+
+Art. 12.  Os planos institucionais compreenderão o período de 1º de abril a de 31 de março, observada vigência específica de cada plano.
+
+
+CAPÍTULO II
+
+
+DA ELABORAÇÃO E DA APROVAÇÃO DOS PLANOS
+
+
+Art. 13.  O processo de elaboração dos planos institucionais, coordenado pela Secretaria de Planejamento, Governança e Gestão (Seplan), será conduzido:
+
+
+I - pela Seplan, no caso do Plano Estratégico, do Plano de Diretrizes e do Plano Diretor da Seplan;
+
+
+II - pela Secretaria de Apoio à Gestão do Controle Externo (Segest), com o apoio das Coordenações-Gerais de Controle Externo, no caso do Plano de Controle Externo e do Plano Diretor da Secretaria-Geral de Controle Externo (Segecex);
+
+
+III - pela Secretaria de Planejamento, Métodos e Gestão de Soluções de TI para a Administração (Seadmin) e pela Secretaria-Geral Adjunta da Presidência (Adgepres), respectivamente, no caso dos planos diretores da Secretaria-Geral de Administração (Segedam) e da Secretaria-Geral da Presidência (Segepres);
+
+
+IV - pela Secretaria de Soluções de TI (STI) e pela Secretaria de Infraestrutura da TI (Setic), no caso do PDTI;
+
+
+V - pelo Instituto Serzedello Corrêa (ISC), no caso do PDDC; e
+
+
+VI - pela Secretaria de Controle Interno (Secoi), no caso do Plano Diretor de Controle Interno.
+
+
+Parágrafo único. As unidades responsáveis pela condução do processo de elaboração dos planos institucionais poderão requisitar, caso necessário:
+
+
+I - apoio técnico da Seplan; e
+
+
+II - informações, das demais unidades da Secretaria do TCU, indispensáveis à boa condução dos trabalhos.
+
+
+Art. 14.  A aprovação dos planos institucionais será realizada da seguinte forma:
+
+
+I - Plano Estratégico: pelo Presidente, por meio de portaria e após consulta prévia ao Plenário;
+
+
+II - Plano de Controle Externo: pelo Plenário, por iniciativa do Presidente, por meio de comunicado, até a última sessão do mês de março, após consulta prévia aos relatores;
+
+
+III - Plano de Diretrizes: pelo Presidente, por meio de Portaria, até o último dia útil do mês de março;
+
+
+IV - Planos diretores de unidades básicas e planos diretores das demais unidades vinculadas à Presidência: pelo respectivo dirigente da unidade, por meio de portaria, até o dia 15 de abril;
+
+
+V - PDTI: pela Comissão de Coordenação Geral (CCG), após consulta prévia ao Comitê Gestor de Tecnologia da Informação (CGTI), por meio de portaria, até o último dia útil do mês de abril; e
+
+
+VI - PDDC: pela CCG, após consulta prévia ao Comitê de Gestão de Pessoas (CGP), por meio de portaria, até o último dia útil do mês de abril.
+
+
+Art. 15.  Até o décimo dia útil após a aprovação de cada plano institucional, a unidade responsável por conduzir a respectiva elaboração do plano deve promover o registro em sistema informatizado específico, para fins de acompanhamento e cômputo de resultados.
+
+
+Parágrafo único. Caso haja necessidade, o detalhamento e a divulgação dos respectivos planos institucionais devem ser realizados pela unidade responsável por sua implementação até 10 dias úteis após o prazo a que se refere o caput.
+
+
+Art. 16.  Os planos institucionais podem conter ações e metas que ultrapassem seu prazo de vigência, devendo, nessa hipótese, ser observada a necessária revalidação nos prazos previstos na Resolução TCU Nº 257, de 6 de novembro de 2013.
+
+
+SEÇÃO I
+
+
+DO PLANO ESTRATÉGICO
+
+
+Art. 17.  Os estudos que subsidiarão a elaboração do PET serão conduzidos por grupo de trabalho designado pela Presidência que contará, além da Seplan com representantes das três unidades básicas do Tribunal, em especial da Segest, da Seadmin, da Secretaria de Gestão de Pessoas (Segep), da Secretaria-Geral Adjunta da Presidência (Adgepres), da STI e/ou da Setic, do ISC e da Secretaria de Comunicação (Secom).
+
+
+§ 1º Os trabalhos do grupo serão conduzidos pela Seplan, terão duração máxima de doze meses e serão iniciados dezoito meses antes do término do Plano Estratégico em vigor;
+
+
+§ 2º A indicação dos representantes do grupo de trabalho será feita pela Seplan, após consulta ao Comitê de Gestão da Estratégia e da Governança Coorporativa (Cogesg), e aprovação pela CCG.
+
+
+Art. 18.  São etapas do processo de elaboração do Plano Estratégico:
+
+
+I - definição do contexto de atuação do TCU, na qual são realizados os diagnósticos de ambiente interno e externo e, de modo complementar, estudos de cenários prospectivos;
+
+
+II - definição de estratégias de atuação do TCU, na qual são estabelecidos a missão e a visão de futuro do Tribunal, e as estratégias de ação para o seu alcance; e
+
+
+III - tradução da estratégia do TCU, na qual são definidos os objetivos estratégicos, os indicadores de desempenho, as metas e as principais iniciativas institucionais.
+
+
+§ 1º A etapa de definição de contexto deve ser realizada por meio de ampla consulta a servidores do TCU e a representantes da sociedade civil, de forma a assegurar a devida consonância com os pressupostos básicos da boa governança pública.
+
+
+§ 2º Os resultados advindos de cada uma das etapas deverão ser submetidos à CCG para validação.
+
+
+SEÇÃO II
+
+
+DO PLANO DE CONTROLE EXTERNO E DO PLANO DE DIRETRIZES
+
+
+Art. 19.  O processo de elaboração do Plano de Controle Externo e do Plano de Diretrizes observará o seguinte:
+
+
+I - Plano de Controle Externo: a elaboração será conduzida pela Segest, que poderá contar com a participação de outras unidades que entenda necessário, desde que autorizada pela Unidade Básica demandada e;
+
+
+II - Plano de Diretrizes: a elaboração será conduzida por grupo de trabalho designado pela Presidência do Tribunal e contará, além da Seplan, responsável pela condução do grupo, com representantes da Segecex, da Segedam e da Segepres.
+
+
+§ 1º O processo de elaboração dos planos a que se refere esta Seção terá duração máxima de três meses e será iniciado no mês de janeiro do ano de início de sua vigência.
+
+
+§ 2º A Seplan e a Segest estão autorizadas a iniciar o levantamento de informações necessárias à elaboração dos planos antes do prazo definido no parágrafo anterior.
+
+
+Art. 20.  São etapas do processo de elaboração do Plano de Diretrizes:
+
+
+I - definição de diretrizes da gestão: identifica os objetivos estratégicos, os indicadores, as metas e as ações prioritárias para o período ao qual o plano se refere;
+
+
+II - definição de prazos e responsabilidades: identifica, para cada ação priorizada no Plano de Diretrizes, as unidades da Secretaria do Tribunal responsáveis pela execução da ação e estabelece o prazo previsto para entrega dos produtos a ela associados;
+
+
+III - definição de indicadores de desempenho e de metas, escolhidos entre o conjunto de diretrizes tratado no inciso I deste artigo, os quais serão utilizados para fim da avaliação de desempenho institucional do TCU e das unidades de assessoramento às autoridades.
+
+
+§ 1º A etapa de definição de diretrizes deverá ser realizada conforme orientação do Presidente e manifestação da CCG.
+
+
+§ 2º Os resultados advindos das etapas tratadas neste artigo deverão ser submetidos à CCG para validação.
+
+
+Art. 21.  São etapas do processo de elaboração do Plano de Controle Externo:
+
+
+I - elaboração, a partir de estudos realizados pela Segecex e por suas unidades integrantes, de diagnóstico do universo de controle;
+
+
+II - definição das áreas prioritárias a serem controladas na vigência do Plano de Controle Externo, obtidas a partir do diagnóstico tratado no inciso I deste artigo, bem como de outros conhecimentos decorrentes de estudos, ações de controle realizadas e outras fontes de informação;
+
+
+III - tradução das áreas prioritárias, tratadas no inciso II deste artigo, em linhas de ação vinculadas aos objetivos definidos no PET;
+
+
+IV - definição de diretrizes a serem observadas no cumprimento do Plano de Controle Externo;
+
+
+V - elaboração de estimativa de recursos a serem alocados para o cumprimento do Plano de Controle Externo.
+
+
+§ 1º Os estudos para dar cumprimento aos incisos I e II deste artigo, denominados produção de conhecimento, serão autorizados pela Segecex.
+
+
+§ 2º Os resultados advindos das etapas tratadas neste artigo deverão ser submetidos pela Segecex ao Presidente e aos ministros-relatores para discussão e validação.
+
+
+SEÇÃO III
+
+
+DOS PLANOS DIRETORES DAS UNIDADES BÁSICAS
+
+
+Art. 22.  São etapas do processo de elaboração dos Planos Diretores de Unidades Básicas:
+
+
+I - identificação de prioridades da Unidade Básica: identificação, no Plano de Diretrizes do TCU e no Plano de Controle Externo, de prioridades institucionais cuja responsabilidade pela execução compete à respectiva Unidade Básica;
+
+
+II - definição de diretrizes setoriais: identificação das prioridades das unidades integrantes da Unidade Básica, bem como dos respectivos indicadores de desempenho, das metas e das ações para o período de vigência dos Planos Diretores das Unidades Básicas;
+
+
+III - definição de prazos e responsabilidades: estabelecer, para cada ação inserida nos Planos Diretores das Unidades Básicas, as áreas responsáveis por sua execução e o prazo previsto para entrega dos produtos a ela associados;
+
+
+IV - definição dos indicadores de desempenho e das metas, escolhidos entre o conjunto de linhas de ação do Plano de Controle Externo e das diretrizes setoriais tratadas nos incisos I e II deste artigo, os quais serão utilizados para a avaliação de desempenho da Unidade Básica e das respectivas unidades integrantes.
+
+
+§ 1º A etapa de definição de diretrizes setoriais é de responsabilidade do respectivo Secretário-Geral e deverá ser realizada mediante ampla consulta aos dirigentes e aos servidores das unidades integrantes da Unidade Básica.
+
+
+§ 2º Os resultados advindos de cada uma das etapas tratadas neste artigo deverão ser submetidos à Seplan, para avaliação quanto à sua aderência aos Planos de Diretrizes e de Controle Externo.
+
+
+§ 3º As unidades básicas poderão, a seu critério, instituir planos de ação ou outros planos para as respectivas unidades integrantes, caso os considerem necessários ao cumprimento de seu Plano Diretor.
+
+
+SEÇÃO IV
+
+
+DOS PLANOS DIRETORES DE TECNOLOGIA DA INFORMAÇÃO E DE
+
+
+DESENVOLVIMENTO DE COMPETÊNCIAS
+
+
+Art. 23.  São etapas do processo de elaboração dos Planos Diretores de Tecnologia da Informação (PDTI) e de Desenvolvimento de Competências (PDDC):
+
+
+I - identificação, nos demais planos institucionais, de prioridades que exijam a participação ou cuja responsabilidade pela execução seja da Secretaria de Soluções de TI (STI) e da Secretaria de Infraestrutura de TI (Setic), no caso do PDTI, ou do Instituto Serzedello Correa (ISC), no caso do PDDC;
+
+
+II - definição de diretrizes setoriais: identificação das prioridades da área de TI e da área de desenvolvimento de competências, bem como dos respectivos indicadores de desempenho, das metas e das ações para o período de vigência do PDTI ou PDDC, conforme o caso;
+
+
+III - definição de prazos e responsabilidades: estabelecer, para cada ação inserida no PDTI ou PDDC, as áreas responsáveis por sua execução e o prazo previsto para entrega dos produtos a ela associados;
+
+
+IV - definição dos indicadores de desempenho e das metas, escolhidos entre o conjunto de diretrizes tratado nos incisos I e II deste artigo, os quais serão utilizados para a avaliação de desempenho das unidades responsáveis por sua execução.
+
+
+§ 1º A etapa de definição de diretrizes setoriais é de responsabilidade do respectivo dirigente da unidade e deverá ser realizada mediante ampla consulta aos servidores.
+
+
+§ 2º Os resultados advindos de cada uma das etapas tratadas neste artigo deverão ser submetidos:
+
+
+I - à Seplan para avaliação da conformidade aos demais planos institucionais do TCU;
+
+
+II - ao Comitê Gestor de Tecnologia da Informação (CGTI) e à Comissão de Coordenação Geral (CCG), para aprovação, no caso do PDTI; e
+
+
+III - ao Comitê de Gestão de Pessoas do TCU (CGP) e à Comissão de Coordenação Geral (CCG), para aprovação, no caso do PDDC.
+
+
+CAPÍTULO III
+
+
+DO ACOMPANHAMENTO, DA AFERIÇÃO DE RESULTADOS E DA REVISÃO DOS PLANOS INSTITUCIONAIS
+
+
+Art. 24.  A Seplan, com o apoio das demais unidades da Secretaria do Tribunal, deve promover o acompanhamento periódico dos resultados alcançados e da execução das linhas de ação e das diretrizes previstas nos planos institucionais.
+
+
+§ 1º Deverão ser realizadas reuniões periódicas para acompanhar a implementação dos planos institucionais do Tribunal, observando-se, conforme o plano, as orientações a seguir:
+
+
+I - Plano Estratégico e Plano de Diretrizes: acompanhamento pela CCG, com o apoio do Cogesg e da Seplan, por meio de reuniões trimestrais;
+
+
+II - Plano de Controle Externo: acompanhamento pela Segecex e suas Coordenações-Gerais, por meio de reuniões trimestrais;
+
+
+III - Plano Diretor da Unidade Básica: acompanhamento do respectivo plano pela Segecex, pela Segedam e pela Segepres, por meio de reuniões trimestrais;
+
+
+IV - Plano Diretor de TI (PDTI): acompanhamento pelo Comitê Gestor de Tecnologia da Informação (CGTI), com o apoio da STI e da Setic, por meio de reuniões trimestrais;
+
+
+V - Plano Diretor de Desenvolvimento de Competências (PDDC): acompanhamento pelo Comitê de Gestão de Pessoas do TCU (CGP), com o apoio do ISC, por meio de reuniões trimestrais;
+
+
+VI - Planos diretores da Secoi e da Seplan, acompanhamento trimestral pela respectiva unidade.
+
+
+§ 2º As informações referentes ao acompanhamento dos planos institucionais devem ser registradas em solução de TI adequada e disponibilizadas tempestivamente, em local apropriado no Portal TCU, para consulta das partes interessadas.
+
+
+§ 3º No que se refere ao parágrafo anterior, e visando atender aos princípios de accountability e comunicação, o conteúdo dos planos institucionais deve ser avaliado quanto à necessidade de sigilo.
+
+
+Art. 25.  A aferição dos resultados decorrentes dos planos institucionais será realizada pela Seplan com base em informações fornecidas pelas unidades integrantes da Secretaria do Tribunal, bem como com base em dados extraídos das bases coorporativas ou em outras soluções pertinentes.
+
+
+§ 1º A aferição dos resultados a que se refere este artigo será utilizada para os seguintes fins:
+
+
+I - avaliação do desempenho institucional do TCU e das unidades de assessoramento às autoridades, no caso do Plano de Diretrizes;
+
+
+II - avaliação do desempenho de unidades básicas e suas respectivas unidades integrantes, no caso dos Planos Diretores de Unidades Básicas;
+
+
+III - avaliação do desempenho das unidades diretamente vinculadas à Presidência do TCU, no caso dos planos dessas unidades;
+
+
+IV - avaliação do desempenho da STI e da Setic, no caso do PDTI;
+
+
+V - avaliação do desempenho do ISC, no caso do PDDC.
+
+
+§ 2º O conjunto de indicadores e metas a ser utilizado para avaliação dos resultados dos Planos Institucionais será estabelecido em anexo específico de cada plano.
+
+
+§ 3º O resultado institucional, bem como os resultados das unidades básicas e das demais unidades aferidos ao final de cada período avaliativo podem variar no intervalo de 0 a 125 pontos.
+
+
+§ 4º O valor apurado em cada meta que compõe o resultado institucional, bem como os resultados das unidades básicas e das demais unidades pode variar no intervalo de 0 a 125 pontos.
+
+
+§ 5º Os resultados com valores superiores a 100 pontos indicam o alcance de valores excedentes à meta pactuada.
+
+
+Art. 26.  A definição de metas e a aferição dos respectivos resultados terão caráter cumulativo ao longo do período do plano a que se referem, à exceção daquelas metas que, em função da sua natureza, possuam cômputo apenas em determinado período avaliativo, as quais deverão estar expressamente identificadas no normativo que regulamentar o cômputo dos resultados em questão.
+
+
+§ 1º Na aferição dos resultados institucional e das unidades, a superação da meta está limitada a 125 pontos, não podendo ser registrada pontuação superior a essa para compensar os valores não alcançados em outras metas que componham o respectivo resultado.
+
+
+§ 2º Caberá à Seplan realizar a validação dos resultados e, se necessário, efetuar eventuais ajustes, com anuência das partes interessadas;
+
+
+§ 3º Os resultados das unidades básicas e suas respectivas unidades técnicas, aferidos pela Seplan, serão homologados pela CCG e posteriormente divulgados;
+
+
+§ 4º O resultado institucional, apurado pela Seplan, será apresentado pelo Presidente ao Plenário.
+
+
+Art. 27.  As unidades devem registrar, em sistema informatizado específico, os dados relativos ao cumprimento dos planos institucionais - quando estes não puderem ser extraídos dos sistemas corporativos ou quando expressamente solicitados pela Seplan.
+
+
+§ 1º O registro dos dados se dará trimestralmente de acordo com o disposto a seguir:
+
+
+I - até o quinto dia útil após o término de cada trimestre, as unidades deverão preencher em sistema informatizado específico os dados sobre a situação das ações e indicadores sob sua responsabilidade;
+
+
+II - até o 15º dia útil após o término de cada trimestre, a Seplan deverá elaborar e remeter ao Cogesg, à CCG, ao Presidente e aos dirigentes das unidades básicas relatório consolidado com dados sobre a implementação dos planos.
+
+
+§ 2º Caberá à Seplan realizar a validação dos registros e, se necessário, efetuar eventuais ajustes, com anuência das partes interessadas.
+
+
+§ 3º Incumbe à Seplan a responsabilidade pela manutenção e integridade do registro dos dados para fins de acompanhamento dos planos e de aferição dos resultados das unidades, em consonância com a Política Corporativa de Segurança da Informação, disposta pela Resolução-TCU nº 217, de 15 de outubro de 2008.
+
+
+Art. 28.  Os planos institucionais serão revistos:
+
+
+I - bianualmente, no caso do Plano Estratégico;
+
+
+II - anualmente, no caso do Plano de Controle Externo e do Plano de Diretrizes; e
+
+
+III - semestralmente, no caso dos demais planos institucionais.
+
+
+§ 1º Os planos poderão ser revistos a qualquer momento, no caso de superveniência de fato que justifique a necessidade de ajuste.
+
+
+§ 2º Os ajustes de que tratam o parágrafo anterior serão efetuados por meio de portaria, observando-se as orientações a seguir:
+
+
+I - Portaria do Presidente, ouvidos os ministros-relatores, quando promovido no âmbito dos Planos Estratégico e de Controle Externo;
+
+
+II - Portaria do Presidente, ouvida a CCG, quando promovido no âmbito do Plano de Diretrizes;
+
+
+III - Portaria da CCG, ouvido o Comitê Gestor de Tecnologia da Informação (CGTI), quando efetuado no âmbito do PDTI;
+
+
+IV - Portaria da CCG, ouvido o Comitê de Gestão de Pessoas do TCU (CGP), quando efetuado no âmbito do PDDC;
+
+
+V - Portaria do respectivo dirigente, quando realizado no âmbito dos planos diretores das unidades básicas e dos planos diretores das demais unidades vinculadas à Presidência.
+
+
+Art. 29.  O processo de revisão dos planos institucionais será conduzido:
+
+
+I - pela Seplan, no caso do Plano Estratégico, do Plano de Diretrizes e do Plano Diretor da Seplan;
+
+
+II - pela Segest, com o apoio das Coordenações de Controle Externo, no caso do Plano de Controle Externo e do Plano Diretor da Segecex;
+
+
+III - pela Seadmin e pela Adgepres, no caso dos planos diretores da Segedam e da Segepres, respectivamente;
+
+
+IV - pela STI e pela Setic, no caso do PDTI;
+
+
+V - pelo ISC, no caso do PDDC; e
+
+
+VI - pela Secoi, no caso do Plano Diretor de Controle Interno.
+
+
+Parágrafo único. As unidades responsáveis pela condução do processo de revisão dos planos institucionais poderão requisitar, caso necessário:
+
+
+I - apoio técnico da Seplan; e
+
+
+II - informações, das demais unidades da Secretaria do Tribunal, indispensáveis à boa condução dos trabalhos.
+
+
+Art. 30.  Os planos institucionais serão avaliados, em até 45 dias após seu encerramento, em relação aos objetivos, indicadores e metas planejados e executados.
+
+
+CAPÍTULO IV
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 31.  Fica a CCG autorizada a regulamentar os atos necessários à implementação desta Portaria e a dirimir os casos omissos.
+
+
+Art. 32.  Ficam revogadas as Portarias-TCU nº 82, de 28 de abril de 2006 e nº 191, de 18 de maio de 2009.
+
+
+Art. 33.  Esta Portaria entra em vigor na data da sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente
+
+
+Não consta revogação expressa
+Dispõe sobre o processo de elaboração, acompanhamento, aferição de resultados e revisão dos planos institucionais do Tribunal de Contas da União.
+
+

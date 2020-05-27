@@ -1,0 +1,298 @@
+Portaria
+304/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e de acordo com o que dispõe o art. 107 da Lei nº 8.443, de 16 de julho de 1992, e os arts. 28, inciso XXX, e 154 do Regimento Interno do TCU,
+
+
+considerando que, a partir da entrada em vigor da Resolução-TCU nº 298, de 8 de agosto de 2018, haverá vultoso incremento no número de sorteio de relatores de processos;
+
+
+considerando a necessidade de equilibrar a distribuição de carga de trabalho entre os gabinetes de Ministros e de Ministros-Substitutos;
+
+
+considerando as especificidades dos processos que tratam de obras, de desestatização e de acordos de leniência;
+
+
+considerando a proposta apresentada no relatório final do Grupo de Trabalho instituído mediante a Ordem de Serviço nº 3/2018, constante do processo TC 020.307/2018-7;
+
+
+considerando que, conforme Comunicação Plenária realizada na Sessão Plenária do dia 10 de outubro de 2018, foi facultada a apresentação de sugestões à minuta desta Portaria pelos Ministros e Ministros-Substitutos do TCU, e não tendo sido ofertada nenhuma manifestação, resolve:
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º O sorteio de relator de que tratam as Resoluções do TCU de nº 175, de 25 de maio de 2005, com as alterações dadas pela Resolução-TCU nº 298, de 8 de agosto de 2018, e a de nº 280, de 15 de junho de 2016, bem como o balanceamento da distribuição de processos a Ministros e Ministros-Substitutos no âmbito do Tribunal de Contas da União obedecem aos critérios dispostos nesta Portaria.
+
+
+Art. 2º Para os fins do disposto nesta Portaria, entende-se por:
+
+
+I - HD: quantitativo associado ao homem-dia de esforço de trabalho nos gabinetes dos relatores, por processo;
+
+
+II - modulação de probabilidades: mecanismo que visa ajustar as probabilidades, que sempre serão diferentes de zero, de os Ministros e Ministros-Substitutos serem sorteados relatores, tendo-se como definidores o somatório de HDs ou o quantitativo de processos atribuídos às suas respectivas relatorias;
+
+
+III - processo de fiscalização de obras: processo a que se refere o art. 8º da Resolução-TCU nº 280, de 2016;
+
+
+IV - processo de acordo de leniência: processo a que se refere o art. 1º, § 2º, da IN-TCU nº 74, de 11 de fevereiro de 2015;
+
+
+V - processo de desestatização: processo a que se refere o art. 18-E da Resolução-TCU nº 175/2005;
+
+
+VI - termo de sorteio: documento gerado eletronicamente que atesta o resultado do sorteio, que contém todas as informações pertinentes ao respectivo sorteio;
+
+
+VII - termo de distribuição: documento que atesta a distribuição do processo nos casos de o relator não ser definido por sorteio, que contém o número do processo, o relator atribuído e o motivo da atribuição.
+
+
+CAPÍTULO II
+DO SORTEIO DE RELATOR
+
+
+Art. 3º Na distribuição de processos mediante sorteio, com exceção dos processos referentes às contas do Presidente da República, o relator será sorteado automaticamente:
+
+
+I - na autuação do processo;
+
+
+II - na conclusão da admissibilidade do recurso, nos casos previstos nos arts. 20 e 21 da Resolução-TCU nº 175/2005.
+
+
+Parágrafo único. Serão sorteados pela Secretaria das Sessões, por meio de sistema informatizado, os processos que, por qualquer motivo, não se enquadrarem nos incisos anteriores, bem como aqueles que necessitarem de novo sorteio.
+
+
+Art. 4º O sorteio de relator de que trata o artigo anterior se dará, de modo aleatório:
+
+
+I - sem a modulação das probabilidades definida no inciso II do art. 2º desta Portaria, nos processos de que tratam os arts. 19, 20 e 21 da Resolução-TCU nº 175/2005, com as alterações dadas pela Resolução-TCU nº 298/2018;
+
+
+II - com a modulação das probabilidades definida no inciso II do art. 2º desta Portaria, nos demais processos.
+
+
+Parágrafo único. Os pedidos de reexame referentes a fiscalização de obras, acordo de leniência e desestatização obedecerão ao disposto no art. 8º desta Portaria.
+
+
+Art. 5º Em atendimento ao princípio da transparência, será formalizado termo de sorteio, que deve conter, entre outros, os seguintes dados:
+
+
+I - número do processo;
+
+
+II - relator sorteado;
+
+
+III - relação dos Ministros e Ministros-Substitutos participantes do sorteio;
+
+
+IV - as razões de eventual não participação no sorteio; e 
+
+
+V - motivo do sorteio.
+
+
+§ 1º O termo de sorteio de que trata o caput será juntado ao respectivo processo.
+
+
+CAPÍTULO IIi
+do balanceamento dA carga de processos
+
+
+Art. 6º A distribuição de processos a Ministros e Ministros-Substitutos no âmbito do Tribunal de Contas da União será realizada de forma balanceada com vistas ao equilíbrio da carga de trabalho, conforme metodologia definida nesta Portaria.
+
+
+
+
+
+Art. 7º O balanceamento da carga de processos previsto no artigo anterior se dará de duas maneiras:
+
+
+I - balanceamento por tipo de processo: aplicado aos processos de fiscalização de obras, acordo de leniência e desestatização;
+
+
+II - balanceamento global: aplicado ao conjunto de processos distribuídos a cada Ministro e Ministro-Substituto.
+
+
+Art. 8º Para cada sorteio de relator de processos de fiscalização de obras, acordo de leniência e desestatização - ou recursos a deliberações neles proferidas -, o sistema buscará, por meio da modulação das probabilidades, o equilíbrio da distribuição do quantitativo de processos, por tipo.
+
+
+Parágrafo único. Os processos de fiscalização de obras distribuídos por prevenção em obediência ao disposto no art. 10 da Resolução-TCU nº 280/2016 serão computados para o relator prevento.
+
+
+Art. 9º O balanceamento global de que trata o inciso II do art. 7º desta Portaria será realizado nos seguintes termos:
+
+
+I - será calculada, com base nos parâmetros estabelecidos no Anexo Único desta Portaria, a quantidade de HDs associada a todos os processos e recursos distribuídos por relator;
+
+
+II - a cada sorteio, a partir do cálculo dos HDs e levando-se em consideração a lotação prevista de assessores nos respectivos gabinetes, serão moduladas as probabilidades de cada Ministro e Ministro-Substituto ser sorteado.
+
+
+§ 1º O balanceamento mencionado no caput será buscado por meio da modulação das probabilidades do sorteio dos processos de que tratam os arts. 13, 18 e 18-B da Resolução-TCU nº 175/2005;
+
+
+§ 2º A alteração de relatoria de determinado processo, por qualquer motivo, a exemplo de impedimento e de equívoco na autuação, implicará transferência, para o novo relator, do quantitativo de HD e/ou de processo atribuídos ao relator anterior.
+
+
+§ 3º Caberá ao Ministro que deixar a Presidência do TCU o quantitativo de HDs e os processos anteriormente sorteados para seu sucessor.
+
+
+§ 4º Na hipótese de o relator deixar o TCU, o quantitativo de HDs e os processos que lhe cabiam por sorteio serão atribuídos àquele que o suceder no cargo.
+
+
+§ 5º Enquanto perdurar a vacância mencionada no parágrafo anterior, a respectiva vaga participará dos sorteios e das distribuições de processos, mantidos atualizados os parâmetros utilizados nas modulações de probabilidades.
+
+
+§ 6º Os recursos e as revisões de ofício serão computados a 75% dos HDs dos processos originários; e os embargos de declaração e os agravos a 50%; nos termos do Anexo Único desta Portaria.
+
+
+CAPÍTULO IV
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 10. As informações gerais relativas à metodologia empregada nos sorteios de processos do TCU, bem como relatórios com a carga de HDs associada a todos os processos distribuídos aos Ministros e Ministros-Substitutos, ficarão disponíveis no Portal TCU.
+
+
+§ 1º Será disponibilizado, também, painel com a modulação das probabilidades utilizadas nos sorteios de relatores, bem como os resultados dos sorteios.
+
+
+§ 2º O relatório a que se refere o caput trará informações concernentes ao exercício, bem como as relativas aos últimos doze meses.
+
+
+§ 3º As informações previstas neste artigo devem ser, mensalmente, atualizadas.
+
+
+Art. 11. Nos casos em que o relator seja atribuído por LUJ ou por prevenção, será formalizado o termo de distribuição indicado no inciso VII do art. 2º desta Portaria, o qual será juntado ao respectivo processo.
+
+
+Art. 12. Para fins de cálculo do balanceamento da carga de processos previsto nesta Portaria, serão considerados os processos distribuídos a partir de 1º de janeiro de 2019.
+
+
+Art. 13. Para efeito de compensação de carga de trabalho, somente serão considerados os processos administrativos em que seja necessária a atuação direta de Ministros ou de MinistrosSubstitutos.
+
+
+Art. 14. Não serão atribuídos HDs, para fins de compensação de carga de trabalho, aos processos que tratam das solicitações que não sejam oriundas do Congresso Nacional e de cobrança executiva. 
+
+
+Art. 15. A Secretaria de Soluções de Tecnologia da Informação (STI), em conjunto com a Secretaria das Sessões (Seses), desenvolverá solução de tecnologia da informação para a implementação do disposto nesta Portaria.
+
+
+Art. 16. A quantidade de HDs por processo e por recurso, constante do Anexo Único desta Portaria, deverá ser revista, até 30 de novembro de 2019, pela Secretaria de Planejamento, Governança e Gestão (Seplan) e encaminhada à Presidência do TCU para atualização do Anexo deste Normativo.
+
+
+Art. 17. Fica a Secretaria das Sessões responsável pela gestão dos sorteios de que trata esta Portaria.
+
+
+Art. 18. Portaria da Unidade Básica competente irá disciplinar o art. 3º, inciso I, desta Portaria, a fim de que sejam observadas as especificidades de cada tipo de processo.
+
+
+Art. 19. Ficam revogadas as seguintes Portarias-TCU: 519, de 6 de setembro de 1996; 19, de 13 de janeiro de 1997; 171, de 4 de abril de 1997; 174, de 13 de maio de 1999; 313, de 18 de dezembro de 2008; 98, de 27 de janeiro de 2009; e 9, de 4 de janeiro de 2011.
+
+
+Art. 20. Os casos omissão serão resolvidos pelo Presidente do Tribunal de Contas da União.
+
+
+Art. 21. Esta Portaria entre em vigor na data de sua publicação.
+
+
+RAIMUNDO CARREIRO
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre critérios para a realização de sorteio de relatores, bem como o balanceamento da distribuição de processos a Ministros e Ministros-Substitutos no âmbito do Tribunal de Contas da União.
+
+ANEXO ÚNICO DA PORTARIA-TCU Nº 304, DE 19 DE OUTUBRO DE 2018.
+
+
+
+
+Homem-dia de esforço de trabalho em processos nos gabinetes dos relatores
+
+Tipo de processo
+
+Quantidade de HDs
+
+Acompanhamentos e monitoramentos
+
+0,33
+
+Acordos de Leniência*
+
+10,00
+
+Administrativos
+
+3,67
+
+Atos de Pessoal
+
+0,13
+
+Contas de Governo
+
+40,00
+
+Consultas
+
+1,73
+
+Denúncias
+
+0,41
+
+Desestatizações
+
+7,67
+
+Fiscalizações de obras públicas*
+
+11,49
+
+Outras fiscalizações
+
+4,28
+
+Indisponibilidade de bens
+
+4,00
+
+Prestações de Contas
+
+1,03
+
+Representações
+
+1,03
+
+Solicitações diversas
+
+0,00
+
+Solicitações do Congresso Nacional
+
+4,03
+
+Tomadas de Contas
+
+2,36
+
+Tomadas de Contas Especiais
+
+3,09
+
+
+ (*) Indepentemente do tipo do processo, as Fiscalização de Obras Públicas e os Acordo de Leniência receberão os HDs mencionados nesta tabela.
+
+
+

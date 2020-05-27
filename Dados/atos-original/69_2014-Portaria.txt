@@ -1,0 +1,107 @@
+Portaria
+69/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas atribuições legais e regimentais,
+
+
+Considerando a importância estratégica do compartilhamento e da divulgação tempestiva de informações sobre ações de fiscalização relacionadas a investimentos para os Jogos Olímpicos e Paralímpicos de 2016, em atendimento ao item VII, da Cláusula Terceira, do Protocolo de Intenções firmado entre o Tribunal de Contas da União, o Tribunal de Contas do Estado do Rio de Janeiro e o Tribunal de Contas do Município do Rio de Janeiro;
+
+
+Considerando a criação do Portal Fiscaliza Rio 2016 na internet para esta finalidade;
+
+
+Considerando a importância de descentralizar e disciplinar a gestão de conteúdos para garantir a atualização e promover acesso integrado e padronizado ao Portal; e
+
+
+Considerando a importância de definir responsabilidades sobre a concepção, o desenvolvimento, a implantação e a manutenção do Portal Fiscaliza Rio 2016, resolve:
+
+
+Art. 1º  A gestão de conteúdos no Portal Fiscaliza Rio 2016, doravante denominado Portal, observa o estabelecido nesta Portaria.
+
+
+Art. 2º  Para fins do disposto nesta Portaria, entende-se por:
+
+
+I - conteúdo: arquivos ou textos inseridos no Portal;
+
+
+II - áreas de conteúdo: espaços do Portal destinados à publicação de conteúdos;
+
+
+III - gestor de conteúdos: responsável pela aprovação da publicação de conteúdos nas áreas sob sua gestão;
+
+
+IV - provedor de conteúdos: responsável pelo teor dos conteúdos, pela sua inclusão em áreas preestabelecidas do Portal, e pela classificação temática dos conteúdos de acordo com a taxonomia do Portal;
+
+
+V - taxonomia: lista de assuntos que representa os temas tratados pelo Portal;
+
+
+VI - documentos decisórios: aqueles exarados, no âmbito de cada Órgão a que se refere o art. 3º desta Portaria, por colegiado (Plenário, câmara, turma, etc.), presidente ou relator, a exemplo de decisão, acórdão, voto, relatório, despacho;
+
+
+VII - tribunais participantes: Tribunal de Contas da União (TCU), Tribunal de Contas do Estado do Rio de Janeiro (TCE/RJ) e Tribunal de Contas do Município do Rio de Janeiro (TCMRJ).
+
+
+Art. 3º A gestão de conteúdos é realizada de forma descentralizada e cabe às unidades do TCU, do TCE/RJ e do TCMRJ a publicação e a atualização de conteúdos sob a respectiva responsabilidade no Portal.
+
+
+§ 1º A administração do cadastro de gestores e provedores de conteúdo, bem como a disponibilização de ferramenta para realização do cadastro pelas unidades responsáveis, fica a cargo da Secretaria de Soluções de Tecnologia da Informação do TCU (STI).
+
+
+§ 2º O treinamento de gestores e provedores de conteúdos será realizado pela STI.
+
+
+Art. 4º  Compete à Coordenação-Geral de Controle Externo da Área de Infraestrutura e da Região Sudeste (Coinfra):
+
+
+I - coordenar, no âmbito do TCU e junto aos demais tribunais participantes, as tratativas e ações relativas à alimentação e atualização do Portal;
+
+
+II - atuar como unidade gestora dos conteúdos relativos a ações de controle e sumários executivos incluídos pelos provedores;
+
+
+III - Cabe a cada tribunal participante indicar servidores para atuarem como gestores e provedores de conteúdos.
+
+
+Art. 5º  Compete às unidades técnicas do TCU atuarem como provedoras de conteúdo.
+
+
+Art. 6º  Compete à Secretaria de Comunicação do TCU (Secom) a inclusão e a aprovação de notícias e destaques na página inicial do Portal.
+
+
+Art. 7º  Compete à Secretaria de Relações Internacionais do TCU (Serint) a tradução dos conteúdos do Portal para inglês e espanhol.
+
+
+§ 1º Serão traduzidas todas as notícias e as descrições de ações de controle, além dos sumários executivos.
+
+
+§ 2º Os textos de que trata o parágrafo anterior serão encaminhados para tradução após a publicação dos originais pelos gestores, e devolvidos aos provedores para validação e publicação no Portal.
+
+
+§ 3º Documentos decisórios não terão seu conteúdo traduzido.
+
+
+Art. 8º  Compete à Ouvidoria do TCU receber todas as manifestações realizadas por meio do Portal e encaminhá-las aos responsáveis para providências.
+
+
+§ 1º Cada tribunal participante deverá responder diretamente ao manifestante as respectivas demandas.
+
+
+Art. 9º  Compete à Secretaria de Soluções de Tecnologia da Informação (STI) e à Secretaria de Infraestrutura de Tecnologia da Informação (SETIC), ambas do TCU, garantir a manutenção e a sustentabilidade da solução do Portal.
+
+
+Art. 10.  Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente
+
+
+Não consta revogação expressa
+Dispõe sobre a gestão de conteúdos e a sustentação do Portal Fiscaliza Rio 2016.
+
+

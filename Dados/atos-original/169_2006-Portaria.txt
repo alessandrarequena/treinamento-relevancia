@@ -1,0 +1,114 @@
+Portaria
+169/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e
+
+
+considerando a importância de assegurar a autenticidade, a integridade, a confidencialidade e a disponibilidade das informações e serviços disponíveis na rede de computadores do TCU, diante da evolução das ameaças representadas por vírus e outros programas disseminados mediante arquivos executáveis e serviços de compartilhamento de arquivos disponíveis na internet;
+
+
+considerando que o acesso inadequado à internet traz sérios riscos, não só à segurança das informações e serviços disponíveis na rede de computadores do TCU, mas também à imagem institucional do Tribunal, bem como a dados de caráter restrito dos servidores ou colaboradores do Tribunal;
+
+
+considerando a necessidade de implantar mecanismos de proteção às informações e serviços disponíveis na rede de computadores do TCU, conforme o disposto no art. 4º da Resolução nº 126, de 3 de novembro de 1999;
+
+
+considerando a crescente demanda pela utilização do acesso à internet para apoiar as atividades exercidas pelo Tribunal e, conseqüentemente, a necessidade de assegurar níveis satisfatórios de desempenho do acesso a internet por meio da rede de computadores do TCU;
+
+
+considerando que a manutenção do acesso à internet por meio da rede de computadores envolve custos expressivos, que podem ser onerados em razão do uso inadequado, resolve:
+
+
+Art. 1º Os critérios para acesso a informações e serviços disponíveis na internet por meio da rede de computadores do TCU são os estabelecidos nesta Portaria.
+
+
+Art. 2º Para fins desta Portaria, entende-se por acesso à internet por meio da rede de computadores do TCU qualquer acesso a informação ou serviço disponível na rede mundial de computadores (Internet), bem como a conteúdo recebido via correio eletrônico mediante equipamento conectado à rede de computadores do TCU.
+
+
+Art. 3º O acesso à internet por meio da rede de computadores do TCU constitui solução institucional de tecnologia da informação destinada a prover informações e serviços necessários à execução das atividades desempenhadas no âmbito do Tribunal.
+
+
+Parágrafo único. É permitido o uso da internet para acesso a informações e serviços de caráter pessoal, tais como acesso a correio eletrônico via web (webmail), a resultados de exames médicos e laboratoriais, a aplicações de internet banking, desde que a freqüência de uso e o volume e a qualidade dos dados transmitidos não prejudiquem o desempenho e a segurança da rede de computadores do TCU, nem a produtividade pessoal.
+
+
+Art. 4º No intuito de preservar a confidencialidade, a integridade e a disponibilidade dos canais de acesso à internet, da rede de computadores do TCU e das informações do Tribunal, fica vedado o acesso aos seguintes serviços e conteúdos:
+
+
+I - arquivo executável identificado por qualquer das extensões BAS, BAT, COM, CPL, DLL, EXE, HTA, LNK, PIF, REG, SCR, SHS, SYS, VB, VBE, VBS, WSF e WSH;
+
+
+II - arquivo de vídeo identificado por qualquer das extensões AVI, DIVX, MOV, MP2, MP4, MPEG, MPG, VCD, VOB, WMV e XDIV;
+
+
+III - arquivo de áudio identificado por qualquer das extensões AC3, AIFF, AU, CDA, MID, MP3, RA, RAM, WAV, WMA e VOX;
+
+
+IV - serviços de compartilhamento de arquivos BearShare, Emule, IMesh, Kazaa, LimeWire e Morpheus;
+
+
+V - serviços de transferência de arquivos por meio do protocolo FTP;
+
+
+VI - serviços de mensagens instantâneas AOL Instant Messenger, ICQ, MSN Messenger, Skype, Yahoo Messenger, Googletalk e sites de chat;
+
+
+VII - sites de comunidades sociais Friendster, Gazzag, Orkut, Tribe e Universe;
+
+
+VIII - serviços de mascaramento proxies e tunelamento http;
+
+
+IX - blogs, fotologs e semelhantes;
+
+
+X - outros conteúdos, serviços e sites que não guardem relação com as atividades desempenhadas no âmbito do Tribunal.
+
+
+§ 1º É igualmente vedado o acesso a arquivos compactados, tais como os identificados pelas extensões ZIP, TAR e RAR, que contenham arquivos identificados pelas extensões relacionadas nos incisos I, II e III.
+
+
+§ 2º O disposto neste artigo não se aplica a conteúdos disponíveis em páginas de instituições identificadas pelas terminações ".gov.br" e ".edu.br".
+
+
+§ 3º O acesso aos conteúdos relacionados neste artigo será bloqueado pela Secretaria de Tecnologia da Informação, tanto quanto possível, não isentando, porém, o usuário da responsabilidade em acessá-los, quando não houver bloqueio previsto ou possível.
+
+
+§ 4º Fica a Secretaria de Tecnologia da Informação autorizada a atualizar as listas de extensões de arquivos, serviços e conteúdos a que se referem os incisos deste artigo.
+
+
+§ 5º Havendo necessidade de download de arquivos ou acesso a conteúdos e serviços vedados, deverá ser encaminhada à Secretaria de Tecnologia da Informação solicitação devidamente justificada, por meio de chamado aberto junto ao Serviço de Suporte a Clientes.
+
+
+Art. 5º É vedado o acesso à internet por intermédio de provedor não contratado pelo Tribunal, inclusive por meio discado ou rede sem fio (wireless).
+
+
+Art. 6º A Secretaria de Tecnologia da Informação manterá registro dos acessos à internet realizados por meio da rede de computadores do TCU, por período não inferior a noventa dias a contar da data do acesso.
+
+
+Parágrafo único. As informações a que se refere o caput deste artigo poderão ser utilizadas pela Secretaria de Tecnologia da Informação para verificação periódica dos acessos realizados, de modo a identificar ocorrências de acessos indevidos ou indícios de uso inadequado da internet.
+
+
+Art. 7º O uso do acesso à internet em desacordo com as regras estabelecidas nesta Portaria poderá acarretar, isolada ou cumulativamente, comunicação do fato à chefia do infrator, suspensão temporária do acesso do infrator à internet e representação à Secretaria de Recursos Humanos para apuração administrativa de responsabilidades.
+
+
+Art. 8º A Secretaria de Tecnologia da Informação deverá proceder a ajustes de dimensionamento dos recursos disponíveis, de modo a inibir ou desestimular acessos considerados prejudiciais ao desempenho do acesso à internet por meio da rede de computadores do TCU.
+
+
+Art. 9º Fica revogada a Portaria-Setec nº 12, de 14 de junho de 2005.
+
+
+Art. 10. Esta Portaria entra em vigor na data de sua publicação.
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+Não consta revogação expressa
+Estabelece critérios para uso do acesso à internet por meio da rede de computadores do TCU.
+
+

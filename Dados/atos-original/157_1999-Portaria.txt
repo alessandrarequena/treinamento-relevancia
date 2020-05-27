@@ -1,0 +1,421 @@
+Portaria
+157/1999
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições, legais e regimentais, resolve:
+
+
+Art. 1º  A aceitação de matrícula em Cursos de Informática, Gramática e Redação, oferecidos pelo Instituto Serzedello Corrêa - ISC, fica condicionada ao atendimento dos requisitos básicos constantes dos Anexos I e II desta Portaria.
+
+
+Parágrafo único.  O disposto neste artigo aplica-se  aos Cursos de Gramática e Redação a partir do segundo semestre de l999.
+
+
+Art. 2º  É considerada para atendimento dos requisitos básicos, a que se reporta o artigo anterior, a aprovação em curso ministrado no ISC ou em "avaliação de domínio de pré-requisito" realizada pelo referido Instituto, em data previamente fixada.
+
+
+§ 1º  A média para aprovação, nos casos previstos neste artigo, deverá ser igual ou superior a 7 (sete) pontos em escala de zero a dez.
+
+
+§ 2º  O servidor interessado em submeter-se à avaliação de domínio de pré-requisito deverá encaminhar solicitação à Escola Nacional e Internacional de Controle e Fiscalização do Instituto Serzedello Corrêa, por meio do formulário constante do Anexo III e IV desta Portaria, após a divulgação das datas para realização dos testes.
+
+
+Art. 3º  A solicitação de matrícula feita em desacordo com os pré-requisitos estabelecidos deverá ser desconsiderada.
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação, revogando-se a Portaria nº 11, de 23 de novembro de 1998.
+
+
+
+
+
+
+IRAM SARAIVA
+
+
+Presidente
+
+
+
+
+
+
+
+Não consta revogação expressa
+Estabelece pré-requisitos para participação nos Cursos de Informática, Gramática e Redação oferecidos pelo ISC e dá outras providências.
+
+ANEXO I  da  Portaria nº 157/99
+
+
+
+
+
+
+
+
+TABELA DE PRÉ-REQUISITOS DOS CURSOS DE INFORMÁTICA
+
+
+
+
+CURSO
+
+PRÉ-REQUISITOS
+
+JUSTIFICATIVA
+
+ACCESS – Módulo A
+
+WINDOWS 95
+
+MODELAGEM DE DADOS PARA USUÁRIOS
+
+ 
+
+Conhecimentos básicos sobre relacionamento entre tabelas, normalização de dados e projeto de banco de dados.
+
+ACCESS – Módulo B
+
+WINDOWS 95
+
+MODELAGEM DE DADOS PARA USUÁRIOS
+
+ACCESS – Módulo A
+
+ 
+
+Conhecimentos básicos sobre utilização de assistentes na criação de objetos de banco de dados (tabelas, consultas, formulários e relatórios).
+
+ACCESS – Módulo C
+
+WINDOWS 95
+
+MODELAGEM DE DADOS PARA USUÁRIOS
+
+ACCESS – Módulo A
+
+ACCESS – Módulo B
+
+ 
+
+Conhecimentos avançados na edição dos objetos de banco de dados: tabelas, consultas, formulários e relatórios.
+
+EXCEL
+
+WINDOWS 95
+
+ 
+
+Conhecimentos básicos de sistema operacional em ambiente Windows que permitam manipulação de janelas, gerenciamento de arquivos e execução de programas.
+
+ 
+
+INTERNET
+
+WINDOWS 95
+
+UTILIZAÇÃO DE REDE DE COMPUTADORES
+
+ 
+
+Conhecimentos básicos de rede de computadores e configuração de conta de correio 
+
+eletrônico
+
+ 
+
+MODELAGEM DE DADOS PARA USUÁRIOS
+
+NÃO HÁ
+
+ 
+
+-
+
+OUTLOOK
+
+WINDOWS 95
+
+UTILIZAÇÃO DE REDE DE COMPUTADORES
+
+Conhecimentos básicos de rede de computadores e configuração de conta de correio eletrônico
+
+POWERPOINT
+
+WINDOWS 95
+
+ 
+
+Conhecimentos básicos de sistema operacional em ambiente Windows que permitam manipulação de janelas, gerenciamento de arquivos e execução de programas.
+
+ 
+
+REDE DE COMPUTADORES
+
+WINDOWS 95
+
+ 
+
+Conhecimentos básicos de sistema operacional em ambiente Windows que permitam manipulação de janelas,  gerenciamento de arquivos e execução de programas.
+
+ 
+
+WINDOWS 95
+
+NÃO HÁ
+
+ 
+
+-
+
+ 
+
+WORD – Módulo A
+
+WINDOWS 95
+
+ 
+
+Conhecimentos básicos de sistema operacional em ambiente Windows que permitam manipulação de janelas, gerenciamento de arquivos e execução de programas.
+
+
+
+
+
+
+
+ANEXO II  da  Portaria nº 157/99
+
+
+
+
+
+
+TABELA DE PRÉ-REQUISITO DOS CURSOS DE 
+
+GRAMÁTICA E REDAÇÃO
+
+CURSOPRÉ-REQUISITOJUSTIFICATIVA
+
+GRAMÁTICA – Nível  ANão tem
+
+-
+
+GRAMÁTICA – Nível  B
+
+ 
+
+GRAMÁTICA – Nível  A
+
+O estudo das classes gramaticais e os respectivos empregos no enunciado favorecem a compreensão da estrutura sintática da Língua Portuguesa, conteúdo do nível  B.
+
+GRAMÁTICA – Nível  C
+
+GRAMÁTICA – Nível  A GRAMÁTICA – Nível  B
+
+O estudo da estrutura sintática da Língua Portuguesa; propicia melhor entendimento e aplicação do conteúdo do Nível C (Processos sintáticos).
+
+GRAMÁTICA – Nível  D
+
+GRAMÁTICA – Nível  A
+
+Os conhecimentos morfossintáticos são necessários para a compreensão do uso de alguns termos estudados neste nível 
+
+REDAÇÃO BÁSICA E ADMINISTRATIVA
+
+GRAMÁTICA – Nível  A GRAMÁTICA – Nível  B
+
+GRAMÁTICA – Nível  C GRAMÁTICA – Nível  D
+
+O estudo do conteúdo do Nível  D traz importantes noções que propiciam desenvoltura na utilização da linguagem escrita.
+
+TÉCNICAS DE REDAÇÃO DE PARECERES E RELATÓRIOS
+
+TODOS OS NÍVEIS DE GRAMÁTICA E REDAÇÃO BÁSICA
+
+O domínio de conhecimentos básicos de gramática e de redação possibilita um melhor aproveitamento neste nível .
+
+
+
+
+
+
+
+ANEXO III  da  Portaria nº 157/99
+
+
+
+
+
+Solicitação de Inscrição
+
+
+em Avaliação de Domínio de Pré-Requisito
+
+
+INFORMÁTICA
+
+
+
+
+NOME:____________________________________________MATRÍCULA________
+
+
+LOTAÇÃO:________________________________________TELEFONE:__________
+
+
+E-MAIL:________________________________________________________________
+
+
+CURSO(S)  PRETENDIDO(S)_______________________________________________
+
+
+_________________________________________________________________________
+
+
+
+
+Solicito minha inscrição na(s) avaliação(ões) do(s) seguinte(s) curso(s), para atendimento do(s) pré- requisito(s) do(s) curso(s) acima, conforme exigência da Portaria nº
+
+
+
+Lista de pré-requisitos:							Data da avaliação
+
+
+
+ Access – Módulo A								____________
+
+
+ Access – Módulo B								____________
+
+
+ Modelagem de Dados para Usuários						____________
+
+
+ Utilização de Rede de Computadores						____________
+
+
+ Windows 95									____________
+
+
+ Word – Módulo A								____________
+
+
+
+
+Em ______/______/_______                                             Encaminhe-se  do  dirigente  da  unidade
+
+
+
+
+________________________				_______________________________
+
+
+Assinatura do servidor						Assinatura e carimbo
+
+
+
+
+
+
+
+ANEXO IV  da  Portaria nº 157/99
+
+
+
+
+
+SOLICITAÇÃO DE INSCRIÇÃO
+
+
+EM AVALIAÇÃO DE DOMÍNIO DE PRE-REQUISITO
+
+
+GRAMÁTICA E REDAÇÃO
+
+
+
+NOME:________________________________________MATRÍCULA____________
+
+
+LOTAÇÃO:____________________________________TELEFONE______________
+
+
+E-MAIL________________________________________________________________
+
+
+CURSO(S) PRETENDIDO(S)_______________________________________________
+
+
+________________________________________________________________________
+
+
+
+Solicito minha inscrição nas avaliações dos seguintes cursos, para atendimento dos pré-requisitos dos cursos  acima, conforme exigência da Portaria nº
+
+
+
+
+Lista de pré-requisitos:                                                                           Data da avaliação
+
+
+
+
+(  ) Gramática Nível  A                                                                            _____/____/____
+
+
+(  ) Gramática Nível  B                                                                            _____/____/____
+
+
+(  ) Gramática Nível  C                                                                            _____/____/____
+
+
+(  ) Gramática Nível  D                                                                            _____/____/____
+
+
+(  ) Redação Básica e Administrativa                                                     _____/____/____
+
+
+(  ) Técnicas de Elaboração de Relatórios e Pareceres                          _____/____/____
+
+
+
+
+Em____/____/_____
+
+Encaminhe-se do dirigente da unidade
+
+ 
+
+____________________________________
+
+Assinatura do servidor
+
+ 
+
+ 
+
+ 
+
+__________________________________
+
+Assinatura e carimbo
+
+ 
+
+
+
+
+
+
+
+
+
+
+

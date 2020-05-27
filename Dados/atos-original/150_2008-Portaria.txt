@@ -1,0 +1,519 @@
+Portaria
+150/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 28 de novembro de 2008, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto Processo Eletrônico Administrativo - Segedam sem Papel, aprovado pela Portaria-TCU nº 189, de 09 de agosto de 2007.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto. 
+
+
+Art. 3º Esta Portaria entra em vigor a partir de 30 de junho de 2008.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+a)          Período do projeto
+
+b)          Unidade patrocinadora
+
+c)          Gestor do projeto
+
+
+
+13/08/2007 a 30/06/2008
+
+Segedam
+
+Claudson Costa Adôrno
+
+
+
+
+
+
+1. Objetivo do projeto
+
+
+
+Implantar sistemática de gestão eletrônica de documentos e processos, na área administrativa do Tribunal.
+
+
+
+
+2. Situação do projeto (em relação ao previsto na proposta)
+d)          Execução em relação ao total do projeto
+
+
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+( X ) 41% a 80% executado
+
+(    ) acima de 80% executadoe)          Controle
+
+
+
+(    ) Execução adiantada
+
+(    ) Execução dentro do previsto
+
+( X ) Execução atrasada
+
+
+
+
+3. Cumprimento de metas acordadas na proposta
+
+f)           Produto
+
+g)          Indicador
+
+h)          Quanto
+
+i)           Data de término
+
+j)           Comentários
+
+k)          (comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+
+
+a)         
+
+Usuários treinados no uso do sistema Sisdoc, integrado ao sistema Processus.
+
+Usuários treinados / Total de usuários de documentos e processos administrativos.
+
+100%
+
+14/09/2007
+
+Cumprido totalmente. Início da mudança de cultura organizacional, trabalhando com documentos eletrônicos.
+
+b)         Relação de processos e documentos priorizados para tratamento eletrônico.Relação de documentos e processos passíveis de uso imediato via Sisdoc identificados.Relação aprovada de processos e documentos priorizados para tratamento eletrônico.Relação aprovada de documentos e processos passíveis de uso imediato via Sisdoc identificados.
+
+100%
+
+21/09/2007
+
+Cumprido totalmente. O novo sistema atenderá a todos os tipos de documentos e processos eletrônicos administrativos.
+
+c)         
+
+Relatório de requisitos de adaptações nos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+Relatório aprovado de requisitos de adaptações nos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+100%
+
+14/12/2007
+
+Cumprido totalmente. Os requisitos foram definidos e documentados por meio da construção do protótipo do novo sistema Web, que deverá substituir os sistemas Sisdoc e Processus, na área administrativa do Tribunal.
+
+d)         
+
+Pastas funcionais digitalizadas e incorporadas à base de documentos eletrônicos administrativos do Tribunal.
+
+Pastas incorporadas / Total de pastas digitalizadas.
+
+100%
+
+29/02/2008
+
+Cumprido totalmente. Integração de ações com os projetos Atuar e AI (Arquitetura da Informação).
+
+e)         
+
+Sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc) adaptados.
+
+Sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc) aprovados.
+
+30%
+
+ 
+
+Foi constatada a necessidade de se desenvolver um novo sistema de apoio ao Processo Eletrônico Administrativo, em substituição aos sistemas Sisdoc e Processus. Dessa forma o escopo do projeto aumentou significativamente, o que motivou esta solicitação de prorrogação de prazo, conforme justificativas constantes do item 7 deste documento.
+
+f)          
+
+Usuários treinados.
+
+Usuários treinados / Total de usuários afetados pelas novas funcionalidades dos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+0%
+
+ 
+
+Ainda não iniciado. Os usuários serão treinados no uso do novo sistema de apoio ao Processo Eletrônico Administrativo, e não mais nas novas funcionalidades do Sisdoc e do Processus, como estava previsto anteriormente. 
+
+g)         
+
+Minuta de Portaria elaborada
+
+Minuta de Portaria aprovada
+
+0%
+
+ 
+
+Ainda não iniciado.
+
+h)         
+
+Relatório de estudo da necessidade do uso da certificação digital para documentos e processos eletrônicos administrativos elaborado.
+
+Relatório de estudo da necessidade do uso da certificação digital para documentos e processos eletrônicos administrativos aprovado.
+
+0%
+
+ 
+
+Ainda não iniciado.
+
+
+
+
+
+
+
+4. Atividade realizada fora do plano (se couber)
+l)           Descrição
+
+m)        Comentários
+
+
+
+a)         
+
+Elaboração de projeto básico para aquisição de scanners departamentais.
+
+Pesquisa de mercado e elaboração do projeto básico, que foi encaminhado à Segedam. Todas as unidades do Tribunal serão contempladas.
+
+b)        
+
+Prospecção de soluções de mercado, relacionadas à gestão eletrônica de documentos.
+
+Realização de reuniões com as empresas Adobe, Arisp, Bry, Câmara E-Net, Certisign, Esec, Isosystem, Microsoft e Serasa.
+
+c)         
+
+Visitas a outros órgãos (benchmarking externo).
+
+Realização de visitas aos seguintes órgãos: STF, CNJ, PGR, Eletronorte e TST.
+
+d)        
+
+Participação em eventos relacionados à gestão eletrônica de documentos.
+
+Participação nos seguintes eventos: 5º Certfórum, Programa de Desmaterialização de Processos da Câmara dos Deputados, Nota Fiscal Eletrônica em SP e 30 anos de TI no TCU.
+
+e)         
+
+Construção e atualização da página do projeto no Portal-TCU.
+
+Construção e atualização diária da página, que contém todas as informações sobre o projeto e seu andamento. Opção de menu “Planejamento e Gestão > Gestão de Projetos > Segedam Sem Papel”.
+
+f)        Neg
+
+Consecução de certificados digitais, sem custos, para o TCU.
+
+Negociação de fornecimento, sem custos, de certificados digitais da Caixa Econômica Federal para todos os servidores e autoridades do Tribunal de Contas da União. Como o custo unitário de cada certificado gira em torno de R$200,00 (duzentos reais) e, os usuários do TCU são aproximadamente 3.000 (três mil), estima-se uma economia da ordem de aproximadamente R$600.000,00 (seiscentos mil reais), apenas com essa negociação.
+
+
+
+
+5. Dificuldade encontrada (se couber)
+n)          Dificuldade
+
+o)          Ação para saneamento
+
+
+
+a)         
+
+Alocação de pessoas da Setec.
+
+No início do ano houve dificuldade de alocação de pessoas da Setec, para implementação do novo sistema. Graças ao empenho pessoal do Sr. Secretário da Setec, Mauro Giacobbo, foi alocado ao projeto o analista de sistemas José Luiz Torres. Entretanto, essa alocação foi feita com dedicação por tempo parcial. A ação sugerida para o saneamento desta dificuldade é que essa dedicação passe a ser por tempo integral.
+
+b)        
+
+Tempo insuficiente.
+
+O prazo definido para o projeto, 10 meses e 17 dias, não será suficiente para o alcance do objetivo geral, de forma completa e satisfatória. Aliás, esta possibilidade foi antevista no documento de solicitação do projeto, onde foi sugerido um prazo de 16 meses. Dessa forma, a ação sugerida para o saneamento desta dificuldade é a prorrogação do prazo do projeto.
+
+c)         
+
+Impossibilidade de adaptação dos sistemas de apoio ao processo eletrônico administrativo em utilização (Sisdoc e Processus).
+
+Prorrogação do projeto para que seja possível desenvolver um novo sistema de apoio ao processo eletrônico administrativo.
+
+
+
+
+6. Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a)
+
+Início da mudança de cultura organizacional, trabalhando com documentos eletrônicos. Essa conscientização das pessoas já pode ser observada no consumo responsável de papel para impressão. Em levantamento realizado pela Semat foi constatada a queda no consumo de resmas de papel em todo o Tribunal, da ordem de 20%.
+
+b)
+
+Os requisitos foram definidos e documentados por meio da construção do protótipo do novo sistema Web, que deverá substituir os sistemas Sisdoc e Processus, na área administrativa do Tribunal. As pessoas já foram apresentadas a esse protótipo, e estão envolvidas no processo de desenvolvimento do processo eletrônico administrativo.
+
+c)
+
+Negociação de fornecimento, sem custos, de certificados digitais da Caixa Econômica Federal para todos os servidores e autoridades do Tribunal de Contas da União. Como o custo unitário de cada certificado gira em torno de R$200,00 (duzentos reais) e, os usuários do TCU são aproximadamente 3.000 (três mil), estima-se uma economia da ordem de aproximadamente R$600.000,00 (seiscentos mil reais), apenas com essa negociação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Definição do formato da prorrogação
+
+p)          Período da prorrogação
+
+
+
+01/07/2008 a 28/11/2008.q)          Justificativa da prorrogação
+
+
+
+No início do projeto imaginou-se que, para a implantação do processo eletrônico administrativo, bastaria a realização de algumas adaptações nos sistemas Sisdoc e Processus. Entretanto, durante a fase de levantamento de requisitos, de 22/09/2007 a 14/12/2007, foi constatado que tal proposta não atenderia satisfatoriamente as necessidades do Tribunal. Dentre os problemas detectados no levantamento de requisitos, destacam-se os seguintes:
+
+r)                                              Falta de uma maior integração entre os sistemas Sisdoc e Processus;
+
+s)                                             Falta de tratamento de conceitos indispensáveis ao processo eletrônico, como assinatura eletrônica e carga de documentos do lado do Sisdoc, por exemplo;
+
+t)                                              Nenhum dos dois sistemas oferece interface web, que poderia ser acessada via internet, de qualquer lugar e a qualquer hora. Aliás, as interfaces de ambos os sistemas carecem de padrões aceitáveis de usabilidade;
+
+u)                                            Ambos os sistemas são genéricos demais, permitindo a entrada de qualquer tipo de documento, sem se preocupar com regras básicas de negócio, que poderiam ser vinculadas a tipos de documentos e tipos de processos;
+
+v)                                            A própria forma de se trabalhar com ambos os sistemas obrigaria o usuário a controlar por si só “o quê”, “onde” e “quando” deveria ser feito em cada sistema, considerando seu processo de trabalho. Ou seja, como os sistemas não teriam controle sobre isso, a possibilidade de erros de seqüências de operações seria grande; e
+
+w)                                          As informações apresentadas nas interfaces de cada sistema são insuficientes, não se complementam, e não facilitam o trabalho do usuário.
+
+Diante desse cenário, constatou-se que seria necessário desenvolver um novo sistema, que oferecesse as seguintes características:
+
+x)                                            Maior integração entre as funcionalidades dos sistemas Sisdoc e Processus;
+
+y)                                            Reaproveitamento da infra-estrutura já existente em cada sistema (camadas de negócio e de banco de dados);
+
+z)                                             Introdução dos conceitos de assinatura eletrônica, carga de documentos, construção coletiva de documentos (colaboração online);
+
+aa)                                         Oferecimento de uma nova interface web, que possa ser acessada via internet, de qualquer lugar e a qualquer hora.
+
+bb)                                        Consideração de regras básicas de negócio, vinculadas a tipos de documentos e tipos de processos, evitando erros primários;
+
+cc)                                         Controle de ações sobre documentos e processos em um único lugar, evitando erros de seqüências de operações em sistemas distintos;
+
+dd)                                        Oferecimento de informações completas sobre documentos e processos, em uma única interface;
+
+ee)                                         Integração com o conceito de mesa de trabalho virtual, via Portal TCU, que passa a ser gradativamente o novo ambiente de trabalho dos usuários do Tribunal.
+
+Dessa forma, o escopo do projeto aumentou substancialmente. O prazo definido inicialmente, que era de 10 meses e 17 dias, não será suficiente para o alcance do objetivo geral, de forma completa e satisfatória. Aliás, esta possibilidade de crescimento de escopo foi antevista no documento de solicitação do projeto, onde foi sugerido um prazo de 16 meses. 
+
+Para que um projeto dessa envergadura, que afetará todo o Tribunal, possa alcançar plenamente seu objetivo geral de forma satisfatória, é necessário que seu prazo para conclusão seja prorrogado. A sugestão é alterar o prazo atual de 30/06/2008 para 28/11/2008.ff)        Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+
+
+Sugere-se que a dedicação do analista da Setec, José Luiz Torres Ferreira Costa, passe a ser por tempo integral ao projeto, ao invés de parcial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx)      Custos estimados (registrar se houver alteração dos custos previstos na proposta)
+
+yy)      Recurso
+
+zz)      Valor estimado
+
+aaa)   Data inicial de liberação do recurso
+
+
+
+bbb)                                     
+
+Alocação de dois estagiários para auxiliar nas atividades do projeto (2 estagiários x 5 meses x R$ 700,00).
+
+R$ 7.000,00
+
+01/07/2008
+
+ccc)                                      
+
+Participação em eventos relacionados ao tema e visita a outros órgãos (estimativa de inscrições, diárias e passagens).
+
+R$ 8.000,00
+
+01/05/2008ddd) Total de custos estimados
+
+
+
+R$ 15.000,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+eee) Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+
+
+
+
+
+
+8. Finalização
+
+fff)      Nome
+
+ggg)  Matrícula
+
+hhh)  Lotação
+
+iii)       Período
+
+jjj)       Dedicação integral/ parcial / por atividade
+
+ 
+
+Claudson Costa Adôrno
+
+2515-1
+
+Setec
+
+13/08/2007 a 28/11/2008
+
+Integral 
+
+José Luiz Torres Ferreira Costa
+
+3166-6
+
+Setec
+
+01/05/2008 a 28/11/2008
+
+Integral 
+
+Claudio Wellington Machado
+
+1652-7
+
+Secoi
+
+01/10/2007 a 28/11/2008
+
+Parcial 
+
+Idalécio Jeferson Sousa
+
+5854-8
+
+Segedam
+
+13/08/2007 a 28/11/2008
+
+Parcial 
+
+Cyro de Castilho Ribeiro
+
+2979-3
+
+Secof
+
+01/10/2007 a 28/11/2008
+
+Parcial 
+
+Lúcio Flávio Ferraz
+
+5068-7
+
+Semat
+
+01/10/2007 a 28/11/2008
+
+Parcial 
+
+Diogo Hideki Kotani
+
+6012-7
+
+Sesap
+
+13/08/2007 a 28/11/2008
+
+Parcial 
+
+Marissol Marques Costa
+
+4561-6
+
+Segep
+
+13/08/2007 a 28/11/2008
+
+Parcial 
+
+Matheus Motta Alves
+
+Estagiário
+
+Segedam
+
+01/09/2007 a 28/11/2008
+
+Integral 
+
+Igor Gabriel Mesquita Araújo
+
+Estagiário
+
+Segedam
+
+01/04/2008 a 28/11/2008
+
+Integral
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto Processo Eletrônico Administrativo - Segedam sem Papel .
+
+

@@ -1,0 +1,663 @@
+Portaria
+333/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe é conferida pelo art. 28, inciso XXXIV do Regimento Interno, e tendo em vista o disposto no art. 40, § 1º, inciso I da Lei nº 12.919, de 24 de dezembro de 2013 (LDO), combinado com o art. 4º, inciso I, alínea "a", e § 1º, e inciso XVI, da Lei nº 12.952, de 20 de janeiro de 2014 (LOA) e considerando as disposições contidas na Portaria SOF nº 10, de 11 de fevereiro de 2014, resolve:
+
+
+Art. 1º  Fica aberto, ao Orçamento Fiscal, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 16.864.475,00 (dezesseis milhões, oitocentos e sessenta e quatro mil, quatrocentos e setenta e cinco reais) para atender à programação exposta no Anexo I desta Portaria.
+
+
+Art. 2º  Os créditos necessários à execução do disposto no art. 1º decorrerão da anulação parcial de dotação orçamentária constante do Anexo II deste ato.
+
+
+Art. 3º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+
+
+
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+(Publicada no DOU de 10/12/2014, Seção 1, p. 145)
+
+
+
+
+ANEXO I DA PORTARIA-TCU Nº 333, DE 9 DE DEZEMBRO DE 2014.
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+
+Não consta revogação expressa
+Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 16.864.475,00 (dezesseis milhões, oitocentos e sessenta e quatro mil, quatrocentos e setenta e cinco reais) para reforço de dotações constantes da lei orçamentária vigente.
+
+ANEXO I
+
+
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+16.864.475
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 20TP
+
+Pagamento de Pessoal Ativo da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16.711.170
+
+01 122
+
+0550  20TP 0001
+
+Pagamento de Pessoal Ativo da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16.711.170
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+16.711.170
+
+ 
+
+ 
+
+Projetos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 110B
+
+Construção da Secretaria de Controle Externo no Estado de Rondônia - SECEX/RO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+33.305
+
+01 122
+
+0550  110B 0116
+
+Construção da Secretaria de Controle Externo no Estado de Rondônia - SECEX/RO - No Município de Porto Velho - RO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+33.305
+
+ 
+
+ 
+
+ 
+
+F
+
+4
+
+2
+
+90
+
+0
+
+100
+
+33.305
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 331
+
+0550 00M1
+
+Benefícios Assistenciais decorrentes do Auxílio-Funeral e Natalidade
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+120.000
+
+01 331
+
+0550  00M1 0001
+
+Benefícios Assistenciais decorrentes do Auxílio-Funeral e Natalidade - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+120.000
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+1
+
+90
+
+0
+
+100
+
+120.000
+
+TOTAL – FISCAL
+
+16.864.475
+
+TOTAL – SEGURIDADE
+
+0
+
+TOTAL - GERAL
+
+16.864.475
+
+
+
+
+ANEXO II DA PORTARIA Nº 333, DE 9 DE DEZEMBRO DE 2014.
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO II
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (CANCELAMENTO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+15.853.305
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 301
+
+0550 2004
+
+Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+120.000
+
+01 301
+
+0550  2004 0001
+
+Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+120.000
+
+ 
+
+ 
+
+ 
+
+S
+
+3
+
+1
+
+90
+
+0
+
+100
+
+120.000
+
+01 032
+
+0550 4018
+
+Fiscalização da Aplicação dos Recursos Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15.733.305
+
+01 032
+
+0550  4018 0001
+
+Fiscalização da Aplicação dos Recursos Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15.733.305
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+2
+
+90
+
+0
+
+100
+
+14.033.000
+
+ 
+
+ 
+
+ 
+
+F
+
+4
+
+2
+
+90
+
+0
+
+100
+
+1.700.305
+
+0909
+
+Operações Especiais: Outros Encargos Especiais
+
+1.011.170
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 274
+
+0909 0536
+
+Pensões Decorrentes de Legislação Especial e/ou Decisões Judiciais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.011.170
+
+09 274
+
+0909  0536 0001
+
+Pensões Decorrentes de Legislação Especial e/ou Decisões Judiciais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.011.170
+
+ 
+
+ 
+
+ 
+
+S
+
+3
+
+1
+
+90
+
+0
+
+100
+
+1.011.170
+
+TOTAL – FISCAL
+
+15.733.305
+
+TOTAL – SEGURIDADE
+
+1.131.170
+
+TOTAL - GERAL
+
+16.864.475
+
+ 
+
+ 
+
+
+

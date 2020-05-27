@@ -1,0 +1,639 @@
+Portaria
+187/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista a competência que lhe confere o art. 14, inciso III, da Resolução-TCU nº 269, de 25 de março de 2015,
+
+
+considerando a necessidade de definir e implementar as linhas de ação necessárias ao cumprimento de objetivos estratégicos estabelecidos no Plano Estratégico do Tribunal de Contas da União (PET-TCU) para o período 2015-2021, bem assim das diretrizes constantes do Plano de Controle Externo; e
+
+
+considerando a importância de garantir o alinhamento, a sinergia, a integração e a coordenação entre os planos para alcance das prioridades institucionais, resolve:
+
+
+Art. 1º Fica aprovado o Plano de Diretrizes do Tribunal de Contas da União para o período de abril de 2017 a março de 2019, na forma do Anexo Único desta Portaria.
+
+
+Art. 2º Para fins do disposto no art. 19 da Portaria-TCU nº 125, de 28 de maio de 2012, o conjunto de indicadores e respectivos pesos que compõem o resultado institucional para o período 2017-2018 estão definidos na tabela 2 do Anexo Único desta Portaria.
+
+
+Art. 3º As linhas de ação constantes da tabela 1 do Anexo Único do Plano de Diretrizes devem ser desdobradas nos planos diretores das unidades básicas e das unidades diretamente vinculadas à Presidência do Tribunal, no Plano Diretor de Tecnologia da Informação (PDTI) e no Plano Diretor de Desenvolvimento de Competências (PDDC), no que lhes couber, a serem aprovados pelas instâncias e nos prazos estabelecidos na Resolução-TCU nº 269, de 25 de março de 2015.
+
+
+§ 1º Os registros da implementação das ações dos planos diretores e de seus respectivos indicadores devem ser realizados, pelas unidades da Secretaria do Tribunal, no Sistema Planejar.
+
+
+§ 2º O planejamento operacional das ações que componham linha de ação que envolva mais de uma unidade deve ser realizada de forma coordenada.
+
+
+Art. 4º Compete à Secretaria de Planejamento, Governança e Gestão (Seplan) o acompanhamento periódico do alcance das metas dos indicadores que compõem o resultado institucional.
+
+
+Parágrafo único. Os dados necessários ao cômputo dos indicadores do Plano de Diretrizes serão extraídos das bases das soluções de tecnologia da informação que suportam a gestão do planejamento institucional.
+
+
+Art. 5º O Plano de Diretrizes será revisto a qualquer tempo, caso haja superveniência de fato que justifique a necessidade de ajustes.
+
+
+Parágrafo único. As eventuais revisões, bem como a definição dos indicadores para o período 2018-2019, serão realizadas mediante portaria do Presidente.
+
+
+Art. 6º Para fins de acompanhamento do Plano de Diretrizes, adotam-se os conceitos de apreciação conclusiva constantes da tabela 3 do Anexo Único desta Portaria.
+
+
+Art. 7º Os casos omissos serão dirimidos pela Comissão de Coordenação Geral.
+
+
+Art. 8º Ficam revogadas a Portaria-TCU nº 130, de 27 de março de 2015, a Portaria-TCU nº 54, de 23 de fevereiro de 2016, a Portaria-TCU nº 111, de 26 de abril de 2016 e a Portaria-TCU nº 211, de 22 de agosto de 2016.
+
+
+Art. 9º Esta Portaria entra em vigor no dia 3 de abril de 2017.
+
+
+RAIMUNDO CARREIRO
+
+
+
+Marcelo Luiz Souza da Eira
+
+
+Secretário-Geral de Controle Externo
+
+
+Substituto Eventual
+
+
+
+Carlos Roberto Caixeta
+
+
+Secretário-Geral de Administração
+
+
+
+Rainério Rodrigues Leite
+
+
+Secretário-Geral da Presidência
+
+
+
+
+
+ANEXO ÚNICO  DA  PORTARIA-TCU Nº 187, DE 31 DE MARÇO DE 2017.
+
+
+PLANO DE DIRETRIZES DO TRIBUNAL DE CONTAS DA UNIÃO
+
+
+1. Contextualização
+
+
+O Sistema de Planejamento e Gestão do TCU consiste em um conjunto de práticas gerenciais, em especial planos institucionais, voltadas para a obtenção de resultados, com base no estabelecimento, na execução e no acompanhamento de metas e ações que impulsionem o cumprimento da missão institucional e o alcance da visão de futuro do TCU. Para isso, são estabelecidas diretrizes de curto, médio e longo prazos cujo sucesso de implementação depende do perfeito alinhamento entre os planos que as operacionalizam. 
+
+
+A Resolução-TCU nº 269, de 25 de março de 2015, que dispõe sobre o Sistema de Planejamento e Gestão do Tribunal, estabelece o conjunto de planos institucionais responsáveis por operacionalizar as estratégias que permitem ao TCU cumprir com excelência sua missão de aprimorar a Administração Pública em benefício da sociedade por meio do controle externo. Os planos traduzem os seguintes níveis do sistema:
+
+
+a)	nível estratégico, representado pelo Plano Estratégico;
+
+
+b)	nível tático, representado pelo Plano de Controle Externo e pelo Plano de Diretrizes; e
+
+
+c)	nível operacional, representado pelos planos diretores das unidades básicas ou vinculadas diretamente à Presidência, Plano Diretor de Tecnologia da Informação (PDTI) e Plano Diretor de Desenvolvimento de Competências (PDDC).
+
+
+Este Anexo Único trata do Plano de Diretrizes do Tribunal para o período de abril de 2017 a março de 2019, o qual traduz, junto com o Plano de Controle Externo, o nível tático do Sistema de Planejamento e Gestão do TCU.
+
+
+
+2. Plano de Diretrizes
+
+
+O Plano de Diretrizes, conforme art. 7º da Resolução-TCU nº 269, de 25 de março de 2015, possui periodicidade bianual e estabelece, a partir dos Planos Estratégico e de Controle Externo, os objetivos, indicadores de desempenho, metas e iniciativas que nortearão as ações do Tribunal e de sua Secretaria no período ao qual se refere. 
+
+
+O Plano de Diretrizes é, em conjunto com o Plano de Controle, o produto principal do planejamento tático institucional, e tem a função de orientar, dentro do processo de desdobramento da estratégia organizacional, a elaboração dos planos diretores.
+
+
+O Plano de Diretrizes contém os objetivos estratégicos e as linhas de ação de gestão necessárias à execução das diretrizes finalísticas presentes na Seção I, do Plano de Controle Externo, e os indicadores de desempenho e metas institucionais. 
+
+
+
+2.1. Metodologia adotada para elaboração
+
+
+A elaboração do Plano de Diretrizes observou precipuamente a orientação estratégica aprovada pela Casa e materializada nos objetivos estratégicos presentes no planejamento de longo prazo do Tribunal. 
+
+
+O mapa estratégico traduz a missão, a visão e a estratégia da organização em um conjunto abrangente de objetivos que direcionam o comportamento e o desempenho institucionais. Os propósitos do mapa são definir e comunicar, de modo claro e transparente a todos os níveis gerenciais e servidores, o foco e a estratégia de atuação escolhidos pelo Tribunal e a forma como suas ações impactam o alcance dos resultados desejados, assim como subsidiar a alocação de esforços e evitar a dispersão de ações e de recursos.
+
+
+
+
+
+
+
+
+O mapa estratégico do TCU, conforme disposto na figura 1, está estruturado em três perspectivas que representam o encadeamento lógico de sua estratégia de atuação. Cada perspectiva engloba um conjunto de objetivos estratégicos que retrata os principais desafios a serem enfrentados pelo Tribunal no alcance de sua visão de futuro e no cumprimento de sua missão institucional.
+
+
+A perspectiva de resultados define os resultados que o Tribunal deve gerar para atender às expectativas das partes interessadas (Congresso Nacional, Sociedade e Jurisdicionados). A perspectiva de processos internos retrata os processos internos prioritários nos quais o TCU deverá buscar excelência e concentrar esforços a fim de maximizar seus resultados. Por fim, a perspectiva de gestão e inovação identifica ações e inovações nas áreas de gestão de pessoas, tecnologia da informação, comportamento organizacional e suporte logístico necessárias para assegurar o crescimento e o aprimoramento contínuo do TCU.
+
+
+Os resultados prioritários a serem alcançados pelo Tribunal, de acordo com seu Plano Estratégico, são:
+
+
+a)	Aprimorar a governança e a gestão em organizações e políticas públicas;
+
+
+b)	Coibir a má gestão dos recursos públicos; e
+
+
+c)	Fomentar a Administração Pública transparente.
+
+
+Para alcançar os resultados definidos, foram traçadas estratégias de atuação, materializadas em linhas de ação de controle (finalísticas) e de gestão constantes do Plano de Controle Externo (PCE) e do Plano de Diretrizes, respectivamente. 
+
+
+As linhas de ação do PCE têm por finalidade ampliar o conhecimento que o Tribunal possui acerca de seus objetos de controle, bem como permitir, a partir do tratamento de dados de bases informacionais da Administração Pública, a detecção e a correção tempestiva de desvios de recursos.
+
+
+Nesse mesmo sentido, o Plano de Diretrizes apresenta linhas de ação de gestão que têm por finalidade assegurar suporte às ações finalísticas seguindo encadeamento lógico, de modo a permitir que o Tribunal cumpra sua missão institucional e alcance sua visão de futuro.
+
+
+A figura 2 abaixo demonstra o inter-relacionamento entre os objetivos estratégicos de resultado, as diretrizes e as linhas de ação finalísticas e de gestão.
+
+
+Os objetivos estratégicos da perspectiva de resultados do mapa do TCU foram traduzidos em quatro diretrizes: combate a fraude e corrupção; avaliação da eficiência e da qualidade dos serviços públicos; avaliação de resultados de políticas e programa públicos; e promoção da transparência na administração pública.
+
+
+Para dar suporte a essas diretrizes e alavancar os resultados institucionais, foram definidas linhas de ação finalísticas e linhas de ação de gestão. As unidades coordenadoras de planejamento do Tribunal, a partir das diretrizes de controle e de gestão apresentadas, e considerando os desafios para a implementação da estratégia definida, apresentaram propostas de linhas de ação que direcionam a atuação das unidades ao longo da vigência do Plano de Diretrizes. 
+
+
+
+Diretrizes
+1. Combate 
+a
+ 
+f
+raude e 
+c
+orrupção 
+2. 
+Avaliação da eficiência e da qualidade dos serviços públicos 
+3
+. Avaliação de resultados de políticas e programas públicos 
+4. Promoção da transparência na administração pública
+Linhas de ação 
+finalísticas
+Linhas de ação de gestão
+
+
+
+Objetivos estratégicos de resultado
+1. 
+Aprimorar a governança e a gestão em organizações e políticas públicas
+2. 
+Coibir a má gestão dos recursos públicos
+3. 
+Fomentar a Administração Pública transparente
+
+
+
+
+
+
+
+
+
+
+
+
+A última etapa da elaboração do Plano de Diretrizes consistiu na definição dos indicadores de desempenho diretamente vinculados aos resultados institucionais e das respectivas metas a serem alcançadas, conforme apresentado na tabela 2.
+
+
+O Plano de Diretrizes, em alinhamento com a estratégia organizacional e com a orientação apresentada pelo Plano de Controle, contém objetivos estratégicos e linhas de ação de gestão, conforme tabela 1 a seguir.
+
+
+
+Objetivos estratégicos: 
+
+Intensificar o intercâmbio nacional e internacional para compartilhamento de melhores práticas para o controle;
+
+Aperfeiçoar a gestão do desempenho, o reconhecimento e o desenvolvimento profissional; e
+
+Aprimorar a gestão do conhecimento.
+
+Linhas de ação
+
+Desenvolvimento de competências
+
+1. Internalizar capacidades profissionais e institucionais advindas de cooperações internacionais.
+
+2. Estabelecer parcerias para desenvolvimento de ações educacionais.
+
+3. Implementar o Centro de Altos Estudos em Controle e Administração Pública do TCU.
+
+4. Promover a oferta de pós-graduação no âmbito do TCU.
+
+5. Promover o desenvolvimento profissional do auditor do setor público.
+
+Objetivos estratégicos: 
+
+Intensificar o intercâmbio nacional e internacional para compartilhamento de melhores práticas para o controle;
+
+Intensificar parcerias com outros órgãos de controle; e
+
+Estreitar o relacionamento com o Congresso Nacional.
+
+Linhas de ação
+
+Parcerias estratégicas
+
+6. Consolidar a legitimidade técnica e institucional do TCU em nível internacional.
+
+7. Atuar em parceria com órgãos públicos, por meio do compartilhamento de informações, experiências e boas práticas e a realização de ações conjuntas.
+
+8. Estreitar o relacionamento do TCU com as Consultorias Legislativas e de Orçamento.
+
+9. Aprimorar e expandir o relacionamento do TCU com o Congresso Nacional e suas comissões.
+
+10. Aprimorar o relacionamento do Tribunal com a sociedade para estimular o exercício do controle social.
+
+Objetivo estratégico:
+
+Aperfeiçoar a comunicação do TCU com as partes interessadas.
+
+Linhas de ação
+
+Comunicação
+
+11. Aprimorar e expandir o relacionamento com a imprensa regional e com a imprensa especializada em áreas de interesse do TCU.
+
+12. Aumentar alcance e impacto dos conteúdos dos canais próprios de comunicação.
+
+13. Implementar novos produtos de comunicação segmentados para diferentes públicos de relacionamento.
+
+Objetivos estratégicos: 
+
+Desenvolver capacidade organizacional ampla para trabalhar com recursos tecnológicos; 
+
+Aprimorar o uso da TI como instrumento de inovação para o controle; e
+
+Aprimorar a gestão do conhecimento.
+
+Linhas de ação
+
+Tecnologia da Informação
+
+ 
+
+14. Disponibilizar soluções de tecnologia da informação e de inteligência artificial como instrumentos de combate a fraude e corrupção e de promoção da eficiência do estado. 
+
+15. Aprimorar a governança, a gestão e o uso de recursos e ativos de tecnologia, de informação e do conhecimento institucional.
+
+16. Intensificar o uso de tecnologia da informação como instrumento de incremento à eficiência institucional.
+
+17.  Promover a inovação no processo de gestão estratégica da informação para o controle externo.
+
+18.  Conceber e aperfeiçoar soluções de tecnologia da informação para suporte ao controle externo e ao funcionamento institucional.
+
+Objetivos estratégicos: 
+
+Aperfeiçoar a gestão do desempenho, o reconhecimento e o desenvolvimento profissional;
+
+Promover integração e sinergia no Tribunal;
+
+Promover a melhoria da governança e da gestão da estratégia no TCU; e
+
+Assegurar suporte de bens e serviços adequados às necessidades do TCU.
+
+Linhas de ação
+
+Excelência administrativa
+
+19. Racionalizar processos de trabalho e serviços prioritários ou com maior ganho potencial de eficiência.
+
+20. Simplificar e integrar o processo de planejamento institucional.
+
+21. Implantar o Sistema de Gestão de Riscos do TCU.
+
+22. Aperfeiçoar políticas e práticas de gestão consideradas críticas ou de maior risco.
+
+23. Zelar pela aplicação dos requisitos de acessibilidade e sustentabilidade no âmbito do TCU.
+
+24. Aprimorar as condições laborais.
+
+25. Atuar em cooperação com a Administração Pública, por meio do estabelecimento de parcerias estratégicas para a melhoria da gestão administrativa.
+
+26. Promover ações de comunicação interna para compartilhamento de resultados de trabalhos e disseminação de informações entre as unidades. 
+
+Objetivo estratégico: 
+
+Intensificar a atuação com base em análise de risco.
+
+Linhas de ação
+
+Controle Externo
+
+27. Prestar suporte técnico quanto ao emprego de métodos e técnicas de controle externo.
+
+28. Aperfeiçoar procedimentos e normas processuais e de fiscalização.
+
+29. Prover informações estratégicas para o controle externo.
+
+30. Aperfeiçoar o processo de planejamento de controle externo, com vistas a orientar a atuação do TCU para as ações de maior materialidade, risco e relevância.
+
+31. Prospectar, conceber, validar e utilizar técnicas de inteligência artificial como suporte às atividades de controle externo.
+
+
+
+
+
+
+
+
+TABELA 2  DO  ANEXO ÚNICO DA PORTARIA-TCU Nº 187, DE 31 DE MARÇO DE 2017.
+
+
+DISTRIBUIÇÃO DAS METAS INTEGRANTES DO RESULTADO INSTITUCIONAL 
+
+
+ 
+
+1º período avaliativo
+
+(abr/2017 a set/2017)
+
+2º período avaliativo
+
+(out/2017 a mar/2018)
+
+Nome do Indicador
+
+Responsável pela medição
+
+Peso
+
+Meta
+
+Superável?
+
+Meta
+
+Superável?
+
+1. Índice de apreciação conclusiva de trabalhos relevantes instruídos
+
+Seplan
+
+30%
+
+80%
+
+Sim
+
+60%
+
+Sim
+
+2. Índice de apreciação conclusiva de processos instruídos
+
+Seplan
+
+20%
+
+80%
+
+Sim
+
+70%
+
+Sim
+
+3. Índice de apreciação conclusiva de processos autuados até 2014 instruídos
+
+Seplan
+
+15%
+
+55%
+
+Sim
+
+50%
+
+Sim
+
+4. Índice de apreciação conclusiva de atos de pessoal instruídos
+
+Sefip
+
+15%
+
+90%
+
+Sim
+
+90%
+
+Sim
+
+5. Índice de processos em grau de recurso com até 90 dias em gabinetes de ministro
+
+Seplan
+
+10%
+
+55%
+
+Sim
+
+50%
+
+Sim
+
+6. Índice de apreciação conclusiva de processos de contas anuais autuados em 2016 instruídos
+
+Seplan
+
+10%
+
+80%
+
+Sim
+
+80%
+
+Sim
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Nome do Indicador
+
+Descrição
+
+Fórmula de cálculo
+
+1. Índice de apreciação conclusiva de trabalhos relevantes instruídos
+
+Percentual de apreciação conclusiva de processos relevantes instruídos no mérito até 90 dias do término do período avaliativo, conforme lista disponibilizada no Sistema Planejar.
+
+100 x (∑ processos relevantes apreciados conclusivamente ÷ ∑ processos relevantes instruídos no mérito até 90 dias do final do período avaliativo, conforme lista disponibilizada no Sistema Planejar).
+
+2. Índice de apreciação conclusiva de processos instruídos
+
+Percentual de apreciação conclusiva de processos instruídos no mérito até 90 dias do término do período avaliativo.
+
+100 x (∑ processos que tiveram primeira apreciação conclusiva, conforme tabela 3 desta portaria ÷ (∑ processos instruídos no mérito até 90 dias antes do término do período avaliativo pendentes de primeira apreciação conclusiva – ∑ processos sobrestados ou com recurso interposto)).
+
+3. Índice de apreciação conclusiva de processos autuados até 2014 instruídos
+
+Percentual de apreciação conclusiva de processos autuados até 2014 instruídos no mérito até 90 dias do término do período avaliativo.
+
+100 x (∑ processos autuados até 2014 que tiveram primeira apreciação conclusiva, conforme tabela 3 desta portaria ÷ (∑ processos autuados até 2014 instruídos no mérito até 90 dias antes do término do período avaliativo pendentes de primeira apreciação conclusiva – ∑ processos sobrestados ou com recurso interposto)).
+
+4. Índice de apreciação conclusiva de atos de pessoal instruídos
+
+Percentual de apreciação conclusiva de atos de pessoal instruídos no mérito até 60 dias do término do período avaliativo.
+
+100 x (∑ atos de pessoal apreciados conclusivamente ÷ (∑ atos de pessoal instruídos no mérito até 60 dias antes do término do período avaliativo pendentes de apreciação conclusiva – ∑ atos de pessoal sobrestados ou com recurso interposto)).
+
+5. Índice de processos em grau de recurso com até 90 dias em gabinetes de ministro
+
+Percentual de processos em grau de recurso cuja responsabilidade por agir, há 90 dias ou menos, seja dos gabinetes de ministro ao final do período avaliativo.
+
+100 x ∑ (processos em grau de recurso cuja responsabilidade por agir, há 90 dias ou menos, seja dos gabinetes de ministro ao final do período avaliativo) ÷ ∑ (processos em grau de recurso cuja responsabilidade por agir seja dos gabinetes de ministro ao final do período avaliativo).
+
+6. Índice de apreciação conclusiva de processos de contas anuais autuados em 2016 instruídos
+
+Percentual de apreciação conclusiva de processos de contas anuais autuados em 2016 e instruídos no mérito até 90 dias do término do período avaliativo.
+
+100 x (∑ processos de contas anuais autuados em 2016, com primeira apreciação conclusiva ÷ ∑ processos de contas anuais autuados em 2016 instruídos no mérito até 90 dias do término do período avaliativo, pendentes de primeira apreciação conclusiva).
+
+
+
+BTCU Administrativo Especial |  Ano 36  |  nº 14  |  Segunda-feira, 3/4/2017	1
+
+
+
+TABELA 3  DO  ANEXO ÚNICO DA PORTARIA-TCU Nº 187, DE 31 DE MARÇO DE 2017.
+
+
+APRECIAÇÃO CONCLUSIVA
+
+
+Para efeito de aferição do cumprimento da meta, devem ser considerados como processos julgados ou apreciados de forma conclusiva aqueles cuja decisão está indicada no quadro a seguir, conforme o tipo de processo.
+
+
+
+GRUPO
+
+SIGLAS
+
+DECISÃO
+
+1) Contas
+
+PC, PCEX, PCSP, TC, TCEX, TCSP
+
+▪ julgamento do mérito (regular, regular com ressalva e irregular);
+
+▪ trancamento (iliquidável);
+
+▪ encerramento/arquivamento.
+
+2) Fiscalização
+
+RA, RACOM, RI, RL, RMON
+
+▪ juntada/apensamento;
+
+▪ encerramento/arquivamento;
+
+▪ conversão em TCE.
+
+3) Tomada de Contas Especial
+
+TCE
+
+▪ julgamento do mérito (regular, regular com ressalva, ou irregular);
+
+▪ trancamento (iliquidável);
+
+▪ encerramento/arquivamento;
+
+▪ juntada/apensamento.
+
+4) Denúncia, Representação e Consulta 
+
+DEN, REPR, CONS, CCTO
+
+▪ juntada/apensamento;
+
+▪ encerramento/arquivamento;
+
+▪ conversão em TCE.
+
+5) Acompanhamento de privatização
+
+DES
+
+▪ apreciação dos estágios da privatização;
+
+▪ encerramento/arquivamento;
+
+▪ juntada/apensamento.
+
+6) Solicitação do Congresso Nacional
+
+SCN
+
+▪ encerramento/arquivamento.
+
+7) Contas de Governo
+
+CGOV
+
+▪ aprovação do parecer prévio
+
+8) Contestação de coeficientes de transferência obrigatória
+
+CCTO
+
+▪ juntada/apensamento;
+
+▪ encerramento/arquivamento;
+
+9) Outros 
+
+ACOM, COM, MON
+
+▪ juntada/apensamento;
+
+▪ encerramento/arquivamento;
+
+▪ conversão em TCE.
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Plano de Diretrizes do Tribunal de Contas da União para o período de abril de 2017 a março de 2019 e a distribuição, nos períodos avaliativos, dos valores das metas que compõem o resultado institucional.
+
+

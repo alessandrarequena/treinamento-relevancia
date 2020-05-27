@@ -1,0 +1,1539 @@
+Portaria
+109/2004
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução-TCU nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º  Fica aprovada a realização do projeto Modernização do Controle Externo da Regulação de Serviço Públicos nos termos da proposta anexa a esta Portaria.
+
+
+Art. 2º  Fica designado o Analista de Controle Externo, MARCELO BARROS GOMES, matrícula 3126-7, para exercer, relativamente ao projeto de que trata esta Portaria, a função de confiança de Coordenador de Projeto, código FC-3, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao gestor do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria - TCU nº 176/2003, e observar o disposto no Manual de Gestão de Projetos. 
+
+
+Art. 3º  O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário, à substituição ou à nomeação do gestor do projeto.
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto Modernização do Controle Externo da Regulação de Serviços Públicos e designa seu gestor.
+
+ANEXO ÚNICO
+
+
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 1de 11
+
+1.	Identificação do Gestor do Projeto
+
+
+1.1.
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestorOrigem da FC
+
+Marcelo Barros Gomes
+
+3126-7
+
+ 
+
+GGerente
+
+X
+
+CCoordenador
+
+Segecex
+
+1.2.
+
+E-mail
+
+MarceloBG@TCU.GOV.BR
+
+1.3. Nome do substituto eventual
+
+Matrícula
+
+1.3.1 E-mail
+
+Maridel Piloto de Noronha
+
+3455-0
+
+Maridelpn@tcu.gov.br
+
+1.4.
+
+Local/telefone
+
+Anexo I Sala 326. Tel. 3167539
+2.	Identificação do Projeto
+
+
+2.1.
+
+Nome do projeto
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE SERVIÇOS PÚBLICOS 
+
+2.2.
+
+Período de realização
+
+01/03/2004  a 30/06/2006
+
+2.3.
+
+Unidade patrocinadora
+
+Segecex - Sefid
+3.	Vinculação Estratégica
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU
+
+a)
+
+Objetivos estratégicos:
+
+Cumprir com tempestividade e qualidade as competências do TCU;
+
+Contribuir para a melhoria da prestação dos serviços públicos;
+
+Fortalecer o relacionamento com a sociedade, órgãos públicos, Congresso Nacional e a mídia.
+
+b)
+
+Estratégias:
+
+Fortalecer as ações de controle voltadas para melhoria do desempenho da gestão pública;
+
+Gerenciar a imagem institucional e o diálogo público;
+
+Aperfeiçoar os processos de trabalho do TCU.
+
+3.2.
+
+Vínculo com Plano de Diretrizes
+
+a)
+
+ 
+
+Diretriz 3:
+
+ampliar a contribuição do TCU para o aperfeiçoamento da administração pública:
+
+     Medida 3.7: Incrementar as fiscalizações dos programas e serviços governamentais com alto impacto econômico e social 
+
+     Medida 3.2: Disseminar interna e externamente a contribuição do TCU para o aperfeiçoamento da administração pública.
+
+3.3.
+
+Vínculo com Plano Diretor (se houver)
+
+a)
+
+ 
+
+Diretriz 3:
+
+ampliar a contribuição do TCU para o aperfeiçoamento da administração pública;
+
+    Medida 3.7: Incrementar as fiscalizações dos programas e serviços governamentais com alto impacto econômico e social 
+
+    Medida 3.2: Disseminar interna e externamente a contribuição do TCU para o aperfeiçoamento da administração pública.
+
+4.	Problema/Oportunidade
+
+
+4.1.
+
+Descrição do problema ou da oportunidade (situação)
+
+
+
+a)Devido a processos de privatização sistêmica e surgimento de arranjos institucionais complexos no modelo de prestação de serviços públicos de infra-estrutura no Brasil, a Sefid e o ISC identificaram a necessidade de aperfeiçoar e consolidar a capacidade operacional do TCU para realizar o controle externo dos processos de privatização, reforma regulatória e regulação estatal. Nesse sentido, foi criado Projeto específico com  o fito de desenvolver ações, bem como diagnosticar o melhor modelo de atuação do Tribunal nessa área.[1] 
+
+ 
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 2 de 11
+
+
+
+ No decorrer do projeto foram identificadas, junto ao corpo técnico e gerencial da Sefid, as principais causas que indicam impedir a eficiente e efetiva atuação do TCU no desempenho de suas atribuições atinentes ao controle externo da atividade regulatória estatal na área de infra-estrutura que merecem ser assim destacadas:1. Dificuldade de acesso a fontes de informações a respeito de doutrinas, teorias e práticas de privatização, reforma regulatória e regulação estatal.2. Falta conhecimento consolidado sobre reforma regulatória e regulação estatal, notadamente em literatura nacional.3. Falta de ações sistemáticas voltadas à capacitação e especialização do corpo técnico.4. Inexistência de modelo de educação corporativa que contemple o controle da regulação.5. Escassez de métodos e técnicas em controle da regulação.6. Necessidade de consolidação e sistematização dos métodos e técnicas já empregados pelo TCU no exercício do controle da regulação.7. Dificuldade de acesso a bases de dados das agências reguladoras.8. Ausência de definição clara do papel e extensão do controle do TCU sobre os entes reguladores.9. Necessidade de aperfeiçoamento do modelo de planejamento, de organização e de gestão do controle externo da regulação.10. Incerteza sobre a estrutura ideal necessária ao controle eficiente e efetivo da regulação.11. Falta estratégia de comunicação e divulgação do controle da atividade regulatória que atenda aos diversos públicos destinatários das informações, determinações e recomendações de controle.12. Grau insuficiente de interação com o público relacionado aos processos de desestatização e regulação.
+
+Com a identificação desses problemas, a Sefid propôs um conjunto de ações a serem implementadas ao longo de três anos que devem alavancar e consolidar a capacidade do Tribunal de Contas da União em fiscalizar de forma mais eficiente e efetiva o sistema regulatório brasileiro.  
+
+4.2.
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+A década de 90 foi marcada por uma reorientação político-administrativa. Os agentes governamentais passaram a utilizar mais intensamente mecanismos de delegação de atividades até então assumidas quase que exclusivamente pelo aparelho estatal. Nesse contexto, instrumentos como a privatização, a concessão, a permissão e a autorização foram amplamente utilizados, ora sob denominações conhecidas, ora designados por termos inovadores como parcerias e terceirizações.
+
+Essas transformações ocorreram rapidamente e, em pouco tempo, grande quantidade de agentes privados foi inserida no mercado e passou a exercer atividades que eram preponderantemente exploradas pelo setor público. A complexidade da nova conjuntura agravou-se pelo fato de que grande parte dos bens e serviços públicos afiguram-se como monopólios. Além disso, mesmo em serviços que podem ser prestados por vários agentes, as imperfeições de mercado podem levar a desequilíbrios indesejáveis. Por essa razão, o Estado tem de atuar de forma a coibir o abuso do poder econômico sobre os usuários dos serviços, na sua maioria o cidadão comum.
+
+Quando a prestação de serviços públicos se dava preponderantemente por meio de empresas estatais, a atuação do Controle Externo baseava-se, principalmente, na análise das prestações de contas das entidades. O controle exercido pelo TCU tinha como foco os atos de gestão dos administradores, deixando para segundo plano a análise dos atos regulatórios propriamente ditos.
+
+Com a privatização das empresas estatais e a transferência do direito de exploração de serviços públicos para a iniciativa privada por meio de concessões e permissões, implementou-se, em bases legais, um novo modelo regulatório que instrumentalizou o poder público a atuar mais intensivamente na regulamentação, contratação e fiscalização das delegações, em vez do provimento direto dos serviços.
+
+Ainda que a base para a transferência de serviços públicos ao setor privado esteja definida na Constituição Federal, foi a edição da Lei n.º 8.987, de 13/02/95, que catalisou um processo sistemático de delegação a concessionários e permissionários, obrigando a uma reavaliação da forma de atuação do TCU que passou a apreciar também os atos delegatórios e a regulação decorrente.
+
+Além do acompanhamento dos processos de outorga e de execução contratual, o Tribunal também buscou adequar-se do ponto de vista organizacional destinando uma unidade técnica  - a Secretaria de Fiscalização de Desestatização (Sefid) - para tratar especificamente das questões referentes à desestatização, englobando as delegações de serviços públicos e as privatizações.
+
+Nesse processo de aperfeiçoamento da fiscalização sobre serviços públicos delegados à iniciativa privada, o Tribunal vem estreitando o relacionamento com as agências reguladoras sob o entendimento de que a atuação de todos visa à adequada prestação de serviços públicos.
+
+É importante mencionar que o papel do Tribunal no controle da regulação de serviços públicos não se confunde com o das agências reguladoras. O Tribunal, em primeiro lugar, realiza a fiscalização dirigida à atuação da agência, sem que, no entanto, esteja afastada a possibilidade de serem realizadas, também, auditorias e inspeções diretamente junto às concessionárias e permissionárias de serviços públicos.
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 3 de 11
+
+
+
+4.3.
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+Os processos de privatização são acompanhados pelo TCU a partir de 1991.
+
+b)
+
+O TCU passou também a acompanhar as delegações para a prestação de serviços públicos.
+
+c)
+
+O TCU destina uma Secretaria especializada para  analisar  processos de privatização; acompanhamento das outorgas e da execução dos contratos firmados (2000).
+
+d)
+
+O TCU realiza auditorias operacionais em todas as agências reguladoras da área de infra-estrutura (2000).
+
+e)
+
+O TCU identifica a necessidade de consolidar o conhecimento e desenvolver novos métodos e técnicas para o controle externo de agências reguladoras.
+
+e)
+
+O TCU cria Projeto de Aperfeiçoamento de Controle da Regulação em 2001.
+
+f)
+
+Os trabalhos de Controle de Regulação com foco social passam a fazer parte do Acordo TCU/DFID a partir de 2002.
+
+g)
+
+Os trabalhos do TCU na área de controle da regulação são sistematicamente  citados como referência tanto no âmbito do Governo Federal quanto acadêmico. 
+
+h)
+
+O TCU desenvolve Curso de Pós-graduação em Controle da Regulação (2002-2003).
+
+i)
+
+A Sefid finaliza o termo de referência para contratação de serviços de  consultoria para aperfeiçoamento do Controle da Regulação com apoio financeiro do BID (Outubro 2003).
+
+j)
+
+Empresas de consultoria apresentam proposta de prestação de serviços para o TCU (Fevereiro 2004).
+
+4.4.
+
+Qual a gravidade da situação, a urgência de solução e a tendência se nada for feito  (GUT)
+
+a)
+
+A  falta de um controle externo preparado para realizar o controle da regulação pode gerar, entre outras coisas:
+
+    a captura do ente regulador por interesses diversos aos preceituados no marco regulatório. Deve-se considerar também que nenhum outro órgão ou esfera de governo tem se preparado para a missão de “controlar” as agências.
+
+    A falta de accountability e transparência dos atos de gestão regulatória.
+
+    Insegurança quanto à estabilidade do regime regulatório, em decorrência de eventual falta de acompanhamento por parte do TCU/Congresso dos atos dos entes reguladores.
+
+5. ESCOPO DO PROJETO
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+ Aperfeiçoar a atuação do TCU no controle externo da  regulação de serviços públicos objeto de delegação.
+5. 2. Meta – indicador – produto – cliente
+
+
+ 
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+5.2.1. Objetivo específico
+
+5.2.2. Quanto
+
+5.2.3. Prazo
+
+a)
+
+Mapear e documentar processos organizacionais[2] no âmbito da Sefid 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+30 de setembro  de 2004
+
+ 
+
+ 
+
+ (06meses)
+
+Nº Processos Organizacionais Mapeados/ Nº Processos Organizacionais identificados
+
+Plano de implantação de processos melhorados aprovado
+
+Relatório validado de Processos organizacionais da Sefid Mapeados
+
+ 
+
+ 
+
+Plano de implantação de processos melhorados validado
+
+Sefid
+
+Segecex
+
+Seplan
+
+
+
+
+
+
+
+
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 4 de 11
+
+
+
+b)
+
+Mapear e documentar métodos e técnicas de controle da regulação[3] utilizados pela Sefid 
+
+100%
+
+30 de agosto de 2005
+
+(15 meses)
+
+nº métodos e técnicas mapeados/ Nº métodos e técnicas existentes
+
+ 
+
+Relatório validado de métodos e técnicas da Sefid mapeados
+
+Sefid
+
+Segecex
+
+Adfis
+
+c)
+
+Mapear macroprocessos de entes reguladores jurisdicionados à Sefid[4]
+
+100%
+
+30 de setembro de 2005
+
+(12 meses)
+
+ nº de entes reguladores com macroprocessos mapeados/ Nº entes reguladores jurisdicionados à Sefid
+
+Relatório validado de Macroprocessos de cada ente regulador jurisdicionado à Sefid
+
+Sefid
+
+Adfis
+
+d)
+
+Mapear sistemas informatizados de entes reguladores[5]
+
+100%
+
+ 
+
+30 de setembro de 2005
+
+(12 meses)
+
+Nº entes reguladores jurisdicionados à Sefid com sistemas informatizados mapeados/Nº entes reguladores jurisdicionados à Sefid
+
+Relatório validado de Mapeamento de sistemas informatizados de cada  ente regulador jurisdicionado à Sefid
+
+Sefid
+
+Setec 
+
+Adfis
+
+ 
+
+e)
+
+Desenvolver novos métodos e técnicas em controle da regulação
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+30 de junho de 2006
+
+(18 meses)
+
+Nº métodos e técnicas desenvolvidos/nº de métodos e técnicas objeto de contratação de consultoria específica[6]
+
+Plano de implantação de novos métodos e técnicas aprovado
+
+Método ou técnica validado
+
+ 
+
+ 
+
+Plano de implantação de novos métodos e técnicas validado
+
+Sefid
+
+Adfis
+
+f)
+
+Diagnosticar públicos-alvos e aperfeiçoar comunicação do TCU no controle da regulação[7]
+
+1 
+
+ 
+
+ 
+
+ 
+
+1
+
+30 de junho de 2005
+
+(03 meses)
+
+ 
+
+30 de agosto de 2005
+
+(03 meses)
+
+Diagnóstico de público-alvo aprovado
+
+ 
+
+Estratégia de mecanismos de veiculação e interação com os diversos públicos-alvos da Sefid aprovada 
+
+ 
+
+Diagnóstico de públicos-alvo validado
+
+ 
+
+Proposta de mecanismos de  veiculação e interação de comunicações de interesse para o TCU validada
+
+Presidência
+
+Sefid
+
+Segecex
+
+Adfis
+
+Ascom
+
+Aspar
+
+
+
+
+
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 5 de 11
+
+
+
+g)
+
+Estruturar Centro de Estudos em Controle da Regulação (CECR)[8]
+
+1
+
+ 
+
+1
+
+ 
+
+1
+
+ 
+
+1
+
+30 de junho de 2005
+
+(15 meses)
+
+ 
+
+ 
+
+ 
+
+30 de maio de 2006
+
+(09 meses)
+
+     Modelo de Funcionamento do Centro aprovado
+
+     CECR implantado
+
+     especificação para desenvolvimento de sítio na internet aprovada
+
+      Informações sobre controle da regulação publicadas no Portal TCU
+
+      Proposta de estrutura e de normas de funcionamento do CECR
+
+     CECR implantado
+
+     especificação para desenvolvimento de sítio na internet validada
+
+      Informações sobre controle da regulação  no Portal TCU
+
+Sefid
+
+Segecex
+
+ISC
+
+Cedoc
+
+Seplan
+
+Setec
+
+h)
+
+ elaborar, em auxílio ao Projeto Atena,  Plano de Educação Corporativa em Controle da Regulação[9]
+
+1
+
+01 de março 2005
+
+(12 meses)
+
+Plano de Educação Corporativa em Controle da Regulação aprovado
+
+Plano de Educação Corporativa em Controle da Regulação proposto
+
+ 
+
+Sefid
+
+Segecex
+
+ISC
+
+ 
+
+i)
+
+desenvolver e implantar, em conjunto com o Projeto Atena, modelos de educação corporativa em controle da regulação
+
+100%
+
+ 
+
+01 de junho 2006
+
+(15 meses)
+
+Nº de modelos de educação corporativa desenvolvidos/nº de modelos de educação corporativa propostos
+
+Nº de servidores treinados / Nº de servidores a treinar 
+
+Modelo educação corporativa em controle da regulação desenvolvido.
+
+Servidores treinados (da Sefid e, se necessário, de outras unidades)
+
+Sefid
+
+Segecex
+
+ISC
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página  6 de 11
+
+
+
+
+
+j)
+
+Especificar, preliminarmente, os sistemas de informação para suporte à automação de processos organizacionais da Sefid.[10]
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+30 de outubro de 2005
+
+(03 meses)
+
+ 
+
+ 
+
+ 
+
+30 de novembro de 2005
+
+(03 meses)
+
+sistemas de informações necessários à automação de processos organizacionais da Sefid aprovados
+
+elementos[11] de especificação  dos sistemas de informação
+
+aprovados
+
+ 
+
+sistemas de informações necessários à automação de processos organizacionais da Sefid validados
+
+ 
+
+elementos de especificação  dos sistemas de informação validados
+
+ 
+
+ 
+
+Sefid
+
+Setec
+
+ 
+
+l)
+
+Analisar a estrutura organizacional[12] do TCU para o controle da regulação
+
+1
+
+30.06.2005
+
+(06 meses)
+
+Modelo de estrutura organizacional  aceito
+
+Plano de implantação da estrutura organizacional aceito
+
+Modelo de estrutura organizacional validado
+
+Plano de implantação da estrutura organizacional validado
+
+Segecex
+
+Seplan
+
+Sefid
+
+Sepres
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+a)Mapeamento de processos organizacionaisEscopo: Compreende levantamento, definição e documentação de processos organizacionais e atividades da Sefid.Produto: Levantamento, definição e documentação de processos que identifiquem lacunas e sobreposições, pontos de melhoria e processos críticos; 
+
+b)Mapeamento de métodos e técnicasEscopo: compreende o levantamento e a documentação de métodos utilizados no controle da regulação, sejam eles tácitos ou explícitos. Produtos:Inventário e documentação dos métodos e técnicas praticados pela Sefid;
+
+Documentação dos métodos inventariados, incluindo os adotados no controle das privatizações, dos atos de outorga em setores cuja regulação é controlada pela Sefid, e dos processos de revisão de tarifas dos setores de rodovias e de distribuição de energia elétrica. 
+
+c)Desenvolvimento de novos métodos e técnicasEscopo: compreende o desenvolvimento, a validação e a documentação  de novos modelos de controle da regulação.Produtos: Proposta de três grupos de novos modelos de controle da regulação aplicáveis aos objetos considerados mais relevantes pela Sefid;Elaboração de documentos de referência para cada modelo de controle da regulação proposto, nos termos do subitem anterior. 
+
+d)Mapeamento dos macroprocessos de entes reguladoresEscopo: objetiva o melhor conhecimento das atividades essenciais dos entes reguladores jurisdicionados à Sefid levando-se em conta critérios de materialidade, risco, relevância e outros necessários ao controle da regulação, com vistas ao seu aprimoramento.Produtos: Levantamento dos macroprocessos organizacionais de cada um dos entes reguladores jurisdicionados à Sefid. 
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página  7 de 11
+
+
+
+e)Mapeamento dos sistemas informatizados de entes reguladoresEscopo: compreende o levantamento de dados e sistemas existentes em entes reguladores jurisdicionados à Sefid, com a identificação das informações e relatórios necessários ao controle da regulação.Produtos:Inventário dos sistemas informatizados dos entes reguladores jurisdicionados à Sefid;Definição de informações e relatórios relevantes ao controle da regulação, em cada caso.
+
+f)Diagnóstico de públicos-alvos e aperfeiçoamento da comunicação do TCU no controle da regulaçãoEscopo: consiste na busca da melhoria da visibilidade das ações do Tribunal de Contas da União relacionadas ao controle da regulação, pelo aprimoramento do diálogo com seus públicos-alvos.Produtos:Elaboração de levantamento dos públicos-alvos do Tribunal de Contas da União, no tocante ao controle da regulação;Proposta de instrumento de veiculação das ações do Tribunal de Contas da União e dos benefícios delas decorrentes adequado para cada público-alvo identificado;Proposta de mecanismos de interação sustentada com os públicos-alvos do Tribunal de Contas da União, no que concerne ao controle da atividade regulatória. 
+
+g)Análise da  Estrutura Organizacional do TCU para o Controle da RegulaçãoEscopo: consiste na racionalização da gestão de controle da regulação, mediante proposta de estrutura organizacional adequada para o TCU, tendo em vista critérios de economicidade, eficiência e efetividade das ações de controle da regulação.Produto: Relatório de avaliação da estrutura organizacional, contendo eventual proposta de alteração, caso necessário. 
+
+h)Estruturação de Centro de Estudos em Controle da Regulação (CECR)Escopo: Compreende a concepção e implementação de centro de estudos em controle da regulação (CECR), como instância de organização de informações voltadas para o apoio às atividades desenvolvidas pela Sefid e para a disseminação de conhecimentos associados ao controle e à regulação de serviços públicos delegados. Produtos:Proposta de estrutura do CECR, incluindo: modelo de sistemas de informação e gestão de conhecimento, estrutura organizacional, recursos humanos, infra-estrutura tecnológica e física;Proposta de normas de funcionamento do CECR. 
+
+i)elaboração de  plano de educação corporativa em controle da regulaçãoEscopo: compreende as estratégias de educação corporativa, disseminação de conhecimento e capacitação, em consonância com as competências profissionais necessárias ao controle da regulação, com vistas à aquisição, produção e divulgação de conhecimento nas áreas abrangidas pelo projeto.Produto: Proposta de estratégia em educação corporativa em controle da regulação. 
+
+j)Desenvolvimento e implantação de modelos de educação corporativa em controle da regulaçãoEscopo: consiste na especificação de modelos e estratégias educacionais em controle da regulação para servidores do TCU.Produto: Modelo educação corporativa em controle da regulação desenvolvido;Servidores treinados (da Sefid e, se necessário, de outras unidades).
+
+l)Especificação preliminar dos sistemas de informação para suporte à automação de processos organizacionais da Sefid Escopo: consiste na especificação preliminar dos sistemas de informação para suporte à automação de processos organizacionais da Sefid.Produtos:
+
+identificação de sistemas de informações necessários à automação de processos organizacionais da Sefid;
+
+Descrição dos artefatos de especificação  dos sistemas de informação. 
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+Desenvolvimento de sistema informatizado de controle da regulação e de solução informatizada para acesso às bases de dados dos entes reguladores jurisdicionados à Sefid.  O Projeto identificará os sistemas de informação necessários e seus respectivos elementos de especificação.
+
+b)
+
+Implantação da reestruturação organizacional. O Projeto fará o diagnóstico e, se necessário, desenvolverá proposta de novo modelo e plano de reestruturação organizacional na área de regulação.
+
+c)
+
+Implantação dos processos melhorados. O Projeto desenvolverá plano de implantação de processos melhorados.
+
+d)
+
+Aprovação da regulamentação de normas relativas aos métodos e técnicas mapeados e desenvolvidos no âmbito do Projeto.
+
+e)
+
+Desenvolvimento de métodos e técnicas relacionados ao controle de regulação com foco na redução de desigualdades. O Projeto apoiará ações desenvolvidas no âmbito do Projeto CERDS.
+
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 8 de 11
+
+
+
+f)
+
+Mapeamento de macroprocessos e de sistemas de informações (de entes reguladores) não relacionados ao controle da regulação, realizado pela Sefid.
+
+g)
+
+Desenvolvimento de produtos de comunicação com públicos-alvos  identificados e diagnosticados.
+
+h)
+
+Desenvolvimento de  ações de disseminação das metodologias utilizadas no desenvolvimento dos produtos do projeto (ex.: ferramentas de mapeamento de processos, de gestão de conhecimento, de gerências de projetos, etc.).
+6.	Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+Segecex, como patrocinador do Projeto.  
+
+b)
+
+Sefid, como principal cliente do projeto. Após o encerramento do projeto, será responsável pela utilização e atualização dos métodos e técnicas mapeados; eventual implantação de nova estrutura organizacional em controle de regulação;  operacionalização e continuidade do funcionamento do CECR; pela proposta de regulamentação de normas relativas aos métodos e técnicas mapeados e desenvolvidos e viabilização do sistema de informação para suporte à automação de processos organizacionais da Sefid, em parceria com a Setec.  
+
+c)Sepres, no que tange à análise da  estrutura organizacional do TCU para o controle da regulação,
+
+e diagnóstico e comunicação com  públicos alvo.  
+
+d)
+
+Instituto Serzedello Corrêa em relação à implantação de modelos de educação corporativa em controle da regulação. 
+
+Projeto Atena, em relação ao mapeamento de competências profissionais e organizacionais, à elaboração do Plano de Educação Corporativa e ao desenvolvimento de modelos de educação corporativa em controle de regulação. 
+
+Cedoc, em relação ao apoio para operacionalização e continuidade do funcionamento do CECR .
+
+e)
+
+Setec, com relação a especificação preliminar dos sistemas de informação para suporte à automação de processos organizacionais da Sefid
+
+f)
+
+Adfis, como cliente do projeto e parceiro no desenvolvimento de métodos e técnicas em controle da regulação e na definição de elementos de especificação de sistema de informação para suporte à automação de processos organizacionais da Sefid.
+
+g)
+
+Seplan, no que tange à contribuição técnica em relação à análise da  estrutura organizacional do TCU e ao mapeamento de processos organizacionais do TCU,  na área de controle da regulação .
+
+h)
+
+Aspar e Ascom, em relação à identificação e mecanismos  de comunicação com públicos alvo. 
+
+i)
+
+Unidades técnicas, no que se refere a eventual  contribuição para o mapeamento dos processos de trabalho em controle da regulação.
+
+j)
+
+Projeto Cerds,  em relação às atividades do projeto que envolvam trabalhos de controle de regulação com foco social.
+
+l)
+
+Projeto de Apoio à Modernização do TCU, em relação ao aporte financeiro com Recursos do  BID
+
+m)
+
+Projeto Portal, na contribuição técnica para especificação de sítio na internet em controle de regulação.
+
+n)
+
+Consultoria externa, no apoio técnico à Sefid para desenvolvimento de ações relativas a todas as metas do projeto, com exceção das metas “h” e “i”. 
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+
+7.1 
+
+Risco
+
+7.2.  
+
+Impacto
+
+7.3.
+
+Probabilidade de ocorrer
+
+7.4. 
+
+(E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.5.
+
+Responsável pela ação
+
+a)
+
+Falta de disponibilidade de pessoal do TCU 
+
+alto
+
+baixa
+
+ (E) Alocação de  novos analistas contratados pelo TCU 
+
+(E) negociar alocação de analistas ao projeto 
+
+(R) Ajustar o escopo do projeto
+
+Segecex
+
+ 
+
+Sefid
+
+Sefid/Gestor
+
+b)
+
+Falta de recursos financeiros. O acordo TCU/BID já foi firmado. Contudo, o valor das propostas podem ser maiores que o planejado 
+
+alto
+
+baixa
+
+(E) Pleitear suplementação de recursos orçamentários do TCU ou recursos externos 
+
+(R) Ajustar o escopo do projeto
+
+Presidência
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 9 de 11
+
+
+
+c)
+
+Dificuldade de acesso a informações de entes reguladores 
+
+alto
+
+média
+
+(M) Formalizar representação para realização de fiscalização, modalidade levantamento, para as fases de mapeamento de macroprocessos de entes reguladores
+
+(R) Solicitar às agências que organizem suas informações de forma a viabilizar os trabalhos de mapeamento
+
+Sefid
+
+ 
+
+ 
+
+ 
+
+Sefid
+
+d)
+
+Estrutura para funcionamento do CECR 
+
+médio
+
+baixa
+
+(E) elaborar plano de funcionamento do CECR
+
+(E) negociar com fornecedores internos a infra-estrutura necessária
+
+Sefid
+
+ 
+
+Sefid
+
+e)
+
+Incerteza quanto a evolução do regime regulatório 
+
+médio
+
+baixa
+
+(R) Atualizar e acompanhar a evolução do quadro regulatório com reflexo nos levantamentos efetuados pelo TCU
+
+Sefid
+8.	Fatores que contribuem para o êxito do projeto
+
+
+a)
+
+Forte vinculação à visão e aos objetivos estratégicos do Tribunal;
+
+b)
+
+Existência de financiamento já contratado (BID);
+
+c)
+
+Existência de Unidade especializada no âmbito do Tribunal;
+
+d)
+
+O TCU vem-se firmando como um centro de excelência em matéria de controle da regulação. 
+9.	Projetos predecessores
+
+
+a)
+
+Projeto de Aperfeiçoamento do Controle Externo da Regulação.
+10.	Projetos conexos
+
+
+a)
+
+Projeto de Apoio à Modernização do TCU (Presidência);
+
+b)
+
+Projeto Cerds (Seprog);
+
+c)
+
+Projeto Portal;
+
+d)
+
+Projeto Atena (ISC).
+11.	Projetos sucessores
+
+
+a)
+
+Projeto para desenvolvimento de sistema informatizado em controle de regulação.
+12.	Custos estimados 
+
+
+
+12.1. Recurso
+
+12.2. Valor estimado
+
+12.3. Prazo 
+
+a)
+
+Consultoria para  mapeamento de processos organizacionais da Sefid.
+
+R$ 135.000,00
+
+ 
+
+ 
+
+ 
+
+30 de setembro  de 2004
+
+ 
+
+ (06meses)
+
+b)
+
+Consultoria para mapeamento e documentação de métodos e técnicas utilizados pela Sefid.
+
+R$ 160.000,00
+
+30 de agosto de 2005
+
+(15 meses)
+
+c)
+
+Consultoria para mapeamento e documentação dos macroprocessos de entes reguladores jurisdicionados à Sefid
+
+R$ 320.000,00
+
+ 
+
+30 de setembro de 2005
+
+(12 meses)
+
+d)
+
+Consultoria para  mapeamento e documentação dos sistemas informatizados dos entes reguladores jurisdicionados à Sefid.
+
+R$ 95.000,00
+
+30 de setembro de 2005
+
+(12 meses)
+
+e)
+
+Consultoria para diagnóstico de públicos-alvos (PA) e aperfeiçoamento da comunicação do TCU em controle da regulação.
+
+R$ 90.000,00
+
+30 de agosto de 2005
+
+(06 meses)
+
+
+
+
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 10 de 11
+
+
+
+f)
+
+Plano de Educação Corporativa em Controle da Regulação. 
+
+R$ 0,00 (será desenvolvido em parceria com o Projeto ATENA)
+
+01º de março de 2005 - (12 meses)
+
+g)
+
+Desenvolvimento e implantação de modelos de educação corporativa  em controle da regulação.
+
+R$ 0,00 (será desenvolvido em parceria com o  Projeto ATENA)
+
+01º de junho de 2006 – (12 meses)
+
+h)
+
+Consultoria para análise de estrutura organizacional do TCU  para o controle externo da regulação.
+
+R$ 85.000,00
+
+30.06.2005
+
+(06 meses)
+
+i)
+
+Consultoria para  estruturação do Centro de Estudos em Controle da Regulação – CECR - (inclui sistema de informação)
+
+R$ 280.000,00
+
+30 de junho de 2005
+
+(18 meses)
+
+j)
+
+Consultoria para especificação preliminar dos sistemas de informação para suporte à automação de processos organizacionais da Sefid.
+
+R$ 100.000,00
+
+30 de novembro de 2005
+
+(06 meses)
+
+k)
+
+Consultoria para  desenvolvimento de novos  métodos e técnicas em controle da regulação.
+
+R$ 410.000,00
+
+30 de junho de 2006
+
+(18 meses)
+
+l)
+
+Montagem de acervo bibliográfico em regulação .
+
+ 
+
+R$ 10.000,00
+
+30 de julho de 2004
+
+30 meses
+
+m)
+
+Promoção de publicações de métodos e técnicas, monografias, dissertações e pesquisas  na área da regulação e seu controle.
+
+ 
+
+R$ 120.000,00
+
+30 de março de 2005
+
+30 meses
+
+n)
+
+Participação de eventos de capacitação e de disseminação dos trabalhos de controle externo da regulação.
+
+ 
+
+R$ 250.000,00
+
+30 de maio de 2004
+
+30 meses
+
+o)
+
+Estruturação de Centro de Estudos em Controle da Regulação -CECR  (inclui infra-estrutura) 
+
+ 
+
+R$ 85.000,00
+
+30 de junho de 2004
+
+04 meses
+
+Total de custos estimados (*) 
+
+R$ 2.140.000,00 (Dois milhões, cento e quarenta mil reais)
+
+30 meses
+(*) 90% do total de custos estimados será financiado por intermédio de recursos oriundos do Projeto de Modernização do TCU (BID), incluídos os de contrapartida. 10% do Projeto serão financiados por recursos orçamentários do TCU.
+13.	Outros recursos necessários
+
+
+13.1. Recurso
+
+13.2. Fornecedor
+
+a)
+
+Sala de trabalho da consultoria e funcionamento do projeto 
+
+Sefid
+
+b)
+
+Recursos para instalação da infra-estrutura do CECR 
+
+Sefid
+
+c)
+
+Software institucional para mapeamento de processos (desejável)
+
+TCU
+
+d)
+
+Equipamentos de informática
+
+Setec 
+14.	Equipe do projeto
+
+
+14.1. Nome
+
+14.2. Matrícula
+
+14.3. Lotação
+
+14.4. Período
+
+14.5. Dedicação integral/ parcial
+
+a)
+
+Marcelo Barros Gomes
+
+3126-7
+
+Sefid
+
+01/03/2004  a 30/06/2006
+
+Integral
+
+b)
+
+Maridel Piloto de Noronha
+
+3455-0
+
+Sefid
+
+01/03/2004    a 30/06/2006
+
+Parcial
+
+c)
+
+Marcelo Bemerguy
+
+3848-2
+
+Sefid
+
+01/03/2004  a 30/06/2006
+
+Parcial
+
+d)
+
+Maurício de Albuquerquer Wanderley
+
+3433-9
+
+Sefid
+
+01/03/2004  a 30/06/2006
+
+Parcial
+
+e)
+
+Adalberto dos Santos Vasconcelos
+
+3453-3
+
+Sefid
+
+01/03/2004 a 30/06/2006
+
+Parcial
+
+
+
+
+
+
+
+ 
+
+PROJETO DE MODERNIZAÇÃO DO CONTROLE DA REGULAÇÃO DE 
+
+SERVIÇOS PÚBLICOS 
+
+Página 11de 11
+
+
+
+f)
+
+Luciano dos Santos Danni
+
+3866-0
+
+Sefid
+
+01/03/2004 a 30/06/2006
+
+Parcial
+
+g)
+
+Marcelo Sobreiro Maciel
+
+5070-9
+
+Sefid
+
+01/03/2004 a 30/06/2006
+
+Parcial
+
+h)
+
+José Fernando de Almeida Garcia
+
+3119-4
+
+Seplan
+
+01/03/2004 a 30/06/2006
+
+Parcial por produto
+15.	Considerações finais (fundamentação normativa Portaria TCU 176/2003)
+
+
+15.1.O que caracteriza o trabalho como projeto
+
+a)
+
+desenvolvimento de soluções que resultem na melhoria de gestão no âmbito interno do Tribunal (Art. 4º inciso I);
+
+b)
+
+estudos que visem a definição de metodologia ou sistemática de trabalho (art. 4º Inciso III);
+
+c)
+
+atendimento de demanda específica que comporte grande esforço de planejamento e coordenação para gerar resultado dentro de prazo estabelecido (Art. 4º inciso IV);
+
+d)
+
+conjunto de eventos vinculados a objetivo específico na área de formação, de treinamento e de desenvolvimento de gerentes e servidores (Art. 4º Inciso VII).
+
+15.2.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador
+
+a)
+
+complexidade das atividades de coordenação com relação ao número de metas a serem alcançadas e de itens a serem controlados (Art. 7º inciso VIII);
+
+b)
+
+período superior a três meses (Art. 7º inciso IV);
+
+c)
+
+justificada relevância da matéria (Art. 7º inciso V);
+
+d)
+
+produtos de importância estratégica para o alcance de metas institucionais (Art. 7º inciso VI).
+16.	Finalização
+
+
+16.1.   Data e assinatura do gestor do projeto
+
+Em 29 de março de 2004
+
+ 
+
+ 
+
+                           Marcelo Barros Gomes
+
+                            Coordenador do Projeto
+
+ 
+
+
+
+16.2.   Manifestação do titular da unidade patrocinadora
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 05/03/ 2004.
+
+Encaminhe-se a presente proposta à Seplan, visando a aprovação do projeto junto à Presidência.
+
+Sefid, 29 de março de 2004
+
+ 
+
+ 
+
+ 
+
+                        Jorge Pereira de Macedo
+
+                                                          Secretário da Sefid 
+
+Segecex, 12 de abril de 2004
+
+ 
+
+ 
+
+ 
+
+                                                 Alexandre Valente Xavier
+
+                           Secretário Geral de Controle Externo em Substituição
+
+ 
+
+
+

@@ -1,0 +1,669 @@
+Portaria
+124/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas competências legais e regimentais,
+
+
+considerando a Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU);
+
+
+considerando a Resolução-TCU nº 229, de 11 de novembro de 2009, que dispõe sobre a classificação das informações produzidas ou custodiadas pelo Tribunal;
+
+
+considerando a necessidade de estabelecer procedimentos e controles administrativos e tecnológicos compatíveis com os danos à imagem ou às operações vitais ao negócio do TCU decorrentes do uso ou do acesso não autorizado à informação, de sua indisponibilidade ou perda de integridade; e
+
+
+considerando a importância de o Tribunal instituir mecanismos necessários à plena implantação do processo eletrônico e regulamentar requisitos de segurança que favoreçam o intercâmbio de informações entre o TCU, seus jurisdicionados e órgãos e entidades partícipes da rede de controle e de demais acordos de cooperação, resolve:
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1° Os procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação quanto à confidencialidade, disponibilidade e integridade das informações produzidas ou custodiadas pelo TCU obedecerão ao contido nesta Portaria, observada a legislação vigente.
+
+
+Parágrafo único. Esta norma integra a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU) regulamentada pela Resolução-TCU nº 217, de 2008.
+
+
+Art. 2º A implantação dos procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação das informações será realizada de forma gradual, observando-se a implementação das funcionalidades tecnológicas cabíveis e das alterações de regras de negócio e de normas necessárias.
+
+
+§ 1º A classificação quanto à disponibilidade e à integridade das informações produzidas ou custodiadas pelo TCU será realizada a partir de data a ser definida em ato do Presidente.
+
+
+§ 2º É facultativa, até disposição em contrário em ato do Presidente, a classificação quanto à confidencialidade das informações, produzidas ou custodiadas pelo Tribunal, que estejam contidas em papel, exceto no caso de informações sigilosas e observado o disposto no parágrafo seguinte.
+
+
+§ 3º As informações recebidas de pessoa física ou jurídica externa ao Tribunal devem ser classificadas observando-se os requisitos de segurança da informação indicados por quem as forneceu.
+
+
+§ 4º As informações produzidas pelo Tribunal podem ser reclassificadas pelo gestor da informação ou pela autoridade competente, por iniciativa própria ou por provocação de qualquer usuário, cabendo comunicação imediata da alteração aos custodiantes da informação para correta rotulação.
+
+
+§ 5º Após manifestação sobre classificação da informação proferida pelo Presidente, pelos Ministros ou Auditores nos processos e documentos de sua competência, não cabe classificação diversa por parte do gestor da informação.
+
+
+Art. 3º Para os efeitos desta Portaria, entende-se por:
+
+
+I – informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II – segurança da informação: proteção da informação contra ameaças para garantir a continuidade do negócio, minimizar os riscos e maximizar a eficiência e a efetividade das ações do negócio;
+
+
+III – confidencialidade: princípio de segurança da informação que garante que a informação seja acessada somente por pessoas ou processos que tenham autorização para tal;
+
+
+IV – disponibilidade: princípio de segurança da informação que garante que as informações estejam acessíveis às pessoas e aos processos autorizados, no momento requerido;
+
+
+V – integridade: princípio de segurança da informação que garante a não-violação das informações com intuito de protegê-las contra alteração, gravação ou exclusão acidental ou proposital;
+
+
+VI – informações públicas: informações que podem ser divulgadas a qualquer pessoa;
+
+
+VII – informações restritas: informações que, por sua natureza, só podem ser divulgadas a grupo restrito de pessoas;
+
+
+VIII – informações sigilosas: informações que, em razão de lei, interesse público ou para a preservação de direitos individuais, devam ser de conhecimento reservado e, portanto, requeiram medidas especiais de segurança e salvaguarda.
+
+
+IX – gestor da informação: unidade ou projeto do TCU que, no exercício de suas competências, produz informações ou obtém, de fonte externa ao Tribunal, informações de propriedade de pessoa física ou jurídica;
+
+
+X – custodiante: pessoa física, unidade ou projeto do TCU que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+XI – usuário interno: qualquer servidor ativo ou unidade do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+XII – rótulo: identificação física ou eletrônica da classificação atribuída à informação;
+
+
+XIII – acordo de nível de serviço: acordo negociado entre gestor da informação e prestador de serviços, inclusive no caso de informação sob a forma de solução de tecnologia da informação, que estabelece os requisitos de desempenho, confidencialidade, disponibilidade e integridade das informações objeto do acordo a serem assegurados pelo prestador de serviços;
+
+
+XIV – plano de continuidade de negócios: conjunto de estratégias e planos de ação para garantir que os serviços essenciais sejam previamente identificados e, no caso de contingências, preservados até o retorno à situação normal de funcionamento da instituição;
+
+
+XV – processos vitais de negócio: processos que devem ser executados de forma a entregar os produtos e os serviços fundamentais da organização que a permitam atingir seus objetivos mais importantes e sensíveis ao tempo;
+
+
+XVI – solução corporativa de tecnologia da informação (solução de TI): em consonância com a Portaria-TCU nº 276, de 18 de novembro de 2008, conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam a necessidades do Tribunal; e
+
+
+XVII – documento de natureza pública: documento relativo ou pertencente à coletividade, de uso comum a todos, universalmente conhecido ou sem restrição de acesso a qualquer pessoa.
+
+
+CAPÍTULO II
+DO TRATAMENTO QUANTO À CONFIDENCIALIDADE
+
+
+Art. 4º Quanto à confidencialidade, as informações produzidas ou custodiadas pelo TCU classificam-se em públicas, restritas e sigilosas.
+
+
+Parágrafo único. A cada grau de confidencialidade corresponde um conjunto de controles administrativos e tecnológicos, listados no Anexo I a esta Portaria, compatíveis com os impactos que o uso ou o acesso não autorizado à informação acarretariam ao TCU.
+
+
+Art. 5º Cabe ao gestor da informação classificá-la quanto à confidencialidade no momento em que a informação for produzida ou obtida, ressalvados os prazos e os procedimentos estabelecidos na Resolução-TCU nº 229, de 2009. 
+
+
+Parágrafo único. Quando se tratar de informação sob a forma de sistema, serviço ou outra espécie de solução de TI, cabe à unidade gestora da solução avaliar a conveniência de implementar funcionalidade que permita classificar informações na solução, para atender a demandas de usuários e gestores das informações ali produzidas, inseridas ou aquelas decorrentes dessas ações, em conformidade com as definições desta Portaria.
+
+
+Art. 6º O gestor da informação, ao classificá-la como sigilosa ou restrita, deve indicar, necessariamente, o grupo de pessoas, projetos ou unidades do TCU com permissão para acessá-la.
+
+
+Parágrafo único. Na ausência da indicação de que trata o caput deste artigo, além do gestor da informação e da autoridade competente para relatar o processo, terão permissão para acesso:
+
+
+I – no caso de informação sigilosa, o usuário que detém:
+
+
+a) a carga processual de documentos e processos em papel; ou
+
+
+b) a responsabilidade de ação imediata relativa a documentos e processos eletrônicos.
+
+
+II – os usuários internos lotados na unidade ou no projeto custodiante da informação, no caso de informação restrita; e
+
+
+III – as autoridades e os usuários internos, no caso de informação restrita em processo de natureza administrativa.
+
+
+Art. 7º No tratamento de informações restritas, devem ser atendidos, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I – rotular todas as partes, seções, anexos, páginas, planilhas, gráficos, ou quaisquer outros componentes de informação não-pública, independentemente do suporte em que residam ou da forma pela qual sejam veiculados;
+
+
+II – incluir advertência sobre restrição de acesso, se aplicável;
+
+
+III – aplicar medidas de proteção física e lógica que garantam acesso exclusivamente a usuários autorizados;
+
+
+IV – armazenar a informação de tal forma que o sigilo sobre o conteúdo seja mantido para usuários não autorizados;
+
+
+V – manter o mesmo rótulo da informação original no caso de cópia ou impressão; e
+
+
+VI – no caso de recebimento, verificar e registrar, se for o caso, indícios de violação de correspondência, dando ciência do fato ao superior hierárquico e ao destinatário, o qual informará imediatamente ao remetente.
+
+
+Parágrafo único. É permitida a elaboração de extratos de documentos restritos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+
+Art. 8º No tratamento de informações sigilosas, observados os normativos vigentes e o disposto no artigo anterior, devem ser atendidos ainda os seguintes controles administrativos e tecnológicos:
+
+
+I – divulgar apenas a usuário autorizado do grupo restrito, em envelope lacrado, com a indicação "este envelope somente poderá ser aberto pelo destinatário, que é responsável pela manutenção do sigilo de seu conteúdo", no caso de informações em papel, mídias magnéticas ou microformas;
+
+
+II – na divulgação de informação por meio de transferência de mensagens e arquivos eletrônicos, garantir que o sigilo do conteúdo seja mantido para usuário não autorizado;
+
+
+III – manter histórico de acesso; e
+
+
+IV – no caso de descarte de papéis ou mídias de armazenamento de informações, fazê-lo de forma que a informação não possa ser recuperada.
+
+
+Parágrafo único. É vedada a divulgação de matéria sigilosa, salvo nas hipóteses previstas no Regimento Interno do Tribunal, na Resolução-TCU nº 223, de 18 de março de 2009, e em caso de prévia autorização do Relator ou do Presidente, no âmbito de suas respectivas competências. 
+
+
+CAPÍTULO III
+DO TRATAMENTO QUANTO À DISPONIBILIDADE
+
+
+Art. 9º O impacto da indisponibilidade das informações produzidas ou custodiadas pelo TCU classifica-se em baixo, médio e alto.
+
+
+Parágrafo único. A cada grau de impacto corresponde um conjunto de controles administrativos e tecnológicos, listados no Anexo II a esta Portaria, compatíveis com os danos à imagem do TCU ou às operações vitais ao negócio.
+
+
+Art. 10. No tratamento de informações de baixo impacto em razão de sua indisponibilidade, devem ser atendidos, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I – aplicar medidas compatíveis de proteção física e lógica contra indisponibilidade da informação;
+
+
+II – se for o caso, definir, em acordo de nível de serviço, requisitos de disponibilidade compatíveis com o impacto da indisponibilidade da informação; e
+
+
+III – se for o caso, documentar, no plano de continuidade de negócios, alternativas de recuperação, redundância, acesso, armazenamento, transferência física ou entre redes de comunicação.
+
+
+Art. 11. No tratamento de informações de médio impacto em razão de sua indisponibilidade, além do disposto no artigo anterior, devem ser atendidos, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I – evitar que apenas uma pessoa seja capaz de acessar a informação;
+
+
+II – garantir que o conteúdo da informação possa ser recuperado; e
+
+
+III – implantar controles de maneira que mudanças no ambiente físico e lógico em que se encontra a informação não comprometam sua disponibilidade.
+
+
+Art. 12. No tratamento de informações de alto impacto em razão de sua indisponibilidade, além do estabelecido nos arts. 10 e 11 desta Portaria, deve-se dispor de recurso substituto para assegurar a disponibilidade da informação, no prazo acordado, em caso de desastre ou falhas nos recursos que suportam os processos vitais de negócio do TCU.
+
+
+CAPÍTULO IV
+DO TRATAMENTO QUANTO À INTEGRIDADE
+
+
+Art. 13. O impacto da perda de integridade das informações produzidas ou custodiadas pelo TCU classifica-se em baixo, médio e alto.
+
+
+Parágrafo único. A cada grau de impacto corresponde um conjunto de controles administrativos e tecnológicos, listados no Anexo III a esta Portaria, compatíveis com os danos à imagem do TCU ou às operações vitais ao negócio.
+
+
+Art. 14. No tratamento de informações de médio impacto em razão de perda de integridade, devem ser atendidos, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I – aplicar medidas compatíveis de proteção física e lógica contra alteração, gravação ou exclusão indevida ou não autorizada da informação; e
+
+
+II – se for o caso, definir, em acordo de nível de serviço, requisitos de integridade compatíveis com o impacto da perda de integridade da informação.
+
+
+Art. 15. No tratamento de informações de alto impacto em razão de perda de sua integridade, além do disposto no artigo anterior, devem ser atendidos, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I – monitorar modificação e exclusão de conteúdo;
+
+
+II – garantir a reconstituição do conteúdo, em caso de perda, alteração ou exclusão indevida ou não autorizada; e
+
+
+III – validar a informação, por meio de técnicas de inspeção, validação com outras fontes, assinatura e certificado digitais, algoritmos criptográficos e de integridade de arquivos eletrônicos, e corrigi-la no caso de erro.
+
+
+CAPÍTULO V
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 16. O estabelecimento de acordos de nível de serviço observará, no que couber, a classificação das informações de que trata esta norma.
+
+
+Art. 17. Cabe ao Comitê de Segurança da Informação propor à Comissão de Coordenação Geral e divulgar, quando aprovados:
+
+
+I – a classificação quanto à disponibilidade e à integridade das informações produzidas ou custodiadas pelo TCU, de acordo com disposto nos arts. 9º e 13 desta Portaria; e
+
+
+II – a especificação dos procedimentos administrativos e tecnológicos previstos nos anexos a esta Portaria.
+
+
+Parágrafo único. Compete também ao Comitê de Segurança da Informação apresentar proposta de revisão dos elementos indicados nos incisos deste artigo, no máximo a cada cinco anos, de modo a atualizá-los frente a novos requisitos corporativos.
+
+
+Art. 18. Incumbe à Assessoria de Segurança da Informação e Governança de Tecnologia da Informação, com apoio da Assessoria de Comunicação Social, do Instituto Serzedello Corrêa e das demais unidades pertinentes, coordenar ações de divulgação, treinamento, educação e conscientização dos usuários em relação aos conceitos e às práticas de classificação quanto à confidencialidade, disponibilidade e integridade das informações produzidas ou custodiadas pelo TCU dispostos nesta Portaria.
+
+
+Art. 19. Cabe à Comissão de Coordenação Geral definir prioridades para atendimento das solicitações feitas pelas unidades gestoras de soluções de TI à Secretaria de Soluções de Tecnologia da Informação para adequação das soluções corporativas de tecnologia da informação aos dispositivos desta norma, em consonância com o disposto na Portaria-TCU nº 276, de 18 de novembro de 2008, que dispõe sobre a gestão de soluções corporativas de tecnologia da informação.
+
+
+Art. 20. Fica a Comissão de Coordenação Geral autorizada a expedir os atos necessários à regulamentação deste normativo e a dirimir os casos omissos.
+
+
+Art. 21. Esta Portaria entra em vigor em 31 de maio de 2010. 
+
+
+UBIRATAN AGUIAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação quanto à confidencialidade, disponibilidade e integridade das informações produzidas ou custodiadas pelo Tribunal de Contas da União.
+
+ANEXO I À PORTARIA-TCU Nº 124, DE 3 DE MAIO DE 2010
+
+
+
+
+CONFIDENCIALIDADE DAS INFORMAÇÕES
+
+
+Classificação da informação quanto à confidencialidade 
+
+ 
+
+Informação pública
+
+Informação restrita
+
+Informação sigilosa
+
+Descrição 
+
+Informação que pode ser divulgada a qualquer pessoa
+
+Informações que, por sua natureza, só podem ser divulgadas a grupo restrito de pessoas.
+
+ 
+
+Informações que, em razão de lei, interesse público ou para a preservação de direitos individuais, devam ser de conhecimento reservado e, portanto, requeiram medidas especiais de segurança e salvaguarda.
+
+Usuários autorizados 
+
+Qualquer pessoa.
+
+Grupo restrito de pessoas, projetos ou unidades do TCU.  
+
+Na ausência da indicação do grupo restrito, além do gestor da informação e da autoridade competente para relatar o processo, o acesso será permitido aos usuários internos lotados na unidade ou projeto custodiante da informação.
+
+No caso de informação restrita em processo de natureza administrativa, o acesso fica limitado ao gestor da informação, às autoridades e aos usuários internos.
+
+Grupo restrito de pessoas, projetos ou unidades do TCU. 
+
+Na ausência da indicação do grupo restrito, o acesso será permitido apenas ao gestor da informação, à autoridade competente para relatar o processo e ao usuário que detém a carga (processos e documentos em papel)  ou a responsabilidade pela ação imediata (processos e documentos eletrônicos)  
+
+Exemplos
+
+I – documentos de natureza pública em virtude de lei ou de domínio público;
+
+II – publicações e relatórios institucionais;
+
+III – periódicos produzidos pelo TCU;
+
+IV – publicações do acervo da Biblioteca Ministro Ruben Rosa;
+
+V - notícias sobre o TCU;
+
+VI - acórdãos e decisões proferidas;
+
+VII – contratos celebrados pelo TCU e empresas fornecedoras de materiais e serviços;
+
+VIII – atos de pessoal como posse, exoneração, nomeação, demissão, férias, licenças etc.; e
+
+IX – atos de programação, execução orçamentária e financeira e de liquidação e pagamento de pessoal e de fornecedores.
+
+I – informações relacionadas a assuntos de interesse exclusivo de uma ou mais unidades ou grupos de trabalho do TCU;
+
+II – documentação e outros dados não públicos referentes a sistemas corporativos de tecnologia da informação; 
+
+III – peças da etapa de instrução de processo sem parecer conclusivo do titular da unidade técnica ou, por delegação de competência, de diretor da mesma unidade; e
+
+IV – informações contidas em processo de controle externo ainda não apreciado ou julgado pelo TCU.
+
+ 
+
+I – informações relativas a despesas caracterizadas, em lei, como de natureza reservada;
+
+II – informações protegidas por sigilo fiscal, bancário, comercial ou outros previstos em lei;
+
+III – matéria cujo sigilo seja considerado pelo TCU como imprescindível à segurança da sociedade e do Estado, ou quando a defesa da intimidade, vida privada, honra, imagem pessoal e/ou o interesse social o exigirem;
+
+IV – denúncias formuladas, no resguardo dos direitos e garantias individuais, até decisão definitiva sobre a matéria; 
+
+V – processos administrativos disciplinares e sindicâncias; e
+
+VI – dados funcionais e pessoais cuja divulgação comprometa a preservação da intimidade, da vida privada e de direitos individuais.
+
+Controles administrativos e tecnológicos
+
+Autorização de acesso 
+
+Desnecessária.
+
+Necessária.
+
+Indicação do grupo de pessoas, projetos e unidades do TCU com permissão para uso ou acesso.
+
+Na ausência da indicação do grupo restrito, além do gestor da informação e da autoridade competente para relatar o processo, o acesso será permitido aos usuários internos lotados na unidade ou projeto custodiante da informação.
+
+No caso de informação restrita em processo de natureza administrativa, o acesso fica limitado ao gestor da informação, às autoridades e aos usuários internos.
+
+Necessária.
+
+Indicação do grupo de pessoas, projetos e unidades do TCU com permissão para uso ou acesso.
+
+Na ausência da indicação do grupo restrito, o acesso será permitido apenas ao gestor da informação, à autoridade competente para relatar o processo e ao usuário que detém a carga (processos e documentos em papel) ou a responsabilidade pela ação imediata (processos e documentos eletrônicos)  
+
+Manutenção de histórico de acesso (log de ações efetuadas com arquivos e sistemas eletrônicos ou registro de acesso a documentos físicos) 
+
+Desnecessária.
+
+Desnecessária.
+
+Necessária.
+
+Restrição de acesso 
+
+Inexistente.
+
+Acesso limitado de acordo com a necessidade do negócio.
+
+Pode exigir a assinatura de termo de não-divulgação da informação a terceiros.
+
+Acesso limitado de acordo com a necessidade do negócio.
+
+Pode exigir a assinatura de termo de não-divulgação da informação a terceiros.
+
+Rotulação 
+
+Desnecessária.
+
+Rótulo padronizado em todas as partes, seções, anexos, páginas, planilhas, gráficos, ou quaisquer outros componentes de informação não-pública, independentemente do suporte em que residam ou da forma pela qual sejam veiculados.
+
+Rótulo padronizado em todas as partes, seções, anexos, páginas, planilhas, gráficos, ou quaisquer outros componentes de informação não-pública, independentemente do suporte em que residam ou da forma pela qual sejam veiculados.
+
+Conferência no recebimento de correspondência não eletrônica
+
+Desnecessário.
+
+Verificação e registro de indícios de violação de correspondência, dando ciência do fato ao superior hierárquico e ao destinatário, o qual informará imediatamente ao remetente. 
+
+Verificação e registro de indícios de violação de correspondência, dando ciência do fato ao superior hierárquico e ao destinatário, o qual informará imediatamente ao remetente.
+
+Armazenamento 
+
+Desnecessário qualquer controle.
+
+Controles adequados de proteção física e lógica de tal forma que o sigilo sobre o conteúdo seja mantido para usuários não autorizados.
+
+Exemplo: manutenção de mídias de armazenamento em ambiente fisicamente seguro, com acesso restrito aos usuários autorizados.
+
+Controles adequados de proteção física e lógica de tal forma que o sigilo sobre o conteúdo seja mantido para usuários não autorizados.
+
+Exemplo: manutenção de mídias de armazenamento em ambiente fisicamente seguro, com acesso restrito aos usuários autorizados.
+
+Controle para garantia de sigilo na transferência de mensagens e arquivos eletrônicos 
+
+Desnecessário.
+
+Desnecessário.
+
+Necessário.
+
+ 
+
+Divulgação de informações em papel, mídias magnéticas ou microformas 
+
+Ilimitada.
+
+Limitada a grupo restrito de pessoas, projetos ou unidades do TCU.
+
+Pode incluir advertência de restrição de acesso.
+
+É permitida elaboração de extratos de documentos restritos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Limitada a grupo restrito de pessoas, projetos ou unidades do TCU.
+
+Pode incluir advertência de restrição de acesso.
+
+A informação só pode ser divulgada a membro do grupo restrito, em envelope lacrado, com a indicação “este envelope somente poderá  ser aberto pelo destinatário, que é responsável pela manutenção do sigilo de seu conteúdo”.
+
+Vedada divulgação de matéria sigilosa, salvo nas hipóteses previstas no Regimento Interno do Tribunal, na Resolução-TCU nº 223/2009, ou se houver autorização do Relator.
+
+Reprodução 
+
+Desnecessário qualquer controle.
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+ 
+
+ 
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+O responsável pela reprodução de documentos sigilosos deve destruir notas, manuscritos, carbonos, provas ou quaisquer outros elementos que possam dar origem a cópia não autorizada do todo ou de parte.
+
+A reprodução de documentos sigilosos deve ser realizada em área apropriada ao seu grau de confidencialidade.
+
+Sempre que a preparação para a reprodução de documento sigiloso for realizada em tipografia, impressora ou oficina gráfica, tal operação deve ser acompanhada por pessoal oficialmente designado, a quem será imputada responsabilidade pela garantia do sigilo.
+
+Descarte de papéis ou mídias de armazenamento 
+
+Observar o disposto em portaria do Presidente que rege a gestão documental.
+
+Observar o disposto em portaria do Presidente que rege a gestão documental.
+
+Observar o disposto em portaria do Presidente que rege a gestão documental. 
+
+Na hipótese de a Portaria indicar a necessidade de descarte, fazê-lo de tal forma que a informação nela contida não possa ser recuperada.
+
+ 
+
+
+
+
+
+
+ANEXO II À PORTARIA-TCU Nº 124, DE 3 DE MAIO DE 2010
+
+
+DISPONIBILIDADE DAS INFORMAÇÕES
+
+
+Classificação da informação quanto ao impacto de sua indisponibilidade 
+
+ 
+
+Baixo impacto
+
+Médio impacto
+
+Alto impacto
+
+Descrição 
+
+A indisponibilidade (ou interrupção de acesso) da informação não comprometeria a imagem do Tribunal ou as operações vitais ao negócio, nem causaria qualquer tipo de perda financeira ao TCU.
+
+A indisponibilidade (ou interrupção de acesso) da informação comprometeria a imagem do Tribunal, a tomada de decisões ou a produtividade das operações vitais ao negócio, mas sem interrompê-las, ou causaria perda financeira ao TCU.
+
+A indisponibilidade (ou interrupção de acesso) da informação comprometeria severamente a imagem do Tribunal ou as operações vitais ao negócio, causaria perda financeira significativa ao TCU, ou impossibilitaria o cumprimento de determinação legal.
+
+Controles administrativos e tecnológicos 
+
+Proteção física e lógica (tais como: cópia de segurança, proteção contra vírus, detecção de invasão)
+
+Medidas compatíveis contra indisponibilidade da informação, a serem posteriormente divulgadas.
+
+Medidas compatíveis contra indisponibilidade da informação, a serem posteriormente divulgadas.
+
+Medidas compatíveis contra indisponibilidade da informação, a serem posteriormente divulgadas.
+
+Não-dependência de uma única pessoa para acesso 
+
+Desnecessário.
+
+Deve-se evitar a dependência de uma única pessoa capaz de acessar a informação.
+
+Deve-se evitar a dependência de uma única pessoa capaz de acessar a informação.
+
+Controle para garantir a recuperação do conteúdo 
+
+Desnecessário.
+
+Necessário.
+
+Necessário.
+
+Controle de mudanças no ambiente físico e lógico em que se encontra a informação 
+
+Desnecessário.
+
+Necessário.
+
+Necessário.
+
+Acordo de nível de serviço (contempla requisitos tais como: desempenho, horário de atendimento, tempo máximo de indisponibilidade, tempo médio entre interrupções, tempo máximo para recuperação, percentual de disponibilidade) 
+
+Requisitos compatíveis com o impacto da indisponibilidade da informação, a serem definidos no acordo de nível de serviço associado (se houver). 
+
+Requisitos compatíveis com o impacto da indisponibilidade da informação, a serem definidos no acordo de nível de serviço associado (se houver). 
+
+Requisitos compatíveis com o impacto da indisponibilidade da informação, a serem definidos no acordo de nível de serviço associado (se houver). 
+
+Plano de continuidade de negócios (elementos tais como: alternativas de recuperação, redundância, acesso, armazenamento, transferência física ou entre redes de comunicação) 
+
+Alternativas compatíveis com o impacto, a serem definidas no plano de continuidade de negócios associado (se houver).
+
+Alternativas compatíveis com o impacto, a serem definidas no plano de continuidade de negócios associado (se houver).
+
+Alternativas compatíveis com o impacto, a serem definidas no plano de continuidade de negócios associado (se houver).
+
+Recurso substituto 
+
+Desnecessário.
+
+Desnecessário.
+
+Necessário.
+
+
+
+ANEXO III À PORTARIA-TCU Nº 124, DE 3 DE MAIO DE 2010
+
+
+INTEGRIDADE DAS INFORMAÇÕES
+
+
+Classificação da informação quanto ao impacto da perda de integridade 
+
+ 
+
+Baixo impacto
+
+Médio impacto
+
+Alto impacto
+
+Descrição 
+
+A perda de integridade da informação não comprometeria a imagem do Tribunal ou as operações vitais ao negócio, nem causaria qualquer tipo de perda financeira ao TCU.
+
+A perda de integridade da informação comprometeria a imagem do Tribunal, a tomada de decisões ou a produtividade das operações vitais ao negócio, mas sem interrompê-las, ou causaria perda financeira ao TCU.
+
+A perda de integridade da informação comprometeria severamente a imagem do Tribunal ou as operações vitais ao negócio, causaria perda financeira significativa ao TCU, ou impossibilitaria o cumprimento de determinação legal.
+
+Controles administrativos e tecnológicos 
+
+Proteção física e lógica (tais como: proteção contra vírus, detecção de invasão, trilha de auditoria, criptografia)
+
+Desnecessário qualquer controle.
+
+Medidas compatíveis contra alteração, gravação ou exclusão indevida ou não autorizada da informação, a serem posteriormente divulgadas.
+
+Medidas compatíveis contra alteração, gravação ou exclusão indevida ou não autorizada da informação, a serem posteriormente divulgadas.
+
+Acordo de nível de serviço (contempla requisitos tais como: percentual tolerado de erros, tempo máximo para correção) 
+
+Desnecessário qualquer controle.
+
+Requisitos compatíveis com o impacto da indisponibilidade da informação, a serem definidos no acordo de nível de serviço associado (se houver).
+
+Requisitos compatíveis com o impacto da indisponibilidade da informação, a serem definidos no acordo de nível de serviço associado (se houver).
+
+Monitoramento de modificação e exclusão 
+
+Desnecessário.
+
+Desnecessário.
+
+Necessário.
+
+Controle para garantir a reconstituição do conteúdo 
+
+Desnecessário.
+
+Desnecessário.
+
+Necessário.
+
+Detecção e correção de erro 
+
+Desnecessárias.
+
+ 
+
+Desnecessárias.
+
+Necessárias.
+
+Envolve controles específicos, tais como validação com outras fontes, assinatura e certificado digitais, algoritmos criptográficos e de integridade de arquivos eletrônicos.
+
+
+

@@ -1,0 +1,826 @@
+Portaria
+59/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições legais e regimentais, e
+
+
+Considerando o disposto no art. 3º, § 3º, da Instrução Normativa-TCU 63, de 1º de setembro de 2010, c/c o art. 5º, § 1º, da Decisão Normativa-TCU 154, de 2016;
+
+
+Considerando a necessidade de se normatizar sobre o conteúdo dos relatórios de gestão e demais informações das unidades prestadoras de contas, de modo a permitir o processamento e a análise de dados sobre a gestão por meio eletrônico;
+
+
+Considerando a necessidade de se orientar as unidades prestadoras de contas quanto à operacionalização do Sistema de Prestação de Contas (e-Contas); e
+
+
+Considerando os estudos e demais documentos e informações constantes do TC036.118/2016-8, resolve:
+
+
+Art. 1º A elaboração e apresentação do relatório de gestão, rol de responsáveis, demais relatórios, pareceres, declarações e informações suplementares para a prestação de contas referentes ao exercício de 2016, bem como a operacionalização do Sistema de Prestação de Contas (Sistema e-Contas) observarão o disposto nesta Portaria.
+
+
+CAPÍTULO I 
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 2º A apresentação do relatório de gestão, do rol de responsáveis, demais relatórios, pareceres e declarações, bem como das informações suplementares relativas à prestação de contas do exercício de 2016, de que tratam os arts. 6º a 8º e o Anexo II da Decisão Normativa-TCU 154/2016, será realizada exclusivamente por meio do Sistema e-Contas, disponibilizado pelo Tribunal. 
+
+
+Parágrafo único.  Excetua-se ao disposto no caput deste artigo a prestação de contas extraordinária constituída em observância ao art. 6º da IN-TCU 63, de 1º de setembro de 2010.
+
+
+Art. 3º O Sistema e-Contas será disponibilizado para acesso ao ambiente 2016 pelas unidades prestadoras de contas até o dia 20 de fevereiro de 2017.
+
+
+Art. 4º A estrutura geral de conteúdo dos relatórios de gestão e demais relatórios, pareceres declarações e informações da prestação de contas observará o disposto no Anexo Único desta Portaria, bem como à especificação de seções, itens e subitens de informação a constarem do sistema e-Contas.
+
+
+§1º Cabe à Secretaria-Geral de Controle Externo do Tribunal (Segecex) especificar, até a abertura do Sistema e-Contas, os itens gerais e específicos de informação que serão aplicáveis a cada unidade prestadora de contas.
+
+
+§ 2º Na oportunidade da configuração do conteúdo do relatório de gestão e das demais informações de cada unidade prestadora de contas no Sistema e-Contas, a Segecex poderá fazer ajustes, inclusões ou exclusões de itens e subitens de informação, bem como remanejamento de capítulo, de forma a melhor atender às particularidades da gestão das unidades e às necessidades do controle externo exercido pelo Tribunal.
+
+
+§ 3º Os relatores das Listas de Unidades Jurisdicionadas poderão, nos termos do art. 11 da Lei 8.443/1992 e do art. 157 do Regimento Interno/TCU, enviar à Segecex, até o dia 10/2/2017, solicitação de ajustes, inclusões ou exclusões de itens de informação, bem como de remanejamento de capítulo, de forma a melhor atender às peculiaridades das gestões das unidades prestadoras e às necessidades do Controle Externo.
+
+
+§ 4º A Segecex deverá, até a data prevista para abertura do Sistema e-Contas, analisar as solicitações de que trata o parágrafo anterior e adotar os procedimentos pertinentes.
+
+
+§ 5º Como forma de viabilizar a antecipação da elaboração do relatório de gestão pelas unidades prestadoras de contas, fica a Segecex autorizada a publicar no Portal TCU, previamente à abertura do sistema, conforme previsto no art. 3º, a lista preliminar de conteúdos a serem exigidos de cada unidade.
+
+
+CAPÍTULO II
+
+
+DOS CONTEÚDOS DA PRESTAÇÃO DE CONTAS
+
+
+Art. 5º Os relatórios de gestão, o rol de responsáveis, os demais relatórios, pareceres e declarações, bem como as informações suplementares que compõem a prestação de contas devem obedecer à estrutura de conteúdos definida no Sistema e-Contas para cada unidade prestadora de contas, bem como às orientações de elaboração contidas no referido sistema.
+
+
+§ 1º As orientações e os quadros destinados a auxiliar a elaboração das informações exigidas nas seções do relatório de gestão serão disponibilizados como tópicos de ajuda no Sistema e-Contas.
+
+
+§ 2º Os quadros de que trata o § 1º deste artigo são padrões de referência para elaboração dos conteúdos do relatório de gestão e as unidades prestadoras de contas podem fazer ajustes em razão de suas especificidades ou para melhor expressar os resultados da gestão.
+
+
+Art. 6º Nas hipóteses de inexistência da informação requerida ou de inaplicabilidade da exigência do conteúdo no seu contexto, a unidade deve registrar esse fato, na forma das orientações constantes no Sistema e-Contas, abstendo-se de reproduzir quadros em branco no corpo do relatório.
+
+
+Art. 7º As informações com sigilo atribuído por legislação específica ou segredo de justiça não podem ser disponibilizadas no relatório de gestão.
+
+
+Parágrafo único.  Na ocorrência da situação prevista no caput, a unidade prestadora de contas deve declarar, na introdução da respectiva seção ou item do relatório, a supressão da informação e esclarecer acerca do dispositivo legal e das condições de restrição de acesso impostas.
+
+
+
+CAPÍTULO III
+
+
+DOS PROCEDIMENTOS PARA OPERAÇÃO DO SISTEMA E-CONTAS
+
+
+Art. 8º O usuário deve se cadastrar no Portal TCU e ser habilitado para o uso do Sistema eContas, nos termos dos arts. 13 e 14, observados os perfis e orientações constantes do Portal TCU, página das Contas do exercício de 2016.
+
+
+Art. 9º Os conteúdos do relatório de gestão devem ser inseridos no Sistema e-Contas por seção do relatório de gestão de que trata o Anexo II da DN-TCU 154/2016, conforme estrutura e ordem definidas no sistema.
+
+
+Parágrafo único.  Os arquivos com os conteúdos exigidos devem observar os seguintes requisitos técnicos:
+
+
+I – estar no formato Portable Document Format (PDF) pesquisável ou acessível;
+
+
+II – conter no mínimo 70% das páginas formadas por texto; e
+
+
+III – conter no máximo 10 MB de tamanho.
+
+
+Art. 10. As unidades prestadoras de contas devem inserir todas as peças de sua responsabilidade e concluir sua atuação no Sistema e-Contas até a data-limite fixada no Anexo I da DNTCU 154/2016, consideradas as eventuais prorrogações de prazo autorizadas.
+
+
+§ 1º Reputa-se finalizada a etapa de responsabilidade da unidade prestadora de contas após a realização da operação "Concluir Relatório de Gestão" no sistema.
+
+
+§ 2º Se a unidade responsável por apresentar as contas for diferente da unidade prestadora de contas, o Relatório de Gestão deve ser inserido no Sistema e-Contas por esta última até quinze dias antes da data referida no caput deste artigo, cabendo à apresentadora o prazo remanescente para adoção da medida prevista no §1º deste artigo.
+
+
+Art. 11. O recibo de envio do relatório de gestão será disponibilizado no Sistema eContas: 
+
+
+I – após a data fixada no Anexo I da DN-TCU 154/2016, consideradas as eventuais prorrogações de prazo autorizadas e cumprida a etapa especificada no § 1º do artigo anterior, para as unidades que não terão processo constituído para fins de julgamento de contas pelo Tribunal;
+
+
+II – após a conclusão da atuação do órgão de controle interno respectivo, para as unidades que terão processo de contas autuado para fins de julgamento pelo Tribunal.
+
+
+Art. 12.  A declaração de publicação do relatório de gestão será disponibilizada no Sistema e-Contas:
+
+
+I – em até 45 dias após a conclusão do relatório de gestão, consideradas as prorrogações de prazo e as eventuais devoluções para ajuste, conforme art. 19, da DN-TCU 154, de 2016, para as unidades que não terão processo constituído para fins de julgamento de contas pelo Tribunal;
+
+
+II – após a conclusão da manifestação do respectivo órgão de controle interno, para as unidades que terão processo de contas autuado para fins de julgamento pelo Tribunal.
+
+
+
+CAPÍTULO IV
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 13.  Os dirigentes máximos das unidades prestadoras de contas devem informar à unidade técnica do Tribunal a que se vincularem, até 17/2/2017, os dados de pelo menos duas pessoas cadastradas previamente no Portal TCU para habilitação e uso do Sistema e-Contas.
+
+
+Art. 14.  Os dirigentes máximos dos órgãos de controle interno e a autoridade supervisora devem informar à Secretaria-Geral de Controle Externo do Tribunal, até 31/3/2017, os dados de pelo menos duas pessoas cadastradas previamente no Portal TCU para habilitação e uso do Sistema e-Contas.
+
+
+Art. 15. Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+RAIMUNDO CARREIRO
+
+
+
+
+ANEXO ÚNICO DA PORTARIA-TCU Nº 59, DE 17 DE JANEIRO DE 2017.
+
+
+
+ESTRUTURA DE CONTEÚDOS GERAIS DOS RELATÓRIOS DE GESTÃO
+
+
+
+(Seções/Itens de conteúdo gerais*)
+
+
+RELATÓRIO DE GESTÃO
+
+ 
+
+ELEMENTOS PRÉ-TEXTUAIS
+
+ 
+
+ 
+
+Capa
+
+ 
+
+ 
+
+Folha de rosto
+
+ 
+
+ 
+
+Lista de siglas e abreviações
+
+ 
+
+ 
+
+Lista de tabelas, quadros, gráficos e figuras
+
+ 
+
+ 
+
+Lista de anexos e apêndices
+
+ 
+
+ 
+
+Sumário
+
+ 
+
+APRESENTAÇÃO
+
+ 
+
+VISÃO GERAL
+
+ 
+
+ 
+
+Finalidade e competências
+
+ 
+
+ 
+
+Normas e regulamento de criação, alteração e funcionamento da unidade
+
+ 
+
+ 
+
+Breve histórico da entidade
+
+ 
+
+ 
+
+Ambiente de atuação
+
+ 
+
+ 
+
+Organograma
+
+ 
+
+ 
+
+Macroprocessos finalísticos
+
+ 
+
+ 
+
+Composição acionária do capital social
+
+ 
+
+ 
+
+Participação em outras sociedades
+
+ 
+
+ 
+
+Principais eventos societários ocorridos no exercício
+
+ 
+
+PLANEJAMENTO ORGANIZACIONAL E RESULTADOS
+
+ 
+
+ 
+
+Resultados da gestão e dos objetivos estratégicos
+
+ 
+
+ 
+
+Informações sobre a gestão
+
+ 
+
+ 
+
+Planejamento Organizacional
+
+ 
+
+ 
+
+Formas e instrumentos de monitoramento da execução e resultados dos planos
+
+ 
+
+ 
+
+Desempenho Orçamentário
+
+ 
+
+ 
+
+Desempenho operacional
+
+ 
+
+ 
+
+Gestão das multas aplicadas em decorrência da atividade de fiscalização
+
+ 
+
+ 
+
+Renúncia de receitas
+
+ 
+
+ 
+
+Apresentação e análise de indicadores de desempenho
+
+ 
+
+ 
+
+Informações sobre as atividades relacionadas à Pesquisa e Desenvolvimento
+
+ 
+
+ 
+
+Informações sobre projetos e programas financiados com recursos externos
+
+ 
+
+ 
+
+Acompanhamento e avaliações relacionadas à supervisão de entidades públicas e privadas com contrato de gestão
+
+ 
+
+ 
+
+Acompanhamento das ações e resultados relacionados a contratos de gestão regidos pela Lei 9.637/1998
+
+ 
+
+ 
+
+Acompanhamento das ações e resultados relacionados a termos de parceria regidos pela Lei 9.790/1999
+
+ 
+
+ 
+
+Resultados da execução física e financeira das ações planejadas para o exercício
+
+ 
+
+ 
+
+Informações sobre indicadores utilizados pela entidade para monitorar e avaliar a gestão
+
+ 
+
+ 
+
+Principais resultados relacionados ao ambiente de gestão
+
+ 
+
+ 
+
+Principais resultados relacionados ao ambiente de negócio
+
+ 
+
+ 
+
+Outros resultados operacionais
+
+ 
+
+GOVERNANÇA, GESTÃO DE RISCOS E CONTROLES INTERNOS
+
+ 
+
+ 
+
+Descrição das estruturas de governança
+
+ 
+
+ 
+
+Informações sobre dirigentes e colegiados
+
+ 
+
+ 
+
+Política de designação de representantes nas assembleias e nos colegiados de controladas, coligadas e sociedades de propósito específico
+
+ 
+
+ 
+
+Informações sobre a comissão de avaliação do contrato de gestão
+
+ 
+
+ 
+
+Modelo de governança da entidade em relação às empresas do conglomerado
+
+ 
+
+ 
+
+Atuação da unidade de auditoria interna
+
+ 
+
+ 
+
+Atividades de correição e apuração de ilícitos administrativos
+
+ 
+
+ 
+
+Gestão de riscos e controles internos
+
+ 
+
+ 
+
+Política de remuneração dos administradores e membros de colegiados
+
+ 
+
+ 
+
+Informações sobre a empresa de auditoria independente contratada
+
+ 
+
+ 
+
+Informações sobre ações trabalhistas contra a entidade
+
+ 
+
+ 
+
+Política de participação de empregados e administradores nos resultados da entidade
+
+ 
+
+ 
+
+Participação acionária de membros de colegiados da entidade
+
+ 
+
+ 
+
+Estrutura de gestão e controle de demandas judiciais
+
+ 
+
+ÁREAS ESPECIAIS DA GESTÃO
+
+ 
+
+ 
+
+Gestão de pessoas
+
+ 
+
+ 
+
+Gestão do patrimônio e infraestrutura
+
+ 
+
+ 
+
+Gestão da tecnologia da informação
+
+ 
+
+ 
+
+Gestão ambiental e sustentabilidade
+
+ 
+
+ 
+
+Gestão de fundos e de programas
+
+ 
+
+ 
+
+Informações sobre depósitos judiciais e extrajudiciais
+
+ 
+
+RELACIONAMENTO COM A SOCIEDADE
+
+ 
+
+ 
+
+Canais de acesso do cidadão
+
+ 
+
+ 
+
+Carta de Serviços ao Cidadão
+
+ 
+
+ 
+
+Aferição do grau de satisfação dos cidadãos-usuários
+
+ 
+
+ 
+
+Mecanismos de transparência das informações relevantes sobre a atuação da unidade
+
+ 
+
+ 
+
+Medidas para garantir a acessibilidade aos produtos, serviços e instalações
+
+ 
+
+ 
+
+Informações sobre indenizações a clientes no âmbito administrativo e judicial
+
+ 
+
+ 
+
+Formas de participação cidadã nos processos decisórios
+
+ 
+
+DESEMPENHO FINANCEIRO E INFORMAÇÕES CONTÁBEIS
+
+ 
+
+ 
+
+Desempenho financeiro no exercício
+
+ 
+
+ 
+
+Tratamento contábil da depreciação, da amortização e da exaustão de itens do patrimônio e avaliação e mensuração de ativos e passivos
+
+ 
+
+ 
+
+Sistemática de apuração de custos no âmbito da unidade
+
+ 
+
+ 
+
+Demonstrações contábeis exigidas pela Lei 4.320/64 e notas explicativas
+
+ 
+
+ 
+
+Demonstração da situação do registro dos imóveis desapropriados 
+
+ 
+
+ 
+
+Demonstração da gestão e registro contábil dos créditos a receber
+
+ 
+
+ 
+
+Evidenciação do del-credere das demonstrações contábeis
+
+ 
+
+ 
+
+Notas Explicativas de conciliações dos regimes contábeis adotados (Lei 4.320/1964 e 6.404/1976)
+
+ 
+
+ 
+
+Demonstrações contábeis exigidas pela Lei 6.404/76 e notas explicativas 
+
+ 
+
+ 
+
+Revisão dos critérios adotados classificação nos níveis de risco e de avaliação do provisionamento registrado nas demonstrações financeiras
+
+ 
+
+ 
+
+Informações consolidadas sobre transações com partes relacionadas
+
+ 
+
+ 
+
+Informações sobre as operações de financiamento
+
+ 
+
+ 
+
+Demonstrativo específicos sobre subsídios e resultado operacional
+
+ 
+
+ 
+
+Demonstrações contábeis e notas explicativas elaboradas de acordo com legislação específica
+
+ 
+
+ 
+
+Demonstração e análise dos desempenhos econômico-financeiros
+
+ 
+
+CONFORMIDADE DA GESTÃO E DEMANDAS DOS ÓRGÃOS DE CONTROLE
+
+ 
+
+ 
+
+Tratamento de determinações e recomendações do TCU
+
+ 
+
+ 
+
+Tratamento de recomendações do Órgão de Controle Interno
+
+ 
+
+ 
+
+Medidas administrativas para apuração de responsabilidade por danos ao Erário
+
+ 
+
+ 
+
+Gestão de precatórios
+
+ 
+
+ 
+
+Informações sobre ações de publicidade e propaganda
+
+ 
+
+ 
+
+Demonstração da conformidade com o disposto no art. 3º do Decreto 5.626/2005
+
+ 
+
+OUTRAS INFORMAÇÕES RELEVANTES
+
+ 
+
+
+Não consta revogação expressa
+Dispõe sobre as orientações para a elaboração do relatório de gestão, rol de responsáveis, demais relatórios, pareceres, declarações e informações suplementares para a prestação de contas referentes ao exercício de 2016, bem como sobre procedimentos para a operacionalização do Sistema de Prestação de Contas, conforme as disposições da Decisão Normativa-TCU 154, de 19 de outubro de 2016.
+
+ANEXOS E APÊNDICES
+
+
+
+OUTROS ITENS DE INFORMAÇÃO
+
+ 
+
+ROL DE RESPONSÁVEIS
+
+ 
+
+PARECER OU RELATÓRIO DA UNIDADE DE AUDITORIA INTERNA
+
+ 
+
+PARECER DE COLEGIADO
+
+ 
+
+RELATÓRIO DE AVALIAÇÃO DE RESULTADOS DE CONTRATO DE GESTÃO
+
+ 
+
+PRONUNCIAMENTO DE AUTORIDADE SUPERVISORA DE CONTRATO DE GESTÃO
+
+ 
+
+RELATÓRIO DE BANCO OPERADOR DE RECURSOS DE FUNDOS
+
+ 
+
+RELATÓRIO DE INSTÂNCIA OU ÁREA DE CORREIÇÃO
+
+ 
+
+RELATÓRIO DE AUDITOR INDEPENDENTE
+
+ 
+
+DECLARAÇÕES DE INTEGRIDADE
+
+ 
+
+ 
+
+Declaração de integridade e completude das informações sobre contratos e convênios nos sistemas estruturantes da Administração Pública Federal
+
+ 
+
+ 
+
+Declaração de integridade e completude dos registros no Sistema de Apreciação e Registro dos Atos de Admissão e Concessões
+
+ 
+
+ 
+
+Declaração de cumprimento das disposições da Lei 8.730/1993 quanto à entrega das declarações de bens e rendas
+
+ 
+
+ 
+
+Declaração de integridade dos registros das informações no Sistema Integrado de Planejamento e Orçamento
+
+ 
+
+ 
+
+Declaração sobre a conformidade contábil dos atos e fatos da gestão orçamentária, financeira e patrimonial
+
+ 
+
+ 
+
+Declaração do contador sobre a fidedignidade dos registros contábeis no Sistema Integrado de Administração Financeira do Governo Federal - SIAFI
+
+ 
+
+RELATÓRIO RESUMIDO DO COMITÊ DE AUDITORIA
+
+ 
+
+RELATÓRIO ANUAL SOBRE O SISTEMA DE CONTROLES INTERNOS
+
+ 
+
+RELATÓRIO ESPELHO DO MONITORAMENTO - SIMPLIFICADO DO PPA 2016-2019
+
+INFORMAÇÕES SUPLEMENTARES
+
+ 
+
+RELATÓRIO DE AUDITORIA
+
+ 
+
+CERTIFICADO DE AUDITORIA
+
+ 
+
+ELEMENTOS DA RESPONSABILIZAÇÃO POR FALHA OU IRREGULARIDADE
+
+ 
+
+PARECER DO DIRIGENTE DO ÓRGÃO DE CONTROLE INTERNO
+
+ 
+
+PRONUNCIAMENTO DE AUTORIDADE SUPERVISORA ADJUNTA
+
+ 
+
+PRONUNCIAMENTO DO MINISTRO SUPERVISOR OU AUTORIDADE EQUIVALENTE
+
+
+*Itens de conteúdo específicos por unidade prestadora de contas e as orientações para elaboração de cada item constam do Sistema e-Contas, bem como do Portal TCU, área Contas do exercício de 2016.
+
+
+

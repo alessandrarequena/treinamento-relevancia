@@ -1,0 +1,644 @@
+Portaria
+273/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto "DIAGNÓSTICO de Oportunidades de Aperfeiçoamento de Procedimentos de Controle Externo das Secex" nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo DANIEL JEZINI NETTO, matrícula nº 4586-1, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição do coordenador ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+
+
+
+(Publicada no DOU de 5/12/2005, Seção 2, pág. 37)
+
+
+
+
+
+
+
+
+
+
+1	Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Daniel Jezini Netto
+
+4586-1
+
+Danieljn@tcu.gov.br
+
+7407
+
+Função do GestorOrigem da FC
+
+
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Segecex
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Gledson Pompeu Corrêa da Costa
+
+3165-8
+
+Gledsonpc@tcu.gov.br
+
+7017
+
+Local / Telefone
+
+ 
+
+
+2 Identificação do projeto
+
+
+Nome do projeto
+
+DIAGNÓSTICO de Oportunidades de Aperfeiçoamento de Procedimentos de Controle Externo das Secex
+
+Período de Realização
+
+Unidade Patrocinadora
+
+28/11/2005 a 23/06/2006
+
+Segecex – Adcon
+
+
+3 Vinculação estratégica
+Plano Estratégico do TCU (Portaria – TCU nº 59, de 20 de janeiro de 2003).
+
+
+
+Objetivo 1 – Cumprir com tempestividade e qualidade as competências do TCU
+
+a)        
+
+Estratégia 1 – Ampliar e aprimorar o uso da tecnologia da informação.
+
+b)        
+
+Estratégia 7 – Desenvolver política de gestão do conhecimento.
+
+c)        
+
+Estratégia 8 – Aperfeiçoar o sistema de planejamento e gestão do TCU.
+
+d)        
+
+Estratégia 9 – Aperfeiçoar os processos de trabalho do TCU.
+
+Plano de Diretrizes do TCU – biênio 2005-2006 (Portaria – TCU nº 28, de 14 de janeiro de 2005)
+
+Diretriz/Meta 2 – Ampliar e consolidar a qualidade nas ações de controle
+
+a)        
+
+Medida 2.5 – Racionalizar e uniformizar os processos/procedimentos de trabalho a cargo das unidades técnicas, prevendo a integração de sistemas informatizados.
+
+b)        
+
+Medida 2.6 – Disseminar os benefícios do uso de novas metodologias.
+
+c)        
+
+Medida 2.7 – Disseminar internamente boas práticas identificadas em unidades do Tribunal.
+
+Plano Diretor da Segecex – biênio 2005-2006 (Portaria - Segecex nº 04, de 14 de março de 2005)
+
+Diretriz/Meta 2 – Ampliar e consolidar a qualidade nas ações de controle
+
+a)        
+
+Medida 2.2 – Racionalizar e uniformizar, com o auxílio da Seplan e Setec, os processos/procedimentos de trabalho a cargo das unidades técnicas, prevendo a integração de sistemas informatizados.
+
+b)        
+
+Medida 2.3 – Disseminar os benefícios do uso de novas metodologias.
+
+c)        
+
+Medida 2.10 – Disseminar internamente, em conjunto com a Seplan e Corregedoria, boas práticas identificadas em unidades do Tribunal.
+
+d)        
+
+Medida 2.12 – Aprimorar as sistemáticas de alimentação e de extração de informações do sistema Radar.
+
+
+4 Problema / oportunidade
+
+
+
+
+Descrição do Problema ou da Oportunidade 
+
+Causas
+
+Problema ou Oportunidade
+
+Efeitos
+
+g) De modo geral, os sistemas de informação são orientados para atender a necessidades gerenciais do Tribunal  e não atendem adequadamente às necessidades específicas das Secex.
+
+h) Diversos sistemas de informação corporativos possuem funcionalidades insuficientes, o que gera a necessidade de controles  e manutenção paralelas de controles manuais ou eletrônicos sobre os processos de trabalho.
+
+i) Algumas Secex concebem processos de trabalho e sistemas de informação mais eficientes, porém tais conceitos não são disseminados para as outras secretarias de forma sistemática. (Oportunidade)
+
+Evolução do Quadro (apresentar dados)
+
+a)        
+
+ A proposta do presente projeto foi apresentada no Encontro de Dirigentes realizado em 2005, como forma de buscar soluções para melhorar a eficiência dos processos de controle externo do TCU. 
+
+b)        
+
+A necessidade de projeto desse tipo já havia sido aventada pelo titular da Secex/RJ, em sugestão constante do relatório da Corregedoria (novembro de 2004), no tocante a melhora do desempenho dos usuários dos sistemas, ante a identificação de necessidades gerenciais.
+
+
+5 Escopo do projeto
+
+
+5.1. Objetivo Geral do Projeto 
+
+Identificar, por meio de levantamento de informações junto às Secex:
+
+-          Oportunidades de aperfeiçoamento dos sistemas de informação institucionais;
+
+-          Necessidades de adequação de procedimentos relativos às atividades das Secex;
+
+-          Práticas locais passíveis de disseminação nas demais Secretarias;
+
+-          Soluções locais de TI passíveis de aproveitamento institucional; e
+
+-     Dificuldades/necessidades das Secex que mereçam atenção por parte das unidades centrais (Presidência, Segecex, Seplan, Adcon, Adfis, Setec, ISC etc).
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término
+
+c)        
+
+Elaborar diagnóstico preliminar dos procedimentos de controle externo das Secex, listando:
+
+-   Oportunidades de aperfeiçoamento dos sistemas de informação institucionais; 
+
+-   Necessidades de adequação de procedimentos relativos às atividades das Secex; e
+
+-   Possíveis estratégias de ação para encaminhamento das questões identificadas.
+
+100%
+
+23/06/2006
+
+- Diagnóstico preliminar avaliado
+
+- Relatório aprovado
+
+Relatório contendo diagnóstico preliminar avaliado dos procedimentos de controle externo das Secex 
+
+Segecex
+
+Adcon
+
+Adfis
+
+Seplan
+
+Setec
+
+
+5.3. Macroetapas (primeiro nível de Estrutura Analítica do Projeto – EAP)
+
+
+a)       
+
+Definição de estratégia e escopo de levantamento
+
+b)       
+
+    Realização de visitas-piloto
+
+c)       
+
+    Revisão da estratégia de levantamento
+
+d)       
+
+Realização de visitas de levantamento
+
+e)       
+
+Consolidação de informações
+
+f)        
+
+Elaboração de Relatório contendo diagnóstico preliminar dos procedimentos de controle externo das Secex 
+
+
+5.4. Não escopo 
+
+
+a)       
+
+Levantamento e diagnóstico de processos de trabalho exclusivos das secretarias especializadas (Secob, Sefid, Sefip, Semag, Seprog e Serur) e das secretarias-adjuntas da Segecex
+
+b)       
+
+Levantamento e diagnóstico de processos de trabalho das Secretarias de Controle Externo que não sejam diretamente vinculados à atividade de controle externo (administrativos)
+
+c)       
+
+Atendimento de necessidades de unidades do Tribunal a respeito de informações gerenciais sobre os processos de trabalho das Secretarias de Controle Externo
+
+d)       
+
+Mapeamento e documentação de processos e procedimentos de trabalho das Secex.
+
+e)       
+
+Coordenação, junto às Secex e demais unidades envolvidas, de ações relativas às oportunidades de melhoria sugeridas
+
+f)        
+
+Levantamento de necessidades de lotação e treinamento
+
+
+6 Identificação das partes envolvidas no projeto 
+
+
+
+
+Nome da Parte Envolvida
+
+Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+d)       
+
+Secex/PB
+
+Alocação de recursos humanos (secretário)
+
+e)       
+
+Segecex
+
+Apoio político e operacional (Patrocinador do projeto) 
+
+f)        
+
+Segedam
+
+Fornecimento de diárias e passagens aéreas
+
+g)       
+
+Setec
+
+Alocação de recursos humanos (secretário e 1 analista), compartilhamento de informações sobre os sistemas de informação corporativos, suporte de informática 
+
+h)       
+
+Seplan
+
+Alocação de recursos humanos (1 analista) 
+
+
+7 Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de Ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+Pela Ação
+
+a)       
+
+Não envolvimento dos secretários, diretores e chefes de SA das Secex selecionadas.
+
+Alto
+
+Baixa
+
+(E) Informar previamente as unidades visitadas acerca do escopo e possíveis benefícios do projeto.
+
+(M) Sempre que possível, pelo menos um dos secretários participantes do projeto deve estar presente em cada visita.
+
+Coordenador do projeto e secretários envolvidos
+
+b)        
+
+Demora na obtenção de informações das Secex 
+
+Médio
+
+Baixa
+
+(E) Encaminhar memorandos de solicitação de informação, com prazo fixado, pela Segecex.
+
+Secretaria-Geral
+
+c)       II
+
+Insatisfação das unidades não visitadas pela equipe do projeto
+
+Médio
+
+Alta
+
+(M) Oferecer oportunidade de participação das demais secretarias por meio de questionários, vídeo-conferência etc.
+
+Coordenador do projeto
+
+
+8 Relação com outros projetos
+
+
+Projetos Predecessores
+
+Projetos Conexos
+
+Projetos Sucessores
+
+-
+
+- Projeto Planejar
+
+Elaboração e implantação de Plano de Aperfeiçoamento de procedimentos de controle externo das Secex 
+
+
+9 	Custos estimados
+
+
+Recurso
+
+Valor Estimado
+
+Data Inicial de Liberação do Recurso
+
+a)       
+
+Passagens1: 4 ACE (equipe permanente do projeto + 1 Secretário) x 4 viagens = 16 passagens (ida e volta, com 1 parada intermediária2)
+
+R$   16.000,00
+
+ 
+
+b)       
+
+Diárias3: 4 ACE x 6,5 diárias x 4 viagens = 104 diárias
+
+R$  21.424,00
+
+ 
+
+Total de custos estimados
+
+R$ 37.424,00
+
+ 
+
+
+1 Estimou-se em R$ 500,00 o preço médio das passagens. 
+
+
+2 A cada viagem, serão visitadas duas secretarias regionais situadas em uma mesma rota aérea, sem retorno a Brasília.
+
+
+3 Estimou-se em R$ 206,00 o valor líquido das diárias, considerando a participação dos secretários envolvidos (FC-5), de acordo com a Portaria n.º 45/2003.
+
+
+
+
+
+
+
+
+
+10 Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)       
+
+Estação de videoconferência para interação com as Secex nos Estados
+
+Segecex e Setec
+
+b)       
+
+2 notebooks 
+
+Adfis
+
+
+11 Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação Integral/ Parcial / Por Atividade 
+
+Daniel Jezini Netto
+
+4586-1
+
+Adcon
+
+28/11/05 – 23/06/06
+
+Integral 
+
+Gledson Pompeu Correa da Costa  
+
+3165-8
+
+Setec
+
+28/11/05 – 23/06/06
+
+Integral 
+
+Luiz Antonio Zenóbio da Costa
+
+4243-9
+
+Seplan
+
+28/11/05 – 23/06/06
+
+Por atividade 
+
+Edison Franklin Almeida
+
+2815-0
+
+Segecex
+
+28/11/05 – 23/06/06
+
+Por atividade 
+
+Rosendo Severo dos Anjos Neto
+
+2510-0
+
+Adcon
+
+28/11/05 – 23/06/06
+
+Por atividade  
+
+Cláudio Silva da Cruz
+
+3164-0
+
+Setec
+
+01/03/06 – 30/06/06
+
+Por atividade  
+
+Rainério Rodriguez Leite
+
+2855-0
+
+Secex/PB
+
+01/03/06 – 30/06/06
+
+Por atividade
+
+
+12 Finalização
+
+
+Data
+
+Assinatura do Gestor do Projeto
+
+Em 24/11/2005
+
+Daniel JEZINI NETTO
+
+Coordenador do Projeto
+
+Manifestação do Titular da Unidade Patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2005.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Segecex, em _____/______/2005                                                                                                   
+
+ PAULO ROBERTO WIECHERS MARTINS 
+
+Secretário-Geral de Controle Externo
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto "DIAGNÓSTICO de Oportunidades de Aperfeiçoamento de Procedimentos de Controle Externo das Secex" e designa seu gestor.
+
+

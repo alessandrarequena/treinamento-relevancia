@@ -1,0 +1,763 @@
+Portaria
+324/2006
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e
+
+
+Considerando o disposto no art. 16 da Lei n° 10.356, de 27 de dezembro de 2001, e no art. 103 da Lei nº 8.112, de 11 de dezembro de 1990;
+
+
+Considerando o modelo de avaliação de desempenho definido pela Resolução-TCU n° 146, de 28 de dezembro de 2001, com as alterações introduzidas pela Resolução-TCU nº 167, de 19 de novembro de 2003;
+
+
+Considerando a política de gestão de pessoas no Tribunal consignada nos termos da Resolução-TCU nº 187, de 5 de abril de 2006;
+
+
+Considerando as competências da Comissão de Aperfeiçoamento e Desenvolvimento da Avaliação de Desempenho dos Servidores do Tribunal de Contas da União (Cadad) estabelecidas pela Portaria-TCU nº 166, de 28 de julho de 2006;
+
+
+Considerando a incorporação do modelo de gestão de projetos à sistemática de avaliação de desempenho do Tribunal;
+
+
+Considerando os estudos e pareceres constantes do processo TC-008.020/2006-9, resolve:
+
+
+Art. 1º A atribuição de avaliação e gratificação de desempenho para os servidores em atividade integrantes da carreira de especialista do Tribunal de Contas da União obedece ao disposto nesta Portaria.
+
+
+Parágrafo único. A avaliação de que trata esta Portaria não substitui a efetuada para fins de estágio probatório.
+
+
+Art. 2º Para efeito da aferição de desempenho, os servidores serão submetidos a avaliação, nos termos dos arts. 3º e 9° da Resolução-TCU n° 146, de 28 de dezembro de 2001, com as alterações introduzidas pela Resolução-TCU n° 167, de 19 de novembro de 2003.
+
+
+§ 1º A avaliação individual de desempenho será calculada pela média aritmética simples das notas atribuídas aos fatores avaliativos qualidade, produção e prazo, conforme critérios e parâmetros constantes do Anexo I desta Portaria.
+
+
+§ 2° O avaliador fica autorizado a regulamentar, no âmbito da sua área de atuação, os elementos necessários para a aferição das notas relativas aos fatores avaliativos, em consonância com os critérios e parâmetros constantes no Anexo I desta Portaria.
+
+
+§ 3º Na aplicação do parágrafo anterior, cabe ao avaliador dar ciência da portaria de regulamentação à Comissão de Aperfeiçoamento e Desenvolvimento da Avaliação de Desempenho do Tribunal de Contas da União (Cadad). (NR) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+§ 4º A média das notas atribuídas pelo avaliador observará como limite máximo o valor calculado para o resultado da implementação de metas constantes do Plano de Diretrizes do TCU (resultado institucional), especificadas e ponderadas para esse fim, em ato próprio da Presidência.
+
+
+§ 5º Caso as avaliações registradas no sistema informatizado estejam em desacordo com o previsto no parágrafo anterior, serão ajustadas automaticamente pela seguinte fórmula:
+
+
+AIDa = (AID x RI) / MAID
+
+
+Onde:
+
+
+AIDa	= avaliação individual de desempenho ajustada
+
+
+AID	= avaliação individual de desempenho
+
+
+RI	= resultado institucional
+
+
+MAID	= média das avaliações individuais de desempenho atribuídas pelo avaliador
+
+
+§ 6º Para fins de cálculo da gratificação de desempenho, o resultado final da avaliação individual de desempenho ajustada será convertido linearmente para o intervalo de zero a vinte pontos percentuais.
+
+
+
+
+
+Art. 3º A sistemática de avaliação de desempenho do Tribunal observará o seguinte cronograma: (NR) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+
+Período avaliativo
+
+Lançamento da avaliação individual no sistema 
+
+Lançamento do resultado das metas no sistema informatizado 
+
+Efeitos financeiros
+
+1° de janeiro a 30 de abril
+
+Entre o 8° dia útil e o último dia útil de maio
+
+1º dia útil de junho
+
+1° de junho a 30 de setembro
+
+1° de maio a 31 de agosto
+
+Entre o 8° dia útil e o último dia útil de setembro
+
+1° dia útil de outubro
+
+1° de outubro a 31 de janeiro
+
+1° de setembro a 31 de dezembro
+
+Entre o 8° dia útil e o último dia útil de janeiro
+
+1° dia útil de fevereiro
+
+1° de fevereiro a 31 de maio
+
+
+
+
+
+§ 1º Compete à Secretaria de Planejamento e Gestão (Seplan), observado o cronograma constante do caput deste artigo, efetuar o cálculo do resultado da implementação das metas constantes do Plano de Diretrizes do TCU e lançá-lo no sistema informatizado para avaliação de desempenho.
+
+
+§ 2º As avaliações individuais de desempenho serão formalizadas quadrimestralmente e seu resultado lançado no sistema informatizado pelo avaliador, nos períodos definidos no cronograma constante do caput deste artigo.
+
+
+§ 3º O avaliador pode registrar autorização, no sistema informatizado, para que detentores de FC-03, FC-04, FC-05 e FC-06 sejam responsáveis pela digitação das avaliações de desempenho a seu cargo, desde que haja homologação posterior, pelo avaliador, dos lançamentos efetuados.
+
+
+§ 4° A data inicial para lançamento da avaliação individual de desempenho no sistema informatizado poderá ser alterada, excepcionalmente, mediante justificativa, pela Secretaria de Recursos Humanos (Serec).
+
+
+Art. 4º A competência para realização das avaliações individuais obedece aos termos desta Portaria e pode ser delegada observada a vinculação hierárquica, vedada a subdelegação.
+
+
+§ 1º As avaliações individuais serão realizadas pelos titulares das unidades básicas, técnicas, técnico-executivas, de apoio estratégico, de assessoramento especializado e de apoio e assessoramento técnico a autoridades do Tribunal, ou, em seus impedimentos legais e eventuais, pelos respectivos substitutos, conforme discriminado no Anexo II desta Portaria.
+
+
+§ 2º Os titulares das unidades técnicas e técnico-executivas serão avaliados pelos titulares das unidades básicas e os ocupantes de funções de confiança diretamente vinculadas a autoridades do Tribunal serão por elas avaliados, conforme discriminado no Anexo III desta Portaria.
+
+
+§ 3º Os gestores de projeto (gerentes, coordenadores e líderes) serão avaliados pelo titular da respectiva unidade patrocinadora do projeto.
+
+
+§ 4º Os servidores alocados a projetos e que não exerçam a atividade de gestor de projeto serão avaliados do seguinte modo:
+
+
+I – os servidores alocados em tempo integral a projeto, que estejam trabalhando em um ou mais projetos, serão avaliados pelo titular da unidade patrocinadora do projeto em que primeiramente tiverem sido alocados, com base em informações fornecidas pelo respectivo gestor do projeto, ouvidos os titulares das demais unidades patrocinadoras;
+
+
+II – os servidores alocados em tempo parcial a projeto, que estejam trabalhando em um ou mais projetos, serão avaliados pelo titular de sua unidade de lotação funcional, podendo ser ouvidos os dirigentes das unidades patrocinadoras dos respectivos projetos.
+
+
+§ 5º No caso de mudança de lotação relativa a unidades ou projetos, ou de substituição em função de confiança, o servidor será avaliado pelo titular da unidade em que tenha permanecido por mais tempo durante o período avaliativo.
+
+
+§ 6º Caso haja concomitância no período de permanência em unidade ou em projeto, previsto no parágrafo anterior, o servidor será avaliado pelo titular da unidade onde tenha sido lotado por último.
+
+
+§ 7º Na aplicação dos §§ 3º e 4º deste artigo, na existência de unidade técnico-executiva que seja co-patrocinadora juntamente com o patrocínio de uma unidade básica, o servidor será avaliado pelo titular da unidade técnico-executiva.
+
+
+§ 8º A delegação disposta no caput deste artigo não se aplica às unidades técnico-executivas, cujos titulares farão a avaliação do desempenho individual com base em informações fornecidas pelas chefias imediatas dos servidores.
+
+
+Art. 5º Está em condições de ser avaliado o servidor que estiver no efetivo exercício de suas atribuições, no mesmo cargo, por tempo igual ou superior a vinte e cinco por cento do período avaliativo.
+
+
+§ 1º Ao servidor que entrar em exercício após a vigência desta Portaria será paga, até a primeira avaliação a que for submetido, gratificação de desempenho no valor correspondente ao piso a que se refere o art. 3º da Resolução-TCU n° 146, de 28 de dezembro de 2001, assegurada a retroatividade dos efeitos financeiros referentes à primeira avaliação.
+
+
+§ 2º Aplica-se o disposto no parágrafo anterior a todos os casos de ingresso em cargo do Tribunal por uma das formas de provimento previstas no art. 8º da Lei nº 8.112, de 11 de dezembro de 1990, bem como a situações de anulação de aposentadoria e de ingresso em novo cargo de servidores já pertencentes ao quadro de pessoal do TCU.
+
+
+§ 3º Ao servidor que retornar ao exercício, após a vigência desta Portaria, em razão de término de licença regularmente deferida com prejuízo da remuneração, será paga, desde a data de retorno até a primeira avaliação a que for submetido, gratificação de desempenho nos termos disciplinados no §1º deste artigo.
+
+
+Art. 6º Os servidores em efetivo exercício por prazo igual ou superior a vinte e cinco por cento do período avaliativo terão a gratificação de desempenho computada a partir das notas de avaliação individual de desempenho registradas no sistema informatizado.
+
+
+§ 1º No caso de afastamentos considerados por lei como de efetivo exercício cujo prazo seja superior a setenta e cinco por cento do período avaliativo, deve ser registrado no sistema o valor da avaliação individual de desempenho correspondente ao da última avaliação individual disponível.
+
+
+§ 2º O disposto no parágrafo anterior aplica-se ao servidor cedido com ônus para o Tribunal, inclusive para as Casas do Congresso Nacional, nos termos da Resolução-TCU nº 61, de 29 de maio de 1996, e da Resolução-TCU nº 188, de 12 de abril de 2006, cujo prazo de afastamento seja superior a setenta e cinco por cento do período avaliativo.
+
+
+§ 3º Quando houver a ocorrência de um dos afastamentos disciplinados pelo art. 103 da Lei nº 8.112, de 1990, o cômputo da gratificação de desempenho no intervalo de zero a vinte pontos percentuais deverá considerar a proporcionalização, da avaliação individual de desempenho registrada no sistema, aos dias considerados como efetivo exercício no período avaliativo.
+
+
+§ 4º Na aplicação do disposto nos §§ 1º e 2º deste artigo, quando da inexistência da nota da última avaliação individual, deve ser registrada no sistema a média aferida pelos demais ocupantes do mesmo cargo no período avaliativo anterior.
+
+
+§ 5º Na aplicação do § 3º deste artigo, quando o período de afastamento disciplinado pelo art. 103 da Lei nº 8.112, de 1990, for superior a setenta e cinco por cento do período avaliativo, deve ser utilizada a nota da última avaliação individual disponível ou, na sua inexistência, a média das avaliações obtidas no período avaliativo imediatamente anterior, pelos demais ocupantes do mesmo cargo.
+
+
+§ 6º O disposto no § 3º deste artigo, não se aplica aos casos de licença para tratamento de saúde de pessoa da família do servidor, com remuneração. (AC) (Portaria nº 315, de 18/12/2008, BTCU nº 50/2008)
+
+
+
+Art. 7° O avaliado que discordar da pontuação recebida acerca de seu desempenho profissional pode requerer reconsideração ao avaliador, no prazo de dez dias, contados do término do período para lançamento do conceito final da avaliação no sistema informatizado, devendo fundamentar seu pleito e discriminar as razões e justificativas relativas a cada fator avaliativo cujo resultado esteja contestando. (NR) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+§ 1º Acolhido o pedido de reconsideração, os efeitos financeiros dele decorrentes serão implementados na folha de pagamento do mês seguinte, retroativamente.
+
+
+§ 2º Subsistindo discordância, o pedido de reconsideração deve ser contra-arrazoado pelo avaliador, no prazo de cinco dias, com início a partir da data de recebimento do pedido, dando-se ciência ao avaliado.
+
+
+§ 3º O avaliado pode apresentar recurso à Cadad, no prazo de dez dias, contados da data da ciência do indeferimento do pedido de reconsideração.
+
+
+§ 4º O recurso deve ser encaminhado ao Serviço de Admissões e Avaliação de Desempenho (SAD) da Segep por intermédio do avaliador.
+
+
+§ 5º O SAD instruirá o processo e o encaminhará, no prazo de quinze dias, à Cadad, para, em igual prazo, prorrogável mediante justificativa, análise e decisão a respeito, dando-se ciência do resultado ao avaliado.
+
+
+§ 6º O recurso não será conhecido quando:
+
+
+I - interposto fora do prazo;
+
+
+II - não indicar o fator objeto da contestação; ou
+
+
+III - desprovido de fundamentação.
+
+
+§ 7° Os efeitos financeiros dos recursos e contestações acatados serão diferidos até o período avaliativo subseqüente, com pagamento retroativo das diferenças de gratificação de desempenho.
+
+
+Art. 8º O acompanhamento sistemático das avaliações individuais de desempenho registradas no sistema informatizado será efetuado pela Cadad, com o apoio da Serec.
+
+
+§ 1º Ato da Cadad regulamentará ações a serem envidadas em relação às situações de desempenho crônico situado nas duas faixas inferiores de cada fator avaliativo, de modo a propiciar o desenvolvimento profissional dos servidores.
+
+
+§ 2º Concluído o período avaliativo, inclusive o destinado ao exame dos recursos de que trata o art. 7º desta Portaria, a Serec providenciará a autuação de processo administrativo, com vistas à apuração disciplinar das condutas dos servidores que, nos seis últimos períodos avaliativos, tiverem obtido valores inferiores ou iguais a quarenta pontos em duas ou mais avaliações individuais de desempenho.
+
+
+§ 3º Os processos constituídos nos termos do parágrafo anterior serão submetidos de imediato à Presidência para ciência e adoção das providências cabíveis.
+
+
+Art. 9° Para cumprimento dos limites orçamentários de despesa com pessoal determinados em lei, sempre que o somatório mensal dos valores decorrentes da aplicação dos percentuais apurados de acordo com o disposto no art. 3º desta Portaria ultrapassar o montante orçamentário destinado ao respectivo pagamento, lhes será aplicado o fator de ajuste previsto no parágrafo único do art. 2° da Resolução-TCU n° 146, de 2001, de forma que a redução seja universal e proporcional, preservando o posicionamento relativo auferido pelos servidores na avaliação de desempenho.
+
+
+Art. 10. Compete à Secretaria de Tecnologia da Informação (Setec) promover, em parceria com a Serec, a adequação do sistema informatizado de avaliação de desempenho às novas regras de negócio disciplinadas por este normativo.
+
+
+Art. 11. Cabe à Cadad e à Serec, no âmbito das suas competências, a regulamentação necessária para operacionalização desta Portaria.
+
+
+Art. 12. Os casos omissos serão dirimidos pela Cadad.
+
+
+Art. 13. Esta Portaria entra em vigor no primeiro dia do período avaliativo subseqüente à data de sua publicação.
+
+
+Art. 14. Revoga-se a Portaria-TCU n° 253, de 1º de dezembro de 2003.
+
+
+GUILHERME PALMEIRA
+
+
+Presidente
+
+
+
+Revogada pela Portaria nº 180, de 27/04/2009 , BTCU nº 15/2009.
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre a implementação da avaliação e da gratificação de desempenho dos integrantes da carreira de especialista do Tribunal de Contas da União.
+
+ANEXO I DA PORTARIA-TCU N° 324, DE 12 DE DEZEMBRO DE 2006
+
+
+
+
+
+
+
+Fator
+
+Descrição
+
+Critério
+
+Parâmetro
+
+Qualidade
+
+Exatidão dos trabalhos a cargo do avaliado.
+
+Os trabalhos executados pelo avaliado são plenamente adequados à finalidade a que se destinam e destacam-se como referência de qualidade.
+
+Maior que 90 pontos 
+
+e 
+
+menor ou igual a 100 pontos
+
+Os trabalhos executados pelo avaliado são adequados à finalidade a que se destinam.
+
+Maior que 70 pontos 
+
+e 
+
+menor ou igual a 90 pontos
+
+Os trabalhos executados pelo avaliado eventualmente necessitam de reparos a fim de tornarem-se adequados à finalidade a que se destinam.
+
+Maior que 40 pontos 
+
+e 
+
+menor ou igual a 70 pontos
+
+Os trabalhos a cargo do avaliado freqüentemente necessitam de reparos a fim de tornarem-se adequados à finalidade a que se destinam, ou são executados por outro servidor.
+
+Maior ou igual a 0 ponto 
+
+e 
+
+menor ou igual a 40 pontos
+
+Produção
+
+Contribuição individual do avaliado para o alcance do resultado da unidade.
+
+O avaliado é reconhecido pela iniciativa e/ou pela execução de tarefas em quantidade superior àquelas que lhe são atribuídas, sem prejuízo da qualidade, razão pela qual contribui especialmente para o cumprimento dos encargos de sua unidade.
+
+Maior que 90 pontos 
+
+e 
+
+menor ou igual a 100 pontos
+
+O avaliado executa integralmente as tarefas que lhe são atribuídas, sem prejuízo da qualidade, razão pela qual contribui regularmente para o cumprimento dos encargos de sua unidade.
+
+Maior que 70 pontos 
+
+e 
+
+menor ou igual a 90 pontos
+
+O avaliado não executa ou tem grande dificuldade para executar parte das tarefas que lhe são atribuídas, razão pela qual não contribui do modo esperado para o cumprimento dos encargos de sua unidade.
+
+Maior que 40 pontos 
+
+e 
+
+menor ou igual a 70 pontos
+
+O avaliado não executa grande parte das tarefas que lhe são atribuídas, razão pela qual pouco contribui para o cumprimento dos encargos de sua unidade.
+
+Maior ou igual a 0 ponto 
+
+e 
+
+menor ou igual a 40 pontos
+
+Prazo
+
+Rapidez no cumprimento das tarefas atribuídas ao avaliado.
+
+O avaliado freqüentemente conclui seus trabalhos antes dos prazos estimados, sem prejuízo da qualidade, dispondo-se prontamente a iniciar outras tarefas.
+
+Maior que 90 pontos 
+
+e 
+
+menor ou igual a 100 pontos
+
+O avaliado normalmente conclui seus trabalhos nos prazos estimados, sem prejuízo da qualidade.
+
+Maior que 70 pontos 
+
+e 
+
+menor ou igual a 90 pontos
+
+O avaliado eventualmente excede os prazos estimados para conclusão de seus trabalhos.
+
+Maior que 40 pontos 
+
+e 
+
+menor ou igual a 70 pontos
+
+O avaliado freqüentemente excede os prazos estimados para conclusão de seus trabalhos.
+
+Maior ou igual a 0 ponto 
+
+e 
+
+menor ou igual a 40 pontos
+
+
+
+
+
+
+ANEXO II DA PORTARIA-TCU N° 324, DE 12 DE DEZEMBRO DE 2006
+
+
+
+
+
+Unidade de lotação 
+
+Ou
+
+ unidade patrocinadora do projeto (no caso de servidores cedidos integralmente a projetos)  
+
+Titular / Avaliador
+
+Tipo
+
+Descrição
+
+Unidade básica
+
+Secretaria-Geral das Sessões 
+
+Secretário-Geral
+
+Secretaria-Geral de Controle Externo 
+
+Secretaria-Geral de Administração 
+
+Unidade técnica
+
+Secretaria Adjunta de Fiscalização
+
+Secretário-Adjunto
+
+Secretaria Adjunta de Contas
+
+Unidade técnico-executiva
+
+Secretaria do Plenário
+
+Secretário
+
+Secretarias de Controle Externo
+
+Secretaria de Fiscalização de Pessoal
+
+Secretaria de Fiscalização de Obras e Patrimônio da União
+
+Secretaria de Fiscalização de Desestatização
+
+Secretaria de Fiscalização e Avaliação de Programas de Governo
+
+Secretaria de Macroavaliação Governamental
+
+Secretaria de Fiscalização da Tecnologia da Informação
+
+Secretaria de Recursos
+
+Secretaria de Recursos Humanos
+
+Secretaria de Orçamento, Finanças e Contabilidade
+
+Secretaria de Material, Patrimônio e Comunicação Administrativa
+
+Secretaria de Serviços Gerais
+
+Subsecretaria da Primeira Câmara
+
+Subsecretário
+
+Subsecretaria da Segunda Câmara
+
+Unidade de apoio estratégico
+
+Instituto Serzedello Corrêa 
+
+Diretor-Geral
+
+Secretaria de Planejamento e Gestão 
+
+Secretário
+
+Secretaria de Tecnologia da Informação 
+
+Unidade de assessoramento especializado
+
+Secretaria de Controle Interno 
+
+Secretário
+
+Consultoria Jurídica 
+
+Consultor Jurídico
+
+Assessoria Parlamentar 
+
+Chefe de Assessoria
+
+Assessoria de Cerimonial e Relações Institucionais 
+
+Assessoria de Relações Internacionais 
+
+Assessoria de Comunicação Social 
+
+Unidade de apoio e assessoramento técnico a autoridades
+
+Secretaria da Presidência 
+
+Secretário
+
+Gabinete do Presidente
+
+Chefe de Gabinete
+
+Gabinete do Corregedor
+
+Gabinetes de Ministros
+
+Gabinetes de Auditores
+
+Gabinetes de Membros do Ministério Público
+
+
+
+
+
+
+ANEXO III DA PORTARIA-TCU N° 324, DE 12 DE DEZEMBRO DE 2006
+
+
+
+
+
+Titulares de unidades
+
+Avaliador
+
+Tipo da unidade
+
+Nome da unidade
+
+Unidade técnica
+
+Secretaria Adjunta de Fiscalização
+
+Secretário-Geral de Controle Externo
+
+Secretaria Adjunta de Contas
+
+Unidade técnico-executiva
+
+Secretaria do Plenário
+
+Secretário-Geral das Sessões
+
+Subsecretaria da Primeira Câmara
+
+Subsecretaria da Segunda Câmara
+
+Secretarias de Controle Externo
+
+Secretário-Geral de Controle Externo
+
+Secretaria de Fiscalização de Pessoal
+
+Secretaria de Fiscalização de Obras e Patrimônio da União
+
+Secretaria de Fiscalização de Desestatização
+
+Secretaria de Fiscalização e Avaliação de Programas de Governo
+
+Secretaria de Macroavaliação Governamental
+
+Secretaria de Fiscalização da Tecnologia da Informação
+
+Secretaria de Recursos
+
+Secretaria de Recursos Humanos
+
+Secretário-Geral de Administração
+
+Secretaria de Orçamento, Finanças e Contabilidade
+
+Secretaria de Material, Patrimônio e Comunicação Administrativa
+
+Secretaria de Serviços Gerais
+
+Unidade básica
+
+Secretaria-Geral das Sessões 
+
+Presidente
+
+Secretaria-Geral de Controle Externo 
+
+Secretaria-Geral de Administração 
+
+Unidade de apoio estratégico
+
+Instituto Serzedello Corrêa 
+
+Secretaria de Planejamento e Gestão 
+
+Secretaria de Tecnologia da Informação 
+
+Unidade de assessoramento especializado
+
+Secretaria de Controle Interno 
+
+Consultoria Jurídica 
+
+Assessoria Parlamentar 
+
+Assessoria de Cerimonial e Relações Institucionais 
+
+Assessoria de Relações Internacionais 
+
+Assessoria de Comunicação Social 
+
+ 
+
+Funções de confiança vinculadas diretamente à autoridade do Tribunal
+
+Avaliador
+
+Tipo da unidade
+
+Nome da unidade
+
+Funções
+
+Unidade de apoio e assessoramento técnico a autoridades
+
+Secretaria da Presidência
+
+Secretário da Presidência
+
+Presidente
+
+Gabinete do Presidente
+
+Chefe de Gabinete
+
+Assessor do Presidente
+
+Gabinete do Corregedor
+
+Assessor do Corregedor
+
+Ministro-Corregedor
+
+Gabinetes de Ministros
+
+Chefe de Gabinete
+
+Assessor de Ministro
+
+Ministro
+
+Gabinetes de Auditores
+
+Chefe de Gabinete
+
+Assessor de Ministro Substituto
+
+Auditor
+
+Gabinetes de Membros do Ministério Público junto ao Tribunal
+
+Chefe de Gabinete
+
+Assessor de Procurador-Geral
+
+Membro do Ministério Público
+
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+Art. 2º.......................................................
+
+
+§ 3º Na aplicação do parágrafo anterior, o avaliador deve previamente encaminhar a minuta de regulamentação para homologação da Comissão de Aperfeiçoamento e Desenvolvimento da Avaliação de Desempenho do Tribunal de Contas da União (Cadad). (Alterado) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+Art. 3º A sistemática de avaliação de desempenho do Tribunal observará o seguinte cronograma: (Alterado) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+
+
+
+Período avaliativo
+
+Lançamento do resultado das metas no sistema informatizado
+
+Lançamento da avaliação individual no sistema informatizado
+
+Efeitos financeiros
+
+1° de janeiro a 30 de abril
+
+Até 20 de maio 
+
+Entre o 8° dia útil e o último dia útil de maio
+
+1° de junho a 30 de setembro
+
+1° de maio a 31 de agosto
+
+Até 20 de setembro
+
+Entre o 8° dia útil e o último dia útil de setembro
+
+1° de outubro a 31 de janeiro
+
+1° de setembro a 31 de dezembro
+
+Até 20 de janeiro 
+
+Entre o 8° dia útil e o último dia útil de janeiro
+
+1° de fevereiro a 31 de maio
+
+
+Art. 7° O avaliado que discordar da pontuação recebida acerca de seu desempenho profissional pode requerer reconsideração ao avaliador, no prazo de quinze dias, contados do término do período para lançamento do conceito final da avaliação no sistema informatizado, devendo fundamentar seu pleito e discriminar as razões e justificativas relativas a cada fator avaliativo cujo resultado esteja contestando. (Alterado) (Portaria nº 100, de 24/4/2008, BTCU nº 15/2008)
+
+
+
+§ 1º Acolhido o pedido de reconsideração, os efeitos financeiros dele decorrentes serão implementados na folha de pagamento do mês seguinte, retroativamente.
+
+
+§ 2º Subsistindo discordância, o pedido de reconsideração deve ser contra-arrazoado pelo avaliador, no prazo de cinco dias úteis, e encaminhado ao Serviço de Admissões e Avaliação de Desempenho (SAD) da Serec.
+
+
+§ 3º O SAD instruirá o processo e o encaminhará, no prazo de dez dias úteis, à Cadad, para, em igual prazo, prorrogável mediante justificativa, análise e decisão a respeito, dando-se ciência do resultado ao avaliado.
+
+
+§ 4º Será indeferido o recurso:
+
+
+I - interposto fora do prazo;
+
+
+II - que não indicar o fator objeto da contestação; ou
+
+
+III - desprovido de fundamentação.
+
+
+§ 5° Os efeitos financeiros dos recursos e contestações acatados serão diferidos até o período avaliativo subseqüente, com pagamento retroativo das diferenças de gratificação de desempenho.
+
+
+

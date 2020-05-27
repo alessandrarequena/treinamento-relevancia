@@ -1,0 +1,1883 @@
+Portaria
+255/2015
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício das suas atribuições legais e regimentais, e
+
+
+Considerando a necessidade de normalizar os conteúdos dos relatórios de gestão, com o propósito de dar-lhes tratamento isonômico dentro do Tribunal de Contas da União e permitir o devido processamento por meio eletrônico;
+
+
+Considerando o disposto no § 3º do art. 3º da Instrução Normativa TCU 63, de 1º de setembro de 2010 (IN 63/2010), no caput do art. 4º e nos incisos VI e VII do art. 5º da Decisão Normativa TCU 134, de 4 de dezembro de 2013 (DN 134/2013), no § 6º do art. 2º e no § 5º do art. 4º da Decisão Normativa TCU 140, de 15 de outubro de 2014 (DN 140/2014), resolve:
+
+
+Art. 1º  Os relatórios de gestão e as peças complementares relativos às contas do exercício de 2014 de que tratam a DN 134/2013 e a DN 140/2014, respectivamente, terão os trâmites realizados exclusivamente dentro do Sistema de Prestação de Contas (e-Contas) disponibilizado pelo TCU.
+
+
+Art. 2º  Os relatórios de gestão de que trata a DN 134/2013 devem obedecer à estrutura de conteúdos definida no e-Contas, bem como as orientações de elaboração contidas nesse sistema.
+
+
+§ 1º  As unidades obrigadas à elaboração dos conteúdos exigidos nas partes A e B do Anexo II da DN 134/2013, exceto as referidas no § 2º a seguir, devem inserir as informações de seus relatórios divididas em capítulos conforme apresentado pelo sistema e-Contas, observada a estrutura geral do Anexo I desta Portaria.
+
+
+§ 2º  As unidades que tiveram os conteúdos de seus relatórios customizados nos termos da parte C do Anexo II da DN 134/2013, bem como as integrantes da estrutura dos Ministérios da Agricultura, Pecuária e Abastecimento e do Desenvolvimento Agrário, constantes do Anexo II desta Portaria, devem inserir seus relatórios no sistema e-Contas em arquivo único.
+
+
+§ 3º Em ambas as situações descritas nos §§ 1º e 2º, as unidades podem utilizar os quadros e orientações da Portaria-TCU 90/2014 como referência para a elaboração do conteúdo do relatório de gestão.
+
+
+Art. 3º  As peças complementares de que tratam os incisos I a VI do art. 2º da DN 140/2014 devem ser inseridas no sistema e-Contas em peças únicas individuais no formato Portable Document Format (PDF), obedecendo aos requisitos estabelecidos nos Anexos II a VII dessa mesma DN.
+
+
+§ 1º  As peças de que tratam os Anexos II e III da DN 140/2014 devem obedecer aos mesmos prazos fixados para cada unidade prestadora no sistema e-Contas para inserção dos relatórios de gestão.
+
+
+§ 2º  As peças de que tratam os Anexos IV a VII da DN 140/2014 devem obedecer aos prazoslimite estabelecidos no sistema e-Contas relativamente a cada unidade prestadora, podendo os respectivos órgãos de controle interno e autoridades supervisoras negociarem os prazos internos para cada instância.
+
+
+Art. 4º  Esta Portaria aplica-se à elaboração dos relatórios de gestão e das peças complementares do exercício de 2014.
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+
+Não consta revogação expressa
+Dispõe sobre a sistemática eletrônica de apresentação das informações das contas do exercício de 2014, conforme art. 4º da Decisão Normativa TCU 134/2013 e § 6º do art. 2º da Decisão Normativa TCU 140/2014.
+
+ANEXO I  DA  PORTARIA-TCU Nº 255, DE 28 DE AGOSTO DE 2015.
+
+
+
+
+
+
+
+Estrutura geral de conteúdos abordada pelo Sistema e-Contas e a correlação com os conteúdos dos Anexos II e III da DN TCU 134/2013
+
+
+CAPÍTULOS E SUBTÍTULOS
+
+ORIGEM DOS ITENS NA DN TCU 134/2013
+
+Anexo II
+
+Anexo III
+
+PARTE A
+
+PARTE B
+
+ELEMENTOS PRÉ-TEXTUAIS
+
+Anexo III
+
+ 
+
+Capa
+
+ 
+
+ 
+
+B.1
+
+ 
+
+Folha de rosto
+
+ 
+
+ 
+
+B.2
+
+ 
+
+Lista de dirigentes
+
+ 
+
+ 
+
+B.4
+
+ 
+
+Lista de siglas e abreviações
+
+ 
+
+ 
+
+B.4
+
+ 
+
+Lista de tabelas, quadros, gráficos e figuras
+
+ 
+
+ 
+
+B.4
+
+ 
+
+Lista de anexos e apêndices
+
+ 
+
+ 
+
+B.4
+
+ 
+
+Sumário
+
+ 
+
+ 
+
+B.3
+
+INTRODUÇÃO
+
+ 
+
+ 
+
+B.5.b
+
+IDENTIFICAÇÃO E ATRIBUTOS DA UNIDADE
+
+1
+
+ 
+
+B.5.a
+
+ 
+
+Identificação da unidade
+
+1.1
+
+ 
+
+ 
+
+ 
+
+Finalidade e competências institucionais
+
+1.2
+
+ 
+
+ 
+
+ 
+
+Organograma funcional
+
+1.3
+
+ 
+
+ 
+
+ 
+
+Macroprocessos finalísticos
+
+1.4
+
+ 
+
+ 
+
+GOVERNANÇA
+
+2
+
+ 
+
+ 
+
+ 
+
+Descrição das estruturas de governança
+
+2.1
+
+ 
+
+ 
+
+ 
+
+Atuação da unidade de auditoria interna
+
+2.2
+
+ 
+
+ 
+
+ 
+
+Atividades de correição e apuração de ilícitos administrativos
+
+2.3
+
+ 
+
+ 
+
+ 
+
+Autoavaliação dos controles internos
+
+2.4
+
+ 
+
+ 
+
+ 
+
+Política de remuneração dos administradores, membros da diretoria estatutária, do conselho de administração e do conselho fiscal
+
+2.5
+
+ 
+
+ 
+
+ 
+
+Estrutura de gestão e controle de demandas judiciais
+
+ 
+
+52; 53
+
+ 
+
+RELACIONAMENTO COM A SOCIEDADE
+
+3
+
+ 
+
+ 
+
+ 
+
+Canais de acesso do cidadão
+
+3.1
+
+ 
+
+ 
+
+ 
+
+Carta de Serviços ao Cidadão
+
+3.2
+
+ 
+
+ 
+
+ 
+
+Aferição do grau de satisfação dos cidadãos-usuários
+
+3.3
+
+ 
+
+ 
+
+ 
+
+Mecanismos de transparência das informações relevantes sobre a atuação da unidade
+
+3.4
+
+ 
+
+ 
+
+ 
+
+Avaliação dos produtos e serviços pelos cidadãos-usuários
+
+3.5
+
+ 
+
+ 
+
+ 
+
+Medidas para garantir a acessibilidade aos produtos, serviços e instalações
+
+3.6
+
+ 
+
+ 
+
+ 
+
+Desempenho e a atuação dos postos no exterior no atendimento ao público
+
+ 
+
+22
+
+ 
+
+ 
+
+Informações sobre indenizações a clientes no âmbito administrativo e judicial
+
+ 
+
+30
+
+ 
+
+AMBIENTE DE ATUAÇÃO
+
+4
+
+ 
+
+ 
+
+ 
+
+Caracterização do ambiente de atuação.
+
+4.1
+
+17; 18; 19; 30
+
+ 
+
+PLANEJAMENTO E RESULTADOS ALCANÇADOS
+
+5
+
+ 
+
+ 
+
+ 
+
+Planejamento Institucional
+
+5.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Descrição sintética dos planos
+
+5.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Estágio de implementação do planejamento estratégico
+
+5.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vinculação dos planos da unidade com as competências institucionais e outros planos
+
+5.1
+
+ 
+
+ 
+
+ 
+
+Programação orçamentária e financeira e resultados alcançados
+
+5.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Programas temáticos e objetivos do PPA que estejam na responsabilidade da unidade e resultados alcançados
+
+5.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ações da Lei Orçamentária Anual sob a responsabilidade da unidade e resultados alcançados
+
+5.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fatores intervenientes na consecução dos resultados planejados
+
+5.2
+
+ 
+
+ 
+
+ 
+
+Medidas de eficiência com base na gestão de custos de produtos e serviços
+
+5.5
+
+ 
+
+ 
+
+ 
+
+Apresentação e análise de indicadores de desempenho
+
+5.4
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indicadores específicos
+
+ 
+
+8; 9; 16
+
+ 
+
+ 
+
+ 
+
+Informações e indicadores sobre o desempenho operacional
+
+ 
+
+17; 18; 19; 52
+
+ 
+
+ 
+
+ 
+
+Apresentação e análise dos indicadores de desempenho conforme deliberações do Tribunal de Contas da União
+
+ 
+
+66; 67
+
+ 
+
+ 
+
+ 
+
+Análise consolidada dos resultados dos indicadores de desempenho da rede de instituições federais de ensino tecnológico
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+Análise consolidada dos resultados dos indicadores de desempenho da rede de instituições federais de ensino superior
+
+ 
+
+12
+
+ 
+
+ 
+
+Acompanhamento e resultados do Plano Brasil Maior
+
+ 
+
+13
+
+ 
+
+ 
+
+Demonstração e análise do desempenho econômico-financeiro
+
+ 
+
+15; 17; 18; 19
+
+ 
+
+ 
+
+Informações sobre empreendimentos realizados por intermédio de Sociedades de Propósito Específico (SPE)
+
+ 
+
+17; 19
+
+ 
+
+ 
+
+Informações sobre as atividades relacionadas à Pesquisa e Desenvolvimento
+
+ 
+
+17
+
+ 
+
+ 
+
+Informações gerenciais sobre o Plano de Implantação do Novo Modelo de Gestão (PINMG) e sobre o Plano de Expansão da Rede de Atendimento (PEX)
+
+ 
+
+20
+
+ 
+
+ 
+
+Informações consolidadas sobre a fiscalização e o controle dos planos de benefícios e sobre as entidades fechadas de previdência complementar
+
+ 
+
+21
+
+ 
+
+ 
+
+Informações sobre o plano de implantação do Siafi nos postos diplomáticos
+
+ 
+
+22
+
+ 
+
+ 
+
+Informações sobre o estágio de desenvolvimento do Plano Diretor de Reforma Consular
+
+ 
+
+24
+
+ 
+
+ 
+
+Informações sobre o desdobramento do plano estratégico e resultados apresentados
+
+ 
+
+30; 54
+
+ 
+
+ 
+
+ 
+
+Informações sobre o desempenho operacional
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+Informações sobre os contratos de franquia de serviço postal
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+Informações sobre projetos corporativos
+
+ 
+
+30
+
+ 
+
+ 
+
+Informações sobre o acompanhamento das ações relacionadas ao Plano Nacional de Qualificação – PNQ
+
+ 
+
+29
+
+ 
+
+ 
+
+Informações sobre os projetos e subprojetos prioritários dos Comandos Militares e do Ministério da Defesa
+
+ 
+
+37
+
+ 
+
+ 
+
+Informação consolidada sobre as ações relacionadas ao emprego das Forças Armadas em Grandes Eventos (Copa 2014 e Olimpíadas 2016)
+
+ 
+
+38
+
+ 
+
+ 
+
+Informações sobre as ações do Programa Estratégico de Sistemas Espaciais – PESE
+
+ 
+
+40
+
+ 
+
+ 
+
+Informações sobre os projetos conduzidos pela Comissão Coordenadora do Programa Aeronave de Combate (COPAC)
+
+ 
+
+41
+
+ 
+
+ 
+
+Informações sobre as ações relativas ao Projeto do Sistema Integrado de Monitoramento de Fronteiras – Sisfron
+
+ 
+
+42
+
+ 
+
+ 
+
+Informações sobre a descentralização de recursos para o atendimento das ações preparatórias da Copa do Mundo FIFA de 2014 e Olimpíadas 2016
+
+ 
+
+47.a
+
+ 
+
+ 
+
+Informações sobre o acompanhamento das ações relacionadas ao Programa de Qualificação Profissional
+
+ 
+
+48
+
+ 
+
+ 
+
+Análise comparativa da evolução dos indicadores de qualidade das distribuidoras de energia elétrica
+
+ 
+
+55
+
+ 
+
+ 
+
+Análise crítica acerca da evolução do orçamento aprovado para o Operador Nacional do Sistema Elétrico (ONS)
+
+ 
+
+55
+
+ 
+
+ 
+
+Descrição e análise das ações desenvolvidas para prorrogação dos contratos de concessões
+
+ 
+
+55
+
+ 
+
+ 
+
+Informações sobre ações desenvolvidas pelas unidades técnicas específicas
+
+ 
+
+55.1
+
+ 
+
+ 
+
+Coordenadoria de Conteúdo Local (CCL)
+
+ 
+
+55.1.1
+
+ 
+
+ 
+
+Superintendência de Segurança Operacional e Meio ambiente (SSM)
+
+ 
+
+55.1.2
+
+ 
+
+ 
+
+Núcleo de Fiscalização da Medição e Produção de Petróleo e Gás Natural (NFP)
+
+ 
+
+55.1.3
+
+ 
+
+ 
+
+Superintendência de Planejamento e Regulamentação
+
+ 
+
+55.3.1
+
+ 
+
+ 
+
+Superintendência de Fiscalização
+
+ 
+
+55.3.2
+
+ 
+
+ 
+
+Superintendência de Controle de Obrigações
+
+ 
+
+55.3.3
+
+ 
+
+ 
+
+Superintendência de Relação com Consumidores
+
+ 
+
+55.3.4
+
+ 
+
+ 
+
+Análise do impacto gerado no setor de petróleo, gás natural e biocombustíveis decorrentes da atuação da agência
+
+ 
+
+55.1
+
+ 
+
+ 
+
+Informações sobre ressarcimentos pelos planos de saúde ao SUS
+
+ 
+
+55.2
+
+ 
+
+ 
+
+Análise do impacto gerado no setor de telecomunicações decorrentes da atuação da agência
+
+ 
+
+55.3
+
+ 
+
+ 
+
+Informações sobre projetos e programas financiados com recursos externos
+
+ 
+
+59
+
+ 
+
+ 
+
+Acompanhamento e avaliações relacionadas à supervisão de entidades públicas e privadas com contrato de gestão
+
+ 
+
+60
+
+ 
+
+ 
+
+Acompanhamento das ações e resultados relacionados a contratos de gestão regidos pela Lei 9.637/1998
+
+ 
+
+61
+
+ 
+
+ 
+
+Acompanhamento das ações e resultados relacionados a termos de parceria regidos pela Lei 9.790/1999
+
+ 
+
+62
+
+ 
+
+ 
+
+Informações sobre as ações relativas ao Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste Setentrional
+
+ 
+
+43
+
+ 
+
+ 
+
+Informações sobre as ações relativas ao Programa de Revitalização da Bacia Hidrográfica do Rio São Francisco
+
+ 
+
+45
+
+ 
+
+ 
+
+Outros resultados da gestão
+
+5.3
+
+17; 18; 19
+
+ 
+
+GESTÃO DE FUNDOS DO CONTEXTO DE ATUAÇÃO DA UNIDADE
+
+Não há correspondência de capítulo na Parte A do Anexo II. Os itens originam-se da Parte B.
+
+ 
+
+Identificação e informações gerais dos fundos do contexto da unidade
+
+ 
+
+ 
+
+ 
+
+ 
+
+Informações sobre programas e fundos setoriais
+
+ 
+
+17
+
+ 
+
+ 
+
+Informações sobre fundos providos por encargos setoriais
+
+ 
+
+55
+
+ 
+
+ 
+
+Informações sobre fundos de aval ou garantidores de créditos
+
+ 
+
+56
+
+ 
+
+ 
+
+Informações sobre fundos de investimento
+
+ 
+
+57
+
+ 
+
+ 
+
+Informações sobre a distribuição dos recursos do Fundo Partidário
+
+ 
+
+1
+
+ 
+
+ 
+
+Informações sobre a gestão do Fundo de Indenização ao Trabalhador Portuário Avulso - FITP
+
+ 
+
+68
+
+ 
+
+ 
+
+Informações sobre a gestão do Fundo de Investimento Setorial do Turismo - Fiset/Turismo
+
+ 
+
+68
+
+ 
+
+ 
+
+Informações sobre a gestão dos Fundos de Investimento Setoriais de Reflorestamento e de Pesca - Fiset/Reflorestamento e Fiset/Pesca
+
+ 
+
+68
+
+ 
+
+TÓPICOS ESPECIAIS DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA
+
+6
+
+ 
+
+ 
+
+ 
+
+Demonstração da execução das despesas
+
+6.1
+
+ 
+
+ 
+
+ 
+
+Informações sobre ações de publicidade e propaganda
+
+6.2
+
+ 
+
+ 
+
+ 
+
+Demonstração e justificação de eventuais obrigações assumidas sem respectivo crédito autorizado no orçamento
+
+6.3
+
+ 
+
+ 
+
+ 
+
+Demonstração da movimentação e saldos de restos a pagar de exercícios anteriores
+
+6.4
+
+ 
+
+ 
+
+ 
+
+Informações sobre transferências de recursos
+
+6.5
+
+47.b
+
+ 
+
+ 
+
+ 
+
+Integridade das informações dos contratos e convênios nos sistemas estruturantes da Administração Pública Federal
+
+11.5
+
+ 
+
+ 
+
+ 
+
+Informações sobre suprimento de fundos, contas bancárias tipo B e cartões de pagamento do governo federal
+
+6.6
+
+ 
+
+ 
+
+ 
+
+Informações sobre renúncia de receitas
+
+6.7
+
+ 
+
+ 
+
+ 
+
+ 
+
+Destaques sobre a renúncia tributária
+
+ 
+
+7
+
+ 
+
+ 
+
+Gestão de precatórios
+
+6.8
+
+ 
+
+ 
+
+ 
+
+Informações sobre auxílios a instituições públicas e privadas por intermédio de convênios
+
+ 
+
+11
+
+ 
+
+ 
+
+Informações sobre convênios firmados nos termos do inciso I do § 4º do art. 2º da Lei 8.387/1991
+
+ 
+
+14
+
+ 
+
+ 
+
+Informações sobre termos de cooperação firmados com a Organização Pan-Americana de Saúde/Organização Mundial da Saúde – OPAS/OMS
+
+ 
+
+26
+
+ 
+
+ 
+
+Informações sobre a lotação de servidores no setor encarregado de análise das prestações de contas
+
+ 
+
+28; 44
+
+ 
+
+ 
+
+Informações sobre ações de patrocínio
+
+ 
+
+30
+
+ 
+
+ 
+
+Informações sobre transferências de recursos às Agências de Correios Comunitárias (AGC)
+
+ 
+
+30
+
+ 
+
+ 
+
+Situação das obras realizadas em parceria com a Caixa Econômica Federal
+
+ 
+
+36; 51
+
+ 
+
+ 
+
+Acompanhamento das ações de responsabilidade da Caixa Econômica Federal previstas nos contratos para operacionalização de obras
+
+ 
+
+36; 50
+
+ 
+
+ 
+
+Informações sobre as principais obras e serviços de engenharia relacionados à atividade-fim
+
+ 
+
+54
+
+ 
+
+ 
+
+Informações sobre projetos de obras de audiovisual
+
+ 
+
+54.4
+
+ 
+
+ 
+
+Informações sobre a gestão das multas aplicadas em decorrência da atividade de fiscalização
+
+ 
+
+64
+
+ 
+
+ 
+
+Informações sobre projetos desenvolvidos pelas fundações de apoio
+
+ 
+
+65; 66; 67
+
+ 
+
+GESTÃO DE PESSOAS, TERCEIRIZAÇÃO DE MÃO DE OBRA E DESPESAS RELACIONADAS
+
+7
+
+ 
+
+ 
+
+ 
+
+Informações sobre a estrutura de pessoal
+
+7.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Informações específicas sobre o pessoal lotado na Coordenação-Geral de Inovação Tecnológica (CGIT/MCTI)
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+Informações específicas sobre o pessoal
+
+ 
+
+30
+
+ 
+
+ 
+
+Informações sobre as despesas com pessoal
+
+7.1.f
+
+ 
+
+ 
+
+ 
+
+Informações sobre os controles para mitigar riscos relacionados ao pessoal
+
+7.1.g, h
+
+ 
+
+ 
+
+ 
+
+ 
+
+Informações específicas relacionadas à acumulação de cargos objeto do Acórdão 2.919/2012-TCU-1ª Câmara
+
+ 
+
+27
+
+ 
+
+ 
+
+Informações sobre a contratação de mão de obra de apoio e sobre a política de contratação de estagiários
+
+7.2
+
+ 
+
+ 
+
+ 
+
+Informações sobre a revisão dos contratos vigentes firmados com empresas beneficiadas pela desoneração da folha de pagamento
+
+7.3
+
+ 
+
+ 
+
+ 
+
+Informações sobre as contratações de consultores no âmbito dos projetos de cooperação técnica com organismos internacionais
+
+ 
+
+58
+
+ 
+
+ 
+
+Controles internos relacionados à concessão de bolsas dos programas de estudantes
+
+ 
+
+22
+
+ 
+
+ 
+
+Informações sobre a concessão de Gratificações Temporárias das Unidades dos Sistemas Estruturadores da Administração Pública Federal - GSISTE
+
+ 
+
+23
+
+ 
+
+ 
+
+Informações sobre a cobrança de valores pagos indevidamente a servidores removidos em razão de missões permanentes ou provisórias
+
+ 
+
+23
+
+ 
+
+ 
+
+Demonstração das iniciativas de cobrança de valores pagos indevidamente a servidores removidos em razão de missões permanentes
+
+ 
+
+25
+
+ 
+
+ 
+
+Informações sobre contratos de mão de obra temporária
+
+ 
+
+30
+
+ 
+
+ 
+
+Informações sobre as entidades fechadas de previdência complementar patrocinadas
+
+ 
+
+63
+
+ 
+
+GESTÃO DO PATRIMÔNIO MOBILIÁRIO E IMOBILIÁRIO
+
+8
+
+ 
+
+ 
+
+ 
+
+Gestão da frota de veículos próprios e locados de terceiros
+
+8.1
+
+ 
+
+ 
+
+ 
+
+Gestão do patrimônio imobiliário da União
+
+8.2
+
+ 
+
+ 
+
+ 
+
+Demonstração da situação dos imóveis da União
+
+ 
+
+33
+
+ 
+
+ 
+
+Informações sobre a gestão dos ativos imobiliários e sobre o Plano Nacional de Desmobilização
+
+ 
+
+20
+
+ 
+
+ 
+
+Informações sobre imóveis locados de terceiros
+
+8.3
+
+ 
+
+ 
+
+GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
+
+9
+
+ 
+
+ 
+
+ 
+
+Informações sobre os principais sistemas computacionais
+
+9.1
+
+ 
+
+ 
+
+ 
+
+Informações sobre o Plano Diretor de Tecnologia da Informação – PDTI 2010/2014
+
+ 
+
+23
+
+ 
+
+ 
+
+Ações relacionadas à recuperação e modernização dos sistemas
+
+ 
+
+52
+
+ 
+
+GESTÃO DO USO DOS RECURSOS RENOVÁVEIS E SUSTENTABILIDADE AMBIENTAL
+
+10
+
+ 
+
+ 
+
+ 
+
+Adoção de critérios de sustentabilidade ambiental na aquisição de bens e na contratação de serviços ou obras
+
+10.1
+
+ 
+
+ 
+
+ATENDIMENTO DE EXIGÊNCIAS LEGAIS E NORMATIVAS E DEMANDAS DE ÓRGÃOS DE CONTROLE
+
+11
+
+ 
+
+ 
+
+ 
+
+Tratamento de determinações do TCU
+
+11.1
+
+ 
+
+ 
+
+ 
+
+Tratamento de recomendações do Órgão de Controle Interno
+
+11.2
+
+ 
+
+ 
+
+ 
+
+Cumprimento das obrigações relacionadas à entrega e ao tratamento das declarações de bens e rendas
+
+11.3
+
+ 
+
+ 
+
+ 
+
+Medidas administrativas para apuração de responsabilidade por dano ao Erário
+
+11.4
+
+ 
+
+ 
+
+ 
+
+Medidas administrativas e judiciais para a cobrança da dívida previdenciária e não previdenciária
+
+ 
+
+10
+
+ 
+
+ 
+
+Informações sobre o cronograma de substituição de trabalhadores terceirizados irregulares no âmbito da administração direta, autárquica e fundacional
+
+ 
+
+32
+
+ 
+
+ 
+
+Informações sobre a atuação em Benefícios de Prestação Continuada - BPC
+
+ 
+
+49
+
+ 
+
+ 
+
+Informações sobre a gestão de Certificados de Entidades Beneficente de Assistência Social 
+
+ 
+
+49
+
+ 
+
+ 
+
+Informações sobre o credenciamento das oficinas regionais de extintores de incêndio junto ao INMETRO
+
+ 
+
+39
+
+ 
+
+INFORMAÇÕES CONTÁBEIS
+
+12
+
+ 
+
+ 
+
+ 
+
+Tratamento contábil da depreciação, da amortização e da exaustão de itens do patrimônio e avaliação e mensuração de ativos e passivos
+
+12.1
+
+ 
+
+ 
+
+ 
+
+Sistemática de apuração de custos no âmbito da unidade
+
+12.2
+
+ 
+
+ 
+
+ 
+
+Informações sobre a conformidade contábil dos atos e fatos da gestão orçamentária, financeira e patrimonial
+
+12.3
+
+ 
+
+ 
+
+ 
+
+Declaração do contador sobre a fidedignidade dos registros contábeis no Sistema Integrado de Administração Financeira do Governo Federal – SIAFI
+
+12.4
+
+ 
+
+ 
+
+ 
+
+Demonstrações contábeis exigidas pela Lei 4.320/64 e notas explicativas
+
+12.5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Evidenciação do del-credere da Demonstração de Resultado do Exercício
+
+ 
+
+46
+
+ 
+
+ 
+
+ 
+
+Notas Explicativas conciliatórias dos regimes contábeis adotados (Lei 4.320/1964 e 6.404/1976)
+
+ 
+
+46
+
+ 
+
+ 
+
+Demonstrações contábeis exigidas pela Lei 6.404/76 e notas explicativas 
+
+12.6
+
+ 
+
+ 
+
+ 
+
+Revisão dos critérios adotados para classificação nos níveis de risco e de avaliação das provisões registradas nas demonstrações financeiras
+
+ 
+
+15
+
+ 
+
+ 
+
+Composição acionária do capital social e investimentos permanentes em outras sociedades 
+
+12.7
+
+ 
+
+ 
+
+ 
+
+Relatório do auditor independente sobre as demonstrações contábeis
+
+12.8
+
+ 
+
+ 
+
+ 
+
+Informações sobre as operações de financiamento
+
+ 
+
+46.a
+
+ 
+
+ 
+
+Demonstrativo específico sobre subsídios e resultado operacional
+
+ 
+
+52
+
+ 
+
+OUTRAS INFORMAÇÕES SOBRE A GESTÃO
+
+13
+
+ 
+
+ 
+
+CONSIDERAÇÕES FINAIS
+
+ 
+
+ 
+
+B.5.d
+
+ANEXOS E APÊNDICES
+
+ 
+
+ 
+
+B.6
+
+
+
+ANEXO II  DA  PORTARIA-TCU Nº 255, DE 28 DE AGOSTO DE 2015.
+
+
+Relação das unidades ou conjunto de unidades que devem apresentar o relatório de gestão de 2014 em documento único
+
+
+ Agência Nacional de Águas (Ana)
+
+ Banco do Brasil S.A. (BB)
+
+ Caixa Econômica Federal (CEF)
+
+ Comissão Executiva do Plano da Lavoura Cacaueira (Ceplac)
+
+ Companhia Nacional de Abastecimento (Conab)
+
+ Conselho de Fiscalização do Exercício Profissional (todos: Federais, regionais e estaduais)
+
+ Departamento Nacional de Infraestrutura de Transportes (DNIT)
+
+ Empresa Brasileira de Pesquisa Agropecuária (Embrapa)
+
+ Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama)
+
+ Instituto Nacional de Colonização e Reforma Agrária (Incra Sede)
+
+ Superintendência Regional do Instituto Nacional de Colonização e Reforma Agrária (Todas)
+
+ Instituto Nacional de Meteorologia (Inmet)
+
+ Organização Social com contrato de gestão (Todas)
+
+ Petróleo Brasileiro S.A. (Petrobras)
+
+ Secretaria-Executiva do Ministério da Agricultura, Pecuária e Abastecimento (SE/MAPA)
+
+ Secretaria-Executiva do Ministério do Desenvolvimento Agrário (SE/MDA)
+
+ Serviço Social Autônomo (Todos)
+
+
+
+

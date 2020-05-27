@@ -1,0 +1,889 @@
+Portaria
+152/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Avaliação de Impacto e Análises Quantitativas para Apoio às Ações de Controle Externo – Pitágoras (Fase I), nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Olívio Armando Cordeiro Júnior, matrícula nº 3854-7, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+(Publicada no DOU de 18/6/2008, Seção 2, p. 50)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+1.          Nome do gestor
+
+2.          Matrícula
+
+3.          E-mail
+
+4.          Ramal
+
+
+
+Olívio Armando Cordeiro Júnior
+
+3854-7
+
+olivioac@tcu.gov.br
+
+7894/78975.          Função do gestor
+
+
+
+ 6.          Gerente
+
+
+
+X7.          Coordenador
+
+
+
+ 8.          Líder
+
+9.          Nome do substituto eventual
+
+10.      Matrícula
+
+11.      E-mail
+
+12.      Ramal
+
+
+
+Melchior Sawaya Neto
+
+3175-5
+
+melchiorsn@tcu.gov.br
+
+7894/789713.      Local / telefone
+
+
+
+TCU, Secretaria-Geral de Controle Externo, Anexo I, sala 456.
+
+
+
+
+2. Identificação do projeto
+
+14.       Nome do projeto
+
+
+
+Projeto Pitágoras – Avaliação de Impacto e Análises Quantitativas para Apoio às Ações de Controle Externo15.       Período de realização
+
+16.       Unidade patrocinadora
+
+
+
+16/06/2008 a 16/06/2009
+
+Secretaria-Geral de Controle Externo - Segecex
+
+
+
+3. Vinculação estratégica
+17.       Plano estratégico do TCU (Portaria – TCU nº 02, de 05 de janeiro de 2006).
+
+
+
+a)       
+
+Objetivo Estratégico 2 – Contribuir para a melhoria do desempenho da administração pública;
+
+b)      
+
+Objetivo Estratégico 12 – Atuar de forma seletiva em áreas de risco e relevância.18.      Plano de diretrizes do TCU – biênio 2005-2006
+
+
+
+a)       
+
+Iniciativa estratégica 1: Aperfeiçoar, aplicar e avaliar metodologias de seleção e priorização das ações de controle;
+
+b)      
+
+Iniciativa estratégica 8: Adotar medidas no sentido de melhorar a qualidade dos trabalhos de controle externo.19.      Plano diretor da (unidade) – diretriz e medida
+
+
+
+a)       
+
+Iniciativa estratégica 1: Aperfeiçoar, aplicar e avaliar metodologias de seleção e priorização das ações de controle (1.6);
+
+b)      
+
+Iniciativa estratégica 3: Promover intercâmbio de informações, tecnologia, conhecimento e metodologias de trabalho e a realização de trabalhos conjuntos com órgãos públicos e entidades que subsidiem o exercício do controle (3.1);
+
+c)       
+
+Iniciativa estratégica 4: utilizar, de forma sistemática, informações constantes das bases de dados de órgãos e entidades públicas (4.1 e 4.4);
+
+
+
+
+4. Problema / oportunidade
+
+20.      Descrição do problema ou da oportunidade 
+
+ 
+
+Existe um diagnóstico bastante consistente na literatura acerca da necessidade do aperfeiçoamento de procedimentos adotados na administração pública brasileira, no sentido de prover a população de mais e melhores serviços, a custos compatíveis com a realidade fiscal nacional. São escassos os trabalhos de avaliação que permitem a identificação de ações governamentais não eficientes, demonstrando a sua real situação no que se refere ao cumprimento de metas, alcance de resultados e efetividade.  
+
+Existe uma crescente evolução na quantidade e complexidade das informações disponíveis para análise nos trabalhos de auditoria levados a cabo pelos analistas de controle externo. Esse fato representa, ao mesmo tempo, uma oportunidade e um desafio para as atividades de controle. Uma oportunidade, na medida em que permite a identificação de padrões, desvios de comportamentos e indícios de fraudes que de outra forma dificilmente seriam detectados. Um desafio, na medida em que  tratar esses dados e extrair as informações pertinentes exige conhecimento específico.
+
+A criação do grupo deverá fazer face a esse desafio, possibilitando às equipes de auditoria do TCU a utilização das técnicas adequadas para a identificação de desvios e ineficiências. 
+
+
+
+
+
+
+
+
+
+
+
+23.       Evolução do quadro (apresentar dados)
+
+                                         
+
+Em 1998 foram firmados dois acordos de cooperação entre o Governo Brasileiro e o Governo do Reino Unido da Grã Bretanha e Irlanda do Norte. As atividades foram financiadas com recursos do Department for International Development (DFID), ministério do Governo Britânico que tem como objetivo principal contribuir para a redução da pobreza extrema no mundo. 
+
+O primeiro acordo deu origem ao Projeto de Desenvolvimento de Técnicas de Auditoria de Natureza Operacional (Anop), que teve como finalidade contribuir para o aperfeiçoamento do desempenho do setor público e para melhor utilização dos recursos , mediante a implementação de recomendações do TCU elaboradas a partir de auditorias de natureza operacional. O objetivo imediato foi aperfeiçoar a capacidade do Tribunal na condução de auditorias operacionais e avaliação de programa, bem como no monitoramento da implementação de suas recomendações.
+
+Entre 1998 e 2006 foram realizadas, pelo TCU, 62 avaliações de programas, além de 30 relatórios finais de monitoramento, correspondentes às avaliações de 1998 a 2002. A experiência na realização dos monitoramentos mostrou a necessidade de evolução dos métodos utilizados para a identificação dos benefícios oriundos da implementação das recomendações, especialmente os benefícios quantificáveis. E surge, também, demanda crescente no sentido de que seja feita avaliação de impacto dos programas, ou seja, análises mais aprofundadas no sentido de identificar melhorias efetivas para a sociedade, oriundas da implementação do programa avaliado.
+
+De forma a viabilizar a capacitação adequada dos servidores do Tribunal de Contas da União para a realização dessas atividades de avaliação de impacto, foi assinado um contrato de doação entre o Banco Interamericano para a Reconstrução e Desenvolvimento (BIRD) e a República Federativa do Brasil, no valor de US$ 287.460, em 26 de março de 2008. Os recursos previstos na doação serão utilizados no âmbito do Projeto Pitágoras e permitirão a contratação de consultores para ministrar cursos de qualificação a servidores, bem como para o delineamento de estratégia a ser seguida pelo Tribunal nas atividades de avaliação de impacto. Ao final da vigência do contrato, três anos a contar da data de sua assinatura, deverá estar concluído um trabalho-piloto utilizando as metodologias estudadas.
+
+
+
+
+5. Escopo do projeto, base inicial
+
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+Implantar metodologias de avaliação de impacto de políticas públicas  e de análises quantitativas[1], a serem utilizadas nas ações de controle externo.
+
+
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+25.      META
+
+26.      Indicador
+
+27.      Produto
+
+Homologador
+
+28.      Objetivo específico
+
+29.      Quanto
+
+30.      Data de término
+
+
+
+1)        
+
+Qualificar servidores em metodologia de avaliação de impacto – Técnicas Econométricas em Avaliação de Impacto
+
+9
+
+23/06/2008
+
+Número de servidores capacitados 
+
+Capacitação em Técnicas Econométricas em Avaliação de Impacto
+
+Seprog
+
+2)        
+
+Qualificar servidores em metodologias de análise de PNAD/IBGE
+
+15
+
+05/09/2008
+
+Número de servidores capacitados 
+
+Capacitação em metodologias de análise de PNAD/IBGE
+
+Seprog
+
+3)        
+
+Qualificar servidores em metodologia de avaliação de impacto – Análise Cross Section
+
+15
+
+29/11/2008
+
+Número de servidores capacitados 
+
+Capacitação em Análise Cross Section
+
+Seprog
+
+4)        
+
+Qualificar servidores em metodologia de avaliação de impacto – Análise Panel Data
+
+15
+
+30/04/2009
+
+Número de servidores capacitados 
+
+Capacitação em  Análise Panel Data
+
+Seprog
+
+5)        
+
+Qualificar servidores em análise quantitativa de dados -  Introdução à Análise Quantitativa I
+
+25
+
+10/06/2008
+
+Número de servidores capacitados 
+
+Capacitação em Introdução à Análise Quantitativa I, ministrado por membro da equipe
+
+Seprog
+
+
+
+
+
+
+
+
+
+
+
+31.       META
+
+32.       Indicador
+
+33.       Produto
+
+Homologador
+
+34.       Objetivo específico
+
+Quanto
+
+Data de término
+
+
+
+6)     6)
+
+Qualificar servidores em análise quantitativa de dados - Introdução à Análise Quantitativa II
+
+15
+
+31/10/2008
+
+Número de servidores capacitados 
+
+Capacitação em Introdução à Análise Quantitativa II, ministrado por membro da equipe
+
+Seprog
+
+7)      
+
+Elaborar termo de referência para aquisição de 10 (dez) licenças de software estatístico análise de dados
+
+1
+
+20/06/2008
+
+Termo de referência para aquisição do software elaborado e aceito
+
+Termo de referência para aquisição do software
+
+UCP
+
+8)      
+
+Elaborar termo de referência para contratação de consultores externos para auxílio na realização de auditoria piloto[2]
+
+ 
+
+1
+
+18/07/2008
+
+Termo de referência para contratação de consultores  elaborado e aceito
+
+Termo de referência para contratação de consultores 
+
+UCP
+
+9)      
+
+Elaborar termo de referência para contratação de consultores externos para delineamento da  estratégia de avaliação de impacto no âmbito do TCU[3];
+
+2
+
+30/06/2008
+
+Termos de referência para contratação de consultores  elaborados e aceitos
+
+Termos de referência para contratação de consultores 
+
+UCP
+
+10)  
+
+Analisar o trabalho “Avaliação dos Fundos Constitucionais de Financiamento do Nordeste (FNE), do Norte (FNO) e do Centro-Oeste (FCO): 2003 a 2005[4];
+
+1
+
+06/03/2009
+
+Nota Técnica aceita entregue
+
+Nota Técnica sobre a avaliação dos fundos constitucionais
+
+Semag
+
+11)  
+
+Realizar, juntamente com a Seprog,  trabalho de auditoria de natureza operacional no Benefício de Prestação Continuada e Renda Mensal Vitalícia, com a utilização de métodos estatísticos para o tratamento de informações
+
+1
+
+30/09/2008
+
+Relatório de auditoria aceito encaminhado para o Ministro-relator
+
+Relatório de Auditoria
+
+Casos de uso dos métodos quantitativos testados
+
+Seprog
+
+
+
+
+
+
+
+
+
+
+
+35.       META
+
+36.       Indicador
+
+37.       Produto
+
+38.       Homologador
+
+39.       Objetivo específico
+
+Quanto
+
+Data de término
+
+
+
+12)  
+
+Realizar, juntamente com a Seprog,   trabalho de auditoria de natureza operacional no Programa Universidade para Todos e Fundo de Financiamento ao Estudante de Benefício de Prestação Continuada e Renda Mensal Vitalícia, com a utilização de métodos estatísticos para o tratamento de informações
+
+1
+
+30/09/2008
+
+Relatório de auditoria aceito encaminhado para o Ministro-relator
+
+Relatório de Auditoria
+
+Casos de uso dos métodos quantitativos testados
+
+Seprog
+
+13)  
+
+Elaborar levantamento com proposta de realização de  avaliação de impacto 
+
+1
+
+01/04/2009
+
+Proposta de avaliação de impacto avaliada a aceita[5]
+
+Proposta de avaliação de impacto[6]
+
+Seprog
+
+14)  
+
+Elaborar roteiro inicial de avaliação de impacto (estrutura básica)[7]
+
+1
+
+14/06/2009
+
+Roteiro entregue e aceito
+
+Roteiro inicial contendo metodologia de avaliação impacto
+
+Seprog/Adfis
+
+
+
+
+5.3. Benefícios (impacto esperado dos produtos do projeto)
+ 
+
+Utilização de métodos tecnicamente adequados nas atividades de coleta, análise e tratamento de dados e informações, com o uso de procedimentos estatísticos e de modelos econométricos; 
+
+Redução do grau de subjetividade na avaliação de efetividade de programas governamentais e análise de políticas públicas, com a utilização de embasamento estatístico; 
+
+Elaboração de  proposta de trabalho piloto de avaliação de impacto com o apoio de consultores externos; 
+
+Disponibilização às secretarias de controle externo de 10 (dez) licenças para rede do software estatístico para análise de dados.
+
+
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+Desenvolver sistemas informatizados para auxiliar na organização e análise de dados;
+
+b)
+
+Entregar o manual contendo a metodologia completa.
+
+
+
+
+
+
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+40.       Nome da parte envolvida
+
+41.       patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+42.       Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)         
+
+Segecex  
+
+Apoiar o projeto em suas ações e identificar a existência de oportunidades de realização de avaliações de impacto e análises quantitativas nas ações de controle externo por suas unidades.
+
+b)        
+
+Adfis/Adcon
+
+Contribuir tecnicamente para a identificação de oportunidades de realização de avaliações de impacto e análises quantitativas no âmbito do trabalhos de fiscalização incluídos no Plano de Fiscalização do Tribunal. 
+
+c)         
+
+Seprog
+
+Contribuir tecnicamente para a identificação de oportunidades de realização de avaliações de impacto e análises quantitativas nos levantamentos que a Secretaria está coordenando no âmbito dos TMS 4 e 5, com o objetivo de desenvolver uma estratégia de fiscalização para as funções de Educação e Assistência Social focadas em resultados.
+
+d)        
+
+ISC
+
+Fornecer apoio logístico e técnico para as atividades de capacitação e disseminação. 
+
+e)         
+
+UCP
+
+Apoiar tecnicamente a formatação do projeto, bem como a execução do mesmo, na contratação de serviços e aquisição de bens, bem como na interlocução com o Banco Mundial.
+
+f)         
+
+Setec
+
+Aquisição de servidor para processamento de dados e auxílio na elaboração do termo de referência para aquisição do programa de análise estatística de dados.
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+43.       Risco
+
+44.       Impacto
+
+45.       Probabilidade
+
+46.       de ocorrer
+
+47.       Ação para
+
+48.       (E) Evitar ocorrência do risco
+
+49.       (M) Mitigar ocorrência do risco
+
+50.       (R) Reduzir impacto do risco ocorrido
+
+51.       Responsável
+
+52.       pela ação
+
+
+
+1)        
+
+Eventual necessidade de alocação de membros da equipe para atividades não ligadas ao projeto;
+
+Alto
+
+Médio
+
+(R) adequar a participação de membros da equipe de forma a não prejudicar o andamento do projeto;
+
+Gestor
+
+2)        
+
+Falta de capacitação adequada para analistas participantes do projeto;
+
+Alto
+
+Baixa
+
+(E) Contratar cursos de capacitação em áreas chave para análise quantitativa de políticas públicas, principalmente em termos de cursos de estatística e econometria;
+
+Gestor
+
+3)        
+
+Não envolvimento das demais unidades do TCU.
+
+Médio
+
+Média
+
+(M) Divulgar o projeto nas unidades técnicas do Tribunal;
+
+(E) Articular a participação das Secretarias de Controle Externo no âmbito das ações desenvolvidas pelo Projeto.
+
+Gestor
+
+4)        
+
+Falta de capacitação tempestiva dos integrantes da equipe motivada por impossibilidade de contratação de treinamento ou por deserção do professor contratado.
+
+Alto
+
+Baixo
+
+(M) fazer as licitações com antecedência razoável;
+
+(R) convocar o 2º colocado no certame para suprir a eventual indisponibilidade do vencedor da licitação, caso ocorra algum problema que o impeça de ministrar o curso.
+
+Gestor
+
+5)       Não 
+
+Não liberação de servidores para os cursos de capacitação oferecidos
+
+Alto
+
+Média
+
+(M) realizar trabalho de sensibilização junto aos secretários de controle externo, explicando os benefícios que servidores capacitados em métodos quantitativos podem oferecer aos trabalhos de auditoria e de contas da unidade.
+
+Segecex
+
+
+
+
+
+
+
+
+
+
+8. Relação com outros projetos
+
+53.      Projetos predecessores
+
+54.      Projetos conexos
+
+55.      Projetos sucessores
+
+
+
+a) Projeto de Capacitação em Avaliação de Programas Públicos (1996);
+
+a) Projeto de apoio à modernização do TCU
+
+a) Projeto Pitágoras II[8]
+
+b) Aperfeiçoamento do Controle Externo com Foco na Redução de Desigualdade Social – CERDS (Reino Unido) (2002-2006);
+
+ 
+
+ 
+
+c) Projeto de Desenvolvimento de Técnicas de Auditoria de Natureza Operacional
+
+ 
+
+ 
+
+
+
+
+9. Equipe do projeto
+
+56.      Nome
+
+57.      Matrícula
+
+58.      Lotação
+
+59.      Período
+
+60.      Dedicação integral/ parcial / por atividade
+
+
+
+1)      
+
+Alipio Dias dos Santos Neto
+
+6605-2
+
+Seprog;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+2)      
+
+Ângelo Henrique Lopes da Silva
+
+4544-6
+
+Sefid;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+3)      
+
+Fábio Henrique Granja e Barros
+
+3844-0
+
+4ª Secex;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+4)      
+
+Melchior Sawaya Neto
+
+3175-5
+
+Sefid;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+5)      
+
+Olívio Armando Cordeiro Júnior
+
+3854-7
+
+Semag;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+1)      
+
+Romilson Rodrigues Pereira
+
+2844-4
+
+Segecex;
+
+16/06/2008 a 16/06/2009
+
+Integral
+
+
+10. Custos adicionais estimados
+61.      Recurso
+
+62.      Valor estimado
+
+63.      Data inicial de liberação do recurso
+
+                                      
+
+Banco Mundial
+
+US$ 287,460
+
+Já disponível                                      
+
+Tribunal de Contas da União
+
+US$ 105,100
+
+Já disponível66.      Total de custos estimados
+
+
+
+US$ 392,560
+
+ 
+
+
+Obs.: Os planos de aquisições a serem realizadas com os recursos do Banco Mundial e do TCU se encontram no Apêndice.
+
+
+
+
+11. Outros recursos necessários
+
+67.     Recurso
+
+68.     Fornecedor
+
+ 
+
+Sala equipada com 6 estações de trabalho, mesa de reuniões;
+
+Seprog 
+
+6 computadores e três impressoras (duas comuns e uma colorida).
+
+Seprog 
+
+Servidor p/ processamento e análise de grandes quantidades de dados
+
+Setec
+
+
+
+
+
+
+
+
+
+
+
+12. Finalização
+
+69.      Data
+
+70.      Assinatura do gestor do projeto
+
+
+
+Em ___/___/2008
+
+Olívio armando cordeiro júnior
+
+Coordenador do Projeto71.      Manifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2008.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segecex, em ___/___/2008
+
+Jorge pereira de macedo
+
+Secretário da Segecex72.      Manifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2008
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Avaliação de Impacto e Análises Quantitativas para Apoio às Ações de Controle Externo &#8211; Pitágoras (Fase I) e designa seu gestor.
+
+

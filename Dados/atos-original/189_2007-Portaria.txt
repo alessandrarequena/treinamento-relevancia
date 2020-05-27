@@ -1,0 +1,1011 @@
+Portaria
+189/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Processo Eletrônico Administrativo – Segedam Sem Papel, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Claudson Costa Adôrno, matrícula nº 2515-1, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projeto.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Claudson Costa Adôrno
+
+2515-1
+
+claudson@tcu.gov.br
+
+7555
+
+Função do gestor
+
+Origem da FC
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Função da Gestão de Projetos
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+José Luiz Torres Ferreira Costa
+
+3166-6
+
+josefc@tcu.gov.br
+
+7057
+
+Local / telefone
+
+Setec-Assessoria / (61) 3316-7555 / 8434-1970
+
+
+
+
+
+
+
+
+2. Identificação do projeto
+
+
+Nome do projeto
+
+Processo Eletrônico Administrativo – Segedam sem papel
+
+Período de realização
+
+Unidade patrocinadora
+
+13/08/2007 a 30/06/2008
+
+Segedam
+
+
+
+3. Vinculação estratégica
+
+
+Plano estratégico do TCU
+
+a)
+
+Objetivo estratégico do TCU nº 14: Aperfeiçoar instrumentos de controle e processos de trabalho.
+
+Indicador impactado pelo projeto: 
+
+Esforço médio de trabalho na apreciação de processos.
+
+b)
+
+Objetivo estratégico do TCU nº 21: Assegurar adequado suporte logístico às necessidades do TCU.
+
+Indicadores impactados pelo projeto:
+
+Índice de satisfação dos servidores com a estrutura logística do Tribunal; e
+
+Custo de escritório per capita.
+
+Plano de diretrizes do TCU
+
+a)
+
+Objetivo estratégico da perspectiva “processos internos”.
+
+Objetivo 4: Aperfeiçoar instrumentos de controle e processos de trabalho.
+
+Indicador impactado pelo projeto: Esforço médio de trabalho na apreciação de processos.
+
+b)
+
+Objetivo estratégico da perspectiva “orçamento e logística”.
+
+Objetivo 1: Assegurar adequado suporte logístico às necessidades do TCU.
+
+Indicador impactado pelo projeto: Índice de satisfação dos servidores com a estrutura logística do Tribunal.
+
+Plano estratégico da Segedam
+
+a)
+
+Objetivo estratégico da Segedam nº 2: Otimizar o tempo de resposta às demandas de produtos e serviços.
+
+Indicador impactado pelo projeto:
+
+Aumento do percentual de demandas por produtos e serviços estratégicos da Segedam, em determinado período, atendidas no prazo previamente estabelecido, em relação ao total de demandas por produtos e serviços estratégicos da Segedam existentes no período.
+
+b)
+
+Objetivo estratégico da Segedam nº 8: Aperfeiçoar a gestão de documentos, recursos logísticos e materiais.
+
+Indicador impactado pelo projeto:
+
+Aumento do percentual médio de satisfação dos servidores do Tribunal com a estrutura logística, medido por meio de pesquisa de satisfação dos servidores.
+
+Iniciativa estratégica nº 6: definir e implantar plano de sustentabilidade.
+
+c)
+
+Objetivo estratégico da Segedam nº 12: Ampliar o uso e a efetividade das soluções de TI para a área administrativa.
+
+Indicador impactado pelo projeto:
+
+Aumento do percentual médio de satisfação dos clientes em relação às soluções de TI disponibilizadas para a área administrativa, medido por meio de pesquisa de percepção dos clientes internos ao Tribunal.
+
+Iniciativa estratégica nº 11: definir e implantar melhorias nos sistemas informatizados de suporte à atividade administrativa.
+
+
+
+
+
+
+
+
+
+
+4. Problema / oportunidade
+
+
+Descrição do problema ou da oportunidade 
+
+a)
+
+A evolução da tecnologia da informação vem provocando sensíveis alterações no funcionamento do Estado, sob diferentes aspectos, como o armazenamento, tratamento e disseminação de informações e conhecimentos. Nesse contexto, observa-se uma tendência crescente no sentido da intensificação do uso de documentos e processos totalmente eletrônicos, ou seja, sem a utilização de papel. Iniciativas do governo Federal, tais como governo eletrônico, sistemas integrados de administração financeira e de pessoal, sistema de compras pela internet, certificação digital, entre outras, fortalecem a certeza de ampliação dessa tendência.
+
+Diante do ambiente descrito, surgem como potenciais oportunidades de fortalecimento da atuação da área administrativa do Tribunal, entre outras: a busca pelo aperfeiçoamento da gestão de documentos, a ampliação e redefinição de formas e processos de trabalho, o estreitamento dos canais de comunicação internos e externos, e a implementação de estratégia de desenvolvimento sustentável, que minimize ou elimine os impactos ao meio ambiente provocados pelas atividades de funcionamento do Tribunal de Contas da União e estimule a adoção de atitudes e procedimentos de uso racional dos recursos.
+
+Nesse sentido, o Tribunal promove atualmente um amplo processo de modernização administrativa, que pode ser observado em projetos predecessores tais como “Estratégia de desenvolvimento sustentável do TCU”, “Critérios de tratamento documental” e “Padronizar I e II”. Vislumbra-se agora, entre outras iniciativas, a adoção da gestão eletrônica de processos e documentos, em substituição à tradicional utilização de documentos em papel.
+
+b)
+
+O Tribunal possui atualmente várias soluções de TI disponíveis ou em desenvolvimento, tais como os sistemas Processus e Sisdoc, que podem ser utilizados para a viabilização do uso do meio eletrônico para concepção, instrução, deliberação e tramitação de processos e documentos. Entretanto é necessário haver uma coordenação de iniciativas, que permita a integração entre essas soluções de TI harmonicamente, possibilitando sua aderência aos processos de trabalho do Tribunal. Em decorrência disso, surgem também outras necessidades correlatas, tais como: preparação de arquitetura de TI e de ambientes de trabalho, redefinição das regras de concessão de perfis de acesso à informação, uso de certificação digital, normatização dos novos processos de trabalho, treinamento e aculturação de usuários. Essa coordenação de ações é necessária para evitar retrabalho e esforços isolados na tentativa de resolver os mesmos problemas, o que dificulta inclusive a integração entre as soluções desenvolvidas.
+
+c)
+
+A adoção de sistemática de processo eletrônico na área administrativa representa passo fundamental para o aproveitamento das oportunidades descritas, devido ao potencial impacto positivo sobre vários objetivos estratégicos do Tribunal e da Segedam, especialmente nas seguintes questões:
+
+A tempestividade na atuação do apoio administrativo prestado pela Segedam aos clientes é de extrema importância para conferir maior efetividade e relevância às ações de controle externo, bem como para ampliar a capacidade de resposta do TCU. Assim, a Segedam deve responder de forma célere, tempestiva e plena às demandas que lhe são apresentadas. Com a adoção do processo eletrônico, o tempo de resposta às demandas administrativas sofrerá uma queda significativa, devido à maior agilidade na instrução e tramitação dos processos.
+
+A adoção do processo eletrônico é uma ação que está intimamente ligada à ampliação do uso de soluções de TI no âmbito do Tribunal. A atividade de suporte administrativo apóia-se na realização intensa de procedimentos operacionais, e tem como insumo informação e conhecimento, elementos altamente dependentes de tecnologia da informação. O emprego apropriado dos recursos de informática pode tornar mais ágil e focada a atuação da Segedam, assim como pode ampliar a capacidade de resposta no cumprimento de suas competências institucionais.
+
+A gestão documental consiste na adequada organização, produção, circulação, armazenamento e acesso da informação, seja qual for o suporte em que ela é preservada. Neste caso, o meio eletrônico tem se mostrado o mais eficaz, eficiente e seguro. Por sua vez, a gestão dos recursos logísticos e materiais diz respeito à disponibilização de bens e de meios, com qualidade, agilidade e respeito aos princípios da sustentabilidade, a todos os que contribuem diretamente para o alcance da missão institucional. Nesse sentido, merecem destaque práticas de gestão ambientalmente sustentável das atividades administrativas como: redução do consumo de matéria-prima, de energia e de água; reciclagem e tratamento adequado de resíduos; redução de desperdícios e maximização do uso sustentável de recursos renováveis. O uso de processo eletrônico minimizaria o consumo de papel, toner e impressora.
+
+Evolução do quadro (apresentar fatos e dados)
+
+a)
+
+O Tribunal de Contas da União, em seus 117 anos de existência, sempre trabalhou com documentos e processos em papel. Até certo ponto de sua História, o uso desse meio físico para armazenamento e compartilhamento de informações e conhecimentos era aceitável e compatível com o nível de demandas a ele submetidas. Entretanto, o crescimento da estrutura do Tribunal e, conseqüentemente de sua atuação, trouxe um aumento exponencial de trabalho e da quantidade de documentos e processos que são manipulados pelos servidores da Casa.
+
+
+
+
+
+ 
+
+A quantidade de documentos e processos que tramitam no TCU cresceu tanto nas últimas décadas, que foi necessário desenvolver um sistema específico para o acompanhamento do trâmite e da localização dos processos e documentos no âmbito do Tribunal: o sistema Processus.
+
+Ocorre que o quantitativo de documentos e processos no Tribunal não para de crescer. E, apesar do sistema Processus oferecer o suporte logístico para o controle de tramitação e localização dos processos e documentos, a manipulação de tantos papéis têm gerado uma série de problemas:
+
+Geração de altos custos financeiros, operacionais e ambientais associados a impressão (impressoras, toner, papel), transporte (malotes, mensageiros), armazenamento (espaço físico) e recuperação de processos em papel.
+
+Morosidade na localização, manipulação, instrução e tramitação física dos processos e documentos;
+
+Trabalhos executados de forma manual, utilizando papéis, sem automatização/padronização de procedimentos e, portanto, com maior possibilidades de ocorrências de erros;
+
+Dificuldade de compartilhamento simultâneo de documentos e processos. Quando há essa necessidade, tramita-se o processo/documento de uma pessoa/unidade para outra, com posse exclusiva. Para o remetente ter acesso novamente ao processo/documento, há necessidade de nova tramitação (eletrônica e física). Dessa forma, aumenta-se o caminho do fluxo de trabalho em uma linha contínua e sempre crescente ao longo do tempo;
+
+Tratamento precário da segurança da informação. Os documentos e processos em papel estão expostos aos mais variados riscos de manipulações e acessos indevidos: 
+
+substituição indevida de documentos verídicos por falsos (falsificação de assinaturas);
+
+impossibilidade de limitar o acesso de leitura somente para que tem permissão;
+
+falta de histórico e controle de alterações de documentos;
+
+possibilidade de perdas, extrativos, furtos e destruições indevidas de processos e documentos;
+
+possibilidade de deterioração física de documentos em papel, seja por acidentes (molhar, queimar, rasgar, etc), seja pela própria ação do tempo;
+
+Felizmente a Tecnologia da Informação vem evoluindo e já tem condições de oferecer soluções para os problemas listados acima. Há no mercado, tanto em organizações públicas quanto privadas, uma tendência cada vez maior no sentido de se utilizar a Gestão Eletrônica de Documentos - GED. Nesse contexto, a adoção de sistemática de processo eletrônico pelo Tribunal representa passo fundamental rumo à solução dos problemas descritos.
+
+Nesse sentido, o Tribunal vem adotando iniciativas que visam cada vez mais a utilização de documentos eletrônicos, em substituição aos tradicionais documentos em papel. Exemplificando, recentemente a Segep contratou uma empresa especializada para realizar a digitalização das pastas funcionais dos servidores do Tribunal. Paralelamente, a Setec desenvolveu o sistema Sisdoc, que é uma ferramenta de GED aderente às necessidades e especificidades do TCU, estando inclusive integrada ao sistema Processus.
+
+Agora, além do controle de tramitação e localização de documentos e processos, via sistema Processus, o Tribunal dispõe também do sistema Sisdoc, que permite o tratamento totalmente eletrônico de documentos e processos, sem a utilização de papel.
+
+
+
+5. Escopo do projeto
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Implantar sistemática de documento e processo eletrônico na área administrativa do Tribunal.
+
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Definir e priorizar processos e documentos da Segedam e da Secoi para tratamento eletrônico.
+
+100%
+
+17/08/2007
+
+Relação aprovada de processos e documentos priorizados para tratamento eletrônico.
+
+Relação aprovada de documentos e processos passíveis de uso imediato via Sisdoc identificados.
+
+Relação de processos e documentos priorizados para tratamento eletrônico.
+
+Relação de documentos e processos passíveis de uso imediato via Sisdoc identificados.
+
+Segedam e Secoi
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+b)
+
+Treinar usuários no sistema Sisdoc, com vistas a possibilitar a gestão eletrônica de documentos e processos que são passíveis de uso imediato, no âmbito da Segedam e da Secoi.
+
+100%
+
+21/09/2007
+
+Usuários treinados / Total de usuários de documentos e processos administrativos priorizados.
+
+Usuários treinados.
+
+Segedam e Secoi
+
+c)
+
+Levantar requisitos de adaptações nos sistemas Sisdoc e Processus, considerando fluxos de tramitação de documentos e processos priorizados, bem como regras de segurança de acesso à informação, além de integrações com outras soluções de TI.
+
+100%
+
+14/12/2007
+
+Relatório aprovado de requisitos de adaptações nos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+Relatório de requisitos de adaptações nos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+Segedam e Secoi
+
+d)
+
+Incorporar as pastas funcionais digitalizadas à base de documentos eletrônicos administrativos do Tribunal.
+
+100%
+
+29/02/2008
+
+Pastas incorporadas / Total de pastas digitalizadas.
+
+Pastas funcionais digitalizadas e incorporadas à base de documentos eletrônicos administrativos do Tribunal.
+
+Segedam
+
+e)
+
+Implementar as adaptações necessárias nos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+100%
+
+30/05/2008
+
+Sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc) aprovados.
+
+Sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc) adaptados.
+
+Segedam e Secoi
+
+f)
+
+Treinar usuários no uso das novas funcionalidades dos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc), com vistas a possibilitar a gestão eletrônica de documentos e processos priorizados, no âmbito da Segedam e da Secoi.
+
+100%
+
+20/06/2008
+
+Usuários treinados / Total de usuários afetados pelas novas funcionalidades dos sistemas de apoio ao Processo Eletrônico Administrativo (Processus, Sisdoc, etc).
+
+Usuários treinados.
+
+Segedam e Secoi
+
+g)
+
+Elaborar proposta de Portaria que normatize o uso de documentos e processos eletrônicos administrativos, no âmbito do TCU.
+
+100%
+
+30/06/2008
+
+Minuta de Portaria aprovada
+
+Minuta de Portaria elaborada
+
+CCG
+
+h)
+
+Estudar a necessidade do uso da certificação digital para documentos e processos eletrônicos administrativos.[1]
+
+100%
+
+30/06/2008
+
+Relatório de estudo da necessidade do uso da certificação digital para documentos e processos eletrônicos administrativos aprovado.
+
+Relatório de estudo da necessidade do uso da certificação digital para documentos e processos eletrônicos administrativos elaborado.
+
+Segedam e Secoi
+
+
+
+
+
+5.3 Benefícios (impacto esperado dos produtos do projeto)
+
+
+a)
+
+Redução de custos financeiros, operacionais e ambientais associados a impressão (impressoras, toner, papel), transporte (malotes, mensageiros), armazenamento (espaço físico) e recuperação de processos em papel.
+
+b)
+
+Maior agilidade e qualidade na instrução e tramitação de documentos e processos administrativos, seja pela possibilidade de automação de rotinas de trabalho, pela facilidade de compartilhamento de documentos e pelo acesso virtual ao conteúdo e às informações.
+
+c)
+
+Maior facilidade de recuperação e visualização de documentos e peças de processos administrativos em meio eletrônico, inclusive com a possibilidade de concessão a interessados de permissão para acompanhamento de processos, em qualquer localidade do TCU ou por meio da Internet.
+
+d)
+
+Maior segurança das informações contidas em documentos e processos administrativos em meio eletrônico, mediante controle de permissões e histórico de acesso e alterações de documentos, o que evita, inclusive, eventuais perdas, furtos e destruições de processos e respectivos documentos. 
+
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+Automação de processos de Controle Externo.
+
+b)
+
+Mapeamento de processos de trabalho.
+
+c)
+
+Aquisição de scanners e certificados digitais.
+
+d)
+
+Adequação da infra-estrutura de TI (capacidade de armazenamento, velocidade de links de comunicação, processo de sustentação de serviços, inclusive o de certificação digital).
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+a)
+
+Segedam (patrocinador e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial;
+
+Recursos financeiros para:
+
+participações da equipe do projeto em eventos relacionados ao tema;
+
+pagamento de estagiário.
+
+b)
+
+Setec (parceiro e fornecedor)
+
+Um servidor para coordenar o projeto, com dedicação integral; e
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+c)
+
+Segep (parceiro e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+d)
+
+Semat (parceiro e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+e)
+
+Sesap (parceiro e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+f)
+
+Secof (parceiro e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+g)
+
+Secoi (parceiro e fornecedor)
+
+Um servidor para compor a equipe do projeto, com dedicação parcial.
+
+h)
+
+Projeto Atuar (parceiro)
+
+Integração das pastas funcionais digitalizadas com seus respectivos metadados à base de documentos eletrônicos do sistema Sisdoc.
+
+i)
+
+ISC (parceiro)
+
+Salas de aula com computadores ligados em rede, para treinamento dos usuários.
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+a)
+
+Falta de apoio das unidades envolvidas.
+
+Alto
+
+Baixa
+
+(E) Envolver todos os interessados nas discussões e definições.
+
+Coordenador
+
+b)
+
+Perda de recursos humanos, financeiros e físicos.
+
+Alto
+
+Baixa
+
+(R) Negociar redefinição de escopo e/ou prazo.
+
+Coordenador
+
+c)
+
+Infra-estrutura de TI não suportar o uso do sistema Sisdoc, no âmbito de todo o Tribunal.
+
+Alto
+
+Baixa
+
+(E) Investir continuamente na melhoria de infra-estrutura de TI.
+
+Setec
+
+
+
+
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+d)
+
+Indisponibilidade das partes envolvidas, para definição de adaptações necessárias nos sistemas Sisdoc e Processus.
+
+Alto
+
+Média
+
+(M) Agendar reuniões com antecedência.
+
+(E) Compromisso das partes com o projeto.
+
+Coordenador e
+
+Partes envolvidas
+
+e)
+
+Indisponibilidade de ambiente para treinamento em salas de aula do ISC, equipadas com computadores ligados em rede.
+
+Alto
+
+Média
+
+(E) Agendar treinamentos com antecedência junto ao ISC.
+
+(M) Realizar apresentações em salas de reuniões ou auditórios; e adiar os treinamentos para datas possíveis junto ao ISC.
+
+Coordenador
+
+f)
+
+Indisponibilidade do serviço de videoconferência, por eventuais problemas técnicos, para realização de treinamentos das Secex nos estados.
+
+Alto
+
+Baixa
+
+(E) Agendar videoconferências com antecedência e testar o serviço no dia anterior à realização.
+
+(M) Gravar treinamentos em vídeos e disponibilizá-los no Portal TCU.
+
+Coordenador
+
+e Setec
+
+g)
+
+Incompatibilidades técnicas entre as pastas funcionais digitalizadas com seus respectivos metadados, e a base de documentos eletrônicos do sistema Sisdoc.
+
+Alto
+
+Média
+
+(E) Negociar com a empresa contratada para digitalização das pastas funcionais, a adequação dos documentos com seus respectivos metadados aos padrões de documentos eletrônicos do sistema Sisdoc.
+
+(M) Em caso de negociação fracassada com a empresa, estudar a possibilidade de adequar o sistema Sisdoc, para comportar também as pastas funcionais digitalizadas com seus metadados, em outro padrão.
+
+(M) Caso não seja possível adequar o sistema Sisdoc, propor nova contratação para adequar as pastas funcionais digitalizadas com seus metadados, aos padrões da base de documentos eletrônico do sistema Sisdoc.
+
+Coordenador
+
+h)
+
+Prazo para digitalização das pastas funcionais pela empresa contratada ultrapassar o prazo de duração do projeto.
+
+Alto
+
+Média
+
+(M) Conhecer a estrutura de digitalização das pastas funcionais com seus metadados, para providenciar as adequações necessárias na base de documentos eletrônicos do sistema Sisdoc. Com isso, possibilita-se a futura migração.
+
+(R ) Negociar redefinição de escopo e/ou prazo.
+
+Coordenador
+
+i)
+
+Indisponibilidade de analistas da Setec, para implementação das adaptações necessárias nos sistemas Sisdoc e Processus.
+
+Alto
+
+Média
+
+(E) Envolver e comprometer a Setec com o projeto.
+
+Coordenador
+
+e 
+
+Setec
+
+j)
+
+Divergências entre dirigentes do TCU quanto às regras da Portaria que normatizará o uso de documentos e processos eletrônicos administrativos.
+
+Alto
+
+Baixa
+
+(E) Envolver todos os dirigentes das unidades da Segedam e da Secoi nas discussões sobre a minuta de Portaria, durante o andamento do projeto.
+
+Coordenador
+
+k)
+
+Necessidade de utilização de certificação digital para documentos e processos administrativos priorizados no projeto.
+
+Médio
+
+Média
+
+(M) Substituir, no escopo do projeto, o tipo de documento ou processo que exija certificação digital, por outro que não exija.
+
+Coordenador
+
+e  
+
+Partes envolvidas
+
+
+
+
+
+8. Relação com outros projetos
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+Estratégia de desenvolvimento sustentável do TCU;
+
+Padronizar I e II;
+
+Instrução Eletrônica Simplificada (IES);
+
+Critérios de tratamento documental.
+
+Atuar
+
+Segedam sem papel II;
+
+Certificação Digital;
+
+Segecex sem papel.
+
+
+
+9. Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+1.
+
+Claudson Costa Adôrno
+
+2515-1
+
+Setec
+
+13/08/2007 a 30/06/2008
+
+Integral
+
+2.
+
+José Luiz Torres Ferreira Costa
+
+3166-6
+
+Setec
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+3.
+
+Wilson Mauricio Paredes Ferreira Lima
+
+3041-4
+
+Secoi
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+4.
+
+Idalécio Jeferson Sousa
+
+5854-8
+
+Segedam
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+5.
+
+Adriano Ricardo e Silva
+
+6270-7
+
+Secof
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+6.
+
+Edmar Barreto Pereira
+
+1076-6
+
+Semat
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+7.
+
+Diogo Hideki Kotani
+
+6012-7
+
+Sesap
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+8.
+
+Marissol Marques Costa
+
+4561-6
+
+Segep
+
+13/08/2007 a 30/06/2008
+
+Parcial
+
+9.
+
+Estagiário
+
+-
+
+Segedam
+
+13/08/2007 a 30/06/2008
+
+Integral
+
+
+
+10. Custos adicionais estimados
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Alocação de um estagiário para auxiliar nas atividades do projeto (1 x 11 x R$ 700,00).
+
+R$ 7.700,00
+
+06/08/2007
+
+b)
+
+Participação em eventos relacionados ao tema e visita a outros órgãos (estimativa de inscrições, diárias e passagens).
+
+R$ 20.000,00
+
+21/01/2008
+
+Total de custos estimados
+
+R$ 27.700,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+11. Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+ 
+
+ 
+
+
+
+12. Finalização
+
+
+Data
+
+Assinatura do gestor do projeto
+
+Em ___/___/2007
+
+ 
+
+ 
+
+Claudson costa adôrno
+
+Coordenador do Projeto
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2007.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segedam, em ___/___/2007
+
+ 
+
+sérgio freitas de almeida
+
+Secretário-Geral de Administração
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2007
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Processo Eletrônico Administrativo &#8211; Segedam Sem Papel e designa seu gestor.
+
+

@@ -1,0 +1,156 @@
+Portaria
+561/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando o disposto no art. 1º, inciso I, alínea "g" da Lei Complementar nº 64, de 18 de maio de 1990, no art. 11, § 5º, da Lei nº 9.504, de 30 de setembro de 1997, e no art. 91 da Lei nº 8.443, de 16 de julho de 1992;
+
+
+considerando que a divulgação à sociedade das informações relativas a atuação de responsáveis pela gestão de recursos públicos submetidos ao controle do Tribunal de Contas da União está em harmonia com os princípios da publicidade e da supremacia do interesse público;
+
+
+considerando os procedimentos destinados ao atendimento de solicitações de certidão previstos na Resolução-TCU 259, de 7 de maio de 2014, em especial os previstos nos arts. 80 e 82; 
+
+
+considerando o disposto no art. 5º da Resolução-TCU 241, de 26 de janeiro de 2011, e 
+
+
+considerando as informações constantes do TC-017.875/2017-0, resolve:
+
+
+Art. 1º O Tribunal de Contas da União (TCU) manterá, em sistema informatizado, cadastro de responsáveis por contas julgadas irregulares (Cadirreg) com a relação histórica de todas as pessoas físicas e jurídicas que tiveram suas contas julgadas irregulares pelo TCU, a partir da data dos respectivos acórdãos condenatórios.
+
+
+§ 1º O cadastro de que trata o caput não possuirá limitação temporal e abrangerá responsáveis vivos ou falecidos, detentores ou não de cargo ou função pública, que tenham tido suas contas julgadas irregulares pelo TCU.
+
+
+Art. 2º Após deliberação do TCU que julgue irregulares as contas de responsável, as unidades técnicas competentes devem providenciar o registro das informações no Cadirreg.
+
+
+§ 1º Além do registro relativo ao julgamento de contas pela irregularidade, devem ser registradas no Cadirreg outras situações que possam alterar o cálculo do trânsito em julgado da condenação do responsável inicialmente incluído no Cadastro, tais como: 
+
+
+I - notificação e ciência da deliberação;
+
+
+II - interposição, admissibilidade e mérito de recursos;
+
+
+III - novas deliberações que resultem na exclusão de responsabilidade do responsável ou insubsistência de acórdão condenatório;
+
+
+IV - decisões judiciais que alterem, suspendam ou anulem o julgamento do responsável pela irregularidade.
+
+
+§ 2º O Cadirreg conterá, entre outras, as seguintes informações:
+
+
+I - identificação do responsável com nome e CPF ou CNPJ, conforme o caso;
+
+
+
+
+
+II - número do processo;
+
+
+III - número e data da deliberação;
+
+
+IV - órgão a que se vincula e cargo ou função do responsável, se houver;
+
+
+V - situação do processo;
+
+
+VI - data do trânsito em julgado.
+
+
+Art. 3º Compete à Secretaria-Geral de Controle Externo (Segecex) organizar e manter permanentemente atualizado o Cadirreg.
+
+
+§ 1º Compete à Secretaria Adjunta de Controle Externo (Adgecex), gestora do sistema, por meio do Serviço de Cadastros e Cobrança Executiva (Scbex), as atividades de:
+
+
+I - coordenação das tarefas das demais unidades técnicas da Segecex;
+
+
+II - revisão dos dados cadastrados a cada 90 (noventa) dias; e
+
+
+III - registro de situações especiais, como decisões judiciais, a pedido das demais unidades técnicas.
+
+
+§ 2º Compete à Secretaria de Gestão de Informações para o Controle Externo (SGI), por meio do Serviço de Cadastramento de Informações Radar/Cadirreg (Secinf), o registro das informações referentes aos acórdãos do TCU.
+
+
+§ 3º Compete às demais unidades técnicas da Segecex providenciar o registro das outras situações relativas a respectiva clientela, em especial do trânsito em julgado, e das informações relativas à interposição, admissibilidade e mérito de recursos.
+
+
+Art. 4º As informações contidas no Cadirreg são de caráter público e serão disponibilizadas em lista no Portal do TCU, segundo a política de dados abertos.
+
+
+§ 1º A lista de responsáveis com contas julgadas irregulares disponibilizada no Portal do TCU será extraída do Cadirreg e conterá, no mínimo, os seguintes dados:
+
+
+I - identificação do responsável (nome e CPF ou CNPJ);
+
+
+II - número do processo no TCU que ocorreu o julgamento das contas pela irregularidade;
+
+
+III - acórdãos proferidos no processo;
+
+
+IV - identificação da unidade jurisdicionada do processo e do cargo ou função que o responsável ocupava à época da irregularidade, se for o caso;
+
+
+V - data do trânsito em julgado.
+
+
+§ 2º As informações inseridas na lista de responsáveis com contas julgadas irregulares ficarão disponíveis por tempo indeterminado.
+
+
+§ 3º Será excluído da lista de responsáveis com contas julgadas irregulares, disponibilizada no Portal do TCU, o responsável que tenha tido excluída sua responsabilidade por conta julgada irregular, aquele cujo acórdão condenatório tenha sido tornado insubsistente ou o responsável cuja inclusão no Cadirreg tenha sido suspensa em razão de decisão judicial.
+
+
+§ 4º A exclusão de responsáveis de que trata o § 3º deste artigo não se refere à exclusão do registro do responsável no Cadirreg, mas apenas da lista de responsáveis com contas julgadas irregulares disponibilizada no Portal do TCU.
+
+
+§ 5º Os responsáveis não constantes da lista de responsáveis com contas julgadas irregulares poderão emitir Certidão Negativa de Contas Julgadas Irregulares no Portal do TCU.
+
+
+
+
+
+
+
+
+§ 6º Compete à Secretaria de Métodos e Suporte ao Controle Externo (Semec) manter disponibilizada no Portal do TCU a lista de responsáveis com contas julgadas irregulares, bem como a funcionalidade para emissão de certidão negativa. 
+
+
+Art. 5º A Semec, no prazo de 60 (sessenta) dias contados da publicação desta Portaria, procederá à implementação da solução de tecnologia da informação necessária ao cumprimento do disposto neste normativo.
+
+
+Art. 6º Fica a Segecex autorizada a editar os atos normativos necessários ao cumprimento do disposto nesta Portaria.
+
+
+Art. 7º Fica revogada a Portaria-TCU nº 346, de 31 de outubro de 2001.
+
+
+RAIMUNDO CARREIRO
+
+
+    Cláudio Souza Castello Branco
+
+
+Secretário-Geral de Controle Externo
+
+
+
+Não consta revogação expressa
+Dispõe sobre o Cadastro de Responsáveis por Contas Julgadas Irregulares (Cadirreg) e dá outras providências.
+
+

@@ -1,0 +1,202 @@
+Instrução Normativa
+68/2011
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regimentais,
+
+
+considerando o poder regulamentar, conferido ao Tribunal pelo art. 3º da Lei nº 8.443, de 16 de julho de 1992, para expedir instruções e atos normativos sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos;
+
+
+considerando a implantação, no âmbito do Tribunal, de sistemática processual baseada em utilização de documentos arquivados no formato eletrônico, de modo a facilitar o acesso da sociedade aos serviços prestados pela organização e a aprimorar o atendimento oferecido aos cidadãos;
+
+
+considerando o disposto na Medida Provisória nº 2.200-2, de 24 de agosto de 2001, que institui a Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), para garantir a autenticidade, a integridade e a validade jurídica de documentos eletrônicos;
+
+
+considerando que os documentos em meio eletrônico produzidos com a utilização de processo de certificação disponibilizado pela ICP-Brasil presumem-se verdadeiros em relação aos signatários, na forma do art. 219 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e
+
+
+considerando a necessidade de disciplinar o recebimento de documentos a serem protocolados junto ao Tribunal, resolve:
+
+
+CAPÍTULO I
+
+
+DISPOSIÇÕES GERAIS
+
+
+Art. 1º O recebimento de documentos a serem protocolados junto ao Tribunal de Contas da União (TCU) é disciplinado por esta Instrução Normativa, observada a legislação vigente.
+
+
+Art. 2º Para os efeitos desta Instrução Normativa, entende-se por usuário qualquer pessoa física ou jurídica que tenha acesso, de forma autorizada, ao serviço de protocolo eletrônico disponibilizado pelo TCU.
+
+
+Art. 3º Os cidadãos e entidades interessados em protocolar documento junto ao TCU, bem como as pessoas e entes a ele jurisdicionados, legalmente responsáveis por prestar informações ao Tribunal, devem encaminhar os respectivos documentos em meio eletrônico, ressalvado o disposto nos artigos 4º e 12 desta norma.
+
+
+Art. 4º Em caráter excepcional, havendo a impossibilidade de o interessado encaminhar os documentos em meio eletrônico, poderá ser protocolada no TCU cópia em papel ou, quando couber, segunda via do respectivo documento.
+
+
+§ 1º Somente serão recebidos, pelo TCU, documentos originais em papel quando houver determinação legal para tal procedimento.
+
+
+§ 2º Cabe ao interessado a guarda, pelo prazo legal pertinente, do documento original cuja cópia em papel ou segunda via for protocolada junto ao TCU.
+
+
+§ 3º Após o recebimento, o TCU providenciará a conversão do documento em papel para o meio eletrônico, observada a devida certificação digital que garanta a fidedignidade da versão eletrônica com o documento apresentado.
+
+
+§ 4º O TCU efetivará, para as cópias de documento em papel ou segundas vias, guarda temporária por até seis meses e posterior descarte.
+
+
+§ 5º Objetos protocolados no TCU, para fins de constituir peça em processo, cuja digitalização não seja tecnicamente viável, serão, quando possível, convertidos, pelo Tribunal, em arquivo eletrônico por meios alternativos, de modo a viabilizar a inserção nos autos eletrônicos, cabendo, posteriormente, a devolução desses objetos ao respectivo fornecedor.
+
+
+§ 6º Quando do protocolo de documento em papel, o TCU entregará comprovante de recebimento, no qual constará, quando se tratar de cópias em papel ou de segundas vias, aviso sobre a guarda temporária por até seis meses e o posterior descarte.
+
+
+Art. 5º O encaminhamento de documentos em meio eletrônico é feito mediante utilização de serviço de protocolo eletrônico disponível no Portal do Tribunal na Internet (Portal TCU).
+
+
+§ 1º Para utilização do serviço de protocolo eletrônico é necessário prévio credenciamento do usuário.
+
+
+§ 2º O credenciamento é ato pessoal e dar-se-á a partir de solicitação efetuada por meio do Portal TCU.
+
+
+§ 3º Norma do TCU deve disciplinar o credenciamento de usuários e a utilização do serviço de protocolo eletrônico.
+
+
+Art. 6º Os documentos eletrônicos recebidos pelo Tribunal devem atender aos requisitos de autenticidade, integridade e validade jurídica preconizados pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) ou assegurados, para casos específicos e nos termos da lei, mediante assinatura por login e senha.
+
+
+§ 1º O envio de documentos por meio eletrônico e com assinatura baseada em certificado digital, de uso pessoal e intransferível, emitido por autoridade certificadora credenciada à ICP-Brasil ou, para casos específicos, mediante assinatura por login e senha, dispensa a apresentação posterior de originais, cópias autenticadas ou segundas vias, ressalvada a hipótese de arguição de falsidade do documento eletrônico.
+
+
+§ 2º O Tribunal indicará quais documentos poderão ter a assinatura eletrônica viabilizada mediante login e senha, observada a legislação em vigor.
+
+
+CAPÍTULO II
+
+
+DO PROTOCOLO ELETRÔNICO
+
+
+Art. 7º O serviço de protocolo eletrônico expedirá, eletronicamente, ao emitente, protocolo comprovante da entrega do documento registrado.
+
+
+§ 1º As seguintes informações constarão, necessariamente, do comprovante:
+
+
+I – o número de protocolo gerado;
+
+
+II – a data e o horário do recebimento do documento; e
+
+
+III – a identificação quanto à origem do documento.
+
+
+§ 2º O comprovante físico de protocolo deverá ser emitido pelo usuário em consulta ao serviço de protocolo eletrônico no Portal TCU.
+
+
+Art. 8º São de exclusiva responsabilidade do usuário:
+
+
+I – o sigilo da senha relativa à assinatura digital, não sendo oponível, em qualquer hipótese, alegação de uso indevido;
+
+
+II – a equivalência entre os dados informados para o envio do documento e os constantes do documento protocolado;
+
+
+III – a edição dos documentos enviados em conformidade com as especificações técnicas estabelecidas pelo TCU em norma específica, no que se refere à formatação e tamanho do arquivo enviado; e
+
+
+IV – o acompanhamento da divulgação dos períodos em que o protocolo eletrônico não estiver em funcionamento em decorrência de indisponibilidade técnica do serviço.
+
+
+Parágrafo único. A não-obtenção de acesso ou credenciamento no Portal TCU, bem como eventual defeito de transmissão ou recepção de dados, não-imputáveis à falha do serviço de protocolo eletrônico do Tribunal não servirão de escusa para o descumprimento dos prazos legais.
+
+
+Art.9º Considera-se realizado o envio eletrônico de documentos no dia e hora do respectivo registro eletrônico constante no comprovante de protocolo, conforme horário oficial de Brasília.
+
+
+Art. 10. O funcionamento do protocolo eletrônico ocorrerá no horário das oito às vinte horas dos dias úteis, observado o horário oficial de Brasília, ressalvada a ocorrência de eventuais indisponibilidades técnicas do serviço.
+
+
+§ 1º Quando a entrega de documentos tiver que ser praticada em determinado prazo, é considerada tempestiva aquela efetivada, mediante protocolo eletrônico no Portal TCU, durante o horário previsto no caput.
+
+
+§ 2º Incumbe ao usuário observar o horário estabelecido para recebimento como sendo o horário oficial de Brasília, devendo atentar para as diferenças de fuso horário existente no país.
+
+
+Art. 11. Na hipótese de indisponibilidade do serviço de protocolo eletrônico no Portal TCU, devem ser adotadas as seguintes providências:
+
+
+I – nas interrupções programadas determinadas por autoridade competente do TCU: as medidas indicadas no ato que as anunciar; e
+
+
+II – nos demais casos: o registro da ocorrência no Portal TCU, com a indicação da data e hora do início e do término da indisponibilidade técnica.
+
+
+§ 1º No último dia do prazo para envio do documento eletrônico, se houver indisponibilidades superiores a trinta minutos, ocorridas após as dezesseis horas, e por qualquer tempo, após as dezenove horas, o serviço de protocolo eletrônico providenciará a prorrogação automática para o primeiro dia útil seguinte à resolução do problema, e efetuará o registro da respectiva ocorrência, em consonância com o § 2º do art. 10 da Lei nº 11.419, de 19 de dezembro de 2006.
+
+
+§ 2º Considera-se indisponibilidade por motivo técnico a interrupção de acesso ao protocolo eletrônico no Portal TCU decorrente de falha nos serviços de tecnologia da informação (TI) providos pelo Tribunal ou na conexão com a Internet, devidamente atestada pelo TCU.
+
+
+§ 3º Não é considerada indisponibilidade técnica a impossibilidade de acesso ao protocolo eletrônico no Portal TCU que decorrer de falha nos equipamentos ou soluções de TI dos usuários, ou em suas conexões com a Internet.
+
+
+CAPÍTULO III
+
+
+DISPOSIÇÕES FINAIS
+
+
+Art. 12. Até a entrada em funcionamento do serviço de protocolo eletrônico no Portal TCU, os documentos devem ser protocolados mediante recebimento, pelo Tribunal, de cópia em papel dos originais ou, quando couber, da segunda via, salvo quando a entrega do original for exigível por determinação legal.
+
+
+Parágrafo único. O início do funcionamento do serviço de protocolo eletrônico no Portal TCU deve ser precedido de ampla divulgação pelo Tribunal.
+
+
+Art. 13. O uso indevido do protocolo eletrônico no e-TCU fica sujeito à apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 14. Os casos omissos desta Instrução Normativa serão resolvidos pelo Presidente do TCU.
+
+
+Art. 15. Esta Instrução Normativa entra em vigor sessenta dias após sua publicação.
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 25 de outubro de 2011.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o recebimento de documentos a serem protocolados junto ao Tribunal de Contas da União.
+
+

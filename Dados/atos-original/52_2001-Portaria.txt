@@ -1,0 +1,319 @@
+Portaria
+52/2001
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e considerando o teor da Decisão nº 1.122/2000-TCU- Plenário, de 13/12/2000, resolve:
+
+
+Art. 1º Fica aprovado, conforme modelo anexo, o demonstrativo da nova sistemática para atualização monetária e cálculo dos juros de mora incidentes sobre débitos e multas impostos pelo Tribunal de Contas da União, a ser utilizado pelas unidades da Secretaria-Geral de Controle Externo.
+
+
+Art. 2º Compete à Secretaria de Tecnologia da Informação - Setec coordenar a distribuição do programa para microcomputadores, desenvolvido para a emissão do demonstrativo de que trata o artigo anterior, bem como disponibilizá-lo na homepage deste Tribunal.
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+Art. 4º Revoga-se a Portaria nº 530, de 23 de setembro de 1996.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obs.: Publicado in BTCU nº 010, de 12 de fevereiro de 2001
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova modelo de demonstrativo da nova sistemática para atualização monetária e cálculo dos juros de mora incidentes sobre débitos e multas impostos pelo Tribunal e dá outras providências.
+
+ANEXO À PORTARIA Nº 52-GP
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+SECRETARIA DE CONTROLE EXTERNO
+
+DEMONSTRATIVO DE DÉBITO
+
+
+
+(Art. 28 c/c os arts. 24 e 23, III, b da Lei n° 8.443/92, c/c os arts. 1°, 2° e 3° da Lei n° 6.822/80)
+
+
+
+(De acordo com a Decisão 1.122/2000 TCU - Plenário)
+
+
+
+Responsável (eis):
+
+
+
+
+MODELOFunção (ões):
+
+
+
+
+Origem(ens) do débito: 
+
+
+
+
+Período:
+
+
+
+
+
+HISTÓRICO
+
+
+
+Data Evento
+
+D/C
+
+Moeda
+
+Valor
+
+Valor Atualizado 
+
+Dedução Recolh.
+
+Total do Valor
+
+Juros
+
+Juros Atualizados
+
+Dedução Recolh
+
+Total de Juros
+
+01/04/1964 
+
+D
+
+Cr$
+
+0,0
+
+0,00
+
+0.00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+31/03/2001 
+
+-
+
+R$
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+
+
+
+
+
+ 
+
+Débito(s) referente(s) ao processo nº TC -
+
+ 
+
+Cr$
+
+001)
+
+Conversão do Principal para Cruzeiros Novos, dividindo-se o valor de Cr$___________ por 1000 (Decreto-lei nº 1, de 13.11.65, in DOU de 17.11.65)
+
+ 
+
+ 
+
+NCr$
+
+002)
+
+Conversão do Principal para Cruzeiros, dividindo-se o valor de NCr$ _______ por 1 (Resolução BACEN n° 144, de 31.03.70, in DOU de 06.04.70 (Parte II)
+
+ 
+
+Cr$  
+
+003)
+
+Conversão do Principal para Cruzados, dividindo-se o valor de Cr$ _________ por 1000 (Decreto-lei nº 2.284/86, in DOU de 11.03.86)
+
+ 
+
+ 
+
+Cz$
+
+004)
+
+Conversão do Principal  para Cruzados Novos, dividindo-se o  valor de Cz$ __________   por 1000 (Lei nº 7.730/89, in DOU de 01.02.89)
+
+ 
+
+NCz$  
+
+005)
+
+Conversão do Principal para Cruzeiros, dividindo-se o valor de NCz$ ________ por 1 (Lei nº 8.024/90, in DOU de 13.04.90)
+
+ 
+
+ 
+
+Cr$
+
+006)
+
+Conversão do Principal para Cruzeiros Reais, dividindo-se o valor de Cr$____________  por  1000  (Lei nº 8.697/93, in DOU de 28.08.93)
+
+ 
+
+ 
+
+CR$
+
+007)
+
+Conversão do Principal para Reais, dividindo-se o valor de CR$ _________por 2.750 (Lei nº 9.069/95, in DOU de 30.06.95)
+
+ 
+
+R$  
+
+008)
+
+Juros de Mora de ___________ equivalentes a 1% do mês-calendário ou fração, calculados sobre o valor de R$ _____________, contados a partir de _________.
+
+ 
+
+ 
+
+R$
+
+008. a)
+
+Total Geral – obtido pela soma do Principal (R$ ___________) com os juros no valor de    (R$ __________)
+
+ 
+
+R$
+
+
+
+
+
+
+
+
+
+
+

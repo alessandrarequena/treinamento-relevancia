@@ -1,0 +1,212 @@
+Portaria
+127/2016
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas atribuições legais e regimentais, e tendo em vista o disposto no inciso XXXIV do art. 28 do Regimento Interno do TCU,
+
+
+Considerando a importância estratégica da divulgação tempestiva e orientada ao público-alvo de informações e serviços inerentes à atuação do Tribunal de Contas da União;
+
+
+Considerando a necessidade de simplificar e de facilitar a consulta aos conteúdos do Portal TCU e o acesso a serviços e informações por parte do cidadão;
+
+
+Considerando a importância de descentralizar e disciplinar a gestão de conteúdos no Portal TCU para garantir a atualização tempestiva e para promover acesso integrado e padronizado aos produtos e serviços de informação do Tribunal;
+
+
+Considerando a necessidade de otimizar o uso de recursos e evitar sobreposição de iniciativas relacionadas à gestão de conteúdos no Portal TCU;
+
+
+Considerando o disposto na Lei nº 12.527, de 18 de novembro de 2011, que estabelece o acesso à informação previsto na Constituição Federal; no Decreto nº 8.638 de 15, de janeiro de 2016, que institui a Política de Governança Digital no âmbito dos órgãos e entidades da administração pública federal direta, autárquica e fundacional; no Decreto nº 5.296, de 2 de dezembro de 2004, que trata de normas gerais e critérios básicos para promoção da acessibilidade; e no Decreto nº 6.932, de 11 de agosto de 2009, que dispõe sobre a simplificação do atendimento público prestado ao cidadão;
+
+
+Considerando a necessidade de aperfeiçoar a comunicação institucional e a gestão de relacionamento com o público externo, em consonância com os objetivos da Iniciativa de Desenvolvimento (IDI) da Organização Internacional de Entidades Fiscalizadoras Superiores (Intosai); e
+
+
+Considerando os estudos e pareceres constantes do processo nº TC-000.761/2016-8, resolve:
+
+
+
+Art. 1º  A gestão de conteúdos e o funcionamento do Comitê Gestor do Portal TCU observam ao disposto nesta Portaria e a legislação inerente à matéria.
+
+
+Art. 2º  Para fins do disposto neste normativo, entende-se por:
+
+
+I – conteúdo: dados ou informações publicados no Portal TCU, constantes de arquivos, imagens, vídeos, textos, hiperlinks e outros tipos e formatos;
+
+
+II – área de conteúdo: espaço do Portal TCU destinado à publicação de conteúdo;
+
+
+III – taxonomia: lista de assuntos hierarquizada em forma de árvore de temas tratados pelo TCU;
+
+
+IV – unidade gestora de conteúdo: unidade da Secretaria do Tribunal responsável por zelar pela publicação e atualização de conteúdos em áreas do Portal TCU;
+
+
+V – gestor de conteúdo: servidor responsável pela aprovação e publicação de conteúdos em áreas do Portal TCU;
+
+
+VI – provedor de conteúdo: servidor responsável pela inclusão de conteúdos em áreas preestabelecidas do Portal TCU, pela classificação temática de acordo com a taxonomia estabelecida e pelo preenchimento de formulários de publicação;
+
+
+VII – autosserviço: serviço disponibilizado em meio digital que pode ser utilizado pelo próprio cidadão, sem auxílio do TCU; e
+
+
+VIII – público de relacionamento: pessoas ou instituições que são impactadas, positiva ou negativamente, pela atuação, produtos ou serviços do TCU.
+
+
+Art. 3º  A arquitetura de informação e a organização das áreas de conteúdo e de serviços no Portal TCU devem ser orientadas pelos princípios de foco nas necessidades do usuário de serviços e informações, da padronização visual, da acessibilidade, da usabilidade, da utilidade, da simplicidade, da transparência e da oferta de dados abertos e de autosserviços.
+
+
+Art. 4º  A gestão de conteúdos no Portal TCU é realizada de forma descentralizada pelas unidades da Secretaria do Tribunal, denominadas unidades gestoras de conteúdo, em alinhamento às diretrizes e orientações estabelecidas pelo Comitê Gestor do Portal.
+
+
+§ 1º  Cabe à unidade gestora de conteúdo indicar um ou mais servidores para atuar como gestor e provedor de conteúdo.
+
+
+§ 2º  A definição da gestão das áreas de conteúdo do Portal TCU observará, sempre que possível, as competências das unidades.
+
+
+§ 3º  A administração do cadastro de gestores e provedores de conteúdo é de responsabilidade da Secretaria de Soluções de Tecnologia da Informação.
+
+
+§ 4º  O treinamento de gestores e de provedores de conteúdo será realizado pelo Instituto Serzedello Corrêa, em conjunto com a Secretaria de Soluções de Tecnologia da Informação.
+
+
+Art. 5º  O Comitê Gestor do Portal TCU é órgão colegiado de natureza consultiva e deliberativa e tem por finalidade coordenar a formulação e a execução das diretrizes de organização, de arquitetura da informação e de gestão de conteúdos do portal TCU.
+
+
+§ 1º  O Comitê Gestor do Portal TCU é composto pelos dirigentes das seguintes unidades da Secretaria do Tribunal:
+
+
+I – Secretaria de Comunicação (Secom);
+
+
+II – Secretaria-Geral Adjunta da Presidência (Adgepres);
+
+
+III – Secretaria de Gestão de Informações para o Controle Externo (Seginf);
+
+
+IV – Secretaria de Gestão de Soluções de TI para a Administração (Seadmin);
+
+
+V – Secretaria de Soluções de Tecnologia da Informação (STI); e
+
+
+VI – Instituto Serzedello Corrêa (ISC).
+
+
+§ 2º  O Comitê a que se refere este artigo é coordenado pelo dirigente da Secretaria de Comunicação.
+
+
+§ 3º  Para fins do disposto neste artigo, o dirigente de unidade poderá designar suplente para representá-lo no Comitê.
+
+
+§ 4º  As deliberações do Comitê serão tomadas por maioria simples dos membros.
+
+
+§ 5º  Ato do Comitê disporá sobre o seu funcionamento.
+
+
+Art. 6º  Compete ao Comitê Gestor do Portal TCU:
+
+
+I – definir padrões, diretrizes e elaborar orientações inerentes à arquitetura de informação, à gestão de conteúdo, à usabilidade, à disponibilidade, à atualidade e à acessibilidade dos conteúdos a serem publicados no Portal TCU;
+
+
+II – definir as áreas de conteúdo do Portal TCU e indicar unidades responsáveis pela gestão e atualização de conteúdo;
+
+
+III – autorizar alterações na estrutura, leiaute, identidade visual, taxonomia, áreas de conteúdo e público de relacionamento do portal;
+
+
+IV – deliberar sobre tipos e formatos de conteúdo a serem publicados no portal;
+
+
+V – deliberar sobre a desativação, por decurso de prazo, de páginas ou áreas de conteúdo criados com fim específico;
+
+
+VI – deliberar sobre a retirada de conteúdos publicados que infrinjam diretrizes de gestão do Portal TCU ou de comunicação institucional estabelecidas pelo Tribunal; e
+
+
+VII – deliberar sobre casos omissos inerentes ao Portal TCU, inclusive sobre a publicação de conteúdos para os quais não haja diretriz ou orientação estabelecidas e sobre a criação, incorporação e desativação de portais e páginas na internet sob a responsabilidade do TCU.
+
+
+§ 1º  As questões relativas às alterações da taxonomia do Portal TCU deverão observar os termos do Vocabulário de Controle Externo (VCE), gerido pelo Instituto Serzedello Corrêa.
+
+
+§ 2º  Para a deliberação a que se refere o inciso V deste artigo deverá ser ouvida a unidade gestora do conteúdo.
+
+
+§ 3º  As questões relativas ao uso e às aplicações da logomarca no Portal TCU devem ser dirimidas pelo Comitê de Identidade Visual, em consonância com a Portaria-TCU nº 96, de 23 de abril de 2008.
+
+
+§ 4º  As deliberações do Comitê Gestor do Portal que impactam o Plano Diretor de Tecnologia da Informação devem ser encaminhadas para exame e priorização pelo Comitê Gestor de Tecnologia da Informação.
+
+
+§ 5º  As deliberações do Comitê Gestor do Portal que impactam políticas e orientações institucionais devem ser submetidas aos respectivos comitês temáticos ou à Comissão de Coordenação Geral, conforme o caso.
+
+
+Art. 7º  Cabe ao coordenador do Comitê Gestor do Portal TCU:
+
+
+I – representar e coordenar o Comitê;
+
+
+II – organizar pauta, convocar e coordenar as reuniões;
+
+
+III – assinar expedientes em nome do Comitê;
+
+
+IV – zelar pelo cumprimento das diretrizes e orientações do Comitê Gestor do Portal, assim como das diretrizes de comunicação do Tribunal afetas ao Portal TCU;
+
+
+V – decidir sobre publicações urgentes de conteúdo ou sobre a retirada de publicação não aderente às diretrizes de comunicação do Tribunal, e submeter à homologação do Comitê Gestor;
+
+
+VI – articular a definição de unidades gestoras de conteúdo do Portal, e submeter ao Comitê Gestor as hipóteses de conteúdo de abrangência intersetorial;
+
+
+VII – aprovar atualizações no portal que não impliquem alteração significativa de leiaute, de identidade visual ou de arquitetura da informação do Portal TCU;
+
+
+VIII – autorizar alterações nas áreas de conteúdo em conjunto com as unidades gestoras envolvidas e a Secretaria de Soluções de TI;
+
+
+IX – analisar e decidir sobre o encaminhamento de sugestões de melhoria recebidas relativas ao Portal TCU; e
+
+
+X – promover avaliação periódica dos conteúdos do portal, e propor ao Comitê Gestor as alterações necessárias.
+
+
+Art. 8º  Os procedimentos estabelecidos nesta portaria aplicam-se, no que couber, aos portais ou páginas na internet mantidos pelo TCU em decorrência de relacionamento institucional com outros órgãos e entidades, nacionais e internacionais.
+
+
+Art. 9º  Páginas criadas na internet para subsidiar a organização e a divulgação de eventos específicos (hotsites) ou áreas de conteúdo relacionados a ocorrência de determinado evento serão desativadas em até cento e vinte dias do término do respectivo evento.
+
+
+§ 1º  A permanência das páginas ou áreas de conteúdo de eventos específicos por prazo superior ao mencionado no caput depende de autorização prévia do Comitê Gestor do Portal e será precedida de proposta com as justificativas pertinentes. 
+
+
+§ 2º  A elaboração da proposta a que se refere o parágrafo anterior é de responsabilidade do Instituto Serzedello Corrêa em conjunto com a Secretaria de Comunicação e da unidade demandante da página.
+
+
+Art. 10.  Fica revogada a Portaria-TCU nº 149, de 16 de junho de 2008.
+
+
+
+Art. 11.  Esta Portaria entra em vigor na data de sua publicação.
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+
+Não consta revogação expressa
+Dispõe sobre a gestão de conteúdos e o funcionamento do Comitê Gestor do Portal TCU.
+
+

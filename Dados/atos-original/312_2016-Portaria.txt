@@ -1,0 +1,923 @@
+Portaria
+312/2016
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe é conferida pelo art. 28, incisos XXXIV e XXXIX do Regimento Interno, e tendo em vista o disposto no art. 43, § 1º, inciso I, e art. 54 da Lei n.º 13.242, de 30 de dezembro de 2015 (LDO), no art. 4º, inciso  II e inciso VI, alínea "a" da Lei n.º 13.255, de 14 de janeiro 2016 (LOA), no o art. 8º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Portaria SOF n.º 11, de  3  de fevereiro de 2016, resolve:
+
+
+Art. 1º  Fica aberto, aos Orçamentos Fiscal e da Seguridade Social, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 37.800.000,00 (trinta e sete milhões e oitocentos mil reais) para atender à programação exposta no Anexo I desta Portaria.
+
+
+Art. 2º  Os créditos necessários à execução do disposto no art. 1º decorrerão da anulação parcial de dotação orçamentária constante do Anexo II deste ato.
+
+
+Art. 3º  Ficam alterados os anexos I, II e III da Portaria-TCU nº 9, de 15 de janeiro de 2016, em decorrência das aberturas do crédito adicional suplementar referido no art. 1º desta Portaria, bem como dos créditos adicionais suplementares objetos da Portaria nº 292, de 1º de novembro de 2016, e do Decreto do Presidente da República, de 24 de novembro de 2016, que passam a vigorar conforme especificado nos anexos III, IV e V deste ato.
+
+
+Art. 4º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Abre aos Orçamentos Fiscal e da Seguridade Social, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 37.800.000,00 para reforço de dotações constantes da lei orçamentária vigente, bem como altera a Portaria-TCU nº 9, de 15 de janeiro de 2016, que aprova o Cronograma Anual de Desembolso Mensal, nos termos do art. 54 da Lei nº 13.242, de 30 de dezembro de 2015 (LDO).
+
+ANEXOS I E II  DA  PORTARIA-TCU Nº 312, DE 29 DE NOVEMBRO DE 2016.
+
+
+
+
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO I
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0089
+
+Previdência de Inativos e Pensionistas da União
+
+29.000.000
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 272
+
+0089 0181
+
+Aposentadorias e Pensões - Servidores Civis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.000.000
+
+09 272
+
+0089  0181 0001
+
+Aposentadorias e Pensões - Servidores Civis - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.000.000
+
+ 
+
+ 
+
+ 
+
+S
+
+1
+
+1
+
+90
+
+0
+
+100
+
+29.000.000
+
+0550
+
+Controle Externo
+
+8.800.000
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 032
+
+0550 4018
+
+Fiscalização da Aplicação dos Recursos Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.800.000
+
+01 032
+
+0550  4018 0001
+
+Fiscalização da Aplicação dos Recursos Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.800.000
+
+ 
+
+ 
+
+ 
+
+F
+
+4
+
+2
+
+90
+
+0
+
+100
+
+8.800.000
+
+TOTAL – FISCAL
+
+8.800.000
+
+TOTAL – SEGURIDADE
+
+29.000.000
+
+TOTAL - GERAL
+
+37.800.000
+
+
+   
+
+ 
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO II
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (CANCELAMENTO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+37.800.000
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 20TP
+
+Pessoal Ativo da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.000.000
+
+01 122
+
+0550  20TP 0001
+
+Pessoal Ativo da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.000.000
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+29.000.000
+
+01 032
+
+0550 4018
+
+Fiscalização da Aplicação dos Recursos Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.800.000
+
+01 032
+
+0550  4018 0001
+
+Fiscalização da Aplicação dos Recursos Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.800.000
+
+ 
+
+ 
+
+ 
+
+F
+
+3
+
+2
+
+90
+
+0
+
+100
+
+8.800.000
+
+TOTAL – FISCAL
+
+37.800.000
+
+TOTAL – SEGURIDADE
+
+0
+
+TOTAL - GERAL
+
+37.800.000
+
+
+   
+
+ 
+
+
+
+ANEXO III  DA  PORTARIA-TCU Nº 312, DE 29 DE NOVEMBRO DE 2016.
+
+
+
+"Anexo I da Portaria-TCU nº 9, de 15 de janeiro de 2016
+
+
+
+03000 - TRIBUNAL DE CONTAS DA UNIÃO
+
+
+Outras Despesas Correntes.
+
+
+
+"Em Reais
+
+
+ 
+
+Fonte 0100
+
+Mês
+
+ 
+
+Auxílio e Ajuda de Custo para Moradia
+
+Outras Despesas Correntes-ODC
+
+ODC-Benefícios 
+
+ODC-Auxílio Funeral
+
+Janeiro
+
+-
+
+9.750.831,00
+
+5.688.948,00
+
+76.422,00
+
+Fevereiro
+
+131.819,00
+
+9.750.831,00
+
+5.688.948,00
+
+76.422,00
+
+Março
+
+131.819,00
+
+9.750.831,00
+
+6.022.447,00
+
+76.422,00
+
+Abril
+
+131.819,00
+
+11.973.053,00
+
+6.022.447,00
+
+76.422,00
+
+Maio
+
+131.819,00
+
+11.973.053,00
+
+6.022.447,00
+
+76.422,00
+
+Junho
+
+131.819,00
+
+13.544.481,00
+
+6.022.447,00
+
+76.422,00
+
+Julho
+
+131.819,00
+
+13.496.862,00
+
+6.022.447,00
+
+76.422,00
+
+Agosto
+
+131.819,00
+
+12.682.604,00
+
+6.022.447,00
+
+76.422,00
+
+Setembro
+
+131.819,00
+
+12.682.604,00
+
+6.022.447,00
+
+76.422,00
+
+Outubro
+
+131.819,00
+
+20.357.575,00
+
+6.022.447,00
+
+76.422,00
+
+Novembro
+
+131.819,00
+
+14.365.147,00
+
+6.022.447,00
+
+76.422,00
+
+Dezembro
+
+131.810,00
+
+0,00
+
+6.416.546,00
+
+76.422,00
+
+Total
+
+1.450.000,00
+
+140.327.872,00
+
+71.996.465,00
+
+917.064,00
+
+
+"
+
+
+
+ANEXO IV  DA  PORTARIA-TCU Nº 312, DE 29 DE NOVEMBRO DE 2016.
+
+
+
+"Anexo II da Portaria-TCU nº 9, de 15 de janeiro de 2016
+
+
+
+03000 - TRIBUNAL DE CONTAS DA UNIÃO
+
+
+Investimentos e Inversões Financeiras.
+
+
+Em Reais
+
+
+ 
+
+Fonte 0100
+
+Mês
+
+Investimentos
+
+Inversões Financeiras
+
+Janeiro
+
+7.304.820,00
+
+                                                -   
+
+Fevereiro
+
+7.173.002,00
+
+                                      -   
+
+Março
+
+7.173.002,00
+
+                                    -   
+
+Abril
+
+4.410.563,00
+
+                                     -   
+
+Maio
+
+2.410.563,00
+
+                                       -   
+
+Junho
+
+3.083.699,00
+
+                                      -   
+
+Julho
+
+3.581.318,00
+
+4.279.000,00
+
+Agosto
+
+4.014.174,00
+
+                                       -   
+
+Setembro
+
+4.014.174,00
+
+-   
+
+Outubro
+
+4.014.174,00
+
+-   
+
+Novembro
+
+4.014.174,00
+
+                                            -   
+
+Dezembro
+
+30.364.174,00
+
+-
+
+Total
+
+81.557.837,00
+
+4.279.000,00
+
+
+"
+
+
+
+ANEXO V  DA  PORTARIA-TCU Nº 312, DE 29 DE NOVEMBRO DE 2016.
+
+
+
+"Anexo III da Portaria-TCU nº 9, de 15 de janeiro de 2016
+
+
+03000 - TRIBUNAL DE CONTAS DA UNIÃO
+
+
+Pessoal e Encargos Sociais.
+
+
+Em Reais
+
+
+ 
+
+Fonte 0100
+
+Fonte 0156
+
+Fonte 0169
+
+Mês
+
+Pessoal e Encargos Sociais
+
+Encargos Sociais - PSSS
+
+Pessoal e Encargos Sociais
+
+Pessoal e Encargos Sociais
+
+Janeiro
+
+100.000.000,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Fevereiro
+
+91.674.220,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Março
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Abril
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Maio
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Junho
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Julho
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Agosto
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Setembro
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Outubro
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Novembro
+
+91.340.719,00
+
+12.116.057,00
+
+10.131.120,00
+
+12.297.985,00
+
+Dezembro
+
+148.920.380,00
+
+16.103.640,00
+
+10.131.114,00
+
+12.297.984,00
+
+Total
+
+1.162.661.071,00
+
+149.380.267,00
+
+121.573.434,00
+
+147.575.819,00
+
+
+"
+
+
+

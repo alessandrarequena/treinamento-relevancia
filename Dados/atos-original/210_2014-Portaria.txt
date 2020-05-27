@@ -1,0 +1,349 @@
+Portaria
+210/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o art. 28, inciso XXXIV, do Regimento Interno do TCU,
+
+
+considerando que o Tribunal produz e recebe informações no exercício de suas competências constitucionais, legais e regulamentares, e que tais informações devem permanecer íntegras e disponíveis, bem como seu eventual sigilo deve ser resguardado;
+
+
+considerando que as informações do Tribunal são armazenadas em diferentes suportes e veiculadas por diversas formas, tais como meio impresso, eletrônico e microforma, estando, portanto, vulneráveis a incidentes como desastres naturais, acessos não autorizados, mau uso, falhas de equipamentos, extravio e furto;
+
+
+considerando que a segurança é aspecto essencial para a adequada gestão da informação;
+
+
+considerando o advento da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação - LAI), que regula o acesso a informações previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal;
+
+
+considerando as boas práticas em segurança preconizadas pelas normas ABNT NBR ISO/IEC  27001:2013, 27002:2013,  27003:2011, 27004:2010, 27005:2011 e 27014:2013;
+
+
+considerando que a norma ABNT NBR ISO/IEC 27002:2013 recomenda revisões periódicas da política de segurança da informação das instituições;
+
+
+considerando o disposto no art. 21 da Resolução-TCU nº 261, de 11 de junho de 2014; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-029.401/2013-5, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º  A Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU) observa os princípios, objetivos e diretrizes estabelecidos nesta Portaria, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+Parágrafo único.  Autoridades, servidores, colaboradores e quaisquer pessoas que tenham acesso a informações do TCU sujeitam-se às diretrizes, normas e procedimentos de segurança da informação da Política de que trata esta Portaria, e são responsáveis por garantir a segurança das informações a que tenham acesso.
+
+
+Art. 2º  Para os efeitos desta Portaria, entende-se por:
+
+
+I - informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II - segurança da informação: proteção da informação contra ameaças a sua confidencialidade, integridade, disponibilidade e autenticidade, para minimizar riscos, garantir a eficácia das ações do negócio e preservar a imagem do TCU;
+
+
+III - Sistema de Gestão de Segurança da Informação (SGSI/TCU): parte integrante do Sistema de Gestão de Segurança Institucional do Tribunal (SGSIN/TCU), baseada em riscos do negócio, que visa estabelecer, implementar, operar, monitorar, analisar criticamente, manter e melhorar a segurança da informação;
+
+
+IV - confidencialidade: propriedade que garante que a informação seja acessada somente pelas pessoas ou processos que tenham autorização para tal;
+
+
+V - integridade: propriedade que garante a não violação das informações com intuito de protegê-las contra alteração, gravação ou exclusão indevida, acidental ou proposital;
+
+
+VI - disponibilidade: propriedade que garante que as informações estejam acessíveis às pessoas e aos processos autorizados, no momento requerido;
+
+
+VII - autenticidade: propriedade que assegura a correspondência entre o autor de determinada informação e a pessoa, processo ou sistema a quem se atribui a autoria;
+
+
+VIII - incidente de segurança da informação: qualquer indício de fraude, sabotagem, espionagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer ou ameaçar a segurança da informação;
+
+
+IX - gestor da informação: colegiado do TCU ou de sua Secretaria, autoridade do Tribunal ou dirigente de unidade responsável por informação em matéria de sua competência ou inerente a sua área de atuação;
+
+
+X - custodiante da informação: qualquer pessoa física ou jurídica, interna ou externa, unidade ou projeto do Tribunal que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+XI - ciclo de vida da informação: compreende etapas e eventos de produção, recebimento, armazenamento, acesso, uso, alteração, cópia, transporte e descarte da informação; e
+
+
+XII - colaborador: prestador de serviço terceirizado, estagiário ou qualquer pessoa com vínculo transitório com o TCU que tenha acesso, de forma autorizada, às informações ou às dependências do Tribunal.
+
+
+Art. 3º  A segurança da informação no TCU alinha-se às estratégias organizacionais e aos princípios da segurança institucional e tem como princípios:
+
+
+I - garantia da integridade e da autenticidade das informações produzidas;
+
+
+II - preservação da integridade e da autenticidade das informações recebidas;
+
+
+III - transparência das informações públicas;
+
+
+IV - proteção adequada às informações com necessidade de restrição de acesso;
+
+
+V - planejamento das ações de segurança da informação por meio de uma abordagem baseada em riscos; e
+
+
+VI - garantia da disponibilidade das informações custodiadas.
+
+
+Parágrafo único. A segurança da informação no TCU abrange aspectos físicos, tecnológicos e humanos do Tribunal.
+
+
+CAPÍTULO II
+
+
+DO SISTEMA DE GESTÃO DE SEGURANÇA DA INFORMAÇÃO
+
+
+Art. 4º  A Política Corporativa de Segurança da Informação (PCSI/TCU) integra o Sistema de Gestão de Segurança da Informação do TCU (SGSI/TCU) instituído pela Resolução-TCU nº 261, de 11 de junho de 2014, o qual é composto pelos seguintes processos:
+
+
+I - classificação da informação;
+
+
+II - gestão de riscos de segurança da informação;
+
+
+III - gestão de incidentes em segurança da informação;
+
+
+IV - controle de acesso à informação;
+
+
+V - segurança da informação em recursos humanos e conscientização em segurança da informação; e
+
+
+VI - segurança em tecnologia da informação e comunicações.
+
+
+§ 1º  Os processos do SGSI/TCU são interdependentes e devem ser estruturados e monitorados de forma a permitir sua melhoria contínua.
+
+
+§ 2º  A Gestão de Continuidade de Negócios (GCN), disposta em política específica, harmoniza-se com os processos do SGSI/TCU e tem por objetivo, em relação à segurança da informação, garantir níveis adequados de disponibilidade, integridade, confidencialidade e autenticidade das informações essenciais ao funcionamento dos processos críticos de negócio do TCU.
+
+
+§ 3º  A segurança física e patrimonial, disposta em política específica, harmoniza-se com os processos do SGSI/TCU e tem por objetivo, em relação à segurança da informação, prevenir danos e interferências nas instalações do TCU que possam causar perda, roubo ou comprometimento das informações.
+
+
+Art. 5º  A classificação da informação tem por objetivo assegurar que a informação receba um nível adequado de proteção.
+
+
+Parágrafo único. A informação deve ser classificada para indicar a necessidade, prioridades e o nível esperado de proteção quanto ao tratamento da informação durante todo o seu ciclo de vida.
+
+
+Art. 6º  A gestão de riscos de segurança da informação tem por objetivo identificar os riscos que possam comprometer a confidencialidade, a integridade, a disponibilidade ou a autenticidade da informação, priorizando seu tratamento com base em critérios para aceitação de riscos compatíveis com os objetivos institucionais.
+
+
+§ 1º  Os controles de segurança da informação devem ser planejados, aplicados, implementados e, periodicamente, avaliados de acordo com os objetivos institucionais e os riscos para o TCU.
+
+
+§ 2º  O processo de gestão de riscos de segurança da informação alinha-se à gestão de riscos à segurança institucional, nos termos da Resolução-TCU nº 261, de 2014.
+
+
+Art. 7º  A gestão de incidentes em segurança da informação tem por objetivo assegurar que fragilidades e incidentes em segurança da informação sejam identificados, para permitir a tomada de ação corretiva em tempo hábil.
+
+
+Parágrafo único.  Autoridades, servidores e quaisquer colaboradores do Tribunal são responsáveis por:
+
+
+I – informar imediatamente à Assessoria de Segurança da Informação e Governança de TI (Assig) os incidentes em segurança da informação de que tenham ciência ou suspeita; e
+
+
+II - colaborar, na respectiva área de competência, na identificação e no tratamento de incidentes em segurança da informação.
+
+
+Art. 8º  O processo de controle de acesso à informação tem por objetivo garantir que o acesso físico e lógico à informação seja franqueado exclusivamente a pessoas autorizadas, com base nos requisitos de negócio e de segurança da informação. 
+
+
+§ 1º  O acesso às informações produzidas ou custodiadas pelo TCU que não sejam públicas deve permanecer restrito às pessoas que tenham necessidade de conhecê-las.
+
+
+§ 2º  O acesso a informações não públicas por quaisquer colaboradores é condicionado ao aceite de termo de sigilo e responsabilidade.
+
+
+§ 3º  O acesso às informações produzidas ou custodiadas pelo TCU se submete a controles administrativos e tecnológicos definidos de acordo com a respectiva classificação.
+
+
+§ 4º  A certificação digital no âmbito do TCU segue o padrão da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), instituída pela Medida Provisória nº 2.200-2, de 24 de agosto de 2001.
+
+
+§ 5º  O controle de acesso físico à informação alinha-se às diretrizes contidas na Política Corporativa de Segurança Física e Patrimonial do Tribunal (PCSF/TCU).
+
+
+Art. 9º  A segurança da informação em recursos humanos tem por objetivo garantir que quaisquer pessoas que tenham vínculo estatutário, funcional, contratual ou processual com o TCU entendam suas responsabilidades e atuem em consonância com os preceitos da PCSI/TCU, para que o risco de furto, fraude ou mau uso de informações seja reduzido.
+
+
+§ 1º  A conscientização em segurança da informação tem por objetivo internalizar conceitos e boas práticas de segurança da informação na cultura do TCU, por meio de ações permanentes de divulgação, treinamento e educação, para minimizar riscos de segurança da informação.
+
+
+§ 2º  A segurança da informação em recursos humanos alinha-se ao disposto na Política de Segurança Institucional aprovada pela Resolução-TCU nº 261, de 2014, bem como à Política de Gestão de Pessoas do Tribunal definida na Resolução-TCU nº 187, de 5 de abril de 2006.
+
+
+Art. 10.  A segurança em tecnologia da informação e comunicações tem por objetivo adotar medidas e controles tecnológicos para proteger as informações em meio eletrônico.
+
+
+Parágrafo único.  As diretrizes e os procedimentos para o uso de recursos de tecnologia, tais como dispositivos móveis e pessoais, computação em nuvem (cloud computing
+) e redes sociais, sujeitam-se, no que couber, aos comandos da PCSI/TCU e serão objeto de normativo da Presidência do TCU.
+
+
+CAPÍTULO III
+
+
+DAS COMPETÊNCIAS E RESPONSABILIDADES
+
+
+Art. 11.  O Comitê de Segurança da Informação (CSI) é órgão colegiado de natureza consultiva e de caráter permanente, que tem por finalidade:
+
+
+I - formular e conduzir diretrizes para o Sistema de Gestão de Segurança da Informação (SGSI/TCU) e a Política Corporativa de Segurança da Informação (PCSI/TCU), bem como analisar periodicamente sua efetividade;
+
+
+II - propor ajustes no SGSI/TCU e nas ações necessárias a sua implementação, com subsídio no monitoramento e na avaliação periódica das práticas de segurança da informação;
+
+
+III - propor a elaboração e a revisão de normas e de procedimentos inerentes à segurança da informação;
+
+
+IV - manifestar-se sobre propostas de alteração ou de revisão da PCSI/TCU, bem como sobre minutas de normativo e iniciativas de natureza estratégica ou que necessitem de cooperação entre unidades, que versem sobre segurança da informação;
+
+
+V - manifestar-se sobre matérias atinentes à segurança da informação que lhe sejam submetidas; e
+
+
+VI - assessorar, em matérias correlatas, a Comissão de Coordenação Geral (CCG) e a Presidência do TCU.
+
+
+§ 1º  O exame, pelo CSI, de aspectos que perpassem as demais dimensões da segurança institucional deve ser realizado em reunião conjunta com o Comitê de Segurança Institucional (Cosin), da qual emane deliberação única de ambos os Comitês.
+
+
+§ 2º  Normativo da CCG disporá sobre a composição do CSI, garantida a representação das diversas áreas de negócio do TCU.
+
+
+Art. 12.  Compete à Assig:
+
+
+I - gerenciar e monitorar o SGSI/TCU, bem como propor as adaptações necessárias para garantir a melhoria contínua desse sistema de gestão;
+
+
+II - coordenar e acompanhar a implementação do SGSI/TCU e das normas complementares de segurança da informação;
+
+
+III - apresentar ao CSI proposta de revisão da PCSI/TCU de modo a atualizá-la frente a novos requisitos corporativos;
+
+
+IV - apoiar as unidades do TCU na definição de processos de trabalho e de procedimentos operacionais necessários à proteção de suas informações;
+
+
+V - monitorar e avaliar periodicamente as práticas de segurança da informação adotadas pelo Tribunal;
+
+
+VI - coordenar, com o apoio do Instituto Serzedello Corrêa (ISC) e das demais unidades competentes, ações permanentes de divulgação, treinamento, educação e conscientização dos servidores e demais colaboradores do TCU, em relação aos conceitos e às práticas de segurança da informação em toda sua abrangência;
+
+
+VII - coordenar o tratamento dos incidentes em segurança da informação, com vistas a identificar os motivos que levam ao comprometimento da segurança da informação; e
+
+
+VIII - coordenar o CSI.
+
+
+Parágrafo único.  A aplicação das competências indicadas neste artigo observa, no que couber, as competências inerentes às demais unidades da Secretaria do TCU.
+
+
+Art. 13.  São responsabilidades do gestor da informação, no que concerne às informações sob sua gestão, produzidas ou custodiadas pelo TCU:
+
+
+I - garantir a segurança das informações;
+
+
+II - classificar as informações e definir procedimentos e critérios de acesso, observados os dispositivos legais e regimentais relativos à confidencialidade e a outros critérios de classificação pertinentes;
+
+
+III - propor regras específicas para o uso das informações; e
+
+
+IV - definir os requisitos de segurança da informação necessários ao negócio, com base em critérios de aceitação e tratamento de riscos inerentes aos processos de trabalho.
+
+
+§ 1º  O Presidente, Ministros e Ministros-Substitutos podem indicar, orientar e autorizar, a qualquer tempo, procedimentos que visem garantir a segurança da informação nos processos e documentos de sua competência, a serem seguidos pelos gestores da informação.
+
+
+§ 2º  Em caso de dúvida na identificação do gestor da informação, compete à CCG defini-lo.
+
+
+Art. 14.  São responsabilidades do custodiante da informação:
+
+
+I - garantir a segurança da informação sob sua posse, conforme os critérios definidos pelo respectivo gestor da informação;
+
+
+II - comunicar tempestivamente ao gestor da informação sobre situações que comprometam a segurança das informações sob custódia; e
+
+
+III - comunicar ao gestor da informação eventuais limitações para o cumprimento dos critérios por ele definidos com vistas à proteção da informação.
+
+
+Art. 15.  São responsabilidades dos dirigentes das unidades e demais gestores do TCU, no que se refere à segurança da informação:
+
+
+I - conscientizar servidores e quaisquer colaboradores sob sua supervisão em relação aos conceitos e às práticas de segurança da informação;
+
+
+II - incorporar aos processos de trabalho de sua unidade, ou de sua área, práticas inerentes à segurança da informação; e
+
+
+III - tomar as medidas administrativas necessárias para que sejam adotadas ações corretivas em tempo hábil em caso de comprometimento da segurança da informação.
+
+
+CAPÍTULO IV
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 16.  As informações produzidas por servidores e quaisquer colaboradores do TCU, no exercício de suas atribuições, são patrimônio intelectual do Tribunal e não cabe a seus criadores qualquer forma de direito autoral, ressalvado o reconhecimento da autoria, se for o caso.
+
+
+§ 1º  Quando as informações forem produzidas por colaboradores do TCU para uso exclusivo pelo Tribunal, instrumento próprio estabelecerá as obrigações dos criadores, inclusive no que se refere à eventual confidencialidade das informações.
+
+
+§ 2º  É vedada a utilização das informações a que se refere o parágrafo anterior em projetos ou atividades diversas daquelas estabelecidas pelo TCU, salvo autorização específica dos Ministros e Ministros-Substitutos, nos processos e documentos de sua competência, ou do Presidente, nos demais casos.
+
+
+Art. 17.  Os contratos, convênios, acordos de cooperação e outros instrumentos congêneres celebrados pelo Tribunal devem observar, no que couber, as disposições da PCSI/TCU.
+
+
+Art. 18.  A não observância dos dispositivos da PCSI/TCU sujeita os infratores, isolada ou cumulativamente, a sanções administrativas, civis e penais, nos termos da legislação pertinente, assegurados aos envolvidos o contraditório e a ampla defesa.
+
+
+Art. 19.  A PCSI/TCU será revista no máximo a cada cinco anos, de modo a atualizá-la frente a novos requisitos corporativos.
+
+
+Art. 20. Consoante o determinado no art. 28 da Resolução-TCU nº 261, de 2014, fica revogada a Resolução-TCU nº 217, de 15 de outubro de 2008, a partir da data de início da vigência desta Portaria.
+
+
+Art. 21.  Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+Não consta revogação expressa
+Dispõe sobre a Política Corporativa de Segurança da Informação (PCSI/TCU) e sobre o Sistema de Gestão de Segurança da Informação do Tribunal de Contas da União (SGSI/TCU).
+
+

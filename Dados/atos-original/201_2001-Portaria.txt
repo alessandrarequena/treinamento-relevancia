@@ -1,0 +1,874 @@
+Portaria
+201/2001
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e
+
+
+
+considerando os artigos 61 e 73 da Resolução TCU nº 136/2000, combinados com a Portaria da Presidência nº 256/2000, com os incisos III do artigo 85 e VII do artigo 102 da Resolução TCU nº 140/2000 e com a Portaria da Presidência nº 48/2001, RESOLVE:
+
+
+
+
+
+Art. 1º Fica aprovado o anexo Manual de Certidões.
+
+
+
+
+
+Art. 2º Esta portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+ANEXO ÚNICO
+
+
+
+
+
+SUMÁRIO
+
+
+
+
+Introdução...........................................................03
+
+Informações Preliminares
+
+ 
+
+ 
+
+Competência....................................................
+
+04
+
+ 
+
+Responsabilidade.................................................
+
+04
+
+ 
+
+Procedimentos preliminares..........................................
+
+04
+
+ 
+
+Outras informações................................................
+
+05
+
+ 
+
+Procedimento para elaboração de certidão.................................
+
+05
+
+ 
+
+Certidões de emissão exclusiva pela Presidência.............................
+
+07
+
+ 
+
+Procedimentos finais...............................................
+
+07
+
+Modelos
+
+ 
+
+ 
+
+Modelo 1 – Certidão negativa.........................................
+
+08
+
+ 
+
+Modelo 2 – Certidão informando que não houve interposição de recurso contra Deliberação do Tribunal, ou que houve interposição de recurso, cujo provimento foi negado              
+
+09
+
+ 
+
+Modelo 3 – Certidão informando a interposição de recurso contra deliberação do Tribunal, sem exame de admissibilidade              
+
+10
+
+ 
+
+Modelo 4 – Certidão informando a interposição de recurso com efeito suspensivo contra deliberação do Tribunal              
+
+11
+
+ 
+
+Modelo 5 – Certidão informando a interposição de recurso sem efeito suspensivo contra deliberação do Tribunal              
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução
+
+
+
+
+O presente Manual foi concebido com o objetivo de auxiliar na elaboração de certidões e de expedientes relativos a informações solicitadas ao Tribunal para a defesa de direitos individuais e esclarecimentos de interesse particular, coletivo ou geral, ressalvadas aquelas cujos sigilo seja imprescindível à segurança da sociedade e do Estado, conforme preceitua o artigo 243 do Regimento Interno do TCU.
+
+
+Deverão ser observados na elaboração dos referidos documentos alguns procedimentos e disposições constantes dos artigos 61 e 73 da Resolução TCU nº 136/2000, combinados com a Portaria da Presidência nº 256/2000, com os incisos III do artigo 85 e VII do artigo 102 da Resolução TCU nº 140/2000 e com a Portaria da Presidência nº 48/2001.  
+
+
+O Manual apresenta informações quanto à competência, responsabilidade e prazos para a expedição dos citados documentos, bem como critérios e passos para o atendimento ou não dos pedidos.
+
+
+		Assim, são apresentados 05 (cinco) modelos básicos de certidões, a serem utilizados de acordo com a situação apresentada, cabendo à unidade responsável pela elaboração do documento adaptá-los ao disposto na 1ª parte do § 1º do artigo 3º da Portaria da Presidência nº 256/2000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Informações Preliminares
+
+
+
+
+Competência: 
+
+
+
+
+	Portaria nº 48/2001
+
+
+
+
+"Art. 1º Fica delegada competência aos Secretários de Controle Externo e, em seus impedimentos eventuais, aos respectivos substitutos, para expedir as certidões e informações a serem fornecidas, a requerimento dos interessados, para a defesa de direitos individuais e esclarecimentos de interesse particular, coletivo ou geral, observados os procedimentos estabelecidos na Portaria nº 256/2000.
+
+
+Parágrafo único. Ficam ressalvados os casos em que o requerimento seja formulado pelo Presidente ou Vice-Presidente da República, pelo Procurador-Geral da República, pelo Advogado-Geral da União, pelos Ministros de Estado ou autoridades de nível hierárquico equivalente, pelos membros do Congresso Nacional e pelos Ministros de Tribunais Superiores, nos termos do § 1º do art. 4º da Portaria nº 256/2000."
+
+
+
+
+
+	Assim, passa a ser competência delegada das Unidades Técnico-Executivas (Secretarias de Controle Externo, de Fiscalização e de Macroavaliação Governamental) a expedição das certidões para defesa de direitos individuais e esclarecimentos de interesse particular, inclusive as que se referirem a recursos interpostos.
+
+
+
+
+
+Responsabilidade
+
+
+Considerando o prazo de 15 dias para a expedição de certidões, estipulado pelo artigo 6º da Portaria nº 256/00, e tendo em vista a existência, no Tribunal, de sistemas informatizados que possibilitam consulta segura aos dados necessários e suficientes para a emissão das mesmas, é responsável pela elaboração das certidões a unidade técnico-executiva que primeiro tiver ciência do pedido.
+
+
+
+Procedimentos Preliminares
+
+
+
+Recebida a solicitação de certidão, a Secretaria deve verificar, no Sistema PROCESSUS, se existe algum registro de processo no nome do responsável:
+
+
+Em caso positivo, deve-se autuar o pedido de certidão como referente a um dos processos encontrados;
+
+
+No caso de não haver processos no nome do requerente, deve-se autuar a solicitação como um novo processo.
+
+
+Só é necessário requisitar a tramitação do(s) processo(s) em nome do interessado, para emitir a certidão, se a competência exclusiva para emissão da mesma for da Presidência do Tribunal (casos previstos no §1º do artigo 4º da Portaria 256/2000). Nesse caso, a Secretaria que receber o pedido deverá remeter, àquele gabinete, a minuta de certidão acompanhada dos autos (vide item 6 abaixo).
+
+
+
+
+
+
+
+Outras Informações
+
+
+
+
+
+Portaria nº 256/2000
+
+
+
+
+
+"Art. 6º  As certidões e os expedientes de informações serão expedidos no prazo máximo de quinze dias contados da data de protocolização do pedido.
+
+
+Art. 7º  No caso de pedido de certidão informando da existência de recurso, a mesma somente será expedida após apreciada a admissibilidade daquele, na forma do art. 37 da Resolução nº 136/2000 (...)"
+
+
+
+ 
+
+
+
+Procedimento Para elaboração de certidão
+
+
+
+
+1. Verificar se foram atendidos os requisitos do art. 2º da Portaria 256/2000.
+
+
+
+
+"Art. 2º  São requisitos para a expedição de certidões e de expedientes de informações:
+
+
+I   -  os pedidos devem estar dirigidos ao Tribunal em requerimento fundamentado do próprio interessado ou de seu representante regularmente instituído, na forma da lei;
+
+
+II  -  o requerimento deverá conter identificação do interessado com o nome completo, endereço, profissão e CPF;
+
+
+III -  indicação dos cargos e funções públicas exercidos pelo interessado nas esferas federal, estadual ou municipal e os respectivos períodos, se for o caso;
+
+
+IV -  o requerimento deverá conter, ainda, esclarecimentos relativos aos fins e razões do pedido de certidão ou de informações."
+
+
+
+1.1.		Em caso de não estarem atendidos os requisitos, instruir e remeter à Presidência, com proposta de indeferimento ( § 1º do art. 2º da Port. 256/2000)
+
+
+
+"Art. 2º  .....................................................................................................................
+
+
+§ 1º  Caso os pedidos de certidão ou de informações não preencham os requisitos deste artigo, as unidades técnicas instruirão os mesmos e os submeterão à Presidência com proposta de indeferimento."
+
+
+
+
+2.	Verificar se a matéria é sigilosa
+
+
+
+
+ 
+
+
+
+2.1.		Se o sigilo for imprescindível, informar o requerente sobre a impossibilidade do atendimento. (§2º do art. 2º da Portaria 256)
+
+
+
+"Art. 2º  .....................................................................................................................
+
+
+§ 2º  Quando se tratar de matéria cujo sigilo seja considerado pelo Tribunal como imprescindível à segurança da sociedade e do Estado, o requerente será informado sobre a impossibilidade de atendimento da solicitação."
+
+
+
+
+3.	Proceder as seguintes verificações: 
+
+
+
+
+
+
+3.1. 		no Sistema de Gestão de Processos e Documentos – PROCESSUS, os processos em que o requerente está arrolado como interessado/responsável.
+
+
+
+3.2. 		no Sistema de Jurisprudência do TCU – JURIS, se há deliberações que envolvam o interessado.
+
+
+
+3.3. 		no Cadastro de Responsáveis por Contas Julgadas Irregulares – CADIRREG,  se há registro do interessado.
+
+
+
+3.4.		Em caso negativo quanto aos itens 3.2. e 3.3., emitir certidão nos moldes "NADA CONSTA", (conforme modelo 1 anexo)
+
+
+
+3.5.		Em caso positivo, no momento da expedição da certidão, verificar em qual das situações abaixo se encontra o processo ( § 1º do art. 3º da Portaria nº 256/2000)
+
+
+
+"Art. 3º  Os pedidos de certidão e de informações serão instruídos pelas unidades técnicoexecutivas competentes considerando os julgados do Tribunal, o Cadastro de Responsáveis por Contas Julgadas Irregulares - Cadirreg, a interposição de recursos, bem como outros sistemas ou fontes subsidiárias.
+
+
+§ 1º A certidão ou o expediente de informações deverá restringir-se ao que foi solicitado pelo requerente, exceto na hipótese de existirem contas julgadas irregulares em seu nome, caso em que deverão constar todos os registros relativos aos respectivos processos, bem como os dados relativos a eventuais recursos ainda não apreciados pelo Tribunal."
+
+
+
+3.6.		A pesquisa para emissão de certidão deve ser feita pelo nome do responsável, nunca pelo número do processo indicado no requerimento. Desta forma, mesmo que não haja irregularidades apontadas no processo mencionado pelo requerente, se houver outros processos no nome do interessado com julgamento pela irregularidade, deverá ser emitida certidão com informação do processo solicitado e dos demais processos, em atendimento ao § 1º do artigo 3º da Portaria nº 256/2000.
+
+
+
+4. Situações do Processo no Momento da Expedição da Certidão
+
+
+
+4.1. Em caso de deliberação transitada em julgado, sem interposição de recurso, utilizar o modelo 2 anexo.
+
+
+
+4.2. Em caso de deliberação transitada em julgado, com interposição de recurso, cujo provimento tenha sido negado, utilizar o modelo 2 anexo. 
+
+
+
+4.3. Em caso de recurso protocolado, sem exame de admissibilidade pelo Relator, observar os artigos 6º e 7º da Portaria 256/2000;
+
+
+
+"Art. 6º  As certidões e os expedientes de informações serão expedidos no prazo máximo de quinze dias contados da data de protocolização do pedido.
+
+
+Art. 7º  No caso de pedido de certidão informando da existência de recurso, a mesma somente será expedida após apreciada a admissibilidade daquele ..."
+
+
+
+4.3.1.		A verificação da efetivação ou não do exame de admissibilidade pelo Tribunal deverá ser feita por meio do Sistema CADIRREG, mediante análise do código de situação referente ao processo em que tenha sido interposto o recurso. 
+
+
+
+
+
+4.3.2.		Passados 15 dias da protocolização, sem que tenha sido apreciada a admissibilidade do recurso, expedir certidão nos moldes do modelo 3 anexo.
+
+
+4.4.		Em caso de recurso admitido pelo Relator, podem ocorrer 2 situações:
+
+
+
+4.4.1. 		para recurso com efeito suspensivo ( recurso de reconsideração, pedido de reexame ou embargos de declaração), utilizar o modelo 4 anexo; 
+
+
+
+4.4.2. 		para recurso sem efeito suspensivo ( recurso de divergência ou recurso de revisão) utilizar o modelo 5 anexo.
+
+
+
+
+
+
+5. 	Após a emissão da certidão, encaminhar cópia para a Presidência (§ 2º do Art. 4º da Portaria 256/2000)
+
+
+
+
+
+"Art. 4º   ....................................................................................................................
+
+
+§ 2º  As Secex encaminharão cópia das certidões e dos expedientes de informações expedidos na forma deste artigo à Secretaria da Presidência, que zelará pela sua guarda e pela conformidade desses atos com os termos desta Portaria e demais normas pertinentes".
+
+
+
+
+
+
+6. 	Certidões de Emissão Exclusiva pela Presidência
+
+
+
+
+6.1.	Em caso de pedido de certidão formulado por uma das autoridades elencadas no §1º do artigo 4º da Portaria nº 256/2000, deve-se elaborar minuta de certidão, a ser expedida pelo Ministro-Presidente do Tribunal, por meio da aplicação dos modelos previstos no item 4 do presente Manual, acrescentando-se aos textos de todos eles, antes do trecho ", até a presente data", o seguinte texto: "de acordo com informações prestadas pela Secretaria _____________ [especificar a secretaria que forneceu os dados para a expedição da certidão],".
+
+
+
+"Art. 4º.................................................................................................................................
+
+
+§1º As certidões requeridas ao Tribunal pelo Presidente ou Vice-Presidente da República, pelo Procurador-Geral da República, pelo Advogado-Geral da União, pelos Ministros de Estado ou autoridades de nível hierárquico equivalente, pelos membros do Congresso Nacional e pelos Ministros de Tribunais Superiores, serão sempre expedidas pelo Presidente (...)."
+
+
+
+6.2.	 Após a elaboração da minuta, remeter os autos, acompanhados dos documentos referentes ao pedido de certidão, à Presidência, para fins de expedição da mesma.
+
+
+
+
+7.	Procedimentos Finais
+
+
+
+
+7.1.		Após a emissão ou não da certidão requerida:
+
+
+
+		
+
+
+
+7.1.1.		No caso de o pedido de certidão ter sido autuado como documento referente ao(s) processo(s) existente(s) no nome do solicitante (ver Procedimentos Preliminares, pág. 3), providenciar tantas cópias do conteúdo do documento referente, quantas forem necessárias para sua juntada aos processos existentes em nome do responsável. Em seguida, deve-se encaminhar o documento referente e as cópias às Unidades que detiverem os processos em nome do responsável, para fins de anexação e juntada, respectivamente.
+
+
+
+7.1.2.		No caso de a solicitação de certidão ter sido autuada como novo processo (ver Procedimentos Preliminares, pág. 3), o mesmo deverá ser arquivado e encaminhado ao Serviço de Arquivo, na sede do Tribunal.
+
+
+
+
+
+
+modelo 1- certidão negativa. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+C E R T I D Ã O
+
+
+
+ 
+
+
+
+
+  
+
+
+
+O Titular da ( Secretaria ) CERTIFICA, para os devidos fins e a pedido do interessado, que, até a presente data, NÃO CONSTA do cadastro de julgamentos deste Tribunal registro de irregularidades na aplicação de recursos públicos federais sob a responsabilidade do Senhor --------, (qualificação do interessado), CPF ---------. 
+
+
+
+                     , em   de         2000.
+
+
+
+
+
+
+
+----------------------------------------------------
+
+
+Secretário 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modelo 2 - certidão informando que não houve interposição de recurso contra DELIBERAÇÃO DO TRIBUNAL OU QUE HOUVE INTERPOSIÇÃO DE RECURSO, CUJO PROVIMENTO FOI NEGADO. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+C E R T I D Ã O
+
+
+
+
+   
+
+
+
+O Titular da ( Secretaria ) CERTIFICA, para os devidos fins e a pedido do interessado, que, até a presente data, CONSTA(M) do cadastro de julgados deste Tribunal, em nome do Senhor ------, (qualificação do interessado), CPF nº -----------, o(s) processo(s) nº(s) TC----------------, referente(s) à(s) (Tipo de Processo), julgado(s) irregular(es)/com imputação de débito(s) [ou multa(s)] ao responsável, por meio do(s) Acórdão(s) nº ---------, Sessão(ões) de ----------, Ata(s) nºs ---------, in  DOU de -----------, contra o(s) qual(is) não foi(ram) interposto(s) recurso(s) [ou contra o(s) qual(is) foi(ram) interposto(s) recurso(s), cujo(s) provimento(s) foi(ram) negado(s) por meio do(s) Acórdão(s) nº ---------, Sessão(ões) de ----------, Ata(s) nºs ---------, in  DOU de -----------.
+
+
+
+                                   ,  em         de                      2000.
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+Secretário 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modelo 3- certidão informando a interposição de recurso contra DELIBERAÇÃO DO TRIBUNAL, SEM EXAME DE ADMISSIBILIDADE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+C E R T I D Ã O
+
+
+
+
+   
+
+
+
+O Titular da ( Secretaria ) CERTIFICA, para os devidos fins e a pedido do interessado, que, até a presente data, CONSTA(M) do cadastro de julgados deste Tribunal, em nome do Senhor ------, (qualificação do interessado), CPF nº -----------, o(s) processo(s) nº(s) TC----------------, referente(s) à(s) (Tipo de Processo), julgado(s) irregular(es)/com imputação de débito(s) [ou multa(s)] ao responsável, por meio do(s) Acórdão(s) nº ---------, Sessão de ----------, Ata nº ---------, in  DOU de -----------, contra o(s) qual(is) foi(ram) interposto(s) recurso(s), ainda pendente(s) do(s) respectivo(s) juízo(s) de admissibilidade.
+
+
+
+                              ,  em         de                      2000.
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+Secretário 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modelo 4 - certidão informando a interposição de recurso com efeito suspensivo contra deliberação do tribunal.
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+C E R T I D Ã O
+
+
+
+
+
+
+
+
+O Titular da ( Secretaria ) CERTIFICA, para os devidos fins e a pedido do interessado, que, até a presente data, CONSTA(M) do cadastro de julgados deste Tribunal, em nome do Senhor ------, (qualificação do interessado), CPF nº -----------, o(s) processo(s) nº(s) TC----------------, referente(s) à(s) (Tipo de Processo), julgado(s) irregular(es)/com imputação de débito(s) [ou multa(s)] ao responsável, por meio do(s) Acórdão(s) nº ---------, Sessão de ----------, Ata nº ---------, in  DOU de -----------, contra o(s) qual(is) foi(ram) interposto(s) (Recurso de Reconsideração, Embargos de Declaração ou Pedido de Reexame) , que tem efeito suspensivo sobre a condenação original. 
+
+
+
+                     ,  em    de                   2000.
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+
+Secretário 
+
+
+
+
+
+
+
+
+
+
+(TC ------------------)
+
+
+
+
+
+
+
+
+
+modelo 5- certidão informando a interposição de recurso sem efeito suspensivo contra DELIBERAÇÃO DO TRIBUNAL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+C E R T I D Ã O
+
+
+
+
+   
+
+
+
+O Titular da ( Secretaria ) CERTIFICA, para os devidos fins e a pedido do interessado, que, até a presente data, CONSTA(M) do cadastro de julgados deste Tribunal, em nome do Senhor ------, (qualificação do interessado), CPF nº -----------, o(s) processo(s) nº(s) TC----------------, referente(s) à(s) (Tipo de Processo), julgado(s) irregular(es)/com imputação de débito(s) [ou multa(s)] ao responsável, por meio do(s) Acórdão(s) nº ---------, Sessão de ----------, Ata nº ---------, in  DOU de -----------, contra o(s) qual(is) foi(ram) interposto(s) (Recurso de Revisão ou o Recurso previsto no artigo 234 da Resolução Administrativa nº 15/93) , que não tem efeito suspensivo sobre a condenação original.
+
+
+
+                              ,  em         de                      2000.
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+
+
+Secretário 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Manual para Emissão de Certidões de que trata a Portaria da Presidência nº 256/00 e o artigo 61 da Resolução nº 136/00
+
+

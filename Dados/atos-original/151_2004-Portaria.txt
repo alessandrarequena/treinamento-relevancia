@@ -1,0 +1,662 @@
+Portaria
+151/2004
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+
+Art. 1º  Fica aprovada a realização do projeto Análise e Instrução Eletrônica de Atos de Pessoal no TCU  nos termos da proposta anexa a esta portaria.
+
+
+
+
+
+Art. 2º  Fica designado o técnico de controle externo DELVAN FERREIRA TAVARES, matrícula nº 2479-1, para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Coordenador de Projeto, código FC-3, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+
+
+
+Parágrafo único. Cabe ao gestor do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria - TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos. 
+
+
+
+Art. 3º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto Análise e Instrução Eletrônica de Atos de Pessoal no TCU  e designa seu gestor.
+
+ANEXO ÚNICO
+
+
+
+
+
+
+
+
+
+1.	Identificação do gestor do projeto
+
+
+PROJETO: ANÁLISE E INSTRUÇÃO ELETRÔNICA DE ATOS DE PESSOAL 
+
+Página 1 de 4
+2.	Identificação do projeto
+
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestorOrigem da FC
+
+Delvan Ferreira Tavares
+
+2479-1
+
+ 
+
+GGerente
+
+X
+
+Ccoordenador
+
+ 
+
+LLíder
+
+SSEGECEX
+
+Nome do substituto eventual
+
+Matrícula
+
+José Spinosa Júnior
+
+2460-0
+
+Local/telefone
+
+Secretaria de Fiscalização de Pessoal – SEFIP    Tel: 316.7655 –  Anexo 1 – Sala 008
+3.	Vinculação estratégica
+
+
+Nome do projeto
+
+ANÁLISE E INSTRUÇÃO ELETRÔNICA DE ATOS DE PESSOAL
+
+Período de realização
+
+Unidade patrocinadora
+
+01.06.2004  à 01.06.2006
+
+Secretaria-Geral de Controle Externo - SEGECEX
+4.	Problema / oportunidade
+
+
+Vínculo principal com Plano Estratégico do TCU (objetivo e estratégia)
+
+a)
+
+Objetivo 1 – Cumprir com tempestividade e qualidade as competências do TCU.
+
+Estratégia 1 – Ampliar e aprimorar o uso da tecnologia da informação.
+
+Medida h) concluir a implementação dos sistemas de coleta e instrução eletrônica de contas e dos sistemas de auditoria e instrução eletrônica de atos de pessoal.
+
+Vínculo principal com Plano de Diretrizes - se houver (diretriz e medida)
+
+a)
+
+Diretriz 1 – Reduzir a idade média e o estoque de processos de Controle Externo.
+
+Medida 1.6 – Estender a sistemática de análise eletrônica para todos os atos de pessoal;
+
+Medida 1.7 – Estender a sistemática de instrução para todos os atos de pessoal.
+
+Vínculo principal com Plano Diretor - se houver  (diretriz e medida)
+
+a)
+
+Diretriz 1 – Reduzir a idade média e o estoque de processos de Controle Externo.
+
+Medida 1.5 – Estender a sistemática de análise eletrônica para todos os atos de pessoal;
+
+Medida 1.6 – Estender a sistemática de instrução para todos os atos de pessoal.
+5. 	Escopo do projeto
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+5.2. Meta – indicador – produto – cliente
+
+
+Estender a sistemática de análise e instrução eletrônica para todos os atos de admissão e concessão.
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto – EAP )
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Implementar os módulos de análise eletrônica dos atos de reforma inclusive alteração das leis, atualizações e inovações.
+
+1
+
+01.10.2004
+
+Módulo aprovado
+
+ 
+
+Módulo de análise Eletrônica de reforma concluido
+
+Sefip
+
+MPTCU
+
+Gabinetes
+
+b)
+
+Implementar os módulos de análise eletrônica de  pensões civis e militares inclusive alterações das leis, atualizações e inovações
+
+1
+
+01.05.2005
+
+Módulo aprovado
+
+Módulo de análise eletrônica de pensões
+
+Sefip
+
+MPTCU
+
+Gabinetes
+
+c)
+
+Aperfeiçoar o módulo de análise eletrônica dos atos de aposentadoria.
+
+1
+
+ 
+
+01.02.2005
+
+Módulo aprovado
+
+Módulo de análise eletrôncia de aposentadoria
+
+Sefip MPTCU
+
+Gabinetes
+
+d)
+
+Implementar diligência eletrônica de aposentadorias
+
+1
+
+01.06.2006
+
+Módulo aprovado
+
+Módulo de geração automatizada de diligências concluido
+
+Sefip
+
+UJs
+
+e)
+
+Implementar diligência eletrônica de reforma
+
+1
+
+01.02.2005
+
+Módulo aprovado
+
+Módulo de geração automatizada de diligências concluido
+
+Sefip
+
+UJs
+
+f)
+
+Implementar diligência eletrônica de pensões civis e militares
+
+1
+
+01.09.2005
+
+Módulo aprovado
+
+Módulo de geração automatizada de diligências concluido
+
+Sefip
+
+UJs
+
+g)
+
+Implementar instrução eletrônica de todos os atos de pessoal especificados por clientela e por diretoria
+
+1
+
+01.06.2006
+
+Módulo aprovado
+
+Módulo de instrução eletrônica dos atos por clientela concluido
+
+Sefip
+
+h)
+
+Fazer depuração dos dados remanescentes no Sisac que estão duplicados , incompletos ou sem desligamentos
+
+100%
+
+01/11/2004
+
+Percentual de dados atualizados em relação à quantidade de dados com inconsistência
+
+Dados remanescentes da base Sisac depurados
+
+Sefip
+
+i)
+
+Elaborar documentação completa, para usuário, de todos os sistemas
+
+1
+
+01.06.2006
+
+Manual aprovado
+
+Manuais de utilização concluidos
+
+Sefip
+
+j)
+
+Realizar treinamento dos usuários do sistema de análise, diligência e instrução de atos de pessoal
+
+100%
+
+01.06.2006
+
+Percentual de usuários treinados em relação à quantidade de usuários a treinar
+
+Funcionários treinados
+
+Servidores da Sefip,
+
+CI,  Ujs,
+
+TCEs, TCM
+
+ISC
+5.4 Não Escopo
+
+6.	Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+Automação dos gabinetes e do MPTCU
+
+b)
+
+Automação das UJs
+
+c)
+
+Elaboração da documentação do código do sistema 
+
+d
+
+Mudança de tecnologia do Sisac
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+
+Parte envolvida:
+
+ patrocinador, cliente, fornecedor interno ou externo de serviços e recursos (humanos e  físicos), parceiro 
+
+Item negociado com as partes envolvidas internas ou 
+
+item a negociar com as partes envolvidas externas
+
+a)
+
+Segecex
+
+Patrocinador.
+
+b)
+
+c)
+
+ 
+
+ 
+
+ 
+
+Sefip
+
+Setec
+
+ 
+
+ 
+
+ 
+
+Fornecer RH e recursos tecnológicos e cliente principal.
+
+Fornecer 3 máquinas de alta performance, software 2003 Server, acesso às tabelas relacionadas ao sistema Sisac,  Radar, Clientela, Processus e Sinergia .
+
+Colocar a base do Sisac no Sinergia e oferecer treinamento  e acesso ao BO. Colaborar na depuração da base Sisac.
+
+e)
+
+MP junto ao TCU
+
+Apoio para análise das críticas dos atos de pessoal.
+
+f)
+
+g)
+
+Gabinetes de Ministros ISC
+
+Representante dos gabinetes para críticas/automação.
+
+ 
+
+Apoio na parte de treinamento dos sistemas.
+8.	Relação com outros projetos
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) evitar / (M) mitigar/ (R) reduzir impacto
+
+Responsável 
+
+pela ação
+
+a)
+
+Atribuição à equipe de outras atividades não vinculadas aos objetivos do projeto
+
+ Alto
+
+Baixa
+
+(E) Negociar a transferência de atividades de rotina para outros servidores externos à equipe do projeto.
+
+Secretário
+
+b)
+
+Alterações da legislação
+
+Baixo
+
+Alta
+
+(R) Negociar aumento de quadro 
+
+Secretário
+
+c)
+
+Mudança de tecnologia para XML
+
+Alto
+
+Alta
+
+(M) Treinamento
+
+Secretário
+
+d)
+
+Indisponibilidade das máquinas de alto desempenho
+
+Baixo
+
+Baixa
+
+(M) Negociação com Setec
+
+Secretário
+
+e)
+
+Indisponibilidades dos sistemas informatizados
+
+Alto
+
+Baixa
+
+(M) Negociar  com Setec.
+
+Secretário
+
+e Gestor
+9.	Custos estimados
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+a)
+
+Apreciação Automatizada de Atos de Pessoal
+
+Sinergia 
+
+N/A
+
+10.	Outros recursos necessários
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Aquisição de solução para processamento de análises eletrônicas em alta performance.
+
+40.000,00
+
+01/12/2004
+
+Total de custos estimados
+
+40.000,00
+
+ 
+11.	Equipe do projeto
+
+12.	Finalização
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+a)
+
+Delvan Ferreira Tavares
+
+2479-1
+
+SEFIP
+
+01.06.2004 a 01.06.2006
+
+Integral (Coordenador)
+
+b)
+
+José Spinosa Junior
+
+2460-0
+
+SEFIP
+
+01.06.2004 a 01.06.2006
+
+Integral
+
+c)
+
+Luiz Henrique Correa Quemel
+
+2397-3
+
+SEFIP
+
+01.06.2004 a 01.06.2006
+
+Integral
+
+d)
+
+Fernando Minoda
+
+601-3
+
+SETEC
+
+01.06.2004 a
+
+01.06.2006
+
+Parcial
+
+e)
+
+Paulo Cesar Silveira Cardoso
+
+434-1
+
+SETEC
+
+01.06.2004 a
+
+01.06.2006
+
+Parcial
+
+
+
+
+
+Data e assinatura do gestor do projeto
+
+Em   22 / 6 /2004
+
+ 
+
+Delvan Ferreira Tavares
+
+ 
+
+Manifestação do titular da unidade de patrocinadora
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em    9 / 6 / 2004.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Unidade   22 / 6 /2004
+
+ 
+
+ 
+
+Antônio Júlio Ferreira
+
+ 
+
+
+
+
+
+

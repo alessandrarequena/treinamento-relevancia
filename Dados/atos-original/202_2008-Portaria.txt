@@ -1,0 +1,173 @@
+Portaria
+202/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da competência prevista no inciso XXXIV do art. 28 do Regimento Interno
+
+
+Considerando a necessidade de otimizar o uso dos recursos de tecnologia da informação em favor da melhoria dos resultados dos processos de trabalho;
+
+
+Considerando a importância de acesso e uso de dados e informações constantes de sistemas de arquivos compartilhados e de bases de dados corporativas, para subsidiar as atividades de profissionais de empresas contratadas e estagiários no âmbito do TCU;
+
+
+Considerando os princípios, objetivos e diretrizes referentes à Política Corporativa de Segurança da Informação do Tribunal; e
+
+
+Considerando as regras vigentes para gestão e uso de soluções de tecnologia da informação no âmbito do TCU, em especial aquelas estabelecidas pelas Portarias-TCU nº 105, de 29 de maio de 2006, nº 169, de 31 de julho de 2006, e nº 137, de 2 de maio de 2007, resolve:
+
+
+Art. 1º A concessão de perfil de acesso a soluções de tecnologia da informação (TI) para profissionais de empresas contratadas e estagiários observa o disposto nesta Portaria.
+
+
+Art. 2º A concessão do perfil a que se refere esta Portaria deve ser solicitada, à Secretaria de Tecnologia da Informação, pelo titular ou substituto da unidade ou subunidade onde serão executadas as atividades, e deve ser precedida de cadastramento do usuário na Rede TCU e de assinatura do Termo de Responsabilidade constante do anexo a esta Portaria.
+
+
+§ 1º A solicitação da concessão do perfil deverá conter justificativas que levem em consideração sua efetiva adequação às necessidades da unidade ou subunidade solicitante quanto às atividades a serem executadas, limitando-se o acesso ao atendimento dessa finalidade.
+
+
+§ 2º Cessado o motivo da concessão do perfil, o titular da unidade ou subunidade solicitante, ou seu substituto, deverá requerer a imediata revogação do perfil à Secretaria de Tecnologia da Informação.
+
+
+§ 3º No caso de profissional de empresa contratada pelo Tribunal, compete à empresa coletar a assinatura do profissional, juntamente com a do respectivo preposto, no Termo de Responsabilidade, e remetê-lo à unidade do TCU fiscalizadora do contrato, para que seja juntado ao pertinente processo de fiscalização.
+
+
+§ 4º No caso de estagiário, compete à Secretaria de Gestão de Pessoas, na Sede, e às secretarias de controle externo, nos estados, providenciar a assinatura e a guarda do Termo de Responsabilidade.
+
+
+§ 5º Na aplicação dos §§3º e 4º, deve ser entregue, no ato da assinatura do Termo de Responsabilidade, mediante recibo, cópia de normas integrantes da política corporativa de segurança da informação do TCU.
+
+
+§ 6º Cabe à Secretaria de Tecnologia da Informação disponibilizar no Portal TCU formulário para solicitação de concessão e revogação de perfil, bem como demais orientações e documentos necessários.
+
+
+§ 7º A solicitação de concessão e de revogação de novos perfis em função de alteração da unidade ou subunidade onde serão executadas as atividades devem observar, no que couber, o disposto neste artigo.
+
+
+Art. 3º Ao titular, ou substituto, da unidade ou subunidade solicitante do perfil compete dar ciência aos profissionais de empresas contratadas e estagiários sobre as regras contidas nesta Portaria, acompanhar e supervisionar as ações que sejam por eles executadas a partir do perfil concedido, incluindo aquelas relativas à carga de processos e de documentos que tenham recebido aceite por esses colaboradores.
+
+
+§ 1º No caso de eventuais danos causados ao Tribunal, a seus servidores ou a terceiros, advindos do uso indevido do acesso concedido, respondem perante este Órgão, conforme o caso:
+
+
+a) o profissional responsável pela prática do ato irregular, na forma prevista no Termo de Responsabilidade anexo a esta Portaria, bem como a empresa à qual este se encontra vinculado, por força do que dispõe o art. 70 da Lei nº 8.666, de 21 de junho de 1993;
+
+
+b) o estagiário responsável pela prática do ato irregular, na forma prevista no Termo de Responsabilidade anexo a esta Portaria;
+
+
+c) o servidor responsável pela solicitação do acesso, na medida em que tenha concorrido para a consumação do ato irregular, de forma dolosa ou culposa; e
+
+
+d) qualquer outro servidor que tenha concorrido para a consumação do ato irregular, de forma dolosa ou culposa.
+
+
+§ 2º Ocorrendo a situação descrita no parágrafo anterior, a responsabilidade deve ser apurada mediante processo administrativo instaurado para esse fim, notificando-se os possíveis envolvidos a oferecer defesa específica, com plena observância aos princípios do devido processo legal, do contraditório e da ampla defesa.
+
+
+Art. 4º Cabe à unidade gestora de cada solução de TI, com apoio da Secretaria de Tecnologia da Informação, definir as regras para concessão dos perfis a que se refere esta Portaria.
+
+
+§ 1º As regras de concessão definidas pelas unidades gestoras devem observar as regras gerais aplicáveis à segurança da informação e ao uso de soluções de TI no TCU.
+
+
+§ 2º É vedada a concessão, para profissionais de empresas contratadas e estagiários, de perfil de acesso a recursos e soluções de TI cujas informações e operações exijam acesso restrito por questões de sigilo de informações, ou por serem diretamente vinculadas a atividades típicas de controle externo, bem como de perfil que não esteja compatível com as atividades inerentes ao respectivo objeto do instrumento que rege a contratação dos profissionais e disciplina o agenciamento dos estagiários.
+
+
+§ 3º As regras de concessão de perfis definidas nos primeiros meses de vigência desta Portaria devem ser compatíveis com os requisitos tecnológicos atualmente disponíveis nas soluções de TI, observado o disposto no parágrafo seguinte.
+
+
+§ 4º As regras de concessão de perfis que impliquem esforço significativo de manutenção das soluções de TI envolvidas serão implementadas, de modo gradual, pela Secretaria de Tecnologia da Informação.
+
+
+§ 5º A Secretaria de Tecnologia da Informação deve, gradativamente e mediante avaliação do esforço de manutenção das soluções de TI envolvidas, implementar procedimentos que possibilitem a revogação automática dos perfis de acesso, quando ocorrerem os motivos para revogação dos perfis, sem prejuízo das responsabilidades, definidas no art. 2º desta Portaria, relativas ao titular ou substituto da unidade ou subunidade onde serão executadas as atividades dos profissionais de empresas contratadas e estagiários.
+
+
+§ 6º Cabe à Comissão de Coordenação Geral definir a prioridade de implementação das alterações de que tratam os §§ 4º e 5º deste artigo, frente às demais demandas existentes por manutenção de sistemas corporativos.
+
+
+§ 7º Fica a Comissão de Coordenação Geral autorizada a vetar a implementação de regras de concessão de perfis que sejam consideradas inadequadas, por razões técnicas ou administrativas.
+
+
+Art. 5º À Secretaria de Tecnologia da Informação cabe a concessão e a revogação de perfis, mediante solicitação formulada em consonância com o art. 2º desta Portaria e em conformidade com as regras para concessão a serem definidas nos termos do artigo anterior.
+
+
+Art. 6º Para viabilizar a implementação deste normativo, deve ser realizado mapeamento e modelagem de processos de trabalho que contemplem procedimentos inerentes à concessão e à revogação dos perfis de acesso aos sistemas para profissionais de empresas contratadas e estagiários.
+
+
+Parágrafo único. Incumbe à Secretaria de Planejamento e Gestão coordenar o mapeamento e a modelagem a que se refere o caput, com o apoio das unidades responsáveis pela definição dos procedimentos de concessão e revogação dos perfis.
+
+
+Art. 7º Compete à Comissão de Coordenação Geral regulamentar os atos necessários à implementação desta Portaria bem como, se necessário, alterar o Termo de Responsabilidade constante do Anexo.
+
+
+Art. 8º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre a concessão de perfil de acesso a soluções de tecnologia da informação para profissionais de empresas contratadas e estagiários, no âmbito do Tribunal de Contas da União.
+
+ANEXO À PORTARIA-TCU Nº 202, DE 8 DE SETEMBRO DE 2008
+
+
+
+
+TERMO DE RESPONSABILIDADE NO USO DE RECURSOS DE TECNOLOGIA DA INFORMAÇÃO
+
+
+1. Declaro-me ciente das normas e regras que disciplinam a utilização de soluções e recursos de Tecnologia da Informação (TI) colocados à minha disposição para exercício de atividades no âmbito do Tribunal de Contas da União, nos termos definidos na Resolução-TCU nº 126/99 e Portaria-TCU nº 202/2008, cujas cópias recebo neste momento, bem assim que:
+
+
+a) as senhas vinculadas ao meu código de usuário, destinadas ao acesso a soluções de TI disponíveis no Tribunal de Contas da União, são de meu uso pessoal e intransferíveis, sendo meu dever garantir a proteção e o sigilo das mesmas e assumir a responsabilidade por todas as transações efetuadas sob esse código de identificação;
+
+
+b) devo cumprir as normas e regras para utilização dos recursos e soluções de TI fornecidos pelo Tribunal de Contas da União, assim como respeitar a legislação aplicável em todo acesso obtido por meio do meu código de usuário e da senha a ele vinculada, inclusive nos casos em que o acesso seja realizado a partir de equipamentos e canais de comunicação não pertencentes ao Tribunal;
+
+
+c) devo manter sigilo sobre as informações armazenadas nas soluções de TI às quais tiver acesso mediante o uso do meu código de usuário e senha correspondente, não podendo divulgar tais informações a terceiros sem a expressa autorização do servidor responsável pela concessão do perfil de acesso às mesmas;
+
+
+d) constitui infração grave o uso indevido ou fraudulento de recursos e soluções de TI do Tribunal de Contas da União, bem como a divulgação de dados sigilosos da instituição ou a sua utilização para quaisquer outros fins que não sejam estritamente no interesse do serviço, sujeitando-me às penalidades decorrentes;
+
+
+e) os recursos e soluções de TI colocados à minha disposição são de utilização exclusiva para assuntos de serviço, não podendo utilizá-los para atividades alheias ao trabalho, e estão sujeitos a monitoramento pelo Tribunal de Contas da União, inclusive no que se refere ao conteúdo de arquivos e mensagens de correio eletrônico, o que autorizo expressamente ao assinar o presente termo;
+
+
+f) o Tribunal de Contas da União se resguarda o direito de suspender o meu acesso a sistemas de informação, correio eletrônico, internet e outras soluções e recursos de TI a qualquer momento, ainda que sem prévia comunicação, manifestando, desde já, minha concordância com essa medida;
+
+
+g) o Tribunal poderá introduzir modificações nas normas e regras que disciplinam a utilização de soluções de TI, divulgando-as aos usuários por meio de comunicação escrita ou eletrônica, sendo tais modificações consideradas aceitas automaticamente quando de meu subseqüente acesso a tais soluções.
+
+
+2. Comprometo-me, ainda, a:
+
+
+a) notificar a Secretaria de Tecnologia da Informação e o dirigente da unidade ou subunidade onde executarei as atividades acerca de qualquer suspeita ou ameaça por mim detectada, que implique o comprometimento de minha senha, bem como do sigilo e da integridade das informações armazenadas nas soluções de TI do Tribunal;
+
+
+b) uma vez comprovada minha culpa, assumir total responsabilidade por danos causados ao Tribunal de Contas da União, a seus servidores e a terceiros pelo uso indevido dos acessos a mim autorizados, inclusive por qualquer calúnia, difamação, infração de propriedade intelectual, bem assim a violação de quaisquer outros direitos, arcando, se necessário, com os ônus decorrentes.
+
+
+
+(nome da cidade) – (sigla da unidade da federação), em       de                 de      
+
+
+----------------------------------------------------
+
+----------------------------------------------------
+
+(nome e CPF do profissional contratado ou do estagiário)
+
+(nome e CPF do preposto da empresa, no caso do profissional contratado)
+
+
+

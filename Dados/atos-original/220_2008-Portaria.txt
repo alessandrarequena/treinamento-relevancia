@@ -1,0 +1,1020 @@
+Portaria
+220/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 83,§1º, da Resolução-TCU nº 214, de 20 de agosto de 2008, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 31 de outubro de 2008, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto Especificação de Sistema de Gestão de Pessoas - SGP, aprovado pela Portaria-TCU nº 227, de 26 de setembro de 2007, e prorrogado pela Portaria-TCU nº 151, de 16 de junho de 2008.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 3º Esta Portaria entra em vigor a partir de 1º de outubro de 2008.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto Especificação de Sistema de Gestão de Pessoas - SGP.
+
+ANEXO À PORTARIA-TCU Nº 220, DE 6 DE OUTUBRO DE 2008
+
+
+
+
+
+
+
+Período do projetoI - Unidade patrocinadoraII - Gestor do projeto
+
+24/09/2007 a 30/09/2008
+
+Segedam/Segep
+
+Vadis Antonio Bellaver
+
+
+
+
+1.	Objetivo do projeto
+
+
+
+Especificar, com objetivo de licitação, Sistema de Gestão de Pessoas.
+
+
+
+
+
+
+2.	Situação do projeto (em relação ao previsto no relatório de prorrogação nº 1)
+
+
+Execução em relação ao total do projeto
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+(    ) 41% a 80% executado
+
+( X ) acima de 80% executado
+
+Controle
+
+(    ) Execução adiantada
+
+(    ) Execução dentro do previsto
+
+( X ) Execução atrasada
+
+
+
+3.	Cumprimento de metas acordadas no relatório de prorrogação nº 1
+
+
+ProdutoIII - QuantoIV - Data de términoV - ComentáriosVI - (comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+a) 
+
+Documento de requisitos tecnológicos
+
+90%
+
+ 
+
+Produto entregue, revisado pelo cliente Setec, última versão datada de 23/7/2008. Depende de ajustes em função do resultado da consulta ao mercado para ser aceito.
+
+b) 
+
+Documento de requisitos de usabilidade
+
+90%
+
+ 
+
+Produto entregue, revisado pelo cliente Setec, última versão datada de 25/8/2008. Depende de ajustes em função do resultado da consulta ao mercado para ser aceito.
+
+c) 
+
+Documento de requisitos de segurança da
+
+informação
+
+90%
+
+ 
+
+Produto entregue, revisado pelos clientes em reunião, última versão datada de 13/8/2008, pendente de revisão final pelo coordenador do projeto Segurança de TI. Depende dessa revisão e de ajustes em função do resultado da consulta ao mercado para ser aceito.
+
+d) 
+
+Documento de requisitos de migração
+
+90%
+
+ 
+
+Produto entregue, aceito pelos clientes Segep e ISC, revisado pelo cliente Setec, última versão datada de 4/9/2008. Depende de ajustes em função do resultado da consulta ao mercado para ser aceito pela Setec.
+
+e) 
+
+Documento de requisitos de integração
+
+80%
+
+ 
+
+Produto entregue, em revisão pelo cliente Setec, última versão datada de 9/9/2008. Depende da conclusão da revisão e de ajustes em função do resultado da consulta ao mercado para ser aceito.
+
+f) 
+
+Documento de requisitos de documentação
+
+80%
+
+ 
+
+Produto entregue, em revisão pelo cliente Setec, última versão datada de 11/9/2008. Depende da conclusão da revisão e de ajustes em função do resultado da consulta ao mercado para ser aceito.
+
+g) 
+
+Método de avaliação das respostas
+
+Aceito
+
+15/8/2008
+
+Produto apresentado no relatório “idSisdoc_600749v2-90 - SGP - planejamento de consulta ao mercado.doc”
+
+h) 
+
+Termo da consulta ao mercado
+
+Aceito
+
+15/8/2008
+
+Produto apresentado no relatório “idSisdoc_600749v2-90 - SGP - planejamento de consulta ao mercado.doc”
+
+i) 
+
+Relatório da consulta ao mercado
+
+70%
+
+ 
+
+O termo de consulta ao mercado foi enviado a 18 empresas, em 18 e 19/8, com prazo sugerido de 10 dias úteis. Após 24 dias úteis, 17 empresas  confirmaram recebimento, 4 enviaram resposta e 2 declinaram em responder. Em 18 e 19/9 a consulta foi enviada a outras 2 empresas e a todas foi dado prazo final de 26/9.
+
+j) 
+
+Plano de implantação do SGP
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+k) 
+
+Cronograma físico-financeiro
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+l) 
+
+Critérios de aceite dos produtos entregues
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+
+
+
+
+
+
+
+
+
+
+m) 
+
+Caracterização das equipes técnicas do TCU e da empresa contratada
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+n) 
+
+Documento Acordo de Níveis de Serviço
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+o) 
+
+Métodos de apuração dos indicadores de níveis de serviço
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+p) 
+
+Critérios de aceitabilidade de preços
+
+30%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+q) 
+
+Planilha orçamentária
+
+30%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+r) 
+
+Definição de papéis e responsabilidades contratuais
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+s) 
+
+Definição de protocolos contratuais
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+t) 
+
+Documento de requisitos de treinamento
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+u) 
+
+Plano de sustentação da solução de TI
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+v) 
+
+Quadro de obrigações e penalidades
+
+80%
+
+ 
+
+Produto a ser entregue aos clientes para revisão até 30/9.
+
+w) 
+
+Minuta do projeto básico
+
+ 
+
+ 
+
+Produto não iniciado.
+
+x) 
+
+Propostas comerciais
+
+ 
+
+ 
+
+Produto não iniciado.
+
+y)
+
+Relatório final do projeto
+
+ 
+
+ 
+
+Produto não iniciado.
+
+
+
+
+
+
+4.	Atividade realizada fora do plano (se couber)
+
+
+DescriçãoVII - Comentários
+
+a) 
+
+Organização do evento que recebeu no TCU comitiva do STJ para conhecer aspectos do projeto SGP.
+
+Ao sermos procurados pela secretária de gestão de pessoas do STJ, órgão também interessado em obter moderna solução de TI para o negócio gestão de pessoas, organizamos o evento do dia 9/7, no qual foi recepcionada comitiva do STJ com 16 pessoas, foram feitas apresentações por parte do TCU e do STJ, com proveitoso intercâmbio de conhecimentos. Na sequência, foi redigida matéria publicada no União do dia 17/7, com a finalidade de divulgar o encontro e informar aos servidores a situação do projeto SGP.
+
+b) 
+
+Consulta à comunidade TIControle.
+
+Por orientação da Assessoria da Setec, efetuamos consulta formal à comunidade TIControle quanto à existência de soluções ou iniciativas correlatas ao projeto SGP. Algumas respostas foram recebidas e investigadas, sem qualquer resultado que pudesse ser aproveitado pelo TCU.
+
+c) 
+
+Organização de apresentação sobre modelos de contratação de TI.
+
+Apresentação sobre modelos de contratação de TI foi feita, em 25/7, pela empresa Microlog a público gerencial da Setec, sob coordenação da equipe SGP.
+
+d) 
+
+Pesquisa para ampliação da relação de empresas potenciais fornecedoras do SGP.
+
+Para deixar a consulta ao mercado mais representativa, foi feita essa pesquisa que obteve dados de contato comercial e dos presidentes das empresas que, a seguir, receberam o termo de consulta ao mercado.
+
+
+
+
+
+
+
+
+
+
+
+5.	Dificuldade encontrada (se couber)
+
+
+DificuldadeVIII - Ação para saneamento
+
+a)0) 
+
+Falta de domínio do negócio e de processo de trabalho atualizado e consolidado para contratação desse tipo de soluções de TI, sistemas aplicativos de grande porte com alto nível de integração com outros sistemas. Trata-se de ônus inerente ao pioneirismo da ação, tanto no TCU, como na Administração Pública.
+
+1. Foram consideradas as melhores práticas observadas no planejamento da contratação da solução de Controle de Acesso de Pessoas pelo gestor do projeto (processo nº 006.721/2008-1).
+
+2. Foram consideradas as melhores práticas consolidadas no projeto Contratar TI (em cumprimento ao item 9.7 do Acórdão 1.558/2003-P) e aplicadas na contratação do serviço de avaliação do nível de maturidade da TI no TCU usando o padrão Cobit (processo nº 001.476/2008-0).
+
+3. Foi tomada como referência a Instrução Normativa nº 4 da SLTI/MPOG, publicada em 20/5/2008, que dispõe sobre o processo de contratação de serviços de TI pela Administração Pública Federal direta, autárquica e fundacional.
+
+b) 
+
+Retardo na nova composição da equipe de projeto.
+
+1. A prorrogação nº 1, de 4 meses, aprovou reformulação da equipe na qual constou um ACE-TI e um estagiário perfil TI, ambos a serem indicados pela Setec.
+
+2. Após extensa negociação do gestor do projeto, o ACE-TI Luís André foi deslocado do projeto Pessoa para o projeto SGP, mas apenas a partir de 1º/8, o que equivale dizer “no segundo tempo da prorrogação”. A produtividade da equipe, a partir de então, melhorou muito, validando a tese da necessidade de analista especializado em TI nas fases finais do projeto.
+
+3. Em relação ao estagiário, nenhum foi indicado pela Setec, mas apenas foi cedida uma vaga de estágio das 12 existentes no projeto Pessoa. Foi necessário o gestor do projeto fazer recrutamento e seleção, resultando na contratação da estagiária Veridiana em 15/7/2008, a qual, após integrada, também tornou-se produtiva apenas “no segundo tempo da prorrogação”.
+
+c) 
+
+Capacidade de revisão e aceite, por parte da Setec, dos produtos do projeto entregues pela equipe SGP, que chegam às áreas da Setec como demandas inesperadas, concorrendo com as prioridades já estabelecidas. Os produtos do projeto têm-se mostrado documentos extensos e com muitas implicações nas diversas áreas da Setec, o que demanda reuniões interdisciplinares que trazem dificuldade de agenda.
+
+1. Negociação com secretário e diretores da Setec para aumentar a prioridade das revisões;
+
+2. Agendamento no Outlook de reuniões de revisão com antecedência;
+
+3. Pedido de revisões por escrito para consolidação pela equipe SGP.
+
+d) 
+
+Falta de boas referências para planejar a consulta ao mercado.
+
+Localizamos a consulta pública ao mercado de soluções para Sistema Integrado de Gestão Administrativa, publicada pela Dataprev em abril de 2008, a qual nos serviu de referência inicial. Outra referência foi uma RFP (Request for Proposal) realizada por empresa privada em fins de 2007. Foi necessário, porém, desenvolver um termo de consulta ao mercado com características específicas de nossas necessidades, em especial, foi concebida uma planilha eletrônica para recolhimento das respostas das empresas de modo a facilitar a posterior consolidação e interpretação de comparativo entre as empresas.
+
+
+
+
+
+
+
+
+
+
+
+6.	Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a) 
+
+Início efetivo de ação para definir Arquitetura de Integração de Sistemas por parte da Diretoria de Sistemas de Informação, Disin/Setec, o que facilitará o processo de integração do SGP com os demais sistemas do TCU, um fator crítico de sucesso na implantação do sistema a ser contratado.
+
+b) 
+
+Movimentação do mercado de potenciais fornecedores de sistema de gestão de pessoas na direção de preparativos e investimentos que aumentarão a aderência de seus produtos a nossos requisitos, o que foi conseguido com a distribuição do termo de consulta ao mercado em agosto de 2008.
+
+c) 
+
+O Superior Tribunal de Justiça (STJ) solicitou os principais documentos do projeto SGP para dar início a seu próprio processo licitatório nos mesmos moldes. Trata-se de ocorrência que concretiza o benefício previsto na proposta do projeto, item 5.3.b, onde foi previsto que o modelo de contratação de solução de TI alinhado à jurisprudência do TCU viria constituir caso concreto com efeito indutor junto à Administração Pública.
+
+
+
+
+
+
+7.	Definição do formato da prorrogação
+
+
+
+Período da prorrogação
+
+1º/10/2008 a 31/10/2008
+
+Justificativa da prorrogação
+
+Em virtude das dificuldades encontradas no decorrer da primeira prorrogação (relacionadas no tópico 5), foram obtidos apenas novos produtos intermediários do projeto, o que torna a segunda prorrogação necessária para alcançar o produto final, qual seja, minuta de termo de referência ou projeto básico que inclua propostas comerciais qualificadas, de modo a subsidiar elaboração de edital de licitação da solução de TI pretendida: Sistema de Gestão de Pessoas.
+
+Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+1. Considerando que as etapas a concluir no projeto têm foco principal em tecnologia da informação e melhores práticas de contratação por licitação pública, a equipe de projeto altera-se em sintonia com essas competências.
+
+2. Em relação ao produto final, termo de referência ou projeto básico, foram relacionadas como clientes as unidades Selip, Secof e Conjur, para que contribuam no processo de revisão do produto. Com isso, pretende-se abreviar o trâmite do processo licitatório entre as áreas para ajustes de edital.
+
+
+
+
+
+METAIX - ProdutoX - Homologador
+
+Objetivo específicoXI - QuantoXII - Data de término
+
+a) 
+
+Definir requisitos tecnológicos
+
+100%
+
+06/10/2008
+
+Documento de requisitos tecnológicos
+
+Setec
+
+b) 
+
+Definir requisitos de usabilidade
+
+100%
+
+06/10/2008
+
+Documento de requisitos de usabilidade
+
+Setec
+
+c) 
+
+Definir requisitos de segurança da informação
+
+100%
+
+06/10/2008
+
+Documento de requisitos de segurança da informação
+
+Setec
+
+Segep
+
+ISC
+
+Assig
+
+d) 
+
+Definir requisitos de migração
+
+100%
+
+06/10/2008
+
+Documento de requisitos de migração
+
+Setec
+
+Segep
+
+ISC
+
+e) 
+
+Definir requisitos de integração
+
+100%
+
+06/10/2008
+
+Documento de requisitos de integração
+
+Setec
+
+f) 
+
+Definir requisitos de documentação
+
+100%
+
+06/10/2008
+
+Documento de requisitos de documentação
+
+Setec
+
+g) 
+
+Elaborar relatório da consulta ao mercado
+
+100%
+
+01/10/2008
+
+Relatório da consulta ao mercado
+
+Setec
+
+h) 
+
+Elaborar plano de implantação
+
+100%
+
+08/10/2008
+
+Plano de implantação
+
+Setec
+
+Segep
+
+ISC
+
+
+
+
+
+
+
+METAXIII - ProdutoXIV - Homologador
+
+Objetivo específicoXV - QuantoXVI - Data de término
+
+i) 
+
+Elaborar cronograma físico-financeiro
+
+100%
+
+08/10/2008
+
+Cronograma físico-financeiro
+
+Setec
+
+j) 
+
+Definir critérios de aceite dos produtos entregues
+
+100%
+
+08/10/2008
+
+Critérios de aceite dos produtos entregues
+
+Setec
+
+k) 
+
+Caracterizar as equipes técnicas do TCU e da empresa contratada
+
+100%
+
+08/10/2008
+
+Caracterização das equipes técnicas
+
+Setec
+
+Segep
+
+ISC
+
+l) 
+
+Elaborar Acordo de Níveis de Serviço (SLA)
+
+100%
+
+08/10/2008
+
+Documento Acordo de Níveis de Serviço
+
+Setec
+
+Segep
+
+ISC
+
+m) 
+
+Definir critérios de aceitabilidade de preços
+
+100%
+
+08/10/2008
+
+Critérios de aceitabilidade de preços
+
+Setec
+
+n) 
+
+Elaborar planilha orçamentária detalhada
+
+100%
+
+08/10/2008
+
+Planilha orçamentária
+
+Setec
+
+o) 
+
+Definir papéis e responsabilidades contratuais
+
+100%
+
+08/10/2008
+
+Definição de papéis e responsabilidades contratuais
+
+Unidades envolvidas
+
+p) 
+
+Definir protocolos contratuais
+
+100%
+
+08/10/2008
+
+Definição de protocolos contratuais
+
+Unidades envolvidas
+
+q) 
+
+Definir requisitos de treinamento
+
+100%
+
+08/10/2008
+
+Documento de requisitos de treinamento
+
+Setec
+
+Segep
+
+ISC
+
+r) 
+
+Elaborar plano de sustentação da solução de TI
+
+100%
+
+08/10/2008
+
+Plano de sustentação da solução de TI
+
+Setec
+
+s) 
+
+Definir obrigações da empresa contratada e respectivas penalidades
+
+100%
+
+08/10/2008
+
+Quadro de obrigações e penalidades
+
+Setec
+
+t) 
+
+Elaborar minuta do termo de referência ou projeto básico
+
+100%
+
+10/10/2008
+
+Minuta do termo de referência ou projeto básico
+
+Setec
+
+Segep
+
+ISC
+
+Selip
+
+Secof
+
+Conjur
+
+u) 
+
+Obter propostas comerciais qualificadas
+
+3
+
+31/10/2008
+
+Propostas comerciais
+
+Setec
+
+Selip
+
+v) 
+
+Elaborar relatório final do projeto
+
+100%
+
+31/10/2008
+
+Relatório final do projeto
+
+Setec
+
+Segep
+
+ISC
+
+Segedam
+
+SegepresXVII - Não escopo (o que o projeto não vai fazer)
+
+a) 
+
+Seleção do fornecedor, fase do processo de contratação que corresponde à seção II do capítulo II da IN nº 4 da SLTI/MPOG, publicada em 20/5/2008.
+
+b) 
+
+Gerenciamento do contrato, fase do processo de contratação que corresponde à seção III do capítulo II da IN nº 4 da SLTI/MPOG.
+
+
+
+
+
+
+
+
+
+
+
+XVIII - Identificação das partes envolvidas no projeto (em relação a que)XIX - Nome da parte envolvidaXX - patrocinador, homologador, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)XXI - Item negociado ou a negociar com as partes envolvidas
+
+a) 
+
+Segedam (patrocinador e homologador)
+
+▪ apoio formal para prorrogação do projeto;
+
+▪ recursos financeiros para pagamento do estagiário;
+
+b) 
+
+Segep (co-patrocinador, homologador e fornecedor)
+
+▪ apoio formal para prorrogação do projeto;
+
+▪ 1 servidor para compor equipe do projeto, com dedicação por atividade;
+
+▪ espaço físico para localização da equipe (sala 220 do Anexo II);
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+c) 
+
+ISC (homologador e fornecedor)
+
+▪ 2 servidores para compor equipe do projeto, com dedicação por atividade;
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+d) 
+
+Setec (homologador e fornecedor)
+
+▪ 1 servidor ACE-TI para coordenar o projeto, com dedicação integral;
+
+▪ 1 servidor ACE-TI para compor equipe do projeto, com dedicação integral;
+
+▪ 1 pessoa de referência em contratação de soluções de TI para compor equipe do projeto, com dedicação por atividade e foco na revisão do produto final do projeto, termo de referência ou projeto básico;
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+e) 
+
+Segepres (homologador)
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+f) 
+
+Selip (homologador)
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+g)
+
+Secof (homologador)
+
+▪ prioridade para revisão de produtos do projeto submetidos a homologação;
+
+
+
+XXII - Custos estimados (registrar se houver alteração dos custos previstos na proposta)XXIII - RecursoXXIV - Valor estimadoXXV - Data inicial de liberação do recurso
+
+a) 
+
+1 estagiário por um mês
+
+R$ 700,00
+
+1º/10/2008XXVI - Total de custos estimados
+
+R$ 700,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+
+
+
+
+
+
+
+XXVII - Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+
+
+
+
+
+
+8.	Finalização
+
+XXVIII - NomeXXIX - MatrículaXXX - LotaçãoXXXI - originalXXXII - PeríodoXXXIII - Dedicação integral/ parcial / por atividade
+
+1. 
+
+Vadis Antonio Bellaver
+
+6523-4
+
+Setec
+
+1º/10/2008 a 31/10/2008
+
+integral
+
+2. 
+
+Luis Andre Dutra e Silva
+
+7614-7
+
+Setec
+
+1º/10/2008 a 31/10/2008
+
+integral
+
+3. 
+
+Estagiário
+
+ 
+
+Segep
+
+1º/10/2008 a 31/10/2008
+
+integral
+
+4. 
+
+Cristhian dos Santos Camilo
+
+4568-3
+
+Segep
+
+1º/10/2008 a 31/10/2008
+
+por atividade
+
+5. 
+
+Francisco Antonio de Alencar
+
+1727-2
+
+ISC
+
+1º/10/2008 a 31/10/2008
+
+por atividade
+
+6. 
+
+Gustavo Parolin Pimenta Lima
+
+2762-6
+
+ISC
+
+1º/10/2008 a 31/10/2008
+
+por atividade
+
+7. 
+
+( a ser indicado pela Setec )
+
+ 
+
+Setec
+
+1º/10/2008 a 31/10/2008
+
+por atividade
+
+
+
+
+
+

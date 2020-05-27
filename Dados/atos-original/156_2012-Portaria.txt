@@ -1,0 +1,434 @@
+Portaria
+156/2012
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando as disposições da Resolução-TCU nº 247, de 7 de dezembro de 2011, que estabelece a Política de Governança de TI do Tribunal (PGTI/TCU);
+
+
+considerando as disposições da Resolução-TCU nº 217, de 15 de outubro de 2008, que estabelece a Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU);
+
+
+considerando a necessidade de definir as responsabilidades das unidades envolvidas com o provimento e a gestão de soluções de tecnologia da informação (TI);
+
+
+considerando a necessidade de assegurar a participação dos usuários finais e dos gestores da informação na definição e na validação de requisitos e regras de negócio, assim como na homologação das soluções de TI;
+
+
+considerando a importância de estabelecer processos de trabalho, responsabilidades e práticas compatíveis com os modelos de excelência reconhecidos mundialmente, como a norma NBR ISO/IEC 38500:2009, o Control Objectives for Information and Related Technologies (Cobit), a Information Technology Infrastructure Library (ITIL) e a série de normas NBR ISO/IEC 20000:2008; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-028.167/20092, resolve:
+
+
+Art. 1º O provimento e a gestão de soluções de TI no âmbito do Tribunal de Contas da União observarão o disposto nesta Portaria e têm por objetivo contribuir para a eficiência, a eficácia e a efetividade das soluções de TI utilizadas pelo Tribunal, bem como para o alinhamento das ações de TI às estratégias da Organização.
+
+
+§ 1º As unidades envolvidas com o provimento e a gestão de soluções de TI são solidariamente responsáveis pelo cumprimento harmônico das competências atribuídas nesta Portaria.
+
+
+§ 2º Esta Portaria aplica-se às soluções de TI de natureza corporativa e de natureza departamental, com provimento realizado por meio de qualquer das modalidades e abordagens previstas na Resolução-TCU nº 247, de 7 de dezembro de 2011 (PGTI/TCU).
+
+
+§ 3º O provimento de soluções de TI mediante contratação será realizado preferencialmente por meio da abordagem centralizada e observará o disposto nesta Portaria e em normas que disponham sobre licitações e contratos.
+
+
+Art. 2º Para efeito do disposto nesta Portaria, entende-se por:
+
+
+I - solução de TI (solução): nos termos da PGTI/TCU, conjunto formado por elementos de TI e processos de trabalho que se integram para produzir resultados que atendam necessidades do Tribunal;
+
+
+II - módulo de solução de TI: subconjunto de funcionalidades correlatas de uma solução de TI, agrupadas para fins de gestão;
+
+
+III - provimento de solução de TI (provimento): conjunto de ações necessárias para implantar a solução de TI, assegurar seu funcionamento e dar suporte adequado a seus usuários, podendo realizar-se nas modalidades desenvolvimento, aquisição ou manutenção;
+
+
+IV - unidade provedora centralizada: título atribuído à Secretaria de Infraestrutura de Tecnologia da Informação (Setic) ou à Secretaria de Soluções de Tecnologia da Informação (STI), quando uma dessas unidades é selecionada para coordenar os esforços de provimento centralizado de uma solução de TI e para centralizar as interações com a unidade gestora;
+
+
+V - unidade provedora descentralizada: qualquer unidade do Tribunal que realize o provimento descentralizado de uma solução de TI, sob orientação da Setic e da STI;
+
+
+VI - unidade gestora: unidade responsável por definições relativas a processos de trabalho, regras de negócio e requisitos de uma solução de TI, bem como por acordar níveis de serviços para a solução, nos termos desta Portaria;
+
+
+VII - requisitos da solução de TI (requisitos): capacidades ou características que a solução de TI deve apresentar ou condições que a solução deve atender com vistas à realização de seu propósito;
+
+
+VIII - regras de negócio: regras, inerentes ao processo de trabalho, que determinam o comportamento de funcionalidades da solução de TI e como as informações são processadas;
+
+
+IX - partes interessadas: indivíduos, unidades ou organizações que estejam diretamente envolvidos na gestão e na implementação da solução de TI, ou que, ainda que de forma indireta, possam exercer influência ou ser afetados pela solução;
+
+
+X - homologação: conjunto de ações que tem por objetivo verificar a conformidade de uma solução de TI às respectivas regras de negócio e requisitos;
+
+
+XI - ambiente de produção: ambiente computacional para uso efetivo da solução de TI pelos usuários a que esta se destina;
+
+
+XII - nível de serviço: meta de desempenho ou de qualidade definida para a solução de TI, tais como: horário de funcionamento, tempo máximo de resposta, quantidade mínima de transações a processar e nível mínimo de disponibilidade;
+
+
+XIII - acordo de nível de serviço: compromisso estabelecido entre a unidade provedora e a unidade gestora da solução de TI, no qual se estabelecem níveis de serviço para a solução no ambiente de produção, considerando-se as necessidades do negócio, o impacto para o Tribunal, o custo e a capacidade de alocação de recursos para o provimento da solução;
+
+
+XIV - Central de Serviços de TI: equipe responsável pelo atendimento centralizado dos usuários das soluções de TI do Tribunal;
+
+
+XV - roteiro de atendimento: conjunto de instruções destinadas à Central de Serviços de TI que orientam no atendimento de ocorrências e requisições e no esclarecimento de dúvidas relativas a uma solução de TI; e
+
+
+XVI - gestor da informação: nos termos da Resolução-TCU nº 229, de 11 de novembro de 2009, trata-se de unidade ou projeto do TCU que, no exercício de suas competências, produz informações ou obtém, de fonte externa ao Tribunal, informações de propriedade de pessoa física ou jurídica.
+
+
+Art. 3º As soluções de TI classificam-se nos seguintes tipos:
+
+
+I - sistema interno: sistema de informação desenvolvido internamente, recebido de outros órgãos ou entidades, ou adquirido de terceiros pelo Tribunal;
+
+
+II - sistema externo: sistema de informação desenvolvido e mantido por outra instituição, cujo acesso seja permitido a partir do ambiente computacional do Tribunal;
+
+
+III - software de apoio: software aplicativo ou utilitário adquirido ou utilizado pelo Tribunal; e
+
+
+IV - serviço básico: serviços relativos à infraestrutura de comunicação, armazenamento, hospedagem e segurança de dados e informações, assim como outras soluções integradas de software e hardware presentes no ambiente computacional do Tribunal.
+
+
+Art. 4º Consideram-se requisitos de uma solução de Tecnologia da Informação:
+
+
+I - funcionalidade: conjunto de capacidades, ações e resultados que uma solução de TI deve possuir, realizar ou produzir para atender às necessidades do negócio e para assegurar níveis adequados de segurança da informação;
+
+
+II - usabilidade: conjunto de aspectos relativos à interação do usuário com a solução, consideradas a acessibilidade e a satisfação com a solução;
+
+
+III - confiabilidade: conjunto de atributos relacionados à frequência, gravidade e possibilidade de recuperação de falhas, bem como exatidão dos resultados gerados pela solução;
+
+
+IV - desempenho: conjuntos de atributos relativos à eficiência da solução em operação, tais como tempo de resposta e quantidade de recursos utilizados;
+
+
+V - suportabilidade: conjunto de aspectos relacionados à instalação, à configuração e à capacidade de adaptação, de manutenção e de teste da solução;
+
+
+VI - integração: conjunto de aspectos relacionados ao compartilhamento de funcionalidades e de informações com outras soluções em utilização ou em desenvolvimento no âmbito do Tribunal, ou, ainda, com soluções de outros órgãos da administração pública;
+
+
+VII - segurança da informação: conjunto de aspectos relacionados à confidencialidade, integridade e disponibilidade dos dados e informações gerados ou tratados pela solução, critérios para definição de perfis de acesso a funcionalidades, rastreamento de ações realizadas, verificação de autenticidade e garantia de não repúdio, além de outros aspectos gerais de segurança.
+
+
+Art. 5º Compete à unidade gestora da solução de TI, independentemente da natureza da solução, da modalidade e da abordagem de provimento utilizada:
+
+
+I - identificar as necessidades institucionais a serem atendidas pela solução de TI e mapear ou modelar os processos de trabalho a serem informatizados, se necessário, de acordo com métodos, técnicas e padrões definidos pela Secretaria de Planejamento e Gestão (Seplan), de modo a maximizar os benefícios proporcionados pela utilização da solução;
+
+
+II - autorizar, em conjunto com a unidade provedora, o início de atividades relativas ao provimento da solução de TI;
+
+
+III - solicitar, fundamentadamente, a suspensão, o cancelamento ou a alteração de atividade de provimento previamente autorizada;
+
+
+IV - definir, mediante consulta a representantes de usuários, gestores da informação e outras partes interessadas, os requisitos e as regras de negócio da solução de TI, bem como acordar com a unidade provedora os níveis de serviço da solução, de modo a maximizar os benefícios para o Tribunal e promover a integração com as demais soluções;
+
+
+V - propiciar a participação de representantes de usuários e dos gestores da informação, tanto da Sede quanto de Estados, para auxiliar na definição ou validação de regras de negócio, requisitos e níveis de serviço, bem como na homologação da solução de TI;
+
+
+VI - apoiar, no que couber, a unidade provedora da solução de TI na realização dos estudos complementares de que trata o § 2º do art. 6º desta Portaria;
+
+
+VII - solicitar ao Instituto Serzedello Correa (ISC), durante o projeto de desenvolvimento ou contratação da solução de TI, o planejamento das ações de desenvolvimento de competências para uso da solução;
+
+
+VIII - propor, quando necessário, a criação ou alteração de normativos para regulamentar os processos de trabalho apoiados pela solução de TI;
+
+
+IX - elaborar e manter atualizados roteiros de atendimento da solução de TI, com apoio, no que couber, da unidade provedora;
+
+
+X - homologar a solução de TI ou fundamentar a não homologação dentro dos prazos acordados com a unidade provedora;
+
+
+XI - definir, em conjunto com a unidade provedora, estratégia de implantação da solução, considerando a necessidade de capacitação dos usuários e, quando for o caso, a realização de implantação em regime de projeto piloto;
+
+
+XII - autorizar, em conjunto com a Setic, a implantação inicial e posteriores mudanças da solução de TI em ambiente de produção, ou manifestar-se sobre os motivos da não autorização, dentro dos prazos acordados com a unidade provedora;
+
+
+XIII - apoiar ou exercer, em conjunto com a unidade provedora, a fiscalização dos contratos, acordos de cooperação e outros instrumentos congêneres relativos à solução de TI;
+
+
+XIV - elaborar, disponibilizar para consulta pelos usuários e manter atualizados, no Portal TCU, manuais e roteiros de utilização, tutoriais e outras informações necessárias à correta utilização da solução e à compreensão dos processos de trabalho associados, preferencialmente por meio do sistema de que trata o art. 15 desta Portaria;
+
+
+XV - propor ao ISC a realização de diagnóstico de necessidades de desenvolvimento de competências, quando forem identificadas dificuldades na utilização da solução;
+
+
+XVI - participar do planejamento e da execução de ações de desenvolvimento de competências para utilização da solução;
+
+
+XVII - acompanhar e avaliar a utilização da solução e, se necessário, adotar as medidas no âmbito de sua competência ou solicitar providências para que a confidencialidade, a integridade e a disponibilidade da informação sejam preservadas, para que os benefícios esperados sejam alcançados e para que o acordo de nível de serviço seja cumprido;
+
+
+XVIII - preparar e divulgar informes e dar orientações referentes a procedimentos de utilização da solução, sem prejuízo da atuação da Central de Serviços de TI;
+
+
+XIX - receber e analisar solicitações de mudanças ou informações relativas a regras de negócio e requisitos da solução, adotar as providências de sua competência e comunicá-las aos solicitantes;
+
+
+XX - propor à unidade provedora prioridades de atendimento de demandas relativas à solução, observadas as estratégias institucionais, os benefícios esperados e o custo estimado para atendimento de tais demandas;
+
+
+XXI - definir, ouvidos os gestores da informação, os requisitos de segurança necessários para a solução relacionados com a obtenção, tratamento, transmissão, uso, armazenamento e descarte das informações recebidas, produzidas ou tratadas pela solução de TI;
+
+
+XXII - definir e revisar periodicamente, ouvidos os gestores da informação, os privilégios, perfis e direitos de acesso de usuários às funcionalidades e às informações disponibilizadas pela solução, bem como as regras de concessão e revogação;
+
+
+XXIII - avaliar a necessidade de serem implementadas, na solução, funcionalidades que permitam aos usuários e aos gestores da informação classificar, em conformidade com as normas institucionais pertinentes, os elementos de informação que produzirem ao utilizar a solução;
+
+
+XXIV - manifestar-se quanto à conveniência e oportunidade de atendimento a solicitações de órgãos e entidades para cessão de sistema desenvolvido pelo Tribunal;
+
+
+XXV - reavaliar, periodicamente, os benefícios, a necessidade, a utilidade e a utilização da solução de TI e informar à unidade provedora sobre razões que possam ensejar a descontinuidade da solução, para fins de manifestação dessa unidade e subsequente apreciação da matéria pelo Comitê Gestor de Tecnologia da Informação (CGTI) e pela Comissão de Coordenação-Geral (CCG); e
+
+
+XXVI - coordenar, em conjunto com STI e Setic, negociações com os órgãos e entidades envolvidos, para modelar proposta de acesso e uso de sistema externo pelo TCU, a ser viabilizados mediante celebração de instrumento específico.
+
+
+§ 1º O titular da unidade gestora de solução de TI de natureza corporativa deverá designar formalmente servidores com perfil adequado e em quantidade suficiente para exercer prioritariamente as competências previstas nesta Portaria, sem prejuízo do exercício de outras atribuições por tais servidores.
+
+
+§ 2º A designação de que trata o parágrafo anterior deverá ser comunicada à Assessoria de Segurança da Informação e Governança de TI (Assig) ou registrada no sistema de que trata o art. 15 desta Portaria, com vistas ao controle centralizado dessas informações, e poderá, a critério do titular da unidade gestora, ser efetuada em termos de competências específicas.
+
+
+§ 3º Quando da definição de regras de negócio ou requisitos que afetem outras soluções de TI, a unidade gestora deverá, em conjunto com a unidade provedora da solução, promover as negociações necessárias com as partes interessadas.
+
+
+§ 4º Em caso de dúvida quanto à identificação do gestor da informação, a matéria deverá ser submetida à deliberação do Comitê de Segurança da Informação (CSI), instituído pela Resolução-TCU nº 217, de 15 de outubro de 2008.
+
+
+§ 5º Normativo da CCG disciplinará papéis e responsabilidades específicos em caso de desenvolvimento e manutenção de soluções de TI com uso de recursos de terceiros.
+
+
+Art. 6º As demandas para provimento centralizado de soluções de TI, assim como demandas de manutenção com impacto significativo sobre os planos de TI, devem ser submetidas à análise prévia do CGTI, por meio de solicitação formal devidamente motivada, para posterior apreciação pela CCG.
+
+
+§ 1º A solicitação a que se refere o caput deste artigo compete à unidade demandante, com apoio da Setic e da STI, e constitui condição indispensável à apreciação da demanda pela CCG, devendo conter, no mínimo: justificativa da necessidade, descrição de produtos e benefícios esperados, demonstração de aderência aos planos institucionais e identificação das interações com outras soluções de TI.
+
+
+§ 2º O início das atividades de provimento da solução de TI dependerá de apreciação da viabilidade da demanda, pela CCG, com base nas informações a que se refere o parágrafo anterior e nos estudos complementares que se fizerem necessários, como estimativas de custos, análise de riscos e levantamento de alternativas no mercado, a serem elaborados pela unidade provedora da solução de TI, com apoio, no que couber, da unidade gestora.
+
+
+Art. 7º As iniciativas para provimento descentralizado de soluções de TI serão comunicadas ao CGTI, para os fins do disposto no inciso II do art. 8ºdesta Portaria.
+
+
+Parágrafo único. Na abordagem de provimento descentralizada, a unidade provedora da solução será a própria unidade demandante, à qual caberá, ainda, desempenhar o papel de unidade gestora.
+
+
+Art. 8º Compete ao CGTI, para efeito do disposto nesta Portaria:
+
+
+I - analisar e encaminhar à CCG as demandas de que trata o art. 6º desta Portaria, acompanhadas da motivação e de parecer do CGTI com proposta de designação da unidade gestora e da unidade provedora da solução, além de proposta de prioridade, modalidade e abordagem de provimento;
+
+
+II - analisar iniciativas de provimento descentralizado das soluções de que trata o art. 7º desta Portaria, com vistas a avaliar possíveis impactos sobre os resultados e o funcionamento do Tribunal, verificar eventual redundância com soluções existentes ou em processo de provimento e validar a abordagem de provimento utilizada; e
+
+
+III - analisar e encaminhar à CCG as sugestões de alteração de unidade gestora ou provedora, bem como as solicitações de descontinuidade de solução de TI de natureza corporativa, acompanhadas de parecer do CGTI.
+
+
+Art. 9º Compete à CCG, para efeito do disposto nesta Portaria, quanto às soluções de natureza corporativa:
+
+
+I - avaliar as demandas de que trata o art. 6º desta Portaria, decidir quanto à natureza, à prioridade, à modalidade e à abordagem de provimento da solução de TI, designar a unidade gestora e a unidade provedora da solução de TI e aprovar, quando couber, as atualizações nos planos pertinentes;
+
+
+II - autorizar, em caráter excepcional, iniciativa de unidade técnica para provimento descentralizado de solução de TI; e
+
+
+III - decidir quanto à alteração de unidade gestora, de unidade provedora e sobre a descontinuidade de solução de TI.
+
+
+§ 1º A designação de unidade gestora constitui condição indispensável ao início das atividades de provimento e recairá, preferencialmente, sobre unidade que, em função da sua competência institucional, detenha conhecimento e autonomia de decisão sobre as informações e os processos de trabalho abrangidos pela solução.
+
+
+§ 2º A critério da CCG, poderá ser designada unidade gestora para módulo de solução de TI, especialmente quando o provimento tiver impacto relevante sobre os planos de TI ou nas atividades do Tribunal, ou quando a solução servir a processos de trabalho relacionados a diferentes unidades organizacionais.
+
+
+Art. 10. Compete à Setic e à STI, como unidades provedoras centralizadas de solução de TI, consideradas as competências institucionais dessas unidades:
+
+
+I - prover ambiente computacional adequado para desenvolvimento, teste, homologação, treinamento e uso das soluções de TI;
+
+
+II - definir processos, métodos, técnicas, ferramentas e padrões aplicáveis ao provimento de soluções de TI;
+
+
+III - apoiar as unidades provedoras descentralizadas na realização das atividades de aquisição, construção, evolução e disseminação de soluções de TI;
+
+
+IV - negociar, junto à unidade gestora e demais partes interessadas, escopo e prazos do projeto de desenvolvimento, manutenção ou contratação de solução de TI, respeitadas as premissas e as restrições estabelecidas nos planos de Tecnologia da Informação do Tribunal;
+
+
+V - definir, em conjunto com a unidade gestora, a estratégia de implantação e de sustentação durante a fase de estabilização da solução de TI;
+
+
+VI - avaliar as regras de negócio, os requisitos e os níveis de serviço definidos pela unidade gestora da solução de TI e apontar possíveis inconsistências ou incompatibilidades, de modo a promover a integração das soluções de TI, a padronização da arquitetura tecnológica e a maximização dos benefícios para o Tribunal;
+
+
+VII - assegurar o funcionamento da solução de TI de acordo com os níveis de serviço acordados com a unidade gestora;
+
+
+VIII - quando se tratar de provimento centralizado, desenvolver a solução de TI ou planejar e solicitar sua aquisição, de acordo com as regras de negócio e os requisitos especificados pela unidade gestora;
+
+
+IX - manter a unidade gestora e demais partes interessadas informadas sobre o andamento de demandas e projetos relativos à solução de TI;
+
+
+X - quando se tratar de provimento centralizado, fiscalizar, com o apoio ou em conjunto com as respectivas unidades gestoras, contratos, acordos de cooperação ou instrumentos congêneres relativos a soluções de TI;
+
+
+XI - realizar os testes necessários para assegurar o correto funcionamento e a aderência da solução de TI às regras de negócio, aos requisitos e aos níveis de serviço especificados;
+
+
+XII - apoiar a unidade gestora da solução de TI na elaboração de roteiros de atendimentos;
+
+
+XIII - manter a unidade gestora e demais partes interessadas informadas sobre paradas programadas e incidentes relacionados à solução de TI nos ambientes de homologação, de treinamento e de produção;
+
+
+XIV - apoiar, no âmbito de sua área de atuação, as unidades gestoras no planejamento e execução de ações de desenvolvimento de competências para utilização de soluções de TI;
+
+
+XV - encaminhar à unidade gestora, para análise e providências cabíveis, solicitações relativas à modificação de regras de negócio e requisitos da solução de TI;
+
+
+XVI - apoiar as unidades gestoras na formulação de propostas de prioridades de atendimento de demandas relativas a cada solução de TI, consolidar as propostas apresentadas pelas unidades e encaminhá-las às instâncias competentes para subsidiar o planejamento das ações de TI;
+
+
+XVII - solicitar, sempre que necessário, a atuação das unidades envolvidas na gestão e no provimento de soluções de TI, no que se refere ao desempenho das competências previstas nesta Portaria;
+
+
+XVIII - quando se tratar de provimento centralizado, realizar, mediante autorização da CCG, as modificações necessárias para viabilizar a cessão, a outros órgãos e entidades, de sistemas desenvolvidos pelo Tribunal;
+
+
+XIX - custodiar, na forma disposta no art. 12 da Resolução-TCU nº 217, de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU), as informações geradas ou utilizadas pelas soluções de TI;
+
+
+
+
+XX - realizar, a pedido do CGTI ou da CCG, os estudos complementares de que trata o § 2º do art. 6º desta Portaria;
+
+
+XXI - manifestar-se quanto aos aspectos técnicos e custos envolvidos no atendimento a solicitação de cessão de solução de TI desenvolvida pelo Tribunal;
+
+
+XXII - decidir, em situação de emergência, sobre a interrupção de funcionamento de solução de TI que esteja degradando o desempenho ou afetando o funcionamento das demais soluções.
+
+
+§ 1º A Setic e a STI devem manter-se tempestiva e reciprocamente informadas sobre necessidades ou requisitos de soluções de TI cujo provimento esteja a seu cargo e que requeiram providências da outra unidade ou que possam impactar significativamente o ambiente computacional do TCU ou os planos de TI.
+
+
+§ 2º Os níveis de serviço acordados para a solução de TI pela unidade provedora e pela unidade gestora devem ser fundamentados em acordos operacionais realizados entre a Setic e a STI, considerada a real capacidade de atendimento dessas unidades.
+
+
+Art. 11. Compete à unidade provedora descentralizada de solução de TI, com apoio técnico da Setic e da STI, para efeito do disposto nesta Portaria:
+
+
+I - desenvolver a solução de TI ou planejar e solicitar sua aquisição, de acordo com as regras de negócio e os requisitos especificados, observado o disposto no art. 7º desta Portaria;
+
+
+II - realizar os testes necessários para assegurar o correto funcionamento e a aderência da solução de TI às regras de negócio e aos requisitos especificados;
+
+
+III - documentar as regras de negócio e as características técnicas da solução;
+
+
+IV - realizar as manutenções corretivas e evolutivas que se fizerem necessárias;
+
+
+V - disponibilizar o suporte aos usuários da solução de TI que se fizer necessário, relativamente às atividades de provimento que executar, em complemento ao atendimento realizado pela Central de Serviços de TI;
+
+
+VI - manifestar-se, mediante solicitação da CCG, quanto aos aspectos técnicos e custos envolvidos no atendimento a solicitações de órgãos e entidades para cessão de solução sob sua responsabilidade; e
+
+
+VII - realizar, mediante autorização da CCG, as modificações necessárias para viabilizar a cessão, a outros órgãos e entidades, de solução de TI desenvolvida pelo Tribunal.
+
+
+§ 1º O provimento descentralizado de soluções de TI, em qualquer das modalidades definidas na PGTI/TCU, observará os processos, métodos, técnicas, ferramentas e padrões estabelecidos pela Setic e STI para esse fim.
+
+
+§ 2º Nos casos de provimento descentralizado de soluções de TI, a Setic e a STI somente se responsabilizarão pelo ambiente computacional e pelo apoio às atividades de aquisição, construção, evolução e disseminação de soluções que forem desenvolvidas ou adquiridas em consonância com o disposto no parágrafo anterior.
+
+
+Art. 12. Compete ao Instituto Serzedello Corrêa (ISC), para efeito do disposto nesta Portaria:
+
+
+I - apoiar a Secretaria de Gestão de Pessoas (Segep) na definição dos espaços ocupacionais e respectivas competências necessárias ao desempenho das atribuições previstas nesta Portaria;
+
+
+II - elaborar diagnóstico de necessidades de desenvolvimento de competências profissionais e organizacionais para o desempenho das atribuições previstas nesta Portaria e para a utilização das soluções de TI;
+
+
+III - planejar, coordenar, executar e avaliar ações de educação para o desenvolvimento de competências profissionais e organizacionais necessárias ao desempenho das atribuições previstas nesta Portaria e à utilização das soluções de TI.
+
+
+Art. 13. As responsabilidades da unidade gestora, da unidade provedora e das demais partes envolvidas na cessão, a outros órgãos e entidades, de sistemas desenvolvidos pelo Tribunal são estabelecidas em normativo do Presidente do Tribunal, observando-se, para o caso concreto, os limites e as condições indicadas no respectivo instrumento de cessão.
+
+
+Art. 14. Compete à Assig, para efeito do disposto nesta Portaria:
+
+
+I - monitorar e avaliar periodicamente as práticas relativas ao provimento e à gestão de soluções de TI no Tribunal;
+
+
+II - propor diretrizes e orientar as unidades gestoras quanto aos aspectos de segurança da informação a serem observados na definição dos requisitos das soluções de TI;
+
+
+III - atualizar informações no sistema de que trata o art. 15 desta Portaria, mediante autorização da CCG; e
+
+
+IV - revisar, bianualmente ou sempre que necessário, as informações registradas no sistema de que trata o art. 15 desta Portaria e submeter proposta de alterações ao CGTI, para manifestação do comitê e posterior apreciação da matéria pela CCG.
+
+
+Art. 15. As unidades gestoras e provedoras das soluções de TI serão registradas em sistema de informação próprio para manutenção desse registro, que ficará disponível para consulta, pelo público interno, no Portal TCU.
+
+
+§ 1º A base de dados inicial a ser registrada no sistema a que se refere o caput deste artigo será constituída pelas informações constantes do Anexo da Portaria-TCU nº 276, de 18 de novembro de 2008, alterado pela Portaria-CCG nº 2, de 23 de janeiro de 2012.
+
+
+§ 2º O sistema de que trata este artigo deverá fornecer, no mínimo, as seguintes informações: nome da solução de TI, descrição, finalidade, unidade gestora, ato de designação de servidores gestores, identificação dos servidores gestores, período de vigência da gestão, natureza, abordagem de provimento, unidade provedora e os níveis de serviço acordados.
+
+
+Art. 16. Fica autorizada a CCG a expedir os atos necessários à regulamentação desta Portaria e a decidir sobre os casos omissos.
+
+
+Art. 17. Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 18. Ficam revogadas a Portaria-TCU nº 276, de 18 de novembro de 2008, a Portaria-CCG nº 46, de 8 de dezembro de 2009, a Portaria-CCG nº 36, de 16 de dezembro de 2011 e a Portaria-CCG nº 2, de 23 de janeiro de 2012.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+
+Revogada
+Dispõe sobre o provimento e a gestão de soluções de tecnologia da informação no âmbito do Tribunal de Contas da União.
+
+

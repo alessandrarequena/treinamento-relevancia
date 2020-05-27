@@ -1,0 +1,911 @@
+Portaria
+226/2008
+
+
+O VICE-PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, NA PRESIDÊNCIA, no exercício de suas atribuições e com base no art. 83, §1º, da Resolução-TCU nº 214, de 20 de agosto de 2008, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Débitos e Multas, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Esta Portaria entra em vigor na presente data.
+
+
+UBIRATAN AGUIAR
+
+
+na Presidência
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Débitos e Multas.
+
+ANEXO ÚNICO À PORTARIA-TCU Nº 226, DE 9 DE OUTUBRO DE 2008
+
+
+
+
+
+
+
+
+
+
+1.	Identificação do gestor do projeto
+
+
+
+Nome do gestorI - MatrículaII - E-mailIII - Ramal
+
+Raul Daniel Mascarenhas Ferraz
+
+7603-1
+
+rauldm@tcu.gov.br
+
+7986
+
+Função do gestor
+
+ IV - Gerente
+
+xV - Coordenador
+
+ VI - Líder
+
+Nome do substituto eventualVII - MatrículaVIII - E-mailIX - Ramal
+
+Francisca Lúcia Conceição
+
+1725-6
+
+lucialc@tcu.gov.br
+
+7884
+
+Local / telefone
+
+Anexo I Sala 412, 3316-7986
+
+
+
+2.	Identificação do projeto
+
+
+Nome do projeto
+
+Projeto Débitos e Multas
+
+Período de realizaçãoX - Unidade patrocinadora
+
+09/10/2008 a 23/08/2009
+
+SEGECEX
+
+
+
+
+
+3.	Vinculação estratégica
+
+
+Plano Estratégico do TCU (Portaria – TCU nº 02, de 05 de janeiro de 2006).
+
+a) 
+
+Objetivo Estratégico 05 – Punir responsáveis com efetividade e tempestividade.
+
+b) 
+
+Objetivo Estratégico 14 – Aperfeiçoar instrumentos de controle e processos de trabalho.
+
+c) 
+
+Iniciativa Estratégica 11 – Mapear e racionalizar os principais processos de trabalho do TCU.
+
+d) 
+
+Iniciativa Estratégica 13 – Assegurar a qualidade das informações das bases de dados corporativas do TCU.
+
+e) 
+
+Objetivo Estratégico 9 – Atuar em cooperação com órgãos públicos e com a rede de controle.
+
+f) 
+
+Iniciativa estratégica 08 – Promover o intercâmbio de informações, conhecimentos e metodologias de trabalho e a realização de trabalhos conjuntos com órgãos públicos e entidades que subsidiem o exercício do controle.
+
+ Projeto Áquila
+
+a) 
+
+ Projeto Áquila – Proposta Aprovada TCE 5: Promover o aumento do índice de recolhimento de débitos e multas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.	Problema / oportunidade
+
+
+
+Descrição do problema ou da oportunidade 
+
+a) 
+
+Uso de diversos sistemas e bases de dados desintegrados, redundantes e potencialmente inconsistentes entre si. Tal situação é fonte constante de erros nas ações relativas a condenações em debito ou multa. Em conseqüência disso, muito trabalho e tempo são gastos em conferencias e correções. 
+
+b) 
+
+As informações disponíveis nos sistemas atuais do TCU não permitem o adequado acompanhamento das fases e estados dos processos de contas e cobrança executiva.
+
+c) 
+
+Deficiência e lacunas de informação necessária ao acompanhamento das deliberações do TCU que resultem em multa e ou débito. Hoje não é possível obter, por meio dos sistemas do Tribunal, informações como:
+
+▪ Condenações em débito ou multa a serem autuados como processos de cobrança executiva;
+
+▪ Condenações em débito ou multa com recolhimento;
+
+▪ Condenações em multa que não podem ser autuados como processos de cobrança executiva, por exemplo, por falecimento do responsável.
+
+d) 
+
+Não há, atualmente,  controle automatizado confiável do trânsito em julgado das condenações em débito e multa. Tal controle é feito quase manualmente, valendo-se de diversos controles paralelos, uma vez que:
+
+▪ O controle de notificações, fundamental para se definir o trânsito em julgado, não é padronizado no TCU, pois diversas Secexs utilizam sistemas próprios;
+
+▪ A obtenção da informação do trânsito em julgado de recursos em condenações em débito e multa é feito com o auxílio de um sistema paralelo (Cadirreg), com muita redigitação de dados e com  pouquíssima validação, além de abranger somente  as condenações oriundas de contas julgadas irregulares;
+
+▪ Não  existe nos sistemas informações sobre o trânsito em julgado de condenações não oriundas de contas julgadas irregulares, como denúncias, representações e relatórios de auditoria. Algumas Secexs suprem essa lacuna com aplicativos próprios.
+
+ 
+
+e) 
+
+A falta de integração dos sistemas corporativos e a existência de controles paralelos causam grande dificuldade operacional na manutenção das listas de gestores inidôneos e inabilitados para cargos e funções públicas e na geração lista para fins de declaração de inelegibilidade.
+
+f) 
+
+Consumo excessivo de recursos computacionais. O sistema Cadirreg exige muito dos equipamentos servidores e gera impacto direto no desempenho e na disponibilidade dos demais sistemas do Tribunal, como Sisdoc, Sagas, Processus, etc.
+
+g) 
+
+A eficácia das cobranças executivas das multas e débitos imputados pelo Tribunal é muito baixa. Em 2007 o TCU conseguiu arrecadar apenas 2,01% do valor das multas e débitos, conforme as informações hoje disponíveis. 
+
+h) 
+
+ A falta de eficácia no recebimento de multas e débitos é preocupação antiga do TCU, que já realiza ações com o intuito de dotar a Casa de sistemas capazes de auxiliar essa atividade. Prova disso são as diversas ações correlacionadas ao objetivo do projeto encontradas no Plano Diretor de Tecnologia da Informação 2008-2009. Quais sejam:
+
+▪ Ação 1.28 - Integrar o Cadirreg  ao módulo de monitoramento de deliberações e ao Processus.
+
+▪ Ação 1.53  - Viabilizar captura e consulta por meio eletrônico das declarações de bens e rendas a que se refere a Lei nº 8.730, de 1993, e das bases de CPF e CNPJ. 
+
+▪ Ação 1.56 - Implementar melhorias no módulo de acompanhamento da cobrança executiva.
+
+▪ Ação 3.1 -  Implementar mecanismos de consulta à base de dados corporativa do Tribunal, via web services,  para atender demandas da Advocacia Geral da União e de outros órgãos públicos.
+
+Tais ações visam a incrementar a integração dos sistemas, aumentar a interação com órgãos externos e aperfeiçoar o controle sobre as ações que conduzem à cobrança de multas e débitos. Tais objetivos também permeiam os produtos deste projeto.
+
+i) 
+
+Está em andamento na SETEC esforço para unificar a interface dos sistemas atuais do TCU por meio do ambiente chamado “Mesa de Trabalho”. Isto cria a oportunidade de se simplificar o trabalho dos usuários no encaminhamento de ações relativas de condenações em débito e multa, que hoje é feito por diversos sistemas.
+
+j) 
+
+Estão em andamento estudos para definições de padrões de processo eletrônico, e o primeiro passo nesse sentido já foi dado com o projeto Segedam sem Papel. Tais iniciativas mostram caminhos possíveis para a execução e acompanhamento das ações relativas às condenações em débito e multa.
+
+k) 
+
+O contexto atual revela a necessidade e oportunidade de se coordenar, de forma integrada, as iniciativas atualmente dispersas que visam o aprimoramento do tratamento administrativo e de TI dispensado às condenações em débito e multa.
+
+
+
+
+
+
+
+Evolução do quadro (apresentar dados)
+
+a) 
+
+É bem conhecida do TCU a dificuldade em dar prosseguimento aos desdobramentos das deliberações que condenam gestores em débito ou multa, o que pode ser constatado na grande quantidade de trabalho despendido periodicamente pelo Tribunal para elaborar a lista de gestores com contas julgadas irregulares para fins de declaração de inelegibilidade, na dificuldade histórica em lidar com processos de cobrança executiva, na falta de integração dos sistemas que acompanham tais condenações. 
+
+b) 
+
+Para enfatizar a necessidade de se dar prosseguimento às condenações em débito e multa transitadas em julgado, a Segecex editou o Memorando-Circular nº 18/2008, alertando que o descumprimento dos prazos de autuação de processos CBEX’s será considerado desídia, uma falta administrativa grave.
+
+c) 
+
+Quase simultaneamente foi disponibilizado ao usuário uma ferramenta de software que permite a criação automática de processos de cobrança executiva.
+
+d) 
+
+Com estas providências a quantidade de processos de cobrança executiva autuados aumentou. Em 2007 foram autuados 1702 processos, já em 2008 ate 19 de setembro foram autuados 2244, o que permite uma projeção de cerca de 3100 processos autuados até o final do referido ano, 82% a mais que o ano anterior. Tal aumento no número de autuações pode ser explicado em parte pela existência de um passivo de autuações não realizadas, referentes à condenações antigas.
+
+e) 
+
+Mas há um outro componente neste crescimento: a quantidade de condenações em débito e multa tem aumentado. Em 2007 foram 2892 condenações, em 2008, ate 19 de setembro foram 2700, projetando 3700 até o final do ano, um aumento de 28%, e são estas condenações que dão origem aos processos de cobrança executiva. Ou seja , mesmo que as autuações sejam postas em dia, é muito provável que tal quantidade de processo de cobrança continue a crescer.
+
+f) 
+
+O aumento no número de processos de cobrança executiva autuados teve como conseqüência grande aumento na quantidade de erros, sobrecarregando áreas responsáveis pela verificação da qualidade dos processos, que passaram a despender esforço adicional em correções, aumentando o tempo total para o encaminhamento ao órgão de cobrança.
+
+g) 
+
+Logo após a edição do Memorando-Circular nº 18/2008, diversas unidades questionaram a Segecex sobre quais eram os processos de cobrança executiva que precisariam ser criados, referentes à que condenações, contra que gestores, quais estavam em atraso. Tais informações não estão disponíveis de forma imediata nos sistemas do TCU, e só podem se obtidas com variável grau de dificuldade em apurações realizadas pela Adplan / Sesis. Há, portanto, dificuldade em as unidades saberem se estão em dia ou não com seu trabalho.
+
+h) 
+
+Há hoje lacunas de informação nos sistemas corporativos do TCU que dificultam o controle administrativo das condenações em multa e débito, principalmente no que se refere aos recursos com ou sem efeito suspensivo, notificações e data do trânsito em julgado. Para tentar amenizar tal carência foram criados sistemas paralelos, como o Cadirreg, e diversas soluções locais nas Secexs. 
+
+i) 
+
+Com isso a base de informações necessárias ao controle dos débitos e multas e, conseqüentemente, da cobrança executiva, das listas de inidôneos, inabilitados, e inelegíveis, está desintegrada, dispersa em vários sistemas, e informações fundamentais, como a data do trânsito em julgado, são controladas manualmente. 
+
+
+
+
+
+5.	Escopo do projeto
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Elaborar o projeto básico da revisão e integração dos sistemas necessários ao acompanhamento e à execução das ações decorrentes das deliberações do TCU que resultem em débito, multa, inidoneidade de licitante, inabilitação de gestores para cargos e funções públicas e à emissão da lista de gestores com contas julgadas irregulares para fins de declaração de inelegibilidade.
+
+
+
+
+
+
+
+
+
+
+
+5.2.	Meta –Produto – Homologador
+
+
+
+METAXI - ProdutoXII - Homologador
+
+Objetivo específicoXIII - QuantoXIV - Data de término
+
+a) 
+
+Definir conjunto de dados que represente as diversas fases e situações que um processo passa durante seu ciclo de vida, com especial atenção aos processos de contas e fiscalização.
+
+1
+
+14/11/2008
+
+A1 - Descrição geral da estrutura das fases e situações processuais no TCU elaborada e aceita.1
+
+Setec, Segecex/Adnor e ISC/Cedoc
+
+01/12/2008
+
+A2 - Descrição geral da ferramenta de administração de fases e situações processuais elaborada e aceita.2
+
+02/02/2009
+
+A3 - Minuta de normativo com fases e situações possíveis em processos de contas e fiscalização elaborada e aceita.
+
+ 
+
+Segecex e ISC/Cedoc
+
+b) 
+
+Identificar as principais atividades que compõem a cobrança de débitos e multas, os atores envolvidos, e os produtos e insumos de informação necessários à cada atividade.
+
+1
+
+02/03/2009
+
+B1 - Relatório contendo a descrição do processo de trabalho da cobrança de débitos e multas elaborado e aceito.
+
+Segecex/Adnor
+
+01/04/2009
+
+B2 – Relatório contendo a relação das principais atividades, insumos e produtos de informação[1] da cobrança de débitos e multas, elaborado e aceito.
+
+ 
+
+01/05/2009
+
+C2 - Versão do Modelo de Dados Corporativo do TCU, com a integração do modelo de dados da cobrança de débitos e multas elaborado e aceito.
+
+ 
+
+
+
+
+
+
+
+
+
+
+c) 
+
+Propor ações[2] para integrar na base de dados corporativa do TCU as informações necessárias aos sistemas Cadirreg, Inidôneos e Inabilitados, lista para fins de declaração de inelegibilidade e Cadastro Específico de Débitos Apurados (CEDA), juntamente com os demais insumos e produtos de informação necessários à cobrança de débitos e multas, com o propósito de evitar redundâncias, inconsistências e redigitação de informações.
+
+1
+
+01/05/2009
+
+ 
+
+ 
+
+ 
+
+C1 - Modelo de dados conceitual da Cobrança Executiva, considerando insumos e produtos de informação elaborado e aceito.[3]
+
+Setec
+
+ 
+
+ 
+
+01/05/2009
+
+C2 - Versão do Modelo de Dados Corporativo do TCU, com a integração do modelo de dados da cobrança de débitos e multas elaborado e aceito.
+
+ 
+
+ 
+
+1
+
+15/06/2009
+
+C3 - Relatório de adequações necessárias nos sistemas atuais do TCU para o tratamento integrado da cobrança de débitos e multas elaborado e aceito.
+
+Segecex/Adnor
+
+ e gestores dos sistemas afetados.
+
+d) 
+
+Identificar medidas de curto prazo, que colaborem para a redução de erros e facilitem a montagem de processos de cobrança executiva.[4]
+
+4 versões
+
+Entrega de versões:
+
+03/11/2008
+
+02/03/2009
+
+02/05/2009
+
+01/07/2009
+
+D1 - Relatório contendo sugestões de melhorias de curto prazo elaborado e aceito. 
+
+Segecex/Adnor
+
+e) 
+
+Identificar e descrever oportunidades de intercâmbio eletrônico de informações com atores externos do processo de cobrança de débitos e multas, como a AGU e a STN, definindo as informações a serem enviadas e recebidas pelo TCU.
+
+1
+
+15/07/2009
+
+ 
+
+E1 - Relatório de oportunidades de intercambio eletrônico de informações elaborado e aceito. 
+
+Segecex/Adnor
+
+f) 
+
+Criar uma versão atualizada do Manual de Cobrança Executiva considerando as mudanças recentes em normativos e sistemas.
+
+1
+
+15/08/2009
+
+F1 - Manual de Cobrança Executiva atualizado.
+
+Segecex/Adnor
+
+g) 
+
+Apresentar um cenário pretendido a médio e longo prazo para o processo de cobrança de débitos e multas, contemplando a integração com outros órgãos e a possibilidade de se tratar cobranças executivas através de processos eletrônicos   
+
+1
+
+21/08/2009
+
+ 
+
+G1 - Relatório de Visão de Futuro elaborado e aceito.[5]
+
+Segecex/Adnor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.3.	Não escopo (o que o projeto não vai fazer)
+
+
+a) 
+
+Realizar o mapeamento exaustivo do processo: processos de trabalho costumam ser variáveis no tempo, principalmente em seus detalhes, pois o advento de novos normativos, ou mesmo a troca de dirigentes, alteram a forma com que são executados, tornando rapidamente obsoletos os levantamentos excessivamente detalhados. Este projeto se concentrará nos aspectos essenciais e mais perenes do processo de cobrança de débitos e multas.
+
+b) 
+
+Desenvolver soluções automatizadas: neste projeto será descrito um conjunto de demandas técnicas de mudanças nos sistemas atuais, alterando funcionalidades já existentes ou criando novas funcionalidades. Dessa foram o projeto atual irá nortear a aplicação da tecnologia da informação ao processo de cobrança de débitos e multas, mas não é objeto deste projeto realizar diretamente o desenvolvimento ou ajustes em sistemas. 
+
+c) 
+
+Implantar novo processo de trabalho de cobrança de débitos e multas: o projeto trará sugestões que irão, direta ou indiretamente, afetar atividades que compõem o processo de trabalho, mas não faz parte do seu escopo a reestruturação do referido processo.
+
+d) 
+
+Tornar o processo de cobrança executiva um processo eletrônico dentro do prazo do projeto.
+
+e) 
+
+Manter atualizado o Manual de Cobrança Executiva após este ser entregue.
+
+f) 
+
+Publicação de normativos.
+
+g) 
+
+Treinamento de servidores
+
+
+
+
+
+
+6.	Benefícios (impacto esperado da implementação dos produtos do projeto)
+
+
+a) 
+
+Ganho do efetivo controle sobre o processo de cobrança de débitos e multas, seus prazos e suas etapas, possibilitando assim se medir corretamente gerenciá-lo quantitativamente, em quantidades, tempos e retorno obtido.
+
+b) 
+
+Acompanhamento tempestivo das atividades das unidades do TCU, das ações realizadas e a realizar a respeito da cobrança de débitos e multas.
+
+c) 
+
+Obtenção automática das listas de gestores declarados inabilitados e licitantes declarados inidôneos.
+
+d) 
+
+Solução permanente para a emissão da lista de gestores com contas julgadas irregulares para fins de declaração de inelegibilidade, que, periodicamente, exige grande quantidade de trabalho para ser gerada.
+
+e) 
+
+Redução da quantidade de erros nas autuações de processos de cobrança executiva, reduzindo assim o tempo e a quantidade de trabalho necessária para a cobrança do débito ou da multa 
+
+f) 
+
+Simplificação das atividades operacionais, com a redução de necessidade de verificações e conferências, e extinção das atividades de extração e carga em sistemas não integrados. 
+
+g) 
+
+Otimização do uso de recursos humanos e materiais.
+
+h) 
+
+Menor dependência de pessoas,  com mais maior facilidade para o repasse do conhecimento. 
+
+i) 
+
+Extinção gradativa dos sistemas não integrados e soluções departamentais que tratem de condenações em débito ou multa.
+
+j) 
+
+Administração centralizada e integrada as ações de intercambio com órgãos externos de informações do TCU acerca de condenações em débito ou multa e cobrança executiva.
+
+k) 
+
+Tratamento da cobrança de débitos e multas, em seus aspectos tecnológicos e de processo de trabalho, de forma integrada e global.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+XV - RiscoXVI - ImpactoXVII - ProbabilidadeXVIII - de ocorrerXIX - Ação paraXX - (E) Evitar ocorrência do riscoXXI - (M) Mitigar ocorrência do riscoXXII - (R) Reduzir impacto do risco ocorridoXXIII - ResponsávelXXIV - pela ação
+
+a) 
+
+Perda de sincronismo do projeto com o planejamento da Setec, que pode comprometer a execução das recomendações relativas à TI.
+
+Alto
+
+Médio
+
+Manter diálogo próximo com a Setec e acompanhar a evolução do seu planejamento interno.(M)
+
+Gestor do Projeto
+
+b) 
+
+Dificuldades de cumprir os prazos dos produtos devido ao recesso e as férias dos servidores do TCU.
+
+Médio
+
+Médio
+
+Manter o cronograma do projeto ajustado ao cronograma de férias dos membros da equipe (R)
+
+Buscar, sempre que possível, fontes alternativas de informação, como outros servidores da mesma unidade ou de unidade correlata (R)
+
+Gestor do projeto
+
+c) 
+
+Dificuldades para agendar as reunião com as servidores das Unidades do tribunal que são fonte de informação para o projeto.
+
+Alto
+
+Baixo
+
+▪ Encaminhar mensagem de apresentação do projeto, através do patrocinador (M)
+
+▪ Realizar reunião de apresentação (M)
+
+▪ Marcar reunião com antecedência (M)
+
+Patrocinador do Projeto e Gestor do projeto
+
+d) 
+
+Dificuldade de conseguir apoio dos órgãos públicos necessários para realizar o intercâmbio de informações.
+
+Alto
+
+Médio
+
+▪ Encaminha mensagem do patrocinador (M)
+
+▪ Realizar reunião de apresentação (M)
+
+▪ Manter os órgão públicos envolvidos informados sobre a evolução do projeto no que lhes é pertinente (M)
+
+Patrocinador do Projeto e Gestor do projeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.	Identificação das partes envolvidas no projeto (em relação a que)
+XXV - Nome da parte envolvidaXXVI - patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)XXVII - Item negociado ou a negociar com as partes envolvidas
+
+a) 
+
+Segecex (patrocinador e cliente)
+
+Apoio, como fonte de informações, devido ao seu trabalho de montagem e operacionalização, através das Secexs, dos processos de cobrança executiva.
+
+Liberação de servidores em período parcial.
+
+b) 
+
+Adnor (co-patrocinador e cliente)
+
+Apoio logístico com espaço físico e instalações, bem como participação no desenvolvimento conceitual dos trabalhos
+
+c) 
+
+Setec
+
+Apoio, como fonte de informações sobre os sistemas do Tribunal, e destinatário das recomendações sobre TI, que serão consideradas em seu planejamento interno.
+
+Liberação de servidor para atuar integralmente no projeto.
+
+Liberação de servidores em período parcial.
+
+Acesso aos modelos de dados corporativos, aos modelos de dados do projeto Sinergia e aos levantamentos realizados anteriormente relacionados com o escopo do projeto.
+
+d) 
+
+Sefid
+
+Liberação de servidor.
+
+e) 
+
+Seses/Secinf
+
+Apoio, como fonte de informações, devido ao seu trabalho com cadastramento de acórdãos, atividade fundamental para a cobrança executiva.
+
+f) 
+
+Serur
+
+Apoio, como fonte de informações, pois o encaminhamento dos recursos tem interferência direta no andamento do processo de cobrança executiva
+
+g) 
+
+Ministério Público junto ao TCU
+
+Apoio, como fonte de informações, por ser, pelo Regimento Interno do Tribunal, responsável encaminhamento da cobrança executiva.
+
+h) 
+
+Advocacia Geral da União
+
+Apoio, como fonte de informações, por ser o principal destinatário dos processos de cobrança executiva.
+
+i) 
+
+Gabinete do Ministro Ubiratan Aguiar
+
+Apoio, como fonte de informações, representando aqui os demais gabinetes em seu  papel no encaminhamento de recursos e na elaboração de acórdãos. 
+
+j) 
+
+Seplan
+
+Apoio metodológico na gestão do projeto,  mapeamento de processos,  e na utilização de ferramentas gerenciais.
+
+
+
+
+
+
+9.	Relação com outros projetos
+
+XXVIII - Projetos predecessoresXXIX - Projetos conexosXXX - Projetos sucessores
+
+Projeto Diagnóstico
+
+O relatório final deste projeto propõe diversas melhorias nos sistemas corporativos do TCU referentes à cobrança de débitos e multas, declaração de inidoneidade de licitante e inabilitação de gestores.
+
+CBEX (2002/2003)
+
+Este projeto teve como objetivo dar vazão a um grande passivo existente à época referente a autuações de processos de cobrança executiva. Nos relatórios desse projeto há sugestões e estatísticas que, levando-se em consideração o contexto daquele momento, podem ser úteis no novo projeto.
+
+Sinergia
+
+Trata-se de um projeto que visa fornecer uma visão unificada e consolidada das informações dos sistemas do Tribunal através de extrações periódicas de dados. Os levantamentos realizados nesse projeto constituem uma grande fonte de informação para o projeto atual.
+
+ 
+
+Áquila
+
+A implementação dos resultados do presente projeto são pré-requisitos para as ações do programa Áquila que visem aumentar a efetividade da cobrança de débitos e multas. 
+
+ 
+
+haverá a necessidade de se instituir um projeto sucessor, que tenha como objetivo desenvolver e implantar das as mudanças e evoluções nos sistemas do TCU descritas nos produtos do projeto atual.
+
+
+
+
+
+
+
+
+
+
+
+10.	Custos adicionais estimados
+
+XXXI - RecursoXXXII - Valor estimadoXXXIII - Data inicial de liberação do recurso
+
+a) 
+
+Diárias (2 ACEs em 3 (três) visitas a Secexs regionais)
+
+R$ 7.200,00
+
+08/10/2008
+
+b) 
+
+Passagens (2 ACEs em 3 (três) visitas a Secexs regionais)
+
+R$ 9.000,00
+
+08/10/2008XXXIV - Total de custos estimados
+
+R$ 16.200,00
+
+ 
+
+
+
+
+
+
+11.	Outros recursos necessários
+
+XXXV - RecursoXXXVI - Fornecedor
+
+a) 
+
+Linha Telefônica
+
+Segecex
+
+b) 
+
+Local de trabalho para 2 servidores em dedicação integral
+
+Segecex
+
+
+
+
+12.	Equipe do projeto
+
+XXXVII - NomeXXXVIII - MatrículaXXXIX - LotaçãoXL - PeríodoXLI - Dedicação integral/ parcial / por atividade
+
+1. 
+
+Raul Daniel Mascarenhas Ferraz
+
+7603-1
+
+Setec
+
+de 09/10/2008 a 23/08/2009
+
+integral
+
+2. 
+
+Francisca Lúcia Conceição
+
+1725-6
+
+Sefid
+
+de 09/10/2008 a 23/08/2009
+
+integral
+
+3. 
+
+Noêmia Naomi Matayoshi
+
+3144-5
+
+Adnor
+
+de 09/10/2008 a 23/08/2009
+
+parcial, como consultor
+
+4. 
+
+Roberto Ribeiro C. de O. Andrade Filho
+
+6518-8
+
+Adnor
+
+de 09/10/2008 a 23/08/2009
+
+parcial, como consultor
+
+5. 
+
+Robson de Almeida Pereira
+
+5532-8
+
+Setec
+
+de 09/10/2008 a 31/01/2009
+
+(produtos A1, A2 e A3)
+
+por atividade 
+
+6. 
+
+Marcus Vinicius Borela De Castro
+
+3200-0
+
+Setec
+
+de 01/04/2009 a 30/05/2009
+
+(produtos C1, C2 e C3)
+
+por atividade 
+
+
+
+
+13.	Finalização
+
+XLII - DataXLIII - Assinatura do gestor do projeto
+
+Em 08/10/2008
+
+Raul Daniel Mascarenhas Ferraz
+
+Coordenador do ProjetoXLIV - Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 08/10/2008.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segecex,  em 08/10/2008
+
+LAÉRCIO MENDES VIEIRA
+
+Secretário Adjunto – SEGECEX/ADNOR
+
+JORGE PEREIRA DE MACêDO
+
+Secretário-Geral - SEGECEXXLV - Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2008
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+

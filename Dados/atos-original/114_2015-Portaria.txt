@@ -1,0 +1,213 @@
+Portaria
+114/2015
+
+
+o PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e tendo em vista o disposto no art. 93, § 3º, da Resolução-TCU nº 266, de 30 de dezembro de 2014;
+
+
+considerando os princípios, objetivos e diretrizes estabelecidos na Política de Governança de Tecnologia da Informação do Tribunal de Contas da União instituída pela Resolução-TCU nº 247, de 7 de dezembro de 2011;
+
+
+considerando a necessidade de conferir maior organicidade, celeridade e transparência às decisões e à alocação dos recursos e investimentos em Tecnologia da Informação no âmbito do Tribunal de Contas da União;
+
+
+considerando as competências e finalidade do Comitê Gestor de Tecnologia da Informação estabelecidas no art. 93 da Resolução-TCU nº 266, de 2014, e no art. 10 da Resolução-TCU nº 247, de 2011; e
+
+
+considerando a deliberação havida na primeira reunião de 2015 do Comitê Gestor de Tecnologia da Informação, resolve:
+
+
+Art. 1º  O funcionamento do Comitê Gestor de Tecnologia da Informação (CGTI) observa o disposto nesta Portaria.
+
+
+Art. 2º  Nos termos da Resolução-TCU nº 266, de 30 de dezembro de 2014, e da Resolução-TCU nº 247, de 7 de dezembro de 2011, o CGTI é órgão colegiado de caráter permanente, com responsabilidades de cunho estratégico e executivo, ao qual compete:
+
+
+I - coordenar a formulação de propostas de políticas, diretrizes, objetivos e estratégias de Tecnologia da Informação (TI);
+
+
+II - aprovar os planos e os indicadores de desempenho de TI, bem como manifestar-se sobre a implementação das ações planejadas e a mensuração dos resultados obtidos;
+
+
+III - aprovar a alocação dos recursos orçamentários destinados à TI, bem como alterações posteriores que provoquem impacto significativo sobre a alocação inicial;
+
+
+IV - realizar, com base em critérios definidos em normativo específico, priorização corporativa das demandas que tratem do provimento centralizado e descentralizado de novas soluções de TI de natureza corporativa, e de demandas de manutenção com impacto significativo sobre os planos de TI;
+
+
+V - decidir sobre a classificação de soluções de TI em corporativas ou departamentais, conforme os critérios estabelecidos no parágrafo único do art. 2º da Resolução-TCU nº 247, de 2011, nos casos em que houver dúvida entre as partes envolvidas;
+
+
+VI - avaliar periodicamente a situação da governança, gestão e uso de TI no âmbito do TCU, bem assim as propostas de melhorias e ajustes necessários, além de promover a adequada publicidade e transparência dessas informações, em especial sobre:
+
+
+a)  a execução dos planos e das ações corporativas relativos a TI;
+
+
+b)  a evolução dos indicadores de desempenho de TI;
+
+
+c)  o tratamento de riscos relacionados a TI;
+
+
+d)  a capacidade e a disponibilidade de recursos de TI; e
+
+
+e)  resultados de auditorias de TI a que se submeterem as unidades do Tribunal;
+
+
+VII - submeter à Comissão de Coordenação Geral (CCG) matérias inerentes a TI que, em razão de normativo específico, requeiram apreciação ou manifestação dessa;
+
+
+VIII - coordenar a gestão do conhecimento de inteligência artificial;
+
+
+IX - propor ações específicas com vistas à obtenção de índice de governança de TI (iGovTI) adequado às necessidades organizacionais do TCU;
+
+
+X - classificar as informações constantes do Plano Diretor de Tecnologia da Informação (PDTI) e do Plano de Ação de TI;
+
+
+XI - requerer às unidades do TCU informações que considerar necessárias à realização de suas atividades;
+
+
+XII - expedir portaria, ordem de serviço e manifestação na respectiva área de atuação, bem como praticar os demais atos administrativos necessários ao funcionamento ou exercício das competências do Comitê; e
+
+
+XIII - desenvolver outras atividades inerentes à sua finalidade.
+
+
+§ 1º  Os planos de que trata este artigo serão publicados no Portal TCU, respeitando-se a classificação quanto a confidencialidade das informações.
+
+
+§ 2º  As deliberações do CGTI terão como subsídios trabalhos e estudos preliminares desenvolvidos pela Secretaria-Geral Adjunta de Tecnologia da Informação, com apoio das Secretarias de Soluções e de Infraestrutura de Tecnologia da Informação.
+
+
+Art. 3º  Demanda para provimento de nova solução de TI, na modalidade centralizada ou descentralizada, deve ser submetida ao CGTI pela unidade demandante acompanhada das seguintes informações:
+
+
+I - descrição sumária da solução, com indicação das principais funcionalidades e dos produtos a serem gerados;
+
+
+II - justificativa da oportunidade ou necessidade de negócio a ser atendida e benefícios esperados;
+
+
+III - indicação das iniciativas do Plano de Diretrizes ou planos diretores com as quais a solução contribuirá;
+
+
+IV - estimativa preliminar de custo, esforço e tempo necessários à implantação da solução e, quando for o caso, a disponibilidade orçamentária;
+
+
+V - principais riscos identificados, inclusive quanto a custo de oportunidade;
+
+
+VI - indicação das unidades gestora e provedora e, se necessário, da fonte de recursos; e
+
+
+VII - indicação das interações com outras soluções de TI que serão necessárias ao funcionamento da nova solução.
+
+
+§ 1º  O CGTI poderá solicitar estudos adicionais às unidades demandante, provedora ou gestora, sempre que isso for necessário para subsidiar a decisão sobre a viabilidade da solução de TI.
+
+
+§ 2º  Para fins do disposto no inciso IV do art. 2º desta Portaria, as demandas serão consolidadas e analisadas semestralmente ou, em caso de urgência, a qualquer momento.
+
+
+§ 3º  A aprovação da demanda pelo CGTI é indispensável para o início das atividades de provimento de novas soluções, salvo os casos que o Comitê entender desnecessário o exame prévio.
+
+
+Art. 4º  São membros do CGTI os dirigentes das seguintes unidades:
+
+
+I - Secretaria-Geral Adjunta de Tecnologia da Informação (AdgeTI);
+
+
+II - Secretaria de Soluções de Tecnologia da Informação (STI);
+
+
+III - da Secretaria de Infraestrutura de Tecnologia da Informação (Setic);
+
+
+IV - Secretaria de Planejamento, Governança e Gestão (Seplan);
+
+
+V - Secretaria-Geral Adjunta da Presidência (Adgepres);
+
+
+VI - Secretaria de Gestão de Soluções de TI para a Administração (Seadmin); e
+
+
+VII - Secretaria de Informações para o Controle Externo (Seginf).
+
+
+§ 1º  O Comitê Gestor de Tecnologia da Informação é coordenado pelo titular da AdgeTI.
+
+
+§ 2º  Nas situações de afastamentos e outros impedimentos legais dos integrantes do CGTI, estes serão representados por substitutos indicados para esse fim.
+
+
+§ 3º  Na ausência do titular da AdgeTI, a coordenação do Comitê cabe ao titular da STI; na ausência deste, ao titular da Setic; e na ausência deste, ao titular da Seplan.
+
+
+Art. 5º  As reuniões do CGTI são convocadas pelo coordenador do Comitê, de ofício, ou a pedido de qualquer dos membros.
+
+
+§ 1º Em função da matéria pautada, o coordenador pode convidar dirigentes e servidores de outras unidades da Secretaria do Tribunal para participar das reuniões.
+
+
+
+§ 2º  Qualquer membro do CGTI pode solicitar a inclusão de matéria em pauta, devendo o pedido ser encaminhado ao coordenador, até o dia anterior à reunião do Comitê.
+
+
+§ 3º  As deliberações do CGTI serão tomadas por maioria simples, observado o quórum mínimo de quatro membros, entre eles o representante da área afetada.
+
+
+§ 4º  Para fins de acompanhamento da atuação do CGTI, as pautas e atas das reuniões serão encaminhadas ao presidente da CCG e publicadas no Portal TCU, observada a classificação das informações.
+
+
+Art. 6º  Compete ao coordenador do CGTI:
+
+
+I - representar e coordenar o Comitê;
+
+
+II - convocar e coordenar as reuniões;
+
+
+III - expedir normas específicas de funcionamento do CGTI, desde que previamente aprovadas por seus membros e assinar expedientes em nome do Comitê;
+
+
+IV - requisitar processos, documentos e quaisquer outros subsídios necessários ao exercício das atividades do Comitê;
+
+
+V - decidir quanto à classificação das informações produzidas pelo Comitê, com observância das normas internas pertinentes; e
+
+
+VI - submeter matérias de TI à manifestação da CCG nas hipóteses previstas em normativo específico.
+
+
+Art. 7º  Fica o CGTI autorizado a expedir os atos necessários à regulamentação desta Portaria e a dirimir os casos omissos.
+
+
+Art. 8º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+Art. 9º  Revoga-se a Portaria-TCU nº 22, de 4 de janeiro de 2013.
+
+
+AROLDO CEDRAZ DE OLIVEIRA
+
+
+
+
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre o funcionamento do Comitê Gestor de Tecnologia da Informação no Tribunal de Contas da União.
+
+

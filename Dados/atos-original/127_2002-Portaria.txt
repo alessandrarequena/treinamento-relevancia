@@ -1,0 +1,348 @@
+Portaria
+127/2002
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições legais e regulamentares, com base no art. 1º, inciso V, da Resolução nº 140, de 13 de dezembro de 2000, e
+
+
+considerando a necessidade de definir coordenadores dos projetos de desenvolvimento de sistemas de informação e comitês consultivos para apoiar as unidades gestoras e equipes dos projetos, resolve:
+
+
+Art. 1º	Ficam constituídos os projetos e designados seus respectivos coordenadores, conforme especificações constantes do Anexo I a esta Portaria.
+
+
+Art. 2º	Ficam designados os coordenadores apontados no Anexo I para ocupar funções de confiança de coordenador de projeto, nível FC-03, disponíveis na Secretaria-Geral de Controle Externo, até a entrega do relatório de encerramento do projeto sob sua responsabilidade.
+
+
+Art. 3º	O coordenador terá prazo máximo de trinta dias úteis, após a consecução da fase de definições estratégicas do sistema e revisão do documento de visão e escopo originalmente constituído para fins de contratação, para ultimar, com apoio da empresa contratada, a proposta e o plano do projeto.
+
+
+Parágrafo único. A alocação dos recursos necessários para o desenvolvimento de cada projeto, inclusive demais componentes da equipe, será autorizada por ocasião da aprovação da proposta de que trata este artigo, mediante portaria da Presidência do Tribunal.
+
+
+Art. 4º	Cada projeto conta com um comitê consultivo, nos termos do Anexo II deste normativo, para auxiliar a unidade gestora e a equipe do projeto nas definições estratégicas, nos levantamentos de requisitos, nas especificações e validações das soluções propostas.
+
+
+Parágrafo único. O comitê a que se refere este artigo é composto pelos titulares das unidades relacionadas no Anexo II e presidido pelo titular da unidade gestora do sistema.
+
+
+Art. 5º	Esta Portaria entra em vigor nesta data.
+
+
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Autoriza a constituição de projetos relativos a sistemas de informação.
+
+Anexo I da Portaria nº 127, de 6 de maio de 2002
+
+
+
+
+
+Nº
+
+Projeto
+
+Sigla
+
+Unidade Gestora do Sistema
+
+Coordenador
+
+Membros
+
+1.
+
+Gestão de Documentos e Processos – Web (Processo Eletrônico)
+
+Processus Web
+
+Secretaria Adjunta de Contas - Adcon
+
+Remis Balaniuk
+
+mat. 2431-7      Fernando Minoda (Substituto Eventual) 
+
+mat. 3601-3
+
+2.
+
+Instrução Eletrônica de  Processos de Contas
+
+e-Contas
+
+Secretaria Adjunta de Contas - Adcon
+
+Remis Balaniuk 
+
+mat. 2431-7      Fernando Minoda (Substituto Eventual) 
+
+mat. 3601-3
+
+3.
+
+Instrução Eletrônica de Atos de Admissão e Concessões
+
+e-Sisac
+
+Secretaria de Fiscalização de Pessoal - Sefip
+
+Fernando Minoda 
+
+mat. 3601-3      Remis Balaniuk (Substituto Eventual)
+
+mat. 2431-7
+
+4.
+
+Análise Eletrônica de Atos de Admissão e Concessões
+
+Audsisac
+
+Secretaria de Fiscalização de Pessoal - Sefip
+
+Fernando Minoda 
+
+mat. 3601-3      Remis Balaniuk (Substituto Eventual) 
+
+mat. 2431-7
+
+5.
+
+Contas Públicas
+
+Contas Públicas
+
+Secretaria de Macroavaliação Governamental - Semag
+
+Geci Orione Pereira Goulart 
+
+mat. 2982-3      Pedro Koshino (Substituto Eventual) 
+
+mat. 2746-4
+
+6.
+
+Informações Gerenciais
+
+Sinergia
+
+Secretaria de Planejamento e Gestão - Seplan
+
+Pedro Koshino 
+
+mat. 2746-4      Geci Oreone Pereira Goulart (Substituto Eventual)
+
+mat. 2982-3
+
+7.
+
+Portal TCU
+
+Portal TCU
+
+Secretaria de Planejamento e Gestão - Seplan
+
+Cláudia Augusto Dias 
+
+mat. 3098-8      Sonia Luzia Caldeira Del Fiaco (Substituto Eventual)
+
+ mat. 3683-8
+
+
+
+
+
+
+
+
+
+
+
+Anexo II da Portaria nº 127, de 6 de  maio de 2002
+
+Nº
+
+Projeto
+
+Sigla
+
+Unidade Gestora do Sistema
+
+Membros do Comitê Consultivo
+
+1.
+
+Sistema de Gestão de Documentos e Processos – Web (Processo Eletrônico)
+
+Processus Web
+
+Secretaria Adjunta de Contas - Adcon
+
+Adcon 
+
+SGS
+
+1ª Secex
+
+5ª Secex
+
+Secex/GO
+
+Secex/MA
+
+Sefip
+
+Semat
+
+Dicom (protocolo)
+
+Seplan
+
+2.
+
+Sistema de Instrução Eletrônica de Processos de Contas
+
+e-Contas
+
+Secretaria Adjunta de Contas - Adcon
+
+Adcon
+
+SGS
+
+1ª Secex
+
+2ª Secex
+
+4ª Secex
+
+Secex/SC
+
+Secex/CE
+
+3.
+
+Sistema de Instrução Eletrônica de Atos de Admissão e Concessões
+
+e-Sisac
+
+Secretaria de Fiscalização de Pessoal - Sefip
+
+Sefip
+
+SGS
+
+Adfis
+
+Secex/RJ
+
+4.
+
+Análise Eletrônica de Atos de Admissão e Concessões
+
+Audsisac
+
+Secretaria de Fiscalização de Pessoal - Sefip
+
+Sefip
+
+SGS
+
+Adfis
+
+Secex/RJ
+
+5.
+
+Acompanhamento da Gestão Pública (Contas Públicas/LRF)
+
+Gestão Pública
+
+Secretaria de Macroavaliação Governamental - Semag
+
+Semag
+
+Adcon
+
+Sefip
+
+2a Secex
+
+Aspar
+
+6.
+
+Sistema de Informações Gerenciais
+
+Sinergia
+
+Secretaria de Planejamento e Gestão - Seplan
+
+Seplan
+
+SGS
+
+Adcon
+
+Adfis
+
+Secob
+
+Serec
+
+1a Secex
+
+7.
+
+Portal TCU
+
+Portal TCU
+
+Secretaria de Planejamento e Gestão - Seplan
+
+Seplan
+
+Adfis
+
+Aspar
+
+Ascom
+
+Arint
+
+Aceri
+
+ISC
+
+
+
+
+
+
+

@@ -1,0 +1,1258 @@
+Portaria
+286/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução - TCU nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+
+Art. 1º  Fica aprovada a realização do Projeto Sinergia nos termos da proposta anexa a esta Portaria.
+
+
+Art. 2º  Fica designado o Analista de Controle Externo Stanley Silveira Alves, matrícula nº 2511-9, para exercer, relativamente ao projeto de que trata esta Portaria, a função de confiança de Coordenador de Projeto, código FC-3, constante da Resolução - TCU nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+
+
+
+Parágrafo único.  Cabe ao coordenador do projeto a responsabilidade de gerenciar o projeto, exercer as competências previstas no art. 8º da Portaria - TCU nº 176/2003 e observar o disposto no Manual de Gestão de Projetos.
+
+
+
+Art. 3º  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+
+ANEXO ÚNICO
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 1 de 7
+
+
+
+
+
+Identificação do Gestor do Projeto
+
+
+1.1.
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestorOrigem da FC
+
+
+
+ 
+
+Stanley Silveira Alves
+
+ 
+
+2511-9
+
+ 
+
+Gerente
+
+x
+
+Coordenador
+
+ 
+
+Segecex
+
+1.2.
+
+E-mail
+
+stanleyalves@tcu.gov.br
+
+1.3. Nome do substituto eventual
+
+Matrícula
+
+1.3.1 E-mail
+
+Renato Junqueira Maia
+
+5057-1
+
+renatojm@tcu.gov.br
+
+1.4.
+
+Local/telefone
+
+Setec, Anexo I, Sala 49 – ramal 7283 - 4110
+
+
+Identificação do Projeto
+
+
+2.1.
+
+Nome do projeto
+
+Projeto Sinergia
+
+2.2.
+
+Período de realização
+
+01/09/2003 a 06/05/2005 
+
+2.3.
+
+Unidade patrocinadora
+
+SEPLAN – Secretaria de Planejamento e Gestão
+
+
+Vinculação Estratégica
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU – 2003/2007
+
+a)
+
+Estratégia 1: ampliar e aprimorar o uso da tecnologia da informação. 
+
+- Os sistemas transacionais tradicionais permitem a geração, captura e organização de enormes quantidades de dados relativos aos processos de trabalho do TCU. Entretanto, tais sistemas não são eficazes na conjugação de dados para elaboração de informações gerenciais relevantes, uma vez que requerem que os relatórios de saída sejam previamente especificados em detalhes. Assim, são necessárias ferramentas do tipo OLAP (On Line Analytical Processing) para permitir que os dados existentes nas bases de dados sejam combinados conforme a necessidade do momento, dando melhor suporte à decisão gerencial.
+
+b)
+
+Estratégia 8: aperfeiçoar o sistema de planejamento e gestão do TCU.
+
+-          Aperfeiçoar e consolidar sistemática de medição, avaliação e divulgação de resultados institucionais (c);
+
+-          definir e implantar sistemática de gestão de custos e resultados (f).
+
+c)
+
+Estratégia 9: aperfeiçoar processos de trabalho do TCU.
+
+-          Processos de trabalho podem ser aperfeiçoados mediante monitoramento e análise de oportunidades de melhoria. Embora já existam sistemáticas de coleta de informações sobre a execução de diversos tipos de processos de trabalho do TCU (sistemas Fiscalis, Radar, Processus, Clientela, GRH etc.), ainda são poucas as ferramentas e facilidades de recuperação e uso das informações das bases de dados. A disponibilidade de um data warehouse é um dos fatores que favorecerão o desenvolvimento de processos gerenciais de aperfeiçoamento dos processos de trabalho do TCU.
+
+3.2.
+
+Vínculo com Plano de Diretrizes do TCU  2004
+
+a)
+
+Diretriz  2: aperfeiçoar as ações de controle voltadas para o combate à corrupção, desvio e fraude.
+
+- Implementar sistemáticas de quantificação de volume de recursos fiscalizados (VRF) e de benefícios das ações de controle e de outros indicadores de resultado (2.7).
+
+b)
+
+Diretriz  4: aprimorar a política interna de gestão de pessoas.
+
+- Incorporar o GRH, Folha e sistema de treinamento ao Sinergia (Projeto de Modernização) (4.10).
+
+3.3.
+
+Vínculo com Plano Diretor  da SEGECEX  2004
+
+a)
+
+Diretriz 2: aperfeiçoar as ações de controle voltadas para o combate à corrupção, desvio e fraude.
+
+- Implementar sistemáticas de quantificação de volume de recursos fiscalizados (VRF) e de benefícios das ações de controle e de outros indicadores de resultado (2.12).
+
+b)
+
+Diretriz 4: aprimorar a política interna de gestão de pessoas.
+
+- Aprimorar os sistemas informatizados, objetivando facilitar o uso pelos servidores (4.5), no caso, o aprimoramento do próprio Sinergia.
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 2 de 7
+
+
+
+
+
+Problema/Oportunidade
+
+
+4.1.
+
+Descrição do problema ou da oportunidade
+
+ 
+
+Existe a necessidade cada vez maior de integração das informações que se encontram dispersas em diversos sistemas informatizados distintos, cuja recuperação é onerosa face à rigidez característica dos sistemas OLTP – On Line Transaction Processing – desenvolvidos normalmente com enfoque nos processos de trabalho operacionais e não em processos gerenciais. Isso dificulta a obtenção tempestiva de informações que atendam aos questionamentos suscitados no nível gerencial para suas necessidades de suporte à tomada de decisão. Tais deficiências podem ser minimizadas adotando-se uma solução OLAP – On Line Analytical Processing – mediante a qual o usuário pode sintetizar diversas informações, analisar variáveis ao longo do tempo e fazer projeções baseadas nos fatos processados. Esta nova perspectiva de manuseio das informações flexibiliza e facilita as consultas de informações por parte do usuário final.  
+
+4.2.
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+O conceito de data warehouse – DW consiste em organizar os dados corporativos da melhor maneira para subsidiar o corpo gerencial das organizações na tomada de decisão. Um data warehouse permite a obtenção de dados integrados e históricos, auxiliando os dirigentes e servidores a decidir baseados em informações precisas e tempestivas, o que reduz o risco da decisão. Normalmente, no desempenho da gerência, não se lida com uma informação por vez. Geralmente se busca informações sintéticas que agregam centenas ou milhares de registros e  que são analisadas sob a forma de um pequeno conjunto de respostas. Deve-se ter em mente que o processo de formação das perguntas às bases de dados e as respostas é um processo dinâmico, o que exige sistemas flexíveis de recuperação de informações. 
+
+b)
+
+A proposta de aplicação da tecnologia de data warehousing no âmbito do Tribunal de Contas da União decorre da necessidade de utilização, cada vez maior, de consultas gerenciais como suporte à tomada de decisões, com os correspondentes "cruzamentos" dos dados brutos que são mantidos pelos diversos sistemas transacionais. Além desse fato, o Plano Estratégico do TCU 2003 – 2007, na sua estratégia número um, considera ser “...imprescindível, portanto, que o Tribunal intensifique e aprimore o uso da tecnologia da informação a serviço do controle”. 
+
+c)
+
+A implementação do Sistema Sinergia, além de proporcionar maior integração dos dados corporativos, auxiliará o controle das metas pré-definidas, categorizando as informações com o objetivo de permitir a recuperação de dados históricos, sumarizados sob diversos enfoques, agregados de forma a suprir a dinâmica do suporte às decisões. As projeções e simulações baseadas em dados históricos, as diversas combinações sob variadas dimensões, a facilidade de navegação em diferentes níveis (drill-down ou drill-up) servem como insumo ao planejamento de médio e longo prazo e ao acompanhamento das ações planejadas, permitindo detectar desvios e corrigir os problemas porventura identificados.
+
+d)
+
+Faz-se necessário uma remodelagem do protótipo do Sinergia, que se encontra atualmente em produção, com vistas a englobar mais informações, utilizando conceitos de modelagem dimensional, segundo as melhores técnicas de data warehousing, o que permitirá maior flexibilidade na agregação de novas informações e melhor performance na sua recuperação.
+
+e)
+
+O data warehouse também subsidia a análise de consistência dos dados da base corporativa, na medida em que permite a detecção de eventuais inconsistências ou omissões de dados.
+
+4.3.
+
+Evolução do quadro (apresentar dados, preferencialmente, em tabelas)
+
+a)
+
+No ano de 2000, o TCU por meio de processo licitatório, contratou licenças de uso do software Business Objects – BO. Após a realização dos primeiros treinamentos, no ano de 2001, a Setec iniciou o projeto de desenvolvimento do protótipo do Sinergia em parceria com a Seplan. No ano de 2002, deu-se o início da operação da primeira versão do Sistema Sinergia desenvolvida utilizando-se a ferramenta OLAP da empresa Business Objects (BO) para a  extração de informações gerenciais sobre seus processos finalísticos. Esse sistema trouxe uma série de benefícios ao Tribunal, tais como a agilização de publicações de informações a respeito do desempenho das Secretarias, apoio na produção das planilhas que subsidiam o relatório de atividades do TCU, estatísticas elaboradas pela Seplan e disponibilização de informações suportada em ferramenta flexível e amigável. Os dados mantidos pelo protótipo do Sinergia são também um importante subsídio para a avaliação de desempenho, cujas informações embasam o cálculo da gratificação de desempenho percebida pelos servidores desta casa.
+
+b)
+
+Entretanto a versão atual do Sinergia apresenta diversos problemas estruturais, como por exemplo, problemas relacionados à sua performance e a ausência de informações importantes no seu escopo, como os dados do Sistema Sisac, GRH, Folha, entre outros. Parte destes problemas também se devem à necessidade de se desenvolver uma primeira versão de forma rápida, o que impediu a utilização das melhores técnicas de construção de um data warehouse. Como a demanda pela utilização do protótipo aumentou bastante, tornou-se imperioso o desenvolvimento de nova ferramenta, remodelando a base de dados e os processos de trabalho implementados atualmente.
+
+c)
+
+Em 8/7/2003, o TCU assinou contrato com o BID para o Programa de Apoio a Modernização do TCU, que contempla a implementação do data warehouse dos sistemas corporativos do Tribunal.
+
+d)
+
+Entre agosto e setembro de 2003, foram elaborados o termo de referência e os critérios de pontuação, visando à contratação da empresa que implementará, sob a supervisão do TCU, o data warehouse de informações corporativas – o projeto Sinergia.
+
+e)
+
+Nos meses de setembro, outubro e novembro de 2003, os membros deste projeto receberam alguns treinamentos para lidar com a tecnologia de data warehouse.  Estima-se que no final de dezembro de 2003 já tenha sido contratada a empresa terceirizada que implementará o Sinergia. Portanto, é urgente que se oficialize o grupo que irá acompanhar os trabalhos deste projeto.
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 3 de 7
+
+
+
+f)
+
+É também necessário que parte dos membros deste projeto sejam permanentes, pois darão prosseguimento aos trabalhos após o término da implementação do projeto, incorporando a nova tecnologia que será implementada na construção do Sinergia, de modo que o TCU fique independente da empresa contratada.
+
+g)
+
+No dia 19/11/2003 foi realizada a audiência pública, com vistas a suscitar questionamentos das empresas pré-qualificadas sobre o conteúdo do edital e sanar eventuais dúvidas das mesmas. Os questionamentos foram respondidos oficialmente no dia 1º/12/2003.
+
+h)
+
+No dia 10/12/2003 acorreu a entrega das propostas das empresas qualificadas interessadas no processo licitatório. As propostas serão analisadas e deverão ser agendadas as apresentações orais de cada empresa, para completar o processo, conforme previsto no edital.
+
+4.4.
+
+Se nada for feito (qual a gravidade, a urgência e a tendência)
+
+a)
+
+Caso nada seja feito, o atual protótipo do Sinergia continuará com carência de informações e algumas deficiências apresentadas nesta primeira versão. A implantação do data warehouse Sinergia permitirá ao corpo gerencial do Tribunal trabalhar com maior volume de informações macro estratégicas, permitindo diversas consultas, comparações e cruzamentos entre os dados dos diversos sistemas. O data warehouse Sinergia virá suprir a falta de aprimoramento dos mecanismos de geração de informações gerenciais para a tomada de decisão.
+
+b)
+
+Esta nova visão de trabalho evitará prejuízo do desempenho dos demais sistemas, uma vez que o elevado nível de acesso no mesmo ambiente de dados utilizados pelos sistemas transacionais degradará a performance, inclusive limitando a possibilidade do crescimento da base de dados.
+
+d)
+
+A gravidade, caso não se implante o Sinergia, pode ser considerada de caráter moderado, mas cabe salientar o desejo já manifestado pela Administração do Tribunal em materializar este projeto, conforme pode-se verificar a sua previsão incluída nos diversos planos de diretrizes e estratégico do TCU. 
+
+
+ESCOPO DO PROJETO
+
+
+5.1. Objetivo geral do projeto (em relação à solução do problema ou da oportunidade)
+
+
+        Conceber, elaborar e implementar  data warehouse com os dados dos sistemas corporativos do Tribunal de Contas da União. 
+
+        Atendendo aos princípios da economicidade, eficiência, eficácia e efetividade no uso dos recursos públicos, a implantação do data warehouse Sinergia facilitará o tratamento, recuperação e uso efetivo das informações existentes nas base de dados dos sistemas corporativos do TCU. De forma dinâmica, será permitido a construção de diversos tipos de pesquisas, edificadas pelo próprio usuário, sob diversos ângulos e perspectivas, de forma amigável e adequadas às suas necessidades.
+
+
+5. 2. Meta – indicador – produto – cliente
+
+
+5.2.1. Objetivo específico
+
+5.2.2. Qtde.
+
+5.2.3. Prazo
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+a)
+
+Planejamento do projeto
+
+100%
+
+20/02/2004
+
+ 
+
+- Percentual do Plano do projeto concluído.
+
+- Plano do projeto.
+
+Seplan
+
+b)
+
+Análise
+
+100%
+
+12/03/2004
+
+ 
+
+- Percentual do levantamento das necessidades atendidas pelo protótipo do sistema Sinergia concluído;
+
+- Percentual do levantamento do modelo corporativo do TCU concluído.
+
+- Levantamento das necessidades atendidas pelo protótipo do sistema Sinergia;
+
+- Levantamento do Modelo de dados corporativo do TCU.
+
+Seplan
+
+e
+
+Setec
+
+c) 
+
+Modelagem dimensional:
+
+       Tabela de fatos
+
+       Tabela de dimensões
+
+100%
+
+23/04/2004
+
+ 
+
+- Percentual da modelagem dimensional concluída.
+
+- Modelagem das tabelas de fatos;
+
+- Modelagem das tabelas de dimensões.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+d)
+
+Elaboração do projeto do banco de dados
+
+100%
+
+14/05/2004
+
+- Percentual do projeto do banco de dados concluído.
+
+- Percentual das necessidades de software e hardware levantadas.
+
+- Projeto do banco de dados;
+
+- Levantamento das necessidades de software e hardware.
+
+Setec
+
+e)
+
+Definição das rotinas de extração, transformação e carga de dados
+
+100%
+
+29/10/2004
+
+ 
+
+- Percentual das Rotinas de extração, transformação e carga de dados (ETL) realizadas.
+
+- Rotinas de extração, transformação e carga de dados (ETL).
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 4 de 7
+
+
+
+5.2.1. Objetivo específico
+
+5.2.2. Qtde.
+
+5.2.3. Prazo
+
+5.2.4. Indicador
+
+5.2.5. Produto
+
+5.2.6. Cliente
+
+f)
+
+Construção do ambiente de consulta utilizando OLAP
+
+100%
+
+21/01/2005
+
+ 
+
+- Percentual dos ambientes de consulta e segurança do data warehouse construídos.
+
+- Modelos de acesso ao data warehouse;
+
+- Consultas voltadas ao usuário final;
+
+- Rotinas de segurança do data warehouse.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+g)
+
+Elaboração  do projeto de interface com usuário
+
+100%
+
+04/03/2005
+
+ 
+
+- Percentual do projeto de interface elaborado.
+
+- Mecanismos de controle de acesso;
+
+- Projeto de apresentação e de diálogo da interface.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+h)
+
+Implantação do sistema no ambiente de homologação
+
+100%
+
+25/03/2005
+
+ 
+
+- Percentual de implantação do Sistema no ambiente de homologação.
+
+- Sistema implantado no ambiente de homologação.
+
+Setec
+
+i)
+
+Definição de rotinas de acompanhamento e produção
+
+100%
+
+25/03/2005
+
+ 
+
+- Percentual das rotinas de aferição de satisfação de usuários;
+
+- Percentual das rotinas para definição e aferição de níveis de serviço;
+
+- Percentual das rotinas de produção do sistema;
+
+- Percentual dos Scripts de atendimento.
+
+- Rotinas de acompanhamento e produção definidas
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+j)
+
+Normatização e elaboração de manuais
+
+100%
+
+06/05/2005
+
+ 
+
+- Percentual de normatização e elaboração de manuais concluídos.
+
+- Normas de produção do sistema;
+
+- Normas de evolução do sistema;
+
+- Manuais da unidade gestora e do usuário. 
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+k)
+
+Treinamento da unidade gestora e dos usuários
+
+15
+
+15/04/2005
+
+ 
+
+- Número de usuários treina.
+
+- Usuários treinados.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+l)
+
+Implantação do sistema no ambiente de produção
+
+100%
+
+15/04/2005
+
+ 
+
+ 
+
+- Sistema  Implantado.
+
+- Sistema implantado no ambiente de produção.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+m)
+
+Homologação final
+
+100%
+
+06/05/2005
+
+ 
+
+- Percentual de ajustes realizados em todos os produtos gerados nas fases anteriores;
+
+- Percentual de documentação do sistema homologada e publicada concluída;
+
+- Percentual de transferência de tecnologia completada.
+
+- Percentual de providências de correção de problemas detectados durante a homologação concluído.
+
+- Sistema Sinergia implantado;
+
+- Todos os produtos gerados nas fases anteriores devidamente ajustados;
+
+- Toda a documentação do sistema homologada e publicada;
+
+- Transferência de tecnologia completada.
+
+- Registro de ocorrências de problemas detectados durante a homologação e as providências tomadas.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+n)
+
+Garantia  (contados após a homologação final)
+
+100%
+
+365 dias
+
+ 
+
+- Percentual de produtos devidamente corrigidos.
+
+- Correções em produtos gerados na implementação do sistema devidamente realizadas.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 5 de 7
+
+
+
+
+
+o)
+
+Manutenção evolutiva (contados após a homologação final)
+
+-
+
+365 dias
+
+ 
+
+- Percentual de produtos da manutenção evolutiva implantados.
+
+- Produtos da manutenção evolutiva implantados.
+
+Seplan,
+
+Setec, Adcon, Adfis, ISC,  Sefip,  Serec
+
+
+
+Obsevações: 
+
+
+
+
+
+1) Será negociado com a empresa vencedora o acréscimo no escopo do projeto dos seguintes sistemas: Sisac, GRH, Folha e Sistema de Treinamento.
+
+
+
+2) O cronograma estipulado no item 5.2 obedece às condições estabelecidas no Anexo I -Termo de Referência do Edital do Projeto Sinergia, mas será objeto de negociação com a empresa de modo que o desenvolvimento do data warehouse do TCU priorize a implantação de blocos de data marts, nesta ordem: 
+
+
+	2.1) Processus, Radar, Pautas, Autogab, Fiscalis, Clientela;
+
+
+	2.2) Sisac;
+
+
+	2.3) GRH, Folha e Sistema de Treinamento.
+
+
+
+3) As etapas de garantia e de manutenção evolutiva não fazem parte do período de realização deste projeto, mas estão previstas no termo de referência para serem prestadas pela empresa contratada.
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+a)
+
+Planejamento do projeto
+
+b)
+
+Análise
+
+c)
+
+Modelagem dimensional: Tabela de fatos e Tabela de dimensões
+
+d)
+
+Elaboração do projeto do banco de dados
+
+e)
+
+Definição das rotinas de extração, transformação e carga de dados
+
+f)
+
+Construção do ambiente de consulta utilizando OLAP
+
+g)
+
+Elaboração  do projeto de interface com usuário
+
+h)
+
+Implantação do sistema no ambiente de homologação
+
+i)
+
+Definição de rotinas de acompanhamento e produção
+
+j)
+
+Normatização e elaboração de manuais
+
+k)
+
+Treinamento da unidade gestora e dos usuários
+
+l)
+
+Implantação do sistema no ambiente de produção
+
+m)
+
+Homologação final
+
+n)
+
+Garantia
+
+o)
+
+Manutenção evolutiva
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+O projeto não implementará novos sistemas de informação (transacionais) de entrada de dados e não modificará os sistemas OLTP existentes.
+
+b)
+
+O projeto não irá implementar novos data marts que não constem do contrato firmado com a empresa licitante vencedora. 
+
+
+Identificação das partes envolvidas no projeto (em relação a que)
+
+
+a)
+
+Setec – fornecer as soluções de infra-estrutura de TI necessária ao desenvolvimento do projeto;
+
+b)
+
+Sepres – viabilizar espaço físico de alocação do projeto e infra-estrutura para atender a  atividade sucessora;
+
+c)
+
+Equipe de projetos TCU-BID (UCP) – acompanhar projeto;
+
+d)
+
+Equipe do projeto Sinergia – acompanhar o trabalho da empresa executora projeto e absorver a tecnologia;
+
+e)
+
+Seplan - patrocinador, disponibilizar recursos humanos para a realização de testes e para participação no projeto;
+
+f)
+
+Empresa contratada – elaborar, implementar e documentar o data warehouse;
+
+g)
+
+Pnud – contratar a empresa e realizar os pagamentos;
+
+h)
+
+BID – órgão financiador do projeto;
+
+i)
+
+Adcon, Adfis, ISC, Sefip, Serec - disponibilizar recursos humanos para a realização de testes e homologação.
+
+
+
+Fatores que podem pôr em risco o êxito do projeto
+
+
+7.1 Risco
+
+7.2. Impacto
+
+7.3. Probabilidade
+
+7.3.  (E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.4. Responsável pela ação
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 61 de 7
+
+
+
+
+
+a)
+
+Dificuldade na dedicação dos servidores alocados ao projeto.
+
+Alto
+
+Baixa
+
+ 
+
+(M) – Salientar junto aos titulares das unidades técnicas a importância do Projeto no contexto estratégico do Tribunal.
+
+(M) – Acordar a disponibilidade dos servidores por tarefas.
+
+(E) – Portaria da autoridade competente (Presidência), nomeando os servidores como parte integrante da equipe do projeto.
+
+Coordenador do projeto, titular da Seplan e titular da Setec.
+
+b)
+
+Surgimento de novas demandas ao longo do projeto.
+
+Alto
+
+Média
+
+(M) – Salientar junto aos titulares das unidades técnicas a necessidade de seguir o escopo estipulado no contrato que será assinado com a empresa licitada.
+
+Coordenador  do projeto e titular da Seplan.
+
+c)
+
+Dificuldade de participação dos gestores e usuários na avaliação/homologação dos produtos.
+
+Alto
+
+Baixa
+
+(M) – Salientar junto aos titulares das unidades envolvidas a importância de participação na fase de testes e avaliação dos Produtos.
+
+ 
+
+Coordenador  do projeto e titular da Seplan.
+
+d)
+
+Restrição orçamentária que inviabilize a implantação do projeto.
+
+Alto
+
+Baixa
+
+(E) – Buscar alternativas para reduzir os custos.
+
+(E) – obter mais recursos junto a BID ou aumentar a participação dos recursos do orçamento do TCU no projeto.
+
+Coordenador do projeto, Titular da Seplan e  
+
+Presidência do TCU.
+
+e)
+
+Necessidade de recursos financeiros para manter o data warehouse em operação.
+
+Alto
+
+Média
+
+(E) – Obter alocação de recursos do orçamento do TCU para manutenção da infraestrutura e para novos equipamentos (servidores, maior capacidade de processamento/armazenamento).
+
+Coordenador do projeto, Titular da Setec.
+
+
+Fatores que contribuem para o êxito do projeto
+
+
+a)
+
+Apoio da Presidência do TCU e interesse dos seus dirigentes pelos resultados do presente projeto, ensejando apoio para sua realização.
+
+b)
+
+Divulgação e sensibilização do corpo gerencial na utilização das novas ferramentas de trabalho.
+
+
+Projetos predecessores 
+
+
+a)
+
+Protótipo do Sistema Sinergia
+
+
+Projetos/Atividades conexas
+
+
+a)
+
+Projeto Apoio à Modernização do TCU 
+
+b)
+
+Projeto Síntese – data warehouse do Serviço Público
+
+b)
+
+Desenvolvimento do Sistema de Administração de Recursos Humanos
+
+
+Projetos/Atividades sucessoras
+
+
+a)
+
+ Não foi identificado projeto sucessor.
+
+a)
+
+Atividade sucessora: Este projeto resultará num novo sistema  de informação que demandará  serviços de manutenção, evolução, além de executar e acompanhar rotinas de produção. Configura-se portanto a necessidade de criação de uma nova unidade na estrutura da Setec para absorver esta nova tecnologia/atividade.
+
+
+
+
+
+Custos estimados
+
+
+12.1. Recurso
+
+11.2. Valor estimado / 11.3. Prazo
+
+a)
+
+Implementação do data warehouse Sinergia
+
+O valor estimado com auxílio da equipe do Pnud é de US$ 200.000,00 (novembro 2003 a maio de 2005). Recursos oriundos do projeto BID.
+
+b)
+
+Infra-estrutura de TI para o data warehouse (equipamentos e software)
+
+Os valores serão estipulados após a elaboração do projeto do banco de dados (item 5.2.1 – meta “d”) pela empresa vencedora e a aquisição estará a cargo da Setec. 
+
+
+Obs.: os custos previstos serão aprovados oportunamente pela autoridade competente
+
+
+
+Outros recursos necessários
+
+
+13.1. Recurso
+
+12.2. Fornecedor
+
+a)
+
+Recursos humanos – Analistas de Controle Externo - CE, Analistas de Controle Externo – Tecnologia da Informação.
+
+Setec e unidades técnicas envolvidas nos testes.
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+PROPOSTA DO PROJETO 
+
+PROJETO SINERGIA 
+
+Página 7 de 7
+
+
+
+
+
+a)
+
+Recursos humanos – Analistas de Controle Externo - CE, Analistas de Controle Externo – Tecnologia da Informação.
+
+Setec e unidades técnicas envolvidas nos testes.
+
+b)
+
+Recursos instrucionais (salas de aula, retro projetor, canhão de projeção, etc.) 
+
+ISC e Setec
+
+
+Equipe do projeto
+
+
+14.1. Nome
+
+13.2. Matrícula
+
+13.3. Lotação
+
+13.4. Período
+
+13.5. Dedicação integral ou parcial
+
+a)
+
+Stanley Silveira Alves (coordenador)
+
+2511-9
+
+Setec
+
+01/09/2003 a 06/05/2005
+
+Integral (coordenador)
+
+b)
+
+Renato Junqueira Maia
+
+5057-1
+
+Setec
+
+01/09/2003 a 06/05/2005
+
+Integral
+
+c)
+
+Cláudio de Queiroz Pereira
+
+3163-1
+
+Setec
+
+01/09/2003 a 06/05/2005
+
+Parcial
+
+d)
+
+Leonard Renne Guimarães Lapa
+
+5100-4
+
+Seplan
+
+01/09/2003 a 06/05/2005
+
+Parcial
+
+
+
+
+
+13.1. Consultoria interna ao Projeto
+
+
+13.1.1. Nome
+
+13.1.2. Matrícula
+
+13.1.3. Lotação
+
+13.1.4. Período (checar períodos)
+
+a)
+
+Cláudio Cruz
+
+3164-0
+
+Setec
+
+01/09/2003 a 06/05/2005
+
+b)
+
+Paulo André Mattos de Carvalho
+
+2439-2
+
+Setec
+
+01/09/2003 a 06/05/2005
+
+c)
+
+Mauro Giacobbo
+
+672-6
+
+Seplan
+
+01/09/2003 a 06/05/2005
+
+d)
+
+Alessandro Giuberti Laranja
+
+3085-6
+
+Seplan
+
+01/09/2003 a 06/05/2005
+
+
+Considerações finais (fundamentação normativa Portaria 176/2003
+
+
+15.1.
+
+O que caracteriza o trabalho como projeto (art. 4. da Portaria 176/2003)
+
+a)
+
+Desenvolvimento de soluções que resultem na melhoria de gestão no âmbito interno do Tribunal(inciso I)
+
+15.2.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador (art. 7º da Portaria 176/2003)
+
+a)
+
+Período mínimo de duração de três meses (inciso IV);
+
+b)
+
+Produto de importância estratégica para o alcance de metas institucionais (inciso VI);
+
+c)
+
+Desenvolvimento de nova tecnologia ou metodologia com impacto geral nas atividades da Secretaria do Tribunal, especialmente na área de controle externo (inciso VII).
+
+
+
+
+
+Finalização
+
+
+16.1.   Data e assinatura do Coordenador do projeto
+
+ 
+
+ 
+
+ 
+
+Em ____/______/ 2003
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stanley Silveira Alves
+
+Coordenador do Projeto
+
+ 
+
+16.2.   Manifestação do titular unidade patrocinadora
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em   de      de 2003.
+
+Encaminhe-se a presente proposta à Sepres, visando à aprovação do projeto junto à Presidência.
+
+ 
+
+ 
+
+ 
+
+SEPLAN, em ______/_______/ 2003
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mauro GiacobBo
+
+Secretário da Secretaria de Planejamento e Gestão
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Sinergia e designa seu gestor.
+
+

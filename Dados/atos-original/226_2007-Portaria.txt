@@ -1,0 +1,1026 @@
+Portaria
+226/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Governança de TI, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Cláudio Silva da Cruz, matrícula nº 3164-0, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+(Publicada no DOU de 27/9/2007, Seção 2, p. 38)
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Governança de TI e designa seu gestor.
+
+ANEXO À PORTARIA-TCU Nº 226, DE 26 DE SETEMBRO DE 2007
+
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Cláudio Silva da Cruz
+
+3164-0
+
+cscruz@tcu.gov.br
+
+7276
+
+Função do gestor
+
+Origem da FC
+
+ 
+
+Gerente
+
+ X
+
+Coordenador
+
+ 
+
+Líder
+
+ 
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Carlos Alberto Mamede Hernandes
+
+2427-9
+
+carlosmh@tcu.gov.br
+
+7276
+
+Local / telefone
+
+Secretaria de Tecnologia da Informação / 3316-7276
+
+
+
+2. Identificação do projeto
+
+
+Nome do projeto
+
+Projeto Governança de TI - fase 1
+
+Período de realização
+
+Unidade patrocinadora
+
+25/09/2007 a 29/02/2008
+
+Secretaria-Geral da Presidência
+
+
+
+
+
+3. Vinculação estratégica
+
+
+Plano estratégico do TCU 2006 a 2010 (Portaria TCU nº 2, de 05 de janeiro de 2006).
+
+a)
+
+Objetivos estratégicos (OE) que se relacionam ao projeto:
+
+OE nº 2: Contribuir para a melhoria do desempenho da administração pública;
+
+OE nº 3: Estimular a transparência da gestão pública;
+
+OE n° 4: Combater o desperdício de recursos;
+
+OE n° 14: Aperfeiçoar instrumentos de controle e processos de trabalho;
+
+OE nº 21: Assegurar o adequado suporte logístico às necessidades do TCU;
+
+OE nº 10: Desenvolver cultura orientada a resultados.
+
+b)
+
+Iniciativas estratégicas (IE) que se relacionam ao projeto:
+
+IE nº 4. Ampliar e facilitar o acesso e a compreensão às informações sobre a gestão pública;
+
+IE n° 11. Mapear e racionalizar os principais processos de trabalho do TCU;
+
+IE n° 12. Disseminar o uso de TI para apoio ao controle externo;
+
+IE n° 14. Assegurar a qualidade das informações das bases de dados corporativas do TCU;
+
+IE n° 18. Aprimorar processo de gestão do desempenho por resultados;a)          IE n° 20. Compatibilizar o orçamento anual com o planejamento estratégico;
+
+IE n° 21. Definir e implantar gestão de contratos e planos de aquisição e manutenção;
+
+IE n° 22. Definir e implantar plano de sustentabilidade.
+
+Plano de diretrizes do TCU – 2007.
+
+a) 
+
+Ação 6.4: Definir política e prioridades para desenvolvimento/aquisição/manutenção de soluções de TI.
+
+Plano Diretor da Setec – 2007.
+
+a)
+
+Ação 4.11. Propor à CCG política de provimento de soluções de TI.
+
+b)
+
+Ação 9.1. Instituir no âmbito da Setec responsáveis pela administração de cada solução de TI (matriz de responsabilidades).
+
+9.1.1. Rever estrutura, competências e responsabilidades das subunidades da Setec, inclusive no que se refere à segurança da informação.
+
+c)
+
+Ação 9.3. Aperfeiçoar o processo de monitoramento e manutenção da infra-estrutura, com foco nas soluções críticas.
+
+9.3.2. Divulgar dados consolidados sobre utilização e disponibilidade de serviços.
+
+9.3.5. Definir mudanças administrativas para aumentar disponibilidade.
+
+9.3.6. Definir e iniciar a mensuração de indicadores de desempenho de soluções críticas de TI.
+
+d)
+
+Ação 9.4. Rever contratos de suporte de infra-estrutura, responsabilidades e mecanismos de gestão.
+
+
+
+
+
+
+
+
+
+
+4. Problema / oportunidade
+
+
+Descrição do problema ou da oportunidade 
+
+a)
+
+Para Weill e Ross (2006, p. 2-6), uma boa governança corporativa depende de uma boa governança de Tecnologia da Informação (TI), pois os ativos de informação são considerados um dos seis ativos mais importantes das organizações.
+
+Governança de TI é a capacidade de uma organização de garantir que a gestão e o uso da TI contribuem efetivamente para o alcance das metas organizacionais. Para isso, a organização deve dispor de liderança, estrutura organizacional e processos adequados, além de uma definição clara das responsabilidades das autoridades quanto ao alcance de metas, sob um arcabouço de accountability (transparência e prestação de contas) que favoreça o comportamento mais adequado de todos os envolvidos (ITGI, 2007, p. 5; WEILL; ROSS, 2004, p. 1; WEILL; ROSS, 2006, p. 8).
+
+Embora o uso de tecnologia da informação no TCU esteja completando 30 anos e a sua importância para o funcionamento do TCU seja inquestionável, não existe ainda uma preocupação abrangente e consistente quanto à governança de TI. Entre os elementos que podem evidenciar essa afirmação destacam-se:
+
+- ausência de um plano de continuidade de negócios institucional que mitigue os riscos decorrentes de falhas no funcionamento da infra-estrutura de TI;
+
+- fragilidade na proteção física dos equipamentos centrais de processamento de dados (e.g., não há “sala segura”, nem “sala-cofre”, nem CPD reserva, nem mesmo vigilância especial 24h/dia), cuja paralisação completa já ocorreu recentemente (e.g., início de incêndio do no break da sala dos servidores e falha no sistema de ar-condicionado da mesma sala) e provocou grave impacto nas atividades de todo o TCU. Com a implantação do processo eletrônico no TCU, uma eventual paralisação do CPD causaria quase 100% de paralisação das atividades do TCU. Um eventual incêndio no CPD com perda total das máquinas e do cabeamento de dados provocaria uma paralisação total da atividade de processamento de dados e a recuperação da normalidade poderia levar até 6 meses, em função da necessidade de alocação orçamentária emergencial, inúmeras contratações diretas emergenciais, tempo de importação de equipamentos, respectiva  instalação e configuração. Além dos problemas citados, ainda deve-se considerar os prejuízos decorrentes de contratos de serviços firmados que não poderiam deixar de ser pagos mesmo com a paralisação do CPD;
+
+- ausência de uma sistemática de classificação das informações do TCU, em meio eletrônico ou não, que dê base para o estabelecimento de procedimentos adequados de tratamento e descarte de documentos com vistas ao resguardo da integridade, confidencialidade e disponibilidade das informações. Como conseqüência, o risco de vazamento ou adulteração de informações é elevado. Ocorrências dessa natureza já foram verificadas e é possível que algumas ocorrências sequer tenham sido percebidas pela instituição;
+
+- ausência de um modelo de gestão de sistemas de informação no TCU e grandes deficiências dos gestores de sistemas designados pela Portaria TCU 105/2006 por falta de treinamento específico para o cumprimento das obrigações ali dispostas, ensejando: a) a escassez de treinamento de usuários finais nos sistemas disponíveis, com o conseqüente baixo índice de uso e baixo retorno dos investimentos feitos na sua concepção; b) a ausência de auditoria de sistemas e do seu uso, o que traz grave risco de adulteração de informações sensíveis e de afetação da imagem do TCU perante sua clientela;
+
+- fragilidades no planejamento de TI visando ao atendimento das demandas futuras, frente à expansão do número de usuários internos e externos de sistemas e informações do TCU, à necessidade de integração de sistemas e informações com outras instituições ligadas à rede de controle e à necessidade de fornecer informações e serviços à sociedade (Lei 9.755/1998). Em especial, há dificuldades com relação a priorização de ações e investimentos de soluções de TI, devido à  dificuldade de decidir quais ações são mais prioritárias;
+
+- fragilidades nos processos de contratação e de gestão de contratos de TI, pois, embora os investimentos nessa área tenham sido significativos (e.g., Portaria Setec 1/2005), ainda há muitas oportunidades de melhoria desses processos e de aperfeiçoamento dos servidores responsáveis pela sua execução.
+
+
+
+
+
+
+
+
+
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+Diversas ações têm marcado o aprimoramento da gestão da área de informática ao longo do tempo. A seguir são expostos alguns dos eventos mais marcantes que ocorreram nos últimos anos:
+
+. elaboração de planejamento anual de ações de informática, inclusive muito antes de outras unidades e do próprio Tribunal como um todo constituir processo de planejamento (e.g. planejamento do CPD pela Portaria PRESI n° 58/1990);
+
+. aprovação da Política de Segurança da Informação, de acordo com a Resolução nº 126, de 3 de novembro de 1999;
+
+. elaboração de planejamento orçamentário anual, com gestão da execução orçamentária ao longo de todo o exercício desde 2001;
+
+. definição do papel dos gestores de sistemas de informação, que ocorreu mediante a implantação da Portaria TCU nº 126, de 06/05/2002, que foi posteriormente substituída pela Portaria TCU nº 105, de 29/05/2006;
+
+. implantação do TCU-UP no período de 2002 e 2004, que é um método padronizado de desenvolvimento de sistemas de informação baseado no modelo RUP (Rational Unified Process), que é um método consagrado no mercado de TI;
+
+. elaboração da primeira versão dos processos de trabalho para contratação de bens e serviços no âmbito da Secretaria de Tecnologia da Informação, mediante a Portaria Setec nº 1, de 18 de janeiro de 2005;
+
+. elaboração de um referencial estratégico da área de tecnologia da informação, que foi materializado na Portaria Setec nº 13, de 12 de agosto de 2005, que também definiu a estrutura organizacional e as competências das subunidades da Secretaria de Tecnologia da Informação, ambas (estrutura e competências) baseadas em processos de trabalho.
+
+Embora os eventos apresentados evidenciem o amadurecimento em governança de TI no TCU, é perceptível que esse amadurecimento se concentra na Setec.
+
+Entretanto, o entendimento de que as práticas de governança de TI são essenciais para a melhoria dos resultados dessa área e que essas práticas ocorrem dentro e fora da unidade de TI vem crescendo no âmbito do Tribunal, o que é evidenciado pelas seguintes ações:
+
+. subordinação da Setec à Secretaria-Geral da Presidência, mediante a Resolução 199/2006, de 28/12/2006, que teve como um de seus objetivos possibilitar uma maior coordenação entre diversas unidades que se reportavam diretamente ao presidente da Casa (e.g. coordenação mais intensa entre as áreas de  informática e de planejamento);
+
+. criação do Comitê de Integração dos Sistemas Corporativos para o Controle Externo (CISCE), mediante a Portaria TCU nº 137, de 02/05/2007, cuja finalidade é auxiliar a Comissão de Coordenação-Geral na formulação de prioridades, políticas e diretrizes institucionais relativas aos sistemas corporativos de controle externo do TCU;
+
+. indicação do Ministro Augusto Sherman Cavalcanti como Coordenador Estratégico de TI do Tribunal, de acordo com a Portaria TCU nº 138, de 02/05/2007;
+
+. constituição do presente projeto, de modo a se iniciar a implantação de práticas de Governança de TI no TCU.
+
+Com essas primeiras ações, os níveis mais altos da administração do Tribunal poderão acompanhar mais atentamente o funcionamento e a evolução da área de TI, de modo que a Casa obtenha vários benefícios, como maior alinhamento estratégico e maior grau de agregação de valor por parte da TI do TCU.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.Escopo do projeto
+
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Elaborar diagnóstico preliminar de governança de TI e propor melhorias prioritárias para 2008, visando dotar o TCU de práticas de governança de TI baseadas em padrões nacionais e internacionais.
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Nivelar conhecimentos sobre os principais conceitos relacionados com Governança – conclusão de trabalho já iniciado.
+
+15 pessoas
+
+27/09/2007
+
+Palestra proferida para 15 servidores
+
+Palestra proferida e armazenada para referência
+
+MinASC
+
+Segepres
+
+Segecex
+
+Segedam
+
+Setec
+
+b)
+
+Avaliar a experiência de outras organizações públicas.
+
+2 organizações que já adotam a Governança de TI
+
+27 e 28/09/2007
+
+Reunião de avaliação de experiências de terceiros realizada
+
+Relatório aceito
+
+Evento realizado e armazenado para referência
+
+Relatório contendo os principais aspectos das experiências de outras organizações públicas entregue
+
+MinASC
+
+Segepres
+
+Segecex
+
+Segedam
+
+Setec
+
+c)
+
+Aplicar auto-avaliação COBIT pelo método preconizado pela INTOSAI, etapas “a” até “h” (vide Anexo I).
+
+1
+
+avaliação
+
+30/11/2007
+
+Relatório da auto-avaliação aceito
+
+Relatório de auto-avaliação entregue
+
+Segepres
+
+d)
+
+Propor melhorias prioritárias para a Setec e para o TCU relativas à Governança de TI para o ano de 2008.
+
+1
+
+14/12/2007
+
+Relatório com lista de prioridades para 2008 aceito
+
+Relatório com lista de prioridades para 2008 entregue
+
+Segepres
+
+ 
+
+e)
+
+Disparar e acompanhar a licitação de avaliação externa de Governança de TI usando o referencial COBIT 4.1, a ser executada no início de 2008, usando como insumos as avaliações ITIL e NBR 17799, ambas já em execução, e a avaliação objeto do item “c”.
+
+1
+
+29/10/2007
+
+ 
+
+ 
+
+29/12/2007
+
+Termo de Referência entregue
+
+Licitação realizada
+
+Termo de Referência elaborado
+
+Objeto adjudicado
+
+Setec
+
+Semat
+
+ 
+
+f)
+
+Elaborar proposta da fase 2 do Projeto Governança de TI.
+
+1
+
+29/02/2008
+
+Proposta de projeto aceita
+
+Proposta de projeto entregue
+
+Solicitação de projeto aprovada pela CCG
+
+Portaria de designação de projeto publicada pela PRESI
+
+Segepres
+
+
+
+
+
+
+
+
+
+
+
+5.3 Benefícios (impacto esperado dos produtos do projeto)
+
+
+a)
+
+melhoria do alinhamento estratégico da TI ao negócio do TCU;
+
+b)
+
+melhoria da sustentabilidade da área de TI do TCU;
+
+c)
+
+melhoria do retorno dos investimentos em TI no TCU.
+
+
+
+
+
+5.4 Não escopo (o que o projeto não vai fazer)
+
+
+a) 
+
+condução das avaliações ITIL e NBR 17799, ambas em curso;
+
+b) 
+
+priorização e execução das ações de melhoria, as quais caberão às respectivas áreas segundo os papéis e responsabilidades definidas pelo referencial COBIT 4.1 (ITGI, 2007);
+
+c) 
+
+execução do diagnóstico independente baseado COBIT 4.1.
+
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida
+
+Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+a)
+
+Ministro Augusto Sherman Cavalcanti
+
+(Coordenador de TI do TCU)
+
+Negociação de escopo, etapas e produtos do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Validação dos produtos gerados ao longo do projeto.
+
+b)
+
+Segepres (patrocinador)
+
+Negociação de escopo, etapas e produtos do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Validação dos produtos gerados ao longo do projeto.
+
+c)
+
+Segecex
+
+Validação dos produtos gerados ao longo do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Implantação de processos de TI fora da área de TI.
+
+d)
+
+Segedam
+
+Validação dos produtos gerados ao longo do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Implantação de processos de TI fora da área de TI.
+
+e)
+
+Setec
+
+Validação dos produtos gerados ao longo do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Implantação de processos de TI na área de TI.
+
+Sala para instalação da equipe do projeto
+
+f)
+
+Seplan
+
+Validação dos produtos gerados ao longo do projeto.
+
+Participação na definição de prioridades de Governança de TI.
+
+Implantação de processos de TI fora da área de TI.
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+a) 
+
+Envolvimento dos membros da equipe em outras atividades nas datas agendadas.
+
+Alto
+
+Média
+
+(M) Programar todas as reuniões com antecedência e confirmar as participações.
+
+Coordenador
+
+b)
+
+Contratação de avaliação externa de Governança de TI usando o referencial COBIT 4.1 não ocorrer até a data prevista de execução.
+
+Alto
+
+Média
+
+(M) Disparar a contratação de imediato.
+
+Setec
+
+c)
+
+Rejeição de propostas de melhoria prioritárias para a Setec e para o TCU relativas à Governança de TI para o ano de 2008 por parte dos atores envolvidos.
+
+Alto
+
+Média
+
+(M) Manter todos os atores informados e convidá-los para as reuniões de projeto mais relevantes.
+
+Coordenador
+
+
+
+
+
+
+
+
+
+
+8. Relação com outros projetos
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+ 
+
+Projeto Áquila
+
+Projeto Governança de TI - fase 2
+
+
+
+
+
+9. Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+ 
+
+1. Cláudio Silva da Cruz
+
+3164-0
+
+Setec
+
+25/09 a 29/02/2008
+
+Integral
+
+ 
+
+2. Carlos Alberto Mamede Hernandes
+
+2427-9
+
+Setec
+
+25/09 a 29/02/2008
+
+Integral
+
+ 
+
+3. Marisa Rodrigues Alho Batista
+
+2418-0
+
+Setec
+
+25/09 a 14/12/2007
+
+Parcial
+
+ 
+
+4. Gledson Pompeu Correa da Costa
+
+3165-8
+
+Setec
+
+25/09 a 14/12/2007
+
+Parcial
+
+ 
+
+5. Felício Ribas Torres
+
+5651-0
+
+Segepres
+
+25/09 a 14/12/2007
+
+Parcial
+
+ 
+
+6. Edison Franklin Almeida
+
+2815-0
+
+Segecex
+
+25/09 a 14/12/2007
+
+Parcial
+
+ 
+
+7. Luiz Felipe Bezerra Almeida Simões
+
+2874-6
+
+Segedam
+
+25/09 a 14/12/2007
+
+Parcial
+
+ 
+
+8. Alessandro Giuberti Laranja
+
+3085-6
+
+Seplan
+
+25/09 a 14/12/2007
+
+Parcial
+
+
+10. Custos adicionais estimados
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Contratação de empresa especializada para realização de avaliação INDEPENDENTE de maturidade da Governança de TI do TCU pelo referencial COBIT 4.1. Será usado o Sistema de Registro de Preço para viabilizar o procedimento licitatório ainda em 2007, mas com uso do orçamento de 2008. Estimativa inicial obtida da empresa Pink Elephant.
+
+R$ 30.000,00
+
+Orçamento de 2008
+
+Total de custos estimados
+
+R$ 30.000,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+11. Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+Ambiente de trabalho, que inclui: sala, duas mesas de trabalho (baias), mesa de reunião com pelo menos quatro cadeiras e ramal com aparelho telefônico.
+
+Assessoria da SETEC.
+
+
+12. Finalização
+
+
+Data
+
+Assinatura do gestor do projeto
+
+Em 25/09/2007
+
+ 
+
+ 
+
+Cláudio silva da cruz
+
+Coordenador do Projeto
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2006.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segepres, em ___/___/2007
+
+ 
+
+ 
+
+MAURÍCIO DE ALBUQUERQUE WANDERLEY
+
+Secretário-Geral da Presidência
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2007
+
+ 
+
+ 
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+
+
+
+Anexo I. Método de auto-avaliação preconizado pela INTOSAI
+
+
+	Conforme relatório da analista Roberta Queiroz Martins (BRASIL, 2004):
+
+
+
+"A metodologia de auto-avaliação proposta deve possibilitar as EFS a medir sua maturidade no controle de TI e a estabelecer linhas de ação que tenham por fim sua evolução. Em linhas gerais, é possível demonstrar esta metodologia dividindo-a nos seguintes passos:
+
+
+
+
+a)	escolha de um grupo de pessoas que trabalham na organização, que serão responsáveis pelo processo de auto-avaliação. Deve haver um moderador;
+
+
+
+
+b)	definição dos principais processos de negócio (efetuada por todo o grupo);
+
+
+
+
+c)	definição do nível de importância dos atuais sistemas de TI para cada processo de negócio (especificada por cada integrante do grupo);
+
+
+
+
+d)	definição do nível de importância de possíveis futuros sistemas de TI para cada processo de negócio (especificada por cada integrante do grupo);
+
+
+
+
+e)	definição do nível de qualidade dos atuais sistemas de TI para cada processo de negócio (especificada por cada integrante do grupo);
+
+
+
+
+f)	consolidação, pelo moderador, das respostas apresentadas nos passos "c", "d" e "e", que compõem o primeiro formulário;
+
+
+
+
+g)	seleção dos processos de TI mais importantes para o órgão (processos de TI são definidos no Cobit) (efetuada por todo o grupo);
+
+
+
+
+h)	definição do nível de importância de cada processo de TI selecionado no passo "g" (especificada por cada integrante do grupo);
+
+
+
+
+i)	definição do nível de maturidade (conceito especificado no Cobit) de cada processo de TI selecionado no passo "g" (especificada por cada integrante do grupo);
+
+
+
+
+j)	identificação dos processos de negócio afetados pelos processos de TI com baixo nível de maturidade;
+
+
+
+
+k)	consolidação, pelo moderador, das respostas apresentadas nos passos "h" e "i", que compõem o segundo formulário;
+
+
+
+
+l)	apresentação dos resultados ao grupo pelo moderador;
+
+
+
+
+m)	discussão e validação dos resultados pelo grupo;
+
+
+
+
+n)	descrição dos problemas mais importantes;
+
+
+
+
+o)	preparação de plano de ação;
+
+
+
+
+p)	apresentação e discussão com o dirigente máximo do órgão."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anexo II. Referências
+
+
+
+BRASIL. Tribunal de Contas da União. Portaria-TCU nº 58, de 18 de julho de 1990. Aprova o Plano Diretor de Informática do Tribunal de Contas da União para o triênio de julho de 1990 a junho de 1993.
+
+
+_____. Lei nº 9.755, de 16 de dezembro de 1998. Dispõe sobre a criação de "homepage" na "Internet", pelo Tribunal de Contas da União, para divulgação dos dados e informações que especifica, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/Leis/L9755.htm>. Acessado em: 19 jun. 2006.
+
+
+_____. Tribunal de Contas da União. Resolução nº 126, de 3 de novembro de 1999. Dispõe sobre a Política de Segurança de Informações do Tribunal de Contas da União - PSI/TCU e dá outras providências.
+
+
+_____. Tribunal de Contas da União. Portaria-TCU nº 126, de 6 de maio de 2002. Dispõe sobre as competências e designação das unidades gestoras dos sistemas de informação do Tribunal de Contas da União. Disponível em: <http://www2.tcu.gov.br/pls/portal/docs/PAGE/TCU/NORMAS_JURISPRUDENCIA/ATOS_NORMATIVOS/PORTARIAS/PORTARIAS_2001_A_2005/PRT2002-126.DOC>. Acessado em: 19 jun. 2006. 
+
+
+_____. Relatório de participação no Seminário sobre as Entidades Fiscalizadoras Superiores no Controle da Tecnologia da Informação. Relatório da ACE Roberta Queiroz Martins. TCU/Segecex/Adfis/DATI, 2004.
+
+
+_____. Tribunal de Contas da União. Portaria Setec nº 1, de 18 de janeiro de 2005. Aprova a versão 1.0 dos processos de trabalho para contratação de bens e serviços no âmbito da Secretaria de Tecnologia da Informação.
+
+
+_____. Tribunal de Contas da União. Portaria Setec nº 13, de 12 de agosto de 2005. Dispõe sobre o referencial estratégico, a organização interna e as competências das subunidades da Secretaria de Tecnologia da Informação. Disponível em: <\\_sarq_prod\Unidades\SEINF\Portarias\2005\Portaria 013-SETEC-2005 - Macroprocessos estrutura e competências.doc>. Acessado em: 19 jun. 2006.
+
+
+_____. Tribunal de Contas da União. Resolução nº 199, de 28 dezembro de 2006. Define a estrutura, as competências e a distribuição das funções de confiança das unidades da Secretaria do Tribunal de Contas da União. Disponível em: <http://www2.tcu.gov.br/pls/portal/docs/PAGE/TCU/NORMAS_JURISPRUDENCIA/ATOS_NORMATIVOS/RESOLUCOES_VERSAO3/RES2006-199.DOC>. Acessado em: 19 jun. 2006.
+
+
+_____. Tribunal de Contas da União. Portaria-TCU nº 105, de 29 de maio de 2006. Dispõe sobre competências e designação das unidades gestoras de soluções de tecnologia da informação do Tribunal de Contas da União. Disponível em: <http://www2.tcu.gov.br/pls/portal/docs/PAGE/TCU/NORMAS_JURISPRUDENCIA/ATOS_NORMATIVOS/PORTARIAS/PRT2006-105.DOC>. Acessado em: 19 jun. 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_____. Tribunal de Contas da União. Portaria-TCU n° 138, de 2 de maio de 2007. Designa o Auditor Augusto Sherman Cavalcanti para a coordenação estratégica relativa à área de tecnologia da informação no âmbito do Tribunal de Contas da União (TCU).
+
+
+_____. Tribunal de Contas da União. Portaria-TCU n° 137, de 2 de maio de 2007. Cria o Comitê de Integração dos Sistemas Corporativos para o Controle Externo (CISCE).
+
+
+ITGI, Information Technology Governance Institute. CobiT - Control Objectives for Information and related Technology. 4.1. ed. Rolling Meadows: ITGI, 2007. Disponível em: <http://www.isaca.org/AMTemplate.cfm?Section=Downloads&Template=/MembersOnly.cfm&ContentFileID=14002>. Acessado em: 18 mai. 2007.
+
+
+WEILL, Peter; ROSS, Jeanne W. IT Governance on One Page. CISR/Sloan Working Papers, CISR working paper No. 349 and Sloan working paper No. 4516-04. Cambridge: Massachusetts Institute of Technology, 2004. Disponível em: <http://web.mit.edu/cisr/working%20papers/cisrwp349.pdf>. Acessado em: 14 mai. 2007.
+
+
+_____. Governança de TI : Tecnologia da Informação. São Paulo: M. Books do Brasil, 2006.
+
+
+
+

@@ -1,0 +1,362 @@
+Portaria
+385/2009
+
+
+O VICE-PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, NA PRESIDÊNCIA, no uso de suas atribuições e tendo em vista o disposto no art. 81, parágrafo único, da Resolução-TCU nº 214, de 20 de agosto de 2008, consolidada,
+
+
+considerando a nova estrutura de tecnologia da informação disposta pela Resolução-TCU nº 232, de 16 de dezembro de 2009; e
+
+
+considerando a necessidade de assegurar sintonia, alinhamento de iniciativas, de prioridades e de forma de atuação das unidades de tecnologia da informação do TCU, resolve:
+
+
+Art. 1º As competências da Secretaria de Infraestrutura de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação, bem como o funcionamento da área de tecnologia da informação (TI) do Tribunal observarão o disposto nesta Portaria.
+
+
+Art. 2º O CGTI, órgão colegiado de natureza consultiva e de caráter permanente instituído pela Resolução-TCU nº 232, de 2009, tem por finalidade formular e conduzir diretrizes para a Política de Governança de Tecnologia da Informação do Tribunal, analisar periodicamente sua efetividade, propor normas e mecanismos institucionais para melhoria contínua, bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral (CCG).
+
+
+§ 1º Compete ao CGTI, observadas as estratégias institucionais e o Plano de Diretrizes do TCU:
+
+
+I – integrar e consolidar as propostas de políticas, diretrizes, normas e procedimentos que orientem e disciplinem a utilização de TI no Tribunal, bem como manifestar-se a respeito;
+
+
+II – integrar e consolidar as propostas de estratégias de TI alinhadas às estratégias institucionais do TCU, bem como manifestar-se a respeito;
+
+
+III – integrar e consolidar as propostas de planejamento das iniciativas de TI, em consonância com as estratégias institucionais e de tecnologia da informação, bem como manifestar-se a respeito;
+
+
+IV – integrar e consolidar as propostas de ações corporativas em TI, e, quando demandado, manifestar-se a respeito;
+
+
+V – submeter à Secretaria-Geral da Presidência (Segepres) minutas de normativo e propostas de natureza estratégica, ou que necessitem de cooperação intersetorial, que versem sobre TI;
+
+
+VI – submeter o Plano Diretor de Tecnologia da Informação (PDTI) à Segepres; e
+
+
+VII – desenvolver outras atividades inerentes à sua finalidade.
+
+
+§ 2º Integram o CGTI os titulares das seguintes unidades:
+
+
+I – Secretaria de Infraestrutura de Tecnologia da Informação (Setic);
+
+
+II – Secretaria de Soluções de Tecnologia da Informação (STI); e
+
+
+III – Assessoria de Segurança da Informação e Governança de TI (Assig), a quem compete secretariar o Comitê.
+
+
+§ 3º Os regulamentos e a coordenação do CGTI serão estabelecidos em ato da Segepres, que disporá, entre outras questões, sobre a obrigatoriedade de rodízio na coordenação do Comitê.
+
+
+Art. 3º Fica instituído o Comitê de Análise de Mudanças (CAB), órgão colegiado de natureza técnica e de caráter permanente, que tem por finalidade avaliar e aprovar mudanças nos serviços e soluções de TI, bem como manter uniforme e organizado o ambiente de TI do TCU.
+
+
+Art. 4º Ao CAB compete:
+
+
+I – propor políticas e definir diretrizes e procedimentos aplicáveis à solicitação, avaliação e aprovação de mudanças nos serviços e soluções de TI;
+
+
+II – receber e avaliar as requisições de mudança nos serviços e soluções de TI;
+
+
+III – aprovar, reprovar ou sugerir alterações nas requisições de mudança;
+
+
+IV – organizar a agenda de mudanças; e
+
+
+V – avaliar a conformidade e os resultados das mudanças aprovadas.
+
+
+§ 1º A composição do CAB será estabelecida em ato conjunto da Setic e da STI.
+
+
+§ 2º A avaliação e aprovação de requisições de mudança deverão observar acordos de nível de serviço estabelecidos com as unidades gestoras dos serviços e soluções de TI afetados por essas mudanças.
+
+
+Art. 5º Em conformidade com as estratégias institucionais e o Plano de Diretrizes do TCU, compete, conjuntamente, à Setic e à STI, observadas as respectivas áreas de atuação:
+
+
+I – propor a formulação de políticas, diretrizes, normas e procedimentos que orientem e disciplinem a utilização de TI no Tribunal;
+
+
+II – propor a formulação de estratégias de TI alinhadas às estratégias institucionais do Tribunal;
+
+
+III – propor o planejamento das iniciativas de TI, em consonância com as estratégias institucionais e de TI;
+
+
+IV – propor a alocação de recursos orçamentários adequados para realização das estratégias de TI;
+
+
+V – disseminar e incentivar o uso de TI como instrumento de melhoria do desempenho institucional;
+
+
+VI – prover soluções de TI compatíveis com as necessidades atuais e futuras do Tribunal e assegurar o seu correto funcionamento dentro dos níveis de serviço estabelecidos;
+
+
+VII – apoiar o requisitante da contratação, a Secretaria de Licitações, Contratos e Patrimônio (Selip) e o gestor do contrato no planejamento, elaboração do termo de referência e na gestão das contratações de bens e serviços de TI de que o Tribunal necessite;
+
+
+VIII – auxiliar no estabelecimento, administração e acompanhamento de contratos, convênios, acordos de cooperação ou instrumentos congêneres que envolvam TI; e
+
+
+IX – participar, quando solicitado, do planejamento e da execução de ações de controle externo que demandem conhecimentos especializados na sua área de atuação, de modo a apoiar a Secretaria-Geral de Controle Externo.
+
+
+§ 1º A Setic e a STI devem atuar de forma integrada e se apoiar mutuamente, no que couber, para o desenvolvimento dos trabalhos de TI.
+
+
+§ 2º Na aplicação do disposto no inciso VII deste artigo, compete a cada unidade, no âmbito de sua área de atuação, elaborar e manter atualizada base de conhecimento relativa a aspectos específicos da contratação de bens e serviços de tecnologia da informação, em especial no que se refere à jurisprudência do Tribunal, às notas técnicas e orientações da Secretaria de Fiscalização de Tecnologia da Informação (Sefti) e aos pareceres da Consultoria Jurídica (Conjur) sobre o tema.
+
+
+Art. 6º Compete à Setic:
+
+
+I – promover os adequados suporte e atendimento aos usuários de TI do Tribunal;
+
+
+II – propor a aplicação de boas práticas de gestão e governança de TI aos processos de trabalho de tecnologia da informação, com ênfase nos aspectos de qualidade, integração e aderência às necessidades institucionais, observado o direcionamento institucional a cargo da Assig;
+
+
+III – identificar, conceber, implementar e administrar soluções de infraestrutura de TI compatíveis com as necessidades atuais e futuras do Tribunal;
+
+
+IV – instalar, configurar e manter atualizados os equipamentos de rede e segurança, sistemas operacionais e outros softwares básicos necessários ao funcionamento de serviços e soluções de TI;
+
+
+V – efetuar, em parceria com a STI, o planejamento e a gestão de capacidade dos elementos de infraestrutura necessários ao funcionamento dos serviços e soluções de TI;
+
+
+VI – prover ambiente computacional adequado para desenvolvimento, teste, homologação, treinamento e uso de serviços e soluções de TI;
+
+
+VII – promover, orientar e acompanhar, no que se refere à TI, a implementação da Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU), observado o direcionamento institucional a cargo da Assig;
+
+
+VIII – manter atualizadas as versões de todos os softwares e de componentes dos serviços e soluções de TI, bem como gerenciar as respectivas licenças de uso e outros mecanismos que assegurem a recuperação da instalação dos equipamentos centrais da rede TCU e dos respectivos serviços;
+
+
+IX – gerir a alocação dos recursos orçamentários relativos à área de TI; e
+
+
+X – desenvolver outras atividades inerentes à sua finalidade.
+
+
+§ 1º A Setic é dirigida por secretário e conta com as funções de confiança constantes do Anexo a esta Portaria.
+
+
+§ 2º Fica alocado à Setic o Serviço de Administração relativo à área de TI, que responderá, também, pelo apoio administrativo à STI.
+
+
+Art. 7º Compete à STI:
+
+
+I – apoiar, em coordenação com a Secretaria de Planejamento e Gestão (Seplan), as unidades gestoras na modelagem de processos de trabalho do Tribunal que sejam impactados pela implantação de soluções de TI;
+
+
+II – levantar, documentar e gerenciar regras de negócio e requisitos de soluções de TI, inclusive no que se refere aos aspectos de segurança, infraestrutura e interoperabilidade;
+
+
+III – avaliar as regras de negócio e os requisitos definidos pela unidade gestora de cada solução de TI, de modo a apontar possíveis inconsistências ou incompatibilidades e promover a integração com as demais soluções de TI e com a arquitetura tecnológica do Tribunal;
+
+
+IV – negociar níveis de serviço para cada solução de TI, junto à unidade gestora e demais partes interessadas;
+
+
+V – prover soluções de TI de que o Tribunal necessite, bem como recursos de interoperabilidade associados a essas soluções, de acordo com as regras de negócio e os requisitos especificados pelas unidades gestoras;
+
+
+VI – realizar os testes necessários para assegurar o correto funcionamento e a aderência de soluções de TI às regras de negócio e aos requisitos especificados;
+
+
+VII – efetuar a manutenção de soluções de TI, de acordo com as regras de negócio e os requisitos especificados pelas unidades gestoras, mantendo atualizada a documentação pertinente;
+
+
+VIII – elaborar e manter atualizados rotinas de produção, parâmetros de monitoramento e roteiros de atendimento relativos a soluções de TI;
+
+
+IX – participar do planejamento e da execução de ações de desenvolvimento de competências para utilização de soluções de TI, bem como apoiar as unidades gestoras na elaboração de material para treinamento e documentação de suporte de soluções de TI;
+
+
+X – manifestar-se quanto aos aspectos técnicos e custos envolvidos no atendimento a solicitações de órgãos e entidades para cessão de sistemas desenvolvidos pelo Tribunal, bem como realizar, mediante autorização da CCG, as modificações necessárias para viabilizar a cessão; e
+
+
+XI – desenvolver outras atividades inerentes à sua finalidade.
+
+
+Parágrafo único. A STI é dirigida por secretário e conta com as funções de confiança constantes do Anexo a esta Portaria.
+
+
+Art. 8º Fica a Segepres autorizada a expedir os atos necessários à regulamentação desta Portaria, bem como a dirimir os casos omissos.
+
+
+Parágrafo único. Incumbe aos titulares da Setic e da STI expedir portarias para regular a estrutura de suas respectivas unidades, de modo a dar cumprimento ao disposto no inciso II do art. 80 da Resolução-TCU nº 214, de 2008, e no art. 9º da Resolução-TCU nº 232, de 2009.
+
+
+Art. 9º Esta Portaria entra em vigor na data de sua publicação.
+
+
+BENJAMIN ZYMLER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada
+Dispõe sobre as competências da Secretaria de Infraestrutura de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação, e dispõe sobre o funcionamento da área de tecnologia da informação do Tribunal.
+
+ANEXO À PORTARIA-tcu Nº 385, DE 18 de DEZEMBRO DE 2009
+
+
+
+
+DISTRIBUIÇÃO DAS FUNÇÕES DE CONFIANÇA
+
+
+ 
+
+NÍVEL
+
+FC
+
+EXISTENTES
+
+TOTAL
+
+DIREÇÃO
+
+ASSESSORAMENTO
+
+Setic 
+
+Secretário
+
+FC-5
+
+1
+
+-
+
+1
+
+Gerente de Divisão
+
+FC-4
+
+2
+
+-
+
+2
+
+Chefe de Serviço
+
+FC-3
+
+9
+
+-
+
+9
+
+Assessor
+
+-
+
+2
+
+2
+
+Assistente Administrativo
+
+FC-1
+
+-
+
+1
+
+1
+
+Total
+
+12
+
+3
+
+15
+
+STI 
+
+Secretário
+
+FC-5
+
+1
+
+-
+
+1
+
+Gerente de Divisão
+
+FC-4
+
+3
+
+-
+
+3
+
+Chefe de Serviço
+
+FC-3
+
+10
+
+-
+
+10
+
+Assessor
+
+-
+
+2
+
+2
+
+Total
+
+14
+
+2
+
+16
+
+
+
+
+
+
+
+

@@ -1,0 +1,957 @@
+Portaria
+227/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto SGP – Especificação de Sistema de Gestão de Pessoas, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Vadis Antônio Bellaver, matrícula nº 6523-4, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto SGP &#8211; Especificação de Sistema de Gestão de Pessoas e designa seu gestor.
+
+ANEXO À PORTARIA-TCU Nº 227, DE 26 DE SETEMBRO DE 2007
+
+
+
+
+
+
+
+
+
+
+
+
+1.Identificação do gestor do projeto
+
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Vadis Antonio Bellaver
+
+6523-4
+
+vadisb@tcu.gov.br
+
+7111
+
+Função do gestor
+
+Origem da FC
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Função da Gestão de Projetos
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Cristhian dos Santos Camilo
+
+4568-3
+
+cristhiansc@tcu.gov.br
+
+7868
+
+Local / telefone
+
+Setec - Anexo II - sala 220 / (61) 3316-7948 / 9674-1819
+
+
+
+2. Identificação do projeto
+
+
+
+Nome do projeto
+
+Projeto SGP - Especificação de Sistema de Gestão de Pessoas
+
+Período de realização
+
+Unidade patrocinadora
+
+24/09/2007 a 23/05/2008
+
+Segedam/Segep
+
+
+3.Vinculação estratégica
+
+
+Plano estratégico do TCU - 2006 a 2010
+
+a)
+
+Perspectiva “Pessoas e Inovação”
+
+Objetivo estratégico nº 17: Otimizar a utilização do conhecimento organizacional.
+
+Objetivo estratégico nº 20: Modernizar as práticas de gestão de pessoas.
+
+b)
+
+Perspectiva “Orçamento e Logística”
+
+Objetivo estratégico nº 21: Assegurar adequado suporte logístico às necessidades do TCU.
+
+c)
+
+Iniciativa estratégica nº 19: Instituir e implantar política de gestão de pessoas.
+
+Plano de diretrizes do TCU - 2007
+
+ 
+
+Perspectiva “Pessoas e Inovação”
+
+Iniciativa estratégica nº 2: Implantar política de gestão de pessoas.
+
+Ação 2.2 - Aperfeiçoar e racionalizar processos de trabalho de gestão de pessoas.
+
+Ação 2.4 - Dar continuidade à implantação do sistema informatizado integrado de gestão de pessoas.
+
+Plano estratégico da Segedam - 2007 a 2011
+
+a)
+
+Perspectiva “Clientes”
+
+Objetivo estratégico nº 2: Otimizar o tempo de resposta às demandas de produtos e serviços.
+
+Objetivo estratégico nº 3: Melhorar a qualidade de produtos e serviços.
+
+Objetivo estratégico nº 4: Aprimorar a relação custo-benefício de produtos e serviços.
+
+b)
+
+Perspectiva “Processos Internos”
+
+Objetivo estratégico nº 11: Modernizar as práticas de gestão de pessoas.
+
+Objetivo estratégico nº 12: Ampliar o uso e a efetividade das soluções de TI para a área administrativa.
+
+Iniciativa estratégica nº 11: Definir e implantar melhorias nos sistemas informatizados de suporte à atividade administrativa.
+
+Plano Diretor de Administração - 2007 a 2008
+
+ 
+
+Iniciativa estratégica nº 4: Definir e implantar melhorias nos sistemas informatizados de suporte à atividade administrativa.
+
+Ação 4.1 -  Incrementar as funcionalidades dos sistemas de suporte às atividades administrativas e/ou adquirir, quando viável, soluções de TI para apoio administrativo.
+
+- Iniciar implantação de sistema informatizado integrado de gestão de pessoas.
+
+
+
+
+
+
+
+
+
+
+
+4 .Problema / oportunidade
+
+
+
+Descrição do problema ou da oportunidade 
+
+a)
+
+O atual sistema de Gestão de Recursos Humanos (GRH) é uma solução de TI que, após nove anos de vida útil, já não atende plenamente às necessidades da Secretaria de Gestão de Pessoas - Segep, face às novas exigências em gestão de pessoas no Tribunal, principalmente: educação corporativa, gestão de pessoas por competências, banco de talentos, diárias e ampliação do auto-serviço. Em decorrência dos resultados do projeto Atuar, estão previstas mudanças no âmbito da Segep, em relação à modernização de seus processos de trabalho. A reestruturação orgânica e funcional das áreas que lidam com gestão de pessoas exigirá adequação do sistema de informações que suporta seus processos. Acompanhando essa linha de modernização das práticas administrativas do Tribunal, o projeto “Segedam sem papel” tornou-se a mais recente ação que demandará adequação da solução de TI para gestão de pessoas no sentido de atender aos requisitos tecnológicos que proporcionem documento e processo administrativo eletrônicos.
+
+b)
+
+Ante a escassez de recursos para desenvolvimento interno e a existência no mercado de soluções de TI especializadas em gestão de pessoas, grande parte já consolidada e implementada em muitas empresas de porte da iniciativa privada, bem como em diversos órgãos da administração pública, mostra-se oportuna a iniciativa de especificação e posterior contratação de novo sistema de gestão de pessoas para o Tribunal.
+
+Evolução do quadro (apresentar fatos e dados)
+
+a)
+
+O sistema GRH entrou em produção em setembro de 1998, após cancelamento do contrato de serviços vigente com a IBM do Brasil e o total desligamento do computador de grande porte (mainframe), que constituía a infra-estrutura computacional operante na época. O sistema foi projetado e desenvolvido no exíguo prazo de um ano por equipe da Setec, tendo em vista que o Sistema de Administração de Pessoal (Siape), antecessor do GRH, seria desativado juntamente com o desligamento do computador de grande porte. A emergência da situação, na época, levou a Setec a desenvolver novo sistema de informação com a premissa básica de simples substituição do antigo Siape, pois não seria possível – em virtude da urgência – realizar levantamento mais detalhado das reais necessidades que a gestão de recursos humanos exigia na época.
+
+b)
+
+Ao longo dos nove anos (1998-2007) em que o sistema GRH está em operação, muitas manutenções corretivas e evolutivas foram realizadas, a maioria em virtude da necessidade de adequação do sistema às constantes mudanças da lei e dos procedimentos de gestão de recursos humanos. A defasagem tecnológica do sistema GRH, aliada à sua defasagem em termos de modelagem de negócio, dificulta muito alcançar resultados estáveis e robustos, como desejável, mesmo quando ocorre intensa aplicação de recursos humanos na manutenção do sistema.
+
+c)
+
+Este histórico conduziu à situação em que o sistema que suporta a gestão de pessoas no TCU carece de usabilidade e flexibilidade em níveis hoje exigidos por uma administração ágil e eficiente. Além disso, algumas macrofunções do macroprocesso gestão de pessoas ainda não estão informatizadas no Tribunal: educação corporativa, gestão de pessoas por competências, gestão de banco de talentos e fluxo de documentos.
+
+
+5. Escopo do projeto
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Especificar, com objetivo de licitação, Sistema de Gestão de Pessoas[1].
+
+
+
+5.2 Meta – Indicador – Produto – Cliente
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente 
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Efetuar prospecção no mercado em busca de soluções de TI em gestão de pessoas que atendam às necessidades do TCU.[2] 
+
+50%
+
+ 
+
+100%
+
+25/10/2007
+
+ 
+
+23/11/2007
+
+Relatório das soluções de TI especializadas em gestão de pessoas vistas no mercado aceito
+
+Relatório das soluções de TI especializadas em gestão de pessoas vistas no mercado 
+
+Segep
+
+ISC
+
+ 
+
+
+
+ O sistema deverá abranger, entre outras, as macrofunções (1) gestão de cadastros de autoridades e servidores; (2) gestão de cadastros de estagiários e prestadores de serviço; (3) gestão da vida funcional de pessoas; (4) avaliação de desempenho; (5) controle de freqüência; (6) pagamento de pessoal; (7) gestão de benefícios de saúde; (8) educação corporativa; (9) gestão de pessoas por competências; (10) gestão de banco de talentos; (11) legislação de pessoal; (12) fluxo de documentos.
+
+
+ A prospecção das soluções de TI limitar-se-á a 10 fornecedores.
+
+
+
+
+
+
+b) 
+
+Identificar riscos e avaliar impactos do novo sistema relativos ao aspecto “integração” com os demais sistemas de informação do TCU.
+
+100%
+
+23/11/2007
+
+Relatório de riscos e impactos sobre os sistemas de informação do TCU aceito
+
+Relatório de riscos e impactos sobre os sistemas de informação do TCU 
+
+Setec
+
+c) 
+
+Apresentar resultado do estudo de viabilidade técnica e econômica da contratação pretendida.
+
+1
+
+30/11/2007
+
+Parecer de viabilidade técnica e econômica da solução pretendida aceito
+
+Parecer de viabilidade técnica e econômica da solução pretendida
+
+CCG
+
+d) 
+
+Planejar arquitetura da solução.
+
+70%
+
+ 
+
+ 
+
+ 
+
+100%
+
+01/02/2008
+
+ 
+
+ 
+
+ 
+
+31/03/2008
+
+Diagrama de arquitetura da solução, versão inicial, aceito
+
+ 
+
+Diagrama de arquitetura da solução, versão final, aceito
+
+Diagrama de arquitetura da solução, versão inicial
+
+ 
+
+Diagrama de arquitetura da solução, versão final
+
+Segep
+
+ISC
+
+Setec
+
+ 
+
+Segep
+
+ISC
+
+Setec
+
+e) 
+
+Definir requisitos funcionais.
+
+1
+
+14/03/2008
+
+Documento de requisitos funcionais aceito
+
+Documento de requisitos funcionais
+
+Segep
+
+ISC
+
+f) 
+
+Definir requisitos tecnológicos e de usabilidade.
+
+1
+
+14/03/2008
+
+Documento de requisitos tecnológicos e de usabilidade aceito
+
+Documento de requisitos tecnológicos e de usabilidade
+
+Setec
+
+g) 
+
+Definir requisitos de integração.
+
+1
+
+31/03/2008
+
+Documento de requisitos de integração aceito
+
+Documento de requisitos de integração 
+
+Setec
+
+h) 
+
+Planejar fases e etapas de personalização e implantação do novo sistema.
+
+1
+
+11/04/2008
+
+Cronograma físico-financeiro de implantação do novo sistema aceito
+
+Cronograma físico-financeiro de implantação do novo sistema 
+
+Segep
+
+ISC
+
+Setec
+
+i) 
+
+Definir níveis de serviço a serem atendidos pela empresa contratada.
+
+1
+
+25/04/2008
+
+Documento de níveis de serviço a serem atendidos pela contratada aceito
+
+Documento de níveis de serviço a serem atendidos pela contratada 
+
+Segep
+
+ISC
+
+Setec
+
+j) 
+
+Obter propostas comerciais de potenciais fornecedores.
+
+3
+
+09/05/2008
+
+Propostas comerciais de fornecedores recebidas e válidas[3]
+
+Propostas comerciais de fornecedores recebidas
+
+Setec
+
+
+
+
+
+
+
+
+
+
+
+k) 
+
+Redigir documento técnico do edital de licitação de sistema de gestão de pessoas.
+
+1
+
+23/05/2008
+
+Termo de Referência ou Projeto Básico elaborado e aceito
+
+Termo de Referência ou Projeto Básico
+
+Segep
+
+ISC
+
+Setec
+
+
+
+5.3 Benefícios (impacto esperado dos produtos do projeto)
+
+
+
+a) 
+
+Especificação dos requisitos funcionais e tecnológicos para fase interna da licitação de sistema de gestão de pessoas de acordo com as necessidades do TCU, em sintonia com a realidade do mercado brasileiro e aproveitando os benefícios do estado da arte no segmento Tecnologia da Informação e Comunicação;
+
+b) 
+
+Modelo de contratação de solução de TI alinhado à jurisprudência do TCU, constituindo caso concreto com efeito indutor de boas práticas de contratação junto à Administração Pública;
+
+c) 
+
+Maior domínio do conhecimento organizacional sobre gestão de pessoas, pela sedimentação desse conhecimento nas regras de negócio especificadas;
+
+d) 
+
+Especificações técnicas para contratação de sistema abrangente e ágil, que proporcionará maior facilidade para implantação da política de gestão de pessoas;
+
+e) 
+
+Identificação de soluções de mercado inovadoras, com agregação de valor à modernização do processo de trabalho “gestão de pessoas” no Tribunal; 
+
+f) 
+
+Especificação de requisitos tecnológicos que resultem em menor tempo de resposta às demandas de serviços prestados pelas áreas de gestão de pessoas, com incremento da qualidade dos serviços;
+
+g) 
+
+Parâmetros técnicos que assegurem contratação de nova solução de TI com elevados graus de usabilidade e flexibilidade, obtendo proveito dos grandes avanços em engenharia de software nos últimos anos;
+
+h) 
+
+Especificação que resulte, após implantação do novo sistema, melhor relação custo-benefício dos produtos e serviços em gestão de pessoas, devido a:
+
+ Maior grau e abrangência de automação das funções do processo “gestão de pessoas”, liberando tempo dos colaboradores para atividades mais nobres;
+
+ Maior integração automática dos subprocessos, diminuindo tempos de fluxo de informações e documentos;
+
+ Maior grau de auto-serviço por parte dos usuários do sistema, proporcionando maior produtividade em sua atividade-fim;
+
+ Menores custos de manutenção corretiva e evolutiva, devido à maior robustez da nova solução de TI alicerçada em modelagem de negócio e tecnologia de última geração, com melhores desempenhos.
+
+
+
+5.4 Não escopo (o que o projeto não vai fazer)
+
+
+
+a)
+
+Licitar e contratar o sistema de gestão de pessoas especificado;
+
+b)
+
+Coordenar a implantação do sistema de gestão de pessoas contratado.
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+
+Nome da parte envolvida
+
+Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+a) 
+
+Segedam (patrocinador)
+
+Apoio formal para constituição do projeto.
+
+b) 
+
+Segep (co-patrocinador, cliente e fornecedor)
+
+três servidores para compor a equipe do projeto, com dedicação integral;
+
+um assessor para compor a equipe do projeto, com dedicação parcial;
+
+espaço físico para localização da equipe (sala 220 do Anexo II).
+
+c) 
+
+ISC (cliente e fornecedor)
+
+um servidor para compor a equipe do projeto, com dedicação parcial;
+
+especificações produzidas pelos projetos Atena (gestão de pessoas por competências) e Pégaso (educação à distância).
+
+d) 
+
+Setec (parceiro e fornecedor)
+
+um servidor para coordenar o projeto, com dedicação integral;
+
+móveis e uma impressora;
+
+requisitos tecnológicos de ambiente computacional;
+
+requisitos de integração com sistemas de informação do TCU.
+
+e) 
+
+Projeto Pessoa I (parceiro)
+
+Requisitos funcionais atendidos e  não atendidos pelo sistema GRH.
+
+f) 
+
+Projeto Atuar e Projeto Mapear ISC (parceiros)
+
+Processos de trabalho do macroprocesso gestão de pessoas.
+
+g) 
+
+Projeto Segedam sem papel (parceiro)
+
+Requisitos tecnológicos para documento e processo administrativo eletrônicos.
+
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+a) 
+
+Falta de apoio das unidades envolvidas.
+
+Alto
+
+Baixa
+
+(E) Envolver todos os interessados nas discussões e definições.
+
+Coordenador
+
+b) 
+
+Perda de recursos humanos e/ou físicos.
+
+Alto
+
+Média
+
+(R) Negociar cessão de novos recursos humanos e/ou físicos.
+
+Coordenador
+
+c) 
+
+Baixo grau de atendimento aos requisitos do TCU pelas soluções prospectadas no mercado.
+
+Médio
+
+Média
+
+(M) Prospectar o mercado incluindo todos os principais fornecedores.
+
+(R) Especificar maior tempo de personalização do sistema após contratação.
+
+Equipe
+
+ 
+
+Equipe
+
+d) 
+
+Resistências ao pleno fornecimento de informações e documentos necessários à completa e correta especificação do sistema.
+
+Alto
+
+Baixa
+
+(M) Sensibilização da pessoa resistente com apoio de seu gerente.
+
+(R) Busca de canais alternativos de fornecimento dos insumos requeridos pelo projeto.
+
+Coordenador
+
+ 
+
+Equipe
+
+
+
+
+8.Relação com outros projetos
+
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+ 
+
+Atena
+
+Pégaso
+
+Pessoa I
+
+Atuar
+
+Mapear ISC
+
+Segedam sem papel
+
+Implantação do SGP
+
+
+
+
+
+9.Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+ 
+
+1. Vadis Antonio Bellaver
+
+6523-4
+
+Setec
+
+24/9/2007 a 23/5/2008
+
+integral
+
+ 
+
+2. Cristhian dos Santos Camilo
+
+4568-3
+
+Segep
+
+24/9/2007 a 23/5/2008
+
+integral
+
+ 
+
+3. Gisélia Lúcia Gonçalves Pires
+
+1081-2
+
+Segep
+
+24/9/2007 a 23/5/2008
+
+integral
+
+ 
+
+4. Maria Lucinei Pereira Pires
+
+1994-1
+
+Segep
+
+24/9/2007 a 23/5/2008
+
+integral
+
+ 
+
+5. Adriano César Ferreira Amorim
+
+5628-6
+
+Segep
+
+24/9/2007 a 23/5/2008
+
+parcial
+
+ 
+
+6. Francisco Antonio de Alencar
+
+1727-2
+
+ISC
+
+24/9/2007 a 23/5/2008
+
+parcial
+
+
+
+
+
+10. Custos adicionais estimados
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Nenhum
+
+ 
+
+ 
+
+Total de custos estimados
+
+R$ 0,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+
+
+
+
+
+
+
+
+11. Outros recursos necessários
+
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+Móveis para sala da equipe
+
+Setec, Segep, Semat
+
+b)
+
+Impressora laser
+
+Segedam
+
+c)
+
+Telefone: 2 aparelhos e 2 ramais
+
+Segep
+
+d)
+
+Quadro branco
+
+Semat
+
+
+
+
+
+12. Finalização
+
+
+Data
+
+Assinatura do gestor do projeto
+
+Em 21/09/2007
+
+VADIS ANTONIO BELLAVER
+
+Coordenador do Projeto
+
+Manifestação do titular da unidade co-patrocinadora 
+
+De acordo, conforme ata de reunião de abertura realizada em 21/09/2007.
+
+Encaminhe-se à Segedam, para fins de aprovação.
+
+Segep, em ___/___/2007
+
+Fernando silveira camargo
+
+Secretário de Gestão de Pessoas
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 21/09/2007.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+Segedam, em ___/___/2007
+
+sérgio freitas de almeida
+
+Secretário-Geral de Administração
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2007
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+

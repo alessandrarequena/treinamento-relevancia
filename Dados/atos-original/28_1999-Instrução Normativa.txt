@@ -1,0 +1,1118 @@
+Instrução Normativa
+28/1999
+
+
+
+
+
+
+
+
+O  TRIBUNAL  DE  CONTAS DA UNIÃO, no uso  de  suas  atribuições  constitucionais, legais  e  regimentais, e
+
+
+Considerando o disposto no art.  1º da Lei nº 9.755, de 16 de dezembro de 1998;
+
+
+Considerando que os dados e informações de que trata a referida Lei devem ser divulgados pelos órgãos responsáveis em atendimento ao princípio da publicidade consagrado no art. 37, caput, da Constituição Federal;
+
+
+Considerando  a  racionalidade  administrativa  e  a  economicidade,  princípios  que  norteiam  a administração pública objetivando  evitar  duplicação de esforços e  sobreposição de atribuições;
+
+
+Considerando  o poder  que lhe confere o art. 3° da Lei n° 8.443/92, para expedir atos e instruções normativas sobre matéria de suas atribuições,  resolve:
+
+
+SEÇÃO  I
+
+
+DO OBJETO
+
+
+Art. 1.º  A homepage intitulada Contas Públicas, a ser mantida pelo Tribunal de Contas da União na Internet, proverá o acesso organizado aos seguintes dados e informações:
+
+
+I  -  montante de cada um dos tributos arrecadados:
+
+
+a)  pela União; 
+
+
+b)  pelos Estados e Distrito Federal;
+
+
+c)  pelos Municípios. 
+
+
+II  -  recursos repassados voluntariamente:
+
+
+a) pela União aos Estados, Distrito Federal e Municípios à conta dos Orçamentos Fiscal e da Seguridade Social;
+
+
+b) pelos Estados e Distrito Federal aos Municípios.
+
+
+III - valores de origem tributária entregues e a entregar:
+
+
+a)  pela União a cada um dos demais Entes da Federação, a que se referem os incisos I, alíneas a e b, e II, do art. 159 da Constituição Federal, e a expressão numérica dos coeficientes de rateio;
+
+
+b)  pelos Estados aos Municípios observadas as disposições contidas em suas respectivas Constituições e no § 3° do art. 159 da Constituição Federal.
+
+
+IV- demonstrativos bimestrais acerca da execução:
+
+
+a)  pela União, dos Orçamentos Fiscal e da Seguridade Social e do Orçamento de Investimentos das Empresas Estatais;
+
+
+b)  pelos Estados e Distrito Federal,  dos Orçamentos Fiscal e da Seguridade Social e do Orçamento de Investimentos das Empresas Estatais;
+
+
+c)  pelos Municípios, acerca dos seus orçamentos  existentes. 
+
+
+V – demonstrativos anuais de receitas e despesas:
+
+
+a) da União, referentes aos Orçamentos Fiscal e  da  Seguridade  Social  e  ao  Orçamento de Investimentos das Empresas Estatais;
+
+
+b)  dos Estados  e  Distrito  Federal ,  referentes  aos  Orçamentos  Fiscal  e da  Seguridade Social e  do  Orçamento de Investimentos das Empresas Estatais;
+
+
+c)  pelos Municípios acerca dos seus orçamentos existentes.
+
+
+VI – orçamentos  Fiscal, da Seguridade Social  e de Investimentos  das  Empresas Estatais,  ou  orçamentos existentes:
+
+
+a) da União;
+
+
+b) dos Estados  e Distrito Federal;
+
+
+c) dos Municípios.
+
+
+VII – balanços  orçamentários  anuais  dos  Orçamentos  Fiscal  e  da  Seguridade  Social e  do  Orçamento de Investimentos das Empresas Estatais, ou orçamentos existentes:
+
+
+a) da União;
+
+
+b) dos Estados e Distrito Federal;
+
+
+c) dos Municípios.
+
+
+VIII - resumos dos instrumentos de contrato, ou de seus aditivos, firmados:
+
+
+a)  pela União;
+
+
+b)  pelos Estados e Distrito Federal ;
+
+
+c) pelos Municípios.
+
+
+IX - relações mensais de todas as compras feitas pela administração direta ou indireta:
+
+
+a)  da União;
+
+
+b)  dos Estados e Distrito Federal;
+
+
+c)  dos Municípios.
+
+
+SEÇÃO II
+
+
+DA SISTEMÁTICA DE FUNCIONAMENTO DA HOMEPAGE
+
+
+Art. 2.° Para a consecução do objeto da homepage Contas Públicas, os dados e informações de que trata o art. 1° deverão ser colocados à disposição, para acesso via Internet, pelos órgãos e entidades responsáveis a seguir indicados, em páginas específicas de seus sites: 
+
+
+I - os órgãos e entidades,  da União, dos Estados, do Distrito Federal e dos Municípios, responsáveis pela arrecadação dos tributos e contribuições,  incluídas as destinadas à seguridade social, se houver, tornarão disponíveis, na Internet, os dados e informações relativos aos montantes de cada um dos tributos e contribuições arrecadados;
+
+
+Prazo: até o último dia do segundo mês subsequente ao da arrecadação.
+
+
+II - os órgãos  e entidades responsáveis pela gestão ou acompanhamento de convênios, tornarão disponíveis dados e informações acerca de recursos repassados, à conta dos Orçamentos Fiscal e da Seguridade Social:
+
+
+a)  pela União a Estados, Distrito Federal e Municípios;
+
+
+b)  pelos Estados e Distrito Federal a Municípios;
+
+
+Prazo: até o último dia do segundo mês subsequente ao do repasse.
+
+
+III - o Banco do Brasil tornará disponível, na Internet, os valores de origem tributária a que se referem os incisos I, alíneas a e b , e II do art. 159 da Constituição Federal e os arts. 86 e 93 da Lei  nº   5.172, de 25 de outubro de 1966, entregues pela União aos Estados, Distrito Federal e  Municípios;
+
+
+Prazo: até o último dia do segundo mês subseqüente ao do repasse.
+
+
+IV - o órgão competente do Poder Executivo da União tornará disponível, na Internet, as previsões dos referidos valores a entregar aos Estados, Distrito Federal e Municípios, nos termos do art. 6° da  Lei  Complementar n° 62, de 28 de dezembro de 1989;
+
+
+Prazo: até o quinto dia subsequente à publicação da previsão.
+
+
+V – o Tribunal de Contas da União, conforme o parágrafo único do art. 161 da Constituição Federal, tornará disponível, na Internet, os coeficientes de rateio fixados anualmente para os Estados, Distrito Federal e Municípios, destinados à distribuição dos valores a que se referem os incisos I, alíneas a e b, e II, do art. 159 da Constituição Federal;
+
+
+Prazo: até o último dia do exercício anterior ao de vigência dos coeficientes.
+
+
+VI - as instituições financeiras estaduais com competência legal para  creditar aos Municípios valores relativos à participação  destes na arrecadação estadual, inclusive a prevista no §  3º do art. 159 da Constituição Federal, tornará disponível na Internet os valores entregues aos respectivos Municípios; 
+
+
+Prazo:  até o último dia do segundo mês subsequente ao do repasse.
+
+
+VII - os órgãos estaduais  competentes tornarão disponível na Internet, as previsões dos valores a  entregar aos Municípios, nos termos da legislação específica do respectivo Estado;
+
+
+Prazo: até o quinto dia subsequente à publicação da previsão.
+
+
+VIII -  os órgãos estaduais competentes para estimar os coeficientes de rateio dos valores a serem entregues pelos Estados aos seus respectivos Municípios, tornarão disponíveis na Internet os referidos coeficientes de rateio; 
+
+
+Prazo:  Até o último dia do exercício anterior ao da vigência dos coeficientes. 
+
+
+IX - os órgãos federais responsáveis pela consolidação dos Orçamentos Fiscal e da Seguridade Social e do Orçamento de Investimentos das Empresas Estatais tornarão disponíveis, na Internet, os dados e informações constantes da Lei Orçamentária Anual, para cada um dos respectivos orçamentos;
+
+
+Prazo: até o dia 31 de maio do exercício de vigência da Lei Orçamentária.
+
+
+X - os órgãos estaduais, do Distrito Federal  e municipais responsáveis pela consolidação dos respectivos orçamentos tornarão disponíveis, na Internet, os dados e informações constantes da Lei  Orçamentária Anual competente, para cada um dos respectivos orçamentos que houver;
+
+
+Prazo: até o dia 31 de maio do exercício de vigência da respectiva  Lei Orçamentária.
+
+
+XI - os órgãos da União responsáveis pela elaboração e divulgação dos demonstrativos bimestrais, acerca da execução dos Orçamentos Fiscal e da Seguridade Social e do Orçamento de Investimentos das Empresas Estatais, tornarão disponíveis, na Internet, os correspondentes dados e  informações;
+
+
+Prazo: até sessenta dias após o encerramento de cada bimestre.
+
+
+XII - os órgãos estaduais, do Distrito Federal  e municipais responsáveis pela elaboração e  divulgação dos demonstrativos periódicos da execução dos Orçamentos existentes, tornarão disponíveis, na Internet, os correspondentes dados e informações;
+
+
+Prazo: até sessenta dias após o encerramento de cada período fixado, em lei,  para o respectivo Estado ou Município.
+
+
+XIII - os órgãos federais responsáveis pela elaboração e divulgação dos balanços orçamentários anuais, acerca da execução dos Orçamentos Fiscal e da Seguridade Social e do Orçamento de Investimentos das Empresas Estatais, tornarão disponíveis, na Internet, os correspondentes dados e  informações;
+
+
+Prazo: até o dia 31 de julho de cada ano.
+
+
+XIV - os órgãos estaduais do Distrito Federal  e municipais,  responsáveis pela elaboração e  divulgação dos balanços orçamentários anuais, acerca da execução dos orçamentos existentes, tornarão disponíveis, na Internet, os correspondentes dados e informações;
+
+
+Prazo: até o dia 31 de julho de cada ano.
+
+
+XV   - os órgãos federais responsáveis pela elaboração e divulgação dos demonstrativos anuais de receitas e despesas da União,  referentes aos  Orçamentos Fiscal e da Seguridade Social e ao Orçamento de Investimentos das Empresas Estatais, tornarão disponíveis, na Internet, os correspondentes dados e informações;
+
+
+Prazo: até 30 de setembro de cada ano.
+
+
+XVI - os órgãos estaduais, do Distrito Federal  e municipais responsáveis pela elaboração e divulgação dos demonstrativos anuais de receitas e despesas dos Estados e Municípios,  referentes aos  respectivos orçamentos existentes, tornarão disponíveis, na Internet, os correspondentes dados e informações;
+
+
+Prazo: até 30 de setembro de cada ano.
+
+
+XVII -  o órgão federal gestor do Sistema Integrado de Administração de Serviços Gerais – SIASG, ou de outro que vier a substituí-lo, tornará disponível, na Internet, os dados e informações acerca dos resumos dos instrumentos de contratos e de seus aditivos, firmados pelos órgãos e entidades integrantes do referido sistema; 
+
+
+Prazo: até o quinto dia útil do segundo mês seguinte ao da assinatura do contrato ou de seu aditivo. 
+
+
+XVIII - os órgãos e entidades federais vinculados aos Poderes Executivo, Judiciário e Legislativo, inclusive o Tribunal de Contas da União, bem como o Ministério Público da União e a Advocacia-Geral da União, enquanto não integrantes do SIASG, tornarão disponíveis, na Internet, por meio de sistemas específicos, os dados e informações de que trata o inciso anterior, relativamente aos atos por eles praticados;
+
+
+Prazo: até o quinto dia útil do segundo mês seguinte ao da assinatura do contrato ou de seu aditivo. 
+
+
+XIX -  os órgãos e entidades estaduais e do Distrito Federal  dos Poderes Executivo, Legislativo e  Judiciário, individualmente ou por intermédio de órgão centralizador ou de sistema gerenciador de dados e informações, tornarão  disponível, na Internet, os dados e informações acerca dos resumos dos instrumentos de contratos e seus aditivos;
+
+
+Prazo: até o quinto dia útil do segundo mês seguinte ao da assinatura do instrumento.
+
+
+XX -  os órgãos e entidades municipais dos Poderes Executivo, Legislativo e Judiciário, individualmente ou por intermédio de órgão centralizador ou de sistema gerenciador de dados e  informações, tornarão  disponível, na Internet, os dados e informações acerca dos resumos dos instrumentos de contratos e seus aditivos;
+
+
+Prazo: até o quinto dia útil do segundo mês seguinte ao da assinatura do instrumento.
+
+
+XXI  -  o órgão federal gestor do Sistema Integrado de Administração de Serviços Gerais – SIASG, ou de outro que vier a substituí-lo, tornará disponível, na Internet, os dados e informações acerca das relações mensais de todas as compras feitas pelos órgãos e entidades integrantes do referido sistema; 
+
+
+Prazo: até o último dia do segundo mês seguinte ao da aquisição.
+
+
+XXII - os órgãos e entidades federais vinculados aos Poderes Executivo, Judiciário e Legislativo, inclusive o Tribunal de Contas da União, bem como o Ministério Público da União e a Advocacia-Geral da União, enquanto não integrantes do SIASG, tornarão disponíveis, na Internet, por meio de sistemas específicos, os dados e informações de que trata o inciso anterior, relativamente aos atos por eles praticados;
+
+
+Prazo: até o último dia do segundo mês seguinte ao da aquisição.
+
+
+XXIII  -  os órgãos e entidades estaduais e do Distrito Federal  dos Poderes Executivo, Legislativo e Judiciário, individualmente ou por intermédio de órgão centralizador ou de sistema gerenciador de dados e informações, tornarão  disponível, na Internet, os dados e informações acerca das relações mensais de todas as compras realizadas;
+
+
+Prazo: até o último dia  do segundo mês seguinte ao da aquisição.
+
+
+XXIV - os órgãos e entidades municipais dos Poderes Executivo, Legislativo e Judiciário, individualmente ou por intermédio de órgão centralizador ou de sistema gerenciador de dados e  informações, tornarão  disponível, na Internet, os dados e informações acerca das relações mensais de todas as compras realizadas;
+
+
+Prazo: até o último dia  do segundo mês seguinte ao da aquisição.
+
+
+§ 1º O acesso estruturado aos  dados e informações dos órgãos e entidades referidos nos itens I  a  XXIV deste artigo, dar-se-á por intermédio de links, disponíveis na homepage Contas Públicas, que remeterão às respectivas  páginas específicas de cada órgão ou entidade. 
+
+
+§ 2º Os dados e informações pertinentes a cada órgão ou entidade também poderão ser acessados diretamente nos seus respectivos sites. 
+
+
+§ 3º Os dados e informações de que tratam os incisos deste artigo conterão os elementos expressos no Anexo  desta Instrução Normativa.  
+
+
+Art. 3° O Tribunal de Contas da União, por intermédio de suas unidades técnicas competentes, estabelecerá, em conjunto com cada um dos órgãos e entidades federais, estaduais e municipais envolvidos, a forma de apresentação dos dados e informações que integrarão a homepage, visando à sua uniformização.
+
+
+Art. 4° Fixada a sistemática de apresentação dos dados e informações, ficam os referidos órgãos e entidades obrigados a comunicar imediatamente ao Tribunal quaisquer alterações técnicas eventualmente ocorridas em seus sites, a fim de que sejam efetuadas as adaptações necessárias na homepage Contas Públicas.
+
+
+Art. 5° O Presidente do Tribunal, com o intuito de melhor atender aos objetivos colimados no  art. 1° da Lei n° 9.755/98, bem como adequar a homepage Contas Públicas a eventuais mudanças na  legislação correlata, poderá alterar, a qualquer tempo, os elementos informativos contidos no Anexo desta Instrução Normativa, fixando prazo para as adequações necessárias nos sites dos órgãos e entidades envolvidos.
+
+
+Art. 6°  Os dados e informações tornados disponíveis na Internet segundo a sistemática desta Instrução Normativa serão de responsabilidade dos órgãos e entidades mantenedores. 
+
+
+Art. 7°  As unidades técnicas do Tribunal de Contas da União, em sua esfera de competência, verificarão, nos sites dos órgãos e entidades responsáveis, a acessibilidade e adequação da forma de apresentação dos dados e informações relacionados no Anexo   desta Instrução Normativa. 
+
+
+§ 1º Detectadas quaisquer falhas, impropriedades ou omissões na apresentação dos dados, a unidade técnica do Tribunal, de imediato, manterá contato com o órgão responsável pela informação, objetivando o seu saneamento a tempo de cumprir os prazos fixados.
+
+
+§ 2º Caso não seja sanado o problema, em se tratando de órgãos ou entidades federais, a unidade técnica submeterá o assunto ao Relator em cuja Lista de Unidade Jurisdicionada conste o órgão ou entidade  responsável, propondo a adoção das providências cabíveis, na forma legal e regulamentar.
+
+
+§ 3º Caso não seja sanado o problema, em se tratando de órgãos ou entidades estaduais ou municipais, a unidade técnica submeterá o assunto à SEGECEX, propondo a adoção das providências necessárias.
+
+
+Art. 8° Com o intuito de garantir a confiabilidade dos dados e informações colocadas à  disposição do público, o Tribunal poderá realizar auditorias nos órgãos e entidades federais, especialmente nos seus sistemas informatizados de origem dos dados.
+
+
+Art. 9° Os órgãos e entidades mencionados nos incisos do art. 2° manterão os dados e  informações disponíveis para consulta pelo período de, no mínimo, cinco anos, à exceção daqueles referidos nos incisos XVII a XXIV, que deverão ser mantidos por, pelo menos, um ano.
+
+
+Art. 10. Os órgãos e entidades responsáveis deverão tornar disponíveis, na Internet, os dados e  informações, na forma desta Instrução Normativa, até o dia 15 de junho deste ano, sem prejuízo dos prazos fixados nos incisos do art. 2°. 
+
+
+Art. 11. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+
+
+
+
+
+IRAM SARAIVA
+
+
+Presidente
+
+
+
+ANEXO I À INSTRUÇÃO NORMATIVA N 028/1999
+
+
+
+
+
+
+
+
+
+
+
+Os dados e informações de que tratam os incisos do artigo 2 da Instrução Normativa n      /1999, expressarão os elementos constantes deste anexo (§ 3 do art. 2). 
+
+
+ 
+
+
+1. TRIBUTOS ARRECADADOS (art. 2, inciso I)
+
+
+
+
+
+I - exercício e mês da arrecadação; e
+
+
+
+
+
+II - montante de cada um dos tributos e contribuições arrecadados no mês, e o acumulado no exercício, discriminados por Unidade da Federação, onde foram arrecadados, desdobrado, ainda, pelos respectivos Municípios, no caso de tributos arrecadados pela União e discriminados por Municípios, onde foram arrecadados, no caso de tributos arrecadados pelos Estados.
+
+
+
+
+
+2. RECURSOS REPASSADOS (art. 2, II)
+
+
+
+
+
+I - exercício e mês do repasse;
+
+
+
+
+
+II - montante repassado no mês, e acumulado até o mês, a cada Unidade da Federação, desdobrado, ainda, pelos respectivos Municípios, no caso da União e desdobrados pelos respectivos Municípios no caso dos Estados;
+
+
+
+
+
+III – quanto a cada um dos instrumentos: 
+
+
+
+
+
+a) número original
+
+
+b) Ministério ou Órgão Superior a que se vincule o repassador, no caso da União;
+
+
+c) Secretaria ou órgão a que se vincule, no caso de Estados, Distrito Federal e Municípios;
+
+
+d) concedente;
+
+
+e) beneficiário;
+
+
+f) objeto;
+
+
+g) valor do convênio;
+
+
+h) valor da contrapartida;
+
+
+i) vigência; 
+
+
+j) situação.
+
+
+
+
+
+3. TRANSFERÊNCIAS CONSTITUCIONAIS
+
+
+
+
+
+3.1 Transferências da União
+
+
+
+
+
+3.1.1  Valores entregues pela União (art. 2, III)
+
+
+
+
+
+I - exercício e mês da arrecadação;
+
+
+
+
+
+II – montante repassado no mês, e acumulado no exercício, a cada um dos Estados, Distrito Federal e Municípios.
+
+
+
+
+
+3.1.2  Valores a serem entregues pela União (art. 2, IV)
+
+
+
+
+
+I – exercício e mês a que se refere a previsão;
+
+
+
+
+
+II – variação prevista.
+
+
+
+
+
+3.1.3 Coeficientes de rateio a serem observados pela União (art. 2, V)
+
+
+
+
+
+I – Exercício de vigência dos coeficientes de rateio;
+
+
+
+
+
+II – Coeficiente atribuído a cada Ente da Federação.
+
+
+
+3.2 Transferências dos Estados
+
+
+
+
+
+3.2.1 Valores entregues pelos Estados (art. 2°, VI)
+
+
+
+
+
+I - exercício e mês da arrecadação;
+
+
+
+
+
+II – montante repassado no mês, e acumulado no exercício, a cada um dos Municípios.
+
+
+
+
+
+3.2.2 Valores a serem entregues pelos Estados (art. 2°, VII)
+
+
+
+
+
+I – exercício e mês a que se refere a previsão;
+
+
+
+
+
+II – variação prevista.
+
+
+
+
+
+3.2.3  Coeficientes de rateio a serem observados pelos  Estados  (art. 2°, VIII)
+
+
+
+
+
+I – Exercício de vigência dos coeficientes de rateio;
+
+
+
+
+
+II – Coeficiente atribuído a cada Município
+
+
+
+
+
+4. ORÇAMENTOS ANUAIS (art. 2, IX  e X)
+
+
+
+
+
+I - exercício de vigência da Lei;
+
+
+
+
+
+II - montante da receita prevista para o exercício, desdobrada por classificação econômica; e
+
+
+
+
+
+III - montante da despesa fixada para o exercício, desdobrada por número e nome de:
+
+
+
+
+
+a) unidade orçamentária;
+
+
+b)  função;
+
+
+c) programa;
+
+
+d)  subprograma;
+
+
+e)  fonte de recursos; e
+
+
+f)  grupo de despesa.
+
+
+
+
+
+EXECUÇÃO DOS ORÇAMENTOS (art. 2,  XI e XII)
+
+
+
+
+
+I  - exercício e bimestre de execução do orçamento;
+
+
+
+
+
+II - montante da receita realizada no bimestre, e acumulada até o bimestre, desdobrada por classificação econômica; e
+
+
+
+
+
+III - montantes das despesas autorizadas e empenhadas no exercício e montante da despesa liquidada no bimestre, e acumulada até o bimestre, desdobradas por número e nome de: 
+
+
+
+
+
+a) unidade orçamentária;
+
+
+b) função;
+
+
+c) programa;
+
+
+d) subprograma;
+
+
+e) fonte de recursos; e
+
+
+f) grupo de despesa.
+
+
+
+
+
+BALANÇOS ORÇAMENTÁRIOS (art. 2,  XIII e XIV)
+
+
+
+
+
+I  - exercício de execução do orçamento;
+
+
+
+
+
+II - montantes das receitas previstas e realizadas no ano, e a diferença entre ambas, desdobradas por classificação econômica até o segundo nível;
+
+
+
+
+
+III - montantes das despesas autorizadas e liquidadas no ano, e a diferença entre ambas, desdobradas por classificação econômica até o nível de modalidade de aplicação;
+
+
+
+
+
+
+IV - superávit / déficit corrente apurado no exercício;
+
+
+
+
+
+V -  superávit / déficit de capital apurado no exercício; e
+
+
+
+
+
+VI - resultado orçamentário do exercício.
+
+
+
+DEMONSTRATIVOS DE RECEITAS E DESPESAS (art. 2, XV  e  XVI)
+
+
+
+
+
+I  - exercício de execução do orçamento;
+
+
+
+
+
+II - montantes das receitas previstas e realizadas no ano, e o percentual de realização, desdobradas por classificação econômica até o segundo nível; e 
+
+
+
+
+
+III - montantes das despesas autorizadas e liquidadas no ano, e o percentual de execução, desdobradas por classificação econômica até o nível de modalidade de aplicação. 
+
+
+
+
+
+
+CONTRATOS E SEUS ADITIVOS (art. 2, XVII  a  XX)
+
+
+
+
+
+I - exercício e mês da assinatura do instrumento;
+
+
+
+
+
+II - nome do Ministério ou Órgão Superior a que se vincula a unidade administrativa contratante, no caso da União;
+
+
+
+
+
+III – nome da Secretaria ou Órgão a que se vincule a unidade administrativa contratante, no caso de Estados ou Municípios
+
+
+
+
+
+IV - nome e número no Cadastro Nacional de Pessoas Jurídicas - CNPJ da unidade administrativa contratante; e
+
+
+
+
+
+V - quanto aos instrumentos de contrato e de seus aditivos, no que couber:
+
+
+
+
+
+a) fundamento legal da licitação, dispensa ou inexigibilidade;
+
+
+b) modalidade da licitação;
+
+
+c) número do processo de licitação, dispensa ou inexigibilidade;
+
+
+d) número do processo relativo ao aditivo;
+
+
+e) objeto;
+
+
+f) nome e CNPJ/CPF do contratado;
+
+
+g) datas de assinatura e de publicação do resumo do instrumento no respectivo Diário Oficial;
+
+
+h) vigência;
+
+
+i) programa de trabalho originário dos recursos orçamentários relativos ao objeto;
+
+
+j) número e nome da Unidade Gestora emitente do empenho original;
+
+
+k) número e nome da Gestão à conta da qual correm os recursos;
+
+
+l) número do empenho original; e
+
+
+m) valor global.
+
+
+
+COMPRAS (art. 2, XXI  a  XXIV)
+
+
+
+
+
+I - exercício e mês da aquisição;
+
+
+II - nome do Ministério ou Órgão Superior a que se vincula a unidade administrativa adquirente, no caso da União;
+
+
+III - nome da Secretaria ou Órgão a que se vincule a unidade administrativa adquirente, no caso de Estados ou Municípios;
+
+
+IV - nome e CNPJ da unidade administrativa adquirente;
+
+
+V - nome e CNPJ do fornecedor;
+
+
+VI - descrição do bem adquirido;
+
+
+VII - preço unitário de aquisição do bem;
+
+
+VIII - quantidade adquirida do bem; e
+
+
+IX - valor total da aquisição.
+
+
+
+
+ANEXO II À INSTRUÇÃO NORMATIVA N.º 028/1999
+
+
+- MUNICÍPIOS -
+
+
+
+(AC) (Portaria nº 275, de 14/12/2000, BTCU nº 73/2000)
+
+
+
+
+
+
+
+
+
+Os dados e informações de que tratam os incisos do artigo 2º da Instrução Normativa TCU n.º 28/99, de responsabilidade dos Municípios, expressão os elementos constantes deste Anexo II.
+
+
+
+
+
+1 - TRIBUTOS ARRECADADOS  (art. 2º, inciso I)
+
+
+
+           I – exercício e mês da arrecadação e;
+
+
+           II – montante de cada um dos tributos e contribuições arrecadados no mês, e o acumulado no exercício.
+
+
+
+2 - RECURSOS RECEBIDOS
+
+
+
+           I - montante de cada transferência Constitucional recebida no mês, e o acumulado no exercício, discriminadas por título;
+
+
+          II - montante das transferências voluntárias recebidas, discriminando as correntes e as de capital, recebidas no mês, e o acumulado no exercício;
+
+
+ III - quanto a cada um dos instrumentos celebrados:
+
+
+a) número original;
+
+
+b) concedente;
+
+
+c) objeto;
+
+
+d) valor do convênio;
+
+
+e) valor da contrapartida;
+
+
+f) prazo para cumprimento do objeto.
+
+
+
+3 - RECURSOS REPASSADOS
+
+
+
+           I - exercício e mês do repasse;
+
+
+           II - montante repassado no mês, e acumulado  até o exercício;
+
+
+           III – quanto a cada um dos instrumentos: 
+
+
+a) número original 
+
+
+b) Secretaria ou órgão a que se vincule; 
+
+
+c) concedente; 
+
+
+d) beneficiário; 
+
+
+e) objeto; 
+
+
+f) valor do convênio; 
+
+
+g) valor da contrapartida; 
+
+
+h) vigência; 
+
+
+i) situação. 
+
+
+
+4 - ORÇAMENTOS ANUAIS (art. 2º , inciso X)
+
+
+
+           I - exercício de vigência da Lei;
+
+
+           II - montante da receita prevista para o exercício, desdobrada por classificação econômica;  
+
+
+           III - montante da despesa fixada para o exercício, desdobrada por número e nome de: 
+
+
+a) unidade orçamentária; 
+
+
+b) função; 
+
+
+c) programa; 
+
+
+d) subprograma;
+
+
+e) fonte de recursos; e
+
+
+f) grupo de despesa.
+
+
+
+5 - EXECUÇÃO DOS ORÇAMENTOS (art. 2º , inciso XII)
+
+
+
+           I - exercício e bimestre de execução do orçamento;
+
+
+           II - montante da receita realizada no bimestre, e acumulada até o bimestre, desdobrada por classificação econômica; e
+
+
+           III - montantes das despesas autorizadas no exercício, empenhadas no bimestre  e acumulada no exercício, bem como o montante da despesa liquidada no bimestre, e acumulada no exercício, desdobradas por número e nome de: 
+
+
+a) unidade orçamentária; 
+
+
+b) função; 
+
+
+c) programa; 
+
+
+d) subprograma; 
+
+
+e) fonte de recursos; e 
+
+
+f) grupo de despesa. 
+
+
+
+6 - BALANÇOS ORÇAMENTÁRIOS (art. 2º, inciso XIV)
+
+
+
+           I - exercício de execução do orçamento;
+
+
+           II - montantes das receitas previstas e realizadas no ano, e a diferença entre ambas, desdobradas por classificação econômica;
+
+
+          III - montantes das despesas autorizadas e liquidadas no ano, e a diferença entre ambas, desdobradas por classificação econômica;
+
+
+           IV - superávit / déficit corrente apurado no exercício;
+
+
+           V - superávit / déficit de capital apurado no exercício; e
+
+
+           VI - resultado orçamentário do exercício.
+
+
+
+7 - CONTRATOS E SEUS ADITIVOS (art. 2º, inciso XX)
+
+
+
+           I - exercício e mês da assinatura do instrumento;
+
+
+           III – nome da Secretaria ou Órgão a que se vincule a unidade administrativa contratante; 
+
+
+           IV - nome e número no Cadastro Nacional de Pessoas Jurídicas – CNPJ da unidade administrativa contratante; e
+
+
+           V - quanto aos instrumentos de contrato e de seus aditivos, no que couber:
+
+
+a) fundamento legal da licitação, dispensa ou inexigibilidade; 
+
+
+b) modalidade da licitação; 
+
+
+c) número do processo de licitação, dispensa ou inexigibilidade; 
+
+
+d) número do processo relativo ao aditivo; 
+
+
+e) objeto; 
+
+
+f) nome e CNPJ/CPF do contratado; 
+
+
+g) datas de assinatura e de publicação do resumo do instrumento no respectivo Diário Oficial; 
+
+
+h) vigência; 
+
+
+i) número do empenho original; e 
+
+
+j) valor global. 
+
+
+
+8 - COMPRAS (art. 2º , inciso XXIV)
+
+
+
+           I - exercício e mês da aquisição;
+
+
+ II - nome da Secretaria ou Órgão a que se vincule a unidade administrativa adquirente;
+
+
+           II - nome e CNPJ da unidade administrativa adquirente;
+
+
+           III - nome e CNPJ/CPF do fornecedor;
+
+
+           IV - descrição do bem adquirido;
+
+
+           V - preço unitário de aquisição do bem;
+
+
+           VI - quantidade adquirida do bem; e
+
+
+           VII - valor total da aquisição.
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Estabelece regras para a implementação da homepage Contas Públicas, de que trata a Lei nº 9.755/98.
+
+

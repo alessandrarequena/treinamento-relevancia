@@ -1,0 +1,2073 @@
+Portaria
+486/1998
+
+
+
+
+
+
+
+
+
+
+
+Aprova o Manual de Recursos do Tribunal de Contas da União.
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e 
+
+
+Considerando a proposta apresentada pela 10ª Secretaria de Controle Externo, acrescida das sugestões da Comissão Técnica de Estudos, Normas e Procedimentos sobre Controle e Fiscalização, resolve:
+
+
+Art. 1º Fica aprovado o Manual de Recursos do Tribunal de Contas da União, contendo a consolidação das normas e entendimentos do Tribunal relacionados à matéria, na forma do anexo a esta Portaria.
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+HOMERO SANTOS
+
+
+Presidente
+
+
+
+
+APRESENTAÇÃO
+
+
+
+
+
+
+	O presente Manual de Recursos destina-se a subsidiar a atuação dos servidores que trabalham na instrução dos recursos interpostos contra as decisões adotadas pelo Tribunal, bem como servirá de orientação aos responsáveis que tenham interesse  de se valer da fase recursal. 
+
+
+	A aprovação deste instrumento constitui-se em mais uma etapa da atual gestão para dar cumprimento à prioridade conferida à elaboração e aprovação de instrumentos objetivando racionalizar e simplificar o exame dos processos, tudo em consonância com as diretrizes emanadas do Plenário.
+
+
+	Em harmonia com a meta acima referida, o presente Manual se constitui numa fonte de consulta que consolida as normas e entendimentos da Corte de Contas sobre o sistema recursal ora vigente.
+
+
+	Busca-se, dessa maneira, ampliar os meios de garantia para o exercício dos princípios constitucionais da ampla defesa e do contraditório. 
+
+
+	Ademais, o presente trabalho vem somar esforços às iniciativas anteriores no intuito de dotar a Casa de modernos papéis de trabalho que, de forma cada vez mais abrangente, contribuem decisivamente para o aperfeiçoamento das atividades institucionais afetas ao TCU e possibilitam uma importante etapa na busca de metodologias mais eficazes de controle. 
+
+
+	As outras iniciativas a que me refiro são a atualização do Manual de Instrução de Tomada e Prestação de Contas, a concepção do Manual de Instrução de Processos de Tomada de Contas Especial, a modernização dos mecanismos de fiscalização e, mais recentemente, a aprovação do Manual de Orientação Técnica, destinado a subsidiar a instrução de processos e expedientes relativos a solicitações, comunicações de irregularidades, consultas e cobranças executivas. 
+
+
+	Por fim, deixo registrado, nesta oportunidade, o louvável esforço da equipe da 10ª SECEX na confecção deste Manual, bem como as contribuições oferecidas pelas demais Unidades Técnicas, no âmbito da Comissão Técnica de Estudos, Normas e Procedimentos sobre Controle e Fiscalização. 
+
+
+
+
+
+
+
+HOMERO SANTOS
+
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+SUMÁRIO
+
+
+
+Introdução  .................................................................................................................... 9
+
+
+
+
+Definições e conceitos  ................................................................................................. 10
+
+
+ 	- Processo administrativo
+
+
+- Colegiados no TCU
+
+
+- Recursos
+
+
+- Quem é parte no processo
+
+
+- Como o interessado ingressa no processo
+
+
+- Quem pode interpor recursos
+
+
+- Juízo de admissibilidade do recurso
+
+
+- Juízo de conhecimento
+
+
+- Contagem de prazos
+
+
+
+
+Concessão de vista, fornecimento de cópia do processo, juntada de documentos
+
+
+e pedido de certidão  ....................................................................................................	15
+
+
+- Pedido de Vista
+
+
+- Fornecimento de cópia
+
+
+- Juntada de documentos
+
+
+- Pedido de certidão
+
+
+
+
+Princípios aplicáveis aos recursos no TCU  .................................................................	17	
+
+
+- Contraditório
+
+
+- Ampla defesa
+
+
+- Publicidade
+
+
+- Verdade material
+
+
+- Legalidade objetiva
+
+
+- Formalismo moderado
+
+
+- Fungibilidade recursal
+
+
+- Oficialidade
+
+
+- Devido processo legal
+
+
+
+
+Sistema Recursal do TCU  ..........................................................................................	20
+
+
+- Questão Prejudicial
+
+
+- Pressupostos de admissibilidade
+
+
+			- tempestividade
+
+
+			- singularidade do recurso
+
+
+
+
+
+    - legitimidade
+
+
+
+- Autoridade a quem deve ser dirigido o recurso
+
+
+- Decisões contra as quais cabe recurso
+
+
+- Efeitos dos recursos
+
+
+
+
+Tipos de recursos existentes no processo do TCU  ...........................................................	24
+
+
+- Recurso de Reconsideração
+
+
+- Pedido de Reexame
+
+
+- Agravo
+
+
+- Embargos de Declaração
+
+
+- Recurso de Revisão
+
+
+- Recurso especial de divergência
+
+
+
+
+Tramitação no Tribunal  ....................................................................................................	27
+
+
+
+
+Efeitos dos Recursos e a relação de nomes de responsáveis enviada à Justiça Eleitoral .....	28
+
+
+- O que é o Cadastro?
+
+
+- Atualizações do Cadastro
+
+
+
+
+Decisões do TCU  ...........................................................................................................	29
+
+
+
+
+Falhas mais freqüentes ....................................................................................................	31
+
+
+
+
+Principais normas que regulam a interposição e o trâmite de recursos no TCU  .............	32
+
+
+
+
+
+Revogada
+(Revogada)(Portaria - TCU nº 35, de 05/02/2014, BTCU-Especial nº 07/2014)
+
+Anexo – Fluxograma da Tramitação de Recursos no TCU  .............................................	33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUÇÃO
+
+
+
+
+
+O Tribunal de Contas da União - TCU no exercício de sua missão institucional procura imprimir em suas decisões o ideal de justiça.  A busca desse imperativo é instrumentalizada por diversos institutos processuais que visam assegurar o respeito às garantias constitucionais da ampla defesa e do contraditório, permitindo a todos os que se relacionam com o Tribunal a oportunidade de expor seus argumentos. 
+
+
+
+Nesse contexto, o Sistema Recursal no processo administrativo do TCU se apresenta como um dos principais meios de propiciar o autêntico encontro com a verdade. Ao permitir o pedido de reforma de uma decisão, esse sistema dá seguimento ao diálogo que tem por fim último a justiça.
+
+
+
+Para atingir esse objetivo, a informação ganha contornos de veículo essencial ao exercício de direitos.  Assim, percebe-se a utilidade de uma fonte de consulta que consolide as normas e os entendimentos do Tribunal no tocante a interposição e apreciação de recursos no âmbito do Tribunal. Foi com esse intuito que se decidiu elaborar o presente manual.
+
+
+
+Esta publicação contém explicações de diversos conceitos básicos, de etapas do processo administrativo do TCU e de falhas comuns na interposição dos recursos.
+
+
+
+Com a edição desse conjunto de informações, espera-se que todos os que dele se utilizem tenham, diante de si, uma importante ferramenta para uso no dia-a-dia. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEFINIÇÕES E CONCEITOS
+
+
+
+
+Neste capítulo são apresentados conceitos e definições relacionados a recursos, indispensáveis para a compreensão da matéria.
+
+
+
+
+
+Processo administrativo
+
+
+
+
+
+
+Processo é o instrumento pelo qual o TCU exerce suas atividades. Consiste em um conjunto de atos coordenados que visa a justa solução das questões submetidas à apreciação desta Corte, regulado pela Lei nº 8.443/92, pelo Regimento Interno e demais normas editadas pelo Tribunal, bem como pelo Código de Processo Civil, subsidiariamente aplicável.
+
+
+
+Tem caráter administrativo por não se desenvolver perante o Poder Judiciário. 
+
+
+
+É importante ressaltar que o art. 5, inciso LV, da Constituição Federal assegura aos litigantes em processo administrativo o contraditório e a ampla defesa, com os meios e recursos a ela inerentes.
+
+
+
+
+
+Colegiados no TCU
+
+
+
+
+
+Art. 67 da Lei n. 8443/92
+
+
+Arts. 8º e 14 do RI/TCU
+
+
+
+Para exercer sua missão institucional, o Tribunal divide-se em duas câmaras, compostas por quatro ministros cada, as quais, a lado do Plenário, composto por nove integrantes, são os Colegiados competentes para julgar os processos postos a sua apreciação. 
+
+
+
+
+
+Recursos
+
+
+
+
+	Arts. 32/35 e 48 da Lei n. 8.443/92
+
+
+Arts. 229/231 do RI/TCU
+
+
+Arts. 12 e 25 da Resolução/TCU n. 36/95
+
+
+
+Recurso é o instrumento utilizado para, no mesmo processo, provocar o exame  da decisão proferida, a fim de obter sua reforma, invalidação, esclarecimento ou integração. A possibilidade de revisão das decisões proferidas traz maior probabilidade de exatidão aos julgados, por possibilitar o saneamento de eventuais falhas. Em consonância com esse imperativo, intimamente relacionado com o ideal de Justiça, a legislação referente ao TCU cuidou de instituir um sistema recursal. 
+
+
+
+Com exceção dos recursos interpostos pelo Ministério Público junto ao TCU, o ato de recorrer é um ônus processual da parte, ou seja, somente se ela, voluntariamente, usar desse instrumento é que a decisão tornar-se-á susceptível de reforma.  Caso contrário, seus efeitos se tornarão definitivos no âmbito do Tribunal.
+
+
+
+Os recursos, excetuando-se o agravo (pág. 25), somente podem ser impetrados após decisão ou acórdão proferido pelo Plenário, 1ª e 2ª Câmaras, após a publicação oficial. Nos processos de prestação e de tomada de contas, tal decisão é a que julga as contas regulares, regulares com ressalva ou irregulares; nos processos de atos sujeitos a registro, tal decisão é a que determina ou nega o registro; nos processos de auditoria e inspeção, tal decisão é a que aprecia, conclusivamente, os respectivos relatórios.  Antes do julgamento de mérito, só serão juntados aos autos documentos novos, em obediência à sistemática exposta na pág. 15, os quais poderão ser examinados como elementos complementares de defesa.
+
+
+
+
+
+
+Quem é parte no processo
+
+
+
+
+Art. 2º da Resolução/TCU n. 36/95
+
+
+
+São consideradas partes o responsável e o interessado.
+
+
+
+
+Responsável é aquele que figura no processo em razão da utilização, arrecadação, guarda, gerenciamento ou administração de dinheiros, bens ou valores públicos, ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.  Também é considerado responsável aquele que tenha dado causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao Erário.  A legitimação do responsável é ordinária.
+
+
+
+Interessado é  aquele que, em qualquer etapa do processo, tenha reconhecida, pelo Relator ou pelo Tribunal, razão legítima para intervir no processo, incluindo-se a possibilidade de lesão a direito subjetivo próprio.  O denunciante é considerado interessado, mas lhe é defeso apresentar recurso.  A legitimação do interessado é extraordinária.
+
+
+
+
+Como o interessado ingressa no processo
+
+
+
+
+
+Art. 6º da Resolução/TCU n. 36/95
+
+
+
+A habilitação de interessado em processo é efetivada mediante deferimento, pelo Relator, de pedido de ingresso nos autos, formulado por escrito e devidamente fundamentado. Esse pedido só poderá ser feito quando o processo não estiver incluído em pauta. 
+
+
+
+O Relator indeferirá pedido que não demonstre, clara e objetivamente, as razões porque o interessado deseja ingressar no processo.
+
+
+
+É facultado ao interessado solicitar sua habilitação em processo e, no mesmo expediente, interpor o recurso.
+
+
+
+Ao deferir o ingresso de interessado no processo, o Relator fixará prazo de até quinze dias, contado da ciência do requerente, para o exercício das prerrogativas processuais previstas na Resolução nº 36/95. A omissão do interessado em atuar no processo, depois de devidamente habilitado, implicará a preclusão da sua faculdade de intervir nos autos, só podendo fazê-lo, a juízo do Relator, na hipótese de fato novo superveniente e em nova etapa recursal.
+
+
+
+
+
+Quem pode interpor recursos
+
+
+
+
+
+Arts. 32/35 da Lei n. 8.443/92
+
+
+Arts. 231, 233/236 do RI/TCU
+
+
+Art. 25 da Resolução/TCU n. 36/95
+
+
+Art. 29 da Resolução/TCU n. 77/96
+
+
+
+Chama-se legitimidade ativa a faculdade de interpor recurso. Segundo as normas básicas do TCU, cada espécie recursal pode ser interposta por um grupo de indivíduos legitimados, conforme descrito abaixo.  
+
+
+
+
+
+
+ 
+
+Tipo de recurso
+
+ 
+
+Legitimado para interpor
+
+ 
+
+Recurso de reconsideração
+
+ 
+
+Partes e Ministério Público junto ao TCU
+
+ 
+
+Pedido de reexame
+
+ 
+
+Partes e Ministério Público junto ao TCU
+
+ 
+
+Recurso de revisão
+
+ 
+
+Responsável ou sucessores e Ministério Público junto ao TCU
+
+ 
+
+Recurso do art. 234 do RI/TCU
+
+ 
+
+Partes e Ministério Público junto ao TCU
+
+ 
+
+Agravo
+
+ 
+
+Partes
+
+ 
+
+Embargos de declaração 
+
+ 
+
+Partes e Ministério Público junto ao TCU
+
+
+
+
+É cabível a interposição de qualquer espécie recursal pelos sucessores dos responsáveis, embora apenas os dispositivos legais relacionados ao Recurso de Revisão prevejam expressamente essa possibilidade. Essa afirmação decorre da aplicação subsidiária do art. 1.055 do Código de Processo Civil, reconhecida pela Súmula nº 103 do TCU.
+
+
+
+Para interpor recursos no TCU não é necessária representação por advogado.  Se o recorrente desejar, é assegurado a ele o direito de constituir representante, que não precisa ser advogado, para atuar no processo. Nesses casos, a juntada aos autos do instrumento de mandato é pressuposto essencial para a atuação do procurador.
+
+
+
+O advogado será atendido no exercício de sua profissão nos termos das normas procedimentais aprovadas pelo Tribunal, conforme explicitado no item "pedido de vistas" deste manual.
+
+
+
+
+
+Juízo de admissibilidade do recurso 
+e questão prejudicial
+
+
+
+
+
+
+Arts. 32/35 e 48 da Lei n. 8.443/92
+
+
+Arts. 229/230 e 233/236 do RI/TCU
+
+
+Arts. 13, 25 e 27 da Resolução/TCU n. 36/95
+
+
+Art. 24 da Resolução/TCU n. 77/96
+
+
+
+
+Nem todas as petições intituladas de recurso são aceitas como tal.  Para que o pedido seja examinado, é necessário que estejam presentes determinados requisitos. No TCU, os pressupostos genéricos de admissibilidade são a tempestividade, a legitimidade e a singularidade, os quais serão comentados posteriormente.
+
+
+
+A existência de questão prejudicial ou a ausência de pressupostos de admissibilidade são fatores impeditivos para que se examine o mérito do pedido.  Também impedem o exame do pedido a existência de erro grosseiro, de má-fé ou de atitude meramente protelatória.
+
+
+
+O juízo de admissibilidade, assim, se ocupa de verificar a inexistência de questão prejudicial e a presença de pressupostos de admissibilidade. É feito pelo Relator e depende de confirmação pelo Colegiado competente para julgamento do Recurso.
+
+
+
+
+
+Juízo de conhecimento
+
+
+
+
+
+Art. 29 da Resolução/TCU n. 77/96
+
+
+
+O juízo de conhecimento é realizado pelo Colegiado competente para o exame do pedido.  Ao contrário do juízo de admissibilidade, o juízo de conhecimento é definitivo e determina ou não o julgamento do mérito.
+
+
+
+
+
+
+
+
+Contagem de prazos
+
+
+
+
+
+
+Arts. 22, 25, 29 e 30 da Lei n. 8.443/92
+
+
+Arts. 164, 171 e 237/239 do RI/TCU
+
+
+
+O prazo para interposição de recursos é contínuo e conta-se a partir da publicação da decisão no Diário Oficial da União ou da notificação do responsável. Este último procedimento é cabível quando houver débito ou multa, e consiste na comunicação da decisão ao Responsável, pela via postal, com aviso de recebimento. Se o responsável ou interessado não for localizado, o prazo é contado a partir da publicação do edital  de notificação no Diário Oficial da União.  
+
+
+
+Os acréscimos em publicação e as retificações, inclusive as relativas a notificação, implicam o reinício da contagem do prazo, na qual, salvo disposição legal em contrário, excluir-se-á o dia de início e incluir-se-á o do vencimento.
+
+
+
+A contagem dos prazos somente se inicia e termina em dia de expediente normal no Tribunal.
+
+
+
+
+
+
+CONCESSÃO DE VISTA, FORNECIMENTO DE CÓPIAS DO PROCESSO, JUNTADA DE DOCUMENTOS E PEDIDO DE CERTIDÃO
+
+
+	Arts. 8º e 11 da Resolução/TCU n. 36/95
+
+
+
+
+As partes podem requerer vista do processo, cópias de peças dos autos e juntada de documentos mediante expediente dirigido ao Relator.
+
+
+
+Na ausência ou impedimento do Relator, ou de seu substituto, por motivo de licença, férias ou outro afastamento legal, caberá ao Presidente do Tribunal decidir sobre esses requerimentos.  
+
+
+
+Ressalta-se que tais pedidos podem ser indeferidos por motivo justo. O pedido de juntada de documentos, particularmente, poderá ser indeferido se o processo já estiver incluído em pauta. Contra essas denegações, cabe o recurso de agravo.
+
+
+
+Estando o processo na etapa de instrução na unidade técnica, aguardando parecer do Ministério Público ou no gabinete do Relator, a concessão de vista e o fornecimento de cópia do processo abrangerão somente as peças juntadas aos autos até a tramitação para a unidade na qual se encontrem.
+
+
+
+
+
+
+Pedido de vista
+
+
+
+
+
+	Arts. 8º e 9º da Resolução/TCU n. 36/95
+
+
+	Arts. 24 e 35 da Resolução/TCU n. 77/96
+
+
+
+O despacho que deferir o pedido de vista indicará o local em que os autos ficarão disponíveis à parte.  Na sede do Tribunal, a vista do processo ocorrerá na Sala dos Advogados.  Nas unidades do TCU situadas nos estados, a vista dar-se-á nas suas instalações.
+
+
+
+Não é permitida às partes, diretamente ou por intermédio de seus procuradores, a retirada de processo das dependências do Tribunal.
+
+
+
+
+
+1
+
+
+
+No caso de processo de denúncia, em nenhuma hipótese será concedida vista do primeiro volume do processo, no qual constam o documento original da denúncia e a identificação do denunciante. O Tribunal dará tratamento sigiloso até decisão definitiva sobre a matéria, mantendo ou não o referido sigilo quanto ao objeto e à autoria da denúncia, no momento da mencionada decisão. 
+
+
+
+
+
+
+Fornecimento de cópias
+
+
+
+
+
+Arts. 8º e 10 da Resolução/TCU n. 36/95
+
+
+
+Uma vez deferido o pedido, para receber as cópias o responsável ou interessado deverá apresentar comprovante de recolhimento da importância correspondente ao ressarcimento dos custos.  Ressalta-se que órgãos ou entidades da Administração Pública Federal, nas solicitações de seu interesse, estão dispensados desse recolhimento.
+
+
+
+Poderá ser fornecida cópia de processo referente ao respectivo órgão ou entidade, inclusive de natureza sigilosa, julgado ou não, a dirigente que comprove objetivamente a necessidade das informações para defesa de interesse da instituição.  Nesses casos, o Relator ou o titular de unidade técnica deverá registrar o caráter reservado das informações em cada cópia do processo de natureza sigilosa a ser fornecida.
+
+
+
+
+
+Juntada de documentos
+
+
+
+
+
+Art. 12 da Resolução/TCU n. 36/95
+
+
+
+Em qualquer etapa do processo, desde sua constituição até o momento de inclusão em pauta, é facultada, ao responsável ou interessado, a apresentação de documentos comprovantes de fato novo superveniente que afetem o mérito do processo mediante expediente escrito e dirigido ao Relator. 
+
+
+
+O Relator, ao autorizar a juntada dos novos documentos, poderá determinar ou não o reexame da matéria.  
+
+
+
+
+
+Pedidos de certidão
+
+
+
+
+
+
+Art. 15 da Resolução/TCU n. 36/95
+
+
+Art. 48 da Resolução/TCU n. 77/96
+
+
+
+O pedido de certidão, formulado pelo responsável mediante requerimento fundamentado dirigido ao Presidente do Tribunal, será atendido no prazo máximo de dez dias a partir da sua autuação e dele constará sua situação perante o TCU. Se tiver sido interposto recurso, tal circunstância será registrada no documento.
+
+
+As certidões são expedidas pela Presidência do Tribunal com base em informações prestadas pela Unidade Técnica competente, após consultas em cadastros específicos e posterior encaminhamento à SECON para elaboração dos documentos requeridos.
+
+
+
+
+
+
+
+PRINCÍPIOS APLICÁVEIS AOS RECURSOS NO TCU
+
+
+
+		Princípios são as diretrizes fundamentais que orientam um sistema. No que se refere aos recursos do TCU, identificam-se os seguintes princípios, sem prejuízo de outros reconhecidos pelo Direito. 
+
+
+
+
+
+Contraditório
+
+
+
+
+
+
+Consiste no dever da Corte de Contas de informar à parte as acusações que pesam sobre ela e assegurar-lhe a oportunidade de se manifestar nos autos antes de decidir. Esse princípio aplica-se em todas as etapas do processo e é exercido de acordo com os procedimentos previstos nas normas alusivas ao Tribunal.
+
+
+
+
+
+Ampla Defesa
+
+
+
+
+Art. 31 da Lei n. 8.443/92
+
+
+Art. 228 do RI/TCU
+
+
+
+Presente também em todas as etapas do processo administrativo do TCU, esse princípio traduz a possibilidade de serem apresentadas quaisquer provas que a parte entenda serem relevantes para a sua defesa.  
+
+
+
+Essa faculdade permite que se manifeste, por meio de argumentos ou documentos, a versão de quem se sinta prejudicado, em oposição às alegações do Tribunal. Possibilita-se, dessa forma, o conhecimento mais preciso dos fatos e o encontro efetivo da verdade real.
+
+
+
+Ressalta-se, todavia, que a ampla defesa deverá ser exercida nos limites ditados pelas normas processuais, respeitando-se o devido processo legal.
+
+
+
+
+
+
+Publicidade
+
+
+
+
+
+Art. 8º da Resolução/TCU n. 36/95
+
+
+Art. 24 da Resolução/TCU n. 77/96
+
+
+
+É autorizada às partes a requisição de vista do processo e de cópia de peças dos autos.  Esse pedido deverá ser dirigido ao Relator e dependerá de seu deferimento.
+
+
+
+
+
+
+Verdade Material
+
+
+
+
+
+Art. 40 da Lei n. 8.443/92
+
+
+Arts. 53 e 140 do RI/TCU
+
+
+
+O maior interesse do TCU é o de conhecer a realidade sobre os atos de gestão da coisa pública para que suas decisões possam contribuir efetivamente para a melhoria da administração estatal.  Objetiva, assim, atingir nas suas decisões a maior justiça possível.  Com esse intuito, é facultada ao recorrente a juntada de documentos em várias etapas da tramitação do processo, desde que deferida pelo Relator.
+
+
+
+De acordo com esse princípio, o juiz não precisa se ater às provas apresentadas pelas partes.  Assim, ele pode produzir provas para formar sua convicção.
+
+
+
+Ademais, os prazos no processo administrativo não são totalmente peremptórios.  De fato, quando a parte demonstra a existência de fatos novos supervenientes à decisão recorrida, a preliminar da intempestividade pode ser superada.
+
+
+
+
+
+Legalidade Objetiva
+
+
+
+
+
+
+Esse princípio exige que o processo administrativo seja instaurado com base e para preservação da lei; portanto, o recurso, ao mesmo tempo em que ampara o particular, serve também à Administração para que esta reveja seus atos e possibilite quaisquer correções necessárias à observância dos estritos limites da legalidade.
+
+
+
+
+
+Formalismo Moderado
+
+
+
+
+
+Art. 32 da Lei n. 8.443/92
+
+
+Art. 231 do RI/TCU
+
+
+
+Esse princípio permite que a Administração dispense ritos sacramentais e formas rígidas para o processo administrativo.  Assim, permite que sejam aceitos recursos com vícios de forma superáveis, que não comprometam seu conteúdo.  Tal princípio, porém, não é absoluto, pois não autoriza a Administração a descumprir a Lei.
+
+
+
+Outra conseqüência importante desse princípio é a não-obrigatoriedade de advogado para ingressar em juízo no Processo Administrativo do TCU.  Se assim desejar, a parte pode se defender e impetrar recursos sozinha; porém, se decidir ser representada por terceiro, deverá constar nos autos a devida procuração.
+
+
+
+Fungibilidade Recursal
+
+
+
+
+
+Esse princípio implica que a errada denominação de um recurso não impeça seu conhecimento, desde que atendidos os pressupostos de admissibilidade do recurso cabível na espécie. Atenua-se, dessa forma, a aplicação do pressuposto da adequação do recurso.
+
+
+
+
+
+Oficialidade
+
+
+
+
+
+
+Esse princípio atribui a responsabilidade pela movimentação do processo administrativo à própria Administração, ainda que se trate de atividade provocada por iniciativa do particular, como os recursos.  Uma vez iniciado, passa a pertencer ao Poder Público, a quem compete seu impulsionamento até a decisão final.  Não cabe ao TCU paralisar o processo devido à inércia da parte.
+
+
+
+Esse princípio não retira da parte o ônus de trazer todos os elementos que julgue necessários para sua defesa na instância recursal. Assim, é defeso à parte solicitar que o Tribunal adote diligências para coletar provas que deveriam ser por ela apresentadas.
+
+
+
+Ressalte-se, ainda, que a parte que impetrou recurso pode sempre desistir voluntariamente em qualquer fase do processo.  Essa manifestação deve ser expressa, ou seja, feita por escrito.
+
+
+
+Em obediência ao princípio da oficialidade não existe renúncia tácita da via recursal.
+
+
+
+
+
+
+Devido Processo Legal
+
+
+
+
+
+
+O respeito ao devido processo legal no TCU se materializa pela existência de procedimentos pré-estabelecidos em normas para o julgamento dos processos.  Dessa forma, o recorrente sabe, quando da interposição do recurso, que não serão criados procedimentos de exceção quando do exame de seu pedido. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISTEMA RECURSAL DO TCU
+
+
+
+
+As normas que regulamentam o processo do TCU prevêem seis diferentes espécies de recursos - recurso de reconsideração, pedido de reexame, recurso de revisão, embargos de declaração, recurso do art. 234 do RI/TCU e agravo. A espécie recursal adequada é determinada pelo tipo de atividade de controle (processos de contas, fiscalização de atos e contratos ou atos sujeitos a registro) e pela natureza da impugnação. 
+
+
+
+O recorrente deve formular seu pedido por escrito em petição articulada que identifique seus autores e contenha os fundamentos de fato e de direito, a decisão ou a relação na qual foi inserida a decisão recorrida, bem como o pedido de nova deliberação.  Se o recurso estiver baseado em fatos novos que permitam vencer a preliminar da tempestividade, os mesmos devem estar comprovados documentalmente e explicitados à parte do restante da argumentação.
+
+
+
+
+
+Questão Prejudicial
+
+
+
+
+
+Art. 29 da Resolução/TCU n. 77/96
+
+
+
+Consiste na falta de necessidade do recurso em virtude da perda do seu objeto, que se verifica no caso de a matéria impugnada já ter sido enfrentada no mesmo processo em sede de recurso interposto por outro recorrente. Se esse fato ocorre, diz-se que o recurso perdeu o objeto e se encontra prejudicado; portanto, deverá ser arquivado.
+
+
+
+
+
+Pressupostos de admissibilidade
+
+
+
+
+
+Arts. 32/35 e 48 da Lei n. 8.443/92
+
+
+Arts. 231 e 233/236 do RI/TCU
+
+
+Art. 27 da Resolução/TCU n. 36/95
+
+
+
+
+Para que possam efetivamente servir ao fim a que se destinam, os recursos devem preencher as condições de admissibilidade, as quais podem ser gerais ou específicas a cada tipo de recurso.  Somente com o atendimento desses requisitos o mérito do pedido pode ser examinado.  Não se exige o preparo, ou seja, não há necessidade de pagamento prévio das despesas com seu processamento, nem de qualquer depósito prévio do valor da condenação, caso imputada.
+
+
+
+Os pressupostos de admissibilidade comuns a todos os recursos são a tempestividade, a singularidade do recurso e a legitimidade, listados a seguir. Os pressupostos inerentes a cada espécie recursal, também denominados extrínsecos, serão tratados no próximo capítulo.
+
+
+
+
+- Tempestividade - deve o recurso ser interposto no prazo constante na Lei ou nas normas editadas pelo Tribunal.  Não há um prazo único para todos os tipos de recursos; cada um possui prazos que lhe são peculiares:
+
+
+
+
+ 
+
+Tipo de recurso
+
+ 
+
+Prazo
+
+ 
+
+Recurso de reconsideração
+
+ 
+
+15 dias
+
+ 
+
+Pedido de reexame
+
+ 
+
+15 dias
+
+ 
+
+Agravo
+
+ 
+
+10 dias
+
+ 
+
+Embargos de declaração
+
+ 
+
+10 dias
+
+ 
+
+Recurso de revisão
+
+ 
+
+5 anos
+
+ 
+
+Recurso do art. 234 do RI/TCU
+
+ 
+
+15 dias
+
+
+
+
+Não se conhecerá de recurso autuado fora do prazo, salvo em razão da superveniência de fatos novos, ainda não cogitados no processo, efetivamente comprovados e acompanhados de prova documental, contendo eficácia capaz de influir nos fundamentos da decisão da qual se recorre.
+
+
+
+O prazo para interposição do recurso é o mesmo para todos os recorrentes, sendo contado a partir da ciência da decisão nos casos de notificação por débito ou multa; nos demais casos, a partir de quando for publicado, no Diário Oficial da União, a decisão, o acórdão ou o edital.  Como a notificação pode se dar em dias diferentes para responsáveis ou interessados distintos, as datas finais para recebimento dos recursos podem não ser as mesmas para cada um deles.
+
+
+
+
+Se, durante o prazo para a interposição do recurso, sobrevier o falecimento da parte ou de seu procurador, ou ocorrer motivo de força maior que suspenda o prazo do processo, será tal prazo restituído em proveito da parte, dos herdeiros ou de seu sucessor, contra quem começará a correr novamente depois da notificação.  Ressalte-se que tais fatos devem ser comprovados por meio dos documentos hábeis.
+
+
+
+Ao serem opostos embargos de declaração, suspende-se o prazo para que os demais recursos sejam impetrados.  Assim, após a ciência do julgamento da Decisão embargada, os demais prazos voltam a ser contados pelo que lhes resta.
+
+
+
+
+ - Singularidade do Recurso - os recursos previstos no Processo do TCU somente podem ser interpostos uma única vez, pelo mesmo responsável ou interessado, no mesmo processo.  Excetuam-se dessa regra os embargos de declaração e o agravo, sendo que este pode ser interposto apenas uma vez contra o mesmo despacho.
+
+
+
+
+ - Legitimidade - não é lícito às pessoas interpor recursos em quaisquer processos.  Somente podem impugnar as decisões os que forem previamente autorizados em norma jurídica para fazê-lo.
+
+
+
+	No Tribunal, dependendo do recurso, possuem legitimidade para a interposição recursal as partes, aqui compreendidos os responsáveis ou interessados, seus sucessores e, ainda, o Ministério Público junto ao TCU.
+
+
+
+
+
+Autoridade a quem deve ser dirigido o recurso
+
+
+
+
+
+
+Os recursos devem ser dirigidos ao Presidente do Tribunal.
+
+
+
+
+
+
+Decisões contra as quais cabe recurso
+
+
+
+
+Arts. 32 e 48 da Lei n. 8.443/92
+
+
+Arts. 229, 230 e 234 do RI/TCU
+
+
+Arts. 23 e 24 da Resolução/TCU n. 36/95
+
+
+
+
+A possibilidade de se interpor recurso não se aplica a todos os atos decisórios.  Assim, as decisões contra as quais se pode recorrer são as discriminadas nas normas que prevêem esses instrumentos.
+
+
+
+De acordo com essa ressalva, somente podem ser objeto de recurso as decisões para as quais exista algum tipo de recurso cabível.  As decisões de mero expediente ou que rejeitem as alegações de defesa de responsável não podem ser objeto de recurso e, nesse caso, o expediente apresentado será examinado como elementos adicionais de defesa.
+
+
+
+
+
+Efeitos dos recursos
+
+
+
+
+
+Arts. 33/35 e 48 da Lei n. 8.443/92
+
+
+Arts. 233/236 do RI/TCU
+
+
+Arts. 24/26 da Resolução/TCU n. 36/95
+
+
+
+Há dois efeitos que o recurso pode impor à decisão proferida no processo, ou seja, o devolutivo e o suspensivo.  O efeito devolutivo implica a reapreciação da matéria recorrida pela instância competente para o julgamento do recurso (ad quem); o efeito suspensivo tem por conseqüência impedir que a decisão produza sua eficácia própria.
+
+
+
+Todos os recursos previstos no Processo Administrativo do TCU possuem efeito devolutivo.  A maioria deles, porém, possui um efeito devolutivo peculiar, pois o seu reexame é feito pelo mesmo colegiado que apreciou a decisão recorrida, entretanto com novo Relator. Excetuam-se dessa regra o recurso de revisão e o agravo contra despacho que determinar medidas cautelares, que são examinados pelo Plenário.
+
+
+
+Quanto ao efeito suspensivo, apenas alguns dos recursos o possuem; mais especificamente o recurso de reconsideração, o pedido de reexame  e os embargos de declaração. 
+
+
+
+Cada tipo de recurso tem os efeitos que lhe são atribuídos pela legislação.  Dessa forma, inexiste discricionariedade do Relator ou do Colegiado sobre os efeitos de um apelo, que são determinados, exclusivamente, pela espécie a que pertence. 
+
+
+
+
+
+
+
+
+
+
+
+TIPOS DE RECURSOS EXISTENTES NO PROCESSO DO TCU
+
+
+
+
+A seguir estão listados os tipos de recursos que existem no processo  do TCU.
+
+
+
+
+
+
+Recurso de Reconsideração
+
+
+
+
+
+Arts. 32 e 33 da Lei n. 8.443/92
+
+
+Arts. 229 e 233 do RI/TCU
+
+
+
+Cabe recurso de reconsideração das decisões definitivas nos processos de prestação ou de tomada de contas.  
+
+
+
+Esse recurso terá efeito suspensivo e poderá ser formulado uma só vez no processo, por escrito, dentro do prazo de quinze dias contados a partir da ciência da decisão nos casos de notificação por débito ou multa; nos demais casos, a partir de quando for publicado, no Diário Oficial da União, a Decisão, o Acórdão ou o edital.  Sua apreciação será feita pelo Colegiado que tiver proferido a decisão recorrida.
+
+
+
+Podem interpô-lo o responsável ou interessado e o Ministério Público junto ao TCU.
+
+
+
+
+
+
+Pedido de Reexame
+
+
+
+
+
+Arts. 32, 33, 39, 41 e 48 da Lei n. 8.443/92
+
+
+Arts. 230/233 do RI/TCU
+
+
+
+Cabe pedido de reexame da decisão proferida em processo referente a ato sujeito a registro e a fiscalização de ato ou contrato. 
+
+
+
+Esse recurso terá efeito suspensivo e poderá ser formulado uma só vez no processo, por escrito, dentro do prazo de quinze dias contado a partir da ciência da decisão nos casos de notificação por débito ou multa; nos demais casos, a partir de quando for publicado, no Diário Oficial da União, a Decisão, o Acórdão ou o edital.  Sua apreciação será feita pelo Colegiado que tiver proferido a decisão recorrida.
+
+
+
+
+Podem interpô-lo o responsável ou interessado e o Ministério Público junto ao TCU.
+
+
+
+
+
+
+
+
+Agravo
+
+
+
+
+
+Arts. 24/27 da Resolução/TCU n. 36/95
+
+
+
+Cabe agravo do despacho de Relator  que indefere liminarmente o exercício de uma faculdade processual.  São hipóteses para sua interposição:
+
+
+
+- indeferimento liminar de alegação de defesa ou razão de justificativa adicional, pedido de habilitação de interessado em processo, ou juntada de documentos;
+
+
+
+- determinação de diligência em processo relativo a ato sujeito a registro;
+
+
+
+- determinação de medidas cautelares durante procedimento de fiscalização de atos ou contratos.
+
+
+
+Em face do agravo, o Relator poderá reconsiderar sua decisão ou, em caso contrário, submetê-lo, de acordo com a natureza da matéria, ao Plenário ou à Câmara da qual faça parte. Esse recurso poderá ser formulado uma só vez, no prazo de dez dias a partir da ciência, contra o despacho recorrido pela parte prejudicada e não tem efeito suspensivo.
+
+
+
+Podem interpô-lo o responsável ou interessado.
+
+
+
+
+
+
+Embargos de Declaração
+
+
+
+
+Arts. 32 e 34 da Lei n. 8.443/92
+
+
+Arts. 229 e 235 do RI/TCU
+
+
+
+
+Cabem embargos de declaração para corrigir obscuridade, omissão ou contradição da decisão recorrida. Portanto, o pressuposto específico de cabimento deste remédio processual é a argüição de qualquer das falhas retro-enumeradas.
+
+
+
+  No caso de embargos fundamentados em obscuridade ou contradição, esse recurso tem finalidade explicativa e objetiva determinar o correto entendimento da decisão. No caso de embargos fundamentados em omissão, seu objetivo é integrar a decisão que foi incompleta.
+
+
+
+Os embargos de declaração poderão ser opostos, por escrito, pelo responsável ou interessado, ou pelo Ministério Público junto ao TCU, dentro do prazo de dez dias contados a partir da ciência.  No caso de preencher as condições de admissibilidade, ele será submetido à deliberação do Colegiado que prolatou a decisão recorrida, pelo Relator ou Ministro que tenha proferido em primeiro lugar o voto vencedor.  
+
+
+
+Os prazos para a interposição dos recursos de reconsideração e de revisão e do pedido de reexame são suspensos quando da oposição de embargos de declaração, passando a ser contados pelo prazo restante a partir de quando for publicada a decisão ou o acórdão embargado no Diário Oficial da União.
+
+
+
+
+
+Recurso de Revisão
+
+
+
+
+Arts, 32 e 35 da Lei n. 8.443/92
+
+
+Arts. 229 e 236 do RI/TCU
+
+
+
+Da decisão definitiva em processo de tomada ou prestação de contas caberá recurso de revisão ao Plenário, sem efeito suspensivo.  Além dos requisitos de admissibilidade comuns a todos os recursos, esse deverá se fundamentar em:
+
+
+
+- erro de cálculo nas contas; ou 
+
+
+
+- falsidade ou insuficiência de documentos em que se tenha fundamentado a decisão recorrida; ou
+
+
+
+- superveniência de documentos novos com eficácia sobre a prova produzida.
+
+
+
+O acórdão que der provimento a recurso de revisão ensejará a correção de qualquer erro ou engano apurado.
+
+
+
+Esse recurso só poderá ser interposto uma única vez e por escrito pelo responsável, seus sucessores ou pelo Ministério Público junto ao Tribunal, dentro do prazo de cinco anos a partir de quando for publicada a Decisão ou o Acórdão no Diário Oficial da União.
+
+
+
+
+Recurso do art. 234 do RI/TCU
+
+
+
+
+
+
+Art. 234 do RI/TCU
+
+
+
+Excepcionalmente, o responsável, o interessado, ou o Ministério Público junto ao Tribunal poderão interpor recurso ao Plenário se comprovada divergência entre a decisão recorrida e a que tiver sido prolatada pela outra Câmara ou pelo Plenário em caso análogo.
+
+
+
+O recurso especial de divergência não tem efeito suspensivo e poderá ser interposto no prazo de quinze dias a partir de quando for publicada, no Diário Oficial da União, a Decisão ou o Acórdão, devendo sobre ele manifestar-se o Ministério Público junto ao Tribunal.
+
+
+
+Esse tipo de recurso reveste-se de caráter uniformizador da jurisprudência.
+
+
+
+
+
+
+
+TRAMITAÇÃO NO TRIBUNAL
+
+
+
+	Art. 29 da Resolução/TCU n. 77/96
+
+
+Arts. 1º e 3º da Resolução/TCU n. 64/96
+
+
+
+Os recursos protocolizados no TCU são encaminhados à unidade na qual se encontram os autos principais, para a adoção dos procedimentos de sua competência e imediato envio ao Ministro que houver proferido o despacho, quando se tratar de Agravo; ao Relator da decisão embargada ou ao Revisor, na hipótese de voto vencedor, quando se tratar de Embargos de Declaração. Nos demais casos, os autos são remetidos à Secretaria-Geral das Sessões para sorteio de novo Relator.
+
+
+
+Ao receber os autos, se o Relator, de plano, entender configurados os pressupostos autorizadores do exame de mérito, definirá as providências a serem tomadas, o que inclui a possibilidade de os autos serem remetidos à Unidade Técnica competente para a instrução dos Recursos. 
+
+
+
+ Se, ao contrário, vislumbrar a existência de questão prejudicial e/ou a ausência de qualquer dos requisitos de admissibilidade, após ouvir o Ministério Público, enviará o processo à deliberação do Colegiado competente para o julgamento do Recurso. Esse procedimento aplica-se, inclusive, às petições que, embora denominadas como Recurso, não têm aptidão para serem consideradas como tal. Se o Colegiado confirmar o entendimento do Relator, declarará o recurso prejudicado ou não conhecerá do recurso, respectivamente, e se for o caso, os autos serão arquivados. Se o Colegiado não confirmar o entendimento do Relator, devolver-lhe-á os autos, observando-se, então, o trâmite descrito no parágrafo anterior. 
+
+
+
+	O fluxo aqui descrito se encontra esquematizado no Anexo a este Manual.
+
+
+
+
+
+
+	
+
+
+
+
+
+EFEITOS DOS RECURSOS E A RELAÇÃO DE NOMES DE RESPONSÁVEIS  ENVIADA À JUSTIÇA ELEITORAL
+
+
+
+
+
+O que é o Cadastro?
+
+
+
+
+
+
+Art. 1º da Resolução/TCU n. 113/98
+
+
+
+O TCU organiza e mantém atualizado cadastro que contém o nome dos responsáveis por contas julgadas irregulares nos cinco anos imediatamente anteriores a cada eleição.  Esse rol é enviado, pelo Tribunal, à Justiça Eleitoral e ao Ministério Público Eleitoral no primeiro dia útil do mês de julho do ano em que se realizarem as eleições.  
+
+
+
+
+
+
+Atualizações do cadastro
+
+
+
+
+
+Arts. 4º e 5º da Resolução/TCU n. 113/98
+
+
+Art. 29, § 3º, da Resolução/TCU n. 77/96 (cf. redação dada pela Resolução/TCU n. 114/98)
+
+
+
+O cadastro é atualizado periodicamente, excluindo-se temporariamente os nomes dos responsáveis cujas contas ainda persistam sob apreciação do TCU em decorrência de recursos com efeito suspensivo.
+
+
+
+Interposto e processado o recurso, a Unidade Técnica competente aguardará a deliberação quanto ao seu conhecimento ou julgamento para atualizar o referido cadastro, uma vez que poderá o Relator considerar prejudicado o recurso se constatar manifesta perda de objeto, ou, após verificar os requisitos de admissibilidade, bem como a ocorrência de erro grosseiro, má-fé, atitude meramente protelatória ou qualquer outra situação que demonstre ser manifestamente inadmissível o recurso, concluir pelo seu não conhecimento, devendo, nessas hipóteses, após a audiência do Ministério Público, submeter o feito imediatamente à apreciação do Colegiado ao qual compete julgar o mérito, a fim de deliberar sobre a questão prejudicial ou sobre o não conhecimento e, se for o caso, o conseqüente arquivamento do processo. 
+
+
+
+
+
+
+
+
+
+
+
+
+DECISÕES DO TCU
+
+
+
+
+
+Neste Capítulo estão relacionadas algumas decisões do TCU relativas a recursos, as quais podem orientar a parte que deseje a reforma de decisão que lhe tenha sido desfavorável.
+
+
+
+O Tribunal de Contas da União, no uso de sua competência de apreciar recursos contra suas decisões, tem procurado firmar entendimentos sobre os mais diversos aspectos que envolvem seu sistema recursal.  
+
+
+
+Esses entendimentos constituem uma síntese, elaborada pela Secretaria Geral das Sessões do TCU, das decisões adotadas em casos concretos pelo Plenário e pelas Câmaras do Tribunal.  São redigidos exclusivamente com vistas a facilitar o conhecimento, por parte dos administradores públicos e demais interessados, da orientação adotada pelo TCU naquelas questões específicas.  Embora os "Entendimentos" reflitam com fidelidade as posições de seus colegiados, o Tribunal pode, não obstante, decidir de forma diferente, em situações similares, à vista das circunstâncias peculiares de cada caso concreto.
+
+
+
+
+Destacam-se os seguintes:
+
+
+
+
+
+
+o efeito suspensivo dos pedidos de reconsideração e de reexame, bem como dos embargos de declaração, impetrados contra as Decisões do Tribunal, susta provisoriamente os efeitos das mesmas até o julgamento do recurso, não autorizando o recorrente, antes do pronunciamento do Tribunal sobre o mérito do recurso, praticar qualquer ato ou adotar providência que diretamente ou indiretamente contrarie qualquer item da decisão recorrida, sujeitando-se o infrator a multa (Acórdão TCU n. 15/98-Plenário, Ata 06/98, DOU de 10/03/98 e Decisão TCU n. 188/95-Plenário, Ata 18/95, DOU de 22/05/95);
+
+
+
+
+
+não é admissível a interposição de recurso contra decisão proferida em processo concernente a consulta (Decisões TCU nºs: 64/96-Plenário, Ata 07/96, DOU de 18/03/96; 245/96-Plenário, Ata 18/96, DOU de 04/06/96; 362/94-Plenário, Ata 24/94, DOU de 29/06/94; 505/95-Plenário, Ata 45/95, DOU de 23/10/95; 591/95-Plenário, Ata 53/95, DOU de 13/12/95; e 615/94-Plenário, Ata 47/93, DOU de 24/10/94);
+
+
+
+
+
+o recurso de reconsideração será apreciado pelo mesmo Colegiado que proferiu a Decisão recorrida (Decisões TCU nºs: 87/93-Plenário, Ata 10/93, DOU de 07/04/93; e 117/93-2 Câmara, Ata 13/96, DOU de 05/05/93);
+
+
+
+
+
+compete ao gestor comprovar a boa e regular aplicação dos recursos públicos, cabendo-lhe o ônus da prova (Acórdãos TCU nºs: 11/97-Plenário, Ata 04/97, DOU de 25/02/97; 87/97-2 Câmara, Ata 07/97, DOU de 26/03/97; 234/95-2 Câmara, Ata 28/95, DOU de 30/08/95; 291/96-2 Câmara, Ata 17/96, DOU de 30/05/96; 380/95-2 Câmara, Ata 39/95, DOU de 11/12/95; Decisões TCU nºs: 200/93-Plenário, Ata 18/93, DOU de 02/06/93; 225/95-2 Câmara, Ata 30/95, DOU de 19/08/95; 545/92-Plenário, Ata 52/92, DOU de 03/12/92;
+
+
+
+
+
+a documentação encaminhada diretamente ao TCU, referente aos recursos recebidos por intermédio de convênio, embora constituída de elementos de uma prestação de contas, não é suficiente para um ajuizamento da sua regularidade quando não apreciada pelo Ordenador de Despesa e pelo órgão de Controle Interno, por não se poder suprimir instâncias de controle, sem o prejuízo de anular-se atribuições e competências (Decisões TCU nºs: 14/961 Câmara, Ata 03/96, DOU de 16/02/1996; 70/92Plenário, Ata 11/92, DOU de 24/03/1992; 258/921 Câmara, Ata 21/92, DOU de 10/07/1992; 278/92Plenário, Ata 26/92, DOU de 16/06/1992; 499/921 Câmara, Ata 44/92, DOU de 18/12/1992);
+
+
+
+
+
+ao Prefeito sucessor cabe a aplicação e a comprovação dos recursos a ele transferidos pelo ex-Prefeito, e por eles responder, dado o princípio da continuidade administrativa (Decisão TCU n. 27/92Plenário, Ata 06/92, DOU de 26/02/1992)
+
+
+
+
+
+
+
+A título de ilustração, relacionaram-se as falhas mais freqüentes verificadas quando da interposição de recursos contra decisões do TCU:
+
+
+
+- interposição de recurso fora do prazo e sem demonstrar a existência de fatos novos supervenientes à decisão recorrida, efetivamente comprovados;
+
+
+
+- ilegitimidade do recorrente;
+
+
+
+- interposição de recurso de reconsideração ou de pedido de reexame, pela segunda vez no mesmo processo, pelo mesmo responsável ou interessado;
+
+
+
+- interposição de recurso contra decisões que não admitem a utilização de recursos, como as que rejeitam as alegações de defesa;
+
+
+
+- petição do recurso assinada por procurador que não anexou o mandato aos autos;
+
+
+
+- interposição de recurso de revisão com o pedido de que lhe sejam atribuídos efeitos suspensivos;
+
+
+
+- interposição do recurso do art. 234 do RI/TCU em casos nos quais a matéria sobre a qual é apontada divergência entre Colegiados é distinta da decisão-paradigma;
+
+
+
+- interposição de embargos de declaração fundados em divergência entre a decisão proferida e qualquer dos pareceres, do Ministério Público ou da unidade técnica, presentes no processo;
+
+
+
+- solicitação para que este Tribunal providencie diligências para obter  elementos que deveriam ter sido apresentados pelo recorrente quando da interposição do recurso. Lembra-se que o ônus de comprovar a regularidade do destino dado aos recursos públicos é do responsável que geriu os recursos.
+
+
+
+
+FALHAS MAIS FREQUENTES
+
+
+
+
+
+
+
+
+
+PRINCIPAIS NORMAS QUE REGULAMENTAM 
+
+
+
+
+A INTERPOSIÇÃO E O TRÂMITE DE RECURSOS 
+
+
+
+
+NO TCU
+
+
+
+
+
+
+- Lei n. 8.443/92
+
+
+				- Lei Orgânica do Tribunal;
+
+
+
+
+
+
+- Regimento Interno do Tribunal de Contas da União
+
+
+
+
+
+
+
+- 
+Resolução TCU n. 036/95
+
+
+- Estabelece procedimentos para o exercício da ampla defesa   no âmbito do Tribunal de Contas da União.
+
+
+
+
+· 
+- Resolução TCU n. 064/96Estabelece normas para distribuição e sorteio de relatores de processos a serem submetidos à apreciação e ao julgamento  do Tribunal de Contas da União e dá outras providências.
+
+
+
+
+- 
+Resolução TCU n. 074/96
+
+
+				-  Dispõe sobre a criação da Décima Secretaria de Controle Externo Externo.			    Externo.	
+
+
+
+
+
+- Resolução TCU n. 77/96- Estabelece  procedimentos  para  recebimento, autuação  e    tramitação de processos e papéis no âmbito do Tribunal de    Contas da União.
+
+
+
+
+
+Resolução TCU n. 113/98- Estabelece procedimentos para envio à Justiça Eleitoral e ao    Ministério  Público   Eleitoral  de   relação  de  nomes  de    responsáveis que tiveram suas contas relativas ao exercício   de cargos ou funções públicas rejeitadas por irregularidade   insanável e por decisão irrecorrível, e dá outras providências.
+
+
+
+
+
+ANEXO  – TRÂMITE DOS RECURSOS NO TCU
+
+
+
+	
+
+
+	              SECEX de Origem
+
+
+
+		     - Autuação e exame das 
+
+
+			   formalidades
+
+
+
+
+			          
+
+
+			    Embargos de     	Não	     Secretaria-Geral das Sessões
+
+
+
+			    Declaração 				             Sorteio
+
+
+			       
+
+
+				 
+
+
+
+			     Sim
+
+
+				      
+
+
+			
+
+
+			        Ministro	 Recurso	Ministério Público
+
+
+
+
+			         Relator        Inadmissível
+
+
+
+				
+
+
+
+
+								         Relator
+
+
+
+
+
+
+
+
+
+
+			Recurso				          Decisão       Confirma			             admissível					   do	 		    Arquivo
+								       Colegiado	
+
+
+
+
+
+
+
+
+
+			  Unidade Técnica				       Não confirma				     	            Instrução de mérito			       
+
+
+									  Relator
+
+
+
+
+			
+
+
+
+			Ministério Público
+
+
+
+
+
+			         
+
+
+
+
+			        Relator
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+		    Julgamento pelo Colegiado
+
+
+
+
+
+FOLHA DE SUGESTÕES
+
+
+
+
+
+
+O TCU preocupa-se com o constante aperfeiçoamento da qualidade de seus manuais e orientações, buscando, para isso, ouvir a valiosa opinião do público-alvo dos referidos trabalhos.
+
+
+
+O questionário a seguir refere-se especificamente ao Manual de Recursos, distribuído a partir de novembro de 1998. Será muito útil para o TCU se o leitor deste manual puder dispor de alguns minutos para responder às perguntas constantes no referido questionário e enviá-lo pelos Correios (não é preciso selar, pois o porte será pago pelo TCU).
+
+
+
+Sugestões sobre este manual também podem ser enviadas das seguintes formas:
+
+
+
+E-mail: secex-10@tcu.gov.br 
+
+
+Fax: (061) 340 3230
+
+
+Fone: (061) 340 3240
+
+
+Endereço:  Tribunal de Contas da União - TCU
+
+
+  10ª Secretaria de Controle Externo
+
+
+Setor de Administração Federal Sul - Lote 01
+
+
+CEP: 70042-900 - Brasília-DF
+
+
+
+
+
+
+
+
+
+Tribunal de Contas da União
+
+10ª Secretaria de Controle Externo
+
+ 
+
+QUESTIONÁRIO  DE  AVALIAÇÃO
+
+
+
+FINALIDADE
+
+Este questionário de avaliação tem por objetivo obter a opinião dos leitores sobre o Manual de  Recursos,  com vistas ao seu aperfeiçoamento.
+
+
+
+Por favor, responda às questões abaixo assinalando com um “X” a alternativa mais adequada. Desde já agradecemos a sua colaboração.
+
+
+
+1. Em que esfera do governo você  trabalha?
+
+ Federal
+
+ Estadual ou DF
+
+ Municipal
+
+2. Em que órgão você trabalha?
+
+ Poder Legislativo
+
+ Poder Executivo
+
+ Poder Judiciário
+
+ Controle Interno
+
+ Outro [especificar] ________________
+
+3. Que partes do Manual de Recursos  você leu?
+
+
+
+
+
+
+
+ Todo
+
+ Parte (qual?): ________________
+
+ 
+
+4. Leia com atenção cada indicador e escolha o ponto da escala que melhor descreve a sua opinião sobre o Manual de Recursos. Marque com um “X” a opção que melhor representa o seu julgamento.
+
+ 
+
+ Concorda integralmente Concorda Indiferente Discorda Discorda integralmente
+
+ 5 4 3 2 1
+
+ 
+
+ 
+
+ O manual é: 5 4 3 2 1
+
+ Fácil de ser lido     
+
+ Fácil de ser entendido     
+
+ Lógico     
+
+ Sucinto     
+
+ Completo     
+
+ Útil     
+
+5. Como você tomou conhecimento do Manual de Recursos? 
+
+
+
+ Quando recebeu
+
+ Divulgação interna do TCU
+
+ Por mensagem do SIAFI
+
+ Pela Internet
+
+ Pela imprensa
+
+ Outros [especificar] _______________________
+
+6. Como você obteve o Manual de Recursos?
+
+ Solicitou diretamente ao TCU
+
+ Download pela Internet
+
+ Outros [especificar] ________________
+
+7. Apresente, a seguir, comentários e sugestões para o aprimoramento da qualidade do Manual de Recursos. No caso de sugestões para alteração/supressão/aditamento de itens de verificação, favor preencher o quadro anexo.
+
+ 
+
+
+
+
+
+Tribunal de Contas da União
+
+10ª Secretaria de Controle Externo
+
+ 
+
+QUADRO  DE  SUGESTÕES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PTR/BSB 880/92
+
+
+UP-AC/TCU
+
+
+DR/BSB
+
+
+
+
+
+
+
+
+CARTA - RESPOSTA
+
+
+NÃO É NECESSÁRIO SELAR
+
+
+
+O SELO SERÁ PAGO POR
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+70099-999	BRASÍLIA-DF
+
+
+
+
+
+
+
+
+UNIDADES DA SECRETARIA-GERAL DE CONTROLE EXTERNO 
+
+
+
+
+DO TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+FINALIDADE
+
+Este quadro de sugestões tem por objetivo obter a opinião dos leitores sobre o Manual de  Recursos, com vistas ao seu aperfeiçoamento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

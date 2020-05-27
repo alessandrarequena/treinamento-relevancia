@@ -1,0 +1,352 @@
+Instrução Normativa
+57/2008
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regimentais, e
+
+
+Considerando o poder regulamentar que lhe confere o art. 3º da Lei nº 8.443, de 16 de julho de 1992, para expedir atos e instruções normativas sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos, obrigando ao seu cumprimento, sob pena de responsabilidade;
+
+
+Considerando que compete ao Tribunal julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos, nos termos da Constituição Federal, art. 71; da Lei nº 8.443, de 1992, arts. 1º, 6º, 7º, 8º e 9º; e do Regimento Interno, arts. 1º, 188, 189 e 197;
+
+
+Considerando que os processos de tomada e prestação de contas deverão conter elementos e demonstrativos que evidenciem a boa e regular aplicação dos recursos públicos, nos termos do caput do art. 194 do Regimento Interno do TCU;
+
+
+Considerando a necessidade de integrar, no exame e julgamento das tomadas e prestações de contas dos gestores, o controle da conformidade e do desempenho da gestão, a fim de contribuir para o aperfeiçoamento da administração pública; e
+
+
+Considerando os princípios da racionalização e simplificação do exame e do julgamento das tomadas e prestações de contas e a necessidade de estabelecer critérios de seletividade para formalização e instrução desses processos, nos termos do parágrafo único do art. 194 e do art. 195 do Regimento Interno deste Tribunal, resolve:
+
+
+TÍTULO I
+
+
+DISPOSIÇÕES GERAIS
+
+
+Art. 1º Os relatórios de gestão e os processos de tomada e prestação de contas dos administradores e demais responsáveis abrangidos pelos incisos I, III, IV, V e VI do art. 5º da Lei nº 8.443, de 1992, serão organizados e apresentados ao Tribunal de Contas da União de acordo com as disposições desta instrução normativa.
+
+
+§ 1º Para os fins do disposto nesta instrução normativa, considera-se:
+
+
+I. processo de contas: processo de trabalho do controle externo destinado a avaliar a conformidade e o desempenho da gestão das pessoas abrangidas pelos incisos I, III, IV, V e VI do art. 5º da Lei nº 8.443/92, com base em um conjunto de documentos, informações e demonstrativos de natureza contábil, financeira, orçamentária, operacional ou patrimonial, obtidos direta ou indiretamente;
+
+
+II. tomada de contas: processo de contas relativo à avaliação da gestão dos responsáveis por unidades jurisdicionadas da administração federal direta;
+
+
+III. prestação de contas: processo de contas relativo à avaliação da gestão dos responsáveis por unidades jurisdicionadas da administração federal indireta e por aquelas não classificadas como integrantes da administração federal direta;
+
+
+IV. relatório de gestão: conjunto de documentos, informações e demonstrativos de natureza contábil, financeira, orçamentária, operacional ou patrimonial relativos à gestão dos responsáveis por uma ou mais unidades jurisdicionadas, organizado de forma a possibilitar a visão sistêmica da conformidade e do desempenho desta gestão;
+
+
+V. processo de contas ordinárias: processo de tomada ou prestação de contas organizado anualmente pelas unidades jurisdicionadas cujos responsáveis estão abrangidos pelos incisos I, III, IV, V e VI do art. 5º da Lei nº 8.443/92, destinado a avaliar a conformidade e o desempenho da gestão desses responsáveis, com base em um conjunto de documentos, informações e demonstrativos de natureza contábil, financeira, orçamentária, operacional ou patrimonial;
+
+
+VI. processo de contas individual: processo de contas ordinárias organizado tendo por base a gestão de uma unidade jurisdicionada;
+
+
+VII. processo de contas consolidado: processo de contas ordinárias organizado tendo por base a gestão de um conjunto de unidades jurisdicionadas que se relacionam em razão de hierarquia, função ou programa de governo, de modo a possibilitar a avaliação sistêmica dessa gestão;
+
+
+VIII. processo de contas agregado: processo de contas ordinárias organizado tendo por base a gestão de um conjunto de unidades jurisdicionadas que não se relacionem em razão de hierarquia, função ou programa de governo, mas cujo exame em conjunto e em confronto possibilite a avaliação sistêmica dessa gestão;
+
+
+IX. processo de contas extraordinárias: processo de tomada ou prestação de contas organizado quando da extinção, liqüidação, dissolução, transformação, fusão, incorporação ou desestatização de unidades jurisdicionadas cujos responsáveis estejam alcançados pela obrigação prevista no art. 70, parágrafo único, da Constituição Federal, para apreciação do Tribunal nos termos do art. 15 da Lei nº 8.443/92;
+
+
+X. risco: suscetibilidade de ocorrência de eventos que afetam negativamente a realização dos objetivos das unidades jurisdicionadas;
+
+
+XI. materialidade: representatividade dos valores orçamentários, financeiros e patrimoniais colocados à disposição dos gestores e/ou do volume de bens e valores efetivamente geridos;
+
+
+XII. relevância: importância social ou econômica das ações desenvolvidas pelas unidades jurisdicionadas para a administração pública federal ou para a sociedade, em razão das funções, programas, projetos e atividades sob a responsabilidade de seus gestores, assim como dos bens que produzem e dos serviços que prestam à população;
+
+
+XIII. exame da conformidade: análise da legalidade, legitimidade e economicidade da gestão em relação a padrões normativos e operacionais, expressos nas normas e regulamentos aplicáveis, e da capacidade dos controles internos de identificar e corrigir falhas e irregularidades;
+
+
+XIV. exame do desempenho: análise da eficácia, eficiência, efetividade e economicidade da gestão em relação a padrões administrativos e gerenciais, expressos em metas e resultados negociados com a administração superior ou definidos nas leis orçamentárias, e da capacidade dos controles internos de minimizar riscos e evitar falhas e irregularidades;
+
+
+XV. controles internos: conjunto de atividades, planos, métodos, indicadores e procedimentos interligados utilizados com vistas a assegurar a conformidade dos atos de gestão e a concorrer para que os objetivos e metas estabelecidos para as unidades jurisdicionadas sejam alcançados;
+
+
+XVI. órgãos de controle interno: unidades administrativas integrantes dos sistemas de controle interno da administração pública federal, incumbidos, dentre outras funções, da verificação da consistência e qualidade dos controles internos, bem como do apoio às atividades de controle externo exercidas pelo Tribunal.
+
+
+Art. 2º Para os efeitos desta instrução normativa, constituem unidades jurisdicionadas ao Tribunal, cujos responsáveis estão sujeitos à apresentação de relatório de gestão ou de processo de contas:
+
+
+I. os órgãos e entidades da administração pública federal direta e indireta, incluídas as fundações e empresas estatais, bem como suas unidades internas;
+
+
+II. os fundos cujo controle se enquadre como competência do Tribunal;
+
+
+III. os serviços sociais autônomos;
+
+
+IV. as contas nacionais das empresas supranacionais de cujo capital social a União participe, de forma direta ou indireta, nos termos do respectivo tratado constitutivo;
+
+
+V. as empresas encampadas, sob intervenção federal ou que, de qualquer modo, venham a integrar, provisória ou permanentemente, o patrimônio da União ou de entidade pública federal;
+
+
+VI. as entidades cujos gestores, em razão de previsão legal, devam prestar contas ao Tribunal.
+
+
+§ 1º Os responsáveis pelas entidades de fiscalização do exercício profissional estão dispensados de apresentar relatório de gestão ou processo de contas ordinárias ao Tribunal, sem prejuízo da manutenção das demais formas de fiscalização exercidas pelo controle externo.
+
+
+§ 2º Os estados, o Distrito Federal, os municípios e as pessoas físicas ou entidades privadas, quando beneficiários de transferência voluntária de recursos federais sob qualquer forma, responderão perante o órgão ou entidade repassador pela boa e regular aplicação desses recursos, apresentando os documentos, informações e demonstrativos necessários à composição dos relatórios de gestão e dos processos de contas dos responsáveis por essas unidades jurisdicionadas.
+
+
+TÍTULO II
+
+
+APRESENTAÇÃO DOS RELATÓRIOS DE GESTÃO E DOS PROCESSOS DE CONTAS
+
+
+CAPÍTULO I
+
+
+CRITÉRIOS DE APRESENTAÇÃO
+
+
+Art. 3º Os relatórios de gestão serão apresentados ao Tribunal pelos responsáveis pelas unidades jurisdicionadas na forma definida em decisão normativa.
+
+
+§ 1º Os relatórios de gestão abrangerão a gestão dos responsáveis relacionados no art. 10 desta instrução normativa e conterão os conteúdos mínimos dispostos na decisão normativa a que se refere o caput deste artigo.
+
+
+§ 2º Os relatórios de gestão poderão ser encaminhados ao Tribunal pelo órgão de controle interno a que estiver vinculada a unidade jurisdicionada dos respectivos responsáveis.
+
+
+§ 3º A critério do Tribunal, os relatórios de gestão poderão ser apresentados ou encaminhados em meio informatizado, conforme orientações contidas na decisão normativa a que se refere o caput deste artigo.
+
+
+§ 4º O relatório de gestão ficará disponível na rede mundial de computadores, para consulta pela sociedade, na forma definida por ato da presidência.
+
+
+§ 5º O relatório de gestão será considerado parte integrante dos processos de contas ordinárias que vierem a ser constituídos conforme disposto no art. 4º, sendo a sua apresentação condição necessária para a admissibilidade dos referidos processos.
+
+
+§ 6º O relatório de gestão do responsável por unidade jurisdicionada que, na forma do art. 4º, for instado a apresentar contas ordinárias deverá ser submetido à auditoria de gestão e às demais providências a cargo do respectivo órgão de controle interno.
+
+
+Art. 4º O Tribunal definirá anualmente em decisão normativa de natureza sigilosa as unidades jurisdicionadas cujos responsáveis apresentarão contas ordinárias para fins de julgamento, sob a forma de tomada ou prestação de contas, ficando os responsáveis pelas demais unidades jurisdicionadas dispensados de apresentarem as suas contas ao Tribunal, para essa finalidade, nos termos do art. 6º da Lei nº 8.443/92.
+
+
+§ 1º Os processos de contas ordinárias abrangerão a gestão dos responsáveis relacionados no art. 10 desta instrução normativa e de outros definidos, a critério do Tribunal, na decisão normativa de que trata o caput.
+
+
+
+§ 2º Os processos de contas ordinárias serão formalizados de acordo com os critérios estabelecidos nesta instrução normativa e na decisão normativa a que se refere o caput.
+
+
+§ 3º O órgão de controle interno poderá, a seu critério, realizar trabalhos sobre unidades jurisdicionadas não relacionadas na decisão normativa de que trata o caput, os quais apenas serão encaminhados ao Tribunal caso se constate quaisquer das ocorrências a que se refere o art. 16, incisos II e III, da Lei nº 8.443, de 1992.
+
+
+Art. 5º Os processos de contas extraordinárias serão apresentados para julgamento do Tribunal pelos responsáveis pelos processos de extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização das unidades jurisdicionadas.
+
+
+CAPÍTULO II
+
+
+PRAZOS
+
+
+Art. 6º A apresentação dos relatórios de gestão e dos processos de contas ordinárias deverá ocorrer de acordo com os prazos definidos nas decisões normativas de que tratam os arts. 3º e 4º deste normativo, respectivamente.
+
+
+Parágrafo único. Os processos de contas extraordinárias deverão ser apresentados ao Tribunal em até cento e vinte dias da efetiva extinção, liquidação, dissolução, transformação, fusão, incorporação ou desestatização da unidade jurisdicionada.
+
+
+Art. 7º Os prazos estabelecidos nas decisões normativas de que tratam os arts. 3º e 4º deste normativo e no parágrafo único do artigo anterior poderão ser prorrogados pelo Plenário do Tribunal, em caráter excepcional, mediante solicitação fundamentada formulada, conforme o caso, pelas seguintes autoridades:
+
+
+I. Presidente da Câmara dos Deputados, do Senado Federal, do Supremo Tribunal Federal, dos demais Tribunais Superiores, dos Tribunais Federais nos Estados e no Distrito Federal e do Tribunal de Contas da União;
+
+
+II. Ministro de Estado ou autoridade de nível hierárquico equivalente;
+
+
+III. Procurador-Geral da República;
+
+
+Parágrafo único. Nos casos em que os trabalhos do órgão de controle interno realizados sobre o processo de contas ordinárias não puderem ser concluídos a tempo de atender ao disposto no art. 6º, o dirigente máximo do órgão também poderá solicitar, em caráter excepcional, mediante pedido fundamentado, a prorrogação de prazo para apresentação dos referidos processos devidamente auditados.
+
+
+Art. 8º A inobservância dos prazos previstos na decisão normativa de que trata o art. 6º deste normativo ou do prazo concedido na forma do art. 7º poderá configurar omissão no dever de prestar contas para efeito do disposto na alínea "a" do inciso III do art. 16 da Lei nº 8.443, de 1992.
+
+
+Art. 9º Os processos de contas somente serão considerados entregues ao Tribunal se contiverem todas as peças e conteúdos exigidos nesta instrução normativa e na decisão normativa de que trata o art. 4º, e estiverem formalizados de acordo com o estabelecido no Título III deste normativo.
+
+
+§ 1º Nos casos de inadimplemento das condições previstas no caput, o órgão de controle interno competente será informado do fato pela unidade técnica do Tribunal, para que, em até quinze dias, comunique a situação aos responsáveis.
+
+
+§ 2º Os responsáveis pela gestão da unidade jurisdicionada terão quinze dias para sanear a pendência, permanecendo, enquanto isso, em situação de inadimplência no dever de apresentar contas.
+
+
+§ 3º Em razão da complexidade do relatório de gestão ou da necessidade de acompanhamento mais tempestivo dos atos de gestão das unidades jurisdicionadas envolvidas, o Tribunal poderá determinar a apresentação de relatórios de gestão parciais, em periodicidade inferior a um ano, que comporão o relatório de gestão final, conforme definido na decisão normativa de que trata o art. 3º desta instrução normativa.
+
+
+CAPÍTULO III
+
+
+ROL DE RESPONSÁVEIS
+
+
+Art. 10. Serão considerados responsáveis pela gestão os titulares e seus substitutos que desempenharem, durante o período de que tratam os relatórios de gestão e os processos de contas ordinárias, as seguintes naturezas de responsabilidade, se houver:
+
+
+I. dirigente máximo da unidade jurisdicionada que apresenta as contas ao Tribunal;
+
+
+II. membro de diretoria;
+
+
+III. membro de órgão colegiado que, por definição legal, regimental ou estatutária, seja responsável por atos de gestão.
+
+
+Parágrafo único. O Tribunal poderá definir outras naturezas de responsabilidade na decisão normativa de que trata o art. 4º.
+
+
+Art. 11. Constarão do rol de responsáveis as seguintes informações:
+
+
+I. nome, completo e por extenso, e número do Cadastro de Pessoa Física do Ministério da Fazenda (CPF/MF) do responsável arrolado;
+
+
+II. identificação das naturezas de responsabilidade, conforme descrito no artigo anterior ou na decisão normativa de que trata o art. 4º desta instrução normativa, e dos cargos ou funções exercidos;
+
+
+III. indicação dos períodos de gestão, por cargo ou função;
+
+
+IV. identificação dos atos formais de nomeação, designação ou exoneração, incluindo a data de publicação no Diário Oficial da União ou em documento de divulgação pertinente;
+
+
+V. endereço residencial completo; e
+
+
+VI. endereço de correio eletrônico, se houver.
+
+
+§ 1º As unidades jurisdicionadas manterão cadastro, preferencialmente informatizado, com todos os responsáveis, mesmo aqueles não compreendidos no art. 10, contendo as informações indicadas no caput deste artigo, para fins de documentação e acesso por parte dos órgãos de controle.
+
+
+§ 2º Os órgãos de controle interno poderão, a seu critério, avaliar a gestão de outros responsáveis, ainda que não arrolados no processo de contas.
+
+
+§ 3º Ocorrendo o disposto no parágrafo anterior e constatada quaisquer das ocorrências a que se refere o art. 16, inciso III, da Lei nº 8.443, de 1992, o respectivo órgão de controle interno, sob pena de responsabilidade solidária, deverá determinar a instauração, em caso de dano ao Erário, de processo de tomada de contas especial para os responsáveis não incluídos no rol de que trata este capítulo.
+
+
+§ 4º No caso do § 3º, não ocorrendo dano ao Erário, o responsável terá as suas responsabilidades certificada pelo órgão de controle interno.
+
+
+TÍTULO III
+
+
+ORGANIZAÇÃO DOS RELATÓRIOS DE GESTÃO E DOS PROCESSOS DE CONTAS
+
+
+CAPÍTULO I
+
+
+PEÇAS E CONTEÚDOS
+
+
+Art. 12. Os relatórios de gestão serão compostos das informações sobre a gestão apresentadas pelos responsáveis, conforme conteúdos e formatos estabelecidos na decisão normativa de que trata o art. 3º.
+
+
+Parágrafo único. O relatório de gestão deverá incluir todos os recursos, orçamentários e extra-orçamentários, utilizados, arrecadados, guardados ou geridos pelas unidades jurisdicionadas ou pelos quais elas respondam, inclusive aqueles oriundos de fundos de natureza contábil, recebidos de entes da administração pública federal ou descentralizados para execução indireta.
+
+
+Art. 13. Os processos de contas ordinárias serão compostos das peças abaixo arroladas e das demais peças fixadas pelo Tribunal na decisão normativa de que trata o art. 4º.
+
+
+I. rol de responsáveis, observado o disposto no capítulo III do título II desta instrução normativa e na decisão normativa de que trata o art. 4º;
+
+
+II. relatório de gestão dos responsáveis, conforme conteúdos e formatos estabelecidos pelo Tribunal na decisão normativa de que trata o art. 3º;
+
+
+III. declaração expressa da respectiva unidade de pessoal de que os responsáveis constantes do rol a que se refere o inciso I estão em dia com a exigência de apresentação da declaração de bens e rendas de que trata a Lei nº 8.730, de 1993;
+
+
+IV. relatórios e pareceres de órgãos, entidades ou instâncias que devam se pronunciar sobre as contas ou sobre a gestão dos responsáveis pela unidade jurisdicionada, consoante previsão em lei ou em seus atos constitutivos, observados os formatos e os conteúdos definidos na decisão normativa de que trata o art. 4º deste normativo;
+
+
+V. relatório de auditoria de gestão, emitido pelo órgão de controle interno competente, conforme formatos e conteúdos definidos na decisão normativa de que trata o art. 4º deste normativo;
+
+
+VI. certificado de auditoria, emitido pelo órgão de controle interno competente;
+
+
+VII. parecer conclusivo do dirigente do órgão de controle interno competente; e
+
+
+VIII. pronunciamento expresso do Ministro de Estado supervisor da unidade jurisdicionada cujo responsável apresenta o processo de contas ordinárias, ou da autoridade de nível hierárquico equivalente, sobre o parecer do dirigente do órgão de controle interno competente, atestando haver tomado conhecimento das conclusões nele contidas.
+
+
+§ 1º O pronunciamento ministerial ou de autoridade de nível hierárquico equivalente sobre o parecer do dirigente do órgão de controle interno competente não poderá ser objeto de delegação, conforme dispõe o art. 52 da Lei nº 8.443, de 1992.
+
+
+§ 2º Os exames do órgão competente de controle interno sobre os processos de contas ordinárias abrangerão todos os recursos, orçamentários e extra-orçamentários, utilizados, arrecadados, guardados ou geridos pelas unidades jurisdicionadas ou pelos quais elas respondam, inclusive aqueles oriundos de fundos de natureza contábil, recebidos de entes da administração pública federal ou descentralizados para execução indireta.
+
+
+§ 3º O relatório de auditoria de gestão emitido pelo órgão de controle interno deverá ser composto apenas de achados caracterizados, ao menos, pela indicação da situação encontrada e do critério adotado, evidenciados por papéis de trabalho que não comporão o referido relatório, mas que deverão ser mantidos em arquivo à disposição do Tribunal.
+
+
+Art. 14. O órgão ou entidade da administração pública federal que for submetido a processo de extinção, liqüidação, dissolução, transformação, fusão, incorporação ou desestatização deverá apresentar a julgamento do Tribunal processo de contas extraordinárias, abrangendo o período compreendido entre o início do exercício financeiro e a data da efetiva extinção, liqüidação, dissolução, transformação, fusão, incorporação ou desestatização.
+
+
+§ 1º As unidades jurisdicionadas submetidas aos processos relacionados no caput que extrapolem o ano civil deverão apresentar os relatórios de gestão do exercício correspondente.
+
+
+§ 2º Os processos de contas extraordinárias deverão conter, nas peças definidas no art. 13 deste normativo, os documentos e informações relativos às providências adotadas para encerramento das atividades da unidade, em especial os termos de transferência patrimonial e a situação dos processos administrativos não encerrados, com o aceite dos respectivos destinatários.
+
+
+TÍTULO IV
+
+
+DISPOSIÇÕES FINAIS
+
+
+Art. 15. Os processos de contas ordinárias dos responsáveis por unidades jurisdicionadas com parecer do dirigente do órgão do controle interno pela irregularidade deverão ser apresentados como processos de contas individuais.
+
+
+Parágrafo único. No caso do disposto no caput, os processos deverão conter informações sobre a conduta apresentada e o seu nexo de causalidade entre esta e o resultado do ilícito, bem como considerações relacionadas à responsabilidade do agente.
+
+
+Art. 16. As unidades jurisdicionadas deverão manter os documentos comprobatórios, inclusive de natureza sigilosa, pelo prazo mínimo de dez anos, contado a partir da apresentação dos relatórios de gestão ao Tribunal.
+
+
+Parágrafo único. O descumprimento do disposto no caput deste artigo sujeitará o responsável à sanção prevista no inciso II do art. 58 da Lei nº 8.443, de 1992, sem prejuízo da instauração de tomada de contas especial, para apuração dos fatos, identificação dos responsáveis e quantificação do dano ao erário, se for o caso.
+
+
+Art. 17. Esta instrução normativa entra em vigor na data de sua publicação e aplica-se aos processos de contas referentes ao exercício de 2008 e seguintes.
+
+
+Art. 18. Fica revogada a Instrução Normativa TCU nº 47, de 27 de outubro de 2004.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+Revogada
+Estabelece normas de organização e apresentação dos relatórios de gestão e dos processos de contas da administração pública federal.
+
+

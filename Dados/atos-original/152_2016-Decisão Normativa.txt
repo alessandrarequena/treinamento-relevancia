@@ -1,0 +1,358 @@
+Decisão Normativa
+152/2016
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe confere o art. 161, parágrafo único, da Constituição Federal e o art. 1º, inciso VI, da Lei 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), e ainda o constante no art. 159, inciso I, alínea "a", da Constituição Federal; no art. 92 da Lei 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), alterado pela Lei Complementar 143, de 17 de julho de 2013; e na Lei Complementar 62, de 28 de dezembro de 1989, alterada pela Lei Complementar 143, de 17 de julho de 2013, bem assim o que consta no processo TC 014.246/2016-3,
+
+
+RESOLVE:
+
+
+Art. 1º Ficam alterados, na forma do Anexo I desta Decisão Normativa, os coeficientes individuais de participação dos estados e do Distrito Federal na distribuição dos recursos previstos no art. 159, inciso I, alínea "a", da Constituição Federal, para aplicação no exercício de 2017, constantes do Anexo I da Decisão Normativa TCU 150, de 23 de março de 2016.
+
+
+Art. 2º As unidades federadas disporão de trinta dias, a partir da publicação desta Decisão Normativa, para apresentar contestação, que poderá ser protocolada nas secretarias de controle externo nos estados ou na Sede deste Tribunal, nos termos do art. 292 do Regimento Interno.
+
+
+Art. 3º Esta Decisão Normativa entra em vigor na data de sua publicação, produzindo efeitos financeiros a partir de 1º de janeiro de 2017.
+
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 13 de julho de 2016.
+
+
+AROLDO CEDRAZ
+
+
+Presidente
+
+
+
+
+
+
+
+
+DECISÃO NORMATIVA - TCU Nº 152 - ANEXO I
+
+FPE - COEFICIENTES INDIVIDUAIS DE PARTICIPAÇÃO
+
+EXERCÍCIO 2017
+
+
+UF
+
+Unidade da Federação
+
+Participação
+
+AC
+
+Acre
+
+3,820034%
+
+AL
+
+Alagoas
+
+4,901774%
+
+AM
+
+Amazonas
+
+4,385219%
+
+AP
+
+Amapá
+
+3,348682%
+
+BA
+
+Bahia
+
+8,426562%
+
+CE
+
+Ceará
+
+6,592268%
+
+DF
+
+Distrito Federal
+
+0,658304%
+
+ES
+
+Espírito Santo
+
+2,323989%
+
+GO
+
+Goiás
+
+2,974134%
+
+MA
+
+Maranhão
+
+6,900439%
+
+MG
+
+Minas Gerais
+
+4,386068%
+
+MS
+
+Mato Grosso do Sul
+
+2,154635%
+
+MT
+
+Mato Grosso
+
+2,269229%
+
+PA
+
+Pará
+
+6,360185%
+
+PB
+
+Paraíba
+
+4,320163%
+
+PE
+
+Pernambuco
+
+6,022984%
+
+PI
+
+Piauí
+
+4,202606%
+
+PR
+
+Paraná
+
+2,718533%
+
+RJ
+
+Rio de Janeiro
+
+2,851967%
+
+RN
+
+Rio Grande do Norte
+
+3,876080%
+
+RO
+
+Rondônia
+
+3,475137%
+
+RR
+
+Roraima
+
+2,292189%
+
+RS
+
+Rio Grande do Sul
+
+1,225430%
+
+SC
+
+Santa Catarina
+
+1,229063%
+
+SE
+
+Sergipe
+
+3,709551%
+
+SP
+
+São Paulo
+
+1,046278%
+
+TO
+
+Tocantins
+
+3,528497%
+
+T O T A L
+
+100,000000%
+
+
+
+
+
+
+
+
+
+
+
+DECISÃO NORMATIVA TCU Nº 152 -  ANEXO II
+
+
+
+
+FPE - MEMÓRIA DE CÁLCULO DOS COEFICIENTES
+
+
+
+
+EXERCÍCIO 2017
+
+
+
+
+(*) Renda domiciliar per capita nacional (rdpcn): R$ 1.113,00; Valor de referência (corresponde a 72% da rdpcn): R$ 801,36
+
+
+
+
+
+DECISÃO NORMATIVA TCU Nº 152 - ANEXO III
+
+
+
+
+FPE - NOTA EXPLICATIVA DA METODOLOGIA DE CÁLCULO
+
+
+
+
+EXERCÍCIO 2017
+
+
+
+
+Seguindo os princípios estabelecidos no item 9.2 do Acórdão 196/2003-TCU-Plenário, são publicadas informações adicionais relativas ao cálculo dos coeficientes do Fundo de Participação dos Estados e do Distrito Federal (FPE). Portanto, esta nota explicativa detalha a metodologia empregada para o cálculo dos coeficientes do FPE fixados pela presente Decisão Normativa, a vigorarem em 2017.
+
+
+O Anexo I da presente Decisão Normativa apresenta a tabela com os coeficientes de participação de cada estado e do DF e o Anexo II apresenta a memória de cálculo dos coeficientes. Os cálculos foram efetuados a partir dos preceitos legais e seguem a seguinte metodologia:
+
+
+
+FPE - MEMÓRIA DE CÁLCULO DOS COEFICIENTES (ANEXO II)
+
+
+
+
+Coluna A: sigla da UF;
+
+
+
+Coluna B: população da UF fornecida pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) com data de referência em 1°/7/2015 (art. 102, inciso I, da Lei 8.443, de 16/7/1992);
+
+
+
+Coluna C: fator representativo da população - inicial, calculado a partir da razão entre a população da UF (coluna B) e o somatório das populações das UFs (total da coluna B) (art. 2º, inciso III, alínea "a", da LC 62, de 28/12/1989);
+
+
+
+Coluna D: fator representativo da população - após aplicação dos limites inferior de 0,012 e superior de 0,07 nos valores da coluna C (art. 2º, inciso III, alínea "a", da LC 62/1989);
+
+
+
+Coluna E: fator representativo da população - final, obtido pelo ajuste dos valores da coluna D para que sua soma seja 0,5 (art. 2º, § 1º, inciso I, da LC 62/1989);
+
+
+
+Coluna F: renda domiciliar per capita (rdpc) da UF fornecida pelo IBGE, relativa ao exercício de 2015;
+
+
+
+Coluna G: inverso da renda domiciliar per capita (rdpc) da UF, obtido pela razão entre 1,0 e os valores da coluna F;
+
+
+
+Coluna H: fator representativo do inverso da rdpc - inicial, calculado a partir da razão entre o inverso da rdpc da UF (coluna G) e o somatório dos inversos das rdpc das UFs (total da coluna G) (art. 2º, inciso III, alínea "b", da LC 62/1989);
+
+
+
+Coluna I: fator representativo do inverso da rdpc - final, obtido pelo ajuste dos valores da coluna H para que sua soma seja 0,5 (art. 2º, § 1º, inciso I, da LC 62/1989);
+
+
+
+Coluna J: coeficiente individual da UF - inicial, calculado a partir da soma dos valores das colunas E (fator representativo da população - final) e I (fator representativo do inverso da rdpc - final) (art. 2º, § 1º, inciso II, da LC 62/1989);
+
+
+
+Coluna K: excesso da rdpc, obtido pela diferença entre a rdpc da UF e o valor de referência – que corresponde a 72% da renda domiciliar per capita nacional (rdpcn) –, caso a rdpc da UF seja superior ao valor de referência (caso não seja, o valor da UF na coluna K fica zero). Na observação, apresenta-se o valor da rdpcn, também fornecido pelo IBGE (R$ 1.113,00), a partir do qual calcula-se o valor de referência (72% da rdpcn = R$ 801,36) (art. 2º, § 1º, inciso III, da LC 62/1989);
+
+
+
+Coluna L: redutor aplicado caso haja excesso da rdpc, ou seja, caso a rdpc da UF seja superior ao valor de referência; é calculado a partir da razão entre o excesso da rdpc (coluna K) e o valor de referência (art. 2º, § 1º, inciso III, da LC 62/1989);
+
+
+
+Coluna M: coeficiente individual da UF - reduzido proporcionalmente à razão entre o excesso da rdpc da UF e o valor de referência (caso haja excesso da rdpc); é calculado a partir da diferença entre o coeficiente individual - inicial (coluna J) e o produto do redutor (coluna L) pelo coeficiente individual - inicial (coluna J) (art. 2º, § 1º, inciso III, da LC 62/1989);
+
+
+
+Coluna N: coeficiente individual da UF - após aplicação do limite inferior de 0,005 nos valores da coluna M (art. 2º, § 1º, inciso III, da LC 62/1989);
+
+
+
+Coluna O: coeficiente individual da UF - final, obtido pelo ajuste dos valores da coluna N para que sua soma seja 1,0 (art. 2º, § 1º, inciso IV, da LC 62/1989).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Altera, para o exercício de 2017, os coeficientes individuais de participação dos estados e do Distrito Federal nos recursos previstos no art. 159, inciso I, alínea "a", da Constituição Federal, constantes do Anexo I da Decisão Normativa - TCU 150, de 23 de março de 2016.
+
+

@@ -1,0 +1,782 @@
+Portaria
+243/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Apolo – Modelagem de Processos de Trabalho de Educação Corporativa, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Técnico de Controle Externo José Ronaldo Carvalho Vasconcelos, matrícula nº 1868-6, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+(Publicada no DOU de 23/10/2007, Seção 2, p. 42)
+
+
+
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+José Ronaldo Carvalho Vasconcelos
+
+1868-6
+
+josecv@tcu.gov.br5848
+
+Função do gestor
+
+Origem da FC
+
+
+
+ Gerente
+
+
+
+xCoordenador
+
+
+
+ Líder
+
+
+
+Função da Gestão de ProjetosNome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+
+
+Thiago de Azevedo Barbosa
+
+5865-3
+
+thiagoab@tcu.gov.br
+
+5861Local / telefone
+
+
+
+Sala 302 do ISC, ramal 5848.
+
+ 
+
+ 
+
+
+2. Identificação do projeto
+Nome do projeto
+
+
+
+Modelagem de Processos de Trabalho de Educação Corporativa – Projeto ApoloPeríodo de realização
+
+Unidade patrocinadora
+
+
+
+22/10/2007 a 31/10/2008 
+
+Instituto Serzedello Corrêa - ISC
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3. Vinculação estratégica
+
+Plano estratégico do TCU
+
+
+
+a)        
+
+Perspectiva “Processos Internos”
+
+Objetivo Estratégico 14: Aperfeiçoar instrumentos de controle e processos de trabalho.
+
+b)        
+
+Perspectiva “Pessoas e Inovação”
+
+Objetivo Estratégico 17: Otimizar a utilização do conhecimento organizacional
+
+Objetivo Estratégico 19: Desenvolver cultura orientada a resultados.
+
+c)        
+
+Iniciativa Estratégica 11: Mapear e racionalizar os principais processos de trabalho do TCU.
+
+d)        
+
+Iniciativa Estratégica 16: Estruturar e integrar práticas de gestão do conhecimento
+
+e)        
+
+Iniciativa Estratégica 18: Aprimorar processo de gestão do desempenho por resultados.Plano de diretrizes do TCU
+
+
+
+a)        
+
+Perspectiva “Processos Internos”
+
+Iniciativa Estratégica 5: Mapear e racionalizar os principais processos de trabalho do TCU.
+
+Ação 5.7: Implementar metodologia de mapeamento e redesenho de processos, de modo a garantir o alinhamento entre indicadores estratégicos e de processos.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+4. Problema / oportunidade
+
+Descrição do problema ou da oportunidade 
+
+
+
+a)        
+
+O Instituto carece de instrumento que oriente servidores na execução de suas rotinas, também há carência na sistematização de informações administrativas, relacionada à dispersão de dados, instruções e procedimentos a serem adotados no suporte as suas áreas, o que dificulta o entendimento no desenrolar das atividades, e ocasiona problemas como comunicação entre os setores, resultando na insatisfação dos usuários.
+
+b)        
+
+Atualmente, o ISC tem seus processos de trabalho parcialmente atendidos pelo sistema ISCNet. Devido a uma série de fatores relacionados ao sistema, tais como não possuir documentação, utilizar tecnologia de banco de dados e codificação de linguagem que não são padrões do TCU e serem mantidos por técnicos da própria unidade, sem apoio da Setec, o ISC está envidando esforços para adquirir nova solução para a automação de seus processos de trabalho.
+
+Para que o sistema de automação tenha sucesso na sua implementação, é importante que os processos de trabalho estejam modelados para servir de insumo para o desenvolvimento e customização do sistema.
+
+
+
+
+
+
+
+Evolução do quadro (apresentar dados)
+
+
+
+a)        
+
+A estrutura organizacional do ISC mudou significativamente a partir de 2007. Suas novas estrutura e atribuições, definidas pela Portaria ISC nº 2, de 12/04/2007, implicou alterações nos processos de trabalho e papéis dos seus servidores. As novas atribuições, tais como gestão de desenvolvimento de competências e gestão de educação a distância, surgiram a partir da conclusão dos projetos Atena e Pégaso, respectivamente. Além de absorver essas novas atribuições, a nova estrutura organizacional buscou também racionalizar os processos de trabalho relacionados com capacitação e treinamento, baseada nos preceitos da norma NBR ISO 10015 - Diretrizes para treinamento.
+
+Com o propósito de identificar os processos de trabalho da nova organização, no primeiro semestre de 2007, o ISC, com apoio metodológico da Seplan, realizou levantamento dos principais macroprocessos, relacionando objetivos, produtos e clientes. As discussões sobre os processos de trabalho demonstraram maturidade e motivação do corpo gerencial e dos servidores do ISC em modelar os processos, visando suas melhorias, com uso de indicadores e possibilidades de automação. 
+
+Após o levantamento, foram identificados cinco macroprocessos: seleção e integração de novos servidores, gestão de competência, educação corporativa, gestão de informação, e apoio logístico e tecnológico. Prioritariamente, o macroprocesso educação corporativa foi subdividido em 9 (nove) processos. Apenas nesse levantamento inicial foram identificados 58 produtos que são entregues aos clientes internos e externos do ISC.
+
+Após a verificação da magnitude e complexidade dos processos de trabalhos do ISC, uma conclusão consensual do grupo foi a necessidade de se instituir um projeto, com duração de pelo menos doze meses, para dar continuidade a essa modelagem, detalhando as tarefas, informações, atores e indicadores.
+
+ 
+
+ 
+
+
+
+5. Escopo do projeto
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+
+
+Mapear, modelar e disponibilizar fluxos de processos e procedimento operacional padrão relativos a educação corporativa no TCU.
+
+ 
+
+
+5.2.Meta – Indicador – Produto – Cliente
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+
+
+QuantoData de término
+
+
+
+a)        
+
+Mapear, modelar e publicar os 3 primeiros processos  de trabalho que já estão em execução: Serviços de secretaria; Incentivo à educação continuada e Coordenação executiva.
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29/02/08
+
+Nº de processos mapeados e modelados
+
+Fluxos dos 3 primeiros  processos em execução mapeados e  modelados: Serviços de secretaria; Incentivo à educação continuada e Coordenação executiva.
+
+ISC
+
+3
+
+14/03/08
+
+Nº de processos validados e publicados
+
+Fluxos dos 3 primeiros  processos em execução validados e publicados[1]
+
+ISC
+
+b)        
+
+Elaborar e publicar o procedimento operacional padrão dos 3 primeiros processos mapeados e validados.
+
+3
+
+30/04/08
+
+Padronização dos 3 primeiros processos mapeados formalizada
+
+Procedimentos operacionais padrão (POPs) dos 3 primeiros processos elaborados e publicados
+
+ISC
+
+c)        
+
+Propor eventuais alterações, atualizações  ou elaborações de normativos.
+
+1
+
+16/05/2008
+
+Minuta de normativo dos 3 primeiros  processos em execução aceita
+
+Minuta de normativo dos 3 primeiros  processos em execução entregue
+
+ISC
+
+
+
+
+
+
+
+
+5.3.Benefícios (impacto esperado dos produtos do projeto)
+
+
+a)        
+
+Garantia de sustentabilidade dos processos de trabalho operacionalizados.
+
+b)        
+
+Visão sistêmica dos processos de trabalho, permitindo identificar a interdependência entre as unidades.
+
+c)        
+
+Eliminação da sobreposição de ações em um mesmo processo de trabalho, evitando duplicidades e retrabalho.
+
+d)        
+
+Disseminação da gestão do conhecimento, facilitando a comunicação entre as unidades. 
+
+e)        
+
+Redução de custos na capacitação de novos servidores responsáveis pelos processos de trabalho mapeados.
+
+f)         
+
+Transferência do capital intelectual do indivíduo para a instituição.
+
+ 
+
+ 
+
+
+
+5.4.Não escopo (o que o projeto não vai fazer)
+
+
+a)        
+
+Implantação dos 3 processos modelados que ainda não estão em execução.
+
+b)        
+
+Automação dos 6 processos mapeados e modelados que estão em execução e dos 3 processos modelados que ainda não estão em execução.
+
+c)        
+
+Medição de indicadores de produção dos processos de trabalho.
+
+d)        
+
+Atualização dos fluxos de processos mapeados e modelados após publicação na intranet.
+
+e)        
+
+Atualização dos procedimentos operacionais padrão (POPs) após publicação na intranet.
+
+f)         
+
+Aprovação e publicação de normativos.
+
+g)        
+
+Elaboração de procedimentos operacionais padrão para os processos de “Consultoria para autodesenvolvimento”; “Produção do conhecimento e inovação” e “Avaliação de programas educacionais”.
+
+h)        
+
+Treinamento de servidores e colaboradores dos procedimentos operacionais padrão elaborados.
+
+ 
+
+ 
+
+
+
+6.Identificação das partes envolvidas no projeto (em relação a que)
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)        
+
+ISC
+
+Patrocinador do projeto. Apoio administrativo, assessoria técnica, alocação de pessoal e de recursos materiais para desenvolvimento do projeto.
+
+b)        
+
+Seplan
+
+Assessoramento técnico no mapeamento, modelagem e descrição dos processos de trabalho.
+
+Assessoramento técnico na elaboração de indicadores de produção dos processos de trabalho.
+
+c)        
+
+Setec
+
+Treinamento dos membros da equipe do projeto no Aris.
+
+Alocação de 1 servidor para o projeto.
+
+Assessoramento técnico para validação da estrutura dos processos para futura automação.
+
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+
+
+a)        
+
+Ausência de cooperação dos gerentes e dos membros da equipe.
+
+Alto
+
+Baixa
+
+(M) Reunião de conscientização e solicitação de cooperação com a equipe do projeto
+
+Diretor-Geral do ISC
+
+b)        
+
+Ausência de capacitação e/ou a não-adaptação à metodologia de levantamento, à utilização e aos padrões da ferramenta Aris.
+
+Alto
+
+Baixa
+
+(E) Treinar a equipe na utilização da ferrramenta Aris (padrão e metodologia).
+
+Seplan, Sequap
+
+c)        
+
+Indefinição sobre os processos que ainda não estão em execução.
+
+Alto
+
+Média
+
+(E) Definir os responsáveis pelos processos.
+
+Diretor-Geral do ISC
+
+d)        
+
+Atraso na entrega dos produtos em decorrência de fruição de férias e recesso
+
+Alto
+
+Média
+
+(R) Acordar com os membros da equipe a entrega antecipada de produtos que possam impactar na entrega final do projeto.
+
+Coordenador do projeto
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+8. Relação com outros projetos
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+
+
+Projeto Atena
+
+Projeto Pégaso
+
+Projeto SGP
+
+Projeto para implantação dos novos processos modelados
+
+ 
+
+ 
+
+ 
+
+
+9. Equipe do projeto
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+ 
+
+José Ronaldo Carvalho Vasconcelos
+
+1868-6
+
+SECOF
+
+22/10/07 a 31/10/2008
+
+integral 
+
+Eduardo Calhman de Miranda
+
+5852-1
+
+SEGES
+
+22/10/07 a 31/10/2008
+
+Parcial 
+
+Cristina Aparecida de Barros
+
+3545-9
+
+SECOR
+
+22/10/07 a 31/10/2008
+
+Parcial 
+
+Thiago de Azevedo Barbosa
+
+5865-3
+
+SEDUC
+
+22/10/07 a 31/10/2008
+
+Parcial 
+
+Antonio José Passos Pinheiro 
+
+340-9
+
+SESED
+
+22/10/07 a 31/10/2008
+
+Parcial 
+
+Dora Botelho Bastos
+
+6498-0
+
+SEPLAN
+
+22/10/07 a 31/10/2008
+
+Por atividade 
+
+Maria Emília Bossi Queiroz
+
+5721-5
+
+SEPLAN
+
+22/10/07 a 31/10/2008
+
+Por atividade 
+
+Paulo André Mattos de Carvalho
+
+2439-2
+
+SETEC
+
+22/10/07 a 31/10/2008
+
+Por atividade 
+
+José Carlos Leone de Jesus
+
+2332-9
+
+SEGEP
+
+22/10/07 a 31/10/2008
+
+Por atividade 
+
+Estagiário em TI 
+
+ 
+
+SETEC
+
+22/10/07 a 31/10/2008
+
+Integral
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+10. Custos adicionais estimados
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+
+
+a)        
+
+Alocação de um estagiário para auxiliar nas atividades do projeto (1 x 12 x R$ 700,00).
+
+R$ 8.400,00
+
+31/10/2008Total de custos estimados
+
+
+
+R$ 8.400,00
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+
+
+
+
+
+
+
+11. Outros recursos necessários
+
+Recurso
+
+Fornecedor
+
+
+
+a)        
+
+ 
+
+ 
+
+b)        
+
+ 
+
+ 
+
+c)        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+12. Finalização
+
+Data
+
+Assinatura do gestor do projeto
+
+
+
+Em ___/___/2007
+
+José Ronaldo carvalho vasconcelos
+
+Coordenador do ProjetoManifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2007.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+ISC, em ___/___/2007
+
+Carlos Eduardo Queiroz PEREIRA
+
+Diretor-Geral do ISCManifestação da Seplan
+
+
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2007
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Apolo &#8211; Modelagem de Processos de Trabalho de Educação Corporativa e designa seu gestor.
+
+

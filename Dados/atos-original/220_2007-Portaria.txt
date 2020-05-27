@@ -1,0 +1,819 @@
+Portaria
+220/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto e-Contas com o objetivo de elaborar sistemática para coleta de contas eletrônicas, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Gilberto Gomes da Silva Júnior, matrícula nº 2870-3, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 220, DE 24 DE SETEMBRO DE 2007
+
+
+
+
+
+
+
+e-Contas
+
+Página 1 de 7
+
+
+
+
+
+
+1. Identificação do gestor do projeto
+
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Gilberto Gomes da Silva Júnior
+
+2870-3
+
+gilbertosj@tcu.gov.br
+
+7982
+
+Função do gestor
+
+Origem da FC
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Funções da gestão de projeto
+
+Nome do substituto eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Maria Antonia Ferraz Zelenovsky
+
+4582-9
+
+zelenovskyma@tcu.gov.br
+
+7890
+
+Local / telefone
+
+Disisc – Adcon 3316-7982
+
+
+
+2. Identificação do projeto
+
+
+
+Nome do projeto
+
+e-Contas 
+
+Período de realização
+
+Unidade patrocinadora
+
+24/09/2007 a 02/05/2008
+
+Adcon / Segecex
+
+
+
+3. Vinculação estratégica
+
+
+
+
+
+e-Contas
+
+Página 2 de 7
+
+
+
+
+
+Plano diretor da (unidade)
+
+ 
+
+a) 
+
+
+
+
+
+
+4. Problema / oportunidade
+
+
+
+Descrição do problema ou da oportunidade 
+
+a)
+
+a O presente projeto constitui fase preparatória para a implantação de sistemática de coleta eletrônica de contas anuais da Adm. Pública.
+
+Entre os problemas da atual sistemática de coleta eletrônica de contas simplificadas (Siscontas) destacam-se: customização para atender aos Comandos Militares, resultando em inadequação para uso em outros Ministérios; demasiado esforço de recursos humanos necessário para readaptar o sistema para os demais órgãos/entidades da Administração Pública; inviabilidade de manutenção do sistema pela Setec, pois foi elaborado com configuração proprietária pela empresa desenvolvedora do sistema e com arquitetura defasada em relação à utilizada no TCU, o que leva a razão custo-benefício negativa para adequação; especificação do sistema para atender à normatização da IN 12/96, sem flexibilização, inclusive para consolidar e agregar contas, como previsto atualmente na IN 47/04, além de não abranger diversas conceituações introduzidas por aquela instrução normativa, como por exemplo, os conceitos de risco, materialidade e relevância; não interação com outros sistemas internos do TCU como IE, Processus, Sinergia, Radar, Sisdoc, Sagas, Sisjur, Clientela e Audicon, em razão de ter sido concebido para coletar contas, e não para tratá-las; e o fato do sistema constituir-se, basicamente, de anexação de arquivos.
+
+Segundo o Relatório de Encerramento do Projeto “Implantação da Sistemática de Coleta Eletrônica de Contas” (Siscontas), o uso do atual sistema trouxe os seguintes ganhos:
+
+a) Coleta de cerca de 300 contas eletrônicas dos Comandos Militares, dos exercícios de 2004 a 2006; 
+
+b) Redução do trâmite de papéis entre as unidades jurisdicionadas, o controle interno e o Tribunal;
+
+c) Agilização no procedimento de composição das contas;
+
+d) Adoção de procedimentos padronizados na confecção das Contas;
+
+e) Abolição da análise preliminar, agora feita pelo sistema;
+
+f ) Início da definição do sistema de Instrução Eletrônica;
+
+g) Melhora da imagem do Tribunal perante a sua Clientela;
+
+h) Disponibilização, em meio eletrônico, de dados oriundos da STN.
+
+Além desses resultados, a coleta eletrônica permitiu a utilização da instrução e do julgamento eletrônicos, agilizando a apreciação das contas. A apuração do prazo médio decorrido entre a primeira instrução de mérito e a apreciação de 290 processos eletrônicos revelou que esse período foi de 33 dias.
+
+
+
+
+
+
+
+e-Contas
+
+Página 1 de 7
+
+
+
+
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+A coleta eletrônica de contas foi instituída pela Decisão n.º 935/99 – Plenário e pela Decisão Normativa n.º 29/99, que regulamentou o art. 27 da IN 12/96. Para viabilizar a coleta eletrônica foi formalizado o Contrato TCU/CTIS 56/2000, assinado em 14/11/2000, para projetar, implementar e implantar a Coleta Eletrônica de Tomadas e Prestações de Contas, a um custo de R$ 517.704,00. O trabalho da CTIS foi desenvolvido com base na IN12/96, então vigente.
+
+Em dezembro/2001, por determinação do Secretário da ADCON, formou-se grupo de trabalho a fim de proceder a validação do Siscontas que, basicamente, consistiu na verificação das condições do sistema desenvolvido pela CTIS em coletar as contas anuais por meio eletrônico. No relatório de validação, o grupo concluiu que o sistema não estava em condições de ser disponibilizado para testes aos usuários externos, em virtude da necessidade de se especificar várias lacunas dos diferentes processos de tomada e prestações de contas. Em função disso, foram formados grupos de trabalho divididos por assuntos específicos do sistema. Tais grupos testaram e apontaram problemas que inviabilizavam o sistema. A CTIS adaptou o sistema às falhas apontadas pelos grupos de trabalho, sendo o sistema homologado na fase de testes internos em outubro/2002. A partir daí, alguns problemas de ordem operacional ocorreram, impedindo que o teste externo fosse realizado em novembro e dezembro/2002, teste necessário para a homologação final do Siscontas.
+
+Nesse ínterim, foi constituído projeto, nos moldes dos normativos internos, aprovado pela Portaria TCU n.º 125, de 13/05/2003, com o objetivo de Implantar Sistemática de Coleta Eletrônica de Contas, bem como desenvolver e implementar estratégias que permitissem a sua utilização de forma eficaz. O período de duração do projeto foi de 03/02/2003 a 30/06/2005. Os benefícios para o TCU, segundo Relatório de situação de agosto de 2003, eram: a) busca de padrão para a composição dos processos de tomada e prestação de contas, mediante a definição de estrutura de dados específica para cada uma das peças; b) agilização do procedimento de composição das tomadas e prestações de conta, mediante a eliminação de etapas como a impressão de demonstrativos baseados no sistema SIAFI, entre outras; c) agilização da coleta e tratamento das contas no âmbito do Tribunal; d) redução ao máximo do trâmite de papéis entre as unidades jurisdicionadas, o controle interno e o Tribunal, visando minorar os custos de composição das contas; e) cobertura de todas as unidades jurisdicionadas, na coleta de tomadas e prestações de contas, de forma integrada, confiável e ágil; f) automatização do procedimento de encaminhamento das contas, que se traduz em viabilizar a recepção automática das tomadas e prestações de contas encaminhadas eletronicamente ao Tribunal de Contas da União, a transferência dessas informações para o banco de dados corporativo do TCU e a análise da tramitação de toda tomada ou prestação de contas.
+
+O projeto selecionou quarenta unidades para participarem do teste piloto do Siscontas. Após os testes, foram detectados vários problemas tanto em relação ao sistema em si (problemas de especificação), quanto à instabilidade do ambiente computacional. 
+
+Com base na experiência do teste piloto e devido às limitações do sistema, a equipe da Adcon decidiu que seria prudente restringir a coleta das contas do exercício de 2004 a um conjunto de unidades militares. Os motivos seriam vários, entre eles o grau de padronização destas contas, o fato de todas elas estarem restritas a uma secretaria (3ª Secex) e também ao fato de os militares terem prestado grande colaboração durante o teste piloto. Com base nos relatórios enviados pelo Controle Interno dos três comandos militares e no relatório final do teste piloto, a equipe do projeto definiu, juntamente com a Setec, um conjunto de alterações a serem feitas no sistema para a utilização em produção no início de 2005. Para atender às especificidades dos militares foi necessário consultar os três Comandos das forças militares para definir algumas rotinas a serem implementadas no sistema. Houve grande número de alterações objetivando adaptar o sistema à realidade dos militares.
+
+Observa-se que, a essa altura, a IN 12/96 já fora revogada pela IN 47/04, com alterações consideráveis para o sistema, como a previsão de consolidação e agregação de contas, a introdução de conceitos como risco, materialidade e relevância, além da introdução da flexibilidade das informações a serem prestadas anualmente com a introdução de decisões normativas anuais.
+
+Devido ao grande número de alterações para adaptar o sistema, a Setec definiu que disponibilizaria aos poucos os componentes implementados e que a data para entrega das funcionalidades relativas às unidades jurisdicionadas seria 17/12/2004. Deve-se ressaltar que, durante este período, a equipe do projeto foi surpreendida com a transformação, pela STN, das Gestões-Fundo em Unidades Gestoras-Fundo, acarretando a necessidade de realizar alterações estruturais no sistema, que teve como conseqüência o atraso ocorrido nesta etapa.
+
+Cada um dos três comandos militares enviou um relatório com as suas impressões a respeito do sistema. Com base nestes relatórios e nas próprias impressões registradas durante a utilização do sistema, a equipe do projeto definiu um conjunto de alterações para a próxima versão do sistema. Este conjunto seria submetido à Setec, para definição do que deveria ser implementado para a coleta de 2005. Por falta de recursos humanos, tanto na Adcon, quanto na Setec, não se iniciou o trabalho de definição da versão 2.0, prevista para coletar as contas de 2006, no início de 2007. Esta versão, na opinião da equipe, deveria ser outro sistema, visto que a versão atual foi desenvolvida com base na antiga IN/12 e a nova DN anual pode alterar o conteúdo das peças componentes das contas, ao passo que o sistema atual não tem esta flexibilidade.
+
+
+
+
+
+
+
+e-Contas
+
+Página 4 de 7
+
+
+
+
+
+
+5.Escopo do projeto
+
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema) 
+
+Elaborar sistemática para coleta de contas eletrônicas[1].
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Levantar os dados e as informações necessárias para o processo de contas, conforme IN 47 e DN anuais, inclusive dados/informações que atualmente não constem dos processos anuais.
+
+ 
+
+ 
+
+01
+
+ 
+
+16/11/2007[TCU1]
+
+Relatório de levantamento dos dados e informações necessárias para o processo de contas aceito.
+
+Relatório de Levantamento dos dados e informações necessárias para o processo de contas elaborado.
+
+ 
+
+Adcon
+
+b)
+
+Levantar as fontes de dados/informações para subsidiar análise dos processos de contas nos diversos sistemas informatizados (internos e externos) da Adm. Federal.[TCU2]
+
+01
+
+ 
+
+15/02/2008
+
+Relatório de levantamento das fontes de dados para os processos de contas aceito.
+
+Relatório de Levantamento das fontes de dados para os processos de contas elaborado.
+
+Adcon
+
+c)
+
+Propor a melhor forma de obtenção de dados/informações para subsidiar a composição e a organização dos processos de contas no TCU[TCU3], definindo regras de acesso.
+
+01
+
+ 
+
+28/03/2008 
+
+ Relatório contendo análise e proposta de forma de coleta de dados para os processos de contas aceito.
+
+Relatório contendo análise e proposta de forma de coleta de dados para os processos de contas elaborado.
+
+Adcon
+
+Segecex
+
+d)
+
+Definir premissas básicas para o sistema de coleta de contas a ser desenvolvido[2] 
+
+01
+
+02/05/2008
+
+Relatório contendo as premissas básicas do novo Sistema aceito
+
+Relatório contendo as premissas básicas do novo Sistema elaborado.
+
+Adcon
+
+Segecex
+
+
+
+
+5.3. Benefícios (impacto esperado dos produtos do projeto)
+
+
+
+
+
+e-Contas
+
+Página 5 de 7
+
+
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+Elaborar e implantar nova sistemática para o processo de contas anuais, pois essa atribuição envolveria uma ampla discussão interna.
+
+b)
+
+Apresentar sugestão de sistema informatizado para a coleta eletrônica e tratamento de contas anuais, o que deverá ser realizado em fase posterior a esse projeto.
+
+c) 
+
+Mapeamento do processo de análise e prestação de contas. 
+
+d)
+
+Automação do processo de prestação de contas (instrução e tramitação). 
+
+e)
+
+Reestruturação do Siscontas 
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+a)
+
+ Segecex
+
+Patrocinador. Apoio institucional para obtenção de informações dos sistemas de dados das UJ, auxiliando nessa obtenção de informações, assim como definindo informações e dados específicos que queira ver coletados. 
+
+b)
+
+Adcon
+
+Co-patrocinador e fornecedor de recursos humanos.
+
+c)
+
+Setec
+
+Orientador e fornecedor de recursos humanos quanto a aspectos envolvendo TI, por meio de consultas eventuais.
+
+d)
+
+Unidades da Segecex
+
+Intermediários na obtenção de informações dos sistemas de dados de suas clientelas, auxiliando nessa obtenção de informações assim como definindo informações e dados específicos que queiram ver coletados .
+
+e)
+
+Secretaria Federal de Controle - SFC
+
+Fornecimento de informações de sistema de TI (Ativa) e de informações quanto aos dados das UJ e suas origens, repassando campos (com conteúdos relativos a achados, ocorrências, pareceres e certificações, entre outros)
+
+f)
+
+Controle Interno –Ministério da Defesa
+
+Fornecimento de informações quanto aos dados das UJ e suas origens
+
+g)
+
+Controle Interno - Itamaraty
+
+Fornecimento de informações quanto aos dados das UJ e suas origens
+
+h)
+
+Controle Interno - Planalto
+
+Fornecimento de informações quanto aos dados das UJ e suas origens
+
+i)
+
+Projeto Áquila
+
+Interação com o Coordenador do Projeto
+
+j)
+
+Órgãos descentralizados
+
+Fornecimento de informações quanto aos dados e suas origens
+
+
+
+
+
+
+
+
+e-Contas
+
+Página 6 de 7
+
+
+
+
+
+
+7. Fatores que podem pôr em risco o êxito do projeto
+
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela ação
+
+a)
+
+Alterações de normatização, informações ou dados constantes das contas anuais
+
+Médio
+
+Alto
+
+(E) Proatividade na busca tempestiva de possíveis alterações; (R) Busca de fontes alternativas que supram a necessidade dos dados
+
+Coordenador
+
+b)
+
+Acesso restrito a fontes de dados, em trabalho não de controle externo
+
+Baixo
+
+Baixo
+
+(E) Comunicação às UJs, por intermédio da Segecex, da motivação dos trabalhos
+
+Coordenador, Segecex
+
+c)
+
+Fontes de dados não confiáveis
+
+Baixo
+
+Baixo
+
+(E) Excluir do levantamento dados de fontes duvidosas
+
+Coordenador
+
+d)
+
+Formato de dados não padronizáveis (tabuláveis) para coleta
+
+Médio
+
+Médio
+
+(M) Pesquisar nas fontes de dados formatos alternativos ou formas tabuláveis; (R) Pesquisar junto à Setec formas de tabular dados no formato de origem
+
+Coordenador
+
+e)
+
+Fontes de dados muito dispersas na Adm. Indireta
+
+Médio
+
+Alto
+
+(M) Pesquisar formas ou fontes de dados para coleta; (R) Verificar viabilidade de disponibilização dos dados pela própria UJ
+
+Coordenador
+
+
+
+
+8. Relação com outros projetos
+
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+Siscontas, IE, Audicon
+
+ Síntese[3], Áquila
+
+Coleta eletrônica de contas anuais
+
+
+
+
+9. Equipe do projeto
+
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+1.
+
+Gilberto Gomes da Silva Júnior
+
+2870-3
+
+Adcon/Disisc
+
+24/09/2007 a 02/05/2008
+
+Integral
+
+2. 
+
+Maria Antonia Ferraz Zelenovsky
+
+4582-9
+
+Adcon/Disisc
+
+24/09/2007 a 02/05/2008
+
+Integral
+
+3. 
+
+Flávio Lúcio Rodrigues da Silva
+
+2818-5
+
+Adcon/Disisc
+
+24/09/2007 a 02/05/2008
+
+Parcial
+
+4. 
+
+José Luiz Torres (indicará analista)
+
+ 
+
+Setec/Disin
+
+16/01/2008 a 2/05/2008
+
+Por atividade
+
+5. 
+
+Antônio Quintino Rosa (indicará analista)
+
+ 
+
+Setec/Diamb
+
+16/01/2008 a 2/05/2008
+
+Por atividade
+
+
+
+
+
+
+
+
+
+
+e-Contas
+
+Página 7 de 7
+
+
+
+
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+ 
+
+ 
+
+Total de custos estimados
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+
+11.Outros recursos necessários
+
+
+
+Recurso
+
+Fornecedor
+
+a)
+
+ 
+
+ 
+
+b)
+
+ 
+
+ 
+
+
+
+
+
+12. Finalização
+
+
+Data
+
+Assinatura do gestor do projeto
+
+ 
+
+ 
+
+Brasília, em 20/09/2007
+
+ 
+
+ 
+
+ 
+
+Gilberto Gomes da Silva Júnior
+
+Coordenador do Projeto
+
+Manifestação do titular da unidade co-patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 20/09/2007.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+ 
+
+ 
+
+Adcon, em 20/09/2007
+
+ 
+
+ 
+
+ 
+
+gualter ramalho portella
+
+Secretário Adjunto de Contas
+
+Manifestação do titular da unidade patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 20/09/2007.
+
+Encaminhe-se à Seplan, para fins de aprovação.
+
+ 
+
+ 
+
+Segecex, em 20/09/2007
+
+ 
+
+ 
+
+ 
+
+jorge pereira de macedo
+
+Secretário-Geral de Controle Externo
+
+Manifestação da Seplan
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+ 
+
+ 
+
+Seplan, em 20/09/2007
+
+ 
+
+ 
+
+ 
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada
+Aprova a realização do Projeto e-Contas e designa seu gestor.
+
+

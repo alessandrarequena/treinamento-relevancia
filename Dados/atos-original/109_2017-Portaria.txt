@@ -1,0 +1,408 @@
+Portaria
+109/2017
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e à vista do disposto no art. 27 da Resolução-TCU nº 261, de 11 de junho de 2014,
+
+
+considerando a Política de Segurança Institucional do Tribunal de Contas da União – PSI/TCU, estabelecida pela Resolução-TCU nº 261, de 11 de junho de 2014;
+
+
+considerando a importância de aprimorar e sistematizar em política as práticas institucionais de segurança física e patrimonial, as quais contribuem para assegurar o suporte necessário ao pleno exercício das funções do Tribunal;
+
+
+considerando que a integridade física de autoridades e servidores do Tribunal pode vir a ser comprometida em razão do exercício de suas atribuições;
+
+
+considerando o Sistema de Gestão de Segurança Física e Patrimonial e as diretrizes para a Política Corporativa de Segurança Física e Patrimonial do TCU previstos na Resolução-TCU nº 261, de 11 de junho de 2014; e
+
+
+considerando os estudos e pareceres constantes do processo nº TC 035.087/2015-3, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º  A Política Corporativa de Segurança Física e Patrimonial do Tribunal de Contas da União (PCSF/TCU) e o Sistema de Gestão de Segurança Física e Patrimonial do Tribunal de Contas da União (SGSF/TCU) observam os princípios, os objetivos e as diretrizes estabelecidos nesta Portaria, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+§ 1º  Toda e qualquer pessoa que tenha acesso às dependências do TCU está sujeita às diretrizes, normas e procedimentos estabelecidos nesta Portaria e são responsáveis por garantir, no que couber, a segurança corporativa física e patrimonial.
+
+
+§ 2º  A PCSF/TCU não abarca ações de preservação da ordem pública afetas ao Sistema de Segurança Pública previsto no art. 144 da Constituição da República Federativa do Brasil.
+
+
+§ 3º  Esta Portaria integra a Política de Segurança Institucional (PSI/TCU), na forma estabelecida pela Resolução-TCU nº 261, de 11 de junho de 2014.
+
+
+Art. 2º  Para os efeitos desta Portaria, entende-se por:
+
+
+I - dignitário: autoridade do TCU, de outro órgão público, de entidade ou de organismos internacionais;
+
+
+II - autoridade do TCU: Ministro, Ministro-Substituto e Membro do Ministério Público junto ao Tribunal;
+
+
+III - colaborador: prestador de serviço terceirizado, estagiário ou qualquer pessoa com vínculo transitório com o Tribunal que tenha acesso, de forma autorizada, às dependências do TCU;
+
+
+IV - agente da segurança: prestador de serviço terceirizado vinculado à subunidade administrativa responsável por operacionalizar a segurança do TCU;
+
+
+V - incidente de segurança física e patrimonial: qualquer indício de fraude, sabotagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer ou ameaçar a incolumidade física de pessoas ou a integridade patrimonial nas dependências do TCU;
+
+
+VI - centro integrado de segurança: local na Sede do TCU constituído de infraestrutura tecnológica necessária para monitoramento ininterrupto e coordenação das ações de combate a incidentes de segurança física e patrimonial;
+
+
+VII - Sistema de Gestão de Segurança Física e Patrimonial (SGSF/TCU): parte integrante do Sistema de Gestão de Segurança Institucional do Tribunal (SGSIN/TCU) que visa estabelecer, implementar, operar, monitorar, analisar criticamente, manter e melhorar a segurança física e patrimonial;
+
+
+VIII - criticidade: grau de importância de um determinado ativo institucional para a continuidade do negócio do Tribunal;
+
+
+IX - segurança física e patrimonial: conjunto de medidas, procedimentos, estruturas e princípios que objetivam proteger a incolumidade física de pessoas e ativos da instituição para garantir a eficácia dos processos de negócio e preservar a imagem do TCU;
+
+
+X - credenciamento: registro, em solução de tecnologia da informação, dos dados referentes à identificação da pessoa autorizada a ingressar nas dependências do TCU e da entrega do respectivo crachá;
+
+
+XI - identificação: verificação do documento de identificação pessoal, com foto, concernente à pessoa interessada em ingressar nas dependências do TCU;
+
+
+XII - emergência: evento súbito que requer ação imediata devido à probabilidade de comprometer a incolumidade física das pessoas, interromper atividades críticas para o negócio ou causar riscos ao patrimônio do Tribunal;
+
+
+XIII - inspeção de segurança: procedimento destinado a verificar se as pessoas, as cargas, os volumes ou outros objetos estão em conformidade com as normas de segurança do Tribunal; e
+
+
+XIV - crachá: cartão destinado à identificação pessoal, de uso obrigatório nas dependências do Tribunal.
+
+
+Art. 3º  A segurança física e patrimonial no TCU alinha-se às estratégias organizacionais, aos princípios de segurança institucional e ainda aos seguintes princípios:
+
+
+I - adequação: a medida restritiva utilizada deve ser apropriada à consecução dos fins pretendidos;
+
+
+II - necessidade: a medida restritiva utilizada deve ser a menos gravosa dentre aquelas que sejam adequadas para atingir determinado fim; e
+
+
+III - proporcionalidade: as desvantagens dos meios utilizados e as vantagens dos fins almejados devem ser ponderadas antes da adoção de qualquer medida restritiva.
+
+
+Parágrafo único.  A segurança física e patrimonial no TCU abrange aspectos humanos, físicos e tecnológicos da organização.
+
+
+CAPÍTULO II
+
+
+DO SISTEMA DE GESTÃO DE SEGURANÇA FÍSICA E PATRIMONIAL
+
+
+Art. 4º  A Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU) integra o Sistema de Gestão de Segurança Física e Patrimonial do TCU (SGSF/TCU), instituído pela ResoluçãoTCU nº 261, de 2014, o qual é composto pelos seguintes processos:
+
+
+I - gestão dos perímetros de segurança física;
+
+
+II - controle de acesso de pessoas às dependências do TCU;
+
+
+III - controle de acesso de veículos às garagens do TCU;
+
+
+IV - controle de entrada e saída, nas dependências do TCU, de bens e materiais permanentes de propriedade do Tribunal;
+
+
+V - gestão do patrimônio sob responsabilidade do TCU;
+
+
+VI - gestão de riscos de segurança física e patrimonial;
+
+
+VII - gestão de incidentes de segurança física e patrimonial;
+
+
+VIII - gestão de emergências; e
+
+
+IX - gestão da segurança das autoridades do TCU e demais dignitários.
+
+
+§ 1º  Os processos do SGSF/TCU são interdependentes e devem ser estruturados e monitorados de forma a permitir sua melhoria contínua.
+
+
+§ 2º  Normas gerais e procedimentos complementares destinados à segurança física e patrimonial emanados no âmbito do Tribunal integram, também, o SGSF/TCU.
+
+
+§ 3º  A gestão do patrimônio do TCU, de que trata o inciso V, abrange a gestão dos bens móveis e imóveis sob a responsabilidade do TCU.
+
+
+Art. 5º  São recursos de segurança física e patrimonial:
+
+
+I - alarmes contra incêndio, inundação e/ou liberação de partículas e gases nocivos;
+
+
+II - armas de fogo e de eletrochoque;
+
+
+III - detectores de metais portáteis;
+
+
+IV - equipamentos de raios-X;
+
+
+V - sistema de controle de acesso de pessoas e de veículos;
+
+
+VI - pórticos detectores de metais;
+
+
+VII - sistema de monitoramento por imagem;
+
+
+VIII - veículos de rondas;
+
+
+IX - agentes da segurança; e
+
+
+X - outros recursos autorizados pelo Presidente.
+
+
+§ 1º  Os recursos de segurança física e patrimonial devem atuar em sinergia a fim de estabelecer um modelo unificado e podem auxiliar na investigação de quaisquer tipos de incidentes de segurança, inclusive os relativos à segurança da informação.
+
+
+§ 2º  A implementação dos recursos de segurança física e patrimonial será realizada com base em gestão de riscos e na avaliação do custo-benefício da solução a ser adotada.
+
+
+Art. 6º  O centro integrado de segurança agrega os instrumentos do SGSF/TCU para monitoramento ininterrupto e coordenação das ações de combate a incidentes de segurança física e patrimonial.
+
+
+Art. 7º  O sistema de controle de acesso de pessoas e de veículos será implementado por meio de barreiras físicas, como catracas e cancelas.
+
+
+Art. 8º  O sistema de monitoramento por imagem será composto por circuito interno de televisão (CFTV) com possibilidade de gravação de imagens.
+
+
+§ 1º  O CFTV terá câmeras instaladas de modo a permitir o monitoramento das portarias de acesso e das áreas de circulação internas, 24 horas por dia e sete dias por semana.
+
+
+§ 2º  Poderão ser instaladas câmeras que monitorem áreas externas aos edifícios do TCU, como o estacionamento descoberto e o perímetro do terreno.
+
+
+§ 3º  O sistema de monitoramento de que trata o caput destina-se exclusivamente à preservação da segurança.
+
+
+§ 4º  O tempo de guarda das imagens capturadas pelo CFTV será de 90 (noventa) dias, após o qual serão apagadas caso não tenham sido requisitadas.
+
+
+§ 5º  A instalação dos equipamentos que registram imagens será feita quando absolutamente necessária à preservação da segurança e não deve violar direitos fundamentais das pessoas.
+
+
+§ 6º  É vedado:
+
+
+I - o monitoramento camuflado ou a utilização de câmeras falsas;
+
+
+II - a captura e a gravação de áudio por intermédio do CFTV; e
+
+
+III - a instalação de câmeras de vídeo em banheiros, vestiários e locais de reserva de privacidade individual.
+
+
+§ 7º  O Secretário-Geral de Administração poderá autorizar, em caráter excepcional e após ouvido o Comitê de Segurança Institucional (Cosin), a instalação de câmeras de vídeo em ambiente de trabalho.
+
+
+§ 8º  É obrigatória a fixação de aviso informando a existência de monitoramento por meio de câmeras de vídeo no local.
+
+
+Art. 9º  As informações e os dados de controle de acesso, assim como as imagens do sistema de CFTV serão classificados quanto à confidencialidade, observando-se os procedimentos e critérios definidos em normativo que disponha sobre a classificação da informação quanto à confidencialidade no âmbito do Tribunal de Contas da União.
+
+
+Parágrafo único.  É vedado o uso das informações, dados e imagens de controle de acesso não públicos, nos termos da classificação quanto à confidencialidade, para fim diverso ao de segurança, salvo por:
+
+
+I - determinação judicial ou legal;
+
+
+II - autorização do Presidente ou do Plenário do TCU;
+
+
+III - demanda do Corregedor ou de comissão de sindicância formalmente constituída, desde que haja processo administrativo instaurado; ou
+
+
+IV - demanda formulada no âmbito de processo disciplinar com vistas a subsidiar apuração de fatos.
+
+
+Art. 10.  Os princípios de segurança institucional nortearão a definição das instalações dos edifícios do TCU, da alocação, da iluminação e do leiaute das unidades, bem como a elaboração do projeto físico, a escolha dos materiais e os demais serviços de engenharia e arquitetura.
+
+
+Art. 11.  A gestão do patrimônio sob responsabilidade do TCU, especificada em normativo específico, orienta-se pelos princípios de segurança institucional.
+
+
+Art. 12.  Qualquer pessoa que tenha conhecimento de evento que possa ocasionar emergência deve comunicá-lo imediatamente ao centro integrado de segurança.
+
+
+Art. 13.  Aos dignitários são devidas medidas especiais voltadas à proteção de sua incolumidade física, mediante realização de procedimentos de segurança diferenciados e definição de acessos físicos especiais quando da ocorrência de eventos institucionais.
+
+
+§ 1º  Aplica-se o disposto no caput para dignitários que não se constituem autoridades do TCU, bem como às autoridades eméritas do TCU, quando nas dependências do Tribunal.
+
+
+§ 2º  As visitas oficiais de autoridades do TCU a outros órgãos requerem a adoção de procedimentos específicos de segurança.
+
+
+§ 3º  Na aplicação do parágrafo anterior, deverá ser observada a integração dos requisitos de segurança do TCU e dos outros órgãos, inclusive no que se referir a eventual rastreamento prévio e pós evento das áreas envolvidas.
+
+
+CAPÍTULO III
+
+
+DO ACESSO DE PESSOAS
+
+
+Art. 14.  O controle de acesso de pessoas às dependências do TCU será independente do controle de frequência e consiste na identificação, no credenciamento, no registro de entrada e saída, na inspeção de segurança e na verificação do uso de crachá, de forma a registrar, restringir e auditar a movimentação de pessoas nas dependências do TCU.
+
+
+§ 1º  O ingresso de pessoas às dependências do TCU pode ser precedido de inspeção de segurança por meio de equipamentos de raios-X e equipamentos detectores de metal.
+
+
+§ 2º  É restrito o ingresso às dependências do Tribunal de pessoas portando armas de fogo, nos termos definidos em normativo específico do Presidente, observando-se a legislação de regência sobre porte de armas.
+
+
+§ 3º  É vedado o ingresso nas dependências do TCU de pessoa portando artefato explosivo ou outros tipos de armas indicados em normativo específico do Presidente, ressalvado o disposto no parágrafo anterior.
+
+
+§ 4º  O controle de acesso a que se refere o caput deste artigo não engloba as garagens do Tribunal, local onde não deve haver entrada e saída de pedestres.
+
+
+Art. 15.  O acesso de pessoas às áreas e instalações do TCU deve ser restrito conforme avaliação de riscos à segurança institucional, observado o perímetro de segurança física previamente definido.
+
+
+Parágrafo único.  O acesso referido no caput alinha-se às iniciativas de segurança física e patrimonial voltada à informação, em consonância com a Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU).
+
+
+CAPÍTULO IV
+
+
+DAS COMPETÊNCIAS E RESPONSABILIDADES
+
+
+Art. 16.  Incumbe ao Comitê de Segurança Institucional (Cosin), no que se refere à segurança física e patrimonial:
+
+
+I - formular e conduzir diretrizes para o SGSF/TCU e a PCSF/TCU, bem como analisar periodicamente sua efetividade;
+
+
+II - propor ajustes no SGSF/TCU e nas ações necessárias à sua implementação, com subsídios no monitoramento e na avaliação periódica das práticas de segurança física e patrimonial e submetê-las, quando couber, à Comissão de Coordenação Geral (CCG);
+
+
+III - propor a elaboração e a revisão de normas e de procedimentos inerentes à segurança física e patrimonial e submetê-las, quando couber, à CCG;
+
+
+IV - manifestar-se sobre propostas de alteração ou de revisão da PCSF/TCU, bem como sobre minutas de normativo e iniciativas de natureza estratégica, ou que necessitem de cooperação entre unidades, que versem sobre segurança física e patrimonial;
+
+
+V - propor à CCG a definição do grau de criticidade dos ativos do Tribunal e a interação entre controles de acesso lógico e físico com base no processo de gestão de riscos;
+
+
+VI - autorizar a instituição de perímetros de acesso restrito propostos pelas unidades interessadas ou pela Secretaria de Segurança e Serviços de Apoio (Sesap);
+
+
+VII - manifestar-se sobre proposta de instalação de câmeras de vídeo, para monitoramento, em locais de trabalho;
+
+
+VIII - manifestar-se sobre matérias atinentes à segurança física e patrimonial que lhe sejam submetidas; e
+
+
+IX - assessorar, em matérias correlatas, a CCG e a Presidência do Tribunal.
+
+
+Art. 17.  Compete à Secretaria de Segurança e Serviços de Apoio (Sesap):
+
+
+I - gerenciar e monitorar o SGSF/TCU, propondo as adaptações necessárias para garantir sua melhoria contínua;
+
+
+II - coordenar, orientar e acompanhar a implementação do SGSF/TCU e das normas complementares de segurança física e patrimonial;
+
+
+III - apresentar ao Cosin, no máximo a cada cinco anos, proposta de revisão da PCSF/TCU de modo a atualizá-la frente a novos requisitos corporativos;
+
+
+IV - apoiar as unidades do TCU nos Estados e o Instituto Serzedello Corrêa (ISC), na definição de processos de trabalho e de procedimentos operacionais inerentes à segurança física e patrimonial;
+
+
+V - monitorar e avaliar periodicamente as práticas de segurança física e patrimonial adotadas pelo Tribunal;
+
+
+VI - gerir os instrumentos de identificação das pessoas lotadas na Sede do Tribunal;
+
+
+VII - gerir o sistema de monitoramento por imagem do Tribunal; 
+
+
+VIII - coordenar, com o apoio do ISC e das demais unidades competentes, ações permanentes de divulgação, treinamento, educação e conscientização dos servidores e demais colaboradores do Tribunal, em relação aos conceitos e às práticas de segurança física e patrimonial;
+
+
+IX - coordenar a gestão e o tratamento dos incidentes de segurança física e patrimonial; e
+
+
+X - assessorar a CCG, em parceria com o Cosin, em matérias correlatas.
+
+
+Parágrafo único.  A aplicação das competências indicadas neste artigo observa, no que couber, as competências inerentes à Secretaria de Planejamento, Governança e Gestão (Seplan), quanto à segurança da informação, e às demais unidades, no que tange às respectivas atribuições que tangenciem os processos de segurança física e patrimonial.
+
+
+Art. 18.  São responsabilidades dos dirigentes das unidades e demais gestores do Tribunal, no que se refere à segurança física e patrimonial:
+
+
+I - conscientizar servidores e colaboradores sob sua supervisão em relação aos conceitos e às práticas de segurança física e patrimonial;
+
+
+II - incorporar aos processos de trabalho de sua unidade, ou de sua área, práticas inerentes à segurança física e patrimonial; e
+
+
+III - tomar as medidas administrativas necessárias para que sejam adotadas ações corretivas em tempo hábil em caso de comprometimento da segurança física e patrimonial.
+
+
+
+
+
+CAPÍTULO V
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 19.  Os contratos, convênios, acordos de cooperação e instrumentos congêneres celebrados pelo Tribunal devem observar, no que couber, as disposições desta Portaria.
+
+
+Art. 20.  O disposto nesta Portaria aplica-se, no que couber, ao Instituto Serzedello Corrêa e às Secretarias de Controle Externo sediadas nos Estados.
+
+
+Art. 21.  A não observância dos dispositivos desta Portaria sujeita os infratores, isolada ou cumulativamente, a sanções administrativas, civis e penais, nos termos da legislação pertinente, assegurados aos envolvidos o contraditório e a ampla defesa.
+
+
+Art. 22.  A PCSF/TCU será revista no prazo máximo de cinco anos a contar da publicação desta Portaria, de modo a atualizá-la frente a novos requisitos corporativos.
+
+
+Art. 23.  Esta Portaria entra em vigor na data de sua publicação.
+
+
+RAIMUNDO CARREIRO
+
+
+
+Não consta revogação expressa
+Dispõe sobre a Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU) e o Sistema de Gestão de Segurança Física e Patrimonial do Tribunal de Contas da União (SGSF/TCU).
+
+

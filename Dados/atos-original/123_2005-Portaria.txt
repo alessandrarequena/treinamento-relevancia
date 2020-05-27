@@ -1,0 +1,827 @@
+Portaria
+123/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na PortariaTCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto de Modernização do Sistema de Planejamento e Gestão do Tribunal de Contas da União (Planejar) nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo LEONARD RENNE GUIMARÃES LAPA, matrícula nº 5100-4, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria de Planejamento e Gestão.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário e mediante provocação da Unidade patrocinadora, à substituição ou à nomeação do gestor do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+1.	Identificação do gestor do projeto
+
+
+
+Nome
+
+Matrícula
+
+“X” - Espécie de gestorOrigem da FC
+
+
+
+Leonard Renne Guimarães Lapa (leonardrg@tcu.gov.br)
+
+5100-4
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Seplan
+
+Nome do substituto eventual
+
+Matrícula
+
+André Guilhon Henriques (andregh@tcu.gov.br)
+
+5614-6
+
+Local/telefone
+
+Secretaria de Planejamento - Seplan -1ª Diretoria Técnica / ramal: 7639
+
+
+
+2.	Identificação do projeto
+
+
+
+Nome do projeto
+
+Modernização do sistema de planejamento e gestão do TCU - Planejar
+
+Período de realização
+
+Unidade patrocinadora
+
+06/06/2005 a 01/12/2006
+
+Seplan
+
+
+
+3.	Vinculação estratégica
+
+
+
+Vínculo principal com Plano Estratégico do TCU (objetivo e estratégia)
+
+a)
+
+Estratégia 8: Aperfeiçoar o sistema de planejamento e gestão do TCU.
+
+Medida c: aperfeiçoar e consolidar sistemática de medição, avaliação e divulgação de resultados institucionais;
+
+Medida h: consolidar o processo de administração estratégica.
+
+b)
+
+Estratégia 10: Assegurar elevado nível de satisfação dos servidores do TCU.
+
+Vínculo principal com Plano diretor da Seplan
+
+a)
+
+Diretriz 1: Fortalecer a cultura de planejamento.
+
+b)
+
+Medida 1.1: Modernizar o sistema de planejamento e gestão.
+
+
+
+4.	Problema / oportunidade
+
+Descrição do problema ou da oportunidade
+
+
+
+a)
+
+O atual plano estratégico do Tribunal, aprovado pela portaria TCU nº59, de janeiro de 2003, aponta a necessidade de desenvolvimento de ações de aperfeiçoamento do sistema de planejamento e gestão como forma de garantir o alcance da visão de futuro e o cumprimento da missão institucional do TCU.
+
+b)
+
+O sistema de planejamento e gestão do TCU, baseado na metodologia de gerenciamento pelas diretrizes, alcançou um estágio de maturidade em que é possível, e se torna necessário, incorporar ao seu cotidiano novas ferramentas e metodologias que confiram maior racionalidade, efetividade e constância às ações da organização, contribuindo para o aperfeiçoamento da gestão e assegurando o atendimento das expectativas dos clientes internos e externos do Tribunal.
+
+c)
+
+Embora a metodologia de gerenciamento pelas diretrizes atenda de forma satisfatória a maioria das necessidades do Tribunal, ela apresenta uma série de deficiências que podem ser sanadas com a adoção de uma metodologia híbrida de planejamento e gestão que congregue os pontos fortes de duas das principais metodologias existentes: o gerenciamento pelas diretrizes – GPD e o balanced scorecard – BSC. Tais deficiências foram identificadas pelas unidades do Tribunal durante o processo de auto-avaliação de gestão conduzido no exercício de 2004 e pela banca examinadora do Prêmio Nacional da Gestão Pública – PQGF.
+
+d)
+
+As oportunidades identificadas pelas unidades do TCU são as seguintes:
+
+-       aprimoramento da metodologia de planejamento, visando conferir maior foco aos objetivos estratégicos;
+
+-       maior atenção às especificidades de cada unidade no momento de estabelecer as metas;
+
+-       definição de indicadores de desempenho estratégicos para o Tribunal;
+
+-       promoção de reuniões semestrais para o acompanhamento dos planos do TCU;
+
+-       compatibilização do calendário de elaboração dos planos das unidades;
+
+-       adoção de metas mais específicas para a Segedam;
+
+-       definição, de forma efetiva, de quais medidas e metas serão prioritárias;
+
+-       simplificar a sistemática de acompanhamento de desempenho dos indicadores.
+
+e)
+
+Os problemas na formulação de estratégias e planos do TCU apontados pela banca examinadora do PQGF são os seguintes:
+
+-       o TCU não estabelece metas de longo prazo alinhadas com as estratégias da organização;
+
+-       não há informações quanto às principais relações de causa e efeito dos indicadores de desempenho da organização;
+
+-       não foi evidenciado como a organização estabelece as metas de longo prazo e seus respectivos indicadores de desempenho.
+
+ 
+
+ 
+
+Evolução do quadro (apresentar dados)
+
+a)
+
+O TCU vem passando por fase de transformação gerencial em que busca priorizar mudanças estratégicas e, com isso, modernizar a atuação do controle externo. Forte indutor dessa transformação é o sistema de planejamento e gestão institucional, que atualmente segue a metodologia do GPD.
+
+b)
+
+No ano de 1999, com o início da implantação do GPD, a função planejamento no TCU iniciou novo ciclo. Foi elaborado o primeiro plano anual de diretrizes, sob a influência dessa metodologia, e elaborada a segunda versão do Plano Estratégico do Tribunal – PET, na qual foram incorporados o negócio e a visão de futuro e revista a missão institucional.
+
+c)
+
+No ano de 2001, como forma de subsidiar a elaboração do plano de diretrizes do Tribunal e a revisão do PET, foi implementado o processo de auto-avaliação institucional. Esse processo corresponde à fase de diagnóstico do ambiente interno da organização, sendo responsável por identificar potencialidades, recursos, capacidades e habilidades favoráveis ao desempenho organizacional, bem como aspectos menos desenvolvidos que necessitem ser aperfeiçoados sob pena de impactar negativamente no exercício da missão e no alcance da visão de futuro da organização.
+
+d)
+
+No ano de 2003, tendo como subsídio, dentre outras informações, as boas práticas e oportunidades de melhoria identificadas na auto-avaliação de gestão, foi elaborada nova versão do PET, na qual foram incorporados os indicadores de gestão, as estratégias de atuação do Tribunal e os valores institucionais.
+
+e)
+
+Dentre as estratégias traçadas, uma refere-se ao aperfeiçoamento do sistema de planejamento e gestão do TCU. Segundo essa estratégia, “a sobrevivência e o desenvolvimento das organizações dependem da implementação de sistemas de gestão empreendedores, voltados para a obtenção de resultados e para o atendimento das expectativas dos clientes. O aperfeiçoamento do sistema de planejamento e gestão tem como principal função, conferir maior racionalidade, efetividade e constância às ações da organização e proporcionar convergência aos esforços despendidos para alcance da visão de futuro e cumprimento da missão institucional”.
+
+f)
+
+Tal estratégia, aliada às oportunidades identificadas no processo de auto-avaliação de gestão conduzida no exercício de 2004 e aos problemas na formulação de estratégias e planos do Tribunal apontados pela banca examinadora do PQGF, torna imperativa a modernização do atual sistema de planejamento e gestão do Tribunal.
+
+g)
+
+É esperado que o novo modelo de planejamento e gestão seja capaz de:
+
+-       conferir maior conseqüência prática ao plano estratégico do Tribunal;
+
+-       favorecer o alinhamento das diretrizes de curto prazo com as de longo prazo;
+
+-       orientar os esforços da organização para o alcance gradual dos objetivos estratégicos;
+
+-       tornar viável o acompanhamento irrestrito da implementação dos objetivos estratégicos pelos diversos níveis organizacionais;
+
+-       explicitar o papel das diversas unidades na consecução dos objetivos estratégicos;
+
+-       integrar o maior número possível de servidores e unidades ao processo de planejamento e gestão;
+
+-       assegurar que o planejamento anual e seu desdobramento dentro do Tribunal estejam focados nos objetivos estratégicos e no desenvolvimento das competências essenciais do Tribunal;
+
+-       comunicar e institucionalizar a estratégia em todos os níveis da organização;
+
+-       considerar as especificidades de cada unidade do Tribunal no momento do desdobramento de seus planos;
+
+-       simplificar o acompanhamento das metas e do desempenho institucional e das unidades.
+
+ 
+
+ 
+
+
+
+5. 	Escopo do projeto
+
+
+
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+
+Desenvolver metodologia de planejamento que utilize o Balanced Scorecard – BSC e o gerenciamento pelas diretrizes – GPD de forma complementar, garantindo a tradução da estratégia da organização e favorecendo a implementação e o acompanhamento das diretrizes de longo prazo nos diversos níveis organizacionais.
+
+
+
+5.2. Meta – indicador – produto – cliente
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)
+
+Desenvolver e validar modelo de planejamento e gestão baseado no uso integrado do GPD e do BSC.
+
+-       revisão da literatura sobre os conceitos de BSC e GPD (30%);
+
+-       definição das etapas que compõem o modelo de implementação da estratégia por meio do uso integrado do BSC e do GPD (50%);
+
+-       validação do modelo pelo patrocinador do projeto (20%).
+
+100%
+
+03/10/05
+
+117 dias
+
+Percentual de desenvolvimento do modelo concluído.
+
+Documento de descrição do modelo de planejamento e gestão desenvolvido e validado.
+
+Seplan
+
+ 
+
+b)
+
+Elaborar e validar nova versão do Guia de Referência do Sistema de Planejamento e Gestão.
+
+-       Guia para reuniões de acompanhamento e avaliação de gestão.
+
+-       Referencial teórico do sistema de planejamento e gestão
+
+1
+
+01/11/05
+
+01/08/05
+
+01/11/05
+
+Guia de referência elaborado.
+
+ 
+
+Nova versão do Guia de Referência do Sistema de Planejamento e Gestão elaborada e validada.
+
+Seplan
+
+Unidades do TCU
+
+c)
+
+Realizar entrevistas com autoridades e dirigentes do TCU segundo roteiro predefinido. 
+
+15
+
+22/07/05
+
+45 dias
+
+Entrevistas realizadas
+
+Documento contendo entendimento de autoridades e dirigentes quanto à estratégia da organização.
+
+Seplan
+
+d)
+
+Construir proposta de mapa estratégico para o TCU.
+
+-       definir perspectivas (20%);
+
+-       definir objetivos estratégicos (50%);
+
+-       definir relações de causa e efeito (30%).
+
+100%
+
+08/8/05
+
+15 dias
+
+Percentual da proposta de mapa estratégico construído.
+
+Proposta de mapa estratégico do TCU construído (contendo: perspectivas, objetivos estratégicos e relações de causa e efeito).
+
+Seplan
+
+Unidades do TCU
+
+e)
+
+Aprimorar o sistema de acompanhamento de metas.
+
+-       possibilitar o acompanhamento de metas e resultados por meio do sistema Sinergia.
+
+100%
+
+15/11/05
+
+Percentual de implementação do módulo concluído.
+
+Inserção no sistema Sinergia de módulo que possibilite o acompanhamento do alcance das metas do Tribunal (comparativo Realizado x Meta)
+
+Seplan
+
+Unidades do TCU
+
+f)
+
+Validar proposta de mapa estratégico do TCU.
+
+-       validar proposta junto à Seplan/Patrocinador (1 reunião);
+
+-       validar proposta junto aos entrevistados (2 reuniões);
+
+-       encaminhar para sugestão dos dirigentes;
+
+-       validar sugestões com os entrevistados (2 reuniões);
+
+-       validar proposta final no encontro de dirigentes.
+
+ 
+
+1
+
+21/11/05
+
+ 
+
+Mapa estratégico validado.
+
+ 
+
+Mapa estratégico validado pelos gestores do TCU.
+
+Seplan
+
+Unidades do TCU
+
+g)
+
+Elaborar proposta de indicadores de desempenho estratégicos.
+
+-       identificar prováveis indicadores de desempenho;
+
+-       formular proposta de indicadores de desempenho.
+
+100%
+
+17/03/06
+
+Percentual de objetivos estratégicos com indicadores de desempenho associados.
+
+Objetivos estratégicos com indicadores de desempenho associados.
+
+Seplan
+
+Unidades do TCU
+
+h)
+
+Validar proposta de indicadores de desempenho estratégicos.
+
+-       validar proposta junto à Seplan (2 reuniões);
+
+-       validar proposta junto aos dirigentes (2 reuniões).
+
+100%
+
+01/05/06
+
+Percentual de indicadores de desempenho validados.
+
+ 
+
+Indicadores de desempenho validados pelos gestores do TCU.
+
+Seplan
+
+Unidades do TCU
+
+i)
+
+Elaborar proposta de metas, estratégias e/ou projetos para operacionalização do mapa estratégico.
+
+-       identificar projetos existentes que contribuam para os objetivos estratégicos definidos;
+
+-       identificar projetos potenciais que contribuam para os objetivos estratégicos definidos;
+
+-       formular proposta de meta de longo prazo para os indicadores;
+
+-       formular proposta de estratégias e/ou projetos que contribuam para os objetivos estratégicos definidos.
+
+100%
+
+01/06/06
+
+Percentual de indicadores de desempenho com meta proposta.
+
+Percentual de objetivos estratégicos com estratégia e/ou projetos associados.
+
+Indicadores de desempenho com meta proposta.
+
+Objetivos estratégicos com estratégias e/ou projetos associados.
+
+Seplan
+
+Unidades do TCU
+
+j)
+
+Validar proposta de metas, estratégias e/ou projetos.
+
+-       validar metas, estratégias e/ou projetos junto à Seplan;
+
+-       validar metas, estratégias e/ou projetos juntos aos dirigentes.
+
+100%
+
+01/08/06
+
+Percentual de metas, estratégias e/ou projetos validados.
+
+Metas, estratégias e/ou projetos validados.
+
+Seplan
+
+Unidades do TCU
+
+k)
+
+Desdobrar mapa estratégico do TCU para uma unidade básica.
+
+1
+
+01/10/06
+
+Mapa estratégico desdobrado.
+
+Mapa estratégico de uma unidade básica do TCU construído.
+
+Unidade básica do TCU
+
+l)
+
+Definir critérios de solução de TI para dar suporte ao modelo.
+
+1
+
+01/11/06
+
+Especificação validada pelos clientes.
+
+Especificação técnica para licitação da solução de TI.
+
+Seplan
+
+Setec
+
+m)
+
+Elaborar e apresentar relatório final do projeto.
+
+1
+
+01/12/06
+
+Número de relatórios elaborados
+
+Relatório final do projeto elaborado.
+
+Seplan – escritório de projetos
+
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto – EAP)
+
+
+
+a)
+
+Desenvolvimento de modelo de planejamento e gestão e elaborar novo guia de referência de planejamento;
+
+b)
+
+Construção e validação do mapa estratégico para o TCU;
+
+c)
+
+Desdobramento do mapa estratégico do TCU para uma unidade básica;
+
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+
+a)
+
+Desenvolver modelo que permita o desdobramento das estratégias até os servidores;
+
+b)
+
+Implementar novo modelo em todas as unidades do Tribunal (construção de mapas estratégicos, definição de indicadores e metas para todas as unidades do Tribunal);
+
+c)
+
+Capacitar servidores/facilitadores no uso da metodologia desenvolvida;
+
+d)
+
+Revisar plano estratégico e macroprocessos do Tribunal;
+
+e)
+
+Adequar a avaliação de desempenho individual e institucional à nova metodologia a ser implementada;
+
+f)
+
+Elaborar plano de concepção de indicadores ainda não mensurados;
+
+g)
+
+Implementar solução de TI para dar suporte ao modelo desenvolvido.
+
+h)
+
+Elaborar e validar plano de diretrizes do TCU para o biênio 2007-2008.
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+
+Parte envolvida:
+
+patrocinador, cliente, fornecedor interno ou externo de serviços e recursos (humanos e físicos), parceiro
+
+Item negociado com as partes envolvidas internas ou
+
+item a negociar com as partes envolvidas externas
+
+a)
+
+Seplan 
+
+Patrocinadora e principal cliente do projeto. Durante e após o encerramento do projeto, será responsável pela divulgação e implementação da nova metodologia junto a todas as unidades do Tribunal.
+
+b)
+
+Gestores do Tribunal (Adcon, Adfis, ISC, Seplan, Segecex, SGS, Segedam, Setec e Presidência)
+
+Serão parceiros da Seplan durante o processo de construção e validação do mapa estratégico do Tribunal.
+
+
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+
+
+Risco
+
+Impacto
+
+Probabilidade de ocorrer
+
+Ação para
+
+(E) evitar / (M) mitigar/ (R) reduzir impacto
+
+Responsável pela ação
+
+a)
+
+Não envolvimento/comprometimento da alta administração (para ser eficaz o BSC deve refletir a visão estratégica da alta administração).
+
+Alto
+
+Baixo
+
+(M) realizar divulgação sistemática da nova metodologia apontando os principais benefícios e melhorias em relação ao modelo anterior.
+
+Equipe do Projeto
+
+Seplan
+
+b)
+
+Baixa participação de dirigentes na construção dos produtos do projeto.
+
+Alto
+
+Baixo
+
+(E) implementar estratégia adequada para divulgação do projeto;
+
+(M) realizar divulgação da nova metodologia apontando os principais benefícios e melhorias em relação ao modelo anterior.
+
+(E) Elaborar e divulgar cronograma de atividades que requeiram a participação de dirigentes do Tribunal.
+
+Equipe do Projeto
+
+Seplan
+
+
+
+8.	Relação com outros projetos
+
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+a)
+
+ 
+
+Projeto Sinergia (extração de dados que proporcionem suporte às decisões gerenciais no âmbito do projeto e possibilitem a aferição de indicadores de desempenho)
+
+ 
+
+
+
+9.	Custos estimados
+
+
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+Não há custos adicionais para o Tribunal
+
+ 
+
+ 
+
+Total de custos estimados
+
+ 
+
+ 
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+
+
+
+10.	Outros recursos necessários
+
+
+
+Recurso
+
+Fornecedor
+
+ 
+
+ 
+
+ 
+
+
+
+11.	Equipe do projeto
+
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+a)
+
+Leonard Renne Guimarães Lapa
+
+5100-4
+
+Seplan
+
+6/6/2005 a 1/12/2006
+
+Integral
+
+b)
+
+André Guilhon Henriques
+
+5614-6
+
+Seplan
+
+6/6/2005 a 1/12/2006
+
+Parcial
+
+c)
+
+Márcio Lemos Said
+
+5662-6
+
+Seplan
+
+6/6/2005 a 1/12/2006
+
+Parcial
+
+
+
+12.	Finalização
+
+
+
+Data e assinatura do gestor do projeto
+
+Em 03/06/2005
+
+ 
+
+ Manifestação do titular da unidade patrocinadora
+
+
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 03/06/2005.
+
+Encaminhe-se a presente proposta à Presidência, visando à aprovação do projeto.
+
+Seplan, 03/06/2005
+
+ 
+
+ 
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto de Modernização do Sistema de Planejamento e Gestão do Tribunal de Contas da União (Planejar) e designa seu gestor.
+
+

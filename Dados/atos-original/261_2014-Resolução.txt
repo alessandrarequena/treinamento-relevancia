@@ -1,0 +1,576 @@
+Resolução
+261/2014
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+considerando a importância de aprimorar e sistematizar em política as práticas institucionais de segurança, as quais contribuem para assegurar o suporte necessário ao pleno exercício das funções do Tribunal;
+
+
+considerando a necessidade de estabelecer diretrizes gerais para orientar a elaboração de normas específicas de segurança e a definição de procedimentos que norteiem os processos de trabalho corporativos;
+
+
+considerando a hierarquia de políticas indicada no Anexo D da NBR ISO/IEC 27003:2011, que prevê uma política geral de segurança de alto nível e políticas de alto nível sobre temas específicos; 
+
+
+considerando que a integridade física de autoridades e servidores do Tribunal pode vir a ser comprometida em razão do exercício de suas atribuições;
+
+
+considerando que o Tribunal produz e recebe informações no exercício de suas competências constitucionais, legais e regulamentares e que tais informações devem permanecer íntegras e disponíveis, bem como seu eventual sigilo deve ser resguardado;
+
+
+considerando o advento da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), que regula o acesso a informações previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal;
+
+
+considerando as boas práticas em segurança preconizadas pelas normas NBR ISO/IEC 22301:2012,  27001:2013, 27002:2013 e 27003:2011; 
+
+
+considerando as determinações  constantes dos subitens 9.1.3 e 9.6 do Acórdão 1.603/2008-TCU-Plenário, de 13 de agosto de 2008, dos subitens 9.6.1 e 9.16 do Acórdão 2.471/2008-TCU-Plenário, de 5 de novembro de 2008, e do subitem 9.4.1 do Acórdão 2.308/2010-TCU-Plenário, de 8 de setembro de 2010; e
+
+
+considerando os estudos e pareceres constantes do processo nº TC 034.161/2013-9, resolve:
+
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º A Política de Segurança Institucional (PSI/TCU) e o Sistema de Gestão de Segurança Institucional do Tribunal de Contas da União (SGSIN/TCU) observam os princípios, objetivos, diretrizes e processos previstos nesta Resolução, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+Art. 2º A PSI/TCU integra o Sistema de Gestão de Segurança Institucional do Tribunal (SGSIN/TCU), o qual inclui a estrutura inerente à governança de segurança na organização, as políticas, atividades de planejamento, responsabilidades, práticas, procedimentos e processos que tangenciam as dimensões da segurança institucional, bem como os recursos necessários.
+
+
+Parágrafo único. O SGSIN/TCU está em sintonia com o Sistema de Planejamento e Gestão da Estratégia de que dispõe a Resolução-TCU 257, de 6 de novembro de 2013.
+
+
+Art. 3º A PSI/TCU alinha-se às estratégias do Tribunal e tem por objetivo estabelecer princípios, diretrizes e procedimentos gerais de segurança institucional que visem garantir a segurança das pessoas, dos processos de negócio, das informações, dos materiais e das instalações do TCU.
+
+
+§ 1º A PSI/TCU é integrada pelas Políticas Corporativas de Segurança da Informação, Segurança Física e Patrimonial, Continuidade de Negócios e Segurança do Trabalho. (NR) (Resolução-TCU nº 287, de 12/4/2017, BTCU nº 14/2017, DOU de 19/4/2017)
+
+
+
+§ 2º Normativos do Presidente do Tribunal especificarão as políticas indicadas no parágrafo anterior.
+
+
+Art. 4º Para os efeitos desta Resolução, entende-se por:
+
+
+I - segurança institucional: conjunto de ações integradas destinadas à proteção de pessoas, processos de negócio e ativos do TCU;
+
+
+II - informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+III - incidente de segurança: qualquer indício de fraude, sabotagem, espionagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer as operações do negócio ou ameaçar a incolumidade física de pessoas, a integridade patrimonial ou a segurança da informação; 
+
+
+IV - colaborador: prestador de serviço terceirizado, estagiário ou qualquer pessoa com vínculo transitório com o Tribunal que tenha acesso, de forma autorizada, às informações ou às dependências do TCU; 
+
+
+V - dignitário: autoridade do TCU, de outros órgãos públicos, entidades ou de organismos internacionais; 
+
+
+VI - criticidade: grau de importância de um determinado ativo institucional para a continuidade do negócio da instituição;
+
+
+VII - interrupção: paralisação ou redução do desempenho de uma ou mais atividades por período de tempo considerado inaceitável para a organização;
+
+
+VIII - atividade crítica: atividade cuja interrupção pode causar danos financeiros, operacionais, legais ou de imagem, considerados inaceitáveis pelo Tribunal; 
+
+
+IX - emergência: evento súbito que requer ação imediata devido à probabilidade de comprometer a incolumidade física das pessoas, interromper atividades críticas para o negócio ou causar riscos ao patrimônio do Tribunal;
+
+
+X - resiliência institucional: poder de recuperação ou capacidade da organização para resistir aos efeitos de emergências ou interrupções;
+
+
+XI - sistema de gestão de segurança da informação (SGSI/TCU): parte integrante do sistema de gestão da segurança institucional do Tribunal baseada em riscos do negócio, que visa estabelecer, implementar, operar, monitorar, analisar criticamente, manter e melhorar a segurança da informação; e
+
+
+XII - sistema de gestão de segurança física e patrimonial (SGSF/TCU): parte integrante do sistema de gestão da segurança institucional do Tribunal que visa estabelecer, implementar, operar, monitorar, analisar criticamente, manter e melhorar a segurança física e patrimonial.
+
+
+CAPÍTULO II
+DA SEGURANÇA INSTITUCIONAL
+
+
+Art. 5º A segurança institucional constitui direito e responsabilidade de todos que tenham acesso ao Tribunal ou às informações por ele produzidas ou custodiadas e é exercida para preservação da incolumidade física das pessoas, dos processos de negócio organizacionais e dos ativos do TCU.
+
+
+Art. 6º A segurança institucional abrange aspectos humanos, físicos e tecnológicos da organização e orienta-se pelos seguintes princípios:
+
+
+I - precedência: a segurança das pessoas e da vida humana tem precedência sobre qualquer ativo do TCU;
+
+
+II - invulnerabilidade: os ativos que compõem o patrimônio do TCU devem ter a integridade garantida, sendo protegidos de acessos não autorizados e de outros danos; 
+
+
+III - prevenção: os efeitos de eventos com manifesta probabilidade de ocorrência e com potencialidade de causar danos operacionais, legais, financeiros, à integridade física das pessoas e à imagem do TCU devem ser evitados ou minimizados, adotando-se para isso um conjunto de medidas que busque melhorar a resiliência institucional; 
+
+
+IV - participação: autoridades do Tribunal, servidores, colaboradores e demais pessoas com acesso ao TCU devem atuar conjuntamente com vistas à proteção e à preservação dos ativos do Tribunal; 
+
+
+V - conscientização: construção de consciência institucional voltada à segurança, de modo a reduzir os riscos às pessoas e aos ativos do TCU, bem como permitir a efetivação dos princípios da prevenção e da participação; e
+
+
+VI - gerenciamento de segurança: o planejamento, execução e acompanhamento de medidas de segurança institucional devem ser realizados com base no potencial danoso de riscos e ameaças às pessoas, à instituição ou aos seus ativos mediante processo contínuo, dinâmico, flexível e permanente.
+
+
+Art. 7º São dimensões que integram a segurança institucional: 
+
+
+I - segurança física e patrimonial; 
+
+
+II - segurança da informação;
+
+
+III - continuidade de negócios; e
+
+
+IV - segurança do trabalho.
+
+
+
+(NR) (exclusão do inciso V) (Resolução-TCU nº 287, de 12/4/2017, BTCU nº 14/2017, DOU de 19/4/2017)
+
+
+
+§ 1º As dimensões que integram a segurança institucional devem funcionar de forma integrada, coordenada e com harmonização dos respectivos processos de trabalho. 
+
+
+§ 2º Denomina-se segurança em recursos humanos a observância, nos processos de trabalho inerentes à gestão de pessoas, dos requisitos de segurança relativos às dimensões mencionadas no caput, em especial no que tange à realização de concursos públicos, processos de seleção e admissão, afastamentos, procedimentos de contratação de serviços terceirizados e cadastramento dos demais colaboradores. 
+
+
+§ 3º A segurança da informação compreende a proteção da informação contra ameaças à sua confidencialidade, integridade, disponibilidade e autenticidade, para minimizar riscos, garantir a eficácia dos processos de negócio e preservar a imagem do TCU. 
+
+
+§ 4º A segurança física e patrimonial compreende o conjunto de medidas, procedimentos, estruturas e princípios que objetivam proteger a incolumidade física de pessoas e ativos da instituição, para garantir a eficácia dos processos de negócio e preservar a imagem do TCU. 
+
+
+§ 5º A continuidade de negócios compreende o processo permanente destinado a preparar o TCU a resistir aos efeitos de emergências ou interrupções e minimizar os danos operacionais, legais, financeiros e à imagem da instituição.
+
+
+§ 6º A segurança do trabalho compreende o conjunto de medidas, procedimentos, estruturas e princípios que objetivam reduzir os acidentes de trabalho e as doenças ocupacionais, protegendo a integridade física e a capacidade laboral das autoridades do TCU, servidores e demais colaboradores.
+
+
+§ 7º A gestão de riscos à segurança institucional tem por objetivo identificar, analisar, avaliar, dar tratamento adequado, comunicar e monitorar os riscos relacionados às dimensões que integram a segurança institucional e observa a política de gestão de riscos do Tribunal. (NR) (Resolução-TCU nº 287, de 12/4/2017, BTCU nº 14/2017, DOU de 19/4/2017)
+
+
+
+Art. 8º As iniciativas em segurança institucional observarão, sempre que possível, as seguintes diretrizes:
+
+
+I - integração entre as áreas responsáveis pelas dimensões que compõem a segurança institucional;
+
+
+II - coordenação colegiada das iniciativas para atendimento às necessidades de segurança institucional;
+
+
+III - alocação prioritária de recursos para segurança institucional em áreas estratégicas ao negócio do TCU; e
+
+
+IV - priorização de implementação de controles de segurança em consonância com a gestão de riscos à segurança institucional.
+
+
+Art. 9º A especificação de cada dimensão da segurança institucional observará as seguintes características:
+
+
+I - quando da identificação das diretrizes gerais da dimensão, deve ser definido sistema de gestão específico com seus processos principais, sem prejuízo da integração entre as dimensões;
+
+
+II - o detalhamento de cada sistema de gestão deve incluir, no mínimo, escopo, processos principais, objetivos da dimensão da segurança e responsabilidades principais sobre o sistema;
+
+
+III - os processos do sistema de gestão devem ser estruturados e monitorados de forma a permitir sua melhoria contínua; 
+
+
+IV - as principais interligações e interdependências entre processos integrantes de diferentes dimensões serão explicitadas e acordadas entre as respectivas partes responsáveis; e
+
+
+V - a gestão de riscos inerente à dimensão da segurança é processo obrigatório e deve balizar a implementação e avaliação de controles. 
+
+
+
+CAPÍTULO III
+DAS ALTERAÇÕES NA RESOLUÇÃO-TCU 253, DE 21 DE DEZEMBRO DE 2012
+
+
+Art. 10. Fica incluída a alínea "j" ao art. 3º, inciso V, da Resolução-TCU 253, de 21 de dezembro de 2012, nos seguintes termos:
+
+
+"Art. 3º (...)
+
+
+V - (...)
+
+
+(...)
+
+
+j) Comitê de Segurança Institucional (Cosin);" 
+
+
+Art. 11. Fica alterado o inciso II, bem como incluído o inciso IX e renumerado o inciso posterior, do art. 64-B da Resolução-TCU 253, de 2012, nos seguintes termos: 
+
+
+"Art. 64-B (...)
+
+
+(...)
+
+
+II - promover, acompanhar, orientar, apoiar e, quando for o caso, executar ações corporativas que visem aprimorar a segurança física e patrimonial no Tribunal, bem como participar, no âmbito de sua área de atuação, das iniciativas inerentes à segurança institucional;
+
+
+(...)
+
+
+IX - realizar a gestão dos incidentes de segurança física e patrimonial;"
+
+
+Art. 12. Fica alterado o inciso I do art. 81 da Resolução-TCU 253, de 2012, que passa a vigorar com a seguinte redação: 
+
+
+ "Art. 81. (...)
+
+
+I - assessorar o Presidente do TCU na formulação de diretrizes anuais, de políticas de gestão de pessoas, de tecnologia da informação, de segurança institucional e dimensões que a integram – segurança da informação, segurança física e patrimonial, continuidade de negócios, segurança do trabalho e gestão de riscos à segurança institucional –, assim como em outras matérias que necessitem da cooperação intersetorial das unidades cujos dirigentes compõem a Comissão;"
+
+
+Art. 13. Fica alterado o art. 87 da Resolução-TCU nº 253, de 2012, que passa a vigorar com a seguinte redação:
+
+
+"Art. 87. O CSI é órgão colegiado de natureza consultiva e de caráter permanente e tem por finalidade formular e conduzir diretrizes para o Sistema de Gestão de Segurança da Informação (SGSI/TCU) e a Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU), analisar periodicamente sua efetividade, propor normas e mecanismos institucionais para melhoria contínua, bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral e a Presidência do Tribunal.
+
+
+§ 1º O Comitê é coordenado pelo dirigente da Assig.
+
+
+§ 2º Ato do Presidente do Tribunal instituirá o regulamento e a composição do Comitê, garantida a representação das diversas áreas de negócio.
+
+
+§ 3º O exame, pelo CSI, de aspectos que perpassem outras dimensões que integram a Política de Segurança Institucional deve ser realizado em reunião conjunta com o Cosin, da qual emane deliberação única de ambos os Comitês."
+
+
+Art. 14. Fica incluído o Capítulo X ao Título VI da Resolução-TCU 253, de 2012, com a denominação "Do Comitê de Segurança Institucional".
+
+
+Art. 15. Fica incluído o art. 90-A no Capítulo X do Título VI da Resolução-TCU 253, de 2012, nos seguintes termos:
+
+
+"Art. 90-A O Cosin é órgão colegiado de natureza consultiva e de caráter permanente e tem por finalidade formular e conduzir diretrizes para o Sistema de Gestão de Segurança Institucional (SGSIN/TCU) e a Política de Segurança Institucional do TCU (PSI/TCU), analisar periodicamente sua efetividade, propor normas e mecanismos institucionais para melhoria contínua, bem como assessorar, em matérias correlatas, a Comissão de Coordenação Geral e a Presidência do Tribunal.
+
+
+§ 1º Compete ao Comitê apresentar proposta de revisão da PSI/TCU, no máximo a cada cinco anos, de modo a atualizar a política frente a novos requisitos institucionais, com subsídio na formulação elaborada pelas respectivas unidades responsáveis pelas dimensões que integram a segurança institucional.
+
+
+§ 2º As competências do Comitê englobam as dimensões que integram a segurança institucional, à exceção do Sistema de Gestão da Segurança da Informação (SGSI/TCU) e da Política Corporativa de Segurança da Informação do Tribunal (PCSI/TCU), cujas atribuições similares incumbem ao CSI.  
+
+
+§ 3º Incumbe, também, ao Comitê manifestar-se acerca do grau de criticidade dos ativos proposto pelas áreas competentes. 
+
+
+§ 4º O exame, pelo Cosin, de aspectos que perpassem a segurança da informação e a continuidade de negócios deve ser realizado em reunião conjunta com o CSI, da qual emane deliberação única de ambos os Comitês.
+
+
+§ 5º Integram o Cosin os dirigentes da Sesap, Senge, Assig, Setic e os representantes das unidades da Secretaria do TCU previstos em regulamento nos termos do parágrafo seguinte.
+
+
+§ 6º Normativo do Presidente do TCU instituirá o regulamento do Comitê."
+
+
+CAPÍTULO IV
+DAS DIRETRIZES PARA AS POLÍTICAS INTEGRANTES DA PSI/TCU
+
+
+
+Seção I
+Diretrizes Gerais da Política Corporativa de Segurança Física e Patrimonial
+
+
+
+Art. 16. A Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU), especificada em normativo do Presidente do Tribunal, integra o Sistema de Gestão de Segurança Física e Patrimonial do TCU (SGSF/TCU), o qual é composto pelos seguintes processos:
+
+
+I - gestão dos perímetros de segurança física;
+
+
+II - controle de acesso de pessoas às dependências do TCU;
+
+
+III - controle de acesso de veículos às garagens do Tribunal;
+
+
+IV - controle de entrada e saída, nas dependências do TCU, de bens e materiais permanentes de propriedade do Tribunal;
+
+
+V - gestão do patrimônio sob responsabilidade do TCU; 
+
+
+VI - gestão de riscos de segurança física e patrimonial;
+
+
+VII - gestão de incidentes de segurança física e patrimonial;
+
+
+VIII - gestão de emergências; e
+
+
+IX - gestão da segurança das autoridades do TCU e demais dignitários.
+
+
+§ 1º Os processos do Sistema de Gestão de Segurança Física e Patrimonial do TCU (SGSF/TCU) são interdependentes e devem ser estruturados e monitorados de forma a permitir sua melhoria contínua.
+
+
+§ 2º Normas gerais e procedimentos complementares destinados à segurança física e patrimonial emanados no âmbito do Tribunal integram, também, o Sistema de Gestão. 
+
+
+§ 3º Os processos integrantes das demais dimensões da segurança institucional harmonizam-se com o Sistema de Gestão de Segurança Física e Patrimonial do TCU (SGSF/TCU) e têm por objetivo, em relação à segurança física e patrimonial, prevenir danos e interferências que possam comprometer a incolumidade física das pessoas e os ativos da instituição. 
+
+
+§ 4º O Sistema de Gestão de Segurança Física e Patrimonial do TCU (SGSF/TCU) pode auxiliar na investigação de quaisquer tipos de incidentes de segurança, inclusive os relativos à segurança da informação.
+
+
+§ 5º O controle de acesso de pessoas às dependências do TCU não engloba as garagens do TCU – local onde não deve haver entrada e saída de pedestres –, bem como será independente do controle de frequência cabível e terá novos dispositivos de controle implantados de forma gradual.
+
+
+§ 6º O acesso de pessoas às áreas e instalações que compõem as dependências do TCU deve ser restrito de acordo com o nível de criticidade dos ativos a serem protegidos, observado o perímetro de segurança física previamente definido.
+
+
+Art. 17. Os princípios de segurança institucional nortearão a definição das instalações dos edifícios do TCU, da alocação e do layout das unidades, bem como a elaboração do projeto físico, a escolha dos materiais e os demais serviços de engenharia. 
+
+
+Art. 18. A gestão patrimonial orienta-se pelos princípios de segurança institucional e é coordenada pela Secretaria de Licitações, Contratos e Patrimônio (Selip).
+
+
+Art. 19. Aos dignitários são devidas medidas específicas voltadas à proteção de sua incolumidade física, mediante realização de procedimentos de segurança diferenciados e definição de acessos físicos especiais quando da ocorrência de eventos institucionais.
+
+
+§ 1º Aplica-se o disposto no caput para dignitários que não se constituem autoridades do TCU quando aqueles estiverem nas dependências do Tribunal.
+
+
+§ 2º As visitas oficiais de autoridades do TCU a outros órgãos requerem a adoção de procedimentos específicos de segurança. 
+
+
+§ 3º Na aplicação deste artigo, deverá ser observada a integração dos requisitos de segurança do TCU e dos outros órgãos, inclusive no que se referir a eventual rastreamento prévio e pós evento das áreas envolvidas.
+
+
+Art. 20. Incumbe à Secretaria de Engenharia e Serviços de Apoio (Senge) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança Física e Patrimonial (SGSF/TCU) e da Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU), bem como assessorar a Comissão de Coordenação Geral (CCG) em matérias correlatas. (NR) (Resolução-TCU nº 306, de 16/1/2019, BTCU Administrativo nº 12/2019)
+
+
+
+Parágrafo único. Compete à Senge avaliar a necessidade de revisão e propor eventual atualização das diretrizes indicadas nesta Seção, bem como da PCSF/TCU, de modo a atualizá-la frente a novos requisitos corporativos. (NR) (Resolução-TCU nº 306, de 16/1/2019, BTCU Administrativo nº 12/2019)
+
+
+
+
+Seção II
+Diretrizes Gerais da Política Corporativa de Segurança da Informação
+
+
+
+Art. 21. A Política Corporativa de Segurança da Informação (PCSI/TCU), especificada em normativo do Presidente do Tribunal, integra o Sistema de Gestão de Segurança da Informação do TCU (SGSI/TCU), o qual é composto pelos seguintes processos:
+
+
+I - classificação da informação;
+
+
+II - gestão de riscos de segurança da informação;
+
+
+III - gestão de incidentes em segurança da informação;
+
+
+IV - controle de acesso à informação;
+
+
+V - segurança da informação em recursos humanos e conscientização em segurança da informação; e
+
+
+VI - segurança em tecnologia da informação e comunicações.
+
+
+§ 1º Os processos do Sistema de Gestão de Segurança da Informação do TCU (SGSI/TCU) são interdependentes e devem ser estruturados e monitorados de forma a permitir sua melhoria contínua.
+
+
+§ 2º A Gestão de Continuidade de Negócios (GCN), disposta em política específica, harmoniza-se com os processos do Sistema de Gestão de Segurança da Informação do TCU (SGSI/TCU) e tem por objetivo, em relação à segurança da informação, a garantia de níveis adequados de disponibilidade, integridade, confidencialidade e autenticidade das informações essenciais ao funcionamento dos processos críticos de negócio.
+
+
+§ 3º A segurança física e patrimonial, disposta em política específica, harmoniza-se com os processos do Sistema de Gestão de Segurança da Informação do TCU (SGSI/TCU) e tem por objetivo, em relação à segurança da informação, prevenir danos e interferências nas instalações do TCU que possam causar perda, roubo ou comprometimento das informações.
+
+
+Art. 22. A segurança da informação no TCU alinha-se às estratégias organizacionais e aos princípios da segurança institucional e tem como princípios:
+
+
+I - garantia da integridade e da autenticidade das informações produzidas;
+
+
+II - preservação da integridade e da autenticidade das informações recebidas;
+
+
+III - transparência das informações públicas;
+
+
+IV - proteção adequada às informações com necessidade de restrição de acesso;
+
+
+V - planejamento das ações de segurança da informação por meio de uma abordagem baseada em riscos; e
+
+
+VI - garantia da disponibilidade das informações custodiadas.
+
+
+Art. 23. Incumbe à Secretaria de Planejamento, Governança e Gestão (Seplan) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança da Informação (SGSI/TCU) e da Política Corporativa de Segurança da Informação (PCSI/TCU), bem como assessorar a CCG em matérias correlatas. (NR) (Resolução-TCU nº 306, de 16/1/2019, BTCU Administrativo nº 12/2019)
+
+
+
+Parágrafo único. Compete à Seplan avaliar a necessidade de revisão e propor eventual atualização das diretrizes indicadas nesta Seção, bem como da PCSI/TCU, de modo a atualizá-la frente a novos requisitos corporativos. (NR) (Resolução-TCU nº 306, de 16/1/2019, BTCU Administrativo nº 12/2019)
+
+
+
+CAPÍTULO V
+DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 24. As diretrizes inerentes às Políticas Corporativas de Continuidade de Negócios e de Segurança do Trabalho deverão ser oportunamente consolidadas na presente Política, com base em estudos e formulações específicos realizados pelas unidades e colegiados da Secretaria do Tribunal competentes, com posterior exame pela CCG. (NR) (Resolução-TCU nº 287, de 12/4/2017, BTCU nº 14/2017, DOU de 19/4/2017)
+
+
+
+Art. 25. Os contratos, convênios, acordos de cooperação e outros instrumentos congêneres celebrados pelo Tribunal devem observar, no que couber, as disposições desta Política.
+
+
+Art. 26. A não observância dos dispositivos desta Política sujeita os infratores, isolada ou cumulativamente, a sanções administrativas, civis e penais, nos termos da legislação pertinente, assegurados aos envolvidos o contraditório e a ampla defesa. 
+
+
+Art. 27. Fica o Presidente do TCU autorizado a expedir os atos necessários à regulamentação desta Resolução, bem como a dirimir os casos omissos.
+
+
+Art. 28. Fica revogada a Resolução-TCU 217, de 15 de outubro de 2008, a partir da data de início da vigência do respectivo normativo do Presidente do Tribunal que especificará a Política Corporativa de Segurança da Informação (PCSI/TCU).
+
+
+Art. 29. Esta Resolução entra em vigor na data de sua publicação.
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 11 de Junho de 2014.
+
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente
+
+
+
+
+
+Redação anterior:
+
+
+
+.............................................. Por força da Resolução-TCU nº 306, de 16/1/2019...........................................
+
+
+
+Art. 20. Incumbe à Secretaria de Segurança e Serviços de Apoio (Sesap) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança Física e Patrimonial (SGSF/TCU) e da Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU), bem como assessorar a CCG, em parceria com o Comitê de Segurança Institucional (Cosin), em matérias correlatas.
+
+
+Parágrafo único. Compete à Sesap apresentar ao Cosin, no máximo a cada cinco anos, proposta de revisão das diretrizes indicadas nesta Seção, bem como da PCSF/TCU, de modo a atualizá-la frente a novos requisitos corporativos.
+
+
+(...)
+
+
+Art. 23. Incumbe à Assessoria de Segurança da Informação e Governança de TI (Assig) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança da Informação (SGSI/TCU) e da Política Corporativa de Segurança da Informação (PCSI/TCU), bem como assessorar a Comissão de Coordenação Geral (CCG), em parceria com o Comitê de Segurança da Informação (CSI), em matérias correlatas.
+
+
+Parágrafo único. Compete à Assig apresentar ao CSI, no máximo a cada cinco anos, proposta de revisão das diretrizes indicadas nesta Seção, bem como da Política Corporativa de Segurança da Informação (PCSI/TCU), de modo a atualizá-la frente a novos requisitos corporativos.
+
+
+
+.............................................. Por força da Resolução-TCU nº 287, de 12/4/2017...........................................
+
+
+
+Art. 3º (...)
+
+
+§ 1º A PSI/TCU é integrada pelas Políticas Corporativas de Segurança da Informação, Segurança Física e Patrimonial, Continuidade de Negócios, Segurança do Trabalho e Gestão de Riscos à Segurança Institucional. 
+
+
+(...)
+
+
+Art. 7º (...) 
+
+
+(...)
+
+
+V - gestão de riscos à segurança institucional. 
+
+
+(...)
+
+
+§ 7º A gestão de riscos à segurança institucional objetiva mensurar ameaças, riscos e seus potenciais danos à organização, de modo a fornecer subsídios para melhoria da segurança institucional no TCU.
+
+
+(...)
+
+
+Art. 24. As diretrizes inerentes às Políticas Corporativas de Continuidade de Negócios, Segurança do Trabalho e de Gestão de Riscos à Segurança Institucional deverão ser oportunamente consolidadas na presente Política, com base em estudos e formulações específicos realizados pelas unidades e colegiados da Secretaria do Tribunal competentes, com posterior exame pelo Cosin e pela CCG.
+
+
+Não consta revogação expressa
+Dispõe sobre a Política de Segurança Institucional (PSI/TCU) e o Sistema de Gestão de Segurança Institucional do Tribunal de Contas da União (SGSIN/TCU) e altera a Resolução-TCU 253, de 21 de dezembro de 2012, que define a estrutura, as competências e a distribuição das funções de confiança das unidades da Secretaria do Tribunal de Contas da União.
+.............................................. Por força da Resolução-TCU nº 306, de 16/1/2019...........................................
+
+
+
+Art. 20. Incumbe à Secretaria de Segurança e Serviços de Apoio (Sesap) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança Física e Patrimonial (SGSF/TCU) e da Política Corporativa de Segurança Física e Patrimonial (PCSF/TCU), bem como assessorar a CCG, em parceria com o Comitê de Segurança Institucional (Cosin), em matérias correlatas.
+
+Parágrafo único. Compete à Sesap apresentar ao Cosin, no máximo a cada cinco anos, proposta de revisão das diretrizes indicadas nesta Seção, bem como da PCSF/TCU, de modo a atualizá-la frente a novos requisitos corporativos.
+
+(...)
+
+Art. 23. Incumbe à Assessoria de Segurança da Informação e Governança de TI (Assig) coordenar, orientar e acompanhar a implementação do Sistema de Gestão de Segurança da Informação (SGSI/TCU) e da Política Corporativa de Segurança da Informação (PCSI/TCU), bem como assessorar a Comissão de Coordenação Geral (CCG), em parceria com o Comitê de Segurança da Informação (CSI), em matérias correlatas.
+
+Parágrafo único. Compete à Assig apresentar ao CSI, no máximo a cada cinco anos, proposta de revisão das diretrizes indicadas nesta Seção, bem como da Política Corporativa de Segurança da Informação (PCSI/TCU), de modo a atualizá-la frente a novos requisitos corporativos.
+
+
+
+.............................................. Por força da Resolução-TCU nº 287, de 12/4/2017...........................................
+
+
+
+Art. 3º (...)
+
+§ 1º A PSI/TCU é integrada pelas Políticas Corporativas de Segurança da Informação, Segurança Física e Patrimonial, Continuidade de Negócios, Segurança do Trabalho e Gestão de Riscos à Segurança Institucional. 
+
+(...)
+
+Art. 7º (...) 
+
+(...)
+
+V - gestão de riscos à segurança institucional. 
+
+(...)
+
+§ 7º A gestão de riscos à segurança institucional objetiva mensurar ameaças, riscos e seus potenciais danos à organização, de modo a fornecer subsídios para melhoria da segurança institucional no TCU.
+
+(...)
+
+Art. 24. As diretrizes inerentes às Políticas Corporativas de Continuidade de Negócios, Segurança do Trabalho e de Gestão de Riscos à Segurança Institucional deverão ser oportunamente consolidadas na presente Política, com base em estudos e formulações específicos realizados pelas unidades e colegiados da Secretaria do Tribunal competentes, com posterior exame pelo Cosin e pela CCG.
+

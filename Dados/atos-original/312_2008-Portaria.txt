@@ -1,0 +1,478 @@
+Portaria
+312/2008
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições legais e regimentais, e com base no art. 83, § 1º, da Resolução nº 214, de 20 de agosto de 2008, e na Portaria-TCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 31 de março de 2009, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto Pessoa – Automação da Sistemática de Gestão de Pessoas, aprovado pela Portaria-TCU nº 143, de 11 de julho de 2005, e prorrogado pela Portaria-TCU nº 281, de 18 de dezembro de 2007.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 3º Esta Portaria entra em vigor em 12 de dezembro de 2008.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto Pessoa - Automação da Sistemática de Gestão de Pessoas.
+
+ANEXO À PORTARIA-TCU Nº 312, DE 18 DE DEZEMBRO DE 2008
+
+
+
+
+
+
+
+I - Período do projetoII - Unidade patrocinadoraIII - Gestor do projeto
+
+11/07/2005 a 31/12/2007 (original)
+
+01/01/2008 a 12/12/2008 (1ª prorrogação)
+
+Segedam – Segep
+
+Mauro Heuser Boamorte
+1.  Objetivo do projeto
+
+
+Efetuar manutenções corretivas, adaptativas e evolutivas nos sistemas GRH, Folha de Pagamento e Sipad.
+2.  Situação do projeto (em relação ao previsto na proposta)
+IV - Execução em relação ao total do projeto
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+(    ) 41% a 80% executado
+
+( X ) acima de 80% executadoV - Controle
+
+(    ) Execução adiantada
+
+( X ) Execução dentro do previsto
+
+(    ) Execução atrasada
+3.  Cumprimento de metas acordadas nas propostas
+VI - ProdutoVII - QuantoVIII - Data de términoIX - Comentários
+
+a)        
+
+Manutenção evolutiva do Sistema de Gerenciamento de Recursos Humanos - GRH
+
+Requisitos solicitados: 20
+
+Requisitos atendidos: 20
+
+100%
+
+30/09/2007
+
+Concluído, com aceite do patrocinador.
+
+Obs.: Cabe ressaltar que dentre os requisitos previamente solicitados todos foram atendidos, contudo novos requisitos surgem de acordo com a mudança de ambiente.
+
+b)        
+
+Manutenção evolutiva do Sistema Permanente de Avaliação de Desempenho - Sipad
+
+Requisitos solicitados: 11
+
+Requisitos atendidos: 09
+
+100%
+
+30/09/2007
+
+Concluído, com aceite do patrocinador.
+
+Obs.1: Dois requisitos foram cancelados pela Segep.
+
+Obs.2: Cabe ressaltar que dentre os requisitos previamente solicitados todos foram atendidos, contudo novos requisitos surgem de acordo com a mudança de ambiente.
+
+c)        
+
+Manutenção evolutiva da Folha de Pagamento 
+
+Requisitos solicitados: 35
+
+Requisitos atendidos: 35
+
+100%
+
+21/12/2007
+
+Concluído, com aceite do patrocinador.
+
+Obs.1: Cabe ressaltar que dentre os requisitos previamente solicitados todos foram atendidos, contudo novos requisitos surgem de acordo com a mudança de ambiente.
+
+d)        
+
+Acompanhamento de operações correntes
+
+Operações previstas: 632 hdm [1]
+
+Operações já executadas:  632 hdm
+
+100%
+
+31/12/2007
+
+Concluído, com aceite do patrocinador.
+
+ 
+
+1ª Prorrogação
+
+e)        
+
+Documento de visão e protótipos de telas e relatórios
+
+ 
+
+100%
+
+03/04/2008
+
+Concluído, com aceite do patrocinador
+
+Obs.: Os protótipos foram apresentados aos usuários e homologados pelo patrocinador no dia 02/04/2008.
+
+f)         
+
+Função de gestão de afastamento para gozo de férias
+
+ 
+
+100%
+
+ 
+
+Em andamento, 98% executado.
+
+Previsão de entrega: 12/12/2008.
+
+Obs.: É necessário para a conclusão das funções que todas finalizem simultaneamente. Assim, somente quando todas estiverem em fase de conclusão ocorrerá de fato a finalização.
+
+
+ANEXO À PORTARIA-TCU Nº 312, DE 18 DE DEZEMBRO DE 2008
+
+
+
+
+
+
+
+
+I - ProdutoII - QuantoIII - Data de términoIV - Comentários
+
+g)        
+
+Função de gestão de afastamento por recesso regulamentar
+
+ 
+
+100%
+
+ 
+
+Em andamento, 90% executado.
+
+Previsão de entrega: 12/12/2008
+
+Obs.: idem ao produto “f”.
+
+h)        
+
+Função de gestão dos demais afastamentos regulamentares
+
+ 
+
+100%
+
+ 
+
+Em andamento, 90% executado.
+
+Previsão de entrega: 12/12/2008.
+
+Obs.: idem ao produto “f”.
+
+i)         
+
+Função de gestão de trabalho externo
+
+ 
+
+100%
+
+ 
+
+Em andamento, 90% executado.
+
+Previsão de entrega: 12/12/2008.
+
+Obs.: idem ao produto “f”.
+
+j)         
+
+Função de gestão de substituições
+
+ 
+
+100%
+
+ 
+
+Em andamento, 40% executado.
+
+Previsão de entrega: 12/12/2008.
+
+Obs.: idem ao produto “f”.
+
+k)        
+
+Função de gestão de controle da freqüência[2]
+
+ 
+
+100%
+
+ 
+
+Em andamento, 95% executado.
+
+Previsão de entrega: 12/12/2008.
+
+Obs.: idem ao produto “f”.
+
+l)         
+
+Atendimento corrente a demandas pontuais de natureza crítica
+
+100%
+
+ (a)       Em andamento (Rotina)
+
+Obs.: Esse produto trata-se de uma atividade contínua que será realizada até o término do projeto.
+4.  Atividade realizada fora do plano (se couber)
+V - DescriçãoVI - Comentários
+
+a)        
+
+---------------------
+
+ 
+5.  Dificuldade encontrada (se couber)
+VII - DificuldadeVIII - Ação para saneamento
+
+a)        
+
+---------------------
+
+ 
+6.  Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a)        
+
+Redução de inconsistências nos sistemas de informação
+
+b)        
+
+Melhora na qualidade dos produtos e das informações armazenadas nas bases de dados de pessoal
+
+c)        
+
+Aumento na produtividade da gestão de pessoas 
+
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 312, DE 18 DE DEZEMBRO DE 2008
+
+
+
+
+
+7.  Definição do formato da prorrogação
+I - Período da prorrogação
+
+13/12/2008 a 31/03/2009
+
+II - Justificativa da prorrogação
+
+Necessidade de adequação das aplicações de geração da DIRF e RAIS 2009, que necessitam de modificações anuais, de acordo com a determinação governamental. As modificações necessárias só serão emitidas pelo governo ao final de dezembro.
+
+Consolidação do novo módulo de freqüência desenvolvido durante a prorrogação vigente. Esse produto caracteriza-se pelos ajustes necessários inerentes a qualquer sistema novo que entra em produção.III - Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+---------------------
+
+IV - METAV - ProdutoVI - HomologadorVII - Objetivo específicoVIII - QuantoIX - Data de término 
+
+Implantação do novo Módulo de Freqüência
+
+100%
+
+28/02/2009
+
+Sistema implantado
+
+Segep 
+
+Geração da DIRF 2009
+
+100%
+
+28/02/2009
+
+Arquivo com os dados da DIRF[3]
+
+Segep 
+
+Geração da RAIS 2009
+
+100%
+
+31/03/2009
+
+Arquivo com os dados da RAIS3
+
+Segep 
+
+Consolidação do novo módulo de freqüência
+
+100%
+
+31/03/2009
+
+Ajustes pontuais no sistema[4]
+
+Segep
+
+X - Não escopo (o que o projeto não vai fazer)
+
+a)        
+
+---------------------
+
+XI - Identificação das partes envolvidas no projeto (em relação a que)XII - Nome da parte envolvidaXIII - patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)XIV - Item negociado ou a negociar com as partes envolvidas
+
+a)        
+
+Segep
+
+Patrocinador do projeto (responsável pela logística material e humana).
+
+b)        
+
+Setec
+
+Responsável pela logística tecnológica.
+
+XV - Custos estimados (registrar se houver alteração dos custos previstos na proposta)XVI - RecursoXVII - Valor estimadoXVIII - Data inicial de liberação do recurso
+
+a)        
+
+---------------------
+
+ 
+
+ XIX - Total de custos estimados
+
+ 
+
+ 
+
+
+
+
+
+
+ANEXO À PORTARIA-TCU Nº 312, DE 18 DE DEZEMBRO DE 2008
+
+
+
+
+
+I - Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+8.  Finalização
+II - NomeIII - MatrículaIV - LotaçãoV - PeríodoVI - Dedicação integral/ parcial / por atividade 
+
+Alexandre Peixoto Figueira
+
+5523-9
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+Integral 
+
+Edmilson Faria Rodrigues
+
+6236-7
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+Integral 
+
+Ilan Álisson Ferreira Pinheiro
+
+6721-0
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+Integral 
+
+Mauro Heuser Boamorte
+
+3374-0
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+Integral 
+
+Raimundo Eustáquio do Carmo
+
+3180-1
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+Integral 
+
+5 estagiários cedidos pela Segep
+
+--------
+
+Projeto Pessoa
+
+13/12/2008 a 31/03/2009
+
+4 horas/dia
+
+
+
+
+

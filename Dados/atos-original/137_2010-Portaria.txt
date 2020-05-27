@@ -1,0 +1,4636 @@
+Portaria
+137/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o art. 28, incisos XIV e XXXIV, do Regimento Interno, aprovado pela Resolução-TCU nº 155, de 4 de dezembro de 2002,
+
+
+Considerando a necessidade de atualizar a regulamentação, no âmbito do Tribunal de Contas da União, dos procedimentos administrativos que impliquem a necessidade de realização de perícias médicas, resolve:
+
+
+Art. 1º Fica instituído, na forma do Anexo desta Portaria, o Manual de Perícia na Área de Saúde do Tribunal de Contas da União, que define os procedimentos administrativos concernentes a avaliações e inspeções periciais, para fins de concessão de benefícios a servidores ativos e inativos, e pensionistas, bem como de comprovação de aptidão física e mental, na forma da legislação pertinente, e de verificação de declaração de candidato com deficiência, após a aprovação em concurso público. (NR)(Portaria- TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+Art. 2º Fica a Secretaria-Geral de Administração (Segedam) incumbida de promover a atualização periódica das disposições do Manual instituído por esta Portaria, de acordo com a legislação superveniente.
+
+
+Art. 3º A Secretaria de Gestão de Pessoas (Segep) fica incumbida de elaborar, divulgar e manter atualizados as rotinas e formulários necessários à implementação dos procedimentos definidos no Manual de que trata esta Portaria.
+
+
+Art. 4º O disposto no Manual de Perícia de que trata esta Portaria aplica-se, no que couber, aos Ministros, Auditores e Membros do Ministério Público junto a este Tribunal, e respectivos pensionistas.
+
+
+Art. 5º Fica revogada a Portaria-TCU nº 103, de 5 de abril de 2002.
+
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+
+ANEXO À PORTARIA-TCU Nº 137, DE 14 DE MAIO DE 2010
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+
+MANUAL DE PERÍCIA
+
+
+
+
+
+NA
+
+
+
+
+
+ÁREA DE SAÚDE
+
+
+
+
+
+DO
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brasília, 2010
+
+
+
+
+
+
+República Federativa do Brasil
+
+
+
+Tribunal de Contas da União
+
+
+
+
+
+Ministros
+
+
+
+Ubiratan Aguiar, Presidente
+
+
+
+Benjamin Zymler, Vice-Presidente
+
+
+
+Valmir Campelo
+
+
+Walton Alencar
+
+
+Augusto Nardes
+
+
+Aroldo Cedraz
+
+
+Raimundo Carreiro
+
+
+José Jorge
+
+
+José Múcio Monteiro
+
+
+
+
+
+Auditores
+
+
+
+Augusto Sherman Cavalcanti
+
+
+Marcos Bemquerer Costa
+
+
+André Luís de Carvalho
+
+
+Weder de Oliveira
+
+
+
+
+
+Ministério Público
+
+
+
+Lucas Rocha Furtado, Procurador-Geral
+
+
+
+Paulo Soares Bugarin, Subprocurador-Geral
+
+
+
+Marinus Eduardo de Vries Marsico, Procurador
+
+
+
+Cristina Machado da Costa e Silva, Procuradora
+
+
+
+Júlio Marcelo de Oliveira, Procurador
+
+
+
+Sérgio Ricardo Costa Caribé, Procurador
+
+
+
+
+
+
+
+
+
+Fernando Luiz Souza da Eira
+
+
+
+Secretário-Geral de Administração - SEGEDAM
+
+
+
+
+Fernando Silveira Camargo
+
+
+
+Secretário de Gestão de Pessoas - SEGEP
+
+
+
+
+Marcus Seganfredo
+
+
+
+Gerente da Divisão de Saúde - DSAUD
+
+
+
+
+Paulo Salvador
+
+
+
+Chefe do Serviço de Perícia em Saúde - SPS
+
+
+
+
+Jenner Arruda Modesto dos Santos
+
+
+
+Presidente da Junta Médica Oficial
+
+
+
+
+
+
+Organizador:
+
+
+
+Paulo Salvador
+
+
+
+
+Elaboração:
+
+
+
+Jenner Arruda Modesto dos Santos
+
+
+Paulo Salvador
+
+
+
+
+Revisão:
+
+
+
+Marcus Seganfredo
+
+
+Paulo Salvador
+
+
+
+
+Brasil. Tribunal de Contas da União.
+
+Manual de Perícia na Área de Saúde do Tribunal de Contas da União / Secretaria-Geral de Administração / Secretaria de Gestão de Pessoas / Diretoria de Saúde / Serviço de Perícia em Saúde / Jenner Arruda Modesto dos Santos e Paulo Salvador. – Brasília: TCU, 2010.
+
+ 
+
+53 p.
+
+ 
+
+1. Perícia. 2. Perito Oficial. 3. Exame Pericial. 4. Avaliação. 5. Inspeção.
+
+
+                                                                                 Ficha catalográfica
+
+
+
+
+
+Tribunal de Contas da União
+
+
+
+Serviço de Perícia em Saúde
+
+
+Setor de Administração Federal Sul - SAFS
+
+
+Quadra 4 Lote 01 - Edifício Sede Mezanino Sala M42
+
+
+CEP 70042-900, Brasília-DF
+
+
+Tels.: (61) 3316-7178/5321/5046/5134/5097 FAX: (61) 3316-7489
+
+
+e-mail: paulos@tcu.gov.br
+
+
+
+
+
+NOTA EXPLICATIVA
+
+
+
+
+A apresentação deste Manual segue uma estrutura metódica e progressiva composta dos seguintes dispositivos, na ordem:
+
+
+a) capítulo: parte em que se estrutura a exposição dos assuntos do texto e seu indicativo é representado por algarismo romano maiúsculo em ordem crescente;
+
+
+b) seção: principal divisão do texto, contém as matérias consideradas afins na exposição ordenada do assunto, e o seu indicativo é representado por números inteiros em ordem crescente;
+
+
+c) subseções: subdivisões numéricas e progressivas de uma seção e seu indicativo é representado pelo indicativo da seção a que pertence, seguido de números inteiros em ordem crescente, escalonados em níveis conforme o desdobramento do assunto e separados por ponto;
+
+
+d) alínea: representa cada uma das subdivisões de uma subseção, em referência à enumeração, indicada por uma letra minúscula e seguida de parênteses;
+
+
+e) subalínea: representa cada uma das subdivisões de uma alínea, em referência à enumeração, indicada por algarismo romano minúsculo em ordem crescente e seguido de ponto;
+
+
+f) nota: compõe o texto, mas sem interferir na sua sistematização. Tem por objetivo complementar o conteúdo de uma subseção ou alínea a que sucede, e destaca-se utilizando os recursos de negrito, recuo à esquerda e fonte menor que a dos demais dispositivos.
+
+
+
+
+
+
+
+
+
+SUMÁRIO
+
+
+
+
+I
+
+DISPOSIÇÕES GERAIS........................................................................................................................................................
+
+07
+
+1
+
+APRESENTAÇÃO...................................................................................................................................................................
+
+07
+
+2
+
+ATESTADO MÉDICO/ODONTOLÓGICO............................................................................................................................
+
+10
+
+3
+
+SIGILO MÉDICO.....................................................................................................................................................................
+
+11
+
+4
+
+INCAPACIDADE.....................................................................................................................................................................
+
+12
+
+5
+
+EXAME PERICIAL..................................................................................................................................................................
+
+13
+
+6
+
+LAUDO PERICIAL..................................................................................................................................................................
+
+14
+
+ 
+
+ 
+
+ 
+
+II
+
+AVALIAÇÕES E INSPEÇÕES PERICIAIS.......................................................................................................................
+
+15
+
+7
+
+CONCESSÃO DE LICENÇA PARA TRATAMENTO DE SAÚDE.....................................................................................
+
+15
+
+8
+
+CONCESSÃO DE LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA.................................................
+
+17
+
+9
+
+CONCESSÃO DE LICENÇA POR ACIDENTE EM SERVIÇO...........................................................................................
+
+21
+
+10
+
+CONCESSÃO DE LICENÇA À GESTANTE (ANTECIPAÇÃO, ABORTO E NATIMORTO)..........................................
+
+24
+
+11
+
+VERIFICAÇÃO DE CANDIDATO COM DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)............................................................................................................................................................................
+
+26
+
+12
+
+COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL DE CANDIDATO PARA POSSE E DE SERVIDOR APOSENTADO POR TEMPO DE SERVIÇO QUE RETORNAR À ATIVIDADE..............................................................
+
+28
+
+13
+
+REMOÇÃO POR MOTIVO DE DOENÇA DO SERVIDOR, CÔNJUGE, COMPANHEIRO OU DEPENDENTE ...................................................................................................................................................................................................
+
+29
+
+14
+
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR COM DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018).............................................................................................................................................................................
+
+30
+
+15
+
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE COM DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018) .................................................................................................................
+
+31
+
+16
+
+COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA READAPTAÇÃO..............................................................
+
+32
+
+17
+
+CONCESSÃO DE APOSENTADORIA POR INVALIDEZ...................................................................................................
+
+33
+
+18
+
+COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA REVERSÃO......................................................................
+
+34
+
+19
+
+COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA APROVEITAMENTO......................................................
+
+35
+
+20
+
+INSTRUÇÃO DE INCIDENTE DE SANIDADE MENTAL..................................................................................................
+
+36
+
+21
+
+VERIFICAÇÃO DE INDÍCIOS DE LESÕES ORGÂNICAS OU FUNCIONAIS DE SERVIDOR...............................................................................................................................................................................
+
+37
+
+22
+
+ INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA COM DEFICIÊNCIA OU DE PENSÃO TEMPORÁRIA À PESSOA INVÁLIDA (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018).............................................................................................................................................
+
+38
+
+23
+
+ISENÇÃO DE IMPOSTO DE RENDA...................................................................................................................................
+
+39
+
+24
+
+REVISÃO DE APOSENTADORIA PROPORCIONAL DE SERVIDOR APOSENTADO ACOMETIDO DE INVALIDEZ.............................................................................................................................................................................
+
+41
+
+25
+
+VERIFICAÇÃO DA IDADE MENTAL PARA CONCESSÃO DE ASSISTÊNCIA PRÉ-ESCOLAR.................................
+
+42
+
+ 26
+
+INCLUSÃO DE DEPENDENTE COM DEFICIÊNCIA NA ASSISTÊNCIA À SAÚDE ((NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018).....43
+
+43
+
+ 
+
+ 
+
+ 
+
+III
+
+DISPOSIÇÕES FINAIS.........................................................................................................................................................
+
+44
+
+27
+
+CARGO EM COMISSÃO........................................................................................................................................................
+
+44
+
+28
+
+RECURSOS ADMINISTRATIVO E REVISÃO DA CONCLUSÃO PERICIAL.................................................................
+
+45
+
+ 
+
+ 
+
+ 
+
+ 
+
+BIBLIOGRAFIA.....................................................................................................................................................................
+
+47
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Não consta revogação expressa
+Institui o Manual de Perícia na Área de Saúde do Tribunal de Contas da União.
+.................................................Por força da Portaria-TCU nº 386, de 21/12/2018............................................
+
+
+
+Art. 1º Fica instituído, na forma do Anexo desta Portaria, o Manual de Perícia na Área de Saúde do Tribunal de Contas da União, que define os procedimentos administrativos concernentes a avaliações e inspeções periciais, para fins de concessão de benefícios a servidores ativos e inativos, e pensionistas, bem como de comprovação de aptidão física e mental, na forma da legislação pertinente, e de verificação de declaração de candidato portador de deficiência, após a aprovação em concurso público.
+
+(...)
+
+ANEXO DA PORTARIA-TCU Nº 137, DE 14 DE MAIO DE 2010
+
+(...)
+
+
+SUMÁRIO
+
+
+
+II AVALIAÇÕES E INSPEÇÕES PERICIAIS..................................................................................................................................15 
+
+
+
+(...)
+
+
+11 VERIFICAÇÃO DE CANDIDATO PORTADOR DE DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO..............................................................................................................................................................................................26
+
+(...)
+
+	
+14
+
+	
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR PORTADOR DE DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO........................................................................................
+
+	
+30
+
+
+
+
+	
+15
+
+	
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE PORTADOR DE DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO.................................................................................................................................................................................
+
+	
+31
+
+
+	
+(...)
+
+	
+
+
+	
+
+
+
+	
+22
+
+	
+INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA PORTADORA DE DEFICIÊNCIA OU  DE PENSÃO TEMPORÁRIA À PESSOA INVÁLIDA................................................................................................................................
+
+	
+38
+
+
+	
+(...)
+
+	
+
+
+	
+
+
+
+	
+26
+
+	
+INCLUSÃO DE DEPENDENTE PORTADOR DE NECESSIDADES ESPECIAIS NA ASSISTÊNCIA À SAÚDE.....................................................................................................................................................................................
+
+	
+43
+
+
+
+
+(...)
+
+
+I DISPOSIÇÕES GERAIS
+
+
+1 APRESENTAÇÃO
+
+(...)
+
+1.3 Os exames periciais na área de saúde serão realizados para fins de:
+
+
+(...)
+
+e) verificação de candidato portador de deficiência e a sua compatibilidade com as atribuições do cargo;
+
+h) concessão de horário especial ao servidor portador de deficiência, independentemente de compensação de horário;
+
+i) concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente com deficiência física, com compensação de horário;
+
+p) inclusão/exclusão de pensão vitalícia à pessoa portadora de deficiência ou de pensão temporária à pessoa inválida;
+
+t) inclusão de dependente portador de necessidades especiais na assistência à saúde.
+
+(...)
+
+
+11 VERIFICAÇÃO DE CANDIDATO PORTADOR DE DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO
+
+
+11.1 Somente será matriculado em curso de formação para ingresso no quadro de pessoal do TCU o candidato portador de deficiência aprovado em concurso público, após a ratificação da deficiência declarada na inscrição, bem como a sua compatibilidade com o exercício normal das atribuições do cargo.
+
+(...)
+
+11.1.2 Ratificada a sua condição de portador de deficiência, após a inspeção prevista na subseção anterior, o candidato será avaliado por equipe multidisciplinar designada, que verificará se há compatibilidade da deficiência da qual é portador com as atribuições do cargo.
+
+11.2 Será considerado portador de deficiência o candidato que se enquadrar nas categorias previstas no art. 4° do Decreto 3.298/99, alterado pelo Decreto 5.296/04, a saber: 
+
+(...)
+
+
+11.3 Solicitação
+
+
+11.3.1 A solicitação de inspeção médica pericial para verificação de candidato portador de deficiência e de avaliação multidisciplinar para verificação da compatibilidade da deficiência com as atribuições do cargo será efetuada pelo ISC, mediante pedido formal dirigido ao chefe do SPS, constando o nome do candidato, especificação e atribuições do cargo preterido e a deficiência alegada no ato da inscrição.
+
+(...)
+
+
+11.5 Laudo pericial
+
+
+(...)
+
+11.5.2 O candidato considerado portador de deficiência será submetido a avaliação por equipe multiprofissional designada, que emitirá parecer observando: 
+
+(...)
+
+
+11.6 Efeitos
+
+
+11.6.1 O candidato portador de deficiência ao se inscrever deverá observar a compatibilidade do exercício normal das atribuições do cargo ao qual pretende concorrer com a sua deficiência.
+
+11.6.1.1 A responsabilidade por concorrer às vagas destinadas às pessoas portadoras de deficiência é do candidato.
+
+11.6.2 Caso o candidato não tenha sido qualificado pela junta médica como portador da deficiência alegada na inscrição, este perderá o direito de concorrer às vagas reservadas aos candidatos em tal condição e passará a concorrer, em igualdade de condições, com os demais candidatos de ampla concorrência.
+
+11.6.3 Caso o candidato tenha sido qualificado como portador de deficiência, mas a deficiência da qual é portador seja considerada, pela equipe multidisciplinar, incompatível para as atribuições do cargo, este será considerado inapto para o exercício do cargo e, conseqüentemente, reprovado no concurso, para todos os efeitos
+
+(...)
+
+11.6.5.1  A análise dos aspectos relativos ao potencial de trabalho do candidato/servidor portador de deficiência obedecerá ao disposto no art. 20 da Lei no 8.112, de 11 de dezembro de 1990.
+
+(...)
+
+11.6.6 A equipe multidisciplinar tem por objetivo garantir efetivamente a inclusão de pessoas portadoras de deficiência no ambiente de trabalho com conforto, segurança e saúde, compreendendo:
+
+(...)
+
+
+14 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR PORTADOR DE DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO 
+
+
+14.1 Será concedido horário especial ao servidor portador de deficiência, independentemente de compensação de horário, com base em perícia médica.
+
+(...)
+
+14.5.1 A concessão de horário especial ao servidor portador de deficiência corresponderá a redução de 1 (uma) ou 2 (duas) horas diárias e será sem compensação de horário, observando, no que couber, os termos da Portaria-TCU nº 138, de 28 de maio de 2008.
+
+(...)
+
+
+15 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE PORTADOR DE DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO 
+
+
+15.1 Será concedido horário especial ao servidor que tenha cônjuge, filho ou dependente portador de deficiência física, com compensação de horário, com base em perícia médica.
+
+(...)
+
+
+15.5 Efeitos
+
+
+15.5.1 A concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente portador de deficiência física será com compensação de horário.
+
+15.5.2 O Ministro Presidente poderá conceder horário especial de que trata esta seção, em caráter excepcional, ao servidor que presta assistência direta a cônjuge, filho ou dependente portador de deficiência, independentemente de compensação, mediante comprovação e com base em perícia médica.
+
+(...)
+
+
+22 INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA PORTADORA DE DEFICIÊNCIA OU TEMPORÁRIA À PESSOA INVÁLIDA
+
+
+22.1 A pensão será devida à pessoa que viva sob a dependência econômica do servidor, sendo vitalícia, quando portadora de deficiência, e temporária, quando inválida.
+
+22.1.1 Pessoa portadora de deficiência, para os efeitos de concessão de pensão vitalícia, é aquela incapacitada para a vida independente e para o trabalho, em razão de anomalias ou lesões irreversíveis de natureza hereditária, congênitas ou adquiridas, que impeçam o desempenho da vida diária e do trabalho.
+
+(...)
+
+
+26 INCLUSÃO DE DEPENDENTE PORTADOR DE NECESSIDADES ESPECIAIS NA ASSISTÊNCIA À SAÚDE
+
+
+
+
+26.1 Serão incluídos na assistência à saúde os dependentes solteiros, de qualquer idade, portadores de necessidades especiais: filho ou enteado e irmão, mediante comprovação por perícia médica. 
+
+26.1.1 Será considerada portadora de necessidades especiais a pessoa que se enquadrar nas categorias especificadas na subseção 11.2, a saber: deficiência física, deficiência auditiva, deficiência visual, deficiência mental e deficiência múltipla.
+
+
+
+
+26.2 Solicitação
+
+
+26.2.1 A solicitação de inclusão de dependente portador de necessidades especiais na assistência à saúde será a pedido, mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+26.3 Exame pericial
+
+
+26.3.1 A inclusão de dependente portador de necessidades especiais na assistência à saúde está condicionada a inspeção por junta médica oficial.
+
+(...)
+
+
+26.5 Efeitos
+
+
+26.5.1 Para os efeitos de inclusão de dependente portadora de deficiência na assistência à saúde, serão considerados dependentes os que comprovarem o atendimento de quaisquer das condições abaixo relacionadas:
+
+a) filho ou enteado de qualquer idade, portador de deficiência, sem economia própria; 
+
+b) irmão solteiro, portador de deficiência, ou interditado por alienação mental, sem economia própria, que viva sob a exclusiva dependência econômica de servidor e conste como dependente na declaração do Imposto de Renda.
+
+
+
+................................................... Por força da Portaria-TCU nº 1, de 2/1/2018................................................
+
+
+
+10.8.2 No caso de a servidora encontrar-se afastada por quaisquer dos motivos previstos em lei, regulamento ou norma interna, exceto por motivo de doença, a licença terá início no dia imediatamente posterior ao término daqueles afastamentos.
+
+
+
+.............................................. Por força da Portaria-Segedam nº 58, de 29/9/2011...........................................
+
+
+
+
+I DISPOSIÇÕES GERAIS
+
+
+1 APRESENTAÇÃO
+
+1.1  (...)
+
+1.2  (...) 
+
+(...)
+
+j) junta oficial: é a reunião ordinariamente composta por 3 (três) médicos/dentistas oficiais ou por 2 (dois), desde que não haja divergência na conclusão do laudo pericial, responsável pelo exame pericial;
+ANEXO I – PEDIDO DE INSPEÇÃO PERICIAL – PIP.......................................................................................................
+
+
+
+51
+
+ 
+
+ANEXO II – TERMO DE CONVOCAÇÃO PARA INSPEÇÃO PERICIAL.......................................................................
+
+52
+
+ 
+
+ANEXO III – TERMO DE DILIGÊNCIA..............................................................................................................................
+
+53
+
+ 
+
+ANEXO IV – TERMO DE PEDIDO DE INSPEÇÃO PERICIAL EM ÓRGÃO PÚBLICO.................................................
+
+54
+
+
+
+
+
+I DISPOSIÇÕES GERAIS
+
+1 APRESENTAÇÃO
+
+
+
+1.1 Este Manual tem por escopo regulamentar os procedimentos de perícia na área de saúde - avaliação e inspeção -, no âmbito do Tribunal de Contas da União.
+
+
+1.2 Para os efeitos deste Manual, aplicam-se as seguintes definições, na ordem:
+
+
+
+a) atestado médico/odontológico: é o documento onde o médico/dentista assistente registra os fatos detectados em seu exame clínico e os correlaciona para as finalidades previstas em lei, regulamento ou norma interna;
+
+
+b) avaliação ou análise técnica: fundamenta-se, através do conhecimento técnico e científico do profissional perito, em fatos expressos e materialmente documentados em atestados, prontuários, pareceres, laudos e exames complementares ou especializados e, quando necessário, a certificação das informações neles contidas;
+
+
+c) CID-10: representa a décima edição da Classificação Internacional de Doenças e Problemas Relacionados à Saúde, publicada pela Organização Mundial da Saúde (OMS), e é usada mundialmente para estatística e estudos epidemiológicos, onde as doenças estão agrupadas e representadas num esquema de código alfanumérico;
+
+
+d) diligências: são os meios necessários para obtenção de prova para subsidiar a conclusão pericial;
+
+
+e) documentação nosológica: são os documentos que contenham informações de adoecimento, tratamento e diagnóstico do periciando, compreendendo: atestados, prontuários, pareceres, relatórios, laudos e exames complementares ou especializados;
+
+
+f) exame pericial (exame oficial): é o conjunto de exames realizados por médico/dentista perito ou junta oficial para fundamentar a conclusão do laudo pericial e divide-se, segundo a natureza e a complexidade do fato, em avaliação (análise técnica) e/ou inspeção;
+
+
+g) incapacidade: é a impossibilidade de o servidor desempenhar as atribuições inerentes ao seu cargo ou função, em decorrência de limitação funcional física e/ou psíquica provocada por doença, lesão ou acidente;
+
+
+h) inspeção: compreende a avaliação ou análise técnica propriamente dita e o exame clínico do periciando;
+
+
+i) interessado: é a pessoa física legitimada que inicie como titular de direito ou interesse individual;
+
+
+j) junta oficial: é a reunião ordinariamente composta por 3 (três) médicos ou dentistas oficiais, responsáveis pelo exame pericial; (NR) (Portaria-Segedam nº 58, de 29/09/2011, BTCU-Especial  nº 16/2011)
+
+
+
+k) laudo pericial: é o documento formal elaborado por médico/dentista perito ou junta oficial, onde serão registradas as informações clínicas e de diagnóstico (protegidas pelo sigilo médico), e administrativas detectadas na aplicação do conhecimento técnico e científico do profissional em seu exame pericial, que conjuntamente irão fundamentar a conclusão pericial;
+
+
+l) licenças consecutivas: são as licenças de mesma espécie concedidas seguidamente ou interrompidas por períodos sem expediente (sábado, domingo, feriado ou ponto facultativo), os quais serão computados como licença, sem retorno do servidor ao trabalho;
+
+
+m) licenças de mesma espécie: são as que possuem a mesma finalidade (licenças para tratamento de saúde do servidor, licenças por motivo de doença em pessoa da família ou licenças por acidente em serviço), sem qualquer relação com o tipo de doença, lesão ou acidente;
+
+
+n) médico/dentista assistente: é o profissional que acompanha o paciente em sua doença e evolução e, quando necessário, emite o devido atestado ou relatório; 
+
+
+o) nos estados: refere-se às Secretarias de Controle Externo do TCU nos estados da federação;
+
+
+p) órgãos conveniados: são os órgãos públicos federais ou estaduais que mantêm convênio ou acordo de cooperação nos estados, para fins de realização de exames periciais previstos em lei, regulamento ou norma interna;
+
+
+q) parecer pericial: é o documento formal emitido por médico/dentista perito ou junta oficial onde constarão as informações administrativas e a conclusão do laudo pericial, e poderá fazer parte de processo que servirá de base às decisões administrativas;
+
+
+r) pedido de inspeção pericial – PIP (Anexo I): é o documento utilizado pelo servidor para solicitar pedidos de licenças (licença para tratamento de saúde, licença por motivo de doença em pessoa da família, licença por acidente em serviço ou licença à gestante – antecipação, natimorto e aborto);
+
+
+s) perícia oficial (perícia): é o exame pericial realizado por médico/dentista perito e divide-se, segundo sua composição e finalidade, em perícia singular e junta oficial;
+
+
+t) perícia singular: é a perícia oficial realizada por um 1 (um) perito;
+
+
+u) periciando: é a pessoa que foi ou será submetida à perícia, bem como aquela que está sendo avaliada ou acompanhada por perícia oficial;
+
+
+v) perito oficial (médico/dentista oficial; médico/dentista perito; perito): é o médico/dentista do TCU, formalmente designado pela autoridade Administrativa para exercer a função de perito, bem como o médico/dentista investido em função pericial de órgão conveniado, que atuará com isenção e imparcialidade na defesa do interesse Público, em função de direitos e deveres previstos em lei, regulamento ou norma interna;
+
+
+w) prorrogação de licença: é a licença concedida antes do decurso de 60 (sessenta) dias, inclusive, contados do término da anterior da mesma espécie que a antecedeu;
+
+
+x) termo de convocação para inspeção pericial (Anexo II): é o documento utilizado pelo Serviço de Perícia em Saúde (SPS) para notificar o servidor ou interessado de sua perícia, contendo a data, a hora e o local da inspeção;
+
+
+y) termo de diligência (Anexo III): é o documento utilizado pelo Serviço de Perícia em Saúde (SPS) para solicitar os elementos necessários à conclusão pericial;
+
+
+z) termo de pedido de inspeção pericial em órgão público (Anexo IV): é o documento utilizado pelo Serviço de Perícia em Saúde (SPS) para solicitar perícia oficial em órgão público, conveniado ou não, contendo quesitos relacionados à finalidade da perícia.
+
+
+
+NOTA:
+
+
+
+
+A celebração de convênio de cooperação com as Secretarias de Controle Externo nos Estados para realização de perícias oficiais necessárias à concessão de direitos, benefícios, licenças e outros institutos regulamentados, no que se refere ao TCU, será formalizada com base nos §§ 1º e 2º do art. 230 da Lei nº 8.112/90, que assim dispõem:
+
+
+
+
+"Art. 230. [...] 
+
+
+
+
+
+
+§ 1º  Nas hipóteses previstas nesta Lei em que seja exigida perícia, avaliação ou inspeção médica, na ausência de médico ou junta médica oficial, para a sua realização o órgão ou entidade celebrará, preferencialmente, convênio com unidades de atendimento do sistema público de saúde, entidades sem fins lucrativos declaradas de utilidade pública, ou com o Instituto Nacional do Seguro Social - INSS. 
+
+
+
+
+§ 2º  Na impossibilidade, devidamente justificada, da aplicação do disposto no parágrafo anterior, o órgão ou entidade promoverá a contratação da prestação de serviços por pessoa jurídica, que constituirá junta médica especificamente para esses fins, indicando os nomes e especialidades dos seus integrantes, com a comprovação de suas habilitações e de que não estejam respondendo a processo disciplinar junto à entidade fiscalizadora da profissão."
+
+
+
+
+A minuta para celebração de convênio deve ser previamente examinada e aprovada por assessoria jurídica da Administração, de acordo com o parágrafo único do art. 38 da Lei n° 8.666/93, in verbis:
+
+
+
+
+"Art. 38 [...]
+
+
+
+
+Parágrafo único.  As minutas de editais de licitação, bem como as dos contratos, acordos, convênios ou ajustes devem ser previamente examinadas e aprovadas por assessoria jurídica da Administração. (Redação dada pela Lei nº 8.883, de 1994)"
+
+
+
+1.3 Os exames periciais na área de saúde serão realizados para fins de:
+
+
+
+a) concessão de licença para tratamento de saúde;
+
+
+b) concessão de licença por motivo de doença em pessoa da família;
+
+
+c) concessão de licença por acidente em serviço;
+
+
+d) concessão de licença à gestante (antecipação, aborto e natimorto);
+
+
+e) verificação de candidato com deficiência e a sua compatibilidade com as atribuições do cargo; (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+f) comprovação de aptidão física e mental de candidato para posse e de servidor aposentado por tempo de serviço que retornar à atividade;
+
+
+g) remoção por motivo de doença do servidor, cônjuge, companheiro ou dependente;
+
+
+h) concessão de horário especial ao servidor com deficiência, independentemente de compensação de horário; (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+i) concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente com deficiência física, com compensação de horário; (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+j) comprovação de aptidão física e mental para readaptação;
+
+
+k) concessão de aposentadoria por invalidez;
+
+
+l) comprovação de aptidão física e mental para reversão;
+
+
+m) comprovação de aptidão física e mental para aproveitamento;
+
+
+n) instrução de incidente de sanidade mental;
+
+
+o) verificação de indícios de lesões orgânicas ou funcionais de servidor;
+
+
+p) inclusão/exclusão de pensão vitalícia à pessoa com deficiência ou de pensão temporária à pessoa inválida; (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+q) isenção de imposto de renda;
+
+
+r) revisão de aposentadoria proporcional de servidor aposentado acometido de invalidez;
+
+
+s) verificação da idade mental para concessão de assistência pré-escolar;
+
+
+t) inclusão de dependente com deficiência na assistência à saúde. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+
+
+1.4 O requerimento inicial do interessado deverá ser formulado por escrito e conter os seguintes dados:
+
+
+
+a) autoridade Administrativa a que se dirige;
+
+
+b) identificação do interessado ou a quem o represente;
+
+
+c) domicílio do requerente ou local para recebimento de comunicações;
+
+
+d) formulação do pedido, com exposição dos fatos e de seus fundamentos;
+
+
+e) data e assinatura do requerente ou de seu representante legal.
+
+
+
+
+2 ATESTADO MÉDICO/ODONTOLÓGICO
+
+
+
+
+2.1 O atestado é parte integrante do ato médico/odontológico, sendo seu fornecimento direito inalienável do paciente.
+
+
+2.2 Ao fornecer o atestado, deverá o médico/dentista registrar em ficha própria e/ou prontuário os dados dos exames e tratamentos realizados, de maneira que possa atender às pesquisas de informações dos médicos/dentistas peritos dos órgãos públicos e do Poder Judiciário, segundo recomendação dos respectivos conselhos federais desses profissionais.
+
+
+
+NOTA:
+
+
+
+
+A Resolução nº 1.851, de 18 de agosto de 2008, que altera o art. 3º da Resolução CFM nº 1.658, de 13 de fevereiro de 2002, que normatiza a emissão de atestados médicos e dá outras providências, dispõe:
+
+
+
+
+"Art. 1º O artigo 3º da Resolução CFM nº 1.658, de 13 de dezembro de 2002, passa a vigorar com a seguinte redação:
+
+
+
+
+"Art. 3º Na elaboração do atestado médico, o médico assistente observará os seguintes procedimentos:
+
+
+
+
+I - especificar o tempo concedido de dispensa à atividade, necessário para a recuperação do paciente;
+
+
+
+
+II - estabelecer o diagnóstico, quando expressamente autorizado pelo paciente;
+
+
+
+
+III - registrar os dados de maneira legível;
+
+
+
+
+IV - identificar-se como emissor, mediante assinatura e carimbo ou número de registro no Conselho Regional de Medicina.
+
+
+
+
+Parágrafo único. Quando o atestado for solicitado pelo paciente ou seu representante legal para fins de perícia médica deverá observar:
+
+
+
+
+I - o diagnóstico;
+
+
+
+
+II - os resultados dos exames complementares;
+
+
+
+
+III - a conduta terapêutica;
+
+
+
+
+IV - o prognóstico;
+
+
+
+
+V - as conseqüências à saúde do paciente;
+
+
+
+
+VI - o provável tempo de repouso estimado necessário para a sua recuperação, que complementará o parecer fundamentado do médico perito, a quem cabe legalmente a decisão do benefício previdenciário, tais como: aposentadoria, invalidez definitiva, readaptação;
+
+
+
+
+VII - registrar os dados de maneira legível;
+
+
+
+
+VIII - identificar-se como emissor, mediante assinatura e carimbo ou número de registro no Conselho Regional de Medicina.""
+
+
+
+
+2.3 Na elaboração do atestado para justificar falta do servidor ao trabalho, o médico/dentista assistente deverá registrar de maneira legível os seguintes dados:
+
+
+a) o nome do doente ou da pessoa acompanhada;
+
+
+b) o diagnóstico da doença de acordo com a CID-10;
+
+
+c) o período sugerido de afastamento, início e término;
+
+
+d) a assinatura e identificação do emitente, com número de registro no conselho regional;
+
+
+e) a data de sua emissão.
+
+
+2.3.1 Os dados enumerados na subseção anterior são indispensáveis para o exame pericial e têm por objetivo gerar informações pelo sistema de Vigilância Epidemiológica.
+
+
+
+NOTA:
+
+
+
+
+A Lei Orgânica de Saúde – LOS, Lei nº 8.080/90, traz no § 2º do art. 6º a definição de Vigilância Epidemiológica:
+
+
+
+
+"§ 2º Entende-se por vigilância epidemiológica um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos."
+
+
+
+2.4 É obrigatória, aos médicos e dentistas, a exigência de prova de identidade aos interessados na obtenção de atestados de qualquer natureza envolvendo assuntos de saúde ou doença.
+
+
+2.4.1 Em caso de menor ou interdito, a prova de identidade deverá ser exigida de seu responsável legal.
+
+
+2.4.2 Os principais dados da prova de identidade deverão obrigatoriamente constar dos referidos atestados.
+
+
+2.5 Os peritos somente avaliarão o periciando quando o atestado for emitido por médico/dentista habilitado e inscrito no conselho regional da profissão.
+
+
+2.6 O atestado médico/odontológico goza da presunção de veracidade, devendo ser acatado por quem de direito, salvo se houver divergência de entendimento por médico/dentista perito.
+
+
+2.7 O atestado médico/odontológico emitido por médico/dentista assistente e em desconformidade com o que está relacionado neste Manual, se revestido de lisura e perícia técnica é um documento válido, porém, será ineficaz para justificar a falta do servidor ao trabalho por motivo de doença.
+
+
+2.7.1 A recusa da eficácia do atestado não implica em contestar sobre o seu conteúdo, idoneidade ou veracidade das informações.
+
+
+2.8 Em caso de indício de falsidade no atestado, detectado por médico/dentista em função pericial, este se obriga a representar ao conselho regional da profissão de sua jurisdição.
+
+
+
+NOTA:
+
+
+
+
+Atestado falso é crime previsto no Código Penal, podendo ensejar a demissão do servidor.
+
+
+
+2.9 Atestado médico/odontológico e declaração de comparecimento não podem ser confundidos e são válidos para as finalidades a que se destinam. 
+
+
+2.9.1 O atestado, como já definido anteriormente, é o documento onde o médico/dentista assistente registra os fatos detectados no exame clínico e os correlacionam para justificar falta do servidor ao trabalho.
+
+
+
+NOTA:
+
+
+
+
+O atestado é uma declaração formal emitida por médico/dentista no exercício regular de sua profissão, onde atesta um fato já ocorrido.
+
+
+
+2.9.2 A declaração de comparecimento, a qual não precisa necessariamente ser exarada por médico ou dentista, é utilizada para justificar a ausência do servidor ao trabalho para realizar exames, consultas, procedimentos terapêuticos e outras ações, sem fazer uma correlação diagnóstica de uma doença em fase aguda com a conseqüente incapacitação integral para o trabalho.
+
+
+2.10 Os pedidos de licença solicitados em desacordo com o prescrito neste Manual não serão concedidos, salvo por motivo justificado, sendo o respectivo período considerado falta ao serviço, nos termos do art. 44, inciso I, da Lei n° 8.112/90.
+
+
+
+NOTA:
+
+
+
+
+Dispõe o inciso I do art. 44 da Lei n° 8.112/90, redação dada pela Lei n° 9.527/97:
+
+
+
+
+"Art. 44.  O servidor perderá: 
+
+
+
+
+I - a remuneração do dia em que faltar ao serviço, sem motivo justificado;"
+
+
+
+
+
+
+3 SIGILO MÉDICO
+
+
+
+
+3.1 O sigilo médico é espécie de segredo profissional e está protegido pelo Código de Ética Médica, Código Penal, Código Civil e Código de Processo Penal.
+
+
+3.2 O sigilo médico não é absoluto e poderá ser revelado, em caso de exceção, por justa causa, dever legal ou autorização expressa do periciando, de acordo com o Código de Ética Médica, o Código Penal e a Lei de Contravenções Penais.
+
+
+3.2.1 O sigilo médico poderá ser quebrado nos casos de notificação compulsória de doença infecto-contagiosa, determinação legal - e não de autoridade Administrativa ou judiciária - ou autorização por escrito do periciando. 
+
+
+3.3 Os documentos nosológicos que contenham história clínica e diagnóstico serão tratados como sigilosos.
+
+
+3.4 O sigilo médico alcança toda equipe multiprofissional de saúde e pessoas afins, que por dever de ofício tenham acesso às informações confidenciais.
+
+
+3.5 Permanece a manutenção do sigilo médico mesmo que o fato seja de conhecimento público ou que o periciando tenha falecido, e quando em depoimento como testemunha, o médico perito comparecerá perante a autoridade judiciária e declara seu impedimento.
+
+
+3.6 O periciando poderá solicitar vista do prontuário pericial e obter cópias dos dados e documentos que o integram, mediante manifestação escrita ou procuração específica.
+
+
+3.7 Os requerimentos de vista ou cópias de prontuários periciais decorrentes de ações judiciais, processos administrativos, sindicâncias ou de autoridades Administrativas somente poderão ser liberados com autorização específica por escrito do periciando, representante legal ou interessado, este, no que couber. 
+
+
+3.8 Se na instrução de processo criminal for requisitada, por autoridade judiciária competente, a apresentação do conteúdo do prontuário pericial, o médico/dentista perito disponibilizará os documentos ao perito médico/dentista nomeado pelo juiz, para que neles seja realizada a perícia restrita aos fatos em questionamento. 
+
+
+3.9 Não haverá quebra de sigilo quando a revelação visar à proteção de direitos do periciando.
+
+
+3.10 Os documentos protegidos pelo sigilo médico, que porventura tramitarem fora do SPS, deverão ser mantidos em envelopes lacrados e etiquetados com a identificação do remetente e destinatário responsáveis, e, ainda, do processo, se houver.
+
+
+3.10.1 Nos estados, os periciandos, secretários, chefes de SA e servidores em geral deverão observar o disposto na subseção anterior na entrega, recebimento e encaminhamento de documentos protegidos pelo sigilo médico.
+
+4 INCAPACIDADE
+
+
+
+4.1 Na conclusão pela incapacidade laborativa, o perito oficial deverá considerar, além das alterações provocadas por doença, lesão ou acidente, o risco de agravamento da enfermidade ou de vida, para o periciando ou para terceiros, que o exercício da atividade do cargo possa acarretar.
+
+
+4.2 O perito deverá classificar a incapacidade quanto ao grau e à duração.
+
+
+4.2.1 Quanto ao grau, a incapacidade pode ser:
+
+
+a) parcial: permite o desempenho de atividade, sem risco de vida ou agravamento maior;
+
+
+b) total: não permite atingir a média de rendimento alcançada, em condições normais, pelos servidores do mesmo cargo ou função, provocando a impossibilidade de permanecer trabalhando.
+
+
+4.2.2 Quanto à duração, a incapacidade pode ser:
+
+
+a) temporária: a recuperação ocorre em prazo previsível;
+
+
+b) definitiva ou permanente: a recuperação permanece insusceptível de alteração em prazo previsível com os recursos da terapêutica e reabilitação disponíveis.
+
+
+4.3 A invalidez corresponde à incapacidade laborativa total e definitiva.
+
+
+4.3.1 A junta médica oficial atestará a invalidez quando caracterizada a incapacidade total e definitiva do servidor para o desempenho das atribuições do cargo ou função.
+
+
+
+
+5 EXAME PERICIAL
+
+
+
+
+5.1 O exame pericial objetiva verificar a existência de doença, avaliar a capacidade laborativa e julgar o tempo de afastamento necessário para a recuperação da limitação funcional física e/ou psíquica do servidor, acatando ou não o período sugerido pelo médico/dentista assistente. 
+
+
+5.1.1 O exame pericial enfoca o doente e não a doença, pois doença não é sinônimo de incapacidade laborativa, uma pessoa pode ser portadora de enfermidade sem perder a condição física e mental de realizar atividades inerentes às suas funções.
+
+
+
+NOTA:
+
+
+
+
+A perícia oficial para concessão de licença para justificar falta do servidor ao trabalho, bem como nos demais casos de perícia oficial previstos em lei, regulamento ou norma interna, será efetuada por dentistas peritos, nas hipóteses em que abranger o campo de atuação da odontologia. 
+
+
+
+5.2 O servidor será considerado capaz para exercer suas funções quando reunir as condições morfopsicofisiológicas compatíveis com o seu pleno desempenho. Não necessariamente implica ausência de doença ou lesão.
+
+
+5.3 A junta oficial e o médico/dentista perito, sempre que julgar necessário, poderão requisitar a atuação de outros profissionais especializados ou não integrantes do quadro do TCU, convidados de outros órgão e instituições ou contratados.
+
+
+5.4 A critério da Administração, o periciando poderá ser convocado a qualquer momento para ser submetido a exame oficial ou para cumprir diligências, com antecedência mínima de 3 (três) dias úteis, mencionando-se a data, a hora e o local da inspeção.
+
+
+5.4.1 Será punido com suspensão de até 15 (quinze) dias o servidor que, injustificadamente, recusar-se a ser submetido a exame pericial requisitado pela Administração, cessando os efeitos da penalidade a partir da data em que for cumprida a determinação.
+
+
+5.4.2 A convocação poderá ser efetuada por ciência no processo, por expediente, por via postal com aviso de recebimento, por telegrama ou outro meio que assegure a certeza da ciência do periciando ou interessado.
+
+
+5.5 São autoridades competentes para requerer exame pericial à servidor, bem como realizar os procedimentos de convocação, os Titulares da SEGEDAM, da SEGEP, da DSAUD e do SPS, e seus respectivos substitutos em exercício; e os peritos oficiais.
+
+
+5.5.1 Caberá à chefia imediata requerer às autoridades competentes acima exame pericial de servidor que apresentar indícios de lesões orgânicas ou funcionais.
+
+
+5.6 Se a convocação e a diligência solicitadas ao periciando ou interessado forem necessárias à conclusão pericial, o não atendimento no prazo fixado para a respectiva apresentação equivale à desistência do pleito e implicará o seu indeferimento por falta de elementos.
+
+
+5.7 Sempre que necessária, a inspeção pericial será realizada na residência do periciando ou no estabelecimento hospitalar onde se encontrar hospitalizado.
+
+
+5.8 O perito poderá solicitar acompanhamento ou avaliação psicológica ou social, sempre que julgar conveniente.
+
+
+5.9 Em caso de risco iminente, a Administração poderá motivadamente adotar providências acauteladoras sem a prévia manifestação do periciando, representante legal ou do interessado.
+
+
+5.10 O perito tem a prerrogativa de autorizar a presença de acompanhantes durante o exame pericial, e a obrigação de preservar a intimidade do periciando e o sigilo profissional.
+
+
+5.10.1 O perito que sofrer qualquer tipo de constrangimento, pressão ou coação que possam prejudicar o exercício de sua atividade, poderá interromper o exame, fazendo constar a sua motivação em documento pericial.
+
+
+5.10.2 Será assegurada a presença de assistente técnico indicado prévia e formalmente pelo periciando, mediante identificação e prova de regularidade profissional.
+
+
+5.10.3 O menor ou incapaz deverá ser acompanhado de representante legal.
+
+
+
+
+6 LAUDO PERICIAL
+
+
+
+
+6.1 Os dados apurados no exame pericial serão registrados em laudo ou parecer em linguagem clara, objetiva e adequada, pois sua conclusão constituirá documento técnico que servirá de base às decisões administrativas.
+
+
+6.2 Parecer pericial é uma peça que se insere nos autos destinada à prova de fato que dependa de conhecimento técnico e científico.
+
+
+6.3 Os pareceres emitidos pela perícia médica não se referirão ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço, doença profissional ou qualquer das doenças especificadas no § 1° do art. 186 da Lei n° 8.112/90.
+
+
+
+NOTA:
+
+
+
+
+Dispõem o caput e o § 1º do art. 186 da Lei n° 8.112/90:
+
+
+
+
+"Art. 186.  O servidor será aposentado:  (Vide art. 40 da Constituição)
+
+
+
+
+I - por invalidez permanente, sendo os proventos integrais quando decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificada em lei, e proporcionais nos demais casos; 
+
+
+
+
+[...]
+
+
+
+
+§ 1º  Consideram-se doenças graves, contagiosas ou incuráveis, a que se refere o inciso I deste artigo, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira posterior ao ingresso no serviço público, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, espondiloartrose anquilosante, nefropatia grave, estados avançados do mal de Paget (osteíte deformante), Síndrome de Imunodeficiência Adquirida - AIDS, e outras que a lei indicar, com base na medicina especializada." 
+
+
+
+6.4 As conclusões periciais emitidas por órgãos conveniados nos estados poderão ser submetidas à análise da perícia do TCU, que atuará como unidade de apoio técnico e administrativo.
+
+
+6.5 O SPS poderá elaborar quesitos à perícia do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar a conclusão já emitida.
+
+
+
+II AVALIAÇÕES E INSPEÇÕES PERICIAIS
+
+
+
+
+
+7 CONCESSÃO DE LICENÇA PARA TRATAMENTO DE SAÚDE
+
+
+
+
+7.1 Será concedida licença para tratamento de saúde ao servidor para justificar falta ao trabalho por incapacidade laborativa decorrente de doença ou lesão, com base em exame pericial, sem prejuízo da remuneração a que fizer jus.
+
+
+
+7.2 Solicitação
+
+
+
+7.2.1 A solicitação de licença para tratamento de saúde poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante apresentação do formulário Pedido de Inspeção Pericial (PIP) do próprio servidor, acompanhado da documentação nosológica necessária à formulação da decisão (atestado ou relatório médico/odontológico), dirigido ao chefe do SPS na Sede ou ao chefe do SA nos estados. Neste caso, com exceção do PIP, a documentação deverá ser apresentada em envelope lacrado e identificado, para ser enviada ao setor de perícia do órgão conveniado ou ao SPS, conforme o enquadramento do pedido da licença;
+
+
+b) de ofício: não está vinculada à apresentação de atestado e será encaminhada para concessão com base na conclusão pericial.
+
+
+7.2.2 A documentação prevista na alínea "a" da subseção 7.2.1 (PIP e atestado médico/odontológico) deverá ser apresentada no prazo máximo de 5 (cinco) dias contados da data do início do afastamento do servidor.
+
+
+7.2.2.1 Se o prazo previsto na subseção anterior vencer em dia sem expediente, a apresentação da documentação poderá ser feita no primeiro dia subsequente em que seja normal o funcionamento na secretaria do TCU.
+
+
+7.2.3 O servidor que perder o prazo deverá justificar a entrega intempestiva do atestado no verso do PIP ou em documento próprio.
+
+
+7.2.3.1 A justificativa não garante a eficácia do atestado ou a possibilidade de emissão de parecer técnico conclusivo.
+
+
+7.2.4 Deverão constar obrigatoriamente nos atestados: 
+
+
+a) o nome do servidor;
+
+
+b) o diagnóstico da doença com a codificação CID-10;
+
+
+c) o período sugerido de afastamento, início e término;
+
+
+d) a assinatura e identificação do emitente, com número de registro no conselho;
+
+
+e) a data de sua emissão.
+
+
+7.2.4.1 Os dados enumerados na subseção anterior são indispensáveis para o exame pericial dos atestados e o não atendimento implicará no não recebimento ou indeferimento do pedido da licença.
+
+
+7.2.4.2 É assegurado ao servidor o direito de não autorizar a especificação do diagnóstico em seu atestado, hipótese em que deverá submeter-se à perícia oficial, independentemente do prazo da licença requerida.
+
+
+7.2.5 O período solicitado deverá ser o constante no atestado e o dia de início será o de sua emissão, independentemente do horário do atendimento, exceto especificação expressa contrária.
+
+
+7.2.5.1 Se o servidor trabalhou na data inicial do atestado, poderá declarar essa informação no verso do PIP ou do próprio atestado e excluir 1 (um) dia do período do atestado.
+
+
+7.2.6 A licença se inicia em dia útil e termina no último dia fixado para o afastamento, seja útil ou não, sendo classificados como licenças os sábados, domingos, feriados e pontos facultativos intercalados entre licenças consecutivas para tratamento de saúde, sem retorno do servidor ao trabalho.
+
+
+7.2.7 O servidor em licença para tratamento de saúde não pode exercer suas atividades laborais nem as chefias permitirem, estas sujeitas à responsabilidade pelo agravamento da enfermidade.
+
+
+7.2.8 Poderá ser exigida prévia avaliação psicológica ou social, para fins de homologação e/ou concessão da licença.
+
+
+7.2.9 O servidor impossibilitado de comparecer ao trabalho por motivo de doença deve comunicar o fato de imediato à respectiva chefia ou quando se encontrar em condições.
+
+
+
+7.3 Exame pericial
+
+
+
+7.3.1 A perícia que fundamentará a concessão dependerá do prazo da licença sob análise, considerando o acumulado no período de 12 (doze) meses a contar do primeiro dia de afastamento, bem como as prorrogações: 
+
+
+a) para licença de 15 (quinze) até 120 (cento e vinte) dias, mediante avaliação ou inspeção por perícia singular; e
+
+
+b) por prazo superior a 120 (cento e vinte) dias, mediante inspeção por junta oficial.
+
+
+7.3.2 A perícia poderá ser dispensada para a concessão de licença para tratamento de saúde sob análise, desde que:
+
+
+a) não ultrapasse o período de 5 (cinco) dias consecutivos; e
+
+
+b) seja inferior a 15 (quinze) dias acumulados no período de 12 (doze) meses a contar do primeiro dia de afastamento. 
+
+
+7.3.3 A critério da Administração, independentemente do prazo da licença, o servidor poderá ser convocado a qualquer momento para inspeção pericial.
+
+
+7.3.3.1 Os servidores lotados nos estados poderão ser convocados para serem submetidos a inspeção pela junta oficial do SPS, a expensas do TCU.
+
+
+7.3.4 O servidor no curso de licença que se julgar apto a retornar ao trabalho deverá solicitar exame pericial.
+
+
+7.3.4.1 Se o exame pericial concluir pela aptidão, o servidor retornará imediatamente ao trabalho; caso contrário, permanecerá afastado.
+
+
+7.3.5 Sempre que necessária, a inspeção será realizada na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado.
+
+
+
+7.4 Laudo pericial
+
+
+
+7.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+7.4.2 O laudo/parecer pericial emitido pela perícia do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia do SPS.
+
+
+7.4.3 O SPS poderá elaborar quesitos à perícia do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+7.5 Efeitos
+
+
+
+7.5.1 Não será concedida licença durante o período em que o servidor se encontrar afastado por quaisquer dos motivos previstos em lei, regulamento ou norma interna.
+
+
+7.5.2 O servidor que estiver sendo acompanhado por junta oficial somente poderá usufruir férias, recesso ou qualquer outro afastamento, que não por motivo de doença, quando a junta, após a devida inspeção pericial, concluir expressamente que o servidor está apto a retornar as suas atividades laborais.
+
+
+7.5.3 O não cumprimento dos prazos previstos nesta seção poderá ocasionar o indeferimento da licença, sendo os dias de afastamento já ocorridos considerados como de falta não justificada.
+
+
+7.5.4 O atestado intempestivo, mesmo justificado, poderá ter sua análise, homologação e concessão prejudicadas, parcial ou totalmente.
+
+
+7.5.5 Os afastamentos em virtude de licença para tratamento de saúde, até o limite de 730 (setecentos e trinta) dias, cumulativos ao longo do tempo de serviço público prestado à União, em cargo de provimento efetivo, serão considerados como efetivo exercício, contando-se o respectivo tempo de serviço público para todos os efeitos legais.
+
+
+7.5.5.1 O prazo de afastamento que exceder o período da subseção anterior contará apenas para efeito de aposentadoria e disponibilidade.
+
+
+7.5.6 A aposentadoria por invalidez será precedida de licença para tratamento de saúde, por período não excedente a 730 (setecentos e trinta) dias.
+
+
+7.5.6.1 A licença concedida dentro de 60 (sessenta) dias do término de outra da mesma espécie será considerada como prorrogação.
+
+
+7.5.6.2 Expirado o período de licença e não estando em condições de reassumir o cargo ou de ser readaptado, o servidor será aposentado. 
+
+
+7.5.6.3 O lapso de tempo compreendido entre o término da licença e a publicação do ato da aposentadoria será considerado como de prorrogação da licença. 
+
+
+7.5.6.4 Para os fins do disposto na subseção 7.5.6, serão consideradas apenas as licenças motivadas pela enfermidade ensejadora da invalidez ou doenças correlacionadas. 
+
+
+7.5.7 Poderá ser subdelegado ao Titular da Divisão de Saúde e, em seus impedimentos legais, ao respectivo Substituto, o ato de concessão da licença prevista nesta seção.
+
+8 CONCESSÃO DE LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA
+
+
+
+8.1 Poderá ser concedida ao servidor licença por motivo de doença do cônjuge ou companheiro, dos pais, dos filhos, do padrasto ou madrasta e enteado, ou dependente que viva às suas expensas e conste do seu assentamento funcional, mediante comprovação por perícia oficial.
+
+
+8.2 A licença somente será deferida se a assistência direta do servidor for indispensável e não puder ser prestada simultaneamente com o exercício do cargo ou mediante compensação de horário, na forma do disposto no inciso II do art. 44 da Lei n° 8.112/90.
+
+
+
+NOTA:
+
+
+
+
+Dispõe o inciso II do art. 44 da Lei n° 8.112/90, redação dada pela Lei n° 9.527/97:
+
+
+
+
+"Art. 44.  O servidor perderá: 
+
+
+
+
+[...]
+
+
+
+
+II - a parcela de remuneração diária, proporcional aos atrasos, ausências justificadas, ressalvadas as concessões de que trata o art. 97, e saídas antecipadas, salvo na hipótese de compensação de horário, até o mês subseqüente ao da ocorrência, a ser estabelecida pela chefia imediata."
+
+
+
+8.2.1 Assistência direta é o auxílio que o servidor presta à pessoa da família doente (doença em fase aguda) para se locomover, alimentar, e/ou realizar sua higiene pessoal, em tempo integral.
+
+
+8.3 A licença, incluídas as prorrogações, poderá ser concedida a cada período de 12 (doze) a contar do primeiro dia de afastamento, nas seguintes condições:
+
+
+a) com remuneração, por até 60 (sessenta) dias, consecutivos ou não; e
+
+
+b) sem remuneração, por até 90 (noventa) dias, consecutivos ou não.
+
+
+8.3.1 A soma das licenças remuneradas e das licenças não remuneradas, incluídas as respectivas prorrogações, concedidas em um mesmo período de 12 (doze) meses, não poderá ultrapassar os limites estabelecidos nas alíneas "a" e "b" da subseção anterior.
+
+
+8.3.2 Será considerado como início do interstício de 12 (doze) meses a data da primeira licença por motivo de doença em pessoa da família concedida a partir de 29 de dezembro de 2009, nos termos do art. 24 da Lei nº 12.269, de 21 de junho de 2010 (AC)(Portaria-Segedam nº 18, de 27/06/2012, BTCU-Especial nº 14/2012).
+
+
+
+8.4 A licença concedida dentro de 60 (sessenta) dias do término de outra da mesma espécie será considerada como prorrogação.
+
+
+
+
+NOTA: 
+
+
+
+
+Sobre a concessão de licença por motivo de doença em pessoa da família dispõe a Lei n° 8.112/90:
+
+
+
+
+"Art. 81.  Conceder-se-á ao servidor licença: 
+
+
+
+
+I - por motivo de doença em pessoa da família; 
+
+
+
+
+[...]
+
+
+
+
+
+§ 1°  A licença prevista no inciso I do caput deste artigo bem como cada uma de suas prorrogações serão precedidas de exame por perícia médica oficial, observado o disposto no art. 204 desta Lei. (Redação dada pela Lei nº 11.907, de 2009)
+
+
+
+
+§ 3º  É vedado o exercício de atividade remunerada durante o período da licença prevista no inciso I deste artigo. 
+
+
+
+
+Art. 82.  A licença concedida dentro de 60 (sessenta) dias do término de outra da mesma espécie será considerada como prorrogação. 
+
+
+
+
+Art. 83.  Poderá ser concedida licença ao servidor por motivo de doença do cônjuge ou companheiro, dos pais, dos filhos, do padrasto ou madrasta e enteado, ou dependente que viva a suas expensas e conste do seu assentamento funcional, mediante comprovação por perícia médica oficial. (Redação dada pela Lei nº 11.907, de 2009)
+
+
+
+
+§ 1º  A licença somente será deferida se a assistência direta do servidor for indispensável e não puder ser prestada simultaneamente com o exercício do cargo ou mediante compensação de horário, na forma do disposto no inciso II do art. 44. (Redação dada pela Lei nº 9.527, de 10.12.97)
+
+
+
+
+
+§ 2º  A licença de que trata o caput, incluídas as prorrogações, poderá ser concedida a cada período de doze meses nas seguintes condições: (Redação dada pela Medida Provisória nº 479, de 2009)
+
+
+
+
+I - por até sessenta dias, consecutivos ou não, mantida a remuneração do servidor; e (Incluído pela Medida Provisória nº 479, de 2009)
+
+
+
+
+II - por até noventa dias, consecutivos ou não, sem remuneração. (Incluído pela Medida Provisória nº 479, de 2009)
+
+
+
+
+
+§ 3º  O início do interstício de doze meses será contado a partir da data do deferimento da primeira licença concedida. (Redação dada pela Medida Provisória nº 479, de 2009)
+
+
+
+
+§ 4º  A soma das licenças remuneradas e das licenças não remuneradas, incluídas as respectivas prorrogações, concedidas em um mesmo período de doze meses, observado o disposto no § 3º, não poderá ultrapassar os limites estabelecidos nos incisos I e II do § 2º. (Incluído pela Medida Provisória nº 479, de 2009)"
+
+
+
+8.5 Solicitação
+
+
+
+8.5.1 A solicitação de licença por motivo de doença em pessoa da família poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante apresentação do formulário Pedido de Inspeção Pericial (PIP) do próprio servidor, acompanhado da documentação nosológica necessária à formulação da decisão (atestado ou relatório médico/odontológico), dirigido ao chefe do SPS na Sede ou ao chefe do SA nos estados. Neste caso, com exceção do PIP, a documentação deverá ser apresentada em envelope lacrado e identificado, para ser enviada ao setor de perícia do órgão conveniado ou ao SPS, conforme o enquadramento do pedido da licença;
+
+
+b) de ofício: não está vinculada à apresentação de atestado e será encaminhada para concessão com base na conclusão pericial.
+
+
+8.5.2 Cabe ao servidor solicitante manter os assentamentos funcionais atualizados, junto à unidade responsável, para fins de prova e concessão da licença.
+
+
+8.5.2.1 A comprovação do grau de parentesco é produzida por documentação admissível em direito, ficando dispensada sua apresentação quando a pessoa enferma já constar dos assentamentos funcionais do servidor.
+
+
+8.5.3 A documentação prevista na alínea "a" da subseção 8.5.1 (PIP e atestado médico/odontológico) deverá ser apresentada no prazo máximo de 5 (cinco) dias contados da data do início do afastamento.
+
+
+8.5.3.1 Se o prazo previsto na subseção anterior vencer em dia sem expediente, a apresentação da documentação poderá ser feita no primeiro dia subsequente em que seja normal o funcionamento na secretaria do TCU.
+
+
+8.5.4 O servidor que perder o prazo deverá justificar a entrega intempestiva do atestado no verso do PIP ou em documento próprio.
+
+
+8.5.4.1 A justificativa não garante a eficácia do atestado ou a possibilidade de emissão de parecer técnico conclusivo.
+
+
+8.5.5 Deverão constar obrigatoriamente nos atestados:
+
+
+a) o nome do servidor;
+
+
+b) o nome do familiar doente e a idade;
+
+
+c) o diagnóstico da doença do familiar;
+
+
+d) o período sugerido de afastamento, início e término;
+
+
+e) a assinatura e identificação do emitente, com número de registro no conselho;
+
+
+f) a data de sua emissão.
+
+
+8.5.5.1 Os dados enumerados na subseção anterior são indispensáveis para o exame pericial dos atestados e o não atendimento implicará no não recebimento ou indeferimento do pedido da licença.
+
+
+8.5.6 O período solicitado deverá ser o constante no atestado e o dia de início será o de sua emissão, independentemente do horário do atendimento, exceto especificação expressa contrária.
+
+
+8.5.6.1 Se o servidor trabalhou na data inicial do atestado, poderá declarar essa informação no verso do PIP ou do próprio atestado e excluir 1 (um) dia do período do atestado.
+
+
+8.5.7 A licença se inicia em dia útil e termina no último dia fixado para o afastamento, seja útil ou não, sendo classificados como licenças os sábados, domingos, feriados e pontos facultativos intercalados entre licenças consecutivas por motivo de doença em pessoa da família, sem retorno do servidor ao trabalho.
+
+
+8.5.8 O servidor no curso de licença poderá interrompê-la mediante requerimento justificado dirigido ao chefe do SPS.
+
+
+8.5.8.1 Se for deferido o requerimento, o servidor retornará imediatamente ao trabalho, caso contrário, permanecerá afastado.
+
+
+8.5.9 Poderá ser exigida prévia avaliação psicológica ou social, para fins de homologação e/ou concessão da licença.
+
+
+8.5.10 O servidor impossibilitado de comparecer ao trabalho por motivo de doença deve comunicar o fato de imediato à respectiva chefia ou quando se encontrar em condições.
+
+
+8.6 Exame pericial
+
+
+
+8.6.1 A perícia que fundamentará a concessão dependerá do prazo da licença sob análise, considerando o acumulado no período de 12 (doze) meses a contar do primeiro dia de afastamento, bem como as prorrogações: 
+
+
+a) para licença de 15 (quinze) até 120 (cento e vinte) dias, mediante avaliação ou inspeção por perícia singular; e
+
+
+b) para licença de 121 (cento e vinte e um) dias até 150 (cento e cinquenta) dias, mediante inspeção por junta oficial.
+
+
+8.6.2 A perícia poderá ser dispensada para a concessão de licença por motivo de doença em pessoa da família sob análise, desde que:
+
+
+a) não ultrapasse o período de 3 (três) dias consecutivos; e
+
+
+b) seja inferior a 15 (quinze) dias acumulados no período de 12 (doze) meses a contar do primeiro dia de afastamento. 
+
+
+8.6.3 A critério da Administração, independentemente do prazo da licença, a pessoa da família doente poderá ser convocada a qualquer momento para inspeção pericial.
+
+
+8.6.4 Sempre que necessária, a inspeção pericial e a avaliação psicológica ou social serão realizadas na residência da pessoa enferma ou no estabelecimento hospitalar onde se encontrar internada.
+
+
+8.6.4.1 A avaliação social poderá ser feita diretamente com o servidor, bem como a sua complementação.
+
+
+
+8.7 Laudo pericial
+
+
+
+8.7.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+8.7.2 O laudo/parecer pericial emitido pela perícia do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia do SPS.
+
+
+8.7.3 O SPS poderá elaborar quesitos à perícia do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+
+8.8 Efeitos
+
+
+
+8.8.1 Não será concedida licença durante o período em que o servidor se encontrar afastado por quaisquer dos motivos previstos em lei, regulamento ou norma interna.
+
+
+8.8.2 O não cumprimento dos prazos previstos nesta seção poderá ocasionar o indeferimento da licença, sendo os dias de afastamento já ocorridos considerados como de falta não justificada.
+
+
+8.8.3 O atestado intempestivo, mesmo justificado, poderá ter sua análise, homologação e concessão prejudicadas, parcial ou totalmente.
+
+
+8.8.4 O prazo da licença remunerada, que exceder a 30 (trinta) dias em período de 12 (doze) meses, contar-se-á apenas para efeito de aposentadoria e disponibilidade e, para nenhum efeito, aquele concedido sem remuneração.
+
+
+8.8.5 É vedado o exercício de atividade remunerada durante o período da licença por motivo de doença em pessoa da família.
+
+
+8.8.6 O atestado não será recepcionado por falta de enquadramento legal se não atender os requisitos previstos nas subseções 8.3 e 8.3.1.
+
+
+8.8.7 Poderá ser subdelegado ao Titular da Divisão de Saúde e, em seus impedimentos legais, ao respectivo Substituto, o ato de concessão da licença prevista nesta seção.
+9 CONCESSÃO DE LICENÇA POR ACIDENTE EM SERVIÇO
+
+
+
+9.1 Será concedida licença por acidente em serviço ao servidor com base em inspeção do médico do trabalho e/ou pericial se ficar comprovada a incapacidade laborativa, com remuneração integral, em decorrência de dano físico ou mental, com nexo causal, mediata ou imediatamente, com as atribuições do cargo efetivo.
+
+
+9.2 Consideram-se acidente em serviço:
+
+
+
+a) doença profissional: produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade; 
+
+
+ b) doença do trabalho: adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado e com ele se relacione.
+
+
+9.3 Não são consideradas como doença do trabalho:
+
+
+a) a doença degenerativa;
+
+
+
+c) a que não produza incapacidade laborativa; 
+
+
+d) a doença endêmica adquirida por servidor habitante de região em que ela se desenvolva, salvo comprovação de que é resultante de exposição ou contato direto determinado pela natureza do trabalho.
+
+
+9.4 Em caso excepcional, constatando-se que a doença não incluída na relação prevista na subseção 9.3, alíneas "a" e "b", resultou das condições especiais em que o trabalho é executado e com ele se relaciona diretamente, a perícia médica deve considerá-la acidente em serviço.
+
+
+9.5 Equiparam-se também ao acidente em serviço, para efeitos deste Manual:
+
+
+
+a) o acidente ligado ao serviço que, embora não tenha sido a causa única, haja contribuído diretamente para a morte do servidor, para redução ou perda da sua capacidade para o trabalho, ou produzido lesão que exija atenção médica para a sua recuperação;
+
+
+b) o acidente sofrido pelo servidor no local e no horário do trabalho, em conseqüência de:
+
+
+i. ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de trabalho;
+
+
+ii. ofensa física intencional, inclusive de terceiro, por motivo de disputa relacionada ao trabalho;
+
+
+iii. ato de imprudência, de negligência ou de imperícia de terceiro ou de companheiro de trabalho;
+
+
+iv. ato de pessoa privada do uso da razão; 
+
+
+v. desabamento, inundação, incêndio e outros casos fortuitos ou decorrentes de força maior;
+
+
+c) a doença proveniente de contaminação acidental do servidor no exercício de sua atividade; 
+
+
+d) o acidente sofrido pelo servidor ainda que fora do local e horário de trabalho:
+
+
+i. na execução de ordem ou na realização de serviço sob a autorização da chefia;
+
+
+ii. na prestação espontânea de qualquer serviço ao TCU para lhe evitar prejuízo ou proporcionar proveito;
+
+
+iii. em viagem a serviço do TCU, inclusive para estudo quando financiada por este dentro de seus planos para melhor capacitação do seu pessoal, independentemente do meio de locomoção utilizado, inclusive veículo de propriedade do servidor; 
+
+
+iv. no percurso habitual da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do servidor.
+
+
+9.6 Nos períodos destinados a refeição ou descanso, ou por ocasião da satisfação de outras necessidades fisiológicas, no local do trabalho ou durante este, o servidor é considerado no exercício do trabalho.
+
+
+9.7 Não é considerada agravação ou complicação de acidente em serviço a lesão que, resultante de acidente de outra origem, se associe ou se superponha às conseqüências do anterior.
+
+
+9.8 A perícia médica e/ou médico do trabalho considerará caracterizada a natureza acidentária da incapacidade quando constatar ocorrência de nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade do TCU e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças – CID.
+
+
+9.8.1 A perícia médica e/ou médico do trabalho deixará de aplicar o disposto na subseção acima quando demonstrada a inexistência do nexo para efeito de acidente em serviço.
+
+
+
+9.9 Solicitação
+
+
+
+9.9.1 A solicitação de licença por acidente em serviço poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante apresentação do formulário Pedido Inspeção Pericial (PIP) do próprio servidor ou da chefia imediata, acompanhado da documentação nosológica necessária à formulação da decisão (atestado ou relatório do médico assistente e documentos previstos na subseção 9.9.3), dirigido ao chefe do SPS na Sede ou ao chefe do SA nos estados. Neste caso, com exceção do PIP, a documentação deverá ser apresentada em envelope lacrado e identificado, para ser enviada ao setor de perícia médica do órgão conveniado.
+
+
+b) de ofício: não está vinculada à apresentação de atestado ou relatório do médico assistente e será encaminhada para concessão com base na conclusão pericial.
+
+
+9.9.2 O servidor, diretamente ou por meio de terceiros, comunicará a ocorrência de imediato à respectiva chefia, indicando, sempre que possível, seu nome, número de matrícula e 2 (duas) testemunhas.
+
+
+9.9.3 Após a audiência do servidor e de 2 (duas) testemunhas, a chefia imediata, no prazo de 10 (dez) dias, prorrogável quando as circunstâncias o exigirem, encaminhará breve relato cronológico do ocorrido, com a assinatura das pessoas ouvidas, e, quando couber, a certidão de registro policial da ocorrência, ao SPS na Sede ou ao órgão conveniado nos estados, para se juntar ao atestado médico e ao PIPErro! Indicador não definido., conforme alínea "a" da subseção 9.9.1.
+
+
+9.9.4 Considerar-se-á como dia do acidente, no caso de doença profissional ou do trabalho, a data do início da incapacidade laborativa para o exercício da atividade habitual, ou a data da entrada do PIP, ou o dia em que for realizado o diagnóstico, valendo para este efeito o que ocorrer primeiro.
+
+
+9.9.5 Deverão constar obrigatoriamente nos atestados: 
+
+
+a) o nome do servidor;
+
+
+b) o diagnóstico da doença com a codificação CID-10;
+
+
+c) o período sugerido de afastamento, início e término;
+
+
+d) a data e a hora do atendimento;
+
+
+e) a assinatura e identificação do emitente, com número de registro no conselho;
+
+
+f) a data de sua emissão.
+
+
+9.9.5.1 Os dados enumerados na subseção anterior são indispensáveis para o exame pericial dos atestados e o não atendimento implicará no não recebimento ou indeferimento do pedido da licença.
+
+
+9.9.6 O período solicitado deverá ser o constante no atestado e o dia de início será o de sua emissão, independentemente do horário do atendimento, exceto especificação expressa contrária.
+
+
+9.9.7 A licença se inicia em dia útil e termina no último dia fixado para o afastamento, seja útil ou não, sendo classificados como licenças os sábados, domingos, feriados e pontos facultativos intercalados entre licenças consecutivas por acidente em serviço, sem retorno do servidor ao trabalho.
+
+
+9.9.8 O servidor em licença por acidente em serviço não pode exercer suas atividades laborais nem as chefias permitirem, estas sujeitas à responsabilidade pelo agravamento da enfermidade.
+
+
+9.9.9 Poderá ser exigida prévia avaliação psicológica ou social, para fins de homologação e/ou concessão da licença.
+
+
+
+
+9.10 Exame pericial
+
+
+
+9.10.1 A inspeção que fundamentará a concessão dependerá do prazo da licença sob análise, considerando o acumulado no período de 12 (doze) meses a contar do primeiro dia de afastamento, bem como as prorrogações: 
+
+
+a) para licença até 120 (cento e vinte) dias, mediante inspeção por médico do trabalho e/ou perícia singular;
+
+
+b) por prazo superior a 120 (cento e vinte) dias, mediante inspeção por médico do trabalho e/ou junta médica oficial.
+
+
+9.10.2 A critério da Administração, independentemente do prazo da licença, o servidor poderá ser convocado a qualquer momento para inspeção médica pericial.
+
+
+9.10.2.1 Os servidores lotados nos estados poderão ser convocados para serem submetidos a inspeção pela junta médica do SPS, a expensas do TCU.
+
+
+9.10.3 O servidor no curso de licença que se julgar apto a retornar ao trabalho poderá solicitar exame médico pericial.
+
+
+9.10.3.1 Se o exame pericial concluir pela aptidão, o servidor retornará imediatamente ao trabalho; caso contrário, permanecerá afastado.
+
+
+9.10.4 Sempre que necessária, a inspeção será realizada na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado.
+
+
+
+
+9.11 Laudo pericial
+
+
+
+9.11.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+9.11.2 O laudo/parecer pericial emitido pela perícia do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia do SPS.
+
+
+9.11.3 O SPS poderá elaborar quesitos à perícia do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+9.11.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+9.12 Efeitos
+
+
+
+9.12.1 Não será enquadrada como licença por acidente em serviço a incapacidade laboral de servidor decorrente de doença ou lesão já existente na data de ingresso no TCU, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão com nexo causal com as atribuições do cargo efetivo.
+
+
+9.12.2 O servidor acidentado em serviço que necessite de tratamento especializado poderá, mediante recomendação de junta médica oficial, ser tratado em instituição privada, a expensas do TCU, constituindo-se tal medida em exceção que somente será admissível quando inexistirem meios e recursos adequados em instituição pública local.
+
+
+9.12.3 O não cumprimento dos prazos previstos nesta seção poderá ocasionar o indeferimento da licença, sendo os dias de afastamento já ocorridos considerados como de falta não justificada.
+
+
+9.12.4 Os afastamentos em virtude de licença por acidente em serviço são considerados como efetivo exercício, contando-se o tempo de serviço público para todos os efeitos legais.
+
+
+9.12.5 O servidor que estiver sendo acompanhado por junta médica somente poderá usufruir férias, recesso ou qualquer outro afastamento, que não por motivo de doença, quando a junta, após a devida inspeção pericial, concluir expressamente que o servidor está apto a retornar as suas atividades laborais.
+
+
+9.12.6 A aposentadoria por invalidez será precedida de licença por acidente em serviço, por período não excedente a 730 (setecentos e trinta) dias.
+
+
+9.12.6.1 A licença concedida dentro de 60 (sessenta) dias do término de outra da mesma espécie será considerada como prorrogação.
+
+
+9.12.6.2 Expirado o período de licença e não estando em condições de reassumir o cargo ou de ser readaptado, o servidor será aposentado. 
+
+
+9.12.6.3 O lapso de tempo compreendido entre o término da licença e a publicação do ato da aposentadoria será considerado como de prorrogação da licença. 
+
+
+9.12.6.4 Para os fins do disposto na subseção 9.12.6, serão consideradas apenas as licenças motivadas pela enfermidade ensejadora da invalidez ou doenças correlacionadas. 
+
+
+9.12.7 Poderá ser subdelegado ao Titular da Divisão de Saúde e, em seus impedimentos legais, ao respectivo Substituto, o ato de concessão da licença prevista nesta seção.
+
+
+
+
+10 CONCESSÃO DE LICENÇA À GESTANTE (ANTECIPAÇÃO, ABORTO E NATIMORTO)
+
+
+
+
+10.1 A concessão de licença à gestante nos casos de antecipação do termo inicial por prescrição médica, natimorto ou aborto será precedida de perícia médica.
+
+
+10.2 A antecipação do termo inicial da licença caberá por qualquer intercorrência clínica proveniente do estado gestacional, verificada antes da 36ª (trigésima sexta) semana de gestação.
+
+
+10.2.1 Após o prazo previsto na subseção anterior, a licença poderá será concedida sem prévio exame pericial, a pedido da servidora.
+
+
+10.3 No caso de aborto, a servidora fará jus a 30 (trinta) dias de repouso remunerado.
+
+
+10.3.1 Após o prazo previsto na subseção anterior, se a servidora se julgar incapaz para o trabalho deverá entrar com pedido de licença para tratamento de saúde.
+
+
+10.4 No caso de natimorto, após os 30 (trinta) dias de repouso remunerado, se a servidora não estiver apta para reassumir o cargo, será concedida licença para tratamento de saúde.
+
+
+
+10.5 Solicitação
+
+
+
+10.5.1 A solicitação da antecipação da licença à gestante, natimorto ou aborto poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante apresentação do formulário Pedido de Inspeção Pericial (PIP) da própria servidora, acompanhado da documentação nosológica necessária à formulação da decisão (atestado ou relatório emitido pelo médico assistente e exames específicos), dirigido ao chefe do SPS na Sede ou ao chefe do SA nos estados. Neste caso, com exceção do PIP, a documentação deverá ser apresentada em envelope lacrado e identificado, para ser enviada ao setor de perícia do órgão conveniado;
+
+
+b) de ofício: não está vinculada à apresentação de atestado ou relatório do médico assistente e será encaminhada para concessão com base na conclusão pericial.
+
+
+10.5.2 A documentação prevista na alínea "a" da subseção 10.5.1 (PIP e atestado médico/odontológico) deverá ser apresentada no prazo máximo de 5 (cinco) dias contados da data do evento.
+
+
+10.5.2.1 Se o prazo previsto na subseção anterior vencer em dia sem expediente, a apresentação da documentação poderá ser feita no primeiro dia subsequente em que seja normal o funcionamento na secretaria do TCU.
+
+
+10.6 Exame pericial
+
+
+
+10.6.1 A concessão da antecipação da licença à gestante, natimorto ou aborto será precedida de inspeção por médico perito.
+
+
+10.6.1.1 Quanto for emitido por cartório o atestado específico para o natimorto, não caberá exame médico pericial, pois o documento dá à servidora o direito de requerer 30 (trinta) dias de repouso remunerado, junto à unidade responsável.
+
+
+
+10.7 Laudo pericial
+
+
+
+10.7.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+10.7.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+10.7.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+
+10.8 Efeitos
+
+
+
+10.8.1 A licença à gestante em curso será reenquadrada, observando o disposto na subseção 10.4, a partir da data da ocorrência dos seguintes eventos supervenientes:
+
+
+a) natimorto: no caso de licença antecipada, ou seja, iniciada antes do parto;
+
+
+b) falecimento do filho.
+
+
+10.8.2 No caso de a servidora encontrar-se afastada por motivo de férias, a licença terá início no dia imediatamente posterior ao término do mencionado afastamento. (NR) (Portaria-TCU nº 1, de 2/1/2018, BTCU Administrativo nº 3/2018)
+
+
+
+10.8.3 A licença à gestante por antecipação, natimorto ou aborto contará como efetivo exercício para todos os efeitos legais.
+
+
+10.8.4 Poderá ser subdelegado ao Titular da Divisão de Saúde e, em seus impedimentos legais, ao respectivo Substituto, o ato de concessão da licença prevista nesta seção.
+
+
+
+11 VERIFICAÇÃO DE CANDIDATO COM DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO 
+(NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.1 Somente será matriculado em programa de formação para ingresso no quadro de pessoal do TCU o candidato com deficiência aprovado em concurso público, após a ratificação da deficiência declarada na inscrição, bem como a sua compatibilidade com o exercício normal das atribuições do cargo. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.1.1 A deficiência declarada pelo candidato na inscrição será verificada com base em inspeção por junta médica oficial.
+
+
+11.1.2 Ratificada a sua condição de pessoa com deficiência, após a inspeção prevista na subseção anterior, o candidato será avaliado por equipe multidisciplinar designada, que verificará se há compatibilidade da deficiência apresentada com as atribuições do cargo. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.2 Será considerado com deficiência o candidato que se enquadrar nas categorias previstas no art. 4° do Decreto 3.298/99, alterado pelo Decreto 5.296/04, a saber: (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+a) Deficiência física: alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam dificuldades para o desempenho de funções;
+
+
+
+b) Deficiência auditiva: perda bilateral, parcial ou total, de quarenta e um decibéis (dB) ou mais, aferida por audiograma nas freqüências de 500HZ, 1.000HZ, 2.000Hz e 3.000Hz;
+
+
+c) Deficiência visual: cegueira, na qual a acuidade visual é igual ou menor que 0,05 no melhor olho, com a melhor correção óptica; a baixa visão, que significa acuidade visual entre 0,3 e 0,05 no melhor olho, com a melhor correção óptica; os casos nos quais a somatória da medida do campo visual em ambos os olhos for igual ou menor que 60°; ou a ocorrência simultânea de quaisquer das condições anteriores;
+
+
+d) Deficiência mental: funcionamento intelectual significativamente inferior à média, com manifestação antes dos dezoito anos e limitações associadas a duas ou mais áreas de habilidades adaptativas, tais como: 
+
+
+i. comunicação;
+
+
+ii. cuidado pessoal;
+
+
+iii. habilidades sociais; 
+
+
+
+iv. utilização dos recursos da comunidade;
+
+
+v. saúde e segurança;
+
+
+vi. habilidades acadêmicas;
+
+
+vii. lazer; 
+
+
+viii. trabalho;
+
+
+e) Deficiência múltipla: associação de duas ou mais deficiências.
+
+
+
+
+11.3 Solicitação
+
+
+
+11.3.1 A solicitação de inspeção médica pericial para verificação de candidato com deficiência e de avaliação multidisciplinar para verificação da compatibilidade da deficiência com as atribuições do cargo será efetuada pelo ISC, mediante pedido formal dirigido ao chefe do SPS, constando o nome do candidato, especificação e atribuições do cargo preterido e a deficiência alegada no ato da inscrição. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.3.2 As convocações para inspeção e avaliação presenciais poderão ser realizadas pelo SPS e ratificadas pelo ISC.
+
+
+
+11.4 Exame pericial
+
+
+
+11.4.1 O exame pericial e a avaliação multidisciplinar ficarão a cargo do TCU. 
+
+
+11.4.1.1 O candidato deverá trazer relatório médico e exames especializados que atestem a deficiência alegada no ato da inscrição.
+
+
+11.4.1.2 A junta médica oficial poderá requisitar a presença de médicos especialistas e exames especializados que julgar necessários para fundamentar a conclusão pericial.
+
+
+11.4.1.3 A equipe multidisciplinar designada pelo ISC será composta de profissionais capacitados e atuantes nas áreas das deficiências em questão, sendo 1 (um) médico e 3 (três) servidores integrantes quadro de pessoal do TCU.
+
+
+
+
+11.5 Laudo pericial
+
+
+
+11.5.1 As constatações da junta médica oficial deverão ser registradas em laudo pericial.
+
+
+11.5.2 O candidato considerado com deficiência será submetido a avaliação por equipe multiprofissional designada, que emitirá parecer observando: (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+a) se há elementos suficientes que permitam concluir que a deficiência do candidato é compatível com a natureza das atribuições e tarefas essenciais do cargo ou da função a desempenhar;
+
+
+b) se há viabilidade das condições de acessibilidade e das adequações do ambiente de trabalho na execução das tarefas;
+
+
+c) se há possibilidade de uso, pelo candidato, de equipamentos ou outros meios que habitualmente utilize;
+
+
+d) se o candidato deverá ser matriculado no curso de formação para ingresso no quadro de pessoal do TCU;
+
+
+e) se a avaliação da deficiência com a compatibilidade do cargo deverá ser avaliada durante o curso de formação e/ou o estágio probatório.
+
+
+
+
+11.6 Efeitos
+
+
+
+11.6.1 O candidato com deficiência ao se inscrever deverá observar a compatibilidade do exercício normal das atribuições do cargo ao qual pretende concorrer com a sua deficiência. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.6.1.1 A responsabilidade por concorrer às vagas destinadas às pessoas com deficiência é do candidato. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.6.2 Caso o candidato não tenha sido qualificado pela junta médica com a deficiência alegada na inscrição, este perderá o direito de concorrer às vagas reservadas aos candidatos em tal condição e passará a concorrer, em igualdade de condições, com os demais candidatos de ampla concorrência. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.6.3 Caso o candidato tenha sido qualificado com deficiência, mas a deficiência a qual apresenta seja considerada, pela equipe multidisciplinar, incompatível para as atribuições do cargo, este será considerado inapto para o exercício do cargo e, consequentemente, reprovado no concurso, para todos os efeitos. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+11.6.4 As despesas decorrentes de consultas, exames especializados e deslocamentos correrão a expensas do candidato. 
+
+
+11.6.5  A equipe multiprofissional avaliará a compatibilidade entre as atribuições do cargo e a deficiência durante o estágio probatório.
+
+
+11.6.5.1 A análise dos aspectos relativos ao potencial de trabalho do candidato/servidor com deficiência obedecerá ao disposto no art. 20 da Lei no 8.112, de 11 de dezembro de 1990. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+NOTA:
+
+
+
+
+Dispõe o art. 20 da Lei n° 8.112/90:
+
+
+
+
+"Art. 20.  Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo ficará sujeito a estágio probatório por período de 24 (vinte e quatro) meses, durante o qual a sua aptidão e capacidade serão objeto de avaliação para o desempenho do cargo, observados os seguinte fatores: (vide EMC nº 19)
+
+
+
+
+I - assiduidade; 
+
+
+
+
+II - disciplina; 
+
+
+
+
+III - capacidade de iniciativa; 
+
+
+
+
+IV - produtividade; 
+
+
+
+
+V- responsabilidade. 
+
+
+
+
+
+§ 1º  4 (quatro) meses antes de findo o período do estágio probatório, será submetida à homologação da autoridade competente a avaliação do desempenho do servidor, realizada por comissão constituída para essa finalidade, de acordo com o que dispuser a lei ou o regulamento da respectiva carreira ou cargo, sem prejuízo da continuidade de apuração dos fatores enumerados nos incisos I a V do caput deste artigo. (Redação dada pela Lei nº 11.784, de 2008
+
+
+
+
+§ 2º  O servidor não aprovado no estágio probatório será exonerado ou, se estável, reconduzido ao cargo anteriormente ocupado, observado o disposto no parágrafo único do art. 29. 
+
+
+
+
+
+§ 3º  O servidor em estágio probatório poderá exercer quaisquer cargos de provimento em comissão ou funções de direção, chefia ou assessoramento no órgão ou entidade de lotação, e somente poderá ser cedido a outro órgão ou entidade para ocupar cargos de Natureza Especial, cargos de provimento em comissão do Grupo-Direção e Assessoramento Superiores - DAS, de níveis 6, 5 e 4, ou equivalentes. (Incluído pela Lei nº 9.527, de 10.12.97)
+
+
+
+
+§ 4º  Ao servidor em estágio probatório somente poderão ser concedidas as licenças e os afastamentos previstos nos arts. 81, incisos I a IV, 94, 95 e 96, bem assim afastamento para participar de curso de formação decorrente de aprovação em concurso para outro cargo na Administração Pública Federal. (Incluído pela Lei nº 9.527, de 10.12.97)
+
+
+
+
+§ 5º  O estágio probatório ficará suspenso durante as licenças e os afastamentos previstos nos arts. 83, 84, § 1o, 86 e 96, bem assim na hipótese de participação em curso de formação, e será retomado a partir do término do impedimento. (Incluído pela Lei nº 9.527, de 10.12.97)"
+
+
+
+
+
+
+11.6.6 A equipe multidisciplinar tem por objetivo garantir efetivamente a inclusão de pessoas com deficiência no ambiente de trabalho com conforto, segurança e saúde, compreendendo: (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+a) adaptação do posto de trabalho;
+
+
+b) acessibilidade;
+
+
+c) adequação de lotação;
+
+
+d) acompanhamento funcional sistemático.
+
+
+11.6.7 Em caso de divergência ao disposto nesta seção, prevalecerá o Edital de Abertura do Concurso para ingresso no quadro de pessoal do TCU.
+
+
+
+
+12 COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL DE CANDIDATO PARA POSSE E DE SERVIDOR APOSENTADO POR TEMPO DE SERVIÇO QUE RETORNAR À ATIVIDADE
+
+
+
+
+12.1 Somente será empossado em cargo efetivo ou em comissão o candidato que, em prévia inspeção por médico perito, for julgado apto física e mentalmente para o exercício do cargo.
+
+
+12.2 O servidor aposentado por tempo de serviço que retornar à atividade no interesse da Administração será submetido aos mesmos procedimentos por ocasião da inspeção médica oficial para posse, com exceção da inspeção que será por junta médica oficial.
+
+
+
+12.3 Solicitação
+
+
+
+12.3.1 A solicitação de inspeção médica oficial será de ofício, sendo:
+
+
+a) para o candidato ao cargo efetivo ou em comissão, realizada pelo Serviço de Gestão do Desempenho e Movimentação (SEDEM) ao SPS, mediante encaminhamento do formulário Exame Prévio de Capacidade Física e Sanidade Mental;
+
+
+b) para o servidor aposentado, realizada pela Secretaria de Gestão de Pessoas ao SPS, mediante despacho em processo administrativo específico.
+
+
+
+
+12.4 Exame pericial
+
+
+
+12.4.1 O exame pericial será realizado no SPS.
+
+
+12.4.2 O SPS fará a convocação para o exame pericial e encaminhará os pedidos de exames prévios que deverão ser apresentados pelo candidato ou pelo servidor aposentado na ocasião da inspeção.
+
+
+12.4.3 A perícia médica poderá requisitar exames especializados que julgar necessários para fundamentar sua conclusão.
+
+
+
+
+12.5 Laudo pericial
+
+
+
+12.5.1 A perícia médica deverá concluir no laudo pericial se o candidato ou servidor aposentado está apto ou não física e mentalmente para o exercício do cargo.
+
+
+
+
+12.6 Efeitos
+
+
+
+12.6.1 A expensas dos exames prévios e especializados, e do deslocamento ficarão a cargo do candidato ou do servidor aposentado. 
+
+
+
+
+
+
+13 REMOÇÃO POR MOTIVO DE DOENÇA DO SERVIDOR, CÔNJUGE, COMPANHEIRO OU DEPENDENTE
+
+
+
+
+
+
+13.1 É a remoção a pedido, para outra localidade, independentemente do interesse da Administração por motivo de saúde do servidor, cônjuge, companheiro ou dependente que viva às suas expensas e conste do seu assentamento funcional, condicionada à comprovação por junta médica oficial.
+
+
+
+
+13.2 Solicitação
+
+
+
+13.2.1 A solicitação de remoção por motivo de doença será a pedido, mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+13.3 Exame pericial
+
+
+
+13.3.1 A remoção por motivo de doença do servidor, cônjuge, companheiro ou dependente está condicionada à prévia inspeção por junta médica oficial.
+
+
+13.3.1.1 No caso de o servidor ser o periciando, o local da inspeção será definido pelo presidente da junta médica oficial do SPS, e eventuais custos poderão correr a expensas do TCU.
+
+
+13.3.1.2 Nos demais casos, a inspeção será realizada na unidade da federação onde residir o periciando.
+
+
+13.3.2 A critério da Administração, a remoção poderá ser reavaliada a qualquer momento para verificação da permanência das condições que ensejaram a concessão.
+
+
+
+13.4 Laudo pericial
+
+
+
+13.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+13.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, será submetido a análise técnica da perícia médica do TCU.
+
+
+13.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+13.4.4 O laudo pericial não fará referência a uma localidade específica, salvo no caso de tratamento prestado em único centro de atenção à saúde.
+
+
+
+
+13.5 Efeitos
+
+
+
+13.5.1 Não fará jus à remoção:
+
+
+a) se a doença alegada no pedido preexistia à data de ingresso do servidor no Tribunal;
+
+
+b) seja em decorrência da reintegração da unidade familiar ou por causa de doença, o servidor que, na sua primeira investidura, voluntariamente e por sua conta e risco deixou o local em que residia para desempenhar as atribuições do cargo em outro local.
+
+
+13.5.2 A remoção será mantida enquanto permanecerem inalteradas as condições que motivaram sua concessão.
+
+
+13.5.3 Salvo disposição contrária devidamente justificada em laudo pericial, a remoção será reavaliada anualmente.
+
+
+13.5.4 O servidor que tiver seu pedido deferido será removido com lotação provisória na unidade de destino.
+
+
+
+14 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR COM DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO 
+(NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+14.1 Será concedido horário especial ao servidor com deficiência, independentemente de compensação de horário, com base em perícia médica. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+
+14.2 Solicitação
+
+
+
+14.2.1 A solicitação de concessão de horário especial será a pedido mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+14.3 Exame pericial
+
+
+
+14.3.1 O horário especial será concedido com base em inspeção por junta médica oficial.
+
+
+14.3.1.1 O local da inspeção será definido pelo presidente da junta médica oficial do SPS, e eventuais custos poderão correr a expensas do TCU.
+
+
+14.3.2 A critério da Administração, o servidor com horário especial poderá ser convocado a qualquer momento para verificação da permanência das condições que ensejaram a concessão.
+
+
+
+14.4 Laudo pericial
+
+
+
+14.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+14.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+14.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+
+14.5 Efeitos
+
+
+
+14.5.1 A concessão de horário especial ao servidor com deficiência corresponderá a redução de 1 (uma) ou 2 (duas) horas diárias e será sem compensação de horário, observando, no que couber, os termos da Portaria-TCU nº 138, de 28 de maio de 2008. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+NOTA:
+
+
+
+
+A Junta Médica Oficial do TCU entende que o servidor que não tenha condições de saúde para trabalhar mais de 70% (setenta por cento) da sua jornada de trabalho contratual, deverá ser afastado por incapacidade ou aposentado por invalidez.
+
+
+
+Quadro demonstrativo da redução relativa da jornada de trabalho
+
+Redução
+
+Para jornada de 7 horas
+
+Para jornada de 8 horas
+
+1 hora
+
+14,29%
+
+12,5%
+
+2 horas
+
+28,57%
+
+25%
+
+
+14.5.2 O horário especial do servidor será mantido enquanto permanecerem inalteradas as condições que motivaram sua concessão.
+
+
+14.5.3 Salvo disposição contrária devidamente justificada em laudo pericial, a concessão de horário especial será reavaliada anualmente.
+
+
+
+15 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE COM DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO 
+(NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+15.1 Será concedido horário especial ao servidor que tenha cônjuge, filho ou dependente com deficiência física, com compensação de horário, com base em perícia médica. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+
+15.2 Solicitação
+
+
+
+15.2.1 A solicitação de concessão de horário especial será a pedido mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+15.3 Exame pericial
+
+
+
+15.3.1 O horário especial será concedido com base em inspeção por junta médica oficial.
+
+
+15.3.1.1 A inspeção será realizada na unidade da federação onde residir o periciando.
+
+
+15.3.2 A critério da Administração, o servidor com horário especial poderá ser convocado a qualquer momento para verificação da permanência das condições que ensejaram a concessão.
+
+
+
+
+15.4 Laudo pericial
+
+
+
+15.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+15.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+15.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+
+
+15.5 Efeitos
+
+
+
+15.5.1 A concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente com deficiência física será com compensação de horário. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+15.5.2 O Ministro Presidente poderá conceder horário especial de que trata esta seção, em caráter excepcional, ao servidor que presta assistência direta a cônjuge, filho ou dependente com deficiência, independentemente de compensação, mediante comprovação e com base em perícia médica. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+15.5.2.1 A comprovação de que trata a subseção acima refere-se à documentação nosológica que justifique a necessidade da redução da jornada de trabalho.
+
+
+15.5.2.2 A concessão de horário especial em caráter excepcional está limitada à redução da jornada de trabalho para até 30 (trinta) horas semanais, observando, no que couber, os termos da Portaria –TCU nº 138, de 28 de maio de 2008.
+
+
+15.5.3 O horário especial do servidor será mantido enquanto permanecerem inalteradas as condições que motivaram sua concessão.
+
+
+15.5.4 Salvo disposição contrária devidamente justificada em laudo pericial, a concessão de horário especial será reavaliada anualmente.
+
+
+
+
+16 COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA READAPTAÇÃO
+
+
+
+
+16.1 Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental verificada em inspeção médica pericial.
+
+
+
+
+16.2 Solicitação
+
+
+
+16.2.1 A solicitação de readaptação poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante requerimento do próprio servidor ou da chefia imediata que constatar as limitações do servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo;
+
+
+b) de ofício: precedida de licença para tratamento de saúde ou por acidente em serviço, por até 730 dias (setecentos e trinta dias), conforme recomendação da junta médica oficial.
+
+
+16.2.2 A licença concedida dentro de 60 (sessenta) dias do término de outra de mesma espécie será considerada como prorrogação.
+
+
+
+
+16.3 Exame pericial
+
+
+
+16.3.1 O servidor será submetido à inspeção por junta médica oficial, a qual recomendará a readaptação quando verificada a capacidade para o desempenho das atribuições de outro cargo.
+
+
+16.3.1.1 O presidente da junta médica oficial do SPS poderá definir o local da inspeção, a expensas do TCU.
+
+
+16.3.2 Se julgado incapaz para o trabalho, o readaptado será aposentado.
+
+
+
+
+16.4 Laudo pericial
+
+
+
+16.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+16.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+16.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+16.4.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+16.5 Efeitos
+
+
+
+16.5.1 A readaptação será efetivada em cargo de atribuições afins, respeitada a habilidade exigida, nível de escolaridade e equivalência de vencimentos e, na hipótese de inexistência de cargo vago, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.
+
+
+
+
+17 CONCESSÃO DE APOSENTADORIA POR INVALIDEZ
+
+
+
+
+17.1 É aposentadoria do servidor causada por limitação física e/ou mental, que o incapacita para o desempenho das atribuições do cargo, com base em inspeção por junta médica oficial, decorrente de: 
+
+
+a) acidente em serviço ou moléstia profissional;
+
+
+b) doença grave, contagiosa ou incurável, especificada em lei; 
+
+
+c) outras causas, doença não especificada em lei.
+
+
+
+
+17.2 Solicitação
+
+
+
+17.2.1 A solicitação de aposentadoria por invalidez poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante requerimento do próprio servidor ou da chefia imediata que constatar a limitação do servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo;
+
+
+b) de ofício: precedida de licença para tratamento de saúde ou por acidente em serviço, por período não excedente a 730 (setecentos e trinta) dias, em prorrogação, e não estando o servidor em condições de reassumir o cargo ou de ser readaptado, ou, ainda, por período inferior, dependendo do prognóstico da doença.
+
+
+17.2.1.1 Para os fins do disposto na alínea "b" da subseção acima, serão consideradas apenas as licenças motivadas pela enfermidade ensejadora da invalidez ou doenças correlacionadas.
+
+
+17.2.2 A licença concedida dentro de 60 (sessenta) dias do término de outra de mesma espécie será considerada como prorrogação.
+
+
+
+17.3 Exame pericial
+
+
+
+17.3.1 O servidor será submetido à inspeção por junta médica oficial, que atestará a invalidez quando caracterizada a incapacidade para o desempenho das atribuições do cargo ou a impossibilidade de readaptá-lo.
+
+
+17.3.1.1 O local da inspeção será definido pelo presidente da junta médica oficial do SPS e eventuais custos poderão correr a expensas do TCU.
+
+
+17.3.2 A critério da Administração, o servidor aposentado por invalidez poderá ser convocado a qualquer momento para verificação da permanência das condições que ensejaram a aposentadoria.
+
+
+
+
+17.4 Laudo pericial
+
+
+
+17.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+17.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+17.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+17.4.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+17.4.5 A conclusão pericial deverá definir a necessidade de reavaliação e o prazo, no caso de omissão, será de 2 (dois) anos. 
+
+
+
+
+17.5 Efeitos
+
+
+
+17.5.1 A aposentadoria por invalidez, na hipótese de "outras causas, doença não especificada em lei", será concedida com proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificadas no § 1º do art. 186 da Lei n° 8.112/90.
+
+
+
+NOTA:
+
+
+
+
+São doenças graves, contagiosas ou incuráveis para fins de proventos integrais, nos termos no § 1º do art. 186 da Lei n° 8.112/90: tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira posterior ao ingresso no serviço público, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, espondiloartrose anquilosante, nefropatia grave, estados avançados do mal de Paget (osteíte deformante), Síndrome de Imunodeficiência Adquirida - AIDS, e outras que a lei indicar, com base na medicina especializada.
+
+
+
+17.5.2 A aposentadoria por invalidez vigorará a partir da data da publicação do respectivo ato, e o lapso de tempo compreendido entre o término da licença e a publicação será considerado como de prorrogação da licença.
+
+18 COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA REVERSÃO
+
+
+
+18.1 Reversão é o retorno à atividade de servidor aposentado por invalidez, quando, por junta médica oficial, forem declarados insubsistentes os motivos da aposentadoria.
+
+
+
+18.2 Solicitação
+
+
+
+18.2.1 A solicitação de reversão poderá ser a pedido ou de ofício:
+
+
+a) a pedido – mediante requerimento do próprio servidor aposentado ao Secretário-Geral de Administração e a documentação nosológica que permita a reformulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com identificação do interessado e do processo;
+
+
+b) de ofício – decorrente de reavaliação periódica a que estão sujeitos os aposentados por invalidez. 
+
+
+
+
+18.3 Exame pericial
+
+
+
+18.3.1 O servidor aposentado será submetido à inspeção por junta médica oficial.
+
+
+18.3.1.1 O local da inspeção será definido pelo presidente da junta médica oficial do SPS e eventuais custos poderão correr a expensas do TCU.
+
+
+18.3.2 A critério da Administração, o servidor aposentado por invalidez poderá ser convocado a qualquer momento para verificação da permanência das condições que ensejaram a aposentadoria.
+
+
+
+
+18.4 Laudo pericial
+
+
+
+18.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+18.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+18.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+18.4.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+18.4.5 A conclusão pericial deverá definir a necessidade de reavaliação e o prazo, no caso de omissão, será de 2 (dois) anos da data de emissão. 
+
+
+
+18.5 Efeitos
+
+
+
+18.5.1 Não será submetido à reavaliação o servidor aposentado que:
+
+
+a) tiver idade igual ou superior a 65 (sessenta e cinco) anos, se homem, ou a 60 (sessenta) anos, se mulher;
+
+
+b) contar com o tempo de contribuição igual ou superior a 35 (trinta e cinco) anos, se homem, ou 30 (trinta) anos, se mulher;
+
+
+c) for declarado definitiva e irreversivelmente incapaz para o trabalho.
+
+
+18.5.2 A reversão far-se-á no mesmo cargo ou no cargo resultante de sua transformação.
+
+
+18.5.2.1 Encontrando-se provido o cargo, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.
+
+19 COMPROVAÇÃO DE APTIDÃO FÍSICA E MENTAL PARA APROVEITAMENTO
+
+
+
+19.1 Aproveitamento é o retorno obrigatório à atividade de servidor em disponibilidade em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado.
+
+
+
+19.2 Solicitação
+
+
+
+19.2.1 A solicitação de inspeção médica oficial para aproveitamento será de ofício, no interesse da Administração, mediante processo administrativo específico.
+
+
+
+
+19.3 Exame pericial
+
+
+
+19.3.1 O servidor será submetido à inspeção por junta médica oficial do SPS e eventuais custos poderão correr a expensas do TCU.
+
+
+19.3.1.1 O SPS fará a convocação para o exame pericial e encaminhará os pedidos de exames prévios que deverão ser apresentados pelo servidor na ocasião da inspeção.
+
+
+19.3.1.2 A junta médica poderá requisitar exames especializados que julgar necessários para fundamentar sua conclusão.
+
+
+
+
+19.4 Laudo pericial
+
+
+
+19.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+19.4.2 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+19.5 Efeitos
+
+
+
+19.5.1 Será tornado sem efeito o aproveitamento e cassada a disponibilidade se o servidor não entrar em exercício no prazo legal, salvo doença comprovada por junta médica oficial.
+
+
+19.5.2 Prescreve em 5 (cinco) anos o direito de requerer reforma de ato de disponibilidade.
+
+
+
+
+20 INSTRUÇÃO DE INCIDENTE DE SANIDADE MENTAL
+
+
+
+
+20.1 Quando houver dúvida sobre a sanidade mental de servidor acusado em sindicância ou em processo administrativo disciplinar, a comissão proporá à autoridade instauradora que o agente público seja submetido a exame por junta médica oficial, da qual participe pelo menos um médico psiquiatra. 
+
+
+20.1.1 A autoridade Administrativa poderá solicitar o exame antes da instauração dos procedimentos de apuração, desde que haja dúvida quanto à sanidade mental do servidor.
+
+
+
+
+20.2 Solicitação
+
+
+
+20.2.1 A solicitação do incidente de sanidade mental poderá ser a pedido ou de ofício:
+
+
+a) a pedido – mediante requerimento de defesa dirigido à autoridade instauradora;
+
+
+b) de ofício – decorrente do encaminhamento da comissão à autoridade instauradora ou da autoridade Administrativa.
+
+
+
+
+20.3 Exame pericial
+
+
+
+20.3.1 O servidor será submetido à inspeção por junta médica oficial, da qual participe pelo menos 1 (um) médico psiquiatra na composição do corpo clínico.
+
+
+20.3.1.1 O presidente da junta médica oficial do SPS poderá definir o local da inspeção e a composição do corpo clínico, a expensas do TCU.
+
+
+
+20.4 Laudo pericial
+
+
+
+20.4.1 Deverão constar no laudo pericial de forma conclusiva os quesitos apresentados pela defesa e pela comissão ou, quando for o caso, pela autoridade Administrativa.
+
+
+20.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+20.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+20.4.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+20.5 Efeitos
+
+
+
+20.5.1 O incidente de sanidade mental será processado em auto apartado e apenso ao processo principal, após a expedição do laudo pericial.
+
+
+
+
+21 VERIFICAÇÃO DE INDÍCIOS DE LESÕES ORGÂNICAS OU FUNCIONAIS DE SERVIDOR
+
+
+
+
+21.1 O servidor que apresentar indícios de lesões orgânicas ou funcionais será submetido a inspeção médica.
+
+
+
+
+21.2 Solicitação 
+
+
+
+21.2.1 A solicitação de verificação de indícios de lesões orgânicas ou funcionais de servidor poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante requerimento do próprio servidor dirigido ao chefe do SPS e a documentação nosológica que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada em envelope lacrado com a identificação do interessado;
+
+
+ b) de ofício: mediante requerimento da chefia imediata, que perceber indícios de lesões orgânicas ou funcionais de servidor, dirigido ao chefe do SPS.
+
+
+
+
+21.3 Exame pericial
+
+
+
+21.3.1 O servidor será submetido a inspeção por junta médica oficial.
+
+
+21.3.1.1 O local da inspeção será definido pelo presidente da junta médica oficial do SPS, a expensas do TCU.
+
+
+
+
+21.4 Laudo pericial
+
+
+
+21.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+21.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+21.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+21.4.4 O laudo pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+21.5 Efeitos
+
+
+
+21.5.1 Toda documentação será anexada aos autos do processo que cuida dos pedidos de licença para tratamento de saúde ou por acidente em serviço do servidor.
+
+
+
+22 INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA COM DEFICIÊNCIA OU TEMPORÁRIA À PESSOA INVÁLIDA 
+(NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+22.1 A pensão será devida à pessoa que viva sob a dependência econômica do servidor, sendo vitalícia, quando com deficiência, e temporária, quando inválida. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+22.1.1 Pessoa com deficiência, para os efeitos de concessão de pensão vitalícia, é aquela incapacitada para a vida independente e para o trabalho, em razão de anomalias ou lesões irreversíveis de natureza hereditária, congênitas ou adquiridas, que impeçam o desempenho da vida diária e do trabalho. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+22.1.2 Pessoa inválida, para os efeitos de concessão de pensão temporária, é aquela incapaz para a vida independente e para o trabalho, em razão de doenças ou lesões, que impeçam o desempenho da vida diária e do trabalho.
+
+
+22.2 A comprovação será feita com base em inspeção por junta médica oficial e a data de início da deficiência ou invalidez deverá ser anterior ao óbito do servidor.
+
+
+
+
+22.3 Solicitação
+
+
+
+22.3.1 A solicitação da pensão será a pedido mediante requerimento do interessado dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+22.4 Exame pericial
+
+
+
+22.4.1 O benefício será concedido com base em inspeção por junta médica oficial.
+
+
+22.4.2 A critério da Administração, o beneficiário de pensão temporária motivada por invalidez poderá ser convocado a qualquer momento para verificação das condições que ensejaram a concessão do benefício.
+
+
+
+
+22.5 Laudo pericial
+
+
+
+22.5.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+22.5.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+22.5.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+22.5.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+22.5.5 O laudo pericial deverá definir a necessidade de reavaliação e o prazo, no caso de omissão, será de 2 (dois) anos da data de emissão.
+
+
+
+22.6 Efeitos
+
+
+
+22.6.1 A pensão poderá ser requerida a qualquer tempo, prescrevendo tão somente as prestações exigíveis há mais de 5 (cinco) anos.
+
+
+22.6.2 Concedida a pensão, qualquer prova posterior ou habilitação tardia que implique exclusão de beneficiário ou redução de pensão só produzirá efeitos a partir da data em que for oferecida.
+
+
+22.6.3 Acarreta a perda da qualidade de beneficiário a cessação de invalidez, em se tratando de beneficiário inválido.
+
+
+22.6.4 O benefício será cancelado quando se constatar irregularidade na sua concessão ou utilização.
+
+
+
+
+23 ISENÇÃO DE IMPOSTO DE RENDA
+
+
+
+
+23.1 São isentos da incidência de imposto de renda os proventos pagos aos inativos e pensionistas acometidos de doença especificada em lei, mediante comprovação por junta médica oficial, mesmo que a doença tenha sido contraída depois da aposentadoria.
+
+
+23.2 São doenças especificadas em lei, para fins de isenção de imposto de renda, de acordo com legislação atualizada: acidente em serviço, moléstia profissional, tuberculose ativa, alienação mental, esclerose-múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação e síndrome da imunodeficiência adquirida.
+
+
+
+
+23.3 Solicitação
+
+
+
+23.3.1 A solicitação será a pedido do interessado, mediante requerimento dirigido ao Secretário-Geral de Administração, e a documentação nosológica que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do número do processo.
+
+
+
+
+23.4 Exame pericial
+
+
+
+23.4.1 O periciando será submetido à inspeção por junta médica oficial.
+
+
+23.4.2 A critério da Administração, a isenção de imposto de renda poderá ser reavaliada a qualquer momento, independentemente do prazo de validade do laudo pericial, para verificação das condições que ensejaram a concessão do benefício.
+
+
+
+
+23.5 Laudo pericial
+
+
+
+23.5.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+23.5.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+23.5.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+23.5.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+NOTA:
+
+
+
+
+ALIENAÇÃO MENTAL:
+
+
+
+
+O conceito de alienação mental é jurídico e não psiquiátrico, devendo a junta médica fazer o devido enquadramento.
+
+
+
+
+CARDIOPATIA GRAVE:
+
+
+
+
+Terá como base os parâmetros definidos da II Diretriz Brasileira de Cardiopatia Grave emitida pela Sociedade Brasileira de Cardiologia.
+
+
+
+
+O periciando submetido à revascularização com boa evolução e que não se enquadra como cardiopatia grave não terá direito a isenção do imposto de renda.
+
+
+
+
+CEGUEIRA
+
+
+
+
+Serão avaliados os graus que o periciando possui em cada olho, segundo a acuidade e o campo visual.
+
+
+
+
+O periciando com visão monocular não será beneficiado com a isenção do imposto de renda.
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+CONTAMINAÇÃO POR RADIAÇÃO:
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+DOENÇA DE PARKINSON:
+
+
+
+
+Não serão enquadrados os casos secundários ao uso de medicamentos, que regridem com a suspensão destes.
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+ESCLEROSE-MULTIPLA:
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+ESPONDILOARTROSE ANQUILOSANTE:
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+ESTADOS AVANÇADOS DA DOENÇA DE PAGET:
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+HEPATOPATIA GRAVE:
+
+
+
+
+A hepatopatia crônica é medida através do índice CHILD-PUGH-TURGOTTE, e para enquadrar-se como hepatopatia grave o escore deve atingir índices de Child B ou C.
+
+
+
+
+O periciando submetido à transplante hepático com boa evolução e função hepática normal não terá direito a isenção do imposto de renda.
+
+
+
+
+NEOPLASIA MALÍGNA:
+
+
+
+
+O diagnóstico e a data do início da doença será fundamentado através de exame anatomopatológico.
+
+
+
+
+Poderá ser considerado portador de neoplasia maligna até 5 (cinco) anos, o periciando que apresentar a doença restrita ao órgão acometido, sem metástases linfáticas regionais ou a distância, tendo realizado tratamento cirúrgico, radioterápico e/ou quimioterápico.
+
+
+
+
+Dependendo do tipo e prognóstico/estadiamento, a isenção poderá ser concedida em caráter definitivo ao periciando que apresentar, além da lesão original, metástases linfáticas regionais e/ou a distância.
+
+
+
+
+NEFROPATIA GRAVE: 
+
+
+
+
+A insuficiência renal leve, CLASSE I, não será enquadrada como nefropatia grave, salvo quando firmado o diagnóstico de afecção irreversível de prognóstico ruim.
+
+
+
+
+A insuficiência renal moderada, CLASSE II, será enquadrada como nefropatia grave, quando acompanhada de sintomas e sinais que determinam a incapacidade laborativa.
+
+
+
+
+A insuficiência renal severa, CLASSE III, será sempre enquadrada como nefropatia grave.
+
+
+
+
+O periciando submetido à transplante renal com boa evolução e função renal normal não terá direito a isenção do imposto de renda.
+
+
+
+
+PARALISIA IRREVERSÍVEL E INCAPACITANTE:
+
+
+
+
+A paralisia será considerada irreversível e incapacitante, quando esgotados os recursos terapêuticos da medicina especializada e os prazos necessários à recuperação motora, permanecerem distúrbios graves e extensos das funções sensitiva e/ou motora levando a incapacidade funcional do periciando.
+
+
+
+
+As paresias serão equiparadas às paralisias quando resultem em alterações extensas das funções motoras com comprometimento funcional importante.
+
+
+
+
+No caso de enquadramento da doença, tendo em vista o prognóstico irreversível, a isenção de imposto de renda será concedida em caráter definitivo.
+
+
+
+
+SINDROME DA IMUNODEFICIÊNCIA ADQUIRIDA:
+
+
+
+
+Serão enquadrados com SIDA/AIDS, os classificados segundo os sintomas e a contagem de linfócitos T.CD4+, sendo:
+
+
+
+
+A3 – soro positivo, sem apresentar sintomas clínicos, mas com linfócitos T.CD4+ abaixo de 200/mm³.
+
+
+
+
+B3 – soro positivo, sintomático que não incluído em C e com linfócitos T.CD4+ abaixo de 200/mm³.
+
+
+
+
+C1 – C2 – C3 – soro positivo, sintomáticos, infecções oportunistas ou neoplasias, e com linfócitos T.CD4+ em qualquer valor.
+
+
+
+
+
+23.6 Efeitos
+
+
+
+23.6.1 O laudo pericial fixará o seu prazo de validade, no caso de moléstia passível de controle e/ou cura, caso contrário, o benefício de isenção deverá ser reavaliado anualmente, para verificação da continuidade das condições que lhe deram origem.
+
+
+
+
+24 REVISÃO DE APOSENTADORIA PROPORCIONAL DE SERVIDOR APOSENTADO ACOMETIDO DE INVALIDEZ
+
+
+
+
+24.1 O servidor aposentado com provento proporcional ao tempo de serviço, se acometido de qualquer das moléstias especificadas no § 1o do art. 186 da Lei n° 8.112/90, e por este motivo for considerado inválido por junta médica oficial, passará a perceber provento integral, calculado com base no fundamento legal de concessão da aposentadoria.
+
+
+
+NOTA:
+
+
+
+
+São doenças especificadas no § 1º do art. 186, para fins de revisão de aposentadoria proporcional por invalidez: tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira posterior ao ingresso no serviço público, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, espondiloartrose anquilosante, nefropatia grave, estados avançados do mal de Paget (osteíte deformante), Síndrome de Imunodeficiência Adquirida - AIDS, e outras que a lei indicar, com base na medicina especializada.
+
+
+
+
+
+24.2 Solicitação 
+
+
+24.2.1 A solicitação de revisão de aposentadoria proporcional de servidor aposentado acometido de invalidez será a pedido mediante requerimento do interessado dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+24.3 Exame pericial
+
+
+
+24.3.1 O servidor aposentado será submetido à inspeção por junta médica oficial.
+
+
+24.3.1.1 O local da inspeção será definido pelo presidente da junta médica oficial do SPS e eventuais custos poderão correr a expensas do TCU.
+
+
+
+24.4 Laudo pericial
+
+
+
+24.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+24.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, poderá ser submetido a análise técnica da perícia médica do SPS.
+
+
+24.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+24.4.4 O parecer pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+24.5 Efeito
+
+
+
+24.5.1 O Servidor para receber provento integral, calculado com base no fundamento legal de concessão da aposentadoria, deverá estar inválido em decorrência de doença especificada no § 1o do art. 186 da Lei n° 8.112/90.
+
+
+24.5.2 A critério da Administração, o servidor aposentado por invalidez poderá ser convocado a qualquer momento para avaliação da permanência das condições que ensejaram a revisão.
+
+
+
+
+25 VERIFICAÇÃO DA IDADE MENTAL PARA CONCESSÃO DE ASSISTÊNCIA PRÉ-ESCOLAR
+
+
+
+
+25.1 Será concedido o benefício da assistência pré-escolar ao servidor ativo que possuir dependente excepcional, de qualquer idade, desde que comprovada, mediante laudo pericial, que a sua idade mental corresponda à faixa etária de 0 (zero) a 6 (seis) anos de idade.
+
+
+
+
+25.2 Solicitação
+
+
+
+25.2.1 A solicitação do benefício pré-escolar ao dependente excepcional será a pedido mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+25.3 Exame pericial
+
+
+
+25.3.1 O benefício da assistência pré-escolar ao servidor ativo que possuir dependente excepcional está condicionado à inspeção por junta médica oficial.
+
+
+25.3.2 A critério da Administração, a assistência pré-escolar poderá ser reavaliada a qualquer momento para verificação da permanência das condições que ensejaram a concessão.
+
+
+
+
+25.4 Laudo pericial
+
+
+
+25.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+25.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, será submetido a análise técnica da perícia médica do SPS.
+
+
+25.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+25.4.4 A conclusão pericial deverá definir a necessidade de reavaliação e o prazo, no caso de omissão, será de 2 (dois) anos, para verificação da continuidade das condições que lhe deram origem.
+
+
+
+25.5 Efeitos
+
+
+
+25.5.1 Na condição de dependente, para efeito de assistência pré-escolar, equiparam-se a filho:  
+
+
+a) o enteado, mediante declaração escrita de dependência econômica, acompanhada de certidão de nascimento do dependente e de casamento civil ou comprovação de união estável atual ou certidão do(a) servidor(a) com a mãe ou pai do menor; 
+
+
+b) o menor que esteja sob sua tutela, devidamente comprovada pelo respectivo termo; 
+
+
+c) o menor que, por determinação judicial, esteja sob sua guarda.  
+
+
+
+
+26 INCLUSÃO DE DEPENDENTE COM DEFICIÊNCIA NA ASSISTÊNCIA À SAÚDE 
+(NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+26.1 Serão incluídos na assistência à saúde os dependentes solteiros, de qualquer idade, com deficiência: filho ou enteado e irmão, mediante comprovação por perícia médica. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+26.1.1 Será considerada com deficiência a pessoa que se enquadrar nas categorias especificadas na subseção 11.2, a saber: deficiência física, deficiência auditiva, deficiência visual, deficiência mental e deficiência múltipla. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+
+26.2 Solicitação
+
+
+
+26.2.1 A solicitação de inclusão de dependente com deficiência na assistência à saúde será a pedido, mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+
+26.3 Exame pericial
+
+
+
+26.3.1 A inclusão de dependente com deficiência na assistência à saúde está condicionada a inspeção por junta médica oficial. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+
+26.4 Laudo pericial
+
+
+
+26.4.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+26.4.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, será submetido a análise técnica da perícia médica do SPS.
+
+
+26.4.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+26.4.4 A conclusão pericial deverá definir a necessidade de reavaliação e o prazo, no caso de omissão, será de 2 (dois) anos, para verificação da continuidade das condições que lhe deram origem.
+
+
+
+
+26.5 Efeitos
+
+
+
+26.5.1 Para os efeitos de inclusão de dependente com deficiência na assistência à saúde, serão considerados dependentes os que comprovarem o atendimento de quaisquer das condições abaixo relacionadas: (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+a) filho ou enteado de qualquer idade, com deficiência, sem economia própria; (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+b) irmão solteiro, com deficiência, ou interditado por alienação mental, sem economia própria, que viva sob a exclusiva dependência econômica de servidor e conste como dependente na declaração do Imposto de Renda. (NR)(Portaria-TCU nº 386, de 21/12/2018, BTCU Administrativo nº 246 de 28/12/2018)
+
+
+
+26.5.1.1 Entende-se por dependente sem economia própria o que não tenha rendimento, de qualquer fonte, em valor superior a 2 (dois) salários mínimos. 
+
+
+26.5.1.2 Não se classificam como rendimento próprio os valores recebidos a título de pensão alimentícia pelos filhos.
+
+
+
+
+III DISPOSIÇÕES FINAIS
+
+
+
+
+
+27 CARGO EM COMISSÃO
+
+
+
+
+27.1 O servidor ocupante de cargo em comissão que não seja, simultaneamente, ocupante de cargo ou emprego efetivo na administração pública direta, autárquica e fundacional, não terá direito aos benefícios do Plano de Seguridade Social, com exceção da assistência à saúde, e será vinculado obrigatoriamente ao Regime Geral de Previdência Social.
+
+
+27.2 Ao servidor ocupante de cargo em comissão será concedida licença para tratamento de saúde ou por motivo de acidente em serviço que, havendo cumprido, quando for o caso, o período de carência exigido em lei, ficar incapacitado para o seu trabalho.
+
+
+
+
+27.3 Solicitação
+
+
+
+27.3.1 Aplica-se, no que couber, os procedimentos pertinentes à concessão de licença para tratamento de saúde (seção 7) e por acidente em serviço (seção 9).
+
+
+27.3.2 Durante os primeiros 15 (quinze) dias consecutivos ao do afastamento da atividade por motivo de doença, ficará a cargo do TCU a perícia, o abono das faltas e o pagamento do seu salário integral; e após o 15° (décimo quinto) dia, ficará a cargo da Previdência Social e o servidor será encaminhado pela SEGEP .
+
+
+
+
+27.4 Exame pericial
+
+
+
+27.4.1 Aplica-se, no que couber, os procedimentos pertinentes à concessão de licença para tratamento de saúde (seção 7) e por acidente em serviço (seção 9).
+
+
+
+
+27.5 Laudo pericial
+
+
+
+27.5.1 Aplica-se, no que couber, os procedimentos pertinentes à concessão de licença para tratamento de saúde (seção 7) e por acidente em serviço (seção 9).
+
+
+
+
+27.6 Efeitos
+
+
+
+27.6.1 O Regime Geral de Previdência Social compreende as seguintes prestações, devidas inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em benefícios e serviços:
+
+
+
+a) quanto ao segurado:
+
+
+
+i. aposentadoria por invalidez;
+
+
+ii. aposentadoria por idade;
+
+
+iii. aposentadoria por tempo de contribuição; 
+
+
+iv. aposentadoria especial;
+
+
+v. auxílio-doença;
+
+
+vi. salário-família;
+
+
+vii. salário-maternidade;
+
+
+viii. auxílio-acidente; 
+
+
+
+b) quanto ao dependente:
+
+
+
+i. pensão por morte; 
+
+
+ii. auxílio-reclusão;
+
+
+
+c) quanto ao segurado e dependente:
+
+
+
+i. pecúlios; 
+
+
+ii. serviço social; 
+
+
+iii. reabilitação profissional.
+
+28 RECURSOS ADMINISTRATIVOS E REVISÃO DA CONCLUSÃO PERICIAL
+
+
+
+28.1 O interessado poderá interpor pedido de reconsideração ou recurso de decisão administrativa cuja apreciação requeira revisão da conclusão pericial.
+
+
+28.2 O pedido de reconsideração será dirigido à autoridade Administrativa que houver expedido o ato ou proferido a primeira decisão e não poderá ser renovado.
+
+
+28.3 O recurso será dirigido à autoridade imediatamente superior à que tiver expedido o ato ou proferido a decisão, e, sucessivamente, em escala ascendente, às demais autoridades do TCU.
+
+
+28.4 O prazo para interposição de pedido de reconsideração ou de recurso é de 30 dias, contados a partir da publicação ou da ciência, pelo interessado, da decisão.
+
+
+
+
+28.5 Solicitação
+
+
+
+28.5.1 A solicitação de revisão da conclusão pericial, que serviu de base à decisão administrativa, poderá ser a pedido ou de ofício:
+
+
+a) a pedido: mediante requerimento no qual o recorrente deverá expor os fundamentos do pedido de revisão e a documentação nosológica que permita a reformulação da decisão, atualizada, deverá ser encaminhada ao SPS, em envelope lacrado com a identificação do interessado e do processo;
+
+
+b) de ofício: no interesse da Administração.
+
+
+
+
+28.6 Exame pericial
+
+
+
+28.6.1 O exame pericial será realizado, conforme o enquadramento e a finalidade:
+
+
+a) no caso de reconsideração, por perícia singular ou junta médica e poderá ter a mesma composição do corpo clínico;
+
+
+b) no caso de recurso, por perícia singular ou junta médica e deverá ter outra composição do corpo clínico.
+
+
+28.6.2 O recorrente, no caso de servidor ativo lotado nos estados, poderá ser convocado para inspeção da junta médica do SPS, conforme recomendação do presidente da junta médica oficial do SPS, e eventuais custos correrão a expensas do TCU.
+
+
+
+
+28.7 Laudo pericial
+
+
+
+28.7.1 As constatações do exame pericial deverão ser registradas em laudo pericial.
+
+
+28.7.2 O laudo/parecer pericial emitido pela perícia médica do órgão conveniado, juntamente com a documentação nosológica que fundamentou a conclusão pericial, será submetido a análise técnica da perícia médica do SPS.
+
+
+28.7.3 O SPS poderá elaborar quesitos à perícia médica do órgão conveniado na ocasião da solicitação do exame pericial ou após a sua realização, neste caso, para complementar o laudo/parecer já emitido.
+
+
+28.7.4 O laudo pericial não se referirá ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço ou doença profissional e doença grave, contagiosa ou incurável, especificada em lei.
+
+
+
+
+28.8 Efeitos
+
+28.8.1 Antes da decisão administrativa, o requerente poderá desistir do pedido formulado, mediante manifestação escrita.
+
+
+28.8.2 O recurso não será conhecido quando:
+
+
+a) interposto fora do prazo;
+
+
+b) por quem não seja legitimado;  
+
+
+c) após exaurida a esfera administrativa.
+
+
+28.8.3 o recurso conhecido para ser provido deverá trazer fato novo capaz de modificar a decisão anterior.
+
+
+28.8.4 O não conhecimento do recurso não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida a preclusão administrativa.
+
+
+
+
+
+
+BIBLIOGRAFIA 
+
+
+
+BRASIL. Decreto-Lei n° 2.848, de 7 de dezembro de 1940. Código Penal. Disponível em:  <http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2848.htm>. Acesso em: 24 de outubro de 2008.
+
+
+
+
+
+
+
+
+______. Decreto-Lei n° 3.688, de 3 de outubro de 1941. Lei das Contravenções Penais. Disponível em: <http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del3688.htm>. Acesso em: 17 de outubro de 2008.
+
+
+
+
+
+
+
+
+______. Decreto-Lei n° 3.689, de 3 de outubro de 1941. Código de Processo Penal. Disponível em: <http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del3689.htm>. Acesso em: 24 de outubro de 2008.
+
+
+
+
+
+
+
+
+______. Decreto n° 977, de 10 de setembro de 1993. Dispõe sobre a assistência pré-escolar destinada aos dependentes dos servidores públicos da Administração Pública Federal direta, autárquica e fundacional . Disponível em: < http://www.planalto.gov.br/ccivil_03/decreto/Antigo s/D0977.htm >. Acesso em: 05 de agosto de 2008.
+
+
+
+
+
+
+
+
+______. Decreto n° 3.000, de 26 de março de 1999. Regulamenta a tributação, fiscalização, arrecadação e administração do Imposto sobre a Renda e Proventos de Qualquer Natureza. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/D3000.htm>. Acesso em 02 de outubro de 2008.
+
+
+
+
+______. Decreto n° 3.298, de 20 de dezembro de 1999. Regulamenta a Lei no 7.853, de 24 de outubro de 1989, dispõe sobre a Política Nacional para a Integração da Pessoa Portadora de Deficiência, consolida as normas de proteção, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/D3298.htm>. Acesso em: 20 de setembro de 2008.
+
+
+
+
+______. Decreto n° 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nos 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_Ato2004-2006 /2004/ Decreto/D5296.htm>. Acesso em: 20 de setembro de 2008.
+
+
+
+
+______. Decreto n° 7.003, de 9 de novembro de 2009. Regulamenta a licença para tratamento de saúde, de que tratam os arts. 202 a 205 da Lei no 8.112, de 11 de dezembro de 1990, e dá outras providências. Disponível em: < http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D7003.htm>. Acesso em: 17 de novembro de 2009.
+
+
+
+
+______. Lei n° 7.713, de 22 de dezembro de 1988. Altera a legislação do imposto de renda e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/Leis/L7713.htm>. Acesso em: 02 de outubro de 2008.
+
+
+
+
+
+
+______. Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Disponível em:< http://www.planalto.gov.br/ccivil_03/Leis /L8080.htm>. Acesso em: 31 de agosto de 2009.
+
+
+
+
+______. Lei n° 8.112, de 11 de dezembro de 1990. Dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais. Disponível em: <http://www.planalto.gov.br/ccivil_03/Leis/L8112cons.htm>. Acesso em: 30 de agosto de 2008.
+
+
+
+
+______. Lei n° 8.213, de 24 de julho de 1991 – dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências. Disponível em: <http://www.planalto .gov.br/ccivil_03/Leis/L8213cons.htm>. Acesso em 13 de setembro de 2008.
+
+
+
+
+______. Lei n° 8.541, de 23 de dezembro de 1992. Altera a legislação do Imposto de Renda e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/Leis/L8541.htm>. Acesso em: 02 de outubro de 2008.
+
+
+
+
+______. Lei n° 8.647, de 13 de abril de 1993. Dispõe sobre a vinculação do servidor público civil, ocupante de cargo em comissão sem vínculo efetivo com a Administração Pública Federal, ao Regime Geral de Previdência Social e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/Leis/L8647.htm>. Acesso em 12 de setembro de 2008.
+
+
+
+
+______. Lei n° 8.666, de 21 de junho de 1993. Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências. Disponível em: < http://www.planalto.gov.br/ccivil_03/LEIS/L8666cons.ht
+
+
+m>. Acesso em 19 de novembro de 2009.
+
+
+
+
+______. Lei n° 9.250, de 26 de dezembro de 1995. Altera a legislação do imposto de renda das pessoas físicas e dá outras providências. Disponível em: <http://www.planalto.gov.br /ccivil_03/Leis/L9250.htm>. Acesso em: 02 de outubro de 2008.
+
+
+
+
+______. Lei n° 9.784, de 29 de janeiro de 1999. Regula o processo administrativo no âmbito da Administração Pública Federal. Disponível em: <http://www.planalto.gov.br/ccivil_03/ Leis/L9784.htm>. Acesso em: 15 de agosto de 2008.
+
+
+
+
+______. Lei n° 10.406, de 10 de janeiro de 2002. Institui o Código Civil. Disponível em: <http://www.planalto.gov.br/ccivil_03/LEIS/2002/L10406.htm>. Acesso em: 25 de outubro de 2008.
+
+
+
+
+______. Lei n° 11.052, de 29 de dezembro de 2004. Altera o inciso XIV da Lei no 7.713, de 22 de dezembro de 1988, com a redação dada pela Lei no 8.541, de 23 de dezembro de 1992, para incluir entre os rendimentos isentos do imposto de renda os proventos percebidos pelos portadores de hepatopatia grave. Disponível em: <http://www.planalto.gov.br/ ccivil_03/_Ato2004-2006/2004/Lei/L11052.htm>. Acesso em: 02 de outubro de 2008.
+
+
+
+
+______. Medida Provisória n° 479, de 30 de dezembro de 2009. Dispõe sobre o prazo [...]  a licença por motivo de doença em pessoa da família e o afastamento para participação em programa de pós-graduação stricto sensu no País, de que tratam, respectivamente, os arts. 83 e 96-A da Lei no 8.112, de 11 de dezembro de 1990 [...]; e dá outras providências. Disponível em: https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Mpv/479.htm. Acesso em:09 de fevereiro de 2010.
+
+
+
+
+______. Prefeitura da Cidade de São Paulo. Protocolo técnico de inspeção médica pericial para isenção de imposto de renda. Disponível em: <ftp://ftp.saude.sp.gov.br/ftpsessp/bibliote/informe_ eletronico/2006/iels.junho.06/iels108/M_Prot-CGP_080606.pdf >. Acesso em: 29 de janeiro de 2009.
+
+
+
+
+______. Tribunal de Contas da União. Portaria n° 642, de 10 de dezembro de 1996. Dispõe sobre a concessão, aos servidores do Tribunal de Contas da União, de Assistência pré-escolar a seus dependentes. Disponível em: <http://www.tcu.gov.br/Consultas/Juris/Docs/judoc/PORTN/2009 0206/PRT1996-642.pdf>. Acesso em: 05 de agosto de 2008.
+
+
+
+
+______. Tribunal de Contas da União. Portaria n° 103, de 5 de abril de 2002. Institui o Manual de Procedimentos de Concessão de Licenças e Afastamentos. Disponível em: <http:// www.tcu.gov.br/Consultas/Juris/Docs/judoc/PORTN/20090206/PRT2002103.pdf>. Acesso em: 15 de abril de 2008.
+
+
+
+
+______. Tribunal de Contas da União. Portaria nº 76, de 7 de fevereiro de 2003. Dá nova redação ao art. 2º da Portaria TCU n.º 642, de 10 de dezembro de 1996, que dispõe sobre a concessão, aos servidores do Tribunal de Contas da União, de assistência pré-escolar a seus dependentes. Disponível em: <http://www.tcu.gov.br/Consultas/Juris/Docs/judoc/PORTN/20090206/PRT2003-076.pdf>. Acesso em: 05 de agosto de 2008.
+
+
+
+
+______. Tribunal de Contas da União. Portaria n° 138, de 28 de maio de 2008. Dispõe sobre o horário de funcionamento do Tribunal de Contas da União, a jornada de trabalho e o acompanhamento da freqüência dos servidores de sua Secretaria. Disponível em:< http: //www.tcu.gov.br/Consultas/Juris/Docs/judoc/PORTN/20090128/PRT2008-138.doc> . Acesso em: 31 de agosto de 2009.
+
+
+
+
+______. Tribunal de Contas da União. Remoção. Boletim do Tribunal de Contas da União. Brasília, n. 16, p. 4 - 10, 2007. Disponível em: < http://portal2.tcu.gov.br/portal/pls/portal/docs/785
+
+
+203.PDF>. Acesso em: 09 de novembro de 2009.
+
+
+
+
+______.  Tribunal de Contas da União. Resolução n° 37, de 20 de setembro de 1995. Disciplina a concessão de aposentadoria por invalidez permanente prevista no art. 186, inciso I, combinado com o art. 188 da Lei n° 8.112, de 11 de dezembro de 1990.  Disponível em: <http://www.tcu.gov.br/Consultas/Juris/Docs/judoc/Resol/20090206/RES1995-037.doc>. Acesso em: 24 de abril de 2008.
+
+
+
+
+______.  Tribunal de Contas da União. Resolução n° 127, de 1 de dezembro de 1999. Dispõe sobre a assistência à saúde dos servidores, ativos e inativos, e pensionistas civis do Tribunal de Contas da União e dá outras providências.  Disponível em: <http://www.tcu.gov.br/ Consultas/Juris/Docs/judoc/Resol/20090206/RES1999-127.pdf>. Acesso em: 24 de abril de 2008.
+
+
+
+
+______.  Tribunal de Contas da União. Resolução n° 202, de 6 de junho de 2007. Dispõe sobre o concurso público para provimento de cargos efetivos do Quadro de Pessoal da Secretaria do Tribunal de Contas da União.  Disponível em: <http://portal2.tcu.gov.br/portal/page/portal /TCU/concursos/RES2007-202.DOC >. Acesso em: 10 de março de 2009.
+
+
+
+
+CONSELHO FEDERAL DE MEDICINA. Parecer n° 30, de 30 de maio de 1986. Conduta acerca de prontuário médico. Disponível em: <http://www.portalmedico.org.br/ novoportal/index5.asp>. Acesso em: 31 de maio de 2008.
+
+
+
+
+______. Processo Consulta CFM n° 3222/86 Disponível em: < http://www.portalmedico.org.br/ pareceres/cfm/1990/10_1990.htm>. Acesso em: 31 de maio de 2008.
+
+
+
+
+______. Resolução nº 1.246, de 8 de janeiro de 1988. Código de Ética Médica. Disponível em: http://www.portalmedico.org.br/resolucoes/cfm/1988/1246_1988.htm. Acesso em: 21 de maio de 2008.
+
+
+
+
+______. Resolução nº 1.488, de 06 de março de 1998. Dispõe de normas específicas para médicos que atendam o trabalhador. Disponível em: < http://www.portalmedico.org.br/ resolucoes/cfm/1998/1488_1998.htm>. Acesso em 21 de maio de 2008.
+
+
+
+
+______. Resolução n° 1.658, de 20 de dezembro de 2002. Normatiza a emissão de atestados médicos e dá outras providências. Disponível em:<http://www.portalmedico.org.br/ novoportal/index5.asp>. Acesso em: 05 de junho de 2008.
+
+
+
+
+
+______. Resolução nº 1.851, de 18 de agosto de 2008. Altera o art. 3° da Resolução CFM n° 1.658, de 13 de fevereiro de 2002, que normatiza a emissão de atestados médicos e dá outras providências. Disponível em:< http://www.portalmedico.org.br/resolucoes/CFM/2008/1851_ 2008.htm>. Acesso em: 05 de junho de 2008.
+
+
+
+
+CONSELHO FEDERAL DE ODONTOLOGIA. Resolução n° 87, de 26 de maio de 2009. Normatiza a perícia e junta odontológica e dá outras providências. Disponível em: <http://cfo.org.br/servicos-e-consultas/ato-normativo/?id=1356>. Acesso em: 28 de outubro de 2009.
+
+
+
+
+
+ANEXO I – PEDIDO DE INSPEÇÃO PERICIAL – PIP
+
+
+
+
+
+
+
+
+
+ANEXO II – TERMO DE CONVOCAÇÃO PARA INSPEÇÃO PERICIAL
+
+
+
+
+
+
+ANEXO III – TERMO DE DILIGÊNCIA
+
+
+
+
+
+
+
+
+
+ANEXO IV – TERMO DE PEDIDO DE INSPEÇÃO PERICIAL EM ÓRGÃO PÚBLICO
+
+
+
+
+
+
+
+
+
+Redação anterior:
+
+
+
+
+.................................................Por força da Portaria-TCU nº 386, de 21/12/2018............................................
+
+
+
+
+
+Art. 1º Fica instituído, na forma do Anexo desta Portaria, o Manual de Perícia na Área de Saúde do Tribunal de Contas da União, que define os procedimentos administrativos concernentes a avaliações e inspeções periciais, para fins de concessão de benefícios a servidores ativos e inativos, e pensionistas, bem como de comprovação de aptidão física e mental, na forma da legislação pertinente, e de verificação de declaração de candidato portador de deficiência, após a aprovação em concurso público.
+
+
+(...)
+
+
+ANEXO DA PORTARIA-TCU Nº 137, DE 14 DE MAIO DE 2010
+
+
+(...)
+
+
+
+SUMÁRIO
+
+
+
+
+II AVALIAÇÕES E INSPEÇÕES PERICIAIS..................................................................................................................................15 
+
+
+
+
+(...)
+
+
+
+11 VERIFICAÇÃO DE CANDIDATO PORTADOR DE DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO..............................................................................................................................................................................................26
+
+
+(...)
+
+
+14
+
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR PORTADOR DE DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO........................................................................................
+
+30
+
+ 
+
+15
+
+CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE PORTADOR DE DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO.................................................................................................................................................................................
+
+31
+
+(...)
+
+ 
+
+ 
+
+22
+
+INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA PORTADORA DE DEFICIÊNCIA OU  DE PENSÃO TEMPORÁRIA À PESSOA INVÁLIDA................................................................................................................................
+
+38
+
+(...)
+
+ 
+
+ 
+
+26
+
+INCLUSÃO DE DEPENDENTE PORTADOR DE NECESSIDADES ESPECIAIS NA ASSISTÊNCIA À SAÚDE.....................................................................................................................................................................................
+
+43
+
+
+(...)
+
+
+
+I DISPOSIÇÕES GERAIS
+
+
+
+1 APRESENTAÇÃO
+
+
+(...)
+
+
+1.3 Os exames periciais na área de saúde serão realizados para fins de:
+
+
+
+(...)
+
+
+e) verificação de candidato portador de deficiência e a sua compatibilidade com as atribuições do cargo;
+
+
+h) concessão de horário especial ao servidor portador de deficiência, independentemente de compensação de horário;
+
+
+i) concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente com deficiência física, com compensação de horário;
+
+
+p) inclusão/exclusão de pensão vitalícia à pessoa portadora de deficiência ou de pensão temporária à pessoa inválida;
+
+
+t) inclusão de dependente portador de necessidades especiais na assistência à saúde.
+
+
+(...)
+
+
+
+11 VERIFICAÇÃO DE CANDIDATO PORTADOR DE DEFICIÊNCIA E A SUA COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO
+
+
+
+11.1 Somente será matriculado em curso de formação para ingresso no quadro de pessoal do TCU o candidato portador de deficiência aprovado em concurso público, após a ratificação da deficiência declarada na inscrição, bem como a sua compatibilidade com o exercício normal das atribuições do cargo.
+
+
+(...)
+
+
+11.1.2 Ratificada a sua condição de portador de deficiência, após a inspeção prevista na subseção anterior, o candidato será avaliado por equipe multidisciplinar designada, que verificará se há compatibilidade da deficiência da qual é portador com as atribuições do cargo.
+
+
+11.2 Será considerado portador de deficiência o candidato que se enquadrar nas categorias previstas no art. 4° do Decreto 3.298/99, alterado pelo Decreto 5.296/04, a saber: 
+
+
+(...)
+
+
+
+11.3 Solicitação
+
+
+
+11.3.1 A solicitação de inspeção médica pericial para verificação de candidato portador de deficiência e de avaliação multidisciplinar para verificação da compatibilidade da deficiência com as atribuições do cargo será efetuada pelo ISC, mediante pedido formal dirigido ao chefe do SPS, constando o nome do candidato, especificação e atribuições do cargo preterido e a deficiência alegada no ato da inscrição.
+
+
+(...)
+
+
+
+11.5 Laudo pericial
+
+
+
+(...)
+
+
+11.5.2 O candidato considerado portador de deficiência será submetido a avaliação por equipe multiprofissional designada, que emitirá parecer observando: 
+
+
+(...)
+
+
+
+11.6 Efeitos
+
+
+
+11.6.1 O candidato portador de deficiência ao se inscrever deverá observar a compatibilidade do exercício normal das atribuições do cargo ao qual pretende concorrer com a sua deficiência.
+
+
+11.6.1.1 A responsabilidade por concorrer às vagas destinadas às pessoas portadoras de deficiência é do candidato.
+
+
+11.6.2 Caso o candidato não tenha sido qualificado pela junta médica como portador da deficiência alegada na inscrição, este perderá o direito de concorrer às vagas reservadas aos candidatos em tal condição e passará a concorrer, em igualdade de condições, com os demais candidatos de ampla concorrência.
+
+
+11.6.3 Caso o candidato tenha sido qualificado como portador de deficiência, mas a deficiência da qual é portador seja considerada, pela equipe multidisciplinar, incompatível para as atribuições do cargo, este será considerado inapto para o exercício do cargo e, conseqüentemente, reprovado no concurso, para todos os efeitos
+
+
+(...)
+
+
+11.6.5.1  A análise dos aspectos relativos ao potencial de trabalho do candidato/servidor portador de deficiência obedecerá ao disposto no art. 20 da Lei no 8.112, de 11 de dezembro de 1990.
+
+
+(...)
+
+
+11.6.6 A equipe multidisciplinar tem por objetivo garantir efetivamente a inclusão de pessoas portadoras de deficiência no ambiente de trabalho com conforto, segurança e saúde, compreendendo:
+
+
+(...)
+
+
+
+14 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR PORTADOR DE DEFICIÊNCIA, INDEPENDENTEMENTE DE COMPENSAÇÃO DE HORÁRIO 
+
+
+
+14.1 Será concedido horário especial ao servidor portador de deficiência, independentemente de compensação de horário, com base em perícia médica.
+
+
+(...)
+
+
+14.5.1 A concessão de horário especial ao servidor portador de deficiência corresponderá a redução de 1 (uma) ou 2 (duas) horas diárias e será sem compensação de horário, observando, no que couber, os termos da Portaria-TCU nº 138, de 28 de maio de 2008.
+
+
+(...)
+
+
+
+15 CONCESSÃO DE HORÁRIO ESPECIAL AO SERVIDOR QUE TENHA CÔNJUGE, FILHO OU DEPENDENTE PORTADOR DE DEFICIÊNCIA FÍSICA, COM COMPENSAÇÃO DE HORÁRIO 
+
+
+
+15.1 Será concedido horário especial ao servidor que tenha cônjuge, filho ou dependente portador de deficiência física, com compensação de horário, com base em perícia médica.
+
+
+(...)
+
+
+
+15.5 Efeitos
+
+
+
+15.5.1 A concessão de horário especial ao servidor que tenha cônjuge, filho ou dependente portador de deficiência física será com compensação de horário.
+
+
+15.5.2 O Ministro Presidente poderá conceder horário especial de que trata esta seção, em caráter excepcional, ao servidor que presta assistência direta a cônjuge, filho ou dependente portador de deficiência, independentemente de compensação, mediante comprovação e com base em perícia médica.
+
+
+(...)
+
+
+
+22 INCLUSÃO/EXCLUSÃO DE PENSÃO VITALÍCIA À PESSOA PORTADORA DE DEFICIÊNCIA OU TEMPORÁRIA À PESSOA INVÁLIDA
+
+
+
+22.1 A pensão será devida à pessoa que viva sob a dependência econômica do servidor, sendo vitalícia, quando portadora de deficiência, e temporária, quando inválida.
+
+
+22.1.1 Pessoa portadora de deficiência, para os efeitos de concessão de pensão vitalícia, é aquela incapacitada para a vida independente e para o trabalho, em razão de anomalias ou lesões irreversíveis de natureza hereditária, congênitas ou adquiridas, que impeçam o desempenho da vida diária e do trabalho.
+
+
+(...)
+
+
+
+26 INCLUSÃO DE DEPENDENTE PORTADOR DE NECESSIDADES ESPECIAIS NA ASSISTÊNCIA À SAÚDE
+
+
+
+
+26.1 Serão incluídos na assistência à saúde os dependentes solteiros, de qualquer idade, portadores de necessidades especiais: filho ou enteado e irmão, mediante comprovação por perícia médica. 
+
+
+26.1.1 Será considerada portadora de necessidades especiais a pessoa que se enquadrar nas categorias especificadas na subseção 11.2, a saber: deficiência física, deficiência auditiva, deficiência visual, deficiência mental e deficiência múltipla.
+
+
+
+
+26.2 Solicitação
+
+
+
+26.2.1 A solicitação de inclusão de dependente portador de necessidades especiais na assistência à saúde será a pedido, mediante requerimento do próprio servidor dirigido ao Secretário-Geral de Administração, e a documentação nosológica do periciando que permita a formulação da decisão, atualizada, se houver, deverá ser encaminhada ao SPS em envelope lacrado com a identificação do interessado e do processo.
+
+
+
+
+26.3 Exame pericial
+
+
+
+26.3.1 A inclusão de dependente portador de necessidades especiais na assistência à saúde está condicionada a inspeção por junta médica oficial.
+
+
+(...)
+
+
+
+26.5 Efeitos
+
+
+
+26.5.1 Para os efeitos de inclusão de dependente portadora de deficiência na assistência à saúde, serão considerados dependentes os que comprovarem o atendimento de quaisquer das condições abaixo relacionadas:
+
+
+a) filho ou enteado de qualquer idade, portador de deficiência, sem economia própria; 
+
+
+b) irmão solteiro, portador de deficiência, ou interditado por alienação mental, sem economia própria, que viva sob a exclusiva dependência econômica de servidor e conste como dependente na declaração do Imposto de Renda.
+
+
+
+
+
+................................................... Por força da Portaria-TCU nº 1, de 2/1/2018................................................
+
+
+
+10.8.2 No caso de a servidora encontrar-se afastada por quaisquer dos motivos previstos em lei, regulamento ou norma interna, exceto por motivo de doença, a licença terá início no dia imediatamente posterior ao término daqueles afastamentos.
+
+
+
+.............................................. Por força da Portaria-Segedam nº 58, de 29/9/2011...........................................
+
+
+
+
+I DISPOSIÇÕES GERAIS
+
+1 APRESENTAÇÃO
+
+
+1.1  (...)
+
+
+1.2  (...) 
+
+
+(...)
+
+
+j) junta oficial: é a reunião ordinariamente composta por 3 (três) médicos/dentistas oficiais ou por 2 (dois), desde que não haja divergência na conclusão do laudo pericial, responsável pelo exame pericial;
+
+
+
+
+
+
+

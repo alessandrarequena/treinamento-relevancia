@@ -1,0 +1,417 @@
+Portaria
+242/2013
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, tendo em vista os estudos e pareceres que constam do processo nº TC-022.173/20137, e
+
+
+Considerando o disposto na Lei nº 12.527, de 18 de novembro de 2011, Lei de Acesso à Informação (LAI), que versa sobre o acesso à informação;
+
+
+Considerando o contido na Resolução-TCU nº 249, de 2 de maio de 2012, que dispõe sobre o acesso à informação e a aplicação da Lei nº 12.527, de 2011, no âmbito do Tribunal de Contas da União;
+
+
+Considerando o contido na Resolução-TCU nº 254, de 10 de abril de 2013, que dispõe sobre a classificação da informação quanto à confidencialidade no âmbito do Tribunal, em especial o disposto em seu art. 10, segundo o qual os gestores da informação devem editar, sempre que possível, atos normativos que classifiquem a informação previamente à sua produção ou que orientem a sua classificação;
+
+
+Considerando a necessidade de regulamentação e uniformização dos procedimentos institucionais afetos à classificação das informações de controle externo resolve:
+
+
+CAPÍTULO I
+CONCEITUAÇÕES E DISPOSIÇÕES INICIAIS
+
+
+Art. 1º Os procedimentos de classificação de informações de controle externo no âmbito do Tribunal de Contas da União (TCU) observam o disposto nesta Portaria.
+
+
+Art. 2º Para os fins desta Portaria entende-se por:
+
+
+I - qualquer interessado: subscritor do pedido de acesso à informação de controle externo apresentado ao TCU com base na Lei de Acesso à Informação (LAI);
+
+
+II - informação de controle externo: aquela contida em documento, peça ou registro eletrônico, que possua conteúdo relacionado à atividade-fim do TCU;
+
+
+III - documento: unidade de registro de informações, qualquer que seja o suporte ou formato;
+
+
+IV - peça: documento ou conjunto de documentos juntados de forma unitária ao processo;
+
+
+V - registro eletrônico: informação sob a forma de sistema ou outra espécie de solução de tecnologia da informação, relativa à área de controle externo;
+
+
+VI - dados cadastrais: informações relativas ao número e tipo do processo, à identificação de partes e representantes legais, à unidade jurisdicionada, à relatoria, ao assunto e à responsabilidade técnica e por agir;
+
+
+VII - histórico: registro do conjunto de ações praticadas no processo;
+
+
+VIII - processo: conjunto formado pelos dados cadastrais, pelo histórico e pela reunião de peças;
+
+
+IX - informação não pública: aquela classificada em qualquer dos graus de confidencialidade definidos no art. 5º da Resolução-TCU nº 254, de 10 de abril de 2013, que não seja o de grau público; e
+
+
+X - instrumento de classificação: formalização dos registros utilizados para classificação de informação de peças de processo.
+
+
+Art. 3º As informações de controle externo, quanto à origem, dividem-se em:
+
+
+I - produzidas pelo TCU: informações elaboradas no âmbito da atuação dos servidores e autoridades do Tribunal; e
+
+
+II - custodiadas pelo TCU: informações produzidas por órgãos, entidades ou pessoas físicas ou jurídicas externas ao Tribunal e que se encontram sob a guarda do TCU.
+
+
+Art. 4º A informação de controle externo produzida pelo TCU, nos termos do art. 5º da Resolução TCU nº 254, de 2013, classifica-se, quanto ao grau de confidencialidade, em:
+
+
+I - pública: aquela cujo acesso pode ser franqueado a qualquer interessado;
+
+
+II - reservada, secreta ou ultrassecreta: aquela imprescindível à segurança da sociedade ou do Estado;
+
+
+III - pessoal: a que diz respeito à intimidade, vida privada, honra e imagem da pessoa, bem como às liberdades e garantias individuais; e
+
+
+IV - sigilosa: aquela enquadrada nas hipóteses de sigilo previstas em legislação específica, tal como a de natureza fiscal, bancária, a relacionada a operações e serviços no mercado de capitais, a protegida por sigilo comercial, profissional, industrial ou por segredo de justiça e aquela relativa a denúncias.
+
+
+Art. 5º As informações custodiadas pelo TCU são classificadas, na origem, quanto à confidencialidade.
+
+
+Parágrafo único. Cabe ao TCU obedecer a classificação atribuída às informações recebidas de órgãos, entidades ou pessoas físicas ou jurídicas externas ao Tribunal.
+
+
+CAPÍTULO II
+INFORMAÇÕES DE CONTROLE EXTERNO CONSTANTES DE PROCESSO
+
+
+
+Seção I
+Disposições gerais
+
+
+
+Art. 6º O direito de qualquer interessado em obter junto ao TCU informação relativa ao resultado de ações de controle externo constante de processo, bem como aos documentos ou às informações nele contidos e utilizados como fundamento da tomada de decisão e de ato administrativo, somente será assegurado com a edição do ato decisório respectivo, nos termos do art. 7º, inciso VII, alínea "b", e § 3º, da LAI, ou com o encerramento do processo.
+
+
+§ 1º Por ato decisório entende-se o acórdão do TCU ou despacho do relator com decisão de mérito.
+
+
+§ 2º As solicitações de acesso à informação, nos termos do caput, serão encaminhadas à Ouvidoria do TCU, para atendimento conforme normativo específico.
+
+
+§ 3º Pedido de informação formulado por qualquer interessado antes da prolação do ato decisório será submetido à apreciação do relator ou do Presidente do TCU, conforme o caso, com análise elaborada pela unidade técnica competente, que fundamente proposta de rejeição ou de autorização da divulgação total ou parcial das informações.
+
+
+§ 4º O disposto no caput não se aplica:
+
+
+I - às informações custodiadas públicas; e
+
+
+II - aos casos em que o encerramento do processo se der pelo apensamento a outro processo, mesmo que por decisão de mérito do Relator ou de Colegiado do TCU, devendo as peças do processo apensado serem consideradas como pertencentes ao processo principal, para efeito desta Portaria.
+
+
+
+Seção II
+Procedimentos de classificação de informação contida em peça processual
+
+
+
+
+Subseção I
+Peça produzida
+
+
+
+Art. 7º A peça produzida pelo TCU deverá, no momento de sua inserção em processo de controle externo, receber proposta de classificação de confidencialidade conforme disposto no art. 4º desta Portaria.
+
+
+Parágrafo único. Se a peça produzida contiver informações que devam ser classificadas em diferentes graus de confidencialidade, essa deverá receber proposta de classificação no grau com maior prazo de restrição de acesso, ficando assegurado o acesso ao conteúdo permitido por meio de certidão, extrato ou cópia, com ocultação do conteúdo não permitido.
+
+
+Art. 8º Os dados cadastrais, para os efeitos desta Portaria, equiparam-se a peças do processo, são considerados informação de controle externo, e, como tais, devem receber proposta de classificação conforme o disposto no art. 4º desta Portaria.
+
+
+Parágrafo único. Serão públicos os dados cadastrais relativos ao número e tipo de processo, à relatoria, à unidade técnica, à unidade responsável por agir e ao histórico.
+
+
+Art. 9º O Relatório, o Voto e o Acórdão constituem peças do processo e também devem ser classificados nos termos desta Portaria.
+
+
+§ 1º O Relatório, o Voto e o Acórdão dos processos apreciados em sessão ordinária do Plenário ou das Câmaras do TCU serão públicos.
+
+
+§ 2º O Relatório, o Voto e o Acórdão dos processos apreciados em sessão extraordinária de caráter reservado do Plenário ou das Câmaras do TCU deverão receber, individualmente, proposta de classificação de confidencialidade conforme o disposto no art. 4º desta Portaria.
+
+
+Art. 10. A unidade responsável por agir poderá, a qualquer momento, alterar a proposta de classificação das peças processuais.
+
+
+§ 1º A unidade que inserir peça com proposta de classificação não pública deve revisar as propostas de classificação das demais peças processuais.
+
+
+§ 2º Peça produzida pelo TCU baseada em informações públicas receberá classificação com grau de confidencialidade mais elevado, quando for imprescindível à segurança da sociedade e do Estado.
+
+
+§ 3º Havendo discordância do Colegiado do TCU, do Presidente ou do Relator, em processo de sua competência, quanto às propostas de classificação elaboradas nos termos dos artigos anteriores, a autoridade poderá alterar a proposta ou determinar a restituição à unidade técnica para fazê-lo, indicando as peças que devem ter a proposta de classificação alterada e o grau de confidencialidade a ser aplicado.
+
+
+§ 4º Após manifestação sobre classificação proferida por Colegiado do TCU, pelo Presidente ou Relator do Tribunal, nos processos de suas competências, não cabe classificação diversa, salvo por iniciativa da própria autoridade ou do respectivo Colegiado.
+
+
+Art. 11. A edição do ato decisório a que se refere o § 1º do art. 6º desta Portaria converte as propostas mencionadas no art. 7º desta Norma em classificação da informação, e o registro eletrônico a que se refere o art. 14 desta Portaria passa a ser considerado como instrumento de classificação, para os efeitos do art. 11 da Resolução-TCU nº 254, de 2013.
+
+
+§ 1º O instrumento de classificação constituirá peça processual.
+
+
+§ 2º Eventual recurso contra a classificação das informações contida no instrumento a que se refere o parágrafo anterior deverá ser interposto mediante a autuação de processo administrativo próprio, a ser submetido à Ouvidoria do TCU, com observância dos procedimentos estabelecidos na Resolução-TCU nº 249, de 2 de maio de 2012.
+
+
+Art. 12. A classificação da informação pelo ato decisório alcança somente as peças contidas no processo até a respectiva prolação.
+
+
+Parágrafo único. Devem ser observados os procedimentos descritos nesta Seção a cada nova peça que venha a ser inserida no processo, até a edição de novo ato decisório ou do encerramento do processo.
+
+
+
+Subseção II
+Informação custodiada
+
+
+
+Art. 13. A unidade que inserir, em processo de controle externo, informações custodiadas pelo TCU classificadas como não públicas deverá revisar as propostas de classificação das demais peças processuais.
+
+
+
+Seção III
+Procedimentos comuns a peça produzida ou custodiada
+
+
+
+
+Subseção I
+Registro eletrônico
+
+
+
+Art. 14. A proposta de classificação de peça processual como não pública deve ser cadastrada por meio de registro eletrônico com os seguintes elementos:
+
+
+I - grau de confidencialidade;
+
+
+II - grupo de pessoas que pode acessar a informação, com indicação se o acesso será irrestrito ou mediante certidão, extrato ou cópia com ocultação das partes não permitidas;
+
+
+III - assunto sobre o qual versa a informação;
+
+
+IV - termo final de restrição de acesso e, quando for o caso, evento que defina o termo final alternativo;
+
+
+V - identificação do responsável pela classificação; e
+
+
+VI - fundamento legal da restrição de acesso, conforme indicado abaixo:
+
+
+a) art. 23 da LAI, quando a classificação se der no grau reservado, secreto ou ultrassecreto;
+
+
+b) dispositivo legal específico, quando sigiloso; ou
+
+
+c) art. 5º, inciso X, da Constituição Federal e art. 31 da LAI, quando pessoal.
+
+
+Art. 15. A informação custodiada pelo TCU será cadastrada, quando não pública, por meio de registro eletrônico com os mesmos elementos previstos no artigo anterior.
+
+
+
+Subseção II
+Rótulo
+
+
+
+Art. 16. A peça processual com proposta de classificação ou classificada como não pública, seja ela produzida ou custodiada, deve ser rotulada mediante o registro nos sistemas informatizados dos seguintes elementos:
+
+
+I - grau de confidencialidade;
+
+
+II - grupo de pessoas que pode acessar a informação, com indicação se o acesso será irrestrito ou mediante certidão, extrato ou cópia com ocultação das partes não permitidas; e
+
+
+III - termo final de restrição de acesso e, quando for o caso, evento que defina o termo final alternativo.
+
+
+CAPÍTULO III
+CLASSIFICAÇÃO DE INFORMAÇÕES DE CONTROLE EXTERNO QUE NÃO CONSTITUEM PEÇAS PROCESSUAIS
+
+
+
+Seção I
+
+
+
+
+Disposições gerais
+
+
+
+
+(AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+
+Art. 17. (Revogado)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+Art. 17-A. A contagem dos prazos máximos de restrição de acesso à informação que não constitui peça processual inicia-se na data da assinatura do responsável pela produção, nos termos do art. 6º da Resolução-TCU nº 254, de 2013. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+Parágrafo único. Na hipótese da ausência da data de produção da informação será considerada, para efeito deste artigo, a data da sua classificação, dada na origem ou pelo Tribunal. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+Art. 17-B. Documento que der entrada no TCU será de acesso restrito à unidade responsável por agir, enquanto pendente de aposição do rótulo da informação por essa unidade, se for o caso. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+
+Seção II
+
+
+
+
+Classificação de informação
+
+
+
+
+(AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+
+Art. 17-C. Classificam-se, no mínimo, como reservados, com acesso restrito às unidades envolvidas com a matéria no Tribunal, nos termos do art. 7º da Resolução-TCU Nº 254, de 2013: (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+I - Plano de Controle Externo a que se refere o art. 188-A do Regimento Interno do TCU, e de fiscalização e outros relacionados às ações de controle externo, enquanto durar a sua execução; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+II - estudos preliminares, diagnósticos e relatórios relacionados ao planejamento e execução das ações de controle; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+III - comunicações não processuais destinadas ao acompanhamento das atividades das unidades jurisdicionadas de que trata o inciso II do art. 242 do Regimento Interno do TCU; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+IV - Papéis de Trabalho de fiscalizações; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+V - bases de dados geradas internamente, a partir de bases externas, para fins do exercício das ações de controle externo; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+VI - informações que constituam atividades de inteligência do Tribunal, bem como de investigação ou fiscalização em andamento. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+Art. 17-D. Classificam-se como públicos: (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+I - normas e manuais de fiscalização; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+II - normas e orientações destinadas a disciplinar as ações das unidades técnicas no exercício das atividades de controle externo, ressalvados os casos cujo conteúdo exigir classificação diversa; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+III - Notas Técnicas; (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+IV - comunicações não processuais entre o Tribunal e unidades jurisdicionadas, ressalvada a situação do inciso III do artigo anterior. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+Art. 17-E. O responsável pela produção da informação poderá classificar ou propor a classificação das informações em qualquer dos graus constantes do art. 4º desta Portaria, diferentes daqueles definidos nos arts. 17-C e 17-D, desde que devidamente fundamentado e justificado. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+
+Seção III
+
+
+
+
+Rótulo
+
+
+
+
+(AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+
+Art. 17-F. As informações a que se refere este Capítulo, sejam elas produzidas ou custodiadas, devem ser rotuladas mediante o registro nos sistemas informatizados dos elementos constantes do art. 16 desta Portaria. (AC)(Portaria - TCU nº 56, de 27/02/2014, BTCU nº 07/2014)
+
+
+
+CAPÍTULO IV
+DISPOSIÇÕES FINAIS
+
+
+Art. 18. O histórico das propostas de classificação e das classificações das informações quanto ao grau de confidencialidade deve ser mantido nos sistemas informatizados do Tribunal.
+
+
+Art. 19. Incumbe à Secretaria de Soluções de Tecnologia da Informação (STI), sob a coordenação da Secretaria de Gestão de Sistemas e de Informação para o Controle (Seginf), o desenvolvimento das soluções de Tecnologia da Informação necessárias ao cumprimento dos dispositivos constantes desta Portaria.
+
+
+Art. 20. Os casos omissos serão resolvidos pela CCG.
+
+
+Art. 21. Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente
+
+
+
+REDAÇÃO ANTERIOR:
+
+
+
+CAPÍTULO III
+CLASSIFICAÇÃO DE INFORMAÇÕES DE CONTROLE EXTERNO QUE NÃO CONSTITUEM PEÇAS PROCESSUAIS
+
+
+Art. 17. A Comissão de Coordenação Geral (CCG), por proposta da Segecex, disciplinará a classificação de informações de controle externo que não constituam peças processuais.
+
+
+Não consta revogação expressa
+Dispõe sobre procedimentos para classificação, quanto à confidencialidade, de informações de controle externo.
+
+

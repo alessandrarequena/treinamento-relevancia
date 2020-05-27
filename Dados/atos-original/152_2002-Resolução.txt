@@ -1,0 +1,635 @@
+Resolução
+152/2002
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares, resolve:
+
+
+
+
+
+Art. 1º O exame, a apreciação e o registro dos atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão e de seus respectivos atos de alteração observarão as disposições desta Resolução.
+
+
+
+
+
+CAPÍTULO I
+
+
+DO EXAME
+
+
+
+Art. 2º No exame de atos sujeitos a registro serão utilizadas, além das informações contidas no Sistema de Apreciação e Registro dos Atos de Admissão e Concessões - Sisac, aquelas cadastradas no Sistema Integrado de Administração de Recursos Humanos - Siape, em sistema similar e outros sistemas utilizados pela unidade jurisdicionada e em outros sistemas de informação na área de pessoal disponíveis na administração pública.
+
+
+
+
+
+Art. 3º O Tribunal, por meio dos procedimentos estabelecidos nesta Resolução, verificará a legalidade dos seguintes atos:
+
+
+
+
+
+I - admissão de pessoal;
+
+
+
+
+
+II - desligamento de servidor;
+
+
+
+
+
+III - cancelamento do desligamento e restabelecimento da admissão;
+
+
+
+
+
+IV - concessão de aposentadoria;
+
+
+
+
+
+V - concessão de pensão civil;
+
+
+
+
+
+VI - concessão de pensão especial a ex-combatente;
+
+
+
+
+
+VII - concessão de reforma;
+
+
+
+
+
+VIII - concessão de pensão militar;
+
+
+
+
+
+IX - cancelamento ou restabelecimento das concessões;
+
+
+
+
+
+X - alteração do fundamento legal do ato concessório;
+
+
+
+
+
+XI - reclassificações extensivas aos inativos, em virtude de texto legal expresso;
+
+
+
+
+
+XII - revisão do tempo de serviço que não importe em alterações do fundamento legal da concessão ou decorrer de justificativa judicial;
+
+
+XIII - concessão das vantagens do art. 184 da Lei 1.711/52, aos que se aposentaram na vigência da Constituição de 1967 e que deixaram de percebê-las em virtude do teto estabelecido no § 2º do art. 102 da mesma Carta;
+
+
+
+
+
+XIV - concessão do abono especial previsto na Lei nº 7.333/85, aos inativados anteriormente à sua vigência;
+
+
+
+
+
+XV - melhorias posteriores  que não alterem o fundamento legal do ato concessório;
+
+
+
+
+
+XVI - outros que o Tribunal  entender necessários.
+
+
+
+Seção I
+
+
+Do Exame Informatizado de Atos
+
+
+
+
+
+Art. 4º O Sisac terá a função de cadastrar e registrar as informações referentes aos atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão.
+
+
+
+
+
+§  1º O Tribunal oferecerá manual de instrução do Sisac aos seus usuários.
+
+
+
+
+
+§ 2º Os formulários disponíveis no Sisac deverão conter campo específico para cadastramento dos dados necessários à identificação da autoridade responsável pelo ato de admissão ou de concessão.
+
+
+
+
+
+§ 3º Os atos de admissão e de concessão encaminhados ao Tribunal deverão ser criticados pelo Sisac a partir de parâmetros previamente definidos no sistema, com base na legislação e na jurisprudência.
+
+
+
+
+
+§ 4º Os atos rejeitados pela crítica serão objeto de diligências, realizadas por meio do Sisac, ao órgão de controle interno a que se ache vinculado o órgão de pessoal responsável pelo cadastramento, a fim de serem adotadas providências para saneamento dos atos ou obtenção de justificativa sobre as falhas e as ilegalidades detectadas.
+
+
+
+
+
+§ 5º Atendida a diligência ou esgotado o prazo para o seu atendimento sem manifestação do órgão de controle interno, os atos serão objeto de nova crítica informatizada.
+
+
+
+
+
+§ 6º O exame informatizado não prejudica a adoção de outros procedimentos de fiscalização.
+
+
+
+
+
+Art. 5º Concluído o exame informatizado, o Sisac deverá separar os atos incluídos no sistema por tipo e por órgão e  agrupá-los da seguinte forma:
+
+
+
+
+
+I - Grupo I: atos sem indícios de ilegalidade;
+
+
+
+II - Grupo II: atos com indícios de ilegalidade ou atos editados em substituição a atos anteriormente julgados ilegais pelo Tribunal;
+
+
+
+
+
+III - Grupo III: atos com inconsistência de dados.
+
+
+
+
+
+Art. 6º Os atos submetidos ao exame informatizado, após separados, serão autuados pela unidade técnica competente de acordo com o grupo e o tipo, conforme a definição adotada pelo manual de instrução do Sisac, e por unidade jurisdicionada ou por unidade de controle interno.
+
+
+§ 1° A autuação de melhorias posteriores à data da concessão que não alterem o fundamento legal do ato concessório, observado o disposto no § 2º deste artigo, será dispensada e substituída pela inclusão da alteração na base de dados do Sisac e ficará sujeita ao exame informatizado.
+
+
+
+
+
+§ 2° Constituem alteração do fundamento legal do ato concessório as melhorias posteriores decorrentes de acréscimos aos proventos de novas parcelas, gratificações ou vantagens de qualquer natureza, bem como a introdução de novos critérios ou bases de cálculo dos componentes do benefício, quando tais melhorias se caracterizarem como vantagem pessoal do servidor público civil ou militar e não houverem sido previstas no ato concessório originalmente submetido à apreciação do Tribunal ou por este já apreciado e registrado.
+
+
+
+
+
+§ 3º O resultado do exame informatizado mencionado no § 1° deste artigo deverá ser consignado em relatório simplificado pela unidade técnica responsável pelo exame de atos sujeitos a registro, que poderá propor a realização de auditoria ou inspeção para verificar a regularidade dos respectivos atos concessórios.
+
+
+
+
+
+Seção - II
+
+
+Do Exame Individualizado de Atos
+
+
+
+
+
+Art. 7º Poderão ser examinados de forma individualizada atos sujeitos a registro:
+
+
+
+
+
+I - com indícios de ilegalidade;
+
+
+
+
+
+II -  objeto de denúncia ou representação;
+
+
+
+
+
+III - cuja demora na instrução possa acarretar grave prejuízo ao erário;
+
+
+
+
+
+IV – cujo exame de tal forma seja considerado necessário, pela unidade técnica responsável pelo exame de atos sujeitos a registro, pelo Ministério Público junto ao Tribunal, pelo Relator ou pelo Tribunal.
+
+
+
+
+
+Seção - III
+
+
+Do Exame dos Atos Constituídos nos Moldes Convencionais e da Resolução nº 255/91
+
+
+
+
+
+Art. 8º Os atos constituídos nos moldes convencionais ou da Resolução nº 255/91 serão examinados individualmente e submetidos a exame simplificado.
+
+
+
+
+
+Art. 9º Somente serão autuados processos de concessão nos moldes convencionais a partir do respectivo processo administrativo proveniente do órgão de origem nos casos seguintes:
+
+
+
+
+
+I – subsídio à  análise dos processos de que trata o art.  7º desta Resolução;
+
+
+
+
+
+II - cancelamento de registro de concessão;
+
+
+
+
+
+III - pensões graciosas ou indenizatórias;
+
+
+
+
+
+IV - outros atos de concessão que, por sua natureza, não possam ser inseridos no Sisac.
+
+
+
+
+
+§ 1º Nas hipóteses dos incisos I e II, os novos processos autuados deverão ser apensados ao processo anteriormente autuado  ou ao processo de concessão apreciado pelo Tribunal.  
+
+
+§ 2º Os atos de alteração de fundamento legal de concessões remetidas originalmente nos moldes convencionais ou da Resolução nº 255/91 deverão ser examinados na forma da  Seção I e II deste Capítulo.
+
+
+
+
+
+Seção - IV
+
+
+Das Auditorias e Inspeções
+
+
+	
+
+
+Art. 10 Poderão ser realizadas auditorias ou inspeções nas unidades jurisdicionadas para:
+
+
+
+
+
+I - suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias quanto à legalidade e à legitimidade dos atos a que se refere esta Resolução;
+
+
+
+
+
+II - verificar o cumprimento de determinações do Tribunal na área de admissões e concessões;
+
+
+
+
+
+III - verificar a correta utilização dos módulos de coleta do Sisac;
+
+
+
+
+
+IV – verificar a regularidade das despesas com pessoal ativo, inativo e pensionistas, inclusive as decorrentes de melhorias posteriores à data da concessão que não alteraram o fundamento legal do ato concessório;
+
+
+
+
+
+V - verificar a conformidade e a consistência das informações inseridas nos sistemas informatizados, inclusive daqueles atos que não apresentem indício de ilegalidade.
+
+
+
+
+
+Art. 11 Os atos de admissão e de concessão examinados no decorrer de auditoria ou inspeção serão autuados em processos específicos, distintos dos processos de auditoria e inspeção.
+
+
+
+
+
+Art. 12 As providências para a realização de diligência saneadora e para a obtenção do pronunciamento do responsável sobre as ocorrências detectadas serão adotadas, preferencialmente, no curso da auditoria ou da inspeção.
+
+
+
+
+
+Art. 13 A unidade técnica responsável pelo exame de atos sujeitos a registro poderá propor a realização, sob sua coordenação, de auditorias e inspeções conjuntas ou concomitantes com as secretarias nos Estados, em órgãos, entidades ou unidades da mesma natureza ou em que tenham sido detectadas falhas ou irregularidades idênticas ou similares, bem como para acompanhamento de determinações do Tribunal.
+
+
+
+
+
+Art. 14 Verificada a prática de atos ilegais de admissão ou de concessão, ou descumprimento de normas sobre a matéria, a equipe de fiscalização poderá propor a audiência do responsável ou a conversão do processo em tomada de contas especial, visando à recomposição de eventual dano ao erário. 
+
+
+
+
+
+Seção - V
+
+
+Das Propostas de Encaminhamento dos Atos
+
+
+
+
+
+Art. 15 Os atos nos quais não tenham sido verificadas ilegalidades, bem como aqueles em que estas tenham sido sanadas durante o exame ou por meio de diligências, serão submetidos ao Relator com proposta de mérito pela legalidade e registro do ato, feita a oitiva do Ministério Público.
+
+
+
+
+
+Parágrafo único. Verificada apenas falta ou impropriedade de caráter formal, a unidade técnica responsável deverá apresentar proposta de mérito pela legalidade do ato, com determinação ao órgão ou entidade para adoção das medidas cabíveis.
+
+
+Art. 16 Verificada ilegalidade não saneada durante a análise do processo, a unidade técnica responsável pelo exame de atos sujeitos a registro proporá ao Relator a ilegalidade do ato e a negativa de registro, feita a oitiva do Ministério Público, e poderá:
+
+
+
+
+
+I – representar ao Tribunal com vistas à apuração dos fatos irregulares e à responsabilização do administrador faltoso;
+
+
+
+
+
+II – propor a realização de auditoria na unidade jurisdicionada responsável pela prática do ato.
+
+
+
+
+
+Parágrafo único. Na hipótese do caput deste artigo, poderá ser feito o destaque de atos, quando as  ilegalidades não incidirem sobre todos os atos inseridos no processo.
+
+
+
+
+
+CAPÍTULO II
+
+
+DA APRECIAÇÃO E DO REGISTRO
+
+
+
+
+
+Art. 17 Ao apreciar os atos sujeitos a registro, o Tribunal poderá:
+
+
+
+
+
+I – considerar o ato legal e ordenar o seu registro;
+
+
+
+
+
+II – considerar o ato ilegal e negar o seu registro.
+
+
+
+
+
+§ 1º Verificada falta ou impropriedade de caráter formal, o Tribunal poderá considerar o ato legal e determinar ao órgão ou entidade de origem a adoção das medidas corretivas.
+
+
+
+
+
+§ 2º  Considerado o ato ilegal, o Tribunal:
+
+
+
+
+
+I – fixará prazo de 15 (quinze) dias, contados da ciência, para que o órgão ou entidade de origem adote as medidas saneadoras cabíveis, fazendo cessar todo e qualquer pagamento decorrente do ato impugnado, bem como comunique ao Tribunal no mesmo prazo as medidas adotadas, sob pena de solidariedade da autoridade administrativa na obrigação de ressarcimento das quantias pagas após essa data, sem prejuízo das sanções previstas na Lei nº 8.443/92; 
+
+
+
+
+
+II – poderá fixar prazo para que o órgão ou entidade de origem aplique a todos os casos análogos existentes em seu quadro de pessoal o entendimento contido na decisão, sob pena de responsabilidade solidária da autoridade administrativa e de aplicação das sanções previstas na Lei nº 8.443/92.
+
+
+
+
+
+§ 3° Na hipótese do inciso I do § 2°, o prazo fixado poderá ser prorrogado pelo Tribunal ou pelo Relator a pedido justificado do órgão ou entidade de origem.
+
+
+
+
+
+Art. 18 O Tribunal poderá determinar a instauração de  tomada de contas especial, nos casos em que houver negativa de registro de atos de admissão ou de concessão, quando:
+
+
+
+
+
+I – não for suspenso o pagamento no prazo fixado na decisão;
+
+
+
+
+
+II –não for aplicado a casos análogos, no prazo fixado, o entendimento firmado na decisão.
+
+
+
+
+
+Parágrafo único. Se houver indícios de improbidade administrativa na prática do ato examinado, o Tribunal determinará ao órgão de origem a imediata apuração dos fatos, nos termos do art. 14, § 3º, da Lei nº 8.429, de 1992, comunicando ao Tribunal em seguida.
+
+
+Art. 19 Os atos de que trata o § 1º do art.  6º desta Resolução ficam dispensados de registro após cadastramento do resultado de seu exame em local próprio no Sisac.
+
+
+
+
+
+CAPÍTULO III
+
+
+DISPOSIÇÕES FINAIS
+
+
+
+
+
+Art. 20 Após julgamento e registro, os processos relativos aos atos de admissão e de concessão, serão restituídos ao órgão  de origem.
+
+
+
+
+
+Art. 21 Encerrado processo de tomada de contas especial, relatório de auditoria ou de representação que imputar ao gestor responsabilidade por ilegalidade em ato sujeito a registro ou por descumprimento de normas sobre a matéria, será determinada sua juntada às contas da respectiva unidade jurisdicionada.
+
+
+
+
+
+Parágrafo único. Os processos de que trata o caput serão arquivados na unidade técnica responsável pelo exame de atos sujeitos a registro nos demais casos.
+
+
+
+
+
+Art. 22 A unidade técnica responsável pelo exame de atos sujeitos a registro acompanhará a implementação das medidas saneadoras referidas no § 2° do art. 17, bem como o cumprimento das determinações consignadas em decisões relativas a admissão de pessoal e de concessão, e representará ao Tribunal quando constatar irregularidades.
+
+
+
+
+
+Art. 23 A unidade técnica responsável pelo exame de atos sujeitos a registro poderá consolidar informações sobre atos de admissão e de concessão de uma mesma unidade jurisdicionada considerados ilegais ou com indícios de ilegalidade, e representar ao Tribunal para fins de responsabilização dos gestores.
+
+
+
+
+
+Parágrafo único. O processo de representação de que trata este artigo deverá ser juntado, após apreciação pelo Tribunal,  às respectivas contas da unidade jurisdicionada para exame em conjunto.
+
+
+
+Art. 24 O servidor do Tribunal deverá representar quando tiver ciência de irregularidades relativas a atos de admissão e de concessão.
+
+
+
+Parágrafo único. A representação de que trata este artigo deverá ser encaminhada pelo dirigente da unidade técnica à unidade técnica responsável pelo exame de atos sujeitos a registro, que submeterá a matéria ao respectivo Relator, com parecer conclusivo.
+
+
+
+
+
+Art. 25 O controle de qualidade do exame de atos de pessoal será realizado mediante sistema informatizado, que registrará as falhas encontradas no programa e em procedimentos do Sisac, bem como as respectivas medidas corretivas adotadas.
+
+
+
+
+
+§ 1° O sistema informatizado de controle de qualidade será alimentado por comunicações de falhas provenientes das unidades do Tribunal ou do Ministério Público.
+
+
+
+
+
+§ 2° Cabe à unidade técnica incumbida do exame de atos de pessoal implementar e à Secretaria Geral de Controle Externo acompanhar a correção das falhas comunicadas.
+
+
+
+
+
+§ 3° Nos primeiros 2 (dois) anos de vigência desta Resolução, o acompanhamento referido no § 2° será realizado por meio de relatórios trimestrais elaborados pela unidade técnica  incumbida do exame de atos sujeitos a registro.
+
+
+§ 4° Findo o prazo referido no § 3° e atingido o nível de falhas aceitável a ser definido pela Secretaria Geral de Controle Externo, o acompanhamento referido no § 2° será realizado por meio de relatórios semestrais.
+
+
+
+
+
+Art. 26 Esta Resolução entra em vigor na data de sua publicação.
+
+
+
+
+
+Art. 27 Ficam revogadas as Resoluções nº 221, de 13 de junho de 1985 e nº 243, de 23 de maio de 1990.
+
+
+
+
+
+Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 02 de outubro de 2002.
+
+
+
+
+
+
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+Presidente
+
+
+
+
+
+(Publicada no DOU de 14.10.2002, Seção 1, pág. 124)
+
+
+
+
+Revogada pela Resolução nº 206, de 24/10/2007.
+
+
+
+
+
+
+
+Revogada
+Estabelece procedimentos para exame, apreciação e registro dos atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão pelo Tribunal de Contas da União.
+
+

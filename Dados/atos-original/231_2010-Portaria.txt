@@ -1,0 +1,134 @@
+Portaria
+231/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando que o Tribunal de Contas da União (TCU), no cumprimento da missão institucional, intensificou, nos últimos anos, a formação de parcerias estratégicas com a Administração Pública e com entidades civis, mediante a pactuação de instrumentos de cooperação;
+
+
+considerando a importância de sistematizar informações afetas à execução de ações no âmbito dos instrumentos de cooperação, com vistas a subsidiar o contínuo desenvolvimento de parcerias estratégicas e o alcance da visão de futuro do TCU;
+
+
+considerando o contido na Resolução-TCU nº 211, de 18 de junho de 2008, que dispõe sobre a celebração e o acompanhamento de acordos de cooperação e instrumentos congêneres no âmbito do Tribunal, e atribui à Secretaria-Geral da Presidência a competência para assessorar o Presidente e as demais autoridades do TCU na coordenação das atividades afetas a tais instrumentos; e
+
+
+considerando a necessidade de regulamentar as regras de negócio afetas ao acompanhamento da execução dos instrumentos de cooperação firmados pelo TCU, resolve:
+
+
+Art. 1º O acompanhamento da execução dos instrumentos de cooperação firmados pelo Tribunal de Contas da União (TCU) obedece ao disposto nesta Portaria, observada a legislação vigente.
+
+
+Art. 2º Para os efeitos desta Portaria, entende-se por:
+
+
+I – instrumento de cooperação: protocolo de intenções, acordo de cooperação, protocolo de execução e instrumentos congêneres, exceto convênios e instrumentos similares cujo acompanhamento incumbe à Secretaria-Geral de Administração (Segedam) e é efetivado no âmbito do Sistema Contrata;
+
+
+II – unidade executora: unidade do TCU responsável pela execução de ações no âmbito dos instrumentos de cooperação, conforme indicado no respectivo termo de cooperação;
+
+
+III – unidade supervisora: unidade do TCU responsável pela supervisão do cumprimento do instrumento e da execução das ações no âmbito da cooperação firmada, conforme indicado no respectivo termo de cooperação;
+
+
+IV – partícipe: o TCU e órgãos públicos, entidades públicas ou civis, nacionais ou internacionais, que firmarem instrumento de cooperação com o Tribunal; e
+
+
+V – instrumento de cooperação multilateral: aquele pactuado por mais de dois partícipes.
+
+
+§ 1º Em função da natureza do objeto tratado, cada instrumento de cooperação pode ter uma ou mais unidades executoras.
+
+
+§ 2º Para instrumentos de cooperação multilateral – a exemplo daqueles relativos à Rede de Controle da Gestão Pública – a unidade executora, no TCU, é aquela que mais diretamente participa da operacionalização de ações realizadas conjuntamente pelos partícipes.
+
+
+§ 3º Nos casos em que não constar a definição da unidade executora e/ou unidade supervisora no termo de cooperação, a Secretaria-Geral da Presidência (Segepres) efetuará a indicação no Siscop, com a anuência do superior hierárquico da unidade indicada.
+
+
+Art. 3º O acompanhamento da execução dos instrumentos de cooperação dar-se-á por meio de solução de tecnologia da informação (solução de TI) – denominada Sistema de Acompanhamento de Instrumentos de Cooperação (Siscop) – cuja unidade gestora é a Segepres.
+
+
+§ 1º Para subsidiar a definição sobre a celebração de aditivo a instrumento de cooperação será utilizada, entre outros critérios, a análise de eficácia e efetividade da execução do respectivo instrumento.
+
+
+§ 2º O estabelecimento de novos instrumentos de cooperação aproveitará, no que couber, as informações afetas à eficácia e à efetividade de instrumentos com objetos correlatos celebrados pelo TCU.
+
+
+Art. 4º Incumbe à unidade executora registrar no Siscop dados relativos à síntese das atividades desenvolvidas, resultados auferidos e demais informações inerentes à execução dos instrumentos de cooperação vigentes.
+
+
+§ 1º Na hipótese de existir mais de uma unidade executora, cada unidade deverá informar os dados afetos à respectiva área de atuação. 
+
+
+§ 2º As ações executadas, no âmbito do instrumento, por partícipe que não seja o TCU também devem ser informadas, no Siscop, pelas unidades executoras.
+
+
+§ 3º O cadastramento de dados pelas unidades executoras pode ser realizado a qualquer tempo, ressalvado o período de consolidação a que se refere o inciso I do § 4º deste artigo.
+
+
+§ 4º Os dados de que trata o caput deste artigo serão consolidados pela Segepres:
+
+
+I – semestralmente, no primeiro dia útil da última semana de abril e de outubro, para todos os instrumentos que estiveram vigentes por, ao menos, um dia desde a última consolidação, ressalvado o disposto no próximo parágrafo; ou
+
+
+II – dois meses antes do término previsto para a vigência ou quando de eventual denúncia, no caso de instrumento de cooperação específico.
+
+
+§ 5º Na primeira consolidação, a ser realizada em outubro de 2010, serão consolidados dados relativos aos instrumentos vigentes em 30 de setembro de 2010. 
+
+
+§ 6º É facultado, à unidade executora, disponibilizar dados relativos à execução de instrumentos vigentes há menos de quatro meses.
+
+
+§ 7º Para fins de análise da execução, serão considerados como instrumentos não executados somente aqueles vigentes há mais de quatro meses na data de consolidação dos dados e para os quais não haja registro, a qualquer tempo, de execução de ações.
+
+
+§ 8º Na hipótese de existência de solução de TI específica para acompanhamento das ações no âmbito das unidades executoras, cabe à unidade gestora da solução, com a coordenação técnica da Segepres e o suporte tecnológico da Secretaria de Soluções de Tecnologia da Informação (STI), adotar as medidas necessárias para integração – se possível – entre a solução e o Siscop, de modo a evitar o cadastramento de dados em duplicidade.
+
+
+§ 9º Por razões operacionais, o período de consolidação dos dados pode ser alterado mediante ato da Segepres, com ampla divulgação às unidades executoras.
+
+
+§ 10. Os dados consolidados semestralmente pela Segepres serão disponibilizados às respectivas unidades supervisoras dos instrumentos, para ciência e eventual análise, e à Comissão de Coordenação Geral (CCG), para exame e envio ao Presidente do TCU.
+
+
+§ 11. A Secretaria-Geral de Controle Externo (Segecex) pode utilizar dados do Siscop para cômputo de metas que compõem resultados das unidades, bem como para outros acompanhamentos que considerar pertinentes em relação à Rede de Controle da Gestão Pública.
+
+
+Art. 5º Compete à Segepres, no que se refere ao Siscop:
+
+
+I – promover o cadastramento dos instrumentos de cooperação firmados pelo TCU;
+
+
+II – orientar as unidades da Secretaria do TCU quanto à utilização da solução de TI;
+
+
+III – consolidar os dados relativos à execução dos instrumentos de cooperação e divulgar os resultados auferidos;
+
+
+IV – definir as regras de acesso à solução de TI, indicando os perfis a serem concedidos aos usuários do Siscop;
+
+
+V – prover o contínuo aprimoramento da solução de TI mediante apoio técnico da STI; e
+
+
+VI – desenvolver, no âmbito de sua área de atuação, outras atividades relativas ao acompanhamento da execução dos instrumentos de cooperação.
+
+
+Art. 6º Fica a Segepres autorizada a dirimir os casos omissos e a expedir os atos necessários à regulamentação desta Portaria.
+
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Não consta revogação expressa
+Dispõe sobre o acompanhamento da execução dos instrumentos de cooperação firmados pelo Tribunal de Contas da União.
+
+

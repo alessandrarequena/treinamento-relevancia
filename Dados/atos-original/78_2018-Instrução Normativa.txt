@@ -1,0 +1,471 @@
+Instrução Normativa
+78/2018
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares, e
+
+
+Considerando o elevado número de atos de pessoal existentes nos órgãos gestores de pessoal, nos órgãos de controle interno e neste Tribunal; 
+
+
+Considerando a necessidade de conferir maior celeridade à coleta de informações, ao processamento e à apreciação dos atos de pessoal sujeitos a registro;
+
+
+Considerando a necessidade de melhoria na qualidade das informações enviadas ao Tribunal pelos gestores dos órgãos de pessoal e pelos controles internos;
+
+
+Considerando a criação do e-Pessoal, novo sistema desenvolvido pelo Tribunal para coleta, processamento e tramitação de atos de pessoal;
+
+
+Considerando que o e-Pessoal possibilita a ampliação da capacidade de análise automatizada das informações e, em consequência, diminui a necessidade de alocar servidores para a análise manual e individual dos atos sujeitos a registro;
+
+
+Considerando a nova sistematização a ser implementada na tramitação dos atos de pessoal sujeitos a registro;
+
+
+Considerando a necessidade de se alterar a forma de atuação dos órgãos de controle interno na apreciação de atos de pessoal sujeitos a registro,
+
+
+RESOLVE:
+
+
+Art. 1º O envio, o processamento e a tramitação de informações alusivas a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão, para fins de registro, no âmbito do Tribunal de Contas da União, nos termos do art. 71, inciso III, da Constituição Federal, obedecerão às disposições desta Instrução Normativa.
+
+
+CAPÍTULO I
+
+
+DOS ATOS A SEREM REMETIDOS AO TRIBUNAL
+
+
+Art. 2º A autoridade administrativa responsável por ato de admissão ou de concessão de aposentadoria, reforma ou pensão submeterá ao Tribunal, para fins de registro, informações relativas aos seguintes atos:
+
+
+I – admissão de pessoal;
+
+
+II – concessão de aposentadoria;
+
+
+
+
+
+III – concessão de pensão civil;
+
+
+IV – concessão de pensão especial a ex-combatente;
+
+
+V –  concessão de reforma;
+
+
+VI –  concessão de pensão militar;
+
+
+VII – alteração de concessão.
+
+
+§ 1° Configuram, entre outras, hipóteses que exigem o encaminhamento de ato de alteração de concessão à apreciação pelo Tribunal, sejam decorrentes de pedido do interessado, de decisão administrativa ou de ordem judicial:
+
+
+a) modificações do fundamento legal;
+
+
+b) revisões de tempo de serviço ou contribuição que impliquem alteração no valor dos proventos;
+
+
+c) revisões de tempo de serviço ou contribuição que, mesmo não implicando alteração do valor dos proventos, modificarem a natureza dos tempos averbados do ato inicial;
+
+
+d) melhorias posteriores decorrentes de inclusão ou majoração de parcelas, gratificações ou vantagens de qualquer natureza, que tenham caráter pessoal;
+
+
+e) novos critérios ou bases de cálculo dos componentes do benefício, quando tais melhorias se caracterizarem como vantagem pessoal do servidor público civil ou militar e não tiverem sido previstas no ato concessório originalmente submetido à apreciação do Tribunal;
+
+
+f) inclusão de novo beneficiário;
+
+
+g) alteração do enquadramento legal do pensionista;
+
+
+h) modificação da proporcionalidade da concessão;
+
+
+i) alteração da forma de cálculo do benefício;
+
+
+§ 2º Não se encontra sujeito a registro, e, portanto, não deve ser remetido ao Tribunal, ato de alteração no valor dos proventos decorrente de acréscimo de novas parcelas, gratificações ou vantagens concedidas em caráter geral ao funcionalismo ou introduzidas por novos planos de carreira.
+
+
+§ 3º Considera-se alteração do enquadramento legal do pensionista qualquer modificação posterior do grau de parentesco, do dispositivo legal utilizado para o embasamento do beneficiário ou decorrente do reconhecimento posterior de condição que modifique o termo final da extinção da pensão, como, por exemplo, a declaração posterior de invalidez do pensionista.
+
+
+§ 4º Enquadra-se como alteração da forma de cálculo do benefício a modificação posterior da sistemática de reajustamento da concessão ou da observância ou não da regra de paridade, entre outras hipóteses.
+
+
+Art. 3º Embora não sujeitas a registro, deverão ser enviadas ao Tribunal, pela autoridade administrativa responsável, informações relativas a
+
+
+I –  desligamento de servidor;
+
+
+II –  cancelamento de concessão;
+
+
+III –  restabelecimento de admissão;
+
+
+IV –  exclusão de beneficiário;
+
+
+V –  anulação de admissão;
+
+
+VI –  anulação de concessão.
+
+
+§ 1º As informações de que tratam os incisos do caput deste artigo deverão ser consignadas no ato de admissão ou de concessão já cadastrado no e-Pessoal.
+
+
+§ 2º Os dados constantes do caput, relacionados a atos que foram cadastrados no sistema Sisac, também deverão ser informados pelo e-Pessoal.
+
+
+
+
+
+§ 3º Não deverão ser remetidos ao Tribunal informações de desligamento ou de cancelamento em casos de falecimento.
+
+
+§ 4º Constitui cancelamento de concessão no e-Pessoal a extinção do ato decorrente de:
+
+
+	I – reversão de aposentadoria a pedido do interessado;
+
+
+	II – reversão de aposentadoria por invalidez insubsistente;
+
+
+	III – retorno do aposentado à atividade;
+
+
+	IV – exclusão de todos os beneficiários em ato de pensão;
+
+
+V – renúncia ao benefício;
+
+
+VI – apreciação pela ilegalidade, nos termos do § 3º do art. 19 desta instrução normativa;
+
+
+	VII – outros.
+
+
+§ 5º Constitui exclusão do beneficiário a supressão de pagamento do pensionista em razão de:
+
+
+I – invalidez insubsistente ou cessação da incapacidade;
+
+
+II – atingimento da idade limite prevista em lei;
+
+
+III – renúncia ao benefício;
+
+
+IV – falecimento;
+
+
+V – atingimento de prazo previsto em lei para percepção do benefício;
+
+
+VI – decisão judicial, determinação do Tribunal de Contas da União ou revisão administrativa;
+
+
+VII – outras hipóteses previstas em lei.
+
+
+§ 6º Os casos de exclusão de beneficiário de que trata o § 5º constituirão cancelamento de concessão quando não restar beneficiários no ato. 
+
+
+§ 7º As informações relativas a anulação de admissão ou anulação de concessão devem ser prestadas no ato inicial ou de alteração, eivado de ilegalidade, observado o seguinte:
+
+
+I – ato editado há menos de cinco anos e pendente de registro pelo TCU, caberá ao órgão de pessoal anular o ato, prestar a informação no e-Pessoal e anexar os documentos comprobatórios;
+
+
+II – ato editado há mais de cinco anos e pendente de registro pelo TCU, caberá ao órgão de pessoal anular o ato, se comprovada a má-fé, prestar a informação no e-Pessoal e anexar os documentos comprobatórios;
+
+
+III – ato editado há mais de cinco anos e pendente de registro pelo TCU, caberá ao órgão de pessoal solicitar a anulação do ato no e-Pessoal e anexar os documentos comprobatórios;
+
+
+IV – ato registrado pelo TCU há menos de cinco anos, independentemente da data de edição do ato, caberá ao órgão de pessoal solicitar a anulação no e-Pessoal e anexar os documentos comprobatórios;
+
+
+V – ato registrado pelo TCU há mais de cinco anos, independentemente da data de edição do ato, se comprovada a má-fé, caberá ao órgão de pessoal solicitar a anulação no e-Pessoal e anexar os documentos comprobatórios. 
+
+
+CAPÍTULO II
+
+
+DO SISTEMA DE COLETA DE INFORMAÇÕES, EXAME E REGISTRO DOS ATOS DE ADMISSÃO E CONCESSÃO
+
+
+Art. 4º As informações a que se referem os arts. 2º e 3º desta Instrução Normativa deverão ser apresentadas ao Tribunal em meio eletrônico, por intermédio do Sistema e-Pessoal.
+
+
+§ 1º O e-Pessoal será de acesso restrito aos servidores dos órgãos da administração pública federal em exercício nas unidades de controle interno e de pessoal, previamente cadastrados.
+
+
+§ 2º Os atos cadastrados no e-Pessoal, antes de serem enviados ao Tribunal para fins de exame e registro, serão preliminarmente criticados pelo Sistema a partir de parâmetros previamente definidos, para identificação de inconsistências ou omissões no lançamento dos dados.
+
+
+§ 3º Os atos rejeitados pela crítica preliminar não poderão ser enviados até que as falhas identificadas sejam sanadas ou, quando aplicável, justificadas.
+
+
+Art. 5º O cadastramento e o controle de acesso dos usuários do e-Pessoal serão de responsabilidade:
+
+
+I – do Tribunal, para os gestores de unidade cadastradora dos órgãos de pessoal e gestores de unidades de controle interno;
+
+
+II – dos gestores de unidade cadastradora dos órgãos de pessoal, para os respectivos usuários; e
+
+
+III – dos gestores de unidade de controle interno, para os respectivos usuários.
+
+
+Parágrafo único. O cadastramento dos usuários do e-Pessoal implicará a concessão de senhas individuais.
+
+
+Art. 6º A omissão de informações nos atos cadastrados no e-Pessoal, o lançamento de dados falsos e/ou incorretos no sistema, ou o uso de perfil por terceiros, poderão ensejar a aplicação da multa no inciso II do art. 58 da Lei 8.443/1992 aos responsáveis, sem prejuízo de outras sanções de natureza administrativa, civil ou penal, que se revelarem pertinentes.
+
+
+§ 1º Considera-se responsável, para fins do disposto neste artigo, o gestor da área de pessoal incumbido de realizar o cadastramento e o controle de acesso dos respectivos usuários, o usuário que efetivamente realizou o cadastramento de atos e informações, bem como qualquer pessoa que tenha contribuído para a ocorrência da irregularidade mencionada no caput.
+
+
+§ 2º O usuário responsável pelo cadastramento deverá ser designado formalmente para a atividade, devendo ser cientificado de que em caso de ocorrência de irregularidades, responderá em conjunto com os demais responsáveis mencionados no § 1º deste artigo.
+
+
+§ 3º Na análise dos atos de pessoal que lhes forem submetidos, os responsáveis pelo órgão de controle interno que tomarem conhecimento de irregularidade ou ilegalidade no âmbito do órgão ou entidade, a qualquer momento, dela darão imediata ciência ao Tribunal, sob pena de responsabilidade solidária.
+
+
+CAPÍTULO III
+
+
+DA ATUAÇÃO DO ÓRGÃO DE PESSOAL, DO CONTROLE INTERNO E DO TCU
+
+
+Seção I
+
+
+Da Atuação do Órgão de Pessoal
+
+
+Art. 7º As informações pertinentes aos atos de admissão e de concessão deverão ser cadastradas no e-Pessoal para fins de exame e registro no prazo de 90 (noventa) dias, contados:
+
+
+I – da data de sua publicação ou, em sendo esta dispensada, da data de assinatura do ato;
+
+
+II – da data do efetivo exercício do cargo pelo interessado, nos casos de admissão de pessoal;
+
+
+III – da data do apostilamento, no caso de alteração.
+
+
+§ 1º As informações referentes aos atos de admissão de pessoal contratado por tempo determinado para atender necessidade temporária de excepcional interesse público, previstos na Lei 8.745, de 9 de dezembro de 1993, deverão ser cadastradas de forma prioritária, devendo tais atos serem remetidos ou disponibilizados ao controle interno no prazo improrrogável de 30 dias, pelo órgão de pessoal.
+
+
+§ 2° O órgão de pessoal consignará as informações a que se referem os incisos do caput do art. 3º no próprio ato de admissão ou de concessão, no prazo de 30 (trinta) dias a contar da publicação, da assinatura do ato ou do respectivo apostilamento, se dispensável a publicação.
+
+
+§ 3° O prazo estipulado no caput poderá ser reduzido quando o Tribunal verificar a necessidade de urgência de cadastramento no Sistema e-Pessoal de ato sujeito a registro, caso em que será expedida, pela unidade técnica responsável, diligência ao órgão de pessoal para que providencie a disponibilização do ato, no prazo de 15 (quinze) dias a contar do recebimento da diligência.
+
+
+§ 4° Os responsáveis a que se refere o art. 6º que derem causa ao descumprimento dos prazos deste artigo estarão sujeitos às sanções previstas no inciso II do art. 58 da Lei 8.443/1992, sem prejuízo de outras que se revelarem pertinentes, de ordem administrativa, civil ou penal, previstas no ordenamento jurídico.
+
+
+§ 5º Está incluso no prazo do caput deste artigo o tempo necessário à disponibilização ou à remessa ao órgão de controle interno do processo administrativo referente ao ato submetido à análise.
+
+
+Art. 8º Os órgãos de pessoal deverão consignar nos assentamentos individuais do beneficiário as informações relativas aos atos de que trata o art. 2º e o resultado da apreciação destes pelo Tribunal, para fins de eventual exame posterior.
+
+
+Art. 9º O Tribunal poderá, a qualquer momento, solicitar dos órgãos da Administração Direta e Indireta de qualquer dos Poderes da União acesso direto aos seus sistemas eletrônicos de pessoal ou envio de folha de pagamentos e de dados cadastrais de seus servidores, empregados, aposentados e pensionistas.
+
+
+Art. 10 Fica autorizada a implementação de procedimentos de integração de sistemas de gestão de recursos humanos com o e-Pessoal, destinados à alimentação automática de dados, devendo, em cada caso, o processo de integração ser previamente autorizado pelas unidades técnicas responsáveis, no Tribunal, pela instrução dos atos sujeitos a registro e pela gestão de tecnologia da informação.
+
+
+Seção II
+
+
+Da Atuação do Órgão de Controle Interno
+
+
+Art. 11 O órgão de controle interno emitirá parecer sobre a legalidade dos atos de admissão e de concessão disponibilizados no e-Pessoal pelos órgãos de pessoal a ele vinculados.
+
+
+§ 1º O parecer do órgão de controle interno e os respectivos atos de admissão e de concessão deverão ser colocados à disposição do Tribunal, no e-Pessoal, no prazo de 120 (cento e vinte) dias a contar do recebimento do ato.
+
+
+§ 2° O parecer do órgão de controle interno, emitido na forma do caput, referente aos atos de admissão de pessoal contratado por tempo determinado para atender necessidade temporária de excepcional interesse público, previstos na Lei 8.745, de 9 de dezembro de 1993, deverá ser colocado à disposição do Tribunal, no e-Pessoal, no prazo improrrogável de 30 (trinta) dias.
+
+
+§ 3° No exame dos atos sujeitos a registro, o órgão de controle interno deverá cotejar os dados previamente cadastrados no e-Pessoal pelo órgão de pessoal com aqueles constantes dos respectivos processos e nas correspondentes fichas financeiras constantes no sistema de pagamento da folha, referentes ao mês de emissão do ato.
+
+
+§ 4° Diante de indício de irregularidade em ato sujeito a registro, poderá ser expedida, pela unidade técnica responsável do TCU, diligência eletrônica ao órgão de controle interno para que providencie o respectivo parecer, no prazo máximo de 30 (trinta) dias, contados da data de recebimento da diligência, reduzindo-se, se necessário, os prazos definidos no caput do art. 7º e no § 1º deste artigo.
+
+
+§ 5° Os responsáveis do órgão de controle interno pela emissão do parecer e encaminhamento do ato ao Tribunal, que derem causa ao descumprimento dos prazos deste artigo estarão sujeitos às sanções previstas no inciso II do art. 58 da Lei 8.443/1992, sem prejuízo de outras que se revelarem pertinentes, de ordem administrativa, civil ou penal, previstas no ordenamento jurídico.
+
+
+§ 6º O órgão de controle interno, observado o prazo estabelecido no § 1º deste artigo, poderá emitir parecer para considerar prejudicado, por perda de objeto, o exame dos atos de:
+
+
+I – concessão cujos efeitos financeiros tenham se exaurido antes de sua análise, seja pelo falecimento dos favorecidos, seja pelo advento do termo final das condições objetivas necessárias à manutenção do benefício; 
+
+
+II – admissão cujos efeitos financeiros tenham se exaurido antes de sua análise, seja pelo falecimento do admitido, seja pelo seu desligamento do cargo a que se refere o ato de admissão.
+
+
+§ 7º Está incluso no prazo do §1º deste artigo o tempo necessário para recebimento pelo órgão de controle interno do processo administrativo ou para acesso às informações referentes ao ato submetido à análise.
+
+
+Art. 12 O órgão de controle interno deverá diligenciar o órgão de pessoal ao verificar a necessidade de esclarecimentos acerca dos dados recebidos.
+
+
+§ 1º A diligência suspenderá temporariamente o decurso do prazo previsto no § 1º do art. 11, cuja contagem será reiniciada no primeiro dia útil seguinte ao seu atendimento, ou ao término do prazo estipulado para o seu cumprimento.
+
+
+§ 2º A diligência deverá ser cumprida pelo órgão de pessoal no prazo máximo de 30 (trinta) dias contados da ciência.
+
+
+§ 3º O prazo fixado no § 2º poderá ser prorrogado por até 30 (trinta) dias, devendo o órgão de controle interno consignar os motivos que ensejaram a prorrogação no e-Pessoal e no processo administrativo concernente ao ato sujeito a registro.
+
+
+§ 4º Findo o prazo fixado nos §§ 2° ou 3º deste artigo, sem atendimento da diligência, o órgão de controle interno deverá emitir parecer conclusivo, a partir dos elementos disponíveis, e identificar em campo próprio do formulário do e-Pessoal o responsável pelo não-atendimento.
+
+
+Seção III
+
+
+Da Atuação do TCU
+
+
+Art. 13 As informações relativas aos atos de admissão e de concessões de aposentadorias, reformas e pensões, cadastradas no e-Pessoal, passarão por críticas eletrônicas desenvolvidas pela unidade técnica responsável do TCU, com base na legislação pertinente e na jurisprudência do Tribunal.
+
+
+Art. 14 O relator, o presidente, os colegiados bem como a unidade técnica responsável poderão dispensar a manifestação do órgão de controle interno quando os atos de admissão ou de concessão cadastrados no Sisac ou no e-Pessoal estiverem no órgão gestor de pessoal e encontrarem-se aptos ao julgamento imediato pelo Tribunal, tendo por base, entre outras, situações que:
+
+
+		I – recomendem o julgamento pela irregularidade e negativa de registro do ato de admissão e de concessão, conforme decisões reiteradas ou enunciado de súmula de jurisprudência do TCU;
+
+
+		II – ensejem perda de objeto ante o exaurimento dos efeitos financeiros do ato antes de sua análise ou em razão do advento do termo final das condições objetivas necessárias à manutenção do benefício.
+
+
+Art. 15 O relator, o presidente, os colegiados bem como a unidade técnica responsável poderão avocar os atos de admissão ou de concessão cadastrados no Sisac ou no e-Pessoal que se encontrem no órgão de controle interno, de acordo com critérios de conveniência e oportunidade,  mediante prévia comunicação.
+
+
+Art. 16 Os nomes de pessoas constantes dos atos de pessoal recebidos pelo Sisac e pelo e-Pessoal que tenham sofrido alteração posterior ao respectivo registro dos atos nos sistemas e que venham a ser objeto de cadastramento de representação legal ou interposição de recursos poderão ser atualizados pela unidade técnica responsável do TCU mediante documentação comprobatória.
+
+
+CAPÍTULO IV
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 17 Não será conhecido requerimento dirigido diretamente ao Tribunal por interessado que busque a obtenção de benefícios referentes à concessão de aposentadoria, reforma ou pensão, devendo o respectivo processo ser arquivado após comunicação ao requerente.
+
+
+Art. 18 Serão submetidas ao Tribunal, para fins de registro, mediante a remessa física do processo original que instrui os respectivos benefícios, as concessões que, por sua natureza, não possam ser inseridas no e-Pessoal.
+
+
+Parágrafo Único As pensões graciosas e indenizatórias não serão submetidas ao TCU para os fins de que trata esta instrução normativa.
+
+
+Art. 19 A apreciação do Tribunal pela ilegalidade de atos de admissão ou de concessão obrigará o órgão ou entidade de origem a cessar, no prazo de 15 (quinze) dias, todo e qualquer pagamento decorrente: 
+
+
+I – do ato impugnado, no caso de admissão; 
+
+
+II – das irregularidades apontadas, no caso de concessão. 
+
+
+§ 1º Os prazos referidos no caput são contados da ciência, pelo órgão de pessoal, da recusa do registro do ato. 
+
+
+§ 2° Os responsáveis referidos no § 1º do art. 6º deverão comunicar ao Tribunal, no mesmo prazo, as providências adotadas, sob pena de solidariedade na obrigação de ressarcimento das quantias pagas após essa data, sem prejuízo das sanções previstas na Lei 8.443/1992.
+
+
+§ 3º A apreciação do ato pela ilegalidade obrigará o órgão ou entidade de origem a informar, no sistema e-Pessoal, no prazo de 30 (trinta) dias a contar da ciência da deliberação, o cancelamento da concessão ou o desligamento do servidor, no caso de admissão, nos termos do art. 3º ou, quando for possível sanear as irregularidades identificadas, submeter ao TCU novo ato em substituição àquele considerado ilegal, sem prejuízo de providenciar, entre outras, as correções devidas na folha de pagamento, nos dados cadastrais do servidor ou do benefício, ou ainda, na portaria que deferiu ou modificou a concessão.
+
+
+Art. 20 As diligências de que tratam esta Instrução Normativa e as respectivas ciências dos órgãos e entidades poderão ser realizadas pelo e-Pessoal.
+
+
+Art. 21 As comunicações de todos os atos apreciados pelo Tribunal poderão ser feitas de forma eletrônica, cabendo ao gestor do órgão de pessoal a responsabilidade pela verificação das providências a serem adotadas quando houver determinação expedida ao órgão jurisdicionado, que deverá observar o seguinte:
+
+
+I – enviar pelo e-Pessoal comprovante de ciência do interessado, nos termos do que foi estabelecido no acórdão, independentemente de interposição de eventual recurso;
+
+
+II – ultimar as medidas a seu cargo, no prazo estabelecido no acórdão, notificando formalmente o Tribunal por meio de ofício de resposta e dos documentos comprobatórios anexados no e-Pessoal.
+
+
+§ 1º A ausência de atendimento tempestivo às determinações do Tribunal poderá ensejar aplicação, aos responsáveis, da multa prevista no art. 58, inciso IV, da Lei 8.443/1992.
+
+
+
+
+
+Art. 22 Por iniciativa própria ou por solicitação, a unidade técnica do TCU poderá devolver atos cadastrados nos sistemas Sisac/e-Pessoal para o órgão de controle interno ou para o gestor de pessoal, mediante prévia comunicação.
+
+
+Parágrafo Único. Os atos que se encontrarem no órgão de controle interno poderão ser por ele devolvidos ao gestor de pessoal.
+
+
+Art. 23 A publicação no Diário Oficial da União da deliberação do Tribunal que considerar legal o ato de admissão ou de concessão e determinar seu registro constituirá prova para todos os fins de direito.
+
+
+Art. 24 As disposições desta Instrução Normativa aplicam-se, no que couber, aos atos cadastrados no Sisac.
+
+
+Art. 25 Fica revogada a Instrução Normativa TCU 55, de 24 de outubro de 2007.
+
+
+Art. 26 Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 21 de março de 2018.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o envio, o processamento e a tramitação de informações alusivas a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão, para fins de registro, no âmbito do Tribunal de Contas da União, nos termos do art. 71, inciso III, da Constituição Federal.
+
+

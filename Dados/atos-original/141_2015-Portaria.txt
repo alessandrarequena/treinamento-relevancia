@@ -1,0 +1,1476 @@
+Portaria
+141/2015
+
+
+O VICE-PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, NO EXERCÍCIO DA PRESIDÊNCIA, no uso de suas atribuições legais e regimentais, e tendo em vista a competência que lhe confere o inciso I do art. 14 da Resolução-TCU nº 269, de 25 de março de 2015,
+
+
+considerando a necessidade de se revisar e atualizar o Plano Estratégico do Tribunal de Contas da União, de modo a compatibilizá-lo com as atuais demandas e anseios da sociedade, do Congresso Nacional, de gestores públicos e do Estado;
+
+
+considerando a necessidade de se aperfeiçoar continuamente o referencial estratégico, de forma que melhor possa cumprir a finalidade de articular as ações de curto, médio e longo prazos, com o objetivo de conferir constância aos propósitos institucionais e aumentar a capacidade de resposta do TCU;
+
+
+considerando a necessidade de disseminação no Tribunal dos valores, objetivos estratégicos e iniciativas, de forma a induzir o comprometimento dos servidores com a cultura de excelência no Tribunal;
+
+
+considerando o resultado das reflexões internas, bem como das discussões havidas no âmbito do projeto de revisão do plano estratégico do TCU realizado durante o ano de 2014 e primeiro trimestre de 2015; e
+
+
+considerando a consulta ao Plenário realizada na sessão de 25 de março de 2015,  nos termos indicados no inciso I do art. 14 da Resolução-TCU nº 269, de 2015, resolve:
+
+
+Art. 1º Fica aprovado o Plano Estratégico do Tribunal de Contas da União para o período 2015-2021 (PET 2015-2021), na forma estabelecida no Anexo Único desta Portaria.
+
+
+Art. 2º O PET 2015-2021 possui periodicidade de seis anos e orientará a elaboração dos demais planos institucionais, a identificação de oportunidades de inovação a serem conduzidas no âmbito do TCU e, em conjunto com critérios definidos em normativo específico do Presidente, a alocação de funções de confiança de Especialista Sênior na Secretaria do Tribunal.
+
+
+Parágrafo único. No cômputo das avaliações de desempenho das unidades da Secretaria do Tribunal deverá, sempre que possível, ser conferido maior peso para implementação das ações e dos indicadores decorrentes do desdobramento direto do PET.
+
+
+Art. 3º O plano, as iniciativas dele decorrentes e os respectivos resultados serão monitorados, avaliados e revistos periodicamente, de acordo com o disposto na Resolução-TCU nº 269, de 25 de março de 2015, com o fim de identificar e antecipar estratégias e necessidades institucionais.
+
+
+Parágrafo único. O monitoramento a que se refere o caput será realizado pelo Comitê de Gestão da Estratégia e da Governança Corporativa (Cogesg), com apoio da Secretaria de Planejamento, Governança e Gestão (Seplan) e das unidades coordenadoras de planejamento, em periodicidade definida em ato normativo específico. 
+
+
+Art. 4º A implementação de plano de concepção dos indicadores de desempenho constantes do PET 2015-2021 deverá ficar sob a responsabilidade da Seplan, com o apoio das unidades coordenadoras de planejamento da Secretaria do Tribunal.
+
+
+Parágrafo único. Caso a mensuração dos indicadores mencionados no caput requeira manutenção ou desenvolvimento de solução de tecnologia da informação (solução de TI), o assunto deverá ser submetido ao Comitê de Gestor de Tecnologia da Informação (CGTI) para fins de priorização e previsão no Plano Diretor de Tecnologia da Informação (PDTI). 
+
+
+Art. 5º Compete à Seplan disponibilizar no Portal TCU a relação das iniciativas estratégicas atinentes a cada biênio, bem como o detalhamento dos indicadores integrantes do PET 2015-2021.
+
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+RAIMUNDO CARREIRO
+
+
+
+
+ANEXO ÚNICO À PORTARIA-TCU Nº 141, DE 1º DE ABRIL DE 2015.
+
+
+SUMÁRIO
+
+
+1.	O TRIBUNAL DE CONTAS DA UNIÃO	27
+
+
+2.	HISTÓRICO DO PLANEJAMENTO ESTRATÉGICO NO TCU	28
+
+
+3.	O MODELO ADOTADO PARA FORMULAÇÃO DO PLANO ESTRATÉGICO	30
+
+
+3.1.	Diagnóstico Institucional	30
+
+
+3.2.	Direcionadores Estratégicos	30
+
+
+3.3.	Tradução da Estratégia	30
+
+
+4.	DIAGNÓSTICO INSTITUCIONAL	31
+
+
+4.1.	Diagnóstico Interno	31
+
+
+4.2 Diagnóstico Externo	34
+
+
+5.	DIRECIONADORES ESTRATÉGICOS	36
+
+
+6.	TRADUÇÃO DA ESTRATÉGIA	40
+
+
+7.	MAPA ESTRATÉGICO	42
+
+
+8.	OBJETIVOS ESTRATÉGICOS E INDICADORES DE DESEMPENHO	44
+
+
+9.	INICIATIVAS ESTRATÉGICAS	55
+
+
+10.	IDENTIDADE ESTRATÉGICA	56
+
+
+10.1.	Negócio	56
+
+
+10.2.	Missão	56
+
+
+10.3.	Visão	56
+
+
+11.	VALORES	56
+
+
+12.	MACROPROCESSOS	58
+
+
+13.	COMPETÊNCIAS ORGANIZACIONAIS	61
+
+
+
+
+
+
+1.	O TRIBUNAL DE CONTAS DA UNIÃO
+
+
+O Tribunal de Contas da União (TCU), criado em 1890 pelo Decreto nº 966-A, por iniciativa de Rui Barbosa, Ministro da Fazenda à época, norteia-se pelo princípio da autonomia e pela fiscalização, julgamento e vigilância da coisa pública.
+
+
+A Constituição de 1891, a primeira republicana, ainda por influência de Rui Barbosa, institucionalizou definitivamente o Tribunal de Contas da União. A partir de então, as competências do Tribunal têm sido estabelecidas no texto constitucional. Esse privilégio, se por um lado o distingue de forma singular, por outro aumenta sua responsabilidade e compromisso para com a sociedade.
+
+
+A atual Constituição estabelece que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, deve ser exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder. Estabelece, também, que o controle externo, a cargo do Congresso Nacional, é exercido com o auxílio do Tribunal de Contas da União, ao qual incumbe uma série de competências exclusivas.
+
+
+A sociedade, por sua vez, demanda moralidade, profissionalismo e excelência da Administração Pública, bem como, melhor qualidade de vida e redução das desigualdades sociais. O cidadão vem deixando, gradualmente, de ser sujeito passivo em relação ao Estado e passa a exigir, em níveis progressivos, melhores serviços, respeito à cidadania e mais transparência, honestidade, economicidade e efetividade no uso dos recursos públicos. Neste aspecto, o Tribunal assume papel fundamental na medida em que atua na prevenção, detecção, correção e punição da fraude e do desvio na alocação de recursos federais, bem como contribui para a transparência e a melhoria da gestão e do desempenho da Administração Pública.
+
+
+Diante desse cenário, são essenciais a construção, a compreensão e a comunicação de estratégias corporativas que assegurem resultados capazes de atender às expectativas do Estado, do Congresso Nacional e da sociedade em relação à atuação e ao papel conferido, ao longo da história, ao Tribunal de Contas da União.
+
+
+
+
+
+2.	HISTÓRICO DO PLANEJAMENTO ESTRATÉGICO NO TCU
+
+
+O TCU, na busca por resultados mais efetivos para a sociedade, aprimora continuamente o processo de formulação e revisão do seu planejamento estratégico. A primeira versão foi apresentada em 1994. Desde então, esse marco estratégico do Tribunal vem passando por diversas revisões, buscando o alinhamento das ações com as melhores práticas gerenciais e a profissionalização de seus servidores, assim como a melhoria de seus processos e a obtenção de melhores resultados.
+
+
+Em 1999, iniciou-se no Tribunal a implantação do método de Gerenciamento pelas Diretrizes (GPD), que levou ao primeiro plano anual de diretrizes e à segunda versão do planejamento estratégico do TCU (PET-TCU), na qual foram incorporados o negócio e a visão de futuro e foi revista a missão institucional. 
+
+
+Em 2001, como forma de subsidiar a elaboração do plano de diretrizes e a revisão do PET, utilizou-se o processo de autoavaliação institucional. Esse processo de diagnóstico interno é responsável por identificar potencialidades, recursos, capacidades e habilidades favoráveis ao desempenho organizacional, bem como aspectos menos desenvolvidos que necessitem ser aperfeiçoados sob pena de impactar negativamente no exercício da missão e no alcance da visão de futuro da organização.
+
+
+Com base, entre outras informações, nas melhorias identificadas na autoavaliação institucional, foi elaborada, em 2003 nova versão do PET-TCU, na qual foram incorporados os indicadores de gestão, as estratégias de atuação do Tribunal e os valores institucionais. 
+
+
+Entre as estratégias traçadas, uma referia-se ao aperfeiçoamento do sistema de planejamento e gestão do TCU. Segundo essa estratégia, "a sobrevivência e o desenvolvimento das organizações dependem da implementação de sistemas de gestão empreendedores, voltados para a obtenção de resultados e para o atendimento das expectativas dos clientes. O aperfeiçoamento do sistema de planejamento e gestão tem como principal função conferir maior racionalidade, efetividade e constância às ações da organização e proporcionar convergência aos esforços despendidos para alcance da visão de futuro e cumprimento da missão institucional". 
+
+
+Tal estratégia, aliada às oportunidades identificadas no processo de autoavaliação institucional conduzida no exercício de 2004 e aos problemas na formulação de estratégias e planos do Tribunal apontados pela banca examinadora do Prêmio Nacional de Gestão Pública (PQGF), tornou, à época, imperativa a modernização do sistema de planejamento e gestão do Tribunal.
+
+
+Na revisão de 2005, foi adotado modelo de planejamento híbrido, conjugando-se duas metodologias: a do Gerenciamento pelas Diretrizes (GPD), para gerenciar e aplicar ações e iniciativas no âmbito tático e operacional; e a do Balanced Scorecard (BSC), para construir o referencial estratégico do Tribunal, bem como para comunicar a estratégia adotada pelo TCU. 
+
+
+Em 2009, buscou-se formular uma estratégia que fosse efetiva e contemporânea durante longo período, que antevisse mudanças de cenários e possibilitasse à organização realinhar a estratégia no menor prazo, sem prejudicar o alcance dos resultados desejados.
+
+
+Embora a metodologia de gestão estratégica até então utilizada pelo TCU atendesse de forma satisfatória à maioria das necessidades da instituição, ela apresentava deficiências na "predição" de eventos futuros que, caso ocorressem, poderiam impactar a atuação da instituição. Percebeu-se, naquela ocasião, que tal problema poderia ser sanado com a adoção de técnicas de análise de cenários.
+
+
+Foi nesse contexto que o TCU buscou acrescentar à metodologia de gestão de seu planejamento estratégico mais uma técnica: a análise de cenários prospectivos. A nova metodologia permitiu ao Tribunal planejar suas ações não apenas com base na ocorrência de fatos passados e na situação atual encontrada, mas também a partir da probabilidade de ocorrência de eventos futuros que pudessem impactar significativamente a atuação da Casa.
+
+
+Finalmente, durante o ano de 2014, conforme será apresentado a seguir, ocorreu a revisão do atual Plano Estratégico do TCU, com vista à elaboração do Plano para o período de 2015 a 2021. A formulação ensejou a participação do corpo técnico e gerencial da Casa e definiu o conjunto de objetivos, indicadores e ações necessários ao cumprimento da missão e ao alcance da visão de futuro do TCU para os próximos seis anos.
+
+
+A grande participação de colaboradores de diferentes níveis no processo de formulação da estratégia organizacional tornou o processo mais interativo e contínuo, estimulando a comunicação, o aprendizado e o comprometimento, propiciando, dessa forma, o desenvolvimento de um processo de planejamento de alta qualidade.
+
+
+O diferencial deste PET foi a definição de um conjunto de indicadores de desempenho planejados e estruturados que garantem efetivo compromisso com resultados. Estes indicadores fazem parte do processo de gestão da estratégia desenvolvido para garantir um monitoramento efetivo da execução do planejamento do TCU.
+
+
+
+
+
+3.	O MODELO ADOTADO PARA FORMULAÇÃO DO PLANO ESTRATÉGICO
+
+
+O método de formulação do PET-TCU 2015-2021 desenvolveu-se nas seguintes etapas de trabalho:
+
+
+
+
+3.1.	Diagnóstico Institucional
+
+
+
+Foi constituído por duas fases distintas, uma interna e outra externa. O diagnóstico interno foi realizado por meio da análise e validação de avaliações anteriores, de pesquisa e entrevistas conduzidas junto a servidores e dirigentes de unidades situadas em Brasília e nos estados, bem assim por meio de reuniões com autoridades da Casa. Externamente, foram conduzidas entrevistas com os principais stakeholders (Congresso Nacional, Judiciário, Gestores, ONGs, Mídia) para obtenção da percepção quanto ao papel do TCU e a efetividade de sua atuação. 
+
+
+
+
+
+3.2.	Direcionadores Estratégicos
+
+
+
+A definição de direcionadores estratégicos teve por objetivo estabelecer as principais diretrizes do Tribunal para o período correspondente ao planejamento estratégico.
+
+
+
+
+
+3.3.	Tradução da Estratégia
+
+
+
+Essa etapa consistiu na definição do mapa estratégico, de seus respectivos indicadores e iniciativas estratégicas. Sendo a etapa mais complexa e trabalhosa do processo, envolveu a participação de grande número servidores, especialistas, dirigentes e autoridades do Tribunal. Cada um colaborando nos temas com os quais possui maior afinidade.
+
+
+
+
+
+4.	DIAGNÓSTICO INSTITUCIONAL
+
+
+O ponto inicial da formulação da estratégia do TCU foi a realização do diagnóstico institucional. Essa primeira etapa foi constituída de duas fases distintas, uma interna e outra externa. 
+
+
+
+
+4.1.	Diagnóstico Interno 
+
+
+
+A fase interna pode ser definida como sendo de autoconhecimento. Nesse momento, o objetivo foi propiciar à organização um melhor conhecimento de sua realidade, e também possibilitar a identificação dos maiores desafios de aprimoramento. O diagnóstico interno foi feito por meio da análise e validação de avaliações anteriores, pesquisa junto a servidores e entrevistas com dirigentes, autoridades e atores externos convidados.
+
+
+No levantamento dos diagnósticos anteriores foram analisados, entre outros, os resultados do SAI – PMF (Supreme Audit Institutions Performance Measurement Framework), ferramenta desenvolvida para avaliação do desempenho de Entidades Fiscalizadoras Superiores (EFS); a pesquisa do índice de governança de tecnologia da informação (IgovTI) de 2014 e a pesquisa de clima organizacional realizada em 2012 com os servidores do TCU. 
+
+
+Além disso, como parte do esforço de elaboração do planejamento estratégico, foi feita pesquisa com os servidores do TCU. O levantamento on-line foi realizado de 26 de maio a 06 de junho de 2014. Foram submetidas 67 questões agrupadas em 6 temas: Controle Externo; Gestão de Pessoas; Comunicação; Planejamento, Governança e Gestão; Parcerias Estratégicas; e Tecnologia da Informação. As perguntas foram baseadas no diagnóstico feito no ciclo de planejamento estratégico anterior, com o objetivo de verificar pontos positivos e oportunidades de melhoria. A pesquisa contou com a participação de 1.277 servidores.
+
+
+Além da coleta de dados via formulário, autoridades e dirigentes do TCU foram consultados acerca dos resultados que o Tribunal deveria entregar para a sociedade e dos principais desafios que esta Corte poderia enfrentar no longo prazo.
+
+
+O resultado do diagnóstico interno foi utilizado para se chegar às ideias estratégicas. Para tanto foram agregadas as informações dos diagnósticos anteriores, de entrevistas com atores externos e com as lideranças, além da pesquisa junto aos servidores. As informações geradas foram analisadas e as ideias similares foram agrupadas, reorganizadas, avaliadas e filtradas conforme sua relevância estratégica, remanescendo apenas aquelas com maior potencial de impacto sobre os rumos do Tribunal.
+
+
+
+A lista final das ideias estratégicas está representada a seguir:
+
+
+Controle Externo
+
+
+1.	Aperfeiçoamento da seleção de áreas e objetos de atuação;
+
+
+2.	Aplicação de metodologia para tratamento/análise de bases de dados e auditoria contínua;
+
+
+3.	Aperfeiçoamento das fiscalizações com base em normas internacionais de auditoria;
+
+
+4.	Tempestividade da atuação do TCU;
+
+
+5.	Eficácia das deliberações: aperfeiçoamento do monitoramento das deliberações;
+
+
+6.	Indução da implantação das melhores práticas de governança na Administração Pública;
+
+
+7.	Reavaliação do processo de trabalho de tomada de contas especial dentro e fora do TCU;
+
+
+8.	Aprimoramento da atuação do TCU em parceria com outros entes de controle;
+
+
+9.	Avaliação sistêmica da atuação governamental por temas;
+
+
+10.	Avaliação da atuação do governo central (centros de governo); 
+
+
+11.	Fomento ao controle social;
+
+
+12.	Estimulo à transparência da Administração Pública Federal;
+
+
+13.	Harmonização entre contas de governo, contas ordinárias, Relatórios Sistêmicos de Fiscalização - FISC e levantamento de governança;
+
+
+14.	Intensificação de trabalhos que tratem das causas dos problemas para prevenção de erros, desvios éticos, fraudes, desvios de recursos, desperdícios, ineficiência e corrupção;
+
+
+15.	Aperfeiçoamento do processo de contas ordinárias;
+
+
+16.	Acompanhamento de grandes projetos; e
+
+
+17.	Ampliação da expectativa de controle para coibir a desconformidade com leis e regulamentos.
+
+
+
+Parcerias Estratégicas
+
+
+1.	Aperfeiçoamento do relacionamento do TCU com presidentes de comissões, líderes e consultores do Congresso Nacional;
+
+
+2.	Atuação mais proativa do TCU junto ao Congresso Nacional buscando a priorização e especialização dos temas a serem pautados;
+
+
+3.	Aprimoramento da parceria com outras entidades para fins de controle e para aperfeiçoamento da gestão administrativa do TCU;
+
+
+4.	Institucionalização do processo de análise de proposta de normativos em trâmite no Congresso Nacional que são de interesse do TCU;
+
+
+5.	Fortalecimento da política de relacionamento internacional; e
+
+
+6.	Aprimoramento dos processos de relacionamento institucional.
+
+
+
+Comunicação
+
+
+1.	Aperfeiçoamento da comunicação interna de forma estruturada para proporcionar maior integração e sinergia do Tribunal;
+
+
+2.	Aperfeiçoamento da comunicação externa com públicos estratégicos; e
+
+
+3.	Definição do papel do TCU na divulgação de informações de terceiros.
+
+
+
+Tecnologia da Informação - TI
+
+
+1.	Instituição de diretrizes estratégicas do TCU para TI;
+
+
+2.	Alinhamento das iniciativas de TI à estratégia do TCU;
+
+
+3.	Viabilização e ampliação dos serviços e produtos do TCU para o cidadão por meio de dispositivos móveis e outros meios digitais;
+
+
+4.	Promoção de interoperabilidade entre os serviços de TI do TCU e de outros órgãos públicos; e
+
+
+5.	Ampliação da capacidade de resposta às necessidades de TI do TCU.
+
+
+
+Planejamento e Gestão
+
+
+1.	Desenvolvimento de processo dinâmico para ajuste de processos de trabalho, estrutura organizacional e alocação de recursos em conformidade com a estratégia do TCU;
+
+
+2.	Revisão do modelo de planejamento e gestão da estratégia do TCU; 
+
+
+3.	Desenvolvimento de processo de comunicação do planejamento e da estratégia do TCU; e
+
+
+4.	Institucionalização de política corporativa de gestão de riscos do TCU.
+
+
+
+Gestão de Pessoas
+
+
+1.	Aprimoramento do ambiente organizacional para a adequada gestão do desempenho e do reconhecimento individual e de equipes (integrar gestão de desempenho com a gestão do desenvolvimento, aprimorar mecanismos que tratem dos impactos da gestão do desempenho, atrelar mecanismos de gestão de desempenho com gestão de trajetórias profissionais);
+
+
+2.	Instituição de políticas de trajetória profissional;
+
+
+3.	Alinhamento de políticas de lotação/movimentação de pessoas com as atribuições e os resultados esperados das unidades e os direcionadores estratégicos da instituição;
+
+
+4.	Aprimoramento da política de carreira dos cargos do quadro profissional;
+
+
+5.	Definição de processos e práticas de Gestão do Conhecimento; e
+
+
+6.	Aprimoramento da gestão da ética.
+
+
+
+
+
+4.2 Diagnóstico Externo
+
+
+
+O ambiente externo influencia e impacta toda instituição, seja ela pública ou privada. Assim, a análise minuciosa dos fatores externos é fundamental para a definição de uma estratégia institucional, pois deles são extraídas variáveis que podem apresentar oportunidades e ameaças capazes de influenciar os objetivos estratégicos e o cumprimento da missão organizacional.
+
+
+O ambiente em que o TCU está inserido, em virtude de sua missão, é extremamente complexo e dinâmico. Temas de grande importância presentes no contexto nacional, como participação social, desenvolvimento econômico, governo aberto, governança pública, cooperação internacional, entre outras, são variáveis importantes que devem ser consideradas na definição da estratégia do Tribunal. 
+
+
+Na elaboração do diagnóstico externo foram realizadas entrevistas com os principais stakeholders do Tribunal para obtenção da percepção quanto ao papel do TCU e a efetividade de sua atuação. Nessa etapa, foram entrevistados gestores públicos, jornalistas, ONGs, confederações, entre outros, para discutir tendências, desafios e oportunidades que o TCU deveria levar em consideração na formulação de sua estratégia de atuação. Também foram realizadas reuniões com formadores de opinião e especialistas do quadro de servidores do TCU para levantamento de tendências.
+
+
+Além das entrevistas externas, a análise de tendências forma uma visão externa ao TCU e constitui movimentos de mercado ou comportamentais que se sustentam por um certo período de tempo, indicando comportamento ou expectativa de comportamento que será repetido ou executado no futuro. As tendências identificadas foram segmentadas em seis grupos: políticas, econômicas, sociais, tecnológicas, legais e de Administração Pública. As principais tendências foram analisadas de acordo com seus impactos e constituíram importante insumo para a construção dos direcionadores do TCU. 
+
+
+A seguir são apresentadas as principais tendências levantadas.
+
+
+Tecnológicas
+
+
+1.	Governo aberto;
+
+
+2.	Governo digital / Governo digital integrado;
+
+
+3.	Avanço do processo de inclusão digital;
+
+
+4.	Cloud computing;
+
+
+5.	Aumento da ameaça na segurança da informação;
+
+
+6.	Aumento da disponibilidade de recursos para monitoramento contínuo e análise de dados;
+
+
+7.	Aumento da disponibilidade e aplicação de conceitos e recursos computacionais baseados no uso intensivo de grandes quantidades e diversidade de dados - Big Data; e
+
+
+8.	Aumento da demanda por novas mídias.
+
+
+
+Sociais
+
+
+1.	Demanda crescente do cidadão por informações para tomada de decisão;
+
+
+2.	Ampliação do trabalho e conhecimento a distância; e
+
+
+3.	Demanda por maior confiabilidade do governo.
+
+
+
+
+Administração Pública
+
+
+1.	Revisão do sistema de remuneração do servidor público;
+
+
+2.	Aumento da profissionalização e especialização do auditor;
+
+
+3.	Aumento da descentralização da execução da política pública;
+
+
+4.	Incorporação de mecanismos de governança corporativa pública;
+
+
+5.	Manutenção da baixa capacidade do governo em atender as demandas por serviços públicos; e
+
+
+6.	Novo paradigma da governança pública.
+
+
+
+Políticas
+
+
+1.	Desburocratização no mundo;
+
+
+2.	Aumento do protagonismo do Brasil na cooperação internacional; e
+
+
+3.	Aumento da demanda do Tribunal na agenda política.
+
+
+
+Legais
+
+
+1.	Criação do Conselho de Tribunais de Contas;
+
+
+2.	Aumento da judicialização das deliberações do TCU;
+
+
+3.	Revisão de normas para alinhamento com as ISSAIs; e
+
+
+4.	Flexibilização do regime de licitações e contratações.
+
+
+
+Econômicas
+
+
+1.	Austeridade fiscal;
+
+
+2.	Maior utilização de indicadores setoriais (econômicos, sociais, ambientais);
+
+
+3.	Demanda por produtividade e competitividade (papel do governo como fomentador); e
+
+
+4.	Aumento da participação privada na área pública.
+
+
+
+
+
+5.	DIRECIONADORES ESTRATÉGICOS
+
+
+Os direcionadores estratégicos tiveram por objetivo estabelecer as principais diretrizes do Tribunal para o período de 2015-2021. A responsabilidade por essa etapa coube aos dirigentes e foi precedida de reuniões com as equipes durante a Semana do Planejamento. O objetivo dessa Semana foi possibilitar que cada dirigente do Tribunal e a respectiva equipe recebessem as informações provenientes da fase de diagnósticos, fizessem a contextualização das ideias estratégicas e das tendências, e definissem como esse conteúdo seria usado no processo de planejamento.
+
+
+
+A partir dos dados do diagnóstico institucional – pesquisa dos servidores, entrevistas internas e externas, diagnósticos anteriores e levantamento de tendências – foram definidas a questão central, as incertezas críticas e os cenários.
+
+
+
+5.1.	Questão Central
+
+
+A Questão Central é a decisão ou assunto crucial para o futuro de uma organização. Deve contemplar o que é mais relevante para tomada de decisão pelos gestores. Ao desenvolver cenários com foco na decisão, deve-se questionar sobre assunto focal correto e considerar o horizonte de tempo. Baseado nos dados do diagnóstico, foi sugerida a seguinte questão central para o TCU.
+
+
+•	Quais resultados o TCU deve entregar para a sociedade em 2021?
+
+
+5.2.	Incertezas críticas
+
+
+Incertezas Críticas são forças provenientes de tendências cujos desdobramentos futuros não se tem muita clareza. Foram escolhidas duas tendências mais importantes em termos de impacto para a Questão Central e organizadas em um plano com eixos de modo a posicionar os cenários a serem desenvolvidos no plano. Com base nessas incertezas escolhidas criaram-se os eixos dos cenários.
+
+
+
+5.3.	Cenários
+
+
+Análise de cenários constitui técnica para ordenar as diferentes percepções do futuro. Cenários equivalem a histórias sobre um futuro possível e ajudam a reconhecer e adaptar-se às mudanças que virão. Não são previsões, preferências ou desejos sobre o futuro e são utilizados para visualizar "n" opções, independentemente da probabilidade de ocorrência. O objetivo dessa técnica não é prever o futuro, e sim desafiar nossos modelos mentais durante o processo de visualização. 
+
+
+Para o Evento de Lideranças foi construído um conjunto de cenários que serviu como base das discussões dos direcionadores estratégicos. Para a elaboração destes cenários, foram considerados insumos e informações levantados na etapa de diagnóstico do planejamento estratégico.
+
+
+
+Os direcionadores estratégicos definidos para o PET 2015-2021 foram os seguintes:
+
+
+
+Controle Externo
+
+
+1.	Assegurar ao cidadão a confiabilidade, inteligibilidade e disponibilidade das informações prestadas pela Administração Pública;
+
+
+2.	Divulgar as informações que o TCU produz, em linguagem acessível à sociedade, com qualidade e tempestividade;
+
+
+3.	Induzir que a Administração Pública produza e divulgue objetivos, metas e indicadores de desempenho que possibilitem o controle social;
+
+
+4.	Incorporar à estratégia de atuação do TCU as informações recebidas em denúncias e representações;
+
+
+5.	Induzir o aprimoramento da cadeia de controle, envolvendo o executor, o repassador e o controle interno, e efetivar parcerias com outras instâncias de controle;
+
+
+6.	Orientar o controle à melhoria da governança pública (organizações e políticas públicas), com ênfase em centro de governo e na utilização de indicadores;
+
+
+7.	Usar inteligência de controle para identificar em larga escala riscos de inexecução ou execução inadequada de produtos e serviços e induzir tais práticas aos demais jurisdicionados;
+
+
+8.	Realizar diagnósticos sistêmicos dos principais problemas de conformidade das áreas-chave da Administração Pública;
+
+
+9.	Realizar diagnósticos sistêmicos com foco nas causas que limitam os resultados das políticas públicas;
+
+
+10.	Induzir o aprimoramento da prática de utilização de indicadores e orientação por resultado da Administração Pública e das ações de controle;
+
+
+11.	Alinhar os principais produtos do TCU (contas, contas de governo, Relatórios Sistêmicos de Fiscalização - FISC’s e fiscalizações) para induzir melhorias nos resultados das ações governamentais;
+
+
+12.	Desenvolver capacidade de realização de auditorias em entidades da Administração Indireta, empresas com participação minoritária da União e órgãos reguladores;
+
+
+13.	Contribuir para a organização e desenvolvimento dos controles internos, da gestão de riscos bem como da fiscalização pela Administração Pública Federal dos recursos repassados;
+
+
+14.	Induzir o aprimoramento da cadeia de controle, envolvendo o executor, o repassador e o controle interno;
+
+
+15.	Induzir que a Administração Pública Federal amplie seus recursos e sistemas de forma a possibilitar o monitoramento e a detecção de desvios na aplicação desses recursos;
+
+
+16.	Priorizar a alocação dos recursos do TCU em ações proativas, orientadas à melhoria de resultados da Administração Pública Federal;
+
+
+17.	Priorizar ações de controle com foco preventivo, sistêmico e que possam avaliar temas relevantes para a sociedade;
+
+
+18.	Ampliar a capacidade de realizar trabalhos coordenados com outros órgãos de controle; e
+
+
+19.	Efetivar parcerias com outras instâncias de controle nos três níveis de governo (federal, estadual e municipal).
+
+
+
+Gestão de Pessoas
+
+
+1.	Aperfeiçoar os mecanismos de gestão do desempenho, instituindo outras fontes de avaliação;
+
+
+2.	Implantar política de consequência e reconhecimento atrelado ao nível de desempenho;
+
+
+3.	Estabelecer plano de desenvolvimento de competências atrelado ao plano estratégico e de diretrizes, contendo indicadores, metas e ações, com vistas a garantir que as ações de capacitação (licença capacitação, por exemplo, cursos de mestrado) estejam alinhadas aos direcionadores estratégicos;
+
+
+4.	Alinhar as ações educacionais ao PET de forma a garantir que contribuam efetivamente para o alcance dos resultados do TCU;
+
+
+5.	Definir processos e práticas de gestão do conhecimento;
+
+
+6.	Instituir políticas de gestão do conhecimento;
+
+
+7.	Instituir política de trajetória profissional;
+
+
+8.	Vincular a lotação e a movimentação de pessoas aos resultados esperados das unidades; e
+
+
+9.	Manter plano de cargos e salários atualizado.
+
+
+
+Parcerias Estratégicas
+
+
+1.	Fortalecer a atuação em organismos de cooperação internacional com ênfase na elaboração de normas internacionais e compartilhamento de melhores práticas de auditoria;
+
+
+2.	Ampliar parcerias e iniciativas de capacitação e certificação no âmbito internacional;
+
+
+3.	Atuar proativamente com os tribunais de contas estaduais e municipais para induzir o aperfeiçoamento e fortalecimento do sistema de tribunais de contas no Brasil;
+
+
+4.	Estreitar parcerias com a rede de controle, o sistema de controle interno e órgãos governantes superiores (que exercem função de supervisão e regulação);
+
+
+5.	Implementar parcerias com centros de ensino e pesquisa e com setores da sociedade organizada;
+
+
+6.	Atuar seletiva e proativamente junto ao Congresso Nacional para divulgar o trabalho do TCU;
+
+
+7.	Atuar seletiva e proativamente junto ao Congresso Nacional para o aperfeiçoamento de proposições legislativas; e
+
+
+8.	Auxiliar o Congresso Nacional na avaliação de políticas públicas.
+
+
+
+Planejamento e Gestão
+
+
+1.	Obter o comprometimento da alta administração com o plano estratégico e o envolvimento dos servidores com o alcance dos objetivos definidos;
+
+
+2.	Aperfeiçoar a estrutura organizacional, os processos de trabalho e revisar a política de alocação de pessoal nas unidades;
+
+
+3.	Viabilizar e mensurar o alcance do estabelecido no PET;
+
+
+4.	Aprimorar a transparência dos atos de gestão do TCU;
+
+
+5.	Aplicar ao TCU critérios de governança da Administração Pública; e
+
+
+6.	Promover o alinhamento institucional entre as gestões do TCU, considerando o prazo de vigência do PET.
+
+
+
+Comunicação
+
+
+1.	Aumentar a credibilidade do Tribunal e fortalecer o seu papel para induzir mudanças e aperfeiçoamento da Administração Pública;
+
+
+2.	Aperfeiçoar a comunicação interna para proporcionar maior integração e sinergia no Tribunal; e
+
+
+3.	Fortalecer o controle social por meio de canais específicos. 
+
+
+
+Tecnologia da Informação
+
+
+1.	Desenvolver capacidade organizacional ampla para trabalhar com recursos tecnológicos emergentes e analisar grandes bases de dados (Big Data);
+
+
+2.	Induzir o aperfeiçoamento dos serviços e dos dados públicos com o uso de soluções de governo digital e governo aberto; e
+
+
+3.	Desenvolver estratégia para integrar a gestão e o uso da TI aos processos de trabalho e aos objetivos institucionais do TCU.
+
+
+
+
+
+6.	TRADUÇÃO DA ESTRATÉGIA
+
+
+Uma vez definidos os direcionadores estratégicos, a tradução da estratégia consiste em comunicar de forma clara e simples para as partes interessadas qual a estratégia de longo prazo adotada pela instituição. Na metodologia adotada pelo TCU a tradução da estratégia foi realizada pela construção do mapa estratégico, com seus objetivos, indicadores e iniciativas estratégicas.
+
+
+Estratégia pode ser conceituada como o caminho a ser seguido para garantir a sobrevivência e para reforçar a legitimidade de uma organização ao longo do tempo. Podemos caracterizá-la, ainda, como sendo o conjunto de objetivos e ações necessários ao cumprimento da missão institucional e ao alcance da visão de futuro. 
+
+
+A estratégia organizacional refere-se à forma como a instituição se comporta frente aos diversos fatores que a afetam, ou seja, ao ambiente em que atua e pelo qual é influenciada. Procura potencializar as forças e as oportunidades e, ainda, neutralizar ou mitigar fraquezas e ameaças.
+
+
+Uma estratégia de atuação foi definida para os próximos seis anos, para que o TCU possa cumprir sua missão de aprimorar a Administração Pública em benefício da sociedade por meio do controle externo e alcançar sua visão de ser referência na promoção de uma Administração Pública efetiva, ética, ágil e responsável.
+
+
+Essa estratégia visa assegurar e aperfeiçoar a gestão de recursos materiais, orçamentários, financeiros e patrimoniais ao adequado funcionamento e modernização da instituição, de forma que o uso adequado desses recursos permita ao Tribunal promover a melhoria de sua governança e da gestão de sua estratégia. 
+
+
+Além disso, o Tribunal, tem por objetivo, promover o aprimoramento do uso de tecnologia da informação como instrumento de inovação. A adoção de práticas inovadoras para melhoria dos produtos, serviços e processos de trabalho são fundamentais para assegurar a eficiência, a eficácia, a economicidade e a efetividade de sua atuação.
+
+
+Nesse contexto, o TCU deverá investir constantemente no desenvolvimento das competências profissionais e gerenciais de seu corpo técnico de modo a prepará-lo para os desafios presentes e futuros. De modo concomitante, deverão ser feitos investimentos na estruturação da gestão do conhecimento organizacional e na modernização e integração das práticas de gestão de pessoas, sobretudo às relacionadas ao desempenho, reconhecimento e desenvolvimento profissional. 
+
+
+Além disso, deve-se buscar promover integração e sinergia no Tribunal como meio de propiciar maior convergência e coerência em todas as ações de forma que o Tribunal cumpra sua missão institucional
+
+
+Entre os principais processos de trabalho a serem aprimorados estão os relacionados a estreitar o relacionamento do TCU com o Congresso Nacional, intensificar práticas de intercâmbio para compartilhamento de melhores práticas e promover parcerias com outros órgãos de controle. Essas ações contribuirão para que o trabalho de controle externo seja mais colaborativo, eficiente, ágil e efetivo. Nesse contexto, é essencial que haja um processo de comunicação junto às partes interessadas (Congresso Nacional, sociedade, e jurisdicionados). A legitimidade e a percepção de relevância de uma instituição pública dependem tanto dos resultados alcançados, quanto da divulgação e da utilização desses resultados. 
+
+
+Deve-se destacar, como parte fundamental da estratégia do Tribunal, os temas relacionados a ações que promovam a melhoria da tempestividade, da seletividade e da efetividade das ações de controle do Tribunal, de modo que os responsáveis por irregularidades e desvios sejam devidamente responsabilizados.  Nesse sentido, também pretende-se induzir o aperfeiçoamento da Administração Pública como um todo para que as ações de controle tenham caráter mais proativo e preventivo. Esse aperfeiçoamento ocorre no sentido de desenvolver ações que promovam melhores práticas de gestão de riscos, controles internos e monitoramento de desempenho pela Administração Pública, bem como ao aprimoramento da gestão de políticas públicas descentralizadas. 
+
+
+Espera-se que a melhoria desses processos de trabalho seja marco para a geração contínua de resultados concretos às partes interessadas. Os resultados a serem alcançados deverão estar relacionados ao aprimoramento da governança e a gestão em organizações e políticas públicas, a coibir a má gestão dos recursos públicos e a fomentar a Administração Pública transparente.
+
+
+
+
+
+7.	MAPA ESTRATÉGICO
+
+
+Os modelos de gestão de desempenho destinados a implementar a estratégia devem ser capazes de traduzi-la para todos os níveis da instituição, tornando-a capaz de atuar efetiva e conscientemente em prol da realização dos objetivos definidos.
+
+
+A implementação da estratégia exige que unidades e servidores estejam alinhados e compromissados com o referencial estratégico institucional. Para assegurar tal conexão, a organização deve dispor de processo de comunicação eficaz que retrate a forma pela qual as ações da organização se convertem em resultados que maximizem o cumprimento da missão institucional. Para tanto, construiu-se o mapa estratégico, ferramenta que apresenta, de forma lógica e estruturada, a estratégia da organização.
+
+
+Aponta, por meio de objetivos estratégicos, relações de causa e efeito e indicadores de desempenho, a forma pela qual ativos intangíveis da organização produzem resultados tangíveis. A tradução da estratégia por meio do mapa cria referencial comum e de fácil compreensão para unidades e servidores da organização.
+
+
+O mapa estratégico traduz a missão, a visão e a estratégia da organização em um conjunto abrangente de objetivos que direcionam o comportamento e o desempenho institucionais. Os propósitos do mapa são definir e comunicar, de modo claro e transparente a todos os níveis gerenciais e servidores, o foco e a estratégia de atuação escolhidos pelo Tribunal e a forma como suas ações impactam o alcance dos resultados desejados, assim como subsidiar a alocação de esforços e evitar a dispersão de ações e de recursos
+
+
+O mapa estratégico do TCU está estruturado em três perspectivas que representam o encadeamento lógico de sua estratégia de atuação. Cada uma engloba um conjunto de objetivos estratégicos que retrata os principais desafios a serem enfrentados pelo TCU no alcance de sua visão de futuro e no cumprimento de sua missão institucional.
+
+
+A perspectiva de resultados define os resultados que o Tribunal deve gerar para atender às expectativas das partes interessadas (Congresso Nacional, sociedade e jurisdicionados). A perspectiva de processos internos retrata os processos internos prioritários nos quais o TCU deverá buscar excelência e concentrar esforços a fim de maximizar seus resultados. Por fim, a perspectiva de gestão e inovação identifica ações e inovações nas áreas de gestão de pessoas, tecnologia da informação, comportamento organizacional e suporte logístico necessárias para assegurar o crescimento e o aprimoramento contínuo do TCU. 
+
+
+
+
+
+Mapa estratégico TCU 2015-2021 
+
+
+
+
+
+
+8.	OBJETIVOS ESTRATÉGICOS E INDICADORES DE DESEMPENHO[footnoteRef:2] [2:  As fórmulas de cálculo dos indicadores podem ser consultadas na página do Tribunal de Contas da União (TCU) no seguinte endereço: http://portal2.tcu.gov.br/portal/page/portal/TCU/gestao_corporativa] 
+
+
+
+Os objetivos estratégicos constituem elo indissolúvel entre as diretrizes da instituição e seu referencial estratégico. Determinam o que deve ser feito para que a organização cumpra a missão e alcance a visão de futuro. Traduzem, consideradas as demandas e expectativas das partes interessadas (Congresso Nacional, sociedade e jurisdicionados), os desafios a serem enfrentados pelo Tribunal no cumprimento do papel institucional que lhe é reservado. Para tanto, o TCU orientará seus esforços de acordo com os objetivos estratégicos definidos neste plano.
+
+
+Os indicadores são instrumentos de medição que fornecem informações sobre o resultado da execução da estratégia, comunicando o alcance das metas e sinalizando a necessidade de ações corretivas sendo, portanto, um teste permanente da validade da estratégia. O uso de indicadores é uma importante ferramenta de gestão, pois permite a transparência na divulgação de resultados, garante o alinhamento dos esforços por meio do estabelecimento de linguagem e objetivos comuns e define critérios objetivos reconhecidos pela instituição. 
+
+
+Os indicadores podem ser classificados em resultado e tendência. Os de resultado estão relacionados diretamente ao alcance do objetivo estratégico. Já os indicadores de tendência relacionam-se com os meios, os esforços da organização para alcançar o objetivo e aparecem, principalmente, associados aos objetivos constantes nas perspectivas de processos internos e de gestão e inovação. 
+
+
+O uso de indicadores retrata como o TCU pretende verificar se sua estratégia de atuação está sendo bem sucedida e se está fornecendo às partes interessadas os principais resultados esperados. 
+
+
+A seguir são apresentados os objetivos estratégicos do Tribunal de Contas da União e os respectivos indicadores de desempenho.
+
+
+
+A.	PERSPECTIVA DE RESULTADOS
+
+
+1.	Aprimorar a governança e a gestão em organizações e políticas públicas
+
+
+Governança no setor público compreende essencialmente os mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade.
+
+
+Nesse sentido, a orientação do controle deve ser a melhoria da governança pública em organizações e políticas públicas, com ênfase em centro de governo (estrutura administrativa de instituições centrais que servem ao Executivo).
+
+
+Assim, ao Tribunal incumbe tornar disponíveis para gestores públicos orientações, determinações, recomendações ou avaliações, visando corrigir falhas, evitar desperdícios, melhorar o desenho e a gestão de programas governamentais e políticas públicas, a gestão e o desempenho de órgãos e entidades, a formulação das políticas públicas, aumentar a qualidade de bens e serviços ofertados, melhorar o desempenho dos controles internos, bem como contribuir para a disseminação das melhores práticas observadas na Administração Pública Federal. 
+
+
+Indicadores de Desempenho
+
+
+1.	Índice Geral de Governança - mede o índice geral de governança consolidado da Administração Pública Federal.
+
+
+2.	Índice de implementação de determinações e recomendações - mede o percentual de implementação das determinações e recomendações monitoradas pelo Tribunal.
+
+
+3.	Índice de maturidade dos sistemas de avaliação de programas governamentais (iSA-Gov) - pesquisa junto aos gestores responsáveis por implementação e gestão de políticas públicas (ocupantes de função DAS 4, 5 e 6) a respeito da percepção da maturidade dos sistemas de avaliação da Administração Pública direta. 
+
+
+4.	Índice de maturidade da gestão de riscos em entidades públicas - autoavaliação de entidades da administração federal acerca de práticas e condições relevantes para a maturidade da gestão de riscos em uso por essas organizações.
+
+
+2.	Coibir a má gestão dos recursos públicos
+
+
+A tolerância da sociedade com o mau uso dos recursos públicos é cada vez menor, exigindo atuação pronta, efetiva e integrada dos órgãos encarregados de zelar e defender o interesse coletivo. A adoção de mecanismos mais efetivos de detecção de fraude e desvio de recursos, aliada à implementação das medidas corretivas cabíveis são pressupostos fundamentais para o sucesso no combate à corrupção.
+
+
+A busca pela eficiência, eficácia, economicidade e efetividade no gasto governamental é preceito constitucional que deve pautar a atuação do TCU, de forma a evitar a ocorrência de desperdício e dano, bem como resguardar o erário.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de cumprimento de determinações - mede o percentual de cumprimento das determinações monitoradas pelo Tribunal. 
+
+
+3.	Fomentar a Administração Pública transparente
+
+
+Transparência significa divulgação oportuna de todas as questões relevantes relacionadas à organização, inclusive situação financeira, desempenho, composição e governança. É dever dos órgãos públicos apresentar à sociedade dados e informações sobre sua gestão. Quanto mais bem informada for a sociedade, melhor condição terá para exercer o controle social sobre a atuação de seus representantes.
+
+
+A transparência e a correta divulgação permitem que a sociedade perceba e valorize os produtos e serviços oferecidos pelas instituições. Dessa forma, o estímulo à transparência da gestão pública deve ser um dos objetivos essenciais do Tribunal de Contas da União, pois a ampliação da divulgação das ações governamentais, além de contribuir para o fortalecimento da democracia, prestigia e desenvolve a cidadania.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de Transparência da Administração Pública Federal (IGG/APF-Transparência) - mede o Índice de Geral de Governança consolidado da Administração Pública Federal, no substrato referente à Transparência.
+
+
+B.	PERSPECTIVA DE PROCESSOS INTERNOS
+
+
+B.1. CONTROLE EXTERNO
+
+
+4.	Intensificar a atuação com base em análise de risco 
+
+
+A sociedade anseia por governos ágeis, fomentadores do desenvolvimento e capazes de atender a sua demanda por serviços públicos efetivos. A complexidade, a abrangência, a diversidade e a amplitude de jurisdição e dos objetos do controle impõem ao Tribunal atuar de forma seletiva e estabelecer foco de atuação. 
+
+
+Assim, a forma de atuação mais adequada para o TCU contribuir para que esses anseios da sociedade sejam atendidos é a utilização do uso de inteligência de controle para a identificação em larga escala de riscos de inexecução ou execução inadequada de produtos e serviços.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de atuação baseada em risco - mede o percentual de auditorias eletivas que foram baseadas em análise prévia de risco. 
+
+
+5.	Realizar diagnósticos sistêmicos em áreas relevantes
+
+
+A complexidade, a abrangência, a diversidade e a amplitude de jurisdição e dos objetos do controle impõem ao Tribunal atuar de forma seletiva e sistêmica em áreas relevantes. O TCU deve, dessa maneira, buscar realizar seus trabalhos em áreas e temas de maior significância ou que possam produzir maiores benefícios à sociedade. 
+
+
+Essa estratégia de atuação permitirá identificar situações de risco, bem como orientará a adoção de medidas que possibilitem aprimorar os instrumentos de governança, gestão e desempenho da Administração Pública. Constitui esforço de fornecer ao Congresso Nacional, aos gestores públicos e à sociedade, informações de modo estruturado sobre a situação de áreas consideradas prioritárias. 
+
+
+De modo complementar, a realização de diagnósticos sistêmicos em áreas relevantes visa direcionar a atuação do Tribunal para ações que tenham maior possibilidade de contribuir para a efetividade do controle e para a maximização do cumprimento da missão institucional. Em última instância, busca-se a priorização de ações de controle com foco preventivo, sistêmico e que possam avaliar temas relevantes para a sociedade.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de cobertura dos diagnósticos sistêmicos - mede o percentual de funções de governo e temas transversais a respeito dos quais o TCU tenha realizado diagnósticos sistêmicos de âmbito nacional nos últimos quatro anos.
+
+
+6.	Induzir a disponibilidade e a confiabilidade de informações da Administração Pública 
+
+
+O TCU deve contribuir para a transparência da Administração Pública. Para tanto, deve induzir a disponibilidade e a confiabilidade de informações da atuação de órgãos, entidades e gestores públicos, por meio de medidas que possibilitem e incentivem a participação ativa do cidadão no controle da gestão pública.
+
+
+Mas não basta ao TCU divulgar, é preciso estimular a medição, a análise crítica e a divulgação de resultados pela própria Administração, como condição necessária à melhoria da gestão. O acesso do cidadão às informações e a mecanismos de monitoramento da atuação de instituições e agentes públicos devem figurar entre os resultados das ações de controle exercidas pelo Tribunal de Contas da União.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de avaliação de disponibilidade e confiabilidade de informações - mede o percentual de unidades jurisdicionadas que entregam relatório de gestão e que foram avaliadas quanto à disponibilidade e à confiabilidade de informações, por meio de testes substantivos, nos últimos quatro anos. 
+
+
+7.	Induzir o aperfeiçoamento da gestão de riscos e controles internos da Administração Pública
+
+
+O gerenciamento de riscos é um processo organizacional aplicável ao estabelecimento de estratégias, de modo a identificar eventos potencialmente capazes de afetá-las. Caso o risco identificado não esteja em nível considerado aceitável pela organização, controles internos devem ser implementados para mitigá-lo. Os controles internos devem ser ferramentas de gestão e monitoramento de riscos em relação ao alcance de objetivos institucionais.
+
+
+Garantir o correto funcionamento dos controles internos da Administração Pública Federal, de modo a minimizar os riscos de não cumprimento de políticas e programas governamentais, é condição essencial para se garantir a eficiência, a eficácia, a economicidade, a transparência e a efetividade da atuação do Estado. Dessa forma, compete ao TCU intensificar ações que promovam a indução do aperfeiçoamento da gestão de riscos e controles internos da Administração Pública.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de avaliação de gestão de riscos e controles internos - mede o percentual de unidades jurisdicionadas que entregam o relatório de gestão e que foram avaliadas quanto à gestão de riscos e aos controles internos, por meio de testes substantivos, nos últimos quatro anos.
+
+
+8.	Estimular o monitoramento e a avaliação do desempenho pela Administração Pública
+
+
+Avaliar, direcionar e monitorar constituem as três principais funções da governança pública. Os sistemas de avaliação e monitoramento desenvolvidos para apoiar a implementação e gestão das políticas públicas, geram conhecimento avaliativo e subsidiam os processos decisórios nas organizações.  Sistemas avaliativos robustos e bem estruturados são elementos essenciais à governança, na medida em que proporcionam informações relevantes para a tomada de decisões de forma a assegurar o alcance dos objetivos institucionais.
+
+
+Conseguir uma gestão eficiente e comprometida com os resultados requer, entre outras coisas, o estabelecimento de metas de desempenho mensuráveis. Desta forma, compete ao TCU contribuir para a melhoria da capacidade de gestão da Administração Pública induzindo a produção e divulgação de objetivos, metas e indicadores de desempenho que subsidiem os processos decisórios nas organizações e que possibilitem o controle social.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de avaliação dos indicadores dos programas temáticos do PPA - mede o percentual de indicadores dos programas temáticos do PPA avaliados
+
+
+9.	Induzir o aperfeiçoamento da gestão das políticas públicas descentralizadas 
+
+
+Opera-se a descentralização quando o governo federal, por meio de seus órgãos e entidades, busca a eficiência na administração de seus programas, transferindo recursos para entidades públicas ou privadas na prestação de serviços de interesse público. O convênio, como instrumento de descentralização de políticas públicas, constitui instrumento hábil que permite maior autonomia e agilidade na prestação de serviços.
+
+
+Os processos de celebração, execução e prestação de contas de convênios devem ser acompanhados pelos órgãos repassadores e, para tanto, os controles internos devem ser fortalecidos. O TCU tem o importante papel de aperfeiçoar o controle da gestão das políticas públicas, no sentido de orientar os órgãos gestores responsáveis pelos repasses no aperfeiçoamento dos processos e na intensificação da fiscalização de convênios e instrumentos congêneres de forma a possibilitar o monitoramento e a detecção de desvios. 
+
+
+Indicador de Desempenho
+
+
+1.	Índice de cumprimento das iniciativas ligadas ao objetivo - mede o percentual de iniciativas concluídas dentre aquelas ligadas a esse objetivo estratégico
+
+
+10.	Condenar efetiva e tempestivamente os responsáveis por irregularidades e desvios
+
+
+A efetividade das ações de controle exercidas pelo TCU depende do cumprimento de suas decisões. Nesse aspecto, a atuação do Tribunal deve estar orientada para assegurar a aplicação rigorosa das penalidades e sanções devidas, como também para seu efetivo cumprimento. Por isso, é importante inovar na forma de atuar, remover obstáculos de ordem legal ou instrumental e trabalhar conjuntamente com os demais órgãos partícipes do controle, de maneira a evitar que a ação lesiva ao erário fique impune. Também deve-se assegurar que as sanções aplicadas sejam contemporâneas às irregularidades detectadas.
+
+
+Ainda, o TCU deve responder de forma célere, tempestiva e completa às demandas que lhe são apresentadas. Atuar de forma preventiva e simultânea visando à redução do tempo de apreciação de processos é condição essencial para assegurar a efetividade do controle e melhorar a imagem do Tribunal perante a sociedade e o Congresso Nacional.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de tempestividade no julgamento de TCE - mede o percentual dos processos de tomada de contas especial apreciados conclusivamente dentro do prazo estabelecido.
+
+
+2.	Tempo esperado de julgamento - mede o tempo médio esperado para julgamento de um processo, mantido o fluxo de entrada e saída de processos (lead time).
+
+
+3.	Índice de recolhimento de débitos e multas - Mede o percentual de recuperação de valor nas esferas administrativas e judiciais.
+
+
+B.2. RELACIONAMENTO INSTITUCIONAL
+
+
+11.	Intensificar o intercâmbio nacional e internacional para compartilhamento de melhores práticas para o controle
+
+
+A adoção do intercâmbio nacional e internacional para compartilhamento de melhores práticas já é uma realidade no Tribunal. Atividades de cooperação como auditorias coordenadas, intercâmbio de conhecimentos, revisão por pares, treinamentos e participação em grupos de trabalho regionais e globais, têm sido cada vez mais utilizadas. No entanto, é preciso intensificar a utilização desse instrumento no sentido de fortalecer o papel do TCU como órgão de controle. 
+
+
+A prática de intercâmbio possibilita a obtenção de informações relevantes para o controle, bem como o aprimoramento técnico dos participantes. Ainda, é importante que a atividade de intercâmbio seja estruturada por meio de parcerias e disseminada no âmbito do Tribunal.
+
+
+Indicadores de Desempenho
+
+
+1.	Número de iniciativas de cooperação - mede a quantidade de iniciativas que potencialmente possibilitam o compartilhamento de melhores práticas.
+
+
+12.	Intensificar parcerias com outros órgãos de controle
+
+
+A atuação conjunta e articulada com órgãos de controle evita a superposição de ações, otimiza a utilização dos recursos e amplia o alcance de resultados. Intensificar parcerias entre órgãos de controle é iniciativa fundamental para melhorar a Administração Pública, conferir maior celeridade e racionalidade ao processo de controle e colaborar na adoção de mecanismos mais efetivos para coibir a má gestão de recursos públicos.
+
+
+Ampliar a realização de trabalhos coordenados e a troca de informações de inteligência com outros órgãos de controle, bem como a atuação proativa com tribunais de contas estaduais e tribunais de contas municipais, representam iniciativas fundamentais para induzir o aperfeiçoamento e o fortalecimento do sistema de controle no Brasil.
+
+
+Indicadores de Desempenho
+
+
+1.	Número de ações de controle em conjunto - mede a quantidade de ações de controle realizadas em conjunto com outros órgãos de controle.
+
+
+13.	Estreitar o relacionamento com o Congresso Nacional 
+
+
+Estreitar o relacionamento com o Congresso Nacional, por meio do estabelecimento de canais apropriados de diálogo, permite a identificação de demandas e de expectativas, bem como a troca de informações estratégicas para o exercício das atribuições institucionais, fatores indispensáveis para a definição de foco de atuação para o fortalecimento e a efetividade do controle externo.
+
+
+Indicadores de Desempenho
+
+
+1.	Número de apresentações de trabalhos relevantes ao Congresso Nacional - mede o número de apresentações de trabalhos relevantes ao Congresso Nacional.
+
+
+2.	Índice de proposições ajustadas no Congresso Nacional - mede o percentual de proposições normativas e legislativas de interesse do TCU tratadas no Congresso Nacional.
+
+
+14.	Aperfeiçoar a comunicação do TCU com as partes interessadas
+
+
+A legitimidade e a percepção de relevância de uma instituição pública dependem tanto dos resultados alcançados, quanto da divulgação e da utilização desses resultados pelas partes interessadas (sociedade, Congresso Nacional e jurisdicionados). Também depende diretamente da capacidade do órgão em disponibilizar canais de comunicação diretos com os usuários de seus serviços. 
+
+
+O TCU deve contribuir para a transparência da atuação de órgãos, entidades e gestores públicos e, dessa maneira, induzir o exercício do controle social. Para tanto, deve divulgar as informações que produz, em linguagem acessível à sociedade, com qualidade e tempestividade, de forma a possibilitar a participação ativa das partes interessadas no controle da gestão pública. 
+
+
+A transparência e a boa comunicação implicam abertura de dados e divulgação oportuna das questões relevantes relacionadas à organização. Dessa forma, aprimorar os mecanismos de diálogo com as partes interessadas pressupõe o monitoramento e a avaliação da satisfação com serviços e produtos e a implementação de ações de melhoria sempre que necessário.
+
+
+Indicador de Desempenho
+
+
+1.	Índice de alcance das publicações nas mídias sociais - mede o alcance das informações postadas pelo TCU no Facebook (reach) e no Twitter (impressions) nos últimos 12 meses. 
+
+
+2.	Índice de divulgação de ações de controle - mede o percentual de trabalhos relevantes publicados nos grandes veículos de comunicação em relação ao total de trabalhos relevantes realizados pelo TCU.
+
+
+15.	Aperfeiçoar a gestão do desempenho, o reconhecimento e o desenvolvimento profissional
+
+
+Adoção de medidas efetivas que propiciem o aprendizado e a execução de ações que importem em real planejamento, execução, acompanhamento, avaliação e reconhecimento do desempenho dos servidores do Tribunal de Contas da União, bem como a implementação de mecanismos capazes de incentivar o autoaperfeiçoamento e motivar o desenvolvimento profissional do servidor.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de adequação da gestão do desempenho - avalia as condições e a qualidade da gestão do desempenho do TCU. 
+
+
+2.	Índice de adequação do reconhecimento - avalia as condições e a qualidade da gestão do conhecimento do TCU.
+
+
+3.	Índice de certificação profissional em áreas relevantes - mede o percentual de auditores certificados em áreas relevantes. 
+
+
+16.	Aprimorar a gestão do conhecimento
+
+
+A gestão do conhecimento refere-se a processo de negócio que formaliza a gestão dos ativos intelectuais da organização. Trata-se de abordagem colaborativa e integrativa para a criação, captura, organização, acesso e uso de ativos de informação, que incluem bases de dados, documentos, conhecimentos tácitos e experiências pessoais. 
+
+
+Desta forma, definir processos e práticas de gestão do conhecimento, criar ambiente que propicie a colaboração e o registro de conhecimento, incrementar o compartilhamento de informações e promover a geração de novos conhecimentos são iniciativas fundamentais para conferir maior eficiência, eficácia e efetividade às ações de controle. 
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de unidades com práticas de gestão do conhecimento implantadas - mede o número de unidades que implementaram práticas de gestão do conhecimento.
+
+
+2.	Número de acessos aos ambientes de gestão do conhecimento - mede o número de acessos realizados pelos servidores do TCU aos ambientes de gestão do conhecimento.
+
+
+17.	Promover integração e sinergia no Tribunal
+
+
+Sinergia significa cooperação e trabalho em prol de um fim comum. A sinergia só é conseguida por meio da colaboração de indivíduos com os mesmos valores e objetivos. Integração e sinergia fazem com que a organização apresente diferencial competitivo possibilitando o crescimento individual e coletivo. Entre outras coisas, a sinergia é fator determinante para maximizar a comunicação interna na organização.
+
+
+Dessa forma promover a integração e a sinergia no TCU corresponde a todas as movimentações internas que procuram garantir maiores convergência e coerência nas ações organizacionais de forma a garantir que o Tribunal cumpra sua missão institucional.
+
+
+Indicadores de Desempenho
+
+
+1.	Grau de percepção de integração e sinergia no TCU - mede o grau de percepção dos servidores em relação à sinergia e à integração no TCU.
+
+
+18.	Promover a melhoria da governança e da gestão da estratégia no TCU
+
+
+Governança no setor público compreende essencialmente os mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade. 
+
+
+Gestão estratégica representa o conjunto de decisões que determinam o desempenho da organização no longo prazo. Inclui a formulação de um referencial estratégico, análise dos ambientes interno, externo e de cenários, e a formulação, implementação, avaliação e controle da estratégia.
+
+
+Promover a melhoria da governança e da gestão da estratégia compreendem aspectos relacionados à transparência e a accountability, aperfeiçoamento da estrutura organizacional, processos de trabalho e política de alocação de pessoas, comprometimento da alta administração e dos servidores com o plano estratégico e com o alcance dos objetivos definidos, relacionamento com partes interessadas, ética e conduta.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice-Geral de Governança do Tribunal de Contas da União (IGG-TCU) - mede a aderência do TCU às melhores práticas da governança, com base no Índice-Geral de Governança.
+
+
+2.	Índice de capacidade de monitoramento e avaliação - mede a aderência do TCU à prática de monitorar e avaliar a execução da estratégia, os principais indicadores e o desempenho da organização.
+
+
+19.	Desenvolver capacidade organizacional ampla para trabalhar com recursos tecnológicos
+
+
+A atividade de controle externo tem como insumo e produto informação e conhecimento, elementos altamente dependentes de tecnologia da informação. O tratamento de dados e informações é condição indispensável para alavancar as atividades de controle.
+
+
+Dessa forma, desenvolver capacidade organizacional ampla para trabalhar com recursos tecnológicos emergentes e analisar grandes bases de dados é condição imprescindível para ampliar a capacidade de fiscalização e, consequentemente, dar resposta às demandas apresentadas ao TCU.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de capacitação em análise de dados – avalia o percentual de servidores capacitados para trabalhar em análise de dados internas e externas ao TCU.
+
+
+20.	Aprimorar o uso da TI como instrumento de inovação para o controle
+
+
+Por meio da inovação, as organizações públicas tornam-se capazes de aumentar a qualidade e a efetividade dos produtos e serviços ofertados aos cidadãos sem, necessariamente, aumentar seu custo. O emprego apropriado dos recursos de TI pode tornar mais ágil e focada a atuação do Tribunal, assim como, ampliar o universo de recursos fiscalizados e a capacidade de resposta às demandas apresentadas. 
+
+
+O uso da tecnologia da informação para desenvolver iniciativas inovadoras é fundamental para o fortalecimento da confiança do cidadão no Controle Externo, bem como assegurar a eficiência, a eficácia, a economicidade e a efetividade da atuação do TCU.
+
+
+Indicadores de Desempenho
+
+
+1.	Número de iniciativas inovadoras de TI implementadas - mede o número de iniciativas inovadoras de TI implementadas no TCU.
+
+
+21.	Assegurar suporte de bens e serviços adequado às necessidades do TCU
+
+
+Operacionalizar e aperfeiçoar a gestão de recursos materiais, orçamentários, financeiros e patrimoniais é fator fundamental para viabilizar condições laborais e de suporte logístico necessários ao pleno funcionamento do Tribunal.
+
+
+Indicadores de Desempenho
+
+
+1.	Índice de satisfação com bens e serviços - mede a satisfação dos servidores quanto aos bens disponibilizados e serviços prestados para viabilizar as atividades do TCU
+
+
+
+
+
+
+
+9.	INICIATIVAS ESTRATÉGICAS
+
+
+As iniciativas estratégicas indicam, em linhas gerais, o conjunto de medidas ou ações a serem implementadas no curto, médio e longo prazos para assegurar o alcance dos objetivos estabelecidos no mapa estratégico e para preencher as lacunas existentes entre o desempenho atual da organização e o desejado. 
+
+
+As iniciativas estão circunscritas às perspectivas sob as quais o Tribunal possui governabilidade e serão implementadas por meio de planos de diretrizes e de controle externo e respectivos desdobramentos no âmbito das unidades do Tribunal, ou por meio de projetos constituídos especificamente para tal fim.
+
+
+O portfólio de iniciativas produzido na formulação do presente planejamento norteará o Tribunal na implementação do PET 2015-2021, mas não está isento de sofrer, ao longo do tempo, modificações, uma vez que a estratégia é constantemente reavaliada e a execução das iniciativas será realizada em ondas de implementação.
+
+
+Dada a dinâmica inerente à implementação das iniciativas estratégicas, o conjunto delas constará de área específica do PET 2015-2021 no Portal TCU[footnoteRef:3]. [3:  As iniciativas estratégicas podem ser consultadas na página do Tribunal de Contas da União (TCU), no seguinte endereço: http://portal2.tcu.gov.br/portal/page/portal/TCU/gestao_corporativa] 
+
+
+
+
+
+
+10.	IDENTIDADE ESTRATÉGICA
+
+
+
+
+10.1.	Negócio
+
+
+O negócio representa o ramo de atividades no qual a instituição atua, indicando o foco dos benefícios que ela irá gerar para sua clientela. Em outras palavras, responde à seguinte questão: "o que fazemos?". Sua definição é feita considerando-se não só o que se faz, mas analisando-se, também, o espaço que a unidade pretende ocupar em relação às demandas ambientais. Para organizações públicas pode ser entendido como "área de competência".
+
+
+
+NEGÓCIO: "Controle externo da Administração Pública e da gestão dos recursos públicos federais".
+
+
+
+
+10.2.	Missão
+
+
+A missão representa a razão da existência de uma organização, ou seja, o que a organização faz hoje, por que faz, em benefício de quem e visando produzir qual impacto na sociedade. A declaração de missão deve responder à seguinte questão: "por que ou para que existimos?".  A missão está ligada diretamente aos objetivos institucionais e aos motivos pelos quais a organização foi criada, na medida em que representa a sua razão de ser. Não deve ser confundida com os produtos por ela ofertados.
+
+
+
+MISSÃO: "Aprimorar a Administração Pública em benefício da sociedade por meio do controle externo".
+
+
+
+
+10.3.	Visão
+
+
+A visão de futuro é a expressão que traduz a situação futura desejada para a instituição. A visão é estabelecida sobre os fins da instituição e corresponde à direção suprema o que a organização busca alcançar. É um plano, uma ideia mental que descreve o que a organização quer realizar objetivamente num prazo determinado. É mutável por natureza e representa algo concreto a ser alcançado. A visão de futuro é aquela que detecta os sinais de mudança, identificando oportunidades e ameaças, e direciona os esforços, inspirando e transformando produtivamente um propósito em ação, em fato concreto. A busca sistemática da realização desse sonho é o que deve manter a organização viva. É o que a energiza e inspira. A visão impulsiona a organização, enquanto a missão indica o rumo a ser seguido.
+
+
+
+VISÃO: "Ser referência na promoção de uma Administração Pública efetiva, ética, ágil e responsável".
+
+
+
+
+11.	VALORES
+
+
+Os valores organizacionais representam os princípios que devem nortear as ações e a conduta de colaboradores, gerentes e autoridades ligadas a uma instituição pública. Tais valores, portanto, consubstanciam-se em conjunto de crenças e princípios que orientam e informam as atividades da instituição. Quando claramente estabelecidos, ajudam a organização a reagir rápida e decisivamente nas situações inesperadas que se lhe apresentem. 
+
+
+
+Ética
+
+
+
+Ter como padrão de conduta ações que busquem a verdade dos fatos, amparadas em honestidade, moralidade, coerência e probidade administrativa.
+
+
+
+Justiça
+
+
+
+Pautar-se estritamente por princípios de justiça, pela verdade e pela lei, com integridade, equidade, impessoalidade e imparcialidade.
+
+
+
+Efetividade
+
+
+
+Atuar orientado para resultados que assegurem o cumprimento da missão e a excelência da imagem institucional.
+
+
+
+Independência
+
+
+
+Atuar com imparcialidade, liberdade e autonomia, de forma a rejeitar a interveniência de qualquer interesse que não o público.
+
+
+
+Profissionalismo
+
+
+
+Atuar de forma técnica, competente, responsável, imparcial, coerente e objetiva e estar comprometido com a missão institucional.
+
+
+
+
+
+
+
+
+12.	MACROPROCESSOS
+
+
+
+Os macroprocessos permitem uma visão lógica e estruturada do funcionamento interno da organização. Foram estabelecidos sob a ótica das competências constitucionais e legais e dos resultados esperados segundo as necessidades do Estado, do Congresso Nacional e do cidadão.
+
+
+Os macroprocessos do TCU têm por propósito permitir melhor domínio do negócio e a busca contínua pela excelência e plena integração dos processos de trabalho. Enfim, explicitam como o Tribunal opera no cumprimento da missão de aprimorar a Administração Pública em benefício da sociedade por meio do controle externo. 
+
+
+A partir da compreensão e caracterização das atribuições constitucionais e legais, bem como das demandas e necessidades dos clientes, são descritos os produtos e os serviços a serem entregues, bem como os processos que os produzem. Essa abordagem favorece o estabelecimento de indicadores de desempenho e a adoção de melhorias em processos de trabalho e instrumentos de controle, de forma a atender às necessidades dos clientes e a maximizar o desempenho institucional.
+
+
+Os macroprocessos definidos para o Tribunal de Contas da União são:
+
+
+1.	Auxílio ao Congresso Nacional;
+
+
+2.	Promoção da transparência e do controle social;
+
+
+3.	Controle direto;
+
+
+4.	Controle com interveniência de terceiros;
+
+
+5.	Aperfeiçoamento da Administração Pública;
+
+
+6.	Tecnologia da Informação;
+
+
+7.	Planejamento, governança e gestão;
+
+
+8.	Gestão de pessoas; e
+
+
+9.	Logística.
+
+
+Macroprocesso 1 - Auxílio ao Congresso Nacional
+
+
+Tem por objetivo tornar disponíveis para o Congresso Nacional informações e pareceres produzidos pelo TCU, visando subsidiar o processo de responsabilização política do governo, a atuação do Legislativo na alocação de recursos públicos e o exercício do controle externo, a elaboração de planos e orçamentos, a avaliação de gestão fiscal e o aperfeiçoamento do arcabouço legal.
+
+
+Macroprocesso 2 - Promoção da transparência e do controle social
+
+
+Tem por objetivo tornar disponíveis para a sociedade, imprensa, câmaras municipais, assembleias legislativas e conselhos incumbidos do controle social, informações acerca da gestão pública, dos resultados e dos benefícios do controle externo e, de forma específica, para denunciantes, representantes e solicitantes, informações acerca dos fatos apurados pelo TCU ou as informações solicitadas.
+
+
+Macroprocesso 3 - Controle direto
+
+
+Tem por objetivo tornar disponíveis para a Administração Pública, União, estados, Distrito Federal, municípios, consulentes e gestores de recursos públicos federais, determinações, recomendações, sanções, medidas cautelares, alertas, informações e orientações, visando prevenir, corrigir, coibir e punir a prática de ilegalidade e o mau uso de recursos públicos, assegurar a legalidade das desestatizações e dos atos sujeitos a registro, regular distribuição dos recursos dos fundos constitucionais e o cumprimento dos dispositivos da Lei de Responsabilidade Fiscal e, ainda,  esclarecer dúvidas quanto à aplicação de dispositivos legais e regulamentares.
+
+
+Macroprocesso 4 - Controle com interveniência de terceiros
+
+
+Tem por objetivo tornar disponíveis à Advocacia-Geral da União, às procuradorias da Administração Pública Indireta, ao Ministério Público da União, ao Ministério Público Eleitoral, aos ministérios públicos estaduais, à Polícia Federal e aos tribunais de contas estaduais e municipais, informações para que possam defender, determinar, sancionar e julgar atos da Administração Pública no âmbito das respectivas esferas de atuação.
+
+
+Macroprocesso 5 - Aperfeiçoamento da Administração Pública
+
+
+Tem por objetivo tornar disponíveis para programas de governo, órgãos e entidades da Administração Pública, determinações, recomendações, avaliações e orientações, visando contribuir para a excelência da gestão pública e dos serviços públicos prestados ao cidadão, para a melhoria da formatação, da formulação e da gestão dos programas e a qualidade de bens e serviços públicos e para o aperfeiçoamento da formulação de políticas públicas.
+
+
+Macroprocesso 6 - Tecnologia da Informação
+
+
+Tem por objetivo identificar necessidades e oportunidades para o uso da tecnologia da informação em suporte ao negócio da organização, implementar soluções que atendam às necessidades e oportunidades identificadas e assegurar o uso e funcionamento apropriado das soluções de TI.
+
+
+Macroprocesso 7 - Planejamento, governança e gestão
+
+
+Tem por objetivo estabelecer, comunicar e internalizar o referencial estratégico do Tribunal de Contas da União, bem como definir prioridades, responsabilidades e compromissos com os rumos e resultados institucionais. Contempla, também, aspectos relativos à definição e alocação de recursos, ao acompanhamento de resultados, ao monitoramento de indicadores de desempenho e ao controle dos atos administrativos no âmbito do TCU.
+
+
+Macroprocesso 8 - Gestão de pessoas
+
+
+Tem por objetivo estimular o desenvolvimento de profissionais competentes, motivados e comprometidos com a efetividade do controle externo e com a melhoria da gestão pública, bem como criar e manter ambiente de trabalho que conduza à excelência no desempenho, à plena participação, ao crescimento profissional e à qualidade de vida. Contempla, também, o aperfeiçoamento das práticas referentes ao sistema de trabalho, assim como a garantia da legalidade dos atos relativos a pessoas.
+
+
+Macroprocesso 9 - Logística
+
+
+Tem por objetivo operacionalizar, aperfeiçoar e racionalizar a gestão e o atendimento às necessidades de bens e serviços para o bom funcionamento do Tribunal de Contas da União.
+
+
+
+
+
+
+
+
+13.	COMPETÊNCIAS ORGANIZACIONAIS
+
+
+São competências singulares e essenciais que distinguem a instituição no seu negócio e ambiente de atuação. A correta identificação, percepção e desenvolvimento dessas competências é condição fundamental para assegurar o alcance dos objetivos estabelecidos e dos resultados desejados. No âmbito do Tribunal, seis são as competências organizacionais identificadas como decisivas e diferenciais para assegurar o cumprimento de sua missão institucional.
+
+
+1. Orientação Estratégica
+
+
+Capacidade de interagir sistematicamente com o ambiente e identificar mudanças, riscos, oportunidades, tendências e outros sinais, bem como de definir, priorizar e comunicar estratégias que favoreçam a criação de valor para todas as partes interessadas.
+
+
+2. Gestão de Relacionamento
+
+
+Capacidade de dialogar e interagir com agentes internos e externos, como também de influenciá-los, visando à execução das atribuições institucionais e ao fortalecimento da imagem do TCU.
+
+
+3. Gestão de Pessoas
+
+
+Capacidade de desenvolver políticas e de gerenciar práticas que permitam conciliar expectativas e necessidades dos servidores com as do TCU, de modo a gerar satisfação pessoal e melhor desempenho profissional.
+
+
+4. Tecnologia de Controle Externo
+
+
+Capacidade de captar, desenvolver e aplicar procedimentos e conhecimentos que propiciem efetividade às ações de controle externo.
+
+
+5. Domínio da Informação
+
+
+Capacidade de reconhecer, captar, tratar e tornar disponíveis, interna e externamente, informações relevantes para o acompanhamento da gestão pública e o suporte à tomada de decisão.
+
+
+6. Gestão de Processos de Trabalho
+
+
+Capacidade de sistematizar e gerenciar processos de trabalho, de modo a obter melhor desempenho do TCU.
+
+
+
+
+Não consta revogação expressa
+Aprova o Plano Estratégico do Tribunal de Contas da União para o período 2015-2021 (PET 2015-2021).
+
+

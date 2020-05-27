@@ -1,0 +1,82 @@
+Portaria
+141/1992
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e
+
+
+Considerando o número de microcomputadores instalados nas Unidades do Tribunal,
+
+
+Considerando o processamento e armazenagem de dados sigilosos nos microcomputadores,
+
+
+Considerando os prejuízos resultantes da perda ou divulgação indevida de dados armazenados em microcomputadores, e
+
+
+Considerando, finalmente, os problemas que poderão surgir com o uso inadequado de equipamentos, programas e arquivos relacionados com a microinformática, resolve:
+
+
+Art. 1º - Os Dirigentes das Unidades do Tribunal, levando em conta a necessidade de assegurar proteção aos dados armazenados em microcomputadores contra consultas, alterações, inserções, cópias e anulações involuntárias ou não autorizadas, limitarão o acesso aos equipamentos e aos dados neles armazenados a servidores da Unidade, devidamente capacitados ou em processo de treinamento.
+
+
+Parágrafo Único - A utilização dos microcomputadores por servidores em processo de treinamento será acompanhada por outro servidor da Unidade que possua a devida qualificação.
+
+
+Art. 2º - Os Dirigentes dos Setores que possuam microcomputadores instalados, levando em conta o risco de perda acidental ou intencional de dados, darão incumbência a servidor capacitado para criação e atualização diária ou, no máximo, semanal, de cópias de segurança, em disquetes, dos arquivos armazenados e alterados em discos rígidos (winchester) e flexíveis (disquetes).
+
+
+Art. 3º - Os dados sigilosos deverão ser manipulados através de microcomputador que possua sistema de segurança instalado.
+
+
+Parágrafo Único - Na impossibilidade do uso de microcomputador, com o adequado sistema de segurança, os dados devem ser trabalhados e armazenados exclusivamente em discos flexíveis (disquetes) a serem guardados em locais apropriados (seguros).
+
+
+Art. 4º - Os relatórios impressos, que contenham dados confidenciais, quando descartados, devem ser previamente destruídos, mediante trituração ou queima.
+
+
+Art. 5º - É vedada a utilização, a qualquer pretexto, inclusive para fins de demonstração, de "softwares" não utilizados pelo Centro de Informática e Processamento de Dados - CPD.
+
+
+Art. 6º - O acesso às partes internas dos microcomputadores, para efeito de reparos ou de qualquer alteração de componentes, fica restrito aos servidores credenciados pelo Coordenador do CPD ou a técnicos de empresas contratadas, mediante supervisão direta daqueles.
+
+
+Parágrafo Único - Nas Inspetorias Regionais, a supervisão citada no "caput" deste artigo ficará a cargo de servidor, com as devidas qualificações, indicado pelo dirigente da Unidade.
+
+
+Art. 7º - O CPD instruirá os servidores das Unidades, durante os treinamentos regulares, no uso dos procedimentos de segurança, bem como acompanhará a adoção dos mesmos.
+
+
+Art. 8º - Esta Portaria entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+
+
+
+
+CARLOS ÁTILA ALVARES DA SILVA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre procedimentos de segurança envolvendo a utilização de microcomputadores.
+
+

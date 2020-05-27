@@ -1,0 +1,242 @@
+Resolução
+276/2016
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+considerando o disposto na Lei nº 12.527, de 18 de novembro de 2011, sobre o acesso à informação previsto na Constituição Federal;
+
+
+considerando a Resolução-TCU nº 254, de 10 de abril de 2013, que dispõe sobre a classificação da informação quanto à confidencialidade no âmbito do TCU;
+
+
+considerando a Política Corporativa de Segurança da Informação do TCU (PCSI/TCU) disposta em normativo específico do Tribunal;
+
+
+considerando os procedimentos para constituição, organização e tramitação de processos e documentos relativos à área de controle externo, nos termos definidos em normativo específico do TCU;
+
+
+considerando a implantação do processo eletrônico de controle externo (e-TCU) no âmbito do Tribunal;
+
+
+considerando a necessidade de regulamentar o acesso de autoridades e integrantes dos respectivos gabinetes a peças de processos de controle externo; e
+
+
+considerando os estudos e os pareceres constantes do processo TC 021.512/2013-2, resolve:
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º O acesso a peças de processos de controle externo por parte das autoridades do Tribunal de Contas da União (TCU) e integrantes dos respectivos gabinetes observará os critérios estabelecidos nesta Resolução.
+
+
+Art. 2º Para os efeitos desta Resolução, considera-se:
+
+
+I – peça sigilosa: peça processual que contenha informações classificadas em alguma das hipóteses de restrição de acesso previstas no parágrafo 3º do art. 8º da Resolução TCU 294/2018; (NR) (Resolução-TCU nº 294, de 18/4/2018, BTCU Especial nº 6/2018, DOU de 23/4/2018)
+
+
+
+II – peça pública: peça de processo que não se enquadre no conceito de peça sigilosa de que trata o inciso anterior;
+
+
+III - responsável por agir: unidade do Tribunal ou pessoa a quem incumbe realizar determinado ato, em dado momento, relativamente a um processo ou documento; 
+
+
+CAPÍTULO II
+
+
+DO ACESSO DE MINISTRO E MINISTRO-SUBSTITUTO DO TRIBUNAL
+
+
+Art. 3º Ministro e ministro-substituto terão acesso:
+
+
+I - a qualquer peça pública; e
+
+
+II - a qualquer peça:
+
+
+a) de processo de sua relatoria;
+
+
+b) de sua autoria ou de autoria de seu gabinete; 
+
+
+c) de processo em pauta de sessão colegiada do Tribunal;
+
+
+d) de processo no qual atuar como relator de recurso; 
+
+
+e) de processo do qual tenha pedido vista;  
+
+
+f) de processo sob responsabilidade por agir de seu gabinete;
+
+
+g) de processo ao qual se refira comunicação ou homologação de cautelar a ser proferida em sessão colegiada do Tribunal.
+
+
+§ 1º Os servidores lotados ou alocados temporariamente no gabinete do Presidente, do Corregedor, de ministro e de ministro-substituto terão acesso às peças de processo a que se refere o inciso II;
+
+
+ § 2º O chefe de gabinete do Presidente, do Corregedor, de ministro e de ministro-substituto e os servidores com atividade de assessoria, por ele indicados, lotados ou alocados temporariamente nessas unidades, terão acesso também às peças de processo a que se refere o inciso I;
+
+
+§ 3º O chefe de gabinete poderá conceder a terceirizado ou estagiário alocado no gabinete acesso às peças de processo a que se refere o inciso II, desde que sejam públicas;
+
+
+§ 4º Em caso de processos apensados, a regra de acesso mais abrangente se estende reciprocamente entre o processo principal e os a ele apensados.
+
+
+Art. 4º Ministro e ministro-substituto, ou pessoa por eles designada, poderão conceder acesso a qualquer peça de processo de controle externo de sua relatoria a outra autoridade ou servidor.
+
+
+CAPÍTULO III
+
+
+DO ACESSO DO MINISTÉRIO PÚBLICO JUNTO AO TCU
+
+
+Art. 5º O Ministério Público junto ao TCU terá acesso:
+
+
+I - a qualquer peça pública; e
+
+
+II - a qualquer peça:
+
+
+a) de processo no qual tenha atuado, inclusive por meio do exercício de representação;
+
+
+b) de processo sob sua responsabilidade por agir;
+
+
+c) de processo em pauta de sessão colegiada do Tribunal;
+
+
+d) de processo do qual tenha pedido vista; 
+
+
+e) de processo originador de cobrança executiva em que tenha responsabilidade por agir; 
+
+
+f) de processo ao qual se refira comunicação ou homologação de cautelar a ser proferida em sessão colegiada do Tribunal;
+
+
+g) de processo instaurado em decorrência de deliberações adotadas nos processos abrangidos pela alínea "a" deste inciso;
+
+
+h) de processo para os quais registre em sistema informatizado sua possível intenção de interpor recurso.
+
+
+§ 1º Os servidores lotados ou alocados temporariamente em gabinete de membro do Ministério Público junto ao TCU terão acesso às peças de processo a que se refere o inciso II;
+
+
+§ 2º O chefe de gabinete de membro do Ministério Público junto ao TCU e os servidores com atividade de assessoria, por ele indicados, lotados ou alocados temporariamente nessas unidades, terão acesso também às peças de processo a que se refere os incisos I;
+
+
+§ 3º O chefe de gabinete poderá conceder a terceirizado ou estagiário alocado no gabinete acesso às peças de processo a que se refere o inciso II, desde que sejam públicas;
+
+
+§ 4º Em caso de processos apensados, a regra de acesso mais abrangente se estende reciprocamente entre o processo principal e os a ele apensados.
+
+
+
+CAPÍTULO IV
+
+
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+
+Art. 6º A Secretaria de Soluções de Tecnologia da Informação (STI) procederá, no prazo de até 120 (cento e vinte) dias, aos ajustes necessários nas soluções de tecnologia da informação (soluções de TI) decorrentes do disposto nesta Resolução.
+
+
+Parágrafo único. No prazo mencionado no caput, a Secretaria de Soluções de Tecnologia da Informação (STI) deverá adotar procedimento de registro e rastreamento dos acessos a peças sigilosas, com a indicação da pessoa, da data da ocorrência e do processo pertinente.
+
+
+Art. 7º O uso inadequado do disposto nesta Resolução fica sujeito à apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 8º Fica o Presidente autorizado a expedir os atos necessários à regulamentação desta Resolução, dispor sobre o acesso de servidores, terceirizados e estagiários da Secretaria do Tribunal a peças de processos de controle externo, bem como dirimir os casos omissos.
+
+
+Art. 9º Aplica-se a peças de processos administrativos, no que couber, o disposto nesta Resolução.
+
+
+Art. 10 Esta Resolução entra em vigor na data de sua publicação.
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 17 de fevereiro de 2016.
+
+
+AROLDO CEDRAZ
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Redação anterior:
+
+
+
+.............................................. Por força da Resolução-TCU nº 294, de 18/4/2018...........................................
+
+
+
+
+
+Art. 2º (...)
+
+
+I – peça sigilosa: peça de processo cujo grau de confidencialidade se enquadre em alguma das hipóteses previstas nos parágrafos 2º, 3º e 4º do art. 5º da Resolução TCU 254/2013;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre o acesso a peças de processos de controle externo no âmbito dos gabinetes de autoridades do Tribunal de Contas da União.
+.............................................. Por força da Resolução-TCU nº 294, de 18/4/2018...........................................
+
+
+
+Art. 2º (...)
+
+I - peça sigilosa: peça de processo cujo grau de confidencialidade se enquadre em alguma das hipóteses previstas nos parágrafos 2º, 3º e 4º do art. 5º da Resolução TCU 254/2013;
+
+
+
+
+
+
+
+1
+

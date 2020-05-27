@@ -1,0 +1,181 @@
+Portaria
+211/2008
+
+
+O PRESIDENTE EM EXERCÍCIO DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais e tendo em vista o disposto no inciso XXXIV do art. 28 do Regimento Interno,
+
+
+Considerando o cumprimento dos objetivos específicos "diagnóstico da sistemática de tomada de decisão sobre sistemas" e "formulação de propostas para tomada de decisão sobre sistemas" previstos no escopo do GT Governança de TI, nos termos da Portaria-TCU nº 143, de 2 de junho de 2008;
+
+
+Considerando que o alcance dos demais objetivos específicos estipulados na Portaria-TCU nº 143, de 2008, ficou prejudicado em função da rescisão do Contrato nº 18/2008 e da conseqüente alteração no formato de execução das atividades do grupo de trabalho;
+
+
+
+
+Considerando que as propostas relativas à tomada de decisão sobre investimentos em sistemas de informação no TCU, resultantes dos workshops promovidos pelo GT Governança de TI, deverão ser amplamente discutidas e negociadas com as partes interessadas, antes de sua aprovação;
+
+
+Considerando a necessidade de se produzir novo termo de referência para contratação de avaliação de maturidade da governança de TI no Tribunal, com base nas recomendações do modelo Cobit; e
+
+
+Considerando a necessidade de se definir e implementar modelo preliminar de governança de TI, mesmo antes da conclusão da avaliação Cobit a ser contratada, de modo a promover a melhoria imediata de estruturas, processos de trabalho e controles relativos à governança de TI no Tribunal, resolve:
+
+
+Art. 1º O art. 2º da Portaria-TCU nº 143, de 2008, passa a vigorar com a seguinte redação:
+
+
+"Art. 2º Ficam indicados os servidores relacionados no quadro a seguir para compor o grupo de trabalho.
+
+
+
+
+
+Matr.
+
+Nome
+
+Lotação
+
+Dedicação
+
+Período
+
+5651-0
+
+FELÍCIO RIBAS TORRES 
+
+Secretaria-Geral da Presidência
+
+integral
+
+02/06 a 28/11/2008
+
+3165-8
+
+GLEDSON POMPEU CORRÊA DA COSTA 
+
+Secretaria de Tecnologia da Informação 
+
+integral
+
+02/06 a 28/11/2008
+
+2418-0
+
+MARISA RODRIGUES ALHO 
+
+Secretaria de Tecnologia da Informação
+
+integral
+
+02/06 a 14/09/2008
+
+parcial
+
+15/09 a 28/11/2008
+
+2439-2
+
+PAULO ANDRÉ MATTOS DE CARVALHO
+
+Secretaria de Tecnologia da Informação
+
+integral
+
+16/06 a 28/11/2008
+
+
+
+§1º Os servidores com dedicação integral participarão do grupo de trabalho com prejuízo do exercício das respectivas funções de confiança.
+
+
+§2º O ACE Gledson Pompeu Corrêa da Costa exercerá a coordenação do grupo de trabalho, sendo substituído, em suas ausências e afastamentos, pelo ACE Paulo André Mattos de Carvalho."
+
+
+
+Art. 2º O art. 3º da Portaria-TCU nº 143, de 2008, passa a vigorar com a seguinte redação:
+
+
+"Art. 3º O grupo de trabalho deverá observar os seguintes objetivos específicos, com respectivos prazos, para realização de suas atividades:
+
+
+
+Objetivo Específico
+
+Prazo
+
+a)
+
+Diagnóstico da sistemática de tomada de decisão sobre sistemas:
+
+Realizar workshop para diagnóstico do modelo atual de tomada de decisão sobre investimentos em sistemas de informação no TCU, envolvendo a identificação de estruturas, processos e atividades, bem como das principais dificuldades observadas.
+
+30/06/2008
+
+b)
+
+Formulação de propostas para tomada de decisão sobre sistemas:
+
+Realizar workshop para formulação e discussão de propostas preliminares relativas à definição de um novo modelo de tomada de decisão sobre investimentos em sistemas de informação no TCU.
+
+15/08/2008
+
+c)
+
+Validação da nova sistemática de gestão de soluções de TI:
+
+Apresentar, debater e validar, junto às partes interessadas, as propostas de alteração na Portaria-TCU nº 105, de 29 de maio de 2006, decorrentes das sugestões apresentadas durante os workshops, no que se refere à nova sistemática de gestão de soluções de TI, bem como os ajustes necessários na designação de unidades gestoras das soluções existentes.
+
+15/10/2008
+
+d)
+
+Preparação de nova licitação para avaliação de maturidade Cobit:
+
+Elaborar novo termo de referência e demais documentos necessários à contratação, por meio de pregão eletrônico, de empresa especializada para avaliação de maturidade da governança de TI no Tribunal, com base nas recomendações do modelo Cobit.
+
+31/10/2008
+
+e)
+
+Formalização de modelo preliminar de governança de TI:
+
+Elaborar e validar, junto às partes interessadas, minutas de normativos para formalização de modelo preliminar de governança de TI para o TCU, incluindo aspectos referentes à priorização e gestão de investimentos em soluções de TI e ao desenvolvimento de soluções departamentais, em consonância com as propostas apresentadas durante os workshops.
+
+14/11/2008
+
+f)
+
+Acompanhamento e apoio da nova licitação para avaliação de maturidade Cobit:
+
+Acompanhar e prestar apoio técnico aos procedimentos relativos à contratação da avaliação de maturidade Cobit, em especial no que se refere ao esclarecimento e à verificação do cumprimento das exigências técnicas contidas no termo de referência.
+
+28/11/2008
+
+g)
+
+Planejamento da implementação das propostas:
+
+Elaborar planos dos quais constem unidades responsáveis, partes envolvidas e prazos necessários para viabilizar a implementação do modelo preliminar de governança de TI, inclusive no que se refere às necessidades de estrutura organizacional (pessoal e funções de confiança) para o bom funcionamento do modelo proposto.”
+
+28/11/2008
+
+
+Art. 3º Esta Portaria vigorará da data de sua publicação até 28 de novembro de 2008.
+
+
+UBIRATAN AGUIAR
+
+
+Presidente
+
+
+
+
+
+
+Não consta revogação expressa
+Altera objetivos específicos e prazos do grupo de trabalho de governança de tecnologia da informação (GT Governança de TI).
+
+

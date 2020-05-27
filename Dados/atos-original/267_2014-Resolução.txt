@@ -1,0 +1,174 @@
+Resolução
+267/2014
+
+
+O VICE-PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, NA PRESIDÊNCIA, no uso das competências conferidas pelos arts. 29 e 31, inciso I, do Regimento Interno do Tribunal de Contas da União (TCU), e tendo em vista o disposto nos arts. 73 e 96 da Constituição Federal, no art. 1º, inciso XIV, da Lei nº 8.443, de 16 de julho de 1992, e no art. 1º, inciso XXXIII, do Regimento Interno do TCU,
+
+
+considerando o inciso II do art. 1º da Lei nº 8.906, de 4 de julho de 1994, que preconiza, como requisito de Consultor Jurídico, ser bacharel em Direito regularmente inscrito na Ordem dos Advogados do Brasil;
+
+
+considerando a oportunidade e conveniência de tornar a terminologia utilizada nesta Casa aderente àquela usual no Poder Executivo Federal, no qual o dirigente da Consultoria Jurídica é denominado Consultor Jurídico;
+
+
+considerando a importância de alinhar as atribuições da função de confiança de SecretárioGeral Adjunto aos novos requisitos advindos da evolução dos processos de trabalho corporativos;
+
+
+considerando a necessidade de adequar o funcionamento das instâncias institucionais de governança de tecnologia da informação ao novo modelo tecnológico proposto para o TCU; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-034.916/2014-8, resolve ad referendum do Tribunal Pleno:
+
+
+Art. 1º O art. 4º da Resolução-TCU nº 154, de 4 de dezembro de 2002, passa a vigorar com nova redação no item 8, nos seguintes termos:
+
+
+"Art. 4º (...)
+
+
+(...)
+
+
+8. Consultor Jurídico, código FC5;
+
+
+(...)"
+
+
+Art. 2º Fica alterada a Seção II do Capítulo I do Título III da Resolução-TCU nº 154, de 2002, que passa a denominar-se "Da função de confiança de Secretário-Geral Adjunto".
+
+
+Art. 3º Fica alterado o art. 41 da Resolução-TCU nº 154, de 2002, que passa a vigorar com a seguinte redação:
+
+
+"Art. 41. Aos Secretários-Gerais Adjuntos, além das atribuições descritas no art. 39 desta Resolução, incumbe: 
+
+
+I - coordenar e orientar o planejamento das atividades técnico-executivas necessárias ao exercício das competências da unidade;
+
+
+II - acompanhar, controlar e avaliar o desempenho das unidades afetas à sua área de atuação integrantes da respectiva Secretaria-Geral;
+
+
+III - sistematizar entendimentos sobre questões técnicas em sua área de atuação;
+
+
+IV - instruir consultas formuladas ao Tribunal em sua área de atuação, podendo ser ouvida as unidades competentes, e disseminar entendimentos firmados por deliberação do Tribunal;
+
+
+V - emitir notas técnicas, realizar estudos e pesquisas, desenvolver métodos, técnicas, padrões e rotinas de trabalho e coordenar a elaboração de normas, isoladamente ou em conjunto com outras unidades afetas à sua área de atuação integrantes da respectiva Secretaria-Geral;
+
+
+VI - gerenciar e zelar pela atualização dos sistemas de informação correlatos à sua atuação;
+
+
+VII - apoiar e assessorar, em questões afetas à sua área de atuação, a respectiva SecretariaGeral;
+
+
+VIII - propor designação ou dispensa de servidor do exercício de função comissionada no âmbito de sua unidade; e
+
+
+IX - praticar os demais atos necessários ao exercício das competências originárias da unidade e das competências a ela delegadas."
+
+
+Art. 4º O art. 9º da Resolução-TCU nº 247, de 7 de dezembro de 2011, que passa a vigorar com a seguinte redação:
+
+
+"Art. 9º Compete à Comissão de Coordenação Geral (CCG), para efeito do disposto nesta Resolução, assessorar o Presidente do TCU na formulação da Política de Governança de Tecnologia da Informação do Tribunal e das demais políticas inerentes à tecnologia da informação, bem como deliberar sobre matérias correlatas submetidas pelo coordenador do Comitê Gestor de Tecnologia da Informação (CGTI) consoante hipóteses previstas em normativo específico."
+
+
+Art. 5º O art. 10 da Resolução-TCU nº 247, de 2011, passa a vigorar com nova redação no caput e nos incisos II, IV e VI, nos seguintes termos:
+
+
+"Art. 10. Compete ao CGTI, com submissão à CCG nas hipóteses previstas em normativo específico:
+
+
+I - (...)
+
+
+II - aprovar os planos e os indicadores de desempenho de TI, bem como manifestar-se sobre a implementação das ações planejadas e a mensuração dos resultados obtidos;
+
+
+III - (...)
+
+
+IV - realizar, com base em critérios definidos em normativo específico, priorização corporativa das demandas que tratem do provimento centralizado e descentralizado de novas soluções de TI de natureza corporativa, assim como demandas de manutenção com impacto significativo sobre os planos de TI;
+
+
+V - (...)
+
+
+VI - avaliar periodicamente propostas de melhorias e ajustes julgados necessários, informações consolidadas sobre a situação da governança, da gestão e do uso de TI no Tribunal, em especial sobre:
+
+
+a) (...) 
+
+
+b) (...)
+
+
+c) (...)
+
+
+d) (...)
+
+
+e) (...)
+
+
+VII - (...)
+
+
+VIII - (...)"
+
+
+Art. 6º Ficam revogados os §§ 1º e 2º do art. 10 da Resolução-TCU nº 247, de 2011.
+
+
+Art. 7º Fica alterado o caput do art. 11 da Resolução-TCU nº 247, de 2011, que passa a vigorar com a seguinte redação:
+
+
+"Art. 11. Compete à Secretaria de Planejamento, Governança e Gestão (Seplan), para efeito do disposto nesta Resolução:"
+
+
+Art. 8º Fica alterado o caput do art. 12 da Resolução-TCU nº 247, de 2011, que passam a vigorar com a seguinte redação:
+
+
+"Art. 12. Compete à Adgeti, à Setic e à STI, observadas as respectivas áreas de atuação, para efeito do disposto nesta Resolução:"
+
+
+Art. 9º Fica revogado o art. 16 da Resolução-TCU nº 247, de 2011.
+
+
+Art. 10. Esta Resolução entra em vigor em 2 de janeiro de 2015.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AROLDO CEDRAZ
+
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Altera as Resoluções-TCU nº 154, de 4 de dezembro de 2002, que dispõe sobre as atribuições dos cargos e das funções de confiança do quadro de pessoal do Tribunal; e nº 247, de 7 de dezembro de 2011, que dispõe sobre a Política de Governança de Tecnologia da Informação do Tribunal de Contas da União.
+
+

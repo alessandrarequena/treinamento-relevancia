@@ -1,0 +1,164 @@
+Portaria
+69/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando o disposto nas Leis nº 9.609, de 19 de fevereiro de 1998 (lei do software), e nº 9.610, de 19 de fevereiro de 1998 (lei do direito autoral), e no Decreto nº 2.556, de 20 de abril de 1998, que atribuiu ao Instituto Nacional da Propriedade Industrial a competência para o registro de programas de computador;
+
+
+considerando o disposto na Portaria-TCU nº 349, de 12 de novembro de 2009, que dispõe sobre a designação e as atribuições do representante do Tribunal junto ao Instituto Nacional da Propriedade Industrial para fins de registro de programas de computador;
+
+
+considerando a necessidade de sistematização das regras de negócio afetas ao licenciamento de uso das soluções de tecnologia da informação pelo TCU; e
+
+
+considerando os estudos e os pareceres constantes do processo TC 029.605/2009-1, resolve:
+
+
+Art. 1º O registro e o licenciamento de uso de soluções de tecnologia da informação (soluções de TI) desenvolvidas no âmbito do Tribunal de Contas da União obedecem ao disposto nesta Portaria, observada a legislação vigente.
+
+
+Art. 2º Para efeito do disposto nesta Portaria, entende-se por:
+
+
+I – solução de TI de natureza corporativa (solução corporativa de TI): conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam a necessidades do TCU;
+
+
+II – solução de TI de natureza departamental (solução departamental de TI): conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados cujos benefícios ou usos se restrinjam a uma unidade específica do TCU, denominada unidade responsável; e
+
+
+III – unidade gestora de solução de TI: unidade do Tribunal responsável por definições relativas a processos de trabalho, regras de negócio, requisitos e utilização de uma ou mais soluções de TI, nos termos indicados na Portaria-TCU nº 276, de 18 de novembro de 2008.
+
+
+Art. 3º O TCU pode licenciar, em caráter não oneroso, sem fins comerciais, o uso de soluções de TI, corporativas ou departamentais, por ele desenvolvidas, a outros órgãos e entidades da Administração Pública, mediante celebração de contrato específico entre as partes interessadas.
+
+
+§ 1º A solução de TI objeto de licenciamento de uso não é colocada em domínio público, e sua titularidade, bem como os direitos de autoria continuam pertencendo ao TCU, independentemente de registro, de acordo com o art. 2º, caput e § 3º, da Lei nº 9.609, de 1998, e art. 7º, inciso XII, da Lei nº 9.610, de 1998.
+
+
+§ 2º Mediante autorização do Presidente, as soluções de TI desenvolvidas pelo TCU podem ser disponibilizadas no Portal do Software Público ou portal similar gerido pela Administração Pública, observados a necessidade de prévio registro da solução no Instituto Nacional da Propriedade Industrial (INPI) e os demais procedimentos legais. 
+
+
+Art. 4º O licenciamento de uso de solução de TI deve observar, entre outros, os seguintes requisitos:
+
+
+I – ocorrer somente após o protocolo de solicitação de registro da solução de TI no INPI;
+
+
+II – ter por finalidade colaborar para o cumprimento das competências constitucionais e legais dos licenciados, de modo a contribuir para o aperfeiçoamento da Administração Pública;
+
+
+III – propiciar o fornecimento de soluções de TI específicas de controle externo preferencialmente para órgãos e entidades que atuem na área de controle e fiscalização da gestão pública;
+
+
+IV – poder contemplar a transferência não-onerosa, ao licenciado, dos conhecimentos tecnológicos que originaram o código-fonte, constituídos dos arquivos-fonte dos programas, da especificação das tabelas, do modelo de dados e da documentação da solução objeto do licenciamento;
+
+
+V – facultar, ao licenciado, o estudo da arquitetura da solução e a adaptação do programa às suas necessidades, sem fins comerciais, sendo vedado a ele o registro – ou qualquer forma equivalente de proteção ou apropriação – da solução de TI, das derivações oriundas das modificações ou de qualquer aspecto destas;
+
+
+VI – não implicar exclusividade ao licenciado no uso da solução de TI objeto do licenciamento; e
+
+
+VII – não autorizar o licenciado a ceder ou distribuir, locar ou comercializar a terceiros, a qualquer título, parte ou a integralidade da solução de que trata o objeto do licenciamento, inclusive a eventual versão por ele modificada.
+
+
+Art. 5º O licenciamento de uso de soluções de TI – e seu respectivo contrato – é aprovado e assinado pelo Presidente, após manifestação da Comissão de Coordenação Geral (CCG) quanto à oportunidade e conveniência.
+
+
+§ 1º O Presidente pode delegar a ministro, auditor ou servidor detentor de FC-6 e FC-5 a competência para assinar os contratos de que trata o caput deste artigo, nos termos e nos limites estabelecidos no respectivo ato de delegação.
+
+
+§ 2º É delegável, à Secretaria de Soluções de Tecnologia da Informação (STI), a manifestação a cargo da CCG a que se refere o caput deste artigo, consoante o disposto no ato de delegação.
+
+
+§ 3º O eventual fornecimento, a um licenciado, de novas versões da solução de TI não requer novo contrato de licenciamento, desde que, em exame prévio, fique caracterizado que a versão a ser cedida não contém alteração significativa de funcionalidades em relação à versão anteriormente licenciada.
+
+
+§ 4º O exame prévio a que se refere o parágrafo anterior deve ser realizado pela STI – para soluções corporativas de TI – e pela unidade responsável, sob orientação da STI – para soluções departamentais de TI.
+
+
+§ 5º O fornecimento de novas versões de solução de TI objeto de licenciamento deve obsevar os procedimentos dispostos nos §§ 2º, 3º e 4º do art. 8º desta Portaria.
+
+
+Art. 6º Incumbe à Secretaria-Geral da Presidência (Segepres) submeter à CCG as solicitações de licenciamento de uso de soluções de TI.
+
+
+§ 1º Para subsidiar o exame da CCG, as solicitações de licenciamento de uso devem conter, entre outros, os seguintes elementos:
+
+
+I – cópia do registro ou do protocolo de solicitação de registro no INPI efetuado pelo representante do TCU junto a esse Instituto;
+
+
+II – custos envolvidos – estimados pela STI, para soluções corporativas de TI; ou pela unidade responsável, sob orientação da STI, para soluções departamentais de TI – para adaptação do sistema para fins de compartilhamento – tais como, limpeza de tabelas, adequação do programa fonte para retirada de códigos de criptografia e identificação de usuário, bem como ajustes na documentação – e para as ações necessárias à transferência inicial de tecnologia ao licenciado;
+
+
+III – informações inerentes à STI e à Secretaria de Infraestrutura de Tecnologia da Informação (Setic) acerca de o compartilhamento da solução de TI requerer licenciamento conjugado de outros componentes de TI, com a respectiva especificação, se couber; e
+
+
+IV – manifestação da unidade gestora da solução de TI, com fulcro no inciso XVIII do art. 3º da Portaria-TCU nº 276, de 2008.
+
+
+§ 2º A CCG deve dar ciência de sua manifestação quanto à solicitação de licenciamento de uso à unidade gestora da solução de TI, STI, Setic e Assessoria de Segurança da Informação e Governança de TI (Assig).
+
+
+Art. 7º O protocolo de solicitação de registro da solução de TI de que trata o inciso I do § 1º do artigo anterior é efetivado, após autorização da CCG, pelo representante do TCU junto ao INPI indicado em ato do Presidente.
+
+
+§ 1º Para subsidiar a manifestação da CCG quanto ao pedido de registro de solução de TI no INPI, a Segepres deve encaminhar as seguintes informações:
+
+
+I – manifestação da unidade gestora quanto à viabilidade de registro da solução de TI; e
+
+
+II – estimativa da STI, para soluções de TI corporativas – ou da unidade responsável, sob orientação da STI, para soluções de TI departamentais – quanto aos prazos e custos inerentes ao registro da solução de TI.
+
+
+§ 2º O disposto no parágrafo anterior aplica-se também para o registro de novas versões de solução de TI anteriormente registrada.
+
+
+§ 3º Incumbem à STI, no âmbito de sua área de atuação, os procedimentos técnicos relacionados ao registro de soluções de TI e o apoio ao representante do TCU junto ao INPI nas atividades que se fizerem necessárias ao mencionado registro.
+
+
+§ 4º Cabe à STI – para soluções corporativas de TI – e à unidade responsável, sob orientação da STI – para soluções departamentais de TI verificar, anualmente, em razão do grau de mudanças efetuadas nos programas, a necessidade de registro de novas versões de softwares anteriormente registrados no INPI.
+
+
+Art. 8º Na hipótese de aprovação da solicitação de licenciamento de uso de solução de TI pela CCG, compete à Segepres providenciar, junto às unidades envolvidas, os demais procedimentos necessários à efetivação do licenciamento. 
+
+
+§ 1º As minutas relativas aos contratos de licenciamento são previamente submetidas pela Segepres ao exame da Consultoria Jurídica (Conjur).
+
+
+§ 2º Os procedimentos técnicos inerentes ao licenciamento – tais como, limpeza de tabelas, adequação do programa fonte para retirada de códigos de criptografia e identificação de usuário, bem como ajustes na documentação – incumbem à STI, para soluções corporativas de TI, e à unidade responsável, sob orientação da STI, para soluções departamentais de TI.
+
+
+§ 3º Na aplicação do parágrafo anterior, toda e qualquer informação que não for necessária ao funcionamento da solução de TI, ou que puder ser usada direta ou indiretamente para ferir a segurança da informação do TCU, deve ser retirada do código-fonte e da respectiva documentação.
+
+
+§ 4º Compete à respectiva unidade gestora da solução de TI o treinamento inicial ao licenciante.
+
+
+§ 5º O estabelecimento de novos licenciamentos de soluções de TI aproveitará, no que couber, as informações afetas à eficácia e à efetividade dos licenciamentos correlatos celebrados pelo TCU.
+
+
+Art. 9º O TCU pode utilizar soluções de TI fornecidas por outros órgãos e entidades públicos – inclusive alterações e aprimoramentos de solução cujo uso foi licenciado pelo Tribunal – mediante celebração de instrumento específico, manifestação prévia da CCG e observância, no que couber, do disposto neste normativo. 
+
+
+Art. 10. Cabe à CCG regulamentar os atos necessários à operacionalização desta Portaria e a dirimir os casos omissos.
+
+
+Art. 11. Aplica-se o disposto nesta Portaria, no que couber, aos licenciamentos de uso de soluções de TI já firmados. 
+
+
+Art. 12. Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Não consta revogação expressa
+Dispõe sobre o registro e o licenciamento de uso de soluções de tecnologia da informação desenvolvidas no âmbito do Tribunal de Contas da União.
+
+

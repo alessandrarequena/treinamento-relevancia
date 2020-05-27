@@ -1,0 +1,68 @@
+Portaria
+65/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+considerando o estabelecido na Resolução-TCU nº 211, de 11 de junho de 2008, que dispõe sobre a celebração e o acompanhamento de acordos de cooperação e delega à Secretaria-Geral da Presidência a competência para assessorar o Presidente e demais autoridades do TCU na coordenação das atividades afetas aos instrumentos de cooperação firmados pelo Tribunal;
+
+
+considerando a disponibilização dos dados do Cadastro de Pessoas Físicas e do Cadastro Nacional de Pessoas Jurídicas no âmbito do TCU, nos termos do acordo de cooperação firmado entre o Tribunal de Contas da União e a Receita Federal do Brasil, em 04 de julho de 2000, com redação dada pelo aditivo celebrado em 03 de julho de 2007;
+
+
+considerando as diretrizes, os objetivos, os princípios e as definições constantes da Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação;
+
+
+considerando o disposto no artigo 5º, inciso III, da Resolução-TCU nº 229, de 11 de novembro de 2009, que trata da classificação das informações sigilosas no âmbito do TCU; e
+
+
+considerando o disposto na Portaria-TCU nº 276, de 18 de novembro de 2008, que estabelece as competências das unidades gestoras de soluções corporativas de tecnologia da informação do TCU, resolve:
+
+
+Art. 1º O acesso aos dados constantes das bases do Cadastro de Pessoas Físicas (CPF) e do Cadastro Nacional de Pessoas Jurídicas (CNPJ) ocorre mediante solução corporativa de tecnologia da informação (solução de TI), cuja gestão incumbe à Secretaria-Geral de Controle Externo (Segecex) e o provimento à Secretaria de Solução de Tecnologia da Informação (STI).
+
+
+Art. 2º Cabe à Secretaria de Infraestrutura de Tecnologia da Informação (Setic), juntamente com a unidade gestora da solução de TI, e com apoio da Secretaria-Geral da Presidência (Segepres), promover ações coordenadas junto aos mantenedores das bases cadastrais de CPF e CNPJ visando à regular e correta atualização das bases citadas.
+
+
+Art. 3º O uso da solução de TI é restrita às autoridades e servidores do TCU que tenham ao seu encargo atividades que exijam consultas aos dados de CPF e CNPJ, e o respectivo acesso se dará mediante concessão de perfil específico, de acordo com critérios estabelecidos pela unidade gestora da respectiva solução de TI.
+
+
+Art. 4º As seguintes hipóteses de utilização indevida da solução de TI constituem não-observância aos dispositivos da Política Corporativa de Segurança da Informação (PCSI/TCU), consoante o art. 17 da Resolução-TCU, nº 217, de 2008, e implicam, de forma isolada ou cumulativa, responsabilização administrativa, civil e penalmente, nos termos da legislação aplicável:
+
+
+I - acesso não autorizado, com indícios de fraude, sabotagem ou espionagem;
+
+
+II - acesso não motivado por necessidade de serviço;
+
+
+III - disponibilização voluntária ou acidental da senha de acesso;
+
+
+IV - disponibilização não autorizada de informações contidas na solução de TI;
+
+
+V - quebra de sigilo relativo a informações contidas na solução de TI; e
+
+
+VI - outras utilizações em desacordo com as normas de segurança estabelecidas pela PCSI/TCU.
+
+
+Art. 5º Na hipótese de denúncia do acordo de cooperação firmado entre o TCU e a Receita Federal do Brasil para acesso pelo Tribunal aos dados das bases do CPF e do CNPJ, bem como de alteração das cláusulas contidas no mencionado instrumento, a Segepres deve cientificar, tempestivamente, a Segecex, a Setic e a STI para adoção de providências cabíveis.
+
+
+Art. 6º Incumbe à Segecex expedir os atos necessários à regulamentação deste normativo e a dirimir os casos omissos.
+
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Não consta revogação expressa
+Dispõe sobre o acesso aos dados do Cadastro de Pessoas Físicas (CPF) e do Cadastro Nacional de Pessoas Jurídicas (CNPJ), no âmbito do Tribunal de Contas da União (TCU).
+
+

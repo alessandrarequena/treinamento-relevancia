@@ -1,0 +1,380 @@
+Portaria
+325/2011
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições legais e regimentais, e tendo em vista o disposto no art. 57 da Resolução-TCU nº 233, de 4 de agosto de 2010,
+
+
+considerando a implantação institucional de sistemática processual baseada na utilização de documentos arquivados em meio eletrônico com vistas a facilitar o acesso da sociedade aos serviços prestados pelo Tribunal e aprimorar o atendimento oferecido aos cidadãos;
+
+
+considerando a edição da Instrução Normativa nº 68, de 25 de outubro de 2011, que dispôs sobre o recebimento de documentos pelo Tribunal;
+
+
+considerando a importância de padronizar e sistematizar as novas práticas de trabalho afetas ao recebimento de documentos e à gestão documental advindas das inovações introduzidas pela Instrução Normativa nº 68, de 2011;
+
+
+considerando os procedimentos, no âmbito do Tribunal, para recebimento, autuação e tramitação de processos e documentos dispostos na Resolução-TCU nº 191, de 21 de junho de 2006, ressalvados os requisitos específicos ao meio eletrônico estabelecidos na Resolução-TCU nº 233, de 2010; e
+
+
+considerando os estudos e os pareceres constantes dos processos TC 025.580/20105 e TC 037.601/20113, resolve:
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES INICIAIS
+
+
+Art. 1º O recebimento e a gestão de documentos e objetos protocolados junto ao Tribunal de Contas da União (TCU) obedecerão ao disposto nesta Portaria, observada a legislação vigente.
+
+
+Art. 2º Para os fins desta norma, entende-se por:
+
+
+I - documento: qualquer documento oficial - com finalidade institucional - custodiado pelo TCU;
+
+
+II - custodiante: pessoa ou unidade do TCU que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+III - original: documento - registro de fato que se quer preservar - originalmente produzido e autenticado pelo autor e conservado no suporte e formato em que foi emitido, com os devidos sinais de validação;
+
+
+IV - cópia: documento duplicado de forma fiel a partir do original por meio da utilização de diferentes métodos, observando-se que a cópia pode ser autenticada por terceiro mediante, por exemplo, autenticação do tipo "confere com o original";
+
+
+V - segunda via: reprodução exata do documento original, com fidelidade de grafismo e de aparência do original;
+
+
+VI - gestão documental: conjunto de procedimentos que objetiva garantir a produção, a manutenção e a preservação, ao longo do tempo, de documentos fidedignos, autênticos, acessíveis e compreensíveis, independentemente da forma ou do suporte em que a informação resida;
+
+
+VII - certificação digital: conjunto de procedimentos que asseguram a integridade das informações e a autoria das ações realizadas em meio eletrônico, mediante assinatura eletrônica;
+
+
+VIII - assinatura eletrônica: registro realizado eletronicamente por usuário identificado de modo inequívoco com vistas a firmar determinado documento com sua assinatura;
+
+
+IX - unidades: secretarias-gerais e suas unidades integrantes, unidade de controle externo e unidades de assessoramento a autoridade, em consonância com a estrutura da Secretaria do Tribunal disposta em normativo específico;
+
+
+X - unidade competente: unidade que detém atribuição institucional afeta ao assunto principal tratado em determinado documento;
+
+
+XI - guarda temporária: guarda de documento para o qual, em função da natureza, está previsto procedimento de descarte após cumprido o respectivo prazo de retenção; e
+
+
+XII - prazo de retenção: intervalo de tempo durante o qual o documento produz efeitos administrativo e legal plenos de modo a cumprir a finalidade que determinou sua produção, e após o qual será descartado.
+
+
+Parágrafo único. Aplicam-se ao documento original, à cópia e à segunda via, os princípios de segurança da informação afetos à confidencialidade, disponibilidade e integridade, nos termos previstos na Resolução-TCU nº 217, de 15 de outubro de 2008.
+
+
+CAPÍTULO II
+DO PROTOCOLO DE DOCUMENTOS E OBJETOS NO TCU
+
+
+Art. 3º Os documentos serão recebidos pelo TCU em meio eletrônico mediante serviço de protocolo eletrônico no Portal TCU.
+
+
+§ 1º Até a entrada em funcionamento do serviço de protocolo eletrônico ou na impossibilidade de o interessado fazer o envio em meio eletrônico, os documentos devem ser protocolados mediante recebimento, pelo TCU, de cópia ou segunda via em papel dos originais, salvo quando a entrega do original for exigível pela legislação consoante as hipóteses indicadas no Anexo I a esta Portaria.
+
+
+§ 2º O setor responsável pelo protocolo entregará ao remetente comprovante de recebimento de documento em papel, emitido por solução de tecnologia de informação do TCU, no qual constará aviso sobre o descarte de cópia ou de segunda via após o prazo de retenção previsto nesta Portaria.
+
+
+§ 3º Os documentos protocolados junto ao TCU devem ser classificados, mediante uso de solução de tecnologia da informação do Tribunal, quanto a requisitos inerentes à gestão documental e à segurança da informação, em especial no que tange à confidencialidade, em consonância com a Resolução-TCU nº 229, de 11 de novembro de 2009.
+
+
+Art. 4º Serão tratados como segunda via os documentos em papel protocolados no TCU, exceto quando houver o recebimento de termo original de contrato, acordo de cooperação ou instrumento congênere, de cópia, bem como de original cuja entrega é exigida pela legislação.
+
+
+§ 1º Não incumbe ao TCU providenciar cópia em papel de documento a ser protocolado em suas dependências, excetuando-se os casos previstos em lei.
+
+
+§ 2º Na hipótese de recebimento postal de original em papel sem cópia ou segunda via, a unidade ou setor competente, de posse do documento devidamente protocolado, providenciará a cópia em papel e a devolução via postal, de imediato, do original ao remetente, anexando orientação de que remessas futuras de documentos devem observar o disposto na Instrução Normativa nº 68, de 25 de outubro de 2011.
+
+
+§ 3º Na aplicação do parágrafo anterior, quando for impossível a identificação do remetente, a unidade ou setor competente não realizará cópia e utilizará o original.
+
+
+Art. 5º Quando do protocolo, os documentos em papel serão convertidos para o meio eletrônico.
+
+
+§ 1º Objetos cuja digitalização não seja tecnicamente possível podem ser convertidos em arquivo eletrônico por meios alternativos, tais como captura de vídeo, imagem fotográfica ou áudio, de modo a viabilizar a inserção nos autos eletrônicos, cabendo a posterior devolução desses objetos ao respectivo fornecedor.
+
+
+§ 2º Na hipótese de o arquivo eletrônico a que se refere o parágrafo anterior apresentar formato que inviabilize o exame no âmbito dos autos eletrônicos, o objeto deve ser identificado como documento físico vinculado ao processo e enviado à unidade competente para guarda e posterior devolução ao fornecedor ou descarte.
+
+
+§ 3º Cabe ao Serviço de Gestão Documental do Instituto Serzedello Corrêa elaborar e distribuir, após aprovação da Comissão Permanente de Avaliação de Documentos, guia específico com os procedimentos para guarda, devolução ou descarte de objeto protocolado no TCU cuja digitalização não seja tecnicamente viável.
+
+
+§ 4º Os documentos eletrônicos resultantes da conversão a que se refere o caput, após certificação digital que garanta a fidedignidade da versão eletrônica, têm a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.
+
+
+Art. 6º Aplica-se aos documentos em papel recebidos pelo TCU procedimento idêntico para protocolo e conversão em meio eletrônico, independentemente de constituírem, ou não, peças processuais de autos eletrônicos ou em papel.
+
+
+Art. 7º O protocolo e a conversão de documentos em papel para o meio eletrônico devem observar os procedimentos e os controles de segurança da informação previstos no TCU, em especial, aqueles relativos à confidencialidade nos termos da Portaria-TCU nº 124, de 3 de maio de 2010
+
+
+§ 1º Após o protocolo e a conversão em meio eletrônico, o documento em papel de natureza sigilosa será encaminhado em envelope fechado à respectiva unidade competente.
+
+
+§ 2º As denúncias, declarações de bens e rendas e outros documentos em papel, que por sua natureza devam ser de conhecimento restrito e requeiram tratamento especial, serão recebidos e identificados como sigilosos e observarão procedimentos específicos de tramitação definidos para esse fim.
+
+
+Art. 8º Os procedimentos para protocolo no TCU e conversão em meio eletrônico de documentos em papel são os estabelecidos em guia específico, cuja elaboração e distribuição incumbem à Secretaria-Adjunta de Soluções e Sistemas Corporativos em parceria com o Serviço de Protocolo e Expedição da Secretaria de Engenharia e Serviços Gerais.
+
+
+Art. 9º Após protocolados e convertidos para o meio eletrônico, os documentos serão encaminhados à respectiva unidade ou setor competente.
+
+
+CAPÍTULO III
+DA GUARDA E DO DESCARTE DOS DOCUMENTOS E OBJETOS PROTOCOLADOS NO TCU
+
+
+Art. 10. Compete ao interessado a guarda, pelo prazo legal pertinente, do documento original cuja cópia ou segunda via em papel for protocolada junto ao TCU.
+
+
+Art. 11. O prazo de retenção de cópia ou de segunda via em papel é de seis meses contados da data de protocolo no Tribunal e a retenção de documento original em papel segue o disposto na Portaria-TCU nº 108, de 6 de maio de 2005.
+
+
+Art. 12. O descarte de documento contempla a sua exclusão do acervo do Tribunal, após avaliação e o cumprimento do prazo de retenção, e pode envolver, entre outros procedimentos, fragmentação e doação de original, cópia ou segunda via, observados os termos e os limites indicados na Portaria-TCU nº 108, de 2005.
+
+
+Parágrafo único. O descarte de documento em papel de natureza sigilosa deve ser realizado de tal forma que a informação nele contida não possa ser recuperada.
+
+
+Art. 13. Incumbe à unidade custodiante efetivar a organização documental, a guarda temporária e o descarte, após o prazo de retenção, de cópia ou segunda via em papel protocolada no TCU, observados os procedimentos previstos no Anexo II a esta Portaria.
+
+
+Parágrafo único. O descarte dos papéis de que trata o caput custodiados por unidades localizadas em Brasília pode ser realizado pelo Serviço de Gestão Documental do Instituto Serzedello Corrêa, de acordo com o cronograma estabelecido pela Comissão Permanente de Avaliação de Documentos.
+
+
+Art. 14. Para original em papel protocolado no TCU, compete à unidade custodiante, observados os procedimentos indicados no Anexo III a esta Portaria, efetivar a organização documental, a guarda pelo período determinado no mencionado Anexo III e o posterior envio ao Serviço de Gestão Documental do Instituto Serzedello Corrêa para guarda ou descarte nos termos da Portaria-TCU nº 108, de 2005.
+
+
+Art. 15. Na organização documental de original, cópia ou segunda via em papel que gerou peça de processo eletrônico, a unidade custodiante deve identificar a qual número de processo está associado o referido documento em papel.
+
+
+Art. 16. O descarte de original, cópia ou segunda via de documento em papel protocolado no TCU e inserto, em caráter excepcional, em processo em papel será realizado pelo Serviço de Gestão Documental do Instituto Serzedello Corrêa, observados o prazo de retenção afeto ao referido processo e os procedimentos dispostos na Portaria-TCU nº 108, de 2005.
+
+
+Art. 17. A guarda e o descarte de papel pela unidade custodiante devem observar os procedimentos de segurança e os controles relativos ao tratamento de informações quanto à confidencialidade, disponibilidade e integridade dispostos na Portaria-TCU nº 124, de 2010, e eventuais orientações emanadas pelo Comitê de Segurança da Informação.
+
+
+CAPÍTULO IV
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 18. Aos documentos em papel produzidos no âmbito do TCU aplica-se, no que couber, o disposto nesta Portaria.
+
+
+Art. 19. Fica autorizado o procedimento de descarte, após o prazo de seis meses contados da data de protocolo no TCU, para cópia ou segunda via de documento em papel convertida para o meio eletrônico, a partir de 2008, para fins de constituição de peça em processo eletrônico, desde que confirmada a devida certificação digital que garanta a fidedignidade da versão eletrônica do documento.
+
+
+Parágrafo único. O descarte referido no caput será realizado conforme orientação emanada pelo Serviço de Gestão Documental do Instituto Serzedello Corrêa, e envolve trabalho prévio da unidade custodiante no qual restarão identificadas a cópia e a segunda via de documentos em sintonia com os conceitos indicados nesta Portaria.
+
+
+Art. 20. Compete à Secretaria-Geral de Administração a distribuição de fragmentadoras a todas as unidades do TCU com vistas a possibilitar o descarte de documentos e a adoção de medidas adicionais de segurança da informação, observado prévio levantamento de necessidades.
+
+
+Art. 21. Incumbe à Secretaria de Comunicação promover, interna e externamente ao TCU, a divulgação das inovações contidas na Instrução Normativa nº 68, de 2011, e nesta Portaria, com subsídio nas informações repassadas pelas Secretaria-Adjunta de Soluções e Sistemas Corporativos e Secretaria-Adjunta de Administração.
+
+
+Parágrafo único. A Secretaria de Soluções de Tecnologia da Informação, em parceria com a Secretaria-Adjunta de Soluções e Sistemas Corporativos, deve incluir, por determinado período, mensagem nas comunicações processuais com vistas à divulgação da Instrução Normativa nº 68, de 2011.
+
+
+Art. 22. Ato do Presidente do TCU definirá as regras para descarte de documentos e processos eletrônicos após aprovação do Plano de Preservação de Documentos Eletrônicos previsto na Resolução-TCU nº 233, de 2010.
+
+
+Art. 23. O uso indevido do protocolo e da gestão documental fica sujeito à apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 24. Incumbe à Comissão de Coordenação Geral atualizar os Anexos a esta Portaria, ouvidos, se necessário, a Consultoria Jurídica e o Comitê de Segurança da Informação.
+
+
+§ 1º A alteração do Anexo I ocorrerá mediante demanda formulada pela unidade diretamente envolvida e homologada pela respectiva secretaria-geral.
+
+
+§ 2º O ajuste dos Anexos II e III requer proposta prévia da Comissão Permanente de Avaliação de Documentos.
+
+
+Art. 25. Fica a Comissão de Coordenação Geral autorizada a expedir os atos necessários à regulamentação da presente norma e a dirimir os casos omissos.
+
+
+Art. 26. Esta Portaria entra em vigor em 2 de janeiro de 2012.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+
+ANEXO I À PORTARIA-TCU Nº 325, DE 16 DE DEZEMBRO DE 2011
+
+
+
+ENTREGA DE DOCUMENTO ORIGINAL EXIGIDA PELA LEGISLAÇÃO
+
+Documento fiscal de comprovação de despesa - como nota fiscal, fatura ou recibo - que fundamente pagamento a fornecedor do Tribunal, ressarcimento e restituição de responsabilidade do TCU, bem como prestação de contas de suprimento de fundos concedidos a servidor do Tribunal
+
+Documento comprobatório recebido pela Secretaria de Gestão de Pessoas para fins de contagem de tempo de serviço de autoridade ou servidor do TCU 
+
+
+
+
+
+ANEXO II À PORTARIA-TCU Nº 325, DE 16 DE DEZEMBRO DE 2011
+
+
+
+PROCEDIMENTOS DA UNIDADE CUSTODIANTE PARA ORGANIZAÇÃO DOCUMENTAL, GUARDA TEMPORÁRIA E DESCARTE DE CÓPIA OU SEGUNDA VIA 
+DE DOCUMENTO EM PAPEL PROTOCOLADA NO TCU
+
+
+Após receber cópia ou segunda via em papel devidamente protocolada, a unidade custodiante deve realizar as seguintes ações:
+
+
+I - quanto à organização documental e à guarda temporária:
+
+
+a) na hipótese de ter sido gerada peça em processo eletrônico, vincular a cópia ou segunda via em papel ao respectivo processo por meio da anotação manual do número do TC no canto superior direito do documento;
+
+
+b) arquivar a cópia ou segunda via em ordem cronológica de recebimento e acondicioná-la em caixa-arquivo, envelope ou capa de processo referente ao ano corrente, fixando o rótulo de "cópia ou segunda via"; e
+
+
+c) armazenar a cópia ou a segunda via durante o período de seis meses a contar da data de protocolo, observando que para aquela de natureza sigilosa devem ser tomadas medidas de proteção lógica e física que garantam o acesso exclusivo dos usuários autorizados e que lhe seja aposta, também, rotulação de "sigiloso", em consonância com a Portaria-TCU nº 124, de 2010.
+
+
+II - quanto ao descarte:
+
+
+a) após o período de seis meses a que se refere a alínea "c" do item I, providenciar o descarte;
+
+
+b) seguir os métodos e especificações de descarte orientados pelo Serviço de Gestão Documental do Instituto Serzedello Corrêa e pela Comissão Permanente de Avaliação de Documentos;
+
+
+c) realizar o descarte da cópia ou segunda via em papel de natureza sigilosa de tal forma que a informação nela contida não possa ser recuperada;
+
+
+d) na hipótese de descarte por fragmentação, observar que:
+
+
+d.1) a fragmentação poderá ser realizada pela unidade custodiante, por empresa ou por entidade sem fins lucrativos;
+
+
+d.2) os papéis fragmentados serão destinados à reciclagem mediante doação a entidades sem fins lucrativos ou por meio de venda;
+
+
+d.3) previamente à fragmentação devem ser retirados elementos como bailarinas, clipes e espirais dos documentos, bem como separadas as folhas brancas das coloridas;
+
+
+d.4) se a fragmentação não for realizada pela unidade custodiante, servidor da unidade deve acompanhar todo o procedimento e receber o termo de fragmentação emitido pela empresa ou entidade responsável;
+
+
+d.5) se houver venda do material fragmentado, receber o comprovante de depósito na conta única do Tesouro, de número 3000100001188557, do valor arrecadado com a reciclagem dos papéis;
+
+
+d.6) em caso de doação, coletar o comprovante pertinente junto à entidade beneficiada;
+
+
+d.7) deve ser autuado processo administrativo eletrônico no qual constarão o termo de fragmentação e, se couber, o comprovante de depósito feito na conta única do Tesouro ou o comprovante de doação; e
+
+
+d.8) tendo sido cumprido o objetivo dos autos, o processo a que se refere a alínea anterior deve ser encerrado e arquivado na unidade custodiante.
+
+
+
+ANEXO III À PORTARIA-TCU Nº 325, DE 16 DE DEZEMBRO DE 2011
+
+
+
+PROCEDIMENTOS DA UNIDADE CUSTODIANTE PARA ORGANIZAÇÃO DOCUMENTAL E GUARDA POR PRAZO DETERMINADO DE ORIGINAL EM PAPEL PROTOCOLADO NO TCU
+
+
+
+Após receber original em papel devidamente protocolado, a unidade custodiante deve realizar as seguintes ações quanto à organização documental e à guarda temporária:
+
+
+a) na hipótese de ter sido gerada peça em processo eletrônico, vincular o original em papel ao respectivo processo por meio da anotação manual do número do TC no canto superior direito do documento;
+
+
+b) arquivar o original em papel em ordem cronológica de recebimento e acondicioná-lo em caixa-arquivo, envelope ou capa de processo referente ao ano corrente, destacando que se trata de "documento original", observando que:
+
+
+b.1) as caixas devem ser ordenadas de acordo com o número e o ano, como por exemplo, caixa 1/2011, 2/2011 e assim sucessivamente;
+
+
+b.2) para documentos que ocuparem mais de uma caixa, indicar no campo "quantidade de caixas da etiqueta" o número total de caixas do conjunto documental, como por exemplo, 1 de 3, 2 de 3, 3 de 3;
+
+
+b.3) a cada novo ano reiniciar a numeração da caixa, a exemplo de 1/2012 e 2/2012; e
+
+
+b.4) para o original de natureza sigilosa devem ser tomadas medidas de proteção lógica e física que garantam o acesso exclusivo dos usuários autorizados e ser aposta, também, rotulação de "sigiloso", em consonância com a Portaria-TCU nº 124, de 2010.
+
+
+c) armazenar o original em papel pelo prazo de:
+
+
+c.1) um ano a contar da data de encerramento do processo, para documento que gerou peça em autos eletrônicos; e
+
+
+c.2) um ano a contar da data de protocolo, para documento que não gerou peça em processo eletrônico e nem em papel.
+
+
+d) findo o prazo estabelecido na alínea "c", encaminhar o original em papel para o Serviço de Gestão Documental do Instituto Serzedello Corrêa, para fins de guarda ou descarte nos termos indicados na Portaria-TCU nº 108, de 2005;
+
+
+e) o encaminhamento de que trata a alínea anterior de original sigiloso deve seguir as regras de proteção dispostas em normativos específicos;
+
+
+f) se a unidade custodiante optar por realizar o descarte do original em papel em suas dependências, deve-se:
+
+
+f.1) efetivar o descarte somente após cumprido o prazo de retenção disposto na Portaria-TCU nº 108, de 2005;
+
+
+f.2) seguir os métodos e especificações de descarte orientados pelo Serviço de Gestão Documental do Instituto Serzedello Corrêa e pela Comissão Permanente de Avaliação de Documentos;
+
+
+f.3) realizar o descarte do original em papel de natureza sigilosa de tal forma que a informação nela contida não possa ser recuperada;
+
+
+f.4) na hipótese de descarte por fragmentação, observar que:
+
+
+f.4.1) a fragmentação poderá ser realizada pela unidade custodiante, por empresa ou por entidade sem fins lucrativos;
+
+
+f.4.2) os papéis fragmentados serão destinados à reciclagem mediante doação a entidades sem fins lucrativos ou por meio de venda;
+
+
+f.4.3) previamente à fragmentação devem ser retirados elementos como bailarinas, clipes e espirais dos documentos, bem como separadas as folhas brancas das coloridas;
+
+
+f.4.4) se a fragmentação não for realizada pela unidade custodiante, servidor da unidade deve acompanhar todo o procedimento e receber o termo de fragmentação emitido pela empresa ou entidade responsável;
+
+
+f.4.5) se houver venda do material fragmentado, receber o comprovante de depósito na conta única do Tesouro, de número 3000100001188557, do valor arrecadado com a reciclagem dos papéis;
+
+
+f.4.6) em caso de doação, coletar o comprovante pertinente junto à entidade beneficiada;
+
+
+f.4.7) deve ser autuado processo eletrônico no qual constarão o termo de fragmentação, a guia de descarte aprovada pela Comissão Permanente de Avaliação de Documentos, a cópia da ata de reunião da Comissão na qual a referida guia foi aprovada e, se couber, o comprovante de depósito feito na conta única do Tesouro ou o comprovante de doação; e
+
+
+f.4.8) tendo sido cumprido o objetivo dos autos, o processo a que se refere a alínea anterior deve ser encerrado e arquivado na unidade custodiante.
+
+
+Revogada
+Dispõe sobre o recebimento e a gestão de documentos e objetos protocolados junto ao Tribunal de Contas da União.
+
+

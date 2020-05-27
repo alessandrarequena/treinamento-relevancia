@@ -1,0 +1,129 @@
+Decisão Normativa
+10/1995
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o art. 95 do Regimento Interno, e 
+
+
+Considerando a competência conferida ao Tribunal de Contas da União, pelo art. 71, II, da Constituição Federal, pelos arts. 1º, I, 3º e 7º, da Lei nº 8.443, de 16 de julho de 1992, e pelos arts. 1º, I, 143 e 144 do seu Regimento Interno e o disposto no parágrafo único do art. 28 da Instrução Normativa nº 06/94-TCU, resolve "ad referendum" do Plenário:
+
+
+Art. 1º Fica instituído o Projeto Piloto de Informatização dos processos simplificados de Tomada de Contas.
+
+
+Art. 2º A Secretaria de Informática da Secretaria-Geral de Controle Externo do Tribunal será responsável pelo desenvolvimento e supervisão do Sistema de Apoio à Instrução de Contas - Sainco, que possibilitará a coleta, a instrução e o julgamento das contas com o auxílio de meios informatizados.
+
+
+Art. 3º O acesso ao Sainco pelas Unidades Jurisdicionadas ao Tribunal e pelos respectivos Órgãos de Controle Interno será realizado por meio de terminais da rede Serpro - Serviço Federal de Processamento de Dados.
+
+
+Art. 4º As demonstrações financeiras e o rol de responsáveis das Unidades Jurisdicionadas participantes do projeto piloto serão extraídos diretamente do Sistema Integrado de Administração Financeira do Governo Federal - Siafi e transmitidos ao computador central do Tribunal pela Secretaria do Tesouro Nacional - STN, até 28 de fevereiro do ano seguinte ao que se referem as contas.
+
+
+§ 1º As demonstrações financeiras e o rol de responsáveis serão disponibilizados no Sainco, para serem examinados pelos Órgãos de Controle Interno, no prazo máximo de cinco dias úteis contados a partir do seu recebimento.
+
+
+§ 2º Os Órgãos de Controle Interno deverão:
+
+
+I - averiguar as demonstrações financeiras no Sainco, registrando no sistema notas explicativas, quando necessário;
+
+
+II - verificar, no Sainco, o rol de responsáveis das Unidades sob sua jurisdição;
+
+
+III - solicitar, quando verificar incorreções, as medidas necessárias ao seu saneamento, providenciando junto à STN a retransmissão ao computador do Tribunal das peças eventualmente alteradas.
+
+
+Art. 5º As demais peças do processo, previstas na IN nº 06/94-TCU, serão elaboradas diretamente no Sainco, pelas Unidades Gestoras e pelos Órgãos de Controle Interno.
+
+
+Art. 6º  Concluída a elaboração das peças que compõem o processo de Tomada de Contas, o Órgão de Controle Interno deverá disponibilizá-lo para exame do Tribunal, dentro dos prazos determinados nos arts. 2º e 3º da IN nº 06/94-TCU, utilizando transação específica do Sainco.
+
+
+Art. 7º O Órgão de Controle Interno deverá cadastrar no Sainco as Unidades sob sua jurisdição, cujas contas estejam dentro do limite fixado na Decisão Normativa nº 09/95-TCU, até dez dias antes do fechamento do exercício financeiro no Siafi.
+
+
+Art. 8º O Órgão de Controle Interno será responsável pelo cadastramento de usuários no Sainco e pela distribuição de senhas de acesso, tanto para integrantes do seu quadro de pessoal, quanto para os das Unidades Gestoras de sua jurisdição, sob orientação da Secretaria de Informática da Secretaria-Geral de Controle Externo do Tribunal.
+
+
+Art. 9º O disposto nesta Decisão Normativa aplica-se aos processos simplificados de Tomada de Contas de que trata o art. 27 da IN nº 06/94-TCU, referentes ao exercício de 1995, das unidades da Administração Direta, situadas em Brasília-DF e vinculadas aos seguintes Ministérios, indicados pela Secretaria Federal de Controle:
+
+
+I - Ministério da Administração Federal e Reforma do Estado - MARE;
+
+
+II - Ministério da Agricultura, do Abastecimento e da Reforma Agrária - Maara;
+
+
+III - Ministério das Comunicações - MC;
+
+
+IV - Ministério da Cultura - MinC;
+
+
+V - Ministério Extraordinário dos Esportes - MESP;
+
+
+VI - Ministério da Indústria, do Comércio e do Turismo - MICT;
+
+
+VII - Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal - MMA;
+
+
+VIII - Ministério da Previdência e Assistência Social - MPAS;
+
+
+IX - Ministério das Relações Exteriores - MRE.
+
+
+Parágrafo único. Os processos que tiverem Tomadas de Contas Especiais anexadas, conforme o disposto no art. 8º, § 3º, da Lei nº 8.443/92, não serão formalizados por meios informatizados.
+
+
+Art. 10. Esta Decisão Normativa entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+TCU, Presidência, em 19 de dezembro de 1995.
+
+
+
+
+
+
+MARCOS VINICIOS VILAÇA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+
+
+
+Revogada pela Instrução Normativa nº 47, de 27/10/2004, BTCU nº 16/2004 Especial, DOU de 12/11/2004.
+
+
+
+
+
+
+
+
+
+
+Revogada
+Regulamenta o art. 28 da Instrução Normativa nº 06/94-TCU, no que se refere à formação e entrega dos processos simplificados de tomada de contas por meios informatizados.
+
+

@@ -1,0 +1,806 @@
+Decisão Normativa
+169/2018
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe confere o art. 161, parágrafo único, da Constituição Federal, o art. 2º, caput, da Lei Complementar 61, de 26 de dezembro de 1989 e o art. 1º, inciso VI, da Lei 8.443, de 16 de julho de 1992 (Lei Orgânica do Tribunal de Contas da União), e tendo em vista o disposto no art. 159, inciso II, da Constituição Federal, e nas Leis Complementares 61, de 26 de dezembro de 1989, e 65, de 15 de abril de 1991, bem assim o que consta no processo TC 018.435/2018-1, resolve:
+
+
+Art. 1º Ficam aprovados, na forma dos Anexos I a III desta Decisão Normativa, os coeficientes individuais dos Estados e do Distrito Federal destinados ao rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados, previsto no art. 159, inciso II, da Constituição Federal, para aplicação no exercício de 2019.
+
+
+Art. 2º As unidades federadas disporão de trinta dias, a partir da publicação desta Decisão Normativa, para apresentar contestação fundamentada, que poderá ser protocolada nas Secretarias de Controle Externo nos estados ou na Sede deste Tribunal, nos termos do art. 292 do Regimento Interno.
+
+
+Art. 3º Esta Decisão Normativa entra em vigor na data de sua publicação, produzindo efeitos financeiros a partir de 1º de janeiro de 2019.
+
+
+
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 25 de julho de 2018.
+
+
+RAIMUNDO CARREIRO
+
+
+Presidente 
+
+
+
+DECISÃO NORMATIVA  -  TCU  -  
+Não consta revogação expressa
+Aprova, para o exercício de 2019, os coeficientes individuais de participação dos Estados e do Distrito Federal nos recursos previstos no art. 159, inciso II, da Constituição Federal.
+
+ANEXO I
+
+
+
+IPI EXPORTAÇÃO - COEFICIENTES DE PARTICIPAÇÃO
+
+EXERCÍCIO 2019
+
+ 
+
+UF
+
+Unidade da Federação
+
+Coeficiente
+
+AC
+
+Acre
+
+0,014240%
+
+AL
+
+Alagoas
+
+0,037113%
+
+AP
+
+Amapá
+
+0,160280%
+
+AM
+
+Amazonas
+
+0,590296%
+
+BA
+
+Bahia
+
+4,406543%
+
+CE
+
+Ceará
+
+0,971043%
+
+DF
+
+Distrito Federal
+
+0,112038%
+
+ES
+
+Espírito Santo
+
+3,877403%
+
+GO
+
+Goiás
+
+2,384212%
+
+MA
+
+Maranhão
+
+1,494722%
+
+MT
+
+Mato Grosso
+
+1,475362%
+
+MS
+
+Mato Grosso do Sul
+
+1,979664%
+
+MG
+
+Minas Gerais
+
+11,260243%
+
+PA
+
+Pará
+
+6,470040%
+
+PB
+
+Paraíba
+
+0,074707%
+
+PR
+
+Paraná
+
+9,171670%
+
+PE
+
+Pernambuco
+
+1,562989%
+
+PI
+
+Piauí
+
+0,025219%
+
+RJ
+
+Rio de Janeiro
+
+17,551891%
+
+RN
+
+Rio Grande do Norte
+
+0,093609%
+
+RS
+
+Rio Grande do Sul
+
+9,974080%
+
+RO
+
+Rondônia
+
+0,397255%
+
+RR
+
+Roraima
+
+0,004670%
+
+SC
+
+Santa Catarina
+
+5,781431%
+
+SP
+
+São Paulo
+
+20,000000%
+
+SE
+
+Sergipe
+
+0,037997%
+
+TO
+
+Tocantins
+
+0,091283%
+
+T O T A L
+
+100,000000%
+
+
+
+
+
+
+
+
+
+DECISÃO NORMATIVA  -  TCU  -  ANEXO II
+
+IPI EXPORTAÇÃO - MEMÓRIA DE CÁLCULO DOS COEFICIENTES
+
+EXERCÍCIO 2019
+
+ 
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+(F)
+
+(G)
+
+(H)
+
+Unidade da Federação
+
+Valor das exportações jul/2017 a jun/2018 (US$ FOB) (*)
+
+Participação inicial
+
+Participação com trava (20%)
+
+Participação excedente
+
+Participação das UFs abaixo da trava
+
+Redistribuição do excedente
+
+Participação final
+
+AC - Acre
+
+16.880.533
+
+0,012057%
+
+0,012057%
+
+0,000000%
+
+0,012057%
+
+0,002182%
+
+0,014240%
+
+AL - Alagoas
+
+43.995.624
+
+0,031425%
+
+0,031425%
+
+0,000000%
+
+0,031425%
+
+0,005688%
+
+0,037113%
+
+AP - Amapá
+
+190.003.953
+
+0,135715%
+
+0,135715%
+
+0,000000%
+
+0,135715%
+
+0,024565%
+
+0,160280%
+
+AM - Amazonas
+
+699.765.542
+
+0,499826%
+
+0,499826%
+
+0,000000%
+
+0,499826%
+
+0,090470%
+
+0,590296%
+
+BA - Bahia
+
+5.223.730.767
+
+3,731189%
+
+3,731189%
+
+0,000000%
+
+3,731189%
+
+0,675353%
+
+4,406543%
+
+CE - Ceará
+
+1.151.121.672
+
+0,822219%
+
+0,822219%
+
+0,000000%
+
+0,822219%
+
+0,148824%
+
+0,971043%
+
+DF - Distrito Federal
+
+132.814.950
+
+0,094867%
+
+0,094867%
+
+0,000000%
+
+0,094867%
+
+0,017171%
+
+0,112038%
+
+ES - Espírito Santo
+
+4.596.462.261
+
+3,283146%
+
+3,283146%
+
+0,000000%
+
+3,283146%
+
+0,594257%
+
+3,877403%
+
+GO - Goiás
+
+2.826.361.570
+
+2,018804%
+
+2,018804%
+
+0,000000%
+
+2,018804%
+
+0,365408%
+
+2,384212%
+
+MA - Maranhão
+
+1.771.916.553
+
+1,265639%
+
+1,265639%
+
+0,000000%
+
+1,265639%
+
+0,229083%
+
+1,494722%
+
+MT - Mato Grosso
+
+1.748.965.892
+
+1,249246%
+
+1,249246%
+
+0,000000%
+
+1,249246%
+
+0,226116%
+
+1,475362%
+
+MS - Mato Grosso do Sul
+
+2.346.790.121
+
+1,676258%
+
+1,676258%
+
+0,000000%
+
+1,676258%
+
+0,303406%
+
+1,979664%
+
+MG - Minas Gerais
+
+13.348.441.964
+
+9,534482%
+
+9,534482%
+
+0,000000%
+
+9,534482%
+
+1,725762%
+
+11,260243%
+
+PA - Pará
+
+7.669.901.080
+
+5,478432%
+
+5,478432%
+
+0,000000%
+
+5,478432%
+
+0,991608%
+
+6,470040%
+
+PB - Paraíba
+
+88.561.628
+
+0,063258%
+
+0,063258%
+
+0,000000%
+
+0,063258%
+
+0,011450%
+
+0,074707%
+
+PR - Paraná
+
+10.872.544.957
+
+7,766006%
+
+7,766006%
+
+0,000000%
+
+7,766006%
+
+1,405664%
+
+9,171670%
+
+PE - Pernambuco
+
+1.852.843.824
+
+1,323443%
+
+1,323443%
+
+0,000000%
+
+1,323443%
+
+0,239546%
+
+1,562989%
+
+PI - Piauí
+
+29.895.696
+
+0,021354%
+
+0,021354%
+
+0,000000%
+
+0,021354%
+
+0,003865%
+
+0,025219%
+
+RJ - Rio de Janeiro
+
+20.806.868.314
+
+14,861862%
+
+14,861862%
+
+0,000000%
+
+14,861862%
+
+2,690029%
+
+17,551891%
+
+RN - Rio Grande do Norte
+
+110.968.087
+
+0,079262%
+
+0,079262%
+
+0,000000%
+
+0,079262%
+
+0,014347%
+
+0,093609%
+
+RS - Rio Grande do Sul
+
+11.823.761.465
+
+8,445438%
+
+8,445438%
+
+0,000000%
+
+8,445438%
+
+1,528643%
+
+9,974080%
+
+RO - Rondônia
+
+470.924.877
+
+0,336371%
+
+0,336371%
+
+0,000000%
+
+0,336371%
+
+0,060884%
+
+0,397255%
+
+RR - Roraima
+
+5.535.471
+
+0,003954%
+
+0,003954%
+
+0,000000%
+
+0,003954%
+
+0,000716%
+
+0,004670%
+
+SC - Santa Catarina
+
+6.853.590.919
+
+4,895361%
+
+4,895361%
+
+0,000000%
+
+4,895361%
+
+0,886071%
+
+5,781431%
+
+SP - São Paulo
+
+45.165.856.232
+
+32,260921%
+
+20,000000%
+
+12,260921%
+
+0,000000%
+
+0,000000%
+
+20,000000%
+
+SE - Sergipe
+
+45.043.922
+
+0,032174%
+
+0,032174%
+
+0,000000%
+
+0,032174%
+
+0,005824%
+
+0,037997%
+
+TO - Tocantins
+
+108.211.227
+
+0,077293%
+
+0,077293%
+
+0,000000%
+
+0,077293%
+
+0,013990%
+
+0,091283%
+
+T O T A L
+
+140.001.759.101
+
+100,000000%
+
+87,739079%
+
+12,260921%
+
+67,739079%
+
+12,260921%
+
+100,000000%
+
+
+(*) Obs: o valor informado corresponde ao valor dos produtos industrializados exportados para o exterior na proporção do ICMS que deixou de ser exigido em razão da não incidência prevista na alínea "a" do inciso X e da desoneração prevista na alínea "f" do inciso XII, ambos do § 2º do art. 155 da Constituição Federal (LC 65/91, art. 4º).
+
+
+
+
+
+
+
+
+
+DECISÃO NORMATIVA  -  TCU  -  ANEXO III
+
+
+IPI EXPORTAÇÃO - NOTA EXPLICATIVA
+
+
+EXERCÍCIO 2019
+
+
+
+Em cumprimento ao item 9.2 do Acórdão 196/2003-TCU-Plenário, são publicadas informações adicionais sobre o cálculo previsto no art. 159, inciso II, da Constituição Federal relativo aos coeficientes individuais de participação dos Estados e do Distrito Federal no rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados (IPI), fixados pela presente Decisão Normativa TCU.
+
+
+Para o cálculo dos coeficientes, devem ser observados os seguintes procedimentos:
+
+
+- os coeficientes para o rateio são calculados para aplicação no ano-calendário, ou seja, de janeiro a dezembro, tomando-se por base o valor em dólar norte-americano das exportações ocorridas nos doze meses antecedentes a primeiro de julho do ano imediatamente anterior (LC 61/89, art. 1º, § 3º);
+
+
+- a participação de cada unidade é limitada ao máximo de 20% (vinte por cento) do montante a ser distribuído, sendo o eventual excesso redistribuído entre os demais participantes, de forma proporcional às respectivas participações (CF, art. 159, e LC 61/89, art. 1º, § 4º).
+
+
+O Anexo I da presente Decisão Normativa TCU apresenta os coeficientes individuais de participação dos estados e do Distrito Federal no rateio da parcela de 10% (dez por cento) do produto da arrecadação do Imposto sobre Produtos Industrializados (IPI), enquanto o Anexo II apresenta a memória dos cálculos que produziram esses coeficientes. 
+
+
+As tabelas apresentadas foram construídas a partir dos preceitos legais e possuem as seguintes informações:
+
+
+
+1) TABELA "COEFICIENTES DE PARTICIPAÇÃO"
+
+
+
+
+"UF": sigla da Unidade da Federação (UF);
+
+
+
+"Unidade da Federação": nome por extenso da UF;
+
+
+
+"Coeficiente": coeficiente individual de participação de cada UF, em percentagem.
+
+
+
+2) TABELA "MEMÓRIA DE CÁLCULO DOS COEFICIENTES"
+
+
+
+
+"Unidade da Federação" (Coluna A) - sigla e nome da UF;
+
+
+
+"Valor das exportações jul/2017 a jun/2018 (US$ FOB)" (Coluna B) - valor dos produtos industrializados exportados para o exterior na proporção do ICMS que deixou de ser exigido em razão da não-incidência prevista na alínea "a" do inciso X e da desoneração prevista na alínea "f" do inciso XII, ambos do § 2º do art. 155 da Constituição Federal (LC 65/91, art. 4º) calculado com base no valor sem frete (free on board - FOB, livre a bordo), em dólares, das exportações realizadas no período de julho de 2017 a junho de 2018 pela UF, apurado pela Secretaria de Comércio Exterior do Ministério da Indústria, Comércio Exterior e Serviços - Secex/MDIC (LC 61/89, art. 1º, § 3º);
+
+
+
+"Participação inicial" (Coluna C) - percentual de participação de cada UF no valor total das exportações, sem limitação (cada elemento da coluna B dividido pelo total da coluna B);
+
+
+
+"Participação com trava (20%)" (Coluna D) - percentual de participação de cada UF no valor total das exportações, com limitação superior (trava) de 20% (cada elemento da coluna B dividido pelo total da coluna B, mantendo-se em 20% a participação da UF que ultrapassar esse percentual);
+
+
+
+"Participação excedente" (Coluna E) - percentual excedente aos 20% que será redistribuído entre os demais participantes;
+
+
+
+"Participação das UFs abaixo da trava" (Coluna F) - percentual de participação de cada UF que ficou abaixo da trava dos 20%;
+
+
+
+
+"Redistribuição do excedente" (Coluna G) - participação de cada UF na redistribuição do excedente, de forma proporcional à sua respectiva participação (cada elemento da coluna F dividido pelo total da coluna F e, em seguida, multiplicado pelo total da coluna E);
+
+
+
+"Participação final" (Coluna H) - coeficiente final de participação percentual de cada UF, que corresponde à soma das colunas D e G, com 6 casas decimais e total ajustado para exatos 100,000000%.
+
+
+

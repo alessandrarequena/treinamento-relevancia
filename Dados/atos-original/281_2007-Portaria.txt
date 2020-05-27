@@ -1,0 +1,532 @@
+Portaria
+281/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 12 de dezembro de 2008, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto Pessoa – Automação da Sistemática de Gestão de Pessoas, aprovado pela Portaria-TCU nº 143, de 11 de julho de 2005.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 3º Esta Portaria entra em vigor a partir de 1º de janeiro de 2008.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+Período do projeto
+
+Unidade patrocinadora
+
+Gestor do projeto
+
+11/07/2005 a 31/12/2007
+
+Segedam – Segep
+
+Geci Orione Goulart
+
+
+
+
+1.	Objetivo do projeto
+
+
+
+Efetuar manutenções corretivas, adaptativas e evolutivas nos sistemas GRH, Folha de Pagamento e Sipad.
+
+
+
+
+2.	Situação do projeto (em relação ao previsto na proposta)
+
+
+Execução em relação ao total do projeto
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+(    ) 41% a 80% executado
+
+( X ) acima de 80% executado
+
+Controle
+
+(    ) Execução adiantada
+
+( X ) Execução dentro do previsto
+
+(    ) Execução atrasada
+
+
+
+
+
+
+3.	Cumprimento de metas acordadas na proposta
+
+
+
+Produto
+
+Indicador
+
+Quanto
+
+Data de término
+
+Comentários
+
+a)
+
+Manutenção evolutiva do GRH
+
+Nº requisitos / total de requisitos
+
+100%
+
+30/09/2007
+
+ 
+
+b)
+
+Manutenção evolutiva do Sipad
+
+Nº requisitos / total de requisitos
+
+100%
+
+30/09/2007
+
+Dois requisitos foram cancelados pela Segep.
+
+c)
+
+Manutenção evolutiva da Folha
+
+Nº requisitos / total de requisitos
+
+100%
+
+21/12/2007
+
+ 
+
+
+
+
+4.	Atividade realizada fora do plano (se couber)
+
+
+Descrição
+
+Comentários
+
+ 
+
+---------------------
+
+ 
+
+
+
+
+5.	Dificuldade encontrada (se couber)
+
+
+Dificuldade
+
+Ação para saneamento
+
+ 
+
+---------------------
+
+ 
+
+
+
+
+6.	Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a)
+
+Redução de inconsistências nos sistemas de informação
+
+b)
+
+Melhora na qualidade dos produtos e das informações armazenadas nas bases de dados de pessoal
+
+c)
+
+Aumento na produtividade da gestão de pessoas 
+
+
+
+
+7.	Definição do formato da prorrogação
+
+
+
+Período da prorrogação
+
+01/01/2008 a 12/12/2008
+
+
+
+Justificativa da prorrogação
+
+Em virtude do acúmulo de lançamentos no GRH relativos a ajustes na freqüência, férias, afastamentos, substituições de função, recesso, entre outros, realizados nos cinco primeiros dias de cada mês por todos os serviços de administração (SA) do Tribunal, em novembro de 2007 a Segep solicitou ao projeto Pessoa que fosse criada uma nova solução de TI, com o objetivo de sanar o problema. 
+
+Com base nesta necessidade, a equipe do projeto Pessoa deu partida em dezembro de 2007 ao redesenho do atual controle eletrônico de freqüência. Tendo em vista a complexidade e a extensão desta solução, a previsão é de que o desenvolvimento de um novo produto leve cerca de doze meses para ser concluído.
+
+Além disso, será necessário manter parte da equipe do projeto no atendimento contínuo a demandas pontuais, no sentido de ajustar programas e dados utilizados pela área de pessoal.
+
+Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+---------------------
+
+
+
+
+
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+1.
+
+Planejamento das ações para 2008
+
+100%
+
+29/02/2008
+
+Visão geral dos produtos 
+
+Documento de visão e protótipos de telas e relatórios
+
+Segep
+
+2.
+
+Adequação da funcionalidade de gestão de substituições
+
+100%
+
+30/04/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de substituições
+
+Segep
+
+3.
+
+Adequação da funcionalidade de gestão de eventos realizados fora do Tribunal
+
+100%
+
+31/07/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de eventos realizados fora do Tribunal
+
+Segep
+
+4.
+
+Adequação da funcionalidade de gestão de dispensa de ponto eletrônico
+
+100%
+
+31/08/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de dispensa de ponto eletrônico
+
+Segep
+
+5.
+
+Adequação da funcionalidade de gestão de afastamento para gozo de férias
+
+100%
+
+31/05/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de afastamento para gozo de férias
+
+Segep
+
+6.
+
+Adequação da funcionalidade de gestão de afastamento por recesso regulamentar
+
+100%
+
+30/06/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de afastamento por recesso regulamentar
+
+Segep
+
+7.
+
+Adequação da funcionalidade de gestão de afastamentos para cuidado da saúde
+
+100%
+
+31/10/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de afastamentos para cuidado da saúde
+
+Segep
+
+8.
+
+Adequação da funcionalidade de gestão dos demais afastamentos regulamentares
+
+100%
+
+30/11/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão de afastamentos para cuidado da saúde
+
+Segep
+
+9.
+
+Adequação da funcionalidade de gestão de freqüência eletrônica
+
+100%
+
+12/12/2008
+
+Caso de uso implementado / total de casos de usos previstos
+
+Função de gestão dos demais afastamentos regulamentares
+
+Segep
+
+10.
+
+Atendimento corrente a demandas pontuais de natureza crítica
+
+100%
+
+12/12/2008
+
+Chamado atendido
+
+Produto por chamado
+
+Segep
+
+
+
+Não escopo (o que o projeto não vai fazer)
+
+a)
+
+---------------------
+
+
+
+Identificação das partes envolvidas no projeto (em relação a que)
+
+Nome da parte envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item negociado ou a negociar com as partes envolvidas
+
+a)
+
+Segep
+
+Patrocinador do projeto (responsável pela logística material e humana).
+
+b)
+
+Setec
+
+Responsável pela logística tecnológica.
+
+
+
+Custos estimados (registrar se houver alteração dos custos previstos na proposta)
+
+Recurso
+
+Valor estimado
+
+Data inicial de liberação do recurso
+
+a)
+
+---------------------
+
+ 
+
+ 
+
+Total de custos estimados
+
+ 
+
+ 
+
+
+
+
+
+
+
+Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+
+
+
+
+8.	Finalização
+
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+1.
+
+Alexandre Peixoto Figueira
+
+5523-9
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+2.
+
+Edmilson Faria Rodrigues
+
+6236-7
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+3.
+
+Geci Orione Goulart
+
+2982-3
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+4.
+
+Ilan Álisson Ferreira Pinheiro
+
+6721-0
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+5.
+
+Mauro Heuser Boamorte
+
+3374-0
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+6.
+
+Raimundo Eustáquio do Carmo
+
+3180-1
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+Integral
+
+7.
+
+Nove estagiários cedidos pela Segep
+
+--------
+
+Projeto Pessoa
+
+01/01/2008 a 12/12/2008
+
+4 horas/dia
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto Pessoa &#8211; Automação da Sistemática de Gestão de Pessoas.
+
+

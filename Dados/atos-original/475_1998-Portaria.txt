@@ -1,0 +1,3446 @@
+Portaria
+475/1998
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e
+
+
+Considerando a necessidade de estabelecer orientações específicas para instrução de matérias não contempladas pelos manuais de tomadas e prestações de contas e pelos demais instrumentos aplicáveis à atividade de auditoria;  
+
+
+Considerando as diretrizes estabelecidas pelo Plenário no sentido de que sejam desenvolvidos instrumentos que possibilitem a elaboração de instruções padronizadas e com maior objetividade por parte das unidades técnicas;
+
+
+Considerando a proposta apresentada pela Secretaria-Geral de Controle Externo, acrescida das sugestões da Comissão Técnica de Estudos, Normas e Procedimentos sobre Controle e Fiscalização, resolve:
+
+
+Art. 1º Fica aprovado o Manual de Orientação Técnica, na forma do Anexo a esta Portaria, destinado a subsidiar a instrução de processos e expedientes relativos a solicitações, comunicações de irregularidades, consultas e cobranças executivas. 
+
+
+Art. 2º A Secretaria de Informática - Seinf disponibilizará para as Secretarias de Controle Externo, na rede de computadores do Tribunal, os modelos de formulários contidos no Manual, e expedirá as instruções necessárias à sua utilização, sem prejuízo da imediata aplicabilidade dos mencionados modelos. 
+
+
+Art. 3º As unidades técnicas ficam autorizadas a fazer as adaptações pertinentes, em razão de hipóteses não contempladas pelo Manual. 
+
+
+Art. 4º A Segecex, mediante proposta das respectivas unidades técnicas e ouvida a Comissão Técnica de Estudos, Normas e Procedimentos sobre Controle e Fiscalização, poderá instituir novos modelos de formulários, com vistas às atualizações que se fizerem necessárias.
+
+
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+HOMERO SANTOS
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+SUMÁRIO___________________________________________________________
+
+
+
+
+
+
+Apresentação ............................................................................................................................. 7
+
+
+
+Solicitações do Congresso Nacional............................................................................................ 8
+
+
+para a realização de inspeções e auditorias ............................................................................. 8
+
+
+de informações.......................................................................................................................10
+
+
+
+Pedidos de informações e de cópias de processos........................................................................12
+
+
+
+Comunicação de irregularidades .................................................................................................15
+
+
+Representação .......................................................................................................................16
+
+
+Denúncia ...............................................................................................................................19
+
+
+
+Consulta......................................................................................................................................21
+
+
+
+Cobrança Executiva.....................................................................................................................23
+
+
+
+Formulários para instrução ..........................................................................................................26
+
+
+
+
+Não consta revogação expressa
+Aprova o Manual de Orientação Técnica.
+
+Anexo I – Jurisprudência .............................................................................................................45
+
+
+
+
+
+
+
+APRESENTAÇÃO____________________________________________________
+
+
+
+
+	O presente Manual de Orientação Técnica destina-se a subsidiar a instrução de processos e expedientes relativos a solicitações, comunicações de irregularidades, consultas e cobranças executivas.
+
+
+	A aprovação desse instrumento constitui-se em mais uma etapa da atual gestão no que se refere a prioridade conferida à elaboração e aprovação de ferramental adequado, objetivando racionalizar e simplificar o exame de expedientes e processos por parte das unidades técnicas.
+
+
+	Em harmonia com a meta acima referida, o presente Manual incorpora, ainda, o atendimento à diretriz estabelecida pelo Plenário no intuito de que sejam desenvolvidos instrumentos que possibilitem a elaboração de instruções padronizadas e com maior objetividade.
+
+
+	Nesse sentido, as orientações contidas neste trabalho vêm somar esforços com outras três iniciativas de grande envergadura, abrangendo, por conseguinte, o aperfeiçoamento dos procedimentos de análise da maior parte dos feitos que tramitam no Tribunal. 
+
+
+	As outras iniciativas a que me refiro são a atualização do Manual de Instrução de Tomada e Prestação de Contas, a concepção do Manual de Instrução de Processos de Tomada de Contas Especial e a modernização dos mecanismos de fiscalização. Essa última compreende a edição dos novos Manuais, Procedimentos, Roteiros e Técnicas de Auditoria, com a utilização, inclusive,  de sistema automatizado, o PROAUD.
+
+
+	Com a adoção de todos esses instrumentos, é grande a expectativa de que, contando com o valioso auxílio e incansável empenho dos profissionais que deles se utilizam no dia-a-dia, cumpra-se uma importante etapa na busca de uma metodologia mais eficaz do controle.
+
+
+	Importante consignar, contudo, que este Manual deve estar em constante processo de atualização e aperfeiçoamento. Para tanto é de fundamental importância a apresentação de críticas e sugestões por parte das Unidades Técnicas e dos servidores. 
+
+
+	Por último, deixo registrado, nesta oportunidade, o louvável esforço da equipe da SEGECEX e de todos os que contribuíram para o êxito deste trabalho. 
+
+
+
+
+
+
+
+
+
+
+HOMERO SANTOS
+
+
+
+
+
+
+
+
+
+
+
+1. SOLICITAÇÕES DO CONGRESSO NACIONAL______________________________
+
+
+
+
+Os expedientes provenientes do Congresso Nacional são autuados sob a forma de "Solicitação do Congresso Nacional - SCN" e encaminhadas à Secretaria-Geral de Controle Externo - SEGECEX, a qual compete, após exame preliminar, realizado diretamente ou com o auxílio das unidades técnicas, encaminhar o processo ao correspondente Relator, opinando pela forma de atendimento (cf. art. 30, caput, da Resolução n 77/96 - TCU). 
+
+
+
+
+1.1. PARA A REALIZAÇÃO DE INSPEÇÕES E AUDITORIAS____________________
+
+
+
+
+O Art. 71 da Constituição Federal estabelece:
+
+
+" O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+
+
+(... omissis ...)
+
+
+
+IV - realizar, por iniciativa própria, da Câmara dos Deputados, do Senado Federal, de comissão técnica ou de inquérito, inspeções ou auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades  administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso II;
+
+
+
+(... omissis ...)"
+
+
+
+Assim, muito embora várias solicitações nesse sentido sejam formuladas por diversos órgãos e entes da Administração Pública, tais como Ministério Público Federal, Prefeituras Municipais e Polícia Federal, o texto constitucional restringe ao Congresso Nacional, suas Casas e comissões, a competência para demandar ao TCU a realização de tais trabalhos.
+
+
+
+No que se refere à admissibilidade do pedido de realização de inspeção ou auditoria, o TCU está adstrito a atender, 
+exclusivamente
+, quando formulado pelo Congresso Nacional, por qualquer de suas Casas, ou pelas respectivas Comissões Técnicas ou de Inquérito, conforme prevê o texto constitucional, o inciso I do art. 38 da Lei n 8443/92 e o art. 184 do RITCU.
+
+
+
+Os pedidos de informações e as solicitações de auditorias ou inspeções, serão apreciados pelo Tribunal em caráter de urgência, conforme estabelece os arts. 142, incisos I e II, e 183 do Regimento Interno:
+
+
+"Art. 142. Consideram-se urgentes, e nessa qualidade terão tramitação preferencial, os papéis e processos referentes a:
+
+
+
+
+ I – solicitação de realização de inspeções e auditorias formulada pelo Congresso Nacional, por qualquer de suas Casas e por suas Comissões técnicas ou de inquérito;
+
+
+
+
+II – solicitação de informações e requisição de resultados de inspeções e auditorias, bem assim de pronunciamento conclusivo, formuladas nos termos dos incisos III, IV e V do art. 1º deste Regimento;
+
+
+
+(... omissis ...)"
+
+
+
+"Art. 183. O Tribunal apreciará, em caráter de urgência, os pedidos de informação e as solicitações previstos nos incisos II e V do art. 1º deste Regimento, que lhe forem endereçados pelo Congresso Nacional, por qualquer de suas Casas e por suas Comissões técnicas ou de inquérito.
+
+
+
+
+Parágrafo único. Na hipótese prevista no inciso IV do art. 1º deste Regimento, o pronunciamento conclusivo deste Tribunal deverá ser emitido no prazo de trinta dias contado da data do recebimento da solicitação."
+
+
+
+
+
+No caso de solicitações de inspeções ou auditorias que não tenham sido encaminhadas pelo Congresso Nacional, por  qualquer de suas Casas ou Comissões,  deve-se verificar a viabilidade de se conhecer do expediente como representação, quando formulado pelas autoridades previstas no art. 37A da Resolução nº 77/96 – TCU (incluído por meio da Resolução nº 110/98 – TCU.
+
+
+
+1.1.1 Exame inicial
+
+
+
+a) verificar o preenchimento dos requisitos de admissibilidade;
+
+
+b) verificar a existência de elementos que possam subsidiar a análise, tais como:
+
+
+- inspeções e auditorias já realizadas ou aprovadas;
+
+
+- existência de processo análogo em tramitação;
+
+
+- outros.
+
+
+c) análise da solicitação, levando-se em conta a viabilidade, materialidade, oportunidade, entre outros aspectos.
+
+
+
+1.1.2. Propostas de encaminhamento
+
+
+
+
+Expedientes do Congresso Nacional, qualquer de suas Casas ou Comissões
+
+
+
+a)  conhecer da solicitação, por preencher os requisitos previstos no inciso IV do art. 71 da Constituição Federal, no inciso I do art. 38 da Lei n 8443/92;
+
+
+b.1) realizar a inspeção/auditoria solicitada no(a) ...................;
+
+
+b.2) remeter ao interessado cópia das seguintes peças processuais .......;
+
+
+b.3) informar ao interessado .......;
+
+
+c.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+c.2) arquivar o presente processo.
+
+
+
+Demais expedientes 
+
+
+
+a) não conhecer da presente solicitação por não preencher os requisitos de admissibilidade previstos no inciso IV do art. 71 da Constituição Federal, no inciso I do art. 38 da Lei n 8443/92;
+
+
+b) esclarecer ao  interessado que este Tribunal,  por imposição  constitucional, legal  e regulamentar  (cf. inciso IV do Art. 71 da Constituição Federal; inciso II do art. 1 e inciso I do art. 38 da Lei n 8443/92 e arts. 183 e 184 do RITCU), está adstrito a atender, exclusivamente, pedido de realização de auditorias e inspeções que tenha sido aprovado pelo Congresso Nacional, por qualquer de suas Casas, ou pelas respectivas Comissões Técnicas ou de Inquérito;
+
+
+c) acolher como Representação a solicitação formulada;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+
+
+
+
+
+
+
+
+1.2. DE INFORMAÇÕES_____________________________________________________ 
+
+
+
+
+A Constituição Federal prevê, ainda:
+
+
+"O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+
+
+(... omissis ...)
+
+
+
+VII – prestar as informações solicitadas pelo Congresso Nacional, por qualquer de suas Casas, ou por qualquer das respectivas comissões, sobre a fiscalização contábil, financeira, orçamentária, operacional ou patrimonial e sobre resultados de auditorias e inspeções realizadas;
+
+
+
+(... omissis ...)"
+
+
+
+O comando constitucional é reafirmado na Lei Orgânica do Tribunal (inciso II do art. 38) e no Regimento Interno (arts. 183 e 184).
+
+
+
+A tramitação desses processos está prevista nos arts. 30 a 33 da Resolução nº 77/96 – TCU, como se segue, notadamente no art. 31:
+
+
+
+"Art. 30. As solicitações feitas pelo Congresso Nacional, por qualquer de suas Casas ou por suas Comissões Técnicas ou de Inquérito serão autuadas e encaminhadas à Secretaria-Geral de Controle Externo – SEGECEX, a qual, após exame preliminar quanto a aspectos operacionais, realizado diretamente ou com o auxílio das unidades técnicas, encaminhará o processo ao Relator de cuja Lista  conste o órgão ou entidade envolvido, opinando sobre a forma de atendimento à solicitação.
+
+
+
+
+Parágrafo único. Aplicam-se as disposições deste artigo às solicitações formuladas pelo Ministério Público da União, nos termos do art. 26, inciso I, letra "b", da Lei 8.625/93, e pelos demais órgãos com legitimidade para tanto.
+
+
+
+
+
+Art. 31. A solicitação de informações originárias dos órgãos mencionados no artigo anterior, sobre trabalhos já realizados e apreciados pelo Tribunal, deverá ser encaminhada à unidade técnica competente, para juntada ao respectivo processo, instrução e posterior encaminhamento à Presidência, via SEGECEX, acompanhada, se for o caso, de minuta de aviso.
+
+
+
+
+Parágrafo único. Na hipótese prevista neste artigo, caberá à Presidência atender à solicitação, sendo dispensada a apreciação do Plenário.
+
+
+
+
+
+Art. 32. Quando as solicitações de que  trata esta Seção se referirem a matéria objeto de processo considerado sigiloso, o atendimento deverá conter informação quanto a essa condição.
+
+
+
+
+
+Art. 33. As solicitações de informações que não se enquadrem no disposto nesta Seção deverão seguir o preceituado nos §§ 1º e 2º do art. 9º."
+
+
+
+O parágrafo único do art. 30 estabelece que ao Ministério Público da União, e demais órgãos com legitimidade para tanto (entenda-se Poder Judiciário, Tribunais de Contas Estaduais e Advocacia-Geral da União), seja dado tratamento idêntico ao previsto para o Congresso Nacional, suas Casas e Comissões, quanto às solicitações de informações.
+
+
+
+
+Nesse sentido, a Resolução nº 36/95 – TCU estabelece:
+
+
+"Art. 30. Aos Tribunais de Contas Estaduais, Conselho de Contas dos Municípios, magistrados e membros do Ministério Público Federal, da Advocacia-Geral da União e do Departamento de Polícia Federal é facultada a obtenção de informações sobre processos em andamento no Tribunal, na forma prevista nas respectivas Leis Orgânicas.
+
+
+
+
+Parágrafo único. O Tribunal, ao fornecer as informações de que trata o "caput" deste artigo, deverá fazer constar na comunicação, se for o caso:
+
+
+
+
+I – a situação de andamento do processo;
+
+
+
+
+II – a natureza dos autos, quando se tratar de matéria sigilosa." 
+
+
+
+Tais processos serão encaminhados ao Ministro-Relator de cuja lista conste o órgão ou entidade de que se requer informações, quando referir-se de assunto ainda não apreciado pelo Tribunal. Em caso contrário, o atendimento será feito pela Presidência (parágrafo único do art. 31 da Resolução nº 77/96 - TCU), dispensada a apreciação do Plenário.
+
+
+
+Às solicitações de  origem diversa às previstas nos arts. 30 e 31 aplicar-se-á o previsto nos §§ 1º e 2º do art. 9º da Resolução nº 77/96 - TCU, ficando assente que a tramitação à Presidência deve restringir-se aos assuntos já apreciados pelo Tribunal.
+
+
+
+A Portaria TCU nº 331/98 prevê que, realizado o exame preliminar dos processos relativos a solicitações feitas pelo Congresso Nacional, por qualquer de suas Casas ou comissões, as Unidades Técnicas deverão submeter os autos diretamente ao Relator (cf. art. 2º, caput). 
+
+
+
+1.1.1 Exame inicial
+
+
+
+a) verificar o preenchimento dos requisitos de admissibilidade;
+
+
+b) verificar o estágio atual do processo de que se requer informações:
+
+
+- sigiloso ou ostensivo;
+
+
+- julgado ou não;
+
+
+- em fase recursal;
+
+
+- outros.
+
+
+c) verificar a existência de elementos que possam subsidiar a análise, tal como a existência de processo análogo em tramitação;
+
+
+d) análise da solicitação, levando-se em conta a viabilidade, materialidade, oportunidade, entre outros aspectos.
+
+
+
+1.1.2. Propostas de encaminhamento
+
+
+
+
+Expedientes do Congresso Nacional, qualquer de suas Casas ou Comissões
+
+
+
+a)  conhecer da solicitação, por preencher os requisitos previstos no inciso VII do art. 71 da Constituição Federal, no inciso II do art. 38 da Lei n 8443/92;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos;
+
+
+d) arquivar o presente processo.
+
+
+
+
+
+
+
+2. PEDIDOS DE INFORMAÇÕES E DE CÓPIAS DE PROCESSOS________________
+
+
+
+
+Além das solicitações provenientes do Congresso, os mais variados órgãos e entidades da Administração Pública, assim como pessoas físicas ou jurídicas, demandam informações ao TCU. A previsão legal para fornecimento de dados é vasta, entre elas a Lei Orgânica do Ministério Público Federal, o Convênio de Cooperação Técnica e Assistência Mútua celebrado entre o TCU e o MPF, o Protocolo de Cooperação entre a AGU e o TCU, os protocolos de cooperação mantidos com os Tribunais de Contas estaduais, além das resoluções internas.
+
+
+
+Para deferimento dos pedidos necessário se faz identificar o requerente. A concessão de cópias de peças do processo poderá ser autorizada quando o pedido vier de parte interessada nos autos, de procurador devidamente credenciado ou de autoridades que precisem das informações para desempenho de funções institucionais.
+
+
+
+O tratamento a ser dado aos pedidos de informações, salvo os provenientes do Congresso Nacional, está previsto no art. 9º da Resolução nº 77/96 – TCU:
+
+
+"Art. 9º. 
+
+Não serão autuados
+
+ os processos ou documentos encaminhados ao Tribunal quando se tratar de:
+
+
+(... omissis ...)
+
+
+
+III – pedido de informações relativas a processos em tramitação ou encerrados;
+
+
+
+(... omissis ...)
+
+
+
+§ 1º Os documentos de que tratam os incisos II e III deste artigo, relativos a processo encerrado ou a assuntos não processados, serão juntados ao processo a que se referem, se for o caso, e encaminhados pelas Unidades Técnicas à Presidência, via SEGECEX, com proposta sobre a forma de atendimento ou de adoção das medidas pertinentes, cabendo à presidência decidir sobre a matéria, ressalvado o disposto no § 4º deste artigo.
+
+
+
+
+§ 2º Os documentos de que tratam os incisos II e III deste artigo, relativos a processo em tramitação, serão juntados ao processo a que se referem, se for o caso, e encaminhados pelas Unidades Técnicas ao Relator, com proposta sobre a forma de atendimento ou de adoção das medidas pertinentes, ressalvado o disposto no § 4º deste artigo.
+
+
+
+(... omissis ...)" (grifo nosso).
+
+
+
+A Decisão nº 457/98 – Plenário reforçou que os pedidos de informações acima descritos, aí subentendidos os pedidos de cópias, não deverão ser autuados mas sim juntados ao processo a que se referem. 
+
+
+
+A Resolução nº 36/95 – TCU estabelece:
+
+
+"Art. 30. Aos Tribunais de Contas Estaduais, Conselho de Contas dos Municípios, magistrados e membros do Ministério Público Federal, da Advocacia-Geral da União e do Departamento de Polícia Federal é facultada a obtenção de informações sobre processos em andamento no Tribunal, na forma prevista nas respectivas Leis Orgânicas.
+
+
+
+
+Parágrafo único. O Tribunal, ao fornecer as informações de que trata o "caput" deste artigo, deverá fazer constar na comunicação, se for o caso:
+
+
+
+
+I – a situação de andamento do processo;
+
+
+
+
+II – a natureza dos autos, quando se tratar de matéria sigilosa." 
+
+
+
+Especificamente quanto à Advocacia-Geral da União, a Resolução nº 105/98 - TCU disciplina  o atendimento dos pedidos de informações dela provenientes para defesa dos interesses da União,  e estatui em seu art. 1º: 
+
+
+
+
+"O atendimento de solicitações de informações sobre processos do TCU, formuladas pela Advocacia-Geral da União com o objetivo de subsidiar a ação daquele órgão na defesa dos interesses da União, observará os procedimentos estabelecidos nesta Resolução, conforme se trate de:
+
+
+
+I – processos de cobrança executiva, organizados em decorrência de decisões adotadas pelo Tribunal no julgamento de prestações e tomadas de contas, inclusive especiais;
+
+
+
+II – processos de qualquer outra natureza, já apreciados ou julgados pelo Tribunal, com decisão definitiva ou terminativa (art. 10 da Lei nº 8.443/92);
+
+
+
+
+III - processos de qualquer outra natureza, em tramitação no Tribunal, que não tenham ainda sido objeto de decisão do Plenário ou de uma das Câmaras."
+
+
+
+Quando o pedido fizer alusão a processo de cobrança executiva ou qualquer outro já apreciado ou julgado pelo Tribunal, consoante citação supra, o prazo máximo para atendimento é de dez dias, contados do seu recebimento, se outro não for estipulado pela autoridade solicitante, devendo a resposta ser encaminhada pela Presidência da Casa, nos termos do art. 2º da Resolução nº 105/98 – TCU. No caso previsto pelo inciso III (processos em tramitação), o pedido será encaminhado de imediato, juntamente com o processo a que se refere, ao gabinete do Relator competente.
+
+
+
+Com a intenção de agilizar a instrução e a tramitação dos processos de solicitação de cópias procedentes da Advocacia-Geral da União, do Poder Legislativo, do Poder Executivo, do Poder Judiciário, do Ministério Público e de autoridades policiais, foi publicada a Portaria TCU nº 331, de 22/6/98, que conferiu prioridade à instrução desses processos (sem prejuízo do que dispõe o art. 142 do RITCU). Essa Portaria previu, ainda, que tais solicitações, quando referirem-se a matéria em tramitação no Tribunal, serão remetidas, após a devida instrução pela Unidade Técnica, diretamente ao Relator. Da mesma forma, quando a proposta da Unidade Técnica previr o envio de comunicação da Presidência, os autos deverão ser remetidos diretamente à Presidência para tal fim, consoante estipula a Portaria TCU nº 384/98. 
+
+
+
+2.1 Exame inicial
+
+
+
+a) verificar o preenchimento dos requisitos de admissibilidade;
+
+
+b) verificar o estágio atual do processo de que se requer informações:
+
+
+- sigiloso ou ostensivo;
+
+
+- julgado ou não;
+
+
+- em fase recursal;
+
+
+- outros.
+
+
+c) verificar a existência de elementos que possam subsidiar a análise, tal como a existência de processo análogo em tramitação;
+
+
+d) análise da solicitação, levando-se em conta a viabilidade, materialidade, oportunidade, entre outros aspectos.
+
+
+
+2.2. Propostas de encaminhamento
+
+
+
+Expedientes do Ministério Público
+
+
+
+a) conhecer da solicitação, nos termos do inciso II do art. 8 da Lei Complementar n 75/93; da alínea b do inciso I do art. 26 da Lei n 8625/93; da cláusula segunda do Convênio de Cooperação Técnica e Assistência Mútua celebrado entre o TCU e o MPF e do art. 30 da Resolução n 36/95 -TCU;
+
+
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos;
+
+
+
+
+Expedientes da Advocacia-Geral da União
+
+
+
+a) conhecer da solicitação, nos termos do art. 4º da Lei nº 9.028/95, do Protocolo de Cooperação entre a AGU e o TCU, do art. 30 da Resolução n 36/95 - TCU e do estabelecido pela Resolução nº 105/98 - TCU;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado cópia das seguintes peças processuais ......;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos;
+
+
+
+Expedientes dos Tribunais de Contas Estaduais, Conselhos de Contas Municipais, magistrados e membros do Departamento da Polícia Federal
+
+
+
+a) conhecer da solicitação, nos termos do art. 30 da Resolução n 36/95 - TCU;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos;
+
+
+
+Demais expedientes
+
+
+
+a.1) não conhecer da presente solicitação, tendo em vista que o requerente não é parte interessada no processo de que requer cópia;
+
+
+a.2) não conhecer da presente solicitação por não preencher os requisitos regimentais e constitucionais de atendimento;
+
+
+b) informar ao interessado .....;
+
+
+
+
+
+
+
+3. COMUNICAÇÃO DE IRREGULARIDADES__________________________________
+
+
+
+
+O Art. 74 da Constituição Federal estatui:
+
+
+
+"Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+
+
+(... omissis ...)
+
+
+
+§ 1º  Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.
+
+
+
+
+§ 2º  Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União."
+
+
+
+É constitucional, portanto, a garantia de se comunicar ao TCU a ocorrência de irregularidades ou ilegalidades. 
+
+
+
+Segundo o § 4º do art. 9º da Resolução nº 77/96 – TCU,  "a comunicação que relatar qualquer irregularidade ou ilegalidade que deva ser apurada pelo Tribunal será encaminhada ao Gabinete do Relator que decidirá, de acordo com o estabelecido nos artigos 37 e 42 desta Resolução, pelo autuação como 
+
+denúncia
+
+ ou 
+
+representação
+
+, observadas as demais disposições contidas nas seções II e III do capítulo VI desta Resolução, devendo o fato ser informado ao autor da comunicação" (grifo nosso). 
+
+
+
+Nessa linha de encaminhamento, o art. 42 da mesma Norma estatui:
+
+
+"A comunicação de que trata o § 4º do art. 9º desta Resolução será encaminhada ao Gabinete do Relator que decidirá, atendidos os requisitos de admissibilidade, pela autuação como Representação, 
+
+quando assinada por quem não esteja legitimado a denunciar
+
+, nos termos do Art. 74, § 2º, da Constituição Federal, podendo o Relator determinar a tramitação em caráter sigiloso.
+
+
+
+
+Parágrafo único. No caso de inadmissibilidade, aplica-se o disposto no § 5º do art. 9º desta Resolução, facultada ao Relator a possibilidade de determinar, por despacho, o arquivamento da representação, dando-se ciência ao signatário." (grifo nosso).
+
+
+
+Como se vê, existe a possibilidade de a comunicação não ser admissível como denúncia ou representação. Nesse caso, poderá o Relator determinar outras medidas ou encaminhá-la à consideração da Presidência (cf. § 5º do art. 9º da Resolução nº 77/96 – TCU). 
+
+
+
+3.1. REPRESENTAÇÃO______________________________________________________
+
+
+
+
+ A Representação é a comunicação de irregularidades ou ilegalidades feita por quem deva fazê-lo por dever de ofício ou por quem não esteja legitimado a denunciar, conforme dispõe o art. 42 da Resolução nº 77/96 – TCU.
+
+
+
+O art. 37A da Resolução nº 77/96 – TCU (cuja redação foi alterada pela Resolução nº 110/98 – TCU) define:
+
+
+"Serão autuados como Representação os expedientes originários:
+
+
+
+
+I – do Ministério Público da União, remetidos nos termos do art. 6º, inciso XVIII, alínea "c", da Lei Complementar nº 75/93;
+
+
+
+
+II – dos órgãos de Controle Interno, remetidos em cumprimento ao Art. 74, § 1º, da Constituição Federal;
+
+
+
+
+III – dos Senadores da República, Deputados Federais, Estaduais e Distritais, Juízes, servidores públicos ou outras autoridades que comuniquem a ocorrência de irregularidades de que tenham tido conhecimento em virtude do cargo que ocupem;
+
+
+
+
+IV – de Tribunais de Contas dos Estados e do Distrito Federal, Conselhos de Contas Municipais, Câmaras Municipais e Ministério Público Estadual;
+
+
+
+
+V – de equipe de inspeção ou de auditoria, nos termos do art. 209 do Regimento Interno;
+
+
+
+
+VI – de unidade técnica do Tribunal, nos termos do art. 36 desta Resolução;
+
+
+
+
+VII – de outras origens que devam revestir-se dessa forma por força de lei específica.
+
+
+
+
+
+§1º 
+
+Aplicam-se às representações os dispositivos constantes do art. 142, V, § 3º do art. 212 e art. 213 e seu Parágrafo único do Regimento Interno
+
+.
+
+
+
+
+§2º  As representações serão encaminhadas às unidades técnicas competentes para que seja verificado o preenchimento dos requisitos de admissibilidade, instrução e posterior encaminhamento ao Relator.
+
+
+
+
+§3º A representação de que trata o inciso V deste artigo será considerada de natureza urgente, tendo tramitação preferencial.
+
+
+
+
+§4º O Relator determinará, mediante despacho fundamentado, o arquivamento das Representações que, após as diligências pertinentes, se revelem improcedentes." (grifo nosso).
+
+
+
+Assim, como se depreende do texto regulamentar, às representações será dada tramitação preferencial, quando revelar a ocorrência de fato grave, sendo que, quando referir-se à fiscalização de atos e contratos, observará o disposto nos arts. 194 a 197 do Regimento Interno. 
+
+
+
+Os requisitos de admissibilidade a serem observados coincidirão com os mesmos da denúncia, consoante citado acima,  a saber:
+
+
+"Art. 213. A denúncia 
+
+sobre matéria de competência do Tribuna
+
+l deverá 
+
+referir-se a administrador ou responsável sujeito a sua jurisdição, ser redigida em linguagem clara e objetiva, conter o nome legível do denunciante, sua qualificação e endereço, e estar acompanhada de indício concernente à irregularidade ou ilegalidade denunciada
+
+.
+
+
+
+
+Parágrafo único. O Relator ou  o Tribunal não conhecerá de denúncia que não observe os requisitos e formalidades prescritos no caput deste artigo, devendo o respectivo processo ser arquivado após comunicação ao denunciante." (grifo nosso)
+
+
+
+As representações formuladas por equipe de inspeção ou auditoria estão previstas no art. 209 do RITCU e serão formalizadas quando no curso dos trabalhos for constatado 
+
+
+
+
+
+procedimento de que possa resultar dano ao Erário ou irregularidade grave. O processo, composto de elementos concretos e convincentes, será encaminhado ao dirigente da Unidade que, com parecer conclusivo, submetê-lo-á ao Relator.
+
+
+
+Além disso, estão previstas em lei as representações formuladas por licitante, contratado, qualquer pessoa física ou jurídica, contra irregularidades na aplicação da Lei de Licitações (§ 1º do art. 113 da Lei nº 8.666/93, com as modificações introduzidas pela Lei nº 8.883/94). Nesses casos, os processos autuados serão remetidos à análise da unidade técnica competente, para observância quanto ao preenchimento dos requisitos de admissibilidade, instrução e posterior encaminhamento ao Relator (cf. §2º do art. 37A da Resolução nº 77/96 – TCU).
+
+
+
+A Unidade Técnica poderá, ademais, representar ao respectivo Relator a ocorrência de irregularidades denunciadas pela imprensa, conforme previsto na Resolução nº 77/96 – TCU:
+
+
+"art. 36. As denúncias veiculadas na imprensa, quando constatados pela unidade técnica competente, os indícios concernentes às irregularidades ou ilegalidades denunciadas, serão objeto de representação ao respectivo Relator, nos termos do art. 40 desta Resolução." 
+
+
+
+No que se refere à modalidade de representação acima citada, a Portaria TCU nº 068, de 3/2/97, regulamenta os procedimentos referentes ao exame de denúncias veiculadas pela imprensa.
+
+
+
+A Portaria TCU nº 331/98 prevê, em seu art. 4º, que as representações recebidas serão submetidas diretamente à consideração do Relator, após devidamente instruídas.
+
+
+
+3.1.1 Exame inicial
+
+
+
+a) verificar o preenchimento dos requisitos de admissibilidade. Nesse caso, além dos relativos à pessoa do representante, deve-se atentar para os previstos no art. 213 do RITCU, conforme prevê o § 1º do art. 37A da Resolução nº 77/96 - TCU;
+
+
+b) verificar a existência de processo análogo em tramitação;
+
+
+c) pesquisar a existência de elementos que possam subsidiar a análise, utilizando, dentre outros: SIAFI, legislação pertinente, contas de exercícios anteriores, JURIS. 
+
+
+d) análise da representação.
+
+
+
+3.1.2. Propostas de encaminhamento
+
+
+
+
+Expedientes de órgãos ou autoridades legitimadas a representar perante o TCU, consoante previsto no art. 37A da Resolução nº 77/96 – TCU.
+
+
+
+a) conhecer da representação, formulada nos termos do ..................... e por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+Expedientes de licitante, contratado, pessoa física ou jurídica, apresentando irregularidades na aplicação da Lei nº8666/93
+
+
+
+a) conhecer da representação, formulada nos termos do § 1º do art. 113 da Lei nº 8666/93 e por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+
+
+Demais expedientes 
+
+
+
+a.1) conhecer da representação, por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+a.2)  não conhecer da presente representação, por não preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+c.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+c.2) arquivar o presente processo.
+
+
+
+3.2 DENÚNCIA_____________________________________________________________
+
+
+
+
+O encaminhamento da Denúncia ao TCU encontra respaldo no § 2º do Art. 74 da Constituição Federal:
+
+
+"(... omissis ...)
+
+
+
+§2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União"
+
+
+
+O texto constitucional pretendeu ampliar o rol daqueles com legitimidade para apresentar denúncias. Não obstante, os requisitos de admissibilidade têm por objetivo conferir confiabilidade às acusações feitas e buscar o compromisso da parte que denuncia.
+
+
+
+O expediente recebido pelo Tribunal será remetido diretamente ao Relator, em envelope lacrado e com tarja de sigiloso, conforme estabelece o art. 34 da Resolução nº 77/96 - TCU. Ratificando essa regra, a Portaria TCU nº 331/98 prevê, no art. 3º, que as denúncias recebidas pelas Unidades Técnicas da SEGECEX deverão, após a adoção das medidas necessárias, ser submetidas diretamente à consideração do Relator, para juízo preliminar de admissibilidade. Após verificados tais requisitos, previstos no art. 213 do RITCU, o Relator determinará sua autuação e remeterá à instrução da unidade técnica.
+
+
+
+Os requisitos de admissibilidade estão previstos no Regimento Interno:
+
+
+"Art. 213. A denúncia 
+
+sobre matéria de competência do Tribuna
+
+l deverá 
+
+referir-se a administrador ou responsável sujeito a sua jurisdição, ser redigida em linguagem clara e objetiva, conter o nome legível do denunciante, sua qualificação e endereço, e estar acompanhada de indício concernente à irregularidade ou ilegalidade denunciada
+
+.
+
+
+
+
+Parágrafo único. O Relator ou  o Tribunal não conhecerá de denúncia que não observe os requisitos e formalidades prescritos no caput deste artigo, devendo o respectivo processo ser arquivado após comunicação ao denunciante." (grifo nosso)
+
+
+
+Inicialmente, a denúncia será apurada de forma sigilosa, consoante previsto na Resolução nº 77/96 – TCU:
+
+
+"Art. 35. O Relator, após verificar os requisitos de admissibilidade previstos no art. 213 do Regimento Interno, 
+
+determinará a respectiva autuação em caráter sigiloso
+
+ e o encaminhamento do processo à unidade técnica competente para a adoção das providências pertinentes, caso necessário.
+
+
+
+
+§1º O Relator, mediante despacho fundamentado, ou o Tribunal, determinará liminarmente o arquivamento de denúncia que não atenda aos requisitos de admissibilidade, após ciência ao denunciante.
+
+
+
+
+§2º O cancelamento da chancela de sigilo poderá ser determinado pelo Plenário, pelas Câmaras ou pelo Relator e será efetivado pela unidade técnica competente.
+
+
+
+
+§3º A fim de resguardar o sigilo do denunciante, especialmente ante o pedido de vista dos autos por parte do denunciado, 
+
+os autos da denúncia serão constituídos de, no mínimo, dois volumes, sendo o primeiro composto  apenas do documento original da denúncia encaminhada ao Tribunal, no qual consta a identificação do denunciante, e o segundo volume constituído das demais peças de instrução do processo, inclusive cópia do documento original da denúncia, devendo ser tarjados quaisquer sinais que possam identificar o denunciante, tais como papel timbrado, nome, assinatura, endereço, qualificação profissional, etc
+
+.
+
+
+
+
+§4º 
+
+Enquanto não for cancelada a chancela de sigiloso
+
+, observar-se-á o seguinte:
+
+
+
+
+
+I – 
+
+em nenhuma hipótese será concedida vista do primeiro volume a que se refere o parágrafo anterior, no qual consta a identificação do denunciante
+
+;
+
+
+
+
+II – 
+
+é vedado à unidade técnica competente e a quem mais atue no processo mencionar qualquer referência  que possa levar à identificação do denunciante
+
+, seja  nos pareceres emitidos nos autos  ou nos ofícios de diligência, audiência, citação ou notificação, devendo, quando necessário, fazer-se  referência tão-somente à folha do primeiro volume  a que se refere o parágrafo anterior na qual conste o documento original da denúncia e a identificação do denunciante." (grifos nossos)
+
+
+
+A manutenção ou não do sigilo, quanto à autoria e ao objeto do processo, caberá ao Tribunal, quando da decisão definitiva, conforme previsto no § 2 do art. 215 do Regimento Interno.
+
+
+
+3.2.1 Exame inicial
+
+
+
+a) verificar a existência de processo análogo em tramitação;
+
+
+c) pesquisar a existência de elementos que possam subsidiar a análise, utilizando, dentre outros: SIAFI, legislação pertinente, contas de exercícios anteriores, JURIS. 
+
+
+c) análise dos fatos apresentados na denúncia.
+
+
+
+3.2.2. Propostas de encaminhamento
+
+
+
+Expedientes previstos no § 2º do Art. 74 da Constituição Federal
+
+
+
+a) no mérito, considerar a denúncia .........;
+
+
+b) observar, quando da apuração dos fatos relatados, o disposto no § 3º do art. 53 da Lei nº 8443/92 c/c  § 1º do art. 212 do RITCU;
+
+
+c) determinar ao órgão/entidade a imediata instauração de Tomada de Contas Especial, com fulcro no art. 8 da Lei n 8443/92;
+
+
+d) outras providências: diligência, inspeção ou audiência;
+
+
+e) retirar a chancela de sigilo que recai sobre o processo, com fulcro no § 1º do art. 55 da Lei nº 8443/92;
+
+
+f.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+f.2) arquivar o presente processo.
+
+
+
+
+
+
+
+4. CONSULTA______________________________________________________________
+
+
+
+
+    Decidir sobre consultas formuladas ao TCU figura dentre as competências desta Casa, nos seguintes termos da Lei Orgânica:
+
+
+"Art. 1º Ao Tribunal de Contas da União, órgão de controle externo, compete, nos termos da Constituição Federal e na forma estabelecida nesta Lei:
+
+
+
+(... omissis ...)
+
+
+
+XVII – decidir sobre consulta que lhe seja formulada por autoridade competente, a respeito de dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes a matéria de sua competência, na forma estabelecida no Regimento Interno.
+
+
+
+(... omissis ...)
+
+
+
+§2º A resposta à consulta a que se refere o inciso XVII deste artigo tem caráter normativo e constitui prejulgamento da tese, mas não do fato ou caso concreto.
+
+
+
+(... omissis ...)" 
+
+
+
+O Regimento Interno, no art. 216, lista as autoridades aptas para formular consultas, quais sejam:
+
+
+a)	Presidente da República, do Supremo Tribunal Federal, do Senado Federal, da Câmara dos Deputados, de Comissão técnica ou de inquérito de qualquer das Casas do Congresso Nacional, de Tribunal Superior, de Partido Político;
+
+
+b)	Ministro de Estado ou autoridade de nível hierárquico equivalente;
+
+
+c)	Procurador-Geral da República;
+
+
+d)	Advogado-Geral da União;
+
+
+e)	Governadores dos Estados e do Distrito Federal e Prefeitos Municipais, quando a consulta referir-se a dúvidas suscitadas na aplicação dos recursos provenientes da compensação financeira pela exploração do petróleo, do xisto betuminoso e do gás natural.
+
+
+
+O citado dispositivo regimental cita, ainda:
+
+
+"(... omissis ...)
+
+
+
+§2º 
+
+As consultas devem conter a indicação precisa do seu objeto, ser formuladas articuladamente e instruídas, sempre que possível, com parecer do órgão de assistência técnica ou jurídica da autoridade consulente
+
+.
+
+
+
+
+§3º A resposta à consulta a que se refere este artigo tem caráter normativo e constitui prejulgamento da tese, mas não do fato ou caso concreto." (grifo nosso).
+
+
+
+No que concerne à admissibilidade das consultas formuladas, o art. 217 do RITCU estabelece:
+
+
+"Art. 217. O Relator ou o Tribunal não conhecerá de consulta que não atenda aos requisitos do artigo anterior ou que verse sobre caso concreto, devendo o processo ser arquivado após comunicação ao consulente."
+
+
+
+A Resolução nº 77/96 – TCU estipula, nos arts. 45 e 46, as providências a serem adotadas quando do ingresso desse tipo de expedientes no Tribunal:
+
+
+
+"Art. 45. As consultas serão encaminhadas pelo SPT e pelos SAs situados nos Estados, via SEGECEX, de imediato ao Gabinete do Relator em cuja Lista conste o órgão ou entidade a que se refira a matéria.
+
+
+
+
+Parágrafo único. Quando a consulta não se referir explicitamente a determinado órgão ou entidade, o processo será encaminhado ao relator de cuja lista conste o órgão  de controle interno  a que se vincule a autoridade consulente.
+
+
+
+
+Art. 46. O Relator, após verificar os requisitos de admissibilidade previstos no art. 216 do Regimento Interno, determinará o encaminhamento do processo à unidade técnica competente para a adoção das providências pertinentes.
+
+
+
+
+Parágrafo único. O Relator ou o Tribunal determinará liminarmente 
+
+o arquivamento de consulta que não atenda aos requisitos de admissibilidade ou que verse sobre caso concreto
+
+, após comunicação ao consulente." (grifo nosso).
+
+
+
+A Portaria TCU nº 331/98 prevê, em seu art. 3º, que as consultas recebidas pelas Unidades Técnicas da SEGECEX deverão, após a adoção das medidas necessárias, ser submetidas diretamente à consideração do Relator, para juízo preliminar de admissibilidade. Após verificado o preenchimento dos requisitos de admissibilidade listados no §2º do Art. 216 do Regimento Interno, o Relator determinará sua autuação e remeterá à instrução da unidade técnica.
+
+
+
+Dessa forma, conclui-se que não será conhecida a consulta formulada por autoridade diversa das listadas no art. 216 do RITCU, quando não forem cumpridas as exigências regulamentares ou a matéria objeto de questionamento referir-se a caso concreto.
+
+
+
+4.1 Exame inicial
+
+
+
+a) verificar se a consulta refere-se ou não a caso concreto, consoante dispõe o art. 217 do RITCU;
+
+
+b) verificar a existência de processo análogo em tramitação;
+
+
+c) pesquisar a existência de elementos que possam subsidiar a análise, utilizando, dentre outros: legislação pertinente e JURIS. 
+
+
+d) análise da consulta.
+
+
+
+4.2. Propostas de encaminhamento
+
+
+
+Expedientes encaminhados pelas autoridades previstas no art. 216 do RITCU
+
+
+
+a) não conhecer da consulta, consoante previsto no art. 217 do RITCU, por versar sobre caso concreto;
+
+
+b) esclarecer ......;
+
+
+c.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+c.2) arquivar o presente processo.
+
+
+
+
+
+
+
+5. COBRANÇA EXECUTIVA________________________________________________
+
+
+
+
+Os procedimentos para a organização, tramitação e acompanhamento dos processos de execução judicial de Acórdãos condenatórios do TCU estão discriminados na Resolução nº 041/95 – TCU.
+
+
+
+A organização de tais processos é feita pela Secretaria de Contas do Governo e Transferências Constitucionais – SECON, nos termos da citada Resolução:
+
+
+"Art. 2º Vencido o prazo de quinze dias sem a comprovação do recolhimento do débito, 
+
+sempre que o acórdão condenatório autorizar a cobrança judicial
+
+, a Unidade Técnica tramitará  o processo para a Secretaria de Contas do Governo e Transferências Constitucionais – SECON para organização do processo de cobrança executiva." (grifo nosso).
+
+
+
+Esse processo especial terá número independente do processo originário em que foi proferido o Acórdão. Esse mesmo dispositivo regulamentar estabelece quais os documentos que deverão compor o pocesso, conforme estabelece o § 1º do art. 3º da Resolução nº 041/95 - TCU:
+
+
+"O processo de cobrança executiva terá número independente do processo que lhe deu origem, e constará, inicialmente, de duas vias das seguintes peças processuais:
+
+
+
+
+a – original do acórdão condenatório;
+
+
+
+
+b – demonstrativo da dívida atualizada monetariamente, acrescida dos juros de mora devidos;
+
+
+
+
+c – ficha de informações pessoais do responsável ou devedor;
+
+
+
+
+d – notificação do responsável ou devedor."
+
+
+
+Feito isso, os autos são remetidos ao Ministério Público junto ao TCU para, consoante disposto no inciso III do art. 81 da Lei nº 8.443/92, "promover junto à Advocacia-Geral da União ou, conforme o caso, perante os dirigentes das entidades jurisdicionadas do Tribunal de Contas da União, as medidas previstas no inciso II do art. 28 (
+
+cobrança judicial da dívida
+
+) e no art. 61 desta Lei (
+
+arresto dos bens dos responsáveis julgados em débito
+
+), remetendo-lhes a documentação e as instruções necessárias." (grifo nosso).
+
+
+
+A Decisão Normativa nº 019/98 – TCU apresenta procedimentos destinados à viabilizar o ressarcimento ao erário, mediante desconto em folha de pagamento de débitos ou multas apurados em Acórdãos Condenatórios do TCU.
+
+
+
+
+O encerramento desses processos está previsto na Portaria nº 149/83 (que alterou dispositivos  da Portaria nº 173/80):
+
+
+"Art. 5º Quando devidamente ressarcida a Fazenda Pública ou considerada inexeqüível a cobrança da dívida, nada mais havendo a ser providenciado, a Procuradoria promoverá o encerramento do processo especial que, após deferida essa promoção pelo Tribunal, será arquivado, feitas as devidas anotações na Inspetoria-Geral de Controle Externo competente  e dada quitação, se for o caso, valendo como prova hábil a publicação da Ata respectiva, nos termos do artigo 106 do Regimento Interno."
+
+
+
+Nesse sentido, a Resolução nº 041/95 – TCU prevê, ainda:
+
+
+"Art. 7º Na ocorrência  de suspensão ou de extinção do processo de execução por determinação judicial, na forma dos arts. 791 e 794 do Código de Processo Civil, deve a Unidade Técnica  competente remeter cópia da sentença ou do despacho do juiz ao 
+
+
+
+
+
+Ministério Público junto ao Tribunal, que poderá emitir parecer conclusivo propondo o encerramento do processo especial de cobrança executiva.
+
+
+
+
+§1º Nos casos de suspensão, uma vez acolhida a proposta de encerramento do processo especial de cobrança, referida no "caput" deste artigo, é facultado ao Relator determinar, através de despacho, seu arquivamento, sem prejuízo da continuidade do acompanhamento efetivado pela Unidade Técnica.
+
+
+
+
+§2º Nos casos de extinção, após a decisão do Tribunal, a Secretaria-Geral das Sessões encaminhará o processo à SECON, para as devidas anotações e remessa à Unidade Técnica, para encerrar seu acompanhamento e arquivá-lo."
+
+
+
+Os arts. 791 e 794 do Código de Processo Civil prevêem os casos de suspensão ou extinção do processo de execução:
+
+
+"Art. 791. Suspende-se a execução:
+
+
+
+
+I – no todo ou em parte, quando recebidos os embargos do devedor (art. 739, §2º);
+
+
+
+
+II – nas hipóteses previstas no art. 265, nºs I a III;
+
+
+
+
+III – quando o devedor não possuir bens penhoráveis."
+
+
+
+"Art. 794. Extingüe-se a execução quando:
+
+
+
+
+I – o devedor satisfaz a obrigação;
+
+
+
+
+II – o devedor obtém, por transação ou por qualquer outro meio, a remissão total da dívida;
+
+
+
+
+III – o credor renunciar ao crédito."
+
+
+
+"Art. 265. Suspende-se o processo:
+
+
+
+
+I – pela morte ou perda da capacidade  processual de qualquer das partes, de seu representante legal ou de seu procurador;
+
+
+
+
+II – pela convenção das partes;
+
+
+
+
+III – quando for oposta exceção de incompetência do juízo, da câmara ou do tribunal, bem como de suspeição ou impedimento do juiz;
+
+
+(... omissis ...)"
+
+
+
+No caso de extinção do processo de cobrança executiva, nos termos do inciso I do art. 794 do CPC, a Unidade Técnica competente deverá anexar ao processo cópia do comprovante de recolhimento do débito ou multa.
+
+
+
+O arquivamento do processo de cobrança judicial também poderá ser determinado, por economia processual, nos termos do que estabelece o Art. 93 da Lei nº 8.443/92, quando o valor do débito for inferior a 1.500 UFIRs, consoante estipula a Decisão proferida pelo Egrégio Plenário nos autos do TC nº 010.308/95-4. Nesse caso, no entanto, não há cancelamento do débito, a cujo pagamento continuará obrigado o devedor, para que lhe possa ser dada quitação.
+
+
+
+Quanto ao encerramento do processo de cobrança executiva, a Resolução nº 77/96 – TCU estatui:
+
+
+"Art. 56  O processo especial de cobrança executiva, com decisão do Relator ou do Tribunal pelo encerramento ou arquivamento, deverá ser encaminhados à unidade responsável pela formalização do mesmo, para fins de anotação e posterior remessa à unidade técnica competente, para encerramento."
+
+
+
+A fim de manter a SECON informada sobre o andamento dos processos dessa espécie e, em especial, sobre valores ressarcidos e cobranças consideradas inexeqüíveis, nos termos do inciso VIII do art. 5º da Resolução nº 41/95 – TCU, as Secretarias de Controle Externo remeterão relatórios trimestrais, com os devidos anexos, consoante estabelece o Memorando-Circular nº 12/96 – SEGECEX, de 12/4/96.
+
+
+
+5.1. Propostas de encaminhamento
+
+
+
+
+Débito inferior ao limite previsto para cobrança judicial
+
+
+
+a) arquivar o presente processo, por economia processual, nos termos do art. 93 da Lei nº 8.443/92, sem cancelamento do débito, a cujo pagamento continuará obrigado o devedor para que lhe possa ser dada quitação;
+
+
+
+
+Quitação do débito
+
+
+
+a) dar quitação ao responsável, nos termos do art. 27 da Lei nº 8.443/92.
+
+
+b) arquivar o presente processo.
+
+
+
+
+Suspensão ou extinção do processo de execução, nos termos do art. 7º da Resolução nº 041/95 - TCU
+
+
+
+a) encerrar os autos, ante a determinação judicial proferida, nos termos do art. 7º da Resolução nº 041/95 – TCU;
+
+
+b) arquivar o presente processo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORMULÁRIOS PARA INSTRUÇÃO
+
+
+
+
+Modelos tipo 1
+
+
+
+SOLICITAÇÃO DE INSPEÇÕES/AUDITORIAS
+
+
+
+
+
+
+
+
+
+Modelo 1.a
+
+
+
+
+Assunto: instrução de processo de solicitação de inspeção/auditoria;
+
+
+
+Origem: Congresso Nacional, qualquer de suas casas ou comissões;
+
+
+
+Admissibilidade: conhecer da solicitação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias ao atendimento da solicitação.
+
+
+
+
+
+Modelo 1.b
+
+
+
+
+Assunto: instrução de processo de solicitação de inspeção/auditoria;
+
+
+
+Origem: órgãos, entidades ou membros singulares do Congresso Nacional, sem a devida aprovação;
+
+
+
+Admissibilidade: não conhecer da presente solicitação, por não preencher os requisitos de admissibilidade;
+
+
+
+Mérito: esclarecer o interessado e acolher o pedido como representação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Modelo 1.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+
+	Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido de que esta Corte de Contas promova inspeção/auditoria no(a) ..............................., para apurar .....................
+
+
+
+
+
+	Preliminarmente, cabe salientar que a presente solicitação está prevista no inciso IV do art. 71 da Constituição Federal e no inciso I do art. 38 da Lei n 8443/92.
+
+
+
+	No âmbito deste Tribunal, o art. 184 do Regimento Interno estabelece a condição necessária para o deferimento de solicitações nesse sentido, in verbis:
+
+
+	"Art. 184. É requisito essencial para o acolhimento, nos termos dos incisos IV e VII do art. 71 e § 1º do art. 72 da Constituição Federal, que o pedido de informação ou a solicitação a que se refere o artigo anterior tenha sido endereçado  ao Tribunal pelo Congresso Nacional, por qualquer de suas Casas , por suas Comissões técnicas ou de inquérito, ou pela Comissão mista a que se refere o § 1º do art. 166 da Constituição."
+
+
+	
+
+
+	No caso específico, verifica-se:
+
+
+
+
+ 
+
+
+	Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+	
+
+
+a) conhecer da solicitação, por preencher os requisitos previstos no inciso IV do art. 71 da Constituição Federal, no inciso I do art. 38 da Lei n 8443/92;
+
+
+	b.1) realizar inspeção/auditoria, conforme solicitado, no(a) ...................;
+
+
+	b.2) realizar diligência junto a(o) ......... com vistas a .......;
+
+
+	b.3) remeter ao interessado cópia das seguintes peças processuais .......;
+
+
+	b.4) informar ao interessado ........;
+
+
+	c.1) juntar os presentes autos ao processo a que se refere;
+
+
+	c.2) arquivar o presente processo.
+
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+( Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+
+(Modelo 1.b)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas promova inspeção/auditoria no(a) ..............................., para apurar .....................
+
+
+
+Preliminarmente, cabe salientar que a solicitação, a esta Corte de Contas, de inspeção ou auditorias está prevista no inciso IV do art. 71 da Constituição Federal e no inciso I do art. 38 da Lei n 8443/92.
+
+
+
+Nesse sentido, o texto constitucional é explícito ao delimitar a quem é facultado demandar esse tipo de trabalho.  
+
+
+
+No âmbito deste Tribunal, o art. 184 do Regimento Interno estabelece a condição necessária para o deferimento de solicitações nesse sentido, in verbis:
+
+
+"Art. 184. É requisito essencial para o acolhimento, nos termos dos incisos IV e VII do art. 71 e § 1º do art. 72 da Constituição Federal, que o pedido de informação ou a solicitação a que se refere o artigo anterior tenha sido endereçado  ao Tribunal pelo Congresso Nacional, por qualquer de suas Casas , por suas Comissões técnicas ou de inquérito, ou pela Comissão mista a que se refere o § 1º do art. 166 da Constituição."
+
+
+
+No caso específico, verifica-se:
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) não conhecer da presente solicitação, por não preencher os requisitos de admissibilidade;
+
+
+b) esclarecer ao   interessado que este   Tribunal, por   imposição constitucional, legal e regulamentar  (cf. inciso IV do art. 71 da Constituição Federal; inciso II do art. 1 e inciso I do art. 38 da Lei n 8443/92 e arts. 183 e 184 do RITCU), está adstrito a atender, exclusivamente, pedido de realização de auditorias e inspeções que tenha sido aprovado pelo Congresso Nacional, qualquer de suas Casas, ou pelas respectivas Comissões Técnicas ou de Inquérito;
+
+
+c) acolher como Representação a solicitação formulada, nos termos do art. 37A da Resolução nº 77/96 – TCU (incluído por meio da Resolução nº 110/98 - TCU);
+
+
+d.1) juntar os presentes autos ao processo a que se refere.
+
+
+d.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+Modelo tipo 2
+
+
+SOLICITAÇÃO DE INFORMAÇÕES
+
+
+
+
+
+
+
+
+Modelo 2.a
+
+
+
+
+Assunto: solicitação de informações;
+
+
+
+Origem: Congresso Nacional, qualquer de suas casas ou comissões;
+
+
+
+Admissibilidade: conhecer de solicitação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias ao atendimento da solicitação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Modelo 2.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+	Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas informações sobre ..................................
+
+
+
+	Preliminarmente, cabe salientar que a presente solicitação está prevista no inciso VII do art. 71 da Constituição Federal e no inciso II do art. 38 da Lei n 8443/92.
+
+
+
+	No âmbito deste Tribunal, o art. 184 do Regimento Interno estabelece a condição necessária para o deferimento de solicitações nesse sentido, in verbis:
+
+
+	"Art. 184. É requisito essencial para o acolhimento, nos termos dos incisos IV e VII do art. 71 e § 1º do art. 72 da Constituição Federal, que o pedido de informação ou a solicitação a que se refere o artigo anterior tenha sido endereçado  ao Tribunal pelo Congresso Nacional, por qualquer de suas Casas , por suas Comissões técnicas ou de inquérito, ou pela Comissão mista a que se refere o § 1º do art. 166 da Constituição."
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da solicitação, por preencher os requisitos previstos no inciso VII do art. 71 da Constituição Federal, no inciso II do art. 38 da Lei n 8443/92;
+
+
+	b.1) informar ao interessado .....;
+
+
+	b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria, objeto do referido processo, encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+	c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos;
+
+
+	d) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+
+
+Modelos tipo 3
+
+
+
+SOLICITAÇÕES DE INFORMAÇÕES E
+
+
+
+DE CÓPIAS DE PROCESSOS
+
+
+
+
+
+
+
+Modelo 3.a
+
+
+
+
+Assunto: instrução de processo de solicitação de informações e de cópia de processos;
+
+
+
+Origem: expedientes da Advocacia-Geral da União;
+
+
+
+Admissibilidade: conhecer de solicitação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias ao atendimento da solicitação.
+
+
+
+
+
+Modelo 3.b
+
+
+
+
+Assunto: instrução de processo de solicitação de informações e de cópia de processos;
+
+
+
+Origem: diversas;
+
+
+
+Admissibilidade: não conhecer da solicitação, tendo em vista o requerente não ser parte interessada no processo ou a solicitação não preencher os requisitos necessários à admissibilidade;
+
+
+
+Mérito: informar ao requerente o motivo do não atendimento.
+
+
+
+
+
+Modelo 3.c
+
+
+
+
+Assunto: instrução de processo de solicitação de informações e de cópia de processos;
+
+
+
+Origem: expedientes do Ministério Público;
+
+
+
+Admissibilidade: conhecer da solicitação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias ao atendimento da solicitação.
+
+
+
+
+
+Modelo 3.d
+
+
+
+
+Assunto: instrução de processo de solicitação de informações e de cópia de processos;
+
+
+
+Origem: Tribunais de Contas Estaduais, Conselhos de Contas Municipais, Magistrados e membros do Departamento da Polícia Federal;
+
+
+
+Admissibilidade: conhecer da solicitação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias ao atendimento da solicitação.
+
+
+
+
+(Modelo 3.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas preste informações sobre ..................................
+
+
+
+Preliminarmente, cabe salientar que os pedidos dessa natureza de membros da Advocacia-Geral da União estão previstos no art. 4º da Lei nº 9028/95, que dispõe sobre o exercício das atribuições institucionais da AGU, e o seu atendimento regulamentado na Resolução nº 105/98 - TCU.
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da solicitação, nos termos do art. 4º da Lei nº 9.028/95, do Protocolo de Cooperação entre a AGU e o TCU, do art. 30 da Resolução n 36/95 - TCU e do estabelecido pela Resolução nº 105/98 - TCU;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+(Modelo 3.b)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas preste informações sobre ..................................
+
+
+
+Preliminarmente .....
+
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a.1) não conhecer da presente solicitação, tendo em vista que o requerente não é parte interessada no processo de que requer cópia.
+
+
+a.2) não conhecer da solicitação, por não preencher os requisitos de admissibilidade;
+
+
+b) informar ao requerente ....
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+(Modelo 3.c)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas preste informações sobre ..................................
+
+
+
+Preliminarmente, cabe salientar que os pedidos dessa natureza de membros do Ministério Público estão previstos no inciso II do art. 8º da Lei Complementar nº 75/93  e da alínea b do inciso I do art. 26 da Lei nº 8.625/93, e o seu atendimento regulamentado no Acordo de Cooperação Técnica e Assistência Mútua firmado pelo TCU e o MPF e no art. 30 da Resolução nº 36/95 - TCU.
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da solicitação, nos termos do inciso II do art. 8 da Lei Complementar n 75/93; da alínea b do inciso I do art. 26 da Lei n 8625/93; da cláusula segunda do Convênio de Cooperação Técnica e Assistência Mútua celebrado entre o TCU e o MPF; do art. 30 da Resolução n 36/95 - TCU;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+(Modelo 3.d)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Cuidam os autos de solicitação formulada por ..........................., por meio do expediente ..............., de ..../..../...., no sentido que esta Corte de Contas preste informações sobre ..................................
+
+
+
+Preliminarmente, cabe salientar que os pedidos dessa natureza endereçados por Tribunais de Contas Estaduais, Conselhos de Contas Municipais, magistrados e membros do Departamento da Polícia Federal estão previstos no art. 30 da Resolução nº 36/95 - TCU. Tal dispositivo estabelece, ainda, que as informações prestadas sobre processos em tramitação no Tribunal deverão conter indicativos da situação de andamento do processo e da natureza dos autos, quando se tratar de matéria sigilosa.
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da solicitação, de acordo com o previsto no art. 30 da Resolução n 36/95 - TCU;
+
+
+b.1) informar ao interessado .....;
+
+
+b.2) remeter ao interessado as cópias solicitadas;
+
+
+c.1) alertar o interessado para o fato de a matéria objeto do referido processo encontrar-se sem o pronunciamento definitivo deste Tribunal;
+
+
+c.2) alertar, se for o caso, quanto à natureza sigilosa que recai sobre os autos.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+
+Modelo tipo 4
+
+
+PROCESSO DE REPRESENTAÇÃO
+
+
+
+
+
+
+
+
+Modelo 4.a
+
+
+
+
+Assunto: instrução de processo de representação;
+
+
+
+Origem: licitante, contratado, pessoa física ou jurídica;
+
+
+
+Admissibilidade: conhecer da representação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias à averiguação das irregularidades apontadas.
+
+
+
+
+Modelo 4.b
+
+
+
+
+Assunto: instrução de processo de representação;
+
+
+
+Origem: diversas;
+
+
+
+Admissibilidade: conhecer ou não da representação, de acordo com o preenchimento ou não dos requisitos de admissibilidade;
+
+
+
+Mérito: determinar, caso admitida a representação, medidas necessárias à averiguação das irregularidades apontadas.
+
+
+
+
+Modelo 4.c
+
+
+
+
+Assunto: instrução de processo de representação;
+
+
+
+Origem: expedientes de órgãos ou autoridades legitimadas a representar perante o TCU, consoante previsto no art. 37A da Resolução nº 77/96- TCU;
+
+
+
+Admissibilidade: conhecer de representação, por preencher os requisitos necessários;
+
+
+
+Mérito: determinar medidas necessárias à averiguação das irregularidades apontadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Modelo 4.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Trata-se de Representação formulada a este Tribunal por .............., com fundamento no § 1º do art. 113 da Lei nº 8666/93.
+
+
+
+Preliminarmente, cabe salientar que a  Representação formulada por licitante, contratado, qualquer pessoa física ou jurídica, apontando irregularidades na execução de processos licitatórios ou na efetivação de contratos, encontra respaldo no inciso VII do art. 37A da Resolução nº 77/96 – TCU (cuja redação foi alterada pela Resolução nº 110/98 - TCU).
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da representação, formulada nos termos do § 1º do art. 113 da Lei nº 8666/93, por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+(Modelo 4.b)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Trata-se de expediente encaminhado a este Tribunal por ..........., informando ........ 
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a.1) conhecer da representação, por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+a.2) não conhecer da presente representação, por não preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+(Modelo 4.c)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Trata-se de irregularidade detectada durante a realização de inspeção/auditoria no .........................., com o objetivo de ....................
+
+
+
+Preliminarmente, cabe salientar ..............
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) conhecer da representação, formulada nos termos do ..................... e por preencher os requisitos de admissibilidade previstos no art. 213 do Regimento Interno do TCU;
+
+
+b) no mérito, considerá-la .........;
+
+
+c) outras providências: diligência, conversão em TCE, inspeção ou audiência;
+
+
+d.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+d.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+
+
+
+Modelo tipo 5
+
+
+PROCESSOS DE DENÚNCIAS
+
+
+
+
+
+
+
+
+
+
+Modelo 5.a
+
+
+
+
+Assunto: instrução de processo de denúncia;
+
+
+
+Origem: qualquer cidadão, partido político, associação ou sindicato;
+
+
+
+Admissibilidade: (não consta na proposta o exame de admissibilidade, conforme art. 213 do Regimento Interno do TCU);
+
+
+
+
+Mérito: determinar medidas necessárias à averiguação das irregularidades apontadas na denúncia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (Modelo 5.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Trata-se de Denúncia formulada contra ................, indicando ................
+
+
+
+A Constituição Federal estabelece, no § 2º do art. 74, que "qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União". Internamente, a admissibilidade e tramitação dos processos de Denúncia obedecem aos ditames da Lei nº 8443/92, arts. 53 a 55, do Regimento Interno da Casa, arts. 212 a 215, e da Resolução nº 77/96 – TCU, arts. 34 a 37.
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) no mérito, considerar a denúncia .........;
+
+
+b) observar, quando da apuração dos fatos relatados, o disposto no § 3º do art. 53 da Lei nº 8443/92 c/c  § 1º do art. 212 do RITCU;
+
+
+c) determinar ao órgão/entidade a imediata instauração de Tomada de Contas Especial, com fulcro no art. 8 da Lei n 8443/92;
+
+
+d) outras providências: diligência, inspeção ou audiência;
+
+
+e) retirar a chancela de sigilo que recai sobre o processo, com fulcro no § 1º do art. 55 da Lei nº 8443/92;
+
+
+f.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+f.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+Modelo tipo 6
+
+
+PROCESSOS DE CONSULTA
+
+
+
+
+
+
+
+
+
+
+Modelo 6.a
+
+
+
+
+Assunto: instrução de processo de consulta;
+
+
+
+Origem: autoridades previstas no art. 216 do RITCU;
+
+
+
+Admissibilidade: não conhecer da consulta, por versar sobre caso concreto;
+
+
+
+Mérito: esclarecer o consulente.
+
+
+
+
+
+
+
+
+
+
+(Modelo 6.a)
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+(nome da unidade técnica que está instruindo o processo)
+
+
+
+
+
+TC-xxx.xxx/xx-x
+
+
+Interessado:
+
+
+Assunto: 
+
+
+
+Trata-se de Consulta formulada por ..........................., sobre ................
+
+
+
+Conforme dispõe o inciso XVII do art. 1 da Lei n 8443/92, a Consulta é formulada por autoridade competente, e apreciada pelo Plenário, a respeito de dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes a matéria da competência do Tribunal de Contas da União.
+
+
+
+O Regimento Interno do TCU, art. 216, discrimina quais as autoridades competentes, além de estabelecer os requisitos de admissibilidade de tais expedientes.
+
+
+
+No caso específico, verifica-se:
+
+
+
+
+
+Ante o exposto, submeto os autos à consideração superior, propondo:
+
+
+
+a) não conhecer da consulta, consoante previsto no art. 217 do RITCU, por versar sobre caso concreto;
+
+
+b) esclarecer ......;
+
+
+c.1) juntar os presentes autos ao processo a que se refere, com fundamento no art. 22 da Resolução nº 77/96 – TCU.
+
+
+c.2) arquivar o presente processo.
+
+
+
+Unidade Técnica, .... de ............ de ......
+
+
+
+
+(Nome e assinatura do titular da unidade)
+
+
+
+
+
+
+
+
+
+ANEXO I – JURISPRUDÊNCIA________________________________________
+
+
+
+
+
+
+1. SOLICITAÇÕES DO CONGRESSO NACIONAL
+
+
+
+
+
+
+1.1 PARA A REALIZAÇÃO DE INSPEÇÕES E AUDITORIAS
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão nº 147/92 – Plenário – Ata nº 14/92 (Auditoria    contábil,    financeira   e   patrimonial.  ELETROBRÁS. Solicitação de Parlamentar)
+
+
+
+Decisão nº 011/93 – Plenário – Ata nº 04/93 (Auditoria.  Pedido  da  Comissão  de  Trabalho  de  Administração  e Serviço  Público  da  Câmara  dos Deputados. Inspeção  na  CSN  para verificação  de  possíveis  irregularidades  na  compra  de  madeira superfaturada  e  na Caixa Beneficente dos Servidores.  Acolhimento. Autorização.)
+
+
+
+Decisão nº 266/94 – Plenário – Ata nº 16/94 (Requerimento.  Comissão Parlamentar. Pedido realização de  auditoria operacional  na  SUDAM  e BASA no que tange a supervisão  do  FINOR. Conhecimento. Determinação à 5ª SECEX para adoção de providências.)
+
+
+
+Decisão nº 032/97 – Plenário – Ata nº 04/97 (Solicitação   formulada   pelo   Senado   Federal.   Auditoria  para verificação  dos  procedimentos adotados pelo Banco Central  para  o registro  de  Letras  Financeiras cujas emissões  foram  autorizadas pelo  Senado  Federal  para as prefeituras municipais  de  Campinas, Osasco,  Guarulhos  e  Goiânia,  e  para  o  Governo  do  Estado  de Pernambuco,  de  São  Paulo  e   de  Santa  Catarina.  Conhecimento. Determinação.)
+
+
+
+Decisão nº 463/97 – Plenário – Ata nº 30/97 (Solicitação  formulada  por  Comissão   Parlamentar.  Realização  de auditoria  na STN para verificação dos processos de securitização de créditos    originários   de   acordos   judiciais   com   a  União. Conhecimento. Determinação.)
+
+
+
+Decisão nº 777/97 – Plenário – Ata nº 45/97 (Solicitação  formulada por Comissão Parlamentar. Auditoria no Banco do  Ceará sobre possíveis irregularidades em operações de crédito de imóveis.  Desvio  de  recursos do FNE/PROPEC.  Competência  do  TCU. Fiscalização apenas de recursos federais. Determinação.)
+
+
+
+Decisão nº 012/98 – Plenário – Ata nº 04/98 (Solicitação  formulada  por  Comissão   parlamentar.  Auditoria  na Prefeitura  Municipal de Itapaci GO. Verificação da regularidade  de execução de convênio com o FNDE. Conhecimento. Deferimento.)
+
+
+
+Decisão nº 066/98 – Plenário – Ata nº 07/98 (Solicitação    formulada    por   Comissão   Parlamentar.  Inspeção Extraordinária  no BNDES visando fiscalizar o processo de  concessão de  financiamentos a estados da federação e os empréstimos  firmados com  as  unidades  da federação a partir de 01 de janeiro  de  1995. Conhecimento. Inclusão no Plano de Auditoria.)
+
+
+
+Decisão nº 083/98 – Plenário - Ata nº 08/98 (Solicitação  formulada  por Comissão Parlamentar. Auditoria  na  CEF referente  à  concorrência  para o fornecimento  de  passagem  aérea nacional,  em  especial  quanto à concorrência CPL/96  realizada  no Estado do Paraná. Conhecimento. Atendimento. Determinação.)
+
+
+
+- não conhecimento 
+
+
+
+
+
+Decisão nº 095/94 – Plenário – Ata nº 07/94 (Solicitação  da  Presidente  da  LBA, no sentido  de  ser  realizada Inspeção  Extraordinária  na  entidade. Solicitação que  poderá  ser dirigida  à  Secretaria  de   Controle   Interno  do  Ministério  do Bem-Estar Social. Provimento negado. Ciência à interessada.)
+
+
+
+Decisão nº 023/95 – Plenário – Ata nº 04/95 (Auditoria.  Solicitação de Parlamentar. possíveis irregularidades na eleição  para presidência da FIEAM. Impossibilidade de  atendimento por falta de amparo constitucional, legal e regulamentar.)
+
+
+
+Decisão nº 147/95 – Plenário – Ata nº 14/95 (Requerimento  formulado por Parlamentar. Solicitação de inspeção  em diversos  órgãos  da  Administração Pública Federal.  Requisitos  de Admissibilidade não preenchidos. Não conhecimento.)
+
+
+
+Decisão nº 177/95 – Plenário – Ata nº 17/95 (Auditoria.   Solicitação formulada por parlamentar. Utilização, pelo Governo,  de  sobras  de  campanha do  PSDB  para  contratação,  sem licitação,  de  serviços  de   publicidade.   Notícia  veiculada  na imprensa.  Não atendimento dos requisitos constitucionais, legais  e regimentais  de  admissibilidade. Não conhecimento.  Comunicação  ao interessado.)
+
+
+
+Decisão nº 248/95 – Plenário – Ata nº 23/95 (Requerimento.   Presidente  de  Câmara   Municipal.  Solicitação  de auditoria  sobre  convênios  firmados pela Prefeitura  Municipal  de Piracanjuba  GO.  Requisitos de admissibilidade não  atendidos.  Não
+
+
+conhecimento.)
+
+
+
+Decisão Sigilosa nº 251/95 – Plenário – Ata nº 23/95 (Requerimento.   Solicitação de Auditoria para apurar irregularidades nos  órgãos  responsáveis  pela  política  agrícola.  Requisitos  de admissibilidade não atendido. Não conhecimento.)
+
+
+
+Decisão nº 825/96 – Plenário – Ata nº 51/96 (Solicitação  formulada  por  junta.  Auditoria  no  5º  Batalhão  de Engenharia  da  Construção  em Porto Velho  RO.  Irregularidades  na destinação  de recursos provenientes da compra e alienações de bens. Tomada  de Contas Especial já instaurada. Ausência dos requisitos de admissibilidade. Não conhecimento. Juntada a TCE.)
+
+
+
+Decisão nº 344/97 – Plenário – Ata nº 22/97 (Solicitação  formulada pelo Presidente da Associação dos Servidores do  Departamento  de Estradas de Rodagem do Estado de AL.  Auditoria ao  convênio firmado entre o referido Departamento e o BID. Ausência dos  requisitos  de  admissibilidade. Não envolvimento  de  recursos federais.    Não    acolhimento.   Esclarecimento   ao  interessado. Arquivamento.)
+
+
+
+Decisão nº 071/98 – Plenário – Ata nº 07/98 (Solicitação  formulada  pelo  MPM. Auditoria no Arsenal  de  Guerra General  Câmara - Ministério do Exército. Contratação e pagamento de despesas  sem  a  execução dos serviços  correspondentes.  Pagamento antecipado.  Ausência de requisitos para atendimento.  Conhecimento. Negado provimento. Determinação. -  O  Tribunal está adstrito a atender, exclusivamente, a pedido  de realização  de  inspeção ou auditoria que tenha sido  aprovado  pelo Congresso  Nacional, por qualquer de suas Casas ou pelas respectivas Comissões técnicas ou de inquérito.)
+
+
+
+
+
+
+
+1.2. DE INFORMAÇÕES
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão nº 117/94 – Plenário – Ata nº 08/94 (Requerimento.  Pedido  de informações da Comissão Parlamentar  sobre inspeção  extraordinária na Cruz Vermelha Brasileira e aplicação  de recursos  da Loteria Esportiva. Conhecimento. Considerações sobre  a competência do TCU para fiscalizar a entidade.) 
+
+
+
+Decisão nº 507/95 – Plenário – Ata nº 45/95 (Solicitação   de  informações  formulada  por  Comissão  Parlamentar acerca  de  impropriedades  em  obras   financiadas  pela  CEF,  com recursos  do FGTS e SBPE, no período 92/95. Acolhimento. Informar da existência  de  Auditoria Operacional na CEF sobre o assunto,  cujos resultados serão remetidos ao solicitante.)
+
+
+
+Decisão nº 691/96 – Plenário – Ata nº 43/96 (Solicitação   formulada por Comissão Parlamentar. Informações acerca de  Auditoria Operacional realizada no BACEN. Conhecimento.  Juntada ao processo de Auditoria Operacional.)
+
+
+
+Decisão nº 811/97 – Plenário – Ata nº 48/97 (Requerimento  formulado  por   Comissão   Parlamentar.   Pedido  de informações  sobre  o  Fundo   Constitucional  de  Financiamento  do Centro-Oeste.    Conhecimento.    Encaminhamento   das   informações solicitadas.)
+
+
+
+Decisão nº 846/97 – Plenário – Ata nº 51/97 (Requerimento  formulado por Comissão Parlamentar. Informações sobre os  valores de indenizações pagas, de disponibilidade de recursos  e de  investimentos ou débitos relativos a diversos órgãos.  Conclusão do  levantamento realizado no BNDES. Encaminhamento da  documentação a Comissão.)
+
+
+
+Decisão nº 233/98 – Plenário – Ata nº 16/98 (Solicitação  formulada por Comissão Parlamentar do Senado  Federal. Valores  de  indenizações pagas, disponibilidades de recursos  e  de investimentos  ou  débitos  relativos a  diversos  órgãos  federais. Fundo  Constitucional  de  Financiamento do Norte.  Atendimento  das informações.  Encaminhamento  de   cópia   dos   autos  à  Comissão. Arquivamento.)
+
+
+
+Decisão nº 306/98 – Plenário – Ata nº 19/98 (Solicitação   formulada   pelo   Presidente   do   Senado  Federal. Informação  sobre  decisão   do   Tribunal   proferida  em  consulta formulada  por  Comissão  Parlamentar   sobre   a  possibilidade  da concessão  de  créditos para instituições financeiras  federais  dos Estados,  DF  e  Municípios,  a título de  antecipação  de  receitas provenientes  de  processo  de desestatização, sem os  pareceres  do BACEN  e da Comissão de Assuntos Econômicos do Senado Federal e  sem a aprovação do Senado Federal. Conhecimento. Comunicação.)
+
+
+
+Decisão nº 362/98 – Plenário – Ata nº 23/98 (Solicitação  formulada  por  Comissão  Parlamentar.  Aplicação  dos recursos  do  FINAM  e   SUDAM.   Valores   de  indenizações  pagas, disponibilidade  de  recursos e investimentos ou  débitos  assumidos por  diversos órgãos federais. Levantamentos relativos aos  recursos do   FINAM   e   da   SUDAM.   Dados   incompletos.  Encaminhamento. Esclarecimento. Determinação.) 
+
+
+
+- não conhecimento 
+
+
+
+
+Decisão nº 172/93 – Plenário – Ata nº 16/93 (Requerimento.  Solicitação  de  Parlamentar. Pedido  de  informações sobre  os  resultados das últimas inspeções e auditorias  realizadas na  Superintendência  Regional  do   IBAMA,   Delegacia  Federal  de Agricultura,  Itaipu Binacional, TELEPAR e Superintendência Regional do  INCRA. Não conhecimento, face ao não atendimento dos  requisitos constitucionais.)
+
+
+
+
+Decisão nº 036/95 – Plenário – Ata nº 05/95 (Solicitação   formulada  por  Parlamentar.   Pedido   de  cópias  de processos  de  Tomada  de   Contas  Especial.  Conhecimento.  Negado Provimento,  em  face  de  não   atender  requisitos  regimentais  e constitucionais.)
+
+
+
+Decisão nº 681/96 – Plenário – Ata nº 42/96 (Requerimento     formulado    por    parlamentar.   Solicitação   de comprovantes  de  admissões  de pessoal, salários,  passagem  aérea, gastos  com   hospedagem,   alimentação,   publicidade,   verbas  de Programas  e  de contratos com empresa de consultoria e  consultores independentes  realizados  pelo SEBRAE no ano de 1995. Ausência  dos pressupostos para atendimento. Negado acolhimento. Arquivamento.)
+
+
+
+- fornecimento de cópias
+
+
+
+
+Decisão nº 157/97 - Plenário - Ata 11/97 (Solicitação   formulada  por  Comissão  Parlamentar.  Inspeção  para verificação  de possíveis irregularidades no contrato firmado  entre a  Prefeitura  Municipal de Araguaina TO e a Construtora Central  do Brasil  com  recursos  federais.  Assunto  já  analisado  em  outras auditorias.    Contrato    celebrado   sem   previsão  orçamentária. Encaminhamento de cópias à Comissão Parlamentar. Arquivamento.)
+
+
+
+Decisão nº 813/97 – Plenário – Ata nº 48/97 (Requerimento  formulado  por  Comissão  Parlamentar.  Conclusão  do levantamento  de  informações relativas às indenizações  pagas  pelo Banco do Brasil. Encaminhamento da documentação.)
+
+
+
+Decisão nº 384/97 – Plenário – Ata nº 25/97 (Solicitação  da  Presidência  da  Câmara dos  Deputados.  Cópia  de documentação  relativa  ao  Programa   Nacional  de  Desestatização. Atendimento.
+
+
+
+Decisão nº 233/98 – Plenário – Ata nº 16/98 (Solicitação  formulada por Comissão Parlamentar do Senado  Federal. Valores  de  indenizações pagas, disponibilidades de recursos  e  de investimentos  ou  débitos  relativos a  diversos  órgãos  federais. Fundo  Constitucional  de  Financiamento do Norte.  Atendimento  das informações.  Encaminhamento  de   cópia   dos   autos  à  Comissão. Arquivamento.)
+
+
+
+- não fornecimento de cópias
+
+
+
+
+Decisão nº 364/94 - Plenário - Ata nº 24/94 (Requerimento  de  parlamentar.  Pedido   de   cópia   de  auditorias realizadas  sobre  a  futura  sede do STJ.  Inobservância  de normas constitucionais. Não conhecimento. -  Consideração  sobre  solicitação  singular  de  parlamentar,  não aprovada por suas Casas ou Comissões.)
+
+
+
+Decisão nº 036/95 – Plenário – Ata nº 05/95 (Solicitação   formulada  por  Parlamentar.   Pedido   de  cópias  de processos  de  Tomada  de   Contas  Especial.   conhecimento.  Negado Provimento,  em  face  de  não   atender  requisitos  regimentais  e constitucionais.
+
+
+
+Decisão nº 656/96 - Plenário - Ata nº 41/96 (Solicitação   formulada  por  parlamentar. Cópia de pareceres do  TCU sobre  o Programa Comunitário de Telecomunicações adotado no  âmbito do  Sistema   TELEBRÁS.   Não   preenchimento   dos   requisitos  de admissibilidade.  Encaminhamento das deliberações do Tribunal  sobre o assunto.)
+
+
+
+Decisão nº 356/97 - Plenário - Ata nº 23/97 (Solicitação  formulada  por  parlamentar. Cópia dos  relatórios  de auditorias  realizadas no INCRA/AP e FNS/AP. Ausência dos requisitos regimentais.  Não  atendimento. Conhecimento à interessada.  Juntada dos autos às referidas auditorias. - Pedido de Cópia. Auditoria. Processo em instrução. Considerações.)
+
+
+
+
+
+2. PEDIDOS DE INFORMAÇÕES, CÓPIA E VISTA DE PROCESSOS
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão nº 350/93 – Plenário – Ata nº 33/93 (Pedido  de  informações. Ministério Público do Estado  do  Amazonas. Convênio.  Conhecimento.  Orientação   a   IRCE/AM.  Comunicação  ao requerente. Sugestão de estudos para normatizar o assunto.)
+
+
+
+Decisão nº 772/96 – Plenário – Ata nº 48/96 (Solicitação  de informação  formulada pela Procuradoria da República em  MG.  Possível inobservância, pela Universidades Federal de  Juiz de  Fora,  de normas que regem precatórios decorrente da  reclamação trabalhista.    Conhecimento.    Acolhimento   das   justificativas. Arquivamento.
+
+
+
+Decisão nº 408/97 – Plenário - Ata nº 26/97 (Solicitação    formulada    por   Delegada   da   Polícia  Federal. Procedimentos  efetuados  pertinentes  ao   Relatório  de  Auditoria realizada  na Fundação Assistencial, Educacional e Cultural de  Belo Jardim  PE, visando a instrução de inquérito policial. Conhecimento. Encaminhamento de cópia do Relatório. Juntada dos autos.)
+
+
+
+Decisão nº 476/97 – Plenário – Ata nº 30/97 (Solicitação formulada por Juiz de Direito. Informação a respeito do julgamento  do processo relativo ao convênio firmado entre o MAS e a Prefeitura Municipal de Aracaju SE. Encaminhamento.)
+
+
+
+Decisão nº 759/97 – Plenário – Ata nº 44/97 (Solicitação  formulada  pela Procuradora da República no Estado  do RJ.  Informação  sobre  a   existência  de  processo  administrativo visando  apurar  irregularidades na contratação indireta de  pessoal pela  Fundação  Nacional  de  Saúde   em   convênio  firmado  com  a Associação  Bahiana  de  Beneficência  para   o  combate  de  surtos epidêmicos. Conhecimento. Comunicação. Juntada dos autos.)
+
+
+
+- não conhecimento 
+
+
+
+
+Decisão nº 052/95 - Segunda Câmara - Ata nº 08/95 ( Requerimento  do  Presidente da Câmara Municipal de Rio  Bonito  RJ. Solicitação  de informação sobre a situação do ex prefeito perante o TCU.  Ausência dos requisitos de admissibilidade. Não  conhecimento. Ciência ao interessado.)
+
+
+
+Decisão nº 307/95 – Plenário – Ata nº 29/95 (Requerimento   de  Informações formulado pela Comissão de  Ouvidoria Geral  da  República  MJ. Legitimidade da  cobrança  da  atualização monetária  de diárias pagas indevidamente. Não conhecimento, em face de inobservância dos pressupostos regimentais.)
+
+
+
+Decisão nº 599/96 – Plenário - Ata nº 37/96 (Solicitação  de  informações formulada pelo Procurador da República. Possíveis  irregularidades na execução de convênios firmados entre a União  e  a  Prefeitura  Municipal   de   Anajatuba  MA.  Fatos  não confirmados. Arquivamento.)
+
+
+
+Decisão nº 652/97 – Plenário – Ata nº 38/97 (Solicitação  formulada pela Procuradoria da República no Estado  do CE.  Encaminhamento  mensal  pelo Tribunal  àquela  Procuradoria  de  listagens  informando  as  transferências   efetuadas  pelo  Governo Federal,  mediante  convênios   acordos,   ajustes   e  instrumentos congêneres,  aos municípios do Estado e ao Governo do Estado do  CE. Ausência de amparo legal. Não atendimento.)
+
+
+
+- fornecimento de cópias
+
+
+
+
+Decisão nº 324/97 - Plenário – Ata nº 20/97 (Solicitação  formulada pela Justiça Federal do RS. Pedido de  cópia de  processo  de  Tomada  de Contas Especial  referente  a  convênio firmado  entre  a  LBA e o Clube dos Paraplégicos do Rio  Grande  do Sul, com vistas à instrução de Inquérito Policial. Deferimento.)
+
+
+
+Decisão nº 476/97 – Plenário – Ata nº 30/97 (Solicitação formulada por Juiz de Direito. Informação a respeito do julgamento  do processo relativo ao convênio firmado entre o MAS e a Prefeitura Municipal de Aracaju SE. Encaminhamento.)
+
+
+
+Decisão nº 602/97 – Plenário - Ata nº 36/97 (Solicitação  formulada por Delegado de Polícia Federal em MT. Cópia do   processo   que   trata   de   irregularidades   cometidas  pela Universidade  de  Cuiabá  MT, na aplicação de  subvenção  social  do orçamento  da  União,  nos anos de 1991 e 1992.  Matéria  ainda  não apreciada  no mérito. Comunicação. Fornecimento das cópias.  Juntada ao processo de auditoria.)
+
+
+
+Decisão nº 034/98 – Plenário – Ata nº 05/98 (Solicitação  formulada  por  Juiz Federal. Cópia de  Relatório  de Inspeção  realizada  no   BACEN   e   CEF   para   apurar  possíveis irregularidades  na  condução da política habitacional. Ausência  de decisão definitiva sobre a matéria. Conhecimento. Deferimento.  As  informações sobre trabalhos realizados e não apreciados  pelo Tribunal  somente  podem  ser  concedidas  mediante  autorização  do Plenário. Entendimento já firmado pelo  Tribunal.)
+
+
+
+Decisão nº 073/98 – Plenário – Ata nº 07/98 (Solicitação  formulada pela Procuradoria da República no  Município de  Rio  Grande   RS.   Cópia   de   documentos   comprobatórios  de irregularidades  apontadas  em  acórdão   do   Tribunal  que  julgou irregulares  as contas da UFRS. Processo em fase de recurso ainda em tramitação  no  Tribunal.  Conhecimento.   Deferimento.  Juntada  às contas. Entendimento  já firmado pelo Tribunal de que  informações  sobre matéria  ainda não apreciada somente poderão ser atendidas  mediante autorização do Plenário.)
+
+
+
+Decisão nº 270/98 - Plenário – Ata nº 17/98 (Solicitação  formulada  pela  Subprocuradoria Geral  da  República. Cópia  de decisão proferida em Tomada de Contas Especial relativa  a convênio  firmado entre o Estado de Minas Gerais e o INCRA.  Matéria ainda não apreciada pelo Tribunal. Acolhimento. Comunicação. -  Processual.  Fornecimento de informações acerca de matéria  ainda não apreciada. Entendimento já firmado pelo Tribunal.)
+
+
+
+- não fornecimento de cópias
+
+
+
+
+Decisão nº 695/94 - Plenário - Ata nº 52/94 (Requerimento   de  Informações  formulado por candidato  a  Deputado Federal.  Solicitação  de cópias de processo de auditoria  realizada no  Núcleo das Voluntárias Sociais de Vitória da Conquista - BA. Não conhecimento, por não atender os requisitos de admissibilidade.)
+
+
+
+Decisão nº 094/95 - Plenário – Ata nº 09/95 (Requerimento  formulado  pela Construtora OAS. Solicitação de cópias de  processo  de auditoria que apura irregularidades na execução  de convênio  pela  Prefeitura de Caruaru PE. Possível  envolvimento  da empresa. Conhecimento. - Processual.  Pedido de vista ou cópia de peça. Impossibilidade por não ser parte no processo. Considerações.)
+
+
+
+
+
+3. COMUNICAÇÃO DE IRREGULARIDADES
+
+
+
+
+
+3.1 REPRESENTAÇÕES
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão nº 131/97 - Plenário - Ata nº 10/97 (Representação  formulada pelo Procurador da República no Estado  do RN.  Solicitação de auditoria nos recursos provenientes do FAE,  não depositados  na  Prefeitura  de  Natal, e que  seriam  destinados  à aquisição  de  merenda  escolar.   Conhecimento.  Determinação  para realização de inspeção. Arquivamento.)
+
+
+
+Decisão nº 338/97 - Primeira Câmara - Ata nº 43/97 (Representação  formulada  por  equipe de auditoria contra  a  CONAB. Contratação    de   empresa   de   assessoria   tributária  mediante inexigibilidade de licitação. Determinação.)
+
+
+
+Decisão nº 392/97 - Plenário - Ata nº 25/97 (Representação  formulada pela AGU. Descaso na conduta da defesa dos interesses  do  INSS   em   Reclamação   Trabalhista.  Determinação. Arquivamento.)
+
+
+
+Decisão nº 150/98 - Plenário - Ata nº 11/98 (Representação  formulada  por   licitante   contra  a  ELETRONORTE. Ausência  de referência no Edital do critério quanto à modalidade de licitação.    Conhecimento   da   Representação   para  considerá-la prejudicada  ante  a revogação do procedimento licitatório.  Juntada às contas.)
+
+
+
+Decisão nº 339/98 - Plenário - Ata nº 20/98 (Representação  formulada pela 39a Junta de Conciliação e Julgamento RJ.  Irregularidades na condução de ações trabalhistas por advogados contratados  pela  CBTU. Irregularidade já constatada  em  inspeção. Conhecimento. Juntada ao processo que trata do assunto.)
+
+
+
+- não conhecimento 
+
+
+
+
+Decisão nº 037/97 - Plenário - Ata nº 04/97 (Representação   formulada  pela Procuradoria-Geral do Estado  de  RO contra  o DER RO. Possíveis irregularidades em processo licitatório. Licitação  não  comprovada. Não constatação de alocação de  recursos federais. Não conhecimento. Arquivamento.)
+
+
+
+Decisão nº 135/97 - Plenário - Ata nº 10/97 (Representação  formulada  por  licitante contra o  Departamento  de Estrada  de Rodagem do Estado do PI. Irregularidades na execução  de concorrência.  Utilização  de  recursos  estaduais  na  execução  do objeto  licitado.  Matéria  refoge   à   competência   do  TCU.  Não
+
+
+conhecimento. Arquivamento.)
+
+
+
+Decisão nº 390/97 - Plenário – Ata nº 25/97 (Representação  formulada  pela  8ª SECEX. Questionamentos  sobre  a legalidade  do  Programa  de Incentivo  ao  Desligamento  Voluntário efetuado  pelo  BNDE.   Análise   das  justificativas  apresentadas. Acolhimento. Procedimentos considerados legais. Arquivamento.)
+
+
+
+
+3.2 DENÚNCIA
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão Sigilosa nº 144/97 - Plenário - Ata nº 10/97 (Denúncia  de  irregularidades na aplicação de recursos oriundos  de convênio  firmado  entre a Prefeitura Municipal de Olho  D'água  das Flores  AL  e  órgãos federais. Conhecimento.  Procedência  parcial. Tomada de Contas Especial já instaurada. Arquivamento.)
+
+
+
+Decisão Sigilosa nº 164/98 - Plenário - Ata nº 11/98 (Denúncia  contra  a Superintendência da Polícia Rodoviária  Federal no  Estado do ES. Utilização do pagamento de diárias para  aquisição de    mobiliário.   Utilização   de   viatura   oficial   para  fins particulares.  Utilização  de  camiseta do Sindicado  por  policiais rodoviários.  
+
+
+Apropriação   indevida   de   mercadoria   de  veículo acidentado.    Recebimento   indevido   de   diárias.  Conhecimento. Improcedência. Juntada às contas.)
+
+
+
+Decisão Sigilosa nº 342/98 - Plenário - Ata nº 20/98 (Denúncia  contra o DNER. Contratação de assistência médica.  Acesso limitado  ao plano de assistência e a serviços. Licitação. Restrição ao  caráter  competitivo. Ausência de definição precisa  do  objeto. Pagamento  à empresa contratada independentemente da utilização  dos serviços.  Conhecimento. Acolhimento das justificativas. Juntada  às contas. -   prestação  de  serviços de assistência complementar à  saúde  aos servidores públicos. Entendimento já firmado pelo Tribunal.)
+
+
+
+Decisão nº 482/98 – Plenário – Ata nº 30/98 (Denúncia formulada por Sindicato contra a Eletrosul. Indícios de irregularidades na implantação de Plano de Cargos e Salários. Infringência à  legislação aplicável à profissão de Técnico Industrial. Questão trabalhista que refoge à competência do Tribunal. Conhecimento. Improcedência. - Pleitos e reclamações de empregados de entidades da Administração Indireta, regidos pela CLT, refoge à competência do TCU. Entendimento já firmado pelo Tribunal.)
+
+
+
+- não conhecimento 
+
+
+
+
+Decisão Sigilosa nº 015/95 - Plenário - Ata nº 04/95 (Denúncia  formulada  por   ex-Comissionado   contra  CVM.  Possíveis irregularidades  no  cálculo  do   ressarcimento  dos  adiantamentos concedidos  por  ocasião  de férias, em razão de sua  exoneração  do cargo. Refoge à competência do TCU. Não conhecimento.)
+
+
+
+Decisão Sigilosa nº 143/97 - Plenário - Ata nº 10/97 (Denúncia  de  irregularidades na aplicação de recursos oriundos  de convênio  firmando  entre a Prefeitura Municipal de Sapopema PR e  a  SENEB  MEC. Lançamento de despesa com aquisição de material  escolar objetivando  justificar  o uso indiscriminado de verba  pública  bem como   a   ocorrência   de   desvio   de   recursos.  Improcedência. Arquivamento.)
+
+
+
+
+
+4. CONSULTA
+
+
+
+
+- conhecimento 
+
+
+
+
+Decisão nº 366/95 - Plenário - Ata nº 35/95 (Consulta   formulada pelo Controle Interno do Senado Federal sobre a prorrogação, até 60 (sessenta) meses, dos contratos de prestação  de serviços  a  serem  executados de forma contínua, celebrados  sob  a égide  do  DL  2300/86  e   da   Lei  8666/93,  antes  da  alteração introduzida  pela Lei 8883/94, tendo em vista o disposto no art.  41 da mesma Lei. Conhecimento.)
+
+
+
+Decisão nº 593/97 - Plenário - Ata nº 36/97 (Consulta  formulada  por   Parlamentar.   Possibilidade  do  Senado Federal,  mediante  Resolução,  transferir  para si  e  seus  órgãos subordinados  a  responsabilidade  pela atualização e  pagamento  de pensões  instituídas por ex servidores, independentemente do  regime de  trabalho à época do falecimento. Conhecimento.  Impossibilidade. Arquivamento. -  Integralização  de   pensões   previdenciárias.  Entendimento  já firmado pelo Tribunal.)
+
+
+
+Decisão nº 867/97 - Plenário - Ata nº 52/97 (Consulta  formulada  pela Secretaria de Controle Interno do  Senado Federal  acerca da natureza jurídica do Instituto de Previdência dos Congressistas  e  quanto ao direito de incorporação de  quintos  por servidores    requisitados    pelo   IPC   para   ocuparem   funções comissionadas.  Conhecimento quanto ao primeiro questionamento.  Não conhecimento  do  segundo  questionamento  por  se  tratar  de  caso concreto. Arquivamento. -  Entendimento 
+
+
+firmado pelo TCU: quanto à natureza jurídica, o  IPC é uma entidade fechada de previdência privada.)
+
+
+
+Decisão nº 146/98 - Plenário - Ata nº 11/98 (Consulta  formulada  por   Prefeito   Municipal.  Possibilidade  de aplicação  de  recursos  de  Royalties para locação  de  máquinas  e equipamentos  para  execução  de  serviços de  saneamento  básico  e proteção ao meio ambiente. Conhecimento. Comunicação. -  Entendimento  já  firmado pelo Tribunal quanto  à  utilização  de recursos de royalties.)
+
+
+
+- não conhecimento 
+
+
+
+
+Decisão nº 019/95 - Plenário - Ata nº 04/95 (Consulta  formulada pela CODOMAR sobre a possibilidade da celebração de  contrato de comodato com o órgão gestor de mão-de-obra do  Porto de  Itaqui,  tendo por objeto um terreno para construção da sede  do órgão.   Requisitos   de   admissibilidade   não   preenchidos.  Não conhecimento. - Bens de uso especial - Consideração sobre a matéria.)
+
+
+
+Decisão nº 395/96 - Plenário - Ata nº 26/96 (Consulta   formulada  pelo Procurador da República no Estado  de  RR sobre  a  legalidade  da  inclusão  de  parentes  de  servidores  no programa  de  Assistência  à Saúde dos Servidores do TRE e  sobre  a possibilidade  da manutenção do Programa de Assistência Farmacêutica com  recursos públicos. Caso concreto. Requisitos de admissibilidade não preenchidos. Determinação.)
+
+
+
+Decisão nº 118/97 - Plenário - Ata nº 10/97 (Consulta formulada pelo Tesoureiro do PMDB sobre a possibilidade de aplicação  dos recursos financeiros provenientes do Fundo Partidário no  Mercado Financeiro. Ausência dos requisitos de admissibilidade. Não conhecimento. Arquivamento - Natureza,  aplicação  e prestação de contas dos recursos do  Fundo Partidário. Análise da matéria.)
+
+
+
+Decisão nº 331/98 - Plenário - Ata nº 20/98 (Consulta  formulada pelo Presidente da Câmara dos Deputados. Pedido de  ressarcimento formulado por parlamentar,  decorrente de prejuízos sofridos. Caso concreto. Não conhecimento. Arquivamento.)
+
+
+
+
+
+5. COBRANÇA EXECUTIVA
+
+
+
+
+- arquivamento do processo por economia processual
+
+
+
+
+Decisão nº 315/95 - Segunda Câmara - Ata nº 38/95 (Cobrança  Executiva.  Prefeitura  Municipal de  Coqueiro  Seco  AL. Débito  inferior  ao   limite   previsto   para  cobrança  judicial. Arquivamento sem cancelamento do débito.)
+
+
+
+Decisão nº 037/96 - Primeira Câmara - Ata nº 07/96 (Cobrança  Executiva.  Royalties. Prefeitura Municipal de  Lagoa  de Dentro PB. Débito exíguo. Arquivamento por economia processual.)
+
+
+
+Decisão Administrativa 182/96 - Plenário – BTCU nº 23/96 (Cobrança   judicial  de débitos. Processos julgados anteriormente  à Decisão nº 466/95 - Plenário  com  débito  inferior  ao  fixado  naquela decisão. Definição de procedimento.)
+
+
+
+- arquivamento do processo ante o recolhimento integral do débito
+
+
+
+
+Decisão nº 93/93 - Segunda Câmara - Ata nº 11/93 (Cobrança  Executiva.   Prefeitura   Municipal   de   Carnaubais  RN. Convênio.  Comprovação  do recolhimento total do  débito,  acrescido dos  encargos  legais. Arquivamento. Mantença da irregularidade  das contas.)
+
+
+
+
+Acórdão nº 356/95 - Segunda Câmara - Ata nº 37/95 (Cobrança    Executiva.    Sociedade    Pestalozzi.   Araruama   RJ. Recolhimento do débito. Encerramento. Arquivamento. Quitação.)
+
+
+
+Acórdão nº 081/96 - Segunda Câmara - Ata nº 06/96 (Cobrança  Executiva.  CNPq.  Omissão  na  prestação  de  contas  de auxílio financeiro. Recolhimento de débito. Quitação. Arquivamento.)
+
+
+
+- arquivamento ante a suspensão ou extinção da ação por decisão judicial
+
+
+
+
+Decisão nº 028/93 - Segunda Câmara - Ata nº 05/93 (Cobrança  Executiva.  ECT.  Suspensão   da   execução  por  despacho judicial  com  fulcro  em disposições do Código de  Processo  Civil. Encerramento do processo.)
+
+
+
+Decisão nº 284/94 - Segunda Câmara - Ata nº 41/94 (Cobrança  Executiva.  CEF.   Execução   suspensa  mediante  despacho judicial.    Inexistência    de   bens   penhoráveis.  Arquivamento. Ressarcimento a ser promovido quando da viabilidade da cobrança.)
+
+
+
+Decisão nº 093/96 - Primeira Câmara - Ata nº 14/96 (Cobrança  Executiva.  Grupo Irmandade Nossa Senhora de  Nazaré - AP. Execução  suspensa mediante despacho judicial. Inexistência de  bens penhoráveis. Encerramento do processo. Determinação.)
+
+
+
+FOLHA DE SUGESTÕES
+
+
+
+
+
+
+O TCU preocupa-se com o constante aperfeiçoamento da qualidade de seus manuais e orientações, buscando, para isso, ouvir a valiosa opinião do público-alvo dos referidos trabalhos.
+
+
+
+Sugestões sobre este manual também podem ser enviadas para:
+
+
+
+E-mail: segecex@tcu.gov.br 
+
+
+Fax: (061) 316-7535
+
+
+Fone: (061) 316-7328
+
+
+Endereço:  Tribunal de Contas da União - TCU
+
+
+Secretaria-Geral de Controle Externo
+
+
+Setor de Administração Federal Sul - Lote 01
+
+
+CEP: 70042-900 - Brasília-DF
+
+
+
+
+
+
+
+
+
+
+
+

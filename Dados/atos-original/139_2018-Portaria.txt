@@ -1,0 +1,1408 @@
+Portaria
+139/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de competências legais e regimentais,
+
+
+considerando o disposto na Lei nº 12.527, de 18 de novembro de 2011, que regula o acesso a informações previsto no inciso XXXIII do art. 5°, no inciso II do § 3° do art. 37 e no § 2° do art. 216 da Constituição Federal; 
+
+
+considerando o disposto no art. 24, caput, incisos V e VI, da Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil; 
+
+
+considerando o disposto na Resolução-TCU nº 249, de 2 de maio de 2012, que dispõe sobre o acesso à informação e a aplicação da Lei 12.527, de 18 de novembro de 2011, no âmbito do Tribunal de Contas da União; 
+
+
+considerando o disposto na Resolução-TCU nº 254, de 10 de abril de 2013, que dispõe sobre a classificação da informação quanto à confidencialidade no âmbito do Tribunal de Contas da União; e considerando os estudos e pareceres constantes do TC-008.621/2018-7, resolve: 
+
+
+CAPÍTULO I
+DISPOSIÇÕES GERAIS 
+
+
+Art. 1º Fica aprovado o Programa de Dados Abertos do Tribunal de Contas da União (PDA/TCU), na forma dos Anexos a esta Portaria. 
+
+
+Parágrafo único. O PDA/TCU observa os princípios, objetivos e diretrizes estabelecidos nesta Portaria, bem como as disposições constitucionais, legais e regimentais vigentes. 
+
+
+Art. 2º Para os fins desta Portaria, entende-se por:
+
+
+I - dado: sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial; 
+
+
+II - informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;  
+
+
+III - documento: unidade de registro de informações, qualquer que seja o suporte ou formato;
+
+
+IV - dados abertos: dados públicos representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento; 
+
+
+V - metadado: informação que descreve características de determinado dado, explicando-o em certo contexto de uso. 
+
+
+
+
+VI - formato aberto: formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização; 
+
+
+VII - licença aberta: acordo de fornecimento de dados que conceda amplo acesso para que qualquer pessoa os utilize, os reutilize, e os redistribua, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença; 
+
+
+VIII - programa de dados abertos: documento orientador para as ações de implementação e promoção de abertura de dados no TCU, obedecidos os padrões mínimos de qualidade, de forma a facilitar o entendimento e a reutilização das informações. 
+
+
+Art. 3º O PDA/TCU tem como finalidade promover a abertura de dados, em consonância com os princípios de dados abertos e com os princípios da publicidade, da transparência e da eficiência, visando ao aumento da disseminação de informações para a sociedade, ao incremento da participação social e à melhoria da qualidade dos dados disponibilizados. 
+
+
+Art. 4º São objetivos do PDA/TCU: 
+
+
+I - aprimorar o conhecimento das informações produzidas pelo Tribunal e realizar a gestão e manutenção do inventário dos conjuntos dessas informações; 
+
+
+II - identificar prioridades e disponibilizar conjuntos de dados em formatos abertos; 
+
+
+III - definir os mecanismos, procedimentos e meios para a abertura dos dados, baseandose nas melhores práticas concebidas nos cenários nacional e internacional; 
+
+
+IV - promover a sustentabilidade dos conjuntos de dados publicados; 
+
+
+V - incrementar os processos de transparência e de acesso a informações públicas; 
+
+
+VI - melhorar a qualidade dos dados disponibilizados; 
+
+
+VII - estimular a interoperabilidade de dados e sistemas governamentais; 
+
+
+VII - estimular o conhecimento e o acesso às informações de controle externo e, dessa forma, fomentar o controle social; 
+
+
+IX - estimular a participação social na prática de uso, de reuso e de agregação de valor aos dados abertos governamentais e a produção de conhecimento em proveito da sociedade e do poder público;
+
+
+X - estimular o desenvolvimento de aplicações pela sociedade civil para reutilização dos dados abertos governamentais; 
+
+
+XI - buscar a integração das informações sobre controle externo; e 
+
+
+XII - melhorar a gestão e a governança da informação e de dados, no âmbito do TCU. 
+
+
+CAPÍTULO II
+DA GOVERNANÇA 
+
+
+Art. 5º O PDA/TCU e suas ações devem estar alinhadas ao planejamento estratégico institucional e prioridades institucionais. 
+
+
+Parágrafo único. As ações definidas no plano de ação que compõe o PDA/TCU devem ser consideradas quando da elaboração dos planos táticos e operacionais, tais como os Planos Diretores das Unidades e o Plano Diretor de Tecnologia da Informação. 
+
+
+Art. 6º A estrutura de governança do PDA/TCU é composta pelas seguintes instâncias: 
+
+
+
+I - Presidente; 
+
+
+II - Comissão de Coordenação-Geral - CCG; 
+
+
+III - unidades coordenadoras da abertura de dados;
+
+
+IV  unidades executoras da abertura de dados. 
+
+
+§ 1º Compete ao Presidente aprovar o PDA/TCU e suas revisões, bem como as demais iniciativas de abertura de dados. 
+
+
+§ 2º Compete à CCG: 
+
+
+I - definir a estratégia de abertura de dados; 
+
+
+II - homologar o conjunto de dados com proposta de abertura; 
+
+
+III - validar e submeter ao Presidente a proposta de PDA e suas revisões, além das demais iniciativas de abertura de dados, considerando o seu alinhamento com as estratégias e diretrizes do Tribunal; 
+
+
+IV - supervisionar a execução do PDA/TCU em nível estratégico. 
+
+
+Parágrafo único. É facultado à CCG, conforme Portaria-TCU nº 209 de 2013, o poder de delegar suas atribuições, no âmbito da lei de acesso à informação, a comitê técnico-operacional. 
+
+
+§ 3º São unidades coordenadoras da abertura de dados:
+
+
+I - Secretaria-Adjunta de Controle Externo Adgecex);
+
+
+II - Secretaria-Adjunta da Presidência (Adgepres); 
+
+
+III - Secretaria-Adjunta de Administração  Adgedam);
+
+
+IV - Gabinete de Apoio Estratégico (Gapes).
+
+
+§ 4º Compete às unidades coordenadoras de abertura de dados, no âmbito de suas respectivas áreas de atuação: 
+
+
+I - coordenar, acompanhar e monitorar a execução do PDA/TCU; 
+
+
+II - articular e coordenar, em conjunto com as unidades gestoras de Tecnologia da Informação, a construção e a disponibilização de ambiente e infraestrutura necessários à disponibilização de dados; 
+
+
+III - promover, em conjunto com a Ouvidoria e com a Secretaria de Comunicação (Secom), a gestão da comunicação entre o TCU e o público consumidor de dados abertos, podendo contar com o apoio de outras unidades, conforme o caso, como o Instituo Serzedello Corrêa (ISC), Assessoria Parlamentar (Aspar) e a Secretaria de Relações Internacionais (Serint); 
+
+
+IV - orientar as unidades sobre o cumprimento das normas referentes a dados abertos; 
+
+
+V - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada; 
+
+
+VI - monitorar a implementação do Programa de Dados Abertos;  
+
+
+VII - apresentar relatórios periódicos sobre o cumprimento do Programa de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao seu aperfeiçoamento; 
+
+
+VIII - propor à CCG revisão do PDA/TCU, contemplando, entre outras, os seguintes aspectos:
+
+
+a)	revisão do inventário de informações do Tribunal; 
+
+
+
+b)	revisão do plano de ação do PDA/TCU; 
+
+
+c)	garantia de alinhamento com as estratégias e diretrizes do Tribunal; 
+
+
+d)	aperfeiçoamento do processo de abertura de dados. 
+
+
+§ 5 São unidades executoras da abertura de dados: 
+
+
+I - unidades gestoras do negócio;
+
+
+II - unidades gestoras de TI.
+
+
+§ 6º Compete às unidades gestoras do negócio: 
+
+
+I - abertura dos dados que se encontram sob sua gestão, relativos à matéria de sua competência ou inerentes a sua área de atuação; 
+
+
+II - contribuir para a manutenção e aperfeiçoamento do inventário de informações do Tribunal; 
+
+
+III - realizar atividades de sua reponsabilidade relativas ao processo de priorização das informações, como atribuição dos valores dos critérios, análise da viabilidade de abertura, entre outras.
+
+
+§ 7º Compete às unidades gestoras de TI: 
+
+
+I -  assegurar a disponibilidade do acesso às informações publicadas; 
+
+
+II - garantir, sempre que possível, a adesão da publicação aos padrões nacionais e internacionais estabelecidos para a abertura de dados; 
+
+
+III - garantir a adequação das ações do PDA/TCU aos princípios, políticas e processos de governança de TI e suas especializações. 
+
+
+Art. 7º As informações que devem ser disponibilizadas em formato aberto encontram-se no Anexo 2 desta Portaria.
+
+
+Parágrafo único. O início do processo de abertura dos dados observará cronograma aprovado pela CCG, considerando o plano de ação disposto no Anexo 2 a esta Portaria. 
+
+
+Art. 8º Os casos omissos serão dirimidos pela Comissão de Coordenação-Geral. 
+
+
+Art. 9º O Programa de Dados Aberto será revisado a cada três anos, contados da data de publicação desta Portaria. 
+
+
+Parágrafo único. O plano de ação constante do anexo 2 será revisado anualmente, antes da elaboração dos planos operacionais das unidades. 
+
+
+Art. 10. Esta Portaria entra em vigor na data de sua publicação. 
+
+
+RAIMUNDO CARREIRO
+
+
+
+Cláudio Souza Castello Branco
+
+
+Secretário-Geral de Controle Externo
+
+
+
+Carlos Roberto Caixeta
+
+
+Secretário-Geral de Administração
+
+
+
+
+Rainério Rodrigues Leite
+
+
+Secretário-Geral da Presidência
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Programa de Dados Abertos do Tribunal de Contas da União.
+
+ANEXO 1 DA PORTARIA-TCU Nº 139, DE 17 DE MAIO DE 2018.
+
+
+
+
+
+
+PROGRAMA DE DADOS ABERTOS DO TRIBUNAL DE CONTAS DA UNIÃO 
+
+
+
+
+
+1. Introdução 
+
+
+
+O Programa de Dados Abertos do Tribunal de Contas da União constitui instrumento de planejamento e coordenação das ações de disponibilização de dados do Tribunal e é parte das iniciativas e projetos direcionados à transparência. A implementação das atividades previstas neste Programa amplia a transparência dos atos de gestão do Tribunal, aperfeiçoa a divulgação de suas informações à sociedade e promove o controle social, coerente com uma visão ampla e de longo prazo focada na aproximação da instituição com a sociedade. 
+
+
+Os principais normativos aplicáveis à confecção deste Programa são: 
+
+
+a)  A Lei nº 12.527, de 18 de novembro de 2011, Lei de Acesso a Informação – LAI; 
+
+
+b)  A Resolução-TCU Nº 249, de 2 de maio de 2012, que dispõe sobre o acesso à informação e a aplicação da Lei 12.527, de 18 de novembro de 2011, no âmbito do Tribunal de Contas da União;
+
+
+c)  O disposto no art. 48 da Lei Complementar nº 101, de 4 de maio de 2000, que determina o Poder Público a adoção de instrumentos de transparência na gestão fiscal em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;  
+
+
+d)  Decreto Presidencial s/nº de 15 de setembro de 2011, que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a 
+
+
+Infraestrutura Nacional de Dados Abertos (INDA); 
+
+
+e)  A Instrução Normativa nº4 de 13 de abril de 2012, que cria a INDA e estabelece conceitos referentes a: dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
+
+
+f) O Plano de Ação Nacional sobre Governo Aberto no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP; 
+
+
+g)  Decreto nº 8.777 de 11 de maio de 2016, que institui a Política de Dados Abertos; 
+
+
+h)  Os parâmetros estabelecidos no âmbito do Plano Estratégico do TCU. 
+
+
+
+2. Diretrizes 
+
+
+
+O fundamento de todo o processo de abertura no Tribunal tem origem no art. 5º da Constituição Federal e está também consignado no art. 3º da Lei de Acesso à Informação (LAI), e na Resolução 249/2012: a observância da publicidade como preceito geral e do sigilo como exceção. 
+
+
+O processo de abertura de dados do Tribunal deve observar práticas que assegurem a disponibilização de dados completos, primários, atuais, acessíveis, processáveis por máquina, com acesso não discriminatório, em formatos não proprietários e livres de licenças. 
+
+
+As principais diretrizes são:
+
+
+
+
+a)  disponibilizar os dados abertos do Tribunal de Contas da União por meio de um ponto central de acesso on-line, tornando mais simples encontrá-los; 
+
+
+b)  publicar, progressivamente, os conjuntos de dados considerados relevantes para a sociedade, em formato aberto, de forma reutilizável e legível por máquina; 
+
+
+c)  publicar os conjuntos de dados de forma ágil, planejada e organizada, acompanhados da respectiva descrição dos dados (metadados) e com os requisitos mínimos definidos pelo PDA; 
+
+
+d)  manter os dados publicados atualizados e sincronizados com a origem preferencialmente, por meio de sincronização automática e sistemática; 
+
+
+e)  publicar os dados, na medida do possível, conforme os padrões nacionais estabelecidos.
+
+
+
+3. Estratégias para Abertura de Dados
+
+
+
+O foco do processo de abertura é o cidadão e, por isso, o objetivo maior é fornecer as informações que sejam relevantes à sociedade e promover a participação social. Para isso, além de identificar as informações de valor para o cidadão, a priorização da disponibilização das informações deve considerar prioritariamente os requerimentos de acesso à informação encaminhados pela sociedade por meio de canal de comunicação estabelecido pelo TCU para esse propósito.
+
+
+As estratégias para a disponibilização dos dados abertos no TCU se consubstanciam em:
+
+
+a) foco no cidadão;
+
+
+b)  levantamento do conjunto de dados candidato à abertura; 
+
+
+c)  priorização e seleção dos dados que serão abertos;
+
+
+d)  definição de responsáveis pelo preparo e atualização dos dados e detalhamento de plano de ação com metas e prazos; 
+
+
+e)  disponibilização de dados de forma progressiva, tanto em relação ao número de conjunto de dados disponibilizados, como à evolução do seu formato; 
+
+
+f)  utilização de padrões nacionais; 
+
+
+g)  capacitação dos responsáveis nas áreas de negócio dos dados selecionados para abertura; 
+
+
+h)  publicação, sempre que possível, dos vínculos entre a estrutura dos dados e o Vocabulário de Controle Externo do TCU (VCE);
+
+
+i) disponibilização dos dados abertos preferencialmente em um único e fácil ponto de acesso on-line.
+
+
+
+4. Sustentação 
+
+
+
+O modelo de sustentação adotado tem o intuito de garantir a atualidade dos dados abertos o Tribunal e de seus metadados, bem como a aderência aos padrões nacionais e internacionais sobre o assunto. Segundo as diretrizes definidas para o processo de abertura, deve-se promover, preferencialmente, a sincronização automática dos dados, estabelecendo-se um processo contínuo de atualização.
+
+
+A sustentação dos dados é de responsabilidade dos curadores de cada informação, ou seja, das Unidades Gestoras do Negócio, e compreende as seguintes atividades: 
+
+
+a)  verificar, para efeitos de publicação, se os dados e seus metadados estão completos e atualizados;
+
+
+b)  verificar, periodicamente, se os dados e seus metadados estão completos e atualizados;
+
+
+
+c)  informar às Unidades Coordenadoras da Abertura de Dados as alterações sofridas pelas informações e que tenham impacto na sua disponibilização em formato aberto;  
+
+
+d)  identificar e elaborar propostas para possíveis melhorias na qualidade dos dados disponibilizados e para novos conjuntos de dados candidatos à abertura de dados. 
+
+
+Também são responsáveis pela sustentação dos dados as Unidades Coordenadoras da Abertura de Dados e as Unidades Gestoras de TI, com a responsabilidade pelas seguintes atividades: 
+
+
+a)  contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível ou encontra-se desatualizado; 
+
+
+b)  prover a disponibilidade do acesso aos dados abertos; 
+
+
+c)  promover a melhoria contínua da qualidade dos dados; 
+
+
+d)  manter a Matriz de Responsabilidade atualizada e disponível ao cidadão; 
+
+
+e)  garantir que os dados abertos do Tribunal estejam todos disponíveis preferencialmente através de um único e fácil ponto de acesso on-line; 
+
+
+f)  promover a melhoria contínua do processo de abertura dos dados; 
+
+
+g)  planejar, previamente, a evolução da infraestrutura para que comporte a evolução da abertura de dados.
+
+
+No processo de revisão e de atualização do PDA deverá ser realizada a avaliação da qualidade dos dados disponibilizados e registradas as propostas de melhoria, que devem ser implementadas pelas Unidades Gestoras do Negócio, sempre que possível, no próximo ciclo de execução do plano, por meio de projetos de qualidade junto às áreas da TI competentes.
+
+
+
+5. Monitoramento e controle 
+
+
+
+A implantação do PDA tem como premissa o monitoramento contínuo das atividades contidas no Roteiro de Atividades, com o intuito de verificar se o processo está sendo executado da maneira como foi definido e se está gerando os resultados esperados. Deve ser realizado, primordialmente, pelas Unidades Coordenadoras da Abertura de Dados, com o apoio das demais unidades.
+
+
+O monitoramento fará o acompanhamento das iniciativas do roteiro, suas metas, prazos, indicadores, produtos. Contemplará também a avaliação da sustentabilidade da abertura de dados, com a análise de aspectos relacionados à disponibilidade dos dados, tais como a atualidade dos dados e metadados, acesso livre aos dados, entendimento do significado da informação por parte da sociedade, entre outros.
+
+
+O alinhamento do PDA à legislação corrente e aos padrões nacionais também deve ser monitorado. Cabe às Unidades Coordenadoras da Abertura de Dados, ainda, verificarem o alinhamento do PDA com os instrumentos de planejamento do Tribunal, como o Plano Estratégico, o Plano de Controle Externo e o Plano de Diretrizes, além da inclusão das ações de TI referentes à abertura de dados no PDTI e demais planos institucionais relacionados. Mudanças nas diretrizes e estratégias da instituição poderão requerer alguma adaptação no roteiro definido, a depender da sua profundidade. 
+
+
+Anualmente, no mês de março, as Unidades Coordenadoras da Abertura de Dados elaborarão relatório de avaliação do processo de abertura dos dados, o qual deve incluir, entre outras informações, a relação dos dados disponibilizados, os indicadores estabelecidos para o monitoramento e as dificuldades vivenciadas durante o processo. Essas informações irão, juntamente com os critérios estabelecidos, orientar a evolução e a priorização da abertura de dados, como também a revisão do PDA.
+
+
+
+
+6. Melhoria da qualidade dos dados
+
+
+
+A premissa de disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, ampliando-se o potencial de utilização, inclui, entre outras técnicas, a publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos – APIs e desenvolvimento de ontologias.
+
+
+Para o processo de abertura de dados, este plano institui os seguintes critérios de qualidade:
+
+
+a)  Os dados disponibilizados devem poder ser acessados diretamente, através de URL única, ou seja, passível de ser reproduzida e compartilhada sem a necessidade de navegação na página para seu acesso; 
+
+
+b)  Tabelas mantidas em arquivos PDF (relatórios, por exemplo), devem estar contidas também em arquivos próprios para sua estruturação (como csv e odt), e serem referenciadas por esses relatórios; 
+
+
+c)  Os dados devem ser disponibilizados em formatos abertos, conforme padrões nacionais para a abertura de dados definidos pela Inda; 
+
+
+d)  Os dados publicados devem conter um conjunto mínimo de metadados obrigatórios, com a indicação das limitações existentes, como, por exemplo, comprometimentos na qualidade da informação.
+
+
+Para cada caso de abertura deverá ser desenhada uma estratégia de evolução, considerando os critérios de qualidade acima e a premissa primordial da priorização na divulgação de dados relevantes para a sociedade.
+
+
+
+7. Comunicação e participação social
+
+
+
+O Tribunal deve dar conhecimento da institucionalização do Programa de Dados Abertos, sua governança, revisões e, primordialmente, da disponibilização de dados a todos os públicos de potenciais interessados. A comunicação da abertura de dados deve ter como meta a disseminação da cultura da transparência, tanto para o público interno como externo, e a solidificação da publicação de dados na rotina do Tribunal. 
+
+
+São orientações quanto à comunicação e a participação social no processo de abertura de dados do Tribunal de Contas da União: 
+
+
+a)  comunicação no âmbito da abertura de dados será realizada em conjunto com a Secretaria de Comunicação do Tribunal (Secom); 
+
+
+b)  a informação de que há dados do TCU abertos disponíveis para uso e reuso deve estar amplamente difundida, inclusive por meio do portal do Tribunal e das mídias sociais; 
+
+
+c)  deve se dar a devida publicidade ao PDA/TCU, bem como ao inventário de informações do Tribunal;
+
+
+d)  devem ser providos canais permanentes e eficientes para a comunicação entre TCU e o público consumidor de dados abertos, sendo, no mínimo, o Serviço de Informação ao Cidadão (SICs), o qual já é provido no Portal TCU sob responsabilidade da Ouvidoria do Tribunal,  e um canal específico no portal aonde o Tribunal disponibiliza seus dados; 
+
+
+e)  o processo de comunicação na abertura de dados deve contar com um time responsável por receber e analisar as solicitações e sugestões dos cidadãos, com competências técnica e de gestão da informação, de forma que melhorias no processo possam ser incorporadas. 
+
+
+
+
+8. Definição dos dados a serem abertos 
+
+
+
+Para orientar as etapas de abertura de dados e priorizar os dados a serem disponibilizados, foram estabelecidos os critérios de priorização listados abaixo, divididos entre critérios de relevância e critérios de viabilidade. Os critérios de relevância buscam abranger fatores que apreciam a importância e o interesse da informação para a sociedade e os critérios de viabilidade buscam refletir se é praticável a abertura da informação e sua prontidão para tal.
+
+
+Critérios de Relevância  
+
+
+R1. Grau de relevância para o público consumidor de DA 
+
+
+R2. Existência de obrigatoriedade legal da divulgação ou compromisso assumido pelo TCU 
+
+
+R3. Constituiu demanda PAI (Pedido de Acesso à informação) 
+
+
+R4. Qualidade dos Objetos de Informação 
+
+
+R5. Há perspectiva de que o sistema de informação será mantido nos próximos anos 
+
+
+
+Critérios de Viabilidade 
+
+
+V1. Informação produzida pelo TCU 
+
+
+V2. Informação está disponível em BD ou sistemas do TCU 
+
+
+V3. Informação já é disponibilizada 
+
+
+V4. Informação é classificada formalmente 
+
+
+V5. Informação é pública (sem acesso restrito com base na legislação vigente), parcialmente pública ou sigilosa.
+
+
+Para cada informação relacionada no inventário de informações do Tribunal, os respectivos gestores, juntamente com a equipe responsável pela elaboração ou revisão do PDA, atribuíram valores aos critérios estabelecidos, inclusive quanto ao grau de relevância para o público consumidor. O inventário com as informações produzidas pelo Tribunal possui, hoje, 167 itens de informação e foi base para a definição da ordem de precedência sugerida para a abertura dos dados. Com a evolução do processo e com as revisões do PDA, o inventário será continuamente aprimorado.
+
+
+À época da abertura da informação priorizada, deverá então ser feito um levantamento mais detalhado de todos os aspectos a ela relacionados, em especial acerca da sua confidencialidade.
+
+
+Ademais, estando a informação classificada ou não, a divulgação de um conjunto de dados exigirá, ainda, uma nova e mais precisa avaliação quanto à publicidade das informações ali contidas, sendo esta avaliação de responsabilidade da unidade responsável pelo negócio.
+
+
+Com base no inventário, que contém a lista das informações, seus atributos e os respectivos critérios avaliados, foi realizada a escolha e a ordenação dos critérios para a priorização da abertura dos dados. A priorização deve, sempre que possível, observar os pedidos de informação encaminhados ao TCU pela sociedade e ponderar essa informação juntamente com os critérios.  
+
+
+A estratégia proposta é norteada pelo valor da informação para o cidadão e pela agilidade na sua disponibilização. Para isso, foram aplicados os seguintes valores aos critérios abaixo: 
+
+
+R1 - Grau de relevância para o público consumidor de DA = "Alto";
+
+
+R2 - Existência de obrigatoriedade legal da divulgação ou compromisso assumido pelo  TCU = "Sim";
+
+
+R4 - Qualidade dos Objetos de Informação = "Alta" ou "Muito Alta";
+
+
+
+R5 - Há perspectiva de que o sistema de informação será mantido nos próximos anos = "Sim"; 
+
+
+V5 - Informação é pública = "Pública" ou "Parcialmente Pública".
+
+
+Com a aplicação desses valores sobre a planilha do inventário, de 167 itens de informação obteve-se uma relação com a proposta de 11 itens para a abertura, os quais foram divididos em dois grupos a serem disponibilizados em duas sucessivas etapas: 
+
+
+Execução 1 
+
+
+-  Cadastro de Responsáveis com Contas Julgadas Irregulares – Cadirreg 
+
+
+-  Informações sobre as cobranças executivas realizadas pelo TCU – Cbex 
+
+
+-  Pauta das Sessões 
+
+
+-  Atos Normativos do TCU 
+
+
+-  Contratos 
+
+
+-  Licitações 
+
+
+Execução 2 
+
+
+-  Informações gerais sobre as fiscalizações concluídas – Fiscalis 
+
+
+-  Informações gerais sobre as fiscalizações de obras concluídas – Fiscalis Obras 
+
+
+- Informações gerais dos processos (não julgados e julgados), não considerando os processos e suas peças em si
+
+
+-  Solicitações do Congresso Nacional 
+
+
+-  Deliberações 
+
+
+Ao priorizar dados de valor ao cidadão, embora, para alguns conjuntos de dados, possa demandar maior tempo e esforço na respectiva conclusão do processo de abertura, tem-se uma maior expectativa de uso pelos potenciais consumidores de dados e, consequentemente, maiores chances de alcance dos benefícios da abertura. Os conjuntos de dados a serem disponibilizados serão apontados pela instância gestora e homologados pela CCG.
+
+
+Para as execuções subsequentes do PDA, deverá ser definida, à época, a estratégia de priorização e a aplicação dos demais critérios, de modo que seja dada continuidade ao processo de priorização da abertura dos dados.
+
+
+
+9. Atividade preparatórias para a abertura dos dados 
+
+
+
+O Roteiro de Atividades preparatórias para abertura dos dados apresenta as iniciativas propostas e assumidas pelo Tribunal de Contas da União no âmbito do Programa de Abertura de Dados do TCU. Traz os produtos que devem ser gerados pelas atividades, os responsáveis e as precedências existentes.
+
+
+Atividade 
+
+Detalhamento 
+
+Produtos 
+
+Precedência 
+
+Unidades responsáveis (R) e colaboradoras (C) 
+
+1. Institucionalizar o Programa de Abertura de Dados nos normativos internos 
+
+1. Levantar normativos a serem alterados e criados; 
+
+2. Propor a alteração de normativos vigentes e, se necessário, a publicação de novos. 
+
+1. Propostas de alteração de normativos internos; 
+
+2. Propostas de publicação de normativos internos. 
+
+ 
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R) 
+
+2. Definição do Portal para disponibilização dos dados abertos do 
+
+Tribunal 
+
+1. Definição da estrutura, ferramentas e requisitos do Portal de Dados Abertos do TCU. 
+
+1. Construção do Portal de Dados 
+
+Abertos do TCU. 
+
+1
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R); 
+
+2. Unidades Gestoras de TI (R). 
+
+3. Preparação da infraestrutura para disponibilização dos dados abertos e para o 
+
+canal de comunicação com o  cidadão
+
+1. Definição da arquitetura de abertura de dados; 
+
+2. Disponibilização de ambiente adequado e necessário para a abertura de dados. 
+
+1. Ambiente disponível para a abertura de dados. 
+
+1 e 2
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (C); 
+
+2. Unidades Gestoras de TI (R).
+
+4. Preparação, em formato aberto, dos conjuntos de dados priorizados 
+
+1. Definição, junto aos gestores da informação e unidades gestoras de TI, dos requisitos e metadados referentes aos dados a serem abertos; 
+
+2. Definição dos formatos de abertura; 
+
+3. Verificação da publicidade ou sigilo das informações que serão disponibilizadas; 
+
+4. Definição dos responsáveis pela abertura e manutenção dos dados (Matriz de Responsabilidade);
+
+5. Reparação dos dados em formato aberto; 
+
+6. Verificar a adequabilidade aos padrões nacionais. 
+
+1. Conjuntos de dados priorizados preparados em formato aberto, com seus metadados completos e responsabilidades definidas; 
+
+1
+
+1.  Unidades 
+
+Coordenadoras da Abertura de Dados (R); 
+
+2. Instancia Executora: 
+
+Unidades Gestoras do Negócio e Unidades Gestoras de TI. 
+
+5. Definição do canal de comunicação específico para o portal de dados abertos, bem como do time responsável pelo monitoramento e atendimento desse canal 
+
+1. Definição do canal de comunicação específico para o portal de dados abertos; 
+
+2. Definição da ferramenta, metodologia e arquitetura do canal; 
+
+3. Disponibilização de ambiente adequado e necessário para a comunicação entre Tribunal e público 
+
+consumidor de dados abertos; 
+
+4. Definição do time responsável pelo monitoramento e gerenciamento desse canal. 
+
+1. Canal de comunicação direta com o cidadão disponível e gerenciado; 
+
+1  e 2
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R); 
+
+2. Unidades Gestoras de TI (C); 
+
+3. Secretaria de Comunicação  (C). 
+
+6. Concepção do 
+
+Programa de Comunicação para a abertura dos dados do TCU 
+
+1. Definição dos formatos e mídias de publicação das notícias sobre a abertura de dados no Tribunal para dois distintos momentos:
+
+a) publicação do Portal de Abertura de Dados do TCU e primeiros dados abertos e  
+
+b) publicação de novos dados abertos. 
+
+1. Programa de comunicação para a abertura dos dados. 
+
+1
+
+1.  Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R); 
+
+2.  Secretaria de 
+
+Comunicação (C).
+
+7. Publicação dos dados 
+
+1. Colocar no ar o Portal de Dados Abertos do TCU;
+
+ 
+
+2. Publicação dos dados abertos e implantação dos serviços correlatos; 
+
+3. Catalogação dos conjuntos de dados abertos publicados. 
+
+1. Publicação do Portal de Dados 
+
+Abertos do TCU; 
+
+2. Conjunto de dados catalogados; 
+
+3. Dados publicados. 
+
+1,2,3,4
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R); 
+
+2. Unidades Gestoras de TI (R). 
+
+8. Divulgação da 
+
+abertura dos dados do TCU 
+
+1. Execução do plano de comunicação para divulgação da abertura de dados. 
+
+1. Publicações de notícias de divulgação da abertura de dados do TCU, nas mídias estabelecidas no plano de comunicação. 
+
+1 e 7
+
+1.  Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados  (R); 
+
+2.  Secretaria de 
+
+Comunicação (C). 
+
+9. Garantia da sustentabilidade dos dados já abertos pelo 
+
+Tribunal 
+
+1. Atualização periódica dos dados, metadados e Matriz de Responsabilidade; 
+
+2. Promoção da melhoria dos dados; 
+
+3. Garantia da disponibilidade dos dados. 
+
+1. Dados e metadados disponíveis e atuais; 
+
+ 
+
+2. Melhoria da qualidade dos dados. 
+
+1 e 7
+
+1. Unidade Gestora do 
+
+Negócio (R); 
+
+2. Unidades Gestoras de TI (R). 
+
+10. Monitoramento do PDA 
+
+1. Definição dos indicadores; 
+
+2. Acompanhamento do PDA. 
+
+1. Relatório de avaliação do processo de abertura de dados. 
+
+1 e 7
+
+1. Unidades 
+
+Coordenadoras da 
+
+Abertura de Dados (R). 
+
+
+
+
+10. 	Glossário 
+
+
+
+O Glossário traz definições que são utilizadas no contexto da abertura de dados no Tribunal de Contas da União. Elas advêm da Lei de Acesso à Informação, do Plano de Ação para Implementação da Inda, de novembro de 2012, e da Portaria-TCU 210, de 14 de agosto de 2014, que dispõe sobre a Política Corporativa de Segurança da Informação (PCSI/TCU) e sobre o Sistema de Gestão de Segurança da Informação do Tribunal de Contas da União (SGSI/TCU). 
+
+
+
+Dado: sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial. Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001; SETZER, 2001;). 
+
+
+
+Informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; A informação é gerada a partir de algum tratamento ou processamento dos dados por parte do seu usuário, envolvendo, além de procedimentos formais (tradução, formatação, fusão, exibição, etc.), os processos cognitivos de cada indivíduo (MACHADO, 2002; SETZER, 2001). 
+
+
+
+Documento: unidade de registro de informações, qualquer que seja o suporte ou formato;
+
+
+
+Informação sigilosa: aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado;  
+
+
+
+Informação pessoal: aquela relacionada à pessoa natural identificada ou identificável;  
+
+
+
+Tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação;
+
+
+
+Disponibilidade: qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados;  
+
+
+
+Autenticidade: qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema;  
+
+
+
+Integridade: qualidade da informação não modificada, inclusive quanto à origem, trânsito e destino;  
+
+
+
+
+
+Primariedade: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações; 
+
+
+
+Confidencialidade: propriedade que garante que a informação seja acessada somente pelas pessoas ou processos que tenham autorização para tal; 
+
+
+
+Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha o seu acesso restrito por legislação específica; 
+
+
+
+Dados abertos: dados públicos representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento; 
+
+
+
+Metadado: informação que descreve características de determinado dado, explicando-o em certo contexto de uso. 
+
+
+
+Dados governamentais abertos (DGA): podem ser entendidos como a "disponibilização, através da Internet, de informações e dados governamentais de domínio público para a livre utilização pela sociedade" (AGUNE, GREGORIO FILHO, BOLLIGER, 2010). Esta definição já é um consenso entre autores como Diniz (2010), que defendem a ideia de que dados públicos pertencem ao cidadão que, por consequência, deve ter acesso irrestrito às informações governamentais. 
+
+
+
+Formato aberto: formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização; 
+
+
+
+Licença aberta: acordo de fornecimento de dados que conceda amplo acesso para que qualquer pessoa os utilize, os reutilize, e os redistribua, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença; 
+
+
+
+e-PING: Padrões de Interoperabilidade de Governo Eletrônico – define um conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação (TIC) na interoperabilidade de serviços de Governo Eletrônico, estabelecendo as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
+
+
+
+e-VoG: Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de Vocabulários e Ontologias de Governo Eletrônico (http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal. 
+
+
+
+Linked Data: conjunto de boas práticas para publicação de dados estruturados de maneira a facilitar seu compartilhamento e integração; 
+
+
+
+Segurança da Informação: proteção da informação contra ameaças a sua confidencialidade, integridade, disponibilidade e autenticidade, para minimizar riscos, garantir a eficácia das ações do negócio e preservar a imagem do TCU; 
+
+
+
+
+Sistema de Gestão de Segurança da Informação (SGSI/TCU): parte integrante do Sistema de Gestão de Segurança Institucional do Tribunal (SGSIN/TCU), baseada em riscos do negócio, que visa estabelecer, implementar, operar, monitorar, analisar criticamente, manter e melhorar a segurança da informação; 
+
+
+
+
+
+Incidente de segurança da informação: qualquer indício de fraude, sabotagem, espionagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer ou ameaçar a segurança da informação; 
+
+
+
+
+Gestor da Informação ou Gestor do Negócio: colegiado do TCU ou de sua Secretaria, autoridade do Tribunal ou dirigente de unidade responsável por informação em matéria de sua competência ou inerente a sua área de atuação; 
+
+
+
+Custodiante da Informação: qualquer pessoa física ou jurídica, interna ou externa, unidade ou projeto do Tribunal que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal; 
+
+
+
+Ciclo de vida da informação: compreende etapas e eventos de produção, recebimento, armazenamento, acesso, uso, alteração, cópia, transporte e descarte da informação; e colaborador: prestador de serviço terceirizado, estagiário ou qualquer pessoa com vínculo transitório com o TCU que tenha acesso, de forma autorizada, às informações ou às dependências do Tribunal.
+
+
+
+
+
+
+ANEXO 2 DA PORTARIA-TCU Nº 139, DE 17 DE MAIO DE 2018.
+
+
+
+PLANO DE AÇÃO
+
+
+
+Esta Sessão apresenta o Inventário de Dados das áreas de negócio e as expectativas de entrada em prática das ações de abertura de dados. Também, relata o status das ações previstas no PDA anterior, repactuando a Meta/Prazo ou informando que essa ação já foi concluída (palavra "DISPONÍVEL" nessa coluna nas tabelas que seguem).
+
+
+
+1. SECRETARIA GERAL DA PRESIDÊNCIA - SEGEPRES
+
+
+
+Nome 
+
+Atividades 
+
+Meta/Prazo 
+
+Periodicidade de atualização 
+
+Unidade Gestora do Negócio 
+
+Solicitações do  Congresso Nacional 
+
+(enviadas ou não pelo Parlamento) 
+
+1. Seleção da base de dados e extração a partir do Sispar; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal.
+
+Abril/2018 
+
+diária 
+
+Aspar 
+
+Atos Normativos do TCU 
+
+1. Seleção da base de dados e extração a partir do sistema de atos normativos; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Maio/2018 
+
+semanal 
+
+Seses 
+
+Pauta das Sessões 
+
+1. Seleção da base de dados e extração a partir do e-TCU - Gabinetes; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Junho/2018 
+
+semanal 
+
+Seses 
+
+Acórdãos Públicos 
+
+1. Seleção da base de dados e extração a partir do Sagas; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3.Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Julho/2018 
+
+semanal 
+
+Seses 
+
+
+
+
+2. SECRETARIA GERAL DE ADMINISTRAÇÃO - SEGEDAM 
+
+
+
+
+Nome 
+
+Atividades 
+
+Meta/Prazo 
+
+Periodicidade de atualização 
+
+Unidade Gestora do Negócio 
+
+Informações de contratos e demais instrumentos 
+
+contratuais firmados pelo TCU 
+
+1. Seleção da base de dados e extração a partir do Sistema Contrata; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Abril/2018
+
+diária
+
+Selip
+
+Dados relativos às licitações promovidas pelo TCU 
+
+1. Seleção da base de dados e extração a partir do Sistema  de Consolidação de Dados sobre Licitações; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Maio/2018
+
+semanal
+
+Selip
+
+
+
+
+
+3. SECRETARIA GERAL DE CONTROLE EXTERNO - SEGECEX 
+
+
+
+
+Nome 
+
+Atividades 
+
+Meta/Prazo 
+
+Periodicidade de atualização 
+
+Unidade Gestora do Negócio 
+
+Cadastro de 
+
+Responsáveis com 
+
+Contas Julgadas Irregulares 
+
+1. Seleção da base de dados e extração a partir do Cadireg; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Junho/2018
+
+semanal
+
+Segecex
+
+Fiscalizações realizadas pelo 
+
+Tribunal, nas suas três fases: Planejamento, 
+
+Execução e Relatório 
+
+1. Seleção da base de dados e extração a partir do Fiscalis 
+
+Execução e Fiscalis Plan; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados; 
+
+ 
+
+4. Envio para publicação no Portal. 
+
+Julho/2018 
+
+semanal 
+
+Sepac/SeinfraUrb/
+Semec
+
+Fiscalizações do TCU com o objetivo de 
+
+verificar o processo de execução de obras públicas 
+
+1. Seleção da base de dados e extração a partir do Fiscalis Obras; 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+3. Conferência dos Dados; 
+
+4. Envio para publicação no Portal. 
+
+Agosto/2018 
+
+semanal 
+
+Sepac/SeinfraUrb/
+Semec
+
+Processos (e-TCU) 
+
+1. Seleção da base de dados e extração a partir do e-TCU;
+
+ 
+
+2. Formatação dos dados conforme metodologia
+
+padronizada estabelecida no
+
+PDA;
+
+ 
+
+3. Conferência dos Dados;
+
+ 
+
+4. Envio para publicação no Portal.
+
+Setembro/2018 
+
+semanal 
+
+Sepac (Processos
+
+Administrativos deverão ser
+
+considerados pela
+
+Seadmin)
+
+Coleta Eletrônica de Processos de Contas 
+
+1. Seleção da base de dados e extração a partir do e-Contas; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados.
+
+ 
+
+Outubro/2018 
+
+semanal 
+
+Siac/Semec (Contas)
+
+Autuação de 
+
+Processos de 
+
+Cobrança Executiva 
+
+1. Seleção da base de dados e extração a partir do CBEX; 
+
+ 
+
+2. Formatação dos dados conforme metodologia 
+
+padronizada estabelecida no 
+
+PDA; 
+
+ 
+
+3. Conferência dos Dados.
+
+ 
+
+Novembro/2018 
+
+semanal 
+
+Siac/ SCBEX
+
+
+
+

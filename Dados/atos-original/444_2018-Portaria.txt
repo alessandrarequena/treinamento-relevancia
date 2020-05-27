@@ -1,0 +1,1586 @@
+Portaria
+444/2018
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais, e
+
+
+considerando o princípio da eficiência previsto no art. 37 da Constituição Federal;
+
+
+considerando o disposto na Lei nº 8.666, de 21 de junho de 1993, na Lei nº 10.520, de 17 de julho de 2002, na Lei nº 12.692, de 24 de julho de 2012, na Lei nº 9.430, de 27 de dezembro de 1996, na Lei nº 8.212, de 24 de julho de 1991, na Lei Complementar nº 116, de 31 de julho de 2003, no Decreto-Lei nº 200, de 25 de fevereiro de 1967, art. 10, § 7º, e na Resolução-TCU nº 158, de 22 de janeiro de 2003;
+
+
+considerando as orientações e os entendimentos contidos nos Acórdãos nos 1.214/2013, 2.622/2015, 2.328/2015 e 2.339/2016, todos do Plenário do TCU, e a Instrução Normativa nº 5, de 25 de maio de 2017, exarada no âmbito do Ministério do Planejamento, Desenvolvimento e Gestão;
+
+
+considerando a necessidade de positivar os procedimentos e práticas adotados institucionalmente, bem como de aprimorar os controles correlatos, de modo a favorecer a governança na área de contratações e a mitigar os riscos associados; e
+
+
+considerando os estudos e os pareceres constantes dos processos nº TC 024.072/2016-8, resolve:
+
+
+TÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º O planejamento, a licitação e a execução de contratos de serviços, continuados ou não, no âmbito da Secretaria do Tribunal de Contas da União (TCU), obedecem ao disposto nesta Portaria. 
+
+
+Art. 2º Para os fins desta Portaria, entende-se por:
+
+
+I - serviços com regime de dedicação exclusiva de mão de obra: serviços em que o modelo de execução contratual exija, entre outros requisitos, que os empregados da contratada fiquem à exclusiva disposição da contratante, em suas dependências e sob sua fiscalização;
+
+
+II - serviços por escopo: serviços cuja necessidade de contratação se exaure com a consecução de um objeto especificamente definido e esgotável por si, não importando o elemento temporal como determinante de extinção, mas como parâmetro de eficiência e celeridade;
+
+
+III - serviços de natureza continuada: serviços essenciais para assegurar a integridade do patrimônio de forma rotineira ou para manter o contínuo funcionamento das atividades do TCU, que se constituem necessidade permanente, cuja contratação deva estender-se por mais de um exercício financeiro e continuamente;
+
+
+IV - serviços de natureza não continuada: serviços que têm por objetivo a obtenção de produtos ou resultados específicos em um período pré-determinado;
+
+
+V - produtos ou resultados: bens ou serviços, quantitativamente delimitados e qualitativamente avaliáveis, a serem entregues pela contratada por força do contrato;
+
+
+VI - Estudos Preliminares: estudos técnicos empreendidos na fase de planejamento da contratação, materializados em um documento, que demonstram a necessidade e a viabilidade técnica e econômica do futuro contrato;
+
+
+VII - Projeto Básico ou Termo de Referência: documento que contém os elementos técnicos capazes de propiciar a avaliação do custo da contratação e os elementos técnicos necessários e suficientes para caracterizar o serviço a ser contratado e orientar a execução e a fiscalização contratual;
+
+
+VIII - unidade de medida: parâmetro de medição adotado para possibilitar a quantificação dos serviços e a aferição dos resultados;
+
+
+IX - pesquisa de preços: procedimento realizado na fase de planejamento, objetivando a busca de valores de referência para elaboração do orçamento estimado da contratação; 
+
+
+X - planilha de custos e formação de preços: documento que detalha os componentes de custos e sua incidência na formação dos preços dos serviços;
+
+
+XI - encargos sociais: componentes da planilha de custos e formação de preços destinados às alocações dos custos de mão de obra decorrentes da legislação trabalhista e previdenciária, estimados em função das peculiaridades da contratação, calculados mediante incidência percentual sobre a remuneração;
+
+
+XII - insumos de mão de obra: componentes da planilha de custos e formação de preços destinados às alocações dos custos com mão de obra, tais como transporte, seguros de vida e de saúde, alimentação e, ainda, custos relativos a uniformes;
+
+
+XIII - insumos de serviços: componentes da planilha de custos e formação de preços destinados às alocações dos custos relativos a materiais, utensílios, suprimentos, depreciação de equipamentos, entre outros, utilizados diretamente na execução dos serviços;
+
+
+XIV - reajustamento de preços: acréscimo ou decréscimo de preços contratuais decorrente de variações ordinárias de custos, conforme definido no edital e no contrato; 
+
+
+XV - reajuste: espécie de reajustamento de preços efetuado pela aplicação de índices de preços oficiais gerais, específicos, setoriais ou definidos pela Administração do TCU, devidamente prefixados no edital e no contrato, de acordo com o objeto da contratação;
+
+
+XVI - repactuação: espécie de reajustamento de preços baseado na análise da efetiva variação de custos relacionados à mão de obra empregada no contrato, por meio de planilhas analíticas, tomando-se como parâmetro a proposta da contratada, conforme definido no edital e no contrato;
+
+
+XVII - nível mínimo de serviço: requisito mínimo de qualidade e produtividade a ser alcançado pela contratada, especificado com clareza e objetividade no Projeto Básico ou Termo de Referência;
+
+
+XVIII - Acordo de Níveis de Serviço: ajuste escrito que define, em bases compreensíveis, tangíveis, objetivamente observáveis e comprováveis, os níveis esperados de qualidade da prestação do serviço e respectivas adequações de pagamento;
+
+
+XIX - fiscalização: conjunto de procedimentos destinados à verificação da conformidade da prestação dos serviços e da alocação dos recursos necessários, de forma a assegurar o cumprimento do contrato, bem como apoiar a unidade gestora na fiscalização da regularidade fiscal, trabalhista e previdenciária da contratada, no que couber;
+
+
+XX - unidade gestora: unidade ou subunidade da Secretaria do TCU, vinculada ou não ao objeto do contrato, responsável pela fiscalização da documentação comprobatória da regularidade fiscal, trabalhista e previdenciária da contratada;
+
+
+XXI - fiscal técnico: servidor formalmente designado para acompanhar e fiscalizar a execução dos serviços contratados;
+
+
+XXII - processo de acompanhamento e análise da documentação trabalhista e previdenciária: processo administrativo, autuado por exercício financeiro, destinado à verificação da regularidade fiscal, trabalhista e previdenciária da contratada, em caso de serviços continuados com dedicação exclusiva de mão de obra;
+
+
+XXIII - processo de liquidação e pagamento: processo administrativo, autuado por exercício financeiro, destinado à verificação da prestação dos serviços e a condução dos procedimentos de liquidação e pagamento dos contratos de serviços continuados com dedicação exclusiva de mão de obra; e
+
+
+XXIV - processo de fiscalização, liquidação e pagamento: processo administrativo, autuado para verificação da conformidade da prestação dos serviços de natureza continuada sem dedicação exclusiva de mão de obra, dos serviços de natureza não continuada e dos serviços por escopo, bem como para verificação da regularidade fiscal, trabalhista e previdenciária da contratada.
+
+
+TÍTULO II
+DO PLANEJAMENTO DA CONTRATAÇÃO
+
+
+CAPÍTULO I
+DOS ESTUDOS PRELIMINARES E DA ELABORAÇÃO DO PROJETO BÁSICO OU DO TERMO DE REFERÊNCIA
+
+
+Art. 3º O planejamento das contratações deverá ser composto por duas etapas:
+
+
+I - elaboração dos Estudos Preliminares; e
+
+
+II - elaboração do Projeto Básico ou Termo de Referência.
+
+
+Art. 4º Os Estudos Preliminares deverão contemplar os seguintes elementos:
+
+
+I - justificativa, no que couber, quanto:
+
+
+a) à necessidade do serviço;
+
+
+b) ao tipo de solução escolhida;
+
+
+c) ao parcelamento ou não da solução;
+
+
+d) ao enquadramento ou não do serviço como comum;
+
+
+e) à natureza do serviço;
+
+
+f) à estimativa de preços;
+
+
+g) ao regime de execução;
+
+
+h) à dispensa do tratamento diferenciado e favorecido conferido às microempresas e empresas e pequeno porte previstas no art. 49 da Lei Complementar nº 123, de 14 de dezembro de 2006, quando for o caso;
+
+
+i) à inexigibilidade ou dispensa de licitação, se for o caso;
+
+
+j) à conexão entre a contratação e o planejamento institucional existente, sempre que possível; 
+
+
+k) aos critérios ambientais e às práticas de sustentabilidade adotadas, quando houver;
+
+
+l) à utilização de modelo de execução contratual que contemple a dedicação exclusiva de mão de obra;
+
+
+m) aos critérios de aceitabilidade da proposta; e
+
+
+n) aos critérios de medição e pagamento;
+
+
+II - relação entre a demanda prevista e a quantidade de serviço a ser contratada;
+
+
+III - demonstrativo dos resultados a serem alcançados em termos de economicidade e melhor aproveitamento dos recursos humanos, materiais ou financeiros disponíveis.
+
+
+Parágrafo único. Os Estudos Preliminares podem contemplar, em caráter excepcional, a critério do gestor dos riscos associados à contratação, abordagem de gestão de riscos, em conformidade com a metodologia definida em normativo próprio. 
+
+
+Art. 5º A Administração poderá simplificar, no que couber, a etapa de Estudos Preliminares nas contratações de serviços cujos valores se enquadram nos limites dos incisos I e II do art. 24 da Lei nº 8.666, de 21 de junho de 1993. 
+
+
+Parágrafo único. Não poderão ser excluídos dos estudos preliminares os elementos referidos no inciso I, alíneas "a", "e", e "f", e no inciso II do art. 4° desta Portaria.
+
+
+Art. 6º O Projeto Básico ou o Termo de Referência deverá contemplar, no que couber:
+
+
+I - a descrição do objeto a ser contratado; 
+
+
+II - a indicação da natureza do serviço;
+
+
+III - a unidade de medida utilizada para o tipo de serviço a ser contratado;
+
+
+IV - a indicação das metas físicas a serem contratadas com base na unidade de medida adotada;
+
+
+V - o valor estimado da contratação, os preços unitários, o valor máximo global e mensal, conforme o caso;
+
+
+VI - a aplicação do tratamento diferenciado e favorecido dispensado às microempresas e empresas de pequeno porte, em cumprimento aos arts. 47 e 48 da Lei Complementar nº 123, de 14 de dezembro de 2006 e suas alterações;
+
+
+VII - a indicação do local de execução dos serviços;
+
+
+VIII - a indicação da necessidade de realização de vistoria prévia, bem como os procedimentos pertinentes;
+
+
+IX - os critérios de aceitabilidade da proposta;
+
+
+X - as exigências quanto às qualificações técnico-operacional, técnico-profissional e econômico-financeira;
+
+
+XI - a indicação da necessidade de apresentação de amostras ou de demonstração de serviços, bem como os critérios para aceitação;
+
+
+XII - informação quanto à participação de consórcios ou de cooperativas;
+
+
+XIII - a indicação da possibilidade de subcontratação, inclusive, se for o caso, das partes específicas do objeto passíveis de subcontratação, bem como dos respectivos limites;
+
+
+XIV - os prazos de vigência do contrato, bem como a possibilidade de prorrogação, e os prazos de entrega e execução do objeto, inclusive recebimento provisório e definitivo, quando for o caso.
+
+
+XV - informação quanto à exigência da prestação de garantia, nos termos do art. 56 da Lei n° 8.666, de 1993;
+
+
+XVI - a possibilidade de reajustamento e, em caso de reajuste, a indicação do índice a ser adotado, nos termos do art. 38 desta Portaria;
+
+
+XVII - a identificação da unidade responsável pela elaboração do Projeto Básico ou do Termo de Referência e da unidade gestora do contrato;
+
+
+XVIII - condições relativas ao conteúdo do futuro contrato, em especial:
+
+
+a) encargos das partes;
+
+
+b) critérios e procedimentos relativos à fiscalização dos serviços;
+
+
+c) critérios e formas de pagamento dos serviços contratados; 
+
+
+d) definição das sanções;
+
+
+XIX - as especificações técnicas do serviço;
+
+
+XX - o Acordo de Níveis de Serviço, quando cabível, para as contratações remuneradas mediante mensuração de resultados; 
+
+
+XXI - os orçamentos de uniformes, materiais e equipamentos, se cabíveis;
+
+
+XXII - as planilhas de custos e formação de preços, contendo:
+
+
+a) a indicação do acordo, convenção coletiva de trabalho ou sentença normativa proferida em dissídio coletivo ou lei que subsidia os valores atinentes aos insumos de mão de obra, quando for o caso; e
+
+
+b) a discriminação dos respectivos cargos;
+
+
+XXIII - o orçamento estimado dos serviços, em formato de quadro resumo;
+
+
+XXIV - o modelo de proposta de preços e os critérios para sua elaboração; e
+
+
+XXV - a memória de cálculo das planilhas de custos e formação de preços, quando houver.
+
+
+§ 1º As especificações técnicas do serviço, quando cabíveis, acompanharão o Edital em forma de anexo, e deverão abordar especialmente os seguintes tópicos:
+
+
+a) apresentação e aceitação do preposto;
+
+
+b) condições para o fornecimento de uniforme;
+
+
+c) rotinas de execução dos serviços; 
+
+
+d) relação do material adequado para a execução dos serviços;
+
+
+e) relação de máquinas, equipamentos e utensílios a serem utilizados; e
+
+
+f) produtividade de referência considerada aceitável para a execução do serviço, quando for o caso.
+
+
+§ 2º O Acordo de Níveis de Serviço, quando cabível, acompanhará o Edital em forma de anexo, e deverá conter:
+
+
+I - a indicação precisa das parcelas do serviço objeto da mensuração;
+
+
+II - os indicadores e/ou instrumentos de medição a serem adotados;
+
+
+III - os níveis mínimos de serviço aceitáveis, bem como as metas a cumprir;
+
+
+IV - a faixa de tolerância, ou o nível mínimo de serviço a partir do qual a contratada estará sujeita a sanções;
+
+
+V - a forma e a periodicidade de acompanhamento;
+
+
+VI - os registros, controles e informações que deverão ser prestados pela contratada; e
+
+
+VII - o mecanismo de cálculo do dimensionamento dos pagamentos.
+
+
+Art. 7º Serviços não especializados, a exemplo de limpeza, copeiragem, recepção, mensageria, arquivo, protocolo e almoxarifado, serão, preferencialmente, licitados em conjunto e adjudicados globalmente na licitação. 
+
+
+Parágrafo único. Os serviços em que reste comprovado que as empresas atuam no mercado de forma segmentada, por especialização, deverão ser, preferencialmente, objeto de parcelamento.
+
+
+CAPÍTULO II
+DAS ESTIMATIVAS DE PREÇOS 
+
+
+Art. 8º A estimativa de preços para contratação de serviços sem dedicação exclusiva de mão de obra deverá ser elaborada com base na média aritmética simples de, no mínimo, três referências de preços, obtidas por meio de pesquisa de preços realizada, preferencialmente, em contratos firmados por órgãos ou entidades da Administração Pública, observando-se as disposições contidas no art. 11 desta Portaria.
+
+
+Art. 9º A estimativa de preços para contratação de serviços com dedicação exclusiva de mão de obra será elaborada com base em planilha analítica de composição de custos e formação de preços da mão de obra e de insumos e observará os seguintes critérios para obtenção dos valores de referência:
+
+
+I - os salários dos empregados terceirizados serão fixados com base em acordo, convenção coletiva de trabalho ou sentença normativa proferida em dissídio coletivo da categoria profissional pertinente ou em lei;
+
+
+II - havendo mais de uma categoria em uma mesma contratação, os salários serão fixados com base no acordo, na convenção coletiva de trabalho ou na sentença normativa proferida em dissídio coletivo ou em lei, concernente a cada categoria profissional;
+
+
+III - não havendo salário definido em acordo, convenção coletiva de trabalho ou sentença normativa proferida em dissídio coletivo ou em lei, o salário deverá ser fixado com base em preços médios obtidos em pesquisa de mercado, em fontes especializadas, em empresas privadas do ramo pertinente ao objeto licitado ou em órgãos públicos e entidades;
+
+
+IV - os encargos sociais e tributos deverão ser fixados de acordo com as leis específicas; 
+
+
+V - os valores dos insumos de serviços serão apurados com base em pesquisa de preços, na forma do art. 10 desta Portaria; e
+
+
+VI - os insumos de mão de obra deverão observar acordo, convenção coletiva de trabalho ou sentença normativa proferida em dissídio coletivo ou em lei, com exceção dos uniformes, que deverão ser apurados com base em pesquisa de preços, na forma do art. 11 desta Portaria.
+
+
+§ 1º Por razões de ordem técnica, devidamente justificadas, os salários poderão ser fixados pela Administração em valores superiores aos fixados em acordos, convenções coletivas de trabalho ou sentença normativa proferida em dissídio coletivo ou em lei.
+
+
+§ 2º Quando da utilização dos acordos, das convenções coletivas de trabalho e das sentenças normativas ou lei, deverá ser respeitado o local da prestação dos serviços.
+
+
+§ 3º Deverá ser devidamente justificada a estimativa de preços para contratação de serviços continuados de limpeza, conservação, higienização e de vigilância acima dos limites estabelecidos em ato normativo da Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Desenvolvimento e Gestão. 
+
+
+§ 4º A Administração não se vincula às disposições contidas em acordos e convenções coletivas que não tratem de matéria trabalhista, tais como as que estabeleçam valores ou índices obrigatórios de encargos sociais ou previdenciários, bem como de preços para os insumos relacionados ao exercício da atividade, nem às disposições que tratem de obrigações e direitos aplicáveis somente aos contratos com a Administração Pública.
+
+
+Art. 10. No caso de obras e serviços de engenharia, a estimativa de preços deverá ser elaborada, preferencialmente e no que couber, com base em preços obtidos no Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil (Sinapi) e Sistema de Custos Rodoviários (Sicro).
+
+
+Art. 11. A estimativa de preços dos insumos de serviços deverá ser elaborada com base na média aritmética simples de, no mínimo, três referências de preço, obtidas por meio de pesquisa de preços realizadas preferencialmente em contratos firmados por órgãos ou entidades da Administração Pública.
+
+
+I - As pesquisas de preços no mercado poderão ser realizadas via internet, e-mail ou correspondência, por telefone, em publicações especializadas e pessoalmente com fornecedores por meio de representante da Administração do TCU, observadas as seguintes orientações: 
+
+
+a) se realizada em lojas da internet, deve ser juntada aos autos a cópia da página consultada, em que conste a descrição do bem, a data da pesquisa, e o preço, o qual deve refletir, se possível, o valor final da contratação, inclusos custos como instalação e frete.
+
+
+b) quando realizada por telefone, devem ser registrados e juntados aos autos, o número do telefone, a data, o horário, o nome da empresa e das pessoas que forneceram o orçamento;
+
+
+c) no caso de pesquisa de preços realizada por e-mail ou correspondência, devem ser juntados aos autos o pedido e a resposta do fornecedor;
+
+
+d) se realizadas em publicações especializadas, deve ser juntada aos autos a cópia da capa e da página pesquisadas ou, alternativamente, indicado o número da publicação e da página pesquisadas; e
+
+
+e) no caso de pesquisas de preço realizadas pessoalmente, deverá ser juntado aos autos documento em nome da empresa, contendo a data, o nome e a assinatura do representante ou responsável pelo fornecimento do preço;
+
+
+II - As pesquisas de preços baseadas nos valores praticados em órgãos ou em entidades da Administração Pública se provam, entre outras formas, por meio de resultados de processos licitatórios realizados há menos de um ano da data da pesquisa, bem como de preços registrados em atas de registro de preços vigentes ou de preços praticados em contratos em execução, cuja data de início da vigência não exceda, à época da pesquisa, a um ano.
+
+
+§ 1º No cálculo da média aritmética simples a que se refere o caput devem ser excluídos os valores extremos e desarrazoados que possam alterar significativamente a tendência central do resultado da amostra.
+
+
+§ 2º Para as pesquisas de preços realizadas via e-mail ou por correspondência devem ser adotados os seguintes procedimentos:
+
+
+I - decorrido o prazo de cinco dias úteis contados da emissão do e-mail ou da correspondência, não havendo resposta, o responsável pela pesquisa de preços deverá reiterar o pedido;
+
+
+II - decorrido o prazo de cinco dias úteis contados da data da reiteração do e-mail, os procedimentos relacionados à estimativa de preços poderão ser continuados com base nas propostas já obtidas, ainda que em número inferior a três, desde que comprovada a adoção dos procedimentos previstos neste parágrafo.
+
+
+Art. 12. Sendo inviável a obtenção de preços nas formas previstas nos arts. 8° a 11 desta Portaria, justificadamente, poderão ser adotadas outras soluções, inclusive quanto à metodologia, a fim de não se frustrar a compra ou a contratação pretendida.
+
+
+TÍTULO III
+DAS CONDIÇÕES DOS EDITAIS DE LICITAÇÃO
+
+
+CAPÍTULO I
+
+
+DA PROPOSTA
+
+
+Art. 13. O instrumento convocatório para contratação de serviços com dedicação exclusiva de mão obra deverá contemplar, além dos elementos dispostos no art. 40 da Lei 8.666, de 1993, a exigência de indicação, na proposta da licitante, dos acordos, convenções coletivas de trabalho, sentenças normativas proferidas em dissídio coletivo ou em lei, reguladores das categorias profissionais vinculadas à execução dos serviços.
+
+
+Parágrafo único. Independentemente dos acordos, convenções coletivas de trabalho, sentenças normativas proferidas em dissídio coletivo ou em lei indicados pela licitante, não serão aceitas propostas que contemplem salários inferiores aos valores de referência ou aos fixados pela Administração, na forma que dispõe o art. 9º desta Portaria. 
+
+
+CAPÍTULO II
+
+
+DA HABILITAÇÃO
+
+
+Seção I
+
+
+Da regularidade fiscal, previdenciária e trabalhista
+
+
+Art. 14. São requisitos para comprovação da regularidade fiscal e trabalhista das licitantes e das contratadas, conforme o caso:
+
+
+I - prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ);
+
+
+II - prova de regularidade junto às fazendas federal, distrital ou estadual e municipal do domicílio ou sede da licitante;
+
+
+III - prova de regularidade relativa à Seguridade Social e ao Fundo de Garantia do Tempo de Serviço (FGTS); e
+
+
+IV - prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa ou positiva com efeitos de negativa.
+
+
+Parágrafo único. O registro regular e atualizado no Sistema de Cadastramento Unificado de Fornecedores (Sicaf) supre, no que couber, as exigências previstas neste artigo. 
+
+
+Seção II
+Da qualificação técnico-operacional
+
+
+Art. 15. Na contratação de serviços sem dedicação exclusiva de mão de obra ou por escopo deverá ser exigida para fins de qualificação técnico-operacional apresentação de um ou mais atestados ou declarações de capacidade técnica expedidos por pessoa jurídica de direito público ou privado, comprovando que a licitante executa ou executou atividades pertinentes e compatíveis com o objeto da licitação correspondentes a cinquenta por cento da quantidade estimada pelo TCU.
+
+
+Parágrafo único. A comprovação da capacidade técnico-operacional das licitantes deve ser limitada às parcelas de maior relevância e valor significativo do objeto a ser contratado, devendo guardar proporção com a dimensão e a complexidade do objeto a ser executado.
+
+
+Art. 16. Na contratação de serviços com dedicação exclusiva de mão de obra, a qualificação técnico-operacional deve ser fixada de acordo com os critérios a seguir: 
+
+
+I - apresentação de um ou mais atestados ou declarações de capacidade técnica expedidos por pessoa jurídica de direito público ou privado, comprovando que a licitante executa ou executou contratos em atividades pertinentes e compatíveis com o objeto da licitação, que correspondam a cinquenta por cento do quantitativo previsto no edital de licitação.
+
+
+II - apresentação de atestados ou declarações de capacidade técnica, cópias de contratos, registros em órgãos oficiais, ou outros documentos idôneos, comprovando, no mínimo, três anos de experiência da licitante na execução de serviços com dedicação exclusiva de mão de obra compatíveis em quantidade com o objeto licitado.
+
+
+§ 1º Na aplicação do inciso I deste artigo:
+
+
+a) quando a contratação envolver o fornecimento de materiais e/ou de equipamentos, que a licitante executa ou executou contratos em que essa parcela corresponda a cinquenta por cento do valor total estimado para materiais e/ou equipamentos; 
+
+
+b) quando a contratação envolver área ou outra variável que seja relevante para a prestação dos serviços, que a licitante executa ou executou contratos em que essa parcela corresponda a cinquenta por cento do valor estimado para a área total ou outra variável estimada na contratação.
+
+
+§ 2º Na hipótese de o número de postos de trabalho objeto da contratação pretendida ser igual ou inferior a quarenta, a licitante deverá comprovar que executa ou executou contrato(s) com vinte postos, dispensando-se, neste caso, a critério da unidade técnica, a comprovação de que trata o inciso I deste artigo.
+
+
+
+§ 3° Na hipótese de o número de postos de trabalho objeto da contratação pretendida ser superior a quarenta, deve a licitante comprovar execução de contratos cujos quantitativos correspondam a cinquenta por cento do quantitativo previsto no edital de licitação.
+
+
+§ 4º Para fins de comprovação da capacidade técnica estabelecida no inciso I deste artigo, será aceito o somatório de atestados ou declarações, desde que reste demonstrada a execução concomitante dos serviços. 
+
+
+§ 5º Para fins da comprovação da experiência estabelecida no inciso II deste artigo, será aceito o somatório dos documentos relacionados, sendo os períodos concomitantes computados uma única vez. 
+
+
+§ 6º Somente serão aceitos atestados expedidos após a conclusão do contrato ou decorrido no mínimo um ano do início de sua execução, exceto se houver sido firmado para ser executado em prazo inferior.
+
+
+Seção III
+Da qualificação técnico-profissional
+
+
+Art. 17. A qualificação técnico-profissional será dimensionada de acordo com as características de cada serviço licitado e corresponderá a cinquenta por cento de cada item considerado relevante para o desempenho regular das atividades.
+
+
+Parágrafo único. A comprovação da qualificação técnico-profissional será realizada por meio de documentos hábeis que demonstrem que a licitante possui, na data prevista para entrega da proposta, contrato ou declaração de contratação com profissional de nível superior ou outro devidamente reconhecido pela entidade competente, detentor de atestado de responsabilidade técnica por execução de serviços de características semelhantes aos licitados, no limite fixado no caput deste artigo.
+
+
+Seção IV
+Da qualificação econômico-financeira
+
+
+Art. 18. Na contratação de serviços sem dedicação exclusiva de mão de obra ou por escopo a qualificação econômico-financeira será fixada de acordo com os critérios a seguir enumerados:
+
+
+I - comprovação por parte da licitante de patrimônio líquido não inferior a dez por cento do valor estimado da contratação, quando qualquer dos índices, Liquidez Geral, Liquidez Corrente e Solvência Geral, informados pelo Sicaf, for igual ou inferior a 1; e
+
+
+II - apresentação de certidão negativa de feitos sobre falência, recuperação judicial ou recuperação extrajudicial, expedida pelo distribuidor da Sede da licitante.
+
+
+Parágrafo único. A comprovação do inciso I deste artigo, deverá se dar na forma da alínea "a" do § 1º do art. 19 desta Portaria.
+
+
+Art. 19. Na contratação de serviços com dedicação exclusiva de mão de obra, a qualificação econômico-financeira será fixada de acordo com os critérios a seguir enumerados:
+
+
+I - comprovação de Índices de Liquidez Geral (LG), Liquidez Corrente (LC) e Solvência Geral (SG) superiores a 1;
+
+
+II - comprovação de Capital Circulante Líquido (CCL) ou Capital de Giro (CG) (Ativo Circulante - Passivo Circulante) igual ou superior a 16,66% do valor da proposta, deduzidos os insumos dos serviços;
+
+
+
+III - comprovação de Patrimônio Líquido (PL) igual ou superior a dez por cento do valor da proposta; e
+
+
+IV - comprovação de que um doze avos do valor total dos contratos firmados com a Administração Pública e com a iniciativa privada, vigentes na data da sessão pública de abertura do processo licitatório, não é superior ao Patrimônio Líquido da licitante.
+
+
+§ 1º A comprovação da qualificação econômico-financeira será realizada por meio:
+
+
+a) do balanço patrimonial do exercício social exigível na forma da lei e regulamentos na data de realização da licitação, vedada sua substituição por balancetes ou balanços provisórios, podendo ser atualizado por índices oficiais quando encerrados há mais de três meses da data da sessão pública de abertura do processo licitatório;
+
+
+b) da Demonstração do Resultado do Exercício (DRE) relativa ao último exercício social exigível, apresentado na forma da lei; 
+
+
+c) da relação de contratos firmados com a iniciativa privada e com a Administração Pública, vigentes na data da sessão pública de abertura do procedimento licitatório, contendo o nome da contratante, do Cadastro Nacional de Pessoas Jurídicas (CNPJ), a data de assinatura do contrato, a vigência e o valor anual do contrato, ou, se o contrato tiver sido assinado com vigência inferior a doze meses, o valor total do contrato; e
+
+
+d) apresentação de certidão negativa de feitos sobre falência, recuperação judicial ou recuperação extrajudicial, expedida pelo distribuidor da Sede da licitante e, no caso de pessoa física, certidão negativa de insolvência civil expedida pela Justiça Estadual.
+
+
+§ 2º O valor total da relação de contratos de que trata a alínea "c" do parágrafo anterior que apresentar divergência percentual superior a dez por cento, para mais ou para menos, em relação ao valor da receita bruta apresentado na DRE, deverá estar acompanhado das devidas justificativas a respeito da divergência.
+
+
+§ 3º O edital fixará prazo para apresentação das justificativas de que trata o parágrafo anterior, quando não forem entregues concomitantemente à documentação exigida no processo licitatório.
+
+
+Seção V
+Da verificação do cumprimento dos requisitos de habilitação 
+
+
+Art. 20. A Administração do TCU poderá realizar as diligências necessárias, solicitando documentos ou efetuando visitas, na Sede ou na filial da licitante, em entidade pública ou privada, com o objetivo de comprovar a veracidade das informações apresentadas pela licitante.
+
+
+Art. 21. Justificadamente, a depender da especificidade do objeto a ser licitado, os requisitos de qualificação técnico-operacional, técnico-profissional e econômico-financeira constantes deste Capítulo poderão ser suprimidos, adaptados ou acrescidos de outros considerados importantes para a contratação.
+
+
+Art. 22. Quando permitida a contratação de consórcio de empresas, deverá ser observado, adicionalmente, os requisitos de habilitação dispostos no art. 33 da Lei nº 8.666, de 1993.
+
+
+CAPÍTULO III
+DA CONTRATAÇÃO DE EMPRESAS OPTANTES PELO SIMPLES NACIONAL PARA PRESTAÇÃO DE SERVIÇOS COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA
+
+
+Art. 23. Devem constar dos editais de licitação as condições consignadas nos arts. 17, inciso XII, 18, § 5º-C e § 5º-H, 29, inciso I, 30, inciso II e § 1º, e 31, inciso II, da Lei Complementar nº 123, de 14 de dezembro de 2006, para fins de instrução e regularização da participação de Microempresas (ME) ou Empresas de Pequeno Porte (EPP), optantes pelo Simples Nacional, em processos licitatórios destinados à contratação de empresário ou sociedade empresária para prestação de serviços com dedicação exclusiva de mão de obra.
+
+
+CAPÍTULO IV
+DA CONTRATAÇÃO DE COOPERATIVAS
+
+
+Art. 24. A contratação de sociedades cooperativas somente poderá ocorrer quando, pela sua natureza, o serviço a ser contratado evidenciar:
+
+
+I - a possibilidade de ser executado em caráter coletivo e com autonomia pelos cooperados, de modo a não demandar relação de subordinação entre a cooperativa e os cooperados, nem entre a Administração do TCU e os cooperados; e
+
+
+II - a possibilidade de que a gestão operacional do serviço seja compartilhada ou em rodízio, de que as atividades de coordenação e supervisão da execução dos serviços e a de preposto, conforme determina o art. 68 da Lei nº 8.666, de 1993, sejam realizadas pelos cooperados de forma alternada, de forma que todos venham a assumir tal atribuição.
+
+
+Parágrafo único. Quando admitida a participação de cooperativas, estas deverão apresentar um modelo de gestão operacional adequado ao estabelecido neste artigo, sob pena de desclassificação.
+
+
+Art. 25. Não será admitida a contratação de cooperativas cujo estatuto e cujos objetivos sociais não prevejam ou não estejam de acordo com o objeto contratado.
+
+
+Parágrafo único. Quando da contratação de cooperativas, o serviço contratado deverá ser executado obrigatoriamente pelos cooperados, vedada qualquer intermediação ou subcontratação.
+
+
+TÍTULO IV
+DAS CONDIÇÕES DA CONTRATAÇÃO
+
+
+CAPÍTULO I
+DA VIGÊNCIA E DA PRORROGAÇÃO DOS CONTRATOS DE SERVIÇOS CONTINUADOS
+
+
+Art. 26. O prazo inicial de vigência dos contratos de serviços continuados será, preferencialmente, de doze meses.
+
+
+Art. 27. Após o prazo inicial, desde que previsto no contrato e no edital de licitação, o contrato poderá ser prorrogado, sucessivamente, por meio de termo aditivo, instruído em processo específico, limitada a duração total a sessenta meses, desde que preenchidos, cumulativamente, a cada prorrogação, os seguintes requisitos:
+
+
+I - os serviços tenham sido prestados regularmente;
+
+
+II - a Administração do TCU tenha interesse na continuidade dos serviços;
+
+
+III - o valor do contrato permaneça economicamente vantajoso para a Administração do TCU; e
+
+
+IV - a contratada manifeste expressamente interesse na prorrogação.
+
+
+Art. 28. A vantagem econômica para a prorrogação de contratos de serviços terceirizados de natureza continuada com dedicação exclusiva de mão de obra de que trata o inciso III do art. 27 desta Portaria, estará assegurada, dispensando-se a realização de pesquisa de preços, quando:
+
+
+I - houver previsão contratual de que os reajustamentos dos preços dos itens envolvendo a folha de salários e insumos de mão de obra serão efetuados com base em convenção ou acordo coletivo de trabalho, sentença normativa ou em lei, previamente definidos no edital contrato; e
+
+
+II - houver previsão contratual de que os reajustamentos dos preços dos itens envolvendo insumos de serviços serão efetuados com base no art. 38 desta Portaria.
+
+
+Art. 29. Nos casos específicos dos serviços continuados de limpeza, conservação, higienização e de vigilância, a vantagem econômica estará comprovada quando, observado o disposto no artigo anterior, os valores da contratação a cada prorrogação forem inferiores aos limites estabelecidos em ato normativo da Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Desenvolvimento e Gestão. 
+
+
+Art. 30. Nos contratos de serviços continuados sem dedicação exclusiva de mão de obra, a realização de pesquisa de preços pode ser dispensada na prorrogação, presumindo-se a vantagem econômica, quando restar demonstrado, mediante despacho fundamentado, que, em função da natureza do objeto, a variação dos preços contratados tende a acompanhar a variação do índice de reajuste estabelecido no contrato. 
+
+
+Art. 31. Quando a vantagem econômica da prorrogação de contratos não puder ser comprovada nas formas estabelecidas pelos arts. 28 a 30 desta Portaria, a prorrogação deverá ser precedida da realização de pesquisas de preços de mercado ou de preços contratados por outros órgãos e entidades da Administração Pública, consoante as disposições contidas nos arts. 8° a 12 deste Normativo.
+
+
+Art. 32. A depender das características do objeto do contrato de serviços continuados, justificadamente, a contratação inicial ou total poderá ter vigência superior a doze meses, limitada a duração total a sessenta meses.
+
+
+CAPÍTULO II
+DO REAJUSTAMENTO DE PREÇOS DOS CONTRATOS 
+
+
+
+Seção I
+Disposições Gerais 
+
+
+
+Art. 33. É admitido o reajustamento dos preços dos contratos, mediante utilização dos mecanismos do reajuste ou da repactuação, conforme o caso.
+
+
+§ 1º A repactuação é aplicável aos contratos de serviços continuados com dedicação exclusiva de mão de obra. 
+
+
+§ 2º O reajuste é aplicável aos contratos de serviços continuados sem dedicação exclusiva de mão de obra, aos contratos de serviços por escopo, aos contratos de serviços de natureza não continuada e aos insumos de serviços dos contratos continuados com dedicação exclusiva de mão de obra.
+
+
+Art. 34. Para o reajustamento dos preços dos contratos deve ser observado o interregno mínimo de doze meses.
+
+
+§ 1º No caso de repactuação, o interregno mínimo de doze meses será contado a partir da data-base prevista em acordo coletivo de trabalho, convenção coletiva de trabalho, sentença normativa ou em lei, vigentes na data de apresentação da proposta.
+
+
+§ 2º No caso de reajuste, o interregno mínimo de doze meses será contado a partir da data da apresentação da proposta ou do orçamento a que a proposta se referir, conforme fixado em edital. 
+
+
+§ 3º Nos reajustamentos subsequentes ao primeiro, o interregno mínimo de doze meses será contado da data de início dos efeitos financeiros do último reajustamento ocorrido.
+
+
+§ 4º Nos contratos de serviços continuados com dedicação exclusiva de mão de obra, os insumos de serviços serão reajustados simultaneamente com a repactuação dos custos de mão de obra, desde que decorrido o interregno mínimo de doze meses, contado a partir da data da apresentação da proposta ou do orçamento a que a proposta se referir, conforme fixado em edital.
+
+
+§ 5º Quando o interregno mínimo de doze meses previsto no parágrafo anterior não tiver sido cumprido, ocorrerá exclusivamente a repactuação dos custos de mão de obra, diferindo-se o reajuste dos insumos de serviços para o reajustamento seguinte. 
+
+
+Art. 35. O reajustamento de preços será precedido de requerimento da contratada. 
+
+
+Art. 36. Caso a contratada não requeira tempestivamente o reajustamento de preços e prorrogue o contrato sem pleiteá-lo, ocorrerá a preclusão do direito.
+
+
+Parágrafo único. Também ocorrerá a preclusão do direito ao reajustamento quando este for requerido após a extinção do contrato. 
+
+
+Art. 37. O reajustamento de preços será formalizado por termo de apostilamento.
+
+
+Seção II
+Do Reajuste
+
+
+Art. 38. O reajuste do preço global, dos preços unitários, dos preços dos insumos de serviços ou do saldo contratual, conforme o caso, será efetuado com base na variação de índices oficiais de preços, específicos ou setoriais, previamente definidos no edital e no contrato, que guardem a maior correlação possível com o segmento econômico em que estejam inseridos tais insumos.
+
+
+§ 1º O saldo contratual sobre o qual incidirá o reajuste, nos contratos de serviços por escopo e nos contratos de serviços de natureza não continuada, deverá ser informado pela unidade gestora ou pelo fiscal técnico do contrato.
+
+
+§ 2º Na apuração do saldo contratual para incidência do reajuste serão deduzidos, além dos serviços medidos e pagos até o momento de aquisição do direito ao reajuste, os serviços previstos em cronograma físico-financeiro, mas não executados por culpa exclusiva da contratada.
+
+
+Art. 39. O reajuste produzirá efeitos financeiros a partir da aquisição do direito pela contratada, na forma do art. 34 desta Portaria.
+
+
+Seção III
+Da Repactuação
+
+
+Art. 40. A repactuação de preços será efetuada com base na efetiva variação dos custos de mão de obra, decorrentes de acordo coletivo de trabalho, convenção coletiva de trabalho, sentença normativa, ou lei, tomando-se como parâmetro a proposta da contratada.
+
+
+§ 1º Inexistindo os instrumentos indicados no caput, deverá ser efetuada pesquisa de preços com base nos mesmos critérios e fontes utilizadas para a elaboração do orçamento estimado da Administração, podendo, justificadamente, ser utilizadas outras fontes de consulta.
+
+
+§ 2º Quando a contratação envolver mais de uma categoria profissional, com datas-bases diferenciadas, a repactuação de preços dos insumos de mão de obra deverá observar os acordos coletivos de trabalho, convenções coletivas de trabalho, sentenças normativas ou leis aplicáveis a cada categoria envolvida na execução dos serviços.
+
+
+Art. 41. O requerimento de repactuação deverá ser acompanhado de elementos que permitam aferir a variação analítica dos custos de mão de obra, tais como:
+
+
+I - indicação expressa dos itens de custo que sofreram variação, acompanhada dos respectivos valores atualizados;
+
+
+II - documentos indispensáveis à comprovação da alteração dos preços de cada um dos itens indicados, conforme o caso; e
+
+
+III - novo acordo coletivo de trabalho ou convenção coletiva de trabalho, sentença normativa ou lei, motivadores do pedido de repactuação.
+
+
+Art. 42. Para fins de concessão da repactuação, será necessária a constatação pela Administração de que a contratada arca efetivamente com os novos custos que ensejaram o pedido. 
+
+
+Art. 43. Será vedada a inclusão, por ocasião da repactuação, de benefícios e insumos não previstos na proposta inicial, exceto quando se tornarem obrigatórios por força de acordos coletivos de trabalho, convenções coletivas de trabalho, sentenças normativas ou lei, aplicáveis a cada categoria envolvida na execução dos serviços. 
+
+
+Art. 44. A repactuação produzirá efeitos financeiros a partir das datas em que se efetivarem as alterações de custo que lhe deram ensejo, conforme fixadas em acordo coletivo de trabalho, convenção coletiva de trabalho, sentença normativa, ou em lei.
+
+
+CAPÍTULO III
+DA GARANTIA DE EXECUÇÃO DE CONTRATOS E DEMAIS SEGUROS
+
+
+Art. 45. Nas contratações de serviços, desde que previsto no instrumento convocatório, poderá ser exigida da contratada a apresentação de uma das modalidades de garantia de execução contratual previstas no art. 56 da Lei nº 8.666, de 1993.
+
+
+Parágrafo único. O valor mínimo do contrato, para fins de exigência de garantia, será definido pela Secretaria-Geral de Administração (Segedam).
+
+
+Art. 46. Quando exigida, a contratada deverá entregar, no prazo máximo de dez dias úteis contados da data do recebimento da via do contrato assinada, comprovante de prestação de garantia correspondente ao percentual de até cinco por cento do valor atualizado do contrato.
+
+
+Parágrafo único. A pedido da contratada e a critério da Administração, analisado o caso concreto, o prazo a que se refere o caput, poderá, em caráter excepcional, ser prorrogado por igual período.
+
+
+Art. 47. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,2% do valor do contrato por dia de atraso, até o máximo de cinco por cento. 
+
+
+Parágrafo único. O valor da multa moratória decorrente do atraso da entrega da garantia poderá ser glosado de pagamentos devidos à contratada. 
+
+
+Art. 48. O atraso superior a vinte e cinco dias autoriza a administração a promover o bloqueio dos pagamentos devidos à contratada até o limite de cinco por cento do valor atualizado do contrato, a título de garantia provisória. 
+
+
+§ 1º O bloqueio efetuado a que se refere o caput deste artigo não gera direito a nenhum tipo de compensação financeira à contratada e não se confunde com a multa moratória. 
+
+
+§ 2º A contratada, a qualquer tempo, poderá substituir o bloqueio a que se refere o caput deste artigo por quaisquer das modalidades previstas no art. 56 da Lei nº 8.666, de 1993.
+
+
+Art. 49. A garantia, qualquer que seja a modalidade escolhida, assegurará o pagamento de: 
+
+
+I - prejuízos advindos do não cumprimento do objeto do contrato; 
+
+
+II - multas aplicadas pela Administração à contratada; 
+
+
+III - prejuízos diretos causados à Administração, decorrentes de culpa ou dolo durante a execução do contrato; e
+
+
+IV - obrigações trabalhistas e previdenciárias não honradas pela contratada, em contratos de serviços com dedicação exclusiva de mão de obra.
+
+
+Art. 50. Quando a contratação envolver a colocação de bens sob a guarda da contratada e/ou a cessão de instalações, poderá ser exigido seguro multirriscos básico com coberturas adicionais, no mínimo, de Danos Elétricos, Subtração de Bens e Mercadorias, Responsabilidade Civil de Operações, Responsabilidade Civil do Empregador, Equipamentos Estacionários e Móveis, a fim de garantir as instalações e todos os bens a serem entregues a guarda da contratada.
+
+
+Art. 51. A depender do tipo de objeto contratado, motivadamente, quando prevista a possibilidade de pagamentos antecipados no edital e no contrato, deverá ser exigida garantia nos termos do art. 40, inciso XIV, alínea "e", da Lei nº 8.666, de 1993, a qual é específica e distinta da estabelecida nos arts. 45 e 46 desta Portaria.
+
+
+Art. 52. Nas contratações de obra ou de serviços de engenharia, deverá ser exigida da contratada a apresentação de seguro contra riscos de engenharia e de seguro coletivo de acidente de trabalho.
+
+
+Parágrafo único. A apresentação de seguro contra riscos de engenharia e de seguro coletivo de acidente de trabalho pode ser dispensada, justificadamente, a critério da Administração, se o baixo valor da contratação ou a pouca complexidade do objeto não implicarem riscos significativos que justifiquem a exigência. 
+
+
+CAPÍTULO IV
+
+
+DOS ENCARGOS DA CONTRATADA
+
+
+Art. 53. Na minuta do contrato de serviço com dedicação exclusiva de mão de obra, entre outras obrigações essenciais e acessórias necessárias ao cumprimento do objeto, constará que a contratada deverá:
+
+
+I - viabilizar, no prazo de sessenta dias contados da data da assinatura do contrato, a emissão do cartão cidadão pela Caixa Econômica Federal, ou outro documento análogo, para todos os empregados; 
+
+
+II - oferecer todos os meios necessários aos seus empregados terceirizados para que obtenham os extratos dos recolhimentos de suas contribuições previdenciárias ao Instituto Nacional do Seguro Social (INSS) e dos depósitos do FGTS, sempre que solicitados pela unidade gestora do contrato;
+
+
+III - apresentar, quando solicitado pela unidade gestora ou pelo fiscal técnico, extratos dos depósitos do FGTS de seus empregados;
+
+
+IV - efetuar os pagamentos de seus empregados em agência bancária localizada na cidade ou na região metropolitana na qual os serviços estejam sendo prestados; 
+
+
+V - apresentar, no prazo fixado no contrato, certidão emitida pelo Ministério do Trabalho que comprove o cumprimento da cota de reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e o atendimento às regras de acessibilidade previstas na legislação, conforme disposto no art. 93 da Lei nº 8.213, de 24 de julho de 1991.
+
+
+VI - apresentar declaração que instalará, em prazo máximo de sessenta dias da data da assinatura do contrato, matriz, filial ou escritório em local previamente definido no edital, com pessoal qualificado e em quantidade suficiente para gerir o contrato; 
+
+
+VII - autorizar a Administração do TCU, fornecendo os cálculos e os documentos necessários, a realizar os pagamentos de salários e demais benefícios diretamente aos empregados, bem como os recolhimentos das contribuições previdenciárias e os depósitos do FGTS, quando estes não forem honrados pela contratada; 
+
+
+VIII - apresentar os termos de rescisão dos contratos de trabalho, devidamente homologados pelo sindicado da categoria, quando cabível, e os extratos dos depósitos efetuados nas contas vinculadas individuais do FGTS de cada empregado demitido, em até dez dias após o último mês de prestação dos serviços; e
+
+
+IX - autorizar, quando da rescisão contratual, a Administração do TCU a reter, cautelarmente, os valores das faturas correspondentes a um mês de serviço para pagamento direto aos empregados, até a efetiva comprovação dos pagamentos das verbas rescisórias pela contratada.
+
+
+§ 1º As obrigações previstas neste artigo somente poderão ser dispensadas mediante justificativa expressa, a ser consignada nos Estudos Preliminares.
+
+
+§ 2º Quando não for possível a realização dos pagamentos a que se refere o inciso VII deste artigo pela própria Administração, esses valores serão depositados junto à Justiça do Trabalho, com o objetivo de serem utilizados exclusivamente no pagamento dos salários e das demais verbas trabalhistas, bem como das contribuições sociais e FGTS.
+
+
+TÍTULO V
+
+
+DO ACOMPANHAMENTO DA EXECUÇÃO CONTRATUAL
+
+
+CAPÍTULO I
+
+
+DAS DISPOSIÇÕES GERAIS
+
+
+
+Art. 54. O acompanhamento e a fiscalização da execução do contrato consistem na verificação da conformidade da prestação dos serviços e da alocação dos recursos necessários, de forma a assegurar o perfeito cumprimento do contrato. 
+
+
+Art. 55. A unidade gestora ou o fiscal técnico do contrato deve autuar e instruir um processo administrativo de fiscalização, liquidação e pagamento, por exercício financeiro, para cada contrato de serviços sem dedicação exclusiva de mão de obra, serviços de natureza não continuada e serviços por escopo.
+
+
+Parágrafo único. A critério da unidade gestora, no caso dos serviços por escopo, o processo administrativo a que se refere o caput poderá ser autuado sem vinculação ao exercício financeiro.
+
+
+Art. 56. A unidade gestora ou o fiscal técnico do contrato deve autuar e instruir um processo administrativo de liquidação e pagamento e um processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista, por exercício financeiro, para cada contrato de serviços com dedicação exclusiva de mão de obra.
+
+
+Art. 57. A verificação da conformidade da prestação dos serviços deve ser realizada com base no Acordo de Níveis de Serviço, quando houver.
+
+
+Art. 58. A fiscalização dos contratos, no que se refere ao cumprimento das obrigações previdenciárias e trabalhistas, deve ser realizada com base em critérios estatísticos, visando à identificação de falhas que impactem o contrato como um todo.
+
+
+Art. 59. Além das disposições previstas neste título, o acompanhamento da execução contratual dos serviços continuados deve observar os procedimentos descritos no Anexo I, os formulários contidos nos Anexos II e III, desta Portaria e os prazos estabelecidos em contrato.
+
+
+CAPÍTULO II
+DA RESPONSABILIDADE PELO ACOMPANHAMENTO DA EXECUÇÃO CONTRATUAL
+
+
+Art. 60. A fiscalização dos contratos de serviços será realizada por fiscais técnicos e unidades gestoras.
+
+
+Parágrafo único. Para cada contrato deverá(ão) ser designado(s) o(s) fiscal(is) técnico(s) e identificada a unidade gestora.
+
+
+Art. 61. Ao fiscal técnico do contrato competirá, além da execução dos procedimentos descritos no Anexo I desta Portaria: 
+
+
+I - verificar a conformidade da prestação dos serviços e da alocação dos recursos necessários, de acordo com o objeto do contrato;
+
+
+II - aferir, quando cabível, o cumprimento do Acordo de Níveis de Serviços, para fins de pagamento.
+
+
+III - atestar as notas fiscais e as faturas correspondentes à prestação dos serviços;
+
+
+IV - prestar informações, mensalmente, à unidade gestora do contrato, a respeito da execução dos serviços e de eventuais glosas nos pagamentos devidos à contratada; e
+
+
+V - manter o controle das ordens de serviço emitidas e cumpridas, quando cabível.
+
+
+§1º As informações relativas às atividades referidas nos incisos I, II e IV deste artigo deverão ser consolidadas em relatório de ocorrências. 
+
+
+§ 2º O relatório de ocorrências a que se refere o § 1º deste artigo deverá constar do processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista e do processo de liquidação e pagamento
+
+
+Art. 62. Caberá à unidade gestora do contrato:
+
+
+I - a coordenação e gestão do processo de acompanhamento da fiscalização da execução contratual;
+
+
+II - a análise mensal da documentação fiscal, previdenciária e trabalhista;
+
+
+III - a execução do cumprimento dos procedimentos descritos no Anexo I desta Portaria, observadas as atribuições do fiscal técnico do contrato.
+
+
+CAPÍTULO III
+DA VERIFICAÇÃO DA REGULARIDADE FISCAL, PREVIDENCIÁRIA E TRABALHISTA DA CONTRATADA
+
+
+Art. 63. A contratada deverá comprovar mensalmente a regularidade fiscal e trabalhista na forma estabelecida no art. 14 desta Portaria e no contrato. 
+
+
+Art. 64. No caso de serviços com dedicação exclusiva de mão de obra, observadas as condições contratuais e os procedimentos descritos no Anexo I desta Portaria, devem ser exigidos ainda os seguintes documentos:
+
+
+I - comprovantes de pagamento de salários, inclusive férias e 13º salário, de vale-transporte e de vale-alimentação, quando solicitado pela fiscalização; 
+
+
+II - extratos comprobatórios do depósito do FGTS e da contribuição previdenciária;
+
+
+III - Carteiras de Trabalho e Previdência Social (CTPS);
+
+
+IV - exames médicos admissionais e demissionais, quando cabíveis; e
+
+
+
+V - Guias de Recolhimento do FGTS e Informações à Previdência social com comprovante de entrega.
+
+
+Art. 65. Desde que haja previsão expressa no contrato, poderão ser requeridos outros documentos complementares para verificação do cumprimento dos encargos fiscais, previdenciários e trabalhistas. 
+
+
+TÍTULO VI
+
+
+DAS SANÇÕES ADMINISTRATIVAS
+
+
+CAPÍTULO I
+na fase licitatória e na execução contratual
+
+
+Art. 66. À licitante e à contratada, conforme o caso, poderão ser aplicadas as sanções administrativas previstas nos arts. 86 e 87, incisos I a IV, da Lei nº 8.666, de 1993; e art. 7º da Lei nº 10.520, de 17 de julho de 2002, respectivamente, de:
+
+
+I - advertência;
+
+
+II - multa;
+
+
+III - suspensão temporária de participação em licitação e impedimento de contratar com a Administração do TCU, por prazo não superior a dois anos;
+
+
+IV - declaração de inidoneidade para licitar ou contratar com a Administração Pública enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida sempre que a contratada ressarcir a Administração pelos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso anterior; ou
+
+
+V - impedimento de licitar e contratar com a União e descredenciamento no Sicaf, ou nos sistemas de cadastramento de fornecedores a que se refere o inciso XIV do art. 4º da Lei nº 10.520, de 2002, pelo prazo de até cinco anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais.
+
+
+Art. 67. Devem ser fixadas no edital, observados os princípios da razoabilidade e da proporcionalidade, as sanções relativas a prática de ato ilegal cometido na fase licitatória.
+
+
+Art. 68. Devem ser fixadas no contrato as sanções correspondentes ao descumprimento ou ao cumprimento irregular das obrigações contratuais pactuadas, respeitados os princípios da razoabilidade e da proporcionalidade e as especificidades de cada objeto.
+
+
+Art. 69. É considerada falta grave, por implicar falha na execução do contrato, o não recolhimento do FGTS dos empregados e das contribuições previdenciárias, bem como o não pagamento dos salários, do vale-transporte e do auxílio alimentação, além de outros direitos trabalhistas que venham a ser criados por lei ou instrumento de negociação coletiva da respectiva categoria profissional. 
+
+
+Art. 70. O contrato poderá estabelecer autorização para que a Administração do TCU retenha cautelarmente, dos pagamentos devidos pela execução do objeto, valor correspondente às multas em processamento, as quais, findo o respectivo processo, a depender da decisão, poderão ser apropriadas em definitivo.
+
+
+CAPÍTULO II
+
+
+DAS COMPETÊNCIAS
+
+
+Art. 71. Cabe ao Pregoeiro ou à Comissão de Licitação propor, no relatório final da licitação, a instauração de processo administrativo sancionador com o objetivo de apurar infrações cometidas por licitante em face das condutas tipificadas no art. 7º da Lei nº 10.520, de 2002 e/ou no inciso II do art. 88 da Lei 8.666, de 1993.
+
+
+§ 1º Cabe ao Secretário-Geral de Administração autorizar a instauração do processo a que se refere o caput.
+
+
+§ 2º Autorizada a instauração do processo, caberá ao Pregoeiro ou à Comissão de Licitação, com auxílio da equipe de apoio, instruí-lo com os elementos necessários, notificar a licitante para apresentar defesa prévia, manifestar-se quanto às alegações apresentadas e submeter proposta conclusiva, quanto ao mérito, à consideração superior.
+
+
+Art. 72. Cabe ao titular da unidade gestora do contrato, ao constatar qualquer irregularidade na execução contratual, inclusive em face de informações prestadas pelo fiscal técnico, determinar a instauração de processo administrativo sancionador com o objetivo de apurá-la.
+
+
+Parágrafo único. Instaurado o processo, caberá à unidade gestora instruí-lo com os elementos necessários, notificar a contratada para apresentar defesa prévia, manifestar-se quanto às alegações apresentadas e submeter proposta conclusiva, quanto ao mérito, à consideração superior.
+
+
+Art. 73. Compete ao Secretário-Geral de Administração, a aplicação das sanções previstas nos incisos I, II, III e V do art. 66 desta Portaria.
+
+
+Art. 74. A aplicação da sanção prevista no inciso IV do art. 66 desta Portaria compete ao Presidente do TCU.
+
+
+Art. 75. Concluso o devido processamento, as sanções aplicadas deverão ser registradas no Sicaf. 
+
+
+TITULO VII
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 76. O disposto nesta Portaria aplica-se, no que couber:
+
+
+I - às demais contratações firmadas pela Administração, inclusive às decorrentes de inexigibilidade e dispensa de licitação, previstas na Lei nº 8.666, de 1993, e na Lei nº 10.520, de 2002; e
+
+
+II - aos contratos vigentes, justificadamente.
+
+
+Art. 77. A Segedam fica autorizada a dirimir os casos omissos e expedir orientações e normas procedimentais complementares, com vistas a dar efeito ao disposto nesta Portaria.
+
+
+Art. 78. Ficam revogadas a Portaria-TCU nº 297, de 14 de novembro de 2012, e a PortariaTCU nº 128, de 14 de maio de 2014.
+
+
+Art. 79. Esta Portaria entra em vigor na data.
+
+
+RAIMUNDO CARREIRO
+
+
+Carlos Roberto Caixeta
+
+
+Secretário-Geral de Administração
+
+
+
+ANEXO I À PORTARIA-TCU Nº 444, DE 28 DE DEZEMBRO DE 2018.
+
+
+ORIENTAÇÕES PARA O ACOMPANHAMENTO DA EXECUÇÃO DOS CONTRATOS
+
+
+
+
+1.	Dos Procedimentos a serem observados no primeiro mês da prestação dos serviços pelo fiscal técnico e/ou pela unidade gestora:
+
+
+
+1.1.	elaborar quadro sintético em que sejam discriminadas as cláusulas contratuais que impactam no cumprimento dos encargos principais e acessórios;
+
+
+1.2.	realizar reunião, devidamente registrada em ata, com o preposto da contratada, a fim de:
+
+
+a)	informar à contratada os mecanismos de fiscalização, as estratégias para execução do objeto, o método de aferição dos resultados, as sanções aplicáveis e outras condições contratuais relevantes; e
+
+
+b)	fornecer informações sobre o funcionamento dos postos de trabalhos, como: horário de funcionamento do posto, ausências, substituições, bem como quaisquer outras ocorrências que possam influir na prestação dos serviços, como férias, horas extras, licenças.
+
+
+1.3.	realizar reunião, devidamente registrada em ata, com os empregados terceirizados, juntamente com o preposto da contratada, com o propósito de informá-los de seus direitos previdenciários, trabalhistas e contratuais, bem como orientá-los a noticiar à Administração do TCU o descumprimento de quaisquer desses direitos.
+
+
+1.4.	solicitar à contratada a relação dos empregados terceirizados, contendo nome completo, cargo ou função, valor do salário, horário do posto de trabalho, número do Registro Geral (RG) e do Cadastro de Pessoas Físicas (CPF), com indicação dos responsáveis técnicos pela execução dos serviços, quando couber, acompanhada das CTPS respectivas:
+
+
+1.4.1.	sempre que houver alteração na mencionada relação, a contratada deverá encaminhar uma nova relação à unidade gestora do contrato;
+
+
+1.4.2.	a unidade gestora e/ou o fiscal técnico deverá(ão) verificar se foram efetuadas as devidas anotações na CTPS de, pelo menos, 10% (dez por cento) dos empregados terceirizados, com especial atenção à data de início do contrato de trabalho, à função exercida e à remuneração.
+
+
+1.5.	solicitar à contratada os exames médicos admissionais de, no mínimo, 10% (dez por cento) do total dos empregados admitidos e dos responsáveis técnicos pela execução dos serviços, quando for o caso; e
+
+
+1.6.	solicitar o plano de férias dos empregados terceirizados.
+
+
+
+2.	Dos Procedimentos mensais a serem observados pelo fiscal técnico e/ou pela unidade gestora:
+
+
+
+2.1.	Solicitar à contratada documentação que comprove a utilização do material utilizado na execução dos serviços, de acordo com o estabelecido em contrato. O documento apresentado pela contratada deverá informar as quantidades efetivamente utilizadas e as especificações técnicas, tais como marca, qualidade e forma de uso.
+
+
+2.1.1.	A análise dessa documentação permitirá:
+
+
+a)	a depender da quantidade do material efetivamente utilizado, o redimensionamento dos valores a serem pagos à contratada.
+
+
+b)	apuração do resultado das avaliações da execução do objeto e, se for o caso, da análise do desempenho e da qualidade da prestação dos serviços realizados, em consonância com os indicadores previstos no Acordo de Níveis de serviço.
+
+
+2.2.	Obter relação nominal assinada por, no mínimo, 10% (dez por cento) do total dos empregados terceirizados, mediante utilização de amostra com reposição, contendo as seguintes informações: 
+
+
+a)	o valor do salário;
+
+
+b)	mês de referência; 
+
+
+c)	nome do empregado terceirizado; 
+
+
+d)	data de recebimento do salário, férias ou 13º salário, quando cabível; 
+
+
+e)	data de recebimento do vale-transporte; 
+
+
+f)	data de recebimento do vale-alimentação; e 
+
+
+g)	campo para observações e assinaturas dos empregados terceirizados.
+
+
+2.3.	Solicitar a pelo menos 10% (dez por cento) do total dos empregados terceirizados, mediante utilização de amostra com reposição, os extratos do INSS e do FGTS, com vistas a averiguar o cumprimento, pela contratada, das obrigações previdenciárias e trabalhistas;
+
+
+2.4.	Solicitar, para conferência, os documentos comprobatórios de regularidade fiscal e trabalhista, na forma estabelecida no art. 14 deste normativo e no contrato;
+
+
+2.5.	Solicitar e guardar as Guias de Recolhimento do FGTS e Informações à Previdência Social com comprovante de entrega, de forma a se fazer cumprir o art. 138 da Instrução Normativa RFB nº 971, de 13 de novembro de 2009;
+
+
+2.6.	Solicitar à contratada as CTPS e os exames médicos admissionais dos empregados terceirizados admitidos no mês sob análise. 
+
+
+2.7.	Averiguar, com base no plano de férias apresentado pela contratada ou em qualquer outro mecanismo de controle criado pela unidade gestora, o cumprimento da legislação trabalhista relativo ao usufruto de férias, licenças, horas extras, atestados, no mês sob análise.
+
+
+2.8.	Inserir no processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista, de que trata o art. 56 deste normativo, a documentação pertinente à fiscalização, o relatório de comprovação do pagamento de salários (inclusive férias e 13º Sálário), de vale-Alimentação e de vale-transporte e o relatório do cumprimento das obrigações trabalhistas, sociais, previdenciárias e trabalhistas, Anexos II e III, devidamente preenchidos; e
+
+
+2.9.	Encaminhar para pagamento o processo administrativo de liquidação e pagamento de que trata o art. 56, contendo o relatório de comprovação do cumprimento das obrigações fiscais, previdenciárias e trabalhistas, ANEXO III, e os documentos comprobatórios de regularidade fiscal e trabalhista a que se refere o art. 14 deste normativo.
+
+
+
+3.	Dos Procedimentos a serem observados pelo fiscal técnico e/ou pela unidade gestora, quando da extinção dos contratos administrativos ou da rescisão do contrato de trabalho dos empregados:
+
+
+
+3.1.	Solicitar à contratada:
+
+
+3.1.1.	recibos de quitação dos contratos de trabalho dos empregados prestadores de serviço, ou outro instrumento equivalente, devidamente homologados, quando exigível;
+
+
+3.1.2.	comunicação aos órgãos competentes da extinção do contrato de trabalho; 
+
+
+3.1.3.	a comprovação da anotação da extinção do contrato na CTPS, conforme estabelece o art. 477 da Consolidação das Leis Trabalhistas;
+
+
+3.1.4.	extratos dos depósitos efetuados nas contas vinculadas individuais do FGTS de cada empregado dispensado; e
+
+
+3.1.5.	exames médicos demissionais dos empregados dispensados, quando exigível.
+
+
+
+4.	Disposições Gerais:
+
+
+
+4.1.	No intuito de dar cumprimento ao § 1º do art. 67 da Lei 8.666/93, o fiscal técnico encaminhará à unidade gestora relatório de ocorrências elaborado em conformidade com os §§ 1º e 2º do art. 61 deste normativo;
+
+
+4.2.	O valor do salário não poderá ser inferior ao previsto no contrato;
+
+
+4.3.	A relação de que trata o item 2.2 deverá abranger todos os empregados, quando o número de empregados terceirizados for igual ou inferior a 10 (dez);
+
+
+4.4.	A unidade gestora do contrato deverá analisar os extratos do INSS e do FGTS de todos os empregados, no mínimo a cada quatro meses, quando o número de empregados terceirizados contratados for igual ou inferior a 10 (dez);
+
+
+4.5.	A unidade gestora deverá examinar a regularidade do pagamento de salário e benefícios, bem como os extratos do INSS e do FGTS de todos os empregados ao final de um ano – sem que isso signifique que a análise não possa ser realizada mais de uma vez em um mesmo empregado – garantindo assim o "efeito surpresa" e o benefício da expectativa do controle;
+
+
+4.6.	Detectada irregularidade no pagamento de salário e benefícios, bem como no recolhimento da contribuição previdenciária e no depósito do FGTS, na hipótese de não se tratar de caso isolado, a unidade gestora deverá ampliar a amostra examinada a fim de apurar a gravidade da falta; 
+
+
+4.7.	Quando a contratada não realizar os pagamentos de salários e benefícios, bem como o recolhimento da contribuição previdenciária e o depósito do FGTS aos empregados terceirizados nas datas previstas em acordos, convenções coletivas de trabalho ou sentenças normativas proferidas em dissídio coletivo ou lei, a unidade gestora fixará prazo para a contratada resolver a irregularidade.
+
+
+4.8.	A Unidade gestora deverá solicitar à contratada, na forma estabelecida em contrato, comprovação de que mantém reserva de cargos para pessoa com deficiência ou para reabilitado da Previdência Social e que atende às regras de acessibilidade, conforme disposto no art. 66-A da Lei nº 8.666, de 1993.  
+
+
+4.9.	Em caso de indícios de irregularidades não justificadas ou saneadas pela contratada, nos prazos estabelecidos pela fiscalização, a unidade gestora deverá oficiar os órgãos competentes.
+
+
+4.10.	As solicitações de serviços, bem como eventuais reclamações ou cobranças relacionadas aos empregados terceirizados devem ser dirigidas ao preposto da empresa.
+
+
+4.11.	As comunicações entre o TCU e a contratada devem ser realizadas por escrito sempre que o ato exigir tal formalidade, admitindo-se, o uso de mensagem eletrônica para esse fim.
+
+
+4.12.	Desde que haja previsão contratual, poderão ser requeridos outros documentos complementares relativos ao cumprimento dos encargos fiscais, trabalhistas e previdenciários.
+
+
+4.13.	As orientações contidas neste anexo deverão ser aplicadas, no que couber, aos contratos de prestação de serviços sem dedicação exclusiva de mão-de-obra.
+
+
+
+Não consta revogação expressa
+Dispõe sobre o processo de contratação de serviços, no âmbito da Secretaria do Tribunal de Contas da União (TCU).
+
+ANEXO II À PORTARIA-TCU Nº 444, DE 28 DE DEZEMBRO DE 2018.
+
+
+
+
+
+COMPROVAÇÃO DO PAGAMENTO DE SALÁRIOS (INCLUSIVE FÉRIAS E 13º SALÁRIO), DE VALE-ALIMENTAÇÃO E DE VALE-TRANSPORTE 
+
+
+INFORMAÇÕES BÁSICAS SOBRE A CONTRATAÇÃO
+
+Nº do processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista:
+
+ 
+
+Nº do contrato:
+
+Nome da contratada:
+
+ 
+
+ 
+
+Nº do processo administrativo de liquidação e pagamento:
+
+ 
+
+Objeto:
+
+Vigência:
+
+Unidade gestora(as) do contrato:
+
+ 
+
+Mês de referência:
+
+Fiscal(is) técnico(s) do contrato:
+
+ 
+
+
+
+COMPROVANTE DO RECEBIMENTO DE SALÁRIO (INCLUSIVE FÉRIAS E 13º SALÁRIO), DE VALE-ALIMENTAÇÃO E DE VALE-TRANSPORTE
+
+ 
+
+Tipo/categoria de serviço contratado:
+
+ 
+
+Valor do Salário: R$ ______________
+
+ 
+
+Período: de ___/___/___ a ___/___/___
+
+ 
+
+Nº
+
+ 
+
+ 
+
+Nome do empregado
+
+ 
+
+Data de Recebimento
+
+Observações
+
+Assinatura do empregado
+
+Salário
+
+Vale-alimentação
+
+Vale-transporte
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Obs.1: Quando o contrato abranger mais de uma categoria profissional, a relação deve ser individualizada por categoria.
+
+
+Obs.2: Juntar este Anexo e os documentos probantes ao processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista.
+
+
+
+Gestor(es) de Contrato, ____ de ___________ de 20___.
+
+
+
+Servidor(es)
+
+
+
+Cargo – matr.
+
+
+
+
+De acordo.
+
+
+
+Unidade Gestora 
+
+
+
+
+
+
+
+
+
+ANEXO III À PORTARIA-TCU Nº 444, DE 28 DE DEZEMBRO DE 2018.
+
+
+
+COMPROVAÇÃO DO CUMPRIMENTO DAS OBRIGAÇÕES FISCAIS, PREVIDENCIÁRIAS E TRABALHISTAS
+
+
+INFORMAÇÕES BÁSICAS SOBRE A CONTRATAÇÃO
+
+Nº do processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista:
+
+ 
+
+Nº do contrato:
+
+Nome da contratada:
+
+ 
+
+ 
+
+Nº do processo administrativo de liquidação e pagamento:
+
+ 
+
+Objeto:
+
+Vigência:
+
+Unidade gestora(as) do contrato:
+
+ 
+
+Mês de referência:
+
+Fiscal(is) técnico(s) do contrato:
+
+ 
+
+PAGAMENTO DE SALÁRIOS
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+PAGAMENTO DAS FÉRIAS
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+ 
+
+PAGAMENTO DO 13º SALÁRIO
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+PAGAMENTO DO VALE-ALIMENTAÇÃO
+
+Obs.:
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+PAGAMENTO DO VALE-TRANSPORTE
+
+Obs.:
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+ADMISSÃO DE PESSOAL
+
+Obs.:
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+DEMISSÃO DE PESSOAL
+
+Obs.:
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+
+ 
+
+
+OCORRÊNCIA
+
+METODOLOGIA
+
+DÉPOSITOS DO FGTS
+
+Análise dos extratos comprobatórios do recolhimento do FGTS relativamente a cada empregado terceirizado, analisados na forma da PORTARIA-TCU Nº xx/2012.
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+ 
+
+RECOLHIMENTOS DO INSS
+
+Análise dos extratos comprobatórios do recolhimento do INSS relativamente a cada empregado terceirizado, analisados na forma da PORTARIA-TCU Nº xx/2012.
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+
+
+OCORRÊNCIA
+
+METODOLOGIA
+
+CERTIDÕES
+
+Regularidade fiscal comprovada por meio da apresentação das seguintes certidões:
+
+a) Certidão conjunta negativa de débitos relativos a tributos federais e à Dívida Ativa da União;
+
+b) Certidão negativa de débitos junto às fazendas federal, estadual ou distrital e municipal do domicílio sede da contratada;
+
+c) Certidão Negativa de Débito da Previdência Social (CND);
+
+d) Certidão de regularidade junto ao Fundo de Garantia do Tempo de Serviço (FGTS); e
+
+e) Certidão Negativa de Débitos Trabalhistas (CNDT).
+
+Obs.: os documentos elencados acima poderão ser substituídos, total ou parcialmente, por Declaração do Sistema de Cadastramento Unificado de Fornecedores (Sicaf).
+
+Obs.: 
+
+Situação:
+
+Regular (   )
+
+Irregular (   )
+
+
+Obs.: juntar este Anexo e os documentos probantes ao processo administrativo de acompanhamento e análise da documentação fiscal, previdenciária e trabalhista.
+
+
+
+Gestor (es) de Contrato, ____ de ___________ de 20___.
+
+
+
+Servidor(es)
+
+
+
+Cargo – matr.
+
+
+
+
+De acordo.
+
+
+
+Unidade Gestora
+
+
+
+

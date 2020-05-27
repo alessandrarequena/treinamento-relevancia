@@ -1,0 +1,963 @@
+Portaria
+176/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica prorrogado até 1º de agosto de 2008, conforme relatório de prorrogação anexo, o prazo para conclusão do Projeto Síntese - Sistema de Inteligência e Suporte ao Controle Externo, aprovado pela Portaria- TCU nº 270, de 10 de dezembro de 2003 e prorrogado pela Portaria-TCU nº 140, de 6 de julho de 2006.
+
+
+Art. 2º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 3º Esta Portaria entra em vigor a partir de 31 de julho de 2007.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+I - Período do projeto
+
+II - Unidade patrocinadora
+
+III - Gestor do projeto
+
+
+
+03.12.2004 a 31.07.2007
+
+Segecex
+
+Chen Wen Lin
+
+
+
+
+
+1. Objetivo do projeto
+
+
+Conceber, elaborar e implementar  “Data Warehouse” de Controle da Administração Pública
+
+
+
+
+
+2. Situação do projeto (em relação ao previsto na proposta)
+I - Execução em relação ao total do projeto
+
+
+
+(    ) Menos de 10% executado
+
+(    ) 10% a 40% executado
+
+( x ) 41% a 80% executado
+
+(    ) acima de 80% executadoII - Controle
+
+
+
+(    ) Execução adiantada
+
+(    ) Execução dentro do previsto
+
+(  x ) Execução atrasada
+
+
+
+
+
+3. Cumprimento de metas acordadas na proposta
+I - Produto
+
+II - Indicador
+
+III - Quanto
+
+IV - Data de término
+
+V - Comentários
+
+VI - (comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+
+
+a)
+
+Elaborar projeto básico para desenvolvimento do “Data Warehouse” de Controle da Administração Pública.
+
+projeto básico para desenvolvimento do “Data Warehouse”
+
+P-100%
+
+R-100%
+
+P- 1/3/2004
+
+R- 1/3/2004
+
+Entregue no prazo.
+
+b)
+
+Auxiliar a Elaboração do contrato para implementação do Projeto Piloto.
+
+Contrato assinado
+
+P-100%
+
+R-100%
+
+P-1/7/2004
+
+R-1/7/2004
+
+Entregue no prazo.
+
+c)
+
+Definir Infra-estrutura de Tecnologia da Informação (TI).
+
+Especificação da Infra-Estrutura
+
+P-100%
+
+R-100%
+
+P-30/9/2004
+
+R-30/3/2005
+
+Entregue com atraso (somente em 30/03/2005) em virtude de dificuldades de a Setec alocar interlocutor com dedicação exclusiva e dificuldades de definir o responsável para a elaboração do trabalho. 
+
+ 
+
+Prorrogação
+
+d)
+
+Material de Treinamento 
+
+Material de treinamento
+
+P-100%
+
+R-100%
+
+P-30/07/2006
+
+R-15/8/2006
+
+Concluído em 15/08/2006. 
+
+e)
+
+Definir procedimentos de operação e atendimento a usuários para a Fase 1.
+
+Documentos com procedimentos de atendimento ao usuário
+
+P-100%
+
+R-100%
+
+P-30/7/2005
+
+R-12/6/2007
+
+Script de atendimento concluído em 12/06/2007.
+
+Treinamento para a equipe de atendimento ao usuário realizada em dezembro de 2006, por dificuldades de agenda. 
+
+f)
+
+Implementar Fase 1 (SIAFI e
+
+SIASG) de “Data Warehouse”.
+
+DW com dados do SIAFI e SIASG
+
+P-100%
+
+R-86%
+
+P-1/09/2006
+
+Houve um atraso de 15 meses para a contratação do ambiente de produção, em relação ao planejado inicialmente, devido a demora na conclusão da especificação (item c), no processo de contratação e na aprovação do Orçamento Geral da União  de 2006. O Contrato foi assinado em 31/05/2006.
+
+A conclusão da implementação do ambiente de produção estava prevista para 1/9/2006. Entretanto, essa implementação foi concluída em novembro de 2006 e a carga de dados, em 8/3/2007. 
+
+Apesar disso, o Síntese apresentou problema de carga de dados em função de mudanças do Siafi nos exercícios de 2004 a 2007. Para correção desse problema, o Síntese está sendo reformulado. Para  o exercício de 2006, a correção deverá ser concluída em 04/10/2007; para 2007, em 25/10/2007; para 2005, em 26/02/2008; e para 2004, em 24/04/2008.
+
+
+
+
+
+
+
+ 
+
+PROJETO “SÍNTESE  - Sistema de Inteligência e Controle Externo”
+
+ 
+
+Página 2 de 6
+
+
+
+VII - Produto
+
+VIII - Indicador
+
+IX - Quanto
+
+X - Data de término
+
+XI - Comentários
+
+XII - (comentários relevantes na execução ou no formato do produto, discrepância entre datas, alteração de escopo, inclusão de novos produtos, outros)
+
+
+
+g)
+
+Implementar a Fase 2:  CPF, SIAPE, CNPJ, CAUC, RAIS, SIEST sistemas internos ao TCU (Fiscobras, Fiscalis, Clientela, Radar).
+
+Implementação
+
+P-100%
+
+R-60%
+
+P-30/09/2006
+
+O Modelo de Dados foi aprovado em 19/01/2006. A provável data de término deverá ser 30/06/2008. Atualmente, apenas 60% da fase 2 está realizada. 
+
+O atraso do desenvolvimento da fase 2 decorreu da necessidade de reformulação da fase 1 (em virtude da evolução do SIAFI) e da transferência do pólo de desenvolvimento do Serpro para Brasília. 
+
+h)
+
+Definir procedimentos de operação e atendimento a usuários para a fase 2.
+
+Script de call center
+
+P-100%
+
+R-0%
+
+P-30/06/2006
+
+A ser concluído em 30/06/2008, com a conclusão da fase 2.
+
+i)
+
+Definir treinamento para a Fase 2.
+
+Material de treinamento
+
+P-100%
+
+R-0%
+
+P-30/06/2006
+
+A ser ajustado e concluída em 30/06/2008, com a conclusão da fase 2.
+
+j)
+
+Elaboração de 50 Relatórios padronizados para facilitar o uso.
+
+Relatórios
+
+P-100%
+
+R-100%
+
+P-15/12/2006
+
+R-15/12/2006
+
+Concluído no prazo.
+
+k)
+
+Desenvolvimento de sistema para a Semag, com o objetivo de calcular os índices que serão utilizados pelo Síntese para  certificar se estão corretos os valores transferidos pela União aos Estados/Municípios.
+
+Sistema para Semag
+
+P-100%
+
+R-100%
+
+P-30/07/2006
+
+R-15/12/2006
+
+A versão foi concluída no final de 2006 e  repassada à Semag para continuar o desenvolvimento do TRANSCON.
+
+l)
+
+Capacitação de 20 servidores em Contabilidade Pública e Siafi para usarem melhor o Síntese.
+
+Curso de Contabilidade Pública com aplicação prática utilizando Siafi e Síntese
+
+P-100%
+
+R-5%
+
+P-05.02.2007
+
+Material estava em desenvolvimento. Mas, decidiu-se pelo cancelamento do produto, no escopo do projeto. Este produto poderá ser desenvolvido pelo ISC.
+
+m)
+
+Depuração de erros.
+
+DW Síntese
+
+P-100%
+
+R-100%
+
+P-31/07/2007
+
+É uma ação contínua. Indicou a necessidade de reformulação da fase 1 do Síntese em março de 2007.
+
+n)
+
+Treinar 120 servidores para usar o Síntese.
+
+Servidores habilitados a usar o Síntese
+
+P-100%
+
+R-33%
+
+P-31/07/2007
+
+Até dezembro de 2006, 40 servidores do TCU foram treinados no uso da ferramenta pelo Serpro. 
+
+o)
+
+Apoiar os usuários na utilização do Síntese em 5 processos de fiscalização.
+
+Uso do Síntese em processos de fiscalização
+
+P-100%
+
+R-100%
+
+P-31/07/2007
+
+R-12/6/2007
+
+Concluído. O Síntese está sendo utilizado pela Secob, 5a Secex (TMS), Sefti, 7a Secex, 3a Secex, SECOI, 1a Secex e Seprog.
+
+p)
+
+Divulgar o Síntese, fazendo 20 palestras
+
+Palestras e apresentações
+
+P-100%
+
+R-30%
+
+P-31/7/2007
+
+Foram feitas apenas 6 apresentações internas do Síntese (30% do planejado), em função do atraso da carga de dados (março de 2007).
+
+q)
+
+Implementar solução de "data mining" no “data warehouse” Síntese.
+
+Uso de Ferramenta de “data mining”
+
+P-100%
+
+R-15%
+
+P-31/7/2007
+
+Foram realizados testes com o software “Statistica data mining” e curso de Mineração de dados. Mas, decidiu-se pelo cancelamento do produto.
+
+
+
+
+
+4. Atividade realizada fora do plano (se couber)
+I - Descrição
+
+II - Comentários
+
+
+
+a)
+
+Aquisição de ferramentas ETL.
+
+A solução exigiu a aquisição de ferramenta ETL. Foi necessário especificar e apoiar a CPL durante todo o processo de contratação. Situação: atividade concluída.
+
+b)
+
+Ser o principal responsável pela Contratação de Infra-Estrutura de Produção.
+
+A expectativa inicial era que a Setec fornecesse a infra-estrutura de TI, diretamente ou através de terceiros. O Projeto acabou assumindo a maior parcela dos trabalhos referentes ao processo de contratação, elaborando estudos, justificativas e relatórios técnicos. Situação: atividade concluída.
+
+
+
+
+
+
+
+III - Descrição
+
+IV - Comentários
+
+
+
+c)
+
+Contratação de serviços da Reuters.
+
+A Semag demandou a contratação dos serviços, o que exigiu a participação no processo de contratação. Situação: atividade concluída.
+
+d)
+
+Especificação do software de Análise Investigativa
+
+Foi feita a especificação do software para o SGI em 2005. Situação: atividade concluída.
+
+e)
+
+Especificação de grande parte das funcionalidades da fase 2.
+
+Diversos componentes foram especificados pela própria equipe, tais como Sistemas Internos (Matriz de Risco, Radar, Processus e Fiscalis), dados do SIEST e SIDOR,  Cadastro de Pessoas. Situação: atividade concluída.
+
+f)
+
+Elaboração de Material de Treinamento para uso do Modelo de Dados do Síntese e construção de relatórios.
+
+Foi necessário elaborar material específico para ensinar os usuários a compreender o modelo de dados e, assim, poderem desenvolver relatórios. Situação: atividade em desenvolvimento.
+
+g)
+
+Depuração de erros.
+
+Não pudemos contar com apoio dos usuários para depurar as funcionalidades do Síntese. Parte da equipe do projeto foi alocada para esta finalidade. Situação: atividade em desenvolvimento.
+
+h)
+
+Elaboração de Relatórios para facilitar o uso.
+
+Para facilitar o uso do Síntese, está sendo desenvolvido uma série de relatórios. Situação: atividade em desenvolvimento.
+
+i)
+
+Desenvolvimento de sistema para a Semag, com o objetivo de calcular os índices que serão utilizados pelo Síntese para  certificar se estão corretos os valores transferidos pela União aos Estados/Municípios.
+
+A Semag tinha dificuldades para calcular estes índices. Sem estes índices, o Síntese não tinha como analisar se os valores transferidos pela União aos Estados/Municípios estavam corretos. Por isto, desenvolveu-se esta funcionalidade. Situação: atividade concluída (executada no período de  outubro de 2005 a dezembro de 2006).
+
+j)
+
+Apoio às atividades do SGI
+
+Participação na discussão do modelo de funcionamento  do SGI(Serviço de Gestão de Informações Estratégicas), inclusive na especificação dos softwares de apoio
+
+
+
+5. Dificuldade encontrada (se couber)
+I - Dificuldade
+
+II - Ação para saneamento
+
+
+
+a)
+
+Poucos servidores com conhecimentos no negócio para apoiar a definição.
+
+A alocação de um especialista em Siafi permitiu a solicitação de correções no modelo de dados. Além disso, os membros do Projeto contaram com o apoio dos servidores dos Ministérios e do Serpro para especificar a fase 2. 
+
+b)
+
+Homologação dos produtos gerados pelos membros do Comitê Consultivo.
+
+A equipe assumiu a responsabilidade pela homologação dos produtos.
+
+c)
+
+Baixa demanda por relatórios de apoio ao planejamento de ações de controle
+
+Estímulos, com exemplos, como as informações tratadas pelo Síntese de forma agregada, podem apoiar o planejamento de controle.
+
+d)
+
+Ambiente de testes inadequado.
+
+Setec e Serpro estão atuando em conjunto na identificação dos problemas de rede.
+
+e)
+
+Atraso no desenvolvimento da fase 2, em função da transferência do pólo de desenvolvimento do Serpro para Brasília e greve no mês de junho/2006
+
+Solicitação para o  Serpro agilizar treinamento da nova equipe e alocação de mais pessoas na equipe de desenvolvimento. Esta demanda tem sido monitorada pela equipe.
+
+f)
+
+Demora na disponibilização do ambiente de produção.
+
+A demora dificultou o início da divulgação do Síntese. Atualmente,  o ambiente de produção já está implementado.
+
+g)
+
+Mudanças no SIAFI nos últimos exercícios
+
+Mudanças no Siafi exigiram que o Síntese (fase 1) fosse reformulado. A reformulação tem conclusão prevista para 24/04/2008. Esta foi a maior de todas as dificuldades encontradas para o cumprimento de todos os prazos do projeto.
+
+
+
+
+
+6. Impacto gerado pelos produtos (registrar se impacto já ocorrido)
+
+
+a)
+
+Utilização de dados do SIASG, carregados no SÍNTESE, em Fiscalização realizada pela Secob
+
+b)
+
+Descoberta de erros no SIAFI
+
+c)
+
+Utilização de dados para o TMS(Temas de Maior Significância) 2007
+
+d)
+
+Utilização de informações para planejamento de ações da Sefti, Seprog e outras Secretarias do TCU
+
+e)
+
+Incentivo à utilização de dados e informações do SIAFI e SIASG de forma intensiva
+
+
+
+
+
+
+
+
+
+7. Definição do formato da prorrogação
+I - Período da prorrogação
+
+
+
+01.08.2007 a 01.08.2008II - Justificativa da prorrogação
+
+
+
+Necessidade de concluir os produtos em andamento (inclusive os que estavam fora do escopo inicial), em especial a fase 2 do Síntese e os ajustes para adequação da fase 1 em relação ao Siafi, e  ampliação do escopo com objetivo de fomentar o uso do Síntese.III - Alterações no desenvolvimento dos trabalhos (se couber, registrar alterações relevantes a serem adotadas durante o período de prorrogação)
+
+
+
+ IV - META
+
+V - Indicador
+
+VI - Produto
+
+VII - Cliente
+
+VIII - Objetivo específico
+
+IX - Quanto
+
+X - Data de término
+
+
+
+a)
+
+Implementar nova versão do Síntese (fase 1), que contempla as mudanças sofridas pelo Siafi nos exercícios de 2004, 2005, 2006, 2007 e 2008
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+04/10/2007
+
+25/10/2007
+
+26/02/2008
+
+24/04/2008
+
+DW com dados atualizados do SIAFI e SIASG homologados:
+
+para  o exercício de 2006,
+
+para 2007, 
+
+para 2005,
+
+e para 2004.
+
+DW com dados atualizados do SIAFI e SIASG implementados
+
+Unidades da Segecex
+
+b)
+
+Implementar a Fase 2:
+
+1) Módulo Pessoas  - CPF, SIAPE, CNPJ e RAIS;
+
+2) Módulo sistemas internos do TCU - Fiscobras, Fiscalis, Processus, Clientela e Radar;
+
+3) Módulo orçamento - SIEST, SIDOR, SIGPLAN e CAUC
+
+100%
+
+ 
+
+ 
+
+ 
+
+10/01/2008
+
+28/02/2008
+
+30/06/2008
+
+Implementação de DW com dados da fase 2 homologados:
+
+módulo 1);
+
+módulo 2); e
+
+módulo 3)
+
+DW com dados da fase 2, módulos pessoas, sistemas internos do TCU e orçamento implementados
+
+Unidades da Segecex
+
+c)
+
+Definir procedimentos de operação e atendimento a usuários para a fase 2.
+
+100%
+
+30/06/2008
+
+Script de call center aprovado
+
+Script de call center elaborados
+
+Setec
+
+d)
+
+Definir treinamento para a Fase 2.
+
+100%
+
+30/06/2008
+
+Material de treinamento aprovado
+
+Material de treinamento elaborado
+
+ISC
+
+e)
+
+Elaboração de 50 Relatórios gerencias para apoiar tomada de decisão e 100 relatórios analíticos para levantamento de dados.
+
+50
+
+ 
+
+ 
+
+100
+
+01/08/2008
+
+Relatórios gerenciais homologados
+
+Relatórios analíticos homologados
+
+Relatórios do DW Síntese elaborados
+
+Unidades da Segecex
+
+f)
+
+Depuração de erros.
+
+0%
+
+01/08/2008
+
+Índice de erros detectados
+
+DW Síntese com erros depurados
+
+Unidades da Segecex
+
+g)
+
+Treinar 60 servidores para usar o Síntese.
+
+60
+
+01/07/2008
+
+Servidores treinados
+
+Servidores habilitados a usar o Síntese
+
+ISC
+
+h)
+
+Divulgar o Síntese, fazendo 15 palestras
+
+15
+
+01/07/2008
+
+Palestras do Síntese
+
+Palestras e apresentações
+
+realizadas
+
+Unidades da Segecex
+
+i)
+
+Implementar indicadores de materialidade, relevância e risco sobre a clientela do Tribunal, com base nos dados constantes nos sistemas de informação que alimentam o Síntese.
+
+100%
+
+01/08/2008
+
+Relatórios do DW Síntese homologados
+
+Relatórios do DW Síntese implementados
+
+Unidades da Segecex
+
+
+
+
+
+XI - Não escopo (o que o projeto não vai fazer)
+
+
+
+a)
+
+Projeto de infra-estrutura visando a produção do Síntese nas instalações da Setec
+
+b)
+
+Integração com o DW Sinergia
+
+c)
+
+Aquisição de ferramenta de “data mining”.XII - Identificação das partes envolvidas no projeto (em relação a que)
+
+XIII - Nome da parte envolvida
+
+XIV - Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+XV - Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)
+
+Projeto BID
+
+Recursos para implementação da fase 2, contrato com o Serpro.
+
+b)
+
+ISC
+
+Salas para realização de treinamento.
+
+c)
+
+Unidades da Segecex
+
+Cessão de servidores para treinamento e para aperfeiçoar a ferramenta.XVI - Custos estimados (registrar se houver alteração dos custos previstos na proposta)
+
+XVII - Recurso
+
+XVIII - Valor estimado (R$)
+
+XIX - Data inicial de liberação do recurso
+
+XX -  
+
+XXI -  
+
+XXII -  
+
+
+
+
+Obs.: (comentar sobre fontes de recursos, base de cálculo e outros esclarecimentos necessários)
+XXIII - Equipe do projeto (registrar se houver alteração da equipe prevista na proposta)
+
+
+
+
+
+
+
+8. Finalização
+XXIV - Nome
+
+XXV - Matrícula
+
+XXVI - Lotação
+
+XXVII - Período
+
+XXVIII - Dedicação integral/ parcial / por atividade
+
+
+
+1.
+
+Chen Wen Lin
+
+2430-9
+
+Adfis
+
+01.08.2007 a 01.08.2008
+
+Integral
+
+2.
+
+Marco Antônio Magalhães Cavalcanti
+
+2946-7
+
+Adfis
+
+01.08.2007 a 01.08.2008
+
+Integral
+
+3.
+
+Daniel Dias Pereira
+
+3195-0
+
+Adfis
+
+01.08.2007 a 15.12.2007
+
+Integral
+
+4.
+
+Antonio Júlio Ferreira
+
+341-7
+
+Adfis
+
+01.08.2007 a 15.12.2007
+
+Integral
+
+5.
+
+Claiton Custodio Da Silva
+
+3523-8
+
+Secob
+
+01.08.2007 a 01.08.2008
+
+Parcial
+
+I - Data
+
+II - Assinatura do gestor do projeto
+
+
+
+Em 26/06/2007
+
+Chen Wen lin
+
+Coordenador do Projeto
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MARCELO BEMERGUY
+
+Supervisor do ProjetoIII - Manifestação do titular da unidade patrocinadora
+
+
+
+Encaminhe-se o presente relatório à Seplan, visando à aprovação da prorrogação junto à CCG
+
+Segecex,  em 26/06/2007
+
+jorge pereira de macedo
+
+Secretário-Geral de Controle Externo
+
+
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Prorroga o prazo de realização do Projeto Síntese - Sistema de Inteligência e Suporte ao Controle Externo.
+
+

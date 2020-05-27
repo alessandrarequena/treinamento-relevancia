@@ -1,0 +1,619 @@
+Portaria
+25/2012
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições conferidas pelo art. 28, incisos XIV e XXXIV, do Regimento Interno, e tendo em vista o disposto no parágrafo único do art. 45 da Lei nº 8.112, de 11 de dezembro de 1990,
+
+
+considerando o estabelecido no Decreto nº 6.386, de 29 de fevereiro de 2008, que dispõe sobre o processamento das consignações em folha de pagamento no âmbito do Poder Executivo Federal;
+
+
+considerando a necessidade de aprimorar os procedimentos afetos ao processamento das consignações em folha de pagamento dos servidores e pensionistas civis do Tribunal de Contas da União, de modo a agregar mais segurança, agilidade e transparência para todos os envolvidos nas operações;
+
+
+considerando a importância de implantar inovações que possibilitem desenvolver a averbação eletrônica de obrigações, efetivar a averbação de obrigações junto a planos de saúde sem necessidade de celebração de convênio, bem como tornar obrigatório as instituições financeiras explicitarem taxas de juro efetivas e entregarem, de forma ágil e fácil, extratos e boletos para pagamento antecipado de dívidas; e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-013.314/20114, resolve:
+
+
+CAPÍTULO I
+DAS DISPOSIÇÕES INICIAIS
+
+
+Art. 1º As consignações em folha de pagamento dos servidores e pensionistas civis do Tribunal de Contas da União (TCU) observarão as regras estabelecidas nesta Portaria.
+
+
+Parágrafo único. A consignação em folha de pagamento não implica co-responsabilidade do TCU por dívidas ou compromissos de natureza pecuniária, assumidos pelo consignado junto ao consignatário.
+
+
+Art. 2º Considera-se, para fins desta Portaria:
+
+
+I - servidor: pessoa vinculada ao TCU, legalmente investida em cargo público, no efetivo exercício do cargo ou já aposentada;
+
+
+II - consignatário: pessoa física destinatária dos créditos resultantes das consignações compulsória ou facultativa;
+
+
+III - entidade consignatária: pessoa jurídica destinatária dos créditos resultantes das consignações compulsória ou facultativa;
+
+
+IV - consignado: servidor ou titular de pensão civil instituída por servidor do TCU;
+
+
+V - consignante: TCU, que procede a descontos relativos às consignações compulsórias ou facultativas na remuneração, provento ou pensão civil do consignado, em favor de consignatário ou entidade consignatária;
+
+
+VI - consignação compulsória: desconto incidente sobre a remuneração, provento ou pensão civil, efetuados por força de lei ou de mandado judicial;
+
+
+VII - consignação facultativa: desconto incidente sobre a remuneração, provento ou pensão civil, mediante solicitação formal do consignatário, autorização do consignado e anuência do consignante; e
+
+
+VIII - margem consignável: parcela da remuneração, provento ou pensão civil passível de consignação compulsória ou facultativa.
+
+
+CAPÍTULO II
+DAS CONSIGNAÇÕES COMPULSÓRIAS
+
+
+Art. 3º São considerados consignações compulsórias:
+
+
+I - contribuição para a Seguridade Social do Servidor Público;
+
+
+II - contribuição para o Regime Geral de Previdência Social;
+
+
+III - pensão alimentícia judicial;
+
+
+IV - imposto sobre renda e proventos de qualquer natureza;
+
+
+V - reposição ou indenização ao erário;
+
+
+VI - obrigação decorrente de mandado judicial ou de decisão administrativa;
+
+
+VII - mensalidade ou contribuição em favor de sindicato ou associação de classe, na forma do art. 8º, inciso IV, da Constituição Federal ou do art. 240, alínea "c", da Lei nº 8.112, de 11 de dezembro de 1990; e
+
+
+VIII - outros descontos compulsórios instituídos por lei.
+
+
+CAPÍTULO III
+DAS CONSIGNAÇÕES FACULTATIVAS
+
+
+Art. 4º São considerados consignações facultativas:
+
+
+I - mensalidade em favor de associação civil, sem fins lucrativos, reconhecida como de interesse do TCU, bem como associação de servidores, instituídas na forma da legislação em vigor;
+
+
+II - mensalidade ou desconto em favor de cooperativa constituída de acordo com a Lei nº 5.764, de 16 de dezembro de 1971, para atendimento a servidor público do Poder Legislativo Federal;
+
+
+III - contribuição para entidade fechada ou aberta de previdência privada, que opere com plano de saúde, pecúlio, seguro de vida, renda mensal ou previdência complementar;
+
+
+IV - amortização de financiamento imobiliário para construção, aquisição de terreno ou reforma de imóvel residencial;
+
+
+V - amortização de empréstimo pessoal concedido por instituições financeiras ou por aquelas a que se referem os incisos II e III deste artigo;
+
+
+VI - pensão alimentícia voluntária em favor de dependente cujo nome conste dos assentamentos funcionais do consignado;
+
+
+VII - aluguel de imóvel residencial;
+
+
+VIII - contribuição ou mensalidade para entidade pública ou privada, que opere com plano de saúde; e
+
+
+IX - doação aos Fundos Nacional, Estaduais ou Municipais dos Direitos da Criança e do Adolescente mencionados na Lei nº 8.069, de 13 de julho de 1990.
+
+
+CAPÍTULO IV
+DOS CONSIGNATÁRIOS FACULTATIVOS
+
+
+Art. 5º Serão habilitados como consignatários facultativos:
+
+
+I - Administração Pública Federal, Estadual e Municipal, direta, indireta, autárquica e fundacional;
+
+
+II - interessado cadastrado no Sistema de Cadastramento Unificado de Fornecedores (Sicaf);
+
+
+III - instituição financeira ou cooperativa conveniada;
+
+
+IV - beneficiário de pensão alimentícia voluntária;
+
+
+V - destinatário da consignação de prestação de financiamento imobiliário;
+
+
+VI - destinatário da consignação referente a aluguel de imóvel residencial;
+
+
+VII - associação civil, sem fins lucrativos, reconhecida como de interesse do TCU, constituída com a finalidade de promover a assistência à saúde de servidores, pensionistas civis e dependentes;
+
+
+VIII - destinatário da consignação de plano de saúde;
+
+
+IX - Fundos Nacional, Estaduais ou Municipais dos Direitos da Criança e do Adolescente mencionados na Lei nº 8.069, de 1990; e
+
+
+X - associação de servidores instituída na forma da legislação em vigor.
+
+
+§ 1º A celebração de convênio específico com o TCU é requisito essencial para a habilitação de que trata o caput, salvo para os consignatários constantes dos incisos I, IV, VI e VIII deste artigo.
+
+
+§ 2º A disponibilização para o TCU do cadastro de associados, nos meios físico e eletrônico, é requisito para habilitação, como consignatário facultativo, de entidade sindical, associação ou cooperativa.
+
+
+§ 3º Aos consignatários facultativos que operem com empréstimos pessoais é vedada a utilização, para a realização de seus negócios, de quaisquer recursos do TCU, entre eles espaço físico, recursos materiais ou de pessoal.
+
+
+CAPÍTULO V
+DA DECLARAÇÃO DE MARGEM CONSIGNÁVEL
+
+
+Art. 6º A Declaração de Margem Consignável será emitida pelo próprio servidor ou pensionista civil do TCU, pela entidade consignatária ou pela Diretoria de Pagamento de Pessoal da Secretaria de Gestão de Pessoas (Dipag/Segep), por meio de solução de tecnologia da informação (solução de TI) específica.
+
+
+§ 1º Os servidores aposentados e pensionistas civis deverão requerer à Dipag a emissão da Declaração até ser implantada funcionalidade na solução de TI a que se refere o caput.
+
+
+§ 2º A Declaração terá validade de três dias e somente será emitida uma nova a partir do vencimento da anterior.
+
+
+Art. 7º Cabe à Secretaria de Soluções de Tecnologia da Informação (STI) disponibilizar, no Portal TCU, aplicativo eletrônico para verificação da autenticidade de Declaração de Margem Consignável, a ser utilizado por servidores, pensionistas civis e por unidades averbadoras, sendo dispensada a aposição de assinatura pelos servidores da Dipag.
+
+
+Art. 8º São elementos obrigatórios da Declaração de Margem Consignável:
+
+
+I - timbre do TCU;
+
+
+II - número de autenticação eletrônica;
+
+
+III - nome, matrícula, lotação e situação do consignado;
+
+
+IV - nome da instituição financeira destinatária da declaração;
+
+
+V - valor da margem consignável em Reais (R$) e por extenso;
+
+
+VI - indicação da data limite para averbação da operação para a qual a declaração foi emitida; e
+
+
+VII - data de emissão.
+
+
+Parágrafo único. Quando se tratar de refinanciamento de operação já contratada, a Declaração conterá ainda:
+
+
+I - nome da instituição financeira detentora da operação a ser refinanciada;
+
+
+II - valor da parcela averbada a ser refinanciada; e
+
+
+III - ressalva de obrigatoriedade de comprovação de quitação para averbação da nova operação.
+
+
+CAPÍTULO VI
+DO LIMITE DE MARGEM CONSIGNÁVEL
+
+
+Art. 9º A soma mensal das consignações facultativas de cada consignado não excederá ao limite de 30% (trinta por cento) do respectivo valor total mensal da remuneração, provento ou pensão civil, não se computando para tal fim:
+
+
+I - diárias;
+
+
+II - ajuda de custo;
+
+
+III - indenização de transporte;
+
+
+IV - salário-família;
+
+
+V - gratificação natalina;
+
+
+VI - auxílio-natalidade;
+
+
+VII - auxílio-funeral;
+
+
+VIII - adicional de férias;
+
+
+IX - adicional pela prestação de serviço extraordinário;
+
+
+X - adicional noturno;
+
+
+XI - adicional de insalubridade, de periculosidade ou de atividades penosas;
+
+
+XII - despesa com assistência médica do servidor ou pensionista civil consignada em folha de pagamento, bem como ressarcimento de assistência médica efetuada pelo TCU;
+
+
+XIII - auxílio-alimentação;
+
+
+XIV - abono de permanência; e
+
+
+XV - benefício pré-escolar.
+
+
+§ 1º A soma mensal das consignações compulsórias e facultativas de cada consignado não excederá ao limite de 70% (setenta por cento) do respectivo total mensal da remuneração, provento ou pensão civil, não computados os elementos pecuniários relacionados nos incisos do caput.
+
+
+§ 2º Para efeito desta Portaria, a consignação referente à prestação de financiamento para aquisição de imóvel residencial ou terreno será computada no limite previsto no parágrafo anterior.
+
+
+§ 3º O valor a ser informado na Declaração de Margem Consignável, para consignação facultativa, será o menor valor obtido entre os calculados com base nos limites de 70% (setenta por cento) - considerando as consignações compulsórias e facultativas - e de 30% (trinta por cento) - considerando as consignações facultativas.
+
+
+§ 4º É vedado o refinanciamento de obrigações averbadas com menos de um quarto das parcelas de empréstimo pessoal liquidado, ressalvado aquele para obter taxa inferior à do empréstimo a renegociar ou para reduzir a prestação.
+
+
+§ 5º É fixado em 40% (quarenta por cento) o limite de que tratam o caput e o § 3º deste artigo, no tocante ao percentual das consignações facultativas, até a aprovação e sanção do PL nº 1.863/2011. (AC)(Portaria-TCU nº 95, de 04/04/2012, BTCU nº 12/2012)
+
+
+
+CAPÍTULO VII
+DOS CUSTOS DE PROCESSAMENTO
+
+
+Art. 10. O custo de processamento das consignações facultativas é o constante no Anexo desta Portaria.
+
+
+§ 1º O disposto no caput não se aplica aos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, aos beneficiários de pensão alimentícia voluntária, bem como aos consignatários de que tratam os incisos V a X do art. 5º desta Portaria.
+
+
+§ 2º Os valores cobrados a título de custo de processamento serão mensalmente recolhidos à conta do Tesouro Nacional, vinculada ao TCU.
+
+
+§ 3º O recolhimento a que se refere o parágrafo anterior será processado automaticamente pela solução de TI de Folha de Pagamento do TCU, sob a forma de desconto incidente sobre os valores brutos a serem repassados ou creditados aos consignatários.
+
+
+CAPÍTULO VIII
+DOS CONVÊNIOS PARA HABILITAÇÃO DOS CONSIGNATÁRIOS FACULTATIVOS
+
+
+Art. 11. A solicitação de celebração ou prorrogação do convênio de que trata o § 1º do art. 5º será formulada à Secretaria-Geral de Administração (Segedam).
+
+
+Art. 12. Somente será celebrado convênio para operação de empréstimo com instituição financeira ou cooperativa que preencha os seguintes requisitos:
+
+
+I - estar inscrita e regular junto ao Sicaf;
+
+
+II - possuir sede no território nacional com autonomia para elaborar e encaminhar à Dipag e aos consignados, pelos Correios, por mensagem eletrônica, entrega pessoal e/ou por preposto legalmente constituído, os seguintes itens:
+
+
+a) cálculo de saldo devedor;
+
+
+b) boletos para pagamento integral ou parcial do empréstimo (sejam as primeiras ou as últimas parcelas da obrigação);
+
+
+c) material de divulgação;
+
+
+d) carta de quitação;
+
+
+e) extrato mensal; e
+
+
+f) demais atendimentos às demandas pertinentes ao convênio e às operações de crédito contratadas junto aos servidores e pensionistas civis.
+
+
+III - atender às disposições legais relativas a licitações e contratos com a Administração Pública, aplicáveis à espécie, notadamente a documentação relativa à capacidade jurídica, de acordo com o disposto nos arts. 27 a 33 da Lei nº 8.666, de 21 de junho de 1993, e suas alterações; e
+
+
+IV - fazer constar, obrigatoriamente, nos contratos celebrados com os consignados, cláusula com os seguintes termos: "É assegurada ao contratante a liquidação antecipada do débito, total ou parcialmente, seja das primeiras ou das últimas parcelas, mediante redução proporcional dos juros contratados (desconto comercial) ou taxa selic (dos dois o menor), fazendo com que o valor para quitação tenha ‘deságio’ total e completo, trazendo o saldo devedor a valor presente".
+
+
+§ 1º É vedado à entidade consignatária exigir do próprio consignado a apresentação de procuração pública ou privada com firma reconhecida, comprovante de rendimento, contracheque ou qualquer outro documento, que não seja a carteira de identidade e CPF, para atendimento das solicitações de encaminhamento de quaisquer documentos constantes nesta Portaria.
+
+
+§ 2º Não é permitida a cobrança, por parte da entidade consignatária, de quaisquer taxas de amortização da dívida ou liquidação antecipada de empréstimo, seja com autorização ou não do Banco Central do Brasil ou de outra entidade pública ou privada.
+
+
+Art. 13. Os convênios a que se refere o artigo anterior terão a duração de até cinco anos.
+
+
+§ 1º Os convênios poderão ser cancelados unilateralmente pelo TCU, a qualquer tempo, no caso de os conveniados deixarem de:
+
+
+I - atender às disposições mencionadas nesta Portaria;
+
+
+II - realizar o crédito de recursos financeiros na conta determinada pelo consignado, após três dias úteis da assinatura do contrato; ou
+
+
+III - entregar ao consignado em seu local de trabalho ou, em sua ausência, à Dipag, extrato mensal, demonstrativo de saldo devedor para quitação de empréstimo, boletos para pagamento integral ou parcial do empréstimo (sejam as primeiras ou as últimas parcelas da obrigação), impressos ou por meio eletrônico, à escolha do consignado, e carta de quitação de empréstimo, após um dia útil da solicitação formal do servidor, pensionista civil ou da Dipag, efetuada pessoalmente, por mensagem eletrônica, fax e/ou contato telefônico com o consignatário.
+
+
+§ 2º As instituições financeiras ou cooperativas que tiverem interesse na renovação ou na prorrogação dos respectivos convênios deverão formalizar proposta de aditivo contratual com, no mínimo, três meses de antecedência do vencimento, ficando vedada a celebração de novo convênio antes de decorrido um ano do vencimento do convênio então vigente.
+
+
+CAPÍTULO IX
+DAS OBRIGAÇÕES DAS ENTIDADES CONSIGNATÁRIAS DE EMPRÉSTIMO
+
+
+Art. 14. Incumbem às entidades consignatárias de empréstimo em consignação para desconto em folha de pagamento junto ao TCU:
+
+
+I - atuar junto ao Tribunal, para averbação de contratos de empréstimos, por meio de empregados do próprio quadro de pessoal ou operando por meio de prepostos, representantes, correspondentes ou empresas intermediárias devidamente informados ao TCU por ofício;
+
+
+II - apresentar ao consignado e à Dipag, a qualquer momento, no prazo máximo de 24 horas após o pedido formulado, extrato mensal, sem ônus, com dados detalhados dos juros contratuais incidentes no desconto comercial, saldo devedor, valor amortizado e número de prestações amortizadas e restantes, sob pena de denúncia do convênio;
+
+
+III - fornecer de forma desburocratizada os dados relativos ao pedido de que trata o inciso anterior, ao consignado, ao seu procurador, ou a servidor da Dipag, desde que solicitados por carta, fax, correio eletrônico ou telefone, considerando-se desrespeito a esta Portaria e ao convênio, qualquer atitude que vise a impedir ou dificultar o acesso a tais informações;
+
+
+IV - elaborar extratos mensais que contenham obrigatoriamente o valor do saldo a ser pago em caso de liquidação antecipada do débito, discriminando mês a mês, e que se referiram à redução proporcional dos juros estabelecidos no contrato de empréstimo averbado;
+
+
+V - quando da assinatura do contrato de empréstimo em consignação, entregar ao consignado e à Dipag para arquivamento junto ao contrato averbado, em até 24 horas, o referido extrato mensal, contendo o valor presente do contrato, o valor final, o valor efetivamente depositado em conta bancária do consignado, a data de início e término da obrigação, a quantidade de prestações, o valor da prestação, a taxa de juros efetiva ao mês, a taxa de abertura de crédito, o Custo Efetivo Total (CET), a taxa de IOF e o valor deste imposto incidente sobre o contrato;
+
+
+VI - aceitar a solicitação de documentação constante nesta Portaria, por procurador formalmente designado por servidor ou pensionista civil, seja por procuração pública ou privada com firma reconhecida, sem exigir qualquer outro documento, ressalvada a identificação do próprio procurador, por identidade e CPF;
+
+
+VII - aceitar as condições constantes do Capítulo X, Seção I, art. 653 e seguintes da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), na hipótese do consignado optar por ser representado;
+
+
+VIII - respeitar, na íntegra, o contido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), na execução dos contratos de empréstimo consignado; e
+
+
+IX - entregar ao servidor ou pensionista civil cópia do contrato de empréstimo, devidamente preenchido e assinado pelas partes, no prazo improrrogável de 24 horas, com exceção de contratos processados eletronicamente, observando-se que o descumprimento de tal prazo implicará denúncia do convênio.
+
+
+§ 1º A entidade consignatária de empréstimo que estiver em mora com a entrega de saldo devedor, carta de quitação, extrato mensal e/ou outro documento solicitado pelo servidor, pensionista civil ou pela Dipag, estará impedida de realizar novas averbações junto ao TCU, até que a pendência seja totalmente resolvida.
+
+
+§ 2º A reincidência na mora de que trata o parágrafo anterior poderá resultar na denúncia do termo de convênio.
+
+
+CAPÍTULO X
+DA SOLICITAÇÃO DE CONSIGNAÇÃO FACULTATIVA
+
+
+Art. 15. As consignações facultativas em folha de pagamento serão efetuadas com a apresentação pela entidade consignatária à Dipag de contrato preenchido e assinado pelo servidor ou pensionista civil, com todos os documentos exigidos por esta Portaria, com a Declaração da Margem Consignável em anexo.
+
+
+§ 1º De posse da documentação completa e após as conferências do preenchimento do contrato, a Dipag dará recibo da entrega na via da entidade consignatária e inserirá os dados da obrigação contratada pelo consignado na solução de TI da Folha de Pagamento do TCU.
+
+
+§ 2º As consignações eletrônicas não necessitam de apresentação de contrato formal, nem da Declaração da Margem Consignável, uma vez que a transação será realizada por meio eletrônico pelo servidor, pensionista civil ou pessoa autorizada da entidade consignatária, que remeterá a solicitação à Dipag, para análise e homologação, caso possível, com inserção dos dados da obrigação contratada na solução de TI da Folha de Pagamento do TCU.
+
+
+Art. 16. As solicitações de consignações de pensão alimentícia voluntária ou de aluguel de imóvel residencial, previstas nos incisos VI e VII do art. 4º desta Portaria, deverão conter:
+
+
+I - valor ou percentual de desconto sobre a remuneração;
+
+
+II - identificação dos dados bancários para depósito do valor consignado;
+
+
+III - autorização expressa do consignatário ou de seu representante legal; e
+
+
+IV - cópia autenticada do contrato de locação, no caso de aluguel.
+
+
+Art. 17. O consignatário facultativo deverá comunicar à Dipag eventuais alterações cadastrais, bem como encaminhar até o segundo dia útil de cada mês, em meios físico e eletrônico, demonstrativo que contenha as inclusões e exclusões de consignações, salvo no caso das consignações referentes à pensão alimentícia voluntária ou aluguel de imóvel residencial.
+
+
+§ 1º Não serão recebidos demonstrativos encaminhados fora do prazo de que trata o caput.
+
+
+§ 2º As instituições financeiras ou cooperativas conveniadas que operem com empréstimo pessoal, na condição de consignatárias facultativas, deverão entregar demonstrativo de inclusões acompanhado de cópia do contrato de empréstimo celebrado com o consignado, já devidamente averbado.
+
+
+CAPÍTULO XI
+DA ANTECIPAÇÃO DE CONSIGNAÇÃO
+
+
+Art. 18. Os descontos consignados em folha de pagamento não serão processados de forma antecipada.
+
+
+Parágrafo único. Os acertos financeiros decorrentes da antecipação de pagamento às entidades consignatárias serão objeto de negociação entre elas e o consignado, sem a interveniência ou co-responsabilidade do consignante.
+
+
+CAPÍTULO XII
+DA SUSPENSÃO DE CONSIGNAÇÃO
+
+
+Art. 19. As consignações compulsórias têm prioridade sobre as facultativas.
+
+
+§ 1º A Segep determinará a suspensão dos descontos relativos às consignações facultativas até a adequação dos valores ao limite estabelecido nesta Portaria, observada a seguinte ordem de suspensão:
+
+
+I - mensalidade e/ou amortização de empréstimos pessoais contraídos junto a instituições financeiras ou cooperativas de crédito;
+
+
+II - mensalidade e/ou amortização de empréstimo concedido por instituição federal oficial de crédito;
+
+
+III - mensalidade e/ou amortização de empréstimo contraído junto à entidade aberta de previdência privada;
+
+
+IV - mensalidade e/ou amortização de empréstimo contraído junto à entidade fechada de previdência privada;
+
+
+V - doação a Fundo dos Direitos da Criança e do Adolescente;
+
+
+VI - aluguel de imóvel residencial;
+
+
+VII - pensão alimentícia voluntária;
+
+
+VIII - desconto em favor de associação de servidores;
+
+
+IX - contribuição para entidade aberta de previdência privada relativa à contratação de previdência complementar ou renda mensal;
+
+
+X - contribuição para entidade fechada de previdência privada relativa à contratação de previdência complementar ou renda mensal;
+
+
+XI - contribuição para entidade aberta de previdência privada relativa à contratação de plano de saúde;
+
+
+XII - contribuição para entidade fechada de previdência privada relativa à contratação de plano de saúde;
+
+
+XIII - contribuição para entidade aberta de previdência privada relativa à contratação de plano de pecúlio;
+
+
+XIV - contribuição para entidade fechada de previdência privada relativa à contratação de plano de pecúlio;
+
+
+XV - contribuição para entidade aberta de previdência privada relativa à contratação de seguro de vida;
+
+
+XVI - contribuição para entidade fechada de previdência privada relativa à contratação de seguro de vida;
+
+
+XVII - desconto em favor de associação civil de que trata o inciso VII do art. 5º desta Portaria; e
+
+
+XVIII - prestação de financiamento para aquisição de imóvel residencial.
+
+
+§ 2º Ocorrendo consignações facultativas da mesma natureza, prevalece o critério da antiguidade, de modo que a consignação posterior não cancele a anterior, observada a ordem de que trata o parágrafo anterior e ressalvados os casos de correção de processamento indevido.
+
+
+CAPÍTULO XIII
+DO CANCELAMENTO DA CONSIGNAÇÃO
+
+
+Art. 20. As consignações facultativas poderão ser canceladas:
+
+
+I - por força de lei;
+
+
+II - por ordem judicial;
+
+
+III - por interesse do consignatário, mediante solicitação formal à Dipag; ou
+
+
+IV - por interesse do TCU.
+
+
+§ 1º O cancelamento de consignação em favor de associação civil de que trata o inciso VII do art. 5º desta Portaria, sindicato e associação de classe ocorrerá somente após desfiliação ou desligamento do servidor ou pensionista civil daquelas entidades, devidamente comprovado.
+
+
+§ 2º O cancelamento de consignação relativa à parcela de empréstimo ou financiamento para aquisição de imóvel residencial depende de aquiescência expressa do consignado e do consignatário.
+
+
+§ 3º O cancelamento de consignação relativa a aluguel de imóvel residencial, a pedido do consignado, somente será deferido com a anuência expressa do consignatário ou apresentação de distrato com firma reconhecida do consignatário e do consignado.
+
+
+CAPÍTULO XIV
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 21. Não serão permitidos, no processamento da folha de pagamento, ressarcimentos, compensações, encontros de contas ou acertos financeiros entre entidades consignatárias e servidores ou pensionistas civis que impliquem créditos para esses.
+
+
+Art. 22. Ao constatar consignação processada em desacordo com o disposto nesta Portaria em razão de dolo ou culpa, a Dipag deverá:
+
+
+I - suspender a consignação; e
+
+
+II - comunicar o fato à Segedam, no prazo de cinco dias úteis, para exclusão imediata da consignação em caráter temporário ou definitivo.
+
+
+Art. 23. O uso inadequado dos procedimentos afetos às consignações, bem como qualquer tentativa de fraude ou sabotagem, fica sujeito à apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 24. No interesse da Administração, a Dipag poderá implantar solução de TI para o processamento eletrônico das consignações, podendo ser do tipo gerenciador financeiro, sistema digital de consignações ou outra solução automatizada disponível no mercado.
+
+
+Parágrafo único. A solução de TI a que se refere o caput deve contemplar, entre outras, as funcionalidades inerentes à contratação, obtenção de saldo devedor de obrigações, quitação e emissão da correspondente carta de quitação, simulação de contratação de empréstimos, envio e recebimento de relatórios analíticos e encaminhamento de mensagens eletrônicas.
+
+
+Art. 25. Ao Secretário-Geral de Administração fica autorizado:
+
+
+I - prorrogar convênios para concessão de empréstimos sob consignação em folha de pagamento por parte de instituições financeiras, inclusive cooperativas de crédito, observadas as disposições desta Portaria e a legislação em vigor;
+
+
+II - atualizar o valor constante do Anexo desta Portaria, anualmente ou sempre que houver alteração dos custos inerentes ao processamento das consignações facultativas; e
+
+
+III - dirimir casos omissos e dispor sobre excepcionalidades, bem como expedir normas e instruções necessárias à execução desta Portaria.
+
+
+Art. 26. A consignação em andamento que estiver em desacordo com o disposto nesta Portaria poderá ser processada normalmente até à última parcela, consoante o instrumento legal que lhe deu causa.
+
+
+Art. 27. O prazo para guarda de documentos relativos aos empréstimos consignados segue o disposto em norma específica do TCU, observando-se a guarda de um ano, a contar da data da averbação da obrigação em folha de pagamento, para as cópias em meio físico de mencionados documentos.
+
+
+Art. 28. Ficam revogadas as Portarias-TCU nº 271, de 4 de outubro de 2006, e nº 245, de 26 de outubro de 2010.
+
+
+Art. 29. Esta Portaria entra em vigor na data de sua publicação.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+
+ANEXO ÚNICO DA PORTARIA-TCU Nº 25, DE 31 DE JANEIRO DE 2012
+
+
+
+CUSTO DE PROCESSAMENTO DE CONSIGNAÇÕES FACULTATIVAS
+
+R$ 2,00 (dois reais) por linha registrada no contracheque do consignado
+
+
+
+Revogada
+Dispõe sobre as consignações em folha de pagamento dos servidores e pensionistas civis do Tribunal de Contas da União.
+
+

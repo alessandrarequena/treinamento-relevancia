@@ -1,0 +1,233 @@
+Portaria
+144/2010
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das suas competências legais e regimentais,
+
+
+considerando que o correio eletrônico é meio usado pelo TCU para comunicação interna e externa;
+
+
+considerando que o uso indevido do correio eletrônico pode comprometer a segurança das informações produzidas ou custodiadas pelo TCU;
+
+
+considerando os direitos e as garantias individuais assegurados na Constituição Federal, assim como os deveres e as obrigações dos servidores públicos, definidos na Lei nº 8.112, de 11 de dezembro de 1990;
+
+
+considerando as diretrizes, os objetivos, os princípios e as definições constantes da Resolução-TCU nº 217, de 15 de outubro de 2008, que dispõe sobre a Política Corporativa de Segurança da Informação (PCSI/TCU);
+
+
+considerando que a revogação da Resolução-TCU nº 126, de 3 de novembro de 1999, implicou lacuna normativa acerca de regras para uso de correio eletrônico no TCU;
+
+
+considerando a necessidade de aprimorar mecanismos de proteção às informações transmitidas mediante serviço de correio eletrônico disponível na rede de computadores do TCU; e
+
+
+considerando os estudos e os pareceres constantes do processo TC 028.038/2008-7, resolve:
+
+
+Art. 1º As regras gerais para uso do serviço de correio eletrônico do TCU obedecem ao disposto nesta Portaria e à legislação pertinente, e estão alinhadas com os princípios e as diretrizes da Política Corporativa de Segurança da Informação (PCSI/TCU).
+
+
+Art. 2º O correio eletrônico do TCU constitui recurso corporativo para comunicação, a ser usado de modo compatível com o exercício do cargo, sem comprometer a imagem do Tribunal nem o tráfego de dados na rede de computadores da instituição.
+
+
+Art. 3º Para efeito do disposto nesta Portaria, entende-se por:
+
+
+I – unidade gestora do serviço de correio eletrônico: unidade responsável pela definição das diretrizes e requisitos de negócio para o serviço de correio eletrônico;
+
+
+II – usuário interno: nos termos da PCSI/TCU, qualquer servidor ativo ou unidade do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo TCU;
+
+
+III – usuário colaborador: nos termos da PCSI/TCU, prestador de serviço terceirizado, estagiário ou qualquer outro colaborador do Tribunal que tenha acesso, de forma autorizada, a informações produzidas ou custodiadas pelo Tribunal;
+
+
+IV – caixa postal: repositório de armazenamento de mensagens de correio eletrônico integrante da base de dados dos equipamentos servidores de correio eletrônico do TCU; e
+
+
+V – lista de distribuição: agrupamento de diversas caixas postais em um único endereço eletrônico que, uma vez inserido como destinatário de uma mensagem, permite a distribuição desta a todas as caixas postais integrantes da lista.
+
+
+Art. 4º As caixas postais classificam-se em:
+
+
+I – caixa postal individual, destinada a servidor ativo, servidor aposentado ou usuário colaborador;
+
+
+II – caixa postal de unidade, destinada à unidade ou subunidade do TCU; e
+
+
+III – caixa postal de uso coletivo, destinada a grupo de trabalho, comitê, comissão, projeto ou a atividade específica de interesse do TCU.
+
+
+Art. 5º Cada caixa postal tem um gestor, de acordo com as seguintes regras:
+
+
+I – para caixas postais individuais, o gestor é servidor ativo, servidor aposentado ou usuário colaborador para o qual foi destinada a caixa postal;
+
+
+II – para caixas postais de unidade, o gestor é o titular da unidade ou subunidade para a qual foi destinada a caixa postal, ou é servidor por ele designado; e 
+
+
+III – para caixas postais de uso coletivo, o gestor – e nos impedimentos legais, seu respectivo substituto – é o responsável pelo grupo de trabalho, comitê, comissão, projeto ou pela atividade específica de interesse do TCU à qual foi destinada a caixa postal.
+
+
+Art. 6º Cabe ao gestor de caixa postal:
+
+
+I – examinar o conteúdo da caixa postal para dar tratamento adequado e tempestivo às mensagens recebidas e mantê-lo de acordo com as normas integrantes da PCSI/TCU;
+
+
+II – adotar medidas para que o volume ocupado pelo conteúdo da caixa postal não exceda os limites estabelecidos; e
+
+
+III – definir os critérios de acesso à caixa postal.
+
+
+Parágrafo único. O gestor de caixa postal pode autorizar a execução das atividades, objeto dos incisos I e II, por outro usuário interno ou colaborador.
+
+
+Art. 7º A Secretaria de Infraestrutura de Tecnologia da Informação (Setic) é responsável por:
+
+
+I – garantir a disponibilidade do serviço de correio eletrônico, estabelecida em acordo de níveis de serviço definido com a unidade gestora do serviço de correio eletrônico;
+
+
+II – estabelecer e comunicar aos gestores de caixa postal os limites de utilização do serviço de correio eletrônico;
+
+
+III – implantar mecanismos que evitem o envio e a recepção de mensagens que possam comprometer a segurança do serviço de correio eletrônico;
+
+
+IV – criar, manter e excluir caixas postais, conforme os critérios definidos pela unidade gestora do serviço de correio eletrônico;
+
+
+V – definir, implantar e executar procedimentos de segurança e rotinas de cópia e recuperação de caixas postais;
+
+
+VI – executar as ações necessárias, quando devidamente demandadas, para fins de atendimento aos arts. 9º e 10 desta norma;
+
+
+VII – executar os procedimentos de limitação e liberação do uso do serviço de correio eletrônico, de acordo com o disposto nesta Portaria; e
+
+
+VIII – desenvolver outras atribuições inerentes à sua finalidade de provedora de infraestrutura de tecnologia da informação do TCU.
+
+
+§ 1º Para fins do disposto no inciso III do caput, incumbe à Comissão de Coordenação Geral (CCG) definir regras acerca do envio de mensagens às listas de distribuição integrantes do correio eletrônico do TCU, com subsídio em proposta encaminhada pelo Comitê de Segurança da Informação (CSI).
+
+
+§ 2º As atribuições dispostas neste artigo serão desenvolvidas pela Setic com o apoio, no que couber, da Secretaria de Soluções de Tecnologia da Informação (STI).
+
+
+Art. 8º Além do próprio gestor de caixa postal, ou de pessoas por ele autorizadas, o conteúdo das caixas postais somente pode ser acessado pela unidade gestora do serviço de correio eletrônico e para os seguintes objetivos:
+
+
+I – verificar a obtenção, retenção, uso e divulgação de informações por meio ou com fins ilícitos, ou em desacordo com as normas regulamentares;
+
+
+II – recuperar conteúdo de interesse do TCU, no caso de afastamentos legais do gestor da caixa postal e de seu substituto;
+
+
+III – atender demanda do Gabinete do Corregedor ou de comissão de sindicância formalmente constituída, desde que haja processo administrativo instaurado;
+
+
+IV – subsidiar apuração de fatos mediante demanda formulada no âmbito de processo disciplinar; e
+
+
+V – atender solicitação judicial.
+
+
+Parágrafo único. O acesso ao conteúdo de caixas postais nas hipóteses previstas nos incisos I e II deve ser feito mediante autorização do Presidente do TCU, ouvida a Assessoria de Segurança da Informação e Governança de TI (Assig), a quem incumbe cientificar oportunamente o CSI.
+
+
+Art. 9º As caixas postais individuais destinadas a servidores aposentados e a usuários colaboradores devem ser utilizadas exclusivamente para envio e recepção de mensagens entre caixas postais do TCU.
+
+
+Parágrafo único. Incumbe à Setic, no prazo de sessenta dias a contar da publicação desta Portaria, implementar a regra de utilização de que trata o caput deste artigo.
+
+
+Art. 10. A exclusão de caixas postais individuais destinadas a servidores ocorrerá imediatamente após a respectiva vacância do quadro do TCU, exceto no caso de aposentadoria.
+
+
+Parágrafo único. Cabe à Secretaria de Gestão de Pessoas (Segep) informar à Setic as aposentadorias e as demais ocorrências de vacância, para fins de adequação ou exclusão da caixa postal do servidor.
+
+
+Art. 11. A criação e a exclusão de caixa postal para usuários colaboradores seguem, no que couber, o disposto na Portaria-TCU nº 202, de 8 de setembro de 2008.
+
+
+§ 1º Cessada a prestação do serviço terceirizado, compete à unidade fiscalizadora do contrato requerer à Setic a imediata exclusão das caixas postais dos respectivos usuários colaboradores.
+
+
+§ 2º Findo o contrato do estágio, compete à Secretaria de Gestão de Pessoas (Segep), na Sede, e às secretarias de controle externo, nos estados, requererem à Setic a imediata exclusão das caixas postais dos respectivos usuários colaboradores.
+
+
+Art. 12. As seguintes ações indevidas relativas ao correio eletrônico são passíveis de apuração de responsabilidade:
+
+
+I – acesso ou tentativa de acesso, com indício de fraude ou sabotagem, a caixa postal sem autorização do respectivo gestor;
+
+
+II – envio, sem autorização, de mensagem com informações protegidas por direito autoral para pessoa física ou jurídica;
+
+
+III – encaminhamento de mensagem em desacordo com o grau de confidencialidade atribuído a seu conteúdo;
+
+
+IV – envio ou armazenamento de mensagem de conteúdo ilegal ou em desacordo com o Código de Ética dos Servidores do Tribunal aprovado pela Resolução-TCU nº 226, de 27 de maio de 2009; e
+
+
+V – adulteração de dados referentes à origem da mensagem nos campos de controle de cabeçalho.
+
+
+Parágrafo único. Na aplicação do disposto neste artigo, considera-se armazenada a mensagem aberta e mantida na caixa postal.
+
+
+Art. 13. A inobservância aos dispositivos do artigo anterior pode acarretar, isolada ou cumulativamente, e nos termos da legislação aplicável:
+
+
+I – limitação do uso do serviço de correio eletrônico do TCU, mediante autorização do Presidente do TCU na qual constará o prazo de duração da medida; e
+
+
+II – outras sanções administrativas, civis e penais.
+
+
+Art. 14. A liberação do uso do serviço de correio eletrônico, após a limitação de que trata o inciso I do artigo anterior, será realizada pela Setic até o 1º dia útil após:
+
+
+I – o prazo constante no ato que autorizou a limitação; e
+
+
+II – ciência de determinação expressa do Plenário ou do Presidente do TCU.
+
+
+Art. 15. Incumbe à Assig, em consonância com o disposto na Portaria-TCU nº 277, de 18 de novembro de 2008, monitorar e avaliar periodicamente as práticas de segurança da informação relativas às regras estabelecidas nesta Portaria, e propor ao CSI os ajustes que considerar necessários. 
+
+
+Art. 16. Ato do Presidente indicará a unidade gestora do serviço de correio eletrônico no TCU.
+
+
+Art. 17. Os casos omissos serão analisados conjuntamente pela unidade gestora do serviço de correio eletrônico e pela Assig, e dirimidos pela CCG.
+
+
+Art. 18. Ficam a Setic e a Assig autorizadas, no âmbito de suas respectivas competências, a editar os atos que se fizerem necessários para a operacionalização desta Portaria.
+
+
+Parágrafo único. Os atos a que se refere o caput deste artigo devem ser submetidos previamente ao exame da CCG.
+
+
+Art. 19. A presente norma integra a PCSI/TCU.
+
+
+Art. 20. Esta Portaria entra em vigor na data de sua publicação.
+
+
+UBIRATAN AGUIAR
+
+
+Não consta revogação expressa
+Dispõe sobre regras gerais de uso do serviço de correio eletrônico do Tribunal de Contas da União.
+
+

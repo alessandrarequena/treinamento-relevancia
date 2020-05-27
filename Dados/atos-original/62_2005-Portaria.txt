@@ -1,0 +1,1132 @@
+Portaria
+62/2005
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução-TCU nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do projeto Desenvolvimento de Metodologia de Auditoria e Análise Contábil-Financeira – Audicon nos termos da proposta anexa a esta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo JOSÉ AMÉRICO LEAL OLIVEIRA, matrícula 149-0, para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Gerente de Projeto, código FC-04, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao gestor do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176/2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário, à substituição ou à nomeação do gestor do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+ADYLSON MOTTA
+
+
+Presidente
+
+
+
+
+
+1.	Identificação do gestor do projeto       
+
+
+Nome
+
+Matrícula
+
+“X” -  Espécie de gestor
+
+Origem da FC
+
+José Américo Leal Oliveira
+
+149-0
+
+ X
+
+Gerente
+
+ 
+
+Coordenador
+
+ 
+
+Líder
+
+Segecex
+
+Nome do substituto eventual
+
+Matrícula
+
+Fernando Nazareth Cardoso
+
+3835-0
+
+Local/telefone
+
+Secretaria Adjunta de Fiscalização – Adfis  Ramal 7765
+
+
+2.	Identificação do projeto
+
+
+Nome do projeto
+
+Desenvolvimento de Metodologia de Auditoria e Análise Contábil-Financeira - Audicon
+
+Período de realização
+
+Unidade patrocinadora
+
+10.02.2005 a 31.12.2006
+
+Secretaria Adjunta de Fiscalização – Adfis / Segecex
+
+
+3.	Vinculação estratégica
+
+
+Vínculo principal com Plano Estratégico do TCU 2003-2007 (objetivo e estratégia) – Portaria-TCU nº 59, de 20 de janeiro de 2003
+
+a)
+
+Objetivo Estratégico 3: Combater a corrupção, o desvio e a fraude na gestão dos recursos públicos federais 
+
+b)
+
+Estratégia 2: Adotar postura proativa que contribua para o aperfeiçoamento de normativos relativos à administração pública e ao exercício do controle externo
+
+c)
+
+Estratégia 4: Fortalecer as ações de controle voltadas para melhoria do desempenho da gestão pública
+
+d)
+
+Estratégia 9: Aperfeiçoar processos de trabalho do TCU
+
+Medida f): aperfeiçoar e disseminar o uso de metodologia para a realização de auditorias de conformidade e financeira;
+
+Medida h): desenvolvimento de procedimento padrão para auditorias de fraude e desvio.
+
+Vínculo principal com Plano de Diretrizes para o biênio 2005-2006 - (diretriz e medida) – Portaria-TCU nº Nº 28 de 14 de janeiro de 2005
+
+a)
+
+ 
+
+ 
+
+b)
+
+Diretriz 2: Ampliar e consolidar a qualidade nas ações de controle
+
+Medida 2.1: Revisar periodicamente os manuais e formulários de instrução, disseminar o seu uso e centralizá-los em uma única biblioteca virtual – Segecex
+
+Diretriz 5 – Ampliar a efetividade das ações de controle relativas ao combate à corrupção, desvio e fraude
+
+Medida 5.2 – Estruturar atividade de inteligência de controle, desenvolvendo e aplicando metodologia de análise de risco para as UJs, com foco em desvio, fraude e corrupção, bem como definindo e capturando informações estratégicas para o exercício do controle – Segecex 
+
+Vínculo principal com Plano Diretor 2004 da Segecex - (diretriz e medida) – Portaria-Segecex nº 26, de 16 de dezembro de 2003 (Não está disponível o de 2005)
+
+a)
+
+Diretriz 2: Incrementar as ações de combate a corrupção, desvio e fraude; 
+
+Medida 2.15: Desenvolver metodologia de auditoria contábil e financeira - Adfis, Adcon, 1ª, 2ª e 5ª Secex, Semag
+
+b)
+
+Vinculação com a medida 1.14: “Implementar Projeto de Certificação da Gestão Pública” - Adcon, Adfis e Unidades Técnicas
+
+
+4.	Problema / oportunidade
+
+
+Descrição do problema ou da oportunidade 
+
+a)        
+
+O art. 71, inciso IV, da Constituição Federal inclui nas competências do TCU a de realizar, por iniciativa própria, da Câmara dos Deputados, do ­Senado Federal, de comissão técnica ou de inquérito, inspeções e auditorias, dentre elas as de natureza contábil e financeira, competência que também consta no art. 1º, inciso II, da Lei 8.443/92 (Lei Orgânica do TCU) sob a denominação genérica de fiscalização e no art. 1º, inciso II, do Regimento Interno aprovado pela Resolução TCU 155, de 04.12.2002, abrangendo auditorias, inspeções e acompanhamentos.
+
+b)        
+
+A ocorrência de recentes fraudes contábeis e financeiras afetou a credibilidade das informações contábeis e financeiras colocadas à disposição do público.
+
+c)        
+
+Há ainda o risco de o Tribunal aprovar contas com demonstrações contábeis fraudadas ou contendo erros, mesmo já havendo pareceres de entidades de auditoria independente e do Controle Interno.
+
+d)        
+
+A despeito da inexistência de normatização efetiva sobre  auditoria contábil-financeira, a Segecex instituiu pela Portaria 31/1997 o Roteiro de Acompanhamento via Siafi, o qual previa a coleta de  informações disponíveis no referido Sistema, sem que até aquele momento tivesse sido feita auditoria para avaliar a fidedignidade das informações contábeis nele disponíveis.
+
+e)        
+
+Apesar da previsão constitucional e legal, da existência de determinações do Tribunal e de constar no subitem 2.15 do Plano Diretor da Segecex para 2004, o Tribunal não vem efetivando auditorias contábeis e nem dispõe de uma regulamentação sobre o assunto, carecendo de metodologia e de pessoal qualificado para a realização de tal trabalho.
+
+f)         
+
+Por outro lado, a ausência de regulamentação sobre o assunto não afasta futuras demandas, quer decorrentes dos próprios trabalhos do Tribunal, quer do Congresso Nacional.
+
+g)        
+
+A regulamentação da metodologia de auditoria e da análise contábil-financeira também traria potenciais oportunidades de fortalecimento da atuação do TCU e de sua imagem perante a sociedade,  o que inclusive consta em alguns itens do planejamento estratégico 2003-2007: a atuação preventiva; o combate à corrupção; a ampliação e redefinição de formas e instrumentos de controle; a fiscalização em áreas relativas a temas de interesse nacional; a adoção de linguagem mais acessível.
+
+h)        
+
+Além disso, a implantação de metodologia de auditoria e análise contábil-financeira contribuiria com a governança institucional, no âmbito federal, ao avaliar a confiabilidade das informações utilizadas para a tomada de decisões e também por constituir-se em um instrumento adicional no combate às fraudes.
+
+i)         
+
+Adicionalmente, a existência de informações contábeis fidedignas facilita a tomada de decisões sobre a implantação de políticas públicas que visem à equidade.
+
+j)         
+
+Do diagnóstico sobre tomadas e prestações de contas elaborado em 2000 pelo Grupo de Pesquisa “Tendências do Controle da Gestão Pública”, persistem dois problemas detectados: intempestividade e baixa contribuição das tomadas e prestações de contas para a efetividade do controle externo; devido a isso, justifica-se a adoção de medidas que induzam à melhoria da qualidade e da efetividade do exame das contas para o controle.
+
+k)        
+
+Para a resolução desses problemas, foi instituído o projeto “Certificação da Gestão Pública”, vinculado à Secretaria Adjunta de Contas (Adcon); no entanto, para atender aos objetivos de certificação pretendidos, há necessidade de serem desenvolvidas metodologias e instrumentos de auditoria adaptados à moderna estruturação (framework) da área de auditoria,  refletidas nas normas da Intosai, o que em muito contribuiria o presente projeto.
+
+l)         
+
+Tal adaptação e modernização se fazem necessárias devido também ao aprimoramento dos mecanismos de fraudes contábeis e financeiras, como visto nos recentes escândalos internacionais (Enron, WorldCom e Parmalat), que certamente poderiam estender-se às demonstrações contábeis de entes públicos e trariam reflexos  para a governança institucional. 
+
+m)      
+
+Paralelamente a isso, há o risco de haver demandas pela execução de auditorias contábeis-financeiras por parte do Congresso Nacional ou de outros entes, sem que o Tribunal possa atendê-las em tempo hábil por não dispor de metodologias para atender ao pedido.
+
+n)        
+
+Por outro lado, a normalização da auditoria e análise contábil-financeira habilitaria o Tribunal a proceder à revisão de pares (peer review) em outras Entidades Fiscalizadoras Superiores, o que daria grande relevo no âmbito internacional e geraria outras oportunidades de atuação para seus membros e analistas.
+
+o)        
+
+Finalmente, repercutindo a modernização de normas e metodologias de auditoria, o Tribunal estará também dando maior transparência ao processo de fiscalização, permitindo uma análise condizente com as necessidades dos usuários de informações financeiras e propiciando o completo desenvolvimento do ciclo de prestação de contas (accountability) no setor público, com evidentes benefícios à governança institucional e ao combate às fraudes.
+
+ 
+
+Evolução do quadro (apresentar dados)
+
+a)        
+
+Com a implantação do Roteiro de Auditoria de Conformidade pela Portaria TCU 090, de 6 de março de 2003, o Tribunal deu um grande passo rumo à sistematização das auditorias, permitindo não somente o melhor planejamento  dos trabalhos, mas também facilitando a comparação dos resultados esperados descritos nas matrizes de planejamento e de procedimentos com os resultados efetivos das auditorias demonstrados nas matrizes de achados e de responsabilização, proporcionando uma supervisão objetiva e pró-ativa.
+
+b)        
+
+A implantação de metodologia, contudo, deve ser acompanhada de normas e procedimentos de auditoria específicos aplicáveis a cada tipo de órgão ou entidade, inclusive relacionada com a análise contábil-financeira; embora alguns procedimentos sejam comuns a todas as entidades, os objetivos de auditoria podem ser diversos, dependendo do risco de auditoria avaliado em suas três vertentes: risco inerente, risco de controle e risco de detecção.
+
+c)        
+
+As Normas de Auditoria da Intosai prescrevem em seu subitem 1.0.19: “Em relação a alguns elementos do mandato da EFS, os objetivos desta podem ser análogos aos do setor privado, especialmente quando se trata da auditoria das contas. Da mesma maneira, as normas do setor privado relativas a tal auditoria, elaboradas e publicadas por órgãos regulamentadores oficiais, podem ser aplicáveis na auditoria do setor público”.
+
+d)        
+
+As Normas de Trabalho de Campo da Intosai para exame de contas estabelecem no subitem 3.6.1: “Na auditoria de conformidade e financeira, e se pertinente em qualquer outra classe de auditoria, os auditores devem examinar as contas para determinar se foram cumpridas as normas de contabilidade aceitáveis para a apresentação ou a publicação dos relatórios financeiros. O exame das contas deve ser realizado de maneira tal que proporcione uma base racional para poder expressar um parecer sobre elas”.
+
+e)        
+
+O subitem 3.6.2 dessas Normas prevê que o auditor deve examinar detalhadamente as contas e determinar:
+
+1)       Se foram elaboradas de acordo com as normas de contabilidade aceitáveis;
+
+2)       Se foram apresentadas levando em conta as circunstâncias da entidade fiscalizada;
+
+3)       Se há informações suficientes sobre as diferentes partidas das mesmas; e
+
+4)       Se as diferentes partidas das contas são previstas e apresentadas de maneira adequada.
+
+ 
+
+f)         
+
+Apesar da existência dos instrumentos definidos no roteiro para o planejamento de auditorias de conformidade e das necessidades decorrentes dos exames de contas dos diversos tipos de órgãos e entidades, ocorre um vácuo de normas e procedimentos que deve ser preenchido, inclusive para haver a conformidade com as normas internacionais de auditoria tanto da Intosai como da International Federation of Accountants (Ifac). 
+
+g)        
+
+A qualquer tempo o Tribunal poderá ser demandado a realizar auditoria contábil-financeira em decorrência da suspeita de erros ou fraudes em trabalhos de terceiros, sem estar preparado para tanto.
+
+h)        
+
+Em 1998 foi realizada auditoria no Siafi com a finalidade de verificar as premissas básicas quanto à segurança do Sistema, sem contudo ter um cunho eminentemente contábil que atestasse a propriedade dos dados nele disponíveis (Decisão 1.380/2002­-TCU-Plenário, TC-001.063/1998-7). 
+
+i)         
+
+Nesse ínterim, o Tribunal, ao apreciar o TC 003.206/1998-0 (Relação 109/2001-TCU - Gab. Min. Iram Saraiva - Primeira  Câmara), determinou à Segecex que estudasse a conveniência de se incluir, nos Planos Semestrais de Auditoria, auditoria contábil nas entidades constantes do Orçamento Fiscal e da Seguridade Social. 
+
+j)         
+
+Contudo, foi realizada no segundo semestre de 2002 a fiscalização de número 1344/2002 com o objetivo de avaliar a sistemática de registro dos atos e fatos objeto da Contabilidade Pública, abrangendo inclusive o Siafi, bem como os critérios de elaboração e consolidação dos balanços da União. No respectivo relatório, consta que o exame dos Balanços Gerais da União e outras análises empreendidas pela Semag tem demonstrado que a contabilidade federal, não obstante os avanços obtidos nos últimos anos, necessita ter o seu exame aprofundado para a correção de erros e distorções verificadas, bem como para criar condições de se atestar com segurança se ela representa ou não a situação patrimonial da União (conforme Relatório do Acórdão 1.800/2003-Plenário TC 014.028/2002-0). 
+
+k)        
+
+Algumas iniciativas isoladas denotam a necessidade de uma metodologia de auditoria e análise contábil-financeira, como a relacionada ao TC-006.542/2003-0, que trata de representação acerca de ato de gestão do Banco do Brasil S.A. contrário aos princípios da moralidade e publicidade, com reflexos nas respectivas demonstrações contábeis e importando em distribuição indevida de lucros aos acionistas, no qual os analistas envolvidos na análise do processo ressentiram-se por não contar com uma metodologia que os orientasse de forma coerente com as atribuições do Tribunal. 
+
+l)         
+
+Ressalte-se a realização de auditorias anuais nas contas do Banco Central, que teve origem em deliberação do Plenário, em Sessão Extraordinária de Caráter Reservado de 05.04.2000. Tais procedimentos tiveram início em 2001, quando foram analisadas as demonstrações financeiras do Bacen referentes ao período 1994-2000 (TC 016.778/2000-2), seguidos pela análise dos exercícios de 2001 (TC 008.385/2000-7), 2002 (TC 006.919/2003-3) e no exercício de 2003 (TC-009.775/2004-3). Nos quatro primeiros processos, a 2ª Secex realizou uma ampla análise contábil-financeira do Bacen nos 10 últimos exercícios, discutindo aspectos tais como critérios de contabilização, provisão e constituição de reservas; constituição do Patrimônio Líquido; relação Tesouro/Banco Central; evidenciação e composição dos resultados, entre outros.  Quanto ao último processo, relativo ao exercício de 2003, foi estabelecida a periodicidade bianual para tais auditorias denominadas de conformidade, apesar do enfoque nas demonstrações contábeis, sendo a primeira prevista para o 1º bimestre de 2006 (Acórdão 1925/2004-TCU-Plenário).
+
+m)      
+
+O aprimoramento dos mecanismos de fraudes contábeis e financeiras, como as ocorridas recentemente (casos Enron e WorldCom nos Estados Unidos e Parmalat na Itália), a despeito de se referirem a empresas privadas, representa também um risco para a fidedignidade das declarações da administração implícitas nas demonstrações contábeis de entes públicos, com reflexo direto nos trabalhos de auditoria, que precisam evoluir na mesma velocidade para evitar perda de confiabilidade nas ações das entidades fiscalizadoras superiores.
+
+n)        
+
+Ilustrando a preocupação da governança institucional com o combate a fraude e corrupção, ressalte-se que a própria regulamentação do Banco Central para as auditorias independentes no âmbito das instituições financeiras, por intermédio da Resolução 3.198, de 27 de maio de 2004, prevê em seu art. 23 a necessidade de o auditor independente e o comitê de auditoria, quando instalado, comunicarem àquele Banco, no prazo máximo de três dias úteis da identificação, a existência ou as evidências de erro ou fraude.
+
+ 
+
+
+5. 	Escopo do projeto
+
+
+5.1. Objetivo do projeto (em relação à oportunidade ou à solução do problema)
+
+
+Desenvolver metodologia de auditoria e análise contábil-financeira aplicáveis à área bancária e de empresas públicas e sociedades de economia mista.
+
+
+5.2. Meta – indicador – produto – cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de término
+
+a)       1
+
+Pesquisar normas e metodologias de auditoria e análise contábil-financeira, nacionais e internacionais, aplicáveis à área bancária e de empresas públicas e sociedades de economia mista
+
+100%
+
+ (110 dias)
+
+31.05.2005
+
+Nº de normas e metodologias aplicáveis descritas  / nº de normas e metodologias aplicáveis identificadas 
+
+Relatório síntese das normas e metodologias (nacionais e internacionais) aplicáveis
+
+Adfis
+
+Adcon
+
+1ª Secex
+
+2ª Secex
+
+3ª Secex
+
+5ª Secex
+
+b)        
+
+Desenvolver metodologias de auditoria e análise contábil-financeira aplicáveis a instituições federais bancárias integrantes do Sistema Financeiro Nacional e a empresas públicas e sociedades de economia mista não financeiras
+
+ 
+
+100%
+
+ (210 dias)
+
+31.12.2005
+
+Nº de metodologias específicas desenvolvidas / nº de de instituições do bancárias do SFN e de empresas e sociedades de economia mista
+
+Manual preliminar contendo metodologias específicas, por tipo de instituição 
+
+Adfis
+
+Adcon
+
+Semag
+
+1ª Secex
+
+2ª Secex
+
+3ª Secex
+
+5ª Secex
+
+Secex Estados
+
+c)        
+
+Realizar análises e auditorias-piloto para validação da metodologia
+
+ 
+
+2
+
+ 
+
+100%
+
+ 
+
+ (150 dias)
+
+31.05.2006
+
+Nº de auditorias-piloto realizadas
+
+Nº de metodologias de auditoria contábil- financeira validadas / nº de metodologias específicas desenvolvidas
+
+Relatórios das auditorias e análises-piloto realizadas
+
+Manual preliminar validado
+
+Adfis
+
+Adcon
+
+1ª Secex
+
+2ª Secex
+
+3ª Secex
+
+5ª Secex
+
+Secex Estados
+
+d)        
+
+Elaborar normas e manual de auditoria e análise contábil-financeira com documentação eletrônica 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ (60 dias)
+
+31.07.2006
+
+Módulos com as metodologias validadas descritas / total de metodologias validadas
+
+Representação com minutas de normas autorizadas
+
+Manual com os módulos das metodologias específicas validadas
+
+Representação e minutas de normas regulamentando o uso das metodologias
+
+Adfis
+
+Adcon
+
+ 
+
+ 
+
+Segecex
+
+e)        
+
+Desenvolver currículo para ministrar auditoria e análise contábil-financeira nos cursos de formação e de extensão
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ (30 dias)
+
+30.08.2006
+
+Conteúdo programático aprovado
+
+Plano de aula aprovado
+
+Conteúdo didático descrito / conteúdo metodológico desenvolvido
+
+Conteúdo programático formulados
+
+Plano de aula elaborado
+
+Material didático desenvolvido
+
+ 
+
+ 
+
+Adfis
+
+Adcon
+
+ISC
+
+f)         
+
+Ministrar a aplicação das metodologias junto a capacitadores para disseminação no âmbito do Tribunal
+
+150 alunos
+
+ (60 dias)
+
+31.10.2006 
+
+nº de capacitadores treinados
+
+ 
+
+ACEs capacitados na metodologia
+
+ACEs lotados em unidades da Segecex
+
+g)        
+
+Desenvolver e aplicar método para o controle de qualidade das auditorias e análises realizadas com a aplicação das metodologias
+
+ 
+
+100%
+
+ 
+
+ 
+
+ (60 dias)
+
+31.12.2006
+
+Nº de formulários aprovados / nº de formulários elaborados
+
+ 
+
+Relatório aprovado
+
+Formulário de controle de qualidade
+
+Relatório contendo estudo da qualidade das auditorias e análises contábil-financeiras aprovado
+
+Adfis
+
+Adcon
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto – EAP )
+
+
+a)        
+
+Pesquisa de metodologias e normas
+
+ 
+
+b)        
+
+Desenvolvimento de metodologias adaptadas a tipos de órgãos/entidades
+
+ 
+
+c)        
+
+Validação das metodologias
+
+ 
+
+d)        
+
+Desenvolvimento de material didático
+
+ 
+
+e)        
+
+Disseminação
+
+ 
+
+f)         
+
+Desenvolvimento e aplicação de metodologia de controle de qualidade
+
+ 
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)        
+
+Criação da estrutura  (framework) da auditoria no âmbito do TCU, por ser matéria de maior abrangência.
+
+b)        
+
+Desenvolvimento de metodologia de auditoria e análise contábil-financeira para autarquias e fundações e órgãos da Administração Direta
+
+c)        
+
+Desenvolvimento de metodologia de auditoria e análise contábil-financeira das contas prestadas anualmente pelo Presidente da República, inclusive do Balanço Geral da União.
+
+
+
+
+
+
+
+6. Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da parte envolvida
+
+(registrar  patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos - humanos e  físicos)
+
+Item negociado com as partes envolvidas internas ou 
+
+item a negociar com as partes envolvidas externas
+
+a)        
+
+Segecex  
+
+Patrocinadora do projeto.
+
+b)        
+
+Adfis
+
+Principal cliente. Após o encerramento do projeto será responsável pelo acompanhamento do uso e controle de qualidade da metodologia e suas futuras atualizações.
+
+c)        
+
+Adcon
+
+Contribuição técnica no desenvolvimento da metodologia aplicável a análise de contas
+
+d)        
+
+Semag
+
+Contribuição técnica no desenvolvimento do arcabouço para análise contábil-financeira, visando ao futuro aproveitamento na análise das contas prestadas anualmente pelo Presidente da República
+
+e)        
+
+1ª Secex
+
+Contribuição técnica no desenvolvimento da metodologia aplicável a empresas públicas e sociedades de economia mista e na realização de auditorias e análises-piloto.
+
+f)         
+
+2ª Secex
+
+Contribuição técnica no desenvolvimento da metodologia aplicável a entidades do SFN e na realização de auditorias com foco na análise contábil-financeira de instituições públicas federais.
+
+g)        
+
+3ª Secex
+
+Contribuição técnica no desenvolvimento da metodologia aplicável a empresas públicas
+
+h)        
+
+5ª Secex
+
+Contribuição técnica no desenvolvimento da metodologia aplicável a entidades do SFN e na realização de auditorias e análises-piloto.
+
+i)         
+
+Projeto Implantação da Sistemática de Coleta Eletrônica de Contas Siscontas – Adcon
+
+Incorporação dos requisitos necessários à análise contábil-financeira na nova sistemática de certificação da gestão pública.
+
+j)         
+
+Projeto Sistema de Inteligência e Suporte ao Controle Externo – Sintese – Adfis
+
+Incorporação dos requisitos necessários à análise contábil-financeira na nova sistemática de certificação da gestão pública.
+
+k)        
+
+Projeto Apoio à Modernização do TCU – Financiamento parcial pelo BID
+
+Procedimentos de Auditoria para avaliar controles internos e gerenciamento de risco na auditoria de demonstrações contábeis (subitem 6.3.2.5)
+
+Procedimentos de Auditoria de fraude e corrupção nas áreas de licitações, contratos administrativos, transferências voluntárias e demonstrações contábeis (subitem 6.5.2.2)
+
+l)         
+
+Projeto Modelo de Gestão do Desenvolvimento de Pessoas por Competência - Atena
+
+Capacitação de servidores para utilização da metodologia
+
+m)      
+
+ISC
+
+Apoio logístico para capacitação de servidores e com a participação no alcance das Metas “desenvolvimento de currículo” e “disseminação”.
+
+n)        
+
+Setec
+
+Fornecimento inicial de computadores. Eventual consultoria quanto à utilização de ‘softwares’ para aplicação das metodologias.
+
+o)        
+
+Semat/Seseg
+
+Fornecimento de infra-estrutura de instalações e comunicações etc.
+
+p)         
+
+Consultoria sem ônus: Canadian International Development Agency - CIDA
+
+Suporte técnico no desenvolvimento de metodologias aplicáveis a auditoria e análise contábil-financeira.
+
+
+
+
+
+
+7.	Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade 
+
+de ocorrer
+
+Ação para
+
+(E) evitar ocorrência do risco 
+
+(M) mitigar ocorrência do risco
+
+(R) reduzir impacto do risco ocorrido
+
+Responsável 
+
+pela ação
+
+a)        
+
+Falta de pessoas capacitadas à criação das metodologias
+
+Alto
+
+Baixa
+
+ (E) Contratação de consultoria externa sem ônus (Canadian International Development Agency – CIDA) e eventualmente de consultores com ônus e acordo com o National Audit Office – NAO, do Reino Unido 
+
+Segecex
+
+b)        
+
+Dificuldade de acesso a informações de entidades normatizadoras
+
+Médio
+
+Baixa
+
+(M) Estabelecer contatos por intermédio de autoridades 
+
+Presidência
+
+c)        
+
+Problemas na obtenção de dados em decorrência dos sigilos bancário, fiscal e comercial
+
+Médio
+
+Alta
+
+(R)  Fazer gestões junto às empresas para obter os dados necessários
+
+1ª, 2ª e 5ª Secex e autoridades
+
+d)        
+
+Descontinuidade do Projeto nas gestões futuras do TCU 
+
+Alto
+
+Baixa
+
+(R) Promover gestões entre o atual e o futuro Presidente do TCU
+
+Presidência
+
+
+8.	Relação com outros projetos
+
+
+Projetos predecessores
+
+Projetos conexos
+
+Projetos sucessores
+
+a)        
+
+Projeto “Certificação da Gestão Pública”, vinculado à Secretaria Adjunta de Contas (Adcon)
+
+Projeto Siscontas, vinculado à Secretaria Adjunta de Contas (Adcon)
+
+Projeto “Desenvolvimento de metodologias de auditoria e análise contábil-financeira para autarquias e fundações e órgãos da Administração Direta”
+
+b)        
+
+ 
+
+Projeto Síntese  (Adfis)
+
+Projeto “Desenvolvimento de metodologias de auditoria e análise contábil-financeira das contas prestadas anualmente pelo Presidente da República” (Semag)
+
+c)        
+
+ 
+
+Projeto Modelo de Gestão do Desenvolvimento de Pessoas por Competência - Atena
+
+ 
+
+d)        
+
+ 
+
+ Projeto BID  
+
+ 
+
+
+ 9.	Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)        
+
+Sala de trabalho com 3 mesas, cadeiras, mesas de computadores e uma mesa de reuniões, 2 armários
+
+Semat/Seseg
+
+b)        
+
+3 computadores pessoais, 1 impressora
+
+Setec
+
+c)        
+
+Eventual contratação de consultoria
+
+Segecex
+
+
+10.	Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação integral/ parcial / por atividade
+
+a)        
+
+José Américo Leal Oliveira
+
+  149-0
+
+Adfis/
+
+ 
+
+Integral /Gestor
+
+b)        
+
+Fernando Nazareth Cardoso
+
+3835-0
+
+2ª Secex/3ª DT
+
+ 
+
+Integral
+
+c)        
+
+Marco Polo Rios Simões
+
+2951-3
+
+5ª Secex/3ª DT
+
+ 
+
+Integral
+
+d)        
+
+ACE a ser indicado posteriormente
+
+ 
+
+1ª Secex
+
+ 
+
+Integral
+
+e)        
+
+Hudson Henrique de Paula Menezes
+
+5670-7
+
+Adcon/Diacon
+
+ 
+
+Parcial
+
+f)         
+
+Francisco Carlos Loureiro Cioci
+
+5080-6
+
+Seplan/3ª DT
+
+ 
+
+Parcial
+
+g)        
+
+Gualter Ramalho Portella
+
+3176-3
+
+2ª Secex
+
+ 
+
+Parcial
+
+h)        
+
+Diones Gomes da Rocha
+
+5633-2
+
+2ª Secex/1ª DT
+
+ 
+
+Parcial
+
+i)         
+
+Geovani Ferreira de Oliveira
+
+5088-1
+
+2ª Secex/1ª DT
+
+ 
+
+Parcial
+
+j)         
+
+Leonardo Marques Barcelos de Sousa
+
+5637-5
+
+2ª Secex/2ª DT
+
+ 
+
+Parcial
+
+k)        
+
+Conrado Wargas Neto
+
+3102-0
+
+5ª Secex/3ª DT
+
+ 
+
+Parcial
+
+l)          
+
+José Amylton Torresan Júnior
+
+5096-2
+
+5ª Secex/3ª DT
+
+ 
+
+Parcial
+
+m)        
+
+Wilson de Oliveira Bezerra 
+
+4565-9
+
+5ª Secex/3ª DT
+
+ 
+
+Parcial
+
+n)         
+
+ACE a ser indicado posteriormente
+
+ 
+
+Semag
+
+01.06.2005 a 31.12.2005
+
+Parcial
+
+o)         
+
+ACE a ser indicado posteriormente
+
+ 
+
+ISC
+
+01.08.2006 a 31.10.2006
+
+Integral
+
+p)         
+
+2  Estagiários
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+11.	Finalização
+
+
+Data e assinatura do gestor do projeto
+
+Em 11 de fevereiro de 2005
+
+ 
+
+ 
+
+ 
+
+José Américo Leal Oliveira
+
+Gerente do Projeto Audicon
+
+ 
+
+Manifestação do titular da unidade patrocinadora
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 03 de fevereiro de 2005.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Adfis, 11 de fevereiro de 2005
+
+ 
+
+ 
+
+ 
+
+Carlos Alberto Sampaio de Freitas
+
+Secretário-Adjunto de Fiscalização – Substituto 
+
+ 
+
+Segecex _____/______/2005
+
+ 
+
+ 
+
+ 
+
+Paulo Roberto Wiechers Martins
+
+Secretário-Geral de Controle Externo
+
+ 
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto Desenvolvimento de Metodologia de Auditoria e Análise Contábil-Financeira &#8211; Audicon e designa seu gestor.
+
+

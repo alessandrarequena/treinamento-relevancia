@@ -1,0 +1,804 @@
+Portaria
+329/2014
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas competências legais e regimentais, e tendo em vista o disposto no parágrafo único do art. 20 da Resolução-TCU nº 254, de 10 de abril de 2013, que dispõe sobre a classificação da informação quanto à confidencialidade no âmbito do TCU;
+
+
+considerando o disposto na Política Corporativa de Segurança da Informação do TCU – PCSI/TCU sobre a necessidade de regulamentação da classificação das informações produzidas ou custodiadas pelo Tribunal, compatível com as necessidades de negócio e de manutenção da imagem do Tribunal;
+
+
+considerando o disposto na Resolução-TCU nº 254, de 10 de abril de 2013;
+
+
+considerando o disposto na Resolução-TCU nº 247, de 7 de dezembro de 2011, que dispõe sobre a Política de Governança de Tecnologia da Informação do Tribunal de Contas da União;
+
+
+considerando o disposto na Resolução-TCU nº 233, de 4 de agosto de 2010, que dispõe sobre o funcionamento do processo eletrônico e demais serviços eletrônicos ofertados por meio de solução denominada TCU-eletrônico (e-TCU);
+
+
+considerando o disposto na Portaria TCU nº 108, de 6 de maio de 2005, que dispõe sobre procedimentos e ações de Gestão Documental no Tribunal de Contas da União;
+
+
+considerando a necessidade de atualizar procedimentos e controles administrativos e tecnológicos compatíveis com os danos à imagem ou ao negócio do TCU decorrentes do uso ou do acesso não autorizado à informação;
+
+
+considerando o disposto no inciso III do art. 6º e no inciso IV do art. 32 da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação); e
+
+
+considerando os estudos e os pareceres constantes do processo nº TC-029.973/2014-7, resolve:
+
+
+Art. 1º  Os procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação quanto à confidencialidade das informações produzidas ou custodiadas pelo TCU obedecerão ao contido nesta Portaria, observada a legislação vigente.
+
+
+Parágrafo único.  Esta Portaria integra a Política Corporativa de Segurança da Informação do Tribunal de Contas da União (PCSI/TCU).
+
+
+Art. 2º  Para os efeitos desta Portaria, entende-se por:
+
+
+I -  informação: conjunto de dados, textos, imagens, métodos, sistemas ou quaisquer formas de representação dotadas de significado em determinado contexto, independentemente do suporte em que resida ou da forma pela qual seja veiculado;
+
+
+II -  segurança da informação: proteção da informação contra ameaças a sua confidencialidade, integridade, disponibilidade e autenticidade, para minimizar riscos, garantir a eficácia das ações do negócio e preservar a imagem do TCU;
+
+
+III -  confidencialidade: propriedade que garante que a informação seja acessada somente pelas pessoas ou processos que tenham autorização para tal;
+
+
+IV -  integridade: propriedade que garante a não violação das informações com intuito de protegê-las contra alteração, gravação ou exclusão indevida, acidental ou proposital;
+
+
+V -  disponibilidade: propriedade que garante que as informações estejam acessíveis às pessoas e aos processos autorizados, no momento requerido;
+
+
+VI -  autenticidade: propriedade que assegura a correspondência entre o autor de determinada informação e a pessoa, processo ou sistema a quem se atribui a autoria;
+
+
+VII -  gestor da informação: colegiado do TCU ou de sua Secretaria, autoridade do Tribunal ou dirigente de unidade responsável por informação em matéria de sua competência ou inerente a sua área de atuação;
+
+
+VIII -  incidente de segurança da informação: qualquer indício de fraude, sabotagem, espionagem, desvio, falha ou evento indesejado ou inesperado que tenha probabilidade de comprometer ou ameaçar a segurança da informação;
+
+
+IX -  custodiante da informação: qualquer pessoa que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;
+
+
+X -  classificação da informação: ação que define o grau de confidencialidade e os grupos de acesso atribuídos à informação;
+
+
+XI -  rótulo: registro que visa identificar claramente a classificação da informação;
+
+
+XII -  solução de TI: conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam às necessidades do Tribunal;
+
+
+XIII -  unidade gestora de solução de TI: unidade organizacional do Tribunal responsável pela definição de processos de trabalho, requisitos, regras de negócio e níveis de serviço aplicáveis a uma solução de TI;
+
+
+XIV -  necessidade de conhecer: necessidade de acesso a informação em função do interesse do serviço, de ser relativa à própria pessoa ou por expressa previsão legal;
+
+
+XV -  princípio do menor privilégio: visa permitir o acesso à informação no nível mínimo necessário para a necessidade de conhecer; e
+
+
+XVI -  autenticação: procedimento ou controle tecnológico que visa verificar a associação entre uma pessoa e sua identidade para franquear-lhe o acesso adequado.
+
+
+Art. 3º  Quanto à confidencialidade, as informações produzidas ou custodiadas pelo TCU classificam-se nos graus de confidencialidade público, reservado, secreto, ultrassecreto, pessoal e sigiloso.
+
+
+§ 1º  A cada grau de confidencialidade corresponde um conjunto de controles administrativos e tecnológicos, listados no Anexo Único desta Portaria, compatíveis com os danos potenciais à imagem ou ao negócio do Tribunal, ou a intimidade, vida privada, honra e imagem das pessoas, que o uso ou o acesso não autorizado à informação acarretariam.
+
+
+§ 2º  É obrigatória a aplicação dos controles administrativos e tecnológicos descritos no Anexo Único desta Portaria, a menos que seja tecnicamente inviável.
+
+
+§ 3º  A decisão de não aplicação dos controles de que trata o § 2º deve ser justificada e documentada, sendo registrada a concordância do gestor da informação.
+
+
+§ 4º  O gestor da informação pode decidir, no caso concreto, com base no risco de acesso ou uso indevido da informação e devidamente motivado, que os controles administrativos e tecnológicos aplicados a uma dada informação sejam mais restritivos do que os descritos no Anexo Único desta Portaria, desde que compatíveis com o grau de confidencialidade.
+
+
+§ 5º  Caso necessária definição de perímetro de acesso físico para cumprimento do disposto nesta Portaria, a solicitação deve ser encaminhada à Secretaria de Segurança e Serviços Gerais (Sesap), a qual submeterá a matéria em reunião conjunta do Comitê de Segurança Institucional (Cosin) e do Comitê de Segurança da Informação (CSI), em consonância com os arts. 13 e 15 da Resolução-TCU nº 261, de 11 de junho de 2014.
+
+
+Art. 4º  O acesso a informações com classificação diferente de pública por pessoas externas aos quadros de servidores e autoridades do TCU deve ser precedido de registro que evidencie:
+
+
+I - a classificação das informações a serem acessadas;
+
+
+II - a necessidade de aplicação de controles específicos que garantam o acesso somente a pessoas autorizadas; e
+
+
+III - a responsabilidade pela manutenção do sigilo, quando couber.
+
+
+§ 1º  A permissão de acesso de que trata o caput requer assinatura prévia de termo de confidencialidade.
+
+
+§ 2º  Caso o acesso seja feito por meio de contrato ou convênio, o termo de confidencialidade e responsabilidade a que se refere o parágrafo anterior pode ser substituído por termo assinado pela entidade contratada ou convenente.
+
+
+§ 3º  Caso o acesso seja feito por meio de tratados, acordos ou atos internacionais, o próprio texto do documento que rege tratado, acordo ou ato deve prever, quando couber, cláusulas específicas de confidencialidade.
+
+
+§ 4º  Serão aprovados pelo CSI e mantidos pela Assessoria de Segurança da Informação e Governança de TI (Assig), na comunidade de segurança da informação do Portal TCU, orientações, exemplos e modelos referentes aos instrumentos de que trata este artigo.
+
+
+Art. 5º  A solicitação de informações externas não públicas, por servidores e autoridades do TCU no exercício de suas atribuições, deve ser acompanhada de registro que evidencie: 
+
+
+I - a classificação das informações a serem acessadas;
+
+
+II - a necessidade de aplicação de controles específicos; e
+
+
+III - o conhecimento de que, caso não seja documentada a classificação e os controles específicos de acordo com as leis e normativos vigentes, a informação será tratada como pública.
+
+
+Parágrafo único.  Serão aprovados pelo CSI e mantidos pela Assig, na comunidade de segurança da informação do Portal TCU, orientações, exemplos e modelos referentes aos instrumentos de que trata este artigo.
+
+
+Art. 6º  É responsabilidade do custodiante da informação aplicar-lhe controles administrativos e tecnológicos compatíveis com o grau de confidencialidade a ela atribuído.
+
+
+Parágrafo único.  A Política de Segurança Física e Patrimonial (PCSF/TCU) tratará de controles específicos, visando ao alinhamento entre o controle de acesso físico à informação e o disposto nesta Portaria.
+
+
+Art. 7º  A ausência ou a insuficiência injustificada de controles administrativos e tecnológicos compatíveis com o grau de confidencialidade da informação configura incidente de segurança da informação, a ser reportado à Assig por quem dele tiver conhecimento.
+
+
+Art. 8º  No tratamento de informações não públicas devem ser adotados, no mínimo, os seguintes controles administrativos e tecnológicos:
+
+
+I - rotular todos os componentes de informação não pública, independentemente do suporte em que residam ou da forma pela qual sejam veiculados;
+
+
+II - aplicar as medidas de proteção física e/ou lógica previstas no Anexo Único desta Portaria, que garantam acesso exclusivamente a pessoas autorizadas; e
+
+
+III - manter o mesmo rótulo e aplicar os mesmos controles da informação original no caso de cópia ou impressão.
+
+
+§ 1º  Deve ser incluída advertência sobre restrição de acesso, exceto quando seja tecnicamente inviável para o meio de armazenamento da informação.
+
+
+§ 2º  Divulgar ou permitir a divulgação, bem como acessar ou permitir acesso indevido à informação protegida por sigilo, constitui conduta ilícita que enseja responsabilização nas esferas administrativa, civil e penal, nos termos da legislação em vigor, a exemplo do disposto nos §§ 1º e 2º do art. 32 da Lei nº 12.527, de 2011.
+
+
+§ 3º  O acesso à informação por meio de conta de administrador de recurso de TI deve respeitar o disposto nesta Portaria e será regulamentado em normativo próprio.
+
+
+§ 4º  Qualquer duplicação de informações armazenadas em bases de dados – a exemplo daquelas necessárias aos ambientes de aceite, teste e desenvolvimento – é considerada cópia da informação e deve respeitar o disposto nesta Portaria.
+
+
+Art. 9º  Cabe ao gestor da informação decidir sobre a composição dos grupos de acesso às informações sob sua gestão, respeitando o princípio do menor privilégio e a necessidade de conhecer.
+
+
+§ 1º  Informações necessárias à instrução ou decisão processual devem poder ser acessadas pelos responsáveis pelas respectivas atividades.
+
+
+§ 2º  A composição do grupo de acesso obedecerá também ao disposto em normativos específicos emanados do Plenário, da Presidência ou da Comissão de Coordenação Geral (CCG).
+
+
+Art. 10.  Compete à Assig apresentar ao CSI proposta de revisão desta Portaria, no máximo a cada cinco anos.
+
+
+Art. 11.  Incumbe à Assig, com apoio da Secretaria de Comunicação Social (Secom), do Instituto Serzedello Corrêa (ISC) e das demais unidades pertinentes, coordenar ações de divulgação, treinamento, educação e conscientização dos usuários em relação aos procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação quanto à confidencialidade das informações produzidas ou custodiadas pelo TCU.
+
+
+Art. 12.  Compete à unidade gestora de solução de TI, ouvidos os gestores da informação, definir funcionalidades que permitam implementar os controles administrativos e tecnológicos descritos nesta Portaria para as informações recebidas, produzidas ou tratadas pela solução de TI sob sua gestão.
+
+
+Art. 13.  Incumbe à Secretaria de Controle Interno (Secoi), com o apoio, no que couber, da Assig, das unidades gestoras de solução de TI, da Secretaria de Infraestrutura de Tecnologia da Informação (Setic) e da Secretaria de Soluções de Tecnologia da Informação (STI), auditar periodicamente a aplicação dos controles administrativos e tecnológicos descritos nesta Portaria.
+
+
+Art. 14.  Fica alterado o inciso X do art. 2º da Portaria-TCU nº 210, de 2014, que passa a vigorar com a seguinte redação:
+
+
+"X - custodiante da informação: qualquer pessoa que detém a posse, mesmo que transitória, de informação produzida ou recebida pelo Tribunal;".
+
+
+Art. 15.  Fica revogada a Portaria-TCU nº 124, de 3 de maio de 2010.
+
+
+Art. 16.  Fica o CSI autorizado a expedir os atos necessários à regulamentação desta Portaria e a dirimir os casos omissos.
+
+
+Art. 17.  Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre procedimentos de segurança e controles administrativos e tecnológicos afetos à classificação quanto à confidencialidade das informações produzidas ou custodiadas pelo Tribunal de Contas da União.
+
+ANEXO ÚNICO DA PORTARIA-TCU Nº 329, DE 1º DE DEZEMBRO DE 2014
+
+
+
+
+CONFIDENCIALIDADE DAS INFORMAÇÕES
+
+
+
+O presente anexo tem como objetivo detalhar os controles administrativos e tecnológicos aplicáveis a cada um dos graus de confidencialidade previstos no art. 3º desta Portaria. Nesse sentido, é apresentada uma tabela para cada grau de confidencialidade, subdividida em: a) aspectos gerais; e b) controles administrativos e tecnológicos. Em "aspectos gerais", apresenta-se a definição do grau de confidencialidade em questão, o prazo de restrição de acesso e a competência para a classificação. Os "controles administrativos e tecnológicos", por sua vez, encontram-se elencados de acordo com as etapas do ciclo de vida da informação, a saber: produção, recebimento, armazenamento, acesso, cópia, transporte e descarte.
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Pública
+
+Aspectos Gerais
+
+Descrição
+
+Informação cujo acesso pode ser franqueado a qualquer pessoa.
+
+Prazo de restrição de acesso[*]
+
+Não se aplica.
+
+Competência para a classificação*
+
+Dirigentes de unidades, colegiado da Secretaria do TCU, Secretários-Gerais, Membros do MP/TCU, Relator, Presidente, colegiado do TCU. 
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Nas instalações do TCU ou fora de suas dependências.
+
+Permitido o uso de equipamento corporativo ou particular.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+A rotulação não é obrigatória.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+Sem controles específicos.
+
+Acesso
+
+Franqueado a qualquer pessoa, podendo a informação ser disponibilizada no Portal TCU para acesso público.
+
+Desnecessária manutenção de histórico de acesso (log).
+
+Cópia
+
+É permitida a reprodução no todo ou em parte.
+
+Transporte
+
+Pode ser transportada livremente.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 6 de maio de 2005.
+
+ 
+
+
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Reservada
+
+Aspectos Gerais
+
+Descrição
+
+Informação imprescindível à segurança da sociedade ou do Estado, nos termos do art. 7º da Resolução-TCU nº 254, de 2013.
+
+Prazo máximo de restrição de acesso[*]
+
+5 anos
+
+Competência para a classificação*
+
+Dirigentes das unidades, colegiado da Secretaria do TCU, Secretários-Gerais, Membros do MP/TCU, Relator, Presidente, colegiado do TCU.
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Nas instalações do TCU ou fora de suas dependências.
+
+Permitido o uso de equipamento corporativo ou particular.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Verificar, quando couber, aderência a normativos específicos para classificação de informações recebidas pelo Tribunal de seus jurisdicionados, a exemplo de Instrução Normativa. 
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada, conforme o grau verificado, respeitada a classificação atribuída na origem. Caso a classificação da informação não seja aderente à Lei de Acesso à Informação, a autoridade competente para classificação deve realizar a conversão para a classificação correspondente no TCU, conforme previsto na Resolução-TCU nº 254, de 2013.
+
+Quando necessária a emissão de recibo, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Quando recebido mediante instrumento de cooperação, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+Armazenar em locais restritos ao grupo de acesso habilitado. 
+
+Acesso
+
+Pode ser acessado a partir das instalações do TCU ou fora de suas dependências.
+
+Permitido o acesso por meio de equipamento corporativo ou particular.
+
+Permitido ao grupo de acesso, observado o prazo de restrição definido no ato de classificação.
+
+Permitido a pessoa com necessidade funcional de conhecer a informação.
+
+Permitido a pessoa legalmente autorizada.
+
+Recomendável a manutenção de histórico de acesso (log) para informações armazenadas em papel, sendo obrigatória quando for em meio eletrônico.
+
+Permitida elaboração de extratos de documentos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Para acessar a informação é preciso identificação e autenticação.
+
+Cópia
+
+ 
+
+Quando indispensável a reprodução, no todo ou em parte, a cópia deve ter o mesmo grau de confidencialidade do documento original.
+
+Sempre que o procedimento de cópia precisar ser executado por não integrante do grupo de acesso (por exemplo: scanner, tipografia, impressora ou oficina gráfica), tal operação deve ser acompanhada por pessoal formalmente designado pela unidade custodiante que solicitou a realização da cópia
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+Transporte
+
+Pode ser transportada livremente dentro das dependências do Tribunal.
+
+Transporte externo, quando feito em meio eletrônico, deve ser feito preferencialmente com criptografia.
+
+Em caso de transporte externo em papel ou de mídias não criptografáveis, deve-se utilizar envelope lacrado cuja violação seja detectável.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Documentos físicos e eletrônicos devem ser descartados após o prazo de guarda. 
+
+Cópias temporárias arquivos salvos localmente; impressões de documentos eletrônicos;) devem ser descartadas tão logo vencido o prazo de retenção devido. 
+
+Cópias temporárias de documentos digitalizados devem ser descartadas tão logo vencido o prazo de retenção devido. 
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 2005.
+
+
+
+
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Secreta
+
+Aspectos Gerais
+
+Descrição
+
+Informação imprescindível à segurança da sociedade ou do Estado, nos termos do art. 7º da Resolução-TCU nº 254, de 2013.
+
+Prazo máximo de restrição de acesso[*]
+
+15 anos
+
+Competência para a classificação*
+
+Colegiado da Secretaria do TCU, Secretários-Gerais, Membros do MP/TCU, Relator, Presidente, colegiado do TCU.
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Preferencialmente nas dependências do TCU.
+
+Produzir apenas em equipamento corporativo.
+
+Preferencialmente em ambiente não compartilhado com pessoas estranhas ao grupo de acesso.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada, conforme o grau verificado, respeitada a classificação atribuída na origem. Caso a classificação da informação não seja aderente à Lei de Acesso à Informação, a autoridade competente pela classificação deve realizar a conversão para a classificação correspondente no TCU, conforme previsto na Resolução-TCU nº 254, de 2013.
+
+Quando necessária a emissão de recibo, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Quando recebido mediante instrumento de cooperação, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+ 
+
+Documentos em papel ou mídias recebidas de terceiros não criptografadas devem ser armazenados em armário ou gaveta com chave.
+
+Arquivos eletrônicos armazenados localmente (ex: computador, notebook) ou em dispositivos removíveis (ex: pendrive, CD, smartphone) devem ser criptografados.
+
+O armazenamento em servidor ou solução de TI deve observar as regras definidas no grupo de acesso habilitado.
+
+Acesso
+
+Permitido ao grupo de acesso, observado o prazo de restrição definido no ato de classificação.
+
+Permitido a pessoa com necessidade funcional de conhecer a informação.
+
+Permitido a pessoa legalmente autorizada.
+
+Necessária manutenção de histórico de acesso (log), independente do meio em que esteja a informação.
+
+Permitida elaboração de extratos de documentos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Permitido apenas a partir da rede interna ou desktop virtual, no caso de acesso a documentos eletrônicos.
+
+Para acessar a informação é preciso identificação e autenticação.
+
+Cópia
+
+Quando indispensável a reprodução, no todo ou em parte, a cópia deve ter o mesmo grau de confidencialidade do documento original.
+
+Sempre que o procedimento de cópia precisar ser executado por não integrante do grupo de acesso (scanner, tipografia, impressora ou oficina gráfica), tal operação deve ser acompanhada por pessoal formalmente designado pela unidade custodiante que solicitou a realização da cópia
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+Transporte
+
+O transporte externo ou interno, exceto quando inviável tecnicamente, deve ser feito em meio eletrônico e obrigatoriamente adotando criptografia, 
+
+No caso de transporte externo ou interno de papel ou de mídias não criptografáveis, deve-se utilizar envelope lacrado cuja violação seja detectável.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Documentos eletrônicos devem ser excluídos de maneira a impossibilitar sua recuperação, por meio de software para remoção segura (ex: File Shredder).
+
+Documentos em papel ou armazenados em CD/DVD devem ser destruídos por meio de fragmentadora.
+
+Cópias temporárias de documentos digitalizados devem ser descartadas tão logo vencido o prazo de retenção devido.
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 2005.
+
+ 
+
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Ultrassecreta
+
+Aspectos Gerais
+
+Descrição
+
+Informação imprescindível à segurança da sociedade ou do Estado, nos termos do art. 7º da Resolução-TCU nº 254, de 2013.
+
+Prazo máximo de restrição de acesso[*]
+
+25 anos (prorrogáveis por igual período)
+
+Competência para a classificação*
+
+Membros do MP/TCU, Relator, Presidente, colegiado do TCU.
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Obrigatoriamente nas instalações do TCU, apenas com equipamento corporativo.
+
+Obrigatoriamente em ambiente não compartilhado com pessoas estranhas ao grupo de acesso.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada, conforme o grau verificado, respeitada a classificação atribuída na origem. Caso a classificação da informação não seja aderente à Lei de Acesso à Informação, a autoridade competente pela classificação deve realizar a conversão para a classificação correspondente no TCU, conforme previsto na Resolução-TCU nº 254/2013.
+
+Quando necessária a emissão de recibo, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Quando recebido mediante instrumento de cooperação, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+Documentos em papel ou mídias recebidas de terceiros não criptografadas devem ser armazenados em cofre.
+
+Arquivos eletrônicos armazenados localmente (ex: computador, notebook) ou dispositivos removíveis (ex: pendrive, CD, smartphone) devem ser criptografados.
+
+O armazenamento em servidor ou solução de TI deve ser criptografado e observar as regras definidas no grupo de acesso.
+
+Acesso
+
+Permitido ao grupo de acesso, observado o prazo de restrição definido no ato de classificação.
+
+Permitido a pessoa com necessidade de conhecer a informação.
+
+Permitido a pessoa legalmente autorizada.
+
+Necessária manutenção de histórico de acesso (log), independente do meio em que esteja a informação.
+
+Permitida elaboração de extratos de documentos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Permitido apenas o acesso local a partir da rede interna, no caso de acesso a documentos eletrônicos.
+
+Para acessar a informação é preciso identificação e autenticação.
+
+Cópia
+
+Proibida a impressão, a reprodução e a cópia eletrônica, exceto em casos excepcionais, com autorização do gestor da informação. 
+
+Quando autorizada a reprodução no todo ou em parte, a cópia deve ter o mesmo grau de confidencialidade do documento original.
+
+Quando autorizado, caso o procedimento de cópia precise ser executado por não integrante do grupo de acesso (scanner, tipografia, impressora ou oficina gráfica), tal operação deve ser acompanhada por pessoal formalmente designado pela unidade custodiante que solicitou a realização da cópia
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+Transporte
+
+O transporte externo ou interno, exceto quando inviável tecnicamente, deve ser feito em meio eletrônico e obrigatoriamente adotando criptografia, 
+
+No caso de transporte externo ou interno de papel ou de mídias não criptografáveis, deve-se utilizar envelope lacrado cuja violação seja detectável.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Documentos eletrônicos devem ser excluídos de maneira a impossibilitar sua recuperação, por meio de software para remoção segura (ex: File Shredder).
+
+Documentos em papel ou armazenados em CD/DVD devem ser destruídos por meio de fragmentadora.
+
+Cópias temporárias de documentos digitalizados devem ser descartadas tão logo vencido o prazo de retenção devido.
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 2005.
+
+ 
+
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Pessoal
+
+Aspectos Gerais
+
+Descrição
+
+Informação que diz respeito à intimidade, vida privada, honra e imagem da pessoa, bem como às liberdades e garantias individuais.
+
+Prazo máximo de restrição de acesso[*]
+
+100 anos
+
+Competência para a classificação*
+
+Dirigentes de unidades técnicas, colegiado da Secretaria do TCU, Secretários-Gerais, Membros do MP/TCU, Relator, Presidente, colegiado do TCU.
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Preferencialmente nas dependências do TCU.
+
+Produzir apenas em equipamento corporativo.
+
+Preferencialmente em ambiente não compartilhado com pessoas estranhas ao grupo de acesso.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada, conforme o grau verificado, respeitada a classificação atribuída na origem. Caso a classificação da informação não seja aderente à Lei de Acesso à Informação, a autoridade competente pela classificação deve realizar a conversão para a classificação correspondente no TCU, conforme previsto na Resolução-TCU nº 254, de 2013.
+
+Quando necessária a emissão de recibo, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Quando recebido mediante instrumento de cooperação, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+Documentos em papel ou mídias recebidas de terceiros não criptografadas devem ser armazenados em armário ou gaveta com chave.
+
+Arquivos eletrônicos armazenados localmente (ex: computador, notebook) ou em dispositivos removíveis (ex: pendrive, CD, smartphone) devem ser criptografados.
+
+O armazenamento em servidor ou solução de TI deve ser criptografado e observar as regras definidas no grupo de acesso habilitado.
+
+Acesso
+
+Permitido ao grupo de acesso, observado o prazo de restrição definido no ato de classificação.
+
+Permitido a pessoa com necessidade funcional de conhecer a informação.
+
+Permitido a pessoa legalmente autorizada.
+
+Permitido a terceiros mediante consentimento expresso da pessoa a que se referir a informação. 
+
+Necessária manutenção de histórico de acesso (log), independente do meio em que esteja a informação.
+
+Permitida elaboração de extratos de documentos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Permitido apenas a partir da rede interna ou desktop virtual, no caso de acesso a documentos eletrônicos.
+
+Cópia
+
+Quando indispensável a reprodução, no todo ou em parte, a cópia deve ter o mesmo grau de confidencialidade do documento original.
+
+Sempre que o procedimento de cópia precisar ser executado por não integrante do grupo de acesso (scanner, tipografia, impressora ou oficina gráfica), tal operação deve ser acompanhada por pessoal formalmente designado pela unidade custodiante que solicitou a realização da cópia
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+Transporte
+
+O transporte externo ou interno, exceto quando inviável tecnicamente, deve ser feito em meio eletrônico e obrigatoriamente adotando criptografia, 
+
+No caso de transporte externo ou interno de papel ou de mídias não criptografáveis, deve-se utilizar envelope lacrado cuja violação seja detectável.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Documentos eletrônicos devem ser excluídos de maneira a impossibilitar sua recuperação, por meio de software para remoção segura (ex: File Shredder).
+
+Documentos em papel ou armazenados em CD/DVD devem ser destruídos por meio de fragmentadora.
+
+Cópias temporárias de documentos digitalizados devem ser descartadas tão logo vencido o prazo de retenção devido.
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 2005.
+
+ 
+
+
+
+
+Classificação da informação quanto à confidencialidade
+
+Informação Sigilosa
+
+Aspectos Gerais
+
+Descrição
+
+Informação enquadrada nas hipóteses de sigilo previstas em legislação específica, tal como a de natureza fiscal, bancária, a relacionada a operações e serviços no mercado de capitais, a protegida por sigilo comercial, profissional, industrial ou por segredo de justiça e aquela relativa a denúncias.
+
+Prazo máximo de restrição de acesso[*]
+
+Obedece ao prazo estabelecido na legislação específica.
+
+Competência para a classificação*
+
+Dirigentes de unidades técnicas, colegiado da Secretaria do TCU, Secretários-Gerais, Membros do MP/TCU, Relator, Presidente, colegiado do TCU.
+
+Controles administrativos e tecnológicos
+
+Produção
+
+Preferencialmente nas dependências do TCU.
+
+Produzir apenas em equipamento corporativo.
+
+Preferencialmente em ambiente não compartilhado com pessoas estranhas ao grupo de acesso.
+
+Classificar a informação ou propor classificação à autoridade competente para a informação que não tenha sido previamente classificada.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada.
+
+Recebimento
+
+Verificar o grau de confidencialidade da informação.
+
+Rotular a informação de maneira apropriada ao meio em que é apresentada, conforme o grau verificado, respeitada a classificação atribuída na origem. Caso a classificação da informação não seja aderente à Lei de Acesso à Informação, a autoridade competente pela classificação deve realizar a conversão para a classificação correspondente no TCU, conforme previsto na Resolução-TCU nº 254, de 2013.
+
+Quando necessária a emissão de recibo, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Quando recebido mediante instrumento de cooperação, inserir o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Os ofícios de requisição devem conter o parágrafo-padrão constante da comunidade de segurança da informação do Portal TCU.
+
+Armazenamento
+
+Documentos em papel ou mídias recebidas de terceiros não criptografadas devem ser armazenados em armário ou gaveta com chave.
+
+Arquivos eletrônicos armazenados localmente (ex: computador, notebook) ou em dispositivos removíveis (ex: pendrive, CD, smartphone) devem ser criptografados.
+
+O armazenamento em servidor ou solução de TI deve ser criptografado e observar as regras definidas no grupo de acesso habilitado.
+
+Acesso
+
+Permitido ao grupo de acesso, observado o prazo de restrição definido no ato de classificação.
+
+Permitido a pessoa com necessidade funcional de conhecer a informação.
+
+Permitido a pessoa legalmente autorizada.
+
+Necessária manutenção de histórico de acesso (log) independente do meio em que esteja a informação.
+
+Permitida elaboração de extratos de documentos, para divulgação interna ou pública, mediante autorização formal do gestor da informação ou autoridade competente, exceto quando expressamente vedado no documento original.
+
+Permitido apenas a partir da rede interna ou desktop virtual, no caso de acesso a documentos eletrônicos.
+
+Para acessar a informação é preciso identificação e autenticação.
+
+Cópia
+
+Quando indispensável a reprodução, no todo ou em parte, a cópia deve ter o mesmo grau de confidencialidade do documento original.
+
+Sempre que o procedimento de cópia precisar ser executado por não integrante do grupo de acesso (scanner, tipografia, impressora ou oficina gráfica), tal operação deve ser acompanhada por pessoal formalmente designado pela unidade custodiante que solicitou a realização da cópia
+
+A cópia ou impressão deve manter o mesmo rótulo da informação original.
+
+Transporte
+
+O transporte externo ou interno, exceto quando inviável tecnicamente, deve ser feito em meio eletrônico e obrigatoriamente adotando criptografia, 
+
+No caso de transporte externo ou interno de papel ou de mídias não criptografáveis, deve-se utilizar envelope lacrado cuja violação seja detectável.
+
+Descarte
+
+Observar as normas de gestão documental no que se refere ao prazo de guarda dos documentos.
+
+Documentos eletrônicos devem ser excluídos de maneira a impossibilitar sua recuperação, por meio de software para remoção segura (ex: File Shredder).
+
+Documentos em papel ou armazenados em CD/DVD devem ser destruídos por meio de fragmentadora.
+
+Cópias temporárias de documentos digitalizados devem ser descartadas tão logo vencido o prazo de retenção devido.
+
+Não descartar documento histórico, conforme definições do art. 8º da Portaria-TCU nº 108, de 2005.
+
+ 
+
+
+
+
+
+
+
+
+
+

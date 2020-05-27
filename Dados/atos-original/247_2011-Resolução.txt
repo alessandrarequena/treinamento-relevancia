@@ -1,0 +1,549 @@
+Resolução
+247/2011
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições constitucionais, legais e regulamentares,
+
+
+Considerando as recomendações constantes dos itens 9.1.1 a 9.1.8 e 9.6 do Acórdão nº 1.603/2008 - TCU - Plenário, de 13 de agosto de 2008, e do item 9.16 do Acórdão nº 2.471/2008 - TCU - Plenário, de 5 de novembro de 2008, que tratam da governança, gestão e uso de tecnologia da informação (TI) na Administração Pública Federal;
+
+
+Considerando as recomendações constantes dos itens 9.1.1 e 9.1.2 do Acórdão nº 2.308/2010 - TCU - Plenário, de 8 de setembro de 2010, a respeito da vinculação de objetivos, iniciativas, indicadores e metas de TI às estratégias de negócio;
+
+
+Considerando as conclusões obtidas a partir dos trabalhos desenvolvidos pelo Grupo de Trabalho de Governança de TI, instituído por meio da Portaria-TCU nº 143, de 2 de junho de 2008, para realizar diagnóstico e propor medidas para o aprimoramento da governança de TI no Tribunal;
+
+
+Considerando a importância de se estabelecer objetivos, princípios e diretrizes de governança de TI alinhados às recomendações constantes da norma NBR ISO/IEC 38500:2009 que trata da governança corporativa de tecnologia da informação e às boas práticas do Control Objectives for Information and Related Technology (Cobit) e de outros modelos de governança e gestão de TI reconhecidos internacionalmente, resolve:
+
+
+Art. 1° A Política de Governança de Tecnologia da Informação do Tribunal de Contas da União (PGTI/TCU) observará os princípios, objetivos e diretrizes estabelecidos nesta Resolução, bem como as disposições constitucionais, legais e regimentais vigentes.
+
+
+§ 1º As normas gerais e específicas de governança de TI, emanadas no âmbito do Tribunal, são consideradas parte integrante da política a que se refere esta Resolução.
+
+
+§ 2º As políticas e normas do Tribunal que tratam da segurança da informação e do processo de planejamento de TI integram-se e harmonizam-se com as disposições desta Resolução.
+
+
+Art. 2º Para os efeitos desta Resolução, entende-se por:
+
+
+I - Tecnologia da Informação (TI): ativo estratégico que suporta processos de negócio institucionais, por meio da conjugação de recursos, processos e técnicas utilizados para obter, processar, armazenar, fazer uso e disseminar informações;
+
+
+II - governança de TI - conjunto de diretrizes, estruturas organizacionais, processos e mecanismos de controle que visam a assegurar que as decisões e ações relativas à gestão e ao uso da TI mantenham-se alinhadas às necessidades institucionais e contribuam para o cumprimento da missão e o alcance das metas organizacionais;
+
+
+III - solução de TI: conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam a necessidades do Tribunal;
+
+
+IV - unidade gestora de solução de TI (unidade gestora): unidade organizacional do Tribunal responsável pela definição de processos de trabalho, requisitos, regras de negócio e níveis de serviço aplicáveis a uma solução de TI;
+
+
+V - provimento de solução: ações necessárias para implantar a solução de TI, assegurar seu funcionamento e dar suporte adequado aos usuários, de modo a atender às necessidades do negócio; e
+
+
+VI - acordo de nível de serviço: acordo entre a unidade responsável pelo provimento e a unidade gestora, no qual se estabelecem metas de qualidade e de desempenho para a solução de TI, considerando-se as necessidades do negócio, o impacto das soluções para o Tribunal, o custo e a capacidade de alocação de recursos para o provimento da solução;
+
+
+VII - unidade coordenadora da gestão de soluções de TI: unidade organizacional do Tribunal responsável por coordenar e orientar a atuação das unidades gestoras de soluções de TI de uma unidade básica, nos termos desta Resolução. (AC) (Resolução-TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+Parágrafo único. Para os fins do disposto no inciso III deste artigo, as soluções de TI são classificadas, segundo a sua natureza, em:
+
+
+I - corporativas, quando provocarem impacto significativo sobre os resultados e o funcionamento do Tribunal; ou
+
+
+II - departamentais, quando destinadas ao atendimento de necessidades de uma unidade ou de um conjunto reduzido de unidades, sem impacto significativo sobre os resultados e o funcionamento do Tribunal.
+
+
+Art. 3º A PGTI/TCU tem por finalidade assegurar o alinhamento das práticas de governança, de gestão e de uso da TI com as estratégias de negócio do Tribunal, observados os seguintes objetivos específicos:
+
+
+I - contribuir para a sustentabilidade, o cumprimento da missão e a melhoria dos resultados institucionais, em benefício da sociedade;
+
+
+II - prover mecanismos de transparência e controle da governança e da gestão de TI;
+
+
+III - estabelecer diretrizes para o planejamento e a organização da TI, bem como para atividades relacionadas ao provimento, à gestão e ao uso de soluções de TI; e
+
+
+IV - definir papéis e responsabilidades dos atores envolvidos na governança e gestão de TI.
+
+
+Art. 4º A governança, a gestão e o uso de TI no âmbito do TCU orientam-se, no que couber, pelas boas práticas preconizadas por normas e modelos adotados como referência pelo Tribunal no exercício do controle externo relativo ao tema, e pelos seguintes princípios:
+
+
+I - definição formal de autoridade e responsabilidade por decisões e ações;
+
+
+II - alinhamento dos planos e ações de TI às estratégias de negócio e às necessidades do Tribunal;
+
+
+III - otimização dos processos de trabalho e do uso de recursos do Tribunal;
+
+
+IV - formalização de diretrizes, processos de trabalho e procedimentos;
+
+
+V - identificação e gestão de riscos organizacionais, de tecnologia e de ambiente;
+
+
+VI - produção, disseminação e preservação de conhecimentos referentes a processos de trabalho e regras de negócio associados a soluções de TI;
+
+
+VII - conformidade com disposições legais e normas internas do Tribunal; e
+
+
+VIII - monitoração e avaliação regular, pela alta direção, do alcance das metas definidas nos planos de TI e da conformidade e desempenho dos processos que suportam a política de governança de TI.
+
+
+Art. 5º O planejamento e a organização da TI observarão as seguintes diretrizes:
+
+
+I - integração entre as áreas de negócio e de TI por meio de diálogo permanente e adoção de linguagem comum;
+
+
+II - compreensão do negócio e dos processos de trabalho do Tribunal, com o objetivo de identificar oportunidades que possam ser alavancadas pelo uso da TI;
+
+
+III - coordenação centralizada das iniciativas para atendimento às necessidades de negócio do Tribunal relacionadas à TI;
+
+
+IV - inclusão, nos planos estratégicos, táticos e operacionais do Tribunal, de objetivos institucionais específicos para TI, alinhados às estratégias de negócio;
+
+
+V - elaboração de planos de TI que contemplem objetivos de médio e de longo prazo, bem como prioridades e iniciativas de curto prazo, de forma alinhada aos planos e às prioridades institucionais;
+
+
+VI - elaboração de indicadores e fixação de metas para avaliação do alcance dos objetivos estabelecidos, em função dos benefícios esperados para o negócio do Tribunal;
+
+
+VII - desenvolvimento continuado de competências multidisciplinares, técnicas e gerenciais, necessárias ao exercício pleno de todas as atribuições dos servidores da área de TI, com incentivo à obtenção das certificações profissionais correspondentes, de acordo com as necessidades evidenciadas pelos planos e prioridades institucionais;
+
+
+VIII - ampla participação das unidades organizacionais na elaboração dos planos de TI;
+
+
+IX - transparência na execução dos planos de TI;
+
+
+X - formulação de propostas de provimento de soluções de TI adequadas às necessidades de negócio e compatíveis com a capacidade de alocação de recursos;
+
+
+XI - alocação prioritária de recursos para provimento de soluções de TI que sejam estratégicas ao negócio do Tribunal; e
+
+
+XII - avaliação periódica independente sobre a conformidade dos procedimentos e estruturas de TI com a legislação, com normas internas e com as melhores práticas internacionalmente reconhecidas.
+
+
+Art. 6º Para os fins do disposto nesta Resolução, o provimento de soluções de TI compreende as seguintes modalidades:
+
+
+I - desenvolvimento: construção de soluções, com recursos próprios ou de terceiros, para atender a necessidades específicas do Tribunal;
+
+
+II - aquisição: adoção de soluções construídas externamente ao Tribunal, por meio de contratação, recebimento de outros órgãos e entidades ou utilização de software livre; e
+
+
+III - manutenção: alteração de solução existente para correção de erros, melhoria de qualidade, incorporação de novas funcionalidades, mudança nas regras de negócio ou adaptação a novas tecnologias.
+
+
+Parágrafo único. Qualquer que seja a modalidade adotada, a abordagem de provimento de soluções de TI classifica-se, segundo a responsabilidade das unidades envolvidas, em:
+
+
+I - centralizada, quando o desenvolvimento, a aquisição ou a manutenção da solução é realizada pela Secretaria de Soluções de Tecnologia da Informação (STI) ou pela Secretaria de Infraestrutura de Tecnologia da Informação (Setic); ou
+
+
+II - descentralizada, quando o desenvolvimento, a aquisição ou a manutenção da solução é realizada por outra unidade do Tribunal, sob orientação da Setic ou da STI.
+
+
+Art. 7º O provimento de soluções de TI observará as seguintes diretrizes:
+
+
+I - concepção de soluções com foco na otimização dos processos de trabalho do Tribunal, na integração de soluções e na reutilização de dados e componentes;
+
+
+II - consideração, quando da concepção de soluções de TI a serem desenvolvidas ou adquiridas, de requisitos não funcionais relevantes, em especial dos requisitos de segurança da informação e dos requisitos relativos à disponibilidade, ao desempenho e à usabilidade da solução;
+
+
+III - adoção de arquitetura e padrões tecnológicos que satisfaçam aos critérios técnicos definidos pela Setic ou pela STI e que se baseiem preferencialmente em padrões de mercado e em diretrizes de interoperabilidade do Governo Federal;
+
+
+IV - preservação dos direitos de propriedade intelectual do Tribunal sobre códigos, documentos e outros elementos integrantes de soluções que sejam desenvolvidas especificamente para a instituição, com recursos próprios ou de terceiros;
+
+
+V - realização, previamente à implantação das soluções de TI, dos testes necessários para assegurar o correto funcionamento e a aderência das soluções às regras de negócio e aos requisitos especificados;
+
+
+VI - definição, mensuração e revisão periódica de acordos de níveis de serviço;
+
+
+VII - planejamento e gestão do ambiente de TI e dos processos operacionais que o suportam com foco no cumprimento dos níveis de serviço acordados para as soluções de TI;
+
+
+VIII - atuação proativa com vistas à identificação de lacunas de conhecimento e ao desenvolvimento de competências dos usuários previamente à implantação de novas soluções de TI, bem como de forma continuada;
+
+
+IX - definição formal dos processos de trabalho relacionados às atividades necessárias ao provimento de soluções de TI em qualquer das modalidades previstas no art. 6º;
+
+
+X - adoção da modalidade de provimento que se revelar justificadamente mais adequada à realização das estratégias e ao alcance dos objetivos institucionais, com base em critérios definidos nos planos estratégicos de TI ou em normas internas;
+
+
+XI - adoção preferencial da abordagem centralizada para provimento de soluções de natureza corporativa; e
+
+
+XII - adoção preferencial de abordagem descentralizada para provimento de soluções de natureza departamental.
+
+
+Art. 8º O provimento de solução de TI por meio de aquisição observará, ainda, as seguintes diretrizes:
+
+
+I - planejamento da contratação com vistas à aquisição, sempre que justificável, de soluções completas, contemplando itens como implementação, treinamento, suporte, operação e demais componentes necessários ao alcance dos objetivos definidos;
+
+
+II - integração e alinhamento das contratações de TI aos planos e prioridades institucionais, considerando a alocação orçamentária necessária à realização das iniciativas planejadas e ao custeio dos contratos vigentes de serviços de natureza continuada; e
+
+
+III - estabelecimento, sempre que possível, nos contratos com fornecedores, de previsão de pagamentos em função de resultados verificáveis e baseados em níveis mínimos de serviço.
+
+
+Art. 9º Compete à Comissão de Coordenação Geral (CCG), para efeito do disposto nesta Resolução, assessorar o Presidente do TCU na formulação da Política de Governança de Tecnologia da Informação do Tribunal e das demais políticas inerentes à tecnologia da informação, bem como deliberar sobre matérias correlatas submetidas pelo coordenador do Comitê Gestor de Tecnologia da Informação (CGTI) consoante hipóteses previstas em normativo específico. (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+Art. 10. Compete ao CGTI, com submissão à CCG nas hipóteses previstas em normativo específico: (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+I - coordenar a formulação de propostas de políticas, diretrizes, objetivos e estratégias de TI;
+
+
+II - aprovar os planos e os indicadores de desempenho de TI, bem como manifestar-se sobre a implementação das ações planejadas e a mensuração dos resultados obtidos; (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+III - aprovar a alocação dos recursos orçamentários destinados à TI, bem como alterações posteriores que provoquem impacto significativo sobre a alocação inicial;
+
+
+IV - realizar, com base em critérios definidos em normativo específico, priorização corporativa das demandas que tratem do provimento centralizado e descentralizado de novas soluções de TI de natureza corporativa, assim como demandas de manutenção com impacto significativo sobre os planos de TI; (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+V - decidir sobre a classificação de soluções de TI quanto aos critérios estabelecidos no parágrafo único do art. 2º desta Resolução, nos casos em que houver dúvida entre as partes envolvidas;
+
+
+VI - avaliar periodicamente propostas de melhorias e ajustes julgados necessários, informações consolidadas sobre a situação da governança, da gestão e do uso de TI no Tribunal, em especial sobre: (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+a) a execução dos planos e das ações corporativas relativos a TI;
+
+
+b) a evolução dos indicadores de desempenho de TI;
+
+
+c) o tratamento de riscos relacionados a TI;
+
+
+d) a capacidade e a disponibilidade de recursos de TI;
+
+
+e) resultados de auditorias de TI a que se submeterem as unidades do Tribunal;
+
+
+VII - promover a adequada publicidade e transparência das informações a que se refere o inciso anterior; e
+
+
+VIII - coordenar a gestão do conhecimento de Inteligência Artificial;
+
+
+§ 1º (Revogado) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+§ 2º (Revogado) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+IX - coordenar a formulação de estratégias e diretrizes de gestão de riscos de TI, de forma alinhada à política de gestão de riscos do TCU. (AC) (Resolução-TCU nº 287, de 12/4/2017, BTCU nº 14/2017, DOU de 19/4/2017)
+
+
+
+Art. 11. Compete à Secretaria de Planejamento, Governança e Gestão (Seplan), para efeito do disposto nesta Resolução: (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+I - assessorar a CCG no exercício das competências previstas no art. 9º desta Resolução; e
+
+
+II - acompanhar e orientar a implementação das práticas de governança e gestão de TI, de acordo com as diretrizes e responsabilidades estabelecidas nesta Resolução.
+
+
+III - apresentar proposta de revisão da PGTI/TCU ao CGTI, no máximo a cada cinco anos, de modo a atualizar a política frente a novos requisitos corporativos. (AC) (Resolução-TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+Art. 12. Compete à Adgeti, à Setic e à STI, observadas as respectivas áreas de atuação, para efeito do disposto nesta Resolução: (NR) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+I - auxiliar a CCG, as unidades gestoras, os gabinetes de autoridades e as demais unidades do TCU na identificação de oportunidades de informatização de processos de trabalho e na formulação de demandas para provimento de novas soluções;
+
+
+II - realizar o provimento centralizado de soluções de TI e assegurar seu funcionamento em conformidade com os níveis de serviço acordados com as unidades gestoras de soluções;
+
+
+III - submeter ao CGTI as demandas relativas ao provimento centralizado de novas soluções de TI de natureza corporativa, assim como demandas de manutenção com impacto significativo sobre os planos de TI;
+
+
+IV - analisar e priorizar o atendimento de demandas para manutenção de soluções de TI que não impactem significativamente os planos de TI;
+
+
+V - definir processos de trabalho, métodos, técnicas, ferramentas, arquitetura e padrões aplicáveis ao provimento de soluções de TI, observado o disposto no art. 6º, e em conformidade com os princípios e diretrizes estabelecidos nesta Resolução;
+
+
+VI - oferecer ambiente computacional e suporte adequados ao provimento e ao uso de soluções de TI;
+
+
+VII - apoiar o Instituto Serzedello Corrêa (ISC) no planejamento e na execução de ações de desenvolvimento de competências relativas ao provimento, à governança, à gestão e ao uso de TI;
+
+
+VIII - propor a alocação de recursos orçamentários destinados à tecnologia da informação e planejar e acompanhar, em articulação com as unidades competentes, o uso desses recursos para contratação de bens e serviços de TI de que o Tribunal necessite;
+
+
+IX - promover os ajustes necessários a fim de otimizar o uso dos recursos orçamentários destinados à TI, observado o disposto no inciso II do art. 8º; e
+
+
+X - efetuar mensurações e coleta de dados com vistas a fornecer ao CGTI informações relativas ao provimento, à gestão e ao uso de TI que forem necessárias ao desempenho das atividades do comitê.
+
+
+Art. 13. Compete ao ISC, para efeito do disposto nesta Resolução, promover o desenvolvimento continuado de competências necessárias ao provimento, à governança, à gestão e ao uso das soluções de TI, bem como à observância das diretrizes e responsabilidades estabelecidas nesta Resolução.
+
+
+Art. 13-A. Competem à unidade coordenadora da gestão de soluções de TI, no âmbito de cada unidade básica, as atividades de organização, coordenação, orientação e supervisão das unidades gestoras no exercício das competências afetas à gestão de soluções de TI. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+§ 1º As atividades de organização e de coordenação visam, precipuamente, evitar a dispersão de esforços e de investimentos, promover a integração entre as diversas soluções de TI e subsidiar o CGTI de elementos para análise e manifestação quanto a iniciativas e ações em TI a serem priorizadas. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+§ 2º As atividades de orientação e de supervisão objetivam assegurar o cumprimento das normas relativas à governança de TI, bem como aprimorar os processos de trabalho envolvidos na gestão de soluções de TI. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+§ 3º A orientação às unidades gestoras compreende, entre outros, os seguintes aspectos inerentes à gestão de soluções de TI: (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+a) adoção de procedimentos, métodos, controles e instrumentos que aprimorem o desempenho ou facilitem a gestão das soluções de TI; (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+b) definição de requisitos, regras de negócio ou níveis de serviço compatíveis com as soluções de TI geridas; e (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+c) alteração em processos de trabalho, com vistas a otimizar o desempenho ou a integração das soluções de TI. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+§ 4º A unidade coordenadora da gestão de soluções de TI pode atuar concomitantemente, para determinadas soluções, como unidade gestora. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+§ 5º Cada unidade básica pode designar unidade integrante de sua estrutura para desempenhar a atribuição de unidade coordenadora da gestão de soluções de TI. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+Art. 14. Compete às unidades gestoras de soluções de TI, para efeito do disposto nesta Resolução:
+
+
+I - definir requisitos, regras de negócio e níveis de serviço aplicáveis às soluções de TI sob sua responsabilidade, de modo a maximizar os benefícios para o Tribunal e promover a integração com as demais soluções de TI;
+
+
+II - encaminhar à Setic e à STI demandas de manutenção e descontinuidade de soluções de TI sob sua responsabilidade, observados os planos institucionais e as prioridades da unidade; e
+
+
+III - examinar, em conjunto com a Setic e a STI, a aplicabilidade das novas soluções de TI no negócio do Tribunal, como por exemplo a plataforma na "nuvem" e o "tablet". (NR) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+Parágrafo único. As competências dispostas neste artigo serão exercidas sob a coordenação e orientação da unidade coordenadora da gestão de soluções de TI, quando esta existir. (AC) (Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+
+Art. 15. Os casos omissos na aplicação dos dispositivos desta Resolução serão resolvidos pela CCG, após a manifestação do CGTI.
+
+
+Art. 16. (Revogado) (Resolução-TCU nº 267, de 30/12/2014)
+
+
+
+Art. 17. Fica o Presidente do Tribunal autorizado a expedir os atos necessários à regulamentação desta Resolução.
+
+
+Art. 18. Esta Resolução entra em vigor na data de sua publicação.
+
+
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 7 de dezembro de 2011.
+
+
+BENJAMIN ZYMLER
+
+
+Presidente
+
+
+
+
+
+
+
+Redação anterior:
+
+
+
+.............................................. Por força da Resolução-TCU nº 267, de 30/12/2014...........................................
+
+
+
+Art. 10. O Comitê Gestor de Tecnologia da Informação (CGTI) é órgão colegiado de natureza consultiva e de caráter permanente, com responsabilidades de cunho estratégico e executivo, ao qual compete, para efeito do disposto nesta Resolução:
+
+
+(...)
+
+
+II - coordenar a elaboração dos planos e a definição dos indicadores de desempenho de TI, bem como a implementação das ações planejadas e a mensuração dos resultados obtidos;
+
+
+(...)
+
+
+IV - analisar, manifestar-se a respeito e encaminhar à CCG para aprovação e priorização as demandas que tratem do provimento centralizado e descentralizado de novas soluções de TI de natureza corporativa, assim como demandas de manutenção com impacto significativo sobre os planos de TI;
+
+
+(...)
+
+
+VI - submeter periodicamente à CCG, com as propostas de melhorias e ajustes julgados necessários, informações consolidadas sobre a situação da governança, da gestão e do uso de TI no Tribunal, em especial sobre
+
+
+(...)
+
+
+§ 1º Integram o Comitê Gestor de Tecnologia da Informação os titulares da Secretaria de Infraestrutura de Tecnologia da Informação (Setic), da Secretaria de Soluções de Tecnologia da Informação (STI) e da Assessoria de Segurança da Informação e Governança de TI (Assig).
+
+
+§ 2º Ato da CCG estabelecerá a composição e o funcionamento do CGTI, observado o rodízio na coordenação do Comitê entre os titulares da Secretaria de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação.
+
+
+(...)
+
+
+Art. 11. Compete à Assig, para efeito do disposto nesta Resolução:
+
+
+(...)
+
+
+Art. 12. Compete à Setic e à STI, observadas as respectivas áreas de atuação, para efeito do disposto nesta Resolução:
+
+
+(...)
+
+
+Art. 16. Ficam alterados os §§ 1º e 2º do art. 84 da Resolução TCU nº 240, de 2010, que passam a contar com a seguinte redação:
+
+
+
+.............................................. Por força da Resolução-TCU nº 255, de 17/4/2013...........................................
+
+
+
+Art. 10. (...)
+
+
+(...)
+
+
+§ 2º Ato do Presidente do TCU estabelecerá a composição e o funcionamento do CGTI, observado o rodízio na coordenação do Comitê entre os titulares da Secretaria de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação. (NR)(Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+
+(...)
+
+
+Art. 14. (...)
+
+
+(...)
+
+
+III - examinar a aplicabilidade das novas soluções de TI no negócio do Tribunal, como por exemplo a plataforma na "nuvem" e o "tablet".
+
+
+
+Revogada
+Dispõe sobre a Política de Governança de Tecnologia da Informação do Tribunal de Contas da União (PGTI/TCU).
+.............................................. Por força da Resolução-TCU nº 267, de 30/12/2014...........................................
+
+
+
+Art. 10. O Comitê Gestor de Tecnologia da Informação (CGTI) é órgão colegiado de natureza consultiva e de caráter permanente, com responsabilidades de cunho estratégico e executivo, ao qual compete, para efeito do disposto nesta Resolução:
+
+(...)
+
+II - coordenar a elaboração dos planos e a definição dos indicadores de desempenho de TI, bem como a implementação das ações planejadas e a mensuração dos resultados obtidos;
+
+(...)
+
+IV - analisar, manifestar-se a respeito e encaminhar à CCG para aprovação e priorização as demandas que tratem do provimento centralizado e descentralizado de novas soluções de TI de natureza corporativa, assim como demandas de manutenção com impacto significativo sobre os planos de TI;
+
+(...)
+
+VI - submeter periodicamente à CCG, com as propostas de melhorias e ajustes julgados necessários, informações consolidadas sobre a situação da governança, da gestão e do uso de TI no Tribunal, em especial sobre
+
+(...)
+
+§ 1º Integram o Comitê Gestor de Tecnologia da Informação os titulares da Secretaria de Infraestrutura de Tecnologia da Informação (Setic), da Secretaria de Soluções de Tecnologia da Informação (STI) e da Assessoria de Segurança da Informação e Governança de TI (Assig).
+
+§ 2º Ato da CCG estabelecerá a composição e o funcionamento do CGTI, observado o rodízio na coordenação do Comitê entre os titulares da Secretaria de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação.
+
+(...)
+
+Art. 11. Compete à Assig, para efeito do disposto nesta Resolução:
+
+(...)
+
+Art. 12. Compete à Setic e à STI, observadas as respectivas áreas de atuação, para efeito do disposto nesta Resolução:
+
+(...)
+
+Art. 16. Ficam alterados os §§ 1º e 2º do art. 84 da Resolução TCU nº 240, de 2010, que passam a contar com a seguinte redação:
+
+
+
+.............................................. Por força da Resolução-TCU nº 255, de 17/4/2013...........................................
+
+
+
+Art. 10. (...)
+
+(...)
+
+§ 2º Ato do Presidente do TCU estabelecerá a composição e o funcionamento do CGTI, observado o rodízio na coordenação do Comitê entre os titulares da Secretaria de Tecnologia da Informação e da Secretaria de Soluções de Tecnologia da Informação. (NR)(Resolução - TCU nº 255, de 17/04/2013, DOU de 19/04/2013)
+
+(...)
+
+Art. 14. (...)
+
+(...)
+
+III - examinar a aplicabilidade das novas soluções de TI no negócio do Tribunal, como por exemplo a plataforma na "nuvem" e o "tablet".
+

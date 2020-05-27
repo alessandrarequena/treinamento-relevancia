@@ -1,0 +1,845 @@
+Resolução
+136/2000
+
+
+O TRIBUNAL DE CONTAS DA UNIÃO, de acordo com o disposto no art. 141 do Regimento Interno, aprovado pela Resolução Administrativa 15, de 15 de junho de 1993, resolve:
+
+
+CAPÍTULO I
+
+
+DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º. Os procedimentos relativos ao recebimento, autuação e tramitação de processos e documentos, no âmbito do Tribunal de Contas da União - TCU, observarão as disposições previstas nesta Resolução.
+
+
+Art. 2º. Aplicam-se os dispositivos desta Resolução, no que couber, aos processos de tomada e prestação de contas, incluídas as simplificadas, formados e entregues por meio informatizado, bem como aos processos de outros tipos que passem também a tramitar somente em meio eletrônico.
+
+
+Art. 3º. Todas as ações relativas a processos e documentos serão registradas em sistema informatizado de controle de processos, resguardadas a integridade e a confiabilidade dos dados e obedecidos os critérios de padronização estabelecidos nesta Resolução.
+
+
+Parágrafo único. A tramitação interna à unidade deverá ser, obrigatoriamente, objeto de registro, com identificação do responsável pela etapa do andamento do processo ou documento.
+
+
+Art. 4º. Para efeitos desta Resolução, considera-se:
+
+
+I – anexo: conjunto de peças processuais segregado do corpo do processo, por conveniência da organização dos autos ou por determinação normativa;
+
+
+II – apartado: processo formado a partir da extração de elementos de outro;
+
+
+III – apensamento: junção de dois ou mais processos, para tramitação conjunta;
+
+
+IV – processos conexos: quando seus objetos forem comuns, total ou parcialmente, ainda que um deles seja de maior abrangência;
+
+
+V – processo dependente: quando seu exame depender da decisão final a ser tomada em outro processo;
+
+
+VI – juntada: ato de inserir um documento nos autos de um processo;
+
+
+VII – sigiloso: todo documento, assunto ou processo que, por natureza ou quando a preservação de direitos individuais (Constituição Federal, art. 5º, incisos X, XII e XIV) e o interesse público o exigirem, deva ser de conhecimento restrito e, portanto, requeira medidas especiais para sua segurança e salvaguarda; e
+
+
+VIII – volume: divisão física dos autos, na forma do art. 11 desta Resolução.
+
+
+CAPÍTULO II
+
+
+RECEBIMENTO E AUTUAÇÃO
+
+
+
+Seção I
+
+
+
+
+Recebimento
+
+
+
+Art. 5º. Os documentos sujeitos a exame, bem como os expedientes referentes a processos, serão recebidos na sede do Tribunal pelo Serviço de Protocolo e Expedição (SPT) e nas Secretarias de Controle Externo nos estados pelos respectivos Serviços de Administração (SAs).
+
+
+Parágrafo único. O SPT e os SAs das Secretarias nos estados adotarão procedimentos específicos e padronizados para a atualização do sistema informatizado de controle de processos, relativos ao registro de entrada e tramitação de documentos.
+
+
+Art. 6º. O SPT e os SAs situados nos estados farão o registro da entrada de todas as correspondências oficiais, procederão à sua abertura e as encaminharão à unidade competente.
+
+
+§ 1º As correspondências oficiais de natureza sigilosa ou dirigidas a autoridades serão encaminhadas fechadas aos respectivos destinatários, com indicação no envelope do número de registro no sistema informatizado.
+
+
+§ 2º As correspondências de natureza sigilosa sem identificação da unidade destinatária serão abertas pelo chefe do SPT ou do SA e encaminhada à unidade competente em envelope lacrado com a indicação de sigilo e do respectivo número de registro.
+
+
+§ 3º As denúncias, declarações de bens e rendas e outros documentos que, por sua natureza, devam ser de conhecimento restrito e requeiram tratamento especial serão recebidos e separados como sigilosos, com adoção em sua tramitação dos procedimentos estabelecidos no art. 16 desta Resolução.
+
+
+Art. 7º. Os originais de peças processuais apresentadas via fac-símile ou meio eletrônico deverão ser encaminhados ao Tribunal no prazo de até dez dias a contar da data de seu recebimento e caberá à unidade recebedora a imediata comunicação dessa exigência ao interessado.
+
+
+§ 1º Nos casos de diligência, citação, audiência ou outras providências com prazo estabelecido, os originais deverão ser apresentados em até cinco dias após o prazo fixado para o atendimento.
+
+
+§ 2º Na hipótese de não ser efetivada a substituição nos prazos previstos neste artigo, serão desentranhadas, pelo Relator ou pelo titular da unidade técnica, as respectivas peças e considerados como não praticados todos os atos processuais representados pelas peças desentranhadas.
+
+
+§ 3º A Presidência regulamentará, mediante portaria, o envio de peças processuais ao Tribunal por meio eletrônico.
+
+
+Art. 8º. O disposto nesta Seção não se aplica à apresentação de Tomadas e Prestações de Contas por meio informatizado, prevista no art. 27 da Instrução Normativa nº 12/96, que obedecerá a procedimento próprio.
+
+
+Seção II
+
+
+Autuação
+
+
+Art. 9º. A autuação, a cargo dos Serviços de Administração, dar-se-á com a realização da triagem, capeamento, numeração de folhas e inserção dos dados cadastrais no sistema informatizado de controle de processos.
+
+
+Parágrafo único. Após a autuação, os SAs deverão apor, na capa do processo, etiqueta padronizada com a identificação do Relator, quando houver, de acordo com as normas vigentes que fixam os critérios de distribuição de processos.
+
+
+Art. 10. Os processos serão agrupados conforme a sua natureza, recebendo capas das seguintes cores:
+
+
+I – branca: concessão de aposentadoria, reforma e pensão, ato de admissão de pessoal e assuntos correlatos, inclusive relatórios de auditoria específicos da área;
+
+
+II – rosa: relatório concernente à atividade de fiscalização, desde que não enquadrados no inciso anterior;
+
+
+III – verde: matéria administrativa;
+
+
+IV – vermelha: matéria urgente, independentemente da natureza do processo, conforme previsto no art. 142 do Regimento Interno e nesta Resolução; e
+
+
+V – azul: tomada e prestação de contas, inclusive especiais, e demais processos que não se enquadrem nos incisos anteriores.
+
+
+Parágrafo único. Na hipótese de alteração da natureza do processo, ser-lhe-á afixada nova capa, mantida a anterior, registrada, obrigatoriamente, a referida mudança no sistema informatizado de controle de processos, que deverá preservar o registro histórico das alterações efetuadas.
+
+
+Art. 11. O processo será formado de maneira cronológica e seqüencial, terá numeração de páginas contínua, e deverá ser desdobrado em volumes limitados ao máximo de duzentas páginas.
+
+
+Art. 12. Sempre que o documento a ser juntado ao processo justificar sua disposição à parte dos autos principais, por razões de conveniência para a organização, ou determinação normativa, deverão ser constituídos anexos ao processo.
+
+
+§ 1º Por razões de conveniência para a organização dos autos, poderão ser formados anexos que integrem documentos pertinentes a defesa, audiência, diligência, inspeção.
+
+
+§ 2º Aos anexos aplicam-se as mesmas regras de organização para os autos principais, incluído o desdobramento em volumes.
+
+
+§ 3º Nos casos previstos nesta Resolução e no Regimento Interno, os documentos referentes a determinado processo que, pela sua própria natureza, requeiram tratamento urgente deverão constituir anexo, que receberá capeamento na cor vermelha e tramitará por cima do processo até sua apreciação final.
+
+
+§ 4º O anexo correspondente a recurso conterá etiqueta padronizada com a indicação da natureza do processo a que se refira e a identificação do Relator responsável pela apreciação do recurso, tão logo essa informação esteja disponível.
+
+
+Art. 13. Os Serviços de Administração não autuarão documento referente a processo de competência de outra unidade técnica, devendo registrar sua entrada e remetê-lo à unidade competente.
+
+
+Art. 14. Os dados referentes aos processos de qualquer natureza que tenham recebido tratamento sigiloso serão inseridos no sistema informatizado de controle de processos, que deverá prover mecanismos de proteção que restrinjam o acesso somente aos servidores do Tribunal para tanto credenciados.
+
+
+Art. 15. Mediante despacho fundamentado, o titular da unidade técnica determinará o cancelamento da autuação de processo de tomada ou prestação de contas que não contenha todas as peças exigidas pelas normas em vigor, com a conseqüente restituição à origem e permanência do órgão ou entidade a que o processo se refira na condição de inadimplente no dever de prestar contas.
+
+
+CAPÍTULO III
+
+
+TRAMITAÇÃO
+
+
+
+Seção I
+
+
+
+Salvaguarda de processos e documentos de natureza sigilosa
+
+
+Art. 16. Deverão ser adotadas medidas de segurança e salvaguarda na formalização e tramitação de documentos e de processos considerados sigilosos, quais sejam:
+
+
+I – aposição da indicação de SIGILOSO na capa, se houver; e
+
+
+II – acondicionamento em envelope lacrado, na expedição e tramitação, no qual constará a indicação de SIGILOSO, o número do processo, o nome e a função do destinatário ou de seu substituto formalmente designado ou do superior imediato, devendo o envelope ser assinado pelo remetente e pelo portador nominalmente identificado, além da indicação: "ESTE ENVELOPE SOMENTE PODERÁ SER ABERTO PELO DESTINATÁRIO, QUE É RESPONSÁVEL PELA MANUTENÇÃO DO SIGILO DO DOCUMENTO NELE CONTIDO".
+
+
+Parágrafo único. Em nenhuma hipótese, os relatórios pertinentes a matérias sigilosas, juntados aos processos, ou isoladamente, tramitarão em caráter ostensivo pelas unidades da Secretaria do Tribunal de Contas da União, devendo seguir o seu curso em envelopes lacrados, nos quais constará a referência ao processo principal, com a indicação de SIGILOSO e a respectiva assinatura do remetente, sem a indicação, todavia, do assunto focalizado.
+
+
+
+Seção II
+
+
+
+Tramitação anterior à instrução
+
+
+Art. 17. Observadas a natureza do assunto e a vinculação da clientela, os documentos e processos serão remetidos à unidade responsável pela instrução, com exceção de recursos, denúncias, representações e consultas, que deverão ser encaminhados ao Relator competente, para que previamente se pronuncie sobre os requisitos de admissibilidade.
+
+
+Art. 18. O documento referente a processo já autuado será, após o competente registro, encaminhado à unidade em que se encontre o processo para ser juntado aos autos, exceto se outro procedimento estiver previsto nesta Resolução ou em outros atos normativos expedidos pelo Tribunal.
+
+
+Art. 19. Estando o processo fora do Tribunal, os documentos a ele referentes serão encaminhados à unidade competente, que os autuará com novo número, encaminhando o novo processo ao Relator, com uma das seguintes propostas:
+
+
+I – requisição do processo original, para imediato apensamento dos novos autos formados, se a urgência da matéria assim o requerer;
+
+
+II – tramitação independente dos novos autos, se a matéria comportar apreciação distinta;
+
+
+III - sobrestamento de sua apreciação e posterior apensamento ao processo original, nos demais casos.
+
+
+
+Seção III
+
+
+
+Tramitação após a instrução
+
+
+Art. 20. Os processos de tomada ou prestação de contas, os recursos de reconsideração, revisão, divergência e pedido de reexame, bem como os processos relativos a atos de admissão de pessoal e de concessão de aposentadoria, reforma e pensão, serão encaminhados ao Ministério Público junto ao TCU, para fins do disposto no art. 118, inciso III, do Regimento Interno.
+
+
+§ 1º O processo que contiver proposta de decisão preliminar será encaminhado pela unidade técnica diretamente ao Relator.
+
+
+§ 2º Havendo delegação de competência para efetivação de medidas preliminares às decisões do Tribunal, essas serão processadas no âmbito da unidade técnica competente.
+
+
+Art. 21. O Ministério Público, após pronunciar-se no processo, deverá encaminhá-lo diretamente ao gabinete do Relator.
+
+
+Art. 22. Os processos não abrangidos pelo art. 20 desta Resolução serão instruídos pelas unidades técnicas e encaminhados ao gabinete do Relator, ressalvadas as exceções previstas nesta Resolução.
+
+
+Parágrafo único. A tramitação dos processos referentes a atos de admissão de pessoal e de concessão de aposentadoria, reforma ou pensão observará o disposto na Instrução Normativa nº 16, de 6 de outubro de 1997.
+
+
+
+Seção IV
+
+
+
+Tramitação após a apreciação do Tribunal
+
+
+Art. 23. Os processos incluídos em pauta, após a deliberação do Tribunal e a adoção das providências a cargo da Secretaria-Geral das Sessões - SGS, serão encaminhados à unidade técnica competente, para fins de acompanhamento das determinações realizadas e demais providências necessárias.
+
+
+Art. 24. Os processos submetidos à deliberação do Tribunal mediante relação, bem como aqueles objeto de decisão preliminar do Relator, serão remetidos pelo respectivo gabinete às unidades técnicas competentes para os fins previstos no artigo anterior.
+
+
+Art. 25. Os processos referentes a admissão de pessoal e concessão de aposentadoria, reforma ou pensão, após apreciação do Tribunal, serão encaminhados à unidade técnica competente para fins de registro e demais providências que se fizerem necessárias.
+
+
+Art. 26. No caso de contas julgadas irregulares, após transcorridos os prazos para interposição de embargos de declaração, de recurso de reconsideração e de pedido de reexame, deverá ser providenciado, de imediato, o registro no cadastro de responsáveis por contas julgadas irregulares, observada a regulamentação própria.
+
+
+CAPÍTULO IV
+
+
+APENSAMENTO DE PROCESSOS E FORMAÇÃO DE APARTADOS
+
+
+Seção I
+
+
+Apensamento de processos
+
+
+Art. 27. Processos que tenham relação de dependência ou conexão poderão ser apensados, desde que seja conveniente a tramitação conjunta.
+
+
+Parágrafo único. A tramitação dos processos passará a se efetivar no processo principal, o qual absorverá os atos processuais pendentes no processo apensado.
+
+
+Art. 28. Se, por conveniência ou dificuldades técnicas ou operacionais, for aconselhável a tramitação em separado, poderá ocorrer o desapensamento de processos, que deverão retornar à unidade técnica e ao Relator originalmente competentes, fazendo-se neles incluir os atos processuais a eles relativos praticados nos autos do processo ao qual estava apensado, mediante desentranhamento das peças originais ou, na sua impossibilidade, por cópia.
+
+
+Art. 29. São competentes para determinar o apensamento ou desapensamento de processos os Relatores, as Câmaras e o Plenário.
+
+
+Parágrafo único. Conflitos de competência decorrentes de apensamento ou desapensamento de processos serão resolvidos:
+
+
+I – pela Câmara, se os Relatores integrarem a mesma Câmara;
+
+
+II – pelo Plenário, se os Relatores integrarem Câmaras diferentes.
+
+
+
+Seção II
+
+
+
+Formação de apartados
+
+
+Art. 30. Verificada a necessidade de ser examinada a matéria em processo distinto, deverá ser formado processo apartado mediante o desentranhamento ou reprodução por cópia das peças do processo original.
+
+
+§ 1º O processo apartado constituído estará sujeito às mesmas regras de formação e organização estabelecidas para os demais processos.
+
+
+§ 2º Quando a instrução do processo apartado constituído for de competência de outra unidade, o processo será a ela encaminhado.
+
+
+Art. 31. Aplicam-se as regras do art. 29 desta Resolução quanto à competência para determinação de formação de apartados.
+
+
+CAPÍTULO V
+
+
+ENCERRAMENTO
+
+
+Art. 32. O processo será encerrado no sistema informatizado de controle de processos nas seguintes situações:
+
+
+I – quando for apensado a outro processo;
+
+
+II – quando houver decisão do Relator, das Câmaras, do Plenário ou da Presidência pelo seu arquivamento, após terem sido efetuadas as comunicações determinadas;
+
+
+III – nos casos de decisões definitivas ou terminativas, após a adoção das providências nelas determinadas e a efetivação das competentes comunicações;
+
+
+IV – após o registro de que trata o art. 80, inciso VI, alínea "b", do Regimento Interno;
+
+
+V – nos casos em que o processo tenha cumprido o objetivo para o qual foi constituído.
+
+
+Parágrafo único. Nas hipóteses dos incisos III, IV e V, o processo será encerrado mediante despacho do titular da respectiva unidade, o qual determinará que se dê ciência dos motivos do encerramento aos interessados.
+
+
+Art. 33. A unidade que constituir o processo de cobrança executiva devolverá os autos originários à unidade que os instruiu, informando o número dos autos de execução constituídos.
+
+
+Parágrafo único. A unidade que instruiu o processo providenciará o seu encerramento, observado o disposto no inciso III do artigo anterior.
+
+
+Art. 34. O processo de cobrança executiva com decisão do Relator ou do Tribunal pelo encerramento ou arquivamento deverá ser encaminhado à unidade responsável pela sua constituição para fins de anotações e posterior remessa à unidade técnica competente, para encerramento.
+
+
+CAPÍTULO VI
+
+
+PRAZOS PARA TRAMITAÇÃO E INSTRUÇÃO DE PROCESSOS
+
+
+Art. 35. Para o exame e tramitação de processos, serão observados os seguintes prazos, salvo disposição em contrário:
+
+
+I – dois dias para a realização da triagem, da autuação e do encaminhamento dos processos à unidade competente pela instrução;
+
+
+II – noventa dias para a secretaria de controle externo instruir os processos e concluir quanto ao mérito, distribuídos da seguinte forma:
+
+
+a) cinco dias para a distribuição do processo ao analista encarregado da instrução;
+
+
+b) sessenta dias para a instrução;
+
+
+c) quinze dias para a emissão de parecer pelo diretor da divisão técnica correspondente;
+
+
+d) dez dias para a emissão de parecer pelo secretário da unidade técnica e encaminhamento do processo à consideração superior.
+
+
+III – sessenta dias para o Ministério Público junto ao TCU emitir parecer;
+
+
+IV – noventa dias para o Relator submeter os processos à apreciação do Plenário ou das Câmaras;
+
+
+V – dez dias para a elaboração e expedição das comunicações decorrentes de decisões do Tribunal ou de despacho da Presidência ou do Relator; e
+
+
+VI – trinta dias para a unidade responsável formalizar e remeter ao Ministério Público o processo de cobrança executiva.
+
+
+§ 1º Os prazos previstos neste artigo poderão ser prorrogados em até o dobro, levando-se em conta a complexidade da matéria, a critério do Relator.
+
+
+§ 2º Os prazos de que trata este artigo serão interrompidos quando, no exame do processo, forem realizadas diligências ou adotadas outras providências saneadoras, bem como nos afastamentos regimentais do Relator sem indicação de substituto, devendo, nesses casos, o prazo ser reiniciado, após cessadas as causas que o interromperam.
+
+
+§ 3º O prazo a que se refere o inciso V deste artigo será contado a partir do recebimento do processo pela unidade competente pela elaboração e expedição das comunicações, nos termos do disposto no art. 7º da Resolução nº 8/93.
+
+
+§ 4º Não se aplica o disposto neste artigo aos processos de acompanhamento pelas unidades técnicas ou de cobrança executiva que, pela sua natureza diferenciada, não incorrerão em prazos para vencimento.
+
+
+§ 5º Os processos administrativos, ante a sua singularidade, não incorrerão nos prazos estabelecidos nesta seção, ficando adstritos aos eventuais prazos estabelecidos para cada caso particular.
+
+
+CAPÍTULO VII
+
+
+RECURSOS
+
+
+Art. 36. Os recursos que derem entrada no Tribunal serão encaminhados, para fins de formação de anexo ao processo a que se refira, na forma do art. 12, §§ 3º e 4º desta Resolução, à unidade técnica responsável por sua instrução original, a qual, no prazo de dois dias e após efetuar exame preliminar de admissibilidade em formulário específico, encaminhará o processo:
+
+
+I – ao Relator que proferiu o despacho recorrido, quando se tratar de agravo;
+
+
+II – ao Relator que proferiu o voto vencedor da deliberação recorrida ou ao que lhe houver sucedido, quando se tratar de embargos de declaração; e
+
+
+III – à Secretaria-Geral das Sessões, para inclusão em sorteio de novo Relator, quando se tratar de recurso de reconsideração, recurso de revisão, pedido de reexame ou recurso de divergência a que se refere o art. 234 do Regimento Interno.
+
+
+Parágrafo único. Para a tramitação de contestações apresentadas ao Tribunal, serão observadas as normas específicas que disciplinam a matéria.
+
+
+Art. 37. O Relator apreciará a admissibilidade do recurso no prazo de dez dias, contados a partir da entrada do recurso em seu gabinete.
+
+
+§ 1º Entendendo ser admissível o recurso, o Relator determinará as providências para sua instrução, saneamento e julgamento.
+
+
+§ 2º Entendendo não ser admissível o recurso, o Relator o submeterá ao Colegiado, com proposta de não-conhecimento, ouvido o Ministério Público.
+
+
+§ 3º No caso de embargos de declaração e de agravo, poderá o Relator submetê-los diretamente ao órgão Colegiado, ressalvada a possibilidade de reconsiderar a decisão agravada.
+
+
+Art. 38. A unidade técnica incumbida da instrução do recurso adotará, em caráter de urgência, as medidas necessárias à atualização do cadastro de responsáveis por contas julgadas irregulares.
+
+
+CAPÍTULO VIII
+
+
+SOLICITAÇÕES AO TRIBUNAL
+
+
+
+Seção I
+
+
+
+Disposições gerais
+
+
+Art. 39. As solicitações encaminhadas ao Tribunal serão classificadas, conforme seu conteúdo, em:
+
+
+I – solicitações de realização de auditoria;
+
+
+II – solicitações de informação;
+
+
+III – pedidos de vista, de cópia, de juntada de documentos e de sustentação oral; e
+
+
+IV – pedidos de certidões.
+
+
+Art. 40. As solicitações serão apreciadas:
+
+
+I – pela Presidência, quando se referirem a assuntos não processados, processos encerrados, processos de cobrança executiva, procedimentos judiciais relativos à área administrativa do Tribunal ou matéria já apreciada e que não seja objeto de recurso;
+
+
+II – pelo Plenário ou pelo Relator, a critério deste, quando se referirem a processos em tramitação;
+
+
+III – pelo Plenário ou pelo Relator de cuja lista conste o órgão ou a entidade envolvida, a critério deste, nas demais situações.
+
+
+Art. 41. As solicitações feitas pelo Congresso Nacional, por quaisquer de suas Casas e comissões técnicas ou de inquérito têm tramitação preferencial e são consideradas de natureza urgente.
+
+
+Art. 42. As solicitações de informações, ressalvado o disposto no art. 45, e de realização de auditorias serão autuadas pelas unidades técnicas e encaminhadas, após exame preliminar, ao Relator ou à Presidência, conforme o caso.
+
+
+Parágrafo único. A ressalva do caput deste artigo não se aplica às solicitações do Congresso Nacional.
+
+
+
+Seção II
+
+
+
+Solicitações de realização de auditoria
+
+
+Art. 43. São competentes para solicitar a realização de auditorias:
+
+
+I – Presidente da Câmara dos Deputados;
+
+
+II – Presidente do Senado Federal; e
+
+
+III – Presidentes de comissões técnicas e de inquérito do Congresso Nacional, do Senado Federal ou da Câmara de Deputados, quando por aquelas aprovadas.
+
+
+Art. 44. As unidades técnicas encaminharão ao Relator as solicitações de auditoria dentro de vinte dias, contados a partir de seu recebimento, cabendo-lhe submeter a matéria ao Plenário no prazo de trinta dias, contados a partir de seu ingresso no gabinete.
+
+
+Parágrafo único. O Plenário ou o Relator, a critério deste, não conhecerá da solicitação de auditoria encaminhada ao Tribunal por quem não esteja legitimado.
+
+
+
+Seção III
+
+
+
+Solicitações de informação
+
+
+Art. 45. As solicitações de informação sobre processos já autuados, bem como sobre trabalhos realizados e já apreciados pelo Tribunal, não serão autuadas, devendo ser encaminhadas à unidade técnica competente para juntada ao respectivo processo e adoção das demais providências estabelecidas no art. 42.
+
+
+§ 1º Deverão ser analisados, durante o exame preliminar, os aspectos operacionais e a existência de processos sobre a matéria enfocada, formulando-se proposta sobre a forma de atendimento, incluindo, quando couber, minuta de expediente para resposta ao interessado.
+
+
+§ 2º Caso a informação solicitada se encontre pendente de deliberação, será comunicada ao solicitante essa situação, sem prejuízo do pronto atendimento com as informações já disponíveis.
+
+
+§ 3º Se a informação solicitada, constituída de um único documento, fizer referência a mais de um processo em tramitação, deverão ser-lhe extraídas cópias, juntando-se o original ao processo primeiramente referenciado, e as cópias aos demais, remetendo-se cada um deles ao respectivo Relator, ou à Presidência, conforme as respectivas competências.
+
+
+§ 4º Das informações a respeito de processo em andamento constará comunicação sobre a natureza dos autos, quando se tratar de matéria sigilosa.
+
+
+Art. 46. O prazo para atendimento das informações solicitadas será de trinta dias, contados de seu recebimento, sendo vinte dias destinados aos trabalhos de levantamento efetuados pelas unidades que integram a Secretaria do Tribunal e dez dias ao gabinete do Relator ou à Presidência, conforme o caso.
+
+
+Parágrafo único. Se entender que a solicitação somente deva ser atendida depois da apreciação ou julgamento do processo pelo Tribunal, o Relator determinará, por despacho, que a unidade técnica competente comunique ao solicitante que a informação será fornecida tão logo o Tribunal tenha proferido decisão a respeito.
+
+
+Art. 47. São competentes, no âmbito do Congresso Nacional, para solicitar informações ao Tribunal de Contas da União:
+
+
+I – mesas do Senado Federal e da Câmara dos Deputados;
+
+
+II – líderes partidários;
+
+
+III – presidentes de comissões técnicas e de inquérito;
+
+
+IV – membros da Procuradoria Parlamentar da Câmara dos Deputados; e
+
+
+V – membros do Congresso Nacional.
+
+
+Parágrafo único. Quando as solicitações do Congresso Nacional se referirem a processos que contenham informações de natureza sigilosa, será proposta a aplicação das vedações previstas nos Regimentos Internos da Câmara dos Deputados e do Senado Federal, respectivamente.
+
+
+Art. 48. Nos termos do art. 4º da Lei nº 9.028/95, as solicitações de informação formuladas pela Advocacia-Geral da União - AGU, na defesa dos direitos ou interesses da União, terão tratamento preferencial e serão atendidas no prazo nelas assinalado.
+
+
+Parágrafo único. As solicitações de que trata este artigo serão imediatamente encaminhadas à Presidência ou ao gabinete do Relator, conforme o disposto no art. 40 desta Resolução.
+
+
+Art. 49. Quando as informações solicitadas pela AGU para a instrução de feitos judiciais se referirem a atos praticados por dirigentes de unidades da Secretaria do TCU, estes incumbir-se-ão da remessa dos informes e da documentação a quem os houver solicitado, no prazo de dez dias, contados do recebimento, se outro não for estipulado no expediente, dando ciência do fato à Presidência.
+
+
+Art. 50. Após o atendimento das solicitações, na forma estabelecida nesta Resolução, o titular da unidade incumbida de formular a resposta à AGU comunicará o fato à Consultoria Jurídica - Conjur para fins de controle e monitoramento.
+
+
+Art. 51. Fica a Conjur incumbida de elaborar mensalmente demonstrativo das ações judiciais em curso nos órgãos do Poder Judiciário que digam respeito ao Tribunal de Contas da União.
+
+
+Parágrafo único. O demonstrativo de que trata este artigo será disponibilizado em meio eletrônico à Presidência, aos Senhores Ministros, ao Procurador-Geral e aos dirigentes das unidades básicas.
+
+
+Art. 52. Os membros do Ministério Público da União, nos termos do art. 26, inciso I, letra ‘b’, da Lei nº 8.625/93, possuem legitimidade para solicitar informações ao Tribunal de Contas da União.
+
+
+Parágrafo único. Além das autoridades mencionadas nesta Seção, aos Tribunais de Contas Estaduais e de Municípios, Conselhos de Contas Municipais, magistrados e membros do Departamento da Polícia Federal é facultada a obtenção de informações sobre processos em andamento no Tribunal, na forma prevista nas respectivas leis orgânicas.
+
+
+Art. 53. A solicitação de informação formulada em razão de mandado de segurança impetrado contra atos do Tribunal deverá, após autuado, ser imediatamente encaminhada à Presidência, a quem cabe atender a solicitação no prazo de dez dias, se não houver outro estipulado.
+
+
+§ 1º A Presidência solicitará à unidade técnica competente ou à Conjur os elementos necessários ao atendimento da solicitação.
+
+
+§ 2º Quando a solicitação for recebida em Secretaria de Controle Externo situada fora da sede, será encaminhada imediatamente à Presidência do Tribunal, sem prejuízo da adoção de providências para agilização do atendimento.
+
+
+§ 3º As informações deverão ater-se, principalmente, à decisão objeto do mandado de segurança e ao relatório e voto que a fundamentaram e, subsidiariamente, a outros elementos considerados de interesse à defesa.
+
+
+Art. 54. Na hipótese de solicitação de informações decorrentes de mandado de segurança e de outros procedimentos judiciais contra atos de dirigente de unidade da Secretaria do Tribunal, o atendimento será prestado pela respectiva unidade no prazo de dez dias, contados do recebimento, se outro não for estipulado no expediente, dando conhecimento do fato à Presidência.
+
+
+Parágrafo único. O titular da unidade poderá solicitar à Presidência o apoio da Conjur com vistas à instrução a que se refere este artigo.
+
+
+
+Seção IV
+
+
+
+Pedidos de vista, de cópia, de juntada de documentos ou de sustentação oral
+
+
+Art. 55. Os pedidos de vista, cópia ou juntada de documentos, após o competente registro, serão encaminhados, nos termos do art. 18 desta Resolução, à unidade em que se encontre o respectivo processo.
+
+
+§ 1º Não será permitida a juntada de novos elementos quando o processo já tiver sido incluído em pauta para julgamento.
+
+
+§ 2º Havendo delegação de competência à unidade técnica para a autorização do procedimento, caberá ao seu titular deferir o pedido ou, caso entenda haver motivo para o indeferimento do pleito, submeter a matéria ao Relator ou à Presidência, conforme o caso, observado o disposto no Capítulo II da Resolução n° 36/95.
+
+
+§ 3° Qualquer pessoa é parte legítima para solicitar, à Presidência, vista e cópia de processos encerrados, que tenham sido objeto de deliberação pelo Tribunal com decisão definitiva ou terminativa e da qual não caiba mais recurso, ressalvados os casos em que os autos tenham sido mantidos em sigilo pelo órgão Colegiado.
+
+
+§ 4º Qualquer servidor do Tribunal de Contas da União poderá autenticar cópias reprográficas, quando solicitado.
+
+
+§ 5º A concessão de vista de processo de denúncia observará o disposto no art. 66, § 4º, desta Resolução.
+
+
+Art. 56. Havendo autorização para concessão de vista ou cópia e não tendo a parte comparecido para obtê-la no prazo de cinco dias úteis, a contar da ciência da comunicação, a unidade dará seqüência à instrução e tramitação do processo.
+
+
+Parágrafo único. Quando o processo for encaminhado a outra unidade para os fins previstos neste artigo e a parte não comparecer no prazo fixado, o processo será restituído à unidade de origem.
+
+
+Art. 57. Para recebimento das cópias, o interessado deverá apresentar o comprovante do depósito em conta bancária do Tribunal, referente ao recolhimento da importância correspondente ao ressarcimento dos custos.
+
+
+Parágrafo único. O recolhimento será dispensado nas solicitações de interesse de órgão, entidade da Administração Pública ou de membros do Congresso Nacional.
+
+
+Art. 58. Deverão constar do processo os pedidos de vista ou cópia, os comprovantes dos recolhimentos, se for o caso, bem como os respectivos termos de recebimento e de juntada de documentos.
+
+
+Art. 59. O pedido de sustentação oral, que poderá ser formulado pelo interessado ou seu representante legal, até o início da Sessão, será apreciado pelo Presidente do Colegiado, que determinará sua juntada ao processo.
+
+
+Seção V
+
+
+Pedidos de Certidões
+
+
+Art. 60. O pedido de certidão por parte do denunciante, apresentado nos termos do art. 214 do Regimento Interno, será encaminhado, no prazo de dois dias, à unidade técnica competente.
+
+
+Parágrafo único. A unidade técnica registrará o pedido de certidão e o juntará ao processo correspondente, encaminhando-o à Presidência, acompanhado de minuta de certidão, observado o disposto no Capítulo V da Resolução nº 36/95, no prazo de dez dias, a contar da data de seu recebimento.
+
+
+Art. 61. As certidões requeridas por pessoa física ou jurídica, para defesa de seus direitos ou esclarecimentos de interesse particular, coletivo ou geral, serão expedidas pela Presidência, sem prejuízo da faculdade de que trata o parágrafo único do art. 94 do Regimento Interno, observados os prazos previstos no artigo anterior.
+
+
+§ 1º Para os fins previstos no caput deste artigo, os pedidos de certidões relativos a assuntos não processados, serão autuados e instruídos pela unidade técnica competente, considerando os julgados do Tribunal, o cadastro de responsáveis por contas julgadas irregulares, bem como outras fontes subsidiárias, com posterior encaminhamento à Presidência de minuta da certidão solicitada.
+
+
+§ 2º Relacionando-se o pedido de certidão a processo encerrado ou em tramitação, a unidade técnica competente procederá ao seu registro e juntada ao processo correspondente, encaminhando-o à Presidência, acompanhado de minuta de certidão, observando as demais disposições do parágrafo anterior.
+
+
+§ 3º No caso de pedido de certidão informando da existência de recurso, apreciada a admissibilidade deste, na forma do art. 37 desta Resolução, o Relator, caso não o entenda admissível, submeterá o feito ao Colegiado na primeira sessão subseqüente, observados os arts. 77 e 78 do Regimento Interno.
+
+
+§ 4º Considerado o recurso admissível pelo Relator ou sendo conhecido pelo Colegiado, os autos serão remetidos à 11ª Secex, que, no prazo de dois dias, elaborará minuta de certidão e a submeterá à apreciação da Presidência.
+
+
+§ 5º Após a expedição da certidão, os autos serão encaminhados à unidade técnica competente ou, caso se trate de embargos de declaração ou agravo, ao respectivo Relator, para prosseguimento do exame do recurso.
+
+
+Art. 62. Quando se tratar de matéria cujo sigilo seja considerado pelo Tribunal como imprescindível à segurança da sociedade e do Estado, o requerente será informado sobre a impossibilidade de atendimento da solicitação.
+
+
+CAPÍTULO IX
+
+
+CONSULTAS
+
+
+Art. 63. As consultas serão imediatamente encaminhadas ao Relator em cuja lista conste o órgão ou entidade a que se refira a matéria.
+
+
+Parágrafo único. Quando a consulta não se referir explicitamente a determinado órgão ou entidade, o processo será encaminhado ao Relator de cuja lista conste o órgão de controle interno a que se vincule a autoridade consulente.
+
+
+Art. 64. O Relator, após verificar os requisitos de admissibilidade previstos no art. 216 do Regimento Interno, determinará o encaminhamento do processo à unidade técnica competente, para autuação e adoção das providências pertinentes.
+
+
+Parágrafo único. O Relator determinará liminarmente o arquivamento de consulta que não atenda aos requisitos de admissibilidade ou que verse sobre caso concreto, dando-se ciência ao consulente.
+
+
+CAPÍTULO X
+
+
+DENÚNCIA E REPRESENTAÇÃO
+
+
+Art. 65. A comunicação de irregularidade ou ilegalidade que deva ser apurada pelo Tribunal, após o competente registro de entrada, será encaminhada em envelope lacrado e com a tarja de sigiloso ao gabinete do Relator que decidirá, atendidos os requisitos de admissibilidade, pela autuação como denúncia, quando assinada por quem legitimado a denunciar, nos termos do art. 74, § 2º, da Constituição Federal, ou representação, facultado, ainda, ao Relator determinar, no último caso, a tramitação em caráter sigiloso.
+
+
+Parágrafo único. Não conhecida a comunicação como denúncia nem representação poderá o Relator, por despacho, determinar o arquivamento do feito ou a adoção de outras medidas pertinentes.
+
+
+
+Seção I
+
+
+
+Denúncia
+
+
+Art. 66. O Relator, após verificar os requisitos de admissibilidade previstos no art. 213 do Regimento Interno, determinará o encaminhamento da denúncia à unidade técnica competente para autuação em caráter sigiloso e adoção das providências que se fizerem necessárias.
+
+
+§ 1º O Relator, mediante despacho fundamentado, determinará liminarmente o arquivamento de denúncia que não atenda aos requisitos de admissibilidade, dando-se ciência ao denunciante.
+
+
+§ 2º Tratando-se de denúncia formulada contra ato de dirigente regional de órgão ou entidade sujeita à jurisdição do Tribunal, a apuração dos fatos competirá à Secretaria de Controle Externo do Estado em que se localizar a projeção regional do órgão ou entidade.
+
+
+§ 3º O cancelamento do sigilo que recai sobre o processo de denúncia poderá ser determinado pelo Plenário, pelas Câmaras ou pelo Relator e será efetivado pela unidade técnica competente, preservando-se com relação à parte dos autos na qual conste a identificação do denunciante.
+
+
+§ 4º A fim de resguardar o sigilo do denunciante, o documento original da denúncia encaminhada ao Tribunal, no qual consta sua identificação, constituirá anexo aos autos, do qual em nenhuma hipótese será concedida vista, sendo a unidade principal do processo constituída das demais peças de instrução, incluída cópia do documento original da denúncia, devendo ser tarjados quaisquer sinais que possam identificar o denunciante, tais como papel timbrado, nome, assinatura, endereço, qualificação profissional, etc.
+
+
+§ 5º O Relator determinará, mediante despacho fundamentado, o arquivamento das denúncias que, após as diligências pertinentes, revelarem-se improcedentes, em conformidade com o parecer da unidade técnica responsável pela instrução, dando-se ciência ao denunciante.
+
+
+Art. 67. As denúncias publicadas na imprensa serão objeto de representação ao respectivo Relator, nos termos do art. 65 desta Resolução, quando verificados pela unidade técnica competente indícios concernentes às irregularidades ou ilegalidades denunciadas.
+
+
+
+Seção II
+
+
+
+Representação
+
+
+Art. 68. Serão autuados como representação os expedientes originários de órgãos e autoridades legitimados que comuniquem a ocorrência de irregularidades cuja apuração esteja inserida na competência do TCU.
+
+
+Art. 69. Têm legitimidade para representar ao Tribunal de Contas da União:
+
+
+I – o Ministério Público da União, nos termos do art. 6º, inciso XVIII, alínea "c", da Lei Complementar nº 75/93;
+
+
+II – os órgãos de controle interno, em cumprimento ao art. 74, § 1º, da Constituição Federal;
+
+
+III – os Senadores da República, Deputados Federais, Estaduais e Distritais, Juízes, servidores públicos ou outras autoridades que comuniquem a ocorrência de irregularidades de que tenham conhecimento em virtude do cargo que ocupem;
+
+
+IV – os Tribunais de Contas dos Estados, do Distrito Federal, de Município ou dos Municípios, Câmaras Municipais e Ministério Público Estadual;
+
+
+V – as equipes de inspeção ou de auditoria, nos termos do art. 209 do Regimento Interno;
+
+
+VI – as unidades técnicas do Tribunal; e
+
+
+VII – outros órgãos, entidades ou pessoas que detenham essa prerrogativa por força de lei específica.
+
+
+§ 1º Aplicam-se às representações os dispositivos constantes do art. 142, inciso V, § 3º, do art. 212 e do art. 213 e seu parágrafo único do Regimento Interno.
+
+
+§ 2º As representações serão encaminhadas imediatamente ao Relator que, após verificar o preenchimento dos requisitos de admissibilidade, determinará a autuação e o encaminhamento do processo à unidade técnica competente para instrução.
+
+
+§ 3º Tratando-se de representação formulada contra ato de dirigente regional de órgão ou entidade sujeita à jurisdição do Tribunal, a apuração dos fatos competirá à Secretaria de Controle Externo do Estado em que se localizar a projeção regional do órgão ou entidade.
+
+
+§ 4º As representações, a critério do Relator, poderão ser consideradas de natureza urgente, tendo tramitação preferencial.
+
+
+§ 5º O Relator determinará, mediante despacho fundamentado, o arquivamento das representações que, após as diligências pertinentes, revelarem-se improcedentes.
+
+
+CAPÍTULO XI
+
+
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 70. Compete à Coordenadoria de Tecnologia da Informação-Cotec gerenciar e coordenar os sistemas necessários ao efetivo controle, acompanhamento e tramitação de processos.
+
+
+Parágrafo único. Fica a Cotec encarregada de efetuar, no prazo de 60 dias, as adequações necessárias nos sistemas de informática do Tribunal, de maneira a possibilitar o integral cumprimento às disposições estabelecidas nesta Resolução.
+
+
+Art. 71. Até que seja considerada confiável e aprovada em definitivo nova sistemática para a desconcentração da manutenção do cadastro de responsáveis por contas julgadas irregulares, a 11ª Secex continuará obrigada a executar todas as funções relativas à gerência do referido cadastro, competindo às unidades técnicas solicitar-lhe as atualizações necessárias quando forem demandadas operações sobre o cadastro.
+
+
+Parágrafo único. A solicitação referida no caput deste artigo decorrente do disposto no art. 38, § 2º, desta Resolução, será feita por meio de memorando e conterá, obrigatoriamente, os elementos estabelecidos no art. 5° da Resolução n° 113/98 .
+
+
+Art. 72. Até que a manutenção e a consulta do cadastro de responsáveis por contas julgadas irregulares estejam plenamente disponíveis para todas as unidades técnicas, os pedidos de certidão mencionados no art. 57, parágrafo único, desta Resolução, deverão ser encaminhados pela unidade responsável pela instrução à 11ª Secex, a qual caberá a elaboração dos documentos requeridos.
+
+
+Art. 73. Fica a Presidência autorizada a expedir os atos necessários à regulamentação desta Resolução, incluída a padronização de documentos e formulários, a definição dos tipos de processos adotados no âmbito do Tribunal e os procedimentos relativos à sua tramitação e registro dos resultados do julgamento e acompanhamento do processo.
+
+
+Art. 74. Os recursos que atualmente se encontram na 10ª Secex sem apreciação inicial serão remetidos às unidades responsáveis pela instrução original para o exame preliminar de admissibilidade, de que trata o art. 36 desta Resolução, e posterior envio para o gabinete do Relator, para que seja proferido o juízo de admissibilidade do recurso, nos moldes estabelecidos no art. 37 desta Resolução.
+
+
+Parágrafo único. Os processos de que trata este artigo não serão submetidos a novo sorteio de Relator.
+
+
+Art. 75. Esta Resolução entra em vigor na data de sua publicação, revogadas as Resoluções nº 77, de 4 de dezembro de 1996; nº 105, de 18 de março de 1998; nº 110, de 6 de maio de 1998; nº 114, de 24 de junho de 1998; nº 120, de 10 de dezembro de 1998, e nº 125, de 3 de novembro de 1999, bem como os incisos I, II e III do art. 3º e o § 7º do art. 2º da Resolução TCU nº 91/97.
+
+
+TCU, Sala de Sessões Ministro Luciano Brandão Alves de Souza, em 30 de agosto de 2000.
+
+
+IRAM SARAIVA
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Revogada
+Estabelece procedimentos para recebimento, autuação e tramitação de processos e documentos no âmbito do Tribunal de Contas da União.
+
+

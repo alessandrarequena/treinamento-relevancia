@@ -1,0 +1,1112 @@
+Portaria
+220/2005
+Aprova a realização do Projeto "Contratação de Produtos e Serviços pelo TCU (Contratar)" e designa seu gestor.
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução nº 140, de 13 de dezembro de 2000, e na Portaria-TCU nº 176, de 28 de julho de 2003, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto "Contratação de Produtos e Serviços pelo TCU (Contratar)" nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo MÁRIO FABBRIS RICCÓ, matrícula nº 2702-2, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante da Resolução nº 147, de 28 de dezembro de 2001, e alocada à Secretaria-Geral de Controle Externo.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 176, de 2003, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º O titular da Secretaria-Geral de Administração fica autorizado a proceder, sempre que necessário, à substituição ou à nomeação do coordenador do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+ADYLSON MOTTA
+
+
+                    Presidente
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO	ANEXO I
+
+
+SEGEDAM- DIDIV	BTCU Brasília   Ano xxxviii  n. 39   p. 1-74   10/out. 2005
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 2 de 8
+
+
+
+
+
+Identificação do gestor do projeto
+
+
+Nome
+
+Matrícula
+
+E-mail
+
+Ramal
+
+Mário Fabbris Riccó
+
+2702-2 
+
+riccomf@tcu.gov.br 
+
+5130
+
+Função do GestorOrigem da FC
+
+
+
+ 
+
+Gerente
+
+X
+
+Coordenador
+
+ 
+
+Líder
+
+Segecex
+
+Nome do Substituto Eventual
+
+Matrícula
+
+E-mail
+
+Ramal
+
+ Sérgio Augusto Paula
+
+ 3155-0
+
+sergioap@tcu.gov.br 
+
+7577
+
+Local / Telefone
+
+
+Não consta revogação expressa
+<a name="_Hlt129139352"/>
+
+Anexo II – sala 435
+
+
+
+
+Identificação do projeto
+
+
+Nome do projeto
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Período de Realização
+
+Unidade Patrocinadora
+
+28/09/2005 a 30/11/2005
+
+Segedam
+
+
+Vinculação estratégica
+Plano Estratégico do TCU (Portaria – TCU nº 59, de 20 de janeiro de 2003).
+
+a)        
+
+Objetivo Estratégico 4: Contribuir para a melhoria da prestação dos serviços públicos
+
+b)        
+
+Estratégia 9: Aperfeiçoar os processos de trabalho do TCU
+
+Plano de Diretrizes do TCU – biênio 2005-2006 (Portaria – TCU nº 28, de 14 de janeiro de 2005)
+
+a)        
+
+Diretriz 6: Ampliar a contribuição do TCU para melhoria da prestação dos serviços públicos federais
+
+b)        
+
+Medida 6.10: Realizar levantamento, no âmbito do TCU, das ações administrativas e de controle que contribuam para o desenvolvimento sustentável
+
+Plano Diretor da Segedam – diretriz e medida
+
+a)        
+
+Diretriz 2: Aperfeiçoar a execução dos serviços administrativos do TCU
+
+b)        
+
+Medida 2.1: Aprimorar sistemática de acompanhamento de contratos
+
+c)        
+
+Medida 2.2: Racionalizar e agilizar a aquisição de bens e serviços do TCU
+
+d)        
+
+Medida 2.6: Reduzir o tempo de encerramento de processos administrativos
+
+
+Problema / oportunidade
+
+
+Descrição do Problema ou da Oportunidade 
+
+ 
+
+A Segedam vem constatando, de modo empírico, atrasos e deficiências em seus procedimentos de contratação de produtos e serviços, bem como a ocorrência de problemas quanto à gestão de contratos (fiscalização, repactuação, renovação, tramitação interna, controle, etc).
+
+Isto tem gerado demora no atendimento aos usuários, retrabalhos procedimentais, renovações contratuais decorrentes de descompasso com o processo licitatório, demora na análise de solicitações de fornecedores e custos operacionais elevados.
+
+Neste cenário é oportuna a realização de levantamento de diagnóstico dessas atividades de contratação, na verificação dos fluxos de trabalho, prazos de realização, deficiências operacionais, existência de controles internos e formalização de procedimentos.
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 3 de 8
+
+
+
+
+
+Evolução do Quadro (apresentar dados)
+
+ 
+
+Em anexo, são apresentados dados disponíveis referentes ao tema:
+
+I – procedimento licitatório (Ed. Sede e Secexs);
+
+II – contratos e convênios firmados pelo TCU;
+
+III – execução orçamentária por modalidade de licitação;
+
+IV – prazo médio de realização por modalidade de licitação;
+
+V – contratos emergenciais firmados pela Segedam.
+
+Há uma percepção de que os prazos médios de realização de licitação estão elevados (anexo IV), com prejuízo ao atendimento de usuários. Os contratos emergenciais firmados pela Segedam (anexo V) também estão em patamares superiores aos desejáveis, oriundos não só desses processos licitatórios como de outros fatores relacionados a controle internos.
+
+Cabe, portanto, realizar levantamento desses procedimentos e quantificá-los – em termos de prazo, fluxo de tramitação e agregação de valor – a fim de diagnosticar os problemas vigentes e propor soluções. Tal levantamento propiciará, entre outros, a quantificação de algumas metas de melhoria de procedimentos, como, por exemplo, os prazos de execução, e a verificação a posteriori da adequação das medidas propostas e sua efetivação para a melhoria dos processos de contratação na Sede.
+
+
+Escopo do projeto
+
+
+5.1. Objetivo Geral do Projeto (em relação à oportunidade ou à solução do problema) 
+
+Elaborar plano de melhoria dos procedimentos de contratação e da gestão de contratos do TCU.
+
+
+5.2. Meta – Indicador – Produto – Cliente
+
+
+META
+
+Indicador
+
+Produto
+
+Cliente
+
+Objetivo específico
+
+Quanto
+
+Data de Término
+
+a)       a
+
+Identificar e analisar o fluxo e os prazos[1] de tramitação dos processos de contratação de 2004 e 2005 (por amostragem);
+
+100%
+
+28/10/05
+
+ 
+
+ 
+
+Tipos de procedimentos de contratação analisados / tipos de contratação existentes
+
+Relatório validado contendo analise dos procedimentos de contratação e dos prazos
+
+Segedam
+
+b)        
+
+Identificar e analisar o fluxo de tramitação dos processos de gestão contratual de 2004 e 2005 (por amostragem);
+
+ 
+
+100%
+
+11/11/05
+
+ 
+
+ 
+
+Tipos de procedimentos de gestão de contrato analisados / tipos de procedimentos de gestão de contrato existentes
+
+Relatório validado contendo analise dos procedimentos de gestão de contrato
+
+Segedam
+
+c)        
+
+Identificar em instituições externas boas práticas em procedimentos de contratação e de gestão contratual aplicáveis ao TCU;
+
+ 
+
+100%
+
+14/11/05
+
+ 
+
+ 
+
+Nº de boas práticas descritas e avaliadas / nº de boas práticas identificadas
+
+Relatório, validado, contendo descrição de boas práticas externas em procedimentos de contratação e de gestão contratual e avaliação de sua aplicabilidade no TCU.
+
+Segedam
+
+d)        
+
+ Elaborar plano de melhoria  dos procedimentos de contratação e da gestão contratual.
+
+100%
+
+30/11/05
+
+Plano de melhoria aceito
+
+Plano de melhoria validado.
+
+Segedam
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 4 de 8
+
+
+5.3. Macroetapas (primeiro nível de Estrutura Analítica do Projeto – EAP)
+
+
+a)       
+
+Identificação e análise do fluxo e dos prazos de tramitação dos processos de contratação de 2004 e 2005 (por amostragem);
+
+b)       
+
+Identificação e análise do fluxo de tramitação dos processos de gestão contratual de 2004 e 2005 (por amostragem);
+
+c)       
+
+Identificação em instituições externas de boas práticas em procedimentos de contratação e gestão contratual aplicáveis ao TCU;
+
+d)       
+
+Elaboração de plano de melhoria  dos procedimentos de contratação e de gestão contratual.
+
+
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)        
+
+Elaboração de  manual de procedimentos de contratação e de gestão contratual (plano operacional padrão das tarefas);
+
+b)        
+
+Desenvolvimento de cronograma e implantação das propostas;
+
+c)        
+
+Definição de requisitos e desenvolvimento de sistemas;
+
+d)        
+
+Análise de processos de contratação e contratos das Secex nos estados;
+
+e)        
+
+Mapeamento dos processos de contratação e de gestão de contratos;
+
+f)         
+
+Redesenho dos processos de contratação e de gestão contratual.
+
+
+Identificação das partes envolvidas no projeto (em relação a que)
+
+
+Nome da Parte Envolvida
+
+patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+Item Negociado ou a Negociar com as Partes Envolvidas
+
+a)       
+
+Secretaria-Geral de Administração
+
+(Segedam)
+
+Patrocinadora do Projeto
+
+Fornecimento de recursos materiais e humanos para o projeto
+
+b)       
+
+Secretaria de Controle Interno (Secoi)
+
+Contribuição técnica para discussão e estudo dos problemas encontrados e propostas de melhoria
+
+c)       
+
+Consultoria Jurídica (Conjur)
+
+Contribuição técnico-jurídica para análise de problemas verificados e propostas de solução
+
+d)       
+
+Secof, Semat e Seseg
+
+Contribuição técnica para discussão e estudo dos problemas encontrados e propostas de melhoria
+
+e)       
+
+Setec
+
+Contribuição técnica para discussão e estudo dos problemas encontrados e propostas de melhoria.
+
+
+Fatores que podem pôr em risco o êxito do projeto
+
+
+Risco
+
+Impacto
+
+Probabilidade
+
+de Ocorrer
+
+Ação para
+
+(E) Evitar ocorrência do risco
+
+(M) Mitigar ocorrência do risco
+
+(R) Reduzir impacto do risco ocorrido
+
+Responsável
+
+pela Ação
+
+a)       
+
+Dificuldade de alocação de profissionais qualificados no projeto;
+
+Alto
+
+Média
+
+(E) Negociar previamente a alocação no projeto de técnicos do TCU selecionados pela Segedam
+
+Coordenador do projeto
+
+Patrocinador
+
+b)       
+
+Dificuldade em obter contribuição das unidades técnicas e pessoas envolvidas no projeto.
+
+Alto
+
+Baixa
+
+(M) Divulgar os benefícios e contribuições do projeto para o desenvolvimento do trabalhos
+
+Coordenador do projeto
+
+Patrocinador
+
+
+Relação com outros projetos
+
+
+Projetos Predecessores
+
+Projetos Conexos
+
+Projetos Sucessores
+
+ 
+
+ 
+
+Projeto de aperfeiçoamento dos procedimentos de contratação e de gestão contratual.
+
+ 
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 5 de 8
+
+
+Custos estimados
+
+
+Recurso
+
+Valor Estimado
+
+Data Inicial de Liberação do Recurso
+
+a)       
+
+Técnico em suporte de informática, nível II (terceirizado), sendo R$ 1.945,20 (custo mensal) x 2 meses = R$ 3.890,40.
+
+R$ 3.890,40
+
+28/09/2005
+
+Total de custos estimados
+
+R$ 3.890,40  
+
+ 
+
+
+Obs.: técnico alocado no serviço de administração da Segedam para apoio em tempo parcial ao projeto
+
+
+Outros recursos necessários
+
+
+Recurso
+
+Fornecedor
+
+a)       
+
+Espaço físico para acomodar a equipe do projeto;
+
+Segedam
+
+b)       
+
+Microcomputadores e impressoras ligados à rede TCU;
+
+Segedam e Setec
+
+c)       
+
+Mobiliário (Estação de trabalho, gaveteiros, cadeiras, armários, mesa para reunião);
+
+Segedam/Semat/Dipat
+
+d)       
+
+Comunicação (linhas e ramais telefônicos).
+
+Segedam/Seseg/TEL
+
+
+Equipe do projeto
+
+
+Nome
+
+Matrícula
+
+Lotação
+
+Período
+
+Dedicação Integral/ Parcial / Por Atividade    
+
+Sérgio Augusto Paula
+
+3155-0
+
+Segedam
+
+28/09 a 30/11/2005
+
+Integral    
+
+Mário Fabbris Riccó
+
+2702-2
+
+Segedam
+
+28/09 a 30/11/2005
+
+Integral    
+
+Edna Ferreira dos Reis
+
+0412-0
+
+Seseg
+
+28/09 a 30/11/2005
+
+Integral    
+
+Rosana Orlandi Meira
+
+0292-5
+
+Serec
+
+28/09 a 30/11/2005
+
+Integral    
+
+André Luiz de Queiroz Dias
+
+0060-4
+
+Secof
+
+28/09 a 30/11/2005
+
+Integral    
+
+Antonio Tarcísio Ramos
+
+831-1
+
+Secof
+
+28/09 a 30/11/2005
+
+Integral    
+
+Maria Rosa Barbosa
+
+0651-3
+
+Semat
+
+28/09 a 30/11/2005
+
+Parcial
+
+
+Finalização
+
+
+Data
+
+Assinatura do Gestor do Projeto
+
+Em 28/9/2005
+
+ 
+
+_________________________
+
+Mário Fabbris Riccó
+
+Manifestação do Titular da Unidade Patrocinadora
+
+De acordo, conforme ata de reunião de abertura realizada em 27/9/2005.
+
+Encaminhe-se a presente proposta à Seplan, visando à aprovação do projeto junto à Presidência.
+
+Segedam, em 28/9/2005
+
+ 
+
+________________________
+
+Mauro Moreira  Barbosa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 6 de 8
+
+
+
+
+
+ANEXO I DA PORTARIA-TCU Nº 220, DE 30 DE SETEMBRO DE 2005
+
+
+
+
+
+PROCEDIMENTOS LICITATÓRIOS (Ed. SEDE e SECEXs)
+
+
+
+
+
+Modalidades de Licitação
+
+ANO/QUANT.
+
+ANO/QUANT.
+
+2003
+
+2004
+
+Cadastro de Fornecedores
+
+7
+
+10
+
+Dispensa e Inexigibilidade
+
+1643
+
+1445
+
+Convite
+
+86
+
+64
+
+Tomada de Preços
+
+36
+
+33
+
+Concorrência
+
+11
+
+11
+
+Pregão
+
+34
+
+48
+
+Total Geral
+
+1817
+
+1611
+
+
+
+
+
+
+
+
+ANEXO II DA PORTARIA-TCU Nº 220, DE 30 DE SETEMBRO DE 2005
+
+
+
+
+
+CONTRATOS E CONVÊNIOS FIRMADOS PELO TCU
+
+
+
+
+
+Tipo de Formalização
+
+ANO/QUANT.
+
+ANO/QUANT.
+
+2003
+
+2004
+
+Contratos
+
+142
+
+123
+
+Termos Aditivos
+
+160
+
+168
+
+Contratos Emergenciais
+
+17
+
+17
+
+Reajustes
+
+10
+
+13
+
+Convênios
+
+11
+
+07
+
+Outros
+
+07
+
+08
+
+
+
+
+
+Contratos Vigentes
+
+327
+
+289
+
+
+
+
+
+
+
+
+ANEXO III DA PORTARIA-TCU Nº 220, DE 30 DE SETEMBRO DE 2005
+
+
+
+
+
+EXECUÇÃO ORÇAMENTÁRIA POR MODALIDADE DE LICITAÇÃO
+
+
+
+
+
+Modalidade de Licitação
+
+2003
+
+2004
+
+R$
+
+%
+
+R$
+
+%
+
+Convite
+
+2.534.206,85
+
+5,15
+
+1.537.839,77
+
+2,57
+
+Tomada de Preços
+
+7.525.768,92
+
+15,28
+
+7.760.710,35
+
+12,99
+
+Concorrência
+
+17.405.936,23
+
+35,34
+
+21.600.222,58
+
+36,16
+
+Pregão
+
+6.938.293,48
+
+14,09
+
+13.645.327,49
+
+22,84
+
+Dispensa
+
+7.791.609,97
+
+15,82
+
+10.311.950,55
+
+17,26
+
+Inexigibilidade
+
+6.777.648,19
+
+13,76
+
+4.548.407,84
+
+7,61
+
+Suprimento de Fundos
+
+277.952,55
+
+0,56
+
+329.133,28
+
+0,55
+
+Total Geral
+
+49.251.416,19
+
+100
+
+59.733.591,86
+
+100
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+Secretaria de Planejamento e Gestão
+
+PROPOSTA DE PROJETO
+
+Contratação de Produtos e Serviços pelo TCU – Contratar
+
+Página 7 de 8
+
+
+
+
+
+ANEXO IV DA PORTARIA-TCU Nº 220, DE 30 DE SETEMBRO DE 2005
+
+
+
+
+
+PRAZO MÉDIO DE REALIZAÇÃO POR MODALIDADE LICITATÓRIA
+
+
+
+
+
+Modalidade de Licitação
+
+2003
+
+2004
+
+Qtde.
+
+Prazo médio
+
+Qtde.
+
+Prazo médio
+
+Concorrência
+
+8
+
+109 dias
+
+10
+
+151 dias
+
+Tomada de Preços
+
+22
+
+124 dias
+
+12
+
+100 dias
+
+Convite
+
+13
+
+83 dias
+
+05
+
+120 dias
+
+Pregão
+
+26
+
+70 dias
+
+04
+
+96 dias
+
+
+
+
+
+Fonte: Comissão Permanente de Licitação – CPL
+
+
+
+
+
+A apuração do prazo médio considera a data da primeira entrada do processo na Comissão Permanente de Licitação – CPL e a respectiva data de encerramento ou homologação da licitação. Assim as médias apuradas consideram o tempo para apreciação do processo na Consultoria Jurídica, na Segedam, eventuais retornos às unidades interessadas, prazos recursais, avaliações de amostras e outros procedimentos correlatos.
+
+
+Portanto, não estão abrangidos os prazos contados do início de processo de solicitação da aquisição/prestação de serviços até a CPL, bem como o período decorrente da homologação da licitação até a assinatura e publicação do extrato do contrato firmado.
+
+
+
+
+
+
+
+
+ANEXO V DA PORTARIA-TCU Nº 220, DE 30 DE SETEMBRO DE 2005
+
+
+
+
+
+CONTRATOS EMERGENCIAIS FIRMADOS PELA SEGEDAM
+
+
+(vigentes por período)
+
+
+
+
+
+Período
+
+Quantidade
+
+2001 – 2002
+
+11
+
+2002 – 2003
+
+11
+
+2003 – 2004
+
+13
+
+2004 – 2005 (maio)
+
+9
+
+
+Fonte: Sistema Contrata
+
+
+
+
+
+

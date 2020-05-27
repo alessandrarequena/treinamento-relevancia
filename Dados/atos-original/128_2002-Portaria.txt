@@ -1,0 +1,754 @@
+Portaria
+128/2002
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas competências legais e regimentais e
+
+
+considerando as diretrizes 3 e 4 do Plano de Diretrizes do Tribunal de Contas da União para o exercício de 2002;
+
+
+considerando que a definição das expectativas do TCU é essencial para o gerenciamento e implementação do seu portal na internet;
+
+
+considerando que a composição da equipe do projeto em questão envolve servidores de diferentes unidades básicas e de apoio estratégico, resolve:
+
+
+Art. 1º Fica autorizada a realização do projeto Portal TCU, nos termos do anexo a esta Portaria.
+
+
+Art. 2º Esta Portaria entra em vigor a partir desta data.
+
+
+HUMBERTO GUIMARÃES SOUTO
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+Presidente
+
+
+
+Não consta revogação expressa
+Autoriza a realização do projeto Portal TCU.
+
+ANEXO ÚNICO
+
+
+
+
+
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+1. Identificação do Gestor do Projeto
+
+
+PROJETO PORTAL TCU
+
+Página 1 de 9
+2. Identificação do Projeto
+
+
+1.1.
+
+Nome
+
+“X” -  Espécie de gestor
+
+Origem da FC
+
+Cláudia Augusto Dias
+
+ 
+
+Gerente
+
+x
+
+Coordenador
+
+Segecex
+
+1.2.E-mail
+
+Claudiaad@tcu.gov.br
+
+1.3.
+
+Nome do substituto eventual
+
+Sonia Luzia Caldeira Del Fiaco
+
+1.4.
+
+Local/telefone
+
+Anexo I do Ed. Sede do TCU, sala 401, telefone: 316.7881 (Adfis)
+3. Vinculação Estratégica
+
+
+2.1.
+
+Nome do projeto
+
+PORTAL TCU2.2.Período de realização
+
+12 abril a 30 de novembro de 2002
+
+2.3.Unidade de vinculação
+
+Secretaria de Planejamento e Gestão - Seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU
+
+a)                  atender as expectativas da sociedade e do Congresso Nacional em relação às atividades de controle externo – com a adoção de padrões de qualidade na reformulação de seu Portal, o TCU estará estreitando seu relacionamento com o Congresso Nacional e com a sociedade, ao possibilitar acesso mais eficaz, eficiente e amigável às informações geradas, mantidas e divulgadas pelo Tribunal;
+
+b)             manter-se na vanguarda de métodos, técnicas e tecnologias de controle externo – este projeto aplicará método de desenvolvimento de software voltado às necessidades dos usuários, além de técnicas de avaliação de acessibilidade e usabilidade, considerados adequados e compatíveis com as novas tecnologias para divulgação de informações via Internet, Intranet e Extranet;
+
+c)              contribuir para o contínuo aperfeiçoamento da gestão pública - o engajamento do Tribunal na melhoria da acessibilidade de seu portal, de uso interno e externo, contribuirá para disseminar boas práticas de gestão pública e divulgar os resultados das ações de fiscalização do TCU, assim como servirá de referencial para o desenvolvimento ou reformulação de outros sites de organizações públicas;
+
+d)             manter política de valorização do servidor – ao promover a participação dos servidores na definição de conteúdo do Portal TCU, este projeto pretende destacar a importância das sugestões e críticas dos usuários para o aprimoramento dos sistemas corporativos. Este projeto visa, ainda, a melhorar as condições de trabalho dos servidores durante a interação homem-computador, ao utilizarem, em suas tarefas diárias, o Portal TCU, disponível via Internet e Intranet. 
+
+ 
+
+
+
+
+
+
+
+
+PROJETO PORTAL TCU
+
+Página 2 de 9
+4. Problema/Oportunidade
+
+
+3.2.
+
+Vínculo com Plano de Diretrizes
+
+a)         Diretriz 3 – desenvolver esforços no sentido de manter o nível de satisfação dos servidores com o clima organizacional e o ambiente de trabalho – o presente projeto também contribui com essa diretriz, principalmente com medidas como:(a) melhoria do atendimento das necessidades de informação dos usuários, com o aperfeiçoamento do portal do TCU; (b) melhoria das condições e do ambiente de trabalho a partir dos fatores que afetam a satisfação e a motivação dos servidores na interação com os sistemas corporativos; (c) ampliação da participação de unidades e servidores do TCU no processo de desenvolvimento e reformulação de sistemas informatizados;
+
+b)        Diretriz 4 – ampliar o conhecimento e o reconhecimento do TCU perante a sociedade e a mídia – este projeto contribui para o cumprimento da meta de aprimorar o portal do TCU na Internet, relacionada a essa diretriz. A divulgação de informações via Internet, seguindo padrões de qualidade e acessibilidade para portais web, certamente  melhorará a imagem institucional do TCU perante o Congresso Nacional, a sociedade e a mídia, ressaltando sua importância na defesa dos interesses dos cidadãos, ao facilitar o acesso às informações disponíveis sob a forma digital.
+
+ 
+
+3.3.
+
+Vínculo com Plano Diretor (se houver)
+
+Plano Diretor da Secretaria de Planejamento e Gestão – Seplan: meta 4, medida 3;
+
+Plano Diretor da Secretaria-Geral de Controle Externo – Segecex:meta 13, medida 2;
+
+Plano Diretor da Secretaria de Tecnologia da Informação – Setec: meta  27.
+
+
+
+
+
+
+
+
+
+
+
+PROJETO PORTAL DO TCU
+
+
+
+Página 4 de 9
+
+
+4.1.
+
+Descrição do problema ou da oportunidade
+
+Os atuais sites do TCU não atendem satisfatoriamente às necessidades de seus usuários por apresentarem elementos que dificultam o acesso e o gerenciamento das informações neles disponíveis. Um portal mais eficaz, eficiente e amigável, capaz de facilitar o acesso dos usuários internos aos sistemas e informações institucionais, e de atrair a atenção dos usuários externos para as informações veiculadas pelo TCU na Internet, certamente aumentaria o desempenho dos servidores na execução de suas tarefas e melhoraria a imagem do Tribunal perante a sociedade.
+
+4.2.
+
+Contextualização (porque é problema ou oportunidade)
+
+O Tribunal, ao longo dos últimos cinco anos, desenvolveu sete sites distintos na Internet, incompatíveis entre si em relação a padrões gráficos e estruturas de navegação. Esses sites atendem tanto ao público interno como ao público externo na busca de informações diversas, tais como:
+
+a)              Site Internet (http://www.tcu.gov.br) – informações sobre atuação, funcionamento e estrutura do TCU, acesso a publicações, relatórios de atividades, sistemas de jurisprudência e controle de processos;
+
+b)             Site Intranet (http://intranet.tcu.gov.br) – acesso a sistemas corporativos e divulgação de informações relevantes ao ambiente interno;
+
+c)              Site SisacNet (http://sisac.tcu.gov.br) – Sistema de Registro e Apreciação de Atos de Admissão e Concessão, utilizado por toda a Administração Pública Federal para prestar informações ao TCU sobre atos de admissão e concessão de pessoal;
+
+d)             Site SisContas (http://contas.tcu.gov.br) – Sistema de Coleta Eletrônica de Contas, usado para o recebimento on-line das tomadas e prestações de contas anuais da Administração Pública Federal;
+
+e)              Site Contas Públicas (http://www.contaspublicas.gov.br) – coletânea de links para páginas web de órgãos da Administração Pública, desenvolvida pelo TCU em atendimento à Lei nº 9.755/98;
+
+PROJETO PORTAL DO TCU
+
+Página 3 de 9
+
+f)              Site da X Assembléia Geral da Olacefs (http://www.olacefs.gov.br) – informações sobre esse evento, organizado pelo TCU em dezembro de 2000;
+
+g)             Site dos Tribunais de Contas da Comunidade dos Países de Língua Portuguesa (http://www.tribunaiscplp.gov.br) – informações sobre a atuação conjunta desses tribunais, promovendo sua integração.
+
+As principais causas do problema descrito anteriormente são: falta de integração estrutural e visual entre os sites citados, não tempestividade na atualização das informações neles contidas e falta de capacitação técnica específica (design gráfico, comunicação visual, ergonomia) da equipe responsável pela criação e manutenção desses sites.
+
+Após  constatar a incidência dessas causas, a Setec tomou a iniciativa de propor a criação do “Portal TCU”, a ser desenvolvido, sob supervisão e gerência do TCU, por empresa contratada por meio de processo licitatório.
+
+Entretanto, para solucionar os problemas identificados, não basta contratar empresa especializada em projetos de interfaces gráficas. Há que se definir, primeiramente, parâmetros de qualidade a serem atendidos por essa empresa, como requisitos mínimos para a homologação dos produtos finais por ela desenvolvidos.
+
+Como ponto de partida, o projeto pretende realizar pesquisa bibliográfica sobre padrões, recomendações científicas e práticas para projetos de interfaces web e sistemas de gerenciamento de conteúdo.
+
+A partir dessa pesquisa, será definido um conjunto de parâmetros de qualidade de interface, critérios de segurança e mecanismos de publicação, revisão, atualização e manutenção de conteúdo, baseados em padrões nacionais e internacionais de acessibilidade, usabilidade e gerenciamento de portais web, que deverão ser atendidos pela empresa contratada. Além disso, será realizada análise do conteúdo dos portais atuais e identificação das necessidades de informação dos usuários para composição e estruturação de novos conteúdos. 
+
+Tais definições serão repassadas à empresa contratada para desenvolver o novo portal e migrar o conteúdo dos portais atuais, e servirão como parâmetros durante a gerência dos trabalhos dessa empresa e para a homologação da implementação final do Portal TCU.
+
+A fase seguinte compreende a validação do projeto-piloto do portal apresentado pela empresa contratada, considerando os requisitos estabelecidos para a interface, o sistema de gerenciamento de conteúdo e a geração de conteúdo dinâmico, migrando aplicações existentes ou desenvolvendo novas aplicações. 
+
+A partir da aprovação do projeto-piloto, a equipe irá gerenciar passo a passo o desenvolvimento do portal até sua implementação final, migração de conteúdo e divulgação à comunidade de usuários. Nessa gerência, serão estabelecidos pontos de controle ao longo do desenvolvimento, e testadas as funcionalidades do sistema de gerenciamento de conteúdo e a acessibilidade do portal na realização de tarefas, utilizando ferramentas de teste automáticas e manuais.
+
+Como forma de divulgação do trabalho realizado neste projeto, prevê-se a divulgação do Portal TCU em diferentes mídias, ainda a serem definidas, a elaboração de artigos e a apresentação de palestras sobre fases/produtos do projeto.
+5. Objetivo geral do projeto
+
+
+4.3.
+
+Evolução do quadro (apresentar dados, preferencialmente, em tabelas)
+
+Como primeiro passo para a solução do problema detectado, o TCU contratou a empresa CTIS, vencedora de processo licitatório, para desenvolver o novo Portal TCU. Além disso, algumas atividades do projeto, como a pesquisa bibliográfica sobre design de interfaces, a identificação de padrões nacionais e internacionais de interface web e a tradução de documentos internacionais a serem adotados durante o projeto, já foram realizadas ao longo dos meses de março e abril deste ano.
+
+4.4.
+
+Se nada for feito (qual a gravidade, a urgência e a tendência)
+
+Se este projeto não for implementado, o Tribunal estará perdendo a oportunidade de atuar sobre causas do problema identificado, tais como : deficiência no gerenciamento das informações veiculadas em seus sete sites, desde a publicação até a atualização e manutenção de conteúdo; falta de padronização da estrutura de navegação, na acessibilidade e usabilidade da interface gráfica dos sites atuais, que dificultam o acesso às informações; inflexibilidade e demora na atualização de conteúdo dos sites atuais; retrabalho na confecção de páginas web e/ou conteúdo; duplicação de conteúdo.
+
+As conseqüências que podem advir da não-implementação deste projeto vão desde a ineficácia e a ineficiência no acesso às informações do Tribunal, seja retardando a conclusão de tarefas dos servidores da Casa, seja dificultando a consulta de informações por parte do público externo (Congresso Nacional, Entidades Fiscalizadoras Superiores, órgãos da Administração Pública e sociedade em geral), até a falta de controle sobre essas informações e a insatisfação dos usuários, impactando negativamente  na imagem do Tribunal, interna e externamente.
+
+
+
+
+
+
+
+PROJETO PORTAL DO TCU
+
+
+
+Página 5 de 9
+6. Metas
+
+
+Definir estrutura, conteúdo, requisitos de qualidade e sistema de gerenciamento de informações para o novo Portal TCU, além de gerenciar seu desenvolvimento, implantação e migração do conteúdo atual realizado por empresa contratada.
+
+5.1.
+
+Delimitações do projeto
+
+Este projeto não pretende remodelar sistemas corporativos existentes que tenham interação com o Portal TCU, limitando-se a sugerir um modelo de interface e de comunicação, compatível e consistente com os requisitos de interface e de sistema de gerenciamento de conteúdo definido para o Portal. 
+
+Devido às limitações de prazo, não será realizada a migração total do conteúdo atual dos sete sites do TCU, cabendo à equipe, negociar, com as unidades envolvidas, prioridades para migração de conteúdo na primeira versão do Portal, produto gerado ao final deste projeto, previsto para novembro de 2002. Também não será realizada avaliação de satisfação dos usuários com o novo Portal TCU, atividade que consta de projeto sucessor a este, conforme item 13.
+
+A equipe deste projeto não é responsável pela codificação de páginas web ou do sistema de gerenciamento de conteúdo, atividade prevista para a empresa contratada. Cabe à equipe, em conjunto com a Secretaria de Tecnologia da Informação (Setec), gerenciar todo o desenvolvimento até a implantação do Portal, cuidando para que a empresa contratada respeite os requisitos definidos no projeto e os padrões de desenvolvimento de sistemas da Setec.
+7. Produtos intermediários
+
+
+Nº
+
+6.1. 
+
+Objetivo específico
+
+6.2. 
+
+Qtde.6.3. Prazo
+
+6.4. 
+
+Indicador
+
+6.5. 
+
+Produto
+
+6.6. 
+
+Cliente
+
+1
+
+Elaborar documento com definições preliminares, parâmetros de qualidade, requisitos mínimos e descrição do método de avaliação, e encaminhá-lo à empresa prestadora de serviços, responsável pela implementação do Portal TCU.
+
+100%
+
+14-jun-02
+
+documento concluído e encaminhado.
+
+Documento com requisitos
+
+prestadora de serviços - CTIS
+
+2
+
+Avaliar o projeto-piloto apresentado pela empresa contratada, considerando as definições preliminares, parâmetros e requisitos do documento descrito na meta anterior.
+
+100%
+
+31-jul-02
+
+parâmetros de qualidade, requisitos mínimos e funcionalidades avaliados e aprovados, em relação ao produto da meta 1.
+
+Relatório de aprovação do projeto-piloto
+
+prestadora de serviços - CTIS
+
+3
+
+Gerenciar a implementação do Portal TCU, de acordo com o projeto-piloto aprovado, testando as funcionalidades do sistema de gerenciamento de conteúdo e avaliando a acessibilidade do portal na realização de tarefas, utilizando ferramentas automáticas e manuais, sem a participação dos usuários.
+
+100%
+
+30-nov-02
+
+páginas web submetidas a teste, em relação ao produto da meta 2.
+
+Relatório de avaliação da implementação final do Portal TCU;
+
+ 
+
+Portal concluído.
+
+prestadora de serviços – CTIS;
+
+ 
+
+Secretaria de Planejamento e Gestão – Seplan;
+
+ 
+
+Usuários do portal.
+
+4
+
+Estabelecer diretrizes para migração do conteúdo existente, responsabilidades por sua atualização e alteração do processo atual de geração, atualização e manutenção do portal.
+
+100%
+
+15-nov-02
+
+diretrizes estabelecidas.
+
+ 
+
+aprovação das diretrizes pelo TCU.
+
+Lista de diretrizes para migração de conteúdo e alteração do processo atual de geração, atualização e manutenção do portal.
+
+Secretaria de Tecnologia da Informação – Setec;
+
+ 
+
+Secretaria de Planejamento e Gestão – Seplan.
+
+5
+
+Elaborar material para divulgação do novo Portal TCU.
+
+100%
+
+15-nov-02
+
+mídias preparadas para divulgação do novo portal.
+
+Material de divulgação do Portal e organização de evento para seu lançamento.
+
+Assessoria de Comunicação Social – Ascom;
+
+ 
+
+Secretaria de Planejamento e Gestão – Seplan.
+8. Identificação das partes envolvidas no projeto
+
+
+a)         Lista de parâmetros de qualidade de interface derivadas de pesquisa bibliográfica;
+
+b)        Lista de requisitos mínimos do sistema de gerenciamento de conteúdo;
+
+c)         Lista de necessidades de informação dos usuários;
+
+PROJETO PORTAL DO TCU
+
+Página 6 de 9
+
+d)        Lista do conteúdo a ser migrado;
+
+e)         Esboço do mapa de conteúdo do portal;
+
+f)          Lista de ferramentas usadas no método de avaliação da interface;
+
+g)        Lista de tarefas significativas realizadas com os sites do TCU; 
+
+h)        Relatório de avaliação de acessibilidade do site reprojetado do TCU;
+
+i)          Relatório de avaliação das funcionalidades do sistema de gerenciamento de conteúdo;
+
+j)          Relatório de avaliação das aplicações de geração dinâmica de conteúdo;
+
+k)        Artigos/palestras sobre fases/produtos deste projeto, a serem apresentados em eventos e/ou publicados em periódicos.
+9. Fatores que podem pôr em risco o êxito do projeto
+
+
+Assessoria de Cerimonial e Relações Institucionais - Aceri;
+
+Assessoria de Comunicação Social - Ascom
+
+Centro de Documentação – Cedoc;
+
+CTIS (empresa contratada para o desenvolvimento do Portal);
+
+Secretaria Adjunta de Fiscalização – Adfis;
+
+Secretaria de Planejamento e Gestão – Seplan;
+
+Secretaria de Tecnologia da Informação – Setec;
+
+Usuários internos e externos.
+10. Fatores que contribuem para o êxito do projeto
+
+
+Nº
+
+8.1.  
+
+Risco
+
+8.2.  Impacto
+
+8.3.  
+
+Ação para evitar / mitigar / reduzir impacto
+
+8.4. 
+
+Responsável pela ação
+
+1
+
+Falta de apoio gerencial para a realização do projeto
+
+Alto
+
+(E) Subsidiar as Secretarias de Planejamento e Gestão, de Tecnologia da Informação e Adjunta de Fiscalização com informações sobre o andamento do projeto.
+
+Cláudia.
+
+2
+
+Não disponibilidade dos recursos previstos no tempo e nas condições negociadas nesta proposta
+
+Alto
+
+(E) Enviar cronograma às unidades responsáveis pelos recursos.
+
+Cláudia.
+
+(M) Negociar com as unidades responsáveis pela contratação da empresa CTIS, aquisição de livros, compra de passagens e crédito de diárias.
+
+Cláudia e Sonia.
+
+(R) Replanejar o projeto.
+
+3
+
+Falta de interesse ou comprometimento de membros da equipe do projeto e/ou das Unidades do TCU em colaborar com este projeto
+
+Alto
+
+(E) Tentar engajar não só os membros da equipe, mas toda a comunidade de usuários neste projeto – e-mails, memorandos e ofícios solicitando apoio, sugestões e a participação de todos.
+
+Cláudia.
+
+(M) Divulgar o andamento do projeto.
+
+(R) Informar a todas as unidades sobre as decisões e prazos do projeto.
+
+PROJETO PORTAL DO TCU
+
+Página 7 de 9
+
+4
+
+Não cumprimento dos prazos contratuais por parte da empresa contratada para remodelagem do portal do TCU
+
+Alto
+
+(E) Exigir que a fornecedora supra a equipe com informações necessárias para o devido gerenciamento do projeto.
+
+Cláudia, membros lotados na Seplan e Setec.
+
+(E) Realizar reuniões periódicas entre equipe TCU e equipe CTIS, para verificar marcos do projeto.
+
+(R) Tomar providências necessárias ao restabelecimento do fornecimento junto à empresa contratada e, se necessário, junto à Secretaria de Material, Patrimônio e Comunicação Administrativa (Semat).
+
+5
+
+Dificuldade no uso de ferramentas de avaliação de acessibilidade adotadas no método de avaliação definido
+
+Alto
+
+(E) Conhecer as ferramentas com antecedência e instalar módulos no servidor do TCU.
+
+Membros lotados na Setec.
+11. Macro-etapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+a)         patrocínio do Presidente e interesse da alta direção da Casa pelos resultados do projeto;
+
+b)        motivação da equipe do projeto para a sua realização;
+
+c)         providências tempestivas para o fornecimento dos recursos a serem alocados no projeto;
+
+d)        comprometimento da gerência da Seplan, Segecex e Setec, colaborando com a equipe do projeto e oferecendo o apoio logístico e técnico necessário;
+
+e)         divulgação dos benefícios e facilidades do Portal TCU.
+12. Projetos predecessores
+
+
+a)         constituição da equipe do projeto;
+
+b)        planejamento das atividades;
+
+c)         definições estratégicas em relação à estruturação de conteúdo, projeto de interface e sistema de gerenciamento de conteúdo;
+
+d)        avaliação do projeto-piloto apresentado pela empresa contratada;
+
+e)         acompanhamento da implementação e avaliação do produto final;
+
+f)          definição de diretrizes para a migração de conteúdo;
+
+g)        divulgação do Portal TCU.
+
+
+
+
+
+
+PROJETO PORTAL DO TCU
+
+
+
+Página 8 de 9
+13. Projetos sucessores
+
+
+Apesar de não terem se constituído como projetos formais no TCU, podem ser considerados, como predecessores, os sete sites desenvolvidos nos últimos cinco anos pela Setec, e ainda o projeto de dissertação de mestrado, da coordenadora da equipe, sobre métodos de avaliação de usabilidade de portais corporativos.
+14. Custos estimados
+
+
+
+O custo estimado do projeto é da ordem de R$ 296.912,73, e refere-se, basicamente, aos serviços de desenvolvimento do Portal por empresa contratada para esse fim. Convém registrar que tal contratação já foi realizada em etapa anterior à aprovação deste projeto.
+15. Equipe do projeto
+
+
+Projeto Auditoria da Acessibilidade do Governo Eletrônico Brasileiro – avaliação da acessibilidade do Portal TCU, com a participação dos usuários, dando continuidade às etapas de avaliação definidas no projeto Portal TCU; e aplicação, em portais da Administração Pública Federal, do método de avaliação utilizado no Portal TCU, visando à melhoria dos serviços de informação prestados aos cidadãos brasileiros por meio da Internet.
+16. Considerações finais (fundamentação normativa Portaria 267/2001)
+
+
+Nº
+
+15.1.
+
+Nome
+
+15.2.
+
+Matrícula
+
+15.3.
+
+Lotação
+
+15.4.
+
+Período“X” 15.5.Dedicação
+
+1
+
+Cláudia Augusto Dias
+
+3098-8
+
+Adfis
+
+Durante todas as etapas do projeto
+
+x
+
+Integral
+
+2
+
+Cláudia de Souza Lopes
+
+1072-3
+
+Aceri
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+3
+
+Francisco Antonio de Alencar
+
+1727-2
+
+Seplan
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+4
+
+Geci Orione Pereira Goulart
+
+2982-3
+
+Setec
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+5
+
+José de Ribamar R. Siqueira Júnior
+
+4234-0
+
+Seplan
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+6
+
+Maurício Macedo Portela
+
+2424-4
+
+Setec
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+7
+
+Pedro Koshino
+
+2746-4
+
+Setec
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+8
+
+Sonia Luzia Caldeira Del Fiaco
+
+3683-8
+
+Cedoc
+
+Conforme cronograma
+
+x
+
+Parcial
+
+ 
+
+ 
+
+
+
+Brasília, 12 de abril de 2002.
+
+
+
+_______________________________________
+
+
+
+
+
+

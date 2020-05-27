@@ -1,0 +1,784 @@
+Portaria
+175/2007
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no art. 86, § 1º, da Resolução nº 199, de 28 de dezembro de 2006, e na PortariaTCU nº 325, de 12 de dezembro de 2006, resolve:
+
+
+Art. 1º Fica aprovada a realização do Projeto Portal Gerencial - Gerenciar, nos termos do Anexo desta Portaria.
+
+
+Art. 2º Fica designado o Analista de Controle Externo Gustavo Henrique de Oliveira Borges, matrícula nº 6496-3, para exercer a função de confiança de Coordenador de Projeto, código FC-03, constante do Anexo X da Resolução nº 199, de 2006, e alocada às funções de gestores de projetos.
+
+
+Parágrafo único. Cabe ao coordenador do projeto a responsabilidade de exercer as competências previstas no art. 8º da Portaria-TCU nº 325, de 2006, e observar o disposto no Manual de Gestão de Projetos.
+
+
+Art. 3º Fica autorizado o Secretário-Geral de Administração a proceder, sempre que necessário e mediante provocação da unidade patrocinadora, à substituição ou à nomeação do gestor ou de membro do projeto.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+WALTON ALENCAR RODRIGUES
+
+
+Presidente
+
+
+
+
+
+
+
+1. IDENTIFICAÇÃO
+4.         Nome do projeto
+
+
+
+Portal Gerencial - Gerenciar5.         Período de realização
+
+6.         Unidade patrocinadora
+
+
+
+16/07/2007 a 16/11/2007
+
+Secretaria de Planejamento e Gestão – Seplan7.         Nome do gestor
+
+8.         Matrícula
+
+9.         E-mail
+
+10.     Ramal
+
+
+
+Gustavo Henrique de Oliveira Borges
+
+6496-3
+
+ gustavoho@tcu.gov.br
+
+740711.     Função do gestor
+
+
+
+ 12.     Gerente
+
+
+
+X13.     Coordenador
+
+
+
+ 14.     Líder
+
+15.     Nome do substituto eventual
+
+16.     Matrícula
+
+17.     E-mail
+
+18.     Ramal
+
+
+
+Martinho Shintate 
+
+5076-8
+
+martinhos@tcu.gov.br
+
+527019.     Local / telefone
+
+
+
+Seplan, ed. Sede, sala 148 / 3316-5270
+
+
+
+
+
+2. VINCULAÇÃO ESTRATÉGICA (em que o projeto vai ajudar na estratégia definida pelo TCU)
+20.     Plano estratégico do TCU
+
+
+
+a)
+
+Objetivo estratégico 19 – Desenvolver cultura orientada a resultados.
+
+b)
+
+Objetivo estratégico 8 – Ampliar a divulgação de resultados da gestão pública e das ações de controle.
+
+c)
+
+Iniciativa estratégica 1 – Aperfeiçoar o processo de identificação e divulgação das ações dos resultados das ações de controle.21.     Plano de diretrizes do TCU
+
+
+
+a)
+
+Ação 1.4 – Colher e utilizar informações estratégicas para definição das ações de controle.
+
+b)
+
+Ação 6.7 – Ampliar o uso do DW Sinergia para extração e disseminação de informações armazenadas nas bases de dados do TCU.22.     Plano diretor de Tecnologia da Informação
+
+
+
+a)
+
+Ação 1.1.2 – Aperfeiçoar o sistema Sinergia para fornecimento de informações que permitam melhor acompanhamento e priorização de processos.
+
+b)
+
+Ação 4.10 – Ampliar o uso do sistema Sinergia para extração e disseminação de informações armazenadas nas bases de dados do TCU.
+
+c)
+
+Ação 4.10.4 – Implementar demandas evolutivas da Seplan e Adcon no sistema Sinergia.23.     Plano diretor da Seplan
+
+
+
+a)
+
+Ação 3.1.c – Reestruturar o Portal Sinergia.
+
+
+
+
+
+3. PROBLEMA/OPORTUNIDADE
+26.     Descrição objetiva do problema ou oportunidade 
+
+
+
+a)
+
+Existe a necessidade cada vez maior de integração das informações que se encontram dispersas em diversos sistemas informatizados e unidades do Tribunal. Tal fato dificulta a obtenção tempestiva de informações que atendam aos questionamentos suscitados para suporte ao processo de tomada de decisão gerencial. Essa deficiência pode ser minimizada por meio do desenvolvimento de um portal de informações gerenciais, utilizando-se o Sistema Sinergia e o Portal Corporativo do TCU, que congregue informações das principais bases de dados do Tribunal em relatórios gerenciais, que possibilitarão a análise de resultados e de tendências, auxiliarão no processo de definição de estratégias de atuação e na melhoria de processos de trabalho e, consequentemente, no desempenho da organização. 
+
+b)
+
+As informações gerenciais atualmente disponíveis no sistema Sinergia, dado o volume de dados dispostos, são de difícil acesso, condição esta que vem inibindo sua utilização por parte de autoridades e corpo técnico do TCU.
+
+c)
+
+A secretarias Seplan e Adcon disponibilizam, em esforços distintos, alguns relatórios de informações gerenciais em suas páginas no Portal Corporativo do TCU. É possível unir os trabalhos desenvolvidos nessas secretarias para formar um repositório de informações gerenciais em nível institucional, evitando duplicação de esforços e agregando conhecimentos de diferentes equipes de trabalho.
+
+
+
+29.     Evolução do quadro (apresentar dados referentes ao problema ou oportunidade)
+
+
+
+a)
+
+O sistema Sinergia apresenta dados extraídos de 9 sistemas do TCU – Processus, Radar, GRH, Fiscalis, SIDOC, Clientela, SISUNIDADE, SIPAD e SISAC. No entanto, os relatórios gerados pelos sistemas citados não apresentam a quantidade de informações que poderiam ser disponibilizadas pelo Sinergia. Além disso, a estrutura desses relatórios não pode ser ajustada pelos usuários, ao contrário dos relatórios desenvolvidos a partir do Sinergia, que podem ser modificados de acordo com as necessidades dos seus usuários para auxiliar o processo de tomada de decisões adequadamente.
+
+b)
+
+O desenvolvimento de relatórios para apresentação das informações do Sinergia requer conhecimento técnico da ferramenta Business Objects e do sistema Sinergia. Atualmente, os servidores do TCU não possuem capacitação para realizar esse trabalho e precisam demandar essa tarefa a Seplan ou Adcon. Essas secretarias dispõem de 5 servidores para a execução desse trabalho, cumulativamente com outras atribuições, o que ocasiona atrasos consideráveis para o atendimento das demandas. Após a conclusão do Portal Gerencial, os relatórios que devem ser atualizados e utilizados periodicamente serão desenvolvidos por uma equipe especializada e disponibilizados em um repositório único de acesso a todos os servidores do TCU.
+
+c)
+
+Os relatórios disponibilizados pela secretarias Seplan e Adcon apresentam, muitas vezes, informações sobre o mesmo assunto. É possível identificar esforços em duplicidade entre essas secretarias em cerca de 65% dos relatórios disponibilizados. Pode-se assumir que um relatório bem elaborado é desenvolvido despendendo-se em média um esforço de 5 horas. Considerando apenas o tempo de elaboração dos relatórios, podemos concluir que há um desperdício de 32.5 horas de trabalho – aproximadamente 1 semana de trabalho de um servidor – a cada grupo de 10 relatórios elaborados por essas secretarias. Se considerarmos o tempo de manutenção desses relatórios, esse dispêndio é ainda maior. Portanto, não é interessante que servidores do TCU executem o mesmo trabalho, com resultados idênticos, em secretarias diferentes. 
+
+
+
+
+
+4. OBJETIVO GERAL (em relação à resolução do problema ou ao aproveitamento da oportunidade)
+
+
+a)
+
+Desenvolver, agrupar e disponibilizar relatórios gerenciais no Portal TCU, acerca do desempenho das unidades técnicas e dos gabinetes.
+
+
+
+
+
+5. ESCOPO (o que o projeto vai fazer)
+34.     META
+
+35.     Produto
+
+36.     Cliente
+
+
+
+(quem aprova)37.     Objetivo específico
+
+38.     Quanto
+
+39.     Data de término
+
+
+
+a)
+
+Desenvolver modelo de especificação e documentação de relatórios.
+
+1
+
+20/07/2007
+
+Modelo de especificação e documentação de relatórios aceito
+
+Seplan
+
+b)
+
+Desenvolver modelo de apresentação para os relatórios, observando o padrão do Portal TCU.
+
+1
+
+20/07/2007
+
+Modelo de apresentação para os relatórios aceito.
+
+Seplan
+
+c)
+
+Desenvolver modelo de check list para orientar a implementação dos relatórios.
+
+1
+
+20/07/2007
+
+Modelo de check list para orientar a implementação dos relatórios aceito.
+
+Seplan
+
+d)
+
+Orientar a equipe do projeto sobre o processo de desenvolvimento.
+
+100%
+
+20/07/2007
+
+Orientação da equipe do projeto sobre o processo de desenvolvimento realizado.
+
+Seplan
+
+e)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender aos Gabinetes de Ministros e Auditores e Corregedoria.
+
+11
+
+14/08/2007
+
+Relatórios gerencias para os Gabinetes publicados e aceitos
+
+Seplan, Gabinetes e Corregedoria
+
+f)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender ao Ministério Público junto ao TCU.
+
+8
+
+27/08/2007
+
+Relatórios gerencias para o Ministério Público junto ao TCU publicados e aceitos
+
+Seplan e MP/TCU
+
+g)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender a Segepres e Conjur.
+
+17
+
+25/09/2007
+
+Relatórios gerencias para o TCU publicados e aceitos
+
+Seplan, Segepres e Conjur
+
+h)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender à Segecex.
+
+24
+
+02/11/2007
+
+Relatórios gerencias para a Segecex publicados e aceitos
+
+Seplan e Segecex
+
+
+
+42.     META
+
+43.     Produto
+
+44.     Cliente
+
+
+
+(quem aprova)45.     Objetivo específico
+
+46.     Quanto
+
+47.     Data de término
+
+
+
+i)
+
+Especificar, desenvolver e homologar os relatórios necessários para detalhar as Unidades Jurisdicionadas.
+
+3
+
+07/11/2007
+
+Relatórios gerencias das Unidades Jurisdicionadas publicados e aceitos
+
+Seplan e Segecex
+
+j)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender a Secoi.
+
+2
+
+09/11/2007
+
+Relatórios gerencias para a Presidência publicados e aceitos
+
+Seplan e Secoi
+
+k)
+
+Especificar, desenvolver e homologar os relatórios necessários para atender à Segedam.
+
+3
+
+14/11/2007
+
+Relatórios gerencias para a Segedam publicados e aceitos
+
+Seplan e Segedam
+
+l)
+
+Divulgar os resultados do projeto entre seus usuários por meio de apresentações, videoconferência e notas informativas.
+
+100%
+
+16/11/2007
+
+Plano de divulgação dos resultados do projeto elaborado e implementado
+
+Seplan
+
+
+
+
+
+6. NÃO ESCOPO (o que o projeto não vai fazer)
+
+
+a)
+
+Implementar alterações na estrutura do sistema Sinergia.
+
+b)
+
+Atender a demandas esporádicas de desenvolvimento de relatórios de informações.
+
+c)
+
+Realizar a manutenção dos relatórios já desenvolvidos e divulgados pela Seplan ou Adcon.
+
+d)
+
+Realizar treinamentos de usuários na ferramenta Business Objects.
+
+
+
+
+
+7. BENEFÍCIOS (impacto esperado dos produtos do projeto)
+
+
+a)
+
+Facilitar o acesso a informações gerenciais, de modo a incentivar a tomada de decisões amparada em indicadores de desempenho e dados objetivos.
+
+b)
+
+Dar suporte e celeridade ao processo de tomada de decisões.
+
+c)
+
+Adaptar os relatórios gerenciais já existentes à tecnologia Web Inteligence.
+
+d)
+
+Disponibilizar, em local único, informações operacionais e gerenciais sobre o desempenho do TCU e de suas unidades.
+
+e)
+
+Contribuir para o processo de monitoramento da implementação da estratégia de atuação do TCU.
+
+f)
+
+Evitar a dispersão de esforços na produção de relatórios gerenciais sobre o desempenho do TCU e de suas unidades.
+
+
+
+
+
+8. RISCOS (fatores que podem pôr em risco o êxito do projeto)
+54.     Risco
+
+55.     Impacto
+
+56.     Probabilidade
+
+57.     de ocorrer
+
+58.     Ação para
+
+59.     (E) Evitar ocorrência do risco
+
+60.     (M) Mitigar ocorrência do risco
+
+61.     (R) Reduzir impacto do risco ocorrido
+
+62.     Responsável
+
+63.     pela ação
+
+
+
+a)
+
+Atraso no processo de instalação do ambiente de desenvolvimento que executará a versão XI da ferramenta Business Objects.
+
+Alto
+
+Baixa
+
+(M) Participação do gestor no processo de instalação, para ampliar os recursos humanos alocados no processo. (R) Iniciar as etapas de planejamento das fases do projeto com antecedência (ajuste no ciclo PDCA).
+
+Gestor; Sedin/Setec.
+
+b)
+
+Indisponibilidade do software Business Objects versão XI.
+
+Alto
+
+Baixa
+
+(E) Negociar com a empresa Cast Informática S/A a disponibilização da versão XI da ferramenta Business Objects. (R) Iniciar as etapas de planejamento das fases posteriores do projeto com antecedência (ajuste no ciclo PDCA).
+
+Gestor; Sedin/Setec.
+
+
+
+66.     Risco
+
+67.     Impacto
+
+68.     Probabilidade
+
+69.     de ocorrer
+
+70.     Ação para
+
+71.     (E) Evitar ocorrência do risco
+
+72.     (M) Mitigar ocorrência do risco
+
+73.     (R) Reduzir impacto do risco ocorrido
+
+74.     Responsável
+
+75.     pela ação
+
+
+
+c)
+
+Indisponibilidade do sistema Sinergia.
+
+Alto
+
+Baixa
+
+(R) Executar atividades do projeto não relacionadas com o Sinergia; correção técnica das falhas.
+
+Gestor; Sedin/Setec.
+
+d)
+
+Falhas na estrutura de dados do sistema Sinergia.
+
+Médio
+
+Baixa
+
+(R) Priorizar o desenvolvimento dos relatórios de dados não relacionados às falhas; correção técnica das falhas.
+
+Gestor; Sedin/Setec.
+
+e)
+
+Atendimento insatisfatório das ordens de serviços repassadas à empresa Cast Informática S/A.
+
+Baixo
+
+Média
+
+(M) Elaborar ordens de serviço detalhadas; acompanhar a execução das atividades da empresa; somente atestar a execução dos serviços após o seu atendimento satisfatório.
+
+Gestor.
+
+f)
+
+Demandas de implementação de novos relatórios durante as etapas de homologação dos relatórios gerenciais.
+
+Baixo
+
+Média
+
+(M) Registrar as demandas de novos relatórios e negociar prazo para o seu atendimento com a Seplan.
+
+Gestor; Seplan.
+
+g)
+
+Dificuldades na condução das etapas de homologação dos relatórios gerenciais. 
+
+Baixo
+
+Baixa
+
+(E) Solicitar o apoio dos principais dirigentes do TCU na realização da etapa de homologação; (M) Planejar com antecedência a realização da etapa de homologação.
+
+Gestor.
+
+
+
+
+
+9. IDENTIFICAÇÃO DAS PARTES ENVOLVIDAS NO PROJETO (em relação a que aspecto)
+78.     Nome da parte envolvida
+
+79.     Patrocinador, cliente, parceiro, fornecedor interno ou externo de serviços e recursos (humanos e  físicos)
+
+80.     Item negociado ou a negociar com as partes envolvidas
+
+
+
+a)
+
+Seplan
+
+Patrocinador e disponibilização de 2 servidores em tempo parcial para o projeto.
+
+b)
+
+Adcon
+
+Disponibilização de 1 servidor em tempo integral para gerir o projeto.
+
+c)
+
+Sedin/Setec
+
+Suporte a questões técnicas envolvendo o Sinergia e apoio ao projeto.
+
+d)
+
+Segec/Setec
+
+Apoio à publicação do Portal Gerencial no Portal TCU.
+
+e)
+
+Projeto Arquitetura da Informação
+
+Apoio à organização e estruturação do conteúdo do Portal Gerencial.
+
+
+
+
+
+10. RELAÇÃO COM OUTROS PROJETOS
+83.     Projetos predecessores
+
+84.     Projetos conexos
+
+85.     Projetos sucessores
+
+
+
+Informações Gerenciais – SINERGIA
+
+Sinergia
+
+Arquitetura da Informação
+
+-
+
+
+
+
+
+11. EQUIPE DO PROJETO
+88.     Nome
+
+89.     Matrícula
+
+90.     Lotação
+
+91.     Período
+
+92.     Dedicação integral/ parcial /por atividade
+
+
+
+1.
+
+Gustavo Henrique de Oliveira Borges
+
+6496-3
+
+Adcon
+
+13/07/07 a 31/10/07
+
+Integral
+
+2.
+
+Leonard Renne Guimarães Lapa
+
+5100-4
+
+Seplan
+
+13/07/07 a 31/10/07
+
+Parcial
+
+3.
+
+Martinho Shintate 
+
+5076-8
+
+Seplan
+
+13/07/07 a 31/10/07
+
+Parcial
+
+
+
+
+
+
+
+12. RECURSOS NECESSÁRIOS (recursos materiais)
+96.     Recurso
+
+97.     Fornecedor
+
+
+
+a)
+
+-
+
+-
+
+
+
+13. CUSTOS ADICIONAIS ESTIMADOS
+99.     Recurso
+
+100. Valor estimado
+
+101. Data inicial de liberação do recurso
+
+
+
+a)
+
+Alocação de técnico da empresa Cast Informática S/A para atender a ordens de serviço referentes a serviços de suporte do projeto (120 horas).
+
+R$ 11.460,00
+
+16/07/2007102. Total de custos estimados
+
+
+
+R$ 11.460,00
+
+16/07/2007
+
+
+Obs.: (1) O contrato n.º 8/2007, firmado com a empresa Cast Informática S/A, estabelece a prestação de serviços de suporte técnico a soluções OLAP Business Objects. Essa contratação define que o TCU pode usufruir de 480 horas, por ano, dos serviços prestados por essa empresa. A partir de negociação com o Sedin/Setec, unidade responsável pelo relacionamento com a Cast Informática S/A, definiu-se que o projeto disporia de 120 horas desses serviços. O custo de cada hora está definido no contrato em R$ 95,50.
+
+
+
+
+
+14. FINALIZAÇÃO
+105. Data
+
+106. Assinatura do gestor do projeto
+
+
+
+Em ___/___/2007
+
+ 
+
+ 
+
+ 
+
+Gustavo Henrique de Oliveira Borges
+
+Coordenador do Projeto107. Manifestação do titular da unidade patrocinadora
+
+
+
+De acordo, conforme ata de reunião de abertura realizada em ___/___/2007.
+
+Manifesto-me favoravelmente à autorização do projeto.
+
+Seplan, em ___/___/2007
+
+ 
+
+ 
+
+ 
+
+Alessandro Giuberti Laranja
+
+Secretário de Planejamento e Gestão 
+
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do Projeto Portal Gerencial - Gerenciar e designa seu gestor.
+
+

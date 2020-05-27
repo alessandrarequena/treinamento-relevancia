@@ -1,0 +1,2229 @@
+Portaria
+165/2004
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas competências,
+
+
+considerando que o Plano Estratégico do Tribunal para o período de 2003 a 2007 definiu como objetivo "contribuir para a melhoria da prestação dos serviços públicos", tendo como estratégia "aperfeiçoar os processos de trabalho do TCU";
+
+
+considerando que o Plano de Diretrizes do Tribunal para o exercício de 2004 está orientado a  "ampliar a contribuição do TCU para o aperfeiçoamento da administração pública", por intermédio, inclusive, da disseminação do uso de metodologia em auditoria de natureza operacional;
+
+
+considerando a necessidade de detalhar os procedimentos a serem utilizados na realização de auditorias de natureza operacional aprovados pela Portaria nº 144-GP, de 10/7/2000, resolve:
+
+
+Art. 1º Fica aprovado o "Roteiro para Elaboração de Relatórios de Auditoria de Natureza Operacional".
+
+
+Art. 2º Compete à Secretaria de Fiscalização e Avaliação de Programas de Governo - Seprog divulgar e manter atualizado o roteiro aprovado por esta Portaria e modelos eletrônicos a serem disponibilizados na Intranet, bem como esclarecer dúvidas e receber sugestões de aperfeiçoamento.
+
+
+Art. 3º Compete à Secretaria Adjunta de Fiscalização - Adfis, com a colaboração da Seprog, adotar procedimentos com vistas a monitorar a adequada utilização, por parte das unidades técnico-executivas responsáveis pela realização de trabalhos de auditoria de natureza operacional, dos padrões adotados no roteiro aprovado por esta Portaria.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+
+VALMIR CAMPELO
+
+
+Presidente
+
+
+
+
+
+
+
+Não consta revogação expressa
+Aprova o Roteiro para Elaboração de Relatórios de Auditoria de Natureza Operacional.
+
+ANEXO ÚNICO
+
+
+
+
+Apresentação
+
+
+
+
+Trata-se de roteiro para elaboração de relatórios de planejamento e relatórios finais de auditorias de natureza operacional e reflete o amadurecimento que seu uso proporcionou às equipes de auditoria. Este documento é produto da experiência da Secretaria de Fiscalização e Avaliação de Programas de Governo - Seprog e do Projeto Aperfeiçoamento do Controle Externo com Foco na Redução da Desigualdade Social (Cerds), sucessor do Projeto de Cooperação Técnica do TCU com o Reino Unido.
+
+
+
+Na elaboração deste roteiro, a Seprog contou com a colaboração de analistas de diversas unidades técnicas do Tribunal que participam do Projeto Cerds.
+
+
+
+Os padrões de elaboração de relatórios aqui apresentados foram testados com sucesso durante as auditorias realizadas nos últimos três anos e complementam informações contidas no Manual de Auditoria de Natureza Operacional do TCU. Espera-se que a disseminação desses padrões entre o corpo técnico contribua para a promoção da qualidade dos relatórios, para a definição de uma identidade gráfica institucional e para simplificar, com ganho de tempo, a elaboração dos documentos.
+
+
+
+
+
+
+
+
+
+VALMIR CAMPELO
+Presidente
+
+
+
+
+
+SUMÁRIO
+
+
+
+
+1.	Introdução	4
+
+
+
+2.	Forma de apresentação das informações	5
+
+
+Estilo de redação	5
+
+
+Formatação do texto	6
+
+
+Apresentação de dados	7
+
+
+Citações e referências	8
+
+
+
+3.	Componentes do relatório de planejamento de auditoria	10
+
+
+Capa	10
+
+
+
+Folha de rosto	10
+
+
+Agradecimentos	11
+
+
+Resumo	11
+
+
+Lista de siglas	11
+
+
+
+Lista de figuras	12
+
+
+Lista de tabelas	12
+
+
+Sumário	12
+
+
+Introdução	12
+
+
+Visão geral	12
+
+
+Projeto da auditoria	13
+
+
+Análise dos comentários dos gestores	14
+
+
+
+Conclusão	14
+
+
+Proposta de encaminhamento	14
+
+
+Apêndices	16
+
+
+Anexos	16
+
+
+Referências	16
+
+
+Glossário	16
+
+
+4.	Componentes do relatório de auditoria	18
+
+
+Introdução	18
+
+
+Visão geral	19
+
+
+Capítulos sobre os temas principais	19
+
+
+Monitoramento e indicadores de desempenho	20
+
+
+Análise dos comentários dos gestores	20
+
+
+Conclusão	20
+
+
+Proposta de encaminhamento	20
+
+
+5. Conclusão	22
+
+
+Apêndices	23
+
+
+Apêndice A: Orientação para elaboração de resumo de relatório de auditoria	23
+
+
+Anexos	28
+
+
+Anexo A: Modelo de folha de rosto	28
+
+
+Anexo B: Exemplo de agradecimentos	29
+
+
+Anexo C: Exemplo de resumo de relatório de planejamento de auditoria	30
+
+
+Anexo D: Exemplo de cronograma das fases de execução e relatório	32
+
+
+Anexo E: Exemplo de proposta de encaminhamento de relatório de planejamento de auditoria	34
+
+
+Anexo F: Tabela de indicadores de desempenho	35
+
+
+Anexo G: Exemplo de proposta de encaminhamento de relatório de auditoria	36
+
+
+Referências	37
+
+
+FOLHA DE SUGESTÕES	38
+
+
+
+
+
+
+Introdução
+
+
+
+
+
+1.1. O Plano Estratégico do Tribunal de Contas da União – TCU para o período de 2003 a 2007, aprovado pela Portaria TCU nº 59, de 20 de janeiro de 2003, define o aperfeiçoamento dos processos de trabalho como uma das estratégias do Tribunal para o alcance dos seus objetivos. O Plano acrescenta que "a produção de resultados com qualidade e tempestividade requer a racionalização dos processos de trabalho existentes, a eliminação de atividades associadas ao excesso de burocracia, documentos e procedimentos de controle e retrabalho que engessam o fluxo normal das atividades desenvolvidas e a prestação dos serviços" (BRASIL, 2003a, p. 15).
+
+
+1.2. Essa estratégia está desdobrada em diversas medidas e ações, que compõem os planos diretores das diversas secretarias do Tribunal. Entre as ações programadas no Plano de Ação da Secretaria de Fiscalização e Avaliação de Programas de Governo (Seprog) para o ano de 2003 constam: elaborar material técnico; revisar o material técnico existente; elaborar documento técnico que traga orientações sobre a produção de relatório.
+
+
+1.3. Nesse contexto, o presente roteiro objetiva orientar as equipes envolvidas com Auditorias de Natureza Operacional (Anops) sobre como deverão ser produzidos os relatórios de planejamento[footnoteRef:2] e de execução de auditorias, mediante definição de padrões gerais para a produção desses relatórios. [2:  No presente documento optou-se por não utilizar a expressão "levantamento de auditoria" para designar a primeira etapa da Anop. Em seu lugar, utilizou-se a expressão "planejamento de auditoria", em função do novo Regimento Interno do TCU classificar "levantamento" como uma das modalidades de fiscalização. ] 
+
+
+
+1.4. Na parte final do planejamento e após a execução da auditoria a equipe deve preparar relatórios a serem submetidos ao Ministro-Relator da matéria. Esses relatórios são o objeto deste roteiro.
+
+1. 
+
+
+Forma de apresentação das informações
+
+
+
+2.1. O presente roteiro define uma padronização para os relatórios de auditoria, baseada na experiência acumulada em trabalhos realizados. Entretanto, essa padronização não deve ser vista como algo estático, pois os padrões de qualidade na produção de relatórios alteram-se com o tempo, até mesmo para garantir que os documentos técnicos que esta Corte de Contas produz mantenham-se atualizados e compatíveis com o nível tecnológico vigente. 
+
+
+2.2. Para que os relatórios sejam úteis e acessíveis é importante que levem em consideração o ponto de vista dos leitores (BRASIL, 2001, p. 10). No caso dos relatórios de planejamento de auditoria, deve-se ter em mente que eles terão tramitação interna, devendo ser direcionados, principalmente, ao Relator da matéria.
+
+
+
+
+Estilo de redação
+
+
+
+
+
+2.3. Os relatórios  de auditoria têm como um de seus objetivos levar ao conhecimento de terceiros o projeto de auditoria proposto, no caso do planejamento, e os achados de auditoria, no caso do relatório de execução. De nada adianta realizar um excelente trabalho de planejamento ou de execução das auditorias, se os relatórios não transmitirem essa excelência. Portanto, o texto deve ser claro e convincente, além de destacar os pontos-chave do trabalho realizado (BRASIL, 2001, p. 7).
+
+
+2.4. Nesse contexto, os autores precisam ter em mente que a maior parte dos atores sociais com interesse na auditoria é leiga na terminologia característica desse tipo de trabalho. Assim, não há necessidade de explicitar que se faz referência a um "achado" ou a uma "questão de auditoria". Do contrário, o relatório trata de questões, problemas, temas, que são termos de uso correto e comum.
+
+
+2.5. A redação do relatório normalmente é compartilhada por vários integrantes da equipe de auditoria. É natural que cada colaborador tenha um estilo próprio de redigir. Por isso, torna-se mister que todos os membros da equipe discutam previamente a estrutura e a forma de apresentação das informações. Depois de redigidas as diversas partes do texto, caberá ao coordenador da equipe efetuar uma revisão geral das diversas contribuições e incutir ao trabalho uma unidade de forma e estilo.
+
+
+2.6. Deve haver o cuidado para que o texto final seja coerente. Diferentemente de um texto literário, em um relatório deve-se evitar o uso de sinônimos para designar as mesmas coisas. Os padrões adotados devem ser seguidos do início ao fim. No caso de se utilizar siglas para designar órgãos ou programas, estas, além de estarem descritas na lista de siglas, devem ser acompanhadas do seu nome por extenso na primeira vez em que aparecerem no texto. Abreviaturas devem ser evitadas. 
+
+
+2.7. Quando for necessário relacionar uma série de assuntos em itens ou alíneas, deve-se observar o paralelismo, ou seja, iniciar cada componente por palavras da mesma classe gramatical. Por exemplo: ao se iniciar um item com um verbo, iniciar os demais também por um verbo, no mesmo tempo verbal; ao se iniciar com um substantivo acompanhado de artigo, os demais itens devem seguir a mesma estrutura. 
+
+
+2.8. É importante também que haja coesão textual, obtida por meio do seqüenciamento lógico das idéias e do uso de conectivos adequados. A linguagem deve ser objetiva e escrita, preferencialmente, na ordem direta (sujeito, verbo, objeto e complementos). 
+
+
+2.9. Deve-se redigir de forma a denotar impessoalidade. Entre os diversos motivos para se adotar essa abordagem, destaca-se a maior facilidade de apropriação do texto pelo Tribunal, o que contra indica também utilizar "a equipe de auditoria" como sujeito.
+
+
+2.10. Devem ser evitadas orações intercaladas, parêntesis e travessões, bem como períodos longos que se estendem por diversas linhas. Esse cuidado facilita a compreensão e torna a leitura mais acessível e agradável. Do mesmo modo, não é recomendável construir longos trechos descritivos que não acrescentem informação útil à fundamentação dos argumentos. Os relatos não precisam incluir todas as situações encontradas, cujo registro fica preservado nos papéis de trabalho. Deve-se dar maior importância aos pontos centrais da argumentação. A observância dessas recomendações é fundamental para que o relatório não fique muito longo. Consideram-se 25 páginas o limite máximo para a parte textual dos relatórios de planejamento e 30 páginas, dos relatórios de auditoria.
+
+
+2.11. Quando se fizer referência a outra parte do mesmo documento, deve-se mencionar o número do parágrafo, figura ou tabela. A citação da página ou o uso de expressões como "a seguir" ou "anterior" para referir-se a tabelas e figuras pode ensejar confusão com a numeração das folhas do processo, bem como prejudicar o trabalho posterior de editoração do texto para eventual publicação, logo não devem ser empregados. Nas referências a palavras mencionadas anteriormente, deve-se empregar pronomes (ele/ela, o/a, lhe) em lugar de expressões como "o mesmo" (ALMEIDA, 1990, p. 186).
+
+
+2.12. Na redação dos relatórios, a seqüência das palavras deve ser organizada de forma a tornar a frase mais clara, usando-se o mínimo necessário de palavras e sem utilizar construções elaboradas. Por exemplo, a frase "o órgão encontra-se, no momento, passando por um processo amplo de redefinição de seus indicadores de desempenho", poderia perfeitamente ser substituída por "o órgão está redefinindo seus indicadores de desempenho".
+
+
+2.13. As frases devem ser curtas. O sentido global de frases muito longas, normalmente, fica obscurecido. A seguir é apresentado um exemplo de período muito longo, seguido de nova redação das mesmas idéias, pontuada adequadamente:
+
+
+· Levar em consideração o ponto de vista do leitor não significa que ilustrações devam ser incluídas apenas para agradá-lo, pois, de modo geral, leitores especializados serão bastante críticos se confrontados com gráficos ou tabelas aparentemente irrelevantes, já que a inclusão de uma ilustração em um relatório gera, naturalmente, uma expectativa de que a informação retratada ou sintetizada é importante e merecedora de ser realçada.
+
+
+· "Levar em consideração o ponto de vista do leitor não significa que ilustrações devam ser incluídas apenas para agradá-lo. De modo geral, leitores especializados serão bastante críticos se confrontados com gráficos ou tabelas aparentemente irrelevantes. A inclusão de uma ilustração em um relatório gera, naturalmente, uma expectativa de que a informação retratada ou sintetizada é importante e merecedora de ser realçada" (BRASIL, 2001, p. 11).
+
+
+2.14. Devem-se observar, ainda, os requisitos de clareza, concisão, convicção, exatidão, relevância, tempestividade e objetividade, conforme definido no Roteiro de Auditoria de Conformidade (BRASIL, 2003c, p. 7)
+
+
+
+
+
+
+Formatação do texto
+
+
+
+
+
+2.15. Como padrão geral, o texto deve ser grafado com a letra times new roman, de tamanho 12, e alinhado a ambas as margens (alinhamento justificado), com espaçamento simples entre as linhas. 
+
+
+2.16. As páginas devem ser contadas a partir da folha de rosto e numeradas a partir da introdução, com o número colocado no seu canto inferior direito. 
+
+
+2.17. As margens devem medir: 3 centímetros (superior e esquerda); e 2 centímetros (inferior e direita). 
+
+
+2.18. O cabeçalho deve ser grafado com letra tamanho 10, trazer o logotipo do Tribunal, à esquerda, acompanhado do nome "TRIBUNAL DE CONTAS DA UNIÃO", em negrito e em letras maiúsculas, na primeira linha à direita, seguido do nome da(s) secretaria(s), na segunda linha, e do título do trabalho, na terceira. Veja o exemplo de cabeçalho, abaixo:
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+2.19. O texto deve ser dividido em capítulos, e estes, em subtítulos. Os títulos dos capítulos devem inaugurar folhas distintas, ser numerados, alinhados à esquerda e grafados em letras minúsculas (excetuada a primeira) e em negrito. Já os subtítulos não devem ser numerados, devem ser centralizados e grafados em letras minúsculas (excetuada a primeira), em negrito e itálico. Os subtítulos devem ser separados do texto que os precede ou que os sucede por um espaço adicional. Quando se utilizar o aplicativo Microsoft Word, os títulos e subtítulos devem ser formatados com estilo "título 1" e "título 2", respectivamente. Tal medida possibilita a construção automática das referências no Sumário.
+
+
+2.20. Os parágrafos do texto devem ser numerados, a partir da introdução, como desdobramento da numeração dos capítulos, utilizando-se a opção de automatizar para facilitar eventual rearranjo do texto[footnoteRef:3]. Os números devem permanecer alinhados à margem esquerda e o texto iniciar a 2,5 centímetros desta. Deve haver um espaçamento maior entre os parágrafos[footnoteRef:4]. [3:  Quando se utilizar o aplicativo Microsoft Word, utiliza-se a opção "formatar", "marcadores e numeração".]  [4:  Quando se utilizar o aplicativo Microsoft Word, os parágrafos devem ser formatados com espaço de 6 pontos antes e de 6 pontos depois.] 
+
+
+
+2.21. A página da Seprog na intranet apresenta modelos eletrônicos de relatório de planejamento e de relatório final de auditoria de natureza operacional.
+
+
+
+
+
+
+Apresentação de dados
+
+
+
+
+
+2.22. O documento "Técnicas de Apresentação de Dados", produzido pela Secretaria Adjunta de Fiscalização (Adfis), em 2001, oferece importantes recomendações e pode ser consultado para dirimir dúvidas relacionadas à forma de apresentação dos dados por meio de caixas-de-texto, diagramas, fotografias, gráficos, mapas e tabelas. As principais recomendações a serem seguidas ao se fazer uso desses elementos é que haja identificação seqüencial (figura "n", tabela "n")[footnoteRef:5], título e nota de rodapé, com inclusão obrigatória da fonte[footnoteRef:6]. [5:  Quando se utilizar o aplicativo Microsoft Word, figuras, tabelas e equações devem ser incluídas utilizando-se a opção Inserir, Legenda. Com isso, torna-se automática sua inclusão na lista de figuras.]  [6:  Quando se utilizar o aplicativo Microsoft Word, as referências podem ser feitas utilizando-se da opção "Inserir, Referência cruzada". Isso fará com que qualquer mudança na numeração das figuras do texto também sejam feitas automaticamente nas referências.] 
+
+
+
+2.23. É importante frisar que, ao se planejar a estrutura do texto, deve-se prever a seqüência das ilustrações, de forma que possam demonstrar as principais evidências e conclusões que a equipe de auditoria deseja apontar (BRASIL, 2001, p. 10).
+
+
+2.24. As tabelas de dados numéricos não devem ter traços verticais que as delimitem à esquerda e à direita (IBGE, 1993 apud BRASIL, 2001, p. 15). As tabelas compõem-se de colunas e linhas, devem apresentar as totalizações em negrito e apresentar notas explicativas, quando necessárias (BRASIL, 2001, p. 16). Além disso, deve-se citar a fonte dos dados e o responsável pela elaboração da tabela. Se a tabela foi elaborada pela equipe de auditoria, não há necessidade de se fazer referência ao fato porque o relatório já tem sua autoria identificada.
+
+
+2.25. Uma das melhores maneiras de se transmitir dados é mediante o uso de gráficos, que podem ser de vários tipos. A escolha do modelo apropriado deve ser cuidadosa e depende dos dados que se pretende demonstrar (BRASIL, 2001, p. 25). Nos gráficos deve ficar claramente expresso o que representam as linhas, barras, colunas ou "fatias", mediante rótulos e legendas. É importante ainda que se faça indicação das unidades de medida em uso (BRASIL, 2001, p. 28). Quando necessário, devem ser incluídas notas explicativas.
+
+
+2.26. Os diagramas também são muito utilizados nos relatórios de auditoria. Os mais comuns são os fluxogramas e os organogramas. Os seguintes cuidados são essenciais para se obter um bom resultado: uso de formatos padronizados, retratando diferenças entre os elementos representados; uso de caixas do mesmo tamanho para indicar elementos similares; alinhamento dos objetos em fileiras e colunas; e economia no uso de retas de ligação, evitando-se linhas diagonais e mudanças de direção.
+
+
+2.27. Freqüentemente, é útil mencionar no relatório as regiões onde se passam os fatos relatados. Para tanto, faz-se uso de mapas, que podem ser de dois tipos: geográficos ou de dados. Os mapas geográficos mostram regiões, áreas, fronteiras ou locais visitados. Ao utilizar esses mapas, é importante respeitar os direitos autorais do seu criador. Os mapas de dados combinam gráficos com mapas. Como exemplo, pode-se citar a sobreposição de gráfico de barras a um mapa, sendo cada barra colocada sobre a representação de determinada região (BRASIL, 2001, p. 40/42).
+
+
+2.28. As fotografias, normalmente integrantes das capas dos relatórios, também podem ser inseridas ao longo do texto, desde que sirvam para explicar o tópico examinado. Ao se fazer uso de fotografias, deve-se evitar aquelas que possam transmitir mensagens não-intencionais, inapropriadas, ofensivas a determinados grupos, melancólicas, agressivas, ou excessivamente glamourosas, como as que são especialmente criadas para promover órgãos ou programas. É importante que a fotografia seja acompanhada de nota explicativa ou caixa de texto que explique o seu conteúdo(BRASIL, 2001, p. 42/44).
+
+
+2.29. Para se conseguir transmitir uma idéia mais completa dos assuntos tratados, pode-se usar caixas de texto, que são apropriadas para descrever mais detidamente aspectos específicos.
+
+
+
+Citações e referências
+
+
+
+
+
+2.30. Nas auditorias de natureza operacional, as equipes precisam buscar grande quantidade de informações sobre o assunto abordado. O necessário aprofundamento nos diversos temas envolvidos tornam obrigatórias as pesquisas bibliográficas, consultas via Internet, a leitura de periódicos e de trabalhos acadêmicos. Ao se utilizar estas informações nos relatórios, é importante que se observe a proteção da propriedade intelectual dos autores.
+
+
+2.31. A legislação brasileira permite a utilização não autorizada de obras para fins de estudo, crítica ou polêmica, bem como para produzir prova administrativa, sem finalidades lucrativas, desde que seja observado o direito de citação (Lei nº 9610/1998, art. 46). A Associação Brasileira de Normas Técnicas (ABNT), em sua norma NBR 10520/2002, determina como uma informação colhida de outra fonte deve ser citada. A página da intranet da Biblioteca do Instituto Serzedello Corrêa (ISC) apresenta o trabalho "Como Fazer Referências Bibliográficas", que oferece vários exemplos de referências.
+
+
+2.32. Deve-se dar preferência a citações indiretas, resumindo-se as informações que se deseja transmitir. Citações diretas com mais de três linhas, quando imprescindíveis, constituem parágrafo próprio, recuado quatro centímetros da margem esquerda e grafado com tamanho de fonte 10 e sem aspas. Citações diretas curtas, de até três linhas, devem ser inseridas no próprio texto, entre aspas.
+
+
+2.33. As referências incluídas em nota de rodapé devem ser grafadas com o mesmo tipo de fonte do texto principal, mas com tamanho 10. Devem ser numeradas seqüencialmente ao longo do texto.
+
+
+
+2. 
+
+Componentes do relatório de planejamento de auditoria
+
+
+
+3.1. O principal instrumento de apoio à elaboração do relatório de planejamento de auditoria é a matriz de planejamento (BRASIL, 2002b). O relatório, em sua essência, é a motivação para se investigar determinado problema de auditoria, sob particular aspecto e utilizando certa metodologia. A matriz é a representação esquemática do projeto de auditoria, que será desenvolvido no relatório. Daí a importância da discussão amadurecida da matriz antes de se iniciar a redação do projeto.
+
+
+3.2. O relatório de planejamento de auditoria divide-se em elementos pré-textuais, texto e elementos pós-textuais. Os elementos pré-textuais são: capa; folha de rosto; agradecimentos; resumo; lista de siglas; lista de figuras; lista de tabelas e sumário. O texto compõe-se de: introdução; visão geral; projeto de auditoria; análise dos comentários do gestor; conclusão; e proposta de encaminhamento. Os elementos pós-textuais são: apêndices; anexos; referências e glossário. A seguir estão descritos os elementos citados.  
+
+
+
+
+
+Capa
+
+
+
+
+
+3.3. A capa dos relatórios de planejamento de auditoria deverá seguir a mesma padronização adotada para os relatórios de auditoria. A capa é o elemento mais importante para a definição de uma identidade gráfica institucional e deve ser padronizada. Esse padrão pode variar após um certo período, medido em anos, para que sejam introduzidos aperfeiçoamentos visando a modernização, o aumento da atratividade ou o aperfeiçoamento na transmissão da informação.
+
+
+3.4.  Sendo assim, este roteiro limita-se a estabelecer elementos básicos que devem figurar na capa, remetendo a definição do padrão a ser seguido ao modelo eletrônico disponível na intranet, cuja responsabilidade por sua manutenção recai sobre a Seprog. 
+
+
+3.5. A capa deve apresentar o logotipo do TCU de modo destacado, o tipo da auditoria (de natureza operacional), o nome do órgão ou programa objeto de análise, os nomes dos membros da equipe de auditoria, local, mês e ano. 
+
+
+3.6. A capa deve ser ilustrada com fotos ou elementos gráficos. No caso de foto, deve-se preferir a utilização das tiradas pela equipe por transmitirem uma imagem mais fiel da realidade, além de evitar problemas quanto a direitos de utilização de imagens.
+
+
+3.7. A página da Seprog na intranet apresenta modelo de capa de relatório de planejamento de auditoria.
+
+
+
+
+
+
+Folha de rosto
+
+
+
+
+
+3.8. A folha de rosto, cujo modelo constitui o anexo A deste roteiro, deverá conter os elementos necessários para identificação do relatório, ou seja:
+
+
+· Número dos autos do processo;
+
+
+· Nome do Relator;
+
+
+· Nome da Unidade;
+
+
+· Nome, cargo e CPF do responsável;
+
+
+· Nome, cargo e CPF do gerente do Programa;
+
+
+· Vinculação ministerial e no TCU;
+
+
+· Ato de designação da equipe;
+
+
+· Número de registro no Fiscalis;
+
+
+· Objetivo da auditoria;
+
+
+· Período abrangido pela auditoria;
+
+
+· Período de realização do planejamento;
+
+
+· Equipe de auditoria.
+
+
+
+
+Agradecimentos
+
+
+
+
+
+3.9. Elemento opcional do relatório cujo exemplo constitui o anexo B deste roteiro. Costuma-se agradecer às pessoas que contribuíram de forma relevante para a realização da auditoria, com dedicação além dos deveres profissionais ou mesmo de forma gratuita. Exemplo disso são especialistas da academia ou de institutos de pesquisa que comparecem a painéis de referência de auditoria. Nos agradecimentos não são incluídos profissionais contratados, que devem ser mencionados na metodologia ou no apêndice que trata da técnica cuja aplicação foi contratada. Mantém-se a redação impessoal também nessa parte do relatório.
+
+
+
+
+
+
+Resumo
+
+
+
+
+
+3.10. A finalidade do resumo é dar ao leitor uma visão concisa do tema, dos problemas identificados, das recomendações pertinentes e dos principais achados. É um texto voltado para a divulgação e está previsto no Manual de Auditoria de Natureza Operacional (MANOp).
+
+
+3.11. O resumo deverá fornecer elementos capazes de permitir ao leitor, interno e externo, decidir sobre a conveniência e a necessidade de se consultar o relatório. Portanto, ele deve conter uma breve descrição dos elementos-chave do relatório, descartando-se idéias secundárias, exemplos, ilustrações, símbolos, abreviaturas, fórmulas, diagramas e notas de rodapé.
+
+
+3.12. Os resumos normalmente servem de base à elaboração de documentos de divulgação dos trabalhos, após apreciação da matéria pelo Tribunal (BRASIL, 2000, p. 84).
+
+
+3.13. Os parágrafos do resumo devem ser numerados de 1 a "n". Essa numeração não se relaciona com a dos parágrafos do texto. Além disso, o resumo, que não se divide em subtítulos, deve conter cerca de 500 palavras (uma página e 1/3) e, mesmo que se trate de temas complexos, deverá limitar-se a duas páginas. O apêndice A deste roteiro traz orientações para elaboração do resumo de relatório de auditoria e o anexo C apresenta um exemplo de resumo de relatório de planejamento.
+
+
+
+
+
+
+Lista de siglas
+
+
+
+
+
+3.14. A lista de siglas reúne as principais siglas citadas no texto e suas respectivas significações, facilitando sua compreensão.
+
+
+
+
+
+
+Lista de figuras
+
+
+
+
+
+3.15. Destina-se a relacionar as ilustrações (gráficos, fotos, mapas e outros) existentes no texto, na ordem em que são apresentadas, com seu nome específico e indicação da respectiva página. Quando se utilizar o aplicativo Microsoft Word, deve-se usar a opção "Inserir, Índice, Índice de figuras, Formal". Ainda nessa opção, deve-se selecionar "figura" como o nome da legenda. A lista de figuras é composta a partir das legendas inseridas mediante a seleção da ilustração e acionamento do comando "inserir, legenda". Na caixa diálogo "legenda", é necessário selecionar no campo "nome" a opção "figura". Esse procedimento está automatizado no modelo eletrônico de relatório de planejamento que encontra-se na página da Seprog na intranet.
+
+
+
+
+
+Lista de tabelas
+
+
+
+
+
+3.16. Elaborado de acordo com a ordem apresentada no texto, com cada item designado por seu nome específico, acompanhado do respectivo número de página. Quando se utilizar o aplicativo Microsoft Word, deve-se usar a opção "Inserir, Índice, Índice de figuras, Formal". Ainda nessa opção, deve-se selecionar "tabela" como o nome da legenda. A lista de tabelas é composta a partir das legendas inseridas mediante a seleção da tabela e acionamento do comando "inserir, legenda". Na caixa diálogo "legenda", é necessário selecionar no campo "nome" a opção "tabela". Esse procedimento está automatizado no modelo eletrônico de relatório de planejamento que se encontra na página da Seprog na intranet.
+
+
+
+
+
+
+
+
+
+
+Sumário
+
+
+
+
+
+3.17. Consiste na enumeração das seções do relatório, a partir da introdução até o último elemento pós-textual do relatório, com indicação da página inicial de cada capítulo. Quando se utilizar o aplicativo Microsoft Word, deve-se usar a opção "Inserir, Índice, Índice analítico, Formal".
+
+
+
+
+
+
+Introdução
+
+
+
+
+
+3.18. Parte do relatório onde devem constar os elementos necessários para caracterizar de que trata o planejamento. Deve conter  as seguintes informações: razões que originaram a auditoria; identificação do objeto de auditoria; metodologia utilizada no planejamento (basicamente as técnicas de diagnóstico aplicadas como mapa de processo, análise SWOT, análise stakeholder e outras) e a descrição da forma como se organiza o relatório.
+
+
+
+
+
+
+Visão geral
+
+
+
+
+
+3.19. 	Nesse capítulo devem estar descritas em subtítulos as características do objeto de auditoria, tais como: objetivos, responsáveis, histórico, legislação, beneficiários, principais produtos, relevância, indicadores de desempenho, metas, aspectos orçamentários, processo de tomada de decisão, sistemas de controle. 
+
+
+3.20. A divisão em subtítulos é flexível. Por exemplo, caso um objeto de auditoria tenha suas atividades bem regulamentadas, o fio condutor da visão geral pode ser a legislação, o que torna desnecessário um subtítulo específico. 
+
+
+3.21. Os textos analíticos resultantes da aplicação das técnicas de diagnóstico são essenciais para esse capítulo. Por exemplo, deve-se, com base na análise stakeholder, descrever os principais atores envolvidos, seus interesses, poder de influência e relações.
+
+
+
+
+
+
+Projeto da auditoria
+
+
+
+
+
+3.22. Esse capítulo do relatório inicia-se com a definição do problema de auditoria e sua justificativa. A justificativa é a defesa da escolha do tema, tendo por base sua relevância. Nesse ponto, deve-se relatar resumidamente como as conclusões obtidas da aplicação das técnicas de diagnóstico foram consideradas para se chegar à definição do problema e das questões de auditoria. A simples menção das técnicas utilizadas não é suficiente para elucidar como se processaram as conclusões da equipe.
+
+
+3.23. Em seguida, sucedem-se subtítulos dedicados à descrever a metodologia a ser utilizada e as questões de auditoria. Por fim, registram-se aspectos operacionais referentes à execução como o cronograma de exames in loco e o custo estimado da auditoria.
+
+
+3.24. No subtítulo metodologia é importante especificar os critérios de auditoria, as características das unidades de pesquisa, o desenho amostral, se for o caso, e explicar os critérios de seleção de estudos de caso ou exemplos de caso. Para que o texto do relatório não fique repetitivo, registram-se aspectos gerais da metodologia a ser utilizada nesse subtítulo e métodos e técnicas específicas a serem  utilizadas na investigação de uma questão de auditoria, em particular no subtítulo que trata da questão correspondente. O mesmo deve ser feito com relação aos critérios de auditoria.
+
+
+3.25. Na seqüência, procede-se à descrição das questões de auditoria em subtítulos, que não devem, entretanto, ser sua transcrição direta (vide 
+
+
+
+
+
+
+
+
+
+
+
+3.26. Com isso, as atividades realizadas no planejamento de auditoria não precisarão ser relacionadas à parte, já que a estruturação do texto por questão de auditoria, seguindo a seqüência dos itens da matriz de planejamento, possibilita uma compreensão mais clara ao leitor. O relato do teste piloto deve constituir um apêndice do relatório.
+
+
+3.27. No projeto de auditoria deve-se apresentar também o plano de exames in loco, a possível solicitação de apoio das Secex nos Estados, o custo total estimado do planejamento de auditoria e das fases de execução e de relatório, além de outros aspectos importantes, como a utilização de serviços de especialistas, a participação do Poder Executivo e do Controle Interno. O anexo D a este roteiro traz exemplo de cronograma das fases de execução e relatório de auditoria.
+
+
+
+
+
+
+Análise dos comentários dos gestores
+
+
+
+
+
+3.28. Uma versão preliminar do relatório de planejamento deve ser encaminhada aos gestores dos órgãos ou programas objeto da auditoria, para que estes possam se manifestar e tecer seus comentários. Os gestores devem ser esclarecidos sobre o caráter sigiloso dessa versão e a cópia impressa do relatório a ser encaminhada deve conter marca d’água na diagonal de todas suas páginas com a expressão SIGILOSO. Os comentários oferecidos devem ser analisados pela equipe de auditoria, avaliando a necessidade de rever algum ponto discordante na visão dos gestores. A análise dos comentários e a avaliação da equipe devem ser expressas neste subtítulo.
+
+
+3.29.  Muitas vezes, dada a exigüidade do período reservado para a confecção do relatório de planejamento, não é possível a obtenção dos comentários dos gestores nos moldes descritos no parágrafo anterior. Nesse caso, devem-se registrar as opiniões dos gestores apresentadas nos trabalhos desenvolvidos em conjunto com o órgão auditado, acrescentando-se os comentários feitos durante a apresentação da matriz de planejamento e dos resultados das técnicas de diagnóstico.
+
+
+
+
+
+
+Conclusão
+
+
+
+
+
+3.30. A conclusão deve trazer a manifestação da equipe sobre a oportunidade de realização da auditoria, com seu embasamento, expresso de forma bastante resumida. 
+
+
+3.31. Devem-se destacar as oportunidades de melhoria de desempenho e possíveis áreas de recomendação, além de se resumir os principais benefícios esperados. Sempre que for possível, os benefícios devem ser quantificados.
+
+
+
+
+
+
+Proposta de encaminhamento
+
+
+
+
+
+3.32. A proposta de encaminhamento deve sintetizar as proposições da equipe a serem submetidas ao Ministro-Relator. 
+
+
+3.33. Apesar de não ser a prática mais comum, outras recomendações julgadas relevantes e oportunas devem ser incluídas, sendo possível, portanto, que o relatório de levantamento suscite determinações ou recomendações aos órgãos jurisdicionados. O anexo E a este roteiro traz exemplo de proposta de encaminhamento em relatório de planejamento de  auditoria.
+
+
+
+
+
+
+
+
+Apêndices
+
+
+
+
+
+3.34. Os apêndices são informações adicionais produzidas pela equipe de auditoria, destacadas do texto para evitar a descontinuidade da sua seqüência lógica. São identificados por letras maiúsculas consecutivas, travessão e pelos respectivos títulos (ABNT, 2002b). Os papéis de trabalho permanentes que constituam registros do trabalho executado, como papéis gerados da aplicação de técnicas de diagnóstico, devem ser organizados em um ou mais volumes e lançados no sistema Processus sob a forma de documentos. Os principais apêndices constantes dos relatórios de planejamento de auditoria são os seguintes:
+
+
+· Matriz de planejamento;
+
+
+· Análise SWOT;
+
+
+· Diagrama de verificação de riscos;
+
+
+· Análise Stakeholder;
+
+
+· Marco lógico;
+
+
+· Matriz de indicadores de desempenho;
+
+
+· RECI;
+
+
+· Questionários;
+
+
+· Entrevistas;
+
+
+· Roteiro de grupo focal;
+
+
+· Cronograma das fases de execução e relatório;
+
+
+· Mapa de processos;
+
+
+· Mapa de produtos e impactos;
+
+
+· Relatório do teste piloto;
+
+
+· Estimativa dos custos da auditoria.
+
+
+
+
+
+
+Anexos
+
+
+
+
+
+3.35. Os anexos constituem-se de informações adicionais não produzidas pela equipe, que colaboram para esclarecer e confirmar as idéias expressas no texto. São identificados por letras maiúsculas consecutivas, travessão e pelos respectivos títulos (ABNT, 1989, 2002b).
+
+
+3.36. Não devem ser incluídos no relatório documentos do programa auditado; publicações de outras fontes; pedidos de informação ou respostas a pedidos de informação; e transcrições de entrevistas.
+
+
+
+
+
+
+Referências
+
+
+
+
+
+3.37. As referências são a listagem das fontes bibliográficas utilizadas na produção do texto. Devem ser apresentadas conforme a norma NBR 6023, da ABNT.
+
+
+
+
+Glossário
+
+
+
+3.38. O Glossário deve ser incluído no relatório sempre que o texto trouxer palavras cujo significado é pouco conhecido, de uso regional, ou desconhecido fora de determinada especialidade técnica, ou científica (ABNT, 1989).
+4. 
+
+
+Componentes do relatório de auditoria
+
+
+
+3.39. O principal instrumento de apoio à elaboração do relatório de auditoria é a matriz de achados (BRASIL, 2002b). O relatório, em sua essência, é a comunicação sobre os achados de auditoria, a emissão de uma opinião qualificada sobre desempenho e a articulação de argumentos a favor da adoção de certas medidas visando melhorar o desempenho. A matriz é a representação esquemática dos achados e dos argumentos da equipe que sustentarão sua opinião.  Esses achados e argumentos serão desenvolvidos nos capítulos principais do relatório. Daí a importância da discussão da matriz no âmbito da equipe, com os gestores e demais atores relevantes, antes de se iniciar a redação do texto.
+
+
+4.1. A exemplo do relatório de planejamento, o relatório de auditoria divide-se em elementos pré-textuais, texto e elementos pós-textuais. Os elementos pré-textuais são: capa; folha de rosto; agradecimentos; resumo; lista de siglas; lista de figuras; lista de tabelas e sumário. O texto compõe-se de introdução; visão geral; capítulos que correspondem às questões de auditoria; análise dos comentários do gestor; conclusão; e proposta de encaminhamento. Os elementos pós-textuais são: apêndices; anexos; referências e glossário. A seguir estão descritos apenas os elementos peculiares aos relatórios de auditoria, vez que os tópicos comuns ao relatório de planejamento foram tratados no capítulo 3 deste roteiro.
+
+
+
+ Introdução
+
+
+
+4.2. A introdução é a parte inicial do texto e deve conter os elementos necessários para situar o tema da auditoria. Compõe-se dos seguintes elementos:
+
+
+a) antecedentes, que contemplam as razões que originaram a auditoria, a decisão que a autorizou e  a existência de fiscalizações anteriores no mesmo objeto;
+
+
+b) identificação do objeto de auditoria, que se constitui na descrição simplificada do programa ou órgão auditado. Outros detalhes são apresentados na visão geral;
+
+
+c) objetivos e escopo da auditoria, onde devem ser claramente enunciados os objetivos da auditoria e os limites do trabalho, especificando os sistemas ou aspectos que foram auditados, bem como a justificativa de se ter adotado a abordagem descrita (BRASIL, 2000, p. 85); 
+
+
+d) critérios,  que deve conter padrões gerais utilizados para emitir opinião sobre o desempenho do objeto de auditoria. Pode incluir o arcabouço conceitual básico, em auditorias mais complexas, bem como a fonte dos padrões de desempenho utilizados. Critérios específicos aplicáveis às questões de auditoria podem ser descritos no capítulo correspondente;
+
+
+e) metodologia, que compreende os métodos empregados na coleta e na análise dos dados. A metodologia deve ser exposta resumidamente, registrando-se detalhes em apêndice. Nesse subtítulo devem ser mencionadas as limitações impostas ao trabalho de auditoria associadas à metodologia usada para investigar as questões de auditoria; confiabilidade ou à dificuldade na obtenção de dados, assim como as limitações relacionadas ao próprio escopo do trabalho, ou seja, as áreas e os aspectos não analisados; e
+
+
+f) forma de organização do relatório, descrição breve dos temas tratados nos capítulos do relatório, ressaltando a ligação lógica entre eles.
+
+
+
+
+
+
+Visão geral
+
+
+
+4.3. Esse capítulo segue o modelo já descrito no parágrafo 3.19 e seguintes deste roteiro. Ressalva-se que as informações sobre indicadores de desempenho e metas podem ser apresentadas no capítulo "Monitoramento e indicadores de desempenho", que, em geral, integra os relatórios de auditoria de natureza operacional. Além disso, pode ser que itens previstos para compor a visão geral sejam objeto de análise de capítulo do relatório, como, por exemplo, o processo de tomada de decisão. Nesse caso, basta tratar do tema no capítulo correspondente.
+
+
+4.4. É importante que fique clara a relação entre o objeto da auditoria e seus efeitos finais e impactos desejados. Essa relação nem sempre é óbvia para quem não está envolvido com o assunto.
+
+
+
+Capítulos sobre os temas principais
+
+
+4.5. Os capítulos principais devem ser estruturados por questão de auditoria e devem ser ordenados, sempre que possível, considerando a relevância dos achados de auditoria (do mais relevante para o menos relevante). Portanto, nem sempre será mantida a ordem proposta no relatório de planejamento. É importante ressaltar que os títulos dos capítulos não devem ser a  transcrição do problema de auditoria, como já alertado no parágrafo 3.25.
+
+
+4.6. Da mesma forma, os capítulos devem ser divididos em subtítulos, por achado de auditoria, ordenados em grau decrescente de importância. Antes do subtítulo correspondente ao primeiro achado, deve ser escrito um parágrafo introdutório ao capítulo, com breve descrição dos assuntos que serão desenvolvidos nos subtítulos seguintes.
+
+
+4.7. Os subtítulos devem ser desenvolvidos na seguinte seqüência, com as adaptações que se fizerem necessárias para os casos particulares:
+
+
+a) parágrafo inicial de impacto, com descrição sucinta do achado, o que inclui mencionar  critério, condição, causa e efeito; 
+
+
+b) descrição mais detalhada do achado, com argumentos sobre a fonte do critério, apresentação de evidências que sustentem as afirmações sobre a condição, descrição de métodos e técnicas que permitiram identificar as causas;
+
+
+c) análise dos efeitos e riscos envolvidos com a manutenção das condições encontradas;
+
+
+d) descrição de boas práticas;
+
+
+e) prenúncio de recomendações e estimação de benefícios, caso essas sejam implementadas.
+
+
+4.8. Ao terminar de relatar os achados referentes às questões de auditoria, pode ser necessário registrar, em capítulo adicional, outros achados de auditoria, não relacionados com as questões previstas na etapa de planejamento, mas referentes ao objeto de auditoria. Essa providência somente deve ser adotada caso não prejudique a unidade e a coerência do relatório. De outro modo, pode ser examinada a possibilidade de se representar sobre o assunto.
+
+
+
+Monitoramento e indicadores de desempenho
+
+
+4.9. Para que se possa monitorar a implementação das determinações e recomendações emitidas pelo TCU, bem como o alcance de metas de desempenho, a equipe deve analisar os indicadores de desempenho existentes ou construir novos, caso necessário, sempre em conjunto com os gestores. Tal providência ganha importância quando considera-se que a gestão por resultados não está plenamente incorporada às práticas de administração pública, apesar do preconizado na metodologia de elaboração do Plano Plurianual.
+
+
+4.10. Esse capítulo destina-se a que sejam claramente definidos os atributos dos indicadores, como nome e fórmula matemática, além do período de apuração, base geográfica, meta e prazo para atingi-la. O anexo F traz exemplo de tabela a ser usada para apresentar os indicadores acordados com os gestores. 
+
+
+
+Análise dos comentários dos gestores
+
+
+4.11. A versão preliminar do relatório de auditoria deve ser encaminhada aos gestores dos órgãos ou programas auditados, solicitando que agreguem comentários que julguem adequados. Os gestores devem ser esclarecidos sobre o caráter sigiloso dessa versão e a cópia impressa do relatório a ser enviada deve conter marca d’água na diagonal de todas suas páginas com a expressão SIGILOSO. A análise desses comentários deve ser registrada no capítulo "Análise dos comentários dos gestores".
+
+
+4.12. Eventuais sugestões apresentadas pelos gestores e acatadas pela equipe, gerando alterações no texto do relatório preliminar, não precisam ser mencionadas detalhadamente. Apenas deve-se fazer menção às sugestões, com indicação de terem sido acatadas.
+
+
+4.13. Elogios e discordâncias devem ser destacados. As observações que não tiveram aceitação por parte da equipe devem ser analisadas individual e detidamente. 
+
+
+
+Conclusão
+
+
+4.14. Esse capítulo deve trazer uma visão geral e sintética dos assuntos tratados, de modo a se obter um quadro geral compreensível dos principais achados e recomendações (BRASIL, 2000, P. 88). 
+
+
+4.15. Devem ser destacados de forma equilibrada os pontos fortes do objeto de auditoria, as principais oportunidades de melhoria de desempenho e os possíveis benefícios esperados, sempre que possível, quantificando-os em termos de economia de recursos ou de outra natureza de melhoria. Também devem ser relatadas as dificuldades enfrentadas pelos gestores e destacadas as iniciativas positivas por eles empreendidas no sentido de superar as dificuldades. 
+
+
+
+Proposta de encaminhamento
+
+
+4.16. Na proposta de encaminhamento devem constar as recomendações e determinações que a equipe entende que devam ser submetidas ao Ministro-Relator da matéria para a melhoria do desempenho do objeto de auditoria.
+
+
+4.17. O roteiro de monitoramento de Anop (BRASIL, 2002a, p. 11) recomenda que seja proposta determinação no sentido de que o auditado elabore e encaminhe ao Tribunal plano de ação contendo cronograma das medidas que adotará no sentido de cumprir as demais recomendações. Também é importante que se determine o estabelecimento de grupo de contato de auditoria, que deverá contar com a participação de representantes das diversas áreas envolvidas na implementação das recomendações e atuar como canal de comunicação com o Tribunal durante a fase de monitoramento[footnoteRef:7]. [7:  Monitoramento é o acompanhamento das providências tomadas no âmbito do órgão ou programa auditado em resposta às recomendações do TCU. Prevê a interação com os gestores responsáveis, de forma a maximizar a probabilidade de que as recomendações sejam adotadas adequadamente (BRASIL, 2002).] 
+
+
+
+4.18. A proposta de encaminhamento deve trazer ainda a indicação dos órgãos para os quais o Tribunal deverá enviar cópia do relatório e da deliberação do Plenário.
+
+
+4.19. As proposições devem ser claras, factíveis, de resultados mensuráveis, pois subsidiarão a elaboração de plano de ação por parte dos gestores, o monitoramento dos resultados e a avaliação do impacto da auditoria.
+
+
+
+
+
+
+5. Conclusão
+
+
+
+5.1 	A comunicação dos resultados das auditoria deve atingir seu objetivo final de reportar à sociedade sobre o desempenho da administração pública, permitindo a responsabilização dos agentes públicos pelos resultados da ação de governo, mediante controle parlamentar e controle social.
+
+
+5.2	O relatório também deve ser convincente de modo que as determinações e recomendações lançadas pelo Tribunal ganhem apoio dos atores capazes de influenciar na gestão do objeto auditado, sejam implementadas e gerem melhorias de desempenho em benefício da sociedade.
+
+
+5.3	A demonstração da qualidade do trabalho de levantamento de informações e de análise realizado pela equipe de auditoria, bem como o convencimento dos atores interessados sobre a pertinência das recomendações propostas dependem da maneira como as questões de auditoria são tratadas nos relatórios. Importa que as informações sejam organizadas e dispostas com rigor técnico, com apropriado grau de detalhamento e que os principais pontos sejam destacados. O desenvolvimento do texto deve guardar coerência com a seqüência lógica dos argumentos, formando um todo coeso, convincente, claro e visualmente atrativo.
+
+
+
+
+
+
+
+
+Apêndices
+
+Apêndice A: Orientação para elaboração de resumo de relatório de auditoria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esta orientação tem por objetivo oferecer padrões gerais de elaboração de resumos de auditorias de natureza operacional. Espera-se, dessa forma, que as informações sobre o trabalho realizado sejam oferecidas aos diferentes leitores de forma clara e concisa.  
+
+Resumo
+
+
+
+
+O que e quando fazer?
+
+
+
+
+A finalidade do resumo é dar ao leitor uma visão concisa do tema investigado, dos problemas identificados, dos principais achados e das recomendações. Trata-se de um texto voltado para  divulgação interna e externa.
+
+
+O resumo, previsto no Manual de Auditoria de Natureza Operacional – MANOp, deverá fornecer elementos capazes de permitir ao leitor, interno e externo, decidir sobre a conveniência e a necessidade de consultar o relatório completo. Caberá ao coordenador da equipe proceder, quando for o caso, às adaptações necessárias à divulgação externa do texto após a apreciação do relatório  pelo Tribunal.
+
+
+O resumo deverá conter uma breve descrição dos elementos-chave do relatório, quais sejam: problema, objetivo e escopo da auditoria; metodologia aplicada; limitações; principais resultados/constatações; principais recomendações e benefícios esperados.
+
+
+
+
+
+
+Como fazer?
+
+
+
+
+Para elaboração do resumo, deve ser feita, inicialmente, a leitura completa do relatório, a fim de se obter a compreensão global do texto. Em seguida, deve-se identificar as partes do relatório que serão abordadas no resumo. É importante verificar a progressão temática e desenvolver a redação em períodos completos, de forma impessoal, estruturado em parágrafos. As estimativas e inferências devem vir acompanhadas de informação sobre seu grau de precisão.
+
+
+
+ As idéias secundárias, os pormenores e os exemplos devem ser excluídos. Deve ser evitado o emprego de frases na forma negativa; símbolos e abreviaturas que não sejam de uso corrente; fórmulas, diagramas e equações que não sejam imprescindíveis para a compreensão da idéia. Não se utilizam ilustrações no resumo que faz parte do relatório, muito embora estas sejam recomendáveis em textos para divulgação externa.
+
+
+
+
+
+A extensão de cada item do resumo depende do tratamento que cada um recebeu na auditoria. Por exemplo, uma técnica nova deve ser ressaltada no item de metodologia; a expectativa de obtenção de economia significativa ou de melhoria relevante na qualidade dos serviços, em decorrência da implementação das recomendações, pode ser destacada no item benefícios esperados.
+
+
+
+Como regra geral (ABNT, 1989 e 1990), o resumo deve conter cerca de 500 palavras. Isto corresponde a  aproximadamente uma página e 1/3. No caso do resumo dos relatórios de auditoria de natureza operacional, quando se tratar de temas complexos, o resumo poderá ter, no máximo, 2 páginas.
+
+
+
+A seguir, apresenta-se como modelo o resumo da auditoria de natureza operacional realizada no Programa Nacional de Imunizações - PNI (TC 10.823/1999-9).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução
+
+
+
+
+A equipe de auditoria deve fazer uma descrição do objeto auditado que permita ao leitor compreender sua relevância e suas principais características. Por exemplo:
+
+
+
+
+O Programa Nacional de Imunizações – PNI foi criado em 1973 e institucionalizado em 1975. Tem por objetivo contribuir para o controle, a eliminação e/ou a erradicação das doenças imunopreveníveis, por meio de duas estratégias básicas: vacinação de rotina e campanhas anuais, de maneira descentralizada e hierarquizada.
+
+
+
+Problema de auditoria
+
+
+
+
+É a descrição da situação ou contexto que motivou a realização do trabalho de auditoria. Geralmente está relacionado a indícios de baixo desempenho do objeto auditado. Por exemplo:
+
+
+
+
+ 
+
+
+
+
+ Uma das metas operacionais do PNI é vacinar 100% das crianças que nascem a cada ano contra as doenças incluídas no chamado esquema básico de vacinação.
+
+
+
+
+ Para atingir tal meta, o Programa procura manter alta cobertura vacinal da população-alvo, com índices homogêneos nos municípios brasileiros, de modo a bloquear a suscetibilidade da transmissão dessas doenças. 
+
+
+
+
+A estratégia do programa para o alcance da meta é a vacinação de rotina, tendo como grupo prioritário os menores de um ano. Detectou-se que a meta não vem sendo atingida em muitos municípios e que um dos principais problemas de desempenho do PNI é a heterogeneidade dos índices de cobertura vacinal, quando se comparam estados e municípios do País. 
+
+
+
+Objetivos e escopo da auditoria
+
+
+
+
+Os objetivos da auditoria, explicitados pelo problema e pelas questões de auditoria, devem ser enunciados claramente, para que se possa avaliar os resultados alcançados pelo trabalho.  
+
+
+
+Ao descrever os objetivos e o escopo da auditoria, a equipe define os limites do trabalho desenvolvido e especifica os temas, as instituições, os sistemas ou os aspectos que foram auditados. Sempre que a equipe julgar conveniente, para evitar ambigüidades, devem ser mencionados os aspectos específicos que não foram abordados pela auditoria. 
+
+
+
+Ao informar o escopo da auditoria, a equipe deve mencionar a abrangência do trabalho, especificando, quando for o caso, a relação entre o universo e as unidades efetivamente auditadas. Também devem ser identificadas as organizações, os locais visitados e o período abrangido pela auditoria. Por exemplo:
+
+
+
+
+
+
+Esta auditoria tem como principal objetivo contribuir para o aumento dos índices de cobertura vacinal no País, identificando as causas de heterogeneidade destes índices entre estados e municípios. Para tanto, foram avaliados os procedimentos operacionais, as redes de distribuição, os treinamentos realizados, a estrutura e funcionamento das redes de frio, a situação quanto a recursos humanos e as estratégias de supervisão adotadas pelas três esferas de governo. Para o estudo, foram consideradas crianças menores de um ano e as vacinas BCG (tuberculose), VSPO (sarampo), OPV (poliomielite) e DTP (difteria, tétano e coqueluche). 
+
+
+
+
+Visitaram-se o Distrito Federal, os estados de Alagoas, Ceará, Mato Grosso do Sul, Pará, Rio de Janeiro e os seguintes municípios: Cajueiro, Maceió, Porto de Pedras e Santana do Mundaú (AL); Quixeré e Russas (CE); Bandeirantes, Campo Grande, Corumbá, Jaraguari e Ladário (MS); Belém, Castanhal, Santa Isabel do Pará e São Miguel do Guamá (PA); Areal e Rio de Janeiro (RJ).
+
+
+
+
+Utilizou-se como critério de escolha dos estados e municípios visitados os melhores e os piores desempenhos quanto à cobertura vacinal, a partir de avaliações realizadas pelas coordenações nacional e estaduais do PNI, respectivamente. Os dados analisados referem-se ao exercício de 1998.
+
+
+
+
+
+
+Metodologia
+
+
+
+
+A equipe deve informar as estratégias metodológicas e os métodos de coleta e análise de dados empregados, descrevendo o modo como foram utilizados.
+
+
+
+Tratando-se de uma auditoria de desempenho operacional, é fundamental indicar os procedimentos adotados para estabelecer os critérios de auditoria, os métodos empregados na coleta de evidências e na definição de achados e recomendações.
+
+
+
+Sempre que forem utilizados métodos estatísticos ou outras abordagens quantitativas de análise de dados, estes métodos devem ser mencionados. Da mesma forma, se os achados e as conclusões se basearem no exame de uma amostra, a equipe deve informar a técnica de amostragem utilizada e justificar sua escolha. Por exemplo:
+
+
+
+
+A metodologia escolhida para o trabalho foi o estudo de caso. Para sua execução, realizou-se visita ao Distrito Federal e ao Rio de Janeiro, com o objetivo de conhecer a sistemática nacional de abastecimento e distribuição de imunobiológicos e ajustar os procedimentos de auditoria utilizados nos estados selecionados. 
+
+
+
+
+Durante as visitas, foram feitas entrevistas com aproximadamente 160 pessoas, incluindo  secretários estaduais e municipais de Saúde, presidentes de conselhos de secretários municipais de Saúde, coordenadoras estaduais e municipais do PNI, coordenadores regionais de Saúde, participantes das Comissões Intergestores Biparte, responsáveis por salas de vacina e vacinadores. 
+
+
+
+
+Limitações
+
+
+
+
+Devem ser mencionadas as limitações impostas ao trabalho de auditoria associadas à confiabilidade ou à dificuldade na obtenção de dados, assim como as limitações relacionadas ao próprio escopo do trabalho, ou seja, as áreas e os aspectos não analisados. Por exemplo: 
+
+
+
+
+Considerando que a execução do Programa Nacional de Imunizações compete concorrentemente aos três níveis de governo, refletindo situação diferenciada em cada localidade, uma das limitações presentes neste trabalho foi a impossibilidade de o Programa ser avaliado em todas as unidades da federação.
+
+
+
+
+Entretanto para o desenvolvimento da metodologia proposta (estudo de caso), a quantidade de estados e municípios visitados foi suficiente para que a equipe avaliasse o funcionamento do Programa nas esferas federal, estadual e municipal. Além disso, foi possível a obtenção de informações sobre as boas práticas do Programa e as situações em que há possibilidade de melhoria de desempenho. 
+
+
+
+
+Outra questão a ser considerada, é a incompatibilidade entre os dados populacionais do IBGE, utilizados pelo Ministério da Saúde para definição das metas do PNI, e a população real de alguns municípios, fator que pode distorcer a análise dos dados de cobertura vacinal.
+
+
+
+
+Também constituiu limitação o fato de que a implementação das medidas necessárias à melhoria do desempenho do PNI depende, em larga escala, da formulação e da execução de diretrizes e políticas na área da saúde, por estados e municípios, no âmbito de sua competência legal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Principais constatações
+
+
+
+
+A equipe deve indicar os principais achados que sustentam a proposta de encaminhamento. Por exemplo:
+
+
+
+
+Quanto aos principais problemas encontrados, podemos citar: a ausência de vacinação de rotina nas áreas rurais; a deficiência de recursos humanos, especialmente nas áreas rurais; a falta de supervisão e de treinamento; a alta rotatividade de pessoas treinadas. Entre os aspectos positivos identificados pela equipe, estão: a quantidade suficiente de vacinas e insumos; a melhoria de resultados quando há boa integração entre o PNI, o Programa de Agentes Comunitários de Saúde e o Programa de Saúde da Família.
+
+
+
+Principais recomendações
+
+
+
+
+Com base nos achados, a equipe deve informar as principais recomendações formuladas pelo Tribunal. Exemplo:
+
+
+
+
+
+
+Considerando essas constatações e visando a contribuir para melhorar a efetividade do PNI, o Tribunal recomendou, entre outras: a realização de ações que possibilitem a divulgação e o estímulo à vacinação de rotina nos estados e municípios; a elaboração de normas para o controle do transporte e da distribuição de imunobiológicos; o desenvolvimento de indicadores de desempenho que permitam monitorar e avaliar o PNI; a manutenção dos equipamentos de rede de frio, de forma preventiva e corretiva, evitando panes no sistema de refrigeração que podem levar a significativas perdas de imunobiológicos; a elaboração de plano anual de supervisão aos municípios; a intensificação das ações de parceria com o Ministério da Educação.
+
+
+
+Possíveis benefícios esperados
+
+
+
+
+A equipe deve informar, quando possível, os possíveis benefícios esperados como conseqüência do cumprimento das recomendações propostas. Exemplo:
+
+
+
+
+
+
+Os principais benefícios esperados com a implementação das recomendações são contribuir para que se atinja os seguintes resultados: a manutenção da erradicação da poliomielite, para a erradicação do sarampo e controle das formas graves de tuberculose, difteria, tétano e coqueluche; para o nivelamento da cobertura vacinal de estados e municípios, de modo a que todos atinjam a meta ótima; para a diminuição das perdas de imunobiológicos; para a disseminação, entre estados e municípios, de boas práticas na área de imunização.
+
+
+
+
+
+Anexos
+
+Anexo A: Modelo de folha de rosto
+
+
+
+
+Relatório de auditoria de natureza operacional no
+
+
+
+
+Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE
+
+
+
+
+
+TC nº 018.166/2002-4	Fiscalis nº: 213/2003
+
+
+Ministro Relator: Benjamin Zymler
+
+
+Modalidade: Avaliação de Programa
+
+
+Ato originário: Plano de Auditoria, aprovado pela Acórdão nº 171/2003-Plenário
+
+
+Objetivo: Planejar a realização de auditoria de natureza operacional no Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE
+
+
+Ato de designação: Portaria de Fiscalização Adfis nº 516, de 22 de abril de 2003
+
+
+Período abrangido pela auditoria: exercícios de 1994 a 2003
+
+
+Período de realização da auditoria: planejamento de 22/4 a 13/6/2003; execução de 11 a 29/8/2003 e relatório de 1 a 19/9/2003
+
+
+Composição da equipe nas fases de planejamento, execução e relatório:
+
+
+Questão
+
+Título
+
+2. A manutenção dos navios é realizada com a periodicidade tecnicamente recomendada?
+
+Periodicidade da manutenção dos navios da companhia
+
+3. O serviço de manutenção é realizado conforme as normas técnicas internacionalmente aceitas?
+
+Cumprimento das normas técnicas sobre manutenção de navios
+
+4. O programa promove a eqüidade e a redução da pobreza?
+
+Eqüidade e redução da pobreza
+
+
+
+
+
+Membro da equipe na fase de execução:
+
+
+Analista
+
+Matrícula 
+
+Lotação
+
+Antonio de Miranda Castro
+
+335-2
+
+Seprog
+
+Elieser Cavalcante da Silva
+
+3526-2
+
+2ª Secex
+
+Herbert Martorano de Souza
+
+4210-2
+
+2ª SecexValdir Lavorato (coordenador)
+
+2926-2
+
+SeprogDagomar Henriques Lima (supervisor)
+
+3104-6
+
+Seprog
+
+
+Unidade: Banco do Nordeste do Brasil S/A – BNB
+
+
+Vinculação ministerial: Ministério da Fazenda
+
+
+Vinculação no TCU: Nome da unidade técnica 
+
+
+Responsável: 	Nome e CPF: José da Silva, CPF 999.999.999-99
+
+
+	Cargo: Presidente
+
+
+	Período: desde dd/mm/aa 
+
+
+Gerente do programa: Nome e CPF: Francisco Bezerra, CPF 999.999.999-99
+
+
+		Cargo: Secretário
+
+
+		Período: desde dd/mm/aa
+
+
+
+
+
+Fonte: TCU. Relatório de Planejamento de Auditoria: Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE. Brasília, Jun./2003. Com adaptações. 
+
+
+
+
+Anexo B: Exemplo de agradecimentos
+
+
+
+Agradecimentos
+
+
+
+	O sucesso das auditorias de natureza operacional está relacionado à parceria que se estabelece entre a equipe de auditoria e os dirigentes e técnicos do programa auditado. Há que se ressaltar que, desde a fase do estudo de viabilidade da auditoria, a equipe foi bem recebida pelo Ministério das Cidades e pela Caixa Econômica Federal, tendo contado com a cordialidade e colaboração desses órgãos para o desenvolvimento das técnicas de diagnóstico, bem como com a prestação de informações e apresentação de documentos necessários ao desenvolvimento dos trabalhos de planejamento. 
+
+
+		Cabe agradecer, também, o apoio logístico prestado pela Caixa Econômica Federal e pela prefeitura de Campo Grande, no Mato Grosso do Sul, quando da realização do teste piloto naquela cidade.
+
+
+	Por fim, agradece-se aos técnicos e especialistas a seguir nominados a participação no Painel de Referência, oportunidade em que foram apresentadas sugestões ao planejamento da auditoria: Srª Maria da Piedade Morais, pesquisadora do Instituto de Pesquisa Econômica Aplicada; Sr. Luiz Alberto Gouvêa, professor e pesquisador da Universidade de Brasília; Srs. Marcos Luiz Manzochi, José Cláudio Falcão Soares e Sergio Filgueiras de Paula, ambos da Secretaria Federal de Controle Interno; Maria Célia M. Bagatini e Jaira Maria Puppim, técnicas da Caixa Econômica Federal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonte: TCU. Relatório de Planejamento de Auditoria: Programa Morar Melhor. Brasília, Set./2003. Com adaptações. 
+
+
+
+Anexo C: Exemplo de resumo de relatório de planejamento de auditoria
+Resumo
+
+
+1.	O objeto da auditoria é o Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE, que está dividido em duas fases, ambas financiadas com recursos de empréstimo internacional, celebrado entre o Banco do Nordeste do Brasil S/A e o Banco Interamericano de Desenvolvimento, em dezembro de 1994.
+
+
+2.	O Prodetur/NE I conta com orçamento de US$ 670 milhões –  sendo US$ 400 milhões oriundos da operação de crédito e US$ 270 milhões da contrapartida oferecida pela União e pelos estados da região Nordeste – para investimentos em projetos de infra-estrutura turística: desenvolvimento institucional (DI); saneamento; recuperação e proteção ambiental; transporte; recuperação do patrimônio histórico; construção, ampliação e modernização de aeroportos; aquisição de terras; serviços de engenharia (estudo, supervisão e administração); e custos financeiros (juros, comissão de crédito, inspeção e supervisão) .
+
+
+3.	O Programa tem por objetivo "reforçar a capacidade da Região Nordeste em manter e expandir sua crescente indústria turística, contribuindo para o desenvolvimento sócio-econômico regional. O Programa pretende prover de infra-estrutura básica e serviços públicos a áreas atualmente de expansão turística e onde a capacidade do Estado não acompanhou a demanda por tais serviços; os investimentos beneficiarão principalmente a população de baixa renda das áreas selecionadas. Com a melhoria das condições das áreas turísticas, busca-se também atrair atividades turísticas privadas adicionais e de melhor padrão, gerando assim oportunidades de emprego e aumento dos níveis de renda e das receitas públicas." 
+
+
+4.	O Programa investiu, até abril de 2003, as importâncias de US$ 592 milhões em 346 projetos finalísticos, US$ 32,9 milhões em serviços de engenharia (estudo, supervisão e administração) e US$ US$ 174,5 milhões em custos financeiros (juros, comissão de crédito, inspeção e supervisão).
+
+
+5.	O Prodetur/NE II, executado pelo Banco do Nordeste em cooperação com o Ministério do Turismo, conta com recursos de US$ 400 milhões, sendo US$ 240 milhões provenientes do financiamento externo e US$ 160 milhões da contrapartida a ser oferecida pela União (US$ 80 milhões) e pelos partícipes do Programa (US$ 80 milhões).
+
+
+6.	A segunda fase do Programa pretende assegurar o desenvolvimento turístico sustentável e responsável das áreas em que se financiem projetos com recursos do empréstimo, com os seguintes objetivos:  melhorar a qualidade de vida da população residente nos pólos turísticos situados nos estados participantes do Programa; aumentar as receitas provenientes da atividade turística; e melhorar a capacidade de gestão dessas receitas por parte dos Estados e Municípios. 
+
+
+7.	Assim, o foco do Prodetur/NE II é a sustentabilidade dos investimentos realizados na primeira fase do Programa, de forma a priorizar ações complementares aos projetos já financiados, segundo três componentes fundamentais: fortalecimento da capacidade municipal para a gestão do turismo; planejamento estratégico, treinamento e infra-estrutura para o crescimento turístico; e promoção de investimentos do setor privado.
+
+
+8.	Nessa fase, além dos estados da região Nordeste, serão atendidos o Espírito Santo e a região norte de Minas Gerais – área de atuação do Banco do Nordeste  –, mediante a realização de investimentos em 17 pólos de turismo definidos pelos estados.
+
+
+9.	Os estados definirão e priorizarão os pólos de turismo de acordo com a estratégia do Programa, identificando os grupos de municípios com atrações similares ou complementares de cada pólo. Os investimentos e ações começarão pelos municípios de pólos beneficiados ou influenciados por investimentos financiados pelo Prodetur/NE I, para consolidar, completar e complementar todas as ações necessárias à manutenção de um turismo sustentável, em beneficio da população local. Uma vez assegurada a execução dessas ações poderão ser incluídos investimentos adicionais nos municípios dos pólos priorizados e em novos pólos.
+
+
+10.	Identificou-se deficiência na operacionalização do Prodetur/NE I, especialmente quanto à avaliação do impacto socioeconômico e ambiental. Diante dessa situação, julgou-se necessário avaliar esses resultados, bem como a estrutura institucional e de custos do Programa. O problema descrito será investigado por intermédio da análise de quatro questões de auditoria referentes à contribuição do Prodetur/NE I para a melhoraria dos indicadores socioeconômicos da região; ações do Prodetur /NE II com vistas a mitigar os passivos ambientais provocados pelo Prodetur /NE I e evitar a ocorrência de novos impactos;  estrutura organizacional dos três níveis de governo e atuação dos conselhos de turismo para a implementação do Programa; e adequação dos custos financeiros suportados pelos submutuários.
+
+
+11.	Constatou-se, ainda, oportunidade de melhoria no estabelecimento de indicadores de desempenho, na identificação de passivos ambientais e ações corretivas, no aumento da efetividade da atuação dos conselhos de turismo, na integração com outros programas públicos e na redução dos custos suportados pelos submutuários.
+
+
+12.	Espera-se que a auditoria objeto deste planejamento contribua para o alcance dos seguintes benefícios: identificar os impactos socioeconômicos dos projetos de infra-estrutura executados e a realizar, possibilitando sua correção; mitigar e corrigir os impactos ambientais resultantes das ações de infra-estrutura implementadas na primeira fase do Programa; potencializar os efeitos sociais do Prodetur/NE II a partir da sua interação com outros programas governamentais; e reduzir os custos dos submutuários por meio da modificação da forma de cálculo da comissão de compromisso.
+
+
+
+Fonte: TCU. Relatório de Planejamento de Auditoria: Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE. Brasília, Jun./2003. 
+
+
+Anexo D: Exemplo de cronograma das fases de execução e relatório
+
+
+
+
+Cronograma das fases de execução e relatório
+
+
+Analista
+
+Matrícula
+
+Lotação
+
+Elisângela Papst
+
+5082-2
+
+Secob
+
+
+
+
+
+
+Etapa
+
+Data
+
+Atividades
+
+Subequipe 1
+
+Subequipe 2
+
+Execução
+
+10/8/2003
+
+Deslocamento entre  Brasília/DF e São Luís/MA
+
+Deslocamento entre Brasília/DF e Maceió/AL
+
+11/8/203
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo São Luís/MA
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Corais/AL
+
+12/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo São Luís/MA.
+
+Deslocamento entre São Luís/MA e Recife/PE (19h20)
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Corais/AL
+
+13/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Arrecifes/PE
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Corais/AL
+
+Deslocamento entre Maceió/AL e Aracaju/SE (15h45)
+
+14/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Arrecifes/PE
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Corais/AL
+
+15/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Arrecifes/PE
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa dos Coqueiros/SE
+
+16/8/2003
+
+Descolamento entre Recife/PE e João Pessoa/PB
+
+Deslocamento entre Aracaju/SE e Salvador/BA
+
+17/8/2003
+
+Domingo
+
+Domingo
+
+18/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa das Piscinas/PB
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Salvador e Entorno/BA
+
+19/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa das Piscinas/PB
+
+Descolamento entre João Pessoa/PB e Natal/RN (noite)
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Salvador e Entorno/BA
+
+20/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa das Dunas/RN
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Salvador e Entorno/BA
+
+Deslocamento entre Salvador/BA e Porto Seguro/BA (14h15)
+
+21/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa das Dunas/RN
+
+Realização de entrevistas, grupo focal e visitas técnicas no Costa do Descobrimento/BA
+
+22/8/2003
+
+Realização de entrevistas, grupo focal e visitas técnicas no Pólo Costa das Dunas/RN
+
+Realização de entrevistas, grupo focal e visitas técnicas no Costa do Descobrimento/BA
+
+23/8/2003
+
+Descolamento entre Natal/RN e Brasília/DF
+
+Deslocamento entre Porto Seguro/BA e Brasília/DF
+
+25 a 29/8/2003
+
+Desenvolvimento de atividades de execução da auditoria em Brasília/DF
+
+
+
+
+
+Legenda:
+
+
+Subequipe 1: Herbert Martorano de Souza e Antonio de Miranda Castro.
+
+
+Subequipe 2: Valdir Lavorato e Elieser Cavalcante da Silva.
+
+
+Subequipe 3: Valdir Lavorato e Antonio de Miranda Castro.
+
+
+Subequipe 4: Herbert Martorano de Souza e Elieser Cavalcante da Silva.
+
+
+(*) Os ACE Herbert Martorano de Souza e Elieser Cavalcante da Silva integram a equipe de auditoria no período de 11/8 a 12/9/2003.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonte: TCU. Relatório de Planejamento de Auditoria: Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE. Brasília, Jun./2003.
+
+
+Anexo E: Exemplo de proposta de encaminhamento de relatório de planejamento de auditoria
+
+
+
+
+
+
+5. Proposta de encaminhamento
+
+
+
+
+
+5.1. 		Ante o exposto, submetem-se os autos à consideração superior, para posterior encaminhamento ao Gabinete do Exmo. Sr. Ministro-Relator Benjamin Zymler, propondo:
+
+
+a) a realização de auditoria de natureza operacional no Programa Desenvolvimento do Turismo no Nordeste – Prodetur, nos termos propostos no projeto de auditoria;
+
+
+b) o encaminhamento de cópia do anexo I deste relatório à Secretaria de Fiscalização de Obras e Patrimônio da União, para cumprimento da Decisão Plenária nº 1.679/2002;
+
+
+c) encaminhamento de cópia do anexo I deste relatório ao Ministério do Turismo e ao Banco do Nordeste, com vistas a subsidiar a decisão sobre a elaboração de Avaliação Ambiental Estratégica para o Prodetur/NE II.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonte: TCU. Relatório de Planejamento de Auditoria: Programa Desenvolvimento do Turismo no Nordeste – Prodetur/NE. Brasília, Jun./2003.
+
+
+
+
+Anexo F: Tabela de indicadores de desempenho
+
+Indicadores de desempenho
+
+
+Etapa
+
+Data
+
+Atividades
+
+Subequipe 3
+
+Subequipe 4(*)
+
+Relatório de auditoria
+
+1º a 19/9/2003
+
+Elaboração do relatório de auditoria
+
+Elaboração do relatório de auditoria
+
+4/09/2003
+
+Versão preliminar da matriz de achados
+
+Versão preliminar da matriz de achados
+
+8/9/2003
+
+Painel de referência de auditoria
+
+Painel de referência de auditoria
+
+10/9/2003
+
+Deslocamento entre  Brasília/DF e Fortaleza/CE (noite)
+
+Elaboração do relatório de auditoria
+
+11 e 12/9/2003
+
+Discussão da matriz de achados com gestores
+
+Elaboração do relatório de auditoria
+
+ 
+
+13/9/2003
+
+Deslocamento entre Fortaleza/CE e Brasília/DF
+
+ 
+
+ 
+
+15 a 19/9/2003
+
+Consolidação e revisão do relatório de auditoria
+
+ 
+
+
+
+
+Fonte: TCU. Auditoria de Natureza Operacional no Cadastro Único dos Programas Sociais do Governo Federal. Brasília, Fev./2003.
+
+
+
+Anexo G: Exemplo de proposta de encaminhamento de relatório de auditoria
+
+
+Indicador
+
+Fórmula de cálculo
+
+Descrição do indicador
+
+a)        Taxa mensal de processamento de cadastros
+
+ (número de cadastros processados mensalmente / meta mensal de processamento de cadastros) * 100. 
+
+O objetivo deste indicador é verificar se a meta mensal de processamento de cadastros vem sendo atingida.
+
+b)        Taxa de famílias cadastradas pertencentes ao público-alvo 
+
+ (famílias cadastradas com renda < 1/2 SM / total de famílias cadastradas) * 100. 
+
+Esse indicador deverá ser calculado para cada município, com o objetivo de mostrar o grau de focalização em termos de famílias cadastradas dentro do público-alvo.
+
+c)        Taxa de cadastros rejeitados
+
+(número de cadastros rejeitados / número de cadastros enviados) * 100. 
+
+O acompanhamento deste indicador tem por objetivo verificar se os municípios encontram dificuldades para operar os sistemas de entrada de dados e envio de informações.
+
+d)        Taxa de NIS duplicados
+
+ (número de NIS duplicados / número total de NIS) * 100. 
+
+Este indicador refletirá o grau de sobrecadastramento nos municípios.
+
+e)        Taxa de cumprimento da meta municipal de cadastramento
+
+ (número de famílias com renda < 1/2 SM cadastradas/estimativa de famílias com renda < 1/2 SM) * 100. 
+
+Com esse indicador será possível verificar a situação de cadastramento do município com relação à meta estabelecida, bem como estimar o prazo final de cadastramento.
+
+f)        Grau de convergência da renda per capita média no Cadastro Único em relação ao Censo 2000
+
+renda per capita média das famílias com renda < 1/2 SM no Cadastro Único / renda per capita média das famílias com renda < 1/2 SM no Censo 2000. 
+
+O indicador proposto busca verificar se o padrão de renda das famílias cadastradas assemelha-se ao registrado no Censo 2000, estimando, assim, a qualidade do cadastramento.
+
+g)       Relação entre quantidade de famílias e postos de atendimento da CAIXA
+
+número de famílias beneficiárias/número de postos de atendimento da CAIXA. 
+
+O objetivo deste indicador é verificar se, nos municípios, os beneficiários têm encontrado dificuldades para obter informações ou receber os benefícios em razão no número insuficiente de postos de atendimento da CAIXA.
+
+h)       Taxa de recursos não sacados por programa
+
+(valor dos recursos não sacados/valor total dos recursos disponibilizados)*100, por programa. 
+
+A análise desse indicador permitirá verificar se os beneficiários de um determinado programa têm tido dificuldade de acesso ao benefício em seu município.
+
+
+8. Proposta de encaminhamento
+
+
+8.1	Diante do exposto e visando contribuir para a melhoria do desempenho do Programa de Saúde da Família - PSF, submetemos este relatório à consideração superior, para posterior encaminhamento ao gabinete do Exmº Sr. Ministro-Relator Marcos Vilaça, com as seguintes propostas:
+
+
+I. Recomendar ao Ministro de Estado da Saúde que estabeleça grupo de contato de auditoria, com a participação da gerência do Programa de Saúde da Família e da Secretaria Federal de Controle Interno, que atue como canal de comunicação com este Tribunal, com o objetivo de facilitar o acompanhamento da implementação das recomendações do TCU.
+
+
+II. Recomendar ao Departamento de Atenção Básica – DAB/MS que:
+
+
+a) estude novo parâmetro máximo de cobertura de pessoas para cada ESF e leve a discussão ao fórum da Comissão Intergestores Tripartite – CIT, com vistas à apreciação e implementação;
+
+
+(...)
+
+
+III. Recomendar ao DAB/MS que, em conjunto com as Secretarias Estaduais de Saúde:
+
+
+(...)
+
+
+VII. Recomendar aos Presidentes dos Conselhos Estaduais de Saúde que acompanhem e fiscalizem o repasse de recursos dos estados aos municípios para as ações e serviços básicos de saúde, de acordo com o disposto no § 3º do art. 77 do Ato das Disposições Constitucionais Transitórias, adicionado à CF por intermédio da  Emenda Constitucional nº 29/2000.
+
+
+VIII. Reiterar à Secretaria de Assistência à Saúde – SAS do Ministério da Saúde/MS, a orientação expedida no item 8.6.2 da Decisão nº 955/1999-Plenário (DOU 10/10/2001), que tratou do acompanhamento e avaliação do PACS/PSF:
+
+
+IX. Juntar cópia do presente relatório ao TC 016.983/2000-3, no intuito de auxiliar no exame da Política Nacional de Medicamentos.
+
+
+X. Determinar ao DAB/MS que remeta a este Tribunal, no prazo de 60 dias, plano de ação, contendo cronograma de adoção das medidas necessárias à implementação das recomendações desta Corte de Contas, com o nome dos respectivos responsáveis pela adoção das providências, bem como o conjunto de indicadores recomendados e respectivas metas, contemplando prazo para seu alcance, com vistas ao acompanhamento e à avaliação dos resultados obtidos;
+
+
+XI. Encaminhar cópia da Decisão que vier a ser adotada pelo Tribunal, bem como do Relatório e do Voto que a fundamentarem, e do inteiro teor do presente relatório para os seguintes destinatários:
+
+
+a) Ministro de Estado da Saúde;
+
+
+b) Assessor Especial de Controle Interno do Ministério da Saúde;
+
+
+c)  Secretário Federal de Controle Interno;
+
+
+d) Diretora do Departamento de Atenção Básica/DAB/MS;
+
+
+e) Coordenadores do PSF em todos os estados da federação;
+
+
+f) Coordenador do PSF no Distrito Federal;
+
+
+g) Coordenadores do PSF nos municípios de João Pessoa/PB, Campina Grande/PB, Santa Rita/PB, Esperança/PB, Ribeirão das Neves/MG, Fortaleza/CE, Caucaia/CE, Maracanaú/CE, Maranguape/CE, Maceió/AL, Palmeira dos Índios/AL, Maribondo/AL, Messias/AL, Recife/PE, Olinda/PE, Caruaru/PE e Camaragibe/PE;
+
+
+h) Presidente da Câmara dos Deputados, com proposta de encaminhamento às Comissões de Seguridade Social e Família e de Fiscalização Financeira e Controle;
+
+
+i)  Presidente do Senado Federal, com proposta de encaminhamento à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso Nacional, e às Comissões de Assuntos Sociais e de Fiscalização e Controle do Senado Federal.
+
+
+XII. Determinar à 4a Secex a realização do monitoramento da implementação do Acórdão que vier a ser prolatado nestes autos, nos termos do art. 243 do RI/TCU, combinado com o item 9.2 do Acórdão n.º 778/2003 – TCU – Plenário;
+
+
+XIII. Arquivar os presentes autos na 4ª Secex, a qual se vincula a clientela da função saúde.
+
+
+
+Brasília/DF, em           de                       de 2002.
+
+
+
+
+Fonte: TCU. Auditoria de Natureza Operacional no Programa de Saúde da Família – PSF. Brasília, out./2001. Com adaptações.
+
+
+
+
+Referências
+
+
+
+ALMEIDA, Napoleão Mendes. Gramática Metódica da Língua Portuguesa. 29. ed. São Paulo: Saraiva, 1990.
+
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNCAS – ABNT. Informação e Documentação – Apresentação de Citações em Documentos: NBR 10520. Rio de Janeiro, 2002a.    
+
+
+_____. Informação e Documentação – Trabalhos acadêmicos: NBR 14724. Rio de Janeiro, 2002b.    
+
+
+_____. Informação e Documentação – Referências - Elaboração: NBR 6023. Rio de Janeiro, 2000.    
+
+
+_____. Resumos - Procedimento: NBR 6028. Rio de Janeiro, Maio, 1990.
+
+
+_____. Apresentação de Relatórios Técnico-Científicos: NBR 10719. Rio de Janeiro, 1989.
+
+
+BRASIL. Tribunal de Contas da União. Plano Estratégico do TCU 2003 – 2007. Brasília: TCU, 2003a. 
+
+
+_____. Tribunal de Contas da União. Regimento Interno do Tribunal de Contas da União. Brasília: TCU, 2003b. 
+
+
+_____. Tribunal de Contas da União. Roteiro de Auditoria de Conformidade. Brasília: TCU, Secretaria Adjunta de Fiscalização, 2003c. 
+
+
+_____. Tribunal de Contas da União. Roteiro de Auditoria: Monitoramento de Auditorias de Natureza Operacional – Brasília: TCU, Secretaria de Fiscalização e Avaliação de Programas de Governo, 2002a.  
+
+
+_____. Tribunal de Contas da União. Roteiro de Controle de Qualidade de Auditorias de Natureza Operacional – Brasília: TCU, Secretaria de Fiscalização e Avaliação de Programas de Governo, 2002b.  
+
+
+_____. Tribunal de Contas da União.  Técnicas de Apresentação de Dados. Brasília: TCU, Secretaria Adjunta de Fiscalização, 2001. 
+
+
+_____. Tribunal de Contas da União. Manual de Auditoria de Natureza Operacional. Brasília: TCU, Coordenadoria de Fiscalização e Controle, 2000.
+
+
+Instituto Brasileiro de Geografia e Estatística – IBGE. Normas de Apresentação Tabular. 3 ed. Rio de Janeiro, 1993. 
+
+
+
+LACAZ-RUIZ, R. Notas e Reflexões sobre Redação Científica. Disponível em: <www.hottopos.com.br/vidlib2/Notas.htm>. Acesso em: 1o ago. 2003.
+
+
+
+
+
+
+ 
+
+
+
+
+FOLHA DE SUGESTÕES
+
+
+
+
+O TCU preocupa-se com o constante aperfeiçoamento da qualidade de seus manuais e orientações, buscando, para isso, ouvir a valiosa opinião do público-alvo dos referidos trabalhos.
+
+
+
+O questionário a seguir refere-se ao Roteiro para elaboração de relatórios de auditoria de natureza operacional, aprovado em 2004. Será muito útil para o TCU se o leitor deste documento puder dispor de alguns minutos para responder às perguntas constantes no referido questionário e enviá-lo pelos Correios (não é preciso selar, pois o porte será pago pelo TCU).
+
+
+
+Sugestões sobre este documento também podem ser enviadas das seguintes formas:
+
+
+
+E-mail: seprog@tcu.gov.br
+
+
+
+Fax: (61) 316-7896
+
+
+Fone: (61) 316-7313
+
+
+Endereço:    Tribunal de Contas da União - TCU
+
+
+SEPROG
+
+
+Setor de Administração Federal Sul - Quadra 04 , Lote 01
+
+
+CEP: 70042-900 - Brasília-DF
+
+
+
+
+
+
+
+
+
+
+
+
+FINALIDADE
+
+Este questionário de avaliação tem por objetivo obter a opinião dos leitores sobre o Roteiro para Elaboração de Relatórios de Auditoria de Natureza Operacional, com vistas ao seu aperfeiçoamento.
+
+
+
+
+
+
+Por favor, responda às questões abaixo assinalando com um “X” a alternativa mais adequada. Desde já agradecemos a sua colaboração.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+           06/116/97-DR/BSB
+           TCU
+
+
+PTR/BSB 880/92
+
+
+UP-AC/TCU
+
+
+DR/BSB
+
+
+
+
+
+
+CARTA - RESPOSTA
+
+
+NÃO É NECESSÁRIO SELAR
+
+
+
+O SELO SERÁ PAGO POR
+
+
+TRIBUNAL DE CONTAS DA UNIÃO
+
+
+	BRASÍLIA-DF
+
+
+
+70031-999
+
+
+

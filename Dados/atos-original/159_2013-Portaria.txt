@@ -1,0 +1,569 @@
+Portaria
+159/2013
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições que lhe confere o art. 28, inciso XXXIV, do Regimento Interno do TCU,
+
+
+tendo em vista o disposto no art. 39, § 1º, inciso I da Lei nº 12.708, de 17 de agosto de 2012 (LDO), combinado com o art. 4º, inciso VI, alínea "a" da Lei nº 12.798, de 4 de abril de 2013 (LOA); e
+
+
+considerando as disposições contidas na Portaria SOF nº 27, de 12 de abril de 2013, bem como as informações constantes do TC-002.932/2013-0, resolve:
+
+
+Art. 1º Fica aberto, aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 18.729.368,00 (dezoito milhões, setecentos e vinte e nove mil, trezentos e sessenta e oito reais) para atender à programação contida no Anexo I desta Portaria.
+
+
+Art. 2º Os créditos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial de dotação orçamentária constante do Anexo II desta Portaria.
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+
+JOÃO AUGUSTO RIBEIRO NARDES
+
+
+Presidente
+
+
+
+ANEXO I DA PORTARIA-TCU Nº 159, DE 24 DE JUNHO DE 2013.
+
+
+
+ 
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+
+Não consta revogação expressa
+Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 18.729.368,00 (dezoito milhões, setecentos e vinte e nove mil, trezentos e sessenta e oito reais) para reforço de dotações constantes da lei orçamentária vigente.
+
+ANEXO I
+
+
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0089
+
+Previdência de Inativos e Pensionistas da União
+
+18.169.351
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 272
+
+0089 0181
+
+Pagamento de Aposentadorias e Pensões - Servidores Civis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18.169.351
+
+09 272
+
+0089  0181 0001
+
+Pagamento de Aposentadorias e Pensões - Servidores Civis - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18.169.351
+
+ 
+
+ 
+
+ 
+
+S
+
+1
+
+1
+
+90
+
+0
+
+100
+
+18.169.351
+
+0550
+
+Controle Externo
+
+560.017
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 09HB
+
+Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+560.017
+
+01 122
+
+0550  09HB 0001
+
+Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+560.017
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+0
+
+91
+
+0
+
+100
+
+560.017
+
+TOTAL – FISCAL
+
+560.017
+
+TOTAL – SEGURIDADE
+
+18.169.351
+
+TOTAL – GERAL
+
+18.729.368
+
+
+
+ANEXO II DA PORTARIA-TCU Nº 159, DE 24 DE JUNHO DE 2013.
+
+
+
+   
+
+ 
+
+ÓRGÃO: 03000 - Tribunal de Contas da União
+
+UNIDADE: 03101 - Tribunal de Contas da União
+
+ANEXO II
+
+Crédito Suplementar
+
+PROGRAMA DE TRABALHO (CANCELAMENTO)
+
+Recurso de Todas as Fontes R$ 1,00
+
+FUNC
+
+PROGRAMÁTICA
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+E
+S
+F
+
+G
+N
+D
+
+R
+P
+
+M
+O
+D
+
+I
+U
+
+F
+T
+E
+
+VALOR
+
+0550
+
+Controle Externo
+
+9.000.000
+
+ 
+
+ 
+
+Atividades
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 122
+
+0550 20TP
+
+Pagamento de Pessoal Ativo da União
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.000.000
+
+01 122
+
+0550  20TP 0001
+
+Pagamento de Pessoal Ativo da União - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.000.000
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+9.000.000
+
+0909
+
+Operações Especiais: Outros Encargos Especiais
+
+9.729.368
+
+ 
+
+ 
+
+Operações Especiais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28 846
+
+0909 00H7
+
+Contribuição da União para o Custeio do Regime de Previdência dos Servidores Públicos Federais decorrente do Provimento de Cargos e Funções e Reestruturação de Cargos e Carreiras e Revisão de Remunerações
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+560.017
+
+28 846
+
+0909  00H7 0001
+
+Contribuição da União para o Custeio do Regime de Previdência dos Servidores Públicos Federais decorrente do Provimento de Cargos e Funções e Reestruturação de Cargos e Carreiras e Revisão de Remunerações - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+560.017
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+0
+
+91
+
+0
+
+100
+
+560.017
+
+28 846
+
+0909 0C04
+
+Provimento de Cargos e Funções e Reestruturação de Cargos, Carreiras e Revisão de Remunerações - Pessoal Ativo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.169.351
+
+28 846
+
+0909  0C04 0001
+
+Provimento de Cargos e Funções e Reestruturação de Cargos, Carreiras e Revisão de Remunerações - Pessoal Ativo - Nacional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.169.351
+
+ 
+
+ 
+
+ 
+
+F
+
+1
+
+1
+
+90
+
+0
+
+100
+
+9.169.351
+
+TOTAL – FISCAL
+
+18.729.368
+
+TOTAL – SEGURIDADE
+
+0
+
+TOTAL - GERAL
+
+18.729.368
+
+ 
+
+ 
+
+
+

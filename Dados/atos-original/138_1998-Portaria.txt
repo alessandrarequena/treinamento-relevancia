@@ -1,0 +1,57 @@
+Portaria
+138/1998
+
+
+
+
+
+
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso das atribuições legais e regimentais, e considerando a manifestação do Comitê de Informática, em sua 10ª. Reunião, realizada em 03 de março de 1998, resolve:
+
+
+Art. 1º. A digitação de textos, no âmbito do Tribunal de Contas da União, em microcomputadores deverá ser feita, obrigatoriamente, utilizando-se software em versão indicada pela Secretaria de Informática – Seinf, e adotando-se os critérios estabelecidos pela Imprensa Nacional para a publicação no Diário Oficial da União.
+
+
+Art. 2º Os projetos de Instrução Normativa, Resolução, Decisão Normativa, Portaria e Ordem de Serviço, ao serem submetidos à Presidência deverão fazer-se acompanhar de disquete no qual esteja gravado o respectivo arquivo que os contém.
+
+
+§ 1º. Quando o ato proposto alterar ou acrescentar dispositivo a qualquer norma, a redação atualizada também deverá estar gravada no disquete a que se refere o caput deste artigo, digitando-se em negrito as alterações e/ou acréscimos.
+
+
+§ 2º. Na elaboração dos atos que se refere o caput deste artigo deverão ser observadas, no que couber, as disposições da Lei Complementar nº 95, de 26 de fevereiro de 1998.
+
+
+Art. 3º Os processos sem tramitação no Tribunal de Contas da União deverão ter seu conteúdo – instrução, despachos, pareceres, relatórios, votos e Deliberações do Tribunal – armazenado em meio eletrônico, que poderá ser disquete, dispositivo da rede de computadores ou base de sistema de informação desenvolvido para esse fim.
+
+
+Parágrafo único. Em caso de utilização de disquete para armazenamento dos dados, cada servidor que produzir peça do processo deverá gravar o arquivo correspondente no disquete e mantê-lo  junto ao processo até sua fase final de julgamento.
+
+
+Art. 4º Todo e qualquer documento produzido pelo Tribunal, exceto se mantido por sistema de informação próprio, deverá ter impresso em seu rodapé a sigla da unidade que o produziu e o "path" do arquivo (composto por: nome do computador na rede; identificação da unidade de disco, quando for o caso; especificação do diretório onde está armazenado; e nome completo do arquivo).
+
+
+Art. 5º Esta Portaria entrará em vigor a 1º de abril de 1998.
+
+
+
+
+
+HOMERO SANTOS
+
+
+Presidente
+
+
+
+
+
+
+
+
+
+Não consta revogação expressa
+Dispõe sobre a digitação de textos em microcomputadores, no âmbito do Tribunal de Contas da União, e dá outras providências.
+
+

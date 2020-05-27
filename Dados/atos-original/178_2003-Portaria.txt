@@ -1,0 +1,803 @@
+Portaria
+178/2003
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no exercício de suas atribuições e com base no que dispõe o art. 109 da Resolução n 140, de 13 de dezembro de 2000, e na Portaria-GP n 267, de 16 de agosto de 2001, resolve:
+
+
+
+
+
+Art. 1  Fica aprovada a realização do projeto "Modernização do Exame de Declaração de Bens e Rendas" nos termos da proposta anexa a esta portaria.
+
+
+
+
+
+Art. 2  Fica designado o Analista de Controle Externo (Área Controle Externo) Márcio José Brazil Santos, matrícula 4214-5, para exercer, relativamente ao projeto de que trata esta portaria, a função de confiança de Coordenador de Projeto, FC-3, constante da Resolução n 147, de 28 de dezembro de 2001, e alocada à Segecex.
+
+
+
+Parágrafo único.  Cabe ao coordenador do projeto a responsabilidade de gerenciar o projeto, exercer as competências previstas no art. 7 da Portaria-GP n 267, de 2001, e observar o disposto no Manual de Gestão de Projetos.
+
+
+
+
+
+Art. 3  Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+
+
+VALMIR CAMPELO
+
+
+PRESIDENTE
+
+
+
+
+Não consta revogação expressa
+Aprova a realização do projeto "Modernização do Exame de Declaração de Bens e Rendas" e designa seu gestor.
+
+ANEXO ÚNICO
+
+
+
+
+
+
+
+
+
+1.	Identificação do Gestor do Projeto
+
+
+
+1.1.
+
+Nome
+
+“X” -  Espécie de gestor
+
+Origem da FC
+
+Marcio José Brazil Santos
+
+ 
+
+Gerente
+
+x
+
+Coordenador
+
+SEGECEX
+
+1.2.
+
+E-mail
+
+Marciobs@tcu.gov.br
+
+1.3.
+
+Nome do substituto eventual
+
+Rosival Francisco de Almeida
+
+1.4.
+
+Local/telefone
+
+Anexo II – Térreo – Sala 07 – TEL 7671
+
+2.	Identificação do Projeto
+
+
+2.1.
+
+Nome do projeto
+
+Modernização do Exame de Declaração de Bens e Rendas
+
+2.2.
+
+Período de realização
+
+1º de julho de 2003 a 30 de novembro de 2004
+
+2.3.
+
+Unidade de vinculação
+
+SEFIP
+
+3.	Vinculação Estratégica
+
+
+3.1.
+
+Vínculo com Plano Estratégico do TCU
+
+a)
+
+Estratégia 2 – Adotar postura proativa que contribua para o aperfeiçoamento de normativos relativos à administração pública e ao exercício do controle externo.
+
+b)
+
+Estratégia 3 – Fortalecer parcerias do TCU com demais órgãos públicos.
+
+c)
+
+Estratégia 9 – Aperfeiçoar os processos de trabalho do TCU. 
+
+3.2.
+
+Vínculo com Plano de Diretrizes
+
+a)
+
+Diretriz 4 – melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo
+
+Medidas associadas a essa diretriz relacionadas ao presente projeto:
+
+4.10) aprimorar a gestão de informações no âmbito do TCU 
+
+4.15) adotar postura proativa que contribua para o aperfeiçoamento de normativos relativos à administração pública e ao exercício do controle externo;
+
+4.17) ampliar a integração do TCU com outros órgãos públicos.
+
+3.3.
+
+Vínculo com Plano Diretor (se houver)
+
+a)
+
+Meta 8 – melhorar a tempestividade, a qualidade e a efetividade das ações de controle externo
+
+Medidas associadas a essa meta relacionadas ao presente projeto:
+
+8.17) adotar postura proativa que contribua para o aperfeiçoamento de normativos relativos à administração pública e ao exercício do controle externo.
+
+8.21) criar mecanismos que viabilizem a obtenção, junto à sociedade e à Administração Pública, de informações sobre áreas de risco de interesse do Tribunal.
+
+
+
+
+Problema/Oportunidade
+
+
+
+4.1.
+
+Descrição do problema ou da oportunidade
+
+a)
+
+Dificuldade do TCU cumprir com efetividade a determinação legal (Lei 8.730/93) de manter registro próprio de bens e rendas do patrimônio privado de autoridades públicas e daqueles que administram recursos federais, bem como de cumprir outras atribuições especificadas em lei.
+
+4.2.
+
+Contextualização (por que é problema ou oportunidade)
+
+a)
+
+A Lei 8.730/93, em seu art. 1º, § 2º, determina que o Tribunal de Contas da União deverá: I – manter registro próprio dos bens e rendas do patrimônio privado de autoridades públicas; II – exercer o controle de legalidade e legitimidade desses bens e rendas, com apoio nos sistemas de controle interno de cada Poder; III – adotar as providências inerentes às suas atribuições e, se for o caso, representar o Poder competente sobre irregularidades ou abusos apurados; IV – publicar, periodicamente, no Diário Oficial da União, por extrato, dados e elementos constantes da declaração; V – prestar a qualquer  das Câmaras do Congresso Nacional ou às respectivas Comissões, informações solicitadas por escrito; VI – oferecer certidões e informações requeridas por qualquer  cidadão, para propor ação popular que vise a anular ato lesivo ao patrimônio público ou à moralidade administrativa, na forma da lei. Como se vê, não pode esta Corte de Contas quedar inerte frente a tão importantes atribuições legais, a este confiadas pela sociedade. 
+
+Por força desses dispositivos, atualmente, aproximadamente 7 mil dessas declarações têm sido apresentadas por ano. Salientando-se que esse número refere-se apenas a um grupo de obrigados a apresentar a declaração ao TCU. No que diz respeito aos demais, a norma (IN-TCU 05/94) determina que os órgãos mantenham arquivo próprio dessas declarações. É necessário criar uma nova sistemática de obtenção e análise dessa grande massa de informações, instituindo instrumentos que possam tornar esse processo mais efetivo. 
+
+b)
+
+As declarações de bens e rendas, que atualmente só podem ser encaminhadas em papel, são analisadas em setor de acesso restrito, sendo delas extraídos, mediante digitação, os valores referentes aos rendimentos e demais elementos comprobatórios de variação patrimonial. Os dados extraídos são armazenados em um sistema denominado SISDBR – banco de dados em MS Access -, desenvolvido para permitir o acesso às informações pertinentes a cada autoridade. O sistema não executa qualquer crítica quanto à variação patrimonial. O SISDBR deve ser aprimorado, quanto a dois aspectos, essencialmente:
+
+               - permitir que as declarações possam ser encaminhadas por meio magnético, evitando o desconforto do envio pelo correio para o declarante e o trabalho de digitação por parte do setor competente do TCU;
+
+               - possibilitar que o sistema efetue a análise crítica da evolução patrimonial dos declarantes, de modo a ser possível identificar aqueles que apresentem uma evolução patrimonial incompatível com a renda33
+
+c)
+
+Os normativos do TCU que tratam da Declaração de Bens e Rendas – Instrução Normativa 5/94 e Portarias 132/94 e 140/94, Resolução 91/97 – precisam ser revistos e adequados à nova realidade
+
+4.3.
+
+Evolução do quadro (apresentar dados, preferencialmente, em tabelas)
+
+a)
+
+Posição atual das análises das declarações a cargo da SEFIP:declarações protocolizadas e digitadas: de 1993 a 2001;declarações que ainda não foram objeto de análise patrimonial: de 1993 a 2001; edeclarações que podem ser destruídas devido à prescrição de 05 anos: de 1993 a 1996 
+
+b)
+
+Processos autuados com base na IN-TCU n. 05/94:
+
+a)       processos encerrados de DBR/Consolidado .........................................................1.866
+
+b)       processos de DBR/Consolidado anual .....................................................................210
+
+c)       processos autuados em função de Consulta/Denúncia/Representação ......................50
+
+d)       processos sobrestados ..................................................................................................2
+
+e)       processos aguardando decisão do TCU (alteração da IN 05/94)..................................5
+
+f)        processos em diligência ...............................................................................................4
+
+g)       processos aguardando cumprimento de decisão ..........................................................1
+
+h)       processos referentes à omissão ..................................................................................37
+
+ 
+
+4.4.
+
+Se nada for feito (qual a gravidade, a urgência e a tendência)
+
+a)
+
+A atividade fiscalizatória aqui tratada necessita urgentemente ser modernizada, uma vez que o sistemática atual não está habilitada a oferecer os produtos que se fazem necessários ao exato cumprimento das competências do TCU.
+
+
+
+ESCOPO DO PROJETO
+
+5.1. Objetivo geral do projeto (em relação à oportunidade ou à solução do problema)
+
+
+Desenvolver e implantar nova sistemática de recepção e análise eletrônica das Declarações de Bens e Rendas de acordo com atribuições estabelecidas pela Lei nº 8.730/93. 
+5. 2. Meta – indicador – produto - cliente
+
+
+META
+
+5.2.3. Indicador
+
+5.2.4. Produto
+
+5.2.5. Cliente
+
+5.2.1. Objetivo específico
+
+5.2.2. Prazo
+
+ 
+
+ 
+
+ 
+
+a)
+
+Elaborar minuta com a revisão do acordo de cooperação com a SRF
+
+30/08/2003
+
+Minuta de acordo de cooperação aprovada pela SEGECEX até o prazo
+
+Minuta com revisão do acordo de cooperação com a SRF
+
+SEGECEX
+
+ 
+
+b)
+
+Propor treinamento em MS Access dos servidores envolvidos com a atividade
+
+30/09/2003
+
+Estabelecimento de plano de treinamento dentro do prazo
+
+Plano de treinamento
+
+SEFIP
+
+c)
+
+Elaborar minuta com a revisão da Instrução Normativa disciplinadora do exame das declarações de bens e rendas pelo TCU
+
+30/10/2003
+
+Minuta de IN aprovada pela SEGECEX até o prazo
+
+Minuta de Instrução Normativa 
+
+SEGECEX
+
+SEFIP
+
+d)
+
+Elaborar minuta de Portaria e Manual de Procedimentos provisórios de análise abrangendo todas as declarações de bens e rendas.
+
+30/11/2003
+
+Minuta de Portaria e Manual de Procedimentos provisórios aprovados pela SEGECEX até o prazo
+
+Minuta de Portaria e de Manual de Procedimentos
+
+SEGECEX
+
+SEFIP
+
+e)
+
+Definir rotinas para a recepção informatizada das declarações
+
+30/03/2004
+
+Rotinas para recepção aprovadas pela SEFIP até o prazo
+
+Definição de rotinas de recepção
+
+SEFIP
+
+f)
+
+Executar testes piloto com as rotinas de recepção 
+
+30/04/2004
+
+Testes executados até o prazo
+
+Relatório com os resultados
+
+SEFIP
+
+g)
+
+Homologar as rotinas de recepção
+
+30/05/2004
+
+Rotinas de recepção das declarações homologadas até o prazo
+
+Rotinas de recepção
+
+SEFIP
+
+h)
+
+Executar treinamento dos servidores na nova metodologia de recepção das declarações.
+
+15/06/2003
+
+Treinamento oferecido
+
+Servidores treinados
+
+SEFIP
+
+i)
+
+Definir os critérios de análise eletrônica das DBRs, estabelecendo as respectivas  rotinas.
+
+30/06/2004
+
+ 
+
+Critérios de análise e rotinas aprovados pela SEFIP até o prazo
+
+Definição dos  critérios de análise e respectivas rotinas 
+
+SEFIP
+
+j)
+
+Executar testes piloto com as rotinas estabelecidas para análise
+
+30/07/2004
+
+Testes executados até o prazo
+
+Relatório com os resultados
+
+SEFIP
+
+k)
+
+Homologar as rotinas com o formato final de relatório de análise das declarações
+
+30/08/2004
+
+Rotinas/Relatório de análise das declarações homologado até o prazo
+
+Relatório de análise das declarações
+
+SEFIP
+
+l)
+
+Elaborar minuta de Resolução estabelecendo procedimentos para a análise, apreciação e fiscalização das declarações pelo Tribunal, em cumprimento à Dec 441-97 proferida no TC 014.786-1997-4
+
+30/09/2004
+
+Minuta de Resolução aprovada pela SEFIP até o prazo
+
+Minuta de Resolução
+
+SEFIP
+
+m)
+
+Elaborar minuta com atualização do Manual de Procedimentos de análise das declarações
+
+15/11/2004
+
+Minuta com a atualização do Manual de Procedimentos aprovada pela SEGECEX até o prazo
+
+Manual atualizado
+
+SEFIP
+
+
+
+5.3. Macroetapas (primeiro nível da estrutura analítica do projeto - EAP)
+
+
+
+a)
+
+Gestão do Projeto
+
+b)
+
+Normatização
+
+c)
+
+Definição da sistemática de recepção e exame das declarações 
+
+d)
+
+Implantação da sistemática 
+
+e)
+
+Divulgação
+5.4. Não escopo (o que o projeto não vai fazer)
+
+
+a)
+
+O projeto não cuidará do desenvolvimento de plataforma Web de recepção das declarações
+
+
+
+
+
+
+Identificação das partes envolvidas no projeto (em relação a que)
+
+
+
+a)
+
+SEFIP e SEGECEX/ADCON – validação das normas 
+
+b)
+
+ISC – disponibilizar curso de MS Access (básico e avançado) para os servidores da área
+
+
+
+
+
+
+Fatores que podem pôr em risco o êxito do projeto
+
+
+
+7.1 
+
+Risco
+
+7.2.  
+
+Impacto
+
+7.3.
+
+Probabilidade de ocorrer
+
+7.3. 
+
+(E) Ação para evitar / (M) mitigar / (R) reduzir impacto
+
+7.4.
+
+Responsável pela ação
+
+a)
+
+Dificuldade para compor a equipe do projeto
+
+Médio
+
+Alta
+
+(E) – Portaria do Presidente aprovando a equipe proposta neste documento.
+
+ 
+
+Coordenador do projeto
+
+b)
+
+Restrições impostas pela SRF para aceitar a revisão do acordo de cooperação que estabeleça o envio das declarações de IR ao TCU
+
+Alto
+
+Alta
+
+(E) – negociar com a SRF sobre competências atribuídas ao TCU pelas normas vigentes
+
+Coordenador do projeto e, em última instância, titulares da SEFIP e SEGECEX
+
+c)
+
+Impossibilidade de leitura dos arquivos de IR da SRF
+
+Alto
+
+Média
+
+(M) – estabelecer formulário próprio de preenchimento eletrônico das declarações
+
+Coordenador do projeto
+
+b)
+
+Alteração das propostas de normativos que provoquem impacto nas especificações da sistemática
+
+Alto
+
+Média
+
+(E) – fazer as propostas com a maior brevidade possível, oferecendo todas as informações possíveis
+
+Coordenador do projeto e titular da SEFIP
+
+c)
+
+Impossibilidade de realização dos treinamentos necessários
+
+Baixo
+
+Baixa
+
+(E) – alocar com antecedência o período para treinamento dos servidores.
+
+Coordenador do projeto
+
+
+
+
+
+
+Fatores que contribuem para o êxito do projeto
+
+
+
+a)
+
+Interesse do Presidente do TCU e dos seus dirigentes nos resultados do projeto
+
+b)
+
+Apoio do titular da SEFIP na cessão de servidores para compor a equipe do projeto
+
+
+
+
+
+
+Projetos predecessores
+
+
+
+a)
+
+a atividade do projeto não foi objeto da constituição de grupos de trabalho, a não ser pela realização de alguns contatos de servidores da ADCON com os responsáveis da SRF.
+
+
+
+
+
+
+Projetos sucessores
+
+
+
+a)
+
+Não há
+
+
+
+Custos estimados
+
+
+
+11.1. Recurso
+
+a)
+
+Os custos estão previstos nas rubricas do Orçamento do TCU 
+
+Total de custos estimados
+
+
+
+
+
+
+Outros recursos necessários
+
+
+
+12.1. Recurso
+
+12.2. Fornecedor
+
+a)
+
+Recursos humanos – Analistas e Técnicos de Controle Externo com experiência na atividade de controle das declarações de bens e rendas, assim como na redação de normativos internos; estagiário com conhecimento em informática, especialmente no banco de dados MS Access. 
+
+SEFIP 
+
+
+
+
+
+
+Equipe do projeto
+
+
+
+13.1. Nome
+
+13.2. Matrícula
+
+13.3. Lotação
+
+13.4. Período
+
+13.5. Dedicação integral ou parcial
+
+a)
+
+Marcio José Brazil Santos                   (ACE)
+
+4214-5
+
+SEFIP
+
+01/07/2003 a 30/11/2004
+
+INTEGRAL
+
+b)
+
+Rosival Francisco de Almeida             (ACE)
+
+0293-3
+
+SEFIP
+
+01/07/2003 a 30/11/2004
+
+INTEGRAL
+
+c)
+
+Maria Leal dos Santos                         (TCE)
+
+1990-9
+
+SEFIP
+
+01/07/2003 a 30/11/2004
+
+INTEGRAL
+
+d)
+
+Nair Teodoro de Oliveira                     (TCE)
+
+2032-0
+
+SEFIP
+
+01/07/2003 a 30/11/2004
+
+INTEGRAL
+
+
+
+
+
+
+Considerações finais (fundamentação normativa Portaria 267/2001)
+
+
+
+14.1.
+
+O que caracteriza o trabalho como projeto
+
+a)
+
+Atendimento de demanda específica da Secretaria de Fiscalização de Pessoal – SEFIP que comporta grande esforço de planejamento e coordenação para gerar resultado dentro de um prazo estabelecido,  de acordo com o artigo 4, IV, da Portaria n. 267/2001.
+
+b)
+
+Desenvolvimento de soluções que resultem na melhoria de gestão no âmbito interno do Tribunal,  de acordo com o artigo 4, V, da Portaria n. 267/2001.
+
+c)
+
+Desenvolvimento de soluções que favoreçam à melhoria de resultados e a prevenção de danos à gestão de recursos e de patrimônio públicos,  de acordo com o artigo 4, VI, da Portaria n. 267/2001.
+
+14.1.
+
+Características do trabalho que definem o gestor do projeto como gerente ou coordenador
+
+a)
+
+Período mínimo de três meses, de acordo com o artigo 6, III, da Portaria n. 267/2001.
+
+b)
+
+Justificada relevância da matéria, de acordo com o artigo 6, IV, da Portaria n. 267/2001
+
+c)
+
+Desenvolvimento de nova tecnologia ou metodologia com impacto geral nas atividades da Secretaria do Tribunal, especialmente da área de controle externo, de acordo com o artigo 6, V, da Portaria n. 267/2001
+
+d)
+
+Produto de importância estratégica para o alcance de metas institucionais, de acordo com o artigo 6, VI, da Portaria n. 267/2001
+
+15.	Finalização
+
+
+15.1.   Data e assinatura do gestor do projeto
+
+Em _____/______/2003
+
+ 
+
+ 
+
+ 
+
+15.2.   Manifestação do titular da unidade de patrocinadora
+
+ 
+
+De acordo, conforme acordo firmado em ata de reunião de abertura realizada em 14 / 07 / 2003.
+
+Encaminhe-se a presente proposta a equipe de acompanhamento de projeto (Seplan), visando à aprovação do projeto junto à Presidência.
+
+Unidade _____/______/2003
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1915 @@
+Portaria
+146/2011
+
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso de suas atribuições legais e regimentais,
+
+
+Considerando os Padrões de Auditoria de Conformidade para utilização nas atividades de controle externo, aprovados pela Portaria-Segecex nº 26, de 19 de outubro de 2009;
+
+
+Considerando que os referidos Padrões podem ser utilizados como parâmetro pelo controle interno;
+
+
+Considerando a necessidade de uniformização dos procedimentos de planejamento, execução e elaboração de relatórios de auditoria de conformidade nos trabalhos executados pela Secoi;
+
+
+Considerando que o Plano Diretor da Secoi para o exercício de 2011 definiu como uma de suas diretrizes "aperfeiçoar a estrutura normativa de suporte ao controle interno".
+
+
+Considerando as informações constantes do TC-015.931/20110, resolve:
+
+
+Art. 1º Ficam aprovados, na forma do Anexo desta Portaria, os Padrões de Auditoria de Conformidade da Secretaria de Controle Interno (Secoi) do Tribunal de Contas da União.
+
+
+Art. 2º É obrigatória a utilização dos Padrões aprovados por esta Portaria nas Auditorias de Conformidade executadas pela Secoi.
+
+
+Art. 3º Incumbe à Secoi a atualização dos Padrões de Auditoria de Conformidade a que se refere o art. 1º deste normativo.
+
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+
+BENJAMIN ZYMLER
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+O objetivo deste documento é estabelecer padrões gerais de planejamento, execução, elaboração do relatório e controle de qualidade das auditorias de conformidade executadas pela Secretaria de Controle Interno do Tribunal de Contas da União (Secoi).
+
+
+
+I – PADRÕES GERAIS
+
+
+
+1. As auditorias de conformidade executadas pela Secoi obedecerão aos padrões aqui estabelecidos.
+
+
+2. Todo o trabalho de auditoria, desde seu planejamento até a conclusão do relatório, é supervisionado por AUFC formalmente designado, pelo diretor da Diretoria de Auditoria da Secoi - Diaud ou pelo Secretário da Secoi.
+
+
+3. Compete ao supervisor da auditoria:
+
+
+3.1. orientar a equipe de auditoria quanto à vinculação ao objetivo da fiscalização e à aderência aos padrões de auditoria de conformidade da Secoi;
+
+
+3.2. aprovar a Matriz de Planejamento, antes do início da execução;
+
+
+3.3. acompanhar o desenvolvimento dos trabalhos desde o início do planejamento até a conclusão do relatório;
+
+
+3.4. analisar, juntamente com a equipe, a Matriz de Achados, se houver;
+
+
+3.5. analisar, juntamente com a equipe, a Matriz de Responsabilização, se houver;
+
+
+3.6. preencher e assinar, após a conclusão do relatório, o formulário constante do Anexo IX (Formulário de Controle de Qualidade – Supervisor);
+
+
+3.7. sempre que possível e relevante, participar da reunião de apresentação e da reunião de encerramento.
+
+
+4. Compete ao coordenador da equipe de auditoria:
+
+
+4.1. promover as discussões da equipe a respeito do escopo, procedimentos e técnicas a serem utilizados, incentivando os demais membros a apresentarem propostas e a decidirem por consenso. No caso de divergência de opiniões deve-se buscar a opinião do supervisor. Permanecendo a divergência, prevalecerá a proposta do coordenador;
+
+
+4.2. representar a equipe de auditoria perante a unidade  auditada, providenciar a emissão dos ofícios de requisição de documentos e de informações e coordenar as reuniões com os fiscalizados;
+
+
+4.3. zelar pelo cumprimento dos prazos;
+
+
+4.4. revisar e entregar a versão final do relatório, com a anuência dos demais membros;
+
+
+4.5. assegurar que o formulário de controle de qualidade constante do Anexo VII  (Formulário de Controle da Equipe) seja, juntamente com os demais membros, preenchido e assinado;
+
+
+4.6. registrar, caso julgue relevante, eventuais discordâncias quanto a não aprovação de quaisquer aspectos da Matriz de Planejamento pelo supervisor. Tal registro deverá constar como observação na própria matriz objeto da divergência.
+
+
+5. A designação da equipe de auditoria é feita mediante Portaria de Fiscalização, na qual são identificados o coordenador, os demais membros da equipe e o supervisor, bem como o objetivo dos trabalhos, a unidade fiscalizada, a deliberação que originou a fiscalização, a fase de planejamento e, quando conhecidas, as fases de execução e de elaboração do relatório.
+
+
+5.1. nas hipóteses de afastamento legal do supervisor, a supervisão deverá ser feita pelo respectivo substituto.
+
+
+6. Nas auditorias cujo prazo total de duração (planejamento, execução e elaboração do relatório) estimado inicialmente seja superior a vinte dias úteis, a fase de planejamento pode, a critério da unidade, ser realizada antes da definição das fases de execução e de elaboração do relatório, observando-se o seguinte:
+
+
+6.1. o ato de designação da equipe deverá prever apenas a fase de planejamento, sendo denominado Portaria de Fiscalização – fase planejamento;
+
+
+6.2. como conseqüência da fase de planejamento, a equipe deve estimar com maior precisão possível o prazo necessário para as fases seguintes. Em seguida, será emitida Portaria de Fiscalização – fases execução e relatório, na qual serão definidas as fases de execução e de elaboração do relatório;
+
+
+6.3. não há impedimento de que a Secoi realize a fase de planejamento antes da definição das fases de execução e elaboração do relatório em auditorias cujo prazo total de duração estimado seja igual ou inferior a vinte dias úteis.
+
+
+7. Quando existir pouca informação disponível sobre a unidade auditada ou sobre o objeto a ser fiscalizado, o instrumento de fiscalização a ser adotado é o levantamento, cujo relatório deverá propor a realização de auditoria(s) com escopo(s) definido(s) ou concluir pela inviabilidade ou inoportunidade da realização de auditoria.
+
+
+8. Sempre que o elemento surpresa não for essencial ao desenvolvimento dos trabalhos a formalização da auditoria dar-se á nas seguintes etapas:
+
+
+8.1. autuação de processo eletrônico referente à auditoria;
+
+
+8.2. registro da auditoria no sistema Fiscalis;
+
+
+8.3. emissão da Portaria de Fiscalização pelo titular da Secoi;
+
+
+8.4. publicação da Portaria de Fiscalização no BTCU;
+
+
+8.5. emissão do ofício de apresentação;
+
+
+8.6. encaminhamento, pela equipe de auditoria, de ofício de requisição de documentos à unidade auditada.
+
+
+9. O titular da Secoi encaminhará, com a antecedência necessária, ofício de apresentação da equipe de auditoria (anexo IV) ao dirigente da unidade auditada informando que ela se encontra sob fiscalização, o objetivo e a deliberação que originou a fiscalização, a data provável para apresentação da equipe, bem como solicitando, quando for o caso, além de documentos e informações, disponibilização de ambiente reservado e seguro para a instalação da equipe e designação de uma pessoa de contato da unidade.
+
+
+
+9.1. Durante a fase de planejamento, não há impedimento de que a equipe técnica, caso julgue necessário, visite a unidade.
+
+
+
+
+II - PADRÕES DE PLANEJAMENTO
+
+
+
+10. O titular da Secoi deve assegurar que o tempo disponível para a fase de planejamento seja suficiente para a consecução dos objetivos desta fase, de forma a garantir os seguintes aspectos básicos:
+
+
+10.1. nível de detalhamento suficiente, de modo a maximizar o provável benefício da fiscalização;
+
+
+10.2. obtenção e análise das informações disponíveis e necessárias sobre o objeto fiscalizado, inclusive  quanto aos sistemas informatizados e aos controles internos a ele associados;
+
+
+10.3. suficiente discussão, no âmbito da equipe de auditoria e entre esta e o supervisor, a respeito da definição do escopo, dos procedimentos e técnicas a serem utilizados;
+
+
+11. Na fase de planejamento deve ser elaborada a Matriz de Planejamento.
+
+
+11.1. Havendo Matrizes de Referência, caberá à equipe avaliar se os itens de verificação constantes destas devem ser considerados na elaboração dos procedimentos da Matriz de Planejamento específica da auditoria. A utilização das Matrizes de Referência não impede a inclusão de outros procedimentos considerados relevantes pela equipe técnica, selecionados de acordo com o objetivo e escopo delineados para a auditoria.
+
+
+11.2. A elaboração da Matriz de Planejamento deve obedecer ao modelo do Anexo I.
+
+
+12. Na fase de planejamento, a equipe de auditoria deve, preliminarmente, construir uma visão geral do objeto a ser fiscalizado, podendo fazer uso, entre outras, das seguintes fontes de informação:
+
+
+12.1. sistemas informatizados;
+
+
+12.2. contas dos últimos exercícios;
+
+
+12.3. fiscalizações anteriores, incluindo os respectivos papéis de trabalho;
+
+
+12.4. outros processos relacionados à unidade fiscalizada ou ao objeto da fiscalização;
+
+
+12.5. própria unidade fiscalizada;
+
+
+12.6. notícias veiculadas na mídia;
+
+
+12.7. levantamentos anteriores sobre o objeto da fiscalização.
+
+
+12.8. acompanhamentos realizados pela Diretoria de Acompanhamento e Orientação de Gestão da Secoi (Diages) relacionados à unidade fiscalizada ou ao objeto da fiscalização;
+
+
+13. A visão geral objetiva o conhecimento e a compreensão do objeto a ser fiscalizado, bem como do ambiente organizacional em que este está inserido. Em geral, é composta das seguintes informações:
+
+
+13.1. descrição do objeto fiscalizado com as características necessárias a sua compreensão;
+
+
+13.2. legislação aplicável;
+
+
+13.3. objetivos institucionais da  unidade fiscalizada, quando for o caso;
+
+
+13.4. competências e atribuições;
+
+
+13.5. riscos e deficiências em controles internos.
+
+
+
+
+III - PADRÕES DE EXECUÇÃO
+
+
+
+14. A apresentação da equipe de auditoria à(o) dirigente da unidade auditada ou representante por ele designado faz-se mediante realização de reunião de apresentação na qual poderão ser informados os principais critérios de auditoria inicialmente selecionados durante o planejamento, bem como o escopo e os objetivos do trabalho. 
+
+
+14.1. A equipe de auditoria poderá, ao se apresentar aos responsáveis pelas áreas que serão fiscalizadas, esclarecer o objetivo, os critérios e o escopo da fiscalização.
+
+
+15. A requisição de documentos e informações, durante a fiscalização – planejamento, execução e relatório -, deve fixar prazo para seu atendimento. Tal prazo, sempre que possível e desde que não comprometa o prazo de execução, deve ser estabelecido em comum acordo com o fiscalizado. A mencionada solicitação será formalizada por meio de ofício de requisição datado e numerado seqüencialmente, tomando-se como referência o modelo constante do Anexo V.
+
+
+16. A entrega do ofício de requisição poderá ser realizada pessoalmente ou por meio eletrônico. Cópias constituirão papel de trabalho da fiscalização.
+
+
+16.1. Os documentos fornecidos pelo dirigente devem conter a identificação de quem os elaborou ou forneceu e a fonte da informação, além de estarem legíveis, datados e assinados. 
+
+
+16.2. Sempre que possível, de forma a agilizar os trabalhos e garantir a disponibilização dos documentos e condições requeridas, o primeiro ofício de requisição da fase de execução pode ser encaminhado via fax, e-mail ou pessoalmente, com a devida antecedência.
+
+
+17. Durante a fase de execução, a equipe de auditoria deve utilizar as fontes de informação e aplicar os procedimentos previstos na Matriz de Planejamento em busca de achados.
+
+
+17.1. A Matriz de Planejamento, como instrumento para a consecução do objetivo da fiscalização, é passível de mudanças durante a realização dos trabalhos, caso ocorram situações inesperadas.
+
+
+18. O achado de auditoria, analisado na Matriz de Achados (anexo II), deve atender, necessariamente, aos seguintes requisitos básicos:
+
+
+18.1. ser relevante para que mereça ser relatado;
+
+
+18.2. estar fundamentado em evidências juntadas aos autos;
+
+
+18.3. ser apresentado de forma objetiva;
+
+
+18.4. respaldar as propostas de encaminhamento dele resultantes;
+
+
+19. Os esclarecimentos acerca dos indícios devem ser colhidos ao longo da fase de execução, evitando-se mal entendidos e minimizando o recolhimento de informações posteriores.
+
+
+20. As evidências, elementos essenciais e comprobatórios do achado, devem ter os seguintes atributos:
+
+
+20.1. serem suficientes e completas de modo a permitir que terceiros cheguem às conclusões da equipe;
+
+
+20.2. serem pertinentes ao tema e diretamente relacionadas com o achado;
+
+
+20.3. serem adequadas e fidedignas, gozando de autenticidade, confiabilidade e exatidão da fonte;
+
+
+21. Os documentos considerados como evidências podem ser:
+
+
+21.1. originais de ofícios, cartas, relatórios ou outros documentos emitidos pelo fiscalizado ou por terceiros endereçados à equipe;
+
+
+21.2. cópias de documentos;
+
+
+21.3. fotografias ou mídias contendo arquivos de dados, de vídeo ou de áudio;
+
+
+21.4. extratos de entrevista, conforme modelo do Anexo VIII;
+
+
+21.5. consolidações de respostas a questionários;
+
+
+21.6. planilhas de cálculos, quadros comparativos, demonstrativos e outras evidências construídas pela equipe a partir de fontes de informação internas ou externas à unidade auditada.
+
+
+21.7. documentos eletrônicos;
+
+
+22. As evidências testemunhais devem, sempre que possível, ser reduzidas a termo e corroboradas por outras evidências.
+
+
+23. Ao final da fase de execução, será realizada reunião de encerramento, na qual a equipe, caso avalie conveniente, apresenta verbalmente uma visão geral dos trabalhos de auditoria ao dirigente da unidade auditada e outros responsáveis cuja participação seja considerada oportuna, ou representantes por eles designados.
+
+
+23.1. Sempre que possível, os achados colhidos ao longo da execução deverão ser discutidos com o supervisor anteriormente à reunião de encerramento.
+
+
+
+
+IV - PADRÕES DE ELABORAÇÃO DO RELATÓRIO
+
+
+
+24. Relatório é o instrumento formal e técnico por intermédio do qual a equipe de auditoria comunica aos leitores: o objetivo; as questões de auditoria; os achados de auditoria; a conclusão e a proposta de encaminhamento.
+
+
+25. Na redação do relatório, a equipe de auditoria deve orientar-se pelos requisitos resumidos na palavra "CERTO": Clareza, Concisão, Convicção, Exatidão, Relevância, Tempestividade e Objetividade:
+
+
+25.1. CLAREZA - Produzir textos de fácil compreensão. Evitar a ambigüidade e restringir ao máximo a utilização de expressões em outros idiomas, exceto quando se tratar de expressões que não possuam tradução adequada para o idioma português e que já se tornaram corriqueiras. Quando possível, complementar os textos com ilustrações, figuras e tabelas. Buscar uniformidade do tempo verbal em todo o texto.
+
+
+25.2. CONVICÇÃO - Expor os achados e/ou as conclusões com firmeza.
+
+
+25.3. CONCISÃO – Ir direto ao assunto. Não utilizar comentários complementares desnecessários nem fugir da idéia central. A transcrição de trechos de doutrina e/ou jurisprudência que componham o critério deve restringir-se ao mínimo necessário. A transcrição de trechos de evidências documentais somente deverá ser feita quando for essencial ao entendimento do raciocínio.
+
+
+25.4. EXATIDÃO - Apresentar as necessárias evidências para sustentar seus achados, conclusões e propostas, procurando não deixar espaço para contra-argumentações. A exatidão é necessária para assegurar ao leitor que o que foi relatado é fidedigno e confiável. Um erro pode pôr em dúvida a validade de todo o relatório e pode desviar a atenção da substância do que se quer comunicar. As evidências relatadas devem demonstrar a justeza e a razoabilidade dos fatos descritos. Os achados e a conclusão devem ser apresentados de forma coerente com o escopo da fiscalização.
+
+
+25.5. RELEVÂNCIA - Expor apenas aquilo que tem importância dentro do contexto e que deve ser levado em consideração. 
+
+
+25.6. TEMPESTIVIDADE - Cumprir o prazo previsto para a elaboração do relatório, sem comprometer a qualidade.
+
+
+25.7. OBJETIVIDADE - Apresentar o relatório de forma equilibrada em termos de conteúdo e tom. A credibilidade de um relatório é reforçada quando as evidências são apresentadas de forma imparcial. Interpretações devem ser baseadas no conhecimento e compreensão de fatos e condições.
+
+
+26. O relatório deve estar estruturado, no mínimo, com as seguintes seções:
+
+
+26.1. Folha de Rosto;
+
+
+26.2. Apresentação, se houver;
+
+
+26.3. Introdução;
+
+
+26.4. Achados de Auditoria;
+
+
+26.5. Achados não decorrentes da investigação de questões de auditoria, se houver;
+
+
+26.6. Conclusão;
+
+
+26.7. Proposta de Encaminhamento;
+
+
+26.8. Anexos do Relatório, se houver.
+
+
+Folha de Rosto
+
+
+27. A folha de rosto destina-se a apresentar, de forma sucinta, os dados relativos à identificação do trabalho realizado, sendo subdividida em três partes principais: "Da fiscalização", "Da unidade fiscalizada" e Processo(s) conexo(s)", conforme modelo do Anexo VI.
+
+
+Apresentação
+
+
+28. A apresentação destina-se ao relato de informações que visem a contextualizar o trabalho realizado. Destina-se, também, a descrever a forma como se organiza o relatório.
+
+
+Introdução
+
+
+29. A introdução deve conter as seguintes informações, apresentadas de forma concisa:
+
+
+29.1. deliberação que originou a fiscalização e menção às razões que motivaram a deliberação, se necessário;
+
+
+29.2. visão geral do objeto (elaborada na fase de planejamento e revisada após a execução);
+
+
+29.3. objetivo e questões de auditoria;
+
+
+29.4. limitações inerentes à auditoria, se houver;
+
+
+29.4.1. a descrição das limitações deve indicar claramente aquilo que não pôde ser investigado em profundidade suficiente para a formulação de conclusões, com as justificativas pertinentes;
+
+
+29.5. menção à observância dos padrões de auditoria de conformidade definidos pela Secoi.
+
+
+29.6. menção à participação de especialistas e de outras unidades técnicas que tenham contribuído de modo significativo para a realização do trabalho, ainda que não tenham assinado o relatório;
+
+
+29.7. volume de recursos fiscalizados;
+
+
+29.8. benefícios estimados da fiscalização;
+
+
+29.9. processos conexos (se houver) – análise dos reflexos dos processos conexos e respectivas deliberações na fiscalização.
+
+
+Achados de Auditoria
+
+
+30. Esta seção corresponde ao próprio desenvolvimento do relatório, e nela devem ser detalhados os achados de auditoria e as evidências que os suportam.
+
+
+31. A análise de cada achado deve estar estruturada sob os seguintes aspectos:
+
+
+31.1. situação encontrada;
+
+
+31.2. critério de auditoria;
+
+
+31.3. evidências;
+
+
+32. O item evidências deve conter sempre remissão às folhas da peça do processo onde se encontram as evidências que suportam o achado.
+
+
+33.Para os achados que envolvam a existência de débito é necessário o preenchimento da Matriz de Responsabilização (Anexo III), na qual fica identificada a responsabilidade pela ocorrência.
+
+
+34. Em função de sua significância, as boas práticas da unidade auditada (achados positivos) devem ser relatadas desde que possam ser registradas como propostas de encaminhamento para que sejam adotadas como exemplo por outros gestores.
+
+
+34.1 Os achados classificados como boas práticas serão relatados como "Achados não decorrentes da investigação de questões de auditoria".
+
+
+Achados não decorrentes da investigação de questões de auditoria
+
+
+35. São considerados achados não decorrentes da investigação de questões de auditoria todos aqueles não previstos nas questões de auditoria formuladas na fase de planejamento, mas que, em função de relevância, materialidade ou risco, mereçam a atenção da equipe de auditoria.
+
+
+36. A equipe deve avaliar se investigações não previstas na fase de planejamento podem levar ao desvirtuamento da auditoria inicial, em termos de comprometimento do prazo e/ou das questões de auditoria. Se a magnitude das evidências encontradas recomendar tratamento desses achados, deve-se avaliar a oportunidade e conveniência de fazê-lo juntamente com o objetivo da fiscalização. Prejudicada a hipótese, o fato deve ser comunicado ao titular da Secoi que avaliará a conveniência e a oportunidade de propor nova fiscalização. Caberá ainda à equipe, ao supervisor ou ao titular da Secoi apresentar representação autônoma.
+
+
+37.  Achados não decorrentes da investigação de questões de auditoria investigados e abordados em relatório devem ter o mesmo tratamento dos demais achados, devendo constar necessariamente nesta seção do relatório os aspectos: situação encontrada, critério de auditoria e evidências.
+
+
+
+37.1. Devem constar, também, da Matriz de achados, com o destaque que se referem a "Achados não decorrentes da investigação de questões de auditoria", e das seções do relatório: Conclusão e Propostas de encaminhamento. Tais achados, como os demais, devem estar devidamente sustentados por evidências.
+
+
+37.2. A investigação de assuntos não previstos inicialmente deve ser registrada na Introdução, subseção "Objetivo", na qual será feita menção ao objetivo original e à inclusão dos novos temas. Na Matriz de Planejamento e de Achados, pode ser mantido o objetivo inicial.
+
+
+Conclusão
+
+
+38. Na conclusão, os achados devem ser apresentados de maneira sucinta.
+
+
+39. As referências aos achados de auditoria devem indicar o(s) número(s) do(s) item(ns) em que cada um deles é tratado no relatório.
+
+
+Proposta de Encaminhamento
+
+
+40. Havendo achados, a proposta de encaminhamento deve ser no sentido de diligenciar a unidade auditada para que apresente justificativas/esclarecimentos sobre os fatos apontados, no prazo definido pela Portaria TCU 257/2010.
+
+
+40.1Em caso de urgência, de fundado receio de grave lesão ao erário ou direito alheio ou de risco de ineficácia da decisão de mérito, a equipe, a qualquer tempo, deverá submeter, ao Secretário de Controle Interno, proposta de comunicação dos fatos ao Ministro Presidente do TCU, para que este adote as medidas que julgar cabíveis. 
+
+
+
+Revogada
+Dispõe sobre os Padrões de Auditoria de Conformidade adotados pela Secretaria de Controle Interno (Secoi).
+
+Anexos do Relatório
+
+
+
+
+41. Consideram-se anexos aqueles documentos que, embora diretamente relacionados aos assuntos tratados no relatório, não sejam essenciais à compreensão deste, tais como, memórias de cálculo, protocolos de teste e descrições detalhadas. A separação dos citados documentos visa a tornar o relatório conciso, entretanto não deve causar prejuízo de entendimento para o leitor, cabendo a equipe avaliar cada caso.
+
+
+42. Consideram-se anexos, ainda, aqueles documentos que por seu tamanho ou disposição gráfica não possam constar do corpo do relatório, tais como, tabelas, gráficos e fotografias.
+
+
+Documentos Juntados
+
+
+43. Devem ser obrigatoriamente juntados ao processo de auditoria: Portaria(s) de Fiscalização; rol de responsáveis (com a identificação: nome, CPF, cargo, período efetivo de exercício no cargo, seja como titular, seja como substituto), de todos os responsáveis pelas áreas ou setores fiscalizados no período abrangido pela fiscalização; ofícios de requisição; evidências; ofício de apresentação; cópias de mensagens eletrônicas trocadas entre a equipe de auditoria e a unidade auditada e as matrizes utilizadas.
+
+
+
+
+V - PADRÕES DE CONTROLE DE QUALIDADE
+
+
+
+44. O controle de qualidade das auditorias visa exclusivamente à melhoria da qualidade em termos de: aderência aos padrões de auditoria da Secoi, redução do tempo de tramitação dos processos de auditorias, diminuição do retrabalho e aumento da efetividade das propostas de encaminhamento.
+
+
+45. O controle de qualidade será efetuado:
+
+
+45.1. pela própria equipe de auditoria;
+
+
+45.2. pelo supervisor;
+
+
+45.3. pelo Diretor, desde que não seja o supervisor;
+
+
+45.4.  pelo Secretário da Secoi;
+
+
+48. Os formulários de controle de qualidade do relatório (anexos VII – Formulário de Controle da Equipe e X – Formulário de Controle de Qualidade – Supervisor) devem ser preenchidos após a elaboração do relatório, de modo a permitir avaliar a adequação da auditoria ao seu objetivo e a vinculação aos padrões de auditoria adotados na Secoi. Pelo seu caráter sigiloso, os formulários de controle de qualidade somente poderão ser acessados pelos membros da equipe, pelos seus superiores e pelas Unidades participantes da sistemática de controle de qualidade.
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+
+GLOSSÁRIO
+
+
+
+
+
+Achado - Qualquer fato significativo, digno de relato pelo auditor, constituído de quatro atributos: situação encontrada, critério, causa e efeito. Decorre da comparação da situação encontrada com o critério e deve ser devidamente comprovado por evidências juntadas ao relatório. O achado pode ser negativo (quando revela impropriedade ou irregularidade) ou positivo (quando aponta boas práticas de gestão).
+
+
+
+Auditoria de conformidade – Instrumento de fiscalização utilizado pela Secoi para examinar a legalidade e a legitimidade dos atos de gestão dos responsáveis por unidades do Tribunal de Contas da União, quanto ao aspecto contábil, financeiro, orçamentário e patrimonial.
+
+
+
+Benefício do controle – Todo débito, multa, economia, ganho ou melhoria decorrente da atuação da Secoi, bem como a expectativa de controle gerada pelas suas ações. 
+
+
+
+Coordenador - Membro da equipe a quem compete, por força de designação expressa na Portaria de 
+
+
+
+
+Fiscalização, liderar a equipe e representá-la perante a unidade fiscalizada.
+
+
+
+Controles Internos – Conjunto de atividades, planos, métodos e procedimentos interligados, utilizados com vistas a assegurar que os objetivos do Tribunal de Contas da União sejam alcançados de forma confiável e concreta, evidenciando eventuais desvios ao longo da gestão, até a consecução dos objetivos fixados pelo TCU.
+
+
+
+Critério - Legislação, norma, jurisprudência ou entendimento doutrinário, que a equipe compara com a situação encontrada. Reflete como deveria ser a gestão.
+
+
+
+Elaboração do relatório - Fase da fiscalização na qual a equipe escreve o relatório, com base nos papéis de trabalho utilizados, obtidos e desenvolvidos nas fases anteriores.
+
+
+
+Escopo da fiscalização – Profundidade e amplitude do trabalho para alcançar o objetivo da fiscalização. É definido em função do tempo e dos recursos humanos e materiais disponíveis.
+
+
+
+Evidências – Informações obtidas durante a fiscalização no intuito de documentar os achados e de respaldar as opiniões e conclusões da equipe, podendo ser classificadas como físicas, testemunhais, documentais e analíticas. Devem ter os seguintes atributos:
+
+
+a) validade - a evidência deve ser legítima, ou seja, baseada em informações precisas e confiáveis;
+
+
+b) confiabilidade - garantia de que serão obtidos os mesmos resultados se a fiscalização for repetida. Para obter evidências confiáveis, é importante considerar que: é conveniente usar diferentes fontes; é interessante usar diferentes abordagens; evidências documentais são mais confiáveis que orais; evidências obtidas por observação direta ou análise são mais confiáveis que aquelas obtidas indiretamente;
+
+
+c) relevância - a evidência é relevante se for relacionada, de forma clara e lógica, aos critérios e objetivos da fiscalização;
+
+
+d) suficiência - a quantidade e qualidade das evidências obtidas devem persuadir o leitor de que os achados, conclusões, recomendações e determinações da auditoria estão bem fundamentados. É importante lembrar que a quantidade de evidências não substitui a falta dos outros atributos (validade, confiabilidade, relevância). Quanto maior a materialidade do objeto fiscalizado, o risco, e o grau de sensibilidade do fiscalizado a determinado assunto, maior será a necessidade de evidências mais robustas. A existência de fiscalizações anteriores também indica essa necessidade.
+
+
+
+Execução - Fase da auditoria de conformidade na qual a equipe utiliza as fontes de informação e aplica os procedimentos previstos na fase de Planejamento em busca de evidências para fundamentar as conclusões.
+
+
+
+
+Extrato de entrevista – Papel de trabalho (Anexo VIII) onde se registra somente o trecho da resposta do entrevistado que interessa ao desenvolvimento do achado. Pode conter, também, referências a evidências que corroborem o achado e deve ser assinado pelo entrevistado.
+
+
+
+Indícios - Discordância entre a situação encontrada e o critério, que ainda não foi devidamente investigada, nem está suficientemente suportado por evidências a ponto de caracterizar-se como achado de auditoria. Uma vez encontradas evidências que transformam o indício em achado, este deve ser incluído no relatório.
+
+
+
+Levantamento – Espécie de fiscalização utilizada pela Secoi para:
+
+
+- conhecer a organização e o funcionamento de Unidades Técnicas e Básicas do TCU assim como dos sistemas, programas, projetos e atividades do Tribunal, no que se refere aos aspectos contábeis, financeiros, orçamentários, operacionais e patrimoniais;
+
+
+- identificar objetos e instrumentos de fiscalização; e
+
+
+- avaliar a viabilidade de realização de fiscalizações.
+
+
+
+Matriz de Achados - Documento que estrutura o desenvolvimento dos achados, explicitando, para cada um, a situação encontrada, o critério adotado, as evidências e as propostas de encaminhamento. Vide Anexo II.
+
+
+
+Matriz de Planejamento - Documento que organiza e sistematiza o planejamento dos trabalhos de auditoria. Relaciona, a partir do enunciado do objetivo da fiscalização, as diversas questões de auditoria e, para responder a cada uma, quais as informações requeridas, as fontes de informações, os procedimentos e os possíveis achados (vide Anexo I).
+
+
+
+Matriz de Responsabilização - Documento que permite a verificação da responsabilidade pelo achado. Apresenta, para cada achado, o nome e a função do responsável, a conduta por ele praticada, o nexo de causalidade entre a conduta e o achado, e a análise da culpabilidade. Vide Anexo III.
+
+
+
+Matrizes de Referência – Matrizes de Planejamento e de Achados preenchidas para determinadas áreas de fiscalização (Matrizes Padrão). Nas Matrizes de Referência – Padrão, as questões, as informações requeridas, as fontes de informação, os procedimentos, o detalhamento do procedimento, os possíveis achados, o critério e o tipo de deliberação já virão preenchidos. Na fase de planejamento, a equipe deve avaliar a conveniência de utilizar as Matrizes de Referência existentes, tendo em conta o escopo da fiscalização.
+
+
+
+Objetivo da fiscalização - Declaração precisa daquilo que a fiscalização pretende realizar e/ou da questão fundamental que deverá ser esclarecida.
+
+
+
+Objeto – Documento, projeto, programa, processo ou sistema no qual o procedimento será aplicado e,
+
+
+porventura, o achado será constatado. Exemplos de objetos: contrato, folha de pagamento, base de dados, ata, edital, ficha financeira, processo licitatório, orçamento, processos de pagamento.
+
+
+
+Objeto da fiscalização - Programa, atividade, projeto, processo ou sistema sujeito à fiscalização.
+
+
+
+Ofício de apresentação da equipe de auditoria - Documento remetido pelo titular da Secoi ao dirigente da unidade auditada para comunicar, antecipadamente, a realização da fiscalização, apresentar os servidores designados, informar seu objetivo, a deliberação que a originou e a data provável para apresentação da equipe, bem como solicitar a disponibilização dos documentos necessários à fiscalização. Vide Anexo IV.
+
+
+
+Ofício de requisição - Documento dirigido pelo coordenador da equipe ao dirigente da unidade auditada para requisitar documentos, informações e/ou esclarecimentos necessários à execução do trabalho. Vide Anexo V.
+
+
+
+Padrões de auditoria - Conjunto de procedimentos que devem ser observados em todas as fases da auditoria de conformidade - planejamento, execução e relatório. Visam proporcionar uniformidade, qualidade e celeridade às auditorias de conformidade executadas pela Secoi.
+
+
+
+Papéis de trabalho – Documentação que constitui o suporte de todo o trabalho desenvolvido pelo auditor, contendo o registro de todas as informações utilizadas, das verificações a que procedeu e das conclusões a que chegou, independentemente da forma, do meio físico ou das características. Consideram-se papéis de trabalho, entre outros, planilhas, formulários, questionários preenchidos, fotografias, arquivos de dados, de vídeo ou de áudio, ofícios, memorandos, portarias, cópias de contratos ou termos de convênio, matrizes de planejamento, de achados e de responsabilização.
+
+
+
+Planejamento - O planejamento é a função administrativa que determina antecipadamente quais são os objetivos que devem ser atingidos e como se deve fazer para alcançá-los. O planejamento define onde se pretende chegar, o que deve ser feito, quando, como e em que seqüência. É uma etapa fundamental para o sucesso da fiscalização, sendo imprescindível que seja alocado o tempo adequado para sua realização. A tentativa de abreviar o tempo destinado ao planejamento muitas vezes redunda em problemas na execução da fiscalização, que poderão provocar um acréscimo no tempo total de realização do trabalho, além de repercussões negativas em sua qualidade. Nas auditorias de conformidade, a elaboração do programa de auditoria composto pela Matriz de Planejamento é o objetivo final da fase de planejamento.
+
+
+
+Portaria de Fiscalização - Ato de designação da equipe, onde são identificados o coordenador, os demais membros da equipe e o supervisor, além do objetivo dos trabalhos, a unidade auditada, a deliberação que originou a fiscalização, a fase de planejamento e,quando conhecidas, as fases de execução e de elaboração do relatório.
+
+
+
+Portaria de Fiscalização – fase planejamento – Ato de designação da equipe que contém os mesmos
+
+
+atributos da Portaria de Fiscalização, destinando-se exclusivamente para a fase de planejamento de fiscalizações cujo prazo total de duração estimado inicialmente seja superior a vinte dias úteis.
+
+
+
+Portaria de Fiscalização – fases execução e relatório - Ato de designação da equipe que sucede a 
+
+
+
+Portaria de Fiscalização – fase de planejamento e define as fases de execução e elaboração do relatório, destinando-se a fiscalizações cujo prazo total de duração estimado inicialmente seja superior a vinte dias úteis.
+
+
+
+Procedimentos – Itens de verificação a serem executados durante a fiscalização para consecução do seu objetivo. Devem, na medida do possível, ser detalhados em tarefas descritas de forma clara, de modo a não gerar dúvidas ao executor e esclarecer os aspectos a serem abordados.
+
+
+
+Questões de auditoria - Aspectos que compõem o escopo da fiscalização e que devem ser investigados com vistas à satisfação do objetivo. São detalhadas na Matriz de Planejamento.
+
+
+
+Reunião de apresentação - Reunião da equipe de auditoria com o dirigente da unidade auditada ou representante por ele designado, na qual são informados o objetivo do trabalho e os principais critérios inicialmente selecionados durante o planejamento.
+
+
+
+Reunião de encerramento - Reunião da equipe de auditoria com o dirigente da unidade auditada ou representante por ele designado, ao final da fase de execução, na qual são apresentados os achados de auditoria. 
+
+
+
+Significância – Conceito que engloba os atributos de relevância, materialidade e risco.
+
+
+
+Situação encontrada - Situação existente, identificada e documentada durante a fase de execução da fiscalização. Deve contemplar o período de ocorrência do achado.
+
+
+
+Supervisor da auditoria - Auditor Federal de Controle Externo designado formalmente para supervisionar auditoria de conformidade. Suas funções são de orientação, acompanhamento e controle de todas as fases que compõem uma auditoria de conformidade visando garantir o atingimento dos resultados esperados, assegurar a qualidade dos trabalhos e prestar auxílio à equipe de auditoria.
+
+
+
+Técnicas – Formas ou maneiras utilizadas na aplicação dos procedimentos com vistas à obtenção de diferentes tipos de evidências ou ao tratamento de informações. As técnicas mais usualmente utilizadas são: 
+
+
+ - exame documental: uma das técnicas mais utilizadas no âmbito do setor público, sendo muitas vezes, por falta de conhecimento daqueles que executam o trabalho, confundida com o próprio trabalho; no exame documental, a equipe deverá observar se as transações realizadas estão devidamente documentadas, se a documentação que suporta a operação contém indícios de inidoneidade, se a transação e a documentação suporte foram feitas por pessoas responsáveis e se a operação realizada é adequada em função das atividades do órgão/entidade;
+
+
+- inspeção física: constatação "in loco", que deverá fornecer à equipe a certeza da existência, ou não, do objeto ou item verificado;
+
+
+- conferência de cálculos: objetiva a conferência das operações que envolvam cálculos; na aplicação da técnica a equipe não deve se limitar a conferir os cálculos realizados por terceiros, fazendo-se necessária a efetivação de cálculos próprios, que serão comparados, ao final, com aqueles apresentados pelo fiscalizado;
+
+
+- observação: consiste em olhar como um determinado processo ou procedimento está sendo executado por outros;
+
+
+- entrevista: consiste na elaboração de perguntas objetivando a obtenção de respostas para quesitos previamente definidos;
+
+
+- circularização: consiste na confirmação, junto a terceiros, de fatos alegados pela entidade; no planejamento dos trabalhos a equipe deve considerar as partes externas que podem ser circularizadas e os objetivos de fiscalização que poderão ser satisfeitos pela circularização;
+
+
+- conciliações: objetiva verificar a compatibilidade entre o saldo das contas sintéticas com aqueles das contas analíticas ou ainda o confronto dos registros mantidos pela entidade com elementos recebidos de fontes externas;
+
+
+- análise de contas contábeis: objetiva examinar as transações que geraram lançamentos em determinada conta contábil; essa técnica parte dos lançamentos contábeis para a identificação dos fatos e documentos que o suportam; as contas são selecionadas em função do objetivo geral e da sensibilidade da equipe;
+
+
+- revisão analítica: objetiva verificar o comportamento de valores significativos mediante índices, quocientes, quantidades absolutas ou outros meios, com vistas à identificação de situações ou tendências atípicas. Na aplicação dos procedimentos de revisão analítica, o auditor deve considerar:
+
+
+a) o objetivo dos procedimentos e o grau de confiabilidade dos resultados alcançáveis;
+
+
+b) a natureza da unidade auditada e o conhecimento adquirido em fiscalizações anteriores;
+
+
+c) a disponibilidade de informações, sua relevância, confiabilidade e comparabilidade.
+
+
+
+Unidade auditada - Unidade Básica ou Técnica localizada na Sede do Tribunal ou nos Estados da Federação, em cujas dependências ou área de atuação desenvolve-se a fiscalização.
+
+
+
+Visão Geral – Objetiva o conhecimento e a compreensão do objeto a ser fiscalizado, bem como do ambiente organizacional em que este está inserido. Em geral, compreende as seguintes informações principais:
+
+
+- descrição do objeto fiscalizado, com as características necessárias à sua compreensão;
+
+
+- legislação aplicável;
+
+
+- objetivos institucionais da entidade auditada, quando for o caso;
+
+
+- pontos críticos e deficiências no sistema de controle interno.
+
+
+
+Volume de Recursos Fiscalizados (VRF) - Montante de recursos orçados/provisionados/empenhados pela unidade auditada no período abrangido pela fiscalização. Em caso de fiscalização que somente abranja objetos individualizados (p.e. contratos, licitações), o VRF é o valor total do objeto no(s) exercício(s) abrangido(s) pela fiscalização.
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+
+
+
+
+
+
+
+
+
+             TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+ANEXOS
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO I
+
+
+
+
+
+MATRIZ DE PLANEJAMENTO
+
+
+
+
+
+TC nº                                  Fiscalis nº
+
+
+
+
+UNIDADE AUDITADA: 
+
+
+
+
+OBJETIVO:
+
+
+
+
+QUESTÕES DE AUDITORIA
+
+INFORMAÇÕES REQUERIDAS
+
+FONTES DE INFORMAÇÃO
+
+PROCEDIMENTOS
+
+POSSÍVEIS ACHADOS
+
+Focar os
+
+principais
+
+aspectos do
+
+objetivo
+
+pretendido.
+
+ 
+
+Limitar ao
+
+objetivo da
+
+auditoria.
+
+ 
+
+Englobar  todos
+
+os itens que
+
+serão
+
+verificados.
+
+ 
+
+Limitar à questão.
+
+ 
+
+Prever todas as
+
+informações
+
+necessárias e
+
+especificá-las.
+
+ 
+
+Não descrever sob a forma de
+
+questionamento.
+
+ 
+
+Associar a pelo
+
+menos uma fonte
+
+de informação.
+
+ 
+
+Quem?
+
+Onde?
+
+Qual documento?
+
+ 
+
+Especificar.
+
+ 
+
+Associar a pelo
+
+menos uma
+
+informação
+
+requerida.
+
+Associar pelo menos
+
+um procedimento
+
+para cada informação
+
+requerida.
+
+ 
+
+Não formular
+
+procedimentos para
+
+informações
+
+requeridas não
+
+previstas.
+
+Limitar ao previsto
+
+na questão.
+
+ 
+
+Guardar coerência
+
+com a questão.
+
+ 
+
+Descrever
+
+exatamente o que se
+
+espera como
+
+resposta ao
+
+questionamento.
+
+ 
+
+Evitar
+
+generalizações.
+
+
+
+
+             TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO II
+
+
+
+
+
+MATRIZ DE ACHADOS
+
+
+
+
+
+
+
+TC nº 				Fiscalis nº
+
+
+
+
+UNIDADE AUDITADA: 
+
+
+
+
+OBJETIVO: 
+
+
+
+
+
+DESCRIÇÃO
+
+DO ACHADO
+
+SITUAÇÃO ENCONTRADA
+
+CRITÉRIO
+
+EVIDÊNCIA
+
+ENCAMINHAMENTO
+
+Descrever o título da impropriedade/ irregularidade.
+
+Descrever a situação existente deixando claro como os diversos aspectos do achado o fundamentam.
+
+ 
+
+Indicar o período de ocorrência dos fatos.
+
+ 
+
+Indicar os critérios que refletem como a
+
+gestão deveria ser.
+
+Indicar precisamente os documentos que respaldam a opinião da equipe – qual? Que
+
+número?
+
+ 
+
+Indicar a localização da evidência no processo. 
+
+ 
+
+Verificar se as evidências têm os atributos necessários.
+
+No caso de irregularidades, elaborar com base na matriz de
+
+responsabilização.
+
+ 
+
+Registrar encaminhamento para
+
+todas as irregularidades/ impropriedades.
+
+
+
+
+Equipe de Auditoria:                                         					Supervisor:
+
+
+
+Nome e matrícula								 Nome e matrícula
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO III
+
+
+
+
+
+MATRIZ DE RESPONSABILIZAÇÃO
+
+
+
+
+
+
+
+TC nº ___________                  Fiscalis nº ___________
+
+
+
+
+
+ÓRGÃO/ENTIDADE: 
+
+
+
+
+
+OBJETIVO:
+
+
+
+
+ACHADO
+
+RESPONSÁVEL (IS)
+
+PERÍODO DE
+
+EXERCÍCIO
+
+CONDUTA
+
+NEXO DE CAUSALIDADE
+
+(entre a conduta e o resultado
+
+ilícito)
+
+CULPABILIDADE
+
+Correspondência com a
+
+Matriz de Achados
+
+Pessoa física: nome, cargo e CPF;
+
+ 
+
+Pessoa jurídica de direito privado: razão social e CNPJ;
+
+ 
+
+Pessoa jurídica de direito
+
+público interno: nome.
+
+Período efetivo de exercício no cargo, seja como titular ou substituto.
+
+Ação ou omissão, culposa (por negligência, imperícia ou imprudência) ou dolosa (por ter o responsável querido produzir o resultado ou ter assumido o risco de produzi-lo), praticada pelo
+
+responsável.
+
+Evidências de que a conduta do responsável contribuiu de modo significativo para o resultado ilícito, ou seja, de que foi uma das causas do resultado.
+
+Reprovabilidade da conduta do gestor (não se aplica a pessoas jurídicas)
+
+
+
+
+
+Equipe de Auditoria: 								Supervisor:
+
+
+
+Nome e matrícula 								Nome e matrícula
+
+
+
+             TRIBUNAL DE CONTAS DA UNIÃO
+
+
+
+
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO VI
+
+
+
+
+
+FOLHA DE ROSTO
+
+
+
+
+
+TC nº 			Fiscalização nº
+
+
+
+
+
+DA FISCALIZAÇÃO
+
+
+
+
+Modalidade: 
+
+
+
+
+Ato originário: 
+
+
+
+
+Objeto da fiscalização:
+
+
+
+
+Ato de designação: Portaria de Fiscalização - Secoi nº ..., de.....
+
+
+
+Período abrangido pela fiscalização: 
+
+
+
+
+Composição da equipe: .......... – matr. – (Coordenador)
+
+
+........... – matr. (membro)
+
+
+
+
+DA UNIDADE FISCALIZADA
+
+
+
+
+UNIDADE AUDITADA:
+
+
+
+
+Responsável pela unidade auditada:
+
+
+
+
+nome:
+
+
+
+
+cargo:
+
+
+
+
+período: desde ......./.........
+
+
+
+Outros responsáveis: 
+
+
+
+
+nome:
+
+
+
+
+cargo:
+
+
+
+
+período: desde ......./.........
+
+
+
+
+PROCESSO(S) CONEXO(S)
+
+
+
+- TC
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO VII
+
+
+
+
+
+FORMULÁRIO DE CONTROLE DA EQUIPE DE AUDITORIA
+
+
+
+
+
+
+TC nº                             Fiscalis nº
+
+
+
+
+ITEM
+
+Item do documento
+
+N/A
+
+SIM
+
+NÃO
+
+I - Padrões Gerais
+
+O supervidor orientou a equipe e acompanhou os trabalhos desde o planejamento até a conclusão do relatório?
+
+2 e 3
+
+ 
+
+ 
+
+ 
+
+O supervisor aprovou a Matriz de Planejamento?
+
+3.2.
+
+ 
+
+ 
+
+ 
+
+O supervisor analisou, com a equipe, a Matriz de Achados?
+
+3.4.
+
+ 
+
+ 
+
+ 
+
+Caso tenha havido, o supervisor analisou a Matriz de Responsabilização?
+
+3.5.
+
+ 
+
+ 
+
+ 
+
+Foi encaminhado ofício ao dirigente da unidade auditada com a devida antecedência?
+
+9
+
+ 
+
+ 
+
+ 
+
+II - Padrões de Planejamento
+
+ 
+
+ 
+
+ 
+
+ 
+
+O prazo destinado à fase de planejamento foi suficiente para o atingimernto dos objetivos dessa fase?
+
+10
+
+ 
+
+ 
+
+ 
+
+Foi elaborada a Matriz de Planejamento?
+
+11
+
+ 
+
+ 
+
+ 
+
+III - Padrões de Execução
+
+Na reunião de apresentação, a equipe informou ao dirigente da unidade auditada o objetivo da auditoria?
+
+14
+
+ 
+
+ 
+
+ 
+
+Foram verificadas as questões e aplicados os procedimentos da Matriz de Planejamento?
+
+17
+
+ 
+
+ 
+
+ 
+
+Foram colhidos esclarecimentos acerca das causas dos indícios?
+
+19
+
+ 
+
+ 
+
+ 
+
+Foi elaborada a Matriz de Achados?
+
+18
+
+ 
+
+ 
+
+ 
+
+Foi elaborada a Matriz de Responsabilização para os achados que possam resultar em débito?
+
+33
+
+ 
+
+ 
+
+ 
+
+IV - Padrões de Elaboração do Relatório
+
+Foi elaborada apresentação com relato de informações para contextualizar o trabalho e menção a algumas especificidades ou a características da fiscalização?
+
+28
+
+ 
+
+ 
+
+ 
+
+A introdução do relatório contém os elementos elencados nos subitens 30.1 a 30.9 dos padrões de auditoria de conformidade da Secoi?
+
+29.1 a 29.9
+
+ 
+
+ 
+
+ 
+
+A apresentação dos achados está estruturada sob os aspectos: situação encontrada, critério e evidências?
+
+31
+
+ 
+
+ 
+
+ 
+
+Foram feitas remissões às folhas do processo onde se encontram as evidências que suportam os achados?
+
+32
+
+ 
+
+ 
+
+ 
+
+Os documentos juntados aos autos contém Portaria de Fiscalização; rol de responsáveis; ofícios(s) de requisição e evidências dos achados?
+
+43
+
+ 
+
+ 
+
+ 
+
+
+
+Justificativas para as respostas negativas:
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Registro das alterações realizadas na Matriz de Planejamento:
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+Equipe de Auditoria:		Supervisor:                                  Diretor da Diaud
+
+
+
+Nome e matrícula			Nome e matrícula                         Nome e matrícula   
+
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO VIII
+
+
+
+
+
+EXTRATO DE ENTREVISTA
+
+
+
+
+TC nº				Fiscalis nº
+
+
+
+
+Unidade auditada: 
+
+
+
+
+Objetivo da auditoria:
+
+
+
+
+Objetivo da entrevista: 
+
+
+
+
+Local da entrevista:
+
+
+
+
+Data e horário:
+
+
+
+
+Entrevistado(a): qualificação completa do(as) entrevistado(a)
+
+
+
+Entrevistador(es):
+
+
+
+Síntese das informações:  Resumir as perguntas efetuadas e as respostas dadas pelo(s) entrevistado(s) que forem consideradas relevantes para o desenvolvimento dos achados e das conclusões da auditoria.
+
+
+
+
+Evidências: Fazer referência às evidências, se houver, que corroborem as informações obtidas.
+
+
+
+
+
+
+
+
+Assinaturas:
+
+
+
+
+Entrevistador						Entrevistado
+
+
+Nome e matrícula					Identificação:
+
+
+
+PADRÕES DE AUDITORIA DE CONFORMIDADE DA SECOI
+
+
+
+
+ANEXO IX
+
+
+
+
+
+FORMULÁRIO DE CONTROLE DE QUALIDADE - SUPERVISOR/DIRETOR
+
+
+
+
+
+TC nº                             Fiscalis nº
+
+
+
+
+
+1 - INFORMAÇÕES GERAIS
+
+
+
+Fase
+
+Previsto (dias úteis)
+
+Realizado (dias úteis)
+
+Planejamento
+
+ 
+
+ 
+
+Execução
+
+ 
+
+ 
+
+Relatório
+
+ 
+
+ 
+
+
+
+
+2 - PAPÉIS DE TRABALHO - marcar com um "X" ou como indicado
+
+
+Item
+
+Satisfatório
+
+Oportunidade de melhoria
+
+Não elaborado (NE) ou Não aplicável (NA)
+
+2.1. Matriz de Planejamento
+
+ 
+
+ 
+
+ 
+
+2.2. Alterações da Matriz de Planejamento
+
+ 
+
+ 
+
+ 
+
+2.3. Matriz de Achados
+
+ 
+
+ 
+
+ 
+
+2.4. Matriz de Responsabilização
+
+ 
+
+ 
+
+ 
+
+
+
+
+3 - RELATÓRIO
+
+
+
+Item avaliado
+
+Satisfatório
+
+Oportunidade de melhoria
+
+3.1 O relatório foi redigido com clareza, objetividade e correção gramatical?
+
+ 
+
+ 
+
+3.2. O relatório foi redigido de forma concisa e clara e concentrou-se nos achados mais relevantes da auditoria?
+
+ 
+
+ 
+
+3.3. Os achados de auditoria estão descritos com exatidão, sustentados por evidências
+
+suficientes, pertinentes, adequadas, fidedignas, com indicação dos critérios adotados, expressando convicção da equipe de auditoria?
+
+ 
+
+ 
+
+3.4 Foram feitas remissões das páginas das evidências juntadas aos autos?
+
+ 
+
+ 
+
+3.5. A conclusão está adequadamente fundamentada? Os achados foram apresentados sucintamente com remissão aos itens em que se encontram no relatório?
+
+ 
+
+ 
+
+3.6 Há consistência entre o conteúdo do relatório e a proposta de encaminhamento?
+
+ 
+
+ 
+
+
+
+
+4 - AVALIAÇÃO DOS RESULTADOS DO TRABALHO
+
+
+
+Item avaliado
+
+Satisfatório
+
+Oportunidade de melhoria
+
+4.1 O objetivo do trabalho de auditoria foi alcançado?
+
+ 
+
+ 
+
+4.2 As questões de auditoria foram investigadas com profundidade adequada?
+
+ 
+
+ 
+
+4.3 As propostas de encaminhamento são passíveis de implementação pela unidade auditada?
+
+ 
+
+ 
+
+4.4 O trabalho de auditoria realizado foi oportuno e tempestivo?
+
+ 
+
+ 
+
+4.5 A auditoria foi realizada de forma econômica, eficiente e eficaz?
+
+ 
+
+ 
+
+
+
+Detalhar, caso julgue necessário, os pontos não satisfatórios
+
+
+___________________________________________________________________________________
+
+
+___________________________________________________________________________________
+
+
+
+
+5. BOAS PRÁTICAS - Quando o relatório ou uma das matrizes puder ser considerado como "boa prática", cuja divulgação para utilização em auditorias similares seja recomendável, registrar tal informação no campo a seguir, justificando sua indicação.
+
+
+____________________________________________________________________________________________________
+
+
+____________________________________________________________________________________
+
+
+
+____________________________________________________________________________________
+
+
+
+
+
+6. OPORTUNIDADES DE MELHORIA - Registrar justificativa para eventuais "oportunidades de melhoria" que não puderam ser incorporadas à versão final do relatório (por exemplo, melhorias em futuras matrizes).
+
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+Preenchido por: _____________________________ Em: ___/___/____
+
+
+			Supervisor
+
+
+
+
+
+Revisado por: ________________________________ Em: ____/____/____
+
+
+			  Diretor
+
+
+
+
+Parecer do Secretário: ( ) Aprovado ou ( ) Aprovado com as seguintes observações:
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+		_____________________________ 			Em: ___/___/______
+
+
+                                            Secretário
+
+
+
+
+Posicionamento da Equipe de Auditoria: ( ) Concorda ou ( ) Não concorda nos seguintes aspectos:
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Nome :
+
+
+matrícula:
+
+
+
