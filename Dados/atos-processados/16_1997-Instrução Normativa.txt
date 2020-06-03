@@ -1,0 +1,2175 @@
+instruca normat
+
+
+
+tribunal cont unia uso atribuica constitucion leg regulament
+
+
+
+
+
+consider sistem control intern cab apoi control extern exercici missa institucional term inc iv constituica federal
+
+
+
+
+
+consider compet tribunal term inc iii constituica federal lei apreci par fins registr form estabelec regiment intern legal atos admissa pessoal qualqu titul administr diret indiret inclu fundaca institu mant pel pod public federal excetu nomeaca par carg proviment comissa bem concessa aposentador reform pensa ressalv melhor posterior alter fundament legal ato concessori
+
+
+
+
+
+consider aind pod regulament confer lei par exped atos instruca normat sobr mat atribuica sobr organiz process dev submet obrig cumpriment pen responsabil resolv
+
+
+
+
+
+
+seca i
+
+
+
+
+objet
+
+
+
+
+
+
+envi analis inform concernent atos admissa pessoal concessa aposentador reform pensa bem melhor posterior alter fundament legal par fins apreci registr pel tribunal cont unia observ disposica dest instruca normat
+
+
+
+
+
+
+seca ii
+
+
+
+
+inform envi tribunal cont unia
+
+
+
+
+
+
+orga setori control intern submet tribunal cont unia form defin pel manual instruca sistem apreci registr atos admissa concessa sisac inform relat seguint atos exped tod unidad vincul
+
+
+
+
+
+i cas admissa pessoal
+
+
+
+
+
+dad admit
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+b dad orga respons pel admissa
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+cpf nom carg respons pel admissa
+
+
+
+
+
+c dad concurs
+
+
+
+
+
+dat public edital homolog
+
+
+
+
+
+dat praz validad concurs
+
+
+
+
+
+previsa prorrog validad concurs edital ocorrente prorrog
+
+
+
+
+
+classific obtid pel admit
+
+
+
+
+
+d dad admissa
+
+
+
+
+
+codig cargoempregopostogradu
+
+
+
+
+
+regim jurid
+
+
+
+
+
+dat venciment contrat cas
+
+
+
+
+
+dat admissa nomeaca poss inici efet exercici
+
+
+
+
+
+tip ato admissa
+
+
+
+
+
+dad vag
+
+
+
+
+
+motiv vag
+
+
+
+
+
+tip orig dat public ato ger vag
+
+
+
+
+
+f dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+ii cas deslig servidor
+
+
+
+
+
+dad servidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+b dad orga respons pel deslig
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+cpf nom carg respons pel deslig
+
+
+
+
+
+c dad admissa
+
+
+
+
+
+codig cargoempregopost
+
+
+
+
+
+regim jurid
+
+
+
+
+
+dat admissa nomeaca
+
+
+
+
+
+tip ato admissa
+
+
+
+
+
+venciment contrat cas
+
+
+
+
+
+ocorrente prorrog
+
+
+
+
+
+d dad deslig
+
+
+
+
+
+dat motiv dat public deslig
+
+
+
+
+
+dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec
+
+
+
+
+
+iii cas cancel deslig restabelec admissa
+
+
+
+
+
+dad servidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+b dad orgaoent autor respons
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+unidad orig milit
+
+
+
+
+
+cpf nom carg respons pel cancelamentorestabelec
+
+
+
+
+
+c dad admissa
+
+
+
+
+
+codig cargoempregopostogradu
+
+
+
+
+
+regim jurid
+
+
+
+
+
+dat admissaonome
+
+
+
+
+
+d dad deslig
+
+
+
+
+
+dat motiv dat public deslig
+
+
+
+
+
+dad cancel deslig
+
+
+
+
+
+dat motiv dat public cancel deslig
+
+
+
+
+
+f dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec
+
+
+
+
+
+iv cas concessa aposentador
+
+
+
+
+
+dad servidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+b dad orga respons
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+cpf nom carg respons pel concessa
+
+
+
+
+
+c dad sobr situaca servidor
+
+
+
+
+
+codig carg
+
+
+
+
+
+dat admissa temp permanente carg
+
+
+
+
+
+regim lei
+
+
+
+
+
+inform sobr posica servidor carreir
+
+
+
+
+
+d dad concessa
+
+
+
+
+
+tip registr inicial alter
+
+
+
+
+
+sequencial alter registr inicial cas
+
+
+
+
+
+dat public vigenc
+
+
+
+
+
+cot unia
+
+
+
+
+
+temp servic par aposentador par gratific adicional temp servic
+
+
+
+
+
+temp efet exercici magisteri judicatur cas
+
+
+
+
+
+quantidad anex
+
+
+
+
+
+codig fundament leg aposentadoriaalter
+
+
+
+
+
+dad provent
+
+
+
+
+
+bas legal tabel venciment mes concessa
+
+
+
+
+
+inform sobr posica servidor tabel venciment par efeit provent
+
+
+
+
+
+valor venciment bas
+
+
+
+
+
+codig denomin valor fundament legal vantagens
+
+
+
+
+
+f dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest introduca normat
+
+
+
+
+
+g discrimin temp servic averb licenc
+
+
+
+
+
+h discrimin temp exercici judicatur par magistr tog classist
+
+
+
+
+
+i discrimin temp funca comission
+
+
+
+
+
+v cas cancelamentorestabelec concessa
+
+
+
+
+
+dad servidorinstituidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+b dad sobr orgaoent autor respons
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+unidad orig milit
+
+
+
+
+
+cpf nom carg respons pel cancelamentorestabelec
+
+
+
+
+
+c dad concessa
+
+
+
+
+
+tip concessa
+
+
+
+
+
+cargopost concessa
+
+
+
+
+
+dat vigenc
+
+
+
+
+
+numer process tcu
+
+
+
+
+
+d dad cancel
+
+
+
+
+
+dat motiv dat public cancel
+
+
+
+
+
+dad restabelec
+
+
+
+
+
+dat motiv dat public restabelec
+
+
+
+
+
+f dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+vi cas concessa pensa civil
+
+
+
+
+
+dad instituidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+estad civil
+
+
+
+
+
+regim jurid lei
+
+
+
+
+
+codig ultim carg ocup
+
+
+
+
+
+inform sobr posica servidor carreir
+
+
+
+
+
+temp servic par aposentador par gratific adicional temp servic
+
+
+
+
+
+dat obit
+
+
+
+
+
+situaca dat obit
+
+
+
+
+
+codig fundament leg aposentador instituidor
+
+
+
+
+
+orga deliberat dat apreci registr aposentador pel tcu
+
+
+
+
+
+b dad sobr orgaoent autor respons
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+cpf nom carg respons pel concessa
+
+
+
+
+
+c dad concessa
+
+
+
+
+
+tip registr inicial alter
+
+
+
+
+
+sequencial alter registr inicial cas
+
+
+
+
+
+dat vigenc
+
+
+
+
+
+cot unia
+
+
+
+
+
+cot beneficiari reserv cas
+
+
+
+
+
+quantidad fich beneficiari anex
+
+
+
+
+
+codig fundament leg pensaoalterac
+
+
+
+
+
+d dad benefici
+
+
+
+
+
+bas legal tabel venciment mes concessa
+
+
+
+
+
+inform sobr posica instituidor tabel venciment
+
+
+
+
+
+valor venciment bas
+
+
+
+
+
+codig fundament leg denomin valor vantagens
+
+
+
+
+
+dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+f dad beneficiari
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+cot pensa
+
+
+
+
+
+matricul siap
+
+
+
+
+
+relaca parentescodependente
+
+
+
+
+
+receb outr benefici cas
+
+
+
+
+
+dat invalidez comprov dependencia econom cas
+
+
+
+
+
+codig fundament leg
+
+
+
+
+
+parec control intern
+
+
+
+
+
+vii cas concessa pensa especial excombatent
+
+
+
+
+
+dad instituidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+matricul siap
+
+
+
+
+
+estad civil
+
+
+
+
+
+dat obit
+
+
+
+
+
+beneficiari
+
+
+
+
+
+outr beneficiari
+
+
+
+
+
+orga deliberat dat apreci registr outr benefici pel tcu cas
+
+
+
+
+
+b dad sobr orgaoent autor respons
+
+
+
+
+
+codig orga denomin
+
+
+
+
+
+codig orga siap
+
+
+
+
+
+cpf nom carg respons pel concessa
+
+
+
+
+
+c dad concessa
+
+
+
+
+
+tip registr inicial alter reversa
+
+
+
+
+
+sequencial alteracaoreversa registr inicial cas
+
+
+
+
+
+dat vigenc
+
+
+
+
+
+valor benefici
+
+
+
+
+
+cot beneficiari reserv cas
+
+
+
+
+
+quantidad fich beneficiari anex
+
+
+
+
+
+codig fundament leg pensaoalteracaoreversa
+
+
+
+
+
+d dad benefici
+
+
+
+
+
+postogradu bas par calcul
+
+
+
+
+
+valor venciment bas
+
+
+
+
+
+codig fundament leg denomin valor vantagens
+
+
+
+
+
+dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+vii cas concessa reform
+
+
+
+
+
+dad servidor
+
+
+
+
+
+nom sex cpf servidor
+
+
+
+
+
+dat nasciment
+
+
+
+
+
+situaca funcional
+
+
+
+
+
+codig postogradu anterior atual
+
+
+
+
+
+dat prac deslig
+
+
+
+
+
+b dad sobr orgaoent autor respons
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+unidad orig milit
+
+
+
+
+
+cpf nom carg respons pel reform
+
+
+
+
+
+c dad concessa
+
+
+
+
+
+motiv reform
+
+
+
+
+
+tip registr inicial alter
+
+
+
+
+
+sequencial alter registr inicial cas
+
+
+
+
+
+cot unia
+
+
+
+
+
+temp servic par reform par gratific adicional temp servic
+
+
+
+
+
+dat laud medic cas
+
+
+
+
+
+dat public reserv
+
+
+
+
+
+dat public vigenc reform
+
+
+
+
+
+codig fundament leg reformaalter
+
+
+
+
+
+d discrimin temp servic
+
+
+
+
+
+dad benefici
+
+
+
+
+
+postogradu bas par calcul
+
+
+
+
+
+valor venciment bas
+
+
+
+
+
+codig fundament leg denomin valor vantagens
+
+
+
+
+
+f dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+ix cas concessa pensa milit
+
+
+
+
+
+dad instituidor
+
+
+
+
+
+nom sex cpf
+
+
+
+
+
+estad civil
+
+
+
+
+
+dat obit
+
+
+
+
+
+situaca dat obit
+
+
+
+
+
+postogradu
+
+
+
+
+
+temp servic par reform par gratific adicional temp servic
+
+
+
+
+
+postogradu contribuica
+
+
+
+
+
+codig fundament leg reform instituidor cas
+
+
+
+
+
+orga deliberat dat apreci registr reform pel tcu cas
+
+
+
+
+
+b dad sobr orgaoent autor respons
+
+
+
+
+
+codig orga denomin
+
+
+
+
+
+unidad orig milit
+
+
+
+
+
+cpf nom carg respons pel concessa
+
+
+
+
+
+c dad concessa
+
+
+
+
+
+tip registr inicial alter reversa
+
+
+
+
+
+sequencial alteracaoreversa registr inicial cas
+
+
+
+
+
+dat vigenc
+
+
+
+
+
+cot unia
+
+
+
+
+
+valor benefici
+
+
+
+
+
+cot beneficiari reserv cas
+
+
+
+
+
+quantidad fich beneficiari anex
+
+
+
+
+
+codig fundament leg pensaoalter
+
+
+
+
+
+d dad beneficiari
+
+
+
+
+
+postogradu bas par calcul
+
+
+
+
+
+valor venciment bas
+
+
+
+
+
+codig fundament leg denomin valor vantagens
+
+
+
+
+
+dad orga control intern
+
+
+
+
+
+codig denomin orga sisac
+
+
+
+
+
+parec identific falh irregular constat
+
+
+
+
+
+descumpr praz previst nest instruca normat
+
+
+
+
+
+melhor posterior dat concessa inicial alter fundament legal ato concessori submet tribunal par fins nov registr observ dispost paragraf unic dest
+
+
+
+
+
+paragraf unic acrescim provent nov parcel gratific outr vantagens qualqu natur introduca nov criteri bas calcul component benefici previst ato concessori original submet apreci tribunal est apreci registr constitu alter fundament legal quand caracteriz vantag pessoal individual servidor public civil milit result necessari alter ato concessori
+
+
+
+
+
+inform refer dev apresent tribunal cont unia ressalv dispost dest instituica normat mei transmissa eletron dad
+
+
+
+
+
+inform relat atos deslig servidor administr public federal diret indiret fundacional observ coub dispost dest instruca normat dev tamb encaminh tribunal praz trint dias cont dat deslig form estabelec antecedent
+
+
+
+
+
+conced praz trint dias par apresent raza justificat autor respons pel encaminh tribunal praz estabelec inform trat est instruca normat
+
+
+
+
+
+paragraf unic manifest autor praz fix ensej aplic pel tribunal mult previst item iv lei
+
+
+
+
+
+
+seca iii
+
+
+
+
+atuaca orga pessoal
+
+
+
+
+
+
+unidad administrat respons pel atos admissa concessa dev cadastr sistem apreci registr atos admissa concessa sisac inform pertinent encaminh respect process orga setorial control intern praz vint dias part dat public send est dispens part assinatur ato
+
+
+
+
+
+cas atos admissa pessoal concessa pensa contarse praz part poss interess defer benefici pensional respectiv
+
+
+
+
+
+inform relat atos trat dest bem result apreci pel tribunal cont unia dev par fins fiscaliz consign assent individu beneficiari sistem integr administr recurs human siap outr venh substituil aind sistem inform defin pel orga
+
+
+
+
+
+
+seca iv
+
+
+
+
+aca control intern
+
+
+
+
+
+
+orga setorial control intern emitira parec quant legal atos admissa concessa pratic unidad vincul colocando disposica tribunal praz trint dias cont receb process respect encaminh pel unidad administrat respons conform previst seca iii dest instruca normat
+
+
+
+
+
+exam atos sujeit registr incumbira orga setorial control intern proced cotej dad previ cadastr sisac pel autor administrat aquel constant respect process
+
+
+
+
+
+diligente promov pel orga setorial control intern raza inexatida insuficiente dad receb par ato sej adequ legislacion aplic espec jurisprudente tribunal cont unia interromp praz previst cuj contag inici nov primeir dia util seguint termin praz estipul par cumpriment refer diligente
+
+
+
+
+
+diligente promov pel orga setorial control intern dev cumpr pel unidad pessoal praz maxim trint dias cont receb determin pel autor administrat
+
+
+
+
+
+find praz fix paragraf anterior aind sej atend diligente orga setorial control intern proced conform dispost dest dev faz const parec identific autor respons pel descupr diligente promov cas
+
+
+
+
+
+praz fix dest pod prorrog novent dias mediant solicit fundament orga setorial control intern cuj autoriz depend decisa relator tribunal
+
+
+
+
+
+cumpriment praz previst nest sujeit respons sanca previst paragraf unic dest instruca normat
+
+
+
+
+
+vis acess utiliz pel tribunal cont unia secret federal control adot providente sent defin parametr par geraca relatori sistem integr administr recurs human siap quantidad valor financeir referent atos sujeit registr inici alter exped pel divers unidad vincul
+
+
+
+
+
+relatori refer est dev permit quantidad valor financeir referent atos sujeit registr sej sintetic consolid unidad vincul pel especi atos enumer dest instruca normat
+
+
+
+
+
+orga control intern unidad jurisdicion utiliz sistem integr administr recurs human siap emit relatori semestr evidenci quantidad valor financeir referent atos sujeit registr ocorr seis mes imediat anterior inclu relaca nominal servidor beneficiari inclu exclu folh pagament bem alter funcion verific period abrang pel relatori
+
+
+
+
+
+titul orga setori control intern sem prejuiz adoca providente alcad tom conhec irregular ilegal omissa inclusiv descumpr praz del dara cienc tribunal pen responsabil solid
+
+
+
+
+
+
+seca v
+
+
+
+
+atuaca tribunal
+
+
+
+
+
+
+
+subseca i
+
+
+
+
+cadastr inform
+
+
+
+
+
+
+sistem apreci registr atos admissa pessoal concessa sisac ambit tribunal instrument funca cadastr registr inform referent atos admissa pessoal concessa aposentador reform pensa bem melhor posterior alter fundament legal
+
+
+
+
+
+tribunal encaminh orga setori control intern manual instruca explicit form envi inform relat atos sujeit registr tramit proced requer operacionaliz sisac form estabelec nest instruca normat
+
+
+
+
+
+manual instruca dev cont camp especif par cadastr dad necessari identific autor respons pel ato admissa concessa
+
+
+
+
+
+inform trat anterior armazen sisac utiliz fas planej execuca auditor bem instruca process apreci atos sujeit registr alem constitu bas dad par cadastr decisa prolat pel tribunal relaca atos
+
+
+
+
+
+inform transmit tribunal cont unia mei eletron dad critic pel sisac quant conform manual instruca ressalv dispost dest instruca normat
+
+
+
+
+
+relaca dad rejeit pel critic sisac emitira automatic comunic respect orga setori control intern ach vincul unidad pessoal respons pel cadastr fim adot providente par saneament falh detect observandos praz disposica previst dest instruca normat
+
+
+
+
+
+ambit tribunal cont unia proced descrit nest competente unidad process dad
+
+
+
+
+
+
+subseca ii
+
+
+
+
+proced fiscaliz
+
+
+
+
+
+
+trabalh fiscaliz objet dest instruca normat const plan trat regiment intern tribunal cont unia dev abrang menor praz possivel tod orga control intern tenh incumbente inform tribunal sobr atos sujeit registr
+
+
+
+
+
+proced planej execuca fiscaliz atos sujeit registr utiliz alem inform cont sistem apreci registr atos admissa concessa sisac aquel cadastr sistem integr recurs human siap outr simil utiliz pel orga fiscaliz aind outr sistem inform are pesso dispon administr public
+
+
+
+
+
+paragraf unic tamb consider planej trabalh fiscaliz inform cont relatori semestr encaminh pel orga control intern
+
+
+
+
+
+hav necess pod excepcional inser plan trat dest instruca normat fiscaliz unidad administrat expec atos sujeit registr
+
+
+
+
+
+compet segund secret control extern junt secret control extern situ estad realiz trabalh fiscaliz trat est instruca normat bem proced acompanh determin promov pel tribunal cont unia
+
+
+
+
+
+paragraf unic secret situ estad fic respons pel trabalh fiscaliz acompanh unidad control intern const clientel
+
+
+
+
+
+secret informat auditor inspeca dara apoi necessari implant proced defin nest instruca normat
+
+
+
+
+
+paragraf unic secret informat auditor inspeca trabalh conjunt par implant proced extraca dad utiliz trabalh fiscaliz bem cadastr especif atend dispost dest instruca normat
+
+
+
+
+
+
+subseca iii
+
+
+
+
+autuaca tramit process fiscaliz
+
+
+
+
+
+
+process decorrent fiscaliz atos sujeit registr autu part respect relatori auditor elabor segund norm propr
+
+
+
+
+
+atos admissa pessoal concessa aposentador reform pensa relaca qua sej apont falh impropriedad irregular bem aquel cuj falh impropriedad san durant curs auditor autu conjunt acord tip admissa aposentador reform pensa propost legal registr
+
+
+
+
+
+autu process distint atos relaca qua equip auditor constat falh irregular dev indic precisa ocorrente verific bem disposit legal contrari propost promov audienc respons par apresent respect raza justificat
+
+
+
+
+
+process referent atos admissa concessa aposentador reform pensa relaca qua equip auditor apresent propost audienc encaminh diret relator
+
+
+
+
+
+determin audienc examin raza justificat apresent process encaminh pel unidad tecnic ministeri public parec conclus quant atos sujeit registr term dest instruca normat
+
+
+
+
+
+expir praz sem respons atend audienc promov unidad tecnic dar andament process apresent propost merit quant ato inquin observ disposica present dest instruca normat
+
+
+
+
+
+process concernent fiscaliz atos admissa pessoal concessa aposentador reform pensa par fins registr apresent propost legal contrari conclu pel ilegal encaminh ministeri public junt tribunal cont unia par audienc form inc ii lei
+
+
+
+
+
+paragraf unic ministeri public discord conclusa apresent pel unidad tecnic propor destaqu ato med julg pertinent
+
+
+
+
+
+
+subseca iv
+
+
+
+
+apreci registr
+
+
+
+
+
+
+registr atos admissa pessoal concessa aposentador reform pensa efetiv part process formaliz virtud auditor realiz orga control intern form defin nest instruca normat regiment intern tribunal cont unia
+
+
+
+
+
+paragraf unic process relat fiscaliz trat est aplic coub proced defin par fiscaliz atos contrat form previst pel regiment intern tribunal cont unia atos normat especif
+
+
+
+
+
+promov audienc examin raza justificat tribunal consider legal admissa concessa ordenandolh registr cas sej acolh raza justificat
+
+
+
+
+
+rejeit raza justificat tribunal assin praz respons par exat cumpriment lei adot atend seguint med
+
+
+
+
+
+consider ilegal ato impugn
+
+
+
+
+
+b trimestral comunic cam deput sen federal decisa adot ness sent
+
+
+
+
+
+c aplic respons mult previst inc ii regiment intern
+
+
+
+
+
+cas respons permanec silent relaca audienc promov tribunal apreci legal ato admissa concessa pod aplic mult respons revel
+
+
+
+
+
+atos tiv registr orden deneg pel tribunal sej objet determin const cadastr especif sistem apreci registr atos admissa pessoal concessa sisac
+
+
+
+
+
+paragraf unic inform atinent melhor posterior conced sej objet registr pel tribunal dev constitu conform defin manual item especif sisac
+
+
+
+
+
+decisa definit concernent ato admissa concessa public diari oficial unia constituira quand tribunal orden respect registr titul legal ato par tod fins direit
+
+
+
+
+
+negat registr atos admissa obrig orga orig praz quinz dias cont cienc recus public decisa tcu diari oficial unia adot med saneador cabiv observ legislacion pertinent faz cess tod qualqu pagament decorrent ato impugn pen solidariedad respons obrig ressarc quant pag ess dat
+
+
+
+
+
+paragraf unic quand ilegal admissa decorr ausenc aprov prev concurs public inobservanc praz validad tribunal declar nulidad ato correspondent term constituica federal determin adoca med previst dest instruca normat
+
+
+
+
+
+quand registr ato concessa aposentador reform pensa neg orden determin sej retific qualqu parcel orga orig praz quinz dias cont part cienc decisa tribunal far cess pagament provent benefici tod parcel impugn pel tribunal pen solidariedad respons obrig ressarc quant pag ess dat
+
+
+
+
+
+hipotes previst suspens pagament hav indici proced culpos dolos tribunal determin conversa process fiscaliz tom cont especial par apur responsabil promov ressarc cofr public despes irregular efetu
+
+
+
+
+
+
+
+
+
+
+seca vi
+
+
+
+
+disposica fin transitor
+
+
+
+
+
+
+conhec requer dirig diret tribunal interess busqu obtenca benefici referent concessa aposentador reform pensa dev respect process arquiv comunic requerent
+
+
+
+
+
+impossibil envi inform trat est instruca normat transmissa eletron dad dev encaminh mei magnet unidad process dad tribunal cont unia recebel verific conform manual instruca procedendos acord dispost paragraf
+
+
+
+
+
+orga control intern unidad jurisdicion utiliz sistem integr administr recurs human siap torn disponiv tribunal mei magnet folh pagament servidor refer unidad dat defin oportun segund disponibil daquel orga
+
+
+
+
+
+part vigenc dest instruca normat tribunal cont unia mais receb process relat atos sujeit registr
+
+
+
+
+
+process constitu mold convencion acord res tcu encontr autu ambit tribunal apreci segu metodolog introduz est instruca normat dev posterior restitu orig arquiv conform cas
+
+
+
+
+
+paragraf unic criteri relator process trat dest pod apreci form adot anterior vigenc dest instruca normat
+
+
+
+
+
+est instruca normat entrar vigor revog disposica contrari especial instruca normat
+
+
+
+
+
+paul affons martins oliveir
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+redaca original instruca normat const btcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+revog
+dispo sobr envi inform relat atos admissa pessoal concessa aposentador reform pensa tribunal cont unia par fins apreci legal registr outr providente
+
+

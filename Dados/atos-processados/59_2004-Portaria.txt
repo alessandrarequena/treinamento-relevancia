@@ -1,0 +1,598 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist estud constant process tc
+
+
+consider dispost lei julh bem importanc estrateg necess mensur divulg result aca control
+
+
+consider indic gesta constant plan estrateg tribunal cont unia aprov pel port tcu janeir
+
+
+consider roteir auditor conform aprov pel port tcu marc roteir par monitor auditor natur operacional aprov pel port segecex marc preve relatori auditor dev registr benefici estim respect propost encaminh resolv
+
+
+fic institu sistemat quantific registr benefici aca control extern acord dispost nest port anex roteir quantific benefici
+
+
+par fins dispost nest port anex consideras
+
+
+i aca control extern tod aca control empreend process relat are finalist tribunal
+
+
+ii benefici debit mult econom ganh melhor decorrent atuaca tribunal bem expectat control ger pel aca tcu
+
+
+iii benefici estim benefici esper funca propost formul pel unidad tecnicoexecut aind apreci pel tribunal
+
+
+iv benefici potencial benefici relat item deliber tribunal cuj cumpriment aind verific
+
+
+v benefici efet benefici decorrent cumpriment deliber antecip ambit administrat raza process andament tcu
+
+
+benefici registr sistem rad form agreg apreci merit mod reflet benefici global aca control
+
+
+benefici tip debit mult excet aquel antecip ambit administrat raza process andament tcu correspond respect valor registr propost deliber constant sistem rad
+
+
+benefici tip econom ganh melhor aquel antecip ambit administrat dev registr pel unidad tecnicoexecut camp propri sistem rad
+
+
+
+memor calcul benefici tip econom ganh dev junt respect process
+
+
+cas relator colegi promov acresc modific supressa itens deliber relaca propost original unidad tecnic quand cas dev promov praz trint dias deliber retific registr benefici sistem junt nov memor calcul process
+
+
+hipotes proviment recurs unidad tecnicoexecut quand cas dev retific registr benefici trat dest junt process memor calcul atualiz
+
+
+compet secretariaadjunt cont adcon secretariaadjunt fiscaliz adfis form coorden
+
+
+i acompanh implement dispost nest port
+
+
+ii exped orient complement fac necess quantific registr benefici aca control extern
+
+
+iii identific dissemin melhor pratic quantific benefici aca control pod par tant solicit unidad tecnicoexecut cop memor calcul benefici tip econom ganh
+
+
+iv estud propor metodolog par quantific registr benefici decorrent expectat control traduz inibica falh irregular virtud ativ control extern exerc pel tcu
+
+
+v propor bas sugesta receb avali registr efetu alter aperfeico fac necessari sistemat institu est port
+
+
+fic secret tecnolog inform setec orient adfis adcon encarreg promov primeir trimestr alter necess sistem fim possibilit registr benefici estim potenci
+
+
+paragraf unic sistem informatiz estej adequ sistemat trat est port registr feit exclusiv instruca relatori fiscaliz
+
+
+dispost nest port aplicas process receb primeir instruca part exercici
+
+
+est port entr vigor dat public
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+anex unic portariatcu janeir
+
+
+
+roteir quantific benefici
+
+
+
+benefici apur aca control dev quantific conform dispost nest roteir dev aind registr instruca relatori fiscaliz lanc sistem rad par cad aca control pod hav mais tip benefici
+
+
+
+debit mult
+
+
+
+ess grup form pel result posit atuaca tribunal cuj quantific term financeir total objet conform detalh adiant
+
+
+
+recolh mult
+
+
+
+propost aplic mult cadastr normal sistem rad quand deliber colegi lanc rad sistem pass consider valor mult benefici potencial
+
+
+comprov quitaca valor mult ensej registr cumpriment integral deliber enta benefici pass consider efet hipotes parcel valor mult cad parcel comprovad recolh consider benefici efet
+
+
+respons pel instruca pel relatori fiscaliz dev portant registr ess tip benefici aut sistem deix valor sej inform quand deliber tribunal
+
+
+
+ressarc debit
+
+
+
+lanc rad propost citaca informas valor debit sistem automatic pass consider ess valor benefici estim quand registr sistem deliber condenator benefici pass potencial comprov recolh integral transform benefici efet hipotes parcel debit cad parcel comprovad recolh consider benefici efet
+
+
+
+ressarc valor via administrat
+
+
+
+tratas benefici decorrent recolh valor debit fas citaca aind ressarc antecip ambit administrat raza process andament tribunal instruca encaminh propost merit rad dev fic registr valor benefici efet
+
+
+
+econom ganh
+
+
+
+ess grup form pel result posit atuaca tribunal cuj quantific term financeir parcial subjet autor propost encaminh dev portant faz junt aut memor calcul benefici fim explicit logic
+
+
+benefici tip econom ganh decorr deliber tip determin recomend aind providente adot pel gestor decorrente trabalh tribunal aind anterior apreci pel relator colegi
+
+
+
+restituica recurs orga repass
+
+
+
+calcul benefici
+
+
+valor total restitu
+
+
+exempl municipi x celebr conveni orga y vis realiz obras saneament constatous conclu obr feit prest cont hav residu r contacorrent especif conveni unidad tecnicoexecut propo sej determin restituica recurs orga repass
+
+
+valor benefici r
+
+
+
+interrupca pagament vantag indev
+
+
+
+calcul benefici
+
+
+valor total deix pag
+
+
+cas benefici repit temp indetermin valor total deix pag long prox mes
+
+
+exempl orga x est pag servidor titul despes exercici anterior gratific consider irregul pagament parcel rest mes par conclusa cad mes orga x pag parcel r som pagament feit tod servidor benefici unidad tecnicoexecut propo interrupca pagament indev
+
+
+valor benefici x valor parcel mensal x r
+
+
+comentari benefici correspond valor total deix pag unidad tecnicoexecut propus aind restituica valor pag primeir mes ess benefici tip debit mult comput cumulativ benefici trat nest exempl
+
+
+exempl orga y est pag servidor gratific consider irregul cad mes orga y pag total r som pagament feit tod servidor benefici unidad tecnicoexecut propo interrupca pagament indev
+
+
+valor benefici x valor gratific x r
+
+
+comentari trat interrupca ger benefici temp indetermin consideras apen benefici correspondent prox mes
+
+
+
+elimin desperdici reduca cust administrat
+
+
+
+calcul benefici
+
+
+valor total estim desperdici evit reduca cust
+
+
+cas benefici repit temp indetermin valor total deix desperdic long prox mes valor reduca cust long prox mes
+
+
+exempl grafic empres x lanc lix sobr papel papela estimas ess material cas foss vend par reciclag rend med r mes unidad tecnicoexecut propo determin empres x pass vend sobr papel papela
+
+
+valor benefici x valor desperdici evit x r
+
+
+comentari trat determin ger benefici temp indetermin consideras apen benefici correspondent prox mes metodolog utiliz par estim desperdici mensal r precis demonstr pel unidad tecnicoexecut
+
+
+
+elev receit
+
+
+
+calcul benefici
+
+
+valor total estim elev receit
+
+
+cas benefici repit temp indetermin valor total elev receit long prox mes
+
+
+exempl orga respons pel patrulh rodov feder determin unidad feder cobr mult infraca transit estoqu mult cobr som r unidad tecnicoexecut propo sej determin cobranc mult acord proced previst legislacion norm intern orga
+
+
+valor benefici r
+
+
+comentari benefici correspond valor total estim elev receit
+
+
+exempl mesm cas exempl anterior identificous orga dispo infraestrutur suficient par process mult estimas send deix cobr mult valor r mes unidad tecnicoexecut propo sej recomend celebr conveni depart transit estadual par process cobranc mult
+
+
+valor benefici x r
+
+
+comentari trat determin ger benefici temp indetermin consideras apen benefici correspondent prox mes
+
+
+
+reduca prec maxim process licitatori
+
+
+
+calcul benefici
+
+
+diferenc entr prec maxim registr edital licit prec merc
+
+
+exempl orga x public edital par contrat servic conserv limpez fix prec maxim r bas especific servic prec pratic pel merc unidad tecnicoexecut propo revog edital public outr sej fix prec maxim r
+
+
+valor benefici r
+
+
+comentari metodolog utiliz par estim prec maxim r precis demonstr pel unidad tecnicoexecut
+
+
+
+reduca valor contratual
+
+
+
+calcul benefici
+
+
+diferenc entr valor contratual atual valor contratual reduca
+
+
+exempl autarqu federal x firm conveni determin unidad feder par restaur rodov federal equip auditor tribunal constat prec contrat pel uf empreiteir priv superior merc sald contratual correspondent servic aind execut r equip propo sald contratual correspondent servic aind execut sej reduz
+
+
+valor benefici x r
+
+
+comentari metodolog utiliz par estim necess reduca valor contratual precis demonstr pel equip auditor
+
+
+
+compens financeir
+
+
+
+calcul benefici
+
+
+valor total compens
+
+
+exempl mesm cas exempl equip propo valor pag maior fatur liquid sej compens proxim fatur pag empreiteir total fatur liquid r equip propo compens correspond valor pag
+
+
+valor benefici x r
+
+
+comentari metodolog utiliz par estim necess reduca valor contratual precis demonstr pel equip auditor
+
+
+
+execuca garant
+
+
+
+par calcul benefici dev consider menor entr seguint valor
+
+
+valor estim poss apur execuca garant
+
+
+valor garant
+
+
+exempl cert banc estatal mant rubric credit liquid duvid div som r banc pod titul oferec garant div qua pod comercializ merc financeir r unidad tecnicoexecut propo sej recomend banc execut garant
+
+
+valor benefici r
+
+
+comentari benefici correspond valor pod apur execuca garant nest exempl menor valor garant r
+
+
+
+aplic mult previst contrat legislacion especif
+
+
+
+calcul benefici
+
+
+valor maxim mult previst
+
+
+exempl orga x contrat empres priv par execuca servic conserv limpez pel valor total r empres descumpr divers clausul contratu unidad tecnicoexecut propo sej determin orga x apliqu mult previst contrat var valor total contrat
+
+
+valor benefici x r
+
+
+comentari benefici correspond valor maxim mult contratual
+
+
+
+correca vici defeit incorreca objet contrat
+
+
+
+par calcul benefici dev consider maior entr seguint valor
+
+
+valor estim par corrig vici defeit incorreca
+
+
+valor despes adicional provoc pel existente vici defeit incorreca cas benefici repit temp indetermin limitas calcul prox mes
+
+
+exempl entidad x contrat empres priv par desenvolv sistem informatiz par control folh pagament equip auditor tribunal constat sistem desenvolv cont err prejud utiliz estimas correca err demand empreg hor program cust unitari r hor conform previst contrat outr lad existente incorreca obrig entidad x efetu control paralel cust estim r mes consider salari funcionari envolv temp dedic control paralel equip propo sej determin entidad x exij empres contrat correca vici detect
+
+
+valor benefici x r
+
+
+x r
+
+
+comentari benefici correspond maior valor calcul sej r trat determin ger benefici temp indetermin consideras apen benefici correspondent prox mes
+
+
+
+compatibiliz objet contrat especific projet
+
+
+
+par calcul benefici dev consider maior entr seguint valor
+
+
+valor estim servic necessari compatibiliz objet contrat especific projet
+
+
+valor despes adicional provoc pel cumpriment especific projet cas benefici repit temp indetermin limitas calcul prox mes
+
+
+exempl autarqu federal x firm conveni determin unidad feder par construca rodov federal equip auditor tribunal constat largur paviment med apen metr quand acord projet dev med metr diferenc constat long trech km consider tod cust relat prepar bas subbas paviment cust estim execuca faix metr restant r quilometr equip propo sej determin compatibiliz obr execut projet cont empreiteir
+
+
+valor benefici x r
+
+
+comentari cas houv estatist confi referent elev numer acident cust virtud estreit rodov ess valor pod consider benefici
+
+
+
+glos impugn despes
+
+
+
+calcul benefici
+
+
+valor despes glos impugn
+
+
+exempl curs auditor unidad hospital equip tcu constat estav send cobr orga federal valor referent intern hospital inexistent valor total r equip propo determin orga federal impugn despes deix pag tais intern
+
+
+valor benefici r
+
+
+comentari outr propost exempl audienc aplic mult gestor municipal pod formul dar orig outr benefici registr cumulativ
+
+
+
+elev prec minim par privatiz empres
+
+
+
+calcul benefici
+
+
+diferenc entr prec minim indic edital prec minim calcul pel tribunal
+
+
+exempl unidad tecnicoexecut detect erros calcul prec minim fix edital privatiz determin empres prec minim fix pel edital r enquant calcul pel unidad tecnicoexecut r unidad propo sej determin interrupca process privatiz public nov edital prec minim corret
+
+
+valor benefici r
+
+
+comentari benefici estim pel unidad consider potencial deliber tribunal efet public nov edital prec final obtid leila vend estatal consider calcul benefici imposs defin pont ess prec influenci pel alter prec minim
+
+
+
+reduca tarif public
+
+
+
+calcul benefici
+
+
+valor estim perd receit concession final praz concessa
+
+
+exempl realiz acompanh process revisa tarif determin contrat concessa explor rodov unidad tecnicoexecut identific err calcul tarif pedagi dev r inferior pretend consider estimat quantidad usuari servic praz vigenc contrat estimas reduca implic perd receit par concession r unidad propo sej determin fixaca tarif pel valor corret
+
+
+valor benefici r
+
+
+
+increment econom eficiente eficac efetiv program govern
+
+
+
+calcul benefici
+
+
+observams orient seprog especial roteir par monitor auditor natur operacional aprov pel port segecex marc prev inclusiv particip gestor estimat benefici
+
+
+exempl portador tuberculos interromp tratament esquem i retomal antibiot esquem ii muit mais car avali process planej aquisica medic equip auditor tribunal verific praz form par encaminh necess pel estad orga repass federal acarretav erros atras alem necess remanej estoqu verificous ped continh erros equip recomend ped pass feit form padroniz pel softwar reduz pratic zer numer ped errad alem diss implement recomend reduz temp gast par consolid ped pel orga repass par dias
+
+
+valor benefici correspond som seguint parcel
+
+
+diferenc entr valor tratament realiz pacient esquem i contraposica esquem ii multiplic pel numer pacient receb tratament continu falt medic
+
+
+valor fret deix contrat par remanej medic entr estad
+
+
+
+sempr identific benefici tip econom ganh poss enquadr subtip nºs unidad tecnicoexecut dev inform fat adfis par sej avali oportun incorpor nov subtip benefici est roteir sistem
+
+
+
+
+melhor
+
+
+
+ess grup form pel result posit atuaca tribunal cuj quantific term financeir inviavel total subjet autor propost encaminh dev portant registr tip benefici tant instruca relatori quant rad descrevendo form sucint sempr possivel dev quantific benefici financeir popul benefici numer leit hospital coloc disposica are florest preserv etc
+
+
+benefici tip melhor pod decorr deliber tip determin recomend encaminh cop pec processu encaminh inform enquadrams ness grup
+
+
+
+melhor organiz administrat
+
+
+
+
+melhor control intern
+
+
+
+
+melhor form atuaca
+
+
+
+
+melhor result apresent
+
+
+
+
+impact soci posit
+
+
+
+
+impact econom posit
+
+
+
+
+impact ambient posit
+
+
+
+
+increment confianc cidada instituica public
+
+
+
+
+reduca sentiment impun
+
+
+
+
+elev sentiment cidadan popul
+
+
+
+
+fornec subsidi par atuaca congress nacional
+
+
+
+
+recomend par atualizacaoaprimor text leg
+
+
+
+
+fornec subsidi par atuaca tribun cont estadu municip
+
+
+
+
+fornec subsidi par atuaca ministeri public
+
+
+
+
+fornec subsidi par atuaca autor pod execut
+
+
+
+
+fornec subsidi par atuaca autor pod judiciari
+
+
+
+
+sempr identific benefici tip melhor poss enquadr subtip nºs unidad tecnicoexecut dev inform fat adfis par sej avali oportun incorpor nov subtip benefici est roteir sistem
+
+
+
+
+revog
+institu sistemat quantific registr benefici aca control extern
+
+

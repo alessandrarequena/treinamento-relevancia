@@ -1,0 +1,994 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu dezembr resolv
+
+
+fic aprov realiz projet apol modelag process trabalh educ corporat term anex dest port
+
+
+fic design tecnic control extern jos ronald carvalh vasconcel matricul par exerc funca confianc coorden projet codig fc constant anex x aloc funca gestor projet
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+public dou seca p
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin
+
+
+
+
+identific gestor projet
+
+nom
+
+matricul
+
+email
+
+ramal
+
+
+
+jos ronald carvalh vasconcel
+
+
+
+josecvtcugovbr
+
+funca gestor
+
+orig fc
+
+
+
+gerent
+
+
+
+xcoorden
+
+
+
+lid
+
+
+
+funca gesta projetosnom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+
+
+thiag azeved barbos
+
+
+
+thiagoabtcugovbr
+
+local telefon
+
+
+
+sal isc ramal
+
+
+
+
+
+
+identific projet
+nom projet
+
+
+
+modelag process trabalh educ corporat projet apoloperiod realiz
+
+unidad patrocin
+
+
+
+
+
+institut serzedell corre isc
+
+
+
+
+
+
+
+
+
+
+
+vincul estrateg
+
+plan estrateg tcu
+
+
+
+
+
+perspect process intern
+
+objet estrateg aperfeico instrument control process trabalh
+
+b
+
+perspect pesso inov
+
+objet estrateg otimiz utiliz conhec organizacional
+
+objet estrateg desenvolv cultur orient result
+
+c
+
+iniciat estrateg map racionaliz princip process trabalh tcu
+
+d
+
+iniciat estrateg estrutur integr pratic gesta conhec
+
+
+
+iniciat estrateg aprimor process gesta desempenh resultadosplan diretriz tcu
+
+
+
+
+
+perspect process intern
+
+iniciat estrateg map racionaliz princip process trabalh tcu
+
+aca implement metodolog mapeament redesenh process mod garant alinh entr indic estrateg process
+
+
+
+
+
+
+
+
+
+
+
+problem oportun
+
+descrica problem oportun
+
+
+
+
+
+institut carec instrument orient servidor execuca rotin tamb carenc sistematiz inform administrat relacion dispersa dad instruca proced adot suport are dificult entend desenrol ativ ocasion problem comunic entr setor result insatisf usuari
+
+b
+
+atual isc process trabalh parcial atend pel sistem iscnet dev seri fator relacion sistem tais possu document utiliz tecnolog banc dad codific linguag padra tcu mant tecnic propr unidad sem apoi setec isc est envid esforc par adquir nov soluca par autom process trabalh
+
+par sistem autom tenh sucess implement important process trabalh estej model par serv insum par desenvolv customiz sistem
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin
+
+
+
+evoluca quadr apresent dad
+
+
+
+
+
+estrutur organizacional isc mud significativ part nov estrutur atribuica defin pel port isc implic alter process trabalh pap servidor nov atribuica tais gesta desenvolv competente gesta educ distanc surg part conclusa projet aten pegas respectiv alem absorv nov atribuica nov estrutur organizacional busc tamb racionaliz process trabalh relacion capacit treinament base preceit norm nbr iso diretriz par treinament
+
+proposit identific process trabalh nov organiz primeir semestr isc apoi metodolog seplan realiz levant princip macroprocess relacion objet produt client discussa sobr process trabalh demonstr matur motiv corp gerencial servidor isc model process vis melhor uso indic possibil autom
+
+levant identific cinc macroprocess seleca integr nov servidor gesta competente educ corporat gesta inform apoi logist tecnolog prioritari macroprocess educ corporat subdivid nov process apen ness levant inicial identific produt entregu client intern extern isc
+
+verific magnitud complex process trabalh isc conclusa consensual grup necess institu projet duraca pel men doz mes par dar continu ess modelag detalh taref inform ator indic
+
+
+
+
+
+
+
+escop projet
+
+objet geral projet relaca oportun soluca problem
+
+
+
+map model disponibiliz flux process proced operacional padra relat educ corporat tcu
+
+
+
+
+met indic produt client
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+
+
+quantodat termin
+
+
+
+
+
+map model public primeir process trabalh execuca servic secret incent educ continu coorden execut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process mape model
+
+flux primeir process execuca mape model servic secret incent educ continu coorden execut
+
+isc
+
+
+
+
+
+process valid public
+
+flux primeir process execuca valid public
+
+isc
+
+b
+
+elabor public proced operacional padra primeir process mape valid
+
+
+
+
+
+padroniz primeir process mape formaliz
+
+proced operacion padra pops primeir process elabor public
+
+isc
+
+c
+
+propor eventu alter atualiz elabor normat
+
+
+
+
+
+minut normat primeir process execuca aceit
+
+minut normat primeir process execuca entreg
+
+isc
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin meta
+
+indic
+
+produt
+
+client
+
+objet especif
+
+
+
+quantodat termin
+
+
+
+d
+
+formul indic par medica indic produca primeir process trabalh
+
+
+
+
+
+list indic produca primeir process trabalh aceit
+
+list indic produca primeir process trabalh elabor
+
+isc
+
+
+
+map model public ultim process trabalh execuca seleca contrat instrutor servic educacion planej educacional seleca participant
+
+
+
+
+
+process mape model
+
+flux ultim process execuca mape model seleca contrat instrutor servic educacion planej educacional seleca participant
+
+
+
+isc
+
+
+
+
+
+process valid public
+
+flux ultim process execuca valid public
+
+isc
+
+f
+
+elabor public proced operacional padra ultim process mape valid
+
+
+
+
+
+padroniz ultim process mape formaliz
+
+proced operacion padra pops ultim process elabor public
+
+isc
+
+g
+
+propor eventu alter atualiz elabor normat
+
+
+
+
+
+minut normat ultim process execuca aceit
+
+minut normat ultim process execuca entreg
+
+isc
+
+h
+
+formul indic par medica indic produca ultim process trabalh
+
+
+
+
+
+list indic produca ultim process trabalh aceit
+
+list indic produca ultim process trabalh elabor
+
+isc
+
+i
+
+model process aind execuca consultor par autodesenvolv produca conhec inov avali program educacion
+
+
+
+
+
+process model public
+
+flux process model public consultor par autodesenvolv produca conhec inov avali program educacion
+
+
+
+isc
+
+
+
+
+
+process valid public
+
+flux process valid public
+
+isc
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin meta
+
+indic
+
+produt
+
+client
+
+objet especif
+
+
+
+quantodat termin
+
+
+
+j
+
+propor eventu alter atualiz elabor normat
+
+
+
+
+
+minut normat process aind execuca aceit
+
+minut normat process aind execuca elabor
+
+isc
+
+k
+
+formul indic par medica indic produca process trabalh aind execuca
+
+
+
+
+
+list indic produca process trabalh aind execuca aceit
+
+list indic produca process trabalh aind execuca elabor
+
+isc
+
+
+
+benefici impact esper produt projet
+
+
+
+
+garant sustentabil process trabalh operacionaliz
+
+b
+
+visa sistem process trabalh permit identific interdependente entr unidad
+
+c
+
+elimin sobreposica aca mesm process trabalh evit duplic retrabalh
+
+d
+
+dissemin gesta conhec facilit comunic entr unidad
+
+
+
+reduca cust capacit nov servidor respons pel process trabalh mape
+
+f
+
+transferente capital intelectual individu par instituica
+
+
+
+
+
+
+
+escop projet vai faz
+
+
+
+
+implant process model aind execuca
+
+b
+
+autom process mape model execuca process model aind execuca
+
+c
+
+medica indic produca process trabalh
+
+d
+
+atualiz flux process mape model public intranet
+
+
+
+atualiz proced operacion padra pops public intranet
+
+f
+
+aprov public normat
+
+g
+
+elabor proced operacion padra par process consultor par autodesenvolv produca conhec inov avali program educacion
+
+h
+
+treinament servidor colabor proced operacion padra elabor
+
+
+
+
+
+
+
+identific part envolv projet relaca
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+
+
+isc
+
+patrocin projet apoi administrat assessor tecnic aloc pessoal recurs materi par desenvolv projet
+
+b
+
+seplan
+
+assessor tecnic mapeament modelag descrica process trabalh
+
+assessor tecnic elabor indic produca process trabalh
+
+c
+
+setec
+
+treinament membr equip projet aris
+
+aloc servidor par projet
+
+assessor tecnic par valid estrutur process par futur autom
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin
+
+
+
+
+fator pod risc exit projet
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+
+
+ausenc cooper gerent membr equip
+
+alt
+
+baix
+
+m reunia conscientiz solicit cooper equip projet
+
+diretorgeral isc
+
+b
+
+ausenc capacit eou naoadapt metodolog levant utiliz padra ferrament aris
+
+alt
+
+baix
+
+trein equip utiliz ferrrament aris padra metodolog
+
+seplan sequap
+
+c
+
+indefinica sobr process aind execuca
+
+alt
+
+med
+
+defin respons pel process
+
+diretorgeral isc
+
+d
+
+atras entreg produt decorrente fruica fer recess
+
+alt
+
+med
+
+r acord membr equip entreg antecip produt poss impact entreg final projet
+
+coorden projet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relaca outr projet
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+projet aten
+
+projet pegas
+
+projet sgp
+
+projet par implant nov process model
+
+
+
+
+
+
+
+
+equip projet
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+jos ronald carvalh vasconcel
+
+
+
+secof
+
+
+
+integral
+
+eduard calhman mirand
+
+
+
+seg
+
+
+
+parcial
+
+cristin aparec barr
+
+
+
+secor
+
+
+
+parcial
+
+thiag azeved barbos
+
+
+
+seduc
+
+
+
+parcial
+
+antoni jos pass pinheir
+
+
+
+sesed
+
+
+
+parcial
+
+dor botelh bast
+
+
+
+seplan
+
+
+
+ativ
+
+mar emil boss queiroz
+
+
+
+seplan
+
+
+
+ativ
+
+paul andr matt carvalh
+
+
+
+setec
+
+
+
+ativ
+
+jos carl leon jesus
+
+
+
+segep
+
+
+
+ativ
+
+estagiari
+
+
+
+setec
+
+
+
+integral
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cust adicion estim
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+
+
+aloc estagiari par auxili ativ projet x x r
+
+r
+
+cust estim
+
+
+
+r
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet apol
+
+
+
+pagin
+
+
+
+
+outr recurs necessari
+
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+finaliz
+
+dat
+
+assinatur gestor projet
+
+
+
+
+
+jos ronald carvalh vasconcel
+
+coorden projetomanifest titul unidad patrocin
+
+
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+isc
+
+carl eduard queiroz pereir
+
+diretorgeral iscmanifest seplan
+
+
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+const revog express
+aprov realiz projet apol modelag process trabalh educ corporat design gestor
+
+

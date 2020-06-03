@@ -1,0 +1,804 @@
+port
+
+
+
+president tribunal cont unia uso competente leg regiment tend vist dispost paragraf unic resolucaotcu abril dispo sobr classific inform quant confidencial ambit tcu
+
+
+consider dispost polit corporat seguranc inform tcu pcsitcu sobr necess regulament classific inform produz custodi pel tribunal compat necess negoci manutenca imag tribunal
+
+
+consider dispost resolucaotcu abril
+
+
+consider dispost resolucaotcu dezembr dispo sobr polit governanc tecnolog inform tribunal cont unia
+
+
+consider dispost resolucaotcu agost dispo sobr funcion process eletron dem servic eletron ofert mei soluca denomin tcueletron etcu
+
+
+consider dispost port tcu mai dispo sobr proced aca gesta documental tribunal cont unia
+
+
+consider necess atualiz proced control administrat tecnolog compativ dan imag negoci tcu decorrent uso acess autoriz inform
+
+
+consider dispost iii iv lei novembr lei acess inform
+
+
+consider estud parec constant process tc resolv
+
+
+proced seguranc control administrat tecnolog afet classific quant confidencial inform produz custodi pel tcu obedec cont nest port observ legislacion vigent
+
+
+paragraf unic est port integr polit corporat seguranc inform tribunal cont unia pcsitcu
+
+
+par efeit dest port entendes
+
+
+i inform conjunt dad text imagens metod sistem quaisqu form represent dot signific determin context independent suport res form pel sej veicul
+
+
+ii seguranc inform proteca inform contr ameac confidencial integr disponibil autentic par minimiz risc garant eficac aca negoci preserv imag tcu
+
+
+iii confidencial propriedad garant inform sej acess soment pel pesso process tenh autoriz par tal
+
+
+iv integr propriedad garant violaca inform intuit protegel contr alter gravaca exclusa indev acidental proposital
+
+
+v disponibil propriedad garant inform estej acessiv pesso process autoriz moment requer
+
+
+vi autentic propriedad assegur correspondente entr autor determin inform pesso process sistem atribu autor
+
+
+vii gestor inform colegi tcu secret autor tribunal dirigent unidad respons inform mat competente inerent are atuaca
+
+
+vii incident seguranc inform qualqu indici fraud sabotag espionag desvi falh event indesej inesper tenh probabil compromet ameac seguranc inform
+
+
+ix custodiant inform qualqu pesso det poss mesm transitor inform produz receb pel tribunal
+
+
+x classific inform aca defin grau confidencial grup acess atribu inform
+
+
+xi rotul registr vis identific clar classific inform
+
+
+xii soluca conjunt form element tecnolog inform process trabalh integr par produz result atend necess tribunal
+
+
+xii unidad gestor soluca unidad organizacional tribunal respons pel definica process trabalh requisit regr negoci niv servic aplic soluca
+
+
+xiv necess conhec necess acess inform funca inter servic relat propr pesso express previsa legal
+
+
+xv principi menor privilegi vis permit acess inform nivel minim necessari par necess conhec
+
+
+xvi autentic proced control tecnolog vis verific associ entr pesso ident par franquearlh acess adequ
+
+
+quant confidencial inform produz custodi pel tcu classificams graus confidencial public reserv secret ultrassecret pessoal sigil
+
+
+cad grau confidencial correspond conjunt control administrat tecnolog list anex unic dest port compativ dan potenci imag negoci tribunal intim vid priv honr imag pesso uso acess autoriz inform acarret
+
+
+obrigator aplic control administrat tecnolog descrit anex unic dest port men sej tecnic inviavel
+
+
+decisa aplic control trat dev justific document send registr concordanc gestor inform
+
+
+gestor inform pod decid cas concret bas risc acess uso indev inform devid motiv control administrat tecnolog aplic dad inform sej mais restrit descrit anex unic dest port desd compativ grau confidencial
+
+
+cas necess definica perimetr acess fisic par cumpriment dispost nest port solicit dev encaminh secret seguranc servic ger sesap submet mat reunia conjunt comit seguranc institucional cosin comit seguranc inform csi consonanc resolucaotcu junh
+
+
+acess inform classific diferent public pesso extern quadr servidor autor tcu dev preced registr evidenc
+
+
+i classific inform acess
+
+
+ii necess aplic control especif garant acess soment pesso autoriz
+
+
+iii responsabil pel manutenca sigil quand coub
+
+
+permissa acess trat requ assinatur prev term confidencial
+
+
+cas acess sej feit mei contrat conveni term confidencial responsabil refer paragraf anterior pod substitu term assin pel entidad contrat convenent
+
+
+cas acess sej feit mei trat acord atos internacion propri text document reg trat acord ato dev prev quand coub clausul especif confidencial
+
+
+aprov pel csi mant pel assessor seguranc inform governanc assig comun seguranc inform portal tcu orient exempl model referent instrument trat est
+
+
+solicit inform extern public servidor autor tcu exercici atribuica dev acompanh registr evidenc
+
+
+i classific inform acess
+
+
+ii necess aplic control especif
+
+
+iii conhec cas sej document classific control especif acord leis normat vigent inform trat public
+
+
+paragraf unic aprov pel csi mant pel assig comun seguranc inform portal tcu orient exempl model referent instrument trat est
+
+
+responsabil custodiant inform aplicarlh control administrat tecnolog compativ grau confidencial atribu
+
+
+paragraf unic polit seguranc fisic patrimonial pcsftcu trat control especif vis alinh entr control acess fisic inform dispost nest port
+
+
+ausenc insuficiente injustific control administrat tecnolog compativ grau confidencial inform configur incident seguranc inform report assig del tiv conhec
+
+
+tratament inform public dev adot minim seguint control administrat tecnolog
+
+
+i rotul tod component inform public independent suport resid form pel sej veicul
+
+
+ii aplic med proteca fisic eou logic previst anex unic dest port garant acess exclusiv pesso autoriz
+
+
+iii mant mesm rotul aplic mesm control inform original cas cop impressa
+
+
+dev inclu advertente sobr restrica acess excet quand sej tecnic inviavel par mei armazen inform
+
+
+divulg permit divulg bem acess permit acess indev inform proteg sigil constitu condut ilicit ensej responsabiliz esfer administrat civil penal term legislacion vigor exempl dispost lei
+
+
+acess inform mei cont administr recurs dev respeit dispost nest port regulament normat propri
+
+
+qualqu duplic inform armazen bas dad exempl daquel necess ambient aceit test desenvolv consider cop inform dev respeit dispost nest port
+
+
+cab gestor inform decid sobr composica grup acess inform gesta respeit principi menor privilegi necess conhec
+
+
+inform necess instruca decisa processual dev pod acess pel respons pel respect ativ
+
+
+composica grup acess obedec tamb dispost normat especif eman plenari presidente comissa coorden geral ccg
+
+
+compet assig apresent csi propost revisa dest port maxim cad cinc anos
+
+
+incumb assig apoi secret comunic social secom institut serzedell corre isc dem unidad pertinent coorden aca divulg treinament educ conscientiz usuari relaca proced seguranc control administrat tecnolog afet classific quant confidencial inform produz custodi pel tcu
+
+
+compet unidad gestor soluca ouv gestor inform defin funcional permit implement control administrat tecnolog descrit nest port par inform receb produz trat pel soluca gesta
+
+
+incumb secret control intern seca apoi coub assig unidad gestor soluca secret infraestrutur tecnolog inform setic secret soluca tecnolog inform sti audit periodic aplic control administrat tecnolog descrit nest port
+
+
+fic alter x portariatcu pass vigor seguint redaca
+
+
+x custodiant inform qualqu pesso det poss mesm transitor inform produz receb pel tribunal
+
+
+fic revog portariatcu mai
+
+
+fic csi autoriz exped atos necessari regulament dest port dirim cas omiss
+
+
+est port entr vigor dat public
+
+
+joa august ribeir nard
+
+
+
+
+
+
+const revog express
+dispo sobr proced seguranc control administrat tecnolog afet classific quant confidencial inform produz custodi pel tribunal cont unia
+
+anex unic portariatcu dezembr
+
+
+
+
+confidencial inform
+
+
+
+present anex objet detalh control administrat tecnolog aplic cad graus confidencial previst dest port ness sent apresent tabel par cad grau confidencial subdivid aspect ger b control administrat tecnolog aspect ger apresentas definica grau confidencial questa praz restrica acess competente par classific control administrat tecnolog encontrams elenc acord etap cicl vid inform sab produca receb armazen acess cop transport descart
+
+
+classific inform quant confidencial
+
+inform public
+
+aspect ger
+
+descrica
+
+inform cuj acess pod franque qualqu pesso
+
+praz restrica acess
+
+aplic
+
+competente par classific
+
+dirigent unidad colegi secret tcu secretariosger membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+instal tcu fora dependente
+
+permit uso equip corporat particul
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul obrigator
+
+receb
+
+verific grau confidencial inform
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+sem control especif
+
+acess
+
+franque qualqu pesso pod inform disponibiliz portal tcu par acess public
+
+desnecess manutenca histor acess log
+
+cop
+
+permit reproduca tod part
+
+transport
+
+pod transport livrement
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+descart document histor conform definica portariatcu mai
+
+
+
+
+
+
+classific inform quant confidencial
+
+inform reserv
+
+aspect ger
+
+descrica
+
+inform imprescind seguranc sociedad estad term resolucaotcu
+
+praz maxim restrica acess
+
+anos
+
+competente par classific
+
+dirigent unidad colegi secret tcu secretariosger membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+instal tcu fora dependente
+
+permit uso equip corporat particul
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul inform maneir apropri mei apresent
+
+receb
+
+verific grau confidencial inform
+
+verific quand coub aderente normat especif par classific inform receb pel tribunal jurisdicion exempl instruca normat
+
+rotul inform maneir apropri mei apresent conform grau verific respeit classific atribu orig cas classific inform sej aderent lei acess inform autor competent par classific dev realiz conversa par classific correspondent tcu conform previst resolucaotcu
+
+quand necess emissa recib inser paragrafopadra constant comun seguranc inform portal tcu
+
+quand receb mediant instrument cooper inser paragrafopadra constant comun seguranc inform portal tcu
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+armazen loc restrit grup acess habilit
+
+acess
+
+pod acess part instal tcu fora dependente
+
+permit acess mei equip corporat particul
+
+permit grup acess observ praz restrica defin ato classific
+
+permit pesso necess funcional conhec inform
+
+permit pesso legal autoriz
+
+recomend manutenca histor acess log par inform armazen papel send obrigator quand mei eletron
+
+permit elabor extrat document par divulg intern public mediant autoriz formal gestor inform autor competent excet quand express ved document original
+
+par acess inform precis identific autentic
+
+cop
+
+
+
+quand indispens reproduca tod part cop dev mesm grau confidencial document original
+
+sempr proced cop precis execut integrant grup acess exempl scann tipograf impressor oficin grafic tal oper dev acompanh pessoal formal design pel unidad custodiant solicit realiz cop
+
+cop impressa dev mant mesm rotul inform original
+
+transport
+
+pod transport livrement dentr dependencia tribunal
+
+transport extern quand feit mei eletron dev feit preferencial criptograf
+
+cas transport extern papel mid criptograf deves utiliz envelop lacr cuj violaca sej detect
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+document fisic eletron dev descart praz guard
+
+cop tempor arquiv salv local impressa document eletron dev descart tao log venc praz retenca dev
+
+cop tempor document digitaliz dev descart tao log venc praz retenca dev
+
+descart document histor conform definica portariatcu
+
+
+
+
+
+
+classific inform quant confidencial
+
+inform secret
+
+aspect ger
+
+descrica
+
+inform imprescind seguranc sociedad estad term resolucaotcu
+
+praz maxim restrica acess
+
+anos
+
+competente par classific
+
+colegi secret tcu secretariosger membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+preferencial dependencia tcu
+
+produz apen equip corporat
+
+preferencial ambient compartilh pesso estranh grup acess
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul inform maneir apropri mei apresent
+
+receb
+
+verific grau confidencial inform
+
+rotul inform maneir apropri mei apresent conform grau verific respeit classific atribu orig cas classific inform sej aderent lei acess inform autor competent pel classific dev realiz conversa par classific correspondent tcu conform previst resolucaotcu
+
+quand necess emissa recib inser paragrafopadra constant comun seguranc inform portal tcu
+
+quand receb mediant instrument cooper inser paragrafopadra constant comun seguranc inform portal tcu
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+
+
+document papel mid receb terceir criptograf dev armazen armari gavet chav
+
+arquiv eletron armazen local ex comput notebook disposit removiv ex pendriv cd smartphon dev criptograf
+
+armazen servidor soluca dev observ regr defin grup acess habilit
+
+acess
+
+permit grup acess observ praz restrica defin ato classific
+
+permit pesso necess funcional conhec inform
+
+permit pesso legal autoriz
+
+necess manutenca histor acess log independent mei estej inform
+
+permit elabor extrat document par divulg intern public mediant autoriz formal gestor inform autor competent excet quand express ved document original
+
+permit apen part red intern desktop virtual cas acess document eletron
+
+par acess inform precis identific autentic
+
+cop
+
+quand indispens reproduca tod part cop dev mesm grau confidencial document original
+
+sempr proced cop precis execut integrant grup acess scann tipograf impressor oficin grafic tal oper dev acompanh pessoal formal design pel unidad custodiant solicit realiz cop
+
+cop impressa dev mant mesm rotul inform original
+
+transport
+
+transport extern intern excet quand inviavel tecnic dev feit mei eletron obrigatori adot criptograf
+
+cas transport extern intern papel mid criptograf deves utiliz envelop lacr cuj violaca sej detect
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+document eletron dev exclu maneir impossibilit recuper mei softwar par remoca segur ex fil shredd
+
+document papel armazen cddvd dev destru mei fragment
+
+cop tempor document digitaliz dev descart tao log venc praz retenca dev
+
+descart document histor conform definica portariatcu
+
+
+
+
+
+classific inform quant confidencial
+
+inform ultrassecret
+
+aspect ger
+
+descrica
+
+inform imprescind seguranc sociedad estad term resolucaotcu
+
+praz maxim restrica acess
+
+anos prorrog igual period
+
+competente par classific
+
+membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+obrigatori instal tcu apen equip corporat
+
+obrigatori ambient compartilh pesso estranh grup acess
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul inform maneir apropri mei apresent
+
+receb
+
+verific grau confidencial inform
+
+rotul inform maneir apropri mei apresent conform grau verific respeit classific atribu orig cas classific inform sej aderent lei acess inform autor competent pel classific dev realiz conversa par classific correspondent tcu conform previst resolucaotcu
+
+quand necess emissa recib inser paragrafopadra constant comun seguranc inform portal tcu
+
+quand receb mediant instrument cooper inser paragrafopadra constant comun seguranc inform portal tcu
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+document papel mid receb terceir criptograf dev armazen cofr
+
+arquiv eletron armazen local ex comput notebook disposit removiv ex pendriv cd smartphon dev criptograf
+
+armazen servidor soluca dev criptograf observ regr defin grup acess
+
+acess
+
+permit grup acess observ praz restrica defin ato classific
+
+permit pesso necess conhec inform
+
+permit pesso legal autoriz
+
+necess manutenca histor acess log independent mei estej inform
+
+permit elabor extrat document par divulg intern public mediant autoriz formal gestor inform autor competent excet quand express ved document original
+
+permit apen acess local part red intern cas acess document eletron
+
+par acess inform precis identific autentic
+
+cop
+
+proib impressa reproduca cop eletron excet cas excepcion autoriz gestor inform
+
+quand autoriz reproduca tod part cop dev mesm grau confidencial document original
+
+quand autoriz cas proced cop precis execut integrant grup acess scann tipograf impressor oficin grafic tal oper dev acompanh pessoal formal design pel unidad custodiant solicit realiz cop
+
+cop impressa dev mant mesm rotul inform original
+
+transport
+
+transport extern intern excet quand inviavel tecnic dev feit mei eletron obrigatori adot criptograf
+
+cas transport extern intern papel mid criptograf deves utiliz envelop lacr cuj violaca sej detect
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+document eletron dev exclu maneir impossibilit recuper mei softwar par remoca segur ex fil shredd
+
+document papel armazen cddvd dev destru mei fragment
+
+cop tempor document digitaliz dev descart tao log venc praz retenca dev
+
+descart document histor conform definica portariatcu
+
+
+
+
+
+classific inform quant confidencial
+
+inform pessoal
+
+aspect ger
+
+descrica
+
+inform respeit intim vid priv honr imag pesso bem liberdad garant individu
+
+praz maxim restrica acess
+
+anos
+
+competente par classific
+
+dirigent unidad tecnic colegi secret tcu secretariosger membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+preferencial dependencia tcu
+
+produz apen equip corporat
+
+preferencial ambient compartilh pesso estranh grup acess
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul inform maneir apropri mei apresent
+
+receb
+
+verific grau confidencial inform
+
+rotul inform maneir apropri mei apresent conform grau verific respeit classific atribu orig cas classific inform sej aderent lei acess inform autor competent pel classific dev realiz conversa par classific correspondent tcu conform previst resolucaotcu
+
+quand necess emissa recib inser paragrafopadra constant comun seguranc inform portal tcu
+
+quand receb mediant instrument cooper inser paragrafopadra constant comun seguranc inform portal tcu
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+document papel mid receb terceir criptograf dev armazen armari gavet chav
+
+arquiv eletron armazen local ex comput notebook disposit removiv ex pendriv cd smartphon dev criptograf
+
+armazen servidor soluca dev criptograf observ regr defin grup acess habilit
+
+acess
+
+permit grup acess observ praz restrica defin ato classific
+
+permit pesso necess funcional conhec inform
+
+permit pesso legal autoriz
+
+permit terceir mediant consent express pesso refer inform
+
+necess manutenca histor acess log independent mei estej inform
+
+permit elabor extrat document par divulg intern public mediant autoriz formal gestor inform autor competent excet quand express ved document original
+
+permit apen part red intern desktop virtual cas acess document eletron
+
+cop
+
+quand indispens reproduca tod part cop dev mesm grau confidencial document original
+
+sempr proced cop precis execut integrant grup acess scann tipograf impressor oficin grafic tal oper dev acompanh pessoal formal design pel unidad custodiant solicit realiz cop
+
+cop impressa dev mant mesm rotul inform original
+
+transport
+
+transport extern intern excet quand inviavel tecnic dev feit mei eletron obrigatori adot criptograf
+
+cas transport extern intern papel mid criptograf deves utiliz envelop lacr cuj violaca sej detect
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+document eletron dev exclu maneir impossibilit recuper mei softwar par remoca segur ex fil shredd
+
+document papel armazen cddvd dev destru mei fragment
+
+cop tempor document digitaliz dev descart tao log venc praz retenca dev
+
+descart document histor conform definica portariatcu
+
+
+
+
+
+
+classific inform quant confidencial
+
+inform sigil
+
+aspect ger
+
+descrica
+
+inform enquadr hipotes sigil previst legislacion especif tal natur fiscal banc relacion oper servic merc capit proteg sigil comercial profissional industrial segred justic aquel relat denunc
+
+praz maxim restrica acess
+
+obedec praz estabelec legislacion especif
+
+competente par classific
+
+dirigent unidad tecnic colegi secret tcu secretariosger membr mptcu relator president colegi tcu
+
+control administrat tecnolog
+
+produca
+
+preferencial dependencia tcu
+
+produz apen equip corporat
+
+preferencial ambient compartilh pesso estranh grup acess
+
+classific inform propor classific autor competent par inform tenh sid previ classific
+
+rotul inform maneir apropri mei apresent
+
+receb
+
+verific grau confidencial inform
+
+rotul inform maneir apropri mei apresent conform grau verific respeit classific atribu orig cas classific inform sej aderent lei acess inform autor competent pel classific dev realiz conversa par classific correspondent tcu conform previst resolucaotcu
+
+quand necess emissa recib inser paragrafopadra constant comun seguranc inform portal tcu
+
+quand receb mediant instrument cooper inser paragrafopadra constant comun seguranc inform portal tcu
+
+ofici requisica dev cont paragrafopadra constant comun seguranc inform portal tcu
+
+armazen
+
+document papel mid receb terceir criptograf dev armazen armari gavet chav
+
+arquiv eletron armazen local ex comput notebook disposit removiv ex pendriv cd smartphon dev criptograf
+
+armazen servidor soluca dev criptograf observ regr defin grup acess habilit
+
+acess
+
+permit grup acess observ praz restrica defin ato classific
+
+permit pesso necess funcional conhec inform
+
+permit pesso legal autoriz
+
+necess manutenca histor acess log independent mei estej inform
+
+permit elabor extrat document par divulg intern public mediant autoriz formal gestor inform autor competent excet quand express ved document original
+
+permit apen part red intern desktop virtual cas acess document eletron
+
+par acess inform precis identific autentic
+
+cop
+
+quand indispens reproduca tod part cop dev mesm grau confidencial document original
+
+sempr proced cop precis execut integrant grup acess scann tipograf impressor oficin grafic tal oper dev acompanh pessoal formal design pel unidad custodiant solicit realiz cop
+
+cop impressa dev mant mesm rotul inform original
+
+transport
+
+transport extern intern excet quand inviavel tecnic dev feit mei eletron obrigatori adot criptograf
+
+cas transport extern intern papel mid criptograf deves utiliz envelop lacr cuj violaca sej detect
+
+descart
+
+observ norm gesta documental refer praz guard document
+
+document eletron dev exclu maneir impossibilit recuper mei softwar par remoca segur ex fil shredd
+
+document papel armazen cddvd dev destru mei fragment
+
+cop tempor document digitaliz dev descart tao log venc praz retenca dev
+
+descart document histor conform definica portariatcu
+
+
+
+
+
+
+
+
+
+
+
+

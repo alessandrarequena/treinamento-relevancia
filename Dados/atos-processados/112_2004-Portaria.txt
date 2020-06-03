@@ -1,0 +1,9641 @@
+port
+
+
+
+president tribunal cont unia exercici competente leg regiment
+
+
+
+
+
+consider determin tcu constant ultim edica lei diretriz orcament sent encaminh congress nacional setembr cad ana inform referent obras public integrant orcament geral unia
+
+
+
+consider necess orient equip unidad tecnicoexecut envolv elabor inform sobr obras public mod aprimor padroniz diminu numer duv inconsistente geraca trabalh relat sistem fiscaliz obras public fiscobr
+
+
+
+
+
+consider alter propost pel decisa plenari modific impost pel lei julh ldo bem sugesta apresent pel secret control extern secret fiscaliz obras patrimoni unia secret tecnolog inform resolv
+
+
+
+
+
+fic aprov manual sistem fiscobr form anex dest port
+
+
+
+compet secret fiscaliz obras patrimoni unia secob mant atualiz sistem fiscobr manual bem esclarec duv receb sugesta vist aperfeico fiz necessari
+
+
+
+
+
+est port entr vigor dat public
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+republic said omissa btcu normal abril pagin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov manual sistem fiscobr
+
+anex unic
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brasil abril
+
+
+
+
+
+
+
+apresent manual fiscobr
+
+
+
+
+equip fiscaliz obras public cont pel segund ana consecut sistem fiscobr web aperfeico test implant
+
+
+
+vist diss trabalh decorr maneir mais estavel relatori auditor mais encaminh congress nacional dentr praz lei
+
+
+
+
+
+par implement alter sistem decorrent nov disposit ldo demand provenient gabinet ministr relator aperfeico carat geral suger pel unidad tecnic secob setec
+
+
+
+princip modific list segu
+
+
+criaca enquadr automat indici irregular apont pel equip ldo defin princip situaca ocorrente dess indici novidad inclu indici passivel paralis obr falt registr contrat conveni siasg
+
+
+nov relatori auditor vis contempl solicit eman assessor gabinet ministr relator
+
+
+criaca rad camp acord par manifest diretor secretari cas concord propost encaminh equip auditor
+
+
+criaca folharesum relatori auditor vis sintetiz princip inform referent fiscaliz
+
+
+adapt modul levant auditor par receb inform referent outr fiscaliz obras modul ofo
+
+
+adapt modul levant auditor par receb inform referent fiscaliz metodolog reform modul reform
+
+
+acrescim histor fiscaliz process referent obr fiscaliz exercici anterior
+
+
+revisa list padroniz indici irregular vis melhor caracteriz indici
+
+
+criaca tel edital par abrang cas aind houv assinatur contrat obr licit pod apont indici irregular process licitatori
+
+
+
+pel expost atualiz manual tornas fundamental trat ferrament consult dev dispon equip envolv fiscaliz obras tribunal
+
+
+
+valm campel
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modul i
+
+
+levant auditor
+
+
+introduca
+
+
+princip caracterist
+
+
+padroniz conceit
+
+
+tip linguag
+
+
+interfac instruca process
+
+
+uso camp observ
+
+
+uso camp esclarec adicion equip
+
+
+uso list fiscobr
+
+
+roteir naveg
+
+
+equip necessari
+
+
+naveg sistem preenchiment camp
+
+
+selecion fiscaliz
+
+
+acess fiscaliz
+
+
+menu principal
+
+
+atualiz dad basic
+
+
+atualiz projet basic pb
+
+
+atualiz execuca fisic
+
+
+atualiz execuca financeiraorcament
+
+
+atualiz cronogram desembols
+
+
+atualiz contrat
+
+
+atualiz conveni
+
+
+atualiz indici irregular
+
+
+divergente classific indici irregular entr ministrorelator unidad tecnic acess exclus secob
+
+
+atualiz fotograf
+
+
+edital preench aind houv contrat assin par licit
+
+
+inser edital
+
+
+edital preench
+
+
+analis inconsistente
+
+
+atualiz process inter
+
+
+apel
+
+
+conclusa
+
+
+emissa relatori
+
+
+relatori impress folharesum
+
+
+conteud tel
+
+
+levant auditor
+
+
+conceit
+
+
+empreend
+
+
+levant auditor
+
+
+plan trabalh pt
+
+
+dat inici
+
+
+dat termin
+
+
+process
+
+
+identific obr
+
+
+conceit
+
+
+importanc socioeconom
+
+
+preenchiment
+
+
+importanc socioeconom
+
+
+observ
+
+
+princip verific
+
+
+projet basic
+
+
+conceit
+
+
+projet basic
+
+
+projet s basic s abrang m tod obr simna
+
+
+observ divergente significat entr projet basicoexecut construca ger prejuiz tecnic financeir empreend
+
+
+exig licenc ambiental
+
+
+possu licenc ambiental
+
+
+dat elabor
+
+
+preenchiment
+
+
+princip verific
+
+
+execuca fisic
+
+
+conceit
+
+
+dat vistor
+
+
+descrica execuca realiz dat vistor
+
+
+realiz
+
+
+situaca empreend dat vistor
+
+
+dat inici
+
+
+dat previst par conclusa
+
+
+preenchiment
+
+
+princip verific
+
+
+execuca financeir orcament
+
+
+conceit
+
+
+mesan primeir dotaca orcament
+
+
+valor estim par conclusa
+
+
+origens recurs
+
+
+calendari desembols
+
+
+preenchiment
+
+
+princip verific
+
+
+contrat princip
+
+
+conceit
+
+
+contrat principal
+
+
+situaca inicial
+
+
+situaca atual
+
+
+preenchiment
+
+
+princip verific
+
+
+contrat secundari
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+conveni
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+codig siasg
+
+
+fotograf
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+conclusa
+
+
+indici irregular
+
+
+parec
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+propost
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+process inter
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+esclarec adicion equip
+
+
+conceit
+
+
+preenchiment
+
+
+princip verific
+
+
+comentari fin
+
+
+pts mesm numer mesm obr uos diferent
+
+
+pts referent ativ projet
+
+
+analis inconsistente comentari
+
+
+emails envi pel secob verific relatori
+
+
+obras rodov ferrov adutor linh transmissa etc
+
+
+inclusa indici irregular pel secretari apont pel equip
+
+
+import dad relatori anterior
+
+
+perf
+
+
+quadr nlo decret legislat
+
+
+comentari sobr cust obras eletr
+
+
+ldo sinap
+
+
+respons
+
+
+indici irregular
+
+
+anex levant auditor
+
+
+anex i list padroniz indici irregular grav exempl
+
+
+anex ii list padroniz indici outr irregular exempl
+
+
+anex iii list tip obras
+
+
+anex iv fotograf
+
+
+modul ii
+
+
+levant process
+
+
+introduca
+
+
+tel preenchiment
+
+
+acess modul
+
+
+menu sistem produca
+
+
+selecion levant process tel inicial
+
+
+selecion levant process tel complet
+
+
+process
+
+
+atualiz process obr
+
+
+consult apel obr opca exclus secob
+
+
+seleca apel privat secob
+
+
+consult program trabalh
+
+
+indici irregular
+
+
+inclusa indici irregular
+
+
+relatori dispon par secob
+
+
+emissa relatori dispon par secob
+
+
+relatori preench dispon par secob
+
+
+modul iii
+
+
+decret legislat inspeca
+
+
+introduca
+
+
+roteir naveg
+
+
+acess modul
+
+
+associ inspeca apel obr
+
+
+consult apel obr
+
+
+import dad auditor anterior
+
+
+selecion inspeca
+
+
+selecion inspeca
+
+
+menu principal
+
+
+atualiz contrat inspeca
+
+
+atualiz contrat situaca atual dat inspeca
+
+
+atualiz conveni
+
+
+atualiz conveni situaca atual dat inspeca
+
+
+atualiz outr inform
+
+
+relatori impress part
+
+
+relatori impress part
+
+
+homolog
+
+
+relatori
+
+
+modul iv
+
+
+outr fiscaliz obras public ofo
+
+
+introduca
+
+
+roteir naveg
+
+
+conteud tel
+
+
+modul v
+
+
+reform
+
+
+introduca
+
+
+comentari
+
+
+roteir naveg
+
+
+conteud tel
+
+
+anex reform
+
+
+anex reform acess siasg
+
+
+anex reform orient ger
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+
+modul i
+
+
+
+
+
+levant auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+introduca
+
+
+
+
+objet
+
+
+
+sistem fiscobr principal objet fornec congress nacional inform recent sobr execuca fisicofinanceir obras constant orcament fiscal segur social invest estat inclusiv mei magnet conform comand cont ldos desd inform vis subsidi apreci pel pod legislat propost orcament execut proxim exercici cri condica par avali mais criteri aloc recurs public obras
+
+
+
+alem diss sistemat levant inform referent obras public mais relevant ger conjunt inform contribu par transparente aca govern segment extrem sensivel invest obras relatori fin sid disponibiliz pel cam deput sit
+
+
+
+
+ressaltes subit decisa determin tod trabalh fiscaliz contempl objet obras public sej cadastr sistem fiscobr raza pel present trabalh inclu modul levant auditor levant process decret legislat reform outr fiscaliz obras ofo
+
+
+
+
+
+princip caracterist
+
+
+
+
+
+padroniz conceit
+
+
+
+
+destinatari final fiscobr congress nacional integr parlament mais divers formaca profission necessari conceit utiliz sistem sej padroniz mod reduz possibil interpret divers par mesm situaca ess motiv princip conceit explicit item
+
+
+
+
+tip linguag
+
+
+
+
+sistem destin ultim analis utiliz pel sociedad linguag utiliz fiscobr dev men tecnic possivel
+
+
+
+
+
+destaques aind pel fat hav limit fisic camp disponibiliz congress nacional extern necessari exercit concisa principal ness camp equip dev procur aters essenc fat
+
+
+
+cab esclarec final codific utiliz basic orcament sistem baseias lei orcament anual loa aprov par exercici vis subsidi elabor loa exercici seguint acord dispo respect ldo
+
+
+
+
+
+
+
+
+
+interfac instruca process
+
+
+
+
+relatori fiscobr utiliz especific par prest inform congress par instruca process hav necess elabor relatori levant auditor complement relatori eletron par trabalh sej execut cri ond necessari camp esclarec adicion equip extensa ilimit qua pod feit esclarec encaminh desej
+
+
+
+camp visualiz apen pel secex cad visualiz apen pel secob pel gabinet ministr send disponibiliz par qualqu outr usuari propost final equip assinatur encaminh process pel secretari est pod justific eventu discordanc quant posicion equip faz part dess camp disponibiliz conclusa item
+
+
+
+dess mod relatori complet tcu relatori complet part integrant process relatori sintet expurg tod esclarec adicion equip bem nom component equip respons pel homolog verific encaminh congress nacional mei magnet alem dess cri relatori resum versa aind mais compact relatori sintet tamb envi congress papel
+
+
+
+destaques congress nacional acess inform camp esclarec adicion equip inform outr camp dev permit complet entend situaca obr
+
+
+
+
+
+important
+
+
+
+
+acord fevereir deu nov redaca revog regiment intern tribunal pod const relaca process relat entr outr acompanh obr public determin pel leis diretriz orcament orcament unia cas process sistem fiscobr
+
+
+
+process dev tramit par ministr relator verific secob observ respeit relatori complet
+
+
+
+
+
+
+uso camp observ
+
+
+
+
+formulari eletron utiliz sistem fiscobr desenh par empreend padra entant obras auditor sempr enquadr ness padra raza pel recomendas uso camp observ par agregarems inform important par compreensa relatori principal part parlament ess camp lid pel congress nacional
+
+
+
+cit camp encontras dispon maior tel sistem excet indici irregular ond pod utiliz camp justificat par adicion inform relevant
+
+
+
+
+
+
+
+
+
+
+
+
+uso camp esclarec adicion equip
+
+
+
+
+
+
+est camp dev utiliz apen par trat assunt inter intern tribunal apen relatori complet auditor integr soment aut cont log congress nacional acess est camp
+
+
+
+divergente entend posicion entr participant auditor dev mencion nest camp remissa folh process fisic
+
+
+
+destaques part camp esclarec adicion retir cham dad cadastr dad basic projet basic execuca fisic execuca financeir cronogram desembols edital contrat conveni
+
+
+
+
+
+uso list fiscobr
+
+
+
+
+tod anos quand realiz auditor obras public vis inform congress nacional cri list discussa geral denomin list fiscobr xxxx ana corrent
+
+
+
+recomendas inscrica ness list tod envolv fiscaliz obras public sistem fiscobr inclusa list pod feit diret pagin secob intranet deslig
+
+
+
+
+
+roteir naveg
+
+
+
+
+equip necessari
+
+
+
+
+
+
+conform inform setec microcomput impressor normal disponiv secex suficient par oper sistem fiscobr par faz digitaliz fot precis dispor scann cam digital par melhor trabalh inserca fotograf consult anex v fotograf
+
+
+
+
+naveg sistem preenchiment camp
+
+
+
+
+efetu login red entrar intranet tcu sigaweb digit login usuari senh sig abres tel sig menu sistem
+
+
+clic fiscobr clic levant auditor
+
+
+clic atualiz auditor obr
+
+
+abres tel segu
+
+
+
+important
+
+
+sistem permit acess usuari cadastr respect process processus fiscal item
+
+
+b tel cont instruca resum naveg consulte
+
+
+
+
+
+
+
+destaqu
+
+
+
+
+
+
+
+
+fiscobr tod aplic web trabalh conceit sessa entrar sig web cad usuari receb sessa par trabalh sessa permanec dispon enquant usuari estiv utiliz sistem entant minut inativ ess sessa elimin questa seguranc otimiz servidor
+
+
+portant cas usuari permanec mesm tel durant mais minut sem clic bota inser grav volt pesquis etc aind proced digit dad sistem cair perdendos tod dad digit naquel mei hor fundamental usuari estej atent ess caracterist par refaz trabalh
+
+
+
+comand volt avanc atualiz ir par menu principal aparec maior tel seguint funca
+
+
+volt retorn tel anterior
+
+
+avanc abr proxim tel sem grav aquil digit
+
+
+atualiz grav inform digit
+
+
+ir par menu principal volt par menu principal
+
+
+portant desnecessari coment funca dess comand tel aparec
+
+
+
+cas cai link regional cas usuari desej trabalh sistem fora tribunal acess sit tcu wwwtcugovbr clic sig abres tel inicial usuari entr login senh sig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+selecion fiscaliz
+
+
+
+
+
+
+
+
+digit numer fiscaliz numer process numer pt
+
+
+outr opca selecion secex dentr secex selecion escolh pt auditor
+
+
+selecion pt abres tel segu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acess fiscaliz
+
+
+
+
+
+
+clic numer fiscaliz esquerd par acess tel sistem
+
+
+abres tel fiscobr fiscaliz obras abaix cont menu principal sistem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu principal
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz dad basic
+
+
+
+menu principal clic dad basic
+
+
+abres tel atualiz dad basic disponibiliz camp importanc socioeconom observ
+
+
+
+obs fiscobrasweb dad referent fiscaliz equip dat inici dat termin etc inclu sistem fiscal pel secob quand cadastr fiscaliz equip auditor precis preocup ess cadastr
+
+
+
+proced inclusa alter desej clic atualiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz projet basic pb
+
+
+
+menu principal clic projet basic
+
+
+abres tel atualiz projet basic solicit inform projet basic abrang tod obr abrang tod obr exist
+
+
+
+
+
+
+
+clicandos exist avanc abres nov tel tel segu
+
+
+
+
+
+
+
+
+
+
+
+
+
+caracterist projet basic
+
+
+
+tel abaix respond pergunt clic avanc abrindos possibil inclu observ esclarec adicion equip justific cas inexistente pb
+
+
+clic
+grav
+par salv inform digit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+caracterist projet basic
+
+
+tel abaix expor raza inexistente projet basic cas haj justificat inform respect indici irregular grav lanc pel equip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+caracterist projet basic
+
+
+
+tel inicial projet basic clicandos abrang tod obr abrang tod obr avanc abres tel segu
+
+
+marc opca exig licenc ambiental obr possu licenc ambiental solicit mais inform est sujeit eia estud impact ambiental est ultim inform assinal sistem apresent pergunt segu med mitig estabelec pel eia send implement tempestiv
+
+
+
+
+clicandos avanc abres tel segu
+
+
+
+
+
+
+
+
+
+
+atualiz projet basic tel resum
+
+
+
+
+
+
+
+
+
+
+opca
+
+
+volt
+
+
+inser list abres tel segu propici preenchiment camp dat elabor databas cust obr descrica objet observ esclarec adicion
+
+
+alter alter inform preench listag inser desd sej assinal projet basic alter
+
+
+
+retir list exclu inform preench listag dess inform opca inser par efetu ess exclusa deves marc projet basic exclu
+
+
+grav tod inform obs inform grav est bota acion
+
+
+
+
+
+
+
+inser projet basic
+
+
+
+clic inser list
+
+
+abres tel abaix
+
+
+
+
+
+preench dad solicit
+
+
+clic inser list
+
+
+
+
+
+
+
+
+
+
+
+inser projet basic preench
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz projet basic telaresum preench
+
+
+
+
+
+
+
+
+
+
+
+tel atualiz projet basic reaparec projet basic inclu
+
+
+clic grav tod inform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz execuca fisic
+
+
+
+menu principal clic execuca fisic
+
+
+abres tel atualiz execuca fisic send solicit inform dat vistor descrica execuca realiz dat vistor situaca dropdown dat inici dat previst par conclusa percentual realiz observ
+
+
+preench camp clic atualiz
+
+
+clicandos atualiz gravams inform alter inser
+
+
+
+
+
+
+
+
+
+
+
+obs cas obr estej paralis indic observ raza dess paralis ex obr paralis falt licenc ambiental
+
+
+
+
+
+
+
+
+
+
+atualiz execuca financeiraorcament
+
+
+
+menu principal clic execuca financeiraorcament
+
+
+abres tel atualiz execuca financeiraorcament
+
+
+preench mesan primeir dotaca orcament valor estim par conclusa observ
+
+
+clicandos grav aparec mensag oper realiz sucess cas inform tenh sid aceit pel sistem clic volt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz cronogram desembols
+
+
+
+menu principal clic cronogram desembols
+
+
+abres tel atualiz cronogram desembols
+
+
+preench orig recurs dropdown ana desembols valor orcad valor liquid valor credit autoriz moed default real
+
+
+clicandos inser inclu
+grav
+inform preench
+
+
+clicandos retir selecionandos origens aquel inform exclu
+
+
+clicandos alter possivel modific inform existent
+
+
+
+
+
+
+
+obs houv moed determin exercici sistem inser automatic cas tenh hav mais ana clic dropdown moed escolh unidad monet adequ
+
+
+
+
+
+
+
+
+
+atualiz contrat
+
+
+
+menu principal clic contrat
+
+
+abres tel atualiz contrat
+
+
+
+
+
+
+
+clic inser abres tel subsequent opca preench inform contrat princip contrat secundari
+
+
+
+obs usuari dev inser indici irregular contrat quand estiv trabalh nest tel detalh item
+
+
+regr dev cadastr tod contrat inclusiv encerr cas pts referent ativ obras caracterist continu pod exclu contrat encerr entr dat conclusa ultim relatori dat conclusa relatori atual
+
+
+
+
+
+escolh tip contrat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz contrat princip
+
+
+
+tel anterior clic contrat principal avanc
+
+
+abres tel abaix clic pesquis empres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz contrat princip
+
+
+
+abres tel pesquis pesso jurid segu
+
+
+
+preench cnpj nom part nom empres pesquis
+
+
+clic pesquis
+
+
+cas cnpj dess empres estej corret sistem apresent nom empres camp result pesquis log abaix
+
+
+clic selecion
+
+
+
+
+important
+
+
+
+cas cnpj digit estej incorret sistem dar mensag err process cnpj inval bse cnpj digit pertenc empres cadastr possu cnpj cas empres estrangeir sistem emit mensag empres cadastr possu cnpj ness cas clic cadastr empres item
+
+
+
+
+
+
+atualiz contrat princip
+
+
+
+clic selecion aparec tel abaix dev preench dad numer contrat modal licit origin contrat situaca inicial situaca atual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cadastr empres
+
+
+
+sistem emit avis empres cadastr cnpj inexistent volt par tel atualiz contrat princip clic ir par cadastr empres cadastr empres contrat
+
+
+
+clic cadastr empres
+
+
+preench dad solicit
+
+
+cas trat consorci cadastr cnpj nom consorci clic consorci inform nom empres component consorci tel contrat
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz contrat princip situaca inicial
+
+
+
+clicandos avanc entras tel segu
+
+
+preench descrica objet dat assinatur contrat dat inici vigenc dat termin vigenc valor inicial contrat volum inicial servic databas unidad med dropdown condica inici reajust numer siasg ana siasg uasg par identific siasg
+
+
+clic avanc voltas par tel atualiz contrat princip
+
+
+duas opca clic grav ness ultim tel dev aparec mensag oper realiz sucess clic situaca atual ness mesm tel avanc sistem disponibiliz tel situaca atual par preenchiment eventu alter relaca situaca inicial item
+
+
+
+obs i cust unitari result calcul efetu pel sistem divid valor inicial contrat pel volum inicial servic ii cas contrat tenh numer inform sem numer par caracteriz fornec inform
+
+
+
+
+
+
+obs ldo determin orga entidad integrant ogu disponibiliz siasg inform referent contrat conveni firm iii defin falt dess cadastr dev consider indici irregular grav categor p equip dev propor correspondent audienc respons mais detalh sobr assunt item
+situaca inicial preench
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+situaca atual preench
+
+
+
+
+
+obs dev preench dad sofr alter relaca situaca inicial
+
+
+
+
+b cas tenh hav acrescim decorrent term adit superior tal fat tenh sid apont indici irregular grav esclarec observ
+
+
+
+c mensag oper realiz sucess clic list contrat par retorn ess list inser nov contrat princip
+
+
+
+
+
+
+
+
+
+
+atualiz contrat secundari par ess tip contrat inclu inform sobr situaca atual
+
+
+
+
+tel atualiz contrat clic contrat secundari avanc
+
+
+abres tel atualiz contrat secundari
+
+
+
+
+
+
+preench descrica objet numer contrat valor total contrat situaca atual contrat dropdown dat inici vigenc dat termin vigenc dat rescisa contrat dat bas contrat numer siasg ana siasg uasg par identific siasg observ
+
+
+obs par cadastr empres clic pesquis empres sistem vai par tel descrit item proced part dai
+
+
+
+clic grav
+
+
+
+
+cas cnpj empres contrat estej cadastr banc dad tribunal sistem aceit cnpj digit encaminh usuari par menu sistem sig web sigamenu sistem produca levant auditor dev clic cadastr empres contrat contrat princip
+
+
+
+atualiz contrat secundari preench
+
+
+
+
+
+
+
+mensag oper realiz sucess clic list contrat par retorn ess list inser nov contrat secundari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz conveni
+
+
+
+menu principal clic conveni
+
+
+abres tel atualiz conveni disponibiliz inser alter retir indici irregular volt
+
+
+
+
+
+
+clicandos inser abres tel segu
+
+
+
+
+
+
+
+
+
+
+atualiz conveni
+
+
+
+
+
+preench descrica objet dat assinatur situaca conveni dropdown dat rescisaosuspensa numer siaf dat inici vigenc dat termin vigenc valor total conveni cnpj concedent cnpj convenent observ
+
+
+clic atualiz
+
+
+
+obs
+
+
+cas cnpj convenent concedent estej cadastr sistem imped preenchiment tel usuari dev contat adcon par providenci ess cadastr
+
+
+cas conveni tenh numer siaf digit sem numer respect camp lanc correspondent indici irregular cas explic situaca observ
+
+
+
+
+
+
+
+
+atualiz conveni preench
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz indici irregular
+
+contrat conveni
+
+
+
+tel atualiz contrat princip secundari conveni clic indici irregular
+
+
+abres tel atualiz indici irregular abaix
+
+
+
+
+
+
+marc irregular grav outr irregular dropdown tip irregular list padroniz par cad tip dropdown are ocorrente cas contrat conveni espac vem preench duas opca vis garant vincul entr indici contratoconveni descricaofundament descrev indici tec comentari necessari inform disposit leg infring
+
+
+
+importantissim
+
+
+cas exercici anterior tenh sid registr indici irregular grav categor p determin contrat conveni obr etc equip dev mant ess classific relatori atual aind opinia equipediretorsecretari exist raza par ess indici tenh classific alter iss porqu ultim posicion tribunal acerc indici aquel inform exercici anterior apen cab propri tribunal deliber colegi alter classific anterior
+
+
+
+
+
+cas equip sej opinia classific indici dev alter registr ess posicion camp justificat indic porqu opca
+
+
+
+evident houv deliber tcu alter classific indici saneando entr ultim relatori dat auditor equip dev proced dev alter ness indici indic justificat numer dat deliber
+
+
+
+important exceca par ess cas falt registr siasg consider outr irregular ger determin ldo inclu ess falh igp cas permanec falt registr contrat conveni siasg par classific dev alter oi par igp atend dispo combin ldo
+
+
+
+
+
+
+atualiz indici irregular fora contrat conveni
+
+
+
+menu principal clic indici irregular
+
+
+
+
+
+
+abres tel atualiz indici irregular disponibiliz inclu retir alter volt
+
+
+clicandos inclu abres nov tel dev marc tip indici irregular desej inclu
+
+
+clicandos retir aparec mensag confirm clicandos ok indici exclu
+
+
+par faz modific clic alter
+
+
+
+
+
+
+divergente classific indici irregular entr ministrorelator unidad tecnic acess exclus secob
+
+
+
+
+
+
+
+
+
+
+
+
+cas ministrorelator divirj classific indici irregular adot pel unidad tecnic gabinet ministr dev encaminh email memor secob inform divergente par est secret poss alter respect relatori
+
+
+secob part comunic gabinet ministrorelator entr sistem alter classific inicial indici
+
+
+feit ess alter sistem inscrev cabecalh relatori complet sintet resum classific inicial indici alter despach ministrorelator
+
+
+
+
+
+obs alter classific indici sistem mesm exercici privat secob desd autoriz correspondente especif gabinet ministrorelator process
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz fotograf
+
+
+
+menu principal clic fotograf
+
+
+abres tel atualiz fotograf disponibiliz retir inclu alter visualiz
+
+
+
+obs par otimiz uso fotograf consult anex v fotograf fim dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inclu fot
+
+
+
+clic inclu abres tel segu disponibiliz arquiv fotograf procur ordem apresent dat fotograf legend
+
+
+digit ordem apresent dat fotograf legend lembr legend limit caract
+
+
+
+
+important fot dev grav arquiv tip jpeg bota procur cri caminh par busc fot sistem aceit maxim fot relatori anex v cont sugesta proced par otimiz uso fotograf relatori
+
+
+b quand possivel mostr vist geral obr tres primeir fot
+
+
+
+
+
+
+
+
+
+
+
+
+inclu fot tel preench
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exclu fot
+
+
+
+clic retir tel atualiz fotograf item
+
+
+aparec pergunt confirm exclusa
+
+
+clic ok fot exclu
+
+
+
+
+
+visualiz fot
+
+
+
+
+clic fotograf menu principal
+
+
+clic visualiz fot aparec tel dat ordem apresent legend
+
+
+
+
+
+
+
+
+
+
+
+
+edital preench aind houv contrat assin par licit
+
+
+
+menu principal clic edital aparec tel segu
+
+
+
+disponiv bota inser alter retir indici irregular volt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inser edital
+
+
+clicandos inser abres tel abaix
+
+
+
+important houv contrat assin est tel dev preench ness cas dev preench tel contrat dev registr eventu indici irregular referent licit respect contrat
+
+
+
+
+
+
+
+preench dad solicit clic grav
+
+
+
+
+
+
+
+
+
+
+
+
+edital preench
+
+
+
+
+
+registr indici irregular edit dev feit pel menu principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+analis inconsistente
+
+
+
+conclusa relatori clic analis inconsistente verific incoerente detect pel sistem dev objet ajust proced dev correca lembr avis imped conclusa relatori respeit situaca aparent incoerent depend cas justificat etc pod necessit correca
+
+
+
+observes quand secretari clic bota homolog abrirse par list inconsistente par verifiqu relatori vai receb homolog est condica satisfator especial destaqu dev dad par process inter dev tod cadastr inclusiv process abert exclusiv par relatori exercici
+
+
+sistem pergunt secretari certez quer homolog relatori ess providente vis reduz quantidad cancel homolog feit engan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz process inter
+
+
+
+menu principal clic atualiz process inter
+
+
+abres tel atualiz process inter disponibiliz numanodv inser retir
+
+
+proced autoexplicat
+
+
+
+important
+
+
+absolut imprescind sej inform process andament tribunal trat irregular apont obr objet relatori inclusiv process especial abert par levant auditor entant equip dev analis exist process cadastr encerr apens oultr excluil
+
+
+omissa cadastr process inter pod induz inclusa obr contrat conveni entr aquel bloque embor process exat aquel omit apont indici irregular grav categor p tenh hav decisa definit pel aceit raza justificat respons san indici inicial apont item
+
+
+
+
+
+
+
+
+
+apel
+
+
+
+conceit apel tamb cham obr cri principal seguint objet
+
+
+ligaca entr fiscal fiscobr
+
+
+ligaca entr fiscaliz mesm obr exercici diferent mesm pt pts diferent vist mant histor obr independent descrica numer pt long anos
+
+
+
+ess apel nom reduz program trabalh pt br mg adequ ferna dias trech b mant constant import eventu alter numer descrica pt temp numer fiscaliz fiscal long anos
+
+
+
+sistem lig atribut apel outr fiscaliz
+
+
+
+lig apel conveni contrat cronogram desembols process inter
+
+
+
+lig fiscaliz numer fiscaliz respect ana projet basic execuca fisic execuca orcament indici irregular conclusa
+
+
+
+obs
+
+
+tod oper apel feit soment pel secob
+
+
+cas levant auditor vincul apel pts fiscaliz feit pel secob log aprov seleca obras pel plenari secex dev entrar contat secob par san qualqu problem envolv apel exempl problem eventual pod surg cas impossibil import dad relatori anterior quand certez houv fiscaliz par obr exercici anterior
+
+
+reform par cas fiscaliz in loc dentr metodolog reform necessari entrar contat secob par est providenc vincul obr fiscaliz apel cas ess vincul aind exist solicit dev feit via email secobtcugovbr mencion sugesta apel par contrat bem tip obr referent contrat numer fiscal numer descrica pt numer respect process
+
+
+ofo proced descrit par reform
+
+
+
+
+
+
+
+
+conclusa
+
+
+
+menu principal clic conclusa
+
+
+abres tel atualiz conclusa abaix
+
+
+
+importantissim
+
+
+
+cas haj process exercici anterior trat mesm obr qua apont indici irregular san apur andament levant auditor atual dev mant classific anterior quant irregular apur
+
+
+
+tal providente sum importanc cas equip inclu indici irregular detect ana anterior aind pendent cas haj nov indici relatori inclu entr aquel sem ressalv embor haj indici aind apur
+
+
+cas equip convenc exist fat nov poss san irregular anterior apont dev inform fat camp justificat anex relatori document comprov ess convicca
+
+
+
+exceca cas indici irregular lanc relatori anterior refiras naocadastr contratoconveni siasg classific anterior outr irregular oi ness cas necessari alter classific anterior par igp i ii iii ldo pass consider passivel paralis obr falt registr contratoconveni naquel sistem
+
+
+
+parec est camp nov disponibiliz part destinas dar arremat relatori funcion ligaca entr tud inform anterior relatori propost vira segu parec digit diret fiscobr
+
+
+
+
+propost encaminh part hav tres propost encaminh equip diretor secretari tod digit rad tamb part dispon rad opca acord funcion seguint maneir
+
+
+diretor concord propost equip clic acord camp especif rad
+
+
+secretari concord propost equip clic acord camp especif rad
+
+
+
+obs
+
+
+sistem consid concordanc text igu propost equip cont itens diretor concord quatr discord apen itens dev copi col quatr concordanc digit rad discordanc
+
+
+sistem reconhec diretor anal cadastr supervisor auditor port fiscal cas haj supervisor cadastr propost diretor dev inclu hav correspondente fiscal
+
+
+cas discordanc discord dev explic raza discord esclarec adicion equip
+
+
+relatori sintet resum vao par congress nacional cont posicion secretari relatori complet vai par aut process cont tres propost encaminh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emissa relatori
+
+
+
+
+menu principal clic visualiz relatori levant auditor
+
+
+abres tel emissa relatori levant auditor abaix
+
+
+escolh tip relatori desej ex pdf complet sem fot ressaltes opca msword privat assessor ministr relator secob
+
+
+
+
+
+
+obs impressa relatori complet inclu folharesum
+
+
+
+
+
+
+
+
+
+
+
+
+relatori impress folharesum
+
+
+
+
+escolh tip relatori folharesum clic visualiz impressa
+
+
+relatori visualiz tel
+
+
+clic arquiv imprim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relatori impress relatori complet
+
+
+
+
+seguindos proced anterior clicandos relatori complet abres ess relatori
+
+
+clic arquiv imprim
+
+
+
+
+
+
+
+
+homolog
+
+
+
+
+
+
+menu principal clic homolog
+
+
+abres tel analis inconsistente segu
+
+
+
+
+
+
+
+cas eventu inconsistente necessit ajust proced dev correca clic homolog
+
+
+primeir homolog secob faz verific cas detect inconsistente encaminh email inconsistente secex ess email automatic cancel homolog habilit relatori par eventu ajust conclu ajust secretari dev homolog nov relatori
+
+
+cas proced estej corret aparec mensag oper realiz sucess
+
+
+
+important homolog opca privat secretari substitut eventual devid design port especif
+
+
+
+
+
+
+
+
+conteud tel
+
+
+
+
+levant auditor
+
+
+
+
+
+conceit
+
+
+
+
+empreend
+
+
+
+par efeit sistem fiscobr empreend constitu pel conjunt obr projet especific tod dem requisit torn possivel execuca obr gast elabor projet consultor vigilanc limpez par obr faz part gast empreend
+
+
+
+
+levant auditor
+
+
+
+trabalh auditor referent pts selecion anual par inform congress nacional enquadr sistem fiscal auditor conform levant
+
+
+
+depend indici levant equip pod propor propri aut auditor propri dit objet aprofund investig indici apont ess auditor dev aprov pel ministrorelator
+
+
+
+important evit autu process represent par promov nov fiscaliz aprofund auditor mod evit grand numer tcs trat mesm obr
+
+
+
+
+plan trabalh pt
+
+
+
+conceit orcamentari plan trabalh agreg codig dezesset algar letr divid cinc part funca subfunca program projetoativ subtitul exempl segu val par orcament
+
+
+
+pt ond
+
+
+
+funca cas transport
+
+
+subfunca cas transport rodoviari
+
+
+program cas corredor mercosul
+
+
+projet cas construca acess rodoviari corredor mercosul
+
+
+subtitul cas br sc joinvill
+
+
+ess codific cham funcionalprogramat
+
+
+
+
+
+codific classific funcional programat denomin pt defin pel ministeri planej pod sofr alter exercici par outr
+
+
+
+pts receb letr funcionalprogramat ex construca ampliaca molh port rio grand
+
+
+
+
+dat inici
+
+
+
+dat defin respect port par inici planej levant auditor
+import sistem fiscal
+
+
+
+
+
+dat termin
+
+
+
+dat defin respect port par termin elabor relatori levant auditor
+import sistem fiscal
+
+
+
+
+
+obs est dat sum importanc cas hav igp apont relatori part del cont dias secex par encaminh relatori ministrorelator inclu dias secob gast par faz verific dias ministrorelator par despach process encaminhal secex dias president decorr trint anterior par comunic constat indici irregular congress nacional
+
+
+important equip atent par necess adiament termin auditor cas auditor tenh praz final oficial alter fiscal praz cont part dat original encerr relatori pod ger atras comunic cn
+
+
+
+
+process
+
+
+
+cadastr sistem fiscal autuaca process emissa port
+
+
+
+
+
+predefin empreend auditor vist inform congress nacional secob encaminh setec respect relaca cont numer pt descrica pt apel obr ana orcament numer unidad orcament nom unidad orcament valor dotaca exercici nom unidad respons tcu atribut default praz planej praz trabalh camp praz relatori equip etc
+
+
+
+setec cadastr fiscal dad encaminh pel secob
+
+
+
+segecex encaminh memor secexs solicit sej feit adequ dad cadastr pel setec
+
+
+
+secexs faz dev adequ
+
+
+
+adfis ger relatori sistem fiscal cont dad sobr fiscaliz feit par atend dispost ldo
+
+
+
+
+
+adfis anex ess relatori process quadr abaix trat plan auditor encaminh ess process ministr relator
+
+
+
+
+
+ministr relator submet list fiscaliz aprov plenari
+
+
+
+aprov plenari adfis lib execuca fiscaliz pel secexs
+
+
+
+quand efetiv inici trabalh secexs cadastr port par cad fiscaliz
+
+
+
+iss secexs fic habilit autu respect process process par cad fiscaliz encaminh futur respect relator conform clientel
+
+
+
+
+relev salient soment autu process fiscaliz cadastr fiscobr permit acess equip ess sistem
+
+
+
+
+
+
+
+important
+
+conform mencion anterior abertur process especif autu process geral pel adfis submet aprov plenari relaca obras auditor par inform congress nacional ess process relator sorte acord dispo regiment intern relator submet plenari relaca obras aprov envi respect unidad tecnic fim levant auditor secob encaminh process relator elabor relatori vot plenari reun pel segund prolat respect deliber ess relatori junt vot respect acorda encaminh congress nacional
+
+
+
+
+
+
+identific obr
+
+
+
+
+conceit
+
+
+
+
+importanc socioeconom
+
+
+
+referes relevanc obr impact soci econom region eou nacion
+
+
+
+
+
+preenchiment
+
+
+
+
+
+
+item
+
+
+
+
+importanc socioeconom
+
+
+
+preench form resum limitandos princip aspect
+
+
+camp limit caract
+
+
+
+
+observ
+
+
+
+inform existente eventu sobreposica outr pts bem outr comentari julg relevant pel equip
+
+
+
+inform fiscaliz refer decret legislat congress nacional sem dat decorr inclusa obr quadr vii loa
+
+
+
+
+exempl situaca atip
+
+
+
+
+
+
+mais pt send fiscaliz par mesm obr
+
+nest cas equip dev escolh pt part criteri defin inclu nel
+
+tod
+
+inform referent obr ness pt camp observ dev registr numer dem pts existent par aquel obr pts restant inform dad relat obr apen resum proced adot constant camp observ importanc socioeconom inclu numer dem pts vincul obr indici irregular apont dev lanc
+
+tod relatori tod pts
+
+referent obr
+
+
+
+
+
+
+
+mais pt par mesm obr send apen fiscaliz
+
+inclu relatori tamb tod inform referent pt fiscaliz inform numer dest explicit tod inform acerc pts encontr relatori pt fiscaliz
+
+
+
+
+
+
+
+mais obr par pt
+
+tratas
+
+pts gener
+
+abrig var obras geral funca praz inviabiliz quas sempr vistor tod sugeres secex
+
+
+
+
+obtenh junt executor inform
+
+tod
+
+obras compo pt lancando sistem
+
+
+
+
+fac levant auditor amostrag selecion duas obras cust mais elev outr criteri secex ess criteri dev explic relatori
+
+
+
+
+cas pts manutenca rodov terceiriz exist divers contrat dentr vari trech rodov ex manutenca terceiriz rodov mat gross sul
+
+
+
+
+
+
+pts guardachuv
+
+cham porqu geral abrig inum obras cust individu pouc significat exempl construca escol estad paul pod envolv quinhent escol orient item segu
+
+
+
+
+
+
+pts mesm nom mesm numer unidad orcament diferent
+
+ness cas escolh uos faz tod lancament relatori dess uo indic relatori outr uo feit preench ess segund relatori condica norm ess tip situaca dev ocorr
+
+
+
+
+
+
+pts mesm numer
+
+referent
+
+obras diferent
+
+registrous ess cas obras quadr vii numer pt referent loa outr hav receb sof numer ident loa mg outr rn ness cas tratal pts independent preench integral respect relatori faz respect observ mod possibilit entend complet situaca
+
+
+
+
+camp limit caract
+
+
+tratament dad pts guardachuv
+
+
+
+conceit considerams pts guardachuv aquel cont divers obras geral divers contrat cuj distribuica geograf inviabiliz vistor tod obras component bem inserca dad tod obras sistem
+
+
+
+par ess tip pt segu seguint orient
+
+
+visit visit duas obras consider mais relevant criteri material eventu indici irregular denunc inform etc
+
+
+
+b dad inser fiscobr alem dad referent duas obras visit obter junt gestor dad referent mais obras desd ess proced sej consider exequ equip decidira quant dev solicit obras consider amostrag pt bas andament dess obras inform percentual execut med ponder valor execut contrat inform valor estim par conclusa projet basic etc
+
+
+
+c cronogram desembols inform cronogram desembols pt obtid siaf transaca consultorc
+
+
+
+d importanc socioeconom indic importanc socioeconom pt cad obr individual
+
+
+
+obs cas pt vari contrat par mesm obr ex rodov br rr tev vari contrat tod concentr mesm rodov numer limit obras ex estabelec pen estad paul compost obras var cidad inform tod contrat mesm visit sej apen
+
+
+
+important utiliz camp observ par fornec leitor visa adequ est send inform relatori par registr qua contratosobr efetiv fiscaliz pel equip
+
+
+
+
+princip verific
+
+
+
+
+
+
+important
+
+importanc socioeconom procur obvi prolix alem diss sistem limit preenchiment caract
+
+
+
+
+
+
+
+projet basic
+
+
+
+
+conceit
+
+
+
+
+projet basic
+
+
+
+acord lei conjunt element necessari suficient nivel precisa adequ par caracteriz obr servic complex obras servic objet licit elabor bas indic estud tecnic prelimin assegur viabil tecnic adequ tratament impact ambiental empreend possibilit avali cust obr definica metod praz execuca dev cont seguint element
+
+
+
+pratic plant orcament cronogram laud tecnic especific cadern encarg etc
+
+
+
+important
+
+
+acord segecex abaix unidad tecnic dev dispens especial atenca analis projet basic utiliz par licit execut objet auditor dev sempr examin possibil responsabiliz autor prejuiz erari
+
+
+
+segecex
+
+
+
+
+fic orient unidad tecnicoexecut segecex sent quand realiz auditor dispens dentr possivel atenca especial projet utiliz par licit execut objet audit dev examin sempr responsabil autor possiv prejuiz caus erari
+
+
+
+
+par maior inform sobr projet basic sugeres consult roteir disponiv pagin secob
+
+
+
+
+projet s basic s abrang m tod obr simna
+
+
+
+
+
+autoexplicat cas obras irrig cuj port duraca geral torn convenient divisa obr etap dess mod pod hav projet basic apen par etap hav par dem fat dev inform observ
+
+
+
+
+
+not possivel hav mais projet basic obr ex edifici administr licit tres etap estrutur alven instal embut acab par cad dess etap dev hav projet basic especif b implant rodov divid dois trech
+
+
+
+
+
+
+observ divergente significat entr projet basicoexecut construca ger prejuiz tecnic financeir empreend
+
+
+
+
+assinal cas exist divergente significat material eou reflex cust final obr ness cas esperas registr correspondent indici irregular
+
+
+
+
+
+eventu diferenc raza aceit verific entr pb execuca dev registr arrol indici irregular
+
+
+
+
+
+
+exig licenc ambiental
+
+
+
+acord conam regulament lei lei localiz construca instal ampliaca modific oper empreend ativ utiliz recurs ambient consider efet potencial poluidor bem empreend capaz qualqu form caus degrad ambiental depend previ licenci orga ambiental competent sem prejuiz outr licenc legal exigiv est estabelec sujeit licenci ambiental empreend ativ relacion anex i entr encontrams rodov ferrov hidrov metropolitan barragens diqu can par drenag retific curs agu abertur barr embocadur can transposica bac hidrograf outr obras tamb const transport carg perig transport dut marin port aeroport termin mineri petrole deriv produt quimic deposit produt quimic produt perig entr outr
+
+
+
+destaqu equip dev consider tip licenc exig pel legislacion funca estagi obr licenc prev licenc instal licenc oper cas haj pendenc explicit licenc faltant respect legislacion
+
+
+
+
+
+
+
+possu licenc ambiental
+
+
+
+
+
+licenc ambiental fornec pel orga ambiental estadual pel institut brasileir mei ambient recurs renov ibam pel orga ambiental municipal ness ultim cas dev ouv quand coub orga competent unia estad df ond situ municipi localiz empreend
+
+
+
+
+cas empreend sej potencial causador significat degrad ambiental exiges estud impact ambiental eia par concessa licenc prev acord conam
+
+
+
+
+definica responsabil criteri basic diretriz ger par uso implement eia regulament conam
+
+
+med mitig
+
+
+
+equip respond pergunt exig licenc ambiental sistem apresent duas outr pergunt possu licenc ambiental est sujeit rim
+
+
+
+respond pergunt referent rim apresentas pergunt abaix
+
+
+
+med mitig estabelec pel estud impact ambiental eia send implement tempestiv
+
+
+
+
+
+
+not conam determin eia definira med mitig impact negat provoc pel ativ modific mei ambient med mitig entendams aquel destin minimiz impact ambient negat decorrent determin ativ mei prevenca compens etc
+
+
+
+
+
+par respond ess pergunt deves primeir verific empreend est sujeit realiz estud impact ambiental eia cas negat assinal respost empreend sujeit eia
+
+
+
+
+hipotes empreend sujeit eia
+
+
+
+obter gestor cop seca eia inform tod med mitig dev implement durant execuca obr
+
+
+
+obter gestor list med mitig execut par mitig impact ambient negat caus pel obr
+
+
+
+verific entr list med mitig apresent eia qua implement pel gestor
+
+
+
+verific camp efet implement pel men tres med mitig list mencion item criteri seleca dess tres med recomendas roteir visit estabelec pel equip par cad obr importanc impact ambiental obr grau domini equip sobr assunt mei ambient facil acess inform correlat
+
+
+
+
+
+
+
+cas bas roteir acim sej detect indici irregular respond afirmativ pergunt detect pel men med execut marc marc respost inform camp observ criteri adot lanc indici irregular eventual encontr respect propost encaminh rad
+
+
+
+
+
+
+dat elabor
+
+
+
+dat conclu elabor projet basic cas projet basic tenh sofr revisa inform dat revisa feit relat ess fat observ
+
+
+
+
+
+
+
+
+
+
+
+cust obr
+
+
+
+cust obr previst projet basic cust elabor projet basic cas obr sej divid etap inform cust referent respect etap
+
+
+
+
+
+databas
+
+
+
+
+dat ref prec utiliz elabor orcament cust obr
+
+
+
+
+
+preenchiment
+
+
+
+
+item
+
+
+
+
+
+princip verific
+
+
+
+
+
+
+verific
+
+
+
+
+houv lancament indici irregular correspondent naoexistente projet basic justificat quant ess fat pex obr inici fas licit aind sem sid conclu projet basic
+
+
+
+databas valor inicial posterior dat elabor projet basic
+
+
+
+dat elabor projet basic posterior dat assinatur contrat
+
+
+
+tip obr x obrigatoriedad licenc ambiental conam
+
+
+
+exist indici irregular correspondent falt projet basic relat
+
+
+
+exist indici irregular referent falt licenc ambiental est relat
+
+
+
+cust obr est compat execuca orcament valor
+
+
+estim par conclusa valor contratu
+
+
+
+maior dess verific feit pel sistem cas list analis inconsistente localiz menu principal
+
+
+
+
+
+
+
+
+
+execuca fisic
+
+
+
+
+conceit
+
+
+
+dat vistor
+
+
+
+dat conclusa vistor obr
+
+
+descrica execuca realiz dat vistor
+
+
+
+decorr vistor obr analis document dispon resum aquil execut utiliz princip component obr eou percentu relaca total obr
+
+
+exempl estrutur alven terraplenag cap asfalt
+
+
+camp limit duzent caract
+
+
+
+
+realiz
+
+
+
+percentual realiz pod calcul part cronogram fisicofinanceir somams fatur correspondent medica realiz prec inici calculas percentual correspondent ess som relaca total orcament tamb prec inici
+
+
+cas sej possivel calcul dess form utiliz quantitat fisic realiz relaca total obr ex rodov km extensa est km total conclu alem diss km encontrams terraplenag conclu restant km nad feit percentual realiz ness cas considerous terraplenag conclu equival cust obr
+
+
+
+
+
+important cas trat pts cont duas mais obras calcul percentual realiz referent pt tod utiliz aspect financeir bas ex pt abrig duas obras rodov cust r milha execut rodov b cust r milha execut execut pt x x
+
+
+
+cas pts ativ guardachuv quantidad muit grand obras pt proced seguint maneir
+
+
+percentual execut dev calcul bas contrat andament somams valor fatur cad contrat prec inici divides ess som pel valor total contrat andament
+
+
+
+situaca empreend dat vistor
+
+
+
+preench opca disponiv dropdown andament paralis inici conclu
+
+
+
+
+
+dat inici
+
+
+
+dat inici obr elabor projet houv outr pts exercici anterior inform dat inici referent pt mais antig preenchiment obrigatori excet par obr inici
+
+
+par ess efeit servic prelimin destin possibilit inici obr propri dit tamb consider obr ex topograf marcaca obr desmat limpez terren consider obr projet estud prelimin consultor projet
+
+
+dat previst par conclusa
+
+
+
+dat estim par conclusa empreend projet obras fornec equip supervisa etc pod obtid contrat vigor respect term adit
+
+
+
+equip dev utiliz dad disponiv previsa contrat executor etc estim consider hav futur flux regul recurs andament regul obr part proxim mes estimat equip bem outr inform relevant sobr obtid dat dev registr camp observ
+
+
+
+
+
+par obr andament paralis preenchiment camp obrigatori
+
+
+
+par obras inici conclu camp dat previst par conclusa dev preench
+
+
+
+
+
+exceca
+
+cas obras aind inici projet basic dispon eou contrat construca assin dev preench dat previst par conclusa
+
+
+
+
+cas pts guardachuv gener divers contrat andament tom dat previst par conclusa aquel referent contrat termin mais tard inform relatori
+
+
+cas pts correspondent ativ nitid volt par proced continu inform exercici atual justific trat dess tip pt
+
+
+
+
+preenchiment
+
+
+
+
+
+
+item
+
+
+
+
+
+princip verific
+
+
+
+
+verific
+
+
+
+dat conclusa anterior dat inici
+
+
+
+ana dat vistor diferent ana inform par period auditor
+
+
+
+inform dat conclusa par obr andament paralis
+
+
+
+coerenc entr realiz valor estim par conclusa inform tel execuca financeir orcament segu
+
+
+
+dat inici obr correspond mesm dat inici empreend consider pts exercici anterior inici fas atual obr
+
+
+
+dat inici compat vigenc contrat mais antig
+
+
+
+percentual execut calcul bas orcament obr
+
+
+
+dat previst par conclusa obr x percentual execut
+
+
+
+
+maior dess verific feit pel sistem list analis inconsistente localiz menu principal
+
+
+
+
+
+execuca financeir orcament
+
+
+
+conceit
+
+
+
+mesan primeir dotaca orcament
+
+
+
+referes primeir dotaca receb pel empreend origin ogu ressaltes numer pt pod sofr alter long temp font inform siaf transaca consultorc par orcament fiscal segur social par orcament invest estat font executor
+
+
+
+
+cas obr tenhas inici pt gener exist exercici pt especif par obr consider mesan primeir dotaca aquel correspondent pt especif coment observ ocorr exercici anterior
+
+
+
+
+valor estim par conclusa
+
+
+
+valor gast termin obr valor correspondent percentual constru font inform executor bas contrat vigent term adit firm boa probabil firm estimat equip consider flux regul recurs andament normal obr ness cas inform estimat equip observ valor dev inform moed vigent inclu tod recurs gast par conclu obr projet equip etc inclu recurs liquid ana inclu sald pag referent contrat assin inform observ valor consider
+
+
+cas pt abrig mais obr necessari estim valor par conclusa tod obras abrang pel pt
+
+
+
+cas obr rodov divid trech mais trech encontr litigi dificil soluca are indigen p ex deix ess trech lad explic proced observ
+
+
+
+
+
+important
+
+
+
+
+
+
+cas obr inici sem projet basic inform zer explic porqu observ
+
+
+
+
+
+
+par obras inici projet basic dispon eou contrat construca assin inform valor estim par conclusa
+
+
+
+
+origens recurs
+
+
+
+
+dropdown disponibiliz opca unia estad municipi extern priv outr
+
+
+
+
+
+
+
+important
+
+
+
+
+
+
+recurs organ internacion bid bird etc font dev consider unia
+
+
+
+
+
+
+cas haj emprestim dess organ diret estadosmunicipi consider orig respectiv estad municipi
+
+
+
+
+
+calendari desembols
+
+
+
+
+dropdown disponibiliz preenchiment orig recurs ana valor orcad valor liquid
+
+
+
+
+
+sistem preench moed automatic cas exercici hav apen unidad monet cas exercici mais moed p ex preenchiment dev feit pel usuari
+
+
+
+
+par obras orcament fiscal segur social valor orcad liquid ana ana dev obtid siaf transaca consultorc cas obr deleg conveni considerams liquid valor repass pel concedent cas entidad empres fora siaf considerams liquid exercici valor pag
+
+
+
+
+valor orcad dotaca orcament aloc pt exercici sem deduca acresc
+
+
+
+
+colun credit autoriz dev cont dotaca anual acresc eventu credit adicion deduz cancel credit ocorr exercici cas tenh hav credit adicion cancel repet valor orcad consider par ess efeit contingenci recurs feit pel pod execut
+
+
+
+
+
+cas pt fiscaliz exercici anterior inclu valor part implant real moed corrent pais julh cas pts fiscaliz dad referent cronogram desembols import ness cas inform pod abrang valor anterior julh real usuari dev inform moed cas sistem solicit
+
+
+
+
+
+
+
+
+obs cas empres tip eletrobr alter numer pt long anos inform dotaca atual anterior inform observ pts ref dotaca anterior
+
+
+
+
+preenchiment
+
+
+
+
+
+
+item
+
+
+
+
+
+
+
+princip verific
+
+
+
+
+
+
+verific
+
+
+
+
+ana primeir dotaca orcament coincid primeir ana calendari desembols
+
+
+
+dat primeir dotaca orcament preench permit preenchiment calendari desembols
+
+
+
+valor estim par conclusa compat valor total orcad obtid part valor atualiz projet basic inform executor men parcel correspondent total execut
+
+
+
+valor estim par conclusa liquid compat cust obr estim projet basic
+
+
+
+verific valor liquid valor contrat inclu contrat secundari
+
+
+
+obs procur obter junt gestor valor pag titul reajust registral observ permit verific mais acur
+
+
+
+
+maior dess verific feit pel sistem list analis inconsistente localiz menu principal
+
+
+
+contrat princip
+
+
+
+conceit
+
+
+
+contrat principal
+
+
+
+aquel cuj valor superior valor maior contrat empreend
+
+
+
+consider contrat custe total parcial recurs unia
+
+
+
+situaca inicial
+
+
+descrica objet
+
+
+
+descrica resum objet contrat
+
+
+dat assinatur
+
+
+
+autoexplicat
+
+
+vigenc
+
+dat inici vigenc
+
+
+dat inici vigenc contrat original previst
+
+
+
+
+
+dat termin vigenc
+
+
+
+dat fim vigenc contrat original previst
+
+
+
+
+numer contrat
+
+
+
+numer dad pel executor contrat
+
+
+codig siasg
+
+
+
+codig referent contrat fornec pel siasg ess codig cont original digit send dois primeir indic trat contrat term adit dev inser sistem digit restant
+
+
+adiant obter codig
+
+
+cas uasg estej cadastr mensag sistem uasg inexistent entrar contat adcon par cadastral inform numer nom uasg uasg ug
+
+disposit legal
+
+dispo lei julh ldo
+
+
+
+orga entidad integrant orcament unia dev disponibiliz sistem integr administr servic ger siasg inform referent contrat conveni firm identific respect program trabalh mant atualiz dad referent execuca fisic financeir
+
+
+
+
+orga entidad decid mant sistem propri control contrat conveni dev providenci transferente eletron dad par siasg mantendo atualiz mensal
+
+
+
+
+concedent term ii dest lei dev mant atualiz siasg dad referent execuca fisic financeir contrat correspondent conveni celebr conform inform constant prestaca cont conveni
+
+
+
+
+pagament bens servic contrat diret pel orga entidad pod execut legislat judiciari ministeri public ambit orcament fiscal segur social depend previ registr respect contrat siasg sistem propri dev nest ultim cas efetu transferente eletron dad form dest
+
+
+
+
+entidad constant orcament invest estat dev providenci transferente eletron dad relat contrat firm par siasg form nivel detalh defin junt gestor sistem
+
+
+
+
+tribunal cont unia verific cumpriment dispost nest
+
+
+
+
+tod contrat conveni auditor fiscobr obedec prescrit lei dev cadastr siasg alem diss mesm lei dispo
+
+
+
+
+projet lei orcament anual respect lei pod contempl subtitul relat obras servic indici irregular grav inform pel tribunal cont unia permanec execuca orcament fisic financeir contrat conveni parcel subtrech identific indici condicion adoca med saneador pel orga entidad respons sujeit prev deliber comissa mist trat constituica term dest
+
+
+
+
+
+
+
+
+
+indici irregular grav par fins dest aquel torn recomend comissa trat
+
+
+
+paralis cautel obr servic send material relevant enquadrems seguint situaca entr outr
+
+
+
+
+i tenh potencial ocasion prejuiz significat erari terceir
+
+
+
+
+ii poss ensej nulidad proced licitatori contrat
+
+
+
+
+iii contrat conveni atend dispost dest lei
+
+
+
+
+log cas contrat conveni cadastr siasg equip dev lanc indici irregular grav categor p
+
+
+
+registres naocadastr contrat conveni siasg passivel lancament outr irregular correspondent determin cas equip identifiqu persistente dess indici dev alter indici irregular grav par categor p conform mencion anterior tel respect item
+
+
+preenchiment
+
+
+cab equip solicit gestor respons numer cadastr contrat siasg lancando fiscobr inform fornec pel gestor dev abrang
+
+
+numer uasg mesm numer ug celebr contrat
+
+
+numer contrat digit conform mencion
+
+
+ana contrat
+
+conferente dad
+
+
+
+par confer inform prest pel gestor equip pod acess consult public siasg dispon internet seguint enderec
+
+
+httpwwwcomprasnetgovbr
+
+
+escolh acess livr consult extrat contrat
+
+
+
+
+
+
+
+
+acess contrat cadastr
+
+
+
+cas desej acess contrat cadastr entrar sit
+
+
+httpwwwcomprasnetgovbr
+
+
+
+
+
+important
+
+
+
+
+i conform mencion obrigatori cadastr tod contrat conveni siasg atend ldo
+
+
+
+
+ii ressalt mais cit anterior cas contrat conveni estej cadastr siasg equip dev registr indici irregular grav categor p respect audienc respons ldo iii aind trat indici outr irregular lanc relatori anterior aind pendent
+
+
+
+empres contrat
+
+
+
+raza social empres consorci contrat par execut servic obr cas empres contrat inform cnpj cas consorci empres inform cnpj consorci observ cnpjs empres compo
+
+
+
+modal licit
+
+
+
+
+dropdown disponibiliz concorrente tom prec convit dispens inexigibil
+
+
+
+cas dispens inexigibil inform bas legal lanc indici irregular cas
+
+valor inicial contrat
+
+
+
+valor contrat moed databas propost
+
+
+
+databas
+
+
+
+dat orcament propost refer lei xi
+
+
+
+obs tod contrat anterior real dev pel men term adit conversa moed original real conform determin lei
+
+volum inicial servic
+
+
+
+numer busc represent term glob magnitud obr contrat
+
+
+
+exempl rodov ferrov metropolitan km penitenci m hidreletr mw perimetr irrig obras especi m
+
+
+
+
+par cas contrat par obras complex port inform
+
+aplic
+
+
+
+
+principi segu unidad constant list tip obras
+
+cust unitari
+
+
+
+result divisa valor contrat pel volum servic express moedaun inform
+
+
+
+
+sistem calcul automatic cust unitari necessari equip inform criterios valor contrat volum servic respect unidad sem cust unitari calcul
+
+
+
+condica reajust
+
+
+
+indic resum criteri reajust ex anual colun fgv
+
+
+
+
+transcrev clausul contrat formul reajust etc
+
+
+
+
+
+
+
+
+
+
+
+
+situaca atual
+
+
+
+est tel dev preench cas tenh sid alter condica inici contrat
+
+
+
+
+alter objet
+
+
+
+preench apen cas objet inicial tenh sid alter term adit
+
+
+
+
+numer ultim term adit
+
+
+
+
+
+inform numer ta vigor ultim ta firm
+
+dat assinatur ultim term adit
+
+
+
+inform dat assinatur ta vigor ultim ta firm
+
+vigenc atual
+
+dat inici vigenc
+
+
+
+alter houv repactu contrat alter vigenc inicial fat rar
+
+
+
+
+dat termin vigenc
+
+
+
+alter houv term adit modific dat final contrat
+
+
+valor total contrat
+
+
+
+nov valor contrat inform houv alter decorrent term adit
+
+
+
+trat atualiz valor contratu log som prec inicial valor referent reajust
+
+volum atual servic
+
+
+
+preench apen houv alter volum servic anterior via term adit
+
+
+cust unitari atual
+
+
+
+calcul automatic pel sistem
+
+
+situaca contrat
+
+
+
+important referes cad contrat inclu relatori
+
+
+
+preenchiment via dropdown disponibiliz conclu andament rescind suspens
+
+
+
+
+important cas contrat tenh sid rescind suspens inform observ raza rescisa suspensa
+
+
+
+dat rescisa
+
+
+
+dispon apen houv inform contrat rescind
+
+
+irregular
+
+
+
+hav indici irregular contrat princip acess tel indici irregular dispon tel atualiz contrat dess mod disponibiliz via dropdown indici irregular padroniz conform anex i ii dest manual
+
+descricaofundament
+
+
+
+descrev indici apresent disposit leg infring
+
+
+
+obs par indici irregular grav outr camp justificat dev preench acord descrit irregular grav item segu
+
+
+justificat
+
+
+
+est camp disponibiliz cas irregular grav destin cont justificat pel opca igp igc justificat obrigator par qualqu dess opca
+
+
+important mant coerenc entr propost paralis justificat esperas justificat explicit clar equip optou pel propost paralis pel continu qualqu cas justificat imprescind evident par indici lanc relatori
+
+
+par cas indici lanc exercici anterior aind apur lanc justificat numer tc est send trat indici fas est process localiz atual process
+
+
+
+atent par exceca constitu naocadastr contratoconveni siasg aind pendent lanc justificat
+
+
+indici trat tc encontr fas
+
+
+apes ess indici send trat cit tc outr irregular ldo consid indici irregular passivel paralis obr igp cadastr contrat conveni siasg iii
+
+
+
+alem diss equip dev coloc respons audienc aind indici lanc ana anterior foss passivel epoc apen determin
+
+
+
+
+
+
+
+
+preenchiment
+
+
+
+
+
+
+item
+
+
+
+
+
+princip verific
+
+
+
+
+verific
+
+
+
+adit superior obras reform cas posit justificat aceit decisa p indici irregular
+
+
+valor compativ previst projet basic liquid estim par conclusa
+
+
+prorrog praz conced vigenc contrat
+
+
+obr est andament contrat expir
+
+
+unidad inform est acord list tip obras justificat par inform outr unidad
+
+
+
+maior dess verific feit pel sistem list analis inconsistente localiz menu principal
+
+
+
+contrat secundari
+
+
+
+conceit
+
+
+
+
+
+contrat secundari
+
+
+
+
+par efeit sistem fiscobr aquel contrat cuj valor igual inferior valor maior contrat empreend
+
+
+
+
+vis evit pesquis inform referent contrat valor muit baix dev inform apen contrat valor igu superior r cas registr indici irregular contrat valor abaix r
+
+
+
+
+descrica objet
+
+
+
+descrica resum objet contrat
+
+
+
+
+numer contrat
+
+
+
+numer fornec pel executor contrat
+
+
+
+
+
+
+codig siasg
+
+
+
+
+codig referent contrat fornec pel siasg compost contrat siasg ana referent contrat codig unidad administr servic ger uasg cas obras coincid unidad gestor ug item
+
+
+
+
+
+important
+
+
+
+
+i conform mencion obrigatori cadastr tod contrat conveni siasg atend ldo
+
+
+
+
+ii ressalt mais cit anterior cas contrat conveni estej cadastr siasg equip dev registr indici irregular grav categor p respect audienc respons ldo iii
+
+
+
+
+
+
+
+
+
+vigenc
+
+
+
+
+
+dat inici vigenc
+
+
+
+inform dat inici vigenc contrat geral inalter long temp tenh hav repactu instrument
+
+
+
+dat termin vigenc
+
+
+
+inform dat termin vigenc contrat considerandos ultim term adit firm term adit vigor
+
+
+
+
+
+
+valor total
+
+
+
+valor contrat consider eventu prorrog dev assinatur term adit ness cas consider term adit vigor ultim term adit firm
+
+
+
+trat atualiz valor contratu som valor referent reajust
+
+
+
+
+dat bas
+
+
+
+dat orcament propost origin contrat refer lei xi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+empres contrat
+
+
+
+raza social empres consorci contrat par execut servic obr cas empres contrat inform cnpj cas consorci empres inform cnpj consorci observ cnpjs empres compo
+
+
+
+
+
+indici irregular
+
+
+
+
+hav indici irregular contrat secundari clic indici irregular dispon tel atualiz contrat dess mod disponibiliz via dropdown indici irregular padroniz conform anex i ii dest manual
+
+
+
+observ inform disposit leg fer circunstanc especif etc
+
+
+
+esclarec adicion equip inser comentari destin exclusiv uso tribunal bem remissa document comprobatori inser aut
+
+
+
+
+
+cas equip consig enquadr indici modal padroniz dev contat secob par est providenc cadastr nov indici irregular
+
+
+
+
+
+observ
+
+
+
+camp destin observ sobr situaca atual contrat
+
+
+
+
+preenchiment
+
+
+
+
+item
+
+
+
+
+princip verific
+
+
+
+
+
+
+
+verific
+
+
+
+
+adit superior obras reform cas posit justificat aceit decisa p indici irregular
+
+
+
+valor compativ previst projet basic liquid estim par conclusa
+
+
+
+prorrog praz conced vigenc contrat
+
+
+
+obr est andament contrat expir
+
+
+
+unidad inform est acord list tip obras
+
+
+
+maior dess verific feit pel sistem list analis inconsistente localiz menu principal
+
+
+
+conveni
+
+
+
+
+conceit
+
+
+
+
+conveni assin entr orga entidad feder congen estadu municip par lev efeit construca obras ex conveni entr dner dermg par duplic rodov ferna dias estad min ger
+
+
+
+
+descrica objet
+
+
+
+descrica resum objet conveni
+
+
+
+
+numer conveni siaf
+
+
+
+
+autoexplicat
+
+
+
+
+vigenc
+
+
+
+
+
+dat inici vigenc
+
+
+
+inform dat inici vigenc conveni geral inalter long temp tenh hav repactu instrument
+
+
+
+dat termin vigenc
+
+
+
+inform dat termin vigenc contrat considerandos ultim term adit firm term adit vigor
+
+
+
+situaca conveni
+
+
+
+
+dropdown disponibiliz seguint opca conclu andament extint rescind suspens
+
+
+
+dat rescisa dat suspensa
+
+
+
+disponibiliz apen cas respectiv conveni rescind suspens
+
+
+
+concedent
+
+
+
+autoexplicat
+
+
+
+convenent
+
+
+
+autoexplicat
+
+
+
+valor total
+
+
+
+valor conveni consider eventu alter propici term adit
+
+
+
+trat atualiz valor conveni
+
+
+
+
+irregular
+
+
+
+
+hav indici irregular conveni clic indici irregular dispon tel atualiz conveni dess mod disponibiliz via dropdown indici irregular padroniz conform anex i ii dest manual
+
+
+
+descrica dev inform disposit leg fer circunstanc especif etc
+
+
+
+esclarec adicion equip inser comentari destin exclusiv uso tribunal bem remissa document comprobatori inser aut
+
+
+
+
+cas equip consig enquadr indici tip padroniz dev contat secob par est providenc cadastr nov indici irregular
+
+
+
+
+
+
+observ
+
+
+
+camp destin observ sobr situaca atual conveni
+
+
+
+
+
+preenchiment
+
+
+
+
+item
+
+
+
+
+
+princip verific
+
+
+
+compar valor dotaca valor conveni volum recurs unia previst conveni
+
+
+
+
+codig siasg
+
+
+
+
+conform ldo obrigatori cadastr conveni firm entr administr public federal concedent orga entidad feder estadu municip convenent ldo determin consider indici irregular grav categor p naocadastr
+
+
+
+
+
+important
+
+
+
+
+i conform mencion obrigatori cadastr tod contrat conveni siasg atend ldo
+
+
+
+
+ii ressalt mais cit anterior cas contrat conveni estej cadastr siasg equip dev registr indici irregular grav
+
+
+
+
+categor p respect audienc respons ldo iii
+
+
+
+
+
+fotograf
+
+
+
+
+conceit
+
+
+
+
+aplic
+
+
+
+equip dev prioriz fot deem visa global empreend mostr eventu indici irregular cas possivel tres primeir fot dev mostr vist ger obr evit detalh pouc important sistem aceit maxim fot
+
+
+
+
+preenchiment
+
+
+
+
+item
+
+
+
+
+princip verific
+
+
+
+
+verific fot apresent padra defin anex iv
+
+
+verific cad pagin cont duas fotograf cas entrar contat secob via list fiscobr
+
+
+
+
+
+conclusa
+
+
+
+
+indici irregular
+
+
+
+
+ressaltes par efeit fiscobr web manteves classific val par indici irregular irregular grav outr irregular
+
+
+
+classific subdividems tip padroniz list anex i ii dest manual exempl princip procedeus adequ indici padroniz ocorr realidad result listag mais especif
+
+
+
+
+
+
+irregular grav
+
+
+conceit
+
+
+
+par efeit fiscobr indici irregular grav aquel ensej propost part unidad tecnic relator audienc citaca respons tend indicat tip indici relacion anex i dest manual conform estabelec decisa plenari fevereir acorda plenari
+
+
+par atend dispo ldo prescrev cit decisa acorda fiscobr web mant subdivisa abaix defin indici irregular grav
+
+
+indici irregular grav categor p p paralis obr servic aquel atend ldo estabelec subitens b c d f entr outr item decisa p ger conseguint audienc citaca respons
+
+
+indici irregular grav categor c c continu aquel embor ger audienc citaca respons recomend paralis obr servic
+
+
+obs tant par primeir cas quant par segund indicat tip indici irregular enquadr ness conceit aquel cont anex i dest manual
+
+
+opca classific indici irregular grav prendes dois motiv important
+
+
+tant situaca outr configuras grav infraca norm legal passivel audienc citaca respons raza pel impropri nom grav categor c
+
+
+denomin indici categor c maneir diferent perderse histor indici irregular grav anos registr
+
+
+
+
+
+situaca
+
+situaca
+
+irregular grav ger citaca audienc respons
+
+irregular grav categor p ger citaca audienc respons recomend paralis cautel obr servic
+
+irregular grav categor c ger citaca audienc respons recomend continu obr servic
+
+outr irregular ger determin med corret imediat
+
+outr irregular ger determin med corret imediat eou determin med vis evit repetica falh
+
+falh impropriedad ger determin med vis evit repetica falh
+
+sem ressalv sem indici irregular
+
+sem ressalv sem indici irregular
+
+
+
+
+
+
+
+
+registres quand lei refer paralis cautel obr servic deves interpret
+
+
+obr tod pod paralis
+
+
+contrat result servic pod paralis
+
+
+conveni pod paralis
+
+
+
+
+
+ess interpret vis atend conceitu utiliz pel leis orcament anu loas qua vem inclu desd exercici anex quadr v quadr vii quadr vii quadr vii relacion plan trabalh dev receb recurs enquant sane indici irregular apont colun discrimin itens dev receb recurs feder subtitul contrat conveni parcel subtrech
+
+
+
+cas equip apont indici irregular grav necessari respond pergunt recomend prossegu obr servic qualqu sej alternat adot equip dev preench camp justificat alinh raza escolh outr posicion alem coerenc entr escolh justificat dev inform disposit leg infring baseandos naquel itens tel justificat guard coerenc situaca enfrent
+
+
+
+important atent par coerenc entr opca justificat rar optas igp usams justificat igc
+
+
+
+cas equip consig enquadr indici tip padroniz constant anex i ii dev contat secob par est providenc cadastr nov indici irregular
+
+
+justificat dispon cas indici irregular grav
+
+
+
+est camp destinas basic receb raza pel qua equip optou apont est aquel tip indici cit disposit leg infring eventu comentari auxili compreensa registr indici
+
+
+
+cas obr contrat conveni indici irregular grav categor p lanc relatori exercici anterior aind sem deliber tribunal sane indici equip dev mant classific utiliz anterior cas haj fat nov pod contribu par saneament indici informal nest camp registr posicion equip respeit agreg relatori anex document embas convicca
+
+
+
+inclu observ important sobr situaca atual contrat dev registr comentari sobr term adit relevant entr outr
+
+
+
+houv extrapol obras reform sem justificat legal
+
+
+houv term adit sem reflex financeir cham pel dner adequ alter intern injustific prec quantidad
+
+
+
+
+important explicit clar raza pel escolh igp igc
+
+
+enquadr automat relaca ldo
+
+
+
+cas irregular grav categor p sistem preench enquadr automatic indici tres possivel lancament indici irregular grav enquadr outr situaca cobert pel tres crious sistem iv lanc indici enquadr tres primeir
+
+
+equip dev verific enquadr indici lanc corret cas haj necess ajust contact secob par correca
+
+
+
+
+observ important registr indici irregular grav categor p pod caus paralis flux recurs par obr contrat conveni depend are ocorrente equip consider indici registr determin contrat obr divers contrat aquel corr risc flux recurs paralis dem pod receb recurs normal outr palavr plan trabalh pod const quadr loa proxim exercici apen contrat par registr indici irregular grav categor p afet pel paralis flux recurs pod dem andament normal
+
+
+
+
+indici disponibiliz dropdown
+
+
+
+
+exempl irregular grav
+
+
+
+sobreprec ocorr quand contrat apresent orcament prec nitid superior pratic pel merc
+
+
+
+superfatur valor fatur cobr pel empres pel servic contrat elev compar aquel pratic pel merc par mesm servic quantitat med encontrams superior efetiv execut superfatur implic execuca servic prec elev cobranc dess servic pel empres
+
+
+
+classific igp igc feit pel equip auditor referend pel secretari respect quand homolog
+
+
+
+
+
+
+comentari extra acorda plenari acerc lancament indici irregular categor p c
+
+
+
+
+
+exemplificas segu situaca
+
+material
+
+indiqu convenient recomend paralis obr
+
+
+
+conveniente supondos identific indici superfatur etap construca edifici administrat public potencial dan financeir inferior cust paralis desmobiliz perd servic execut deterior vigilanc etc convenient paralis obr apur irregular construca andament
+
+
+
+
+respeit oportun exempl segu mostr embor convenient paralis obr pod revelars inoportun
+
+
+
+valor possivel prejuiz superior cust paralis obr est encontras servic execut alem diss paralis implic posterg cumpriment final socioeconom ness cas embor convenient paralis obr oportun irregular pod apur servic andament
+
+
+
+
+
+
+
+evident exempl simpl decisa relativ pacif entant pratic cas concret pod tao evident possibil analis equip auditor compar cust presum paralis obr aquel decorrent nov licit eventu indeniz etc par iss deves bas parametr disponiv cust total atualiz obr prec merc percentual execut cust desmobiliz futur mobiliz eou nov licit valor prejuiz potencial caus pel indici irregular identific etc bas ness levant equip dev propor paralis ex
+
+
+
+valor obr r milha
+
+
+
+execut
+
+
+
+valor superfatur r milha fatur est acim prec merc admitindos cerc r milha cust just r milha gast tems r milha r milha r milha
+
+
+
+cust paralis r milha
+
+
+
+
+
+
+
+
+
+consider
+
+
+
+valor gast r milha
+
+
+
+paralis r milha
+
+
+
+total gast r milha
+
+
+
+valor nov licit r milha r milha x x
+
+
+
+total gast nov situaca r r r milha portant menor r milha administr iri gast log ness cas principi recomend paralis
+
+
+
+
+
+
+
+
+
+dess mod avali sej relevant atend material mencion ldo convenient observ dispost decisa p dev faz part trabalh equip auditor val dad disponiv dev analis cas cas indici indici
+
+
+
+
+
+
+
+acord ldo estabelec material indici equip dev analis paralis obr servic recomend tom bas potencial eventu prejuiz erari terceir possibil nulidad licit contrat especific lei outr efeit equip julg pertinent
+
+
+
+
+
+
+
+aind busc interpret lei proveit ressalt duas condica explicit relevanc conveniente independ outr send necessari ocorr conjunt eventual outr condica determinant paralis ex falt condica tecnic execuca obr compromet estabil estrutur equip pod manifestars pel paralis cautel
+
+
+
+
+
+
+
+mesm pretend abord tod possibil ocorrente situaca recomend paralis obr ess taref impratic tal quantidad nuanc ocorr pratic outr lad tamb necessari equip auditor detenh cert nivel flexibil trabalh
+
+
+
+
+
+
+
+objet fornec subsidi analis equip trabalh sistem fiscobr passas exam itens f decisa p
+
+
+
+
+
+
+
+subit item decisa p versus i ldo
+
+
+
+
+subit indag irregular continu obr pod implic prejuiz erari terceir enquant ldo mencion indici dev material relevant caus potencial prejuiz significat erari terceir exempl situaca descrit
+
+
+
+obr licit sem projet basic ger contrat construca r milha projet feit med obr avancav orcament feit bas parametr mer estim quand obr estav execut valor previst par obr tod tinh sid gast tratas cas tipic material relevant potencial prejuiz significat erari
+
+
+
+
+
+
+
+subit b item decisa p versus ii ldo
+
+
+
+
+ess subit decisa argu irregular pod ensej nulidad process licitatori propri contrat quas coincid palavr ii ex
+
+
+
+administr licit obr projet basic inadequ infring dess mod lei cc mesm ensej nulidad proced licitatori
+
+
+
+
+
+
+
+subit c item decisa p
+
+
+
+
+
+
+
+
+
+subit c abrang embarg obr pel pod public raza falt document obrigator exig orga govern ex
+
+
+
+falt alvar construca
+
+
+
+falt licenci ambiental
+
+
+
+falt licenc aeronaut cas construca proxim aeroport
+
+
+
+
+
+
+
+subit d item decisa p
+
+
+
+
+ess subit abord particip contrat irregular ex
+
+
+
+corrupca ativ exerc pel contrat sobr comissa licit
+
+
+
+conlui
+
+
+
+
+
+
+
+subit item decisa p versus ldo
+
+
+
+
+ess subit trat especific relevanc material indici aspect tamb abord ldo desenvolv titul c dest relatori frises importanc material caracteriz indici poss conduz paralis cautel obr
+
+
+
+
+
+
+
+subit f item decisa p
+
+
+
+
+ess subit abord questa conveniente tamb coment itens anterior
+
+
+
+
+list caus potenci cit ldo exaust subitens list item decisa p tamb agreg inform important relatori sugeres
+
+list titul ajud analis subitens f
+
+sistem fiscobr web par cas enquadr ldo equip posicion respeit daquel itens f abrang diret assunt exam bem pod acrescent outr inclu cit listag
+
+
+
+
+
+
+
+
+
+sistem disponibiliz dois camp par possibilit inserca dess justificat eventu esclarec adicion equip
+
+
+
+
+
+
+transcrica acim vis auxili equip definica categor indici irregular grav
+
+
+
+
+
+ressaltes obrigatori posicion acerc itens f disponibiliz sistem important estabelec clar ligaca entr raza alinh categor indici irregular grav escolh p c
+
+
+
+preenchiment
+
+
+
+apont indici irregular grav contrat principal contrat secundari conveni sistem traz automatic par ess camp inform referent cad indici apont item
+
+
+
+
+
+detect indici irregular grav fora contrat conveni equip dev entrar menu principal indici irregular acion dropdown selecion indici apont comental espac abert par ess fim
+
+
+
+
+cas haj process tramit apont indici irregular grav referent empreend respect registr dev feit nest camp const numer process numer contrat irregular apont providente propost situaca atual contrat
+
+
+
+
+
+princip verific
+
+
+
+aplic
+
+
+
+
+
+
+
+
+outr irregular
+
+
+conceit
+
+
+
+par efeit fiscobr indici outr irregular aquel conceitu decisa p acorda p list anex ii disponibiliz via dropdown dev camp
+
+preenchiment
+
+
+
+apont indici outr irregular contrat principal contrat secundari conveni sistem traz automatic par est camp indici numer contrat conveni numer contrat siasg respect comentari acerc indici apont item
+
+
+
+
+detect indici outr irregular fora contrat conveni equip dev entrar menu principal acion bota indici irregular acion dropdown selecion indici apont comental espac abert par ess fim preench are ocorrente obr execuca fisic execuca orcament contrat conveni edital
+
+
+
+
+cas haj process andament apont indici outr irregular referent empreend dev registr nov ess indici inform numer process trat indici bem situaca atual localiz inform dev coloc esclarec adicion equip
+
+
+
+princip verific
+
+
+
+aplic
+
+
+
+parec
+
+
+
+
+conceit
+
+
+
+
+nov camp cri part vis propici equip arremat relatori vis faz ligaca entr trat corp relatori propost encaminh
+
+
+
+
+
+
+preenchiment
+
+
+
+
+camp parec digit diret sistem fiscobr
+
+
+
+
+
+
+princip verific
+
+
+
+
+aplic
+
+
+
+
+propost
+
+
+
+conceit
+
+
+
+
+camp destin registr propost encaminh equip auditor diretor secretari ut fiscobr import text digit rad
+
+
+
+obs cas propost diretor secretari coincid equip disponibiliz acord acion replic propost par camp desej
+
+
+
+
+ressaltes relatori sintet resum par congress nacional cont propost secretari entant relatori complet inclu esclarec adicion equip cont tres propost agreg process fisic encaminh relator acord clientel
+
+
+
+
+divergente
+
+
+
+
+
+considerams divergent propost equip diretor secretari diferent entr
+
+
+
+
+
+exempl cas divergente entr propost equip propost secretari
+
+
+
+
+equip propo audienciacit irregular grav diretor secretari entend cas determin indici outr irregular equip diretor propo determin outr irregular secretari propo audienciacit irregular grav
+
+
+
+equip diretor registr propost rad
+
+
+secretari registr propost divergent rad ess propost ira par congress nacional impress relatori sintet manual item
+
+
+secretari acess relatori fiscobr proced dev alter classific indici irregular
+
+
+secretari equipediretor histor fat justific posicion esclarec adicion equip camp conclusa esclarec integr relatori complet agreg process fisic encaminh relator acord clientel
+
+
+
+
+obs ness fas process necessari rad deix marc opca propost cas contrari sistem tom propost deliber efet lanc relatori auditor fiscobr vai par congress nacional pod ger malentend
+
+
+
+
+
+
+preenchiment
+
+
+
+
+
+important
+
+
+
+
+propost encaminh cadastr rad automatic migr par fiscobr camp reserv par iss
+
+
+
+
+
+
+
+
+
+
+
+
+princip verific
+
+
+
+
+aplic
+
+
+
+
+process inter
+
+
+deliber tcu acerc process inter profer dat inici levant auditor exercici
+
+
+
+
+conceit
+
+
+
+
+process inter tod process tramit tribunal trat indici irregular apont obr objet present levant auditor inclusiv abert exercici exclusiv par propici fiscaliz ana process dev andament apens outr
+
+
+
+
+
+
+important
+
+
+
+process abert exercici especific par permit levant auditor automatic process inter bem process autu exercici anterior vincul pel fiscal fiscaliz exercici corrent
+
+
+analis inconsistente cont item par anal verifiqu lanc process exercici atual process inter
+
+
+
+
+
+preenchiment
+
+
+
+
+feit automatic pel rad med decisa vao send prolat
+
+
+
+
+
+
+
+princip verific
+
+
+
+
+aplic
+
+
+
+
+esclarec adicion equip
+
+
+
+
+conceit
+
+
+
+
+espac reserv observ carat intern bem eventu discordanc secretari relaca posica equip process
+
+
+
+
+preenchiment
+
+
+
+
+item
+
+
+
+
+
+
+princip verific
+
+
+
+
+aplic
+
+
+
+
+comentari fin
+
+
+
+
+pts mesm numer mesm obr uos diferent
+
+
+
+
+
+
+ocorr cas indesej mesm numer pt par duas mais obras mesm objet vari apen unidad orcament recomendas escolh relatori faz ness relatori tod lancament inclusiv respect indici irregular outr relatori inform tod dad send lanc pt outr uo ess aca imped mesm pt integr dupl eventual list obras irregular grav
+
+
+
+
+pts referent ativ projet
+
+
+
+
+aquel pts cuj numer indicat projetoativ quart grup numer entr grup form numer pt item inic algar ex manutenca terceiriz rodov estad mat gross sul
+
+
+
+
+tratament
+
+
+
+tratament dad ess tip pt assemelhas aquel dad pts guardachuv gener trat geral ativ continu equip dev escolh contrat analis apen contrat important inform observ camp dad basic qua contrat objet analis base equip par escolh recomendas escolh contrat andament recemconclu valor mais significat eou aquel par qua dispo inform sobr indici irregular
+
+
+
+percentual realiz
+
+
+
+cas dess pts estim percentual realiz relativ dificil envolv exercici anterior contrat conclu etc sugeres estim ess percentual considerandos percentual execut ponder tod contrat andament ess inform pod obtid executor tod mod explic observ consider simplific adot pel equip par cheg percentual inform
+
+
+
+valor estim par conclusa
+
+
+
+mesm mod valor estim par conclusa pod calcul bas valor pag referent contrat andament mais recomendas agreg ess inform camp observ
+
+
+
+
+
+
+
+
+
+dat previst par conclusa
+
+
+
+
+
+sugeres inform dat termin mais afast dentr contrat vigor nov solicitas inform ess premiss observ
+
+
+
+
+
+analis inconsistente comentari
+
+
+
+
+tel analis inconsistente busc auxili anal diretor secretari propr secob elabor exam relatori mei calcul matemat verific logic result mensagens alert quant aspect aparent inconsistent
+
+
+
+tel simples somav valor contrat princip valor liquid projet basic sem qualqu consider reajust som busc auxili usuari sent verific incongruente entr valor liquid contrat entr cust previst projet basic efetiv liquid etc
+
+
+
+part sistem reajust tod som cit pel sistem debit agregous tamb som contrat secundari vinh send consider depend obr conjunt pod result valor significat
+
+
+
+aplicams reajust valor exercici pass apen deixandos exercici atual valor histor enquant inflaca permanec patam relativ baix contrat reajust part datasbas enquant par valor liquid considerous cad ana databas
+
+
+
+obvi sabes utiliz sistem debit par correca contrat mais divers especi bem valor financeir inser flux caix fictici implic imprecisa entant acreditas valor resultant espelh melhor realidad valor histor vinh send feit
+
+
+
+alertas valor calcul destinams apen constitu referente par analis hipotes adequ par calcul debit superfatur sobreprec etc
+
+
+
+
+atenca
+
+
+
+
+simpl fat sistem inclu inconsistente implic necess correca dess inconsistente cab equip examin cas cas avali inconsistente justific dev corrig justific
+
+
+
+
+
+emails envi pel secob verific relatori
+
+
+
+
+
+
+emails par relatori sem inconsistente
+
+
+
+cas relatori sej verific pel secob consider sem inconsistente secob envi email via sistem comunic fat equip envolv secex correspondent cop par anal secob respons pel verific ess email cancel homolog secretari
+
+
+
+
+emails par relatori inconsistente
+
+
+
+
+
+identific inconsistente relatori verific pel secob est emitira email anex arquiv ajust feit cancel automatic homolog par permit ajust part equip ess email mesm destinatari cit apresent nov paragraf solicit equip comunic secob eventu alter alem daquel propost anex
+
+
+autoriz orga competent par inici obras especif
+
+
+
+atent par cas cert tip obras exig autoriz especif orga competent par inici cas aeroport ministeri aeronaut dev exped autoriz par inici obr
+
+
+
+cas obr disponh dess autoriz lanc respect indici irregular relatori propond encaminh pertinent
+
+
+
+
+
+obras rodov ferrov adutor linh transmissa etc
+
+
+
+
+obras dess tip sugeres equip elabor extrasistem map trech abrang pel fiscaliz ana inclu ness map trech outr obras dentr estad estej send execut outr pts tenh sid fiscaliz anos anterior respect legend
+
+
+
+ess map pod encaminh secob via malot email par auxili analis
+
+
+
+
+
+inclusa indici irregular pel secretari apont pel equip
+
+
+
+
+cas secretari desej inclu nov indici irregular apont pel equip auditor dev fazel normal tom cuid inform esclarec adicion equip camp indici irregular aquel indici lanc secretari raza lev fazel bem disposit leg juiz infring
+
+
+
+ess tip inclusa dev consider divergente entr propost equip secretari est dev justific esclarec adicion equip camp conclusa justificat lev inclu nov indici
+
+
+
+
+
+import dad relatori anterior
+
+
+
+
+sistem permit import dad fiscaliz anterior conceit item
+
+
+
+usuari entr fiscobr levant auditor import dad anterior aparec tel usuari dev preench fiscaliz orig import dad destin fiscaliz ana corrent bem selecion dentr seguint camp aquel interess projet basic execuca fisic contrat situaca atual execuca financeiraorcament dad basic
+
+
+adicional sistem import automatic contrat situaca inicial conveni cronogram desembols process inter desd apel fiscaliz anterior atual sej mesm
+
+
+
+
+important cas haj import indev dad inform secob par sej providenci exclusa dad incorret fat vincul equivocad pt apel ocasion import incorret
+
+
+
+
+
+
+
+perf
+
+
+
+
+par trabalh sistem fiscobr necess concessa perf perfil equip auditor auditor
+
+
+perfil secretari ut secretari
+
+
+secex perf conced pel secretari cas substituica secretariosubstitut haj port designando pod autoconceders perfil secretari unic permit homolog relatori nivel regional
+
+
+oper privat perfil gestor conced servidor secob ess perfil permit exempl oper apel exclusa contrat
+
+
+
+
+
+quadr nlo decret legislat
+
+
+
+
+equip dev inform observ dad basic pt const quadr loa inclu pt cuj flux recurs encontras paralis houv decret legislat respeit ness cas inform numer dl qua providente determin pel decret tcu providente tom lanc indici irregular cas dl tenh sid cumpr
+
+
+
+
+
+comentari sobr cust obras eletr
+
+
+
+
+objet melhor avali cust obras eletr bem cri tribunal banc dad mais adequ par ess tip obr segu orient vis basic obras subest linh transmissa
+
+
+
+avali consistent cust relat servic engenh contrat par construca subest linh transmissa mesm considerandos valor aproxim dev atend seguint
+
+
+volum servic engenh contrat respect valor respect databas dev perfeit defin contrat
+
+
+principi dev separ contrat fornec materi equip contrat servic engenh implic licit distint haj justificat raza par naoparcel obr servic compr term defin pel lei outr disposit leg inexist justificat dev lanc respect indici irregular
+
+
+
+
+obs registr caracteriz obr definica mais detalh objet contrat dev feit conform indic item
+
+
+
+
+important
+
+
+model referente apresent document referente cust par linh transmissa lt subest eletrobr referente simil concession energ eletr pod usad par compar cust projet obras dess tip objet registr refer obs acim propici identific element modul aplic
+
+
+custosreferente sistem fiscobr encontrams disponiv intranet tcu secob obras cust fiscobr setor eletr quadr demonstrat prec obras setor eletr fiscobr linh transmissa linh distribuica subest
+
+
+outr referente cust setor eletr intranet tcu secob cust tabel instituica eletrobr pch bas jan
+
+
+
+
+
+
+
+
+registr dad linh transmissa subest
+
+
+
+cad contrat construca lt dev registr camp esclarec adicion respect tel contrat principal secundari bloc inform defin segu devid preench inform dev obtid executor obr
+
+
+inform par linh transmissa
+
+
+
+caracterist linh
+
+
+tensa linh kv
+
+
+compriment linh km apen abrang pel objet contrat
+
+
+estrutur tip aca autoportant aca estai aca estai convencional madeir naourban concret naourban
+
+
+par circuit simpl dupl
+
+
+numer circuit instal objet contrat
+
+
+numer condutor fas
+
+
+bitol cab condutor awgmcm
+
+
+tip cab pararai aca fibr otic
+
+
+bitol cab pararai poleg
+
+
+b objet contrat construca
+
+
+conjunt servic compreend execuca obras civ montag estrutur instal cab
+
+
+soment part s conjunt servic especific
+
+
+fornec material especific
+
+
+elabor projet execut simna
+
+inform par subest
+
+
+
+caracterist subest
+
+
+modul geral
+
+
+tensa mais alt subest kv
+
+
+are terren m are modul geral abrang pel objet contrat
+
+
+are edific m are modul geral abrang pel objet contrat
+
+
+arranj barr barr simpl barr princip transferente barr dupl barr anel disjuntor mei
+
+
+servic objet contrat especific terraplenag cerc drenag embrit paviment edific servic auxili canteir obras etc
+
+
+
+modul manobr
+
+
+
+tip vao
+
+quantidad vaos nivel tensa
+
+kv
+
+kv
+
+kv
+
+entrad linh
+
+quantidad
+
+quantidad
+
+quantidad
+
+conexa transform
+
+quantidad
+
+quantidad
+
+quantidad
+
+interlig barr
+
+quantidad
+
+quantidad
+
+quantidad
+
+interlig sem disjuntor
+
+quantidad
+
+quantidad
+
+quantidad
+
+
+indic quantidad exclusiv par vaos abrang pel objet contrat
+
+
+
+obs identific modul geral modul manobr pod obtid document referente cust par lts ses eletrobr referente simil concession energ eletr
+
+
+
+b objet contrat construca
+
+
+
+
+
+conjunt servic compreend execuca obras civ montag estrutur equip instal cab simna
+
+
+soment part s conjunt servic especific
+
+
+outr servic engenh especific
+
+
+fornec equip eou material especific
+
+
+elabor projet execut simna
+
+
+
+obs orient adicion pod obtid secob
+
+
+
+
+
+ldo sinap
+
+
+
+
+
+
+
+introduca
+
+
+
+sistem nacional pesquis cust indic construca civil sinap implant banc dad gerenci pel caix econom federalcef propo fornec cust insum servic construca civil atualiz mensal segment habit saneament infraestrutur urban exist dois tip acess public restrit public fornec inform tip cust metr quadr projetospadra orcament analit projetospadra sintes cust indic construca civil unidad feder cust via urban quilometr par acess ambient public entras internet wwwcaixagovbr acess restrit feit mei senh fornec pel cef caminh sig red serpr
+
+
+
+
+
+
+
+
+
+
+
+
+ldo
+
+
+
+ldo estabelec in verb
+
+
+
+
+
+cust unitari materi servic obras execut recurs orcament unia pod superior median daquel constant sistem nacional pesquis cust indic construca civil sinap mant pel caix econom federal
+
+
+
+
+soment condica especi devid justific relatori tecnic circunstanci aprov pel autor competent pod respect cust ultrapass limit fix
+
+
+
+dest sem prejuiz avali orga control intern extern
+
+
+
+
+caix econom federal promov ampliaca tip empreend atual abrang pel sistem mod contempl princip tip obras public contrat especial obras rodovi ferrovi edific saneament barragens irrig linh transmissa
+
+
+
+
+
+
+ldo
+
+
+
+
+ldo inclu quas ident ldo diferenciandos dest apen relaca toleranc fac prec sinap toleranc acim prec sinap mantendos dem ldo equip dev atent par dat assinatur contrat enquadrando outr situaca conform cas contrat assin regems pel ldo contrat assin regems pel ldo
+
+
+
+
+comentari
+
+
+
+constatas portant ldo estabelec limit cust unitari val par licit contrat obras public
+
+
+
+nad imped par exercici anterior equip auditor fac compar prec unitari constant licit contrat fiscaliz prec merc utiliz par ess final referente consagr propri sinap sicr pin etc
+
+
+
+diant constat sobreprecosuperfatur decorrent jog planilh part cust unitari elev part baix mod cust global result inicial razoavel tribunal decid pel naoaceit cust elev par efeit term adit propond utiliz referente tip sinap sicr par ess fim deliber segu exemplific ess tendenc decisa p decisa p decisa p acorda acorda p
+
+
+
+
+
+
+respons
+
+
+
+
+reivindic constant gabinet ministr prendes identific respons par qua propost audienc citaca bem cpfs carg conexa indici relat
+
+
+
+inform nom cnpf obrigator quand lancament audienc rad providencious import dess dad rad par fiscobr crious camp apen relatori complet par receb nom respons cpf
+
+
+
+
+quant carg exerc pel respons epoc indici nex causal entr ess respons indici dev utiliz camp text rad par equip indiqu inform detalh respons
+
+
+
+
+
+
+
+
+
+
+
+indici irregular
+
+
+
+
+
+
+conclusa trabalh fiscaliz obras secob pesquis frequenc indici irregular padroniz eram encontr relatori equip desd ess pesquis demonstr necess alter list indici padroniz par contempl mais adequad aquel frequenc
+
+
+notous tamb indici padroniz constant anex manual fiscobr mostravams excessiv gener send necessari tornal mais especif apropri realidad vinh demonstr entant mant indici gener vis contempl situaca men frequent eventual registr relatori
+
+
+continu val recomend cas equip consig enquadr indici detect entr aquel disponiv dev encaminh email secob par sej estud possibil criaca nov indici irregular busc atend situaca observ
+
+
+observas tamb raza determin cont ldo deliber tribunal inclu itens nov listag cas indici irregular grav categor p igp referent cont iii ldo
+
+
+
+
+
+anex levant auditor
+
+
+
+
+
+anex i list padroniz indici irregular grav exempl
+
+
+
+
+
+
+
+
+irregular grav
+
+
+
+
+
+exempl
+
+
+
+acrescim valor contratual superior limit legal
+
+
+
+
+
+alter indev projet especific
+
+alter oner projet sem justificat
+
+
+
+
+
+substituica oner materi
+
+sem justificat
+
+
+
+
+
+inobservanc projet especific norm sem justificat
+
+
+
+
+
+alter servic especific materi sem justificat
+
+
+
+ausenc cadastr contrat conveni siasg
+
+
+
+
+
+ausenc edital criteri aceitabil prec max
+
+
+
+
+
+contrat sem regul licit
+
+
+
+
+
+deficiente grav fiscalizacaosupervisa
+
+
+
+
+
+deficiente grav control intern
+
+deficiente grav ausenc control execuca conveni contrat obras pel gestor
+
+
+
+desapropri ileg
+
+
+
+
+
+dem irregular grav administr contrat
+
+dem indici irregular administr contrat abrang itens especif demand audienc citaca respons
+
+
+
+dem irregular grav process licitatori
+
+dem indici irregular detect process licitatori abrang itens especif demand audienc citaca respons
+
+
+
+descumpr deliber tcu
+
+
+
+
+
+desvi final
+
+
+
+
+
+desvi objet
+
+
+
+
+
+execucaopag servic previst contrat
+
+
+
+
+
+execuca orcament irregul
+
+empenh superior credit
+
+
+
+
+
+descumpr lei responsabil fiscal
+
+
+
+
+
+desvi recurs par objet distint pt
+
+
+
+irregular grav concernent aspect ambiental
+
+inexistente licenc ambiental licenc prev licenc instal licenc oper conform estagi obr
+
+
+
+
+
+falt eiarim
+
+
+
+
+
+
+
+
+
+
+
+
+
+obras infraestrutur hidric falt outorg exig pel lei certific avali sustentabil obr emit pel ana obras cust superior r milhoesdecret
+
+
+
+irregular grav execuca conveni
+
+
+
+
+
+medicaopag servic realiz
+
+
+
+
+
+modal indev licit
+
+
+
+
+
+obstruca livr exercici fiscaliz tcu
+
+
+
+
+
+pagament fatur sem medica
+
+
+
+
+
+projet basicoexecut deficient inexistent
+
+
+
+
+
+reajust irregul
+
+err indic calcul utiliz clausul reajust edital pagament reajust contrat
+
+
+
+restrica carat competit licit
+
+inclusa edital indic contab consider elev tend restring numer concorrent
+
+inclusa edital exigente tecnic consider descab exager vis favorec determin empres consorci
+
+naoparcel licit quand econom tecnic cabivel
+
+
+
+sobreprec
+
+bdi excess
+
+
+
+
+
+calcul indev bdi
+
+
+
+
+
+superestimat quantitat materi
+
+
+
+
+
+prec unitari elev
+
+
+
+subrog subcontrat irregul contrat
+
+
+
+
+
+superfatur
+
+quantitat execut rea menor contrat pag
+
+
+
+
+
+bdi excess
+
+
+
+
+
+calcul indev bdi
+
+
+
+
+
+superestimat quantitat materi
+
+
+
+
+
+prec unitari elev
+
+
+
+
+
+quantitat superestim
+
+
+
+
+
+reduca servic sem correspondent reduca cust
+
+
+
+
+
+pagament despes permit contrat
+
+
+
+
+
+pagament servic sem respect execuca
+
+
+
+
+
+not fisc quantitat superior aplic
+
+
+
+
+
+observ
+
+
+
+
+
+
+conform decisa plenari acorda p indici irregular grav process obras public aquel ensej propost part unidad tecnic relator audienc citaca respons tend indicat indici relacion nest anex
+
+
+
+acord ldo irregular grav aquel sej recomend paralis cautel obr
+
+
+
+par atend prescrev disposit tribunal estabelec indici irregular grav pod recomend paralis obr cas sej categor p paralis categor c continu constitu grav infraca norm legal dev objet audienc citaca respons cab equip enquadr indici irregular grav categor p c par efeit comunic congress nacional atend aind decisa item tribunal encaminh relatori referent obras indici irregular grav enquadr tant categor p quant c entend situaca part daquel cas pod diverg entend dest cort
+
+
+
+ldo estabelec
+
+
+
+indici irregular grav par fins dest aquel torn recomend comissa trat
+
+
+
+paralis cautel obr servic send material relevant enquadrems seguint situaca entr outr
+
+
+
+
+i tenh potencial ocasion
+
+prejuiz significat erari terceir
+
+
+
+
+
+
+ii poss ensej
+
+nulidad proced licitatori contrat
+
+
+
+
+
+
+iii contrat conveni atend dispost
+
+
+
+dest lei
+
+
+
+
+
+
+
+
+orga entidad integrant orcament unia dev disponibiliz sistem integr administr servic ger
+
+siasg
+
+inform referent contrat conveni firm identific respect program trabalh mant atualiz dad referent execuca fisic financeir
+
+
+
+
+orga entidad decid mant sistem propri control
+
+contrat conveni
+
+dev providenci transferente eletron dad par siasg mantendo atualiz mensal
+
+
+
+
+concedent term ii dest lei dev mant atualiz siasg dad referent execuca fisic financeir contrat correspondent conveni celebr conform inform constant prestaca cont conveni
+
+
+
+
+pagament bens servic contrat diret pel orga entidad pod execut legislat judiciari ministeri public ambit orcament fiscal segur social depend previ registr respect contrat siasg sistem propri dev nest ultim cas efetu transferente eletron dad form dest
+
+
+
+
+entidad constant orcament invest estat dev providenci transferente eletron dad relat contrat firm par siasg form nivel detalh defin junt gestor sistem
+
+
+
+
+
+
+tribunal cont unia
+
+verific cumpriment dispost nest
+
+
+
+
+anex ii list padroniz indici outr irregular exempl
+
+
+
+
+
+
+
+
+
+
+outr irregular
+
+
+
+exempl
+
+
+
+
+
+alter indev projet
+
+
+
+
+
+alter indev execuca obr
+
+
+
+
+
+contrat ilegal maodeobr mei empres interpost
+
+
+
+
+
+contrat venc obr andamentoinconclus
+
+
+
+
+
+
+
+
+
+
+
+deficiente projet
+
+falt registr alter projet
+
+
+
+
+
+falt separ quantitat edific
+
+
+
+deficiente fiscalizacaosupervisa obr
+
+
+
+
+
+deficiente manutencaocontrol bens obras equip
+
+
+
+
+
+deficiente quant document
+
+
+
+
+
+descumpr especific
+
+
+
+
+
+descumpr exigente quant mei ambient
+
+
+
+
+
+execuca servic sem formaliz contratoterm adit
+
+
+
+
+
+falt definica precis condica
+
+reajust
+
+
+
+
+
+impropriedad process licitatori
+
+falt deleg unidad feder par licit obr federal
+
+
+
+
+
+falt justificat clar par inabilit licitant
+
+
+
+
+
+falt minut contrat anex edital
+
+
+
+
+
+falt public tempest extrat contratoadit
+
+
+
+
+
+deficiente public licit
+
+
+
+
+
+inobservanc praz par recurs
+
+
+
+
+
+naoexigente certida negat inss fgts div ativ etc
+
+
+
+
+
+original edital sem dat rubric assinatur
+
+
+
+
+
+valor abus cobr par retir edital
+
+
+
+
+
+ata incomplet
+
+
+
+
+
+deleg irregul competente par ratific dispens licit
+
+
+
+
+
+falt aprov planilh orcament edital pel executor
+
+
+
+inconsistente definica objet
+
+
+
+
+
+incorreca cadastr conveni siaf
+
+
+
+
+
+
+
+incorreca referent garant contrat
+
+
+
+
+
+inexistente document tecnic obr
+
+
+
+
+
+obr conclu falh execuca
+
+
+
+
+
+outr irregular referent execuca orcament
+
+
+
+
+
+pendenc obras conclu
+
+indefinica responsabil pel manutenca
+
+
+
+
+
+obr receb falh execuca
+
+
+
+
+
+projet conclu sem entrar oper
+
+
+
+
+
+falt assistente tecnic
+
+
+
+
+
+falt manutenca compromet objet contrat
+
+
+
+
+
+erosa falt drenag
+
+
+
+
+
+falt pessoal par manutenca
+
+
+
+problem desapropri
+
+
+
+
+
+
+obs exclusa qualqu indici irregular enquadr grav classific outr irregular mais classific falh impropriedad extint acorda p
+
+
+
+anex iii list tip obras
+
+
+
+
+
+
+
+tip obr
+
+unidad
+
+complement
+
+
+
+barragemacud
+
+m
+
+agu acumul
+
+
+
+canal
+
+m
+
+extensa
+
+
+
+diqu
+
+m
+
+extensa
+
+
+
+dragag derroc
+
+m
+
+material drag
+
+
+
+edific hospit
+
+m
+
+are constru
+
+
+
+edific escol
+
+m
+
+are constru
+
+
+
+edific presidi
+
+m
+
+are constru
+
+
+
+edific edifici administrat
+
+m
+
+are constru
+
+
+
+edific outr edifici
+
+m
+
+are constru
+
+
+
+estaca tratament agu
+
+ms
+
+vaza agu trat
+
+
+
+estaca tratament esgot
+
+ms
+
+vaza efluent trat
+
+
+
+ferrov metropolitan trem urban
+
+km
+
+extensa
+
+
+
+adutor
+
+km
+
+extensa
+
+
+
+hidreletr
+
+mw
+
+potenc instal
+
+
+
+hidrov
+
+km
+
+extensa
+
+
+
+irrig
+
+
+
+are irrig
+
+
+
+linh distribuica energ eletr
+
+km
+
+extensa
+
+
+
+linh transmissa energ eletr
+
+km
+
+extensa
+
+
+
+obras especi
+
+m
+
+extensa
+
+
+
+oleodutogasodut
+
+km
+
+extensa
+
+
+
+port
+
+
+
+
+
+
+
+rodov construca
+
+km
+
+extensa
+
+
+
+rodov duplic restaur
+
+km
+
+extensa
+
+
+
+rodov conserv
+
+km
+
+extensa
+
+
+
+rodov restaur
+
+km
+
+extensa
+
+
+
+usin termeletr
+
+mw
+
+potenc
+
+
+
+aeroport
+
+
+
+
+
+
+
+infraestrutur urban
+
+
+
+
+
+
+
+obras especi
+
+
+
+
+
+
+
+subest eletr
+
+mw
+
+depend tip transform chaveament distribuidor etc
+
+
+
+projet especi
+
+
+
+projet petrobr
+
+
+
+obs aplic
+
+
+par avali cust construca consider are equivalent construca defin nbr par avali cust projet consider are real cobert descobert conform defin mesm norm
+
+
+anex iv fotograf
+
+
+
+
+
+trabalh arquiv fotograf
+
+
+par facilit utiliz editor simpl dispon freewar denomin
+irfanview voc pod copial par comput enderec httpsrvaplic tcuwebobrashelpiviewexe
+
+
+escolh opca salv comput escolh past qualqu fac
+download
+
+cliqu program instal iviewexe voc tel est
+
+
+
+
+
+cliqu bota avanc quatr segu deix tud vem predefin depo cliqu botaodon
+program instal voc est pront par trabalh fot
+normal fotograf obras paisagens urban rur fach predi construcoesetc
+est tip fotograf pod tamanh reduz sem afet maneir sensivel signific imag
+precis assinal tamb relatori sistem fiscobr padroniz inser fotograf tamanh diferent ger distorca moment impressa relatori
+dimensa ideal par fot x pixels par melhor visualiz imag par otimiz tamanh imag vai grav transform arquiv vei scann maquin fotograf digital arquiv dimensa
+eis receit bol pass pass utiliz exempl arquiv paisag fiscobr par obter arquiv acess via mod bps sit tcu list obras quadr vii cliqu primeir obr efetu download primeir arquiv fotograf fotograf demor minut par carreg apes grav format jpg arquiv enorm ped irfan visualiz arquiv tamanh original eis fic minh tel
+
+
+
+
+
+
+pod aparec apen nuvens sej tamanh fotograf est adequ par abrir arquiv fotograf irfan verific tamanh est adequ deves proced seguint maneir
+
+
+inicializ irfan
+
+
+
+inici program irfan view irfanview
+
+
+escolh vier not fit anything
+
+
+
+
+
+abrir arquiv imag clic icon
+
+
+
+
+
+
+
+
+
+
+arquiv ocup mais tel est acim tamanh adequ eis ajustal escolh imag resizeresampl
+
+
+
+
+
+
+
+aparec seguint tel opca
+
+
+
+
+
+
+
+vam alter nest tel apen camp new siz est realc figur acim
+vem tamanh atual
+sab tamanh ideal par noss arquiv x preench enta width alter valor height preench automatic pel program present cas quand preench valor width valor height automatic preench portant pixels altur mais noss tamanh ideal
+
+
+
+
+
+clic ok verific result
+
+
+
+
+
+
+
+agor figur proporca bem melhor ocup bem men espac disc
+
+
+
+aind figur proporca ideal pixels altur mais dev
+iss pod resolv
+bast reduz figur cort pedac relevant
+pass pass
+primeir lug selecion part imag permanec
+par iss bast clic mous arrastal not enquant seleca feit possivel acompanh tamanh figur pixels barr superior janel irfan geral azul
+
+
+
+
+nest cas noss seleca x pixels bem proxim ideal
+
+
+escolh seguint opca edit crop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figur segu vem result final
+agor necessari salv arquiv melhor format par ocup menor espac par iss clic icon disquet
+
+
+
+
+
+not possivel tamanh final arquiv barr status irfan nest cas arquiv fic x sej bem proxim ideal x iss garant
+imag sofr minim distorca impressa
+
+
+
+clic icon disquet aparec seguint dialog
+
+
+
+
+
+
+
+selecion tip arquiv jpg cliqu salv aind cliqu bota options
+
+
+
+
+clic options aparec seguint dialog
+
+
+
+
+
+dentr moldur jpeg acim mov pont normal marc par figur acim cliqu ok volt tel anterior salv
+
+
+pront voc imag menor dentr parametr par boa visualiz impressa tant relatori quant internet present exempl tamanh imag reduz kb par kb reduca tamanh original arquiv
+
+
+voc quis apresent detalh fotograf voc pod escan maior depo utiliz tecnic descrit acim par recort apen detalh dandolh destaqu foss fot diferent tenh cuid contud mant tamanh proxim ideal x pixels
+
+
+cas duv envi email par list auditor obras par claitoncstcugovbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+modul ii
+
+
+
+
+
+levant process
+
+
+
+
+
+
+
+introduca
+
+
+
+
+
+ldos vem cont especif par tribunal alem inform referent obras constant orcament anual inform acerc outr obras indici irregular grav constat outr proced fiscalizatori ultim doz mes
+
+
+
+crious dentr sistem fiscobr modul levant process vis cadastr dad sobr obras objet dess outr proced fiscalizatori tratas modul bem mais simpl levant auditor cont numer reduz tel inform sucint respeit obras selecion
+
+
+
+quantidad dess outr proced fiscalizatori muit extens hav secexs mais cinquent process obras andament alem daquel contempl levant auditor definirams criteri segu par process sej inclu modul process dev abert trat obr
+
+
+indici irregular grav tip p paralis apont
+
+
+valor superior r milha
+
+
+conclu agost exercici anterior
+
+
+
+observas condica cumulat pt fiscaliz modul levant auditor dev faz part modul levant process
+
+
+
+trat levant expedit inform dev mais atu possiv secexs apen dev trabalh ness modul fins julh inform dev homolog sistem dat daquel mes secob proced enta consolid inform par envi ministrorelator posterior encaminh congress nacional junt relatori modul levant auditor
+
+
+
+necessari criteri titul ut inform pod obtid via inspeca
+
+
+
+
+
+cas secex tenh process enquadr condica acim aind secretari dev entrar modul homolog levant branc inform inexistente process naquel secret
+
+
+
+segu orient acerc naveg modul conceit observ vis facilit trabalh usuari
+
+
+
+
+tel preenchiment
+
+
+
+acess modul
+
+
+
+
+entrar intranettcu sigaweb login usuari senh sig abres tel sigamenu sistem clic fiscobr levant process
+
+
+abres tel menu sistem produca segu
+
+
+menu sistem produca
+
+
+
+
+
+
+
+
+
+
+
+
+
+clic levant process atualiz levant process abres tel selecion levant process segu
+
+
+
+
+
+
+
+
+
+
+
+
+selecion levant process tel inicial
+
+
+
+
+
+
+
+digit period ana escolh unidad fiscaliz selecion mesm tel log abaix inici aparec dem dad tel segu
+
+
+
+obs cas unidad tecnic apen habilit respect secexs
+
+
+
+
+
+
+
+
+
+
+
+
+
+selecion levant process tel complet
+
+
+
+
+
+tel dispon par secob
+
+
+
+
+
+
+
+
+obs tel acim visualiz apen pel secob
+
+
+
+
+
+
+
+
+
+
+
+
+process
+
+
+
+
+cas region digit period ana clicandos selecion tel descrit item entras diret tel abaix par exercici corrent aparec inicial branc sem process cadastr par exercici curs tod dad dev digit hav possibil import dad relatori anterior cas sej digit ana anterior exercici corrent facultas acess levant pass
+
+
+
+
+
+
+obs
+
+
+primeir secex incluira process compo levant par iss dev clic inser abrindos tel segu opca alter tamb abr proxim tel desd haj process cadastr
+
+
+
+tel acim permit tamb alter process cadastr retir process cadastr homolog levant verific levant inser indici irregular process volt par tel anterior
+
+
+
+ressaltes opca homolog exclus secretari control extern substitut legal cas imped titul opca verific privat secob
+
+
+atualiz process obr
+
+
+
+
+
+
+
+preench camp dad solicit par consult conceit percentual execut valor estim par conclusa consult itens modul levant auditor dest manual
+
+
+
+obs
+
+
+
+par apel encontr list necessari encaminh email par secob sugesta apel descrica pt conform const loa par secob cri nov apel
+
+
+
+mesm cas apel existent vincul feit pel secob acion pel unidad tecnic interess
+
+
+
+
+
+
+consult apel obr opca exclus secob
+
+
+
+
+
+clicandos associ apel obr abres tel segu permit vinculars levant apel existent cas exist apel cadastr secob dev contat par realiz ess associ conform descrit anterior
+
+
+
+
+
+seleca apel privat secob
+
+
+
+
+clicandos opca pesquis tel anterior completas tel
+
+
+usuari dev entrar nom part nom obr obtend obr desejav selecional clic ok apel vincul process
+
+
+
+
+
+
+
+
+
+
+
+consult program trabalh
+
+
+
+
+
+
+
+clicandos tel descrit program trabalh entras tel acim possibilit consult program trabalh cadastr eventual inclusa process est trabalh
+
+
+
+
+obs cas tent inclu pt cadastr sistem permit conform descrit
+
+
+
+
+tecl retir permit exclu pts inclu process
+
+
+acionandos tecl volt retornas tel anterior clicandos grav fic registr dad inser alter
+
+
+
+
+
+
+
+
+indici irregular
+
+
+
+
+clicandos indici irregular tel inicial abres tel segu permit inclu retir alter indici irregular nest cas sempr grav categor p
+
+
+
+
+
+clicandos inclu abres tel segu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inclusa indici irregular
+
+
+
+
+cas levant process dev cadastr aquel indici irregular grav categor p igp abres apen possibil inclusa indici tel abaix
+
+
+
+
+
+
+obs indici apont dev enquadr entr aquel compo dropdown disponibiliz dev selecion are ocorrente contrat conveni projet basic etc justific enquadr igp conform solicit tel acim cont tamb camp esclarec adicion equip par receb eventu inform inter intern tribunal acerc process questa
+
+
+
+conclu preenchiment inform secretari dev proced dev homolog tel inicial
+
+
+
+ess proced secob analis preenchiment proced valid
+
+
+
+ess valid process dev encaminh respect ministrorelator ist porqu valid secob possibil alter relatori part equip
+
+
+
+
+
+relatori dispon par secob
+
+
+
+
+tel abaix selecion opca visualiz relatori
+
+
+
+
+abres tel segu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emissa relatori dispon par secob
+
+
+
+
+
+
+escolh opca clic visualiz impressa
+
+
+
+
+
+
+relatori preench dispon par secob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+modul iii
+
+
+
+
+
+decret legislat inspeca
+
+
+
+
+
+
+
+
+
+
+introduca
+
+
+
+
+ultim anos loas traz anex relacion obras plan trabalh pts contrat conveni cuj recurs orcamentari ultim execuca fisic financeir encontrams bloque par exercici ess bloquei determin part inform fornec pel tribunal congress med constat indici irregular fiscaliz realiz consolid relatori levant auditor realiz ana anterior encaminh congress fins setembr cad ana ess anex tom numer vii
+
+
+
+embor pts relacion ness quadr sej obrigatori objet fiscaliz part tribunal virtud legal cont ldos congress nacional public decret legislat liber execuca obras contrat conveni dand praz tcu par verifiqu implement determin propost pel tribunal quand fiscaliz realiz exercici anterior loa vigent
+
+
+
+par ess verific tribunal determin realiz inspeca cuj relatori dev conclu dias praz determin pel decret legislat inspeca dev foc apen aquel pont identific indici irregular grav tip p determin contrat estiv relacion anex viiilo par dad pt apen ess contrat dev objet inspeca
+
+
+
+acrescas item decisa p defin tod proced fiscalizatori obras public dev cadastr sistem fiscobr raza pel crious modul decret legislat par abrig inspeca decorrent dess decret
+
+
+
+ressaltes qualqu fiscaliz obras public estiv cont modul levant auditor decret legislat dev inclu modul denomin outr proced fiscaliz obras ofo item especif adiant
+
+
+
+
+
+segu abordas naveg tel modul decret legislat inspeca conceit cad camp mesm val par modul levant auditor
+
+
+
+obs acorda p cuj itens vao reproduz abaix disciplin metodolog empreg cas decret legislat envolv obras public
+
+
+
+
+determin secretari execut ministeri respons pel transferente recurs par obras integrant quadr vii loa cuj liber tenh sid contempl decret legislat fundament lei adot providente sent garant liber recurs soment adoca med corret determin pel tribunal cont unia
+
+
+
+
+determin segecex quant diretriz par fiscaliz obras public estabelec mei decret legislat exped pel congress nacional
+
+
+
+
+orient unidad tecnic respons pel fiscaliz obras public integrant quadr vii loa
+
+
+
+
+cas refer norm estabelec dat par envi inform pel tribunal comissa mist plan orcament public fiscaliz congress nacional cmo sej realiz inspeca foc contrat conveni obr objet decret termin cadastr respect relatori sistem fiscobr trint dias alud dat
+
+
+
+
+hipotes subit anterior sej autu nov process inspeca soment quand exist process abert trat mesm obr salv quand localiz outr unidad tribunal impus restrica pront tramit par secex interess
+
+
+
+
+propost encaminh termin inspeca sej inform ministrorelator process term autoriz insculp item segu presidente tribunal providenci envi cop relatori fiscaliz comissa mist trat constituica federal dentr praz fix respect decret legislat
+
+
+
+
+cas decret determin soment acompanh obr part tribunal sem fix dat par envi inform cmo sej subtitul inclu seleca obras audit exercici seguint dev const relatori menca express cumpriment dispost correspondent decret legislat
+
+
+
+
+defin mediant port proced segu pel unidad tecnic prox exercici fulcr ii iii i iii dezembr
+
+
+
+
+autoriz presidente tribunal encaminh comissa mist trat constituica federal relatori atualiz pel equip inspeca dat estabelec decret legislat aind relator tenh manifest sobr mat adot cas sej emit pel congress nacional nov decret legislat vers sobr mat mesm proced par prox exercici
+
+
+
+
+arquiv present process
+
+
+
+
+exempl decret legislat congress nacional
+
+
+
+
+sem determin tcu
+
+
+
+
+
+
+decret legislat
+
+
+
+
+
+
+cn
+
+
+
+
+
+
+exclu quadr vii anex lei janeir program trabalh adequ trech rodoviari corredor mercosul br sc divis prsc palhoc
+
+
+
+
+
+congress nacional decret
+
+
+
+
+
+
+
+fic exclu quadr vii anex lei orcament par lei janeir program trabalh adequ trech rodoviari corredor mercosul br sc divis prsc palhoc
+
+
+
+
+
+
+
+est decret legislat entr vigor dat public
+
+
+
+
+congress nacional setembr
+
+
+
+
+
+senador jos sarney
+
+
+
+
+
+president sen federal
+
+
+
+
+
+
+
+determin tcu sem dat apresent relatori
+
+
+
+
+
+decret legislat
+
+
+
+
+cn
+
+
+
+
+autoriz execuca contrat relat dotaca consign orcament fiscal unia par subtitul restaur rodov feder estad mat gross conserv prevent rotineir emergencial rodov estad mat gross unidad orcament dnit
+
+
+
+
+congress nacional decret
+
+
+
+
+
+
+
+fic pod execut autoriz execut contrat unidad infraestrutur terrestr depart nacional infraestrutur transport unitdnit nºs pd pd pd pd pd pd recurs inscrit rest pag relat orcament fiscal unia par lei subtitul restaur rodov feder estad mat gross conserv prevent rotineir emergencial rodov estad mat gross unidad orcament dnit
+
+
+
+
+
+
+
+tribunal cont unia far acompanh fisicofinanceir execuca recurs mencion dotaca consign orcament fiscal unia par subtitul epigraf encaminh relatori comissa mist trat constituica federal
+
+
+
+
+
+
+
+est decret legislat entr vigor dat public
+
+
+
+
+congress nacional novembr
+
+
+
+
+senador jos sarney
+
+
+
+
+president sen federal
+
+
+
+
+
+
+determin tcu dat par apresent relatori cn
+
+
+
+
+
+
+decret legislat
+
+
+
+
+
+
+cn
+
+
+
+
+
+
+autoriz execuca contrat relat dotaca consign orcament fiscal unia par subtitul implant projet irrig projet flor goi estad goi
+
+
+
+
+
+congress nacional decret
+
+
+
+
+
+
+
+fic pod execut autoriz liber recurs consign pel orcament fiscal unia par lei janeir subtitul implant projet irrig projet flor goi estad goi estrit necessari conclusa primeir trech projet irrig flor goi compreend entr barrag rio paran barrament porteir
+
+
+
+
+
+
+
+tribunal cont unia far acompanh fisicofinanceir execuca dotaca consign orcament fiscal unia par subtitul epigraf encaminh relatori comissa mist trat constituica federal
+
+dia novembr present exercici financeir
+
+
+
+
+
+
+
+
+
+est decret legislat entr vigor dat public
+
+
+
+
+congress nacional setembr
+
+
+
+
+
+senador jos sarney
+
+
+
+
+
+
+president sen federal
+
+
+
+
+
+
+
+
+roteir naveg
+
+
+
+acess modul
+
+
+
+
+entrar intranettcu sigaweb login usuari senh sig abres tel sigamenu sistem clic fiscobr inspeca
+
+
+abres tel menu sistem produca abaix opca atualiz inspeca import dad auditor anterior associ inspeca apel obr cancel homolog send est ultim privat secob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+associ inspeca apel obr
+
+
+
+
+clic associ inspeca apel obr abres tel asoci obr inspeca abaix
+
+
+
+
+
+preench camp numer ana fiscaliz relat inspeca dat previst par entreg congress nacional descrica fundament legal decret legislat xxan clic pesquis obr
+
+
+abres tel segu
+
+
+
+consult apel obr
+
+
+
+
+preench camp nom part nom clic pesquis
+
+
+abres quadr descrica codig obras relacion pesquis solicit selecion obr correspondent inspeca clic ok
+
+
+
+
+
+
+import dad auditor anterior
+
+
+
+
+
+
+
+clicandos import dad anterior sistem abr tel abaix digit numer fiscal correspondent fiscaliz orig inspeca destin sistem import apen dad referent contrat conveni conform assinal indici irregular grav apont relatori anterior
+
+
+obs import contrat conveni indici irregular grav categor p igp apont relatori anterior
+
+
+
+clic import dad correspondent situaca dat auditor orig traz par inspeca atual
+
+
+
+
+
+
+
+
+selecion inspeca
+
+
+
+
+menu principal clic atualiz inspeca abres tel abaix funcion modul levant auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+selecion inspeca
+
+
+
+
+cas selecionous secex go dentr secex escolheus inspeca tel segu
+
+
+obs acess region restrit inspeca realiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu principal
+
+
+
+
+est menu possibilit trabalh inspeca escolh
+
+
+
+
+
+
+clicandos contrat conveni irregular grav apont levant auditor referent inspeca tel outr inform tems acess camp tel segu illustr acess contrat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz contrat inspeca
+
+
+
+
+present tel permit acess contrat qua apont indici irregular grav exercici anterior
+
+
+
+obs part apen aparec aquel contrat indici irregular grav tip p apont levant auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz contrat situaca atual dat inspeca
+
+
+
+
+present tel possibilit inserca dad vis inform situaca contrat dat vistor funca dispost dls necessari inform percentual execut fisic financeir cad contrat inform est dispon levant auditor orig
+
+
+
+
+
+
+obs exceca percentu cit dem camp conceit tratament ident levant auditor ger inspeca conceit preenchiment outr inform pod obtid modul i levant auditor dest manual
+
+
+
+
+
+
+
+
+
+
+
+atualiz conveni
+
+
+
+
+present tel permit acess conveni qua apont indici irregular grav exercici anterior
+
+
+
+obs part apen aparec aquel conveni indici irregular grav tip p igp apont levant auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz conveni situaca atual dat inspeca
+
+
+
+
+
+
+
+obs preench inform referent conveni observ dat inspeca cas tenh hav rescisa suspensa inform motiv correspondent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz outr inform
+
+
+
+
+present tel permit cadastr inform adicion referent indici irregular detect levant auditor ana anterior
+
+
+camp observ esclarec adicion equip anal dev inform respeit evoluca situaca encontr ana anterior frent realidad observ quand inspeca
+
+
+cas haj determin dl necessari mencional camp observ registr mesm camp cumpriment dispost decret registr respect indici irregular cas
+
+
+
+obs part equip posicion relaca indici irregular grav tip p igp apont levant auditor der orig dls
+
+
+
+
+
+
+
+
+
+
+
+
+relatori impress part
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relatori impress part
+
+
+
+
+
+
+
+
+
+
+
+
+homolog
+
+
+
+
+tel cont menu principal secretari clic homolog indic aprov relatori
+
+
+obs cas inspeca est previst valid part secob
+
+
+
+
+
+
+
+relatori
+
+
+
+
+menu principal clic visualiz relatori inspeca proced indic modul levant auditor
+
+
+obs cas contrat conveni relatori mostr situaca dat vistor levant auditor situaca dat inspeca conform inform pel anal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+modul iv
+
+
+
+
+
+outr fiscaliz obras public ofo
+
+
+
+
+
+
+introduca
+
+
+
+item decisa nº plenari defin in verb
+
+
+
+
+
+determin segecex
+
+
+promov auxili setec adapt fiscobr atual form permit tod trabalh fiscaliz contempl objet obras public sej cadastr ness sistem
+
+
+
+embor alud decisa tenh sid prolat fevereir criaca dess nov modul sistem fiscobr possivel inici
+
+
+
+
+
+soluca disponibiliz par usuari mesm camp modul levant auditor
+
+
+
+usuari escolh camp desej preench pod utilizal mod ger relatori eletron poss inclu respect process cas queir elabor relatori word pod tamb fazel
+
+
+
+memorandocircul segecex anex defin princip proced referent modul
+
+
+
+
+
+destaques tod fiscaliz obras inclu dem component fiscobr levant auditor reform decret legislat dev cadastr modul ofo part
+
+
+
+entendes fiscaliz obras aquel cuj escop sej realment obras public fiscaliz conveni tces dev cadastr nest modul cas realiz inspeca obras decorrent dess fiscaliz conveni tces dev cadastr modul ofo
+
+
+
+exempl tipic ofo inspeca obras decorrent solicit congress nacional contempl dem categor fiscobr fiscaliz obras resultant denunc
+
+
+
+secob principi far verific relatori ofo
+
+
+
+roteir naveg
+
+
+
+ident modul levant auditor consult modul i item
+
+
+
+conteud tel
+
+
+
+ident modul levant auditor consult modul i item
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+secretariageral control extern
+
+
+secret fiscaliz obras patrimoni unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual fiscobr
+
+
+
+
+
+
+modul v
+
+
+
+
+
+reform
+
+
+
+
+
+
+introduca
+
+
+
+seleca plan trabalh pt auditor cumpriment ldo determin tribunal envi cn inform atualiz sobr fiscaliz obras public sid realiz bas loa principal levandos cont valor dotaca inicial pt ogu
+
+
+codific utiliz orcament permit identific precis obras contempl seleca abrang pts ref obras pts obras aind fas incipient sem licit sem projet basic enfim sem auditor enfim situaca result cust par tribunal sem respect benefici benefici pouc significat
+
+
+vist diss secob vem estud form aprimor metodolog seleca acompanh obras public mei projet reform
+
+
+resum ess projet prev acompanh distanc via sistem principal siasg siaf grand numer contrat edit obras public part dess acompanh indic sinaliz qua daquel contrat edit acompanh maior probabil ocorrente irregular ness enta feit fiscaliz in loc esperandos result aind mais efet alcanc enta
+
+
+ressaltes foc fiscaliz dar contrat edit cad fiscaliz abrang contrat edital esperandos consequente elev patam qualidad fiscaliz obras public tribunal foc localiz equip auditor dispora mais temp par estud cad situaca
+
+
+entant registres grand dificuldad par implement nov model deves ausenc banc dad unic reun inform tempest contrat conveni firm tod orga entidad administr federal vist muit possu sistem propri
+
+
+par atac problem congress nacional apoi tecnic tcu inser comand leis diretriz orcament ldos par disciplin corret conduca obras public cit exempl regr par cadastr contrat definica sistem referencial prec par contrat obras financi recurs feder atribuica tcu definica conceit indici irregular grav regr par bloquei desbloquei recurs
+
+
+respeit cadastr contrat siasg cit ldo combin iii mesm lei modul i levant auditor determin ess cadastr inclu falt dess providente indici irregular grav passivel paralis contrat
+
+
+bas inform constant siasg pretendes implement sistemat mais flexivel dinam par acompanh concomitant obras public seguint caracterist
+
+
+verific inform relevant referent contrat obras ex adit valor etc par definica auditor realiz
+
+
+implement acompanh via sistem execuca tod contrat cadastr siasg reduca numer trabalh auditor buscas melhor seleca obras form design equip auditor apen cas qua indici irregular justifiqu
+
+
+flexibiliz plan fiscaliz tribunal mod defin inici cad ana apen quantidad hdf secex contud definica relaca contrat audit pass feit periodic menor bas inform colet siasg siaf
+
+
+realiz fiscaliz moment public edit
+
+
+
+apes evoluca aind exist dificuldad inici par perfeit utiliz dess projet
+
+
+administr indiret principal empres estat aind est contat ministeri planej par migraca dad
+
+
+inform referent contrat conveni soment aliment decorr ana part prestaca cont
+
+
+sistem especif par aplic reform desenvolv pel setec par proxim ana par est ana feit adapt propri fiscobr
+
+
+qualidad aliment inform siasg aind est nivel ideal
+
+
+
+mesm dificuldad tribunal consider oportun implement fiscalizacoespilot part tod secex vist aprimor sistemat produt boa qualidad par acompanh obras via sistem
+
+
+esperas siasg contenh inform tod contrat particip recurs feder permitira acompanh apen contrat obras interess maneir diret secob outr tip contrat informat limpez seguranc etc tal ferrament dev extrem util par acompanh concomitant aplic recurs feder est tribunal
+
+
+par propost plenari realiz levant auditor pel metodolog tradicional fiscobr realiz levant provenient acompanh remot inform obras cadastr siasg
+
+
+par prox anos funca avanc projet reform esperas increment numer acompanh sej viavel realiz est trabalh tod obras receb recurs feder
+
+
+term sistem fiscaliz reform utiliz modul levant auditor par registr inform contrat auditor principi tod camp cit modul obrigatori exceca execuca financeiraorcament preench valor estim par conclusa cronogram desembols
+
+
+
+
+comentari
+
+
+
+
+secob disponibiliz pagin intranet relatori mens atualiz referent contrat fiscaliz secex enderec secob obras reform secex relatori disponiv not empenh ordens banc term adit program trabalh resum
+
+
+segu apresentas resum sugesta par subsidi escolh contrat fiscaliz integr orient anex reform
+
+
+adit extrapol
+
+
+altos adit inici contrat
+
+
+sald contratual esgot muit fim
+
+
+compatibil objet pt contrat
+
+
+adequ flux financeir andament contrat
+
+
+
+par acess siasg secob prepar roteir constitu anex reform
+
+
+par obtenca senh siasg consult dt secob ivanild marci amaral
+
+
+escolh contrat fiscaliz necess solicit respect ministr relator autoriz par realiz fiscaliz in loc item acorda p
+
+
+
+
+
+roteir naveg
+
+
+
+ident modul levant auditor consult modul i item
+
+
+
+important conform coment anterior tod tel principi preenchiment obrigatori excet
+
+
+execuca financeiraorcament preench mesan primeir dotaca orcament porqu est refer pt contrat
+
+
+preench tel cronogram desembols porqu conceit valor inform respeit pt contrat
+
+
+
+
+
+
+
+conteud tel
+
+
+
+
+ident modul levant auditor consult modul i item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex reform
+
+anex reform acess siasg
+
+
+
+
+sequenc par acess inform contrat empenh adit
+
+
+
+inicial necessari acess red serpr utiliz cpf senh
+
+
+
+tel
+
+r d s r p r
+
+
+
+servic brasil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par acess sistem desej
+
+inform camp abaix cpf
+
+
+
+codig
+
+senh nov senh
+
+sistem
+
+bas bsb
+
+senh dat
+
+hor
+
+terminal asm
+
+
+
+pfajuda pfsaida pftela pfinformacoes ger t
+
+
+
+
+entr opca list escolh siasg
+
+
+obs opca siasg aparec necess solicit autoriz acess junt serpr
+
+
+
+tel menu sistem
+
+codig bas bsb
+
+usuari marci antoni marqu dat
+
+netnam asm hor
+
+
+
+posicion cursor linh sistem desej tecl enter
+
+
+
+nom bas pseud descrica
+
+
+
+
+
+siaf bsb sistem admin financeir
+
+siasg bsb ss sistintegd admservger
+
+
+
+
+
+
+
+coloc cursor nest posica tecl entr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pfsai pflibera pflimpa pfpseudo pfauto t
+
+
+
+
+
+
+
+escolh ambient produca
+
+
+
+
+
+encontr dispon siasg modul cronogram acompanh
+
+cronogram objet registr cronogram fisicofinanceir
+
+contratoscompr registr siasg
+
+est modul uso obrigatori conform in ministeri
+
+planej public dia itens i ii
+
+usuari interess treinament dess modul dev contact
+
+comun serpr atrav fon pel enderec
+
+treinamentosiasgserprogovbr
+
+
+
+
+
+c f i r m c d m b i t
+
+
+
+
+
+marqu x ambient desej
+
+
+
+x produca
+
+
+
+treinament
+
+
+
+
+
+
+
+marc x tecl entr
+
+pfajuda pfsai
+
+
+
+tecl entr par tel mensag
+
+
+
+siasg comun
+
+dat hor usuari marcio
+
+
+
+mensagemns marqu x par receb c par cancel
+
+horari envi mat par public seman carnaval
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pfajuda pfsai pfrecua pfavanca pfretorna fim consult
+
+
+
+
+
+
+
+escolh sistem sicon
+
+
+
+siasg sistintegd admservger
+
+ni usuari marcio
+
+
+
+atenca ambient produca siasg
+
+
+
+posicion cursor opca desej pression enter
+
+
+
+catmat sist catalog material
+
+cats sist catalog servic
+
+comun sistem comunic siasg
+
+gerencial gerencial
+
+sicaf sist cad unif fornecedor
+
+sicon gesta contrat
+
+sidec divulg eletron compr
+
+sism minut empenh
+
+sispp prec pratic
+
+posicion cursor tecl entr
+
+continu
+
+
+
+
+
+
+
+
+
+
+
+pfduvidas pfsaida pfvolta menu pfavanca menu nt
+
+
+
+
+
+escolh contrat
+
+
+
+siasgsicon gesta contrat
+
+ni usuari marcio
+
+
+
+atenca ambient produca siasg
+
+
+
+posicion cursor opca desej pression enter
+
+
+
+contrat contrat
+
+conveni conveni
+
+cronogram acompanh cronogram
+
+eventoct event contrat
+
+eventocv event conveni
+
+
+
+
+
+posicion cursor tecl entr
+
+
+
+
+
+
+
+
+
+
+
+pfduvidas pfsaida pfvolta menu pfavanca menu nt
+
+
+
+
+escolh consult contrat
+
+
+
+siasgsiconcontrat contrat
+
+ni usuari marcio
+
+
+
+atenca ambient produca siasg
+
+
+
+posicion cursor opca desej pression enter
+
+
+
+concont consult contrat
+
+
+
+
+
+
+
+
+
+posicion cursor tecl entr
+
+
+
+
+
+
+
+pfduvidas pfsaida pfvolta menu pfavanca menu nt
+
+
+
+
+
+
+
+inform uasg
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg tcu secret auditor inspecaodf
+
+
+
+uasg
+
+
+
+
+
+
+
+inform uasg
+
+
+
+
+
+pfajuda pfsai
+
+
+
+
+
+escolh consult dad contrat
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+marqu x opca referent consult
+
+
+
+x contrat
+
+marc x tecl entr
+
+term adit
+
+
+
+contrat avis licit
+
+
+
+contrat dispens licit
+
+
+
+contrat inexigibil licit
+
+
+
+
+
+
+
+pfajuda pfsai pfretorna
+
+
+
+
+
+
+
+
+
+entrar identific contrat
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+tip contrat
+
+entrar tip numer ana
+
+numer tecl entr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pfajuda pfsai pfretorna
+
+
+
+
+
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+contrat referent tom prec
+
+
+
+situaca public
+
+
+
+objet prest servic especializ
+
+engenh par adapt instal au
+
+ditori edificiosed minsiteri def
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public dou
+
+empenh referent contrat imprens nacional
+
+ug gesta empenh ne
+
+pfsai pfretorna
+
+
+
+
+
+
+tecl mais entr
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+numer process contrat numer
+
+fundament legal lei
+
+
+
+
+
+cnpjcpf contrat
+
+contrat eneplanengenh
+
+empreend imobiliari ltd
+
+cnpj contratant
+
+contratant ministeri defes
+
+
+
+
+
+qt pessoal
+
+valor global valor parcel
+
+exec servic ex continu
+
+dt vigenc
+
+dat assinatur
+
+
+
+
+
+pfsai pfitens contrat pfretorna
+
+
+
+
+
+tecl mais entr
+
+
+aqu list dad empenh contrat
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+d d s r c m t r i s
+
+
+
+ug gesta not empenh dat program trabalh font rec ndesp
+
+
+
+ne
+
+
+
+
+
+
+
+
+
+
+
+pfsai pfrecua pfavanca pfretorna
+
+
+
+
+
+
+
+
+mais entr opca par adit
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+d d s r c m t r i s
+
+
+
+ug gesta not empenh dat program trabalh font rec ndesp
+
+
+
+ne
+
+
+
+
+
+
+
+
+
+
+
+desej term dest contrat sn s
+
+
+
+pfsai pfretorna digit s tecl entr
+
+
+
+
+
+
+
+escolh adit consult
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+marqu x ond desej expand dad
+
+
+
+numer tip fornecedor
+
+term adit eneplanengenh
+
+x term adit eneplanengenh
+
+
+
+
+
+digit x tecl entr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inici consult
+
+pfsai pfrecua pfavanca pfretorna
+
+
+
+
+
+
+
+
+
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+term adit originari contrat
+
+tip acrescim
+
+situaca public
+
+objet segund term adit contrat di
+
+ofict acresc objet contrat cust
+
+adicion servic engenheir mestr
+
+profission servent perfaz valor
+
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+public dou
+
+
+
+empenh referent contrat imprens nacional
+
+ug gesta empenh ne
+
+pfsai pfretorna
+
+
+
+
+
+mais entr
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+term adit originari contrat
+
+
+
+process
+
+fundament legal combin letr
+
+b i lei
+
+
+
+contrat eneplanengenh
+
+empreend imobiliari ltd
+
+contratant ministeri defes
+
+
+
+
+
+
+
+valor global term valor parcel
+
+
+
+dt vigenc term
+
+dt assinatur term
+
+
+
+
+
+pfsai pfretorna
+
+
+
+
+
+
+
+
+mais entr aparec dad empenh adit
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+
+
+d d s r c m t r i s
+
+
+
+ug gesta not empenh dat program trabalh font rec ndesp
+
+
+
+ne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pfsai pfrecua pfavanca pfretorna
+
+
+
+
+
+mais entr surg tel opca outr adit
+
+
+
+siasgsiconcontratoconcont consult contrat
+
+dat hor usuari marcio
+
+uasg depart administr intern
+
+marqu x ond desej expand dad
+
+
+
+numer tip fornecedor
+
+term adit eneplanengenh
+
+x term adit eneplanengenh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inici consult
+
+pfsai pfrecua pfavanca pfretorna
+
+
+
+
+
+
+obs
+
+
+par outr contrat tecl pf surj tel contrat
+
+
+par outr uasg tecl pf surj tel uasg
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex reform orient ger
+
+
+
+correspondente encaminh region cont orient conceitu repeit projet reform
+
+
+
+
+reform dad contrat orient ger
+
+
+
+
+segu anex quatr arquiv inform adicion sobr contrat selecion par acompanh conform memorandocircul adfis
+
+
+
+nom arquiv
+
+conteud
+
+rel adit
+
+inform dad ger contrat term adit quand houv
+
+rel nes
+
+not empenh ne relacion not empenh emit par cad contrat numer dat emissa valor itens empenh
+
+rel obs
+
+ordens banc ob relacion ordens banc quand houv emit par pagament contrat numer dat emissa valor descrica final
+
+rel pt contrat
+
+dad orcamentari relacion codig funcion pts unidad orcament utiliz determin contrat execuca inform valor orcad liquid exercici
+
+valor inform relat cad codig funcional ogu normal dedic exclusiv contrat relacion
+
+descrica pts pod alter exercici diferent
+
+camp uf represent unidad feder abrangente orcament pod estadual regional nacional
+
+
+
+
+
+part dess inform inferente pod feit form subsidi seleca realiz dentr outr
+
+
+adit prematur cert contrat obr realiz vari adit mesm pod indic possivel ocorrente irregular deficienciaausente projet basic jog planilh
+
+
+valor aditiv som aproximams tet par alter contratual pod indic inclusa servic licit
+
+
+avali flux financeir funca ordens banc analis comparat dat valor contrat
+
+
+avali adequabil program orcamentari utiliz par execuca contrat
+
+
+
+
+
+important
+
+
+
+
+
+
+apes criteri trabalh par extraca inform relat contrat analis cumpr destac process realiz enfrent var deficiente sistem bas principal sistem siasg aind est fas implant registr contrat apresent registr ausenc inform mesm erros camp inform inform financeir orcament provenient outr sistem siaf guard correl diret contrat portant pod hav falh relacion dad tamb ausenc outr erros inform prest pel oper sistem mod geral dad sistem disponiv relat contrat relacion relatori anex recomendas entretant atenca quant eventu inconsistente dad pod tamb efetu pesquis individual houv necess possibil complement eou correca inform
+
+
+
+
+
+
+
+
+exempl cit possibil ocorrente
+
+
+
+
+
+not empenh ordem banc pertencent contrat dev dificuldad estabelec relacion precis entr siasg siaf pod ocorr list ne ob pertenc contrat questa
+
+
+contrat mais registr orga pod cadastr mesm contrat codig identific mesm objet diferent siasg entrad seleca obras alter unidad gestor tamb pod lev cadastr mesm contrat nov registr
+
+
+adit prec incorpor valor valor original contrat unidad registr camp valor adit send valor global atual valor adit adicion valor original contrat
+
+
+ausenc program trabalh utiliz pel empreendimentoserv pts acess part inform constant nes ausenc relacion del repercut associ orcament
+
+
+
+
+
+
+quand houv constat inconsistente inform solicit sej comunic form possibilit aprimor dess trabalh disponibiliz list discussa especif colocamon disposica par esclarec eventu duv desd agradec colabor critic sugesta
+
+
+
+
+atencios
+
+
+
+
+projet reform
+
+
+secob
+
+

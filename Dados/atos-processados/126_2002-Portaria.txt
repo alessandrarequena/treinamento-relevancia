@@ -1,0 +1,340 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist dispost novembr dezembr resolv
+
+
+competente unidad gestor sistem inform tribunal cont unia estabelec nest port
+
+
+par efeit dest port entendes
+
+
+i regr negoci conjunt condica requisit proced defin process trabalh form tratament inform inerent
+
+
+ii process trabalh ativ permit dad unidad conjunt realiz objet funcion
+
+
+iii proced homolog aca conceb par verific aderente program comput rotin produca especific requer pel unidad gestor
+
+
+iv proced produca aca conceb par viabiliz utiliz sistem inform pel usuari destin
+
+
+v proced contingente alternat operacional par viabiliz execuca process trabalh situaca sistem estej dispon
+
+
+vi proced auditor aca conceb par acompanh utiliz sistem inform mod garant inform process tenh confiabil util
+
+
+vii classific inform criteri critic disponibil confidencial permit tratament adequ cad tip inform term
+
+
+vii nivel servic padra qualidad express term maxim temp respost aceit sed secret estad dias horari disponibil sistem dias horari paus par manutenca limit minim aceit transaca minut process sucess pel sistem
+
+
+ix aceit declar formal produt servic requer pod aceit pel tribunal
+
+
+x manual usuari orient destin usuari sobr utiliz sistem rotin trabalh
+
+
+xi roteir atend instruca destin equip respons pel atend usuari sobr trat duv ocorrente relat sistem
+
+
+cad sistem inform tribunal respons mais unidad gestor compet apoi orient tecnic secret tecnolog inform
+
+
+i defin proced rotin informatiz proced homolog produca contingente auditor sistem
+
+
+ii defin regr atualiz consult inform process pel sistem mei eletron
+
+
+iii defin regr negoci sistem
+
+
+iv realiz classific inform process pel sistem defin regr par armazen descart quand houv outr gestor formal design par ess fim
+
+
+v defin parametr nivel servic sistem
+
+
+vi receb analis solicit ocorrente relat sistem dev objet apreci pel gestor adot providente cabiv comunical solicitant
+
+
+vii estabelec prioridad demand relat sistem
+
+
+vii promov auditor sistem
+
+
+ix test ambient apropri sistem inform indic eventu erros dificuldad apresent orient sugesta par correca
+
+
+x homolog perant secret tecnolog inform servic contrat terceir par desenvolv manutenca atualiz produca sistem
+
+
+xi homolog cad versa sistem autoriz entrad produca
+
+
+xii divulg inform dar orient referent proced atualiz consult sistem sem prejuiz servic atend usuari mant pel secret tecnolog inform
+
+
+xii elabor mant atualiz manu usuari roteir atend sistem
+
+
+xiv promov conjunt institut serzedell corre treinament sobr utiliz sistem
+
+
+design unidad gestor sistem dev feit port president term
+
+
+cab secret tecnolog inform identific unidad gestor cad sistem ouv titul unidad basic submet indic apreci president
+
+
+indic unidad gestor dev reca preferencial sobr aquel cuj competente funcional melhor relacion process trabalh inform abrang pel sistem
+
+
+quand duas mais unidad design gestor corespons dad sistem decisa tom conjunt
+
+
+inici nov sistem sem design unidad gestor
+
+
+solicit modific notific err sistem apresent pel usuari diret setec dev encaminh unidad gestor
+
+
+gesta sistem impact bas dad inter diret ativ control extern dev exerc coorden secretariaadjunt cont consonanc v
+
+
+unidad gestor sistem existent desenvolv tribunal design anex est port
+
+
+est port entr vigor dat public
+
+
+humbert guimara sout
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+revog
+dispo sobr competente design unidad gestor sistem inform tribunal cont unia
+
+anex unic port mai
+
+
+
+relaca unidad gestor sistem inform
+
+
+
+
+
+sistem inform
+
+sigl
+
+unid gestor indic eletron
+
+indic
+
+acer cadastr respons cont julg irregul
+
+cadirreg
+
+segecexadcon instruca eletron process cont
+
+econt cscruz
+
+segecexadcon gesta document process
+
+processus
+
+segecexadcon gesta document process web process eletron
+
+processus web
+
+segecexadcon sistem apoi elabor instruca document eletron
+
+sidoc
+
+segecexadcon emissa certida via web
+
+certida
+
+segecexadcon registr apreci deliber acomp result
+
+rad
+
+segecexadcon atualiz valor
+
+debit
+
+segecexadcon colet eletron cont
+
+siscont
+
+segecexadcon difer process cont
+
+difer
+
+segecexadcon cont public
+
+cont public
+
+segecexadcon control clientel
+
+clientel
+
+segecexadconcscruz planific planej execuca control fiscaliz
+
+fiscal
+
+segecexadf prioriz aca control
+
+prior
+
+segecexadf autom proced auditor
+
+proaud
+
+segecexadf fiscaliz obras
+
+fiscobr
+
+segecexsecob apreci registr atos admissa concessa
+
+sisac
+
+segecexsefip instruca eletr atos admissa concessa
+
+esisac
+
+segecexsefip cadastr declar bens rend
+
+dbr
+
+segecexsefip analis eletron atos admissa concessa
+
+audsisaccscruz
+
+segecexsefip control transferente constitucion
+
+transcon
+
+segecexsemag acompanh gesta public cont publicaslrf
+
+gesta public
+
+segecexsemag elabor aplic pesquis
+
+pesquis
+
+segecexseprog sistem apoi licit
+
+licit
+
+segedamcpl control patrimonial automation inventory system
+
+asi
+
+segedamsemat control contrat
+
+contrat
+
+segedamsemat control material
+
+material
+
+segedamsemat gesta assistente medic
+
+protcu
+
+segedamserec control acess frequenc
+
+secaf
+
+segedamserec gesta recurs human
+
+grh
+
+segedamserec folh pagament
+
+folh
+
+segedamserec sistem provisori avali desempenh
+
+sipad
+
+segedamserec sistem avali desempenh estagi probatori
+
+sad
+
+segedamserec gerenci integr desempenh
+
+gid
+
+segedamserec sistem manutenca organogram
+
+sisun
+
+segedamserec gerenc control acess
+
+rond
+
+segedamseseg inform gerenci
+
+sinerg
+
+seplan portal tcu
+
+portal tcu
+
+seplan gerenci diretriz
+
+gpd
+
+seplan sistem integr gerenci acess
+
+sig
+
+setec autom gabinet
+
+autogab
+
+sgs autom paut sessa
+
+paut
+
+sgs sortei process
+
+sortei
+
+sgs sistem inf sobr norm jurisprudente deliber tcu
+
+jur
+
+sgs sistem aliment norm jurisprudente deliber tcu
+
+judoc
+
+sgs
+
+
+

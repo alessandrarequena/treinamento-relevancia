@@ -1,0 +1,2829 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist dispost instruca normat fevereir resolv
+
+
+fic aprov manual auditor natur operacional tribunal cont unia cont proced operacion estrateg metodolog utiliz realiz auditor desempenh operacional avali program
+
+
+fic revog port abril
+
+
+est port entr vigor dat public
+
+
+iram saraiv
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+secretariageral control extern
+
+
+
+
+secret fiscaliz avali program govern
+
+
+
+
+
+
+
+
+manual
+
+
+auditor operacional
+
+
+
+nr port segecex btcu especial
+
+
+
+
+
+
+
+
+
+
+
+segecex seprog
+
+
+
+
+marc
+
+
+
+
+
+
+
+
+
+
+list quadr
+
+
+
+quadr tecnic mais utiliz etap planej
+
+
+quadr model matriz planej
+
+
+quadr process logic identific achad produca recomend determin
+
+
+quadr model matriz achad
+
+
+quadr estrutur recomend par part textual relatori auditor operacional
+
+
+quadr exempl quadr resum situaca implement deliber
+
+
+quadr princip abordagens auditor operacional
+
+
+quadr resum princip tecnic colet dad
+
+
+
+
+
+list figur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sumari
+
+
+
+introduca
+
+
+objet
+
+
+dimensa desempenh caracterist anop
+
+
+economic
+
+
+eficiente
+
+
+eficac
+
+
+efetiv
+
+
+outr dimensa desempenh
+
+
+equidad
+
+
+caracterist auditor operacional
+
+
+seleca
+
+
+process seleca objet auditor
+
+
+integr planej estrateg
+
+
+criteri seleca
+
+
+agreg valor
+
+
+material
+
+
+relevanc
+
+
+vulnerabil
+
+
+levant
+
+
+levant escop ampl
+
+
+levant escop restrit
+
+
+planej
+
+
+analis prelimin objet audit
+
+
+definica objet escop auditor
+
+
+tip questa auditor
+
+
+especific criteri auditor
+
+
+elabor matriz planej
+
+
+valid matriz planej
+
+
+elabor instrument colet dad testepilot
+
+
+elabor projet auditor
+
+
+execuca
+
+
+achad auditor
+
+
+evidente
+
+
+desenvolv trabalh camp
+
+
+analis dad colet
+
+
+matriz achad
+
+
+valid matriz achad
+
+
+relatori
+
+
+orient ger par elabor relatori
+
+
+padra elabor
+
+
+apresent dad
+
+
+citaca referente
+
+
+component relatori auditor
+
+
+observ necessari cri titul par indic conteud paragraf
+
+
+introduca
+
+
+visa geral
+
+
+capitul princip
+
+
+analis comentari gestor
+
+
+conclusa
+
+
+propost encaminh
+
+
+monitor
+
+
+plan aca
+
+
+sistemat monitor
+
+
+relatori monitor
+
+
+situaca deliber
+
+
+control qualidad
+
+
+modal control qualidad
+
+
+pap princip ator envolv control qualidad
+
+
+ferrament control qualidad
+
+
+apendic planej metod
+
+
+matriz planej preenchel
+
+
+inform requer
+
+
+font inform
+
+
+estrateg metodolog
+
+
+proced colet dad
+
+
+proced analis dad
+
+
+limit
+
+
+analis vai permit
+
+
+referente
+
+
+not explicat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+introduca
+
+
+est terceir versa manual public inicial revist diferencias anterior abord tod cicl realiz dest modal auditor alem atualiz capitul dedic planej execuca elabor relatori incluirams orient ger sobr escolh audit monitor deliber resultant apreci relatori auditor control qualidad tamb objet capitul especif
+
+
+document reflet evoluca metod tecnic empreg pel tcu mei acumul experiente execuca auditor operacion elabor dest manual consider melhor experiente internacion sobr bem contribuica profission dest cort manual est alinh padra auditor operacional adot pel international organization of suprem audit institutions intosa
+
+
+
+
+
+objet
+
+
+objet dest document defin principi padra orient realiz control qualidad auditor operacion carg unidad tecnic tribunal
+
+
+dimensa desempenh caracterist anop
+
+
+auditor operacional anop exam independent objet economic eficiente eficac efetiv organiz program ativ governament final promov aperfeico gesta publicai
+
+
+auditor operacion pod examin mesm trabalh mais princip dimensa analis diagram insumoprodut illustr dimensa interrel
+
+
+
+
+
+
+
+
+font adapt issa
+
+
+economic
+
+
+economic minimiz cust recurs utiliz consecuca ativ sem compromet padra qualidad issa iii referes capac instituica ger adequad recurs financeir coloc disposica
+
+
+exam economic pod abrang verific pratic gerenci sistem gerenci benchmarking process compr outr proced afet auditor operacional enquant exam estrit legal proced licit fidedign document eficiente control intern outr dev objet auditor conform pratic pod hav superposica entr auditor conform auditor operacional ness cas classific auditor especif depend objet primordial auditor issa
+
+
+eficiente
+
+
+eficiente defin relaca entr produt bens servicosiv ger ativ cust insum empreg par produzil determin period temp mant padra qualidad ess dimensa referes esforc process transform insum produt pod examin duas perspect minimiz cust total mei necessari par obter mesm quantidad qualidad produt otimiz combin insum par maximiz produt quand gast total est previ fix cohen franc ness cas analis temp necessari par execuca taref variavel consideradav eficiente pod med calculandos comparandos cust unitari produca bem servic portant pod consider conceit eficiente est relacion economic
+
+
+eficac
+
+
+eficac defin grau alcanc met program bens servic determin period temp independent cust implic cohen franc conceit eficac respeit capac gesta cumpr objet imediat traduz met produca atend sej capac prov bens servic acord estabelec planej aca
+
+
+important observ analis eficac dev consider criteri adot par fixaca met alcanc met subestim pod lev conclusa equivoc respeit eficac program ativ exam alem diss fator extern restrica orcament pod compromet alcanc met planej dev lev cont durant analis eficac
+
+
+efetiv
+
+
+efetiv respeit alcanc result pretend medi long praz referes relaca entr result intervenca program term efeit sobr populacaoalv impact observ objet pretend impact esper traduz pel objet finalist intervenca tratas verific ocorrente mudanc populacaoalv pod razoavel atribu aca program avali cohen franc
+
+
+portant examin efetiv intervenca governamental pretendes ir alem cumpriment objet imediat especif geral consubstanci met produca atend exam eficac gesta tratas verific result observ realment caus pel aca desenvolv outr fator issa avali efetiv pressupo bens eou servic ofert acord previst exam efetiv avali impact requ tratament metodolog especif busc estabelec relaca causal entr vari program efeit observ comparando estimat acontec cas program exist issa
+
+
+outr dimensa desempenh
+
+
+alem quatr dimensa desempenh examin outr relacion pod explicit raza relevanc par delimit escop auditor operacion aspect qualidad servic grau adequ result program necess clientel geraca valor public equidad distribuica bens servic pod trat auditor operacion objet subsidi accountability desempenh aca governamental
+
+
+equidad
+
+
+exam equidad pod deriv dimensa efetiv polit public baseias principi reconhec diferenc entr individu necess tratament diferenci segund rawls apud cohen franc p par proporcion autent igualdad oportun sociedad dev atend mais nasc men dot nasc setor social men favorec aind segund rawls apud medeir tratament desigual just quand benef individu mais carent desigualdad just promov equidad garant condica par tod tenh acess exercici direit civ liberdad expressa acess inform associ vot igualdad entr gener polit soci saud educ morad segurancav portant polit public proteca desenvolv social papel fundamental construca equidad
+
+
+exam equidad pod envolv exempl investig criteri aloc recurs visav distribuica espacial perfil socioeconom populacaoalv estrateg adot pel gestor public par adequ ofert servic benefici diferent necess publicoalv exam impact diferenci decorrent implement polit publicavi
+
+
+caracterist auditor operacional
+
+
+auditor operacion possu caracterist propr distingu auditor tradicion contrari auditor regularidadevii adot padra relativ fix auditor operacion dev variedad complex questa trat possu maior flexibil escolh objet auditor metod trabalh form comunic conclusa auditor empreg ampl seleca metod avali investig diferent are conhec especial cienc soci issa issa alem diss ess modal auditor requ auditor flexibil imagin capac analit issa
+
+
+are estud funca especific necessit conhec especializ abordag diferenci cas avali program auditor tecnolog inform mei ambient issa apendic
+
+
+auditor regular conclusa assum form opinia concis format padroniz sobr demonstrat financeir sobr conform transaca leis regul sobr inadequ control intern atos ileg fraud auditor operacion relatori trat economic eficiente aquisica aplic recurs eficac efetiv result alcanc tais relatori pod vari consideravel escop natur inform exempl sobr adequ aplic recurs sobr impact polit program recomend mudanc destin aperfeico gesta issa
+
+
+pel natur auditor operacion mais abert julgament interpret relatori consequent mais analit argumentat issa enquant auditor regular exam material est diret relacion montant recurs envolv auditor operacion ess questa mais subjet pod basears consider sobr natur context objet audit issa
+
+
+particip gestor equip fundamental var etap cicl anop
+
+
+
+
+
+
+
+
+font adapt
+
+
+sintetic cicl auditor operacional inic process seleca definica especif deves proced planej vist elabor projet auditor final detalh objet trabalh questa investig proced desenvolv result esper realiz auditor fas execuca realizas colet analis inform subsidi relatori destin comunic achad conclusa auditor etap monitor destinas acompanh providente adot pel audit respost recomend determin exar pel tcu afer benefici decorrent implement issa tcu
+
+
+seleca
+
+
+process seleca objet auditor
+
+
+process seleca objet auditor primeir estagi cicl auditor importanc resid definica objet oferec oportun par realiz auditor contribu par aperfeico administr public fornec sociedad opinia independent sobr desempenh ativ public
+
+
+process seleca necessari porqu camp atuaca control extern muit ampl compar recurs limit par decid audit necessari estabelec criteri vis orient aplic recurs aument probabil selecion objet auditor trag oportun realiz trabalh significat issa est capitul trat dess criteri instrument pod apoi process seleca
+
+
+determin aloc recurs tribunal prioriz ativ precis lei complet cert praz issa exempl relatori parec previ sobr cont govern republ est capitul trat dess cas cuid dev adot par prioriz auditor iniciat propr
+
+
+integr planej estrateg
+
+
+process seleca dev integr simultan planej estrateg sistem planej anual issa brasil
+
+
+raza par integr seleca planej estrateg resid fat process seleca orient escolh fundament defin aloc recurs diretriz atuaca definica prioridad compativ manutenca qualidad ativ control inclu tom decisa estrateg luz inform disponiv issa
+
+
+escolh estrateg orga control abrang diferent perspect desd decisa sobr aloc recurs par cumpr obrig leg decisa sobr are govern dev examin prioritari
+
+
+escolh estrateg afet aloc recurs geral tais natur invest capacit tip ferrament trabalh dev desenvolv quantitat pessoal aloc linh atuaca alem diss seleca objet especif dev part perspect geral orga control sobr prioritari auditor issa
+
+
+defin grand are atuaca lev consider objet orga control process seleca objet auditor pod mais bem foc passandos exam inform setori aca govern confront criteri seleca ess segund etap permitira pass planej estrateg par formul plan operacional
+
+
+criteri seleca
+
+
+realiz escolh estrateg proxim pass process seleca objet auditor defin criteri usad par selecion objet especif auditor
+
+
+principal criteri seleca capac auditor agreg valor mei contribuica par avali melhor gesta public issa outr criteri pod usad entr qua destac cit normat intosa tcu material relevanc vulnerabil issa brasil criteri fortement relacion apresent separad form facilit compreensa operacionaliz process seleca
+
+
+criteri seleca pod maior menor pes process escolh conform conjuntur caracterist possivel objet auditor dev examin relaca cad dess criteri par conjunt permit elabor escal prioridad process diferent inform sobr agreg valor material relevanc vulnerabil pod feit divers mod detalh process inform pod objet roteir instruca especif
+
+
+important deix clar qualqu opca possiv implic escolh orga control seleca objet auditor reflet preferente oper process seleca entant escolh realiz dev justific mediant fundament mesm send opinia qualific grup profission
+
+
+agreg valor
+
+
+agreg valor referes produz nov conhec perspect sobr objet auditor issa seguint situaca pod indic possibil auditor agreg valor significat
+
+
+discussa sobr nov polit public mudanc significat implement program organiz ent governamental
+
+
+b surgiment nov urgent ativ mudanc condica
+
+
+c escassez auditor anterior trabalh outr orga pesquis control sobr objet auditor
+
+
+d pouc conhec sobr relaca caus efeit entr aca govern soluca problem
+
+
+material
+
+
+criteri material indic process seleca dev lev consider valor envolv objet auditor auditor dev produz benefici significat sempr benefici auditor operacion financeir aperfeico process objet auditor alt material grand possibil ger econom elimin desperdici
+
+
+volum recurs disponiv orcament indic material entant ambient orcamentari qua exist grand diferenc entr orcad contrat pag exam valor envolv cad dess fas despes pod necessari alem diss fiscaliz are regul dimensa econom setor inser objet auditor dev lev consider
+
+
+relevanc
+
+
+criteri relevanc indic auditor selecion dev procur respond questa inter sociedad debat public valoriz
+
+
+seguint mei pod usad par afer relevanc possivel objet auditor
+
+
+opinia parlament tecnic cas legislat institut pesquis figur proeminent divers setor sociedad
+
+
+b declar prioridad plan orcament public plan plurianual lei diretriz orcament mensag execut encaminh orcament legislat plan setori manifest public prioriz pel govern
+
+
+c relat reiter desperdici erros desobediente proced
+
+
+d presenc mid
+
+
+vulnerabil
+
+
+context process seleca vulnerabil situaca propriedad intrinsec objet auditor pod associ ocorrente event advers abnt conform natur objet auditor estej send selecion necessari investig are especif referent oper program govern organiz public mesm municipi audit ness ultim cas pod examin caracterist relacion desenvolv institucional local
+
+
+
+exempl situaca pod associ ocorrente event advers
+
+
+
+estrutur gerenci complex envolv diferent organiz governament mesm esfer esfer govern diferent organiz naogovernament
+
+
+falt inform confi atualiz sobr desempenh objet auditor alcanc met cust produt public atend
+
+
+problem estrutur planej control
+
+
+falt clarez sobr objet met responsabil process tom decisa
+
+
+problem operacion sistem informatiz
+
+
+font issa
+
+
+levant
+
+
+par pass planej estrateg par plan operacional necess inform atualiz sobr estrutur funca oper possiv objet auditor permit identific are alt material apresent vulnerabil tenh potencial par auditor contribu par ger melhor administr issa colet dess inform pod realiz mei levant tip instrument fiscaliz brasil
+
+
+planej estrateg lig process seleca pod base analis identific risc form men teoric analis indic problem existent potenci issa send identific analis risc pod papel important definica escop levant obtenca inform realiment planej estrateg
+
+
+levant pod serv tant instrument par selecion futur par auditor quant par decid viavel realiz auditor especif depend objet conhec acumul sobr are exam levant pod escop ampl restrit
+
+
+levant escop ampl
+
+
+levant escop ampl objet conhec organiz funcion are pod fiscaliz bem identific objet instrument fiscaliz brasil i ii
+
+
+levant escop ampl explor possibil fiscaliz mediant analis geral par particul perspect plurianual tend vist amplitud pod identific oportun realiz tant auditor operacion quant conform
+
+
+geral colh inform sobr plan setori bas legal program organiz previsa orcament execuca financeir sistem inform estrutur monitor avali met plan program organiz bem revisa trabalh orga pesquis control sobr possiv objet auditor
+
+
+levant oportun par adquir conhec sistem sobr setor ativ governamental procuras entend articul entr program govern par alcanc objet determin polit public papel organiz public priv envolv princip desafi dificuldad existent
+
+
+alem diss levant permit atualiz ativ inform sobr are govern identific nov desenvolv tendenc polit public mudanc prioridad necess uso nov abordagens tecnic auditor
+
+
+mei levant tribunal adquir condica foc melhor aca fiscaliz pod cri estrateg atuaca perspect plurianual abord form consistent princip problem identific levant escop ampl natur cust maior escop restrit precis realiz frequenc porqu part inform estav part pod atualiz mediant consult bas dad mei outr metod disponiv
+
+
+levant escop restrit
+
+
+cas pod necessari aprofund levant par estud viabil realiz fiscaliz ist examin objet auditor indic audit correspond possiv objet levant brasil iii
+
+
+motiv pod exig realiz estud viabil questa oportun levant escop ampl vis identific objet auditor curt medi long praz mudanc condica pod exig atualiz inform reavali criteri seleca outr motiv inform levant abordag sistem pod suficient par decid sobr realiz fiscaliz especif par necess inform mais detalh
+
+
+geral estud viabil traz inform sobr princip process operacion produt form esclarec form execuca aca alem diss examinams
+
+
+qualidad indic desempenh identific destac oportun melhor
+
+
+b disponibil dad sistem inform abord confiabil abrangente
+
+
+c relatori gerenci existent avali anterior efetu
+
+
+d limit execuca auditor
+
+
+receptiv gestor particip fiscaliz
+
+
+f necess empreg habil especializ auditor
+
+
+g possiv prejuiz objet control extern cas fiscaliz sej realiz
+
+
+conclusa estud viabil dev manifest valorat substant convincent sobr conveniente oportun realiz fiscaliz abrang raza recomend seleca objet auditor potencial par cham atenca mid sociedad civil organiz legislat ger result agregu valor
+
+
+seleca objet auditor proxim etap cicl auditor planej fiscaliz especif
+
+
+planej
+
+
+segund international organization of suprem audit institution intosa planej dev realiz mod assegur auditor alt qualidad sej conduz maneir econom eficient efet tempestiv issa
+
+
+auditor operacion dev preced planej detalh oferec clar sens direca trabalh proporcion estrutur logic consistent auxili control cust cumpriment praz
+
+
+
+objet planej auditor
+
+
+
+planej auditor vis delimit objet escop auditor defin estrateg metodolog adot estim recurs cust praz necessari realiz
+
+
+planej cons seguint ativ
+
+
+analis prelimin objet auditor
+
+
+b definica objet escop auditor
+
+
+c especific criteri auditor
+
+
+d elabor matriz planej
+
+
+valid matriz planej
+
+
+f elabor instrument colet dad
+
+
+g testepilot
+
+
+h elabor projet auditor
+
+
+
+
+
+
+
+
+consider auditor operacion dev gerenci projet fas inicial planej equip dev elabor cronogram cont taref execut respons praz final par execuca ess instrument permit equip organiz ativ facilit aloc membr acord taref necess temp dispon cronogram dev acord entr membr equip submet supervisor utiliz acompanh trabalh par facilit ess taref tamb pod utiliz softw especif acompanh projet
+
+
+compet coorden equip assegur trabalh sej planej corret dem membr equip gestor objet auditor estej suficient inform acerc proposit planej
+
+
+par equip form entend comum sobr trabalh important tod membr acompanh desenvolv partilh inform levant par iss recomendas realiz reunia curt period mantenh tod inform sobr andament trabalh busqu solucion impass conflit quand necessari
+
+
+equip dev repass supervisor praz acord inform respeit ativ conclu impact sobr rum auditor tend vist dad obtid aquel pont planej limit entrav cumpriment praz taref acord inicial tamb dev inform supervisor trabalh
+
+
+durant planej important coorden equip avali praz estim inicial houv necess readequ coorden equip dev submet nov cronogram ativ supervisor ess propost dev feit log necess identific par providente sej encaminh temp habil
+
+
+estabelec boas relaca gestor desd inici trabalh sum importanc par sucess auditor especial atenca dev dad cuidad organiz contat gestor desd fas planej issa apendic contat inicial dev telefon segu reunia equip auditor acompanh supervisor apresent objet trabalh par gestor equip deves solicit presenc representant control intern
+
+
+objet dest reunia inicial alem apresent equip auditor instituica program audit esclarec sobr modal auditor realiz final princip dimensa analis economic eficiente eficac efetiv etap praz previst par realiz trabalh fundamental destac importanc colabor gestor garant particip tod fas trabalh ressaltandos envi relatori prelimin par analis comentari atitud equip auditor dev favorec confianc mutu inter produt long tod trabalh sem entretant descuid observanc limit necessari salvaguard independente conduca auditor issa issa
+
+
+par evit conflit desnecessari auditor dev procur entend natur especif objet auditor par iss dev consideral part diferent perspect adot atitud abert objet diant opinia divergent esforcandos par explicital maneir constru visa final tao verdadeir just quant possivel issa
+
+
+important registr organiz document referenci dad inform obtid durant tod fas auditor form pap trabalh issa apendic gao
+
+
+pap trabalh document relevant colet ger durant auditor dev suficient complet detalh par permit auditor experient tev contat previ auditor sej capaz entend part document natur result auditor realiz proced adot evidente obtid conclusa alcanc
+
+
+quantidad tip conteud document defin pel auditor entretant recomendas document
+
+
+objet escop cronogram metodolog trabalh
+
+
+b matriz planej achad
+
+
+c instrument colet dad
+
+
+d result tecnic diagnost aplic
+
+
+result questionari entrev grup foc realiz
+
+
+f result analis estatist banc dad
+
+
+g sugesta obtid pain referente
+
+
+mant pap trabalh organiz document important porqu
+
+
+auxil planej execuca supervisa auditor
+
+
+b subsid elabor relatori respost question audit outr ator interess
+
+
+c aument efetiv eficiente auditor
+
+
+d auxil revisa qualidad auditor
+
+
+contribu par desenvolv profissional auditor
+
+
+f pod subsidi realiz nov trabalh
+
+
+document auditor dev armazen durant temp necessari par satisfaz exigente leg administrat deves garant seguranc integr acessibil recuperabil inform sej papel mei eletron outr mid
+
+
+analis prelimin objet audit
+
+
+analis prelimin cons levant inform relevant sobr objet audit par adquirirs conhec necessari formul questa examin pel auditor
+
+
+compreensa objet auditor permit identific risc pont critic existent indispens definica objet escop auditor important assegur aspect centr objet audit tenh sid investig document compreend extensa nivel detalh dad colet dev lev consider natur objet investig temp recurs disponiv pel equip
+
+
+equip dev realiz investig prelimin control intern sistem inform aspect leg consider significat context auditor auditor operacion exam confiabil bas informat control intern dev enfatiz aspect poss compromet efetiv eou eficiente oper
+
+
+avali control intern dev consider estimat risc auditor cons possibil auditor cheg conclusa equivoc incomplet sempr relevant result dess avali dev registr projet auditor
+
+
+levant inform pod estrutur seguint form issa
+
+
+objet context
+
+
+objet ger parci depend extensa trabalh
+
+
+b estrateg atuaca aca desenvolv met fix client atend proced recurs empreg bens servic ofert benefici proporcion
+
+
+c estrutur organizacional linh subordin assessor relaca ativ desenvolv
+
+
+d font financi princip itens cust despes histor execuca orcament
+
+
+situaca context prioridad governament
+
+
+f histor part dat criaca denomin anterior mudanc concepca logic relaca objet publicoalv form implement
+
+
+g grup inter caracterist ambient extern intern
+
+
+h natur atuaca outr orga program governament atu mesm are linh coorden
+
+
+funcion objet audit
+
+
+process gerenci
+
+
+b bas dad existent
+
+
+c ambient control
+
+
+d restrica enfrent imposica leg limit impost pel concorrente pel tecnolog pel escassez recurs pel necess cooper outr entidad
+
+
+inform sobr objet audit pod obtid divers font conform exemplific apendic
+
+
+equip dev realiz levant trabalh relevant sobr objet auditor identific aspect avali princip conclusa relatori auditor tcu control intern alem estud pesquis iniciat orga executor instituica academ conceitu
+
+
+aind fas analis prelimin pod utiliz tecnic final trac diagnost part interpret sistemat inform colet identific princip problem relat desempenh objet selecion quadr resum tecnic mais empreg objet propo
+
+
+quadr tecnic mais utiliz etap planej
+
+
+questa auditor
+
+questa auditor element central determin direcion trabalh auditor metodologias tecnic adot result pretend ating
+
+
+
+observ outr tecnic analis ishikaw analis rec marc logic tamb pod ute ness etap trabalh auditor
+
+
+
+dad sobr desempenh fundament par avali aspect economic eficiente eficac efetiv objet auditor uso indic desempenh par afer result alcanc pel gestor preconiz pel doutrin gerenci volt par result ministeri planej estabelec par cad program finalist obrigatori hav men indic par program apoi polit public are especiaisix presenc indic facultat brasil embor ocup posica central planej auditor produca inform sobr desempenh pel gestor pod enfrent seguint problem
+
+
+dificuldad desenvolv indic desempenh part objet defin form imprecis
+
+
+b sistem inform inadequ pouc confi
+
+
+c efeit fator extern sobr desempenh program dificult identific result diret atribuiv aca polit especif
+
+
+d dificuldad mensur produt homogene
+
+
+dificuldad incorpor dimensa qualitat indic desempenh
+
+
+f necess multipl indic par obter quadr eficiente efetiv program
+
+
+funca dificuldad apont examin inform sobr desempenh equip dev consider entr outr questa
+
+
+indic desempenh val confi justific luz relaca custobenefici
+
+
+b proced colet dad sobr desempenh suficient adequ
+
+
+c indic desempenh part integrant process tom decisa
+
+
+sempr houv necess ampli conhec sobr aspect operacion objet auditor recomendas realiz visit explorator ist desloc equip auditor par local loc ond ativ desenvolv objet colh inform prelimin ausenc clar arcabouc legal insuficiente inform aind divers form implement aca exempl raza justific visit explorator fas planej cust realiz dev consider cust estim auditor
+
+
+visit explorator util par preven problem decorr execuca trabalh reduz incert auxili definica criteri auditor bem permit obtenca inform subsidi elabor instrument colet dad
+
+
+definica objet escop auditor
+
+
+part conhec constru durant analis prelimin objet auditor equip dev defin objet auditor mei especific problem questa auditor investig objet dev esclarec tamb raza lev equip suger determin enfoqu cas tenh sid previ defin deliber determin realiz auditor
+
+
+questa subquesta auditor
+
+inform requer
+
+font inform
+
+proced colet dad
+
+proced analis dad
+
+limit
+
+analis vai permit
+
+especific term chav escop questa
+
+criteri
+
+period abrangente
+
+ator envolv
+
+abrangente geograf
+
+identific inform necess par respond questa auditor
+
+identific font cad item inform
+
+identific tecnic colet dad usad descrev respect proced
+
+identific tecnic empreg analis dad descrev respect proced
+
+especific limit quant
+
+estrateg metodolog adot
+
+acess pesso inform
+
+qualidad inform
+
+condica operacion realiz trabalh
+
+esclarec precis conclusa result pod alcanc
+
+
+formul questa quand necessari subquesto auditor equip est mesm temp estabelec clarez foc investig dimensa limit dev observ durant execuca trabalh
+
+
+ness sent adequ formul questa fundamental par sucess auditor implic decisa quant tip dad colet form colet empreg analis efetu conclusa obtid
+
+
+elabor questa auditor deves lev cont seguint aspect
+
+
+clarez especific
+
+
+b uso term poss defin mensur
+
+
+c viabil investigat possibil respond
+
+
+d articul coerenc conjunt questa elabor dev capaz esclarec problem auditor previ identific
+
+
+tip questa auditor
+
+
+tip questa formul relaca diret natur respost metodolog adot pod classific questa auditor quatr tip gao
+
+
+questa descrit formul maneir fornec inform detalh sobr exempl condica implement oper determin program ativ mudanc ocorr problem are potencial aperfeico questa busc aprofund aspect trat form prelimin durant etap planej exempl questa descrit executor loc operacionaliz requisit acess estabelec pel program
+
+
+b questa normat aquel trat compar entr situaca existent aquel estabelec norm padra met tant carat qualitat quant quantitat abordag metodolog empreg ness cas compar criteri previ identific desempenh observ abord dev usual pergunt tip program alcanc met previst sistem instal atend especific program
+
+
+c questa avaliat impact causaeefeit questa avaliat referems efetiv objet auditor vao alem questa descrit normat par enfoc ocorr cas program ativ tiv sid execut outr palavr questa avaliat quer sab diferenc fez intervenca governamental par soluca problem identific escop pergunt abrang tamb efeit esper posit negat provoc pel program exempl questa avaliat med efeit observ pod atribu program questa avaliat quas sempr requ estrateg metodolog bastant complex envolv model experiment grup control analis estatist sofistic modelag ess tip estud pod traz result revel funca complex envolv car demor implement
+
+
+d questa explorator destin explic event especif esclarec desvi relaca desempenh padra raza ocorrente determin result pergunt tip qua princip fator respond pel cris sistem transport aere fator explic aument express gast pagament benefici auxiliodoenc long ultim dec
+
+
+formul questa auditor process interat depend fundamental inform obtid fas planej daquil quer investig geral utilizas tecnic brainstorming par preenchiment permit cad participant expor livrement ide interpret alcanc entend comum sobr formul problem questa subquesto auditor
+
+
+embor exist metod facil par cheg questa auditor recomendas abordag estrutur par formul inspir metod cartesian soluca problem descrit segu
+
+
+
+pass descrev problem
+
+
+bas inform propici pel analis prelimin objet auditor express form clar objet aquil motiv auditor descrica problem dev suficient par nort concepca auditor
+
+
+cas solicit par realiz auditor sej formul maneir gener muit abrangent planej dev defin escop auditor etap fundamental par poss compreensa clar audit explicit naoescop sej daquil trat pel auditor pod necess par estabelec precisa limit trabalh
+
+
+
+exempl formul problem auditor
+
+
+
+part ana dispendi governament benefici auxiliodoenc tiv aument express iss par assegur prest servic qualidad coib desperdici recurs public important investig adequ mecan control inss par gerenci concessa manutenca dess benefici bem avali contribuica servic reabilit profissional beneficiari vis reduca cust
+
+
+font adapt relatori auditor operacional sobr benefici auxiliodoenc tc
+
+
+
+pass formul possiv questa
+
+
+problem dev subdivid part sobreponh mei brainstorming identifiqu possiv questa respond poss elucid problem formul segu estabelec hierarqu questa
+
+
+
+
+
+
+regr rig sobr quand formul subquesto auditor contud questa dev foc especif trat apen necessari subquesto dev formul par cad del sej mais simpl possivel conjunt abranj desej investig mei questa auditor subquesto facilit organiz inform projet auditor linh matriz planej permit leitor acompanh logic desenh auditor excess subquesto pod torn matriz extens repetit cansat send dev adot soluca mais adequ cad trabalh
+
+
+
+exempl formul questa subquesto auditor
+questa
+control intern sobr auxiliodoenc adequ par garant razoavel seguranc pagament dess benefici
+subquesta
+control intern sobr ativ concessa benefici auxiliodoenc adequ par garant razoavel seguranc pagament dess benefici
+subquesta
+control intern sobr ativ manutenca benefici auxiliodoenc adequ par garant razoavel seguranc pagament dess benefici
+questa
+cobertur atend servic reabilit profissional impact econom gast benefici
+subquesta
+estrutur fisic servic numer servidor aloc suficient par atend demand reabilit profissional
+subquesta
+econom servic reabilit possibilit potencial cresciment
+
+
+font adapt relatori auditor operacional sobr benefici auxiliodoenc tc
+
+
+
+pass test questa
+
+
+identifiqu questa dificil respost consider dificuldad pod contorn confront questa recurs disponiv par realiz auditor defin term cust praz execuca pessoal consider aind competente equip visav necess par execuca projet auditor
+
+
+
+pass elimin questa essenci
+
+
+descart questa desprov potencial par melhor desempenh tenh soluca viavel portant criteri par escolh exclusa determin questa relevanc conclusa pod alcanc factibil estrateg metodolog requer par respondel form satisfator prioriz questa dec qua dev estud lembres questa dev sucint sem ambigu
+
+
+defin problem questa auditor equip dev especific criteri auditor elabor matriz planej
+
+
+especific criteri auditor
+
+
+aind fas planej equip dev defin criteri auditor padra desempenh utiliz par med economic eficiente eficac efetiv objet auditor represent estad ideal desej daquil examin oferec context par avali evidente compreend achad conclusa recomend auditor compar entr criteri situaca existent condica ger achad auditor portant criteri represent expectat razoavel fundament dev melhor pratic benchmarks contr qua desempenh compar avaliadox issa apendic gao
+
+
+criteri auditor desempenh papel fundamental desenvolv divers aspect trabalh serv bas par issa apendic
+
+
+definica arcabouc conceitual basic facilit comunic entr integrant equip auditor autor tcu gestor
+
+
+b delimit escop auditor torn explicit objet
+
+
+c orient colet dad indic obter evidente significat
+
+
+d fixaca parametr baliz conclusa recomend auditor
+
+
+auditor operacion escolh criteri auditor mais flexivel frequent cont element discricionariedad julgament profissional depend cas examin font mais adequ par criteri auditor norm oficial express leis regul fundament cientif tend referente literatur especializ norm profission boas pratic entr font pod empreg par definica criteri auditor issa gao
+
+
+leis regul reg funcion entidad audit
+
+
+b decisa tom pel pod legislat execut
+
+
+c referente compar histor compar melhor pratic
+
+
+d norm valor profission
+
+
+indicadoreschav desempenh estabelec pel entidad audit pel administr
+
+
+f opinia especial independent
+
+
+g criteri utiliz auditor simil empreg outr entidad fiscaliz superior efs
+
+
+h organiz realiz ativ semelhant tenh program simil
+
+
+i bibliograf especializ
+
+
+criteri pod mais facil defin sempr objet estabelec pel legislacion pel pod execut sej clar precis relevant quand vag conflitant equip auditor dev interpretal reelaboral tornando mais operacion mensur ness cas pod empreg duas abordagens alternat primeir cons consult especial are sobr dev interpret med objet met qua dev result esper dad condica aind mais reconhec pratic compar segund alternat cons consult gestor ator interess relevant par defin acord criteri bem fundament realistasx
+
+
+defin criteri auditor equip dev assegur sej raza exequiv relevant par objet auditor definica criteri adequ dev atend aind seguint caracterist issa apendic
+
+
+confiabil dev result conclusa consistent quand aplic outr auditor mesm circunstanc
+
+
+b objetiv dev livr qualqu tendencios part auditor gerenc
+
+
+c util dev result achad conclusa atend necess inform interess
+
+
+d clarez dev clar enunci sujeit interpret significativ diferent
+
+
+comparabil dev consistent criteri utiliz par audit program ativ simil aquel usad previ par audit mesm objet auditor
+
+
+f completud dev incorpor dimensa relevant par avali desempenh
+
+
+g aceitabil dev aceit part especial independent orga entidad audit legislat mid public geral
+
+
+elabor matriz planej
+
+
+defin problem questa auditor equip dev elabor matriz planej tratas quadr resum inform relevant planej auditor quadr apresent model matriz planej empreg auditor operacion
+
+
+quadr model matriz planej
+
+
+
+problem express form clar objet aquil motiv auditor
+
+
+exempl achad auditor
+
+achad insuficiente leit psiquiatr maior part estad brasileir
+
+criteri quantidad leit psiquiatr estabelec pel organiz mundial saud mil habitant
+
+condica brasil med leit psiquiatr mil habitant
+
+caus
+
+distribuica desigual leit entr estad feder regia sud dispo leit mil habitant enquant regia nort indic
+
+distribuica leit atend criteri populacion
+
+ausenc plan municip estadu saud mental
+
+control social incipient
+
+efeit
+
+deficiente atend loc baix indic leit
+
+migraca pesso transtorn ment entr municipi entr estad dificult planej atenca saud
+
+
+proposit matriz planej auxili elabor conceitual trabalh orient equip fas execuca ferrament auditor torn planej mais sistemat dirig facilit comunic decisa sobr metodolog auxili conduca trabalh camp matriz planej instrument flexivel conteud pod atualiz modific pel equip med trabalh auditor progrid
+
+
+matriz tamb principal instrument apoi elabor projet auditor cont inform essenci defin dai importanc discussa amadurec matriz inici redaca projet auditor apendic detalh cad element compo matriz planej
+
+
+valid matriz planej
+
+
+process valid matriz planej pass duas etap primeir revisa supervisor matriz planej dev submet painel referente objet colh critic sugesta par aprimor ess process valid objet especif
+
+
+confer logic auditor rigor metodolog utiliz question font inform estrateg metodolog metod analis utiliz confront objet auditor
+
+
+b orient aconselh equip auditor sobr abordag adot pel auditor
+
+
+c prov vari conjunt opinia especializ independent sobr projet auditor
+
+
+d assegur qualidad trabalh alert equip sobr falh desenvolv concepca
+
+
+confer presenc benefici potenci significat
+
+
+portant composica painel organiz pel equip auditor dev favorec debat reflet diferent pont vist sobr auditor painel pod cont particip especial convid univers centr pesquis consultor tecnic congress inter representant control intern orga planej orcament representant ministrorelator auditor reconhec experiente representant organiz terceir setor quand cas gestor pod particip painel referente sempr equip supervisor entend presenc trar prejuiz objet propost painel
+
+
+outr papel men important desempenh pel painel referente fortalec control social possibilit ator relevant particip discussa projet auditor poss esclarec sobr natur fiscaliz exerc pel tcu ger expectat sobr result trabalh fortalec imag institucional
+
+
+segund etap process valid cons apresent matriz planej gestor orga program audit depo ajust necessari funca result discussa painel referente final dess proced apresent result etap planej realiz particip gestor vis obter compromet objet conduca auditor
+
+
+elabor instrument colet dad testepilot
+
+
+defin valid matriz planej passas elabor instrument colet dad utiliz durant execuca auditor cad tecnic colet dad entrev questionari grup focal observ diret possu instrument propri desenh form garant obtenca inform relevant suficient par respond questa auditor
+
+
+tod equip dev envolvers elabor instrument colet dad qua dev test par garant consistente realiz testepilot permit aind confer premiss inici acerc funcion objet audit qualidad confiabil dad
+
+
+par obter quadr representat equip dev escolh par realiz testepilot local aspect objet auditor apresent dificuldad potenci conduca trabalh permit equip antecip problem pod enfrent alem diss dad colet permit ajust tamanh amostr assegur estrateg metodolog selecion oferec respost conclus questa auditor
+
+
+portant realiz testepilot alt recomend cas auditor grand complex loc dificil acess cust elev aument chanc trabalh desenvolv alcanc nivel qualidad desej menor cust possivel
+
+
+elabor projet auditor
+
+
+final etap planej equip dev prepar projet auditor resum natur trabalh realiz result pretend alcanc projet dev explicit motiv par investig determin problem auditor segund enfoqu especif utiliz cert metodolog
+
+
+portant projet cont descrica sucint objet auditor objet trabalh questa investig proced desenvolv result esper realiz auditor fara part apendic matriz planej resum inform centr projet auditor cronogram propost par conduca trabalh estimat cust inclusiv contrat especial quand cas
+
+
+fundamental destac result pretend alcanc realiz auditor indic oportun aperfeico sempr possivel econom recurs public fim permit analis custobenefici auditor
+
+
+compet coorden equip assegur projet auditor contenh tod inform necess corret oportun apreci propost trabalh
+
+
+execuca
+
+
+etap execuca cons obtenca evidente apropri suficient par respald achad conclusa auditor
+
+
+princip ativ realiz durant execuca
+
+
+desenvolv trabalh camp
+
+
+b analis dad colet
+
+
+c elabor matriz achad
+
+
+d valid matriz achad
+
+
+geral colet analis dad ativ estanqu excet pesquis dad colet interpret analis simultan depend metodolog adot projet auditor pod hav variaca significat organiz trabalh camp estrateg analis dad
+
+
+achad auditor
+
+
+achad discrepanc entr situaca existent criteri achad situaca verific pel auditor durant trabalh camp usad par respond questa auditor achad cont seguint atribut criteri dev condica caus raza desvi relaca criteri efeit consequente situaca encontr quand criteri compar situaca existent surg achad auditor issa
+
+
+criteri auditor padra desempenh usad par med economic eficiente eficac efetiv objet auditor serv par determin objet audit ating exced est aqu desempenh esper pod defin form quantitat qualitat ating exced criteri pod indic ocorrente boas pratic alcanc criteri indic oportun melhor desempenh important destac desempenh satisfatori desempenh perfeit esper consider circunstanc qua audit trabalh issa apendic paragraf cont mais inform sobr criteri auditor
+
+
+condica situaca existent identific document durant auditor caus raza diferenc entr condica criteri caus servira bas par deliber propost efeit consequente diferenc constat pel auditor entr condica criteri efeit indic gravidad situaca encontr determin intens aca corret gao
+
+
+criteri auditor dev
+
+
+
+evidente auditor
+
+
+
+achad auditor compar dev
+
+
+
+determin caus efeit achad
+
+
+
+desenvolv conclusa recomend determin
+
+
+
+estim sempr possivel prov benefici recomend determin
+
+
+sempr obrigatori identific tod quatr atribut achad auditor cuj objet investig determin problem analis caus geral criteri defin prior sequ sent fazel issa cas exempl questa explorator defin paragraf d
+
+
+possivel identific seguranc caus situaca encontr ess identific necessit investig requ metodolog sofistic fog escop auditor
+
+
+identific achad auditor ocorr duas form complement avali avali relevanc achad caus desempenh insuficient cas desempenh acim expectat caus dev investig par identific boas pratic issa
+
+
+auditor tamb dev avali efeit achad quand possivel efeit dev quantific exempl cust process ineficient instal improdut pod estim alem diss process gerenci ineficient pod result atras desperdici recurs efeit qualitat resultant decisa gerenci equivoc falt control qualidad prest servic public pod impact significat sobr beneficiari efeit ocorr important verific tom providente par evit volt ocorr efeit facil identific auditor dev tent estimal issa
+
+
+evidente
+
+
+evidente inform obtid durant auditor usad par fundament achad conjunt achad ira respald conclusa trabalh equip dev esforcars par obter evidente diferent font divers natur porqu iss fortalec conclusa issaiapendic
+
+
+equip dev determin quantidad tip evidente necess par atend objet plan auditor form adequ par iss necessari evidente tenh atribut issaiapendic
+
+
+validad evidente dev legitim sej base inform precis confi
+
+
+b confiabil garant obtid mesm result auditor repet par obter evidente confi important consider convenient usar diferent font interessant usar diferent abordagens font extern geral mais confi intern evidente document mais confi ora evidente obtid observ diret analis mais confi aquel obtid indiret
+
+
+c relevanc evidente relevant relacion form clar logic criteri objet auditor
+
+
+d suficiente quantidad qualidad evidente obtid dev persuad leitor achad conclusa recomend determin auditor bem fundament important lembr quantidad evidente substitu falt outr atribut validad confiabil relevanc quant maior material objet audit risc auditor grau sensibil audit determin assunt maior necess evidente mais robust existente auditor anterior tamb indic ess necess
+
+
+evidente pod classific quatr tip issaiapendic
+
+
+fisic observ pesso loc event pod obtid mei fotograf vide map evidente fisic costum caus grand impact fotograf situaca insalubr insegur exempl pod mais convincent long descrica
+
+
+b documental tip mais comum evidente pod dispon mei fisic eletron obtid inform existent tais ofici memorand correspondente contrat extrat relatori necessari avali confiabil relevanc dess inform relaca objet auditor
+
+
+c testemunhal obtid mei entrev grup foc questionari par inform testemunhal poss consider evidente apen contextualiz precis corroboral mei confirm escrit entrevist existente multipl font confirm fat
+
+
+d analit obtid mei analis compar interpret dad inform existent est trabalh pod envolv analis tax padra tendenc normal mei process computacional tip evidente mais dificil obter
+
+
+equip auditor dev avali falt evidente apropri suficient deves falh estrateg metodolog deficiente objet auditor exempl falh control intern problem operacion estrutur primeir cas pod necessari modific estrateg metodolog revis objet auditor escop segund cas problem identific achad auditor
+
+
+equip auditor dev consider evidente pod apresent problem fragil princip referems evidente issaiapendic
+
+
+base apen font
+
+
+b testemunh corrobor document observ
+
+
+c cuj cust obtenca atend criteri custobenefici
+
+
+d provenient apen gestor equip audit
+
+
+cuj unic font parcial relaca result trabalh
+
+
+f obtid amostr naorepresentat
+
+
+g relacion ocorrente isol
+
+
+h conflitant
+
+
+exist tecnic pod contribu par obtenca evidente mais robust del circulariz cons confirm junt terceir fat inform apresent pel audit brasil outr triangul uso diferent metod pesquis colet dad par estud mesm assunt objet fortalec conclusa patton
+
+
+quadr process logic identific achad produca recomend determin
+
+
+achad
+
+boas pratic
+
+recomend determin
+
+benefici esper
+
+situaca encontr
+
+criteri
+
+evidente analis
+
+caus
+
+efeit
+
+constat maior relevanc identific fas execuca
+
+padra usad par determin objet audit ating exced est aqu desempenh esper
+
+result aplic metod analis dad empreg produca evidente form sucint dev indic tecnic usad par trat inform colet durant execuca result obtid
+
+pod relacion operacionaliz concepca objet auditor fora control influenc gestor
+
+identific caus requ evidente analis robust
+
+deliber cont med consider necess par san caus desempenh insuficient
+
+consequente relacion caus correspondent achad
+
+pod med relevanc achad
+
+aca identific comprovad lev bom desempenh aca pod subsidi propost recomend determin
+
+dev elabor form trat orig problem diagnostic
+
+sugeres parcimon quantidad deliber prioriz par soluca princip problem
+
+melhor esper alcanc implement rec mendaco determin
+
+benefici pod quantitat qualitat sempr possivel quantifical
+
+
+
+
+font issa
+
+
+desenvolv trabalh camp
+
+
+trabalh camp cons colet dad inform defin planej auditor tip dad colet font dess dad depend estrateg metodolog criteri estabelec dad colet dev precis complet compar frequent ess colet consider taref mecan part men interessant auditor ativ important consom grand quantidad temp esforc hatry winni fisk qualidad colet analis document dad fundamental par garant bons result auditor issa
+
+
+normal colet dad feit in loc equip aplic instrument desenvolv test fas planej metod colet dad mais usad entrev questionari grup focal observ diret
+
+
+quand objet auditor inclu generaliz achad par univers pesquis soluca mais comument adot tratament estatist estud cas estud cas representat possivel generaliz result sej achad identific cas pod aplic outr cas
+
+
+important auditor obtenh melhor inform possiv tant fat quant opinia argument reflexa diferent font busqu apoi especial issa auditor dev busc evidente necess par respond questa auditor cuid par desvi foc trabalh colet grand quantidad inform muit desnecess irrelevant pollit et all
+
+
+par sucess trabalh camp necess realiz divers ativ operacion execuca auditor equip dev
+
+
+agend visit estud entrev grup foc
+
+
+b providenci ofici apresent
+
+
+c reserv passagens hot
+
+
+d inform telefon contat supervisor
+
+
+prepar material necessari cop questionari roteir entrev grup focal observ diret
+
+
+preenchiment matriz achad dev inici durant trabalh camp med achad constat esclarec fiz necessari dev colh aind camp par evit malentend eventu nov solicit inform consequent desperdici esforc brasil
+
+
+analis dad colet
+
+
+durant trabalh camp equip obtem grand quantidad dad dev organiz separ analis selecion aquel evidenc achad auditor portant ajud respond questa outr inform dev descart par desvi auditor foc par retard analis dad relevant pollitt et al
+
+
+par analis dad colet usad ferrament tecnic adequ definica metod depend estrateg metodolog adot apendic apresent princip tecnic analis document tecnic apresent dad brasil orient sobr form mais adequ comunic result analis elabor
+
+
+estagi final analis dad cons combin result obtid diferent font metod geral par faz ist fundamental auditor trabalh form cuidad sistemat interpret dad inform colet par ess ativ necessari analis argument afirm consult especial faz compar tamb vital auditor adot abordag critic mantenh objetiv relaca inform disponiv mesm temp dev recept diferent argument pont vist issa
+
+
+matriz achad
+
+
+constat inform obtid durant execuca auditor bem propost conclusa recomend determin registr matriz achad
+
+
+matriz achad instrument util par subsidi nort elabor relatori auditor porqu permit reun form estrutur princip element constitu capitul centr relatori matriz propic compreensa homogene achad element constitut pel integrant equip auditor dem interess itens compo matriz achad apresent quadr
+
+
+quadr model matriz achad
+
+
+questa auditor repet questa matriz planej
+
+
+padra elabor relatori intosa aplic auditor operacional
+
+final cad auditor auditor dev prepar opinia escrit relatori registr achad form adequ conteud dev facil entend livr ide vag ambigu dev inclu soment inform sej apoi evidente competent relevant independent objet just construt
+
+
+durant execuca auditor situaca encontr compar criteri previ selecion identific pel equip diferenc observ achad auditor devid respald pel evidente
+
+
+caracteriz achad auditor equip dev identific caus efeit desempenh observ geral proced conclu final trabalh camp entretant funca complex evidente supervenient analis pod estenders fas relatori
+
+
+sempr possivel deves mensur efeit associ achad auditor exempl cas process antieconom aquisica mal planej equip improdut efeit pod estim valor monetari efeit decorrent proced ineficient recurs ocios gerenci deficient pod dimension term descumpr praz desperdici recurs fisic efeit qualitat tamb dev mencion deficiente control decisa inadequ ma qualidad bem servic oferec dificuldad quantific benefici potenci var segund tip benefici entretant muit cas benefici financeir pod estim razoavel seguranc
+
+
+caus achad auditor bas par deliber houv multipl caus par mesm achad equip dev identific aquel modific pod preven situaca simil deves consider aind possibil caus identific fora control audit faz foc deliber transcend objet auditor
+
+
+propost vis melhor desempenh administrat operacional aspect mais important auditor operacion conquant aperfeico requer mei par alcancal constitu objet deliber conv indic aspect dev examin pel gestor busc soluca
+
+
+formul propost deliber equip dev consider cust implement econom recurs decorrent cust dev super benefici esper tamb important destac aspect mais relevant evit quantidad excess deliber pod desvi foc gestor implement providente san princip deficiente objet audit tamb pod dificult monitor deliber lev custobenefici inadequ
+
+
+valid matriz achad
+
+
+elabor matriz achad valid feit mei realiz segund painel referente objet principal dest painel verific coerenc matriz apresent ness ocasia participant convid discut equip princip conclusa auditor suficiente evidente colet adequ analis realiz pertinente propost encaminh painel matriz achad dev valid pel gestor exempl proced adot valid matriz planej
+
+
+relatori
+
+
+relatori principal produt auditor instrument formal tecnic intermedi equip comun objet questa auditor metodolog usad achad conclusa propost encaminh brasil intosa apresent padra internacion elabor relatori auditor governamental par entidad fiscaliz superior
+
+
+concepca intosa sobr elabor relatori auditor process continu
+
+med trabalh progrid relatori prelimin auditor tom form long auditor analis dad inform envolv ponder argument afirm consult especial faz compar analis not observ organiz form estrutur matriz achad med discussa intern extern progrid text rascunh avali reescrit detalh confer conclusa discut bas text intermediari discussa princip problem conclusa pod debat fat confirm audit propost desenvolv
+
+
+font issa
+
+
+objet dest capitul estabelec padra apresent diretriz elabor relatori auditor operacional favorec racionaliz process criaca ident caracterist tratas tamb estrutur seguint seca part textual relatori introduca capitul princip analis comentari gestor conclusa propost encaminh detalh sobr composica cad element relatori document especif sobr elabor relatori auditor operacional
+
+
+comunic result auditor dev report sociedad sobr desempenh administr public contribu par responsabiliz agent public pel result aca govern mediant control parlament control social
+
+
+demonstr qualidad trabalh depend form questa auditor trat relatori import inform sej organiz dispost rigor tecnic apropri grau detalh princip pont sej destac desenvolv text dev guard coerenc sequenc logic argument form tod coes convincent clar visual atrat portant capaz escrev relatori qualidad competente essencial profission realiz auditor operacion
+
+
+par relatori tenh qualidad alem experiente habil autor important elabor sig orient padra dest manual
+
+
+orient ger par elabor relatori
+
+
+elabor relatori auditor dev segu seguint orient ger
+
+
+conduz process continu
+
+
+b consider pont vist leitor
+
+
+c basears matriz achad
+
+
+elabor relatori dev vist process continu formul test revisa ide sobr objet auditor questa benefici potencial auditor possiv recomend determin bem argument convincent sobr conclusa dev consider long auditor estabelec praz par entreg trech intermediari pod aument probabil relatori fic pront tempestiv issa
+
+
+long tod fas auditor enfas dev produca relatori final issa lad nad adiant realiz excelent trabalh planej execuca auditor relatori capaz comunic mensag form efet outr possivel elabor relatori qualidad projet auditor consistent evidente colet robust
+
+
+diretriz intosa sobr divulg relatori auditor
+
+relatori abrangent distribuica ampl tod relatori chav par credibil funca auditor possivel cad auditor operacional dev public relatori separ
+
+
+font issa
+
+
+par relatori sej ute acessiv important lev consider pont vist leitor issa brasil inicial relatori auditor operacional tera tramit intern direcion principal relator mat alem diss vis comunic inform sobr desempenh formul polit gestor tres niv govern outr orga control avali document complement relatori sumari execut not par imprens apresent slid public mais ampl obedec orient especif
+
+
+instrument usad pel tcu par organiz princip element relatori matriz achad matriz bas par discussa sobr estrutur text entr integrant equip auditor bem par discussa supervisor trabalh par apresent painel referente
+
+
+fat redaca relatori normal compartilh pel integrant equip auditor reforc necess dispor instrument apoi elabor relatori natural cad colabor tenh estil propri redig iss tornas necessari tod membr equip discut previ estrutur form apresent inform
+
+
+conform orient padra elabor bem construca entend comuns mei discussa durant auditor diminu possibil text produz fic muit disp desej equip mantenhas mobiliz tenh sid finaliz redaca relatori realiz ness period revisa cruz text elabor cuid torn mais eficient trabalh final coorden equip cab confer trabalh unidad form estil
+
+
+padra elabor
+
+
+padra internacion par elabor relatori aplic auditor operacion resum princip caracterist bom relatori issa tcu devems observ requisit clarez concisa convicca exatida relevanc tempestiv objetiv brasil bem completud convenc issa formul dess caracterist pel tcu desenvolv segu
+
+
+clarez produz text facil compreensa par leitor inform par aument clarez compreensa relatori
+
+
+defin term tecnic
+
+
+b defin signific sigl list correspondent use nom extens primeir aparec text
+
+
+c apresent fat form precis
+
+
+d apresent evidente articul argument form logic
+
+
+use fras curt evit period long estend divers linh
+
+
+f cri coesa textual mei sequenci logic ide uso conect adequ
+
+
+g prefira usar ordem diret sujeit verb objet complement evit oraca intercal parentes travessa brasil
+
+
+h complement text figur fotograf grafic diagram map caix text tabel
+
+
+i evit uso sinon par design mesm cois diferent text literari relatori devems usar mesm term inici fim
+
+
+j evit abreviatur
+
+
+k evit term erudit expressa outr idiom
+
+
+convicca expor achad conclusa firmez evit expressa transmit inseguranc duv par leitor salv melhor juiz parec inform apresent dev convenc leitor sobr validad achad razoabil conclusa benefici decorrent implement propost portant achad dev apresent form persuas articulandos conclusa propost form decorr logic analitic fat argument apresent issa relatori dev convincent mod deliber tribunal ganh apoi ator capaz influenci gesta objet audit sej implement ger melhor desempenh benefici sociedad
+
+
+concisa produz text sej mais extens necessari par transmit mensag fundament conclusa issa concisa deves dar preferente citaca indiret lug long transcrica text origin resumindos inform desej transmit padra indicat part textual relatori auditor operacional excet propost encaminh dev exced pagin analis muit complex pod requer relatori mais long relatori complet tamb concis mais ute leitor maior probabil lid public maior issa
+
+
+exatida garant tod inform apresent sej precis corret registr exatida indispens par assegur leitor relatori crivel confiavel imprecisa relatori pod lanc duv sobr validad tod trabalh desvi atenca pont important issa exatida tamb signif sej descrit corret escop metodolog bem apresent achad conclusa form consistent escop auditor issa alem diss relatori dev inform sobr qualidad dad grau precisa estimat imprecisa pod prejudic imag orga control
+
+
+relevanc expor apen importanc consider objet auditor evit long trech descrit acrescent inform necess fundament argument relat precis inclu tod situaca encontr cuj registr fic preserv pap trabalh
+
+
+tempestiv cumpr praz previst par elabor relatori sem compromet qualidad brasil relatori dev cont inform atualiz par poss subsidi orga audit bem formul polit dem ator interess aperfeico ativ teor inform dev portant agreg valor issa issa i descumpr praz prejud supervisa auditor particip audit encaminh processual
+
+
+objetiv produz text imparcial equilibr neutr issa aspect objetiv conduca auditor reflet relatori seguint
+
+
+estrateg metodolog defin par auditor dev assegur seleca fat investig apresent relatori sej vies issa
+
+
+b achad relatori dev base evidente obtid
+
+
+c fat dev registr acord relevanc par escop auditor fat relevant dev exclu pequen falh dev exager issa
+
+
+d explic gerenci sempr dev solicit critic avali issa
+
+
+fat dev apresent separad opinia issa
+
+
+f linguag utiliz dev isent qualqu conot tendenci ambigu form evit atitud defens oposica issa
+
+
+g relatori auditor dev apont tant achad negat quant fat posit apes relatori foc falh desempenh insuficient apresent evidente form vies contribu par aument credibil issa
+
+
+h apresent fragil achad critic dev ocorr mod induz correca bem aperfeico sistem diretriz intern issa
+
+
+i relatori dev redig form denot impessoal
+
+
+completud apresent tod inform argument necessari par satisfaz objet auditor permit corret compreensa situaca relat registr tod element necessari composica relatori issa relaca entr objet criteri achad conclusa precis verific bem express form clar complet issa
+
+
+apresent dad
+
+
+element chav par qualidad relatori auditor analis abrangent dad apresent important inform sej bem apresent par relatori comuniqu clar conclusa propost deliber analis qua base
+
+
+introduca
+
+identific simplific objet auditor
+
+antecedent
+
+objet escop auditor
+
+criteri
+
+metodolog
+
+visa geral
+
+primeir capitul principal
+
+objet capitul
+
+contextualiz especif par capitul
+
+descrica conteud capitul
+
+subtitul
+
+paragraf inicial impact descrica concis achad
+
+criteri
+
+analis evidente
+
+caus
+
+efeit risc decorrent manutenca situaca encontr
+
+boas pratic
+
+conclusa
+
+propost
+
+benefici esper
+
+analis comentari gestor
+
+conclusa
+
+propost encaminh
+
+
+font issa
+
+
+planej estrutur text deves prev sequenc illustr form poss demonstr princip evidente conclusa equip auditor desej apont divers mei apresent dad inclu grafic diagram map fotograf caix text orient sobr apresent dad encontr roteir especif tcu brasil
+
+
+citaca referente
+
+
+legislacion brasileir permit utiliz autoriz obras par fins estud critic polem bem par produz prov administrat sem final lucrat desd sej observ direit citaca lei associ brasileir norm tecnic abnt determin inform colh outr font dev cit dev elabor referente abnt
+
+
+component relatori auditor
+
+
+relatori essenc comunic sobr achad auditor emissa opinia qualific sobr desempenh articul argument favor adoca cert med vis melhor desempenh achad argument desenvolv capitul princip relatori
+
+
+principal instrument apoi elabor relatori auditor matriz achad matriz represent sintet result auditor desenvolv relatori dai importanc discussa matriz entr integrant equip gestor dem ator relevant inici redaca text
+
+
+relatori auditor divides element pretextu text element postextu element pretextu folh rost resum list sigl list figur list tabel sumari text compoes introduca visa geral capitul princip analis comentari gestor conclusa propost encaminh element postextu apendic referente glossari
+
+
+text dev divid capitul subtitul seca nom gener qualqu part divid text document abnt paragraf text dev numer sequencial part introduca sem desdobr numer capitul numer subtitul constitu pel numer capitul pertenc segu pont numer atribu sequenc assunt abnt
+
+
+quadr estrutur recomend par part textual relatori auditor operacional
+
+
+situaca
+
+monitor
+
+monitor
+
+monitor
+
+itens
+
+
+
+itens
+
+
+
+itens
+
+
+
+implementadacumpr
+
+
+
+
+
+
+
+
+
+
+
+
+
+parcial implementadacumpr
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement
+
+
+
+
+
+
+
+
+
+
+
+
+
+implementadana cumpr
+
+
+
+
+
+
+
+
+
+
+
+
+
+aplic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ necessari cri titul par indic conteud paragraf
+
+
+introduca
+
+
+introduca part inicial text dev cont element necessari par situ auditor compoes seguint element
+
+
+identific simplific objet auditor detalh apresent visa geral
+
+
+b antecedent contempl raza origin auditor decisa autoriz existente fiscaliz anterior mesm objet
+
+
+c objet escop auditor ond dev clar enunci objet ger especif limit trabalh especific sistem aspect audit bem justificat adot abordag descrit
+
+
+d criteri dev cont padra ger utiliz par emit opinia sobr desempenh objet auditor pod inclu arcabouc conceitual basic auditor mais complex bem font padra desempenh utiliz criteri especif aplic questa auditor dev descrit capitul correspondent
+
+
+metodolog compreend metod empreg colet analis dad metodolog dev expost resumid registrandos detalh apendic dev mencion limit impost trabalh associ metodolog usad par investig questa auditor confiabil dificuldad obtenca dad limit relacion propri escop trabalh sej are aspect analis
+
+
+opcional quand necessari torn mais clar logic relat pod acrescent paragraf final introduca descrev form organiz relatori ess paragraf dev faz descrica brev trat capitul princip ressalt ligaca logic entr
+
+
+visa geral
+
+
+visa geral descrevems caracterist objet auditor necess par compreensa relatori fazendos correl objet auditor quand cas text analit resultant aplic tecnic diagnost important par subsidi redaca dess capitul element visa geral pod objet respons histor beneficiari princip produt relevanc indic desempenh met aspect orcamentari process tom decisa sistem control
+
+
+inform compora visa geral depend objet auditor alem diss concisa possivel apresent inform especif capitul princip sem repetil visa geral mesm form possivel registr apendic dad histor outr inform contextualiz diret relacion objet auditor
+
+
+capitul princip
+
+
+capitul princip compoems relat articul argument sobr achad auditor capitul dev apresent ordem decrescent relevanc ist inicias pel revel mais important mesm aplic apresent achad dentr cad capitul subtitul apresent ordem decrescent relevanc portant sempr mant ordem propost projet auditor outr form organiz text part mais ger par mais especif ess pod melhor maneir apresent assunt complex interlig cuj compreensa sej facilit part leitur achad introduz context dem inser
+
+
+estrutur recomend pretend abrang cas ger mais frequent quadr apresent sequenc tipic apresent inform signif cad element relat tenh apresent apen paragraf tod element tenh present anterior esclarec nest manual depend tip questa auditor sempr possivel identific caus formul propost exempl alem diss discussa evidente pod extens inclu apresent grafic tabel outr illustr
+
+
+pont crucial relatori analis evidente evidente dev apresent form logic articul illustr facilit compreensa situaca encontr argument fundament posica equip dev confront melhor argument contrari issa
+
+
+subtitul dev cont conclusa referent pont trat conclusa afirmat relacion objet investig deduz analis evidente contr criteri
+
+
+segu cas equip dev formul resumid propost const capitul propost encaminh sem entant enuncial form ident propost pod basears conclusa mais subtitul par evit repetica vari trech propost pod formul junt conclusa capitul
+
+
+fim equip dev quantific possivel estim benefici pod obtid cas propost sej implement tamb concisa cas sej convenient equip pod estim benefici esper final capitul conclusa relatori agrup propost contribu par obtenca mesm benefici brasil detalh memor calcul apendic
+
+
+analis comentari gestor
+
+
+audit sempr dev oportun examin relatori prelimin auditor sej torn public issa dess form unidad tecnic dev diligenci par audit apresent comentari escrit sobr relatori prelimin fix praz compat relatori prelimin tod element relatori final excet capitul analis comentari gestor represent oportun gestor tom conhec achad conclusa propost context complet escrit issa unidad tecnic pod deix inclu propost encaminh relatori prelimin cas conhec pel gestor coloqu risc alcanc objet auditor
+
+
+gestor dev inform sobr carat sigil relatori prelimin cop impress relatori encaminh dev cont marc dagu diagonal tod pagin expressa sigil
+
+
+comentari oferec dev analis instruca equip auditor avali necess rev pont relatori apresent argument par mant posica discordant gestor
+
+
+quand audit fornec nov inform apresent comentari equip dev avalial segund padra aplic evidente incorporal relatori issa cas nov inform argument audit sej important par esclarec pont relatori sej suficient par alter entend equip modific feit capitul princip relatori sem necess mencional capitul analis comentari gestor ness cas dev const analis inform feit alter relatori raza comentari gestor
+
+
+inform argument suficient par alter entend equip dev analis capitul analis comentari gestor issa conform registr instruca
+
+
+conclusa
+
+
+ess capitul dev traz respost questa auditor conclusa dev respond objet auditor basears racional criteri especif auditor issa conclusa relatori afirm equip deduz achad dev destac pont mais important auditor princip propost deliber issa
+
+
+conclusa afirm sintet tal inevitavel omit simplific inform registr corp relatori
+
+
+conclusa dev destac form equilibr pont fort objet auditor princip oportun melhor desempenh possiv benefici esper quantificando sempr possivel term econom recurs outr natur melhor dev relat dificuldad enfrent pel gestor destac iniciat posit empreend sent super dificuldad
+
+
+propost encaminh
+
+
+cas sej propost deliber dev correspondente clar achad dev base caus dess achad issa propost encaminh recomend determin equip auditor demonstr necess contribu par san deficiente identific pel auditor
+
+
+caus problem pod fora control audit ness cas propost pod direcion par outr orgaoent hipotes recomend sej discut interess propost dev formul foc dev aperfeico corrig embor circunstanc poss surg demand formul propost especif aperfeico correca regul issa ess orient dev fat equip auditor pod aleg descobert unic soluca par san problem identific issa capitul princip equip pod mencion possiv med pod adot pel gestor bas exempl boas pratic
+
+
+elabor propost encaminh equip dev destac mediant orden adequ propost mais important alem diss dev agrupal destinatari dess form propost tiv relaca entr mesm tenh sid mencion subtitul diferent fic agrup raza conexa mesm
+
+
+propost dev indic entr parentes numer paragraf qua ref trat relatori independent menca relatori dev propost determin sent audit elabor encaminh tribunal plan aca plan dev cont cronogram implement med gestor adot vis atend deliber propost corrig problem identific brasil inclusa propost dirig outr unidad tecnic dev preced negoci entr titul brasil coorden secretariageral control extern
+
+
+important garant propost sej exequiv agregu valor tenh relaca objet auditor issa propost subsidi elabor plan aca part gestor monitor implement deliber quantific efeit raza equip dev formul numer estrit necessari propost contempl correca princip deficiente identific
+
+
+monitor
+
+
+monitor verific cumpriment deliber tcu result del advind objet verific providente adot afer efeit
+
+
+principal objet monitor aument probabil problem identific durant auditor sej pel implement deliber pel adoca outr med iniciat gestor expectat control cri pel realiz sistemat monitor contribu par aument efetiv auditor
+
+
+monitor permit gestor dem part envolv acompanh desempenh objet audit atualiz diagnost oferec inform necess par verific aca adot contribu par alcanc result desej alem diss monitor ajud identific barreir dificuldad enfrent pel gestor par solucion problem apont
+
+
+mei monitor possivel avali qualidad auditor identific oportun aperfeico aprendiz quantific benefici alem subsidi process seleca nov objet auditor inform apur monitor usad par calcul percentual implement deliber relaca custobenefici auditor indic efetiv atuaca entidad fiscaliz superior
+
+
+plan aca
+
+
+consider gestor responsabil solucion ocorrente apont durant auditor cab apresent propost med adot respect cronogram iss feit mei plan aca
+
+
+plan aca document apresent pel gestor tcu formaliz aca tom par atend deliber propost sent corrig problem identific durant auditor envolv basic cronogram defin respons ativ praz par implement deliber ess instrument norte process monitor tend aument efetiv
+
+
+elabor plan aca dev realiz pel gestor apresent tcu praz estipul pel acorda interessant representant equip auditor poss orient process construca plan par document apresent atend necess monitor abranj med satisfator par solucion problem identific ess inter pod viabiliz mei reunia gestor result esper dess esforc plan aca sej exequ
+
+
+recomendas plan aca inclu camp par registr benefici previst implement deliber ultim analis justific realiz auditor operacion benefici dev estim junt gestor aind durant auditor pod implic reduca despes aument receit elimin desperdici melhor desempenh tamb possivel obter benefici financeir tais melhor organizacion aperfeico control intern benefici soci econom reduca sentiment impun aument sentiment cidadan
+
+
+cab ressalt benefici quantific epoc auditor list plan aca estim entretant relatori ultim monitor dev cont result efetiv ating benefici caus pel implement deliber form mensur del exempl implement dess recomend economiz r milha cust operacion sempr possivel valor apur form mensur result decorrent implement deliber dev valid pel gestor possiv divergente dev registr relatori
+
+
+depend complex med propost dificuldad articul entr orga entidad envolv implement dess med recurs necessari par realiz monitor tcu pod elabor plan monitor par verific adoca providente evoluca desempenh objet audit
+
+
+sistemat monitor
+
+
+log apreci auditor pel tribunal recomendas unidad tecnic tcu encarreg monitor entr contat gestor orga program audit par oriental sobr monitor auditor houv inter pod agend reunia durant equip tcu explic participant sistemat monitor apresent gestor model plan aca entreg praz estabelec pel acorda sugeres convid representant orga control intern sempr oportun objet audit dem orga entidad envolv implement recomend determin
+
+
+necessari hav outr reunia entr interess especial quand implement deliber complex demand mais temp monitor envolv divers unidad governament quand perceb resistente part audit
+
+
+part analis plan aca gestor inform previsa monitor auditor cronogram monitor quantidad periodic praz dev adapt particular cad auditor defin part teor deliber tcu dat estabelec plan aca important monitor demor muit inici par perc expectat control tamb val pen monitor ativ muit temp acord experiente government accountability offic gao maior part deliber implement tres anos realiz auditor
+
+
+quand monitor realiz mei auditor est mesm etap auditor operacional planej execuca relatori caracterist especif destac segu preferencial coorden monitor integrant equip realiz auditor torn mais facil apreci med tom pel gestor adequ frent deliber respons pel monitor dev entrar contat coorden auditor par obter inform sobr condica peculiar trabalh inicial poss subsidi realiz monitor
+
+
+durant planej monitor equip ler relatori auditor plan aca outr document pertinent leitur envi gestor solicit document inform necessari par monitor fix praz condizent volum inform solicit
+
+
+unidad tecnic respons pel monitor avali conveniente aplic monitor final proced colet analis dad semelhant usad durant auditor principal raza par aplic proced expectat consegu mensur benefici
+
+
+relatori monitor
+
+
+relatori monitor dev document autonom sej dev cont inform suficient form sej necess par entend leitur relatori auditor outr relatori monitor relatori monitor objet apresent situaca implement deliber demonstr analitic benefici efet decorrent dess implement mensur custobenefici auditor
+
+
+estrutur form elabor relatori monitor dev segu padra defin pel tcu brasil b versa prelimin relatori monitor criteri equip supervisor pod envi gestor par poss agreg comentari sugesta julgu pertinent sobr constat equip analis dess comentari incorpor relatori final
+
+
+situaca deliber
+
+
+bas dad inform colet durant monitor equip classific deliber segund grau implement period verific seguint categor brasil b
+
+
+implement quand problem apont pel auditor objet deliber propost solucion mei providente incorpor ativ regul objet audit
+
+
+b implement
+
+
+c parcial implement quand gestor consider conclu providente referent implement deliber sem implemental total
+
+
+d implement evidente exist aca curs sent solucion ocorrente apont durant auditor der orig deliber propost
+
+
+mais aplic raza mudanc condica superveniente fat torn inexequ implement deliber
+
+
+quand deliber determin deves substitu term implement implement cumpr cumpriment cas sej fix praz pel tcu par atend deliber deves registr cumpriment encontras andament dentr praz fix praz expir
+
+
+determin par elabor plan aca deliber dirig secret tribunal dev const quadr resum portant dev consider calcul percentual implement ex envi cop acorda arquiv aut public relatori document intern tcu
+
+
+quadr exempl quadr resum situaca implement deliber
+
+
+questa auditor
+
+abordagens
+
+program est alcanc met previst
+
+estud sobr alcanc met result
+
+program funcion
+
+estud sobr process
+
+qua efeit liqu program
+
+avali impact
+
+benefici program exced cust objet alcanc menor cust possivel
+
+estud custobenefici custoefetiv
+
+ativ proced adot send realiz conform melhor pratic
+
+estud benchmarking
+
+qualidad avali realiz aceit
+
+estud metaavali
+
+
+font tribunal cont unia relatori monitor tc tc
+
+
+control qualidad
+
+
+control qualidad auditor operacion conjunt polit sistem proced estabelec par proporcion adequ seguranc trabalh alcanc objet tenh excelente tecnic satisfac norm padra profission estabelec issa apendic
+
+
+maneir auditor operacion desenvolv grau excelente relatori produz pod afet imag tribunal ess raza important assegur tod ativ sej desenvolv padra elev qualidad control qualidad important aind porqu possibilit continu aperfeico trabalh desenvolv part incorpor lica aprend
+
+
+entidad fiscaliz superior dev estabelec sistem proced garant qualidad qua dev assegur tod auditor sej desenvolv segund padra polit pertinent issa tcu estabelec tod trabalh fiscaliz dev submet control qualidad brasil
+
+
+qualidad desenvolv trabalh auditor operacional assegur pel aderente principi proced metodologias especif vis alcanc niv crescent objetiv confiabil consistente util elabor relatori dem document produz control qualidad exerc seguint objet
+
+
+assegur qualidad relatori auditor issa
+
+
+b identific oportun melhor conduca trabalh futur evit repetica deficiente issa
+
+
+c localiz deficiente desenvolv trabalh corrigil tempestiv
+
+
+d reduz temp tramit process auditor
+
+
+diminu necess retrabalh par correca deficiente
+
+
+f evidenci boas pratic execuca trabalh poss dissemin
+
+
+g contribu par desenvolv competente mei identific necess treinament
+
+
+h identific necess revisa elabor document tecnic contenh orient par execuca ativ
+
+
+i supr administr inform sistemat confi sobr qualidad trabalh
+
+
+modal control qualidad
+
+
+control qualidad process continu abrang ativ supervisa orient equip pel supervisor tod fas cicl auditor operacion bem ativ iniciat equip revisa trabalh outr agent control qualidad pod concomitant posterior
+
+
+control qualidad concomitant integras ativ desenvolv durant cicl auditor envolv orient equip pel supervisor sobr concepca auditor metod trabalh analis evidente bem ativ compartilh pel supervisor equip acompanh cronogram revisa period pap trabalh consult opinia especial pain referente control qualidad posterior pod exerc mei revisa intern extern pap trabalh relatori produz conclusa auditor
+
+
+alem adoca proced control promoca qualidad tamb pod execut mei iniciat anterior fiscaliz redaca manu objet orient execuca trabalh realiz seminari treinament vis capacit equip auditor par trabalh desenvolv
+
+
+outr form efet promov qualidad auditor cons cri condica trabalh promov dialog deleg confianc mutu dentr organiz bem estimul sens responsabil auditor issa apendic
+
+
+pap princip ator envolv control qualidad
+
+
+atuaca supervisor essencial par assegur alcanc objet auditor par manutenca qualidad trabalh independent competente individual auditor important salient auditor operacional geral mais important apoi equip auditor iniciat par alcanc alt nivel qualidad trabalh supervisional sent tradicional term issa apendic
+
+
+cab supervisor orient revis tecnic auditor orient ativ proativ abrang discut equip merit concepca trabalh projet auditor conclusa propost encaminh bem encaminh viabiliz recurs necessari execuca auditor revisa document produz referes relatori matriz planej achad projet auditor dem pap trabalh consider complex auditor
+
+
+supervisa trabalh dev procur assegur issa
+
+
+objet auditor sej alcanc
+
+
+b competente necess par execuca auditor sej domini equip sej incorpor mediant requisica contrat servic
+
+
+c membr equip tenh compreensa clar consistent projet auditor
+
+
+d achad conclusa auditor estej base inform confi evidente val consistent relevant suficient
+
+
+auditor sej execut acord padra norm tecnic adot pel tcu
+
+
+f projet auditor sej cumpr
+
+
+g recurs necessari execuca auditor estej disponiv servic tecnic equip mei desloc
+
+
+cab coorden promov discussa dem integrant equip auditor par definica escop trabalh estrateg metodolog proced tecnic utiliz escolh objet problem questa auditor determin grand part qualidad trabalh issa
+
+
+compet coorden auditor aind realiz reunia period equip par discussa problem surg durant desenvolv ativ adapt necess pap trabalh produz report supervisor andament trabalh discut tratament dad eventu problem dificuldad revis tod document obtid durant fiscaliz inclusiv contribuica dem integrant equip relatori auditor prepar versa final relatori alem diss coorden dev zel par
+
+
+objet auditor sej defin consider dad disponiv sobr desempenh objet audit
+
+
+b criteri apropri sej defin par avali questa auditor investig
+
+
+c membr equip tenh investig document compreend aspect centr objet auditor
+
+
+d objet auditor estej clar par membr equip par audit
+
+
+bom ambient trabalh sej mant entr integrant equip auditor entr equip audit
+
+
+f empreg divers tecnic auditor sig prescrica cont document tecnic correspondent
+
+
+g praz estim sej cumpr dev propor supervisor alter cronogram cas necess
+
+
+h membr equip responsabilizems pel execuca taref condizent conhec habil
+
+
+i projet auditor contenh tod inform necess par apreci propost trabalh
+
+
+ferrament control qualidad
+
+
+control qualidad auditor operacion realiz auxili determin tecnic proced rotineir facilit aplic princip ferrament control qualidad
+
+
+checklists qualidad
+
+
+b cronogram
+
+
+c matriz planej
+
+
+d matriz achad
+
+
+pain referente
+
+
+f comentari gestor
+
+
+checklist list verific realiz ativ cumpriment padra qualidad aplic ativ pap trabalh produt auditor aplic checklists pod feit tant concomitant quant auditor quand aplic concomitant checklist facilit trabalh supervisa med permit verific cumpriment pel equip auditor med chav divers etap compo trabalh auditor correca tempest deficiente quand aplic posterior checklist ajud identific oportun melhor conduca trabalh futur evit repetica deficiente
+
+
+cronogram permit equip planej organiz ativ facilit aloc membr acord proced previst temp dispon dev cont relaca taref execut respect respons praz par execuca acord entr membr equip cronogram dev submet supervisor dev utilizal par acompanh desenvolv trabalh
+
+
+matriz planej registr objet auditor bem questa investig qua possiv conclusa bas par discussa concepca trabalh par posterior acompanh execuca projet auditor ess instrument sistematiz detalh proced previst par execuca trabalh portant auxil identific falh laps planej ativ med organiz element metodolog colun especif evidente inform requer suficient par respond questa propost permit verific aind inform pod supr pel font inform list coerent estrateg metodolog metod colet analis dad defin matriz planej dev revis seguint pont
+
+
+problem auditor devid explicit
+
+
+b questa auditor clar formul
+
+
+c exist relaca clar satisfator entr questa auditor problem investig
+
+
+d metodologias escolh estrateg metod colet analis dad adequ par respond questa formul
+
+
+limit identific
+
+
+f conclusa esper trabalh auditor analis vai permit consistent metodolog propost respond questa auditor
+
+
+matriz achad contribu par control qualidad med auxil sistematiz analis result auditor matriz achad important par corret elabor relatori auditor dispo form estrutur achad evidente caus efeit element compo capitul princip relatori possivel verific exempl achad suport evidente confi suficient med propost adequ incid sobr caus problem pretend corrig questa auditor respond
+
+
+realiz pain referente pratic important possibilit control qualidad auditor operacion mei revisa matriz planej achad tant matriz planej quant matriz achad dev valid pain referente normal pain referente cont particip outr servidor tribunal conhec sobr auditor membr gabinet ministrorelator representant control intern especial extern painel referente objet avali logic auditor rigor metodolog utiliz possibilit aind equip sej alert sobr falh concepca desenvolv proced
+
+
+recomendas realiz ajust consider pertinent decorrent pain referente matriz planej achad sej apresent gestor respons pel objet auditor avali form apreci critic tamb poss contribu par melhor qualidad trabalh mesm sent encaminh versa prelimin relatori auditor par apreci manifest gestor possibilit esclarec pont obscur correca inform imprecis inconsistent aperfeico med propost
+
+
+alem control qualidad concomitant execut pel unidad tecnic realiz auditor desej sej estabelec sistem proced par confirm process garant qualidad funcion adequad issa proced inclu aplic checklists pel setor tribunal encarreg analis qualidad trabalh conclusa bem revisa posterior relatori servidor experient outr unidad tecnic gabinet autor especial extern
+
+
+apendic planej metod
+
+
+matriz planej preenchel
+
+
+embor element matriz planej sej apresent sequencial definica questa auditor escolh estrateg metodolog apropri result quer cheg analis propost analis vai permit acontec simultan confrontandos inform maneir assegur consistente logic projet auditor
+
+
+inform requer
+
+
+par determin tip inform necess par respond questa auditor termoschav empreg questa dev defin dimensa vari identific exempl formul questa envolv impact iniciat governamental volt par melhor nivel ensin deves defin entend melhor nivel ensin identificandos dimensa envolv ness conceit taref traduz conceit abstrat vari mensur indispens par poss especific clarez tip inform colet
+
+
+
+font inform
+
+
+deves identific font especif par cad tip inform exempl font inform
+
+
+document legal institucional suport objet auditor
+
+
+b legislacion orcament ppa ldo loa
+
+
+c missa declar plan estrateg relatori gesta
+
+
+d pronunci feit decisa tom pel autor competent
+
+
+organogram diretriz intern manu operacion
+
+
+f atas reunia
+
+
+g sistem inform gerenci
+
+
+h bas dad informatiz
+
+
+i sistem inform administr public siaf sigplan sidor siasg
+
+
+j bibliograf especializ
+
+
+k gestor especial
+
+
+l beneficiari program governament
+
+
+m relatori estud produz font credenci
+
+
+mid especializ
+
+
+cuid especial dev dedic uso revist jorn outr public jornalist bem inform internet embor poss oferec inform carat geral indic relevanc determin submet revisa qualific propr public cientif revisa par outr public mesm carat oficial dev interpret reserv ant possibil apresent fat seletiv maneir dar sustent determin pont vist lee lings
+
+
+estrateg metodolog
+
+
+estrateg metodolog form geral desenh investigat adot auditor dev especific colun proced colet analis dad devems registr abordag metod empreg investig cad questa subquesta formul estrateg metodolog est diret relacion qualidad evidente pod obtid influira confiabil conclusa trabalh
+
+
+intosa relacion abordagens mais adequ par respond questa tipic auditor operacional issa apendic conform quadr
+
+
+quadr princip abordagens auditor operacional
+
+
+tecnic
+
+caracterist
+
+aplic auditor operacional
+
+questionari
+
+metod estrutur colet dad mei formulari usad par quantific inform padroniz sobr grand numer unidad pesquis permit
+
+compar respost
+
+realiz analis estatist
+
+generaliz conclusa cas amostr aleator
+
+mei mais utiliz questionari post via internet princip desvantagens
+
+pret realiz pesquis demor
+
+requ conhec sobr elabor questionari desenh amostral
+
+dificil garant rigor inform prest
+
+entrev
+
+metod presencial obtenca inform mei pergunt respost pod individu colet estrutur questa fech naoestrutur questa abert semiestrutur duas modal questa
+
+grand part auditor operacional base entrev acord objet cad etap trabalh aplic entrev preparator entrev par colet dad inform entrev par identific atitud argument entrev par ger avali ide sugesta pod empreg par confirm fat corrobor dad outr font explor potenci recomend
+
+observ diret
+
+registr presencial sistemat inform predefin roteir requ treinament prepar especif exempl tecnic anot camp bem capac concentr percepca selet observ trein dev capaz colet inform exat val confi
+
+empreg principal par obter inform contextualiz sobr form funcion objet audit
+
+vantagens dess metod pod resum patton
+
+permit observ compreend context desenvolv ativ
+
+permit observ testemunh fat sem depend inform terceir
+
+permit observ trein perceb aspect escap participant rotineir envolv program
+
+pod capt aspect program sobr qua participant desej fal entrev delic embarac
+
+traz par analis percepca propri observ confront percepca entrevist fornec visa mais complet program estud
+
+permit observ form impressa extrapol possivel registr mesm mais detalh anot camp pod auxili compreensa program participant
+
+uso dad existent
+
+uso dad existent requ cuid especi part equip auditor alem confiabil dad outr questa dev consider
+
+tip dad est dispon adapt questa pretend investig
+
+dad complet period abrangente suficient par analis
+
+form dad est armazen qua limit relat form dad qua dificuldad existent par obtenca
+
+ativ colet realiz regular realiz colet dad objet especif
+
+outr font relevant dad par investig
+
+possivel agreg valor extra inform origin dad existent identific tendenc examinando mod criativ
+
+auditor est inteir base dad existent especial domini public equip dev dedic especial atenca form apresent dad comunic mais efet ide chav uso softw especializ pod auxili taref analis apresent dad diferent mod fundamental lev cont qualqu problem relat utiliz dad existent possiv limit dev const ressalv conclusa fin relatori auditor
+
+
+font issa apendic
+
+
+entr metod mais empreg auditor operacion pesquis documental estud cas pesquis survey pesquis experimental quaseexperimental naoexperimental utiliz avali program tamb faz part opca estrateg metodolog
+
+
+pesquis documental abrang exam tod espec registr administrat inclusiv estatist ofici alem material produz pel instituica audit pesquis relatori auditor anterior tcu cgu estud realiz outr instituica denominas pesquis bibliograf abrang bibliograf torn public relaca estud realiz pesquis documental necessari avali confiabil inform divulg determin natur localiz disponibil document inici auditor cuid objet garant melhor aproveit inform menor cust possivel verific viabil respond questa
+
+
+b estud cas estud cas metod usad par conhec situaca complexaxi base compreensa abrangentexii situaca obtid part ampl descrica analisexiv consider tod context grif gao p auditor operacional estud cas frequent complement outr estrateg metodolog pesquis segund patton patton p
+
+
+estud cas tornams especial ute quand necessari entend problem especif situaca grand profund ond possivel identific cas ric inform ric sent muit pod aprend pequen amostr fenomen questa exempl geral muit pod aprend sobr aperfeico program estud desistente fracass sucess selecion
+
+
+c pesquis pesquis estrateg metodolog permit obter inform carat quantitat qualitat relacion tant aspect operacion gerenci result esper frequenc utiliz conjunt estud cas suport par analis carat qualitat tipic dess ultim estrateg quand pesquis base amostrag estatisticaxv possivel generaliz conclusa par tod popul par garant ess generaliz amostr dev reflet caracterist populacaoalv qualqu deficiente metod amostral utiliz dev lev cont interpret result pesquis devid relat
+
+
+d pesquis experimental pesquis experimental par verific program caus determin efeit selecionams dois grup unidad pesquis pesso escol hospit etc grup experimental tratament expost program grup control expost diferenc observ result obtid grup qualific pod atribu presenc program proced par consider exper sent estrit requ unidad pesquis grup sej selecion form random aleator iss vis fortalec conclusa sobr vincul causal garant maior fator manipul pel program pod influenci result est uniform distribu entr dois grup dess form apen efeit program explic diferenc observ
+
+
+pesquis quaseexperimental realiz pesquis experimental envolv dificuldad ordem tant pratic trat subit anterior quant etic ex exclu program grup beneficiari potencial par oper grup control dess form pesquis quaseexperimental apresentas estrateg metodolog alternat grup compar selecion bas disponibil oportun estrateg utiliz ness cas men robust pesquis experimental quant maior diferenc inici entr grup tratament control mais ambigu conclusa alcanc par minimiz ess problem devems selecion grup sej tao equivalent quant possivel sej grup poss compar par garant equivalente entr grup essencial aplic pret destin verific diferenc preexistent dess form permit interpret control result estud
+
+
+f pesquis naoexperimental muit imposs utiliz mesm model quaseexperiment fragil inerent pesquis fat control sobr explic alternat sej mudanc observ pod sid caus vari associ program quand colet dad execut adequad estud dess natur oferec valios inform sobr program entretant apresent problem consider quand objet estabelec juiz sobr program determin med result obtid pod atribu quand trat avali program pesquis dev realiz conjunt outr estrateg metodolog
+
+
+proced colet dad
+
+
+defin estrateg metodolog deves detalh matriz planej proced empreg colet dad utilizandos tecnic apropri tecnic mais utiliz questionari entrev observ diret utiliz dad existent
+
+
+utiliz dad nov provenient questionari entrev registr anot origin visit equip instal projet oferec possibil produz alg inedit confiavel desd benefici sup cust incorr optar utiliz dad existent equip dev avali confiabil dad alem outr aspect pod impact qualidad evidente obtid quadr apresent resumid caracterist princip tecnic colet dad aspect relevant aplic auditor operacional
+
+
+quadr resum princip tecnic colet dad
+
+
+
+
+
+
+
+auditor operacion tamb recorr outr tecnic colet dad grup focal pain especial seminari
+
+
+colet dad ajust entr soluca ideal soluca possivel projet auditor muit ambici colet dad form perfeit complet precis exat pod prejudic realiz auditor necess exat dev equilibr criteri razoabil econom relevanc luz objet auditor consequente relatori auditor dev sempr inform sobr qualidad inform colet issa
+
+
+proced analis dad
+
+
+devems detalh matriz planej proced empreg analis dad tecnic analis dad ferrament usad par organiz dad colet investig relaca pretend estabelec entr vari selecion par respond questa auditor especific tecnic part fundamental projet auditor dev portant const matriz planej ferrament correspondente tecnic adot colet dad
+
+
+geral analis dad proced interat ist realizams analis inici fas planej med auditor progrid analis refin ampl variedad tecnic analis pod usad auditor operacional inclu analis estatist multivari analis envoltor dad analis regressa mais comuns analis frequenc tabel analis grafic
+
+
+tabul frequenc tabul complex par chec relaca analis dev realiz auxili softwar adequ permit calcul frequenc test hipotes represent grafic dad tecnic usad par analis dad colet mei questionari extraca dad administrat
+
+
+b analis grafic dad mei uso grafic histogram grafic paret grafic barr setogramaxv grafic dispersa caixaehastexvi possivel sintez inform revel tendenc regular descontinu desempenh extrem bons ruins desigualdad distribuica bens servic public
+
+
+usas aind analis qualitat bas julgament profissional equip especial consult inform colet produz pel equip registr map process indic desempenh document ofici avali realiz outr agent tip analis depend problem investig recurs disponiv par trabalh
+
+
+analis qualitat abrang compar contr entr inform provenient font diferent unidad pesquis apresent boas pratic compar mais ger entr unidad pesquis issa
+
+
+analis interpret dad qualitat podes adot aind patton
+
+
+analis conteud tecnic analis sistemat inform textual organiz form padroniz permit realiz inferente sobr conteud pod usad par analis transcrica entrev grup foc document relatori descrica polit public recomendas usar softwar adequ cas grand quantidad material analis
+
+
+b triangul uso diferent metod pesquis eou colet dad par estud mesm questa objet fortalec conclusa fin pod assum form segu indic
+
+
+colet dad diferent font sobr mesm questa
+
+
+empreg diferent entrevist pesquis camp par evit vies colet dad
+
+
+usar multipl metod pesquis par estud mesm questa
+
+
+usar teor diferent par interpret dad colet
+
+
+c interpret alternat formul interpret part princip relaca identific analis devems busc interpret alternat cas sej encontr evidente substant sustent interpret reforcas confianc interpret original formul patton auditor operacional qualidad argument sustent pel equip dev confront melhor contraargument possiv issa
+
+
+d cas negat relacion item anterior tratas identific situaca segu interpret principal corrent raza circunstanc especif iss mesm funcion exceca cas negat confirm regr ajud esclarec limit caracterist interpret principal
+
+
+efetiv proced trat acim apo honest intelectual anal dev despend busc cas negat evidente deem sustent hipotes alternat mesm esforc empreg construca interpret principal
+
+
+process analis interat compartilh pel equip particip supervisor bem consult outr auditor experient especial gestor med inform estrutur compar confront discut ator intern extern relatori dev rascunh avali reescrit issa pod necessari discut text prelimin gestor especial par confirm dad desenvolv argument propost recomend issa
+
+
+limit
+
+
+ness element matriz planej equip auditor dev especific limit inerent estrateg metodolog adot caracterist inform pretend colet condica operacion realiz trabalh
+
+
+quant estrateg metodolog deves consider estrateg otim ideal apen aquel dad circunstanc melhor adapt questa pretend investig sempr hav tip limit sobr pod conclu part determin metodolog propost melhor faz identific tais restrica equip auditor dev avali alternat existent prepar par defend escolhasxvii
+
+
+optar estrateg metodolog indispens apont limit inerent sej pont vist pod explicat sej relaca possibil generaliz result estudoxix
+
+
+quant inform pretend utiliz analis important mencion tip dificuldad esperas encontr tant relaca acess dad relaca qualidad confiabil qualqu problem relat utiliz dad existent possiv limit dev const matriz planej
+
+
+equip dev indic alternat adot par minimiz risc correspondent result esper decorrent limit identific
+
+
+analis vai permit
+
+
+ess element matriz planej auditor registr analis dad respond questa auditor proposit dess inform esclarec qua conclusa result pretendes alcanc mei projet auditor est relacion anterior esper obter analis est natural condicion pel limit previ identific
+
+
+deves registr exempl conclusa alcanc permit respond integral questa auditor possivel faz afirm conclus sobr objet auditor conclusa limitarsea cas examin possivel generalizal esclarec necessari par tenh noca fas planej pod esper esforc empreend pel equip recurs aloc desenvolv trabalh
+
+
+referente
+
+
+associ brasileir norm tecnic abnt iso gui rio janeir
+
+
+inform document apresent citaca document nbr rio janeir
+
+
+inform document numer progress seca document escrit nbr rio janeir
+
+
+inform document referente elabor nbr rio janeir
+
+
+brasil constituica republ federat brasil brasil df sen
+
+
+brasil lei fevereir alter atualiz consol legislacion sobr direit autor outr providente brasil dispon httpwwwplanaltogovbr ccivil leisquadr htm acess jul
+
+
+brasil ministeri planej manual tecnic orcament mto brasil dispon httpwwwplanejamentogovbr acess nov
+
+
+tribunal cont unia padra auditor conform brasil
+
+
+tribunal cont unia padra monitor brasil b
+
+
+tribunal cont unia tcu dezembr dispo sobr plan fiscaliz previst regiment intern tcu brasil dispon httpscontastcugovbrjuriswebjuris consultaratonormat consultaratonormativofacesacesso abr
+
+
+tribunal cont unia tcu dezembr aprov regiment intern tribunal cont unia brasil dispon httpwwwtcugovbr acess set
+
+
+tribunal cont unia tecnic apresent dad brasil
+
+
+cohen franc r avali projet soci petropol voz
+
+
+cronbach l j designing evaluations of educational and social programs san francisc josseybass
+
+
+government accountability offic gao government auditing standards washington
+
+
+designing evaluations washington
+
+
+cas study evaluations washington
+
+
+content analys methodology structuring and analyzing written material washington
+
+
+hatry harry p winni richard fisk donald m practical progr evaluation stat and local governments edica the urban institut press washington
+
+
+international organization of suprem audit institutions intosa auditing standards basic principl in government auditing issa vien dispon httpwwwissaiorgmed issa epdf acess set
+
+
+general standards in government auditing and standards with ethical significanc issa vien dispon httpwwwissaiorgmed issa epdf acess set
+
+
+field standards in government auditing issa vien dispon httpwwwissaiorgmed issa epdf acess set
+
+
+reporting standards in government auditing issa vien b dispon wwwissaiorg acess marc
+
+
+implementation guidelin performanc auditing issa vien dispon httpwwwissaiorgmed issa pdf acess set
+
+
+lee lings i doing business research london sag
+
+
+medeir m principi justic aloc recurs saud text par discussa brasil ipe
+
+
+national audit offic collecting analysing and presenting dat london
+
+
+designing vfm studi guid london
+
+
+getting to the heart of the matt london
+
+
+quality matters london
+
+
+valu money handbook london
+
+
+writing smart recommendations london
+
+
+patton michael quinn how to use qualitativ methods in evaluation newbury park sag
+
+
+pollitt christoph girr xavi lonsdal jeremy mul robert summ hilkk waerness marit performanc or complianc performanc audit and public management in fiv countri oxford university press oxford
+
+
+not explicat
+
+
+
+
+
+
+
+i nest manual utilizas term auditor operacional sinonim auditor desempenh performanc auditing
+
+
+ii definica auditor operacional adot nest manual est base diretriz intosa par auditor desempenh implementation guidelin performanc auditing issa
+
+
+iii referente document intosa segu orient dess organiz norm abnt
+
+
+iv produt bens servic ofert pod entend result imediat
+
+
+v principal questa sab recurs aplic par obter uso otim satisfatori result simil term qualidad temp pod sid alcanc men recurs issa
+
+
+vi acord constituica federal iii constitu objet fundamental republ federat brasil erradic pobrez marginaliz reduz desigualdad soci region sobr ordem econom est estabelec est fundament valoriz trabalh human livr iniciat fim assegur tod existente dign conform ditam justic social observ entr outr principi reduca desigualdad region soci
+
+
+vii exempl dess tip analis consist verific indic incidente determin enferm campanh erradic segund regia perfil socioeconom popul par identific possiv distorca deriv form implement polit
+
+
+vii segund intosa auditor regular regularity audit compreend auditor financeir auditor control intern auditor legal atos administrat issa
+
+
+ix program volt servic tipic estad planej formul polit setori coorden avali control program finalist result bens servic ofert propri estad pod compost inclusiv despes natur tipic administrat brasil
+
+
+x important observ desempenh satisfatori signif desempenh perfeit qualqu julgament dev lev cont circunstanc audit issa apendic
+
+
+xi sempr recomend obter opinia gestor sobr criteri auditor adot par eventu discordanc poss discut esclarec log inici auditor entretant fat argument apresent pel gestor dev compar outr font relevant issa apendic
+
+
+xii situaca complex signif muit fat pod influenci acontec influenc pod interag naolinear torn imposs isol efeit vari estud
+
+
+xii compreensa abrangent indic estud cas vis obter represent mais complet possivel est acontec porqu
+
+
+xiv ampl descrica analis referes empreg inform ric complet provenient var font particular observ diret adem analis ampl compar dad diferent tip font mei metod denomin triangul
+
+
+xv pesquis objet tod membr popul denomin cens
+
+
+xvi grafic tip pizz pie chart
+
+
+xvi box plot
+
+
+
+xvii sobr adequ potencial explicat estrateg metodolog especif vid l j cronbach p patton p
+
+
+xix boa auditor lev cont limit existent outr palavr qualidad tecnic estud metod pod determin pel compar entr realiz possivel realiz gao p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+secretariogeral control extern
+
+
+
+paul robert wiechers martins
+
+
+
+
+secretari adjunt planej proced
+
+
+
+marcel luiz souz eir
+
+
+
+
+secretari fiscaliz avali program govern
+
+
+
+carl albert sampai freit
+
+
+
+
+equip tecnic
+
+
+
+dagom henriqu lim
+
+
+fabi mafr
+
+
+glor mar merol cost bast coorden
+
+
+mar luc oliveir felician lim
+
+
+
+const revog express
+aprov manual auditor natur operacional tribunal cont unia
+
+

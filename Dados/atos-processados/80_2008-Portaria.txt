@@ -1,0 +1,892 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu dezembr resolv
+
+
+fic aprov realiz projet modelag process concurs public objet aprimor process seleca extern mediant concurs public realiz pel tcu term anex dest port
+
+
+fic design anal control extern mar anton ferraz zelenovsky matricul par exerc funca confianc coorden projet codig fc constant anex x aloc funca gestor projet
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet tribunal cont unia
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet modelag process concurs public design gestor
+
+anex portariatcu abril
+
+
+
+
+
+
+
+
+
+
+
+
+propost projet
+
+projet modelag process concurs public
+
+
+
+pagin
+
+
+
+
+identific gestor projet
+
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+mar anton ferraz zelenovsky
+
+
+
+zelenovskymatcugovbr
+
+
+
+funca gestor
+
+orig fc
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+isc
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+gladson raeff roch vian
+
+
+
+gladsonrrtcugovbr
+
+
+
+local telefon
+
+sal isc
+
+
+
+
+identific projet
+
+
+
+nom projet
+
+modelag process concurs public projet concurs public
+
+period realiz
+
+unidad patrocin
+
+
+
+institut serzedell corre isc
+
+
+
+
+vincul estrateg
+
+
+
+plan estrateg tcu
+
+
+
+objet estrateg otimiz utiliz conhec organizacional
+
+
+
+objet estrateg desenvolv cultur orient result
+
+
+
+objet estrateg moderniz pratic gesta pesso
+
+plan diretriz tcu
+
+
+
+perspect pesso inov
+
+iniciat estrateg implant model gesta competente
+
+aca defin implant process seleca extern formaca bas perf profission necessari tcu
+
+
+
+
+problem oportun
+
+
+
+descrica problem oportun
+
+
+
+dificuldad mant equip dedic realiz concurs
+
+
+
+excess mand seguranc interpost candidat contr atos president concurs
+
+
+
+conhec par conduz process selet extern isc est concentr pesso exist proced operacion padroniz institucionaliz
+
+
+
+retrabalh raza falh comet long process
+
+evoluca quadr apresent dad
+
+
+
+necess servidor especializ divers are conhec feit cad concurs public tcu possu configur diferent ali ess heterogen perf profission requer cad seleca extern realiz pel tribunal constatas ausenc padroniz institucionaliz proced operacion ocasion dificuldad coorden aca envolv duas etap etap certam pod apont princip problem enfrent definica precis perf profission exig estabelec objet avali alem crescent numer aca judici vis impugn edit etap certam cons realiz program formaca pod apont princip problem enfrent definica projet pedagog coorden execuca program formaca
+
+
+
+
+escop projet
+
+
+
+objet geral projet relaca oportun soluca problem
+
+aprimor process seleca extern mediant concurs public realiz pel tcu
+
+
+
+
+
+
+anex portariatcu abril
+
+
+
+
+
+propost projet
+
+projet modelag process concurs public
+
+
+
+pagin
+
+
+
+
+met indic produt client
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+map process seleca extern
+
+
+
+
+
+process mape
+
+flux process seleca extern mape
+
+isc
+
+
+
+valid process mape
+
+
+
+
+
+process valid
+
+flux process seleca extern valid
+
+isc
+
+
+
+map subprocess process seleca extern
+
+
+
+
+
+subprocess mape
+
+flux subprocess mape
+
+isc
+
+
+
+valid subprocess process seleca extern
+
+
+
+
+
+subprocess valid
+
+flux subprocess valid
+
+isc
+
+
+
+analis melhor process seleca extern subprocess examinando form separ
+
+
+
+
+
+process subprocess melhor
+
+nov flux process subprocess desenh
+
+isc
+
+
+
+
+
+relatori escut client elabor aprov
+
+relatori escut client elabor
+
+
+
+constru indic desempenh process subprocess
+
+
+
+
+
+
+
+list indic desempenh process elabor
+
+list indic desempenh process elabor
+
+isc
+
+
+
+valid nov process seleca extern subprocess melhor bem indic desempenh process elabor
+
+
+
+
+
+nov process subprocess valid
+
+nov flux process subprocess desenh valid
+
+
+
+
+
+
+
+isc
+
+
+
+
+
+list indic desempenh process valid
+
+list indic desempenh process valid
+
+
+
+public nov process subprocess portal bem indic desempenh process
+
+
+
+
+
+process subprocess public
+
+flux public portal
+
+
+
+
+
+isc
+
+
+
+
+
+list indic desempenh public portal
+
+list indic desempenh public portal
+
+
+
+propor eventu alter atualiz elabor normat
+
+
+
+
+
+minut normat aceit
+
+minut normat elabor
+
+isc
+
+
+
+anex portariatcu abril
+
+
+
+
+
+propost projet
+
+projet modelag process concurs public
+
+
+
+pagin
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+elaborarepublicaroprocedimento operacional padra pop process seleca extern subprocess
+
+
+
+
+
+pops elabor aceit public
+
+pops public portal
+
+isc
+
+
+
+elabor public manual gesta concurs public
+
+
+
+
+
+manual gesta concurs public aprov public
+
+manual gesta concurs public elabor public portal
+
+isc
+
+
+
+
+benefici impact esper produt projet
+
+
+
+
+institucionaliz process trabalh seleca extern apropri conhec est concentr pesso pel organiz
+
+
+
+melhor eficac eficiente process selet menor incidente erros retrabalh
+
+
+
+mitig risc concurs public alcanc objet
+
+
+
+criaca manutenca bas conhec sobr process selet priorizandos registr lica aprend concurs anterior boas pratic
+
+
+
+realiz proxim concurs public par aces etap aplic lica aprend boas pratic registr process anterior conjunt equip isc
+
+
+
+facil trein futur integrant equip coorden concurs
+
+
+
+
+escop projet vai faz
+
+
+
+
+coorden execut diret planej execuca aca concurs public ace
+
+
+
+map model process educ corporat inclu planej execuca aca program formaca projet apol
+
+
+
+defin analis perf profission participant concurs
+
+
+
+prest servic logist secret program formaca
+
+
+
+avali aprendizag reaca disciplin program formaca
+
+
+
+implant nov flux
+
+
+
+implement medica indic desempenh process
+
+
+
+mant flux public portal
+
+
+
+aprov public normat
+
+
+
+trein futur equip gesta process seleca extern
+
+
+
+
+identific part envolv projet relaca
+
+
+nom part envolv patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+iscdig iscdidec iscseg iscseduc comit consult program formaca
+
+definica inform par elabor proced operacion padra
+
+
+
+projet apol
+
+fornec inform par execuca trabalh correlat
+
+
+
+seplan
+
+assessor tecnic mapeament modelag descrica process trabalh
+
+servidor par atu ativ equip projet
+
+
+
+setec
+
+torn dispon program suport desenh process aris
+
+capacit membr equip projet aris
+
+
+
+iscas
+
+apoi logist projet
+
+
+
+segep
+
+servidor par atu temp integral equip projet
+
+definica inform par elabor proced operacion padra
+
+
+
+
+anex portariatcu abril
+
+
+
+
+
+propost projet
+
+projet modelag process concurs public
+
+
+
+pagin
+
+
+
+
+fator pod risc exit projet
+
+
+
+risc
+
+impact
+
+probabil ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons pel aca
+
+
+
+ausenc capacit eou adapt metodolog levant utiliz padra ferrament aris
+
+alt
+
+
+
+baix
+
+
+
+trein equip utiliz ferrament aris padra metodolog
+
+r apoi metodolog seplan eou projet apol
+
+setec
+
+seplan
+
+
+
+ausenc cooper gerent servidor respons pel aca atual process seleca extern
+
+alt
+
+med
+
+r reunia conscientiz solicit cooper equip projet
+
+diretorgeral
+
+isc
+
+
+
+envolv ativ coorden concurs public ace
+
+alt
+
+med
+
+design pesso fora projet par coorden concurs public ace
+
+diretorgeral isc
+
+
+
+
+relaca outr projet
+
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+projet aten
+
+projet apol mapeament process isc
+
+
+
+
+
+
+equip projet
+
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+mar anton ferraz zelenovsky
+
+
+
+isc
+
+
+
+integral
+
+
+
+gladson raeff roch vian
+
+
+
+iscseg
+
+
+
+integral
+
+
+
+mar raquel vieir
+
+
+
+segep
+
+
+
+integral
+
+
+
+dor bast botelh
+
+
+
+seplan
+
+
+
+ativ
+
+
+
+
+cust adicion estim
+
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+cust adicion
+
+
+
+
+
+total cust estim
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+outr recurs necessari
+
+
+
+recurs
+
+fornecedor
+
+
+
+sal comput impressor ramal pont red
+
+isc
+
+
+
+program aris
+
+setec
+
+
+
+
+
+
+
+
+
+
+anex portariatcu abril
+
+
+
+
+
+propost projet
+
+projet modelag process concurs public
+
+
+
+pagin
+
+
+
+
+finaliz
+
+
+
+dat
+
+assinatur gestor projet
+
+
+
+mar anton ferraz zelenovsky
+
+coorden projet
+
+manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+institut serzedell corre
+
+carl eduard queiroz pereir
+
+diretor geral
+
+manifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+

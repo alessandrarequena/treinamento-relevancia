@@ -1,0 +1,120 @@
+administrat
+
+
+
+tribunal cont unia uso atribuica constitucion leg resolv
+
+
+lotaca numer categor funcion medic agent port constant anex administrat seguint
+
+
+grupooutr ativ nivel superior
+
+
+
+
+
+empreg
+
+referente
+
+categor funcional
+
+class salari
+
+
+
+medic c
+
+
+
+
+
+medic b
+
+
+
+
+
+medic
+
+
+
+
+
+
+
+observ categor medic compreend seguint especial
+
+
+cardiolog empreg
+
+
+clinic geral tres empreg
+
+
+ginecolog obstetric dois empreg
+
+
+pediatr tres empreg
+
+
+gruposerv transport oficial port
+
+
+
+empreg
+
+referente
+
+categor funcional
+
+class salari
+
+
+
+agent port c
+
+
+
+
+
+agent port b
+
+
+
+
+
+agent port
+
+
+
+
+est administrat entrar vigor dat public revog disposica contrari
+
+
+
+tcu sal sessa junh
+
+
+
+
+
+
+
+
+glauc less abreu silv
+president
+
+
+
+
+
+
+
+
+
+revog
+fix lotaca numer empreg categor funcional medic grupooutr ativ nivel superior categor funcional agent port gruposerv transport oficial port trat administrat
+
+

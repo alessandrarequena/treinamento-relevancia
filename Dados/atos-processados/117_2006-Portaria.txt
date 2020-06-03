@@ -1,0 +1,677 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet organiz trabalh servic ativ apoi serap organiz term anex dest port
+
+
+fic design tecnic control extern are apoi tecnic administrat marinald malheir franc matricul par exerc funca lid projet trat est port
+
+
+paragraf unic cab lid projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz titul secretariageral administr proced sempr necessari substituica lid membr projet
+
+
+est port entr vigor dat public
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+tribunal cont unia
+
+propost projetoart organiz trabalh serap organiz
+
+
+
+pagin
+
+
+
+
+identific gestor projet
+
+i nom
+
+ii matricul
+
+iii email
+
+iv ramal
+
+
+
+marinald malheir franc
+
+
+
+marinaldomftcugovbr
+
+v funca gestor
+
+vi orig fc
+
+
+
+vii gerent
+
+
+
+vii coorden
+
+
+
+xix lid
+
+
+
+nax nom substitut eventual
+
+xi matricul
+
+xii email
+
+xii ramal
+
+
+
+suzan pantoj roch
+
+
+
+suzanaprtcugovbr
+
+xiv local telefon
+
+
+
+edifici anex ii sal
+
+
+
+
+identific projet
+
+xv nom projet
+
+
+
+organiz trabalh serap organizarxv period realiz
+
+xvi unidad patrocin
+
+
+
+
+
+seged seseg
+
+
+
+
+vincul estrateg
+
+xvii plan estrateg tcu port tcu janeir
+
+
+
+
+
+objet estrateg aperfeico instrument control process trabalh
+
+iniciat estrateg map racionaliz princip process trabalh tcuxix plan diretriz tcu bieni
+
+
+
+
+
+diretriz ampli contribuica tcu par aperfeico administr public
+
+med map racionaliz princip process apoi especial relat gesta contrat patrimoni process compr indic sempr possivel risc control
+
+
+
+
+problemaoportun
+
+xx descrica problem oportun
+
+
+
+
+
+observas deficiente mesm ausenc dad gerenci decorrente
+
+falt especific roteir proced rotin
+
+indefinica qua dad gerenci necessari serap obtel
+
+deficiente control prest servic
+
+b
+
+proced atend relat solicit servic inerent serap normatiz
+
+c
+
+observas tamb projet inclusa padroniz process trabalh pod lev serap sustentabil atend tempest adequ desempenh execuca atividadesxx evoluca quadr apresent dad
+
+
+
+
+
+dentr princip ativ serap maior importanc capilar quantidad pesso envolv servic cop tal ativ envolv prest servic cop propri bem apoi event tang disponibiliz pessoal produt caf agu alem servic prest gabinet autor apoi sessa colegi
+
+b
+
+apes importanc servic tems verific cert desorganiz descontrol ativ provavel dev ausenc visa clar process trabalh tod ger desperdici estim ordem cerc recurs materi utiliz cop caf acuc agu cop palhet etc bem constant reclam quant qualidad produt oferec
+
+c
+
+observas tamb utiliz inadequ instal cop part servidor tribunal ali postur inadequ dess servidor quant terceiriz trabalh ness loc ger desmotiv descompromet trabalh
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoart organiz trabalh serap organiz
+
+
+
+pagin
+
+
+
+
+escop projet
+
+i objet geral projet relaca oportun soluca problem
+
+
+
+map model public intranet flux process trabalh implant sistemat geraca relatori gerenci serap
+
+
+
+
+
+met indic produt client
+ii met
+
+iii indic
+
+iv produt
+
+v client
+
+vi objet especif
+
+vii quant
+
+vii dat termin
+
+
+
+
+
+identific map process trabalh serap
+
+
+
+
+
+process mape
+
+matriz sipoc
+
+
+
+flux process servic cop mape
+
+seseg
+
+b
+
+realiz visit tecnic outr entidad par avali comparativ process analog
+
+
+
+
+
+visit realiz
+
+relatori cont avali pratic observ
+
+seseg
+
+c
+
+redesenh process trabalh mape
+
+
+
+
+
+process trabalh redesenh
+
+nov flux process trabalh mape
+
+
+seseg
+
+d
+
+public intranet flux process trabalh mape
+
+
+
+
+
+flux public
+
+flux process trabalh public intranet
+
+seseg
+
+
+
+defin indic par process mape
+
+
+
+
+
+matriz indic aceit
+
+matriz indic defin
+
+seseg
+
+f
+
+implement sistemat medica process trabalh geraca relatori gerenci
+
+
+
+
+
+relatori gerenci disponibiliz
+
+relatori gerenci
+
+seseg
+
+g
+
+elabor propost norm disciplin atend serap
+
+
+
+
+
+minut norm aceit
+
+minut norm elabor
+
+seseg
+
+
+
+
+benefici impact esper produt projet
+
+
+
+
+aperfeico visa sistem flux process trabalh serap
+
+b
+
+definica objet process trabalh serap melhor relacion entr seseg client intern fic estabelec limit atuaca responsabil cad part process
+
+c
+
+satisf client intern
+
+d
+
+aprendiz internaliz rotin mapeament process par aplic futur dem ativ unidad
+
+
+
+
+escop projet vai faz
+
+
+
+
+desenvolv implement sistem informatiz rotin mape
+
+b
+
+implant process trabalh redesenh
+
+c
+
+especific roteir proced rotin
+
+d
+
+mapeament redesenh process distribuica agu fiscaliz contrat
+
+
+
+tribunal cont unia
+
+propost projetoart organiz trabalh serap organiz
+
+
+
+pagin
+
+
+
+
+
+
+identific part envolv projet relaca
+i nom part envolv
+
+ii patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+iii item negoci negoci part envolv
+
+
+
+
+
+seged
+
+patrocin projet apoi administrat par desenvolv projet cessa pessoal apoi
+
+b
+
+seseg
+
+copatrocin projet assessor tecnic aloc pessoal recurs materi par projet
+
+c
+
+seplan
+
+assessor tecnic mapeament redesenh descrica process trabalh
+
+
+
+
+fator pod risc exit projet
+
+iv risc
+
+v impact
+
+vi probabil
+
+vii ocorr
+
+vii aca par
+
+ix evit ocorrente risc
+
+x m mitig ocorrente risc
+
+xi r reduz impact risc ocorr
+
+xii respons
+
+xii pel aca
+
+
+
+
+
+falt cooper servidor setor vincul projet
+
+alt
+
+medi
+
+conscientiz solicit cooper equip projet m
+
+identific foc resistente lev conhec superior ocorrente m
+
+titul seseg dicap lid projet
+
+
+
+
+relaca outr projet
+
+xiv projet predecessor
+
+xv projet conex
+
+xvi projet sucessor
+
+
+
+
+
+moderniz
+
+
+
+
+
+
+equip projet
+
+xvi nom
+
+xvii matricul
+
+xix lotaca
+
+xx period
+
+xxi dedic integral parcial ativ
+
+
+
+marinald malheir franc
+
+
+
+seseg
+
+
+
+integral
+
+suzan pantoj roch
+
+
+
+seseg
+
+
+
+parcial
+
+solim vieir santann
+
+
+
+seseg
+
+
+
+parcial
+
+ricard arauj malach
+
+
+
+seplan
+
+
+
+ativ
+
+estagiari
+
+
+
+
+
+
+
+integral
+
+
+
+
+cust adicion estim
+
+xxi recurs
+
+xxii valor estim
+
+xxiv dat inicial liber recurs
+
+
+
+
+
+estagiari nivel superior
+
+r
+
+
+
+b
+
+
+
+
+
+xxv total cust estim
+
+
+
+r
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+outr recurs necessari
+
+xxv recurs
+
+xxvi fornecedor
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoart organiz trabalh serap organiz
+
+
+
+pagin
+
+
+
+
+finaliz
+
+i dat
+
+ii assinatur gestor projet
+
+
+
+
+
+marinald malheir franc
+
+lid projetoii manifest titul unidad patrocin
+
+
+
+acord conform ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+seseg
+
+andr luiz mend
+
+secretari servic geraisiv manifest titul unidad patrocin
+
+
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+seged
+
+maur moreir barbos
+
+secretariogeral administracaov manifest seplan
+
+
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+
+
+const revog express
+aprov realiz projet organiz trabalh servic ativ apoi organiz design gestor
+
+

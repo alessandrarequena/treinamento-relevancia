@@ -1,0 +1,752 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariatcu julh resolv
+
+
+
+fic aprov realiz projet analis instruca eletron atos pessoal tcu term propost anex est port
+
+
+
+
+
+fic design tecnic control extern delvan ferreir tav matricul par exerc relativ projet trat est port funca confianc coorden projet codig fc constant dezembr aloc secretariageral control extern
+
+
+
+
+
+paragraf unic cab gestor projet responsabil exerc competente previst port tcu observ dispost manual gesta projet
+
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet analis instruca eletron atos pessoal tcu design gestor
+
+anex unic
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+identific gestor projet
+
+
+projet analis instruca eletron atos pessoal
+
+pagin
+identific projet
+
+
+nom
+
+matricul
+
+x espec gestororig fc
+
+delvan ferreir tav
+
+
+
+
+
+ggerent
+
+x
+
+ccoorden
+
+
+
+llid
+
+ssegecex
+
+nom substitut eventual
+
+matricul
+
+jos spinos junior
+
+
+
+localtelefon
+
+secret fiscaliz pessoal sefip tel anex sal
+vincul estrateg
+
+
+nom projet
+
+analis instruca eletron atos pessoal
+
+period realiz
+
+unidad patrocin
+
+
+
+secretariageral control extern segecex
+problem oportun
+
+
+vincul principal plan estrateg tcu objet estrateg
+
+
+
+objet cumpr tempestiv qualidad competente tcu
+
+estrateg ampli aprimor uso tecnolog inform
+
+med h conclu implement sistem colet instruca eletron cont sistem auditor instruca eletron atos pessoal
+
+vincul principal plan diretriz houv diretriz med
+
+
+
+diretriz reduz idad med estoqu process control extern
+
+med estend sistemat analis eletron par tod atos pessoal
+
+med estend sistemat instruca par tod atos pessoal
+
+vincul principal plan diretor houv diretriz med
+
+
+
+diretriz reduz idad med estoqu process control extern
+
+med estend sistemat analis eletron par tod atos pessoal
+
+med estend sistemat instruca par tod atos pessoal
+escop projet
+objet geral projet relaca oportun soluca problem
+
+
+descrica problem oportun
+
+
+
+atual encontrams implement apen autom analis atos admissa aposentador necessari faz portant complement implement analis dem atos reform pensa civ milit bem instruca eletron tod atos consider seguint aspect
+
+moros analis individual
+
+quantitat entrad superior capac analis sem autom
+
+carat sistemat analis permit autom
+
+ganh advind automatiz realiz tempestiv consistente dad liber servidor par ativ fiscaliz possibil execuca fiscaliz mais dad par analis
+
+evoluca quadr apresent dad
+
+b
+
+situaca existent projet antecessor sej tcu apreciav cerc atos ana inici utiliz critic automatiz par analis atos pessoal apreci atos implant projet apreci automatiz atos pessoal ampliaca process informatiz analis tratament diligente atos apreci atos atos
+
+c
+
+implement complet sistemat analis instruca atos pessoal possivel praz projet dois anos zer estoqu process pessoal estav torn atos part conclusa projet tribunal capaz apreci atos exercici subsequent entrad bas permanent sisac ist tribunal pod atu tempestiv apreci atos admissa concessa
+
+tribunal cont unia
+
+propost projet
+
+projet analis instruca eletron atos pessoal
+
+pagin
+met indic produt client
+
+
+estend sistemat analis instruca eletron par tod atos admissa concessa
+macroetap primeir nivel estrutur analit projet eap
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+implement modul analis eletron atos reform inclusiv alter leis atualiz inov
+
+
+
+
+
+modul aprov
+
+
+
+modul analis eletron reform conclu
+
+sefip
+
+mptcu
+
+gabinet
+
+b
+
+implement modul analis eletron pensa civ milit inclusiv alter leis atualiz inov
+
+
+
+
+
+modul aprov
+
+modul analis eletron pensa
+
+sefip
+
+mptcu
+
+gabinet
+
+c
+
+aperfeico modul analis eletron atos aposentador
+
+
+
+
+
+
+
+modul aprov
+
+modul analis eletronc aposentador
+
+sefip mptcu
+
+gabinet
+
+d
+
+implement diligente eletron aposentador
+
+
+
+
+
+modul aprov
+
+modul geraca automatiz diligente conclu
+
+sefip
+
+ujs
+
+
+
+implement diligente eletron reform
+
+
+
+
+
+modul aprov
+
+modul geraca automatiz diligente conclu
+
+sefip
+
+ujs
+
+f
+
+implement diligente eletron pensa civ milit
+
+
+
+
+
+modul aprov
+
+modul geraca automatiz diligente conclu
+
+sefip
+
+ujs
+
+g
+
+implement instruca eletron tod atos pessoal especific clientel diretor
+
+
+
+
+
+modul aprov
+
+modul instruca eletron atos clientel conclu
+
+sefip
+
+h
+
+faz depur dad remanescent sisac duplic incomplet sem deslig
+
+
+
+
+
+percentual dad atualiz relaca quantidad dad inconsistente
+
+dad remanescent bas sisac depur
+
+sefip
+
+i
+
+elabor document complet par usuari tod sistem
+
+
+
+
+
+manual aprov
+
+manu utiliz conclu
+
+sefip
+
+j
+
+realiz treinament usuari sistem analis diligente instruca atos pessoal
+
+
+
+
+
+percentual usuari trein relaca quantidad usuari trein
+
+funcionari trein
+
+servidor sefip
+
+ci ujs
+
+tces tcm
+
+isc
+escop
+
+
+
+
+planej projet
+
+b
+
+implement analis eletron
+
+c
+
+implement diligente
+
+d
+
+implement instruca eletron
+
+tribunal cont unia
+
+propost projet
+
+projet analis instruca eletron atos pessoal
+
+pagin
+
+
+
+document
+
+f
+
+treinament usuari
+identific part envolv projet relaca
+
+
+
+
+autom gabinet mptcu
+
+b
+
+autom ujs
+
+c
+
+elabor document codig sistem
+
+d
+
+mudanc tecnolog sisac
+fator pod risc exit projet
+
+
+part envolv
+
+patrocin client fornecedor intern extern servic recurs human fisic parceir
+
+item negoci part envolv intern
+
+item negoci part envolv extern
+
+
+
+segecex
+
+patrocin
+
+b
+
+c
+
+
+
+
+
+
+
+sefip
+
+setec
+
+
+
+
+
+
+
+fornec rh recurs tecnolog client principal
+
+fornec maquin alt performanc softwar serv acess tabel relacion sistem sisac rad clientel processus sinerg
+
+coloc bas sisac sinerg oferec treinament acess bo colabor depur bas sisac
+
+
+
+mp junt tcu
+
+apoi par analis critic atos pessoal
+
+f
+
+g
+
+gabinet ministr isc
+
+representant gabinet par criticasautom
+
+
+
+apoi part treinament sistem
+relaca outr projet
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit m mitig r reduz impact
+
+respons
+
+pel aca
+
+
+
+atribuica equip outr ativ vincul objet projet
+
+alt
+
+baix
+
+negoci transferente ativ rotin par outr servidor extern equip projet
+
+secretari
+
+b
+
+alter legislacion
+
+baix
+
+alt
+
+r negoci aument quadr
+
+secretari
+
+c
+
+mudanc tecnolog par xml
+
+alt
+
+alt
+
+m treinament
+
+secretari
+
+d
+
+indisponibil maquin alt desempenh
+
+baix
+
+baix
+
+m negoci setec
+
+secretari
+
+
+
+indisponibil sistem informatiz
+
+alt
+
+baix
+
+m negoci setec
+
+secretari
+
+gestor
+cust estim
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+apreci automatiz atos pessoal
+
+sinerg
+
+
+
+outr recurs necessari
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+aquisica soluca par process analis eletron alt performanc
+
+
+
+
+
+total cust estim
+
+
+
+
+equip projet
+
+
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet analis instruca eletron atos pessoal
+
+pagin
+finaliz
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+delvan ferreir tav
+
+
+
+sefip
+
+
+
+integral coorden
+
+b
+
+jos spinos junior
+
+
+
+sefip
+
+
+
+integral
+
+c
+
+luiz henriqu corre quemel
+
+
+
+sefip
+
+
+
+integral
+
+d
+
+fern minod
+
+
+
+setec
+
+
+
+
+
+parcial
+
+
+
+paul ces silveir cardos
+
+
+
+setec
+
+
+
+
+
+parcial
+
+
+
+
+
+dat assinatur gestor projet
+
+
+
+
+
+delvan ferreir tav
+
+
+
+manifest titul unidad patrocin
+
+
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+unidad
+
+
+
+
+
+antoni juli ferreir
+
+
+
+
+
+
+
+

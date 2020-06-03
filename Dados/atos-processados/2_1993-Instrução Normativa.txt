@@ -1,0 +1,721 @@
+instruca normat
+
+
+
+tribunal cont unia uso atribuica constitucion leg regulament
+
+
+
+consider pod regulament confer lei par exped atos instruca normat sobr mat atribuica sobr organiz process dev submet obrig cumpriment pen responsabil
+
+
+
+consider compet tribunal apreci par fins registr form estabelec regiment intern legal atos admissa pessoal qualqu titul administr diret indiret inclu fundaca institu mant pel pod public federal excetu nomeaca par carg proviment comissa bem concessa aposentador reform pensa ressalv melhor posterior alter fundament legal ato concessori cf lei regiment intern
+
+
+
+consider aind sistem control intern cab apoi control extern exercici missa institucional term iv constituica federal resolv
+
+
+
+
+seca i
+objet
+
+
+
+
+apreci pel tribunal cont unia par fins registr legal atos admissa pessoal qualqu titul excetu nomeaca par carg proviment comissa administr public federal diret indiret inclu fundaca institu mant pel pod public bem atos concessa aposentador reform pensa ressalv melhor posterior alter fundament legal ato concessori administr public federal diret autarqu fundacional obedec dispost present instruca normat
+
+
+
+
+seca ii
+inform orga orig aca control intern
+
+
+
+
+autor administrat respons ato admissa concessa submet dad abaix discrimin respect orga control intern emitira parec sobr legal encaminh tribunal cont unia par fins apreci registr
+
+
+
+cas ato admissa pessoal
+
+
+
+dad admit
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom
+
+
+
+sex
+
+
+
+matricul
+
+
+
+cpf
+
+
+
+dat nasciment
+
+
+
+dad referent admissa
+
+
+
+regim jurid
+
+
+
+dat admissa poss
+
+
+
+dat efet exercici
+
+
+
+dat venciment contrat
+
+
+
+codig cargoempreg
+
+
+
+orig motiv bas legal vag
+
+
+
+dad concurs public dat public edital homolog validad
+
+
+
+b cas ato concessa aposentador
+
+
+
+dad servidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom sex matricul cpf dat nasciment servidor
+
+
+
+regim jurid servidor vigenc lei
+
+
+
+carg posica carreir ocup pel servidor aposent
+
+
+
+dad referent concessa
+
+
+
+caus determinant aposentador
+
+
+
+temp servic par aposentador discrimin temp averb anos mes dias
+
+
+
+temp servic par unieni anos mes dias
+
+
+
+funca comission exerc respect tot anos mes dias
+
+
+
+dat public ato aposentador
+
+
+
+dat vigenc concessa indic tratars inicial alter
+
+
+
+fundament legal concessa vantagens defer
+
+
+
+indic discrimin parcel provent inform encarg responsabil unia estad cas
+
+
+
+c cas ato concessa reform
+
+
+
+dad servidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom sex matricul cpf dat nasciment
+
+
+
+situaca funcional ativ inat
+
+
+
+ultim post graduaca anterior reform
+
+
+
+post graduaca atual
+
+
+
+dat prac deslig
+
+
+dad referent concessa
+
+
+
+motiv reform
+
+
+
+dat public reserv reform
+
+
+
+dat vigenc reform indic tratars inicial alter
+
+
+
+dat laud medic quand trat reform incapac invalidez
+
+
+
+fundament leg reserv reform calcul provent
+
+
+
+temp servic comput par inativ anos mes dias
+
+
+
+indic discrimin parcel provent inform encarg responsabil unia estad cas
+
+
+
+d cas ato concessa pensa civil
+
+
+
+dad instituidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom sex matricul dat obit
+
+
+
+carg posica carreir dat concessa benefici
+
+
+
+situaca funcional dat obit ativ inat
+
+
+
+temp servic par aposentador uneni anos mes dias cas
+
+
+
+fundament legal aposentador cas
+
+
+
+dad referent concessa
+
+
+
+fundament legal pensa respect parcel
+
+
+
+dat vigenc pensa indic tratars inicial alter
+
+
+
+dat vigenc pensa decorrent habilit tard
+
+
+
+dat public ato pensa montepi civil
+
+
+
+valor pensa discrimin parcel compo quot relat cad beneficiari reserv houv
+
+
+
+dad beneficiari
+
+
+
+nom sex relaca parentesc eou dependencia econom instituidor
+
+
+
+dat nasciment beneficiari temporari pesso design maior sessent anos
+
+
+
+dat laud medic quand trat inval
+
+
+
+cas ato concessa pensa milit
+
+
+
+dad instituidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom sex matricul cpf dat obit
+
+
+
+post graduaca
+
+
+
+remuner provent correspondent post graduaca epoc obit
+
+
+
+post graduaca par contribu
+
+
+
+situaca funcional dat obit
+
+
+
+temp servic anos mes dias
+
+
+
+dat public reform cas
+
+
+
+dat registr reform cas
+
+
+
+dad referent concessa
+
+
+
+fundament legal pensa
+
+
+
+dat vigenc pensa indic tratars inicial reversa alter
+
+
+
+postogradu correspond pensa valor quot reserv houv
+
+
+
+quotapart cad beneficiari
+
+
+
+dad beneficiari
+
+
+
+nom sex relaca parentesc dependencia econom instituidor
+
+
+
+dat nasciment beneficiari temporari
+
+
+
+dat laud medic quand trat inval
+
+
+
+f cas pensa especial excombatent
+
+
+
+dad instituidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom sex cpf
+
+
+
+dad referent concessa
+
+
+
+fundament legal pensa
+
+
+
+dat vigenc pensa indic trat inicial reversa alter
+
+
+
+valor benefici
+
+
+
+dat public pensa conced excombatent cas
+
+
+
+dad beneficiari
+
+
+
+nom excombatent
+
+
+
+nom sex estad civil relaca parentesc instituidor
+
+
+
+dat nasciment beneficiari temporari
+
+
+
+dat laud medic quand trat inval
+
+
+
+autor administrat respons ato admissa pessoal encaminh tribunal cont unia dad deslig qualqu titul segu relacion ocorr abril par fins baix respect inform sistem process dad
+
+
+
+dad servidor
+
+
+
+numer process orig
+
+
+
+codig orga sequencial ana
+
+
+
+nom
+
+
+
+sex
+
+
+
+matricul
+
+
+
+cpf
+
+
+
+dat admissa
+
+
+
+codig carg
+
+
+
+dad deslig
+
+
+
+dat public ato cas
+
+
+
+dat deslig servidor
+
+
+
+motiv
+
+
+
+unidad pessoal orga entidad encaminh dad descrit dest instruca normat orga control intern praz vint dias cont part public atos
+
+
+
+paragraf unic quand trat atos cuj public dispens cas admissa concessa pensa contarse praz part dat exercici concessa benefici pensional respectiv
+
+
+
+orga setorial control intern verific exatida suficiente dad emit parec previ sobr legal cad ato dev remetel apreci dest tribunal praz trint dias cont receb
+
+
+
+verific ocorrente irregular vici ilegal determin diligente term lei jurisprudente dest tribunal
+
+
+
+orga pessoal dev cumpr diligente devolv dad control intern praz trint dias cont receb
+
+
+
+orga setorial control intern receb result diligente dev remet dad tribunal praz vint dias
+
+
+
+aind atend diligente dentr praz previst dest orga control intern submet tribunal conjunt dad parec previ dentr praz estipul paragraf anterior
+
+
+
+respons pel control intern tom conhec qualqu irregular ilegal inclusiv descumpr praz del dara cienc imediat est tribunal pen responsabil solid
+
+
+
+
+seca iii
+diligente
+
+
+
+
+tribunal relator fix sessent dias cont receb praz par control intern dar cumpriment diligente determin
+
+
+
+paragraf unic orga setorial control intern dev remet respost diligente inspetor control extern competent
+
+
+
+find praz aind atend diligente unidad tecnic competent dar prossegu tramit process ambit tribunal
+
+
+
+
+seca iv
+legal dem providente
+
+
+
+
+orga control intern receb result atos consider leg ileg envi orga pessoal anex respect process origin admissa concessa vist auxili inspeca auditor realiz est tribunal
+
+
+
+paragraf unic determin comunic pel unidad tecnic competent dev anex respect process cumpriment
+
+
+
+orga pessoal disciplin atrav ato administrat destin dad process admissa aposentador reform pensa registr pel tribunal vist preserv eventu direit futur
+
+
+
+tribunal relator conhec requer sej diret dirig interess obtenca benefici neg pel orga orig
+
+
+
+
+seca v
+ilegal ato consequente
+
+
+
+
+tribunal decidira pel ilegal recus registr ato concessa aposentador reform pensa apresent irregular quant merit
+
+
+
+quand ato concessa aposentador reform pensa consider ilegal orga orig far cess pagament provent benefici praz quinz dias cont cienc decisa tribunal pen responsabil autor administrat omiss
+
+
+
+paragraf unic cas sej suspens pagament hav indici proced culpos dolos concessa benefici ilegal tribunal determin instaur conversa process tom cont especial par apur responsabil promov ressarc cofr public despes irregular efetu
+
+
+
+decisa pel ilegal consequent negat registr implic revog ato admissa dev orga orig praz quinz dias cont cienc decisa tribunal promov dispens pesso ilegal admit faz cess tod qualqu pagament respect pen obrig ressarc pel respons quant pag ess dat
+
+
+
+paragraf unic hav indici proced culpos dolos admissa pessoal tribunal determin instaur conversa process tom cont especial par apur responsabil promov ressarc despes irregular efetu
+
+
+
+quand ilegal admissa decorr ausenc aprov prev concurs public inobservanc praz validad tribunal declar nulidad correspondent ato term constituica federal determin adoca med previst anterior
+
+
+
+
+seca vi
+inspeca auditor
+
+
+
+
+realiz inspeca auditor pel tribunal orga pessoal control intern coloc disposica equip tod inform relat admissa concessa inclusiv constant sistem eletron dad principal propici seguint verific
+
+
+
+i quant admissa pessoal
+
+
+
+tod admissa ocorr inform tribunal
+
+
+
+b dad inform tribunal form estabelec nest instruca normat corret
+
+
+
+c cumpr determin tribunal
+
+
+
+ii quant concessa aposentador reform pensa
+
+
+
+tod concessa encaminh tribunal par registr
+
+
+
+b dad inform tribunal form estabelec nest instruca normat corret
+
+
+
+c pagament efetu inat pension acord atos registr pel tribunal
+
+
+
+d cess pagament relat concessa consider ileg
+
+
+
+cumpr determin tribunal
+
+
+
+obstruca livr exercici inspeca auditor determin pel tribunal ensej aplic mult form previst lei
+
+
+
+soneg process document inform ensej aplic mult form previst lei
+
+
+
+
+seca vii
+disposica ger
+
+
+
+
+tribunal envi orga control intern manual instruca explicit form envi dad tramit proced requer cronogram par implant oper sistem apreci atos admissa pessoal concessa form estabelec nest instruca normat
+
+
+
+unidad process dad dest tribunal receb dad envi pel orga setorial control intern verific conform manual instruca trat anterior agrupal tip espec orga orig process consolid far tramit par inspetor control extern competent
+
+
+
+paragraf unic dad recus pel critic sistem devolv pel unidad process dad orga setorial control intern par sej san falh detect praz maxim trint dias
+
+
+
+implant definit disposica previst nest instruca normat mant proced estabelec instruca inser manual instruca sistem apreci registr atos admissa concessa sisac
+
+
+
+proced previst nest instruca normat aplic process referent concessa aposentador reform pensa entrar tribunal vigenc
+
+
+
+tcu sal sessa dezembr
+
+
+carl atil alvar silv
+
+
+president
+
+
+revog
+dispo sobr apreci legal atos admissa pessoal concessa aposentador reform pensa par fins registr pel tribunal cont unia
+
+

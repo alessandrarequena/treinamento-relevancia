@@ -1,0 +1,233 @@
+port
+
+
+
+president tribunal cont unia uso competente leg regiment
+
+
+consider correi eletron mei usad pel tcu par comunic intern extern
+
+
+consider uso indev correi eletron pod compromet seguranc inform produz custodi pel tcu
+
+
+consider direit garant individu assegur constituica federal dev obrig servidor public defin lei dezembr
+
+
+consider diretriz objet principi definica constant resolucaotcu outubr dispo sobr polit corporat seguranc inform pcsitcu
+
+
+consider revog resolucaotcu novembr implic lacun normat acerc regr par uso correi eletron tcu
+
+
+consider necess aprimor mecan proteca inform transmit mediant servic correi eletron dispon red comput tcu
+
+
+consider estud parec constant process tc resolv
+
+
+regr ger par uso servic correi eletron tcu obedec dispost nest port legislacion pertinent alinh principi diretriz polit corporat seguranc inform pcsitcu
+
+
+correi eletron tcu constitu recurs corporat par comunic usad mod compat exercici carg sem compromet imag tribunal trafeg dad red comput instituica
+
+
+par efeit dispost nest port entendes
+
+
+i unidad gestor servic correi eletron unidad respons pel definica diretriz requisit negoci par servic correi eletron
+
+
+ii usuari intern term pcsitcu qualqu servidor ativ unidad tribunal tenh acess form autoriz inform produz custodi pel tcu
+
+
+iii usuari colabor term pcsitcu prestador servic terceiriz estagiari qualqu outr colabor tribunal tenh acess form autoriz inform produz custodi pel tribunal
+
+
+iv caix postal repositori armazen mensagens correi eletron integrant bas dad equip servidor correi eletron tcu
+
+
+v list distribuica agrup divers caix post unic enderec eletron inser destinatari mensag permit distribuica dest tod caix post integrant list
+
+
+caix post classificams
+
+
+i caix postal individual destin servidor ativ servidor aposent usuari colabor
+
+
+ii caix postal unidad destin unidad subun tcu
+
+
+iii caix postal uso colet destin grup trabalh comit comissa projet ativ especif inter tcu
+
+
+cad caix postal gestor acord seguint regr
+
+
+i par caix post individu gestor servidor ativ servidor aposent usuari colabor par destin caix postal
+
+
+ii par caix post unidad gestor titul unidad subun par destin caix postal servidor design
+
+
+iii par caix post uso colet gestor imped leg respect substitut respons pel grup trabalh comit comissa projet pel ativ especif inter tcu destin caix postal
+
+
+cab gestor caix postal
+
+
+i examin conteud caix postal par dar tratament adequ tempest mensagens receb mantel acord norm integrant pcsitcu
+
+
+ii adot med par volum ocup pel conteud caix postal exced limit estabelec
+
+
+iii defin criteri acess caix postal
+
+
+paragraf unic gestor caix postal pod autoriz execuca ativ objet i ii outr usuari intern colabor
+
+
+secret infraestrutur tecnolog inform setic respons
+
+
+i garant disponibil servic correi eletron estabelec acord niv servic defin unidad gestor servic correi eletron
+
+
+ii estabelec comunic gestor caix postal limit utiliz servic correi eletron
+
+
+iii implant mecan evit envi recepca mensagens poss compromet seguranc servic correi eletron
+
+
+iv cri mant exclu caix post conform criteri defin pel unidad gestor servic correi eletron
+
+
+v defin implant execut proced seguranc rotin cop recuper caix post
+
+
+vi execut aca necess quand devid demand par fins atend dest norm
+
+
+vii execut proced limit liber uso servic correi eletron acord dispost nest port
+
+
+vii desenvolv outr atribuica inerent final provedor infraestrutur tecnolog inform tcu
+
+
+par fins dispost iii incumb comissa coorden geral ccg defin regr acerc envi mensagens list distribuica integrant correi eletron tcu subsidi propost encaminh pel comit seguranc inform csi
+
+
+atribuica dispost nest desenvolv pel setic apoi coub secret soluca tecnolog inform sti
+
+
+alem propri gestor caix postal pesso autoriz conteud caix post soment pod acess pel unidad gestor servic correi eletron par seguint objet
+
+
+i verific obtenca retenca uso divulg inform mei fins ilicit desacord norm regulament
+
+
+ii recuper conteud inter tcu cas afast leg gestor caix postal substitut
+
+
+iii atend demand gabinet corregedor comissa sindicanc formal constitu desd haj process administrat instaur
+
+
+iv subsidi apur fat mediant demand formul ambit process disciplin
+
+
+v atend solicit judicial
+
+
+paragraf unic acess conteud caix post hipotes previst i ii dev feit mediant autoriz president tcu ouv assessor seguranc inform governanc assig incumb cientific oportun csi
+
+
+caix post individu destin servidor aposent usuari colabor dev utiliz exclusiv par envi recepca mensagens entr caix post tcu
+
+
+paragraf unic incumb setic praz sessent dias cont public dest port implement regr utiliz trat dest
+
+
+exclusa caix post individu destin servidor ocorr imediat respect vacanc quadr tcu excet cas aposentador
+
+
+paragraf unic cab secret gesta pesso segep inform setic aposentador dem ocorrente vacanc par fins adequ exclusa caix postal servidor
+
+
+criaca exclusa caix postal par usuari colabor segu coub dispost portariatcu setembr
+
+
+cess prest servic terceiriz compet unidad fiscaliz contrat requer setic imediat exclusa caix post respect usuari colabor
+
+
+find contrat estagi compet secret gesta pesso segep sed secret control extern estad requer setic imediat exclusa caix post respect usuari colabor
+
+
+seguint aca indev relat correi eletron passiv apur responsabil
+
+
+i acess tentat acess indici fraud sabotag caix postal sem autoriz respect gestor
+
+
+ii envi sem autoriz mensag inform proteg direit autoral par pesso fisic jurid
+
+
+iii encaminh mensag desacord grau confidencial atribu conteud
+
+
+iv envi armazen mensag conteud ilegal desacord codig etic servidor tribunal aprov pel resolucaotcu mai
+
+
+v adulter dad referent orig mensag camp control cabecalh
+
+
+paragraf unic aplic dispost nest consideras armazen mensag abert mant caix postal
+
+
+inobservanc disposit anterior pod acarret isol cumulativ term legislacion aplic
+
+
+i limit uso servic correi eletron tcu mediant autoriz president tcu const praz duraca med
+
+
+ii outr sanca administrat civ pen
+
+
+liber uso servic correi eletron limit trat i anterior realiz pel setic dia util
+
+
+i praz constant ato autoriz limit
+
+
+ii cienc determin express plenari president tcu
+
+
+incumb assig consonanc dispost portariatcu novembr monitor avali periodic pratic seguranc inform relat regr estabelec nest port propor csi ajust consider necessari
+
+
+ato president indic unidad gestor servic correi eletron tcu
+
+
+cas omiss analis conjunt pel unidad gestor servic correi eletron pel assig dirim pel ccg
+
+
+fic setic assig autoriz ambit respect competente edit atos fiz necessari par operacionaliz dest port
+
+
+paragraf unic atos refer dest dev submet previ exam ccg
+
+
+present norm integr pcsitcu
+
+
+est port entr vigor dat public
+
+
+ubiratan agui
+
+
+const revog express
+dispo sobr regr ger uso servic correi eletron tribunal cont unia
+
+

@@ -1,0 +1,1915 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider padra auditor conform par utiliz ativ control extern aprov pel portariasegecex outubr
+
+
+consider refer padra pod utiliz parametr pel control intern
+
+
+consider necess uniformiz proced planej execuca elabor relatori auditor conform trabalh execut pel seca
+
+
+consider plan diretor seca par exercici defin diretriz aperfeico estrutur normat suport control intern
+
+
+consider inform constant tc resolv
+
+
+fic aprov form anex dest port padra auditor conform secret control intern seca tribunal cont unia
+
+
+obrigator utiliz padra aprov est port auditor conform execut pel seca
+
+
+incumb seca atualiz padra auditor conform refer dest normat
+
+
+est port entr vigor dat public
+
+
+benjamin zymler
+
+
+
+
+padra auditor conform seca
+
+
+
+objet dest document estabelec padra ger planej execuca elabor relatori control qualidad auditor conform execut pel secret control intern tribunal cont unia seca
+
+
+
+i padra ger
+
+
+
+auditor conform execut pel seca obedec padra aqu estabelec
+
+
+tod trabalh auditor desd planej conclusa relatori supervision aufc formal design pel diretor diretor auditor seca diaud pel secretari seca
+
+
+compet supervisor auditor
+
+
+orient equip auditor quant vincul objet fiscaliz aderente padra auditor conform seca
+
+
+aprov matriz planej inici execuca
+
+
+acompanh desenvolv trabalh desd inici planej conclusa relatori
+
+
+analis junt equip matriz achad houv
+
+
+analis junt equip matriz responsabiliz houv
+
+
+preench assin conclusa relatori formulari constant anex ix formulari control qualidad supervisor
+
+
+sempr possivel relevant particip reunia apresent reunia encerr
+
+
+compet coorden equip auditor
+
+
+promov discussa equip respeit escop proced tecnic utiliz incentiv dem membr apresent propost decid consens cas divergente opinia deves busc opinia supervisor permanec divergente prevalec propost coorden
+
+
+represent equip auditor perant unidad audit providenci emissa ofici requisica document inform coorden reunia fiscaliz
+
+
+zel pel cumpriment praz
+
+
+revis entreg versa final relatori anuenc dem membr
+
+
+assegur formulari control qualidad constant anex vii formulari control equip sej junt dem membr preench assin
+
+
+registr cas julg relevant eventu discordanc quant aprov quaisqu aspect matriz planej pel supervisor tal registr dev const observ propr matriz objet divergente
+
+
+design equip auditor feit mediant port fiscaliz identific coorden dem membr equip supervisor bem objet trabalh unidad fiscaliz deliber origin fiscaliz fas planej quand conhec fas execuca elabor relatori
+
+
+hipotes afast legal supervisor supervisa dev feit pel respect substitut
+
+
+auditor cuj praz total duraca planej execuca elabor relatori estim inicial sej superior vint dias ute fas planej pod criteri unidad realiz definica fas execuca elabor relatori observandos seguint
+
+
+ato design equip dev prev apen fas planej send denomin port fiscaliz fas planej
+
+
+consequente fas planej equip dev estim maior precisa possivel praz necessari par fas seguint segu emit port fiscaliz fas execuca relatori defin fas execuca elabor relatori
+
+
+imped seca realiz fas planej definica fas execuca elabor relatori auditor cuj praz total duraca estim sej igual inferior vint dias ute
+
+
+quand exist pouc inform dispon sobr unidad audit sobr objet fiscaliz instrument fiscaliz adot levant cuj relatori dev propor realiz auditor escop defin conclu pel inviabil inoportun realiz auditor
+
+
+sempr element surpres essencial desenvolv trabalh formaliz auditor dars seguint etap
+
+
+autuaca process eletron referent auditor
+
+
+registr auditor sistem fiscal
+
+
+emissa port fiscaliz pel titul seca
+
+
+public port fiscaliz btcu
+
+
+emissa ofici apresent
+
+
+encaminh pel equip auditor ofici requisica document unidad audit
+
+
+titul seca encaminh antecedente necess ofici apresent equip auditor anex iv dirigent unidad audit inform encontr fiscaliz objet deliber origin fiscaliz dat provavel par apresent equip bem solicit quand cas alem document inform disponibiliz ambient reserv segur par instal equip design pesso contat unidad
+
+
+
+durant fas planej imped equip tecnic cas julg necessari visit unidad
+
+
+
+
+ii padra planej
+
+
+
+titul seca dev assegur temp dispon par fas planej sej suficient par consecuca objet dest fas form garant seguint aspect basic
+
+
+nivel detalh suficient mod maximiz provavel benefici fiscaliz
+
+
+obtenca analis inform disponiv necess sobr objet fiscaliz inclusiv quant sistem informatiz control intern associ
+
+
+suficient discussa ambit equip auditor entr est supervisor respeit definica escop proced tecnic utiliz
+
+
+fas planej dev elabor matriz planej
+
+
+hav matriz referente cab equip avali itens verific constant dest dev consider elabor proced matriz planej especif auditor utiliz matriz referente imped inclusa outr proced consider relevant pel equip tecnic selecion acord objet escop deline par auditor
+
+
+elabor matriz planej dev obedec model anex i
+
+
+fas planej equip auditor dev preliminar constru visa geral objet fiscaliz pod faz uso entr outr seguint font inform
+
+
+sistem informatiz
+
+
+cont ultim exercici
+
+
+fiscaliz anterior inclu respect pap trabalh
+
+
+outr process relacion unidad fiscaliz objet fiscaliz
+
+
+propr unidad fiscaliz
+
+
+notic veicul mid
+
+
+levant anterior sobr objet fiscaliz
+
+
+acompanh realiz pel diretor acompanh orient gesta seca diag relacion unidad fiscaliz objet fiscaliz
+
+
+visa geral objet conhec compreensa objet fiscaliz bem ambient organizacional est est inser geral compost seguint inform
+
+
+descrica objet fiscaliz caracterist necess compreensa
+
+
+legislacion aplic
+
+
+objet institucion unidad fiscaliz quand cas
+
+
+competente atribuica
+
+
+risc deficiente control intern
+
+
+
+
+iii padra execuca
+
+
+
+apresent equip auditor dirigent unidad audit representant design fazs mediant realiz reunia apresent pod inform princip criteri auditor inicial selecion durant planej bem escop objet trabalh
+
+
+equip auditor pod apresent respons pel are fiscaliz esclarec objet criteri escop fiscaliz
+
+
+requisica document inform durant fiscaliz planej execuca relatori dev fix praz par atend tal praz sempr possivel desd compromet praz execuca dev estabelec comum acord fiscaliz mencion solicit formaliz mei ofici requisica dat numer sequencial tomandos referente model constant anex v
+
+
+entreg ofici requisica pod realiz pessoal mei eletron cop constitu papel trabalh fiscaliz
+
+
+document fornec pel dirigent dev cont identific elabor fornec font inform alem legiv dat assin
+
+
+sempr possivel form agiliz trabalh garant disponibiliz document condica requer primeir ofici requisica fas execuca pod encaminh via fax email pessoal dev antecedente
+
+
+durant fas execuca equip auditor dev utiliz font inform aplic proced previst matriz planej busc achad
+
+
+matriz planej instrument par consecuca objet fiscaliz passivel mudanc durant realiz trabalh cas ocorr situaca inesper
+
+
+achad auditor analis matriz achad anex ii dev atend necessari seguint requisit basic
+
+
+relevant par merec relat
+
+
+fundament evidente junt aut
+
+
+apresent form objet
+
+
+respald propost encaminh del resultant
+
+
+esclarec acerc indici dev colh long fas execuca evitandos mal entend minimiz recolh inform posterior
+
+
+evidente element essenci comprobatori achad dev seguint atribut
+
+
+suficient complet mod permit terceir chegu conclusa equip
+
+
+pertinent diret relacion achad
+
+
+adequ fidedign goz autentic confiabil exatida font
+
+
+document consider evidente pod
+
+
+origin ofici cart relatori outr document emit pel fiscaliz terceir enderec equip
+
+
+cop document
+
+
+fotograf mid cont arquiv dad vide audi
+
+
+extrat entrev conform model anex vii
+
+
+consolid respost questionari
+
+
+planilh calcul quadr comparat demonstrat outr evidente constru pel equip part font inform intern extern unidad audit
+
+
+document eletron
+
+
+evidente testemunh dev sempr possivel reduz term corrobor outr evidente
+
+
+final fas execuca realiz reunia encerr equip cas avali convenient apresent verbal visa geral trabalh auditor dirigent unidad audit outr respons cuj particip sej consider oportun representant design
+
+
+sempr possivel achad colh long execuca dev discut supervisor anterior reunia encerr
+
+
+
+
+iv padra elabor relatori
+
+
+
+relatori instrument formal tecnic intermedi equip auditor comun leitor objet questa auditor achad auditor conclusa propost encaminh
+
+
+redaca relatori equip auditor dev orientars pel requisit resum palavr cert clarez concisa convicca exatida relevanc tempestiv objetiv
+
+
+clarez produz text facil compreensa evit ambigu restring maxim utiliz expressa outr idiom excet quand trat expressa possu traduca adequ par idiom portugu torn corriqueir quand possivel complement text illustr figur tabel busc uniform temp verbal tod text
+
+
+convicca expor achad eou conclusa firmez
+
+
+concisa ir diret assunt utiliz comentari complement desnecessari fug ide central transcrica trech doutrin eou jurisprudente componh criteri dev restringirs minim necessari transcrica trech evidente document soment dev feit quand essencial entend raciocini
+
+
+exatida apresent necess evidente par sustent achad conclusa propost procur deix espac par contraargument exatida necess par assegur leitor relat fidedign confiavel err pod duv validad tod relatori pod desvi atenca substanc quer comunic evidente relat dev demonstr justez razoabil fat descrit achad conclusa dev apresent form coerent escop fiscaliz
+
+
+relevanc expor apen aquil importanc dentr context dev lev consider
+
+
+tempestiv cumpr praz previst par elabor relatori sem compromet qualidad
+
+
+objetiv apresent relatori form equilibr term conteud tom credibil relatori reforc quand evidente apresent form imparcial interpret dev base conhec compreensa fat condica
+
+
+relatori dev estrutur minim seguint seca
+
+
+folh rost
+
+
+apresent houv
+
+
+introduca
+
+
+achad auditor
+
+
+achad decorrent investig questa auditor houv
+
+
+conclusa
+
+
+propost encaminh
+
+
+anex relatori houv
+
+
+folh rost
+
+
+folh rost destinas apresent form sucint dad relat identific trabalh realiz send subdivid tres part princip fiscaliz unidad fiscaliz process conex conform model anex vi
+
+
+apresent
+
+
+apresent destinas relat inform vis contextualiz trabalh realiz destinas tamb descrev form organiz relatori
+
+
+introduca
+
+
+introduca dev cont seguint inform apresent form concis
+
+
+deliber origin fiscaliz menca raza motiv deliber necessari
+
+
+visa geral objet elabor fas planej revis execuca
+
+
+objet questa auditor
+
+
+limit inerent auditor houv
+
+
+descrica limit dev indic clar aquil pod investig profund suficient par formul conclusa justificat pertinent
+
+
+menca observanc padra auditor conform defin pel seca
+
+
+menca particip especial outr unidad tecnic tenh contribu mod significat par realiz trabalh aind tenh assin relatori
+
+
+volum recurs fiscaliz
+
+
+benefici estim fiscaliz
+
+
+process conex houv analis reflex process conex respect deliber fiscaliz
+
+
+achad auditor
+
+
+est seca correspond propri desenvolv relatori nel dev detalh achad auditor evidente suport
+
+
+analis cad achad dev estrutur seguint aspect
+
+
+situaca encontr
+
+
+criteri auditor
+
+
+evidente
+
+
+item evidente dev cont sempr remissa folh pec process ond encontr evidente suport achad
+
+
+par achad envolv existente debit necessari preenchiment matriz responsabiliz anex iii fic identific responsabil pel ocorrente
+
+
+funca significanc boas pratic unidad audit achad posit dev relat desd poss registr propost encaminh par sej adot exempl outr gestor
+
+
+achad classific boas pratic relat achad decorrent investig questa auditor
+
+
+achad decorrent investig questa auditor
+
+
+consider achad decorrent investig questa auditor tod aquel previst questa auditor formul fas planej funca relevanc material risc merec atenca equip auditor
+
+
+equip dev avali investig previst fas planej pod lev desvirtu auditor inicial term compromet praz eou questa auditor magnitud evidente encontr recomend tratament dess achad deves avali oportun conveniente fazel junt objet fiscaliz prejudic hipotes fat dev comunic titul seca avali conveniente oportun propor nov fiscaliz cab aind equip supervisor titul seca apresent represent autonom
+
+
+achad decorrent investig questa auditor investig abord relatori dev mesm tratament dem achad dev const necessari nest seca relatori aspect situaca encontr criteri auditor evidente
+
+
+
+dev const tamb matriz achad destaqu ref achad decorrent investig questa auditor seca relatori conclusa propost encaminh tais achad dem dev devid sustent evidente
+
+
+investig assunt previst inicial dev registr introduca subseca objet feit menca objet original inclusa nov matriz planej achad pod mant objet inicial
+
+
+conclusa
+
+
+conclusa achad dev apresent maneir sucint
+
+
+referente achad auditor dev indic numer itemns cad del trat relatori
+
+
+propost encaminh
+
+
+hav achad propost encaminh dev sent diligenci unidad audit par apresent justificativasesclarec sobr fat apont praz defin pel port tcu
+
+
+cas urgenc fund recei grav lesa erari direit alhei risc ineficac decisa merit equip qualqu temp dev submet secretari control intern propost comunic fat ministr president tcu par est adot med julg cabiv
+
+
+
+revog
+dispo sobr padra auditor conform adot pel secret control intern seca
+
+anex relatori
+
+
+
+
+considerams anex aquel document embor diret relacion assunt trat relatori sej essenci compreensa dest tais memor calcul protocol test descrica detalh separ cit document vis torn relatori concis entretant dev caus prejuiz entend par leitor cab equip avali cad cas
+
+
+considerams anex aind aquel document tamanh disposica grafic poss const corp relatori tais tabel grafic fotograf
+
+
+document junt
+
+
+dev obrigatori junt process auditor port fiscaliz rol respons identific nom cpf carg period efet exercici carg sej titul sej substitut tod respons pel are setor fiscaliz period abrang pel fiscaliz ofici requisica evidente ofici apresent cop mensagens eletron troc entr equip auditor unidad audit matriz utiliz
+
+
+
+
+v padra control qualidad
+
+
+
+control qualidad auditor vis exclusiv melhor qualidad term aderente padra auditor seca reduca temp tramit process auditor diminuica retrabalh aument efetiv propost encaminh
+
+
+control qualidad efetu
+
+
+pel propr equip auditor
+
+
+pel supervisor
+
+
+pel diretor desd sej supervisor
+
+
+pel secretari seca
+
+
+formulari control qualidad relatori anex vii formulari control equip x formulari control qualidad supervisor dev preench elabor relatori mod permit avali adequ auditor objet vincul padra auditor adot seca pel carat sigil formulari control qualidad soment pod acess pel membr equip pel superior pel unidad participant sistemat control qualidad
+
+
+
+
+padra auditor conform seca
+
+
+
+
+
+glossari
+
+
+
+
+
+achad qualqu fat significat dign relat pel auditor constitu quatr atribut situaca encontr criteri caus efeit decorr compar situaca encontr criteri dev devid comprov evidente junt relatori achad pod negat quand revel impropriedad irregular posit quand apont boas pratic gesta
+
+
+
+auditor conform instrument fiscaliz utiliz pel seca par examin legal legitim atos gesta respons unidad tribunal cont unia quant aspect contabil financeir orcamentari patrimonial
+
+
+
+benefici control tod debit mult econom ganh melhor decorrent atuaca seca bem expectat control ger pel aca
+
+
+
+coorden membr equip compet forc design express port
+
+
+
+
+fiscaliz lider equip represental perant unidad fiscaliz
+
+
+
+control intern conjunt ativ plan metod proced interlig utiliz vist assegur objet tribunal cont unia sej alcanc form confiavel concret evidenci eventu desvi long gesta consecuca objet fix pel tcu
+
+
+
+criteri legislacion norm jurisprudente entend doutrinari equip comp situaca encontr reflet dev gesta
+
+
+
+elabor relatori fas fiscaliz equip escrev relatori bas pap trabalh utiliz obtid desenvolv fas anterior
+
+
+
+escop fiscaliz profund amplitud trabalh par alcanc objet fiscaliz defin funca temp recurs human materi disponiv
+
+
+
+evidente inform obtid durant fiscaliz intuit document achad respald opinia conclusa equip pod classific fisic testemunh document analit dev seguint atribut
+
+
+validad evidente dev legitim sej base inform precis confi
+
+
+b confiabil garant obtid mesm result fiscaliz repet par obter evidente confi important consider convenient usar diferent font interessant usar diferent abordagens evidente document mais confi ora evidente obtid observ diret analis mais confi aquel obtid indiret
+
+
+c relevanc evidente relevant relacion form clar logic criteri objet fiscaliz
+
+
+d suficiente quantidad qualidad evidente obtid dev persuad leitor achad conclusa recomend determin auditor bem fundament important lembr quantidad evidente substitu falt outr atribut validad confiabil relevanc quant maior material objet fiscaliz risc grau sensibil fiscaliz determin assunt maior necess evidente mais robust existente fiscaliz anterior tamb indic ess necess
+
+
+
+execuca fas auditor conform equip utiliz font inform aplic proced previst fas planej busc evidente par fundament conclusa
+
+
+
+
+extrat entrev papel trabalh anex vii ond registr soment trech respost entrevist interess desenvolv achad pod cont tamb referente evidente corrobor achad dev assin pel entrevist
+
+
+
+indici discordanc entr situaca encontr criteri aind devid investig est suficient suport evidente pont caracterizars achad auditor encontr evidente transform indici achad est dev inclu relatori
+
+
+
+levant espec fiscaliz utiliz pel seca par
+
+
+conhec organiz funcion unidad tecnic basic tcu sistem program projet ativ tribunal refer aspect contab financeir orcamentari operacion patrimoni
+
+
+identific objet instrument fiscaliz
+
+
+avali viabil realiz fiscaliz
+
+
+
+matriz achad document estrutur desenvolv achad explicit par cad situaca encontr criteri adot evidente propost encaminh vid anex ii
+
+
+
+matriz planej document organiz sistematiz planej trabalh auditor relacion part enunci objet fiscaliz divers questa auditor par respond cad qua inform requer font inform proced possiv achad vid anex i
+
+
+
+matriz responsabiliz document permit verific responsabil pel achad apresent par cad achad nom funca respons condut pratic nex causal entr condut achad analis culpabil vid anex iii
+
+
+
+matriz referente matriz planej achad preench par determin are fiscaliz matriz padra matriz referente padra questa inform requer font inform proced detalh proced possiv achad criteri tip deliber vira preench fas planej equip dev avali conveniente utiliz matriz referente existent tend cont escop fiscaliz
+
+
+
+objet fiscaliz declar precis daquil fiscaliz pretend realiz eou questa fundamental dev esclarec
+
+
+
+objet document projet program process sistem proced aplic
+
+
+porventur achad constat exempl objet contrat folh pagament bas dad ata edital fich financeir process licitatori orcament process pagament
+
+
+
+objet fiscaliz program ativ projet process sistem sujeit fiscaliz
+
+
+
+ofici apresent equip auditor document remet pel titul seca dirigent unidad audit par comunic antecipad realiz fiscaliz apresent servidor design inform objet deliber origin dat provavel par apresent equip bem solicit disponibiliz document necessari fiscaliz vid anex iv
+
+
+
+ofici requisica document dirig pel coorden equip dirigent unidad audit par requisit document inform eou esclarec necessari execuca trabalh vid anex v
+
+
+
+padra auditor conjunt proced dev observ tod fas auditor conform planej execuca relatori vis proporcion uniform qualidad celer auditor conform execut pel seca
+
+
+
+pap trabalh document constitu suport tod trabalh desenvolv pel auditor cont registr tod inform utiliz verific proced conclusa cheg independent form mei fisic caracterist considerams pap trabalh entr outr planilh formulari questionari preench fotograf arquiv dad vide audi ofici memorand port cop contrat term conveni matriz planej achad responsabiliz
+
+
+
+planej planej funca administrat determin antecipad qua objet dev ating dev faz par alcancal planej defin ond pretend cheg dev feit quand sequenc etap fundamental par sucess fiscaliz send imprescind sej aloc temp adequ par realiz tentat abrevi temp destin planej muit redund problem execuca fiscaliz pod provoc acrescim temp total realiz trabalh alem repercussa negat qualidad auditor conform elabor program auditor compost pel matriz planej objet final fas planej
+
+
+
+port fiscaliz ato design equip ond identific coorden dem membr equip supervisor alem objet trabalh unidad audit deliber origin fiscaliz fas planej equ conhec fas execuca elabor relatori
+
+
+
+port fiscaliz fas planej ato design equip cont mesm
+
+
+atribut port fiscaliz destinandos exclusiv par fas planej fiscaliz cuj praz total duraca estim inicial sej superior vint dias ute
+
+
+
+port fiscaliz fas execuca relatori ato design equip suced
+
+
+
+port fiscaliz fas planej defin fas execuca elabor relatori destinandos fiscaliz cuj praz total duraca estim inicial sej superior vint dias ute
+
+
+
+proced itens verific execut durant fiscaliz par consecuca objet dev med possivel detalh taref descrit form clar mod ger duv executor esclarec aspect abord
+
+
+
+questa auditor aspect compo escop fiscaliz dev investig vist satisf objet detalh matriz planej
+
+
+
+reunia apresent reunia equip auditor dirigent unidad audit representant design inform objet trabalh princip criteri inicial selecion durant planej
+
+
+
+reunia encerr reunia equip auditor dirigent unidad audit representant design final fas execuca apresent achad auditor
+
+
+
+significanc conceit englob atribut relevanc material risc
+
+
+
+situaca encontr situaca existent identific document durant fas execuca fiscaliz dev contempl period ocorrente achad
+
+
+
+supervisor auditor auditor federal control extern design formal par supervision auditor conform funca orient acompanh control tod fas compo auditor conform vis garant ating result esper assegur qualidad trabalh prest auxili equip auditor
+
+
+
+tecnic form maneir utiliz aplic proced vist obtenca diferent tip evidente tratament inform tecnic mais usual utiliz
+
+
+exam documental tecnic mais utiliz ambit setor public send muit falt conhec daquel execut trabalh confund propri trabalh exam documental equip dev observ transaca realiz devid document document suport oper cont indici inidon transaca document suport feit pesso respons oper realiz adequ funca ativ orgaoent
+
+
+inspeca fisic constat in loc dev fornec equip certez existente objet item verific
+
+
+conferente calcul objet conferente oper envolv calcul aplic tecnic equip dev limit confer calcul realiz terceir fazendos necess efetiv calcul propri compar final aquel apresent pel fiscaliz
+
+
+observ cons olhar determin process proced est send execut outr
+
+
+entrev cons elabor pergunt objetiv obtenca respost par quesit previ defin
+
+
+circulariz cons confirm junt terceir fat aleg pel entidad planej trabalh equip dev consider part extern pod circulariz objet fiscaliz pod satisfeit pel circulariz
+
+
+concili objet verific compatibil entr sald cont sintet aquel cont analit aind confront registr mant pel entidad element receb font extern
+
+
+analis cont contab objet examin transaca ger lancament determin cont contabil ess tecnic part lancament contab par identific fat document suport cont selecion funca objet geral sensibil equip
+
+
+revisa analit objet verific comport valor significat mediant indic quocient quantidad absolut outr mei vist identific situaca tendenc atip aplic proced revisa analit auditor dev consider
+
+
+objet proced grau confiabil result alcanc
+
+
+b natur unidad audit conhec adquir fiscaliz anterior
+
+
+c disponibil inform relevanc confiabil comparabil
+
+
+
+unidad audit unidad basic tecnic localiz sed tribunal estad feder cuj dependencia are atuaca desenvolves fiscaliz
+
+
+
+visa geral objet conhec compreensa objet fiscaliz bem ambient organizacional est est inser geral compreend seguint inform princip
+
+
+descrica objet fiscaliz caracterist necess compreensa
+
+
+legislacion aplic
+
+
+objet institucion entidad audit quand cas
+
+
+pont critic deficiente sistem control intern
+
+
+
+volum recurs fiscaliz vrf montant recurs orcadosprovisionadosempenhados pel unidad audit period abrang pel fiscaliz cas fiscaliz soment abranj objet individualiz pe contrat licit vrf valor total objet exercici abrang pel fiscaliz
+
+
+
+padra auditor conform seca
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+anex
+
+
+
+
+padra auditor conform seca
+
+
+
+
+anex i
+
+
+
+
+
+matriz planej
+
+
+
+
+
+tc fiscal
+
+
+
+
+unidad audit
+
+
+
+
+objet
+
+
+
+
+questa auditor
+
+inform requer
+
+font inform
+
+proced
+
+possiv achad
+
+foc
+
+princip
+
+aspect
+
+objet
+
+pretend
+
+
+
+limit
+
+objet
+
+auditor
+
+
+
+englob tod
+
+itens
+
+
+
+verific
+
+
+
+limit questa
+
+
+
+prev tod
+
+inform
+
+necess
+
+especifical
+
+
+
+descrev form
+
+question
+
+
+
+associ pel
+
+men font
+
+inform
+
+
+
+
+
+ond
+
+document
+
+
+
+especific
+
+
+
+associ pel
+
+men
+
+inform
+
+requer
+
+associ pel men
+
+proced
+
+par cad inform
+
+requer
+
+
+
+formul
+
+proced par
+
+inform
+
+requer
+
+previst
+
+limit previst
+
+questa
+
+
+
+guard coerenc
+
+questa
+
+
+
+descrev
+
+exat
+
+esper
+
+respost
+
+question
+
+
+
+evit
+
+generaliz
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+padra auditor conform seca
+
+
+
+
+anex ii
+
+
+
+
+
+matriz achad
+
+
+
+
+
+
+
+tc fiscal
+
+
+
+
+unidad audit
+
+
+
+
+objet
+
+
+
+
+
+descrica
+
+achad
+
+situaca encontr
+
+criteri
+
+evidente
+
+encaminh
+
+descrev titul impropriedad irregular
+
+descrev situaca existent deix clar divers aspect achad fundament
+
+
+
+indic period ocorrente fat
+
+
+
+indic criteri reflet
+
+gesta dev
+
+indic precis document respald opinia equip
+
+numer
+
+
+
+indic localiz evidente process
+
+
+
+verific evidente atribut necessari
+
+cas irregular elabor bas matriz
+
+responsabiliz
+
+
+
+registr encaminh par
+
+tod irregular impropriedad
+
+
+
+
+equip auditor supervisor
+
+
+
+nom matricul nom matricul
+
+
+
+padra auditor conform seca
+
+
+
+
+anex iii
+
+
+
+
+
+matriz responsabiliz
+
+
+
+
+
+
+
+tc fiscal
+
+
+
+
+
+orgaoent
+
+
+
+
+
+objet
+
+
+
+
+achad
+
+respons is
+
+period
+
+exercici
+
+condut
+
+nex causal
+
+entr condut result
+
+ilicit
+
+culpabil
+
+correspondente
+
+matriz achad
+
+pesso fisic nom carg cpf
+
+
+
+pesso jurid direit priv raza social cnpj
+
+
+
+pesso jurid direit
+
+public intern nom
+
+period efet exercici carg sej titul substitut
+
+aca omissa culpos negligente imperic imprudente dolos respons quer produz result assum risc produzil pratic pel
+
+respons
+
+evidente condut respons contribu mod significat par result ilicit sej caus result
+
+reprovabil condut gestor aplic pesso jurid
+
+
+
+
+
+equip auditor supervisor
+
+
+
+nom matricul nom matricul
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+padra auditor conform seca
+
+
+
+
+anex vi
+
+
+
+
+
+folh rost
+
+
+
+
+
+tc fiscaliz
+
+
+
+
+
+fiscaliz
+
+
+
+
+modal
+
+
+
+
+ato originari
+
+
+
+
+objet fiscaliz
+
+
+
+
+ato design port fiscaliz seca
+
+
+
+period abrang pel fiscaliz
+
+
+
+
+composica equip matr coorden
+
+
+matr membr
+
+
+
+
+unidad fiscaliz
+
+
+
+
+unidad audit
+
+
+
+
+respons pel unidad audit
+
+
+
+
+nom
+
+
+
+
+carg
+
+
+
+
+period desd
+
+
+
+outr respons
+
+
+
+
+nom
+
+
+
+
+carg
+
+
+
+
+period desd
+
+
+
+
+process conex
+
+
+
+tc
+
+
+
+
+padra auditor conform seca
+
+
+
+
+anex vii
+
+
+
+
+
+formulari control equip auditor
+
+
+
+
+
+
+tc fiscal
+
+
+
+
+item
+
+item document
+
+
+
+
+
+
+
+i padra ger
+
+supervidor orient equip acompanh trabalh desd planej conclusa relatori
+
+
+
+
+
+
+
+
+
+supervisor aprov matriz planej
+
+
+
+
+
+
+
+
+
+supervisor analis equip matriz achad
+
+
+
+
+
+
+
+
+
+cas tenh hav supervisor analis matriz responsabiliz
+
+
+
+
+
+
+
+
+
+encaminh ofici dirigent unidad audit dev antecedente
+
+
+
+
+
+
+
+
+
+ii padra planej
+
+
+
+
+
+
+
+
+
+praz destin fas planej suficient par atingimernt objet dess fas
+
+
+
+
+
+
+
+
+
+elabor matriz planej
+
+
+
+
+
+
+
+
+
+iii padra execuca
+
+reunia apresent equip inform dirigent unidad audit objet auditor
+
+
+
+
+
+
+
+
+
+verific questa aplic proced matriz planej
+
+
+
+
+
+
+
+
+
+colh esclarec acerc caus indici
+
+
+
+
+
+
+
+
+
+elabor matriz achad
+
+
+
+
+
+
+
+
+
+elabor matriz responsabiliz par achad poss result debit
+
+
+
+
+
+
+
+
+
+iv padra elabor relatori
+
+elabor apresent relat inform par contextualiz trabalh menca especific caracterist fiscaliz
+
+
+
+
+
+
+
+
+
+introduca relatori cont element elenc subitens padra auditor conform seca
+
+
+
+
+
+
+
+
+
+apresent achad est estrutur aspect situaca encontr criteri evidente
+
+
+
+
+
+
+
+
+
+feit remissa folh process ond encontr evidente suport achad
+
+
+
+
+
+
+
+
+
+document junt aut cont port fiscaliz rol respons oficioss requisica evidente achad
+
+
+
+
+
+
+
+
+
+
+
+justificat par respost negat
+
+
+
+
+
+
+registr alter realiz matriz planej
+
+
+
+
+
+
+
+
+equip auditor supervisor diretor diaud
+
+
+
+nom matricul nom matricul nom matricul
+
+
+
+
+padra auditor conform seca
+
+
+
+
+anex vii
+
+
+
+
+
+extrat entrev
+
+
+
+
+tc fiscal
+
+
+
+
+unidad audit
+
+
+
+
+objet auditor
+
+
+
+
+objet entrev
+
+
+
+
+local entrev
+
+
+
+
+dat horari
+
+
+
+
+entrevistado qualific complet doas entrevistado
+
+
+
+entrevist
+
+
+
+sintes inform resum pergunt efetu respost dad pel entrevist consider relevant par desenvolv achad conclusa auditor
+
+
+
+
+evidente faz referente evidente houv corrobor inform obtid
+
+
+
+
+
+
+
+
+assinatur
+
+
+
+
+entrevist entrevist
+
+
+nom matricul identific
+
+
+
+padra auditor conform seca
+
+
+
+
+anex ix
+
+
+
+
+
+formulari control qualidad supervisordiretor
+
+
+
+
+
+tc fiscal
+
+
+
+
+
+inform ger
+
+
+
+fas
+
+previst dias ute
+
+realiz dias ute
+
+planej
+
+
+
+
+
+execuca
+
+
+
+
+
+relatori
+
+
+
+
+
+
+
+
+pap trabalh marc x indic
+
+
+item
+
+satisfatori
+
+oportun melhor
+
+elabor ne aplic
+
+matriz planej
+
+
+
+
+
+
+
+alter matriz planej
+
+
+
+
+
+
+
+matriz achad
+
+
+
+
+
+
+
+matriz responsabiliz
+
+
+
+
+
+
+
+
+
+
+relatori
+
+
+
+item avali
+
+satisfatori
+
+oportun melhor
+
+relatori redig clarez objetiv correca gramatical
+
+
+
+
+
+relatori redig form concis clar concentrous achad mais relevant auditor
+
+
+
+
+
+achad auditor descrit exatida sustent evidente
+
+suficient pertinent adequ fidedign indic criteri adot express convicca equip auditor
+
+
+
+
+
+feit remissa pagin evidente junt aut
+
+
+
+
+
+conclusa est adequad fundament achad apresent sucint remissa itens encontr relatori
+
+
+
+
+
+consistente entr conteud relatori propost encaminh
+
+
+
+
+
+
+
+
+avali result trabalh
+
+
+
+item avali
+
+satisfatori
+
+oportun melhor
+
+objet trabalh auditor alcanc
+
+
+
+
+
+questa auditor investig profund adequ
+
+
+
+
+
+propost encaminh passiv implement pel unidad audit
+
+
+
+
+
+trabalh auditor realiz oportun tempest
+
+
+
+
+
+auditor realiz form econom eficient eficaz
+
+
+
+
+
+
+
+detalh cas julg necessari pont satisfatori
+
+
+
+
+
+
+
+
+
+
+boas pratic quand relatori matriz pud consider boa pratic cuj divulg par utiliz auditor simil sej recomend registr tal inform camp segu justific indic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oportun melhor registr justificat par eventu oportun melhor pud incorpor versa final relatori exempl melhor futur matriz
+
+
+
+
+
+
+
+preench
+
+
+supervisor
+
+
+
+
+
+revis
+
+
+diretor
+
+
+
+
+parec secretari aprov aprov seguint observ
+
+
+
+
+
+
+
+
+
+
+secretari
+
+
+
+
+posicion equip auditor concord concord seguint aspect
+
+
+
+
+
+
+nom
+
+
+matricul
+
+
+

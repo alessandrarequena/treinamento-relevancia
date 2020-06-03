@@ -1,0 +1,248 @@
+
+
+
+
+president tribunal cont unia uso atribuica constitucion leg regulament
+
+
+consider dev preserv sigil imprescind seguranc sociedad estad previst xxxii constituica federal
+
+
+consider obrig institucional gerenci document administr public providente par franqu consult quant del necessit form lei previst constituica federal
+
+
+consider principi diretriz responsabil competente organiz relacion compartilh acess seguranc inform constant lei novembr lei acess inform lai
+
+
+consider possibil uso bas dad obtid cuj acess remot tenh sid franque tcu decorrente trabalh fiscaliz vist subsidi outr aca control extern
+
+
+consider obrig tcu resguard sigil dad fornec pesso fisic jurid orga entidad quand forlh atribu orig classific restrica acess conform legislacion regenc ato normat especif tcu sobr classific inform
+
+
+consider necess aprimor proced par uso bas dad obtid cuj acess remot tenh sid franque tcu restrica acess
+
+
+consider necess aperfeico control inform public
+
+
+consider estud parec constant process tc resolv
+
+
+armazen concessa acess compartilh bas dad pesso fisic jurid orga entidad obtid pel tribunal cont unia tcu decorrente aca control extern contenh inform classific restrica acess graus confidencial previst legislacion regenc ato normat especif tcu sobr classific inform dev observ sistemat estabelec nest
+
+
+bas dad trat soment pod acess inter servic tcu fim subsidi planej execuca decisa afet aca control consonanc dispost iii resolucaotcu marc
+
+
+acess bas dad compartilh tcu decorrente acord cooper tecnic instrument congen observ limit restrica format previst respect acord instrument term paragraf unic resolucaotcu
+
+
+est integr polit seguranc institucional dispost pel resolucaotcu junh compreend entr outr polit corporat seguranc inform
+
+
+par efeit dest entendes
+
+
+i bas dad arquiv conjunt arquiv relacion entr registr sobr entes compond coleca organiz dad relacion form cri inform requ sistem gerenci banc dad sgbd par acess
+
+
+ii bas dad custodi bas dad tenh sid entreg tcu
+
+
+iii bas dad acess bas dad acess remot tenh sid franque tcu
+
+
+iv concessa acess qualqu proced mei pesso pass pod ler conteud bas dad exempl compartilh arquiv compo chav acess remot concessa permissa sistem gerenci banc dad
+
+
+v control administrat med proteca fisic eou logic conform cad grau confidencial garant acess exclusiv pesso autoriz control administrat pod eventual convert control tecnolog med sej tecnic viavel
+
+
+vi inform conjunt dad text imagens metod sistem quaisqu form represent dot signific determin context independent suport res form pel sej veicul
+
+
+vii inform sigil aquel submet restrica acess public term lei
+
+
+vii interess extern pesso fisic jurid encaminh tcu solicit acess inform term legislacion regenc confund conceit interess refer regiment intern tribunal term dispost x resolucaotcu mai
+
+
+ix item digitaliz objet receb suport eletron suport eletron incompat padra armazen defin pel tecnolog tribunal
+
+
+x unidad gestor acess bas dad unidad secret tcu respons pel obtenca bas dad chav acess remot
+
+
+xi unidad interess unidad secret tcu exercici competente institucion encaminh solicit acess inform par subsidi aca control
+
+
+xii unidad respons bas dad unidad secret tcu det mesm transitori bas dad chav acess remot
+
+
+unidad gestor acess bas dad obtid pesso fisic jurid orga entidad exercici control extern classific restrica acess dev junt term process control extern bas obtid inform existente bas dad vincul process administrat conex especial autu par ess fim item digitaliz bas dad incorpor sgbd corporat
+
+
+term refer dev classific sigil sistem corporat especif element requer pel lei par classific pec restrica acess dev preench gerenci mei soluca corporat disponibiliz aba propr mencion sistem
+
+
+bas dad obtid pesso fisic jurid extern dev classific atribu orig mant excet quand houv necess reclassific hipotes dev adot proced descrit ato normat especif conform lei
+
+
+fic ved armazen bas dad obtid pesso fisic jurid orga entidad classific restrica acess transferente par tcu disposit exist garant control acess rastreabil
+
+
+bas dad dev incorpor sgbd corporat arquiv conjunt arquiv requ sgbd par acess dev mant item digitaliz criptograf process administrat correspondent sistem corporat especif
+
+
+concessa acess bas dad trat est quand trat solicit interess extern dev preced
+
+
+i manifest unidad gestor acess bas dad custodi acess cont parec fundament quant atend demand inclusiv quant dispost
+
+
+ii autoriz acess relator process ambit bas dad obtid cas process encerr president
+
+
+quand autoriz acess interess extern dev inform sobr possibil recurs praz condica par interposica dev aind serlh indic autor competent par apreci
+
+
+dev requer manifest fundament orga entidad orig bas dad quant concessa acess solicit excet hipotes concessa houv sid previ autoriz mediant
+
+
+i manifest anterior mesm process orga entidad orig bas dad
+
+
+ii acord cooper instrument congener par compartilh bas dad term
+
+
+iii norm legal regulament
+
+
+iv decisa judicial
+
+
+v decisa fundament relator president tribunal
+
+
+concessa acess bas dad cont inform proteg sigil constitucional legal soment pod defer terceir houv previsa express term autoriz judicial autoriz uso consonanc dispost resolucaotcu
+
+
+quand interess extern pesso jurid concessa acess franque pesso fisic indic prepost devid identific par fins responsabiliz administrat civil criminal cas divulg autoriz dad form regulament mediant port president conform
+
+
+concessa acess bas dad trat est quand trat solicit unidad interess dev preced
+
+
+i solicit unidad interess unidad gestor acess bas dad custodi acess cont justificat par ped identific process vincul aca control
+
+
+ii manifest unidad gestor acess bas dad custodi cont parec fundament quant atend demand
+
+
+iii autoriz relator process vincul solicit unidad interess cas hav relator defin president
+
+
+quand encaminh solicit refer i unidad interess dar cienc teor secret gesta inform par control extern sgi
+
+
+document refer bem cop term previst dest dev junt aut process administrat ambit bas dad vincul
+
+
+acess bas dad classific pel orga orig restrica acess cri obrig par aquel obtev resguard sigil consoant lei
+
+
+trabalh realiz mais unidad tecnic solicit dev formul pel unidad coorden especific unidad tera acess bas dad solicit
+
+
+unidad gestor acess bas dad solicit dev submet consider relator manifest trat ii dest propost proced criteri acess alem regr especif seguranc par armazen bas par transferente dad pel dem unidad
+
+
+autoriz unidad respons pel bas dad conced acess compartilh obedec condica estabelec despach autoriz
+
+
+hav disposica contrari despach autoriz acess conced dirigent unidad indic solicit cab conced acess integrant unidad necess conhec inform par aca motiv pleit indic unidad respons pel bas dad nom refer integrant par proced concessa
+
+
+darse preferente concessa acess mei funcional previst sgbd corporat outr ferrament automatiz quand aplic
+
+
+atend principi contraditori ampl defes dev process legal tod agent public detiv acess inform disciplin ness divulg permit divulg permit acess indev inform sigil pessoal term ii lei sujeitas
+
+
+i responsabiliz infraca administrat term legislacion aplic
+
+
+ii respond improb administrat conform dispost lei junh
+
+
+iii apur dem responsabil pen civ form legislacion vigor
+
+
+paragraf unic aplicas coub dispost iii par tod agent priv detiv acess inform disciplin ness divulg permit divulg permit acess indev inform sigil pessoal term ii lei
+
+
+dev adot med seguranc salvaguard par manutenca acess alter transmissa bas dad contenh inform restrica acess
+
+
+fic respons resguard confidencial inform sigil tod pesso tiv acess bas dad public qua dev identific registr dat horari acess
+
+
+relator conform cas president pod determin qualqu temp proced vis garant seguranc inform bas dad competente segu pel unidad respons pel bas dad
+
+
+aplic control acess administrat tecnolog bas dad cont inform classific restrica acess inviabil utiliz outr form identific suficient par proteg inform form compat classific consonanc norm regenc aplic
+
+
+inventari bas dad cont inform classific restrica acess dev mant sistem informatiz tribunal
+
+
+incumb secret soluca tecnolog inform sti infraestrutur tecnolog inform setic ambit competente fornec soluca infraestrutur tecnolog possibilit implement control acess informatiz previst
+
+
+ausenc insuficiente burl tentat burl control administrat tecnolog compativ grau confidencial inform configur incident seguranc inform report secret planej governanc gesta seplan del tiv conhec
+
+
+compet secret infraestrutur soluca tecnolog inform prov med disponibiliz correspondent recurs necessari continu atualiz tecnolog requer par informatiz plen requisit previst nest
+
+
+aplicas dispost nest coub dad obtid pesso fisic jurid orga entidad exercici dem ativ institucion tcu inclusiv carat administrat classific restrica acess observ prev autoriz respect instanc cabiv
+
+
+fic president autoriz exped atos necessari regulament dest
+
+
+paragraf unic conform cas incumb president relator ambit respect competente dirim cas omiss
+
+
+marc pass vigor seguint redaca
+
+
+intercambi inform document par fins fiscaliz control entr tcu entidad orga public qua tribunal mantenh acord cooper instrument congener obedec dispost nest
+
+
+intercambi inform document observ coub limit restrica format dispost respect acord cooper instrument congen
+
+
+acord cooper instrument congen par intercambi inform document trat present cont sempr possivel disposica sobr hipotes compartilh terceir inform permut
+
+
+est entr vigor dat public
+
+
+
+
+
+tcu sal sessa ministr lucian branda alves souz junh
+
+
+raimund carreir
+
+
+president
+
+
+const revog express
+disciplin armazen concessa acess compartilh bas dad obtid pesso fisic jurid orga entidad exercici control extern classific restrica acess
+
+

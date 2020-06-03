@@ -1,0 +1,371 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider necess adequ vag estagi unidad dest tribunal raza criaca nov unidad pel resolucaotcu dezembr
+
+
+consider decisa firm reunia comissa coorden geral ccg realiz fevereir resolv
+
+
+anex portariatcu dezembr pass vigor form anex unic dest port
+
+
+fic revog portariatcu agost
+
+
+est port entr vigor dat public
+
+
+benjamin zymler
+
+
+president
+
+
+
+anex unic portariatcu fevereir
+
+
+
+anex portariatcu dezembr
+
+
+
+unidad
+
+nºd estagiari
+
+gabinet president
+
+
+
+gabinet ministr
+
+
+
+gabinet auditor
+
+
+
+gabinet procur geral ministeri public junt tcu
+
+
+
+gabinet corregedor
+
+
+
+secret control intern seca
+
+
+
+secretariageral presidente segepr gabinet assessor
+
+
+
+assessor cerimonial relaca institucion acer
+
+
+
+assessor relaca internacion arint
+
+
+
+assessor parlament aspar
+
+
+
+assessor seguranc inform governanc assig
+
+
+
+consultor jurid conjur
+
+
+
+institut serzedell corre isc
+
+
+
+ouvidor
+
+
+
+secret comunic secom
+
+
+
+secret planej gesta seplan
+
+
+
+secret sessa ses
+
+
+
+secret infraestrutur tecnolog inform setic
+
+
+
+secret soluca tecnolog inform sti
+
+
+
+secretariageral presidente segepr reserv tecnic
+
+
+
+unidad projet secretariageral presidente pjsegepr
+
+
+
+secretariageral control extern segecex gabinet assessor
+
+
+
+secretariaadjunt planej proced adplan
+
+
+
+secretariaadjunt supervisa suport adsup
+
+
+
+secretariaadjunt sistem adsis
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret control externosecex
+
+
+
+secret fisc obras pat unia secob
+
+
+
+secret fisc obras pat unia secob
+
+
+
+secret fisc obras pat unia secob
+
+
+
+secret fisc obras pat unia secob
+
+
+
+secret fiscaliz desestatiz sefid
+
+
+
+secret fiscaliz desestatiz sefid
+
+
+
+secret fiscaliz pessoal sefip
+
+
+
+secret fiscaliz tecnolog inform seft
+
+
+
+secret macroavali governamental semag
+
+
+
+secret fisc aval prog govern seprog
+
+
+
+secret recurs serur
+
+
+
+secexac
+
+
+
+secexal
+
+
+
+secex
+
+
+
+secexap
+
+
+
+secexb
+
+
+
+secexc
+
+
+
+secex
+
+
+
+secexg
+
+
+
+secexm
+
+
+
+secexmg
+
+
+
+secexms
+
+
+
+secexmt
+
+
+
+secexp
+
+
+
+secexpb
+
+
+
+secexp
+
+
+
+secexp
+
+
+
+secexpr
+
+
+
+secexrj
+
+
+
+secexrn
+
+
+
+secexr
+
+
+
+secexrr
+
+
+
+secexrs
+
+
+
+secexsc
+
+
+
+secexs
+
+
+
+secexsp
+
+
+
+secext
+
+
+
+secretariageral control extern segecex reserv tecnic
+
+
+
+unidad projet secretariageral control extern pjsegecex
+
+
+
+secretariageral administr seged
+
+
+
+secretariaadjunt administr gabinet gerenc process assessor
+
+
+
+secret orcament financ contabil secof
+
+
+
+secret gesta pesso segep
+
+
+
+secret licit contrat patrimoni selip
+
+
+
+secret engenh servic apoi sesap
+
+
+
+secretariageral administr seged reserv tecnic
+
+
+
+unidad projet secretariageral administr pjseged
+
+
+
+total geral
+
+
+
+
+
+const revog express
+alter anex portariatcu dezembr regulament program concessa estagi estudant ambit tribunal cont unia
+
+

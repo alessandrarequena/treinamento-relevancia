@@ -1,0 +1,543 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic prorrog outubr conform relatori prorrog anex est port praz par conclusa projet organiz trabalh servic ativ apoi organiz aprov pel portariatcu mai
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor part julh
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+relatori
+
+prorrog projet
+
+organiz trabalh serap organiz
+
+pagin
+
+
+
+b period projet
+
+c unidad patrocin
+
+d gestor projet
+
+
+
+
+
+seged seseg
+
+marinald maheir franc
+
+
+
+
+objet projet
+
+
+
+map model public intranet flux process trabalh implant sistemat geraca relatori gerenci serap
+
+
+
+
+
+
+situaca projet relaca previst propost
+execuca relaca total projet
+
+
+
+men execut
+
+x execut
+
+execut
+
+acim executadof control
+
+
+
+execuca adiant
+
+execuca dentr previst
+
+x execuca atras
+
+
+
+
+cumpriment met acord propost
+
+g produt
+
+h indic
+
+i quant
+
+j dat termin
+
+k comentari
+
+l comentari relevant execuca format produt discrepanc entr dat alter escop inclusa nov produt outr
+
+
+
+m
+
+matriz sipoc flux process servic cop mape
+
+process mape
+
+
+
+
+
+conclu
+
+
+
+relatori cont avali pratic observ visit tecnic outr entidad administr public
+
+visit realiz
+
+
+
+
+
+conclu
+
+
+
+nov flux process trabalh coperiag mape
+
+process trabalh redesenh
+
+
+
+
+
+dat previst
+
+realiz virtud dois problem complex obtenca analis tratament dad necessari redesenh process trabalh escolh vislumbr implant central atend necessit ampl discussa dev implic servic copeirag
+
+p
+
+flux process trabalh public intranet
+
+flux public
+
+
+
+
+
+dat previst
+
+objet realiz virtud dependencia estrit conclusa etap redesenh process trabalh
+
+q
+
+matriz indic defin
+
+matriz indic aceit
+
+
+
+
+
+dat previst
+
+objet realiz virtud dependencia estrit conclusa etap redesenh process trabalh
+
+r
+
+relatori gerenci decorrent implement sistemat medica process trabalh geraca relatori gerenci
+
+relatori gerenci disponibiliz
+
+
+
+
+
+dat previst
+
+objet realiz virtud dependencia estrit conclusa etap redesenh process trabalh
+
+s
+
+minut norm disciplin atend serap
+
+minut norm aceit
+
+
+
+
+
+dat previst
+
+objet realiz virtud dependencia estrit conclusa etap redesenh process trabalh
+
+
+
+
+ativ realiz fora plan coub
+t descrica
+
+u comentari
+
+
+
+v
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+relatori
+
+prorrog projet
+
+w organiz trabalh serap organiz
+
+pagin
+
+
+
+
+
+
+dificuldad encontr coub
+x dificuldad
+
+y aca par saneament
+
+
+
+
+
+etap obtenca analis tratament dad necessari redesenh process trabalh escolh mostrous mais complex inicial prev retard dess mod normal execuca taref acord
+
+esforc adicional part equip projet vis encontrars melhor form contorn situaca apresent
+
+
+
+
+
+
+impact ger pel produt registr impact ocorr
+
+
+z
+
+
+
+aa
+
+
+
+
+
+
+definica format prorrog
+
+bb period prorrog
+
+
+
+cc justificat prorrog
+
+
+
+projet organiz desenvolv ambit seseg objet geral map model public intranet flux process trabalh implant sistemat geraca relatori gerenci serap verificas consider atras virtud grand complex obtenca analis tratament dad necessari mapeament redesenh process trabalh selecion mapeament redesenh refer process cruci desenvolv conclusa fas seguint explic atras desenvolv dem produt previst propost projet prorrog faz necess par sej conclu trabalh implement sistemat gesta process trabalh critic sesegserap
+
+alem diss vislumbrous implement central atend serap ocorr refer central impact significativ servic copeirag exig dess mod maior praz par discussa consequent par entreg projetodd alter desenvolv trabalh coub registr alter relevant adot durant period prorrog
+
+ee met
+
+ff indic
+
+gg produt
+
+hh client
+
+ii objet especif
+
+jj quant
+
+kk dat termin
+
+
+
+ll
+
+redesenh process trabalh copeirag
+
+
+
+
+
+process trabalh redesenh
+
+nov flux trabalh mape
+
+seseg
+
+mm
+
+public intranet flux process trabalh mape
+
+
+
+
+
+flux public
+
+flux process trabalh public intranet
+
+seseg
+
+nn
+
+defin indic par process mape
+
+
+
+
+
+matriz indic aceit
+
+matriz indic defin
+
+seseg
+
+oo
+
+implement sistemat medica process trabalh geraca relatori gerenc
+
+
+
+
+
+relatori gerenci disponibiliz
+
+relatori gerenci
+
+seseg
+
+pp
+
+elabor propost norm disciplin atend serap
+
+
+
+
+
+minut norm aceit
+
+minut norm elabor
+
+sesegqq escop projet vai faz
+
+
+
+rr
+
+desenvolv implement sistem informatiz rotin mape
+
+ss
+
+implant process trabalh redesenh
+
+tt
+
+especific roteir proced rotin
+
+uu
+
+mapeament redesenh process distribuica agu fiscaliz contratosvv identific part envolv projet relaca
+
+ww nom part envolv
+
+xx patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+yy item negoci negoci part envolv
+
+
+
+
+
+seged
+
+patrocin projet apoi administrat par desenvolv projet cessa pessoal apoi
+
+b
+
+seseg
+
+copatrocin projet assessor tecnic aloc pessoal recurs materi par projet
+
+c
+
+seplan
+
+assessor tecnic mapeament redesenh descrica process trabalh
+
+
+
+tribunal cont unia
+
+relatori
+
+prorrog projet
+
+zz organiz trabalh serap organiz
+
+pagin
+
+
+
+aaa cust estim registr houv alter cust previst propost
+
+bbb recurs
+
+ccc valor estim
+
+ddd dat inicial liber recurs
+
+
+
+eee
+
+
+
+
+
+
+
+fff
+
+
+
+
+
+ggg total cust estim
+
+
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+hhh equip projet
+
+
+
+
+
+
+
+
+finaliz
+
+iii nom
+
+jjj matricul
+
+kkk lotaca
+
+lll period
+
+mmm dedic integral parcial ativ
+
+
+
+nnn
+
+marinald malheir franc
+
+
+
+seseg
+
+
+
+integral
+
+ooo
+
+suzan pantoj roch
+
+
+
+seseg
+
+
+
+parcial
+
+ppp
+
+solim vieir santann
+
+
+
+seseg
+
+
+
+parcial
+
+qqq
+
+ricard arauj malach
+
+
+
+seplan
+
+
+
+ativ
+
+
+
+
+
+
+
+
+const revog express
+prorrog praz realiz projet organiz trabalh servic ativ apoi organiz
+
+

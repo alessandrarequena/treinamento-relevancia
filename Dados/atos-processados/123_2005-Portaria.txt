@@ -1,0 +1,827 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet moderniz sistem planej gesta tribunal cont unia planej term anex dest port
+
+
+fic design anal control extern leonard renn guimara lap matricul par exerc funca confianc coorden projet codig fc constant dezembr aloc secret planej gesta
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+titul secretariageral administr fic autoriz proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor projet
+
+
+est port entr vigor dat public
+
+
+
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+
+
+
+
+identific gestor projet
+
+
+
+nom
+
+matricul
+
+x espec gestororig fc
+
+
+
+leonard renn guimara lap leonardrgtcugovbr
+
+
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+seplan
+
+nom substitut eventual
+
+matricul
+
+andr guilhon henriqu andreghtcugovbr
+
+
+
+localtelefon
+
+secret planej seplan diretor tecnic ramal
+
+
+
+identific projet
+
+
+
+nom projet
+
+moderniz sistem planej gesta tcu planej
+
+period realiz
+
+unidad patrocin
+
+
+
+seplan
+
+
+
+vincul estrateg
+
+
+
+vincul principal plan estrateg tcu objet estrateg
+
+
+
+estrateg aperfeico sistem planej gesta tcu
+
+med c aperfeico consolid sistemat medica avali divulg result institucion
+
+med h consolid process administr estrateg
+
+b
+
+estrateg assegur elev nivel satisf servidor tcu
+
+vincul principal plan diretor seplan
+
+
+
+diretriz fortalec cultur planej
+
+b
+
+med moderniz sistem planej gesta
+
+
+
+problem oportun
+
+descrica problem oportun
+
+
+
+
+
+atual plan estrateg tribunal aprov pel port tcu nº janeir apont necess desenvolv aca aperfeico sistem planej gesta form garant alcanc visa futur cumpriment missa institucional tcu
+
+b
+
+sistem planej gesta tcu base metodolog gerenci pel diretriz alcanc estagi matur possivel torn necessari incorpor cotidian nov ferrament metodologias conf maior racional efetiv constanc aca organiz contribu par aperfeico gesta assegur atend expectat client intern extern tribunal
+
+c
+
+embor metodolog gerenci pel diretriz atend form satisfator maior necess tribunal apresent seri deficiente pod san adoca metodolog hibr planej gesta congreg pont fort duas princip metodologias existent gerenci pel diretriz gpd balanced scorecard bsc tais deficiente identific pel unidad tribunal durant process autoavali gesta conduz exercici pel banc examin premi nacional gesta public pqgf
+
+d
+
+oportun identific pel unidad tcu seguint
+
+aprimor metodolog planej vis confer maior foc objet estrateg
+
+maior atenca especific cad unidad moment estabelec met
+
+definica indic desempenh estrateg par tribunal
+
+promoca reunia semestr par acompanh plan tcu
+
+compatibiliz calendari elabor plan unidad
+
+adoca met mais especif par seged
+
+definica form efet qua med met priorit
+
+simplific sistemat acompanh desempenh indic
+
+
+
+problem formul estrateg plan tcu apont pel banc examin pqgf seguint
+
+tcu estabelec met long praz alinh estrateg organiz
+
+inform quant princip relaca caus efeit indic desempenh organiz
+
+evidenci organiz estabelec met long praz respect indic desempenh
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+tcu vem pass fas transform gerencial busc prioriz mudanc estrateg iss moderniz atuaca control extern fort indutor dess transform sistem planej gesta institucional atual segu metodolog gpd
+
+b
+
+ana inici implant gpd funca planej tcu inici nov cicl elabor primeir plan anual diretriz influenc dess metodolog elabor segund versa plan estrateg tribunal pet incorpor negoci visa futur revist missa institucional
+
+c
+
+ana form subsidi elabor plan diretriz tribunal revisa pet implement process autoavali institucional ess process correspond fas diagnost ambient intern organiz send respons identific potencial recurs capac habil favor desempenh organizacional bem aspect men desenvolv necessit aperfeico pen impact negativ exercici missa alcanc visa futur organiz
+
+d
+
+ana tend subsidi dentr outr inform boas pratic oportun melhor identific autoavali gesta elabor nov versa pet incorpor indic gesta estrateg atuaca tribunal valor institucion
+
+
+
+dentr estrateg trac referes aperfeico sistem planej gesta tcu segund ess estrateg sobrevivente desenvolv organiz depend implement sistem gesta empreendedor volt par obtenca result par atend expectat client aperfeico sistem planej gesta principal funca confer maior racional efetiv constanc aca organiz proporcion convergente esforc despend par alcanc visa futur cumpriment missa institucional
+
+f
+
+tal estrateg ali oportun identific process autoavali gesta conduz exercici problem formul estrateg plan tribunal apont pel banc examin pqgf torn imperat moderniz atual sistem planej gesta tribunal
+
+g
+
+esper nov model planej gesta sej capaz
+
+confer maior consequente pratic plan estrateg tribunal
+
+favorec alinh diretriz curt praz long praz
+
+orient esforc organiz par alcanc gradual objet estrateg
+
+torn viavel acompanh irrestrit implement objet estrateg pel divers niv organizacion
+
+explicit papel divers unidad consecuca objet estrateg
+
+integr maior numer possivel servidor unidad process planej gesta
+
+assegur planej anual desdobr dentr tribunal estej foc objet estrateg desenvolv competente essenci tribunal
+
+comunic institucionaliz estrateg tod niv organiz
+
+consider especific cad unidad tribunal moment desdobr plan
+
+simplific acompanh met desempenh institucional unidad
+
+
+
+
+
+
+
+escop projet
+
+
+
+
+objet geral projet relaca oportun soluca problem
+
+
+
+desenvolv metodolog planej utiliz balanced scorecard bsc gerenci pel diretriz gpd form complement garant traduca estrateg organiz favorec implement acompanh diretriz long praz divers niv organizacion
+
+
+
+met indic produt client
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+desenvolv valid model planej gesta base uso integr gpd bsc
+
+revisa literatur sobr conceit bsc gpd
+
+definica etap compo model implement estrateg mei uso integr bsc gpd
+
+valid model pel patrocin projet
+
+
+
+
+
+dias
+
+percentual desenvolv model conclu
+
+document descrica model planej gesta desenvolv valid
+
+seplan
+
+
+
+b
+
+elabor valid nov versa gui referente sistem planej gesta
+
+gui par reunia acompanh avali gesta
+
+referencial teoric sistem planej gesta
+
+
+
+
+
+
+
+
+
+gui referente elabor
+
+
+
+nov versa gui referente sistem planej gesta elabor valid
+
+seplan
+
+unidad tcu
+
+c
+
+realiz entrev autor dirigent tcu segund roteir predefin
+
+
+
+
+
+dias
+
+entrev realiz
+
+document cont entend autor dirigent quant estrateg organiz
+
+seplan
+
+d
+
+constru propost map estrateg par tcu
+
+defin perspect
+
+defin objet estrateg
+
+defin relaca caus efeit
+
+
+
+
+
+dias
+
+percentual propost map estrateg constru
+
+propost map estrateg tcu constru cont perspect objet estrateg relaca caus efeit
+
+seplan
+
+unidad tcu
+
+
+
+aprimor sistem acompanh met
+
+possibilit acompanh met result mei sistem sinerg
+
+
+
+
+
+percentual implement modul conclu
+
+inserca sistem sinerg modul possibilit acompanh alcanc met tribunal comparat realiz x met
+
+seplan
+
+unidad tcu
+
+f
+
+valid propost map estrateg tcu
+
+valid propost junt seplanpatrocin reunia
+
+valid propost junt entrevist reunia
+
+encaminh par sugesta dirigent
+
+valid sugesta entrevist reunia
+
+valid propost final encontr dirigent
+
+
+
+
+
+
+
+
+
+map estrateg valid
+
+
+
+map estrateg valid pel gestor tcu
+
+seplan
+
+unidad tcu
+
+g
+
+elabor propost indic desempenh estrateg
+
+identific prov indic desempenh
+
+formul propost indic desempenh
+
+
+
+
+
+percentual objet estrateg indic desempenh associ
+
+objet estrateg indic desempenh associ
+
+seplan
+
+unidad tcu
+
+h
+
+valid propost indic desempenh estrateg
+
+valid propost junt seplan reunia
+
+valid propost junt dirigent reunia
+
+
+
+
+
+percentual indic desempenh valid
+
+
+
+indic desempenh valid pel gestor tcu
+
+seplan
+
+unidad tcu
+
+i
+
+elabor propost met estrateg eou projet par operacionaliz map estrateg
+
+identific projet existent contribu par objet estrateg defin
+
+identific projet potenci contribu par objet estrateg defin
+
+formul propost met long praz par indic
+
+formul propost estrateg eou projet contribu par objet estrateg defin
+
+
+
+
+
+percentual indic desempenh met propost
+
+percentual objet estrateg estrateg eou projet associ
+
+indic desempenh met propost
+
+objet estrateg estrateg eou projet associ
+
+seplan
+
+unidad tcu
+
+j
+
+valid propost met estrateg eou projet
+
+valid met estrateg eou projet junt seplan
+
+valid met estrateg eou projet junt dirigent
+
+
+
+
+
+percentual met estrateg eou projet valid
+
+met estrateg eou projet valid
+
+seplan
+
+unidad tcu
+
+k
+
+desdobr map estrateg tcu par unidad basic
+
+
+
+
+
+map estrateg desdobr
+
+map estrateg unidad basic tcu constru
+
+unidad basic tcu
+
+l
+
+defin criteri soluca par dar suport model
+
+
+
+
+
+especific valid pel client
+
+especific tecnic par licit soluca
+
+seplan
+
+setec
+
+m
+
+elabor apresent relatori final projet
+
+
+
+
+
+numer relatori elabor
+
+relatori final projet elabor
+
+seplan escritori projet
+
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+
+desenvolv model planej gesta elabor nov gui referente planej
+
+b
+
+construca valid map estrateg par tcu
+
+c
+
+desdobr map estrateg tcu par unidad basic
+
+
+
+escop projet vai faz
+
+
+
+
+
+desenvolv model permit desdobr estrateg servidor
+
+b
+
+implement nov model tod unidad tribunal construca map estrateg definica indic met par tod unidad tribunal
+
+c
+
+capacit servidoresfacilit uso metodolog desenvolv
+
+d
+
+revis plan estrateg macroprocess tribunal
+
+
+
+adequ avali desempenh individual institucional nov metodolog implement
+
+f
+
+elabor plan concepca indic aind mensur
+
+g
+
+implement soluca par dar suport model desenvolv
+
+h
+
+elabor valid plan diretriz tcu par bieni
+
+
+
+identific part envolv projet relaca
+
+
+
+part envolv
+
+patrocin client fornecedor intern extern servic recurs human fisic parceir
+
+item negoci part envolv intern
+
+item negoci part envolv extern
+
+
+
+seplan
+
+patrocin principal client projet durant encerr projet respons pel divulg implement nov metodolog junt tod unidad tribunal
+
+b
+
+gestor tribunal adcon adfis isc seplan segecex sgs seged setec presidente
+
+parceir seplan durant process construca valid map estrateg tribunal
+
+
+
+fator pod risc exit projet
+
+
+
+risc
+
+impact
+
+probabil ocorr
+
+aca par
+
+evit m mitig r reduz impact
+
+respons pel aca
+
+
+
+envolvimentocompromet alt administr par eficaz bsc dev reflet visa estrateg alt administr
+
+alt
+
+baix
+
+m realiz divulg sistemat nov metodolog apont princip benefici melhor relaca model anterior
+
+equip projet
+
+seplan
+
+b
+
+baix particip dirigent construca produt projet
+
+alt
+
+baix
+
+implement estrateg adequ par divulg projet
+
+m realiz divulg nov metodolog apont princip benefici melhor relaca model anterior
+
+elabor divulg cronogram ativ reque particip dirigent tribunal
+
+equip projet
+
+seplan
+
+
+
+relaca outr projet
+
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+
+
+projet sinerg extraca dad proporcion suport decisa gerenci ambit projet possibilit aferica indic desempenh
+
+
+
+
+
+cust estim
+
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+cust adicion par tribunal
+
+
+
+
+
+total cust estim
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+outr recurs necessari
+
+
+
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+
+
+equip projet
+
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+leonard renn guimara lap
+
+
+
+seplan
+
+
+
+integral
+
+b
+
+andr guilhon henriqu
+
+
+
+seplan
+
+
+
+parcial
+
+c
+
+marci lem said
+
+
+
+seplan
+
+
+
+parcial
+
+
+
+finaliz
+
+
+
+dat assinatur gestor projet
+
+
+
+
+
+manifest titul unidad patrocin
+
+
+
+
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost presidente vis aprov projet
+
+seplan
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet moderniz sistem planej gesta tribunal cont unia planej design gestor
+
+

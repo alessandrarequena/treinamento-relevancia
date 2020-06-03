@@ -1,0 +1,803 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariagp agost resolv
+
+
+
+
+
+fic aprov realiz projet moderniz exam declar bens rend term propost anex est port
+
+
+
+
+
+fic design anal control extern are control extern marci jos brazil sant matricul par exerc relativ projet trat est port funca confianc coorden projet fc constant dezembr aloc segecex
+
+
+
+paragraf unic cab coorden projet responsabil gerenci projet exerc competente previst portariagp observ dispost manual gesta projet
+
+
+
+
+
+est port entr vigor dat public
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+const revog express
+aprov realiz projet moderniz exam declar bens rend design gestor
+
+anex unic
+
+
+
+
+
+
+
+
+
+identific gestor projet
+
+
+
+
+
+nom
+
+x espec gestor
+
+orig fc
+
+marci jos brazil sant
+
+
+
+gerent
+
+x
+
+coorden
+
+segecex
+
+
+
+email
+
+marciobstcugovbr
+
+
+
+nom substitut eventual
+
+rosival francisc alme
+
+
+
+localtelefon
+
+anex ii terre sal tel
+
+identific projet
+
+
+
+
+nom projet
+
+moderniz exam declar bens rend
+
+
+
+period realiz
+
+julh novembr
+
+
+
+unidad vincul
+
+sefip
+
+vincul estrateg
+
+
+
+
+vincul plan estrateg tcu
+
+
+
+estrateg adot postur proativ contribu par aperfeico normat relat administr public exercici control extern
+
+b
+
+estrateg fortalec parc tcu dem orga public
+
+c
+
+estrateg aperfeico process trabalh tcu
+
+
+
+vincul plan diretriz
+
+
+
+diretriz melhor tempestiv qualidad efetiv aca control extern
+
+med associ ess diretriz relacion present projet
+
+aprimor gesta inform ambit tcu
+
+adot postur proativ contribu par aperfeico normat relat administr public exercici control extern
+
+ampli integr tcu outr orga public
+
+
+
+vincul plan diretor houv
+
+
+
+met melhor tempestiv qualidad efetiv aca control extern
+
+med associ ess met relacion present projet
+
+adot postur proativ contribu par aperfeico normat relat administr public exercici control extern
+
+cri mecan viabiliz obtenca junt sociedad administr public inform sobr are risc inter tribunal
+
+
+
+
+problemaoportun
+
+
+
+
+
+descrica problem oportun
+
+
+
+dificuldad tcu cumpr efetiv determin legal lei mant registr propri bens rend patrimoni priv autor public daquel administr recurs feder bem cumpr outr atribuica especific lei
+
+
+
+contextualiz problem oportun
+
+
+
+lei determin tribunal cont unia dev i mant registr propri bens rend patrimoni priv autor public ii exerc control legal legitim dess bens rend apoi sistem control intern cad pod iii adot providente inerent atribuica cas represent pod competent sobr irregular abus apur iv public periodic diari oficial unia extrat dad element constant declar v prest qualqu cam congress nacional respect comissa inform solicit escrit vi oferec certida inform requer qualqu cidada par propor aca popul vis anul ato lesiv patrimoni public moral administrat form lei ve pod est cort cont qued inert frent tao important atribuica leg est confi pel sociedad
+
+forc dess disposit atual aproximad mil dess declar sid apresent ana salientandos ess numer referes apen grup obrig apresent declar tcu respeit dem norm intcu determin orga mantenh arquiv propri dess declar necessari cri nov sistemat obtenca analis dess grand mass inform institu instrument poss torn ess process mais efet
+
+b
+
+declar bens rend atual pod encaminh papel analis setor acess restrit send del extra mediant digit valor referent rendiment dem element comprobatori variaca patrimonial dad extra armazen sistem denomin sisdbr banc dad ms access desenvolv par permit acess inform pertinent cad autor sistem execut qualqu critic quant variaca patrimonial sisdbr dev aprimor quant dois aspect essencial
+
+permit declar poss encaminh mei magnet evit desconfort envi pel correi par declarant trabalh digit part setor competent tcu
+
+possibilit sistem efetu analis critic evoluca patrimonial declarant mod possivel identific aquel apresent evoluca patrimonial incompat renda
+
+c
+
+normat tcu trat declar bens rend instruca normat port precis revist adequ nov realidad
+
+
+
+evoluca quadr apresent dad preferencial tabel
+
+
+
+posica atual analis declar carg sefipdeclar protocoliz digit declar aind objet analis patrimonial edeclar pod destru dev prescrica anos
+
+b
+
+process autu bas intcu
+
+process encerr dbrconsolid
+
+b process dbrconsolid anual
+
+c process autu funca consultadenunciarepresent
+
+d process sobrest
+
+process aguard decisa tcu alter in
+
+f process diligente
+
+g process aguard cumpriment decisa
+
+h process referent omissa
+
+
+
+
+
+nad feit gravidad urgenc tendenc
+
+
+
+ativ fiscalizator aqu trat necessit urgent moderniz sistemat atual est habilit oferec produt faz necessari exat cumpriment competente tcu
+
+
+
+escop projet
+
+objet geral projet relaca oportun soluca problem
+
+
+desenvolv implant nov sistemat recepca analis eletron declar bens rend acord atribuica estabelec pel lei
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+praz
+
+
+
+
+
+
+
+
+
+elabor minut revisa acord cooper srf
+
+
+
+minut acord cooper aprov pel segecex praz
+
+minut revisa acord cooper srf
+
+segecex
+
+
+
+b
+
+propor treinament ms access servidor envolv ativ
+
+
+
+estabelec plan treinament dentr praz
+
+plan treinament
+
+sefip
+
+c
+
+elabor minut revisa instruca normat disciplin exam declar bens rend pel tcu
+
+
+
+minut in aprov pel segecex praz
+
+minut instruca normat
+
+segecex
+
+sefip
+
+d
+
+elabor minut port manual proced provisori analis abrang tod declar bens rend
+
+
+
+minut port manual proced provisori aprov pel segecex praz
+
+minut port manual proced
+
+segecex
+
+sefip
+
+
+
+defin rotin par recepca informatiz declar
+
+
+
+rotin par recepca aprov pel sefip praz
+
+definica rotin recepca
+
+sefip
+
+f
+
+execut test pilot rotin recepca
+
+
+
+test execut praz
+
+relatori result
+
+sefip
+
+g
+
+homolog rotin recepca
+
+
+
+rotin recepca declar homolog praz
+
+rotin recepca
+
+sefip
+
+h
+
+execut treinament servidor nov metodolog recepca declar
+
+
+
+treinament oferec
+
+servidor trein
+
+sefip
+
+i
+
+defin criteri analis eletron dbrs estabelec respect rotin
+
+
+
+
+
+criteri analis rotin aprov pel sefip praz
+
+definica criteri analis respect rotin
+
+sefip
+
+j
+
+execut test pilot rotin estabelec par analis
+
+
+
+test execut praz
+
+relatori result
+
+sefip
+
+k
+
+homolog rotin format final relatori analis declar
+
+
+
+rotinasrelatori analis declar homolog praz
+
+relatori analis declar
+
+sefip
+
+l
+
+elabor minut estabelec proced par analis apreci fiscaliz declar pel tribunal cumpriment dec profer tc
+
+
+
+minut aprov pel sefip praz
+
+minut
+
+sefip
+
+m
+
+elabor minut atualiz manual proced analis declar
+
+
+
+minut atualiz manual proced aprov pel segecex praz
+
+manual atualiz
+
+sefip
+
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+
+gesta projet
+
+b
+
+normatiz
+
+c
+
+definica sistemat recepca exam declar
+
+d
+
+implant sistemat
+
+
+
+divulg
+escop projet vai faz
+
+
+
+
+projet cuid desenvolv plataform web recepca declar
+
+
+
+
+
+
+identific part envolv projet relaca
+
+
+
+
+
+sefip segecexadcon valid norm
+
+b
+
+isc disponibiliz curs ms access basic avanc par servidor are
+
+
+
+
+
+
+fator pod risc exit projet
+
+
+
+
+
+risc
+
+
+
+impact
+
+
+
+probabil ocorr
+
+
+
+aca par evit m mitig r reduz impact
+
+
+
+respons pel aca
+
+
+
+dificuldad par compor equip projet
+
+medi
+
+alt
+
+port president aprov equip propost nest document
+
+
+
+coorden projet
+
+b
+
+restrica impost pel srf par aceit revisa acord cooper estabelec envi declar ir tcu
+
+alt
+
+alt
+
+negoci srf sobr competente atribu tcu pel norm vigent
+
+coorden projet ultim instanc titul sefip segecex
+
+c
+
+impossibil leitur arquiv ir srf
+
+alt
+
+med
+
+m estabelec formulari propri preenchiment eletron declar
+
+coorden projet
+
+b
+
+alter propost normat provoqu impact especific sistemat
+
+alt
+
+med
+
+faz propost maior brevidad possivel oferec tod inform possiv
+
+coorden projet titul sefip
+
+c
+
+impossibil realiz treinament necessari
+
+baix
+
+baix
+
+aloc antecedente period par treinament servidor
+
+coorden projet
+
+
+
+
+
+
+fator contribu par exit projet
+
+
+
+
+
+inter president tcu dirigent result projet
+
+b
+
+apoi titul sefip cessa servidor par compor equip projet
+
+
+
+
+
+
+projet predecessor
+
+
+
+
+
+ativ projet objet constituica grup trabalh pel realiz contat servidor adcon respons srf
+
+
+
+
+
+
+projet sucessor
+
+
+
+
+
+
+
+
+
+cust estim
+
+
+
+recurs
+
+
+
+cust previst rubric orcament tcu
+
+total cust estim
+
+
+
+
+
+
+outr recurs necessari
+
+
+
+recurs
+
+fornecedor
+
+
+
+recurs human anal tecnic control extern experiente ativ control declar bens rend redaca normat intern estagiari conhec informat especial banc dad ms access
+
+sefip
+
+
+
+
+
+
+equip projet
+
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial
+
+
+
+marci jos brazil sant ace
+
+
+
+sefip
+
+
+
+integral
+
+b
+
+rosival francisc alme ace
+
+
+
+sefip
+
+
+
+integral
+
+c
+
+mar leal sant tce
+
+
+
+sefip
+
+
+
+integral
+
+d
+
+nair teodor oliveir tce
+
+
+
+sefip
+
+
+
+integral
+
+
+
+
+
+
+consider fin fundament normat port
+
+
+
+
+
+caracteriz trabalh projet
+
+
+
+atend demand especif secret fiscaliz pessoal sefip comport grand esforc planej coorden par ger result dentr praz estabelec acord iv port
+
+b
+
+desenvolv soluca result melhor gesta ambit intern tribunal acord v port
+
+c
+
+desenvolv soluca favorec melhor result prevenca dan gesta recurs patrimoni public acord vi port
+
+
+
+caracterist trabalh defin gestor projet gerent coorden
+
+
+
+period minim tres mes acord iii port
+
+b
+
+justific relevanc mat acord iv port
+
+c
+
+desenvolv nov tecnolog metodolog impact geral ativ secret tribunal especial are control extern acord v port
+
+d
+
+produt importanc estrateg par alcanc met institucion acord vi port
+
+finaliz
+
+
+dat assinatur gestor projet
+
+
+
+
+
+
+
+
+
+manifest titul unidad patrocin
+
+
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost equip acompanh projet seplan vis aprov projet junt presidente
+
+unidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

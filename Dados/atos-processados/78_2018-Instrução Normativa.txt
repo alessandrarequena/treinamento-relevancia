@@ -1,0 +1,471 @@
+instruca normat
+
+
+
+tribunal cont unia uso atribuica constitucion leg regulament
+
+
+consider elev numer atos pessoal existent orga gestor pessoal orga control intern nest tribunal
+
+
+consider necess confer maior celer colet inform process apreci atos pessoal sujeit registr
+
+
+consider necess melhor qualidad inform envi tribunal pel gestor orga pessoal pel control intern
+
+
+consider criaca epessoal nov sistem desenvolv pel tribunal par colet process tramit atos pessoal
+
+
+consider epessoal possibilit ampliaca capac analis automatiz inform consequente diminu necess aloc servidor par analis manual individual atos sujeit registr
+
+
+consider nov sistematiz implement tramit atos pessoal sujeit registr
+
+
+consider necess alter form atuaca orga control intern apreci atos pessoal sujeit registr
+
+
+resolv
+
+
+envi process tramit inform alus atos admissa pessoal concessa aposentador reform pensa par fins registr ambit tribunal cont unia term iii constituica federal obedec disposica dest instruca normat
+
+
+capitul i
+
+
+atos remet tribunal
+
+
+autor administrat respons ato admissa concessa aposentador reform pensa submet tribunal par fins registr inform relat seguint atos
+
+
+i admissa pessoal
+
+
+ii concessa aposentador
+
+
+
+
+
+iii concessa pensa civil
+
+
+iv concessa pensa especial excombatent
+
+
+v concessa reform
+
+
+vi concessa pensa milit
+
+
+vii alter concessa
+
+
+configur entr outr hipotes exig encaminh ato alter concessa apreci pel tribunal sej decorrent ped interess decisa administrat ordem judicial
+
+
+modific fundament legal
+
+
+b revisa temp servic contribuica impliqu alter valor provent
+
+
+c revisa temp servic contribuica mesm implic alter valor provent modific natur temp averb ato inicial
+
+
+d melhor posterior decorrent inclusa major parcel gratific vantagens qualqu natur tenh carat pessoal
+
+
+nov criteri bas calcul component benefici quand tais melhor caracteriz vantag pessoal servidor public civil milit tiv sid previst ato concessori original submet apreci tribunal
+
+
+f inclusa nov beneficiari
+
+
+g alter enquadr legal pension
+
+
+h modific proporcional concessa
+
+
+i alter form calcul benefici
+
+
+encontr sujeit registr portant dev remet tribunal ato alter valor provent decorrent acrescim nov parcel gratific vantagens conced carat geral funcional introduz nov plan carreir
+
+
+consideras alter enquadr legal pension qualqu modific posterior grau parentesc disposit legal utiliz par embas beneficiari decorrent reconhec posterior condica modifiqu term final extinca pensa exempl declar posterior invalidez pension
+
+
+enquadras alter form calcul benefici modific posterior sistemat reajust concessa observanc regr paridad entr outr hipotes
+
+
+embor sujeit registr dev envi tribunal pel autor administrat respons inform relat
+
+
+i deslig servidor
+
+
+ii cancel concessa
+
+
+iii restabelec admissa
+
+
+iv exclusa beneficiari
+
+
+v anul admissa
+
+
+vi anul concessa
+
+
+inform trat dest dev consign ato admissa concessa cadastr epessoal
+
+
+dad constant relacion atos cadastr sistem sisac tamb dev inform pel epessoal
+
+
+
+
+
+dev remet tribunal inform deslig cancel cas falec
+
+
+constitu cancel concessa epessoal extinca ato decorrent
+
+
+i reversa aposentador ped interess
+
+
+ii reversa aposentador invalidez insubsistent
+
+
+iii retorn aposent ativ
+
+
+iv exclusa tod beneficiari ato pensa
+
+
+v renunc benefici
+
+
+vi apreci pel ilegal term dest instruca normat
+
+
+vii outr
+
+
+constitu exclusa beneficiari supressa pagament pension raza
+
+
+i invalidez insubsistent cessaca incapac
+
+
+ii ating idad limit previst lei
+
+
+iii renunc benefici
+
+
+iv falec
+
+
+v ating praz previst lei par percepca benefici
+
+
+vi decisa judicial determin tribunal cont unia revisa administrat
+
+
+vii outr hipotes previst lei
+
+
+cas exclusa beneficiari trat constitu cancel concessa quand rest beneficiari ato
+
+
+inform relat anul admissa anul concessa dev prest ato inicial alter eiv ilegal observ seguint
+
+
+i ato edit men cinc anos pendent registr pel tcu cab orga pessoal anul ato prest inform epessoal anex document comprobatori
+
+
+ii ato edit mais cinc anos pendent registr pel tcu cab orga pessoal anul ato comprov maf prest inform epessoal anex document comprobatori
+
+
+iii ato edit mais cinc anos pendent registr pel tcu cab orga pessoal solicit anul ato epessoal anex document comprobatori
+
+
+iv ato registr pel tcu men cinc anos independent dat edica ato cab orga pessoal solicit anul epessoal anex document comprobatori
+
+
+v ato registr pel tcu mais cinc anos independent dat edica ato comprov maf cab orga pessoal solicit anul epessoal anex document comprobatori
+
+
+capitul ii
+
+
+sistem colet inform exam registr atos admissa concessa
+
+
+inform ref dest instruca normat dev apresent tribunal mei eletron intermedi sistem epessoal
+
+
+epessoal acess restrit servidor orga administr public federal exercici unidad control intern pessoal previ cadastr
+
+
+atos cadastr epessoal envi tribunal par fins exam registr preliminar critic pel sistem part parametr previ defin par identific inconsistente omissa lancament dad
+
+
+atos rejeit pel critic prelimin pod envi falh identific sej san quand aplic justific
+
+
+cadastr control acess usuari epessoal responsabil
+
+
+i tribunal par gestor unidad cadastr orga pessoal gestor unidad control intern
+
+
+ii gestor unidad cadastr orga pessoal par respect usuari
+
+
+iii gestor unidad control intern par respect usuari
+
+
+paragraf unic cadastr usuari epessoal implic concessa senh individu
+
+
+omissa inform atos cadastr epessoal lancament dad fals eou incorret sistem uso perfil terceir pod ensej aplic mult ii lei respons sem prejuiz outr sanca natur administrat civil penal revel pertinent
+
+
+consideras respons par fins dispost nest gestor are pessoal incumb realiz cadastr control acess respect usuari usuari efetiv realiz cadastr atos inform bem qualqu pesso tenh contribu par ocorrente irregular mencion
+
+
+usuari respons pel cadastr dev design formal par ativ dev cientific cas ocorrente irregular respond conjunt dem respons mencion dest
+
+
+analis atos pessoal submet respons pel orga control intern tom conhec irregular ilegal ambit orga entidad qualqu moment del dara imediat cienc tribunal pen responsabil solid
+
+
+capitul iii
+
+
+atuaca orga pessoal control intern tcu
+
+
+seca i
+
+
+atuaca orga pessoal
+
+
+inform pertinent atos admissa concessa dev cadastr epessoal par fins exam registr praz novent dias cont
+
+
+i dat public send est dispens dat assinatur ato
+
+
+ii dat efet exercici carg pel interess cas admissa pessoal
+
+
+iii dat apostil cas alter
+
+
+inform referent atos admissa pessoal contrat temp determin par atend necess tempor excepcional inter public previst lei dezembr dev cadastr form priorit dev tais atos remet disponibiliz control intern praz improrrog dias pel orga pessoal
+
+
+orga pessoal consign inform ref propri ato admissa concessa praz trint dias cont public assinatur ato respect apostil dispens public
+
+
+praz estipul pod reduz quand tribunal verific necess urgenc cadastr sistem epessoal ato sujeit registr cas exped pel unidad tecnic respons diligente orga pessoal par providenc disponibiliz ato praz quinz dias cont receb diligente
+
+
+respons refer der caus descumpr praz dest estara sujeit sanca previst ii lei sem prejuiz outr revel pertinent ordem administrat civil penal previst orden jurid
+
+
+est inclus praz dest temp necessari disponibiliz remess orga control intern process administrat referent ato submet analis
+
+
+orga pessoal dev consign assent individu beneficiari inform relat atos trat result apreci dest pel tribunal par fins eventual exam posterior
+
+
+tribunal pod qualqu moment solicit orga administr diret indiret qualqu pod unia acess diret sistem eletron pessoal envi folh pagament dad cadastr servidor empreg aposent pension
+
+
+fic autoriz implement proced integr sistem gesta recurs human epessoal destin aliment automat dad dev cad cas process integr previ autoriz pel unidad tecnic respons tribunal pel instruca atos sujeit registr pel gesta tecnolog inform
+
+
+seca ii
+
+
+atuaca orga control intern
+
+
+orga control intern emitira parec sobr legal atos admissa concessa disponibiliz epessoal pel orga pessoal vincul
+
+
+parec orga control intern respect atos admissa concessa dev coloc disposica tribunal epessoal praz cent vint dias cont receb ato
+
+
+parec orga control intern emit form referent atos admissa pessoal contrat temp determin par atend necess tempor excepcional inter public previst lei dezembr dev coloc disposica tribunal epessoal praz improrrog trint dias
+
+
+exam atos sujeit registr orga control intern dev cotej dad previ cadastr epessoal pel orga pessoal aquel constant respect process correspondent fich financeir constant sistem pagament folh referent mes emissa ato
+
+
+diant indici irregular ato sujeit registr pod exped pel unidad tecnic respons tcu diligente eletron orga control intern par providenc respect parec praz maxim trint dias cont dat receb diligente reduzindos necessari praz defin dest
+
+
+respons orga control intern pel emissa parec encaminh ato tribunal der caus descumpr praz dest estara sujeit sanca previst ii lei sem prejuiz outr revel pertinent ordem administrat civil penal previst orden jurid
+
+
+orga control intern observ praz estabelec dest pod emit parec par consider prejudic perd objet exam atos
+
+
+i concessa cuj efeit financeir tenh exaur analis sej pel falec favorec sej pel advent term final condica objet necess manutenca benefici
+
+
+ii admissa cuj efeit financeir tenh exaur analis sej pel falec admit sej pel deslig carg refer ato admissa
+
+
+est inclus praz dest temp necessari par receb pel orga control intern process administrat par acess inform referent ato submet analis
+
+
+orga control intern dev diligenci orga pessoal verific necess esclarec acerc dad receb
+
+
+diligente suspend temporari decurs praz previst cuj contag reinici primeir dia util seguint atend termin praz estipul par cumpriment
+
+
+diligente dev cumpr pel orga pessoal praz maxim trint dias cont cienc
+
+
+praz fix pod prorrog trint dias dev orga control intern consign motiv ensej prorrog epessoal process administrat concernent ato sujeit registr
+
+
+find praz fix dest sem atend diligente orga control intern dev emit parec conclus part element disponiv identific camp propri formulari epessoal respons pel naoatend
+
+
+seca iii
+
+
+atuaca tcu
+
+
+inform relat atos admissa concessa aposentador reform pensa cadastr epessoal pass critic eletron desenvolv pel unidad tecnic respons tcu bas legislacion pertinent jurisprudente tribunal
+
+
+relator president colegi bem unidad tecnic respons pod dispens manifest orga control intern quand atos admissa concessa cadastr sisac epessoal estiv orga gestor pessoal encontrarems aptos julgament imediat pel tribunal tend bas entr outr situaca
+
+
+i recomend julgament pel irregular negat registr ato admissa concessa conform decisa reiter enunci sumul jurisprudente tcu
+
+
+ii ensej perd objet ant exaur efeit financeir ato analis raza advent term final condica objet necess manutenca benefici
+
+
+relator president colegi bem unidad tecnic respons pod avoc atos admissa concessa cadastr sisac epessoal encontr orga control intern acord criteri conveniente oportun mediant prev comunic
+
+
+nom pesso constant atos pessoal receb pel sisac pel epessoal tenh sofr alter posterior respect registr atos sistem venh objet cadastr represent legal interposica recurs pod atualiz pel unidad tecnic respons tcu mediant document comprobator
+
+
+capitul iv
+
+
+disposica fin
+
+
+conhec requer dirig diret tribunal interess busqu obtenca benefici referent concessa aposentador reform pensa dev respect process arquiv comunic requerent
+
+
+submet tribunal par fins registr mediant remess fisic process original instru respect benefici concessa natur poss inser epessoal
+
+
+paragraf unic pensa gracios indenizator submet tcu par fins trat est instruca normat
+
+
+apreci tribunal pel ilegal atos admissa concessa obrig orga entidad orig cess praz quinz dias tod qualqu pagament decorrent
+
+
+i ato impugn cas admissa
+
+
+ii irregular apont cas concessa
+
+
+praz refer cont cienc pel orga pessoal recus registr ato
+
+
+respons refer dev comunic tribunal mesm praz providente adot pen solidariedad obrig ressarc quant pag ess dat sem prejuiz sanca previst lei
+
+
+apreci ato pel ilegal obrig orga entidad orig inform sistem epessoal praz trint dias cont cienc deliber cancel concessa deslig servidor cas admissa term quand possivel san irregular identific submet tcu nov ato substituica aquel consider ilegal sem prejuiz providenci entr outr correca dev folh pagament dad cadastr servidor benefici aind port defer modific concessa
+
+
+diligente trat est instruca normat respect cienc orga entidad pod realiz pel epessoal
+
+
+comunic tod atos apreci pel tribunal pod feit form eletron cab gestor orga pessoal responsabil pel verific providente adot quand houv determin exped orga jurisdicion dev observ seguint
+
+
+i envi pel epessoal comprovant cienc interess term estabelec acorda independent interposica eventual recurs
+
+
+ii ultim med carg praz estabelec acorda notific formal tribunal mei ofici respost document comprobatori anex epessoal
+
+
+ausenc atend tempest determin tribunal pod ensej aplic respons mult previst iv lei
+
+
+
+
+
+iniciat propr solicit unidad tecnic tcu pod devolv atos cadastr sistem sisacepessoal par orga control intern par gestor pessoal mediant prev comunic
+
+
+paragraf unic atos encontr orga control intern pod devolv gestor pessoal
+
+
+public diari oficial unia deliber tribunal consider legal ato admissa concessa determin registr constituira prov par tod fins direit
+
+
+disposica dest instruca normat aplicams coub atos cadastr sisac
+
+
+fic revog instruca normat tcu outubr
+
+
+est instruca normat entr vigor dat public
+
+
+
+
+
+tcu sal sessa ministr lucian branda alves souz marc
+
+
+raimund carreir
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr envi process tramit inform alus atos admissa pessoal concessa aposentador reform pensa par fins registr ambit tribunal cont unia term iii constituica federal
+
+

@@ -1,0 +1,1541 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariagp julh resolv
+
+
+
+
+
+fic autoriz realiz projet tradoc criteri tratament documental term propost anex est port
+
+
+
+fic design part dest dat anal control extern are control extern loh mach matricul par exerc relativ projet trat est port funca confianc coorden projet constant dezembr aloc secretariageral control extern mediant port janeir
+
+
+
+paragraf unic cab coorden projet responsabil gerenci projet exerc competente previst port observ dispost manual gesta projet
+
+
+
+
+
+est port entr vigor dat public
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+autoriz realiz projet tradoc criteri tratament documental design gestor
+
+anex unic
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tradoc criteri tratament documental
+
+pagin
+
+identific gestor projet
+
+
+
+
+nom
+
+matricul
+
+x espec gestor
+
+orig fc
+
+loh mach
+
+
+
+
+
+ggerent
+
+x
+
+ccoorden
+
+segecex
+
+
+
+email
+
+lohirmtcugovbr
+
+nom substitut eventual
+
+matricul
+
+email
+
+onesild jos silv
+
+
+
+onesildjstcugovbr
+
+
+
+localtelefon
+
+anex ii sal ramal
+identific projet
+
+
+
+
+nom projet
+
+tradoc criteri tratament documental
+
+
+
+period realiz
+
+agost outubr
+
+
+
+unidad patrocin
+
+secret presidente sepr
+vincul estrateg
+
+
+
+
+vincul plan estrateg tcu
+
+
+
+estrateg ampli aprimor uso tecnolog inform
+
+b
+
+estrateg desenvolv polit gesta conhec
+
+c
+
+estrateg aperfeico process trabalh tcu
+
+d
+
+projet dev defin criteri instrument tratament documental mod possibilit prest inform realiz consult pesquis bem emissa relatori agil seguranc racional viabiliz tamb acess generaliz inform alem diss dev permitirorient control temporal execuca divers aca relacion gesta documental durant tod cicl vid document portant est vincul estrateg
+
+
+
+vincul plan diretriz
+
+
+
+diretriz melhor tempestiv qualidad efetiv aca control extern
+
+med aprimor gesta inform ambit tcu projet vis melhor instrument gesta documental inform
+
+med implant oper inicial sistem processus web colet eletron cont produt dest projet subsidi par dois sistem mencion
+
+b
+
+diretriz aperfeico servic apoi administrat tcu
+
+med aprimor sistem inform gerenci
+
+med aprimor relaca comunic intern ambit tribunal
+
+vincul projet diretriz tamb pel aprimor instrument gesta documental destacandos nest cas possibil emissa relatori gerenci maior confiabil seguranc
+
+
+
+vincul plan diretor seged
+
+
+
+diretriz aperfeico prest servic administrat tcu
+
+med aprimor sistem inform gerenci
+
+aca
+
+estabelec tip subtip process administrat levant praz max complex tramit promov ajust sistem processus
+
+estabelec metodolog par implement codig classific document autuaca process
+
+aperfeico tabel codig classific
+
+tradoc criteri tratament documental
+
+pagin
+
+problemaoportun
+
+
+
+
+descrica problem oportun
+
+
+
+context present projet tribunal oportun regulament disposit constitucion leg regulament reg tratament document arquiv pais especial cont constituica federal lei relacion responsabil sobr tratament documental ambit administr public tres esfer pod par unia estad df municipi
+
+b
+
+problem apresent dificuldad relat recuper document fas corrent intermedi permanent form agil segur racional par dar soluca iss defin criteri sistematiz gesta documental
+
+
+
+contextualiz problem oportun
+
+
+
+context dest projet entendes
+
+document inform cont qualqu suport papel fit disc magnet microfilm hardwar
+
+inform assunt cont document
+
+document arquiv aquel cuj assunt vinculas estrutur funcional organiz
+
+b
+
+consider document arquiv tribunal aquel contenh assunt relacion funca estrutur organizacional tcu independent suport encontr cicl vid dess document inici produca receb pod pass pel tres fas compo ess cicl qua aca metod tecnic gesta documental diferenci
+
+primeir fas corrent document encontras volt par valor primari normal vincul ativ desenvolv pel administr par atend demand intern extern ness etap mais important acess rap document inform nel cont par ativ demand sej execut agil
+
+outr duas fas intermedi permanent aca sobr document volt par guard preserv requ tecnic propr aplic setor especializ arquiv central vist possibilit organiz documental par facilit acess document inform
+
+
+
+evoluca quadr apresent dad preferencial tabel
+
+
+
+dicom setor arquiv diant experiente var visit tecnic realiz outr orga public pud identific caus problem item
+
+criteri classific ineficient par cri vincul vis avali organiz recuper document
+
+inexistente padroniz term par cadastr documental sistem informatiz tcu dificult construca relatori gerenci outr consult carat geral
+
+inexistente criteri tecnic segur par transferente recolh descart document
+
+indefinica suport par guard preserv document origin cop inform nel cont
+
+indefinica responsabil loc condica adequ par armazen document
+
+prolifer arquiv paralel sem tecnic apropri
+
+b
+
+par caus elenc codig classific document assunt oferec soluca capaz facilit pesquis consult sistem gerenci eletron possibilit tamb extraca relatori gerenci outr natur
+
+outr lad uso codig classific ali tabel temporal grand importanc par racionaliz espac disponiv viabiliz corret avali documental permit elimin daquel document desprov valor transferente par arquiv central aind tenh valor arquivist baix frequenc consult
+
+definica adoca tod tcu codig classific tabel temporal control document arquiv tribunal pod automatiz emissa period relatori indicat poss transfer elimin viabiliz gesta documental otimiz uso espac disponiv
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+
+
+nad feit gravidad urgenc tendenc
+
+
+
+cas sej providenci soluca descrit b acim bem med necess par sistematiz dess instrument tribunal atac caus problem iss hav tendenc natural agrav seguint situaca
+
+insatisf client relaca recuper inform document possiv reflex negat par desempenh ativ imag tribunal
+
+satur espac unidad arquiv central destin guard preserv document
+
+elimin descentraliz document motiv apen pel necess mais espac fisic unidad risc perd document valor histor
+
+elev cust relacion tratament documental raza ausenc instrument pratic permit interlig tres fas cicl vid
+escop projet
+objet geral projet relaca oportun soluca problem
+
+
+defin soluca vis eficiente gesta documental relat utiliz organiz control seguranc racional agil proced recuper document inform
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+praz
+
+
+
+adapt codig classific document existent par are administrat
+
+doc
+
+
+
+
+
+codig adapt encaminh conarq par aprov dat previst
+
+
+
+codig classific document are administrat
+
+unidad gestor processus
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+b
+
+adapt tabel temporal destin document par are administrat
+
+doc
+
+
+
+
+
+tabel adapt encaminh conarq par aprov dat previst
+
+
+
+tabel temporal destin document are administrat
+
+unidad gestor processus
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+c
+
+elabor codig classific document assunt cont tipolog document are control extern
+
+doc
+
+
+
+
+
+codig elabor encaminh conarq par aprov dat previst
+
+
+
+codig classific document are control extern
+
+unidad gestor processus
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+d
+
+elabor tabel temporal destin document par are control extern
+
+doc
+
+
+
+
+
+tabel elabor encaminh conarq par aprov dat previst
+
+
+
+tabel temporal destin document are control extern
+
+unidad gestor processus
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+praz
+
+
+
+defin suport par guard preserv document
+
+doc
+
+
+
+
+
+definica elabor praz
+
+definica suport documental
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+f
+
+defin sistemat organiz par guard preserv document
+
+doc
+
+
+
+
+
+sistemat defin praz
+
+sistemat par organiz documental
+
+dicom spt arq semat cad
+
+setec
+
+unidad usu
+
+g
+
+trein servidor servic administr dem setor respons pel cadastr autuaca document unidad sed
+
+pel men servidor cad unidad
+
+
+
+
+
+servidor trein unidad
+
+servidor trein
+
+servidor lot unidad usu
+
+h
+
+oferec treinament servidor lot estad
+
+pel men servidor cad secex
+
+
+
+
+
+percentual servidor trein unidad estad
+
+servidor trein
+
+servidor lot secex estad
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+gerenci projet
+
+b
+
+obtenca recurs
+
+c
+
+adapt codig classific tabel temporal document are administrat
+
+d
+
+definica codig classific tabel temporal document are control extern
+
+
+
+definica suport par guard preserv document
+
+f
+
+definica sistemat organiz par guard preserv document
+
+g
+
+divulg
+
+h
+
+treinament
+escop projet vai faz
+
+
+
+
+pretensa opca ged gerenci eletron document entant produt dev serv referente basic par sej desenvolv
+
+b
+
+desenvolv eou implement sistem informatiz par soluca propost nest projet
+identific part envolv projet relaca
+
+
+
+
+segecex principal fornecedor inform par desenvolv projet
+
+b
+
+dicom semat principal client par instrument gesta documental desenvolv projet
+
+c
+
+setec client produt dest projet subsidi par alter processus desenvolv ged
+
+d
+
+comissa avali destin document cad seged client produt desenvolv projet especial par tabel temporal term port
+
+
+
+consultor extern treinament orient avali trabalh
+
+fator pod risc exit projet
+
+
+
+
+risc
+
+
+
+impact
+
+
+
+probabil ocorr
+
+
+
+aca par evit m mitig r reduz impact
+
+
+
+respons pel aca
+
+
+
+inexistente apoi alt administr
+
+alt
+
+baix
+
+consegu apoi presidente segecex seged par realiz projet
+
+m demonstr segecex seged importanc trabalh desenvolv pel projet benefici esper
+
+coorden projet
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+
+
+risc
+
+
+
+impact
+
+
+
+probabil ocorr
+
+
+
+aca par evit m mitig r reduz impact
+
+
+
+respons pel aca
+
+b
+
+pouc colabor unidad par reunia levant document fornec inform
+
+medi
+
+med
+
+divulg projet monstr benefici pod traz diaad trabalh
+
+m sensibiliz conscientiz titul unidad quant importanc instrument gesta documental desenvolv pel projet especial relaca agil recuper inform preserv document valor histor
+
+coorden projet
+
+c
+
+atras licit contrat consultor
+
+med
+
+alt
+
+negoci seged conjur reunia abertur praz factiv par inser planej projet
+
+m acompanh process licit contrat prest inform necess sempr temp
+
+r adequ praz cronogram projet houv impact praz final negoci prorrog
+
+r mud estrateg consultor extern par treinament servic par iss negoci orcament isc rep seged
+
+coorden projet
+
+c
+
+indisponibil recurs orcamentari human par desenvolv ativ projet
+
+medi
+
+med
+
+negoci consegu aprov recurs necessari reunia abertur
+
+m ajust cronogram projet houv impact praz final cas recurs orcamentari human sej disponibiliz acord planej
+
+coorden projet
+fator contribu par exit projet
+
+
+
+
+apoi empenh pessoal titul segecex seged semat dicom cad par desenvolv projet
+
+c
+
+competente capac empres consultor contrat experiente are public
+
+d
+
+integr present projet setec par melhor processus par desenvolv projet processus web tamb outr
+
+
+
+motiv equip projet
+projet predecessor
+
+
+
+
+identific
+projet conex
+
+
+
+
+processus web aproveit produt dest projet
+
+b
+
+prosig dev observ classific tipolog documental defin present projet
+projet sucessor
+
+
+
+
+perfil acess seguranc documental
+cust estim
+
+
+recurs
+
+valor estim
+
+praz
+
+
+
+consultor extern par treinament orient avali
+
+r
+
+part
+
+b
+
+treinament sed bas remuner instrutor tcu par turm alun carg hor h
+
+r
+
+part fev
+
+c
+
+estagiari nivel superior agost outubr
+
+r
+
+part agost
+
+total cust estim
+
+r
+
+
+obs cust treinament par servidor estad dev calcul conform estrateg defin epoc
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+livr public acerv tcu
+
+bibliotec tcu
+
+b
+
+recurs human par levant avali document produz receb pel unidad
+
+unidad secret tcu
+
+tradoc criteri tratament documental
+
+pagin
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial
+
+
+
+loh mach
+
+
+
+sepr
+
+
+
+integral gestor
+
+b
+
+carl orfil
+
+
+
+secex
+
+
+
+integral part set
+
+c
+
+martinh lar gai
+
+
+
+serec
+
+
+
+integral projet
+
+d
+
+onesild jos silv
+
+
+
+seplan
+
+
+
+integral projet
+
+
+
+edvald silv reis
+
+
+
+dicom semat
+
+
+
+integral ativ atribu
+
+f
+
+daniel von parask estagiari
+
+
+
+sepr
+
+
+
+integral h diar part set
+consider fin fundament normat port
+
+
+
+
+caracteriz trabalh projet
+
+
+
+projet ora propost encontras conform
+
+
+
+iii estud vis definica metodolog orient par posterior dissemin
+
+b
+
+iv atend demand especif comport grand esforc planej coorden par ger result dentr praz estabelec
+
+c
+
+v desenvolv soluca result melhor gesta ambit intern tribunal
+
+d
+
+vi desenvolv soluca favorec melhor result prevenca dan gesta recurs patrimoni public
+
+
+
+vii conjunt event vincul objet especif are formaca treinament desenvolv gerent servidor
+
+
+
+caracterist trabalh defin gestor projet gerent coorden port
+
+
+
+percepca fc coorden projet encontr respald port julh paragraf combin seguint mesm
+
+
+
+iv period superior tres mes
+
+b
+
+v justific relevanc mat
+
+d
+
+vii desenvolv nov tecnolog metodolog impact geral ativ secret tribunal especial are control extern
+
+
+
+vii complex ativ coorden relaca numer met alcanc itens control
+finaliz
+
+
+dat assinatur coorden projet
+
+
+
+
+
+loh mach
+
+coorden projet
+
+manifest titul unidad patrocin
+
+acord present propost consonanc ata reunia abertur realiz julh
+
+sepr
+
+
+
+paul nogueir medeir
+
+secretari sepr
+
+
+
+
+
+
+
+
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+
+
+identific reunia
+
+
+ana numer reunia
+
+x tip reunia
+
+
+
+x
+
+abertur
+
+
+
+intern
+
+
+
+acompanh
+
+
+
+desempenh
+
+
+
+outr
+
+dat reunia
+
+horari efet
+
+local
+
+coorden
+
+jul
+
+inici
+
+termin
+
+sal anex ii tcu
+
+loh mach
+
+
+
+
+
+
+objet
+
+
+
+
+promov aprov propost plan projet criteri tratament documental junt part envolv
+
+
+participant
+
+
+participant
+
+lotaca
+
+telefon
+
+email
+
+
+
+loh mach gestor projet
+
+sepr
+
+
+
+lohirmtcugovbr
+
+b
+
+paul nogueir medeir unidad patrocin
+
+sepr
+
+
+
+seprestcugovbr
+
+c
+
+antoni jos ferreir trindad justific ausenc
+
+seged
+
+
+
+antoniofttcugovbr
+
+d
+
+jos fern alme equip acompanh pj
+
+seplan
+
+
+
+josefgtcugovbr
+
+
+
+claudi cruz interfac soluca
+
+setec
+
+
+
+cscruztcugovbr
+
+f
+
+robert carl m pont
+
+adcon
+
+
+
+robertocmtcugovbr
+
+g
+
+ary fern beira represent seged
+
+semat
+
+
+
+aryfbtcugovbr
+
+h
+
+ernold doniset pereir are document semat
+
+dicom
+
+
+
+ernoldodptcugovbr
+
+i
+
+lucian carl batist
+
+segecex
+
+
+
+lucianocbtcugovbr
+
+
+discussa paut
+
+
+decisa
+
+respons pel implement alter
+
+dat limit
+
+
+
+exposica sucint propost projet
+
+
+
+suger pel srs paul medeir ary beira elabor port aprov codig classific tabel temporal par tcu sistem processus tiv disposit obrig preenchiment dess inform
+
+aplic
+
+aplic
+
+b
+
+urgenc implement criteri par tratament documental ressalt pel sr ary beira tend vist ganh tcu term gesta racional padroniz proced espac fisic economic celer obtenca inform entr outr
+
+aplic
+
+aplic
+
+c
+
+lembr pel sr lucian batist propost soluca par problem tratament documental tcu vem send atualiz quatr anos entant sem cheg aca efet trabalh par implement sistemat utiliz tod tribunal
+
+aplic
+
+aplic
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+decisa
+
+respons pel implement alter
+
+dat limit
+
+d
+
+par adiant ativ suger pel sr ary beira sra loh futur gestor tradoc solicit treinament inici projet vis nivel conhec integrant equip tamb par desperdic temp enquant aguard process licit contrat consultor sugesta acat pel dem present
+
+loh
+
+
+
+
+
+desenvolv projet lev result tera impact tod tribunal sr paul medeir observ patrocini sepr important tratars unidad propic integr entr tod are tribunal
+
+aplic
+
+aplic
+
+
+
+discussa sugesta sobr escop projet objet metaspraz produt escop macroetap
+
+
+
+consens entr present alter objet projet desenvolv soluca document inform pass defin soluca document inform portant cab projet desenvolv operacionaliz soluca
+
+loh
+
+
+
+b
+
+decorrente temp necessari contrat consultor licit period realiz projet modific pass
+
+loh
+
+
+
+c
+
+consider mudanc acim alter praz met sab
+
+met praz pass par
+
+met b praz pass par
+
+met c praz pass par
+
+met d praz pass par
+
+met praz pass par
+
+met f praz pass par
+
+met g praz pass par
+
+met h praz pass semestr par
+
+loh
+
+
+
+d
+
+indic aprov codig pel con autor competent exclu tod met estav present
+
+loh
+
+
+
+
+
+indic met b c d pass seguint redaca codig adapt encaminh con par aprov dat previst
+
+loh
+
+
+
+f
+
+suger pel sr lucian alter met h quant porqu cas secex estad treinament dev oferec tod indistint par iss levant duas alternat utiliz interleg desloc instrutor unidad tecnic exempl fiscobr numer maior pesso ating evit dependencia pesso par atu multiplic inform
+
+loh
+
+
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+decisa
+
+respons pel implement alter
+
+dat limit
+
+
+
+g
+
+fic esclarec escop tradoc inclu ged gerenc eletron document definica sobr sistemat tratament documental tcu incumbindos operacionalizal
+
+aplic
+
+aplic
+
+h
+
+consult sobr relaca entr projet processus web tradoc sr claudi cruz afirm par mant direca concentr esforc dev exist fort integr entr dois projet tradoc dev indic criteri oferec produt incorpor pel processus web afirm tamb decorr ativ feit ajust necessari par evit tant retrabalh quant duplic taref rest esclarec praz entr projet compativ
+
+aplic
+
+aplic
+
+i
+
+sr paul medeir consider complex process licit vis dar celer contrat consultor consider equip projet pod inici imediat elabor projet basic edital licit inclusiv consult outr orga tenh feit iss
+
+loh
+
+
+
+
+
+identific font financi custei autoriz realiz cust estim
+
+
+
+consult secret orcament financ confirm pel sr ary beira represent seged possibil utiliz recurs orcamentari corrent exercici par contrat consultor extern conform propost equip tradoc
+
+aplic
+
+aplic
+
+b
+
+sra loh sr ernold inform present execuca trabalh camp realiz pel equip projet junt cad trabalh consultor contrat envolv treinament orient avali necess desenvolv sistemat tratament documental
+
+aplic
+
+aplic
+
+c
+
+exclu projet cust estim r relat aquisica livr public falt registr cust estagiari
+
+loh
+
+
+
+
+
+compromiss part titul ced recurs local rh mov equip relaca praz mod cessa recurs
+
+
+
+sr paul medeir question numer integrant equip considerando elev par justific ess pont sra loh lembr projet ira faz levant in loc areamei areafim document atinent process trabalh tcu iss demand consider esforc sr lucian complement esclarec maior projet especif outr are iss equip menor utiliz informal recurs propr unidad vincul projet final concord proposica equip
+
+aplic
+
+aplic
+
+b
+
+relaca equip projet apen cessa servidor carl orfil est pendent confirm pel sr eduard duailib secretari secex
+
+secretari
+
+secex
+
+
+
+tradoc criteri tratament documental
+
+pagin
+
+
+
+decisa
+
+respons pel implement alter
+
+dat limit
+
+c
+
+sra loh consult sr oze chef servadm sepr quant cessa mov equip utiliz agor pel equip pjgp ve qualqu inconvenient quant iss
+
+aplic
+
+aplic
+
+d
+
+sra loh via email consult seged sobr cessa sal utiliz agor pel equip pjgp moment obtev respost respeit
+
+seged
+
+
+
+
+
+verific plan ms project est compat compromiss sugesta apresent
+
+
+
+conform norm tcu equip tradoc praz dias ute part autoriz projet par elabor plan projet
+
+loh
+
+dias ute part autoriz
+
+
+outr assunt
+
+
+decisa
+
+respons pel aca
+
+dat limit
+
+
+
+abord outr assunt
+
+
+
+
+
+
+pendenc identific
+
+
+decisa
+
+respons pel saneament
+
+dat limit
+
+
+
+itens b
+
+secex
+
+
+
+b
+
+itens d
+
+seged
+
+
+
+c
+
+ajust propost tradoc
+
+loh
+
+
+
+
+fechament ata
+
+
+dat ata
+
+nom relator
+
+assinatur relator
+
+jul
+
+carl orfil
+
+coorden assin original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

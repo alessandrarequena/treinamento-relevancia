@@ -1,0 +1,754 @@
+port
+
+
+
+president tribunal cont unia exercici competente leg regiment
+
+
+consider diretriz plan diretriz tribunal cont unia par exercici
+
+
+consider definica expectat tcu essencial par gerenci implement portal internet
+
+
+consider composica equip projet questa envolv servidor diferent unidad basic apoi estrateg resolv
+
+
+fic autoriz realiz projet portal tcu term anex est port
+
+
+est port entr vigor part dest dat
+
+
+humbert guimara sout
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+president
+
+
+
+const revog express
+autoriz realiz projet portal tcu
+
+anex unic
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+identific gestor projet
+
+
+projet portal tcu
+
+pagin
+identific projet
+
+
+
+
+nom
+
+x espec gestor
+
+orig fc
+
+claud august dias
+
+
+
+gerent
+
+x
+
+coorden
+
+segecex
+
+email
+
+claudiaadtcugovbr
+
+
+
+nom substitut eventual
+
+son luz caldeir del fiac
+
+
+
+localtelefon
+
+anex i ed sed tcu sal telefon adfis
+vincul estrateg
+
+
+
+
+nom projet
+
+portal tcu period realiz
+
+abril novembr
+
+unidad vincul
+
+secret planej gesta seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vincul plan estrateg tcu
+
+atend expectat sociedad congress nacional relaca ativ control extern adoca padra qualidad reformul portal tcu estreit relacion congress nacional sociedad possibilit acess mais eficaz eficient amig inform ger mant divulg pel tribunal
+
+b manters vanguard metod tecnic tecnolog control extern est projet aplic metod desenvolv softwar volt necess usuari alem tecnic avali acessibil usabil consider adequ compativ nov tecnolog par divulg inform via internet intranet extranet
+
+c contribu par continu aperfeico gesta public engaj tribunal melhor acessibil portal uso intern extern contribuira par dissemin boas pratic gesta public divulg result aca fiscaliz tcu servira referencial par desenvolv reformul outr sit organiz public
+
+d mant polit valoriz servidor promov particip servidor definica conteud portal tcu est projet pretend destac importanc sugesta critic usuari par aprimor sistem corporat est projet vis aind melhor condica trabalh servidor durant inter homemcomput utiliz taref diar portal tcu dispon via internet intranet
+
+
+
+
+
+
+
+
+
+
+projet portal tcu
+
+pagin
+problemaoportun
+
+
+
+
+vincul plan diretriz
+
+diretriz desenvolv esforc sent mant nivel satisf servidor clim organizacional ambient trabalh present projet tamb contribu ess diretriz principal med melhor atend necess inform usuari aperfeico portal tcu b melhor condica ambient trabalh part fator afet satisf motiv servidor inter sistem corporat c ampliaca particip unidad servidor tcu process desenvolv reformul sistem informatiz
+
+b diretriz ampli conhec reconhec tcu perant sociedad mid est projet contribu par cumpriment met aprimor portal tcu internet relacion ess diretriz divulg inform via internet segu padra qualidad acessibil par port web cert melhor imag institucional tcu perant congress nacional sociedad mid ressalt importanc defes inter cidada facilit acess inform disponiv form digital
+
+
+
+
+
+vincul plan diretor houv
+
+plan diretor secret planej gesta seplan met med
+
+plan diretor secretariageral control extern segecexmet med
+
+plan diretor secret tecnolog inform setec met
+
+
+
+
+
+
+
+
+
+
+
+projet portal tcu
+
+
+
+pagin
+
+
+
+
+descrica problem oportun
+
+atu sit tcu atend satisfatori necess usuari apresent element dificult acess gerenci inform nel disponiv portal mais eficaz eficient amig capaz facilit acess usuari intern sistem inform institucion atra atenca usuari extern par inform veicul pel tcu internet cert aument desempenh servidor execuca taref melhor imag tribunal perant sociedad
+
+
+
+contextualiz porqu problem oportun
+
+tribunal long ultim cinc anos desenvolv set sit distint internet incompativ entr relaca padra grafic estrutur naveg sit atend tant public intern public extern busc inform divers tais
+
+sit internet httpwwwtcugovbr inform sobr atuaca funcion estrutur tcu acess public relatori ativ sistem jurisprudente control process
+
+b sit intranet httpintranettcugovbr acess sistem corporat divulg inform relevant ambient intern
+
+c sit sisacnet httpsisactcugovbr sistem registr apreci atos admissa concessa utiliz tod administr public federal par prest inform tcu sobr atos admissa concessa pessoal
+
+d sit siscont httpcontastcugovbr sistem colet eletron cont usad par receb onlin tom prestaca cont anu administr public federal
+
+sit cont public httpwwwcontaspublicasgovbr coletane links par pagin web orga administr public desenvolv pel tcu atend lei
+
+projet portal tcu
+
+pagin
+
+f sit x assemble geral olacefs httpwwwolacefsgovbr inform sobr ess event organiz pel tcu dezembr
+
+g sit tribun cont comun pais lingu portugues httpwwwtribunaiscplpgovbr inform sobr atuaca conjunt dess tribun promov integr
+
+princip caus problem descrit anterior falt integr estrutural visual entr sit cit tempestiv atualiz inform nel cont falt capacit tecnic especif design grafic comunic visual ergonom equip respons pel criaca manutenca dess sit
+
+constat incidente dess caus setec tom iniciat propor criaca portal tcu desenvolv supervisa gerenc tcu empres contrat mei process licitatori
+
+entretant par solucion problem identific bast contrat empres especializ projet interfac grafic defin primeir parametr qualidad atend ess empres requisit min par homolog produt fin desenvolv
+
+pont part projet pretend realiz pesquis bibliograf sobr padra recomend cientif pratic par projet interfac web sistem gerenci conteud
+
+part dess pesquis defin conjunt parametr qualidad interfac criteri seguranc mecan public revisa atualiz manutenca conteud base padra nacion internacion acessibil usabil gerenci port web dev atend pel empres contrat alem diss realiz analis conteud port atu identific necess inform usuari par composica estrutur nov conteud
+
+tais definica repass empres contrat par desenvolv nov portal migr conteud port atu serv parametr durant gerenc trabalh dess empres par homolog implement final portal tcu
+
+fas seguint compreend valid projetopilot portal apresent pel empres contrat consider requisit estabelec par interfac sistem gerenci conteud geraca conteud dinam migr aplic existent desenvolv nov aplic
+
+part aprov projetopilot equip ira gerenci pass pass desenvolv portal implement final migraca conteud divulg comun usuari ness gerenc estabelec pont control long desenvolv test funcional sistem gerenci conteud acessibil portal realiz taref utiliz ferrament test automat manu
+
+form divulg trabalh realiz nest projet preves divulg portal tcu diferent mid aind defin elabor apresent palestr sobr fasesprodut projet
+objet geral projet
+
+
+
+
+evoluca quadr apresent dad preferencial tabel
+
+primeir pass par soluca problem detect tcu contrat empres ctis vencedor process licitatori par desenvolv nov portal tcu alem diss ativ projet pesquis bibliograf sobr design interfac identific padra nacion internacion interfac web traduca document internacion adot durant projet realiz long mes marc abril dest ana
+
+
+
+nad feit gravidad urgenc tendenc
+
+est projet implement tribunal perd oportun atu sobr caus problem identific tais deficiente gerenci inform veicul set sit desd public atualiz manutenca conteud falt padroniz estrutur naveg acessibil usabil interfac grafic sit atu dificult acess inform inflexibil demor atualiz conteud sit atu retrabalh confecca pagin web eou conteud duplic conteud
+
+consequente pod advir naoimplement dest projet vao desd ineficac ineficiente acess inform tribunal sej retard conclusa taref servidor cas sej dificult consult inform part public extern congress nacional entidad fiscaliz superior orga administr public sociedad geral falt control sobr inform insatisf usuari impact negativ imag tribunal intern extern
+
+
+
+
+
+
+
+projet portal tcu
+
+
+
+pagin
+met
+
+
+defin estrutur conteud requisit qualidad sistem gerenci inform par nov portal tcu alem gerenci desenvolv implant migraca conteud atual realiz empres contrat
+
+
+
+delimit projet
+
+est projet pretend remodel sistem corporat existent tenh inter portal tcu limitandos suger model interfac comunic compat consistent requisit interfac sistem gerenci conteud defin par portal
+
+dev limit praz realiz migraca total conteud atual set sit tcu cab equip negoci unidad envolv prioridad par migraca conteud primeir versa portal produt ger final dest projet previst par novembr tamb realiz avali satisf usuari nov portal tcu ativ const projet sucessor est conform item
+
+equip dest projet respons pel codific pagin web sistem gerenci conteud ativ previst par empres contrat cab equip conjunt secret tecnolog inform setec gerenci tod desenvolv implant portal cuid par empres contrat respeit requisit defin projet padra desenvolv sistem setec
+produt intermediari
+
+
+
+
+
+
+objet especif
+
+
+
+qtd praz
+
+
+
+indic
+
+
+
+produt
+
+
+
+client
+
+
+
+elabor document definica prelimin parametr qualidad requisit min descrica metod avali encaminhal empres prestador servic respons pel implement portal tcu
+
+
+
+jun
+
+document conclu encaminh
+
+document requisit
+
+prestador servic ctis
+
+
+
+avali projetopilot apresent pel empres contrat consider definica prelimin parametr requisit document descrit met anterior
+
+
+
+jul
+
+parametr qualidad requisit min funcional avali aprov relaca produt met
+
+relatori aprov projetopilot
+
+prestador servic ctis
+
+
+
+gerenci implement portal tcu acord projetopilot aprov test funcional sistem gerenci conteud avali acessibil portal realiz taref utiliz ferrament automat manu sem particip usuari
+
+
+
+nov
+
+pagin web submet test relaca produt met
+
+relatori avali implement final portal tcu
+
+
+
+portal conclu
+
+prestador servic ctis
+
+
+
+secret planej gesta seplan
+
+
+
+usuari portal
+
+
+
+estabelec diretriz par migraca conteud existent responsabil atualiz alter process atual geraca atualiz manutenca portal
+
+
+
+nov
+
+diretriz estabelec
+
+
+
+aprov diretriz pel tcu
+
+list diretriz par migraca conteud alter process atual geraca atualiz manutenca portal
+
+secret tecnolog inform setec
+
+
+
+secret planej gesta seplan
+
+
+
+elabor material par divulg nov portal tcu
+
+
+
+nov
+
+mid prepar par divulg nov portal
+
+material divulg portal organiz event par lancament
+
+assessor comunic social ascom
+
+
+
+secret planej gesta seplan
+identific part envolv projet
+
+
+list parametr qualidad interfac deriv pesquis bibliograf
+
+b list requisit min sistem gerenci conteud
+
+c list necess inform usuari
+
+projet portal tcu
+
+pagin
+
+d list conteud migr
+
+esboc map conteud portal
+
+f list ferrament usad metod avali interfac
+
+g list taref significat realiz sit tcu
+
+h relatori avali acessibil sit reprojet tcu
+
+i relatori avali funcional sistem gerenci conteud
+
+j relatori avali aplic geraca dinam conteud
+
+k artigospalestr sobr fasesprodut dest projet apresent event eou public period
+fator pod risc exit projet
+
+
+assessor cerimonial relaca institucion acer
+
+assessor comunic social ascom
+
+centr document cedoc
+
+ctis empres contrat par desenvolv portal
+
+secret adjunt fiscaliz adfis
+
+secret planej gesta seplan
+
+secret tecnolog inform setec
+
+usuari intern extern
+fator contribu par exit projet
+
+
+
+
+
+
+risc
+
+impact
+
+
+
+aca par evit mitig reduz impact
+
+
+
+respons pel aca
+
+
+
+falt apoi gerencial par realiz projet
+
+alt
+
+subsidi secret planej gesta tecnolog inform adjunt fiscaliz inform sobr andament projet
+
+claud
+
+
+
+disponibil recurs previst temp condica negoci nest propost
+
+alt
+
+envi cronogram unidad respons pel recurs
+
+claud
+
+m negoci unidad respons pel contrat empres ctis aquisica livr compr passagens credit diar
+
+claud son
+
+r replanej projet
+
+
+
+falt inter compromet membr equip projet eou unidad tcu colabor est projet
+
+alt
+
+tent engaj membr equip tod comun usuari nest projet emails memorand ofici solicit apoi sugesta particip tod
+
+claud
+
+m divulg andament projet
+
+r inform tod unidad sobr decisa praz projet
+
+projet portal tcu
+
+pagin
+
+
+
+cumpriment praz contratu part empres contrat par remodelag portal tcu
+
+alt
+
+exig fornecedor supr equip inform necess par dev gerenci projet
+
+claud membr lot seplan setec
+
+realiz reunia period entr equip tcu equip ctis par verific marc projet
+
+r tom providente necess restabelec fornec junt empres contrat necessari junt secret material patrimoni comunic administrat semat
+
+
+
+dificuldad uso ferrament avali acessibil adot metod avali defin
+
+alt
+
+conhec ferrament antecedente instal modul servidor tcu
+
+membr lot setec
+macroetap primeir nivel estrutur analit projet eap
+
+
+patrocini president inter alt direca cas pel result projet
+
+b motiv equip projet par realiz
+
+c providente tempest par fornec recurs aloc projet
+
+d compromet gerenc seplan segecex setec colabor equip projet oferec apoi logist tecnic necessari
+
+divulg benefici facil portal tcu
+projet predecessor
+
+
+constituica equip projet
+
+b planej ativ
+
+c definica estrateg relaca estrutur conteud projet interfac sistem gerenci conteud
+
+d avali projetopilot apresent pel empres contrat
+
+acompanh implement avali produt final
+
+f definica diretriz par migraca conteud
+
+g divulg portal tcu
+
+
+
+
+
+
+projet portal tcu
+
+
+
+pagin
+projet sucessor
+
+
+apes constitu projet form tcu pod consider predecessor set sit desenvolv ultim cinc anos pel setec aind projet dissert mestr coorden equip sobr metod avali usabil port corporat
+cust estim
+
+
+
+cust estim projet ordem r referes basic servic desenvolv portal empres contrat par ess fim conv registr tal contrat realiz etap anterior aprov dest projet
+equip projet
+
+
+projet auditor acessibil govern eletron brasileir avali acessibil portal tcu particip usuari dand continu etap avali defin projet portal tcu aplic port administr public federal metod avali utiliz portal tcu vis melhor servic inform prest cidada brasileir mei internet
+consider fin fundament normat port
+
+
+
+
+
+
+nom
+
+
+
+matricul
+
+
+
+lotaca
+
+
+
+periodox dedic
+
+
+
+claud august dias
+
+
+
+adfis
+
+durant tod etap projet
+
+x
+
+integral
+
+
+
+claud souz lop
+
+
+
+acer
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+francisc antoni alenc
+
+
+
+seplan
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+gec orion pereir goulart
+
+
+
+setec
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+jos ribam r siqueir junior
+
+
+
+seplan
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+maurici maced portel
+
+
+
+setec
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+pedr koshin
+
+
+
+setec
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+son luz caldeir del fiac
+
+
+
+cedoc
+
+conform cronogram
+
+x
+
+parcial
+
+
+
+
+
+
+
+brasil abril
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,983 @@
+port
+
+
+
+vicepresident tribunal cont unia presidente exercici atribuica bas resolucaotcu agost portariatcu dezembr resolv
+
+
+fic aprov realiz projet debit mult term anex dest port
+
+
+est port entr vigor present dat
+
+
+ubiratan agui
+
+
+presidente
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet debit mult
+
+anex unic portariatcu outubr
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+identific gestor projet
+
+
+
+nom gestor matriculai emailii ramal
+
+raul daniel mascarenh ferraz
+
+
+
+rauldmtcugovbr
+
+
+
+funca gestor
+
+iv gerent
+
+xv coorden
+
+vi lid
+
+nom substitut eventualvi matriculavii emailix ramal
+
+francisc luc conceica
+
+
+
+lucialctcugovbr
+
+
+
+local telefon
+
+anex i sal
+
+
+
+identific projet
+
+
+nom projet
+
+projet debit mult
+
+period realizacaox unidad patrocin
+
+
+
+segecex
+
+
+
+
+
+vincul estrateg
+
+
+plan estrateg tcu port tcu janeir
+
+
+
+objet estrateg pun respons efetiv tempestiv
+
+b
+
+objet estrateg aperfeico instrument control process trabalh
+
+c
+
+iniciat estrateg map racionaliz princip process trabalh tcu
+
+d
+
+iniciat estrateg assegur qualidad inform bas dad corporat tcu
+
+
+
+objet estrateg atu cooper orga public red control
+
+f
+
+iniciat estrateg promov intercambi inform conhec metodologias trabalh realiz trabalh conjunt orga public entidad subsidi exercici control
+
+projet aquil
+
+
+
+projet aquil propost aprov tce promov aument indic recolh debit mult
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+problem oportun
+
+
+
+descrica problem oportun
+
+
+
+uso divers sistem bas dad desintegr redundant potencial inconsistent entr tal situaca font constant erros aca relat conden debit mult consequente diss muit trabalh temp gast conferente correca
+
+b
+
+inform disponiv sistem atu tcu permit adequ acompanh fas estad process cont cobranc execut
+
+c
+
+deficiente lacun inform necess acompanh deliber tcu result mult debit hoj possivel obter mei sistem tribunal inform
+
+conden debit mult autu process cobranc execut
+
+conden debit mult recolh
+
+conden mult pod autu process cobranc execut exempl falec respons
+
+d
+
+atual control automatiz confiavel transit julg conden debit mult tal control feit quas manual valendos divers control paralel
+
+control notific fundamental par defin transit julg padroniz tcu divers secexs utiliz sistem propri
+
+obtenca inform transit julg recurs conden debit mult feit auxili sistem paralel cadirreg muit redigit dad pouquissim valid alem abrang soment conden oriund cont julg irregul
+
+exist sistem inform sobr transit julg conden oriund cont julg irregul denunc represent relatori auditor secexs supr ess lacun aplicat propri
+
+
+
+
+
+falt integr sistem corporat existente control paralel caus grand dificuldad operacional manutenca list gestor inidone inabilit par carg funca public geraca list par fins declar inelegibil
+
+f
+
+consum excess recurs computacion sistem cadirreg exig muit equip servidor ger impact diret desempenh disponibil dem sistem tribunal sisdoc sag processus etc
+
+g
+
+eficac cobranc execut mult debit imput pel tribunal muit baix tcu consegu arrecad apen valor mult debit conform inform hoj disponiv
+
+h
+
+falt eficac receb mult debit preocup antig tcu realiz aca intuit dot cas sistem capaz auxili ess ativ prov diss divers aca correlacion objet projet encontr plan diretor tecnolog inform qua sej
+
+aca integr cadirreg modul monitor deliber processus
+
+aca viabiliz captur consult mei eletron declar bens rend refer lei bas cpf cnpj
+
+aca implement melhor modul acompanh cobranc execut
+
+aca implement mecan consult bas dad corporat tribunal via web servic par atend demand advocac geral unia outr orga public
+
+tais aca vis increment integr sistem aument inter orga extern aperfeico control sobr aca conduz cobranc mult debit tais objet tamb perme produt dest projet
+
+i
+
+est andament setec esforc par unific interfac sistem atu tcu mei ambient cham mes trabalh ist cri oportun simplific trabalh usuari encaminh aca relat conden debit mult hoj feit divers sistem
+
+j
+
+andament estud par definica padra process eletron primeir pass ness sent dad projet seged sem papel tais iniciat mostr caminh possiv par execuca acompanh aca relat conden debit mult
+
+k
+
+context atual revel necess oportun coorden form integr iniciat atual dispers vis aprimor tratament administrat dispens conden debit mult
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+bem conhec tcu dificuldad dar prossegu desdobr deliber conden gestor debit mult pod constat grand quantidad trabalh despend periodic pel tribunal par elabor list gestor cont julg irregul par fins declar inelegibil dificuldad histor lid process cobranc execut falt integr sistem acompanh tais conden
+
+b
+
+par enfatiz necess dar prossegu conden debit mult transit julg segecex edit memorandocircul alert descumpr praz autuaca process cbexs consider desid falt administrat grav
+
+c
+
+quas simultan disponibiliz usuari ferrament softwar permit criaca automat process cobranc execut
+
+d
+
+providente quantidad process cobranc execut autu aument autu process setembr autu permit projeca cerc process autu final refer ana mais ana anterior tal aument numer autuaca pod explic part pel existente passiv autuaca realiz referent conden antig
+
+
+
+outr component nest cresciment quantidad conden debit mult aument conden setembr projet final ana aument conden dao orig process cobranc execut sej mesm autuaca sej post dia muit provavel tal quantidad process cobranc continu cresc
+
+f
+
+aument numer process cobranc execut autu tev consequente grand aument quantidad erros sobrecarreg are respons pel verific qualidad process pass despend esforc adicional correca aument temp total par encaminh orga cobranc
+
+g
+
+log edica memorandocircul divers unidad question segecex sobr qua eram process cobranc execut precis cri referent conden contr gestor qua estav atras tais inform disponiv form imediat sistem tcu pod obtid variavel grau dificuldad apur realiz pel adplan ses portant dificuldad unidad sab dia trabalh
+
+h
+
+hoj lacun inform sistem corporat tcu dificult control administrat conden mult debit principal refer recurs sem efeit suspens notific dat transit julg par tent ameniz tal carenc cri sistem paralel cadirreg divers soluca loc secexs
+
+i
+
+iss bas inform necess control debit mult consequent cobranc execut list inidone inabilit inelegiv est desintegr dispers vari sistem inform fundament dat transit julg control manual
+
+
+
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+elabor projet basic revisa integr sistem necessari acompanh execuca aca decorrent deliber tcu result debit mult inidon licitant inabilit gestor par carg funca public emissa list gestor cont julg irregul par fins declar inelegibil
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+met produt homolog
+
+
+
+metax produtoxi homolog
+
+objet especificoxii quantoxiv dat termin
+
+
+
+defin conjunt dad represent divers fas situaca process pass durant cicl vid especial atenca process cont fiscaliz
+
+
+
+
+
+descrica geral estrutur fas situaca processu tcu elabor aceit
+
+setec segecexadnor isccedoc
+
+
+
+descrica geral ferrament administr fas situaca processu elabor aceit
+
+
+
+minut normat fas situaca possiv process cont fiscaliz elabor aceit
+
+
+
+segecex isccedoc
+
+b
+
+identific princip ativ compo cobranc debit mult ator envolv produt insum inform necessari cad ativ
+
+
+
+
+
+b relatori cont descrica process trabalh cobranc debit mult elabor aceit
+
+segecexadnor
+
+
+
+b relatori cont relaca princip ativ insum produt inform cobranc debit mult elabor aceit
+
+
+
+
+
+c versa model dad corporat tcu integr model dad cobranc debit mult elabor aceit
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+c
+
+propor aca par integr bas dad corporat tcu inform necess sistem cadirreg inidone inabilit list par fins declar inelegibil cadastr especif debit apur ced junt dem insum produt inform necessari cobranc debit mult proposit evit redundanc inconsistente redigit inform
+
+
+
+
+
+
+
+
+
+
+
+c model dad conceitual cobranc execut consider insum produt inform elabor aceit
+
+setec
+
+
+
+
+
+
+
+c versa model dad corporat tcu integr model dad cobranc debit mult elabor aceit
+
+
+
+
+
+
+
+
+
+c relatori adequ necess sistem atu tcu par tratament integr cobranc debit mult elabor aceit
+
+segecexadnor
+
+gestor sistem afet
+
+d
+
+identific med curt praz colabor par reduca erros facilit montag process cobranc execut
+
+versa
+
+entreg versa
+
+
+
+
+
+
+
+
+
+d relatori cont sugesta melhor curt praz elabor aceit
+
+segecexadnor
+
+
+
+identific descrev oportun intercambi eletron inform ator extern process cobranc debit mult agu stn defin inform envi receb pel tcu
+
+
+
+
+
+
+
+relatori oportun intercambi eletron inform elabor aceit
+
+segecexadnor
+
+f
+
+cri versa atualiz manual cobranc execut consider mudanc recent normat sistem
+
+
+
+
+
+f manual cobranc execut atualiz
+
+segecexadnor
+
+g
+
+apresent cenari pretend medi long praz par process cobranc debit mult contempl integr outr orga possibil trat cobranc execut atrav process eletron
+
+
+
+
+
+
+
+g relatori visa futur elabor aceit
+
+segecexadnor
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+escop projet vai faz
+
+
+
+
+realiz mapeament exaust process process trabalh costum vari temp principal detalh advent nov normat mesm troc dirigent alter form execut torn rapid obsolet levant excessiv detalh est projet concentr aspect essenci mais peren process cobranc debit mult
+
+b
+
+desenvolv soluca automatiz nest projet descrit conjunt demand tecnic mudanc sistem atu alter funcional existent cri nov funcional dess projet atual ira nort aplic tecnolog inform process cobranc debit mult objet dest projet realiz diret desenvolv ajust sistem
+
+c
+
+implant nov process trabalh cobranc debit mult projet trar sugesta ira diret indiret afet ativ compo process trabalh faz part escop reestrutur refer process
+
+d
+
+torn process cobranc execut process eletron dentr praz projet
+
+
+
+mant atualiz manual cobranc execut est entreg
+
+f
+
+public normat
+
+g
+
+treinament servidor
+
+
+
+
+
+
+benefici impact esper implement produt projet
+
+
+
+
+ganh efet control sobr process cobranc debit mult praz etap possibilit med corret gerencial quantitativ quantidad temp retorn obtid
+
+b
+
+acompanh tempest ativ unidad tcu aca realiz realiz respeit cobranc debit mult
+
+c
+
+obtenca automat list gestor declar inabilit licitant declar inidone
+
+d
+
+soluca permanent par emissa list gestor cont julg irregul par fins declar inelegibil periodic exig grand quantidad trabalh par ger
+
+
+
+reduca quantidad erros autuaca process cobranc execut reduz temp quantidad trabalh necess par cobranc debit mult
+
+f
+
+simplific ativ operacion reduca necess verific conferente extinca ativ extraca carg sistem integr
+
+g
+
+otimiz uso recurs human materi
+
+h
+
+menor dependencia pesso mais maior facil par rep conhec
+
+i
+
+extinca gradat sistem integr soluca departament trat conden debit mult
+
+j
+
+administr centraliz integr aca intercambi orga extern inform tcu acerc conden debit mult cobranc execut
+
+k
+
+tratament cobranc debit mult aspect tecnolog process trabalh form integr global
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+fator pod risc exit projet
+
+xv riscoxv impactoxvi probabilidadexvii ocorrerxix aca paraxx evit ocorrente riscoxx m mitig ocorrente riscoxxi r reduz impact risc ocorridoxxii responsavelxxiv pel aca
+
+
+
+perd sincron projet planej setec pod compromet execuca recomend relat
+
+alt
+
+medi
+
+mant dialog proxim setec acompanh evoluca planej internom
+
+gestor projet
+
+b
+
+dificuldad cumpr praz produt dev recess fer servidor tcu
+
+medi
+
+medi
+
+mant cronogram projet ajust cronogram fer membr equip r
+
+busc sempr possivel font alternat inform outr servidor mesm unidad unidad correlat r
+
+gestor projet
+
+c
+
+dificuldad par agend reunia servidor unidad tribunal font inform par projet
+
+alt
+
+baix
+
+encaminh mensag apresent projet atrav patrocin m
+
+realiz reunia apresent m
+
+marc reunia antecedente m
+
+patrocin projet gestor projet
+
+d
+
+dificuldad consegu apoi orga public necessari par realiz intercambi inform
+
+alt
+
+medi
+
+encaminh mensag patrocin m
+
+realiz reunia apresent m
+
+mant orga public envolv inform sobr evoluca projet pertinent m
+
+patrocin projet gestor projet
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+identific part envolv projet relaca
+xxv nom part envolvidaxxv patrocin client parceir fornecedor intern extern servic recurs human fisicosxxvi item negoci negoci part envolv
+
+
+
+segecex patrocin client
+
+apoi font inform dev trabalh montag operacionaliz atrav secexs process cobranc execut
+
+liber servidor period parcial
+
+b
+
+adnor copatrocin client
+
+apoi logist espac fisic instal bem particip desenvolv conceitual trabalh
+
+c
+
+setec
+
+apoi font inform sobr sistem tribunal destinatari recomend sobr consider planej intern
+
+liber servidor par atu integral projet
+
+liber servidor period parcial
+
+acess model dad corporat model dad projet sinerg levant realiz anterior relacion escop projet
+
+d
+
+sefid
+
+liber servidor
+
+
+
+sesessecinf
+
+apoi font inform dev trabalh cadastr acorda ativ fundamental par cobranc execut
+
+f
+
+serur
+
+apoi font inform encaminh recurs interferente diret andament process cobranc execut
+
+g
+
+ministeri public junt tcu
+
+apoi font inform pel regiment intern tribunal respons encaminh cobranc execut
+
+h
+
+advocac geral unia
+
+apoi font inform principal destinatari process cobranc execut
+
+i
+
+gabinet ministr ubiratan agui
+
+apoi font inform represent aqu dem gabinet papel encaminh recurs elabor acorda
+
+j
+
+seplan
+
+apoi metodolog gesta projet mapeament process utiliz ferrament gerenci
+
+
+
+
+
+
+relaca outr projet
+
+xxvii projet predecessoresxxix projet conexosxxx projet sucessor
+
+projet diagnost
+
+relatori final dest projet propo divers melhor sistem corporat tcu referent cobranc debit mult declar inidon licitant inabilit gestor
+
+cbex
+
+est projet tev objet dar vaza grand passiv existent epoc referent autuaca process cobranc execut relatori dess projet sugesta estatist levandos consider context daquel moment pod ute nov projet
+
+sinerg
+
+tratas projet vis fornec visa unific consolid inform sistem tribunal atrav extraca period dad levant realiz ness projet constitu grand font inform par projet atual
+
+
+
+aquil
+
+implement result present projet prerequisit par aca program aquil vis aument efetiv cobranc debit mult
+
+
+
+hav necess institu projet sucessor tenh objet desenvolv implant mudanc evoluca sistem tcu descrit produt projet atual
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet debit mult
+
+pagin
+
+
+
+
+
+
+cust adicion estim
+
+xxx recursoxxxi valor estimadoxxxii dat inicial liber recurs
+
+
+
+diar aces tres visit secexs region
+
+r
+
+
+
+b
+
+passagens aces tres visit secexs region
+
+r
+
+total cust estim
+
+r
+
+
+
+
+
+
+
+
+outr recurs necessari
+
+xxxv recursoxxxv fornecedor
+
+
+
+linh telefon
+
+segecex
+
+b
+
+local trabalh par servidor dedic integral
+
+segecex
+
+
+
+
+equip projet
+
+xxxvi nomexxxvii matriculaxxxix lotacaoxl periodoxl dedic integral parcial ativ
+
+
+
+raul daniel mascarenh ferraz
+
+
+
+setec
+
+
+
+integral
+
+
+
+francisc luc conceica
+
+
+
+sefid
+
+
+
+integral
+
+
+
+noem naom matayosh
+
+
+
+adnor
+
+
+
+parcial consultor
+
+
+
+robert ribeir c andrad filh
+
+
+
+adnor
+
+
+
+parcial consultor
+
+
+
+robson alme pereir
+
+
+
+setec
+
+
+
+produt
+
+ativ
+
+
+
+marcus vinicius borel castr
+
+
+
+setec
+
+
+
+produt c c c
+
+ativ
+
+
+
+
+finaliz
+
+xli dataxlii assinatur gestor projet
+
+
+
+raul daniel mascarenh ferraz
+
+coorden projetoxliv manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+segecex
+
+laerci mend vieir
+
+secretari adjunt segecexadnor
+
+jorg pereir maced
+
+secretariogeral segecexxlv manifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+

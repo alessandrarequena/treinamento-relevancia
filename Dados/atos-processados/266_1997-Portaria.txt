@@ -1,0 +1,722 @@
+port
+
+
+
+
+
+
+
+
+
+president exercici tribunal cont unia uso atribuica confer i regiment intern aprov pel administrat junh
+
+
+consider necess disciplin ativ relacion are transport utiliz veicul ofici integr frot tribunal
+
+
+consider norm atinent mat resolv
+
+
+capitul i
+
+
+classific frot veicul ofici
+
+
+veicul pertencent tcu classificams seguint grup
+
+
+grup automov represent autor
+
+
+grup b veicul natur especial
+
+
+grup c veicul servic
+
+
+grup d veicul transport colet
+
+
+paragraf unic considerams veicul servic utiliz exclusiv
+
+
+c transport material
+
+
+c transport servidor servic
+
+
+c transport medic
+
+
+fic estabelec seguint caracterist veicul par grup refer anterior
+
+
+i grup automov represent autor
+
+
+caracterist automovel mov gasolin alcool cor pret plac bronz oxid cont emblem republ legend brasiliadf numer ordem convencion pel tribunal indic autor usu orga dezembr marc conselh nacional transit
+
+
+usuari president tribunal cont unia
+
+
+utiliz transport autor cumpriment ativ funcion protocol
+
+
+conduca motor oficial especial design par est fim
+
+
+ii grup b veicul natur especial
+
+
+caracterist automovel mov gasolin alcool cor criteri orga plac bronz oxid cont emblem republ legend brasiliadf numer ordem convencion pel tribunal indic autor usu orga dezembr marc conselh nacional transit
+
+
+usuari ministr titul substitut procuradorgeral subprocuradoresger ministeri public junt tcu
+
+
+utiliz transport autor cumpriment ativ funcion protocol
+
+
+conduca motor oficial especial design par est fim
+
+
+iii grup c veicul servic
+
+
+c transport servidor servic
+
+
+caracterist veicul pequen port mov gasolin diesel alcool cor criteri orga decret plac branc conselh nacional transit
+
+
+usuari servidor tcu desempenh ativ extern inter administr
+
+
+utiliz transport servidor desempenh ativ extern propr administr durant jorn trabalh mediant autoriz chef imediat indic express natur said horari part regress
+
+
+conduca motor oficial servidor design form port
+
+
+c transport material
+
+
+caracterist veicul tip utilitari mov gasolin diesel alcool cor criteri orga decret plac branc conselh nacional transit
+
+
+usuari servidor tcu desempenh ativ transport carg
+
+
+utiliz restrit transport carg par atend necess tribunal
+
+
+conduca motor oficial
+
+
+c transport medic
+
+
+caracterist veicul tip utilitari mov gasolin diesel alcool cor criteri orga decret plac branc conselh nacional transit disposit alarm sonor luz vermelh intermitent
+
+
+usuari servidor tcu desempenh ativ extern socorr medic
+
+
+utiliz desempenh ativ extern socorr medic criteri administr transport servidor dependent residente servic saud tcu unidad atend medic
+
+
+conduca motor oficial
+
+
+iv grup d veicul trasnport colet
+
+
+caracterist microonibus onibus mov diesel cor criteri orga decret plac branc conselh nacional transit
+
+
+usuari servidor tcu mun cata identific eou carat excepcional outr pesso autoriz express secretariogeral administr tcu
+
+
+utiliz transport servidor pont predetermin repartica vicevers inici termin expedient mediant apresent identific quand cas autoriz especial condutor veicul servidor servic transport divisa servic ger b transport servidor par desloc sed tcu vicevers loc ond realiz seminari curs outr event promov inter tribunal c mediant prev autoriz secretariageral administr moviment servidor par particip ativ inter administr
+
+
+conduca motor oficial
+
+
+capitul ii
+
+
+norm utiliz veicul ofici
+
+
+veicul ofici pertencent tribunal soment pod circul objet servic limit distrit federal
+
+
+pod ocorr desloc veicul classific alem limit distrit federal mediant anuenc president tribunal autoriz express secretariogeral administr send preced revisa geral necessari
+
+
+termin circul diar fins seman feri veicul ofici recolh garag tcu
+
+
+utiliz veicul ofici pel unidad integrant secret tribunal farse mediant requisica
+
+
+hipotes veicul represent fora circul motiv vistor consert revisa utiliz carrosreserv
+
+
+paragraf unic excepcional carrosreserv pod utiliz par desloc usuari grup b
+
+
+servic transport tribunal elabor escal transport par atend divers unidad aprov pel diretor divisa servic ger
+
+
+tod unidad trabalh utiliz viatur ofici par servic extern dev credenci junt seca transport servidor respect substitut par efetu requisica transport
+
+
+observ escal transport par atend refer requisica dirig pel servidor credenci servic transport divisa servic ger
+
+
+atend requisica efetu desacord escal transport preestabelec fic condicion existente veicul disponiv servic competent
+
+
+veicul pertencent tribunal fim circul diar fins seman feri recolh garag tcu
+
+
+automov represent autor recolh garag indic pel autor usu grup
+
+
+recolh veicul represent outr garag tcu farse responsabil autor determin
+
+
+capitul iii
+
+
+estacion dependencia edificiosed tcu
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+revog port btcu
+
+
+
+capitul iv
+
+
+atribuica servic transport
+
+
+servic prest pel servic transport tribunal par efeit utiliz part veicul ofici pertencent tcu compreend
+
+
+i manutenca conserv
+
+
+ii consert pequen port
+
+
+iii consert grand port
+
+
+iv vistor
+
+
+v revisa
+
+
+vi abastec
+
+
+servic manutenca conserv compreend
+
+
+i motor troc ole lavag pulveriz period preestabelec
+
+
+ii aliment troc filtr ar ole period preestabelec
+
+
+iii transmissa troc ole cambi diferencial lubrific cruzet period preestabelec
+
+
+iv rod troc rodizi pneus acord desg quilometrag percorr troc grax rolament period preestabelec
+
+
+v equip eletr limpez manutenca troc bat
+
+
+vi direca troc ole caix direca hidraul period preestabelec
+
+
+vii estof servic limpez
+
+
+vii lat chass lavag pulveriz
+
+
+ix embreag frei lubrific ped complement troc ole frei necessari
+
+
+consert pequen port compreend
+
+
+i motor regulag simpl
+
+
+ii aliment troc bomb gasolin regulag simpl carbur
+
+
+iii embreag regulag troc cab
+
+
+iv frei regulag simpl troc pastilh dianteir verific nivel ole cilindr
+
+
+v ignica troc platin condens bobin vel
+
+
+vi sistem eletr substituica lamp faro verific nivel agu bat
+
+
+consert grand port compreend tod dem servic especific paragraf anterior
+
+
+vistor compreend inspeca trimestral tod veicul pertencent tcu objetiv verific existente conserv equip obrigatori decret janeir
+
+
+revisa compreend exam geral veicul pertencent tcu conform especific fabricant
+
+
+servic abastec compreend fornec gasolin alcool diesel veicul pertencent tcu obedec cot consum mensal previ estabelec par divers grup term dest port
+
+
+capitul v
+
+
+segur veicul
+
+
+veicul pertencent tcu apresent perfeit condica circul objet contrat segur total dan materi
+
+
+contrat segur refer anterior cobertur contr dan materi resultant sinistr roub furt colisa incendi
+
+
+anual servic transport divisa servic ger organiz relaca veicul pertencent tcu inclu contrat segur
+
+
+contrat anual segur alud est capitul veicul incorpor patrimoni tribunal igual segur apolic complement
+
+
+capitul vi
+
+
+acident transit viatur ofici mult
+
+
+
+seca i
+
+
+
+
+responsabil condutor viatur
+
+
+
+servidor condutor veicul oficial respons pel prejuiz resultant negligente imperic imprudente omissa abus pratic exercici carg seguint lei
+
+
+condutor viatur oficial tcu pod abandonal estacional lug impropri salv motiv forc maior
+
+
+cab motor port permanent document habilit atualiz bem providenci junt servic transport par veicul responsabil estej sempr devid equip perfeit condica uso
+
+
+
+seca ii
+
+
+
+
+proced cas acident
+
+
+
+cas acident viatur tcu condutor veicul tom seguint providente
+
+
+i hav vitim prestarlh prioritari pront integral socorr removendo cas par unidad hospital mais proxim desd estad permit est oper sem recurs medic necessari xvi decret xvi lei
+
+
+ii arrol minim duas testemunh preferente envolv diret acident anot nom complet profissa ident enderec loc trabalh solicit permanente local cheg autor policial
+
+
+iii comunic ocorrente servic transport pel mei mais rap posterior escrit
+
+
+paragraf unic ocorr hipotes i segund part dest motor dev apresentars autor policial instal unidad hospital dandolh cienc ocorr
+
+
+divisa servic ger receb comunic previst iii anterior tom seguint providente
+
+
+i imediat
+
+
+solicit delegac policial circunscrica comparec polic milit par realiz peric obrigator hav vitim perit depart polic tecnic
+
+
+b comparec local par verific proporca acident coorden med necess
+
+
+c providenci remoca viatur sinistr via public liber pel autor policial competent
+
+
+d providenci reboqu veicul par garag oficin cas
+
+
+comunic secretariogeral administr tcu respeit ocorrente providente adot
+
+
+ii posterior
+
+
+solicit cop ocorrente laud pericial laud medic houv vitim respectiv delegac policial circunscrica depart polic tecnic autor medic competent
+
+
+b determin servic transport proced levant avali dan materi sofr pel viatur envolv acident apresent orcament vist consert
+
+
+c cas vitim prejuiz cobert segur responsabil civil promov med necess inclusiv notific empres segur
+
+
+d providenci assinatur pel motor term assunca responsabil quand laud pericial favor
+
+
+encaminh document pertinent secretariageral administr tribunal fim instaur obrigatori sindicanc
+
+
+divisa servic ger receb comunic houv acident viatur oficial tcu atrav servic transport design tecnic par realiz levant dad abaix apresent relatori ocorrente oportun feit secretariageral administr tcu
+
+
+i caracterist outr veicul envolv marcatip plac chass ana uso veicul
+
+
+ii dat hor local acident
+
+
+iii direca sent unidad trafeg
+
+
+iv veloc imediat acident
+
+
+v preferencial transit
+
+
+vi sinaliz existente sinal lumin plac gest sons marc barreir
+
+
+vii condica pist
+
+
+vii visibil
+
+
+ix numer apolic nom companh segur outr veicul envolv
+
+
+x nom dirig outr veicul enderec numer carteir habilit dat emissa venciment repartica expedidor
+
+
+xi especific avar verific veicul
+
+
+xii descrica ocorr acident
+
+
+xii qualqu outr dad poss influ aferica ocorr
+
+
+paragraf unic relatori refer dest utiliz par fins sindicanc inquerit abert pel secretariageral administr par apur caus acident defin culp
+
+
+condutor veicul servidor tcu eventual envolv acident transit dev evit alter discussa qualqu natur dem implic acident procur conduz acontec seren
+
+
+instaur process administrat form previst lei quand acident result dan fazend public terceir houv indici motor agiu dol culp
+
+
+poss tod document pertinent acident servic transport promov encaminh divisa servic ger acompanh relatori circunstanci opin sobr providente adot
+
+
+
+seca iii
+
+
+
+
+indeniz prejuiz
+
+
+
+laud pericial inquerit administrat conclu pel culpabil dol culp motor est respond integral pel dan avar quaisqu prejuiz resultant acident cobert pel segur indeniz fazend public terceir prejudic paragraf lei
+
+
+ato responsabiliz servidor dev const port indic fat result responsabil disposit legal fundament valor prejuiz providente tom eou penal disciplin impost
+
+
+indeniz fazend public nest compreend tamb entidad administr indiret fundaca institu pel pod public feit mediant descont folh pagament prestaca mens form previst lei
+
+
+cab descont folh pagament quand servidor abandon carg del dispens entrar goz licenc par trat inter particul solicit exoner salv pass exerc outr carg public federal
+
+
+laud pericial conclu pel culpabil terceir tom providente leg sent ressarc prejuiz caus
+
+
+tratandos dan caus terceir respond servidor perant tcu orga julgador competent aca regress
+
+
+paragraf unic indeniz fazend nacional dev pel servidor conden aca regress pod feit mediant descont folh pagament excedent quint part importanc venciment remuner form previst lei abril
+
+
+independent indeniz estiv obrig pod aplic motor respons pen disciplin variavel segund circunstanc carat falt
+
+
+
+seca iv
+
+
+
+
+mult infraca codig nacional transit
+
+
+
+condutor viatur tcu cab responsabil pel infraca pratic direca veicul decret janeir regul codig nacional transit lei setembr codig nacional transit
+
+
+tcu recolh repartica transit autuador valor mult impost condutor veicul quand mesm pag pel infrator moment autuaca
+
+
+paragraf unic ocorr hipotes previst primeir part dest ressarc tcu farse mediant descont folh pagament form dest port
+
+
+disposica ger
+
+
+motor tcu submet periodic curs curt duraca respeit protocol comport norm transit seguranc
+
+
+paragraf unic curs trat est organiz pel institu serzedell corre
+
+
+cas omiss resolv pel president tribunal cont unia
+
+
+aplicas est port secret control extern estad
+
+
+est port entr vigor dat public revog disposica contrari
+
+
+
+
+
+
+paul affons martins oliveir
+
+
+president exercici
+
+
+
+
+redaca anterior
+
+
+
+
+
+
+estacion dependencia edifici sed edifici anex tcu compreend vag demarc uso privat revog port btcu
+
+
+
+
+
+
+vag destin veicul pertencent grup identific numer plac veicul nom autor usu ved utiliz outr veicul revog port btcu
+
+
+
+
+
+
+reserv vag privat par estacion viatur frot tcu tant edifici sed quant edifici anex conform conveniente servic bem par ocup pel detentor funca comission niv fc fc revog port btcu
+
+
+
+
+
+
+vag excedent pod utiliz pel dem servidor pel servidor ocupant funca comission nivel fc obedecendos criteri antigu funca revog port btcu
+
+
+
+
+
+
+cas aind exist vag excedent pod ocup pel servidor ocupant funca comission nivel fc obedecendos criteri antigu funca revog port btcu
+
+
+
+
+
+
+divisa servic ger secret engenh servic ger atualiz trimestral relaca candidat vag trat paragraf anterior revog port btcu
+
+
+
+
+
+
+vag identific obedec ordem numer sequencial revog port btcu
+
+
+
+
+
+
+paragraf unic consider vag nat aquel destin secretariosger secretari titul outr funca comission diret subordin excelentiss senhor president tribunal ministr procuradorgeral subprocuradoresger observ dispost dest port revog port btcu
+
+
+
+
+
+
+reservarse vag par utiliz pesso doent dificuldad locomoca revog port btcu
+
+
+
+
+
+
+veicul particul propriedad servidor soment pod ocup vag horari expedient sendolh ved uso par pernoit salv autoriz express secretariogeral administr tcu revog port btcu
+
+
+
+
+
+
+criteri administr uso estacion dependencia edifici sed anex pod interdit carr particul servidor oportun realiz solen outr event tribunal revog port btcu
+
+
+
+
+
+
+acess veicul particul uso servidor especific permanente interior garag edifici sed tribunal farse identific dar aposica carta identific sobr painel viatur revog port btcu
+
+
+
+
+
+
+paragraf unic dispost dest aplic viatur propriedad tcu utiliz autor visit est cort cont revog port btcu
+
+
+
+
+
+
+cab divisa servic ger providenci distribuica vag emissa carta identific veicul particul habilit ingress garag edifici sed anex mant atualiz cadastr dad veicul revog port btcu
+
+
+
+
+
+
+paragraf unic hipotes servidor titul vag garag nome par outr funca comission conserv vag origin observ dispost revog port btcu
+
+
+
+
+
+
+servidor ocupant vag garag desacord prescrit paragraf bem vier destitu funca comission nel enumer tera devolv divisa servic ger carta identific correspondent vag garag ocup revog port btcu
+
+
+
+
+
+
+limit veloc permit interior garag kmh revog port btcu
+
+
+
+
+
+
+veicul pod estacion local demarc par dificult flux normal transit interior garag revog port btcu
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr ativ transport utiliz veicul ofici pertencent tribunal cont unia outr providente
+
+

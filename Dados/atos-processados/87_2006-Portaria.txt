@@ -1,0 +1,526 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet padroniz term anex dest port
+
+
+fic design tecnic control extern are control extern jos ronald carvalh vasconcel matricul par exerc funca lid projet trat est port
+
+
+paragraf unic cab lid projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic titul secretariageral administr autoriz proced sempr necessari substituica lid membr projet
+
+
+est port entr vigor dat public
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet padroniz design gestor
+
+anex unic
+
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projetoprojet padroniz
+
+pagin
+
+
+
+
+identific gestor projet
+
+nomematriculaemailramal
+
+jos ronald carvalh vasconcel
+
+
+
+josecvtcugovbr
+
+funcao gestororig fc
+
+gerent
+
+coorden
+
+xlid
+
+nom substitut eventualmatriculaemailramal
+
+manoel celestin oliveir
+
+
+
+manoelcotcugovbr
+
+local telefon
+
+sal anex ii
+
+
+
+
+identific projet
+
+nom projet
+
+padronizarperiod realizacaoun patrocin
+
+
+
+seged secof
+
+
+
+
+vincul estrateg
+
+plan estrateg tcu port tcu janeir
+
+
+
+macroprocess logist
+
+b
+
+objet estrateg aperfeico instrument control process intern
+
+c
+
+iniciat estrateg map racionaliz princip process trabalh tcuplan diretriz tcu bieni
+
+
+
+diretriz ampli contribuica tcu par aperfeico administr public
+
+b
+
+med map racionaliz princip process apoi especial relat gesta contrat patrimoni process compr indic sempr possivel risc control
+
+
+
+
+problemaoportun
+
+descrica problem oportun
+
+
+
+assegur sustentabil atend tempest desempenh execuca ativ secof inclusa padroniz process trabalh roteir ativ
+
+b
+
+identific sequencial document comprov realiz despes
+
+c
+
+uniformiz proced par comprov mensal despesasevoluca quadr apresent dad
+
+
+
+anterior analis processual dicon divisa contabil feit form manual ond cad servidor obti dad compuls aut par final proced acord nad const carimb assin ultim folh causav imprecisa analis alem restring responsabil analis propri servidor vist hav posterior verific pel chef imediat pel diretor aut segu diret par unidad fiscaliz contrat atual tems formulari instruca eletronic padroniz program coins control instruca bas access facilit substancial celer execuca servic nel cont tod dad par analis alem personaliz instruca identific chef imediat respect diretor compartilh responsabil analis tornando mais confiavel
+
+experiente obtid utiliz padroniz eletron rotin dicon reforc convicca necess criaca roteir padroniz dem unidad secof tais roteir par lancament dad siaf confecca relatori demonstrat part unidad estadu desinform caus constant erros qua muit demand complex correca titul ilustrat atual par analis comprov mensal despes secex servic contabil inform gerenciaissig faz med vint set diligente tod quas sempr repet identific comput geral process outr lad secex notad padec pessoal qualific repet mesm duv oper escritur contabil ativ sig conced secex trint dias praz par comprov despes aleg falt estrutur par justific atras
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projetoprojet padroniz
+
+pagin
+
+
+
+b
+
+acompanh atend solicit ped demand cheg cad subun secof constant necess cuj sucess depend principal memor pesso ocup chef moment falt instruca procediment clar dificuldad principal aparec morment quand desej sab situaca encontr desenrol atend qua aca empreend quant temp falt par finaliz dess atend ess tip inform depend disponibil pessoal cad servidor sempr consegu tempestiv sem atrapalh atend outr demand
+
+
+
+
+escop projet
+
+objet geral projet relaca oportun soluca problem
+
+map model public intranet flux process trabalh padroniz roteir ativ critic secof
+
+
+
+
+met indic produt client
+
+metaindicadorprodutoclienteobjetivo especificoquantodat termin
+
+
+
+identific map process trabalh critic secof
+
+
+
+
+
+process mape
+
+flux process mape
+
+secof
+
+b
+
+redesenh process trabalh critic secof
+
+
+
+
+
+process redesenh
+
+flux process redesenh
+
+secof
+
+c
+
+elabor proced operacional padra model document associ par ativ critic
+
+
+
+
+
+padroniz formaliz
+
+roteir execuca ativ critic model elabor
+
+secof
+
+d
+
+public intranet flux process mape proced operacion padra model document associ
+
+
+
+
+
+flux public
+
+flux proced operacion padra model document associ public intranet
+
+secof
+
+
+
+
+escop projet vai faz
+
+
+
+
+implant process trabalh redesenh
+
+b
+
+informatiz process trabalh
+
+c
+
+cri indic medica produca trabalh
+
+
+
+
+benefici esper
+
+
+
+
+
+elimin excess dispendi esforc execuca ativ encontr mei term entr sintet analit par elabor roteir autoexplicat
+
+b
+
+elimin sobrecarg concentr responsabil chef model atual alem ensin supervision servic aind acompanh control atend demand
+
+c
+
+aperfeico visa sistem flux process trabalh secof colabor par melhor espirit equip
+
+d
+
+otimiz satisf client intern
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projetoprojet padroniz
+
+pagin
+
+
+
+
+identific part envolv projet relaca
+nom part envolvidapatrocin client parceir fornecedor intern extern servic recurs human fisicosit negoci negoci part envolv
+
+
+
+seged
+
+patrocin projet apoi administrat par desenvolv projet
+
+b
+
+secof
+
+copatrocin projet assessor tecnic aloc pessoal recurs materi par projet
+
+c
+
+seplan
+
+assessor tecnic mapeament redesenh descrica process trabalh
+
+
+
+
+fator pod risc exit projet
+
+riscoimpactoprobabilidaded ocorrer evit ocorrente riscom mitig ocorrente riscor reduz impact risc ocorridoresponsavelpel aca
+
+
+
+falt cooper chef servidor cad subun
+
+alt
+
+baix
+
+conscientiz solicit cooper equip projet m
+
+identific foc resistente lev conhec superior ocorrente m
+
+secretari secof lid projet
+
+
+
+
+relaca outr projet
+
+projet predecessoresprojet conexosprojet sucessor
+
+
+
+moderniz
+
+
+
+
+
+
+cust adicion estim
+
+recursovalor estimadodat inicial liber recurs
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+total cust estim
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+outr recurs necessari
+
+recursofornecedor
+
+
+
+
+
+
+
+
+
+
+equip projet
+
+nomematriculalotacaoperiododedicacao integral parcial ativ
+
+jos ronald carvalh vasconcel
+
+
+
+secof
+
+
+
+integral
+
+manoel celestin oliveir
+
+
+
+secof
+
+
+
+parcial
+
+mar aparec arauj vitalin mach
+
+
+
+secof
+
+
+
+parcial
+
+felip guimara silv
+
+
+
+secof
+
+
+
+parcial
+
+fabrici narcis leal cost
+
+
+
+secof
+
+
+
+parcial
+
+ricard arauj malach
+
+
+
+seplan
+
+
+
+ativ
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projetoprojet padroniz
+
+pagin
+
+
+
+
+finaliz
+
+dataassinatur gestor projet
+
+
+
+jos ronald carvalh vasconcel
+
+lid projetomanifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+secof
+
+ary fern beira
+
+secretari orcament financ contabilidademanifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+seged
+
+maur moreir barbos
+
+secretariogeral administracaomanifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+tribunal cont unia anex i
+
+
+seged secret recurs human btcu brasil ana xxxix mai
+
+
+
+
+
+
+
+

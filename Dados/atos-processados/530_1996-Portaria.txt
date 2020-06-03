@@ -1,0 +1,796 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider teor decisa plenari resolv
+
+
+fic aprov conform model anex demonstrat nov sistemat par atualiz monet calcul jur mor incident sobr debit mult impost pel tribunal cont unia utiliz pel unidad secretariageral control extern
+
+
+compet secret informat seinf coorden distribuica nov program par microcomput desenvolv par emissa demonstrat trat anterior bem fornec manual oper refer unidad
+
+
+fic seinf autoriz fornec orga entidad administr public federal interess jurisdicion est tribunal cop program desenvolv aquel unidad
+
+
+est port entr vigor dat public
+
+
+revogams disposica contrari
+
+
+marc vinici vilac
+
+
+president
+
+
+
+
+
+
+revog
+aprov model demonstrat nov sistemat par atualiz monet calcul jur mor incident sobr debit mult impost pel tribunal outr providente
+
+anex
+
+
+
+
+
+
+demonstrat debit
+
+
+
+cc iii b lei cc lei
+
+
+
+
+
+respons eis model
+
+
+
+fundaca
+
+
+
+origemens debit
+
+
+
+period
+
+
+
+
+histor
+
+
+
+
+dat
+
+event
+
+dc moed
+
+valor
+
+valor
+
+atualiz
+
+deduca
+
+recolh
+
+total valor
+
+jur
+
+jur atualiz
+
+deduca recolh
+
+total jur
+
+
+
+d cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+debit cuj pagament ram conden acorda apur process tc
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr period utilizandos coeficient
+
+cr
+
+
+
+
+
+
+
+jur mor equivalent mescalendari fraca calcul sobr valor cr cont part
+
+cr
+
+
+
+
+
+
+
+result som debit cr principal atualiz mesm dat valor cr
+
+cr
+
+
+
+
+
+
+
+conversa principal par cruzeir nov dividindos valor cr
+
+decretol in dou
+
+ncr
+
+
+
+
+
+
+
+conversa jur par cruzeir nov dividindos valor ncr
+
+decretol in dou
+
+ncr
+
+
+
+
+
+
+
+conversa principal par cruzeir dividindos valor ncr
+
+bacen in dou part ii
+
+cr
+
+
+
+
+
+
+
+conversa jur par cruzeir dividindos valor ncr
+
+bacen in dou part ii
+
+cr
+
+
+
+
+
+
+
+conversa principal par cruz dividindos valor cr
+
+decret lei in dou
+
+cz
+
+
+
+
+
+
+
+conversa jur par cruz dividindos valor cz
+
+decret lei in dou
+
+cz
+
+
+
+
+
+
+
+atualiz monet valor cz period utilizandos coeficient
+
+cz
+
+
+
+
+
+
+
+atualiz monet valor cz referent jur anterior ressarc period utilizandos coeficient
+
+cz
+
+
+
+
+
+
+
+jur mor equivalent mescalendari fraca calcul sobr valor cz cont part
+
+cz
+
+
+
+
+
+
+
+totaliz jur mor valor cz jur anterior ressarc correca valor cz
+
+cz
+
+
+
+
+
+
+
+valor recolh deduz jur anterior corrig ressarc
+
+cz
+
+
+
+
+
+
+
+sald jur recolh jur deduca cz cz
+
+cz
+
+
+
+
+
+
+
+sald debit principal cz jur cz
+
+cz
+
+
+
+
+
+
+
+conversa principal par cruz nov dividindos valor cz lei in dou
+
+cz
+
+
+
+
+
+
+
+conversa jur par cruz nov dividindos valor cz lei in dou
+
+ncz
+
+
+
+
+
+
+
+atualiz monet valor ncz period utilizandos coeficient
+
+ncz
+
+
+
+
+
+
+
+atualiz monet valor ncz referent jur anterior ressarc period utilizandos coeficient
+
+ncz
+
+
+
+
+
+
+
+conversa principal par cruzeir dividindos valor ncz lei in dou
+
+cr
+
+
+
+
+
+
+
+conversa jur par cruzeir dividindos valor ncz lei in dou
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr period utiliz coeficient obtid divisa valor btn fiscal cr vigent pel valor btn fiscal ncz vigor
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr referent jur anterior ressarc period utilizandos coeficient obtid divisa valor btn fiscal cr vigent pel valor btn fiscal ncz vigor
+
+cr
+
+
+
+
+
+
+
+aplic coeficient correspondent trd acumul period sobr valor cr
+
+cr
+
+
+
+
+
+
+
+aplic coeficient correspondent trd acumul period sobr jur mor valor cr
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr period utilizandos coeficient obtid divisa ufir cr vigent pel valor ufir cr vigor
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr referent jur anterior ressarc period utilizandos coeficient obtid adivisa valor ufir cr vigent pel valor ufir cr vigor
+
+cr
+
+
+
+
+
+
+
+jur mor equivalent mescalendari fraca calcul sobr valor cr cont part
+
+cr
+
+
+
+
+
+
+
+totaliz jur mor valor cr jur anterior ressarc correca valor cr
+
+cr
+
+
+
+
+
+
+
+valor recolh deduz jur anterior corrig ressarc principal debit
+
+cr
+
+
+
+
+
+
+
+sald jur recolh jur deduca cr cr
+
+cr
+
+
+
+
+
+
+
+sald debit principal deduca cr cr
+
+cr
+
+
+
+
+
+
+
+conversa principal par cruzeir rea dividindos valor cr lei in dou
+
+cr
+
+
+
+
+
+
+
+atualiz monet valor cr period utilizandos coeficient obtid divisa ufir cr vigent pel valor ufir cr vigent
+
+cr
+
+
+
+
+
+
+
+jur d mor equivalent mescalendari fraca calcul sobr valor cr cont part
+
+cr
+
+
+
+
+
+
+
+result som debit cr principal atualiz mesm dat valor cr
+
+cr
+
+
+
+
+
+
+
+conversa principal par rea dividindos valor cr lei in dou
+
+r
+
+
+
+
+
+
+
+conversa jur par rea dividindos valor cr lei in dou
+
+r
+
+
+
+
+
+
+
+atualiz monet valor r period utilizandos coeficient obtid divisa ufir r vigent pel valor ufir cr vigor
+
+r
+
+
+
+
+
+
+
+atualiz monet valor r referent jur anterior ressarc period utilizandos coeficient obtid divisa valor ufir r vigent pel valor ufir cr vigor
+
+r
+
+
+
+
+
+
+
+jur mor equivalent mescalendari fraca calcul sobr valor r cont part
+
+r
+
+
+
+
+
+
+
+totaliz jur mor valor r r jur anterior ressarc correca valor r
+
+r
+
+
+
+
+
+
+
+conversa valor principal jur mor par quantidad ufirs dividindos r valor ufir
+
+
+
+
+
+
+
+
+
+
+principal atualiz r convert par ufir ufir
+
+
+b jur mor r convert par ufir ufir
+
+
+c total r convert par ufir ufir
+
+
+
+
+
+tcu
+
+
+
+
+
+
+
+afc matricul
+
+
+
+
+
+
+
+diretor
+
+
+
+
+vist
+
+
+
+
+
+
+secretari
+
+
+
+legislacaocoeficient utiliz
+
+
+
+tabel pratic aprov pel port in dou coorden sistem arrecadacaomf
+
+
+bonus tesour nacional btn fiscal paragraf unic lei in dou cc lei in dou
+
+
+tax referencial diar trd lei in dou redaca dad pel lei in dou
+
+
+unidad fiscal referente ufir lei in dou
+
+
+jur mor calcul term dl in dou lei in dou decisa tcu plenari ata in dou
+
+
+
+observ
+
+
+
+dat pagament dev adot seguint proced
+
+
+
+i calcul jur mor raza mescalendari fraca cont mes pagament sobr quantitat ufirs indic item principal atualiz
+
+
+ii som quantitat obtid item anterior total constant c item total
+
+
+iii convert par rea somatori item precedent multiplicando pel valor ufir vigent mes pagament
+
+
+
+
+
+
+
+
+

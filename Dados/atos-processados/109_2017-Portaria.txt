@@ -1,0 +1,589 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment vist dispost resolucaotcu junh
+
+
+consider polit seguranc institucional tribunal cont unia psitcu estabelec pel resolucaotcu junh
+
+
+consider importanc aprimor sistematiz polit pratic institucion seguranc fisic patrimonial qua contribu par assegur suport necessari plen exercici funca tribunal
+
+
+consider integr fisic autor servidor tribunal pod compromet raza exercici atribuica
+
+
+consider sistem gesta seguranc fisic patrimonial diretriz par polit corporat seguranc fisic patrimonial tcu previst resolucaotcu junh
+
+
+consider estud parec constant process tc resolv
+
+
+capitul i
+
+
+disposica prelimin
+
+
+polit corporat seguranc fisic patrimonial tribunal cont unia pcsftcu sistem gesta seguranc fisic patrimonial tribunal cont unia sgsftcu observ principi objet diretriz estabelec nest port bem disposica constitucion leg regiment vigent
+
+
+tod qualqu pesso tenh acess dependencia tcu est sujeit diretriz norm proced estabelec nest port respons garant coub seguranc corporat fisic patrimonial
+
+
+pcsftcu abarc aca preserv ordem public afet sistem seguranc public previst constituica republ federat brasil
+
+
+est port integr polit seguranc institucional psitcu form estabelec pel resolucaotcu junh
+
+
+par efeit dest port entendes
+
+
+i dignitari autor tcu outr orga public entidad organ internacion
+
+
+ii autor tcu ministr ministrosubstitut membr ministeri public junt tribunal
+
+
+iii colabor prestador servic terceiriz estagiari qualqu pesso vincul transitori tribunal tenh acess form autoriz dependencia tcu
+
+
+iv agent seguranc prestador servic terceiriz vincul subun administrat respons operacionaliz seguranc tcu
+
+
+v incident seguranc fisic patrimonial qualqu indici fraud sabotag desvi falh event indesej inesper tenh probabil compromet ameac incolum fisic pesso integr patrimonial dependencia tcu
+
+
+vi centr integr seguranc local sed tcu constitu infraestrutur tecnolog necess par monitor ininterrupt coorden aca combat incident seguranc fisic patrimonial
+
+
+vii sistem gesta seguranc fisic patrimonial sgsftcu part integrant sistem gesta seguranc institucional tribunal sgsintcu vis estabelec implement oper monitor analis critic mant melhor seguranc fisic patrimonial
+
+
+vii critic grau importanc determin ativ institucional par continu negoci tribunal
+
+
+ix seguranc fisic patrimonial conjunt med proced estrutur principi objetiv proteg incolum fisic pesso ativ instituica par garant eficac process negoci preserv imag tcu
+
+
+x credenci registr soluca tecnolog inform dad referent identific pesso autoriz ingress dependencia tcu entreg respect crach
+
+
+xi identific verific document identific pessoal fot concernent pesso interess ingress dependencia tcu
+
+
+xii emergente event subit requ aca imediat dev probabil compromet incolum fisic pesso interromp ativ critic par negoci caus risc patrimoni tribunal
+
+
+xii inspeca seguranc proced destin verific pesso carg volum outr objet conform norm seguranc tribunal
+
+
+xiv crach carta destin identific pessoal uso obrigatori dependencia tribunal
+
+
+xv unidad seguranc unidad administrat tribunal sedi brasil integrant estrutur secretariageral administr seged encarreg operacionaliz seguranc fisic patrimonial outr assunt correlat acportariatcu btcu administrat
+
+
+
+seguranc fisic patrimonial tcu alinhas estrateg organizacion principi seguranc institucional aind seguint principi
+
+
+i adequ med restrit utiliz dev apropri consecuca fins pretend
+
+
+ii necess med restrit utiliz dev men gravos dentr aquel sej adequ par ating determin fim
+
+
+iii proporcional desvantagens mei utiliz vantagens fins almej dev ponder adoca qualqu med restrit
+
+
+paragraf unic seguranc fisic patrimonial tcu abrang aspect human fisic tecnolog organiz
+
+
+
+
+
+capitul ii
+
+
+sistem gesta seguranc fisic patrimonial
+
+
+polit corporat seguranc fisic patrimonial pcsftcu integr sistem gesta seguranc fisic patrimonial tcu sgsftcu institu pel resolucaotcu compost pel seguint process
+
+
+i gesta perimetr seguranc fisic
+
+
+ii control acess pesso dependencia tcu
+
+
+iii control acess veicul garagens tcu
+
+
+iv control entrad said dependencia tcu bens materi permanent propriedad tribunal
+
+
+v gesta patrimoni responsabil tcu
+
+
+vi gesta risc seguranc fisic patrimonial
+
+
+vii gesta incident seguranc fisic patrimonial
+
+
+vii gesta emergente
+
+
+ix gesta seguranc autor tcu dem dignitari
+
+
+process sgsftcu interdependent dev estrutur monitor form permit melhor continu
+
+
+norm ger proced complement destin seguranc fisic patrimonial eman ambit tribunal integr tamb sgsftcu
+
+
+gesta patrimoni tcu trat v abrang gesta bens mov imov responsabil tcu
+
+
+recurs seguranc fisic patrimonial
+
+
+i alarm contr incendi inund eou liber particul gas nociv
+
+
+ii armas fog eletrochoqu
+
+
+iii detector met portat
+
+
+iv equip raiosx
+
+
+v sistem control acess pesso veicul
+
+
+vi portic detector met
+
+
+vii sistem monitor imag
+
+
+vii veicul rond
+
+
+ix agent seguranc
+
+
+x outr recurs autoriz pel president
+
+
+recurs seguranc fisic patrimonial dev atu sinerg fim estabelec model unific pod auxili investig quaisqu tip incident seguranc inclusiv relat seguranc inform
+
+
+implement recurs seguranc fisic patrimonial realiz bas gesta risc avali custobenefici soluca adot
+
+
+
+
+
+
+
+
+
+
+
+centr integr seguranc agreg instrument sgsftcu par monitor ininterrupt coorden aca combat incident seguranc fisic patrimonial
+
+
+sistem control acess pesso veicul implement mei barreir fisic catrac cancel
+
+
+sistem monitor imag compost circuit intern televisa cftv possibil gravaca imagens
+
+
+cftv cam instal mod permit monitor port acess are circul intern hor dia set dias seman
+
+
+pod instal cam monitor are extern edifici tcu estacion descobert perimetr terren
+
+
+sistem monitor trat destinas exclusiv preserv seguranc
+
+
+temp guard imagens captur pel cftv trint dias apag cas tenh sid requisit nrportariatcu btcu administrat
+
+
+
+instal equip registr imagens feit quand absolut necess preserv seguranc dev viol direit fundament pesso
+
+
+ved
+
+
+i monitor camufl utiliz cam fals
+
+
+ii captur gravaca audi intermedi cftv
+
+
+iii instal cam vide banheir vestiari loc reserv privac individual
+
+
+secretariageral administr pod autoriz carat excepcional instal cam vide ambient trabalh nrportariatcu btcu administrat
+
+
+
+obrigator fixaca avis inform existente monitor mei cam vide local
+
+
+inform dad control acess imagens sistem cftv classific quant confidencial observandos proced criteri defin normat disponh sobr classific inform quant confidencial ambit tribunal cont unia
+
+
+paragraf unic ved uso inform dad imagens control acess public term classific quant confidencial par fim divers seguranc salv
+
+
+i determin judicial legal
+
+
+ii autoriz president plenari tcu
+
+
+iii demand corregedor comissa sindicanc formal constitu desd haj process administrat instaur
+
+
+iv demand formul ambit process disciplin vist subsidi apur fat
+
+
+
+
+
+principi seguranc institucional norte definica instal edifici tcu aloc ilumin leiaut unidad bem elabor projet fisic escolh materi dem servic engenh arquitetur
+
+
+gesta patrimoni responsabil tcu especific normat especif orientas pel principi seguranc institucional
+
+
+qualqu pesso tenh conhec event poss ocasion emergente dev comunical imediat centr integr seguranc
+
+
+dignitari dev med especi volt proteca incolum fisic mediant realiz proced seguranc diferenci definica acess fisic especi quand ocorrente event institucion
+
+
+aplicas dispost par dignitari constitu autor tcu bem autor emerit tcu quand dependencia tribunal
+
+
+visit ofici autor tcu outr orga requ adoca proced especif seguranc
+
+
+aplic paragraf anterior dev observ integr requisit seguranc tcu outr orga inclusiv refer eventual rastreament previ pos event are envolv
+
+
+capitul iii
+
+
+acess pesso
+
+
+control acess pesso dependencia tcu independent control frequenc cons identific credenci registr entrad said inspeca seguranc verific uso crach form registr restring audit moviment pesso dependencia tcu
+
+
+ingress pesso dependencia tcu pod preced inspeca seguranc mei equip raiosx equip detector metal
+
+
+restrit ingress dependencia tribunal pesso port armas fog term defin normat especif president observandos legislacion regenc sobr port armas
+
+
+ved ingress dependencia tcu pesso port artefat explos outr tip armas indic normat especif president ressalv dispost paragraf anterior
+
+
+control acess refer dest englob garagens tribunal local ond dev hav entrad said pedestr
+
+
+acess pesso are instal tcu dev restrit conform avali risc seguranc institucional observ perimetr seguranc fisic previ defin
+
+
+acess refer alinhas iniciat seguranc fisic patrimonial volt inform consonanc polit corporat seguranc inform tribunal pcsitcu renumeradoportariatcu btcu administrat
+
+
+
+compet secretariageral administr autoriz instituica perimetr acess restrit propost pel unidad interess pel unidad seguranc acportariatcu btcu administrat
+
+
+
+capitul iv
+
+
+competente responsabil
+
+
+
+revogadoportariatcu btcu administrat
+
+
+
+compet unidad seguranc nrportariatcu btcu administrat
+
+
+
+i formul gerenci monitor sgsftcu propond adapt necess par garant melhor continu nrportariatcu btcu administrat
+
+
+
+ii coorden orient acompanh implement sgsftcu norm complement seguranc fisic patrimonial
+
+
+iii propor ajust sgsftcu aca necess implement tend subsidi monitor avali period pratic seguranc fisic patrimonial submetel quand coub presidente nrportariatcu btcu administrat
+
+
+
+iv apoi unidad tcu estad institut serzedell corre isc definica process trabalh proced operacion inerent seguranc fisic patrimonial
+
+
+v monitor avali periodic pratic seguranc fisic patrimonial adot pel tribunal
+
+
+vi ger instrument identific pesso lot sed tribunal
+
+
+vii ger sistem monitor imag tribunal
+
+
+vii coorden apoi isc dem unidad competent aca permanent divulg treinament educ conscientiz servidor dem colabor tribunal relaca conceit pratic seguranc fisic patrimonial
+
+
+ix coorden gesta tratament incident seguranc fisic patrimonial
+
+
+x assessor mat correlat ccg presidente tribunal nrportariatcu btcu administrat
+
+
+
+xi manifestars sobr mat atinent seguranc fisic patrimonial sej submet acportariatcu btcu administrat
+
+
+
+xii manifestars sobr propost instal cam vide par monitor loc trabalh acportariatcu btcu administrat
+
+
+
+xii propor elabor revisa norm proced inerent seguranc fisic patrimonial acportariatcu btcu administrat
+
+
+
+paragraf unic aplic competente indic nest observ coub competente inerent secret planej governanc gesta seplan quant seguranc inform dem unidad tang respect atribuica tangenci process seguranc fisic patrimonial
+
+
+responsabil dirigent unidad dem gestor tribunal refer seguranc fisic patrimonial
+
+
+i conscientiz servidor colabor supervisa relaca conceit pratic seguranc fisic patrimonial
+
+
+ii incorpor process trabalh unidad are pratic inerent seguranc fisic patrimonial
+
+
+iii tom med administrat necess par sej adot aca corret temp habil cas compromet seguranc fisic patrimonial
+
+
+
+
+
+
+
+
+capitul v
+
+
+disposica fin
+
+
+contrat conveni acord cooper instrument congen celebr pel tribunal dev observ coub disposica dest port
+
+
+dispost nest port aplicas coub institut serzedell corre secret tcu sedi estad nrportariatcu btcu administrat
+
+
+
+observanc disposit dest port sujeit infrator isol cumulativ sanca administrat civ pen term legislacion pertinent assegur envolv contraditori ampl defes
+
+
+pcsftcu revist praz maxim cinc anos cont public dest port mod atualizal frent nov requisit corporat
+
+
+seged fic autoriz decid sobr cas omiss exped orient norm procediment complement vist dar efeit dispost nest port acportariatcu btcu administrat
+
+
+
+est port entr vigor dat public
+
+
+raimund carreir
+
+
+
+
+
+
+
+redaca anterior
+
+
+
+forc portariatcu
+
+
+
+
+
+
+
+
+
+
+
+temp guard imagens captur pel cftv novent dias apag cas tenh sid requisit
+
+
+
+
+
+secretariogeral administr pod autoriz carat excepcional ouv comit seguranc institucional cosin instal cam vide ambient trabalh
+
+
+
+
+
+incumb comit seguranc institucional cosin refer seguranc fisic patrimonial
+
+
+i formul conduz diretriz par sgsftcu pcsftcu bem analis periodic efetiv
+
+
+ii propor ajust sgsftcu aca necess implement subsidi monitor avali period pratic seguranc fisic patrimonial submetel quand coub comissa coorden geral ccg
+
+
+iii propor elabor revisa norm proced inerent seguranc fisic patrimonial submetel quand coub ccg
+
+
+iv manifestars sobr propost alter revisa pcsftcu bem sobr minut normat iniciat natur estrateg necessit cooper entr unidad vers sobr seguranc fisic patrimonial
+
+
+v propor ccg definica grau critic ativ tribunal inter entr control acess logic fisic bas process gesta risc
+
+
+vi autoriz instituica perimetr acess restrit propost pel unidad interess pel secret seguranc servic apoi sesap
+
+
+vii manifestars sobr propost instal cam vide par monitor loc trabalh
+
+
+vii manifestars sobr mat atinent seguranc fisic patrimonial sej submet
+
+
+ix assessor mat correlat ccg presidente tribunal
+
+
+compet secret seguranc servic apoi sesap
+
+
+i gerenci monitor sgsftcu propond adapt necess par garant melhor continu
+
+
+
+
+
+iii apresent cosin maxim cad cinc anos propost revisa pcsftcu mod atualizal frent nov requisit corporat
+
+
+
+
+
+
+
+
+
+
+
+x assessor ccg parc cosin mat correlat
+
+
+
+
+
+dispost nest port aplicas coub institut serzedell corre secret control extern sedi estad
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr polit corporat seguranc fisic patrimonial pcsftcu sistem gesta seguranc fisic patrimonial tribunal cont unia sgsftcu
+forc portariatcu
+
+
+
+
+
+
+
+temp guard imagens captur pel cftv novent dias apag cas tenh sid requisit
+
+
+
+secretariogeral administr pod autoriz carat excepcional ouv comit seguranc institucional cosin instal cam vide ambient trabalh
+
+
+
+incumb comit seguranc institucional cosin refer seguranc fisic patrimonial
+
+i formul conduz diretriz par sgsftcu pcsftcu bem analis periodic efetiv
+
+ii propor ajust sgsftcu aca necess implement subsidi monitor avali period pratic seguranc fisic patrimonial submetel quand coub comissa coorden geral ccg
+
+iii propor elabor revisa norm proced inerent seguranc fisic patrimonial submetel quand coub ccg
+
+iv manifestars sobr propost alter revisa pcsftcu bem sobr minut normat iniciat natur estrateg necessit cooper entr unidad vers sobr seguranc fisic patrimonial
+
+v propor ccg definica grau critic ativ tribunal inter entr control acess logic fisic bas process gesta risc
+
+vi autoriz instituica perimetr acess restrit propost pel unidad interess pel secret seguranc servic apoi sesap
+
+vii manifestars sobr propost instal cam vide par monitor loc trabalh
+
+vii manifestars sobr mat atinent seguranc fisic patrimonial sej submet
+
+ix assessor mat correlat ccg presidente tribunal
+
+compet secret seguranc servic apoi sesap
+
+i gerenci monitor sgsftcu propond adapt necess par garant melhor continu
+
+
+
+iii apresent cosin maxim cad cinc anos propost revisa pcsftcu mod atualizal frent nov requisit corporat
+
+
+
+
+
+
+
+x assessor ccg parc cosin mat correlat
+
+
+
+dispost nest port aplicas coub institut serzedell corre secret control extern sedi estad
+

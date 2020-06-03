@@ -1,0 +1,229 @@
+
+
+
+
+tribunal cont unia uso atribuica constitucion leg regiment resolv
+
+
+assessor intercambi internacional pass denomin assessor relaca internacion arint
+
+
+assessor relaca internacion cont seguint estrutur
+
+
+i servic relaca bilater
+
+
+ii servic relaca multilater
+
+
+iii servic organiz internacion
+
+
+iv servic administr
+
+
+unidad trat anterior subordinams diret assessorchef assessor relaca internacion
+
+
+assessor dirig pel assessorchef cad servic pel respect chef
+
+
+fic cri unidad constant quadr i anex unic est
+
+
+fic transform funca comission constant quadr ii anex unic est sem aument despes
+
+
+est entr vigor dat public revog disposica contrari
+
+
+tcu sal sessa ministr lucian branda alves souz mai
+
+
+marc vinici vilac
+
+
+president
+
+
+
+revog
+dispo sobr organiz assessor intercambi internacional modif denomin par assessor relaca internacion
+
+anex
+
+
+
+
+unidad cri arint
+
+
+
+
+
+qde
+
+denomin
+
+nivel
+
+
+
+
+
+servic relaca bilater
+
+fc
+
+
+
+
+
+servic relaca multilater
+
+fc
+
+
+
+
+
+servic organiz internacion
+
+fc
+
+
+
+
+
+servic administr
+
+fc
+
+
+
+
+funca comision transform arint
+
+
+
+
+
+situaca anterior
+
+situaca atual
+
+
+
+qde
+
+denomin
+
+nivel
+
+valor
+
+qde
+
+denomin
+
+nivel
+
+valor
+
+
+
+
+
+oper comput
+
+fc
+
+
+
+
+
+chef servic relaca bilater
+
+fc
+
+
+
+
+
+
+
+oper comput
+
+fc
+
+
+
+
+
+chef servic relaca multilater
+
+fc
+
+
+
+
+
+
+
+
+
+chef servic organiz internacion
+
+fc
+
+
+
+
+
+
+
+chef servic administr
+
+fc
+
+
+
+
+
+
+
+agent port
+
+fc
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

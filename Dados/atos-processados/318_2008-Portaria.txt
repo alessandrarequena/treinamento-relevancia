@@ -1,0 +1,2082 @@
+port
+
+
+
+president tribunal cont unia uso atribuica confer xxxiv regiment internotcu
+
+
+consider necess racionaliz armazen bens almoxarif
+
+
+consider necess planej compr bens consum
+
+
+consider necess regulament flux ped material
+
+
+consider dispo portariatcu resolv
+
+
+planej compr armazen bens consum almoxarif distribuica dess materi sed tcu obedec regr constant dest port
+
+
+par efeit dest port consideras
+
+
+i material estoqu bem consum necessari ativ rotineir tod unidad tribunal dev mant almoxarif nivel ideal estoqu
+
+
+ii material demand especif bem consum necessari ativ rotineir determin unidad cuj plan consum incumb unidad especif tribunal pod mant almoxarif
+
+
+iii material demand eventual bem consum cuj demand inconstant imprevis dev mant almoxarif
+
+
+iv reserv tecnic material estoqu par atend eventu atras compr ped extrapol pequen quantidad demand previst
+
+
+v estoqu ideal interval adequ quantidad bem consum estoqu par atend demand previst receb materi proxim compr
+
+
+vi excess estoqu quantidad bem consum sup maxim interval estoqu ideal
+
+
+vii material inserv material atend demand tribunal
+
+
+vii unidad interess unidad tribunal demand materi estoqu demand aquisica outr bens consum
+
+
+ix plan consum material formulari eletron mei unidad interess inform almoxarif demand material previst par semestr seguint
+
+
+x ped material formulari eletron mei unidad interess demand material almoxarif
+
+
+xi ped excess ped material cuj quantidad ultrapass quantidad previst respect plan consum material
+
+
+xii item espec material
+
+
+xii grup material conjunt materi fornec empresari mesm ram negoci
+
+
+xiv compr extraordin compr realiz par atend demand previst plan consum material unidad interess
+
+
+
+planej compr
+
+
+
+
+
+materi estoqu
+
+
+
+
+dev mant almoxarif materi estoqu constant anex dest port
+
+
+unidad interess dev envi eletronic plan semestr consum material mei aplicat propri disponibiliz sit selip
+
+
+plan consum material par primeir semestr ana dev envi setembr ana anterior plan consum segund semestr ana dev envi marc ana curs
+
+
+plan consum materi estoqu consolid pel selip bas plan consum unidad histor consum reserv tecnic preestabelec par determin quantitat compr
+
+
+compr materi estoqu ocorr cad seis mes mediant proced licitatori adjudic grup material
+
+
+grup materi cuj valor ultrapass r adquir mediant cotaca eletron
+
+
+ped excess compromet atend plan consum outr unidad atend compr extraordin
+
+
+compr extraordin decorrent ped excess ultrapass limit previst portariatcu pod realiz mediant supriment fund
+
+
+
+
+materi demand especif
+
+
+
+
+consider materi demand especif seguint bens consum
+
+
+i bens necessari ativ rotineir sesap constant anex dest port
+
+
+ii bens necessari manutenca parqu informat tribunal constant anex dest port
+
+
+materi demand especif armazen almoxarif outr consider materi estoqu acord regr diretriz defin dest port
+
+
+plan semestr consum materi demand especif apresent mesm dat estabelec dest port bas histor anual consum inform pel selip alter rotin identific pel propr unidad
+
+
+compr materi demand especif realiz concomitant compr materi estoqu aplicandoselh coub regr anterior
+
+
+materi armazen almoxarif cuj valor ultrapass limit previst portariatcu pod adquir mediant supriment fund
+
+
+selip monitor niv estoqu inform sesap setec quand material ating quantidad inferior estoqu ideal
+
+
+ped selip anual sesap setec indic materi demand especif inserviv apresent excess estoqu dev alien total parcial
+
+
+
+
+materi demand eventual
+
+
+
+
+necess materi demand eventual identific cheg selip ped unidad interess envi eletronic mei aplicat propri disponibiliz sit selip
+
+
+materi demand eventual mant almoxarif
+
+
+aquisica materi demand eventual realiz mei proced compr autonom salv hipotes paragraf seguint
+
+
+quand trat material mesm grup material estoqu est process compr aquisica realiz mei proced licitatori andament
+
+
+aplicams compr materi demand eventual coub regr dest port
+
+
+
+
+especific materi estimat prec
+
+
+
+
+elabor term referente especific materi par process compr compet selip quand trat materi adquir pel tribunal
+
+
+elabor term referente especific materi jam adquir pel tribunal compet
+
+
+i selip apoi outr unidad quand trat nov materi estoqu materi demand especif
+
+
+ii sesap quand trat materi demand especif are
+
+
+iii setec quand trat materi demand especif are
+
+
+iv unidad interess dem cas
+
+
+paragraf unic unidad interess aquisica material armazen almoxarif dev oferec inform permit corret identific material demand envi exempl indic numer process adquir material pel ultim apresent especific tecnic suficient par process compr
+
+
+sempr possivel estimat prec materi obtid part extraca dad siasg mei consult eletron licit ultim mes par obtenca median dev exclusa valor discrepant outliers
+
+
+paragraf unic estimat prec base orcament apresent potenci fornecedor dev salv motiv justific obtid pel med minim tres cotaca prec par cad item desprez valor correspond exat especific materi valor discrepant conjunt dad
+
+
+
+
+estoqu materi
+
+
+
+
+estoc almoxarif materi toxic inflam explos
+
+
+compet selip defin estoqu ideal reserv tecnic cad item armazen almoxarif
+
+
+anual selip promov atualiz list materi demand eventual anex dest port acord seguint diretriz
+
+
+i seguranc pesso materi instal
+
+
+ii racionaliz variedad materi estoqu
+
+
+iii preferente par materi cicl vid men agress mei ambient
+
+
+iv preferente par materi oferec melhor relaca custobenefici
+
+
+v preterica materi frag exig condica especi armazen guard
+
+
+vi adequ estoqu ide histor consum alter rotin ocorr durant ana previst par ana seguint
+
+
+vii adequ reserv tecnic histor consum alter rotin ocorr durant ana previst par ana seguint
+
+
+materi demand especif estoc almoxarif anex dest port dev armazen deposit unidad interess acord norm seguranc aplic
+
+
+
+
+ped distribuica devoluca materi
+
+
+
+
+unidad interess dev envi eletronic ped material mei aplicat propri disponibiliz sit selip
+
+
+competent par solicit materi
+
+
+i chef gabinet
+
+
+ii chef servic administr sa
+
+
+iii chef unidad vincul diret presidente disponh servic administr
+
+
+iv gerent process gerenc pessoal patrimoni vincul seged
+
+
+sistem eletron dev cont regr uso atend dispost nest
+
+
+almoxarif sed tribunal vis precipu atend unidad sed
+
+
+paragraf unic secex estadu pod solicit almoxarif mensal materi constant anex dest port
+
+
+ped materi estoqu materi demand especif dev apresent mensal seguint dat
+
+
+i entr dias pel gabinet ministr auditor ministeri public pel unidad segepr excet isc pel seca pel secex estadu
+
+
+ii entr dias pel unidad segecex
+
+
+iii entr dias pel unidad seged
+
+
+iv entr dias pel isc
+
+
+ped materi apresent fora praz atend mes seguint
+
+
+cas urgenc pod apresent ped extemporane mei memor const justificat plausivel
+
+
+selip dev atend ped materi unidad sed praz cinc dias ute secex estadu praz dez dias ute
+
+
+paragraf unic entreg materi unidad interess realiz mediant recib servidor respons pel receb apor numer matricul
+
+
+unidad sed det bens consum atend previsa demand dev devolvel almoxarif
+
+
+
+
+disposica fin
+
+
+
+
+selip elabor seguint relatori
+
+
+i mensal receb supriment niv estoqu inform valor estoqu entrad said almoxarif destac materi encontr quantidad inferior respect niv ide estoqu compar result obtid met estabelec par period
+
+
+ii trimestral consolid inform ultim tres relatori mens inform sobr med gerenci maior destaqu period
+
+
+iii anual consolid inform quatr relatori trimestr fix met par ana seguint apresent oportun melhor par ativ gesta materi
+
+
+paragraf unic relatori mens trimestr anu elabor respectiv praz dias cont encerr period ref
+
+
+selip adot seguint indic mens desempenh par ativ gesta materi
+
+
+i percentual ped materi atend praz integral durant mes
+
+
+ii numer entreg fornecedor rejeit parcial total mes unidad
+
+
+iii numer itens ating patam inferior nivel estoqu ideal durant mes unidad
+
+
+part integrant dest port seguint anex
+
+
+i anex materi almoxarif
+
+
+ii anex materi demand pel sesap
+
+
+iii anex materi demand pel setec
+
+
+iv anex materi fornec par secex estadu
+
+
+
+
+disposica transitor
+
+
+
+
+enquant disponibiliz formulari eletron par planej consum ped material aca execut mei preenchiment formulari comuns disponibiliz portal tcu
+
+
+enquant defin format padra impress par autor acord nov padra estabelec pel comit ident visual materi armazen almoxarif disponibiliz pel selip unidad interess
+
+
+fic revog portariatcu julh
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr armazen materi almoxarif planej compr flux ped materi consum sed tcu
+
+anex portariatcu dezembr
+
+
+
+materi almoxarif anex materiais consum individual
+
+codig
+
+material
+
+unidad
+
+
+
+bloc par rec postit ref tamanh mmxmm c fls
+
+un
+
+
+
+bloc par rec postit ref med xmm c fls
+
+un
+
+
+
+bloc par rec postit ref med xmm c fls
+
+un
+
+
+
+borrach par canet
+
+un
+
+
+
+borrach par lap
+
+un
+
+
+
+canet esferograf azul
+
+un
+
+
+
+canet esferograf pret
+
+un
+
+
+
+canet esferograf vermelh
+
+un
+
+
+
+canet marc text amarel
+
+un
+
+
+
+canet marc text verd
+
+un
+
+
+
+clips niquel par pap emb unidad
+
+cx
+
+
+
+clips niquel par pap format x
+
+cx
+
+
+
+clips niquel par pap emb unidad
+
+cx
+
+
+
+clips niquel par pap emb unidad
+
+cx
+
+
+
+lap pret
+
+dz
+
+
+
+liqu corretor escrit
+
+fr
+
+
+
+port clips ima
+
+un
+
+
+
+subtotal
+
+bens dur individu
+
+codig
+
+material
+
+unidad
+
+
+
+almof par carimb tint vermelh
+
+un
+
+
+
+almof par carimb tint azul
+
+un
+
+
+
+almof par carimb tint pret
+
+un
+
+
+
+apont lap manual
+
+un
+
+
+
+bandej par expedient acril
+
+un
+
+
+
+extrator gramp tip espatul
+
+un
+
+
+
+port carimb lug
+
+un
+
+
+
+regu plastic transparent med cm
+
+un
+
+
+
+tesour aca inox
+
+un
+
+
+
+umedecedor ded pastos
+
+un
+
+
+
+subtotal
+
+
+
+materi uso colet
+
+codig
+
+material
+
+unidad
+
+
+
+grampeador tam medi
+
+un
+
+
+
+grampeador tam grand
+
+un
+
+
+
+gramp par encadern med cm emb unidad
+
+cx
+
+
+
+gramp par grampeador emb
+
+cx
+
+
+
+gramp par grampeador rapid eton med mm
+
+cx
+
+
+
+bas plastic par fit ades med xmm
+
+un
+
+
+
+perfur par papel
+
+un
+
+
+
+papel par cop fotostat med x mm
+
+rm
+
+
+
+papel recicl
+
+rm
+
+
+
+subtotal
+
+
+
+
+
+
+
+
+materi par servic administr
+
+codig
+
+material
+
+unidad
+
+
+
+alfinet par map cabec color c unidad
+
+cx
+
+
+
+barbant algoda fios rol gr
+
+nv
+
+
+
+bobin papel par facsimil med mm x m
+
+un
+
+
+
+col branc tub gr
+
+fr
+
+
+
+elast
+
+cx
+
+
+
+elast
+
+cx
+
+
+
+estilet
+
+un
+
+
+
+fit ades magic med mm x m
+
+rl
+
+
+
+fit ades med mm x m
+
+rl
+
+
+
+fit crep med mm x m
+
+rl
+
+
+
+fit crep med mm x m
+
+rl
+
+
+
+fit par empacot med mm x m
+
+rl
+
+
+
+livr protocol correspondente folh med x mm
+
+un
+
+
+
+papel par embrulh kraft cor pard
+
+un
+
+
+
+subtotal
+
+
+
+materi par apresent
+
+codig
+
+material
+
+unidad
+
+
+
+apag par quadr branc
+
+un
+
+
+
+bloc seri par flipchart papel acetin
+
+un
+
+
+
+canet par quadr branc cor azul
+
+un
+
+
+
+canet par quadr branc cor pret
+
+un
+
+
+
+canet par quadr branc cor verd
+
+un
+
+
+
+canet par quadr branc cor vermelh
+
+un
+
+
+
+pincel atom cor azul
+
+un
+
+
+
+pincel atom cor pret
+
+un
+
+
+
+pincel atom cor verd
+
+un
+
+
+
+pincel atom cor vermelh
+
+un
+
+
+
+subtotal
+
+
+
+materi par arquiv document
+
+codig
+
+material
+
+unidad
+
+
+
+caix arquiv papela med x x mm
+
+un
+
+
+
+caix plastic par period med xxmm
+
+un
+
+
+
+envoltori plastic med x mm
+
+
+
+
+
+past catalog plastic visor extern
+
+un
+
+
+
+past cartolin gramp
+
+un
+
+
+
+past cartolin plastific elast pont
+
+un
+
+
+
+past plastic tip l
+
+un
+
+
+
+past port dossi
+
+un
+
+
+
+past suspens hast med x mm
+
+un
+
+
+
+past suspens p arquiv lateral med xmm
+
+un
+
+
+
+past tub lomb estreit
+
+un
+
+
+
+past tub lomb larg
+
+un
+
+
+
+registr az lomb estreit tam ofici
+
+un
+
+
+
+registr az lomb larg tam ofici
+
+un
+
+
+
+separ sem indic med x mm
+
+jg
+
+
+
+subtotal
+
+
+
+
+
+
+
+
+materi par constituica process
+
+codig
+
+material
+
+unidad
+
+
+
+cap par autuaca process cor amarel
+
+ct
+
+
+
+cap par autuaca process cor azul
+
+ct
+
+
+
+cap par autuaca process cor branc
+
+ct
+
+
+
+cap par autuaca process cor ros
+
+ct
+
+
+
+cap par autuaca process cor verd
+
+ct
+
+
+
+cap par autuaca process cor vermelh
+
+ct
+
+
+
+cint elast par process med mm circunferente
+
+un
+
+
+
+cint elast par process med mm circunferente
+
+un
+
+
+
+etiquet aut ades par impressor las cap process tamanh
+
+un
+
+
+
+etiquet aut ades urgent emb unidad
+
+cx
+
+
+
+subtotal
+
+
+
+envelop
+
+codig
+
+material
+
+unidad
+
+
+
+envelop branc med x mm timbr cep mod ofici
+
+
+
+
+
+envelop branc med x mm timbr cep mod ofici
+
+ct
+
+
+
+envelop branc med x mm timbr ofici
+
+ct
+
+
+
+envelop branc med x mm timbr mod ofici
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sem sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med xmm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+subtotal
+
+
+
+
+
+
+
+
+cartuch par impressor
+
+codig
+
+material
+
+unidad
+
+
+
+cartuch tint p impressor hp officejet color
+
+un
+
+
+
+cartuch tint p impressor hp officejet pret
+
+un
+
+
+
+cartuch tint p impressor hp officejet k cian
+
+un
+
+
+
+cartuch tint p impressor hp officejet pro k amarel
+
+un
+
+
+
+cartuch tint p impressor hp officejet pro k magent
+
+un
+
+
+
+cartuch tint p impressor hp officejet pro k pret
+
+un
+
+
+
+cartuch tint p impressor hp psc multifuncional color c
+
+un
+
+
+
+cartuch tint p impressor hp psc multifuncional pret c
+
+un
+
+
+
+cartuch tint p impressor hp model deskjet c color
+
+un
+
+
+
+cartuch tint p impressor hp model deskjet c cor pret
+
+un
+
+
+
+cartuch tint p impressor multifuncional hp model psc color
+
+un
+
+
+
+cartuch tint p impressor multifuncional hp model psc pret
+
+un
+
+
+
+cartuch ton combin p xerox model s ref r
+
+un
+
+
+
+cartuch ton combin p xerox model s ref r
+
+un
+
+
+
+cartuch ton par impressor color xerox phas amarel
+
+un
+
+
+
+cartuch ton par impressor color xerox phas cyan
+
+un
+
+
+
+cartuch ton par impressor color xerox phas magent
+
+un
+
+
+
+cartuch ton par impressor color xerox phas pret
+
+un
+
+
+
+cartuch ton par impressor las lexmark optr t
+
+un
+
+
+
+cartuch ton par impressor las lexmark optr t
+
+un
+
+
+
+cartuch ton par impressor lexmark t
+
+un
+
+
+
+cartuch ton par impressor multifuncional hp laserjet ref qx
+
+un
+
+
+
+cartuch ton par impressor samsung ml
+
+un
+
+
+
+cartuch ton par impressor xerox phas
+
+un
+
+
+
+subtotal
+
+
+
+outr materi expedient
+
+codig
+
+material
+
+unidad
+
+
+
+cop plastic par agu ml
+
+ct
+
+
+
+papel contact transparent
+
+mt
+
+
+
+pranchet duratex
+
+un
+
+
+
+prop branc
+
+pr
+
+
+
+etiquet aut ades par impressor las med x mm caix un
+
+cx
+
+
+
+etiquet aut ades par impressor las med x mm c unidad
+
+cx
+
+
+
+subtotal
+
+
+
+materi informat uso geral
+
+codig
+
+material
+
+unidad
+
+
+
+pen driv interfac usb
+
+un
+
+
+
+cd gravavel cdr virg
+
+un
+
+
+
+mid dvdr
+
+un
+
+
+
+mid dvdrw
+
+un
+
+
+
+etiquet aut ades par uso cd
+
+cx
+
+
+
+min mous cor pret tres bota send rolag
+
+un
+
+
+
+protetor par mous ergonom apoi gel
+
+un
+
+
+
+subtotal
+
+
+
+equip eletr
+
+codig
+
+material
+
+unidad
+
+
+
+filtr linh c tom
+
+un
+
+
+
+subtotal
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+materi demand pel sesap anex
+
+aliment
+
+codig
+
+material
+
+unidad
+
+
+
+acuc refin pacot kg
+
+kg
+
+
+
+adocant dietet aspartam frasc ml
+
+fr
+
+
+
+agu mineral gas emb plastic unidad ml
+
+cx
+
+
+
+agu mineral cond garrafa litr
+
+gf
+
+
+
+agu mineral emb unidad ml
+
+un
+
+
+
+caf moid pacot g
+
+kg
+
+
+
+subtotal
+
+
+
+aparelh par serv
+
+codig
+
+material
+
+unidad
+
+
+
+bandej aca inox
+
+un
+
+
+
+colh aca inox par caf
+
+dz
+
+
+
+colh aca inox par cha
+
+dz
+
+
+
+acucareir aca inox
+
+un
+
+
+
+descanc cop aca inox conjunt unidad
+
+cj
+
+
+
+garraf termic revest aca inox bas plastic cap l
+
+un
+
+
+
+xic par caf porcelan fris dour
+
+dz
+
+
+
+xic par cha porcelan fris dour
+
+dz
+
+
+
+prat par sobremes
+
+un
+
+
+
+rol papel alumini
+
+rl
+
+
+
+rol papel film pvc
+
+rl
+
+
+
+guardanap papel med x cm
+
+pt
+
+
+
+cop plastic par agu ml tip cristal
+
+ct
+
+
+
+subtotal
+
+
+
+materi par filtr agu
+
+codig
+
+material
+
+unidad
+
+
+
+element filtrant par filtr pared c carva ativ prat coloidal
+
+un
+
+
+
+element filtrant par filtr pared mod hffccarvao ativ
+
+un
+
+
+
+refil par purific agu ibbl model fr blist
+
+un
+
+
+
+subtotal
+
+
+
+materi par limpez cop
+
+codig
+
+material
+
+unidad
+
+
+
+limpador multius frasc ml
+
+un
+
+
+
+agu sanit emb litr
+
+ga
+
+
+
+past saponace par limpez pes ros emb gr
+
+un
+
+
+
+saba po biodegrad emb kg
+
+cx
+
+
+
+flanel par limpez
+
+un
+
+
+
+sac pan
+
+un
+
+
+
+subtotal
+
+
+
+materi par lav louc
+
+codig
+
+material
+
+unidad
+
+
+
+detergent liqu neutr emb ml
+
+fr
+
+
+
+pan prat algoda med x cm
+
+un
+
+
+
+esponj par limpez buch dupl fac tam xxmm
+
+un
+
+
+
+subtotal
+
+
+
+etiquet par visitant
+
+codig
+
+material
+
+unidad
+
+
+
+etiquet aut ades par visitant med x mm cor amarel
+
+mh
+
+
+
+etiquet aut ades par visitant med xmm cor azul
+
+mh
+
+
+
+etiquet aut ades par visitant med xmm cor branc
+
+mh
+
+
+
+etiquet aut ades par visitant med xmm cor verd
+
+mh
+
+
+
+etiquet aut ades par visitant med xmm cor vermelh
+
+mh
+
+
+
+subtotal
+
+
+
+
+
+
+
+
+material uso exclus sefan sesp
+
+codig
+
+material
+
+unidad
+
+
+
+bobin papel sulfit med xmm
+
+un
+
+
+
+subtotal
+
+
+
+materi expedica protocol
+
+codig
+
+material
+
+unidad
+
+
+
+etiquet par impressor rabbit
+
+mh
+
+
+
+formulari gui expedica malot med x mm bloc jog vias
+
+un
+
+
+
+lacr seguranc par malot
+
+ct
+
+
+
+ribbon resin pret par impressa transferente termic impressor rabitt
+
+un
+
+
+
+subtotal
+
+
+
+outr materi sesap
+
+codig
+
+material
+
+unidad
+
+
+
+cop plastic par caf ml
+
+cx
+
+
+
+pazinh plastic par caf emb unidad
+
+cx
+
+
+
+papel toalh med x
+
+pc
+
+
+
+toalh rost lis
+
+un
+
+
+
+saba barr gr
+
+un
+
+
+
+papel carbon cor pret med x mm
+
+cx
+
+
+
+esponj aca c embalagens unidad
+
+pt
+
+
+
+subtotal
+
+
+
+
+
+total
+
+
+
+
+
+
+
+materi demand pel setec anex
+
+cd dvd pen driv
+
+codig
+
+material
+
+unidad
+
+
+
+envelop papel g g polietilen mant plasticobolh
+
+un
+
+
+
+subtotal
+
+
+
+component impressor
+
+codig
+
+material
+
+unidad
+
+
+
+kit manutenca p impressor las lexmark t
+
+un
+
+
+
+kit manutenca p impressor las lexmark t
+
+un
+
+
+
+subtotal
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+materi fornec par secex estadu anex
+
+materi par constituica process
+
+codig
+
+material
+
+unidad
+
+
+
+cap par autuaca process cor amarel
+
+ct
+
+
+
+cap par autuaca process cor azul
+
+ct
+
+
+
+cap par autuaca process cor branc
+
+ct
+
+
+
+cap par autuaca process cor ros
+
+ct
+
+
+
+cap par autuaca process cor verd
+
+ct
+
+
+
+cap par autuaca process cor vermelh
+
+ct
+
+
+
+cint elast par process med mm circunferente
+
+un
+
+
+
+cint elast par process med mm circunferente
+
+un
+
+
+
+etiquet aut ades par impressor las cap process tamanh
+
+un
+
+
+
+subtotal
+
+
+
+envelop
+
+codig
+
+material
+
+unidad
+
+
+
+envelop branc med x mm timbr cep mod ofici
+
+
+
+
+
+envelop branc med x mm timbr cep mod ofici
+
+ct
+
+
+
+envelop branc med x mm timbr ofici
+
+ct
+
+
+
+envelop branc med x mm timbr mod ofici
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sem sanfon timbr
+
+ct
+
+
+
+envelop papel kraft med x mm sanfon timbr
+
+
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med xmm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+envelop polietilen lin med x mm aba lacravel ades
+
+un
+
+
+
+subtotal
+
+
+
+outr materi expedient
+
+codig
+
+material
+
+unidad
+
+
+
+formulari gui expedica malot med x mm bloc jog vias
+
+un
+
+
+
+lacr seguranc par malot
+
+ct
+
+
+
+subtotal
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

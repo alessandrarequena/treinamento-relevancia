@@ -1,0 +1,953 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu dezembr resolv
+
+
+fic aprov realiz projet econt objet elabor sistemat par colet cont eletron term anex dest port
+
+
+fic design anal control extern gilbert gom silv junior matricul par exerc funca confianc coorden projet codig fc constant anex x aloc funca gestor projet
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+anex portariatcu setembr
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+
+identific gestor projet
+
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+gilbert gom silv junior
+
+
+
+gilbertosjtcugovbr
+
+
+
+funca gestor
+
+orig fc
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+funca gesta projet
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+mar anton ferraz zelenovsky
+
+
+
+zelenovskymatcugovbr
+
+
+
+local telefon
+
+disisc adcon
+
+
+
+identific projet
+
+
+
+nom projet
+
+econt
+
+period realiz
+
+unidad patrocin
+
+
+
+adcon segecex
+
+
+
+vincul estrateg
+
+
+
+plan estrateg tcu
+
+
+
+objet aperfeico instrument control process trabalh
+
+indic esforc medi trabalh apreci process
+
+
+
+b objet ampli uso tecnolog inform aca control
+
+indic indic utiliz ferrament aca control
+
+
+
+c objet otimiz utiliz conhec organizacional
+
+iniciat estrateg estrutur integr pratic gesta conhec
+
+indic indic satisf servidor pratic gesta conhec
+
+
+
+d iniciat estrutur integr pratic gesta conhec
+
+plan diretriz tcu
+
+
+
+iniciat estrateg promov intercambi inform conhec metodologias trabalh realiz trabalh conjunt orga public entidad subsidi exercici control
+
+aca estabelec sistemat protocol relacion intercambi outr orga entidad administr public
+
+
+
+b iniciat estrateg utiliz form sistemat inform constant bas dad orga entidad public
+
+aca defin inform respect font dad inter par aca control extern junt orga entidad public
+
+aca propor registr inform ute par aca control aind disponiv sistem corporat unidad jurisdicion
+
+
+
+c iniciat estrateg map racionaliz princip process trabalh tcu
+
+aca rev model atual process cont observ form obtenca apresent dad examin cont proced moment analis instruca julgament praz periodic par apresent
+
+
+
+d iniciat estrateg dissemin intensific uso ambit tcu
+
+aca aperfeico melhor integr interfac padroniz usabil sistem corporat par melhor atend necess usuari
+
+aca aperfeico criteri norm aliment dad sistem corporat
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+plan diretor unidad
+
+
+
+
+
+
+
+
+
+
+problem oportun
+
+
+
+descrica problem oportun
+
+
+
+present projet constitu fas preparator par implant sistemat colet eletron cont anu adm public
+
+entr problem atual sistemat colet eletron cont simplific siscont destacams customiz par atend comand milit result inadequ par uso outr ministeri demasi esforc recurs human necessari par readapt sistem par dem orgaosent administr public inviabil manutenca sistem pel setec elabor configur propriet pel empres desenvolvedor sistem arquitetur defas relaca utiliz tcu lev raza custobenefici negat par adequ especific sistem par atend normatiz in sem flexibiliz inclusiv par consolid agreg cont previst atual in alem abrang divers conceitu introduz aquel instruca normat exempl conceit risc material relevanc inter outr sistem intern tcu ie processus sinerg rad sisdoc sag sisjur clientel audicon raza sid conceb par colet cont par tratal fat sistem constituirs basic anex arquiv
+
+segund relatori encerr projet implant sistemat colet eletron cont siscont uso atual sistem troux seguint ganh
+
+colet cerc cont eletron comand milit exercici
+
+b reduca tramit pap entr unidad jurisdicion control intern tribunal
+
+c agiliz proced composica cont
+
+d adoca proced padroniz confecca cont
+
+abolica analis prelimin agor feit pel sistem
+
+f inici definica sistem instruca eletron
+
+g melhor imag tribunal perant clientel
+
+h disponibiliz mei eletron dad oriund stn
+
+alem dess result colet eletron permit utiliz instruca julgament eletron agiliz apreci cont apur praz medi decorr entr primeir instruca merit apreci process eletron revel ess period dias
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+colet eletron cont institu pel decisa plenari pel decisa normat regulament in par viabiliz colet eletron formaliz contrat tcuct assin par projet implement implant colet eletron tom prestaca cont cust r trabalh ctis desenvolv bas in enta vigent
+
+dezembr determin secretari adcon formous grup trabalh fim proced valid siscont basic consist verific condica sistem desenvolv pel ctis colet cont anu mei eletron relatori valid grup conclu sistem estav condica disponibiliz par test usuari extern virtud necess especific var lacun diferent process tom prestaca cont funca diss form grup trabalh divid assunt especif sistem tais grup test apont problem inviabiliz sistem ctis adapt sistem falh apont pel grup trabalh send sistem homolog fas test intern outubr part dai problem ordem operacional ocorr imped test extern foss realiz novembr dezembr test necessari par homolog final siscont
+
+ness interim constitu projet mold normat intern aprov pel port tcu objet implant sistemat colet eletron cont bem desenvolv implement estrateg permit utiliz form eficaz period duraca projet benefici par tcu segund relatori situaca agost eram busc padra par composica process tom prest cont mediant definica estrutur dad especif par cad pec b agiliz proced composica tom prestaca cont mediant elimin etap impressa demonstrat base sistem siaf entr outr c agiliz colet tratament cont ambit tribunal d reduca maxim tramit pap entr unidad jurisdicion control intern tribunal vis minor cust composica cont cobertur tod unidad jurisdicion colet tom prestaca cont form integr confiavel agil f automatiz proced encaminh cont traduz viabiliz recepca automat tom prestaca cont encaminh eletronic tribunal cont unia transferente dess inform par banc dad corporat tcu analis tramit tod tom prest cont
+
+projet selecion quarent unidad par particip test pilot siscont test detect vari problem tant relaca sistem problem especific quant instabil ambient computacional
+
+bas experiente test pilot dev limit sistem equip adcon decid prudent restring colet cont exercici conjunt unidad milit motiv vari entr grau padroniz dest cont fat tod restrit secret secex tamb fat milit prest grand colabor durant test pilot bas relatori envi pel control intern tres comand milit relatori final test pilot equip projet defin junt setec conjunt alter feit sistem par utiliz produca inici par atend especific milit necessari consult tres comand forc milit par defin rotin implement sistem houv grand numer alter objetiv adapt sistem realidad milit
+
+observas ess altur in fora revog pel in alter consider par sistem previsa consolid agreg cont introduca conceit risc material relevanc alem introduca flexibil inform prest anual introduca decisa normat anu
+
+dev grand numer alter par adapt sistem setec defin disponibiliz pouc component implement dat par entreg funcional relat unidad jurisdicion deves ressalt durant est period equip projet surpreend transform pel stn gestoesfund unidad gestorasfund acarret necess realiz alter estrutur sistem tev consequente atras ocorr nest etap
+
+cad tres comand milit envi relatori impressa respeit sistem bas nest relatori propr impressa registr durant utiliz sistem equip projet defin conjunt alter par proxim versa sistem est conjunt submet setec par definica dev implement par colet falt recurs human tant adcon quant setec inici trabalh definica versa previst par colet cont inici est versa opinia equip dev outr sistem vist versa atual desenvolv bas antig in nov dn anual pod alter conteud pec component cont pass sistem atual est flexibil
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+
+escop projet
+
+
+
+objet geral projet relaca oportun soluca problem
+
+elabor sistemat par colet cont eletron
+
+
+
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+levant dad inform necess par process cont conform in dn anu inclusiv dadosinform atual const process anu
+
+
+
+
+
+
+
+
+
+tcu
+
+relatori levant dad inform necess par process cont aceit
+
+relatori levant dad inform necess par process cont elabor
+
+
+
+adcon
+
+b
+
+levant font dadosinform par subsidi analis process cont divers sistem informatiz intern extern adm federaltcu
+
+
+
+
+
+
+
+relatori levant font dad par process cont aceit
+
+relatori levant font dad par process cont elabor
+
+adcon
+
+c
+
+propor melhor form obtenca dadosinform par subsidi composica organiz process cont tcutcu defin regr acess
+
+
+
+
+
+
+
+relatori cont analis propost form colet dad par process cont aceit
+
+relatori cont analis propost form colet dad par process cont elabor
+
+adcon
+
+segecex
+
+d
+
+defin premiss basic par sistem colet cont desenvolv
+
+
+
+
+
+relatori cont premiss basic nov sistem aceit
+
+relatori cont premiss basic nov sistem elabor
+
+adcon
+
+segecex
+
+
+
+
+benefici impact esper produt projet
+
+
+
+
+
+sistematiz inform necess process cont uj tcu
+
+b
+
+mapeament divers font dad necess exam process cont
+
+c
+
+identific form obtenca dad independent aca part gestor pesso orga entidad extern tcu
+
+d
+
+propost alter necessari form conteud dadosinform colet eletronic subsidiari exam cont anu
+
+
+
+definicaoestabelec prerequisit necessari par elabor sistem colet eletron cont
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+escop projet vai faz
+
+
+
+
+elabor implant nov sistemat par process cont anu ess atribuica envolv ampl discussa intern
+
+b
+
+apresent sugesta sistem informatiz par colet eletron tratament cont anu dev realiz fas posterior ess projet
+
+c
+
+mapeament process analis prest cont
+
+d
+
+autom process prest cont instruca tramit
+
+
+
+reestrutur siscont
+
+
+
+
+identific part envolv projet relaca
+
+
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+segecex
+
+patrocin apoi institucional par obtenca inform sistem dad uj auxili ness obtenca inform defin inform dad especif queir colet
+
+b
+
+adcon
+
+copatrocin fornecedor recurs human
+
+c
+
+setec
+
+orient fornecedor recurs human quant aspect envolv mei consult eventu
+
+d
+
+unidad segecex
+
+intermediari obtenca inform sistem dad clientel auxili ness obtenca inform defin inform dad especif colet
+
+
+
+secret federal control sfc
+
+fornec inform sistem ativ inform quant dad uj origens repass camp conteud relat achad ocorrente parec certific entr outr
+
+f
+
+control intern ministeri defes
+
+fornec inform quant dad uj origens
+
+g
+
+control intern itamaraty
+
+fornec inform quant dad uj origens
+
+h
+
+control intern planalt
+
+fornec inform quant dad uj origens
+
+i
+
+projet aquil
+
+inter coorden projet
+
+j
+
+orga descentraliz
+
+fornec inform quant dad origens
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+
+fator pod risc exit projet
+
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+alter normatiz inform dad constant cont anu
+
+medi
+
+alt
+
+proativ busc tempest possiv alter r busc font alternat supr necess dad
+
+coorden
+
+b
+
+acess restrit font dad trabalh control extern
+
+baix
+
+baix
+
+comunic ujs intermedi segecex motiv trabalh
+
+coorden segecex
+
+c
+
+font dad confi
+
+baix
+
+baix
+
+exclu levant dad font duvid
+
+coorden
+
+d
+
+format dad padroniz tabul par colet
+
+medi
+
+medi
+
+m pesquis font dad format alternat form tabul r pesquis junt setec form tabul dad format orig
+
+coorden
+
+
+
+font dad muit dispers adm indiret
+
+medi
+
+alt
+
+m pesquis form font dad par colet r verific viabil disponibiliz dad pel propr uj
+
+coorden
+
+
+
+
+relaca outr projet
+
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+siscont ie audicon
+
+sintes aquil
+
+colet eletron cont anu
+
+
+
+
+equip projet
+
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+gilbert gom silv junior
+
+
+
+adcondisisc
+
+
+
+integral
+
+
+
+mar anton ferraz zelenovsky
+
+
+
+adcondisisc
+
+
+
+integral
+
+
+
+flavi luci rodrigu silv
+
+
+
+adcondisisc
+
+
+
+parcial
+
+
+
+jos luiz torr indic anal
+
+
+
+setecdisin
+
+
+
+ativ
+
+
+
+antoni quintin ros indic anal
+
+
+
+setecdiamb
+
+
+
+ativ
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+
+
+econt
+
+pagin
+
+
+
+
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+total cust estim
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+outr recurs necessari
+
+
+
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+
+
+finaliz
+
+
+dat
+
+assinatur gestor projet
+
+
+
+
+
+brasil
+
+
+
+
+
+
+
+gilbert gom silv junior
+
+coorden projet
+
+manifest titul unidad copatrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+
+
+
+
+adcon
+
+
+
+
+
+
+
+gualt ramalh portell
+
+secretari adjunt cont
+
+manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+
+
+
+
+segecex
+
+
+
+
+
+
+
+jorg pereir maced
+
+secretariogeral control extern
+
+manifest seplan
+
+manifestom favoravel autoriz projet
+
+
+
+
+
+seplan
+
+
+
+
+
+
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+revog
+aprov realiz projet econt design gestor
+
+

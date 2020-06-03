@@ -1,0 +1,1350 @@
+
+
+
+
+tribunal cont unia uso atribuica leg regiment consider estud parec constant process tc resolv
+
+
+capitul i
+
+
+disposica prelimin
+
+
+proced trat constituica organiz tramit process document relat control extern observ disposica cont nest
+
+
+par efeit dest consideras
+
+
+i apens definit unia definit mais process outr process consider principal desd objet sej comuns total parcial possu relaca dependente conexa continente
+
+
+ii apens provisori unia provisor process outr final propici estud opinia inform decisa
+
+
+iii assinatur eletron registr eletron realiz pesso fisic mod garant autentic integr validad jurid document oper format eletron
+
+
+iv autuaca oper realiz sistem informatiz mei process extern document receb numer especif pass constitu process ambit tribunal
+
+
+v certific digital conjunt proced assegur integr inform autentic aca realiz mei eletron mediant assinatur eletron
+
+
+vi classific inform quant confidencial aca defin grau confidencial grup acess atribu inform dem element previst ato normat especif tribunal
+
+
+vii conexa quand dois mais process tiv mesm objet ped final cont aut mesm caus ped relaca jurid fundament ped final
+
+
+vii continente relaca existent entr dois mais process quand part mesm objet comuns total parcial process maior abrangente outr
+
+
+ix correspondente comunic papel qualqu mei eletron receb exped pel tribunal apresent var form pod intern extern oficial particul ostens restrica acess
+
+
+x desentranh retir pec process mediant autoriz autor competent
+
+
+
+xi document registr inform oficial final institucional independent natur suport cont
+
+
+xii event ato fat administrat processual determin modific andament process document ambit tcu
+
+
+xii exam admissibil analis realiz expedient apresent tribunal objet verific existente requisit gener especif referent mat refira form subsidi decisa quant conhec pel relator colegi
+
+
+xiv junt document oper mei document inclu process pass constitu pec processual
+
+
+xv pec processual document junt aut process
+
+
+xvi process conjunt pec document exercici ativ tribunal
+
+
+xvi process apart process qualqu natur form part extraca element outr process objet dar tratament assunt cuj apur apreci tenh relaca dependencia assunt trat process origin
+
+
+xvii process principal process possu mais process associ mediant apens vincul
+
+
+xix process vincul process cri part outr par tratament desdobr posterior deliber merit
+
+
+xx respons agir unidad tribunal pesso incumb realiz determin ato dad moment relativ process document
+
+
+xxi sobrest suspensa julgament apreci process raza surgiment mat fat obst regul prossegu sem prejuiz continu instruca possivel
+
+
+xxi tramit alter responsabil agir relaca process document
+
+
+xxii usuari intern autor servidor ativ tribunal tenh acess autoriz inform produz custodi pel tcu
+
+
+capitul ii
+
+
+disposica ger
+
+
+
+seca i
+
+
+
+
+gesta eletron process document
+
+
+
+autuaca tramit gesta documental processual ambit tcu realiz mei eletron ressalv situaca excepcion previst normat especif
+
+
+tod event tramit relat process document registr sistem informatiz identific respons pel ato nivel pessoal unidad conform cas resguard integr confiabil dad
+
+
+funcion soluca tecnolog inform suport atos ativ descrit denomin tcueletron etcu observ principi diretriz requisit dispost tcu agost
+
+
+
+
+
+respons instruca despach parec bem pel registr event pel tramit document process obedec proced especif padroniz par aliment sistem informatiz
+
+
+
+seca ii
+
+
+
+
+salvaguard inform restrica acess
+
+
+
+dev adot med seguranc salvaguard constituica organiz tramit document process contenh inform restrica acess term lei polit corporat seguranc inform pcsitcu
+
+
+paragraf unic fic respons resguard confidencial mat tramit tribunal tod pesso tiv identific acess process document qua dev identific registr
+
+
+tratament inform restrica acess unidad dev observ normat vigent adot seguint proced
+
+
+i conced acess inform apen pesso autoriz
+
+
+ii registr sistem informatiz classific inform quant aconfidencial
+
+
+iii cas document papel
+
+
+armazen tramit envelop lacr feit papel opac indic est envelop soment pod abert pel destinatari fic respons resguard confidencial conteud
+
+
+b mant registr tod aquel tiv acess inform indic minim nom document identific dat horari acess
+
+
+c cas descart fazel mod inform poss recuper
+
+
+quand obtenca inform junt entes jurisdicion hav aleg gestor public tais inform possu restrica acess public dev serlh solicit indic mediant term circunstanci qua part dev proteg grau confidencial motiv fundament leg justifiqu restrica sem prejuiz dem inform exig ato normat especif tribunal
+
+
+capitul iii
+
+
+receb document autuaca process
+
+
+
+seca i
+
+
+
+
+receb document
+
+
+
+document receb pel tribunal preferencial mei eletron atend requisit autentic integr validad jurid preconiz pel infraestrutur chav public brasileir icpbrasil bem outr parametr estabelec pel tribunal
+
+
+document papel receb pel tribunal digitaliz dev versa eletron resultant conferente fidedign atest mei assinatur eletron usuari intern certific digital
+
+
+document eletron resultant proced trat bem aquel original produz mei eletron assinatur eletron consider autent par tod efeit leg
+
+
+
+document papel objet digitaliz mant pel unidad competent praz determin posterior descart conform disciplin ato president
+
+
+objet cuj digitaliz sej tecnic possivel dev represent arquiv eletron mei alternat tais captur vide imag fotograf audi mod viabiliz junt aut eletron devolv apresent
+
+
+hipotes arquiv eletron refer paragraf anterior apresent format inviabiliz inserca aut eletron objet dev identific document fisic vincul process envi unidad competent
+
+
+document encaminh tribunal receb pel servic protocol brasil pel secret situ estad qua providenci registr entrad digitaliz cas remess secret gesta process dar encaminh adequ observ natur assunt vincul clientel nr resolucaotcu btcu administrat
+
+
+
+paragraf unic cas document sej referent process autu dev providente trat encaminh unidad encontr respect process par junt
+
+
+correspondente oficial receb indic restrica acess dirig autor encaminh fech respect destinatari aposica envelop numer registr sistem informatiz cab unidad destinatari cas conversa par mei eletron
+
+
+paragraf unic cas sej possivel identific unidad destinat compet chef setor trat dest abertur correspondente par fins identific destinatari reacondicion envelop lacr
+
+
+denunc declar bens rend outr document natur dev conhec restrit reque tratament especial receb identific inform sujeit sigil observ proced especif tramit defin par ess fim
+
+
+
+seca ii
+
+
+
+
+autuaca process
+
+
+
+triag document receb quand cas digitaliz conferente assinatur versa eletron resultant unidad promov cumpriment determin tribunal relator dirigent autuaca process
+
+
+autuaca realiz mediant oper etcu inserca dad relat process tais cadastr part processu representant leg unidad jurisdicion dentr outr
+
+
+presidente pod exped ato disciplin dad inser moment autuaca observ peculiar cad tip processual vist melhor qualidad gerenci inform
+
+
+autuaca responsabil agir sobr process unidad autu
+
+
+desdobr posterior deliber merit profer pel tribunal trat mediant autuaca process vincul dentr outr
+
+
+i recurs
+
+
+ii monitor
+
+
+
+iii parcel div
+
+
+iv cobranc execut
+
+
+process vincul autu part process deliber merit houv sid profer
+
+
+process vincul tera mesm numer identific process principal acresc sufix identifiqu univoc conform padra estabelec normat especif
+
+
+responsabil agir process vincul pod distint daquel process principal mod permit aca simultane desd compromet rit processual dev process legal
+
+
+etcu dev control automatic situaca responsabil agir process vincul principal atribu unidad pesso distint
+
+
+hipotes pod desfeit vincul entr process
+
+
+
+seca iii
+
+
+
+
+constituica organiz process
+
+
+
+process control extern organiz maneir cronolog sequencial numer continu pec constitu form integral eletron ressalv existente document fisic vincul term dest
+
+
+junt document process realiz exclusiv usuari intern mod automat pel soluca tecnolog inform etcu
+
+
+exceca pec junt mod automat respons pel junt dev assin eletronic document fim atest autor concordanc conferente document original
+
+
+junt preced cadastr inform acerc document tais natur tip assunt classific inform quant confidencial
+
+
+usuari intern proced junt realiz conferente cas retific eou complement inform relat document anterior cadastr
+
+
+cas junt indev desd haj ato processual pec posterior respons pel inclusa pec pod revert aca send ess ato registr mod automat histor process
+
+
+identific junt indev configur situaca trat paragraf anterior unidad dev adot providente vist desentranh pec
+
+
+desentranh pec processual realiz usuari intern mediant prev autoriz autor competent
+
+
+desd trat pec tenh subsidi manifest relator colegi tcu competente par autoriz desentranh pod objet deleg
+
+
+autoriz trat dev inser eletronic process desentranh pec
+
+
+cad pec desentranh dev substitu term desentranh const referente ato autoriz outr inform relat ess event mod mant integr aut numer sequencial continu pec processu
+
+
+
+pec desentranh aut dev permanec dispon etcu document pec junt outr process observ classific quant confidencial atribu inform consonanc normat tribunal
+
+
+desentranh pec tenh subsidi manifest colegi dev serlh comunic imediat
+
+
+capitul iv
+
+
+tramit
+
+
+
+seca i
+
+
+
+
+tramit autuaca
+
+
+
+tramit process ensej alter responsabil agir pass unidad subun pesso receb
+
+
+
+seca ii
+
+
+
+
+tramit instruca
+
+
+
+process contiv propost decisa prelimin encaminh pel unidad tecnic diret relator salv hipotes existente deleg competente
+
+
+profer decisa prelimin process dev devolv unidad competent par efetiv med nel determin
+
+
+atend med prelimin esgot praz nel fix ocorr primeir unidad competent dar prossegu instruca process
+
+
+instruca contenh propost deliber definit unidad tecnic submet process diret relator excet cas audienc ministeri public junt tribunal obrigator term iii regiment intern quand houv determin express relator ness sent
+
+
+
+seca iii
+
+
+
+
+process med cautel propost adot
+
+
+
+unidad tecnic gabinet dev dar tratament prioritari process qua dev apreci adoca manutenca med cautel
+
+
+paragraf unic etcu prov identific propr par process encontr situaca especific dest dev retir log mais persist motiv
+
+
+manifest unidad tecnic quant adoca med cautel dev encaminh diret relator praz maxim cinc dias ute receb ped pel unidad
+
+
+paragraf unic manifest trat dest unidad tecnic incluira necessari analis conclus sobr presenc pressupost plausibil jurid perig demor otic exclus inter public bem esclarec sobr incidente eventual perig demor invers
+
+
+
+realiz oitiv prev term regiment intern unidad tecnic dev encaminh gabinet relator analis conclus sobr fundament med cautel praz maxim dez dias
+
+
+paragraf unic praz trat cont part receb respost oitiv prev cas ausenc manifest termin praz par respost
+
+
+
+independent praz fix dest unidad tecnic dev observ situaca iminente ocorrente event exij maior celer adoca providente form possibilit concessa med cautel temp habil
+
+
+impossibil cumpriment praz trat dest unidad tecnic dev cientific relator acerc raza inviabiliz cumpriment indic aind praz necessari conclusa trabalh
+
+
+conced med cautel unidad tecnic dev imediat providenci expedica comunic pertinent
+
+
+receb respost oitiv obrigator trat regiment intern find praz conced sem tenh sid apresent manifest part unidad tecnic dev submet process apreci relator
+
+
+i analis propost tao soment quant fundament manutenca cautel
+
+
+ii analis propost merit quand estad process permit
+
+
+manifest unidad tecnic previst dest dev ocorr maxim quinz dias receb respost envi pel part praz fix pel relator colegi dest tribunal
+
+
+impossibil cumpriment praz trat paragraf anterior unidad tecnic dev inform relator sobr element inviabiliz cumpriment indic aind praz necessari conclusa trabalh vist analis conveniente manutenca cautel ant possibil ocorrente perig demor invers
+
+
+process mais sujeit prioridad estabelec dest seguint hipotes
+
+
+i revog med cautel
+
+
+ii revog anul proced licitatori ato contrat objet cautel
+
+
+iii ocorrente qualqu outr fat poss lev perd objet cautel
+
+
+paragraf unic ocorrente trat ii iii dev comprov document junt aut comunic pront relator
+
+
+
+seca iv
+
+
+
+
+tramit apreci
+
+
+
+process apreci form unit deliber tribunal adoca providente carg unidad respons pel secretari sessa colegi tramit unidad tecnic competent par fins efetiv comunic monitor cumpriment deliber quand cas dem providente necess
+
+
+process submet deliber tribunal mediant relaca apreci decisa monocrat remet pel gabinet unidad tecnic competent par fins previst anterior
+
+
+process referent admissa pessoal concessa aposentador reform pensa apreci encaminh secret fiscaliz pessoal sefip par fins registr dem providente fiz necess
+
+
+
+
+capitul v
+
+
+providente deliber
+
+
+cas cont julg irregul unidad tecnic competent dev providenci moment oportun term regulament propr registr inform requer cadastr respons cont julg irregul cadirreg
+
+
+process encerr etcu mediant despach dirigent unidad tecnic hipotes previst regiment intern
+
+
+paragraf unic despach autoriz encerr process pod objet deleg competente
+
+
+cas decisa definit transit julg hav debit mult unidad tecnic dev autu process vincul par cobranc execut acompanh pagament parcel cas arquiv process origin
+
+
+hav pagament integral div unidad tecnic formul propost expedica quitaca aut process vincul abert par acompanh
+
+
+hipotes inadimplement pagament parcel unidad tecnic autu process cobranc execut cont inform acerc valor original debit eventu parcel adimpl
+
+
+cas monitor par verific cumpriment deliber tribunal result del advind unidad tecnic dev cas providenci autuaca process vincul par ess fim
+
+
+hipotes trat process principal pod encerr observ dispost dest
+
+
+cas necess autuaca process vincul monitor dev ocorr process profer deliber
+
+
+unidad tecnic dev circunscrev objet monitor itens deliber transit julg
+
+
+capitul vi
+
+
+apens process formaca apart
+
+
+
+seca i
+
+
+
+
+apens process
+
+
+
+process tenh relaca dependente conexa continente pod apens definitiv temporari desd sej convenient tramit conjunt
+
+
+paragraf unic apens process papel aut eletron dev preced conversa process par mei eletron conform proced descrit normat especif
+
+
+apens process outr quand definit implic encerr process apens quand provisori requ manutenca process abert
+
+
+sempr necessari convenient pod ocorr desapens process hipotes apens definit reabert fazendos nel inclu atos processu relat pratic aut process estav apens
+
+
+
+
+paragraf unic responsabil pel instruca relator process desapens cab respectiv unidad tecnic relator detinh ess condica anterior apens
+
+
+apens desapens registr process envolv mediant term junt
+
+
+apens desapens process pod determin
+
+
+i pel plenari qualqu cas
+
+
+ii pel cam desd process envolv sej relator membr mesm cam
+
+
+iii pel relator desd trat apens definit
+
+
+competente par determin apens provisori privat colegi
+
+
+cas apens process relator diferent cab relator relator principal
+
+
+eventual discordanc relator quant conveniente apens definit determin decisa monocrat dirim
+
+
+i pel cam questa trat process competente term regiment intern relator integr mesm cam
+
+
+ii pel plenari dem cas
+
+
+quand determin conversa process tom cont especial tce term lei julh cc regiment intern unidad tecnic respons pel instruca tce dev autu process especif par ess fim apens process origin
+
+
+send possivel imediat apens process origin tce raza eventu desdobr dem deliber nel exar providente dev adot possivel
+
+
+compet unidad tecnic respons pel instruca tce elabor minut cientific ministr estad supervisor are autor equivalent term paragraf unic regiment intern
+
+
+unidad tecnic dev notific respons entidad fiscaliz terceir interess ambit process origin tenh sid cham audienc oitiv exceca daquel tenh sid exclu responsabil inform autu process tce est send apens process ouv atos processu subsequent apreci final mat dara nov process
+
+
+tce dev constitu cop relatori vot acorda exar process origin sem prejuiz junt outr document consider necessari instruca julgament
+
+
+relator process origin sucessor fic prevent relaca process tce
+
+
+verific pel tribunal qualqu temp ausenc pressupost constituica desenvolv val regul process tce autu term anterior hav providente pendent adoca process origin unidad tecnic dev
+
+
+i desapens process origin tce
+
+
+
+ii apens tce origin
+
+
+iii registr process mediant term proced adot bem fat motiv
+
+
+
+seca ii
+
+
+
+
+apart process
+
+
+
+constat existente mat cuj apur apreci guard relaca dependencia assunt trat process pod constitu par exam refer mat process apart natur semelhant divers process origin mediant desentranh reproduca cop pec
+
+
+process apart sujeit mesm regr formaca organiz estabelec par dem process dev cop ato determin apart serlh junt pec inicial
+
+
+quand instruca process apart competente outr unidad process encaminh
+
+
+send possivel estabelec natur process apart est trat fiscaliz
+
+
+relator colegi competent par determin apart process
+
+
+paragraf unic relator process apart defin acord regr estabelec pel tribunal ato normat especif
+
+
+identific necess reapreci merit cont julg raza nov element constant aut process qualqu natur referent mat examin form express conclus ambit cont unidad tecnic autu process apart represent submet relator propost encaminh ministeri public junt tribunal par avali conveniente oportun interposica recurs revisa previst regiment intern
+
+
+inexist questa remanescent aut process origin trat unidad dev propor apens represent
+
+
+hav process origin outr questa process prosseguira curs normal
+
+
+qualqu hipotes mat pertinent cont julg trat exclusiv ambit process represent eventual recurs revisa
+
+
+process apart dev constitu part process origin constitu suport material probatori recurs cont pretend reabr
+
+
+recurs revisa interpost pel ministeri public dev autu process autonom apens cont pretend reabr
+
+
+represent unidad tecnic apens recurs revisa cas ess venh interpost pel ministeri public
+
+
+quand tribunal determin encaminh cop deliber ministeri public junt tcu fit est avali conveniente oportun interpor recurs revisa serlhe assegur acess aut profer deliber bem process cont reabert
+
+
+
+
+capitul vii
+
+
+sobrest
+
+
+juiz relator cam plenari julgament cont apreci mat part tribunal pod sobrest
+
+
+despach deliber determin sobrest especific clar mat objet sobrest respons tera julgament cont sobrest bem motiv justific tal providente
+
+
+sobrest prejudic adoca providente vist saneament process apreci mat divers tev apreci sobrest tampouc julgament cont dem respons arrol process
+
+
+cab unidad tecnic respons pel instruca process efetu etcu registr sobrest cessaca quand ocorr
+
+
+capitul vii
+
+
+recurs
+
+
+recurs der entrad tribunal encaminh unidad tecnic respons pel process adot deliber recorr par fins autuaca process vincul recurs
+
+
+paragraf unic petica geral apresent prolaca deliber caracteriz recurs dev instru pel unidad tecnic respons pel process principal submet relator
+
+
+autu process vincul recurs unidad tecnic imediat dev encaminhal
+
+
+i secret recurs serur par exam prelimin admissibil quand trat recurs reconsider recurs revisa ped reexam
+
+
+ii gabinet autor despach recorr quand trat agrav contr despach
+
+
+iii gabinet relator profer vot condutor acorda recorr cas embarg declar agrav contr decisa tribunal
+
+
+paragraf unic interposica recurs consequent tramit process serur exim unidad tecnic respons pel process principal conclu notific tod interess respons monitor receb junt comprovant dest notific aut
+
+
+receb recurs serur realiz exam prelimin admissibil submet relator
+
+
+entend admiss recurs tratandos recurs reconsider ped reexam serur indic itens deliber recorr sobr qua juiz dev incid efeit suspens
+
+
+circunstanc objet examin quand analis merit recurs
+
+
+cas analis prelimin conclu tratars mer petica poss conhec recurs serur dev propor receb ped restituica interess submet est propost relator deliber refer petica ausenc relator process principal
+
+
+
+
+hipotes mer petica process decisa transit julg sem viabil jurid par interposica quaisqu outr recurs serur dev propor president tribunal receb ped restituica interess hav deleg competente adot tais providente ofici
+
+
+exam prelimin admissibil trat anterior realiz sortei eletron relator par recurs encaminhandos automatic aut relator sorte par apreci admissibil recurs
+
+
+entend inadmiss recurs ouv ministeri public junt tribunal quand cabivel term cc i regiment intern relator conhec recurs criteri submet colegi propost conhec
+
+
+recorrent comunic pel unidad tecnic respons pel process principal acerc despach relator decisa tribunal term regiment intern declar prejudic recurs negarlh conhec
+
+
+despach relator neg conhec recurs consideral prejudic cab agrav observ dispost regiment intern
+
+
+relator pod despach neg seguiment agrav previst paragraf anterior
+
+
+despach relator consider admiss recurs fix term regiment intern itens sobr qua incid efeit suspens pod faz remissa exam prelimin admissibil elabor form estabelec dest
+
+
+paragraf unic efeit suspens trat abrang integral item deliber salv express excepcion despach relator propost serur desd acolh
+
+
+unidad tecnic respons pel process principal cientific acerc alcanc efeit suspens atribu recurs expedira comunic previst regiment intern proced atualiz imediat cadirreg refer recurs interpost
+
+
+hav deliber recorr itens alcanc pel efeit suspens unidad tecnic respons pel process principal dev adot relaca itens suspens proced vist registr transit julg execuca decisa form estabelec pel regiment intern
+
+
+dispost paragraf anterior aplicas part suspens item quand efeit suspens abrang integral term exceca previst paragraf unic dest
+
+
+registr transit julg subsequent execuca decisa pod difer racional administrat devid justific pel unidad tecnic respons
+
+
+cientific trat realiz form automat part registr constant sistem corporat
+
+
+preliminar exam merit dev serur identific part inter opost recorrent cas exist promov notific vist facult apresent contrarrazo trat regiment intern tcu
+
+
+
+
+serur realiz analis merit itens recorr submet process diret relator recurs excet cas audienc ministeri public junt tribunal obrigator term regiment intern
+
+
+recurs interpost pel ministeri public junt tribunal tendent agrav situaca respons admit pel relator encaminh serur par sej oferec mediant notific oportun par respons apresent contrarrazo dev serlh dad acess conteud processual necessari exercici ampl defes
+
+
+hipotes recurs revisa interpost pel ministeri public junt tribunal fundament iii lei aut dev encaminh unidad tecnic respons pel instruca cont unidad jurisdicion par identific fat respons quantific debit conform cas posterior instaur contraditori exam merit term regiment intern
+
+
+par identific respons quantific debit unidad tecnic respons pel instruca cont reabert pod cas solicit apoi unidad conduz process deu caus reabertur cont
+
+
+contest apresent contr calcul efetu pel tribunal refer estabelec coeficient vist repartica receit tribut exempl fund particip estad municipi encaminh secret macroavali governamental semag par instruca
+
+
+capitul ix
+
+
+solicit tribunal
+
+
+
+seca i
+
+
+
+
+disposica ger
+
+
+
+solicit encaminh tribunal relacion control extern classific conform conteud
+
+
+i solicit congress nacional
+
+
+ii solicit inform cop orga autor legitim
+
+
+iii solicit inform par subsidi aca judicial
+
+
+iv solicit certida
+
+
+v solicit acess inform par esclarec inter particul colet geral
+
+
+vi solicit prorrog praz par apresent prest cont
+
+
+vii ped part relat exercici ampl defes
+
+
+solicit trat v correspond ped previst xxxii constituica federal regul pel lei novembr
+
+
+solicit trat i v vi disciplin norm especif aplicandos coub present
+
+
+atend solicit trat est capitul dev realiz preferencial mei eletron
+
+
+paragraf unic cas solicitant dispor soluca tecnolog inform compat aquel utiliz pel tcu atend darse preferencial mei mid eletron impossibil mei cop papel
+
+
+
+solicit trat ii iii iv dest autu pel unidad atend process dev encerr term v regiment intern
+
+
+paragraf unic cas unidad tecnic entend convenient pod apens process solicit aut process refira dispens ness cas autoriz express relator sem prejuiz sej dad cienc dess med aut process principal
+
+
+
+seca ii
+
+
+
+
+solicit inform cop formul orga autor legitim
+
+
+
+legitim par solicit inform cop orga autor detiv prerrogat constitucional eou legal par solicital bem aquel dev ofici estej trat mesm objet process tramit tribunal
+
+
+solicit inform cop trat est seca registr document encaminh unidad tecnic competent par prest inform autoriz acess aut
+
+
+paragraf unic unidad tecnic dev autu examin encaminh solicit relator presidente conform cas propost sobr form atend inclu quand coub minut atend interess cas haj deleg competente providenci atend
+
+
+responsabil pel atend solicit trat est seca obedec regr dispost dest
+
+
+solicit trat est seca apreci
+
+
+i pel presidente quand refer assunt examin process autu tcu process encerr decisa transit julg proced judici relat are administrat tribunal
+
+
+ii pel relator recurs quand trat process pendent apreci recurs
+
+
+iii pel relator criteri dest pel colegi dem cas
+
+
+paragraf unic hav deleg competente apreci atend solicit trat est pod adot ambit unidad tecnic competent
+
+
+cas inform solicit encontr pendent deliber atend criteri relator realiz bas inform disponiv alertandos solicitant carat prelimin posterior complement quand apreci final mat cas
+
+
+paragraf unic entend solicit soment dev atend apreci julgament process pel tribunal relator determin despach unidad tecnic competent comuniqu solicitant inform fornec tao log tribunal tenh profer decisa respeit
+
+
+
+seca iii
+
+
+
+
+solicit inform par subsidi aca judicial
+
+
+
+
+subseca i
+
+
+
+
+solicit inform advocaciageral unia agu
+
+
+
+solicit agu defes direit inter unia tera tratament preferencial atend praz nel assinal
+
+
+
+solicit agu refer subsidi par propositur aca cobranc judicial div decorrent acorda ato administrat tcu instru atend pel unidad tecnic detentor process exar ato
+
+
+paragraf unic solicit agu relat unic inform especif control extern instru pel unidad tecnic detentor process originari eventual apoi consultor jurid conjur cas necessari
+
+
+quand inform solicit pel agu par instruca feit judici refer atos tribunal atos pratic dirigent unidad secret tcu solicit dev imediat encaminh conjur elabor subsidi apoi respect unidad tecnic cas necessari
+
+
+intim comunic decisa judici receb pel unidad tecnic dev imediat encaminh conjur par adoca providente cabiv
+
+
+fic conjur incumb elabor periodic demonstrat aca judici curs orga pod judiciari dig respeit tribunal cont unia part inform envi pel advocaciageral unia
+
+
+paragraf unic demonstrat trat est disponibiliz mei eletron presidente ministr ministrossubstitut procuradorgeral dirigent unidad basic
+
+
+
+subseca ii
+
+
+
+
+solicit inform formul raza mand seguranc
+
+
+
+solicit inform formul raza mand seguranc impetr contr ato tribunal dirigent receb unidad tecnic dev registr etcu encaminh imediat conjur par autuaca atend praz dez dias houv outr praz estipul
+
+
+conjur solicit unidad tecnic competent element necessari atend solicit
+
+
+inform dev aters principal decisa objet mand seguranc relatori vot fundament subsidiari outr element consider inter defes
+
+
+cas mand seguranc contr ato dirigent tribunal elabor inform pel conjur encaminh autor judicial solicitant feit diret pel dirigent arrol autor coator praz indic pel conjur dand conhec fat presidente
+
+
+conjur atend dev remet unidad tecnic competent cop pec produz par fins junt process original cas process estej pod juntal process
+
+
+
+subseca iii
+
+
+
+
+solicit inform formul raza outr process judici
+
+
+
+solicit inform formul raza outr aca judici ajuiz contr ato tribunal obedec coub mesm tramit proced trat subseca i ii dest seca
+
+
+
+seca iv
+
+
+
+
+solicit certida
+
+
+
+
+pesso fisic jurid pod requer tribunal certida par defes direit esclarec inter particul colet geral
+
+
+constitu requisit admissibil par atend solicit certida
+
+
+i apresent requer propri interess representant regular institu form lei dirig tribunal seguint inform
+
+
+identific requerent nom complet enderec cpf
+
+
+b especific form clar precis inform requer
+
+
+c indic carg funca public interess ocup esfer federal estadual municipal cas
+
+
+ii existente correl entr objet solicit are atuaca tribunal
+
+
+iii indic numer process cas certida posit
+
+
+paragraf unic cas solicit preench requisit admissibil process submet pel unidad competent presidente propost indefer
+
+
+solicit certida formul denunciant process term regiment intern
+
+
+solicit certida cuj inform requer dig respeit propri interess receb trat solicit acess inform par esclarec inter particul colet geral trat v dest
+
+
+certida emit garant autentic preferencial via portal tcu
+
+
+tratandos certida negat emissa automat
+
+
+solicitant certida negat inform certida dev obtid diret mediant acess portal tcu
+
+
+responsabil pel atend solicit trat est seca obedec seguint regr
+
+
+i solicit vers sobr unic process competente unidad tecnic respons instruca
+
+
+ii solicit vers sobr process unidad tecnic divers competente daquel receb original solicit desd sej respons pel instruca men process sem prejuiz cas solicit colabor outr unidad envolv
+
+
+iii solicit vers sobr process sej responsabil unidad tecnic recebedor dev providenci encaminh unidad competent cas possivel identific hipotes ii dest unidad tecnic respons pel primeir process indic solicit
+
+
+iv solicit vers sobr mat process competente unidad tecnic cuj clientel const orga entidad refira mat mantenh vincul relaca contratual solicitant cas solicit certida negat part gestor public empres
+
+
+hipotes trat ii send possivel atend form consolid unidad dev ger cop eletron solicit encaminhal unidad tecnic competent par atend comunic fat solicitant
+
+
+
+serur consider unidad tecnic respons par fins previst i quand solicit vers sobr mat objet recurs pendent apreci pel tribunal sem prejuiz colabor unidad tecnic orig necessari
+
+
+atend solicit certida dev consider julg tribunal cadastr respons cont julg irregul bem outr font subsidi
+
+
+solicit pod indefer quand trat mat cuj sigil sej consider pel tribunal imprescind seguranc sociedad estad dev requerent inform sobr impossibil atend
+
+
+atend solicit certida tenh objet certific existente cont julg irregul sanca nom interess observ seguint proced
+
+
+i cas const nom interess sanca cont julg irregul certida dev restringirs solicit
+
+
+ii dem cas certida dev cont tod registr relat ocorrente identific inclusiv dad relat eventu recurs aind apreci pel tribunal
+
+
+cas solicit certida sobr existente recurs aind admit pel relator document exped far menca express ess situaca destac ausenc efeit sobr deliber recorr
+
+
+paragraf unic cas recurs contr acorda contenh med cautel solicit certida dev submet relator
+
+
+certida exped pel titul unidad tecnic substitut cas haj deleg competente envi junt respect process presidente par expedica
+
+
+certida exped praz maxim quinz dias cont dat protocoliz ped
+
+
+certida negat emit pel tribunal praz maxim validad trint dias dev ess inform consign express document exped via internet
+
+
+secretariageral control extern segecex disponibiliz manual orient operacion model certida observ pel unidad tecnic par elabor certida trat est seca
+
+
+
+seca v
+
+
+
+
+ped part relat exercici ampl defes
+
+
+
+part par exercici ampl defes pod encaminh tribunal seguint ped
+
+
+i ped vist cop aut
+
+
+ii ped junt document
+
+
+iii ped sustent oral
+
+
+ped retir aut dependencia tribunal part advog term dispost lei atend mei acess aut eletron impossibil pel concessa gratuit cop eletron armazen mid digital
+
+
+
+
+aplicams apreci ped trat est seca regr cont dest
+
+
+
+subseca i
+
+
+
+
+ped vist cop aut
+
+
+
+ped vist cop facult part term regiment intern atend mei acess aut eletron
+
+
+cas process objet ped estej mei fisic atend preced conversa aut par mei eletron conform proced descrit normat especif
+
+
+normat propri disciplin atend cas tecnic possivel acess eletron aut
+
+
+acess aut conced part representant legal preferencial form remot mei portal tcu
+
+
+concessa acess aut form remot preced previ credenci par uso etcu term regulament propr
+
+
+credenci envolv identific solicitant aceit condica uso etcu mediant assinatur term adesa quand cas geraca senh acess
+
+
+impossibil concessa acess aut form remot acess conced presencial qualqu unidad tribunal dev junt process ped vist cop comprovant recolh cas bem respect comprovant atend
+
+
+part representant legal credenci autoriz compuls qualqu temp element processu oferec compromet garant intim vid priv cidada preserv sigil tutel tcu
+
+
+fic registr inform relat process identific obtev acess aut dat horari acess
+
+
+acess inform sujeit sigil depend autoriz especif autor competent
+
+
+solicit acess aut formul pesso qualific part representant legal part receb trat solicit acess inform par esclarec inter particul colet geral trat v dest
+
+
+
+subseca ii
+
+
+
+
+ped junt document
+
+
+
+ped junt document trat regiment intern competent registr encaminh unidad encontr respect process
+
+
+hav deleg competente unidad tecnic par autoriz proced cab titul servidor tiv sid subdeleg competente defer ped cas entend hav motiv par indefer submet mat relator presidente conform cas
+
+
+
+
+
+subseca iii
+
+
+
+
+ped sustent oral
+
+
+
+ped sustent oral process term regiment intern
+
+
+unidad tecnic dev providenci junt ped sustent oral process faz const express instruca inform sobr existente
+
+
+capitul x
+
+
+consult
+
+
+consult der entrad tribunal term regiment intern registr encaminh unidad tecnic competent par autuaca exam admissibil cas exam merit
+
+
+par fins dest unidad tecnic competent aquel cuj clientel pertenc orga entidad refira mat par exam correspondent unidad especializ quand consult refer are especif atuaca
+
+
+incid hipotes paragraf anterior consult encaminh unidad tecnic cuj clientel const orga control intern vincul autor consulent
+
+
+exam trat dest consult encaminh relator cuj list const orga entidad refira mat administr respons sujeit jurisdica tribunal
+
+
+paragraf unic quand consult refer explicit determin orga entidad process encaminh relator list const entidad vincul autor consulent
+
+
+encaminh relator mer exam prelimin consult unidad tecnic manif pel admissibil term regiment vers sobr cas concret
+
+
+relator mediant despach fundament determin arquiv consult atend requisit admissibil vers sobr cas concret dandos cienc consulent
+
+
+capitul xi
+
+
+denunc represent
+
+
+denunc represent sobr irregular ilegal der entrad tribunal term regiment intern registr encaminh unidad tecnic respons pel clientel refira mat par autuaca exam admissibil cas exam merit
+
+
+exam admissibil abord competente tribunal sobr assunt legitim autor suficiente indici existente inter public trat supost ilegal apont
+
+
+tratandos denunc represent formul contr ato dirigent regional orga entidad sujeit jurisdica tribunal apur fat competira unidad tecnic situ estad localiz projeca regional orga entidad
+
+
+
+
+
+tratandos denunc adot imediat pel setor der entrad providente cabiv vist preserv sigil term regiment intern norm especif
+
+
+fim resguard sigil proteca denunciant document original denunc bem qualqu outr document const identific junt process pec sujeit sigil classific quant confidencial inform pessoal term lei tend grup acess auditor design par instruca diretor secretari unidad tecnic competent relator chef gabinet assessor indic bem membr ministeri public houv atu process chef gabinet eventual assessor indic alem president tribunal del conced vist cop durant period vigenc restrica salv hipotes previst lei nr resolucaotcu dou
+
+
+
+unidad tecnic providenci cop document original dev tarj quaisqu sin poss identific denunciant tais logotip timbr nom assinatur enderec qualific profissional
+
+
+hipotes restrica acess estabelec dest aplic cas sej comprov maf denunciant ac resolucaotcu dou
+
+
+
+denunc represent mer exam prelimin juiz unidad tecnic preench requisit admissibil imediat encaminh relator propost arquiv
+
+
+paragraf unic relator mediant despach fundament determin liminar arquiv denunc represent atend requisit admissibil dandos cienc denunciant representant conform cas
+
+
+cas fac present requisit admissibil unidad tecnic realiz exam sumari acerc risc par unidad jurisdicion material relevanc fat notici denunc represent excet aquel formul bas lei
+
+
+exam sumari acerc material risc relevanc fat notici dev observ premiss indic instruca normat tcu mai
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir
+
+
+unidad tecnic submet aut relator propost conhec denunc represent
+
+
+i cas fat consider baix risc material relevanc questa sej lev conhec unidad jurisdicion par adoca providente alcad cop par orga control intern arquiv process
+
+
+ii cas fat consider alt risc material relevanc prossegu process
+
+
+hipotes previst i paragraf anterior relator cas estej acord propost unidad tecnic determin adoca providente nel referenci arquiv denunc represent dandos cienc denunciant representant conform cas
+
+
+
+tribunal solicit anual relatori gesta encaminh pel orga eou entidad jurisdicion trag registr analit providente adot relaca situaca previst
+
+
+analis relatori gesta unidad tecnic verific adequabil providente adot cas consider insuficient avali conveniente oportun autu process represent
+
+
+acolh denunc represent fac risc material relevanc fat relator restituira process unidad tecnic par apur
+
+
+relator mediant despach fundament determin arquiv denunc represent diligente pertinent revelarems improcedent dandos cienc denunciant representant conform cas
+
+
+decisa definit process denunc inclusiv cas conversa tce unidad tecnic adot providente vist alter grau confidencial process par public salv houv express manifest tribunal contrari
+
+
+paragraf unic reclassific process denunc public decisa definit alcanc pec contenh identific denunciant qua permanec classific inform pessoal term lei del conced vist cop durant praz vigenc restrica salv hipotes leg ac resolucaotcu dou
+
+
+
+eventu irregular public imprens objet represent respect relator quand verific pel unidad tecnic competent indici concernent irregular ilegal anunci encontr present criteri risc material relevanc estabelec
+
+
+comunic irregular pod apresent mei eletron term instruca normat tcu outubr
+
+
+paragraf unic comunic irregular apresent telegram fac simil mei eletron desacord cont normat trat dev substitu versa atend requisit cont cit normat praz dez dias cont confirm receb pen consider pratic atos processu fundament pec substitu
+
+
+capitul xii
+
+
+disposica fin transitor
+
+
+fic presidente autoriz
+
+
+i exped atos necessari regulament dest inclu padroniz document formulari definica tip process proced relat tramit registr result julgament acompanh
+
+
+ii atualiz remissa referente dest text regiment intern outr normat sempr necessari desd impliqu alter conteud
+
+
+iii atualiz nomenclatur unidad tecnicoexecut refer nest sempr houv alter estrutur atribuica unidad secret tcu
+
+
+iv mant atualiz nomenclatur sistem informatiz cadastr inform refer nest
+
+
+
+fic secretariageral administr seged incumb elabor norm especif par disciplin constituica organiz tramit process document relat are administrat tribunal
+
+
+paragraf unic enquant public norm especif trat aplicarse document process administrat coub dispost nest
+
+
+fic revog tcu outubr tcu junh port tcu fevereir port tcu junh port tcu novembr
+
+
+est entr vigor dat public
+
+
+tcu sal sessa ministr lucian branda alves souz mai
+
+
+arold cedraz
+
+
+vicepresident exercici presidente
+
+
+
+redaca anterior
+
+
+
+forc resolucaotcu
+
+
+
+document encaminh tribunal receb pel servic protocol produca grafic seprot pel servic administr sas unidad tecnic situ estad qua providenci registr entrad etcu digitaliz cas remess unidad tecnic competent observ natur assunt vincul clientel
+
+
+
+
+
+forc resolucaotcu
+
+
+
+
+
+
+
+
+fim resguard sigil denunciant durant apur document original denunc const identific junt process pec sujeit sigil del conced vist cop
+
+
+
+
+
+const revog express
+estabelec proced par constituica organiz tramit process document relat are control extern
+forc resolucaotcu
+
+
+
+document encaminh tribunal receb pel servic protocol produca grafic seprot pel servic administr sas unidad tecnic situ estad qua providenci registr entrad etcu digitaliz cas remess unidad tecnic competent observ natur assunt vincul clientel
+
+
+
+forc resolucaotcu
+
+
+
+
+
+fim resguard sigil denunciant durant apur document original denunc const identific junt process pec sujeit sigil del conced vist cop
+

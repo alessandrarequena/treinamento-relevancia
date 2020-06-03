@@ -1,0 +1,8677 @@
+port
+
+
+
+president tribunal cont unia uso competente leg regiment
+
+
+consider dispost plan estrateg tribunal cont unia par quinqueni aprov pel port tcu abril defin objet estrateg coib ma gesta recurs public intensific atuaca bas analis risc
+
+
+consider competente atribu tribunal mei lei cc regiment intern tcu par acompanh form selet concomitant ativ orga entidad jurisdicion relacion edit licit contrat conveni acord ajust outr instrument congen mei obtenca inform public orga ofici consult sistem informatiz pel acess inform public siti eletron orga entidad
+
+
+consider disponibiliz corp tecnic tribunal sistem analis licit edit alic possibilit avali tempest automatiz edit licit atas prega identific indici irregular fraud desvi desperdici recurs public possibilit aca control mais eficient efet
+
+
+consider utiliz sistem alic ali sistemat propost nest port contribu par uso eficient eficaz efet recurs tribunal
+
+
+consider necess instrument permit identific aca control decorrent uso inform fornec pel sistem alic part unidad tecnic secret geral control extern
+
+
+consider manifest constant tc resolv
+
+
+fic aprov document sistemat analis inform fornec mei emails diari sistem alic par unidad tecnic tribunal cont unia form anex unic dest port final
+
+
+i promov utiliz sistem alic
+
+
+ii disponibiliz orient ferrament par registr aca control decorrent uso inform fornec pel sistem alic
+
+
+iii permit identific aca control decorrent utiliz sistem alic bem benefici impact
+
+
+compet secretariageral control extern segecex
+
+
+i mant atualiz document trat anterior cabendolh aind esclarec duv receb sugesta par aperfeico
+
+
+ii divulg sistemat unidad oriental quant utiliz
+
+
+iii consolid registr receb unidad divulg result utiliz sistem alic
+
+
+paragraf unic compet unidad tecnic segecex providenci registr aca decorrent uso sistem alic inform segecex dat demarc aquel realiz
+
+
+est port entr vigor dat public
+
+
+raimund carreir
+
+
+claudi souz castell branc
+
+
+secretariogeral control extern
+
+
+claudi souz castell branc
+
+
+secretariogeral control extern
+
+
+
+raineri rodrigu leit
+
+
+secretariogeral presidente
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+
+const revog express
+aprov document sistemat analis inform fornec mei emails diari sistem alic par unidad tecnic tribunal cont unia
+
+anex unic portariatcu outubr
+
+
+
+
+
+
+
+sistem alic analis licit edit
+sistemat analis inform fornec mei emails diari sistem alic par unidad tecnic tribunal cont unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+segecexsg selog
+
+
+revisa setembr
+
+
+
+
+
+
+
+
+elabor
+
+
+
+val nakan tcusegecexsg
+
+
+carolin vieir barros sulz gonsalv tcusegecexselog
+
+
+
+
+aprov
+
+
+
+monic chav tcusgisg
+
+
+tan lop piment cioat tcusegecexselog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+est document cont inform uso restrit tribunal cont unia voc pesso autoriz receb est document dev usar copi divulg inform nel cont tom qualqu aca base ness inform
+
+
+
+
+
+
+
+
+
+i inform basic sobr sistem alic
+
+
+
+i objet
+
+
+i font inform
+
+
+i emails diari sistem alic
+
+
+i tip process pod utiliz par registr analis inform fornec pel sistem alic
+
+
+i autuaca process produca conhec
+
+
+i autuaca process control extern tip acom
+
+
+i autuaca process control extern tip racom
+
+
+
+
+ii padroniz process trabalh
+
+
+
+ii process trabalh part inform sistem alic
+
+
+ii preenchiment tabelastatus
+
+
+ii organiz pec process
+
+
+ii quantific trimestral benefici control
+
+
+ii pesquis process oriund sistem alic etcu
+
+
+
+
+
+anex
+
+
+
+anex tutorial regr automat encaminh email
+
+
+anex tutorial par alter naveg padra par googl chrom
+
+
+anex quadr criteri acompanh matriz risc
+
+
+anex estrutur diretori par registr analis
+
+
+anex sugesta salv arquiv past fich
+
+
+anex fich achad licit
+
+
+anex b fich achad atas prega
+
+
+anex c fich achad contrat diret
+
+
+anex check list analis licit
+
+
+anex b check list analis atas prega
+
+
+anex c check list analis contrat diret
+
+
+anex model email inicial solicit inform
+
+
+anex b model email reiter solicit inform
+
+
+anex c model email solicit inform adicion
+
+
+anex d model email irregular elid
+
+
+anex model email encerr analis sem autuaca process
+
+
+anex f model email autuaca process especif
+
+
+anex model represent semec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i inform basic sobr sistem alic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i objet
+
+
+
+objet dest manual defin sistemat analis inform fornec mei emails diari sistem alic par unidad tecnic tribunal cont unia
+
+
+
+i font inform
+
+
+
+sistem alic fornec inform sobr
+
+
+edit licit concorrente tom prec convit rdc prega public diari sit sistem comprasnet httpwwwcomprasnetgovbrconsultalicitacoesconslicitacaofiltroasp
+
+
+result prega divulg diari sit sistem comprasnet httpwwwcomprasnetgovbrlivrepregaoataasp
+
+
+extrat dispens inexigibil licit public diari seca diari oficial unia httpwwwimprensanacionalgovbr
+
+
+inform disponibiliz unidad tecnic tribunal mei emails diari acess sistem dgi consult acess painel inform sistem alic acess bas dad sql sistem alic
+
+
+nest manual detalh inform fornec mei emails diari
+
+
+
+
+
+
+
+
+
+
+i emails diari sistem alic
+
+
+
+tod dia h secret control extern tcu receb emails sistem alic inform aquisica feder public dia relat clientel
+
+
+
+
+secret control extern estadu receb inform aquisica feder relat unidad federat encontr selog secret control extern aquisica logist receb inform referent distrit federal seccor secret relaca institucion control combat fraud corrupca receb inform tod brasil azul figur
+
+
+secret control extern sedi brasil secret control extern administr indiret rio janeir secexestataisrj receb inform aquisica feder relat uasgs unidad administrat servic ger integrant siasg sistem auxili servic ger responsabil conform especific pel port clientel port segecex verd figur
+
+
+exempl licit realiz univers federal min ger inform tant par secexmg secret control extern min ger inter aquisica logist dest orga par secexeduc secret control extern educ cultur desport inter conduca polit public educ
+
+
+ess sistemat volt principal par secret control extern respons pel analis aquisica are mei recurs feder secret control extern estadu selog tamb par aquel respons fiscaliz aquisica recurs feder tip especif secret fiscaliz tecnolog inform seft secret fiscaliz infraestrutur seinfr
+
+
+foc atuaca secret control extern sedi brasil excet selog seft seinfr secexestataisrj analis diar inform aquisica fornec pel sistem alic embor poss usar inform deriv dess sistem seleca fiscaliz part painel inform bas dad
+
+
+sugeres unidad tecnic cas venh atu contrat clientel outr ut copi comunic uj secret detentor correspondent clientel form preven duplic atuaca entr secret eventual divergente tratament emails sistem alic envi par caix postal cad secret ond pod encaminh par auditor realiz analis inform ess encaminh pod feit automatic criaca regr automat caix postal unidad par iss vej tutorial anex
+
+
+conteud cad email especif quant assunt nel trat
+
+
+inform licit edit licit
+
+
+inform atas prega result prega
+
+
+inform contrat diret extrat dispens inexigibil licit
+
+
+
+
+
+
+
+inform licit traz inform edit licit concorrente tom prec convit rdc prega colet diari sit comprasnet
+
+
+unidad respons pel licit nom numer uf unidad administrat servic ger uasg link par sistem dgi consult relat ess uasg
+
+
+edital modal licit numer identific licit dat public edital objet edital links par dgi consult relat licit especif par download arquiv edital
+
+
+estimat unidad valor estim licit inform edital pel propr uasgfootnoteref material relat dest edital uasgfootnoteref link par download arquiv ond extra valor editalfootnoteref estimat apresent extra edital utiliz tecnic automatiz analis textual vist extraca valor utiliz tecnic probabilist valor apresent pod correspond real valor estim par licit comp valor estim dest licit valor estim tod licit pratic pel mesm uasg ana anterior valor efetiv registr sistem siasg numer indic percentil encontr valor estim licit public email acim valor estim maior tod ana anterior voc clic arquiv edital docx apresent err sej porqu naveg padra googl chrom desej mud naveg padra par googl chrom vej tutorial anex
+
+
+
+alert tipologiafootnoteref automatic identific text edital hav sinal exclam link par dgi consult relat licit especif possivel visualiz detalh situaca apont tipolog detalh wik sistem alic
+
+
+
+email licit orden decrescent segund existente gravidad alertafootnoteref segu pel valor estimat edital houv gravidad alert defin wik sistem alic
+
+
+
+
+
+
+
+
+inform atas prega traz inform result prega colet diari sit comprasnet
+
+
+unidad respons pel licit nom numer uf uasg link par sistem dgi consult relat ess uasg
+
+
+edital modal licit numer identific licit dat public edital objet edital links par dgi consult relat licit especif par download edital
+
+
+situaca prega moment geraca emailfootnoteref fracass homolog adjudic recurs realiz vist estad prega pod vari rapid long temp exist link apont par sit comprasnet dest mod situaca real prega nest sit pod mais atualiz situaca registr email tod itens prega cancel aceit inexistente propost situaca dad fracassadosena cas pagin prega contenh link par term homolog situaca homologadosena cas pagin prega contenh link par term adjudic situaca adjudicadosena cas pagin prega contenh link par visualiz recurs situaca recursosena cas pagin prega contenh link par result fornecedor situaca realiz
+
+
+
+material valor global ata result prega
+
+
+alert tipologiafootnoteref automatic identific part cruzament dad cpfcnpj fornecedor venceuparticip ono prega hav sinal exclam link par dgi consult relat licit especif possivel visualiz detalh situaca apont tipolog detalh wik sistem alic
+
+
+
+email prega orden decrescent segund existente gravidad alertafootnoteref segu pel valor material houv gravidad alert defin wik sistem alic
+
+
+
+
+inform contrat diret traz inform extrat dispens inexigibil licit colet diari doufootnoteref inform contrat diret extra arquiv pdf disponibiliz pel imprens nacional utiliz tecnic automatiz analis textual dev limit tecnic utiliz public atribut pod identific erron eou omissa
+
+
+
+unidad respons pel contrat nom numer uf uasg link par sistem dgi consult relat ess uasg
+
+
+public inform dispens inexigibil licit numer identific fundament legal extrat text diari oficial unia dou link par pagin dou ond public extrat dispens inexigibil
+
+
+material valor global contrat inform extrat doufootnoteref material apresent extra extrat dispensainexigibil utiliz tecnic automatiz analis textual vist extraca valor utiliz tecnic probabilist valor apresent pod valor contrat
+
+
+
+email contrat diret orden decrescent segund valor material houv
+
+
+
+
+
+
+
+
+
+i tip process pod utiliz par registr analis inform fornec pel sistem alic
+
+
+
+exam period concomitant legal legitim atos gesta respons sujeit jurisdica tcu bem desempenh orga entidad jurisdicion sistem program projet ativ governament quant aspect economic eficiente eficac atos pratic denominas acompanh portariasegecex manual acompanh
+
+
+acompanh aca control mais adequ par adoca pratic auditor continu base utiliz bas dad subsid analis automatiz bem sistem corporat orgaosent dem dad disponibiliz font abert inform term item anex portariasegecex
+
+
+acompanh diferes outr aca control permit verific atos unidad jurisdicion med realiz maior frequenc decisa sobr quand agir cab unidad tecnic ut med est necessit cumpr determin leg regulament bem identifiqu risc problem inconform relacion objet fiscaliz aca ut tend mais rap tempest
+
+
+conform refer portariasegecex ess acompanh pod realiz mediant
+
+
+obtenca inform sem autuaca process control extern mei autuaca process produca conhec public ofici siti eletron orga entidad sistem informatiz administr public federal diligente visit tecnic particip event
+
+
+autuaca process naofiscaliz tip acompanh acom cas inform obtid consult sistem informatiz respost diligente suficient par acompanh objet fiscaliz send necessari elabor instruca par analis inform obtid eou proposica adoca med corret punit pel tribunal
+
+
+fiscaliz previst regiment intern tcu process fiscaliz tip relatori acompanh racom quand acompanh inform exig trabalh camp complex mat exig design equip fiscaliz
+
+
+verificas ativ fiscaliz mediant receb analis inform fornec pel sistem alic pod consider tip acompanh
+
+
+
+ressaltas tod inform aca realiz acompanh dev reun organiz pel ut mei preenchiment obrigatori planilh tabelastatus sem edica camp ali constant par possibilit dad tod ut sej consolid posterior maneir uniform
+
+
+
+
+unidad tecnic dev realiz est acompanh autuaca process especificofootnoteref process administrat produca conhec process control extern acompanh acom relatori acompanh racom fim formaliz realiz trabalh conform quadr obrigatori autu process especif par realiz analis inform fornec pel sistem alic par dar respald trabalh auditor realiz ess analis sej mei portariasegecex process produca conhec portariasegecex process acom racom
+
+
+
+
+
+
+
+quadr possibil processu realiz trabalh
+
+
+
+
+
+
+
+
+produca conhec
+
+
+
+
+
+acompanh
+
+
+
+
+acom
+
+
+
+
+
+relatori acompanh
+
+
+
+
+racom
+
+
+
+
+
+
+
+tip process
+
+
+
+
+administrat
+
+
+
+control extern
+
+
+
+
+
+
+regul
+
+
+
+
+portariasegecex
+
+
+
+portariasegecex
+
+
+
+
+
+
+ministrorelator
+
+
+
+
+necessari ministrorelator
+
+
+
+necessari ministrorelator defin conform regr estabelec resolucaotcu
+
+
+
+
+
+
+propost autoriz
+
+
+
+
+necess propost autoriz
+
+
+
+propost dev formul proced especif dev dirig relator compet aproval rejeital submetel plenari par deliber conform resolucaotcu
+
+
+
+
+
+
+disponibil process ut
+
+
+
+
+unidad tecnic autoriz autu process administrat eletron class planejamentocontrol subcl produca conhec pcon objet registr aca produca conhec
+
+
+inicial cad unidad autu process ana pod hav desdobr futur outr process depend necess organiz inform
+
+
+
+cas process permanec abert mais ana dev elabor relatori parcial cad ana mesm sem achad identific par dar cienc relator estagi acompanh cas sej necessari dar continu acompanh relatori parcial dev cont propost retorn aut ut par prossegu feit
+
+
+termin ana dev elabor relatori final inclusa propost arquiv aut questa eficiente racional
+
+
+cas sej necessari dar continu acompanh relatori final cont aind propost determin par ut autu nov process objet dar prossegu acompanh atend deliber aprov propost fiscaliz origin
+
+
+cas precis permanec abert mais anos dev lev conhec segecex fim sej aplic criteri antigu par reduca process estoqu
+
+
+
+
+
+
+fas
+
+
+
+
+process produca conhec mais flexivel busc faz seleca objet fiscaliz estud determin orga clientel
+
+
+
+complex objet fiscaliz demand realiz fas planej permitira conhecel defin escop etap posterior fiscaliz
+
+
+
+
+
+
+fiscalisplan port fiscaliz
+
+
+
+
+par realiz produca conhec elabor relatori cas necessari hav inclusa sistem fiscal emit port design equip
+
+
+
+bas analis inform extra sistem eou fornec pel gestor auditor dev avali conveniente oportun realiz inspeca par verific ato process relacion objet fiscaliz
+
+
+ness cas dev emit port inspeca cri registr fiscalisplan par ess final referindos process acompanh
+
+
+cad inspeca auditor respons obter inform necess par realiz analis julg pertinent inform pod obtid mei diligente gestor respons consult siti internet sistem informatiz bas dad disponiv final inspeca auditor emit instruca relatori parcial submet relator
+
+
+
+sempr ut realiz proced colet analis dad necessari public port fiscaliz contempl fas planej execuca relatori cad trabalh conclusa cad fas execuca acompanh equip ira elabor relatori parcial submet relator
+
+
+ut pod inici etap subsequent trabalh apreci relatori etap anterior pel relator pel plenari
+
+
+
+
+
+
+planej
+
+
+
+
+seleca fiscaliz pressupo dentr outr analis criteri risc material relevanc oportun
+
+
+resolucaotcu
+
+
+
+equip supervisor depo identific are maior risc viabil acompanh dev defin escop trabalh
+
+
+durant planej tamb dev estabelec criteri acompanh inform necess par avali objet long execuca trabalh
+
+
+identific criteri acompanh equip dev consider seguint
+
+
+quantidad criteri observ dev suficient par avali abrangent objet pod tao grand inviabiliz analis tempest documentosinform pel equip
+
+
+limit toleranc cad variavel dev defin mod volum documentosinform super capac analis period estabelec
+
+
+sempr compar entr valor observ variavel limit toleranc acompanh indic discrepanc ut dev avali oportun realiz proced colet analis dad par verific caus ocorrente
+
+
+planej encerr elabor matriz planej contempl proced aplic fas execuca acompanh
+
+
+
+
+
+
+trabalh camp
+
+
+
+
+unidad tecnic pod encaminh ofici diligente ambit process produca conhec sempr houv necess solicit document inform
+
+
+cas sej necess ida equip tecnic orgaoent par obtenca inform est dev ocorr ambit process control extern adequ situaca
+
+
+
+trabalh camp previ autoriz quand necessari dev realiz mei inspeca emissa port especif dev referenci process acompanh
+
+
+
+permit diligente consult mais divers font inform autoriz previ trabalh camp
+
+
+permit emissa mais port fiscaliz porqu pod envolv ativ long praz period descontinu
+
+
+
+
+
+
+constat possibil ocorr dan erari irregular grav
+
+
+
+
+ambit produca conhec dev hav propost encaminh deliber pel relator pel colegi
+
+
+durant realiz trabalh constat proced poss result dan erari irregular grav relat proposica encaminh par constat dev feit mei represent ritcu
+
+
+
+durant realiz trabalh constat proced poss result dan erari irregular grav fat dev comunic supervisor aca control consider objet aca control titul ut supervisor avali conveniente oportun aprofund exam acerc irregular propri process acompanh propor realiz outr aca control vist conclu analis fat identific
+
+
+hipotes analis fat compromet alcanc objet acompanh relat proposica encaminh par constat dev feit mei represent ritcu
+
+
+represent autu pod quand encerr apens process principal acompanh
+
+
+contud exam realiz suficient par evidenci achad eou formul propost aperfeico interfer alcanc objet previst ut pod propor determin recomend relat irregular constat propri process acompanh
+
+
+
+
+
+
+contag hdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+registr valor benefici volum recurs fiscaliz process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+segu apresent pass pass par abertur dess process sistem tcu
+
+
+
+
+
+
+
+
+
+i autuaca process produca conhec
+
+
+
+entrar etcu
+
+
+secretarioassessordiretor faz despach par abrir process produca conhec explic objet mesm
+
+
+cri document administrat clic aba nov depo document administrat
+
+
+janel cadastr document selecion unidad cadastr clic inser document
+
+
+janel inser minut document camp atribut document escolh natur administrat tip despach confidencial sigil
+
+
+janel inser minut document camp arquiv escolh arquiv despach
+
+
+aind janel inser minut document camp inform complement identific analis inform alic ana xx assunt descrica process par analis inform sistem alic ana xx pel secexxx alic footnoteref exist process relacion exist process anterior exist process anterior dat assinatur document dat autor nom servidor orgaoentidadeempres tcu possu item digitaliz clic inser obrigatori inser alic assunt process acompanh represent etcu par possibilit rastreabil dess process
+
+
+
+janel cadastr document camp encaminh selecion autu nov process administrat clic assin confirm
+
+
+janel assin document coloc senh senh selecion motiv autor assin servidor carg efet clic assin
+
+
+janel oper realiz sucess cliqu ok par autu nov process administrat clic ok
+
+
+janel autu process administrat clic prossegu
+
+
+
+janel autu process administrat selecion confidencial sigil unidad autuador ut class planejamentocontrol subcl produca conhec assunt process par analis inform sistem alic ana xx pel secexxx alicefootnoteref relator sem relator escolh interess unidad tcu clic prossegu obrigatori inser alic assunt process acompanh represent etcu par possibilit rastreabil dess process
+
+
+
+janel autu process administrat camp encaminh process selecion par diretoriaservidor process dev encaminh
+
+
+
+
+
+
+
+
+i autuaca process control extern tip acom
+
+
+
+entrar etcu
+
+
+clic aba nov depo process control extern
+
+
+janel inform basic selecion confiabil sigil tip acompanh unidad respons tecnic secexxx unidad respons agir secexxx
+
+
+aind janel inform basic selecion classific arquivist outr assunt referent control extern segu selecion acompanh monitor segu selecion acompanh
+
+
+aind janel inform basic camp assunt inser process par analis inform sistem alic ana xx pel secexxx alicefootnoteref indici irregular pod ensej sanca tribunal selecion obrigatori inser alic assunt process acompanh represent etcu par possibilit rastreabil dess process
+
+
+
+aind janel inform basic camp unidad jurisdicion clic bota
+
+
+janel pesso jurid cadastr camp nom part del inser part nom orgaoent clic pesquis selecion orgaoent desej list apresent clic bolinh esquerd clic retorn pesso selecion depo clic nov inclu
+
+
+repet dois pass anterior inclu princip unidad jurisdicion clientel ut quand tiv list orgaosent complet clic conclu
+
+
+aceit sugesta relator
+
+
+etcu selecion process control extern visa unidad secexxx selecion process cri list clic quadr esquerd inclu pec process despach secretari solicit abertur process acom explic objet mesm
+
+
+etcu selecion process control extern visa unidad secexxx selecion process cri list clic quadr esquerd oper sobr process xxxxxx x escolh oper envi par sortei relator clic
+
+
+
+
+
+
+
+
+i autuaca process control extern tip racom
+
+
+
+entrar fiscal clic servic clic list tod sistem tcu pesquis fiscal clic fiscal sistem gerenci fiscaliz
+
+
+clic aba fiscaliz depo inser fiscaliz fiscalisplan
+
+
+janel inser fiscaliz pagin inser titul fiscaliz process par analis inform sistem alic ana xx pel secexxx alicefootnoteref selecion unidad coorden inser quantidad servidor quantidad dias planej quantidad dias execuca quantidad dias relatori mesan inici fiscaliz selecion instrument fiscaliz acompanh selecion plan fiscaliz selecion modal fiscaliz conform inser numeroan fiscaliz anterior relacion clic avanc obrigatori inser alic assunt process acompanh represent etcu par possibilit rastreabil dess process
+
+
+
+janel inser fiscaliz pagin preench objet licit prega contrat diret preench objet process par analis inform sistem alic ana xx pel secexxx alic selecion opca inser numer total diar inser valor total diar inser auxili tecnic clic avanc
+
+
+janel inser fiscaliz pagin selecion criteri disponiv propost unidad clic adicion selecion are disponiv contrat diret licit clic adicion selecion unidad secex clic adicion selecion local realiz fiscaliz uf ufs envolv clic adicion clic avanc
+
+
+janel inser fiscaliz pagin clic funca govern selecion funca dropdown clic inclu houv vari orga clientel selecion funca princip orga clic subfunca govern selecion subfunca dropdown clic inclu houv vari orga clientel selecion subfunco princip orga clic program govern inser codig ppa selecion fiscaliz vincul program govern coloc motiv cas inser program govern clic funcional programat inser pt ana clic deliber monitor clic orgaoent selecion princip orga clientel sab primeir orga inser selecion relator process clic deliber inser numer process numer deliber determin realiz racom clic linh aca selecion pet objet estrateg linh aca selecion fiscaliz vincul linh aca clic envi
+
+
+send autoriz fiscaliz emit port fiscaliz cri process fiscaliz tip racom primeir pec ess port
+
+
+
+mais detalh wik fiscal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii padroniz process trabalh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii process trabalh part inform sistem alic
+
+
+
+segu descrit process trabalh par analis inform sistem alic bas proced desenvolv pel selog secret control extern aquisica logist sugesta par unidad tecnic dest tribunal observas est proced analis pod modific par melhor atend form atuaca cad ut
+
+
+adicional suger emails encaminh pel auditor orga entidad jurisdicion sig padra defin nest manual model f fim mant ident uniform atuaca tcu perant public extern cas hav alter emails segu orient par elabor document tecnic control extern
+
+
+
+
+entant preenchiment planilh tabelastatus obrigatori form possibilit dad tod ut sej consolid posterior maneir uniform footnoteref obrigatori utiliz planilh tabelastatus preench dad identific aquisica acompanh volum recurs fiscaliz vrf benefici efet aca control tip benefici efet indiret par possibilit consolid valor vrf benefici resultant aca control realiz pel tribunal cont unia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+secretari assessor diretor
+
+
+
+
+defin par ut respons pel analis emails alic principal substitut frequenc realiz diariasemanal
+
+
+
+escolh auditor perfil investigat acord disponibil hdf unidad
+
+
+
+
+
+
+secretari assessor diretor
+
+
+
+
+defin par ut prioridad analis inform provenient sistem alic edit atas prega contrat diret criteri seleca cad objet analis material risc relevanc oportun
+
+
+
+defin prioridad analis inform provenient sistem alic entr edit atas prega contrat diret
+
+
+exempl analis emails nest ordem xxx yyy zzz
+
+
+
+par cad tip inform email defin criteri seleca objet analis conform anex
+
+
+material acim determin valor sem valor estim
+
+
+risc existente alert grau correspondente checklist
+
+
+relevanc oportun tip objet contrat licit provenient determin clientel outr diretriz unidad
+
+
+
+podes tamb preench matriz risc risc x material anex escolh entr analis pod analis analis
+
+
+
+salv anex past secexalicetabelastatus matrizderiscoalicesecex inform auditor criteri defin
+
+
+
+
+
+
+diretor
+
+
+
+
+receb diari emails alic envi par auditor responsavel pel verific edit atas prega contrat diret
+
+
+
+cri regr automat encaminh email envi email alic par auditor
+
+
+
+
+
+
+auditor
+
+
+
+
+analis emails acord sequenc prioridad defin pel ut edit atas prega contrat diret
+
+
+
+cad email analis objet atend criteri material risc relevanc oportun defin pel ut
+
+
+
+cad email par cad objet atend criteri defin pel ut
+
+
+verific valor material email confirm
+
+
+quand houv alert verific par cad alert cas verdadeir posit situaca real ilegalidaderisc fals posit situaca fals ilegalidaderisc
+
+
+realiz outr analis conform matriz planej unidad
+
+
+registr inform tabelastatus past red secexalicetabelastatus
+
+
+
+verific acord criteri estabelec indici irregular houv registr tabelastatus encerr acompanh
+
+
+
+
+
+
+auditordiretor
+
+
+
+
+deliber sobr encaminh indici irregular verific
+
+
+
+discussa informal auditor verific indici irregular consider relevant pont exig providente orgaoent
+
+
+
+
+
+
+auditor
+
+
+
+
+cas indici irregular sej consider relevant envi email orgaosent solicit manifest praz par atend
+
+
+
+emails dev envi mei caix secexacompanhamentotcugovbr necess salval red
+
+
+
+email inicial dev envi conform model anex obtid past red secexalicedocumentospadra
+
+
+
+cas haj manifest orgaoent reiter email conform model anex b c obtid past red secexalicedocumentospadra conced nov praz
+
+
+
+cas orgaoent nov respond email auditor dev inform diretor sobr ess ausenc manifest discutira secretari sobr necess entrar contat agend reunia par discut autu represent
+
+
+
+registr tod pass camp especif tabelastatus past red secexalicetabelastatus
+
+
+
+
+
+
+orgaoent
+
+
+
+
+respond email
+
+
+
+apresent justificat par indici irregular verific inform problem sane apresent soluca par irregular
+
+
+
+
+
+
+auditor
+
+
+
+
+analis justificat apresent pel orgaoent
+
+
+
+acat justificat registr tabelastatus past red secexalicetabelastatus envi email dand cienc orgaoent conform model anex obtid past red secexalicedocumentospadra encerr acompanh
+
+
+
+adot providente pel orgaoent par san questa registr tabelastatus past red secexalicetabelastatus fich achad anex b c salval past red secexalicefichaslicit secexalicefichasat secexalicefichascontratacoesdiretas envi email dand cienc orgaoent conform model anex obtid past red secexalicedocumentospadra encerr acompanh
+
+
+
+justificat acat envi email reiter orgaoent conform model b c obtid past red secexalicedocumentospadra
+
+
+
+
+
+
+secretari diretor auditor
+
+
+
+
+discut sobr desdobr acompanh
+
+
+
+justificat nov acat pel auditor discut sobr necess agend reunia orgaoent par discut sobr indici irregular verific par acord praz par apresent soluca
+
+
+
+
+
+
+secretari diretor auditor orgaoent
+
+
+
+
+realiz reunia
+
+
+
+realiz reunia par discussa sobr indici irregular verific pel auditor possiv soluca adot
+
+
+
+
+
+
+auditor
+
+
+
+
+registr aca tom orgaoent
+
+
+
+cas realiz reunia orgaoent problem sej sane registr tabelastatus past red secexalicetabelastatus preench fich achad anex b c salval past red secexalicefichaslicit secexalicefichasat secexalicefichascontratacoesdiretas envi email dand cienc orgaoent conform model anex obtid past red secexalicedocumentospadra encerr acompanh
+
+
+
+
+
+
+secretari diretor auditor
+
+
+
+
+deliber sobr autuaca process represent cas
+
+
+
+cas orgaoent apresent soluca par irregular apont decid sobr autuaca process represent registr tabelastatus past red secexalicetabelastatus comunic orgaoent email conform model anex f obtid past red secexalicedocumentospadra
+
+
+atenca autu process represent inser alic assunt process par facilit rastreabil dess process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii preenchiment tabelastatus
+
+
+
+tabelastatus planilh excel desenvolv pel selog secret control extern aquisica logist par acompanh aca decorrent sistem alic
+
+
+
+preenchiment tabelastatus obrigatoriofootnoteref par secret control extern registr histor analis realiz auditor part inform sistem alicefootnoteref inform inclusiv volum recurs fiscaliz benefici aca control extern mesm sem autuaca process represent obrigatori utiliz planilh tabelastatus preench dad identific aquisica acompanh volum recurs fiscaliz vrf benefici efet aca control tip benefici efet indiret par possibilit consolid valor vrf benefici resultant aca control realiz pel tribunal cont unia cad linh tabelastatus referent licit ata prega contrat diret entrou criteri seleca secret sofr analis auditor mesm aquisica tenh desdobr conclu analis desnecess adoca qualqu med pel tcu est linh dev mant tabel par contabiliz volum recurs fiscaliz aquisica sofr analis part auditor dev registr planilh tabelastatus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alic secexxx tabel status analis edit licit atas prega contrat diret
+
+
+
+
+
+
+
+fas intern fas intern fas intern fas intern fas intern fas intern fas intern fas intern fas intern fas intern fas intern fas intern
+
+
+
+
+
+fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern fas extern
+
+
+
+
+
+
+
+dat inform alic
+
+
+
+
+
+tip inform alic
+
+
+
+
+
+numer uasg
+
+
+
+
+
+nom uasg
+
+
+
+
+
+modal
+
+
+
+
+
+numer edital
+dispens
+inexigibil
+
+
+
+
+
+objet contrat
+
+
+
+
+
+estimat unidad r
+
+
+
+
+
+total realiz r
+
+
+
+
+
+quantidad alert
+
+
+
+
+
+link edital
+
+
+
+
+
+alert confirm
+
+
+
+
+
+encontr outr falh
+irregular pel auditor
+
+
+
+
+
+auditor realiz analis
+
+
+
+
+
+dat limit par apresent justificat pel orgaoent email
+
+
+
+
+
+situaca praz email
+
+
+
+
+
+houv respost email
+
+
+
+
+
+orga entidad justific inform corrig falh irregular
+
+
+
+
+
+autu process represent
+
+
+
+
+
+numer process represent
+
+
+
+
+
+volum recurs fiscaliz r
+
+
+
+
+
+benefici efet aca control preferente quantitat financeir r
+
+
+
+
+
+tip benefici efet indiret
+
+
+
+
+
+
+link par fich achad
+
+
+
+
+
+
+status acompanh
+
+
+
+
+
+observ
+
+
+
+
+
+
+
+fas intern tabel compost seguint colun
+
+
+dat inform alic dat public inform atenca par usar dat obtid text mostr xxxxx inter public abr
+
+
+tip inform alic licit atas prega contrat diret
+
+
+numer uasg numer unidad licitant contratant
+
+
+nom uasg nom unidad licitant contratant
+
+
+modal modal licit dispensainexigibil licit
+
+
+numer edital dispens inexigibil numer certamean numer dispensainexigibil licitacaoan houv
+
+
+objet contrat objet contrat descrit form sucint oriund edital
+
+
+estimat unidad r valor estim licit pel unidad oriund email inform licit dgi consult
+
+
+total realiz r valor global ata result fornecedor prega oriund email inform atas prega valor global contrat inform extrat dou oriund email inform contrat diret
+
+
+quantidad alert somatori tipolog distint
+
+
+link edital link par arquiv zip edital
+
+
+alert confirm
+
+
+encontr outr falh irregular pel auditor
+
+
+auditor realiz analis nom auditor realiz analis
+
+
+
+fas extern tabel compost seguint colun
+
+
+dat limit par apresent justificat pel orgaoent emailfootnoteref dat limit inform email solicit inform model anex b c unidad tecnic decid preench est colun inform orientas exclu
+
+
+
+situaca praz email praz expir preenchiment automat
+
+
+houv respost email
+
+
+orga entidad justific inform corrig falh irregular
+
+
+autu process represent
+
+
+numer process represent numer process control extern
+
+
+volum recurs fiscaliz r valor recurs fiscaliz valor colun total realiz estimat unidad preenchiment automat
+
+
+benefici efet aca control preferente quantitat financeir r valor benefici efet r benefici qualitat obtid conform portariasegecex respect anex
+
+
+tip benefici efet indiret reduca prec process licitatori especif aperfeico metodologias estimat cust reduca prec tabel ofici selecion soment cas hav benefici quantitat financeir calcul conform itens reduca prec process licitatori especif aperfeico metodologias estimat cust reduca prec tabel ofici pagin anex
+
+
+link par fich achad link par fich achad model anex fich achad soment preench quand houv tip benefici
+
+
+status acompanh camp livr preenchiment p ex aguard respost email aguard finaliz certam
+
+
+observ camp livr preenchiment
+
+
+
+
+
+
+
+
+ii organiz pec process
+
+
+
+
+sugeres inserca pec process produca conhec acom racom sej feit termin analis preenchiment cad linh planilh tabelastatus form tod pec relacion objet licit analis sej inser outr objet facilit recuper
+
+
+
+
+
+adicional sugeres inser planilh tabelastatus pec process eletron final cad mes objet demonstr histor aca control unidad tecnic
+
+
+
+
+
+
+
+
+ii quantific trimestral benefici control
+
+
+
+
+secret control extern realiz aca control extern decorrent acompanh inform fornec mei sistem alic encaminh secret metod suport control extern semec pel caix postal orientartcugovbr dias encerr cad trimestr valor total benefici efet resultant dess aca par fins inclusa relatori ativ tcu
+
+
+
+anex email unidad tecnic envi planilh preench tabelastatus par semec poss valid valor apur
+
+
+
+necessari semec solicit unidad fich achad relat registr planilh tabelastatus
+
+
+
+valor benefici control dev calcul conform portariasegecex respect anex
+
+
+
+
+
+
+
+
+
+
+ii pesquis process oriund sistem alic etcu
+
+
+
+
+entrar etcu
+
+
+clic aba consult
+
+
+janel consult process selecion estad tod format tod assunt coloc alic clic consult
+
+
+janel result pesquis trar tod process administrat control extern alic assunt process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex
+
+
+
+
+
+
+
+
+
+
+
+anex tutorial regr automat encaminh email
+
+
+
+abrir outlook caix postal unidad tecnic
+
+
+clic bota direit mous email inform atas
+
+
+selecion regr cri regr
+
+
+
+
+
+selecion sistem dgi
+
+
+clic opca avanc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clic avanc
+
+
+
+
+
+etap selecion encaminh par pesso grup public
+
+
+etap clic pesso grup public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+desej selecion list enderec eletron existent
+
+
+clic par inclu par
+
+
+
+
+desej selecion servidor individual pel nom
+
+
+clic par inclu par
+
+
+final clic ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+clic avanc
+
+
+
+
+
+exceca clic avanc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+etap cri nom par est regr sistem dgi
+
+
+etap verific est selecion ativ est regr
+
+
+clic conclu
+
+
+
+
+
+par delet regr encaminh email
+
+
+clic regr
+
+
+clic gerenci regr alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+selecion apen sistem dgi
+
+
+clic exclu
+
+
+confirm exclusa regr sistem dgi
+
+
+clic ok
+
+
+
+
+
+
+
+
+
+
+anex tutorial par alter naveg padra par googl chrom
+
+
+
+abrir naveg googl chrom
+
+
+clic bota defin padra
+
+
+
+
+
+aparec bota defin padra
+
+
+clic depo configur
+
+
+
+
+
+desc par final tel
+
+
+clic faz googl chrom naveg padra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex quadr criteri acompanh matriz risc
+
+
+
+
+
+
+
+
+segecex secexxx
+
+
+
+
+
+tc
+
+
+
+
+fiscal
+
+
+
+
+
+
+
+
+
+
+unidad jurisdicion
+
+
+
+
+principal orgaosent acompanh
+
+
+
+
+
+
+objet
+
+
+
+
+analis inform fornec pel sistem alic relat clientel ut ana xx registr aca control extern realiz
+
+
+
+
+
+
+
+
+
+
+
+alic licit
+
+
+
+
+
+tribunal cont uniaoord analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+criteri acompanh
+
+
+
+
+
+dad inform
+
+
+
+
+
+
+
+descrica variavel
+
+
+
+
+
+limit toleranc
+
+
+
+
+
+dev colet
+
+
+
+
+
+
+estimat unidad
+
+
+
+r valor defin pel ut
+
+
+
+verific arquiv edital valor estimat unidad inform pel email par licit analis confirm
+
+
+
+
+
+estimat unidad
+
+
+
+valor identific
+
+
+
+procur arquiv edital exist valor estim pel orga licitant par licit analis ess valor superior valor defin pel ut continu analis edital
+
+
+
+
+
+risc
+
+
+
+existente alert
+
+
+
+quand houv alert verific par cad alert cas verdadeir posit situaca real ilegalidaderisc fals posit situaca fals ilegalidaderisc
+
+
+
+
+
+caracterist licit observ
+
+
+
+valor atribut assum pel variavel observ pod justific atuaca ut acompanh
+
+
+
+inform colet analis sej detalh element objet observ durant planej execuca trabalh
+
+
+
+
+
+
+
+
+
+
+
+alic licit matriz risc
+
+
+
+
+
+
+
+material
+
+
+
+
+risc
+
+
+
+
+
+baix material
+
+
+
+
+
+alt material
+
+
+
+
+
+
+
+alert
+
+
+
+
+analis pod analis
+
+
+
+analis
+
+
+
+
+
+
+sem alert
+
+
+
+
+analis
+
+
+
+analis pod analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alic atas prega
+
+
+
+
+
+ordem analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+criteri acompanh
+
+
+
+
+
+dad inform
+
+
+
+
+
+
+
+descrica variavel
+
+
+
+
+
+limit toleranc
+
+
+
+
+
+dev colet
+
+
+
+
+
+
+material
+
+
+
+r valor defin pel ut
+
+
+
+verific ata result fornecedor valor material inform pel email par prega analis confirm
+
+
+
+
+
+material
+
+
+
+valor identific
+
+
+
+procur ata result fornecedor exist valor material par prega analis ess valor superior valor defin pel ut continu analis ata prega
+
+
+
+
+
+risc
+
+
+
+existente alert
+
+
+
+quand houv alert verific par cad alert cas verdadeir posit situaca real ilegalidaderisc fals posit situaca fals ilegalidaderisc
+
+
+
+
+
+caracterist prega observ
+
+
+
+valor atribut assum pel variavel observ pod justific atuaca ut acompanh
+
+
+
+inform colet analis sej detalh element objet observ durant planej execuca trabalh
+
+
+
+
+
+
+
+
+
+
+
+alic atas prega matriz risc
+
+
+
+
+
+
+
+material
+
+
+
+
+risc
+
+
+
+
+
+baix material
+
+
+
+
+
+alt material
+
+
+
+
+
+
+
+alert
+
+
+
+
+analis pod analis
+
+
+
+analis
+
+
+
+
+
+
+sem alert
+
+
+
+
+analis
+
+
+
+analis pod analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alic contrat diret
+
+
+
+
+
+ordem analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+criteri acompanh
+
+
+
+
+
+dad inform
+
+
+
+
+
+
+
+descrica variavel
+
+
+
+
+
+limit toleranc
+
+
+
+
+
+dev colet
+
+
+
+
+
+
+material
+
+
+
+r valor defin pel ut
+
+
+
+verific pagin dou valor material inform pel email par contrat diret analis confirm
+
+
+
+
+
+material
+
+
+
+valor identific
+
+
+
+procur pagin dou exist valor material par contrat diret analis ess valor superior valor defin pel ut continu analis contrat diret
+
+
+
+
+
+caracterist contrat diret observ
+
+
+
+valor atribut assum pel variavel observ pod justific atuaca ut acompanh
+
+
+
+inform colet analis sej detalh element objet observ durant planej execuca trabalh
+
+
+
+
+
+
+
+
+
+
+
+alic contrat diret matriz risc
+
+
+
+
+
+
+
+material
+
+
+
+
+risc
+
+
+
+
+
+baix material
+
+
+
+
+
+alt material
+
+
+
+
+
+
+
+alert
+
+
+
+
+analis pod analis
+
+
+
+analis
+
+
+
+
+
+
+sem alert
+
+
+
+
+analis
+
+
+
+analis pod analis
+
+
+
+
+
+
+
+
+
+
+
+
+anex estrutur diretori par registr analis
+
+
+
+
+
+
+
+unidad tecnic pod cri diretori alic dentr are cad secret sarqprod desej pod dar acess leitur dem secret inclusiv semec sgi adgecex
+
+
+
+
+
+
+
+
+
+
+anex sugesta salv arquiv past fich
+
+
+
+
+past fich dev salv fich achad cuj model encontr past documentospadra referent cad licitacaoat verific arquiv dev salv respect past licit atas contrat diret conform seguint nomenclatur
+
+
+
+
+
+assunt geralassunt especificon uasgmodalidadenumeroan
+
+
+
+
+
+camp assunt geral dev preench seguint opca
+
+
+aquisica contrat ambit servic tecnolog inform aquisica softw etc
+
+
+b ose contrat obras servic engenh reform construca etc
+
+
+c contrat mao obr terceiriz brigad seguranc etc
+
+
+d loc contrat ambit locaca imov
+
+
+ces contrat ambit cessa uso
+
+
+f aq aquisica geral ref tecnolog inform
+
+
+
+camp assunt especif dev preench bas assunt contrat send exaust contud auditor dev verific fich salv assunt especif referent analis verific outr contrat dev repet nom par design evit nest camp nom muit abrevi fim possibilit facil identific objet atalicit
+
+
+
+camp uasg dev preench numer uasg orgaoent respons pel licit
+
+
+
+camp modal dev preench seguint opca
+
+
+pe prega eletron
+
+
+b pp prega presencial
+
+
+c conc concorrente
+
+
+d tp tom prec
+
+
+conv convit
+
+
+
+camp numeroan dev preench numer ana licit
+
+
+
+exempl
+
+
+
+tisoftw pe docx
+
+
+
+aqimagenssatelit conc docx
+
+
+
+terbrigad pe docx
+
+
+
+terrecepcionistaslimpezacopeiragem pe docx
+
+
+regr
+
+
+tod palavr compo nom arquiv dev escrit letr maiuscul
+
+
+itens compost mais palavr eou numer dev separ trac simpl
+
+
+separ entr itens assunt geral assunt especif numer uasg modal etc dev feit subtrac
+
+
+nom assunt especif dev possibilit facil identific objet atalicit
+
+
+
+anex fich achad licit
+
+
+
+salv arquiv past licit
+
+
+assunt geralassunt especificon uasgmodalidadenumeroan
+
+
+
+
+
+
+sistem alic licit
+
+
+
+
+fich achad
+
+
+
+
+
+
+
+identific
+
+
+
+
+
+
+
+benefici
+
+
+
+
+
+benefici financeir houv
+
+
+
+
+
+
+revog licit republic edital eou public avis comprasnet
+
+
+
+valor benefici
+
+
+
+
+
+
+numer uasg
+
+
+
+
+
+nom uasg
+
+
+
+
+
+
+numer uasg
+
+
+
+nom uasg
+
+
+
+
+
+
+valor estim pel uasg r
+
+
+
+
+
+dat public certam
+
+
+
+
+
+dat abertur propost
+
+
+
+
+
+
+valor estim
+
+
+
+ddmmaaa
+
+
+
+ddmmaaa
+
+
+
+
+
+
+modalidadenumer certam
+
+
+
+
+
+form adjudic regim execuca
+
+
+
+
+
+link edital comprasnet
+
+
+
+
+
+
+modal numer certam
+
+
+
+form adjudic regim execuca
+
+
+
+inser link edital comprasnet
+
+
+
+
+
+
+objet resum certam
+
+
+
+
+
+
+descrica objet
+
+
+
+
+
+
+b indici irregularidadesimpropriedad verific situaca inicial edital
+
+
+
+
+
+
+part analis edital realiz seguint question orgaoent
+
+
+inser question feit pel auditor orgaoent
+
+
+
+
+
+
+c situaca edital question posterior correca pel orgaoent
+
+
+
+
+
+
+question formul pel tcu seguint providente adot pel orgaoent
+
+
+inser alter promov pel orgaoent edital par san irregularidadesimpropriedad verific
+
+
+
+
+
+
+d memor calcul benefici efet
+
+
+
+
+
+
+demonstr memor calcul valor apont benefici financeir houv
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex b fich achad atas prega
+
+
+
+salv arquiv past atas
+
+
+assunt geralassunt especificon uasgmodalidadenumeroan
+
+
+
+
+
+
+sistem alic atas prega
+
+
+
+
+fich achad
+
+
+
+
+
+
+
+identific
+
+
+
+
+
+
+
+benefici
+
+
+
+
+
+benefici financeir houv
+
+
+
+
+
+
+revog licit anul certam eou revisa ato pregoeir
+
+
+
+valor benefici
+
+
+
+
+
+
+numer uasg
+
+
+
+
+
+nom uasg
+
+
+
+
+
+
+numer uasg
+
+
+
+nom uasg
+
+
+
+
+
+
+valor estim pel uasg r
+
+
+
+
+
+dat public certam
+
+
+
+
+
+dat abertur propost
+
+
+
+
+
+
+valor estim
+
+
+
+ddmmaaa
+
+
+
+ddmmaaa
+
+
+
+
+
+
+modalidadenumer certam
+
+
+
+
+
+form adjudic regim execuca
+
+
+
+
+
+link par edital
+
+
+
+
+
+
+modal numer certam
+
+
+
+form adjudic regim execuca
+
+
+
+inser link edital comprasnet
+
+
+
+
+
+
+objet resum certam
+
+
+
+
+
+
+descrica objet
+
+
+
+
+
+
+b indici irregularidadesimpropriedad verific
+
+
+
+
+
+
+part analis ata realiz seguint question orgaoent
+
+
+inser question feit pel auditor orgaoent
+
+
+
+
+
+
+c med adot pel orgaoent question
+
+
+
+
+
+
+question formul pel tcu seguint providente adot pel orgaoent
+
+
+inser alter promov pel orgaoent edital par san irregularidadesimpropriedad verific
+
+
+
+
+
+
+d memor calcul benefici efet
+
+
+
+
+
+
+demonstr memor calcul valor apont benefici financeir houv
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex c fich achad contrat diret
+
+
+
+salv arquiv past contrat diret
+
+
+assunt geralassunt especificon uasgmodalidadenumeroan
+
+
+
+
+
+
+sistem alic contrat diret
+
+
+
+
+fich achad
+
+
+
+
+
+
+
+identific
+
+
+
+
+
+
+
+benefici
+
+
+
+
+
+benefici financeir houv
+
+
+
+
+
+
+desistente contrat aprimor criteri contrat
+
+
+
+valor benefici
+
+
+
+
+
+
+numer uasg
+
+
+
+
+
+nom uasg
+
+
+
+
+
+
+numer uasg
+
+
+
+nom uasg
+
+
+
+
+
+
+valor contrat r
+
+
+
+
+
+dat public certam
+
+
+
+
+
+dat abertur propost
+
+
+
+
+
+
+valor estim
+
+
+
+ddmmaaa
+
+
+
+ddmmaaa
+
+
+
+
+
+
+dispens inexigibil numer
+
+
+
+
+
+form adjudic regim execuca
+
+
+
+
+
+fundament legal
+
+
+
+
+
+
+
+dispensainexigibil numer
+
+
+
+
+form adjudic regim execuca
+
+
+
+fundament legal par dispens
+
+
+
+
+
+
+objet resum certam
+
+
+
+
+
+
+descrica objet
+
+
+
+
+
+
+b indici irregularidadesimpropriedad verific
+
+
+
+
+
+
+part analis contrat realiz seguint question orgaoent
+
+
+inser question feit pel auditor orgaoent
+
+
+
+
+
+
+c med adot pel orgaoent question
+
+
+
+
+
+
+question formul pel tcu seguint providente adot pel orgaoent
+
+
+inser alter promov pel orgaoent edital par san irregularidadesimpropriedad verific
+
+
+
+
+
+
+d memor calcul benefici efet
+
+
+
+
+
+
+demonstr memor calcul valor apont benefici financeir houv
+
+
+
+
+
+
+
+
+
+
+
+
+anex checklist analis licit
+
+
+
+
+
+
+
+
+check list par analis licit itens dev observ
+
+
+
+
+
+
+cas tenh sid apont alert par certam verific cas verdadeir posit situaca real ilegalidaderisc
+
+
+
+
+
+relat
+
+
+
+
+
+sugesta matriz planej elabor pel selog revis pel sgi bas matriz planej semec ut dev mant proced consider relevant acrescent outr desej retir dem
+
+
+analis term edital minut contrat
+
+
+modal licit form adjudic regim execuca verific adequ valor modal licit verific regim execuca est acord modal criteri medica pagament verific aplicabil adjudic global itens
+
+
+b houv dev public certam praz min conform modal licit realiz concorrente dias concorrente tip melhor tecnic tecnic prec regim execuca empreit integral dias tom prec dias tom prec tip menor tecnic tecnic prec prec dias convit dias ute prega dias ute alter edital impact formul propost reabertur praz
+
+
+c cas aquisica bens objet licit defin adequad sem caracteriz excess
+
+
+i examin caracterist defin tecnic justific indic direcion determin fornecedor
+
+
+ii analis aquisica especific form complet sem indic marc cas indic marc justificat tecnic par tant
+
+
+d cas aquisica bens houv restrica indev refer exigente amostr tod licitant apen primeir classific provisori quant prec
+
+
+cas contrat servic licit tev objet servic inerent ativ finalist instituica promovedor certam agent public
+
+
+i analis objet licit respeit ativ finalist instituica especial relacion plan carg orga entidad defin plan carg salari possivel haj contrat servic relacion quadr instituica quand trat carg extint total parcial ambit quadr geral pessoal in mpog
+
+
+f cas contrat servic continu adot unidad med permit mensur result par pagament contrat in mpog acorda p p p p par
+
+
+i result alcanc relaca contrat verific praz execuca qualidad demand
+
+
+ii recurs human empreg funca quantidad formaca profissional exig
+
+
+iii qualidad quantidad recurs materi utiliz
+
+
+iv adequ servic prest rotin execuca estabelec
+
+
+v cumpriment dem obrig decorrent contrat
+
+
+vi satisf public usuari
+
+
+g verific exigente atest respeit indevid funca especif recepcion servent gesta mao obr conform acorda plenari plenari plenari plenari
+
+
+h verific exigente registr conselh dig respeit ativ preponderant empres terceiriz mo admit exigente registr cra conform acorda
+
+
+i edital garant tratament diferenci microempres empres pequen port
+
+
+i comprov regular fiscal apen par efeit contrat
+
+
+ii cas empat dad oportun meepp cobr propost empres vencedor deves consider empat meepp ofert propost superior propost empres enquadr meepp prega tal interval conform estabelec lei complement
+
+
+j houv restrica particip empres cadastr junt sistem cadastr unific fornecedor sicaf
+
+
+i verific houv exigente cadastr previ sistem cadastr unific fornecedor sicaf par particip licit cas prega promov orga integrant sistem servic ger sisg ess exigente legal conform i decret
+
+
+k houv restrica indev refer qualific economicofinanceir licitant
+
+
+i capital social patrimoni liqu superior valor total estim par contrat
+
+
+ii capital social minim patrimoni liqu minim concomitant exigente garant particip licit
+
+
+iii qualific economicofinanceir relaca tod lot cas objet divis quand mesm dev ocorr loteit
+
+
+iv outr exigente maneir restring competitiv certam refer aspect econom financeir
+
+
+l houv restrica indev refer habilit tecnic licitant dem exigente passiv desclassific verific acord previst lei in mpog cas verific solicit cart solidariedad autoriz fabricant qualqu outr exigente restrit copi col exigente edital present formulari
+
+
+m cas locaca justificat par escolh dess form contrat detriment aquisica soluca escolh adequ par atend final contrat
+
+
+verific exist criteri aceitabil prec global prec unitari
+
+
+verific criteri reajust adequ indic utiliz observanc interregn minim mes observanc xi iii lei
+
+
+p verific possibil subcontrat configur subrog contrat acorda p
+
+
+q verific restrica indev exigente vistor acorda p p entr outr
+
+
+
+
+
+impugnacoessolicit esclarec faz analis sum apont possiv indici irregular cas
+
+
+
+
+
+relat
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex b checklist analis atas prega
+
+
+
+
+
+
+
+
+check list par analis atas prega itens dev observ
+
+
+
+
+
+
+cas tenh sid apont alert par prega verific cas verdadeir posit situaca real ilegalidaderisc
+
+
+
+
+
+relat
+
+
+
+
+
+sugesta matriz planej elabor pel selog revis pel sgi bas matriz planej semec ut dev mant proced consider relevant acrescent outr desej retir dem list proced dev preench par visualiz possiv irregular quand ut entend convenient
+
+
+analis ata realiz prega
+
+
+pesquis empres vencedor prega estav proib licit contrat administr aba inici dgi consult portal transparente httpwwwportaldatransparenciagovbrceis
+
+
+b pesquis empres vencedor prega apresent regular jurid fiscal trabalh
+
+
+i pesquis aba inici dgi consult
+
+
+cadastr nacional pesso jurid receit federal situaca cadastral dat abertur empres classific nacional ativ econom enderec soci contador
+
+
+cas empres comercial cadastr nacional empres mdic situaca inici termin ativ valor capital capital integraliz objet social enderec soci
+
+
+relaca anual inform soci houv envi inform pel fornecedor quantidad vincul estabelec houv ativ ultim anos
+
+
+gfip previdente social houv recolh recent ultim anos
+
+
+cadastr geral empreg desempreg m trabalh houv admissa demissa ultim anos
+
+
+sanca sanca diret fornecedor sanca pesso fisic relacion fornecedor
+
+
+ii pesquis sit receit federal existente dess empres situaca cadastral httpwwwreceitafazendagovbrpessoajuridicacnpjcnpjrevacnpjrevasolicitacaoasp observ
+
+
+existente numer inscrica cnpj nom empresarial raza social
+
+
+dat abertur empres
+
+
+codig descrica ativ econom principal
+
+
+enderec situaca cadastral atual
+
+
+iii pesquis pel inscrica estadual sit secret fazend estadu sit sistem integr inform sobr oper interestadu mercador servic wwwsintegragovbr
+
+
+iv cas suspeit empres sem existente jurid diligenci junt comercial cas empres comercial eou cartori registr pesso jurid cas sociedad civil organiz outr sem fins lucrat solicit extrat empres fim verific registr empres par confirm existente ocorrente possiv alter enderec
+
+
+
+
+
+numer propost cadastr
+
+
+
+numer propost
+
+
+
+
+
+numer empres particip fas lanc obs primeir lanc inform pel sistem relat propost cadastr sistem
+
+
+
+numer empres
+
+
+
+
+
+praz dad pel pregoeir par inici random part abertur sessa houv question praz pel licitant
+
+
+
+praz par inici random
+
+
+
+
+
+praz dad pel pregoeir par envi propost prec empres convoc par envi propost anex inform chat
+
+
+
+praz par envi propost
+
+
+
+
+
+propost envi pel empres convoc disponiv transmit sistem compr govern federal
+
+
+
+
+
+
+
+
+
+numer empres desclassificadasinabilit faz analis sum desclassificacoesinabilitacoes inform formulari motiv valor propost
+
+
+
+
+
+pregoeir inform dat horari iri retom sessa par divulg result analis propost
+
+
+
+
+
+
+
+
+
+houv reclam part licitant quant praz estipul pel pregoeir
+
+
+
+relat
+
+
+
+
+
+houv registr intenca recurs
+
+
+
+
+
+
+
+
+
+pregoeir abriu praz par registr intenca recurs
+
+
+
+
+
+
+
+
+
+houv negat intenca recurs cas afirmat verific pregoeir descumpr jurisprudente tribunal recus sumari intenca recurs eou receb recurs houv analis merit pressupost recurs sucumbente tempestiv legitim etc
+
+
+
+relat
+
+
+
+
+
+certam adjudicadohabilit valor superior estim especific valor
+
+
+
+relat
+
+
+
+
+
+cas afirmat houv negoci
+
+
+
+relat
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex c checklist analis contrat diret
+
+
+
+
+
+
+
+
+check list par analis contrat diret itens dev observ
+
+
+
+
+
+
+sugesta matriz planej elabor pel sgi bas matriz planej semec ut dev mant proced consider relevant acrescent outr desej retir dem
+
+
+analis term contrat diret
+
+
+contrat realiz mediant dispens licit enquadr hipotes lei apresent fundament legal corret objet contrat correspondent
+
+
+b contrat realiz mediant inexigibil licit enquadr hipotes lei apresent fundament legal corret objet contrat correspondent
+
+
+c pesquis empres contrat estav proib licit contrat administr aba inici dgi consult portal transparente httpwwwportaldatransparenciagovbrceis
+
+
+d pesquis empres contrat apresent regular jurid fiscal trabalh
+
+
+v pesquis aba inici dgi consult
+
+
+cadastr nacional pesso jurid receit federal situaca cadastral dat abertur empres classific nacional ativ econom enderec soci contador
+
+
+cas empres comercial cadastr nacional empres mdic situaca inici termin ativ valor capital capital integraliz objet social enderec soci
+
+
+relaca anual inform soci houv envi inform pel fornecedor quantidad vincul estabelec houv ativ ultim anos
+
+
+gfip previdente social houv recolh recent ultim anos
+
+
+cadastr geral empreg desempreg m trabalh houv admissa demissa ultim anos
+
+
+sanca sanca diret fornecedor sanca pesso fisic relacion fornecedor
+
+
+vi pesquis sit receit federal existente dess empres situaca cadastral httpwwwreceitafazendagovbrpessoajuridicacnpjcnpjrevacnpjrevasolicitacaoasp observ
+
+
+existente numer inscrica cnpj nom empresarial raza social
+
+
+dat abertur empres
+
+
+codig descrica ativ econom principal
+
+
+enderec situaca cadastral atual
+
+
+vii pesquis pel inscrica estadual sit secret fazend estadu sit sistem integr inform sobr oper interestadu mercador servic wwwsintegragovbr
+
+
+vii cas suspeit empres sem existente jurid diligenci junt comercial cas empres comercial eou cartori registr pesso jurid cas sociedad civil organiz outr sem fins lucrat solicit extrat empres fim verific registr empres par confirm existente ocorrente possiv alter enderec
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex model email inicial solicit inform
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+exercici competente constitucionallegal cabivel est tribunal cont unia quant fiscaliz licit contrat empreg recurs orig competente federal particip secret nom secret sigl secret dest tribunal realiz acompanh aquisica bens servic
+
+
+solicit v sa disponibiliz seguint esclarec referent edital modal licit objet objet certam
+
+
+question
+
+
+b question
+
+
+c dem inform julg necess
+
+
+raza expost tend vist proxim certam solicit envi respost concis email secexxxacompanhamentotcugovbr cop par email auditor ddmmaaa dia seman
+
+
+eventu esclarec pod obtid pel telefon ddd nnnnrrrr oa auditor federal control extern nom auditor
+
+
+pec gentil confirm receb dest comunic
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+anex b model email reiter solicit inform
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+ddmmaaa encaminh v sa mensag solicit esclarec concernent edital modal licit cuj objet objet certam
+
+
+consider termin praz par respost reiter solicit inicial par sej apresent inform respeit certam ddmma dia seman
+
+
+eventu esclarec pod obtid pel telefon ddd nnnnrrrr oa auditor federal control extern nom auditor
+
+
+segu abaix text mensag anterior
+
+
+copi text email inicial
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+
+
+anex c model email solicit inform adicion
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+acus receb inform prelimin respost solicit encaminh v sa ddmmaaa concernent edital modal licit cuj objet objet certam
+
+
+solicit adicional sej encaminh seguint documentosinform
+
+
+question
+
+
+b question
+
+
+c dem inform julg necess
+
+
+solicit envi respost concis email secexxxacompanhamentotcugovbr cop par email auditor ddmmaaa dia seman
+
+
+eventu esclarec pod obtid pel telefon ddd nnnnrrrr oa auditor federal control extern nom auditor
+
+
+pec gentil confirm receb dest comunic
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+
+
+
+anex d model email irregular elid
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+acus receb inform prelimin respost solicit encaminh v sa ddmmaaa concernent edital modal licit cuj objet objet certam esclarec document argument apresent relativ mencion assunt suficient par elucid question inici
+
+
+detalh irregular identific normativosacorda infring cas
+
+
+dess mod solicit sej encaminh justificat tecnic adicion outr inform julg relevant cas orgaoentidadeconsider necessari mant clausulasexigente certam
+
+
+solicit envi respost concis email secexxxacompanhamentotcugovbr cop par email auditor ddmmaaa dia seman
+
+
+eventu esclarec pod obtid pel telefon ddd nnnnrrrr oa auditor federal control extern nom auditor
+
+
+pec gentil confirm receb dest comunic
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+anex model email encerr analis sem autuaca process
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+agradec colabor orgaoent respost solicit inform formul ddmmaaa concernent objet question
+
+
+inform prest compora noss bas dad pod utiliz criteri par aca fiscaliz futur est tribunal
+
+
+eventu esclarec pod obtid pel telefon ddd nnnnrrrr oa auditor federal control extern nom auditor
+
+
+pec gentil confirm receb dest comunic
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+anex f model email autuaca process especif
+
+
+
+sr pregoeir nom pregoeir sr gestor nom gestor
+
+
+boa tard
+
+
+fac inform apresent pel nom orgaoent moment respost solicit encaminh ddmmaaa inform intuit dar continu analis questa levant autu process representacaofiscaliz tc xxxyyyaaaaw par apur indici irregular objet licitacaocontrat
+
+
+outrossim esclarec nov solicit inform acerc assunt efetiv exclusiv aut process autu
+
+
+atencios
+
+
+nom complet auditor
+
+
+tribunal cont unia
+
+
+nom complet secret
+
+
+nom complet diretor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex model represent semec
+
+
+
+
+
+tc numeroprocess
+
+
+
+process apens processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+interess sustent oral nom inscrica oab cpf cas exist ped sustent registr
+
+
+
+propost conhec arquiv
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+exam admissibil
+
+
+
+
+ausenc requisit eou tcu requisit admissibil pressupost legitim representant
+
+
+
+registras represent preench requisit admissibil constant regiment intern tcu eou tcu haj vist indic requisit foir satisfeit mat competente tribunal administr respons est sujeit jurisdica represent est redig linguag clar objet cont nom legivel qualific enderec representant est acompanh suficient indici concernent irregular ilegal verif existente inter public pretend ating consequent mat tutel aut competente tribunal
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+alem diss oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu
+
+
+
+ausenc apen requisit pressupost legitim representant
+
+
+
+registras represent preench requisit admissibil constant regiment intern tcu tcu haj vist trat mat competente tribunal referirs administr respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant acompanh suficient indici concernent irregular ilegal exist inter public par trat ilegal
+
+
+entant oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu
+
+
+
+
+ausenc apen requisit eou tcu requisit admissibil
+
+
+
+registras oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu
+
+
+entant represent preench requisit admissibil constant regiment intern tcu tcu haj vist indic requisit foir satisfeitosqu mat competente tribunal administr respons est sujeit jurisdica represent est redig linguag clar objet eou cont nom legivel qualific enderec representant est acompanh suficient indici concernent irregular ilegal verif existente inter public pretend ating
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr nest camp inform referent ped sustent oral existente process conex solicit demand inclusa med propost encaminh
+
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+ant expost submetems aut consider superior propond
+
+
+conhec present document represent atend requisit admissibil eou pressupost legitim previst eou aplic regiment intern tcu
+
+
+b determin liminar arquiv dest process fundament paragraf unic cc paragraf unic regiment intern tcu tcu
+
+
+c dar cienc representant
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom advog procur oabuf cpf cas exist registr pec numer indic localiz procur
+
+
+interess sustent oral
+
+
+
+propost arquiv
+
+
+represent formul bas lei exam sumari baix
+
+
+
+merit indefer cautel represent formul bas lei
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+exam admissibil compar model antig est falt possibil secex assum autor represent
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant bem encontrars acompanh suficient indici concernent irregular ilegal
+
+
+alem diss oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+
+cas unidad jurisdicion pertenc sistem s
+
+
+
+x ness sent jurisprudente dest tribunal apont previst paragraf primeir lei aplicas servic soci autonom constitu diretriz observ pel entidad sistem s possibilit control atos licit execuca contratual pel cidada pel licitant qua garant provoc orga control represent fac indici irregular acorda tcuplenari tcuplenari tcuplenari
+
+
+
+
+
+
+
+aind conform dispo in fin tcu verificas existente inter public trat supost irregularidadeilegal cit ilegal narr pel representant pod tes caus prejuiz aao cit trar prejuiz
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+dess form represent pod conhec par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+empres encaminh denunc sobr indici irregular proced licitatori document pod autu represent
+
+
+
+pes document sid encaminh denunc empres possu legitim par denunci irregular ilegal perant tribunal consoant dispost ritcu entant document pod autu represent fundament vii ritcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+alem diss deves registr document preench requisit admissibil constant regiment intern tcu cc tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat supost ilegalidadeirregular
+
+
+dess form represent pod conhec par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+atend requisit admissibil unidad tecnic dev realiz exam sumari refer tcu excet cas represent formul bas lei
+
+
+
+
+
+
+
+
+represent formul bas lei
+
+
+
+cas trat represent formul bas lei dev realiz exam sumari
+
+
+
+
+est model prev hipotes analis exam sumari conclu fat cumulativ baix risc baix material baix relevanc
+
+
+
+
+exam sumari
+
+
+
+
+cas exam sumari realiz propost adoca med cautel fic condicion fat sej consider alt risc alt material alt relevanc ocorr nest model
+
+
+
+consider present aut requisit admissibil cab proced exam sumari refer tcu observandos premiss risc material relevanc fat represent
+
+
+
+par realiz exam sumari unidad tecnic dev consider criteri indic instruca normat tcu sab risc material relevanc
+
+
+
+i risc
+
+
+consider risc cons possibil alg acontec impact objet unidad jurisdicion instruca normat tcu send med term consequente probabil verificas irregularidadeilegal
+
+
+rest caracteriz risc baix par orga entidad
+
+
+ii material
+
+
+mesm form consider material cons volum recurs envolv verificas irregularidadesilegal consider baix material afirm motiv pel qua material irregularidadesilegal baix
+
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir tcu
+
+
+
+entendes descaracteriz material irregularidadesilegal apresent
+
+
+iii relevanc
+
+
+tend vist relevanc defin aspect fat consider important context objet deline aind sej material economic significat verificas irregularidadesilegal apont pod consider baix relevanc
+
+
+iv conclusa exam sumari
+
+
+conclusa dest exam sumari conform expost tems fat pod consider simultan baix risc baix material baix relevanc
+
+
+cas exam justif prossegu process nest tribunal realiz exam tecnic consequent analis med cautel vist hav alt risc material relevanc fat notici represent conform dispo item port segecex cas exam sumari dev realiz adoca med cautel fic condicion fat sej consider minim alt risc alt material alt relevanc
+
+
+
+
+
+represent formul bas lei result exam sumari consid fat cumulativ baix risc baix material baix relevanc exam tecnic realiz passas par conclusa segu
+
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif tcu
+
+
+
+apresent descrica sucint constat indic providente necess saneament process exercici contraditori pel respons cumpriment objet especif inerent situaca concret
+
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+x cas exam prossegu apur fat est tribunal justif tend vist hav alt risc material relevanc fat notici represent conform dispost itens xx instruca cab tao soment propor questa nel apresent sej lev conhec unidad jurisdicion cop par unidadeorga control intern par adoca providente cabiv term i tcu
+
+
+x alem diss cab solicit unidad jurisdicion comuniqu tcu relatori gesta oportun encaminh tribunal par exam quand apreci cont acerc providente eventual adot relaca fat relat nest represent result dess providente conform dispo resolucaotcu
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif tcu
+
+
+
+x consider prejudic analis merit dest represent fulcr tcu vist mat nel trat apresent alt risc material relevanc
+
+
+
+x encaminh cop acorda bem relatori vot fundament unidad jurisdicion aao unidadeorga control intern par adoca providente cabiv term i tcu
+
+
+x comunic tcu acerc providente eventual adot relaca fat objet acorda result dess providente relatori gesta oportun encaminh tribunal par exam quand apreci cont term tcu
+
+
+x dar cienc representant deliber profer
+
+
+x arquiv present aut
+
+
+
+
+siglaun diamesan
+
+
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+represent formul bas lei
+
+
+
+cas trat represent formul bas lei exam sumari dev realiz nest cas utilizas redaca segu passas exam tecnic
+
+
+
+x ressaltas represent cuid manifest licitant fundament lei fic afast forc tcu exam sumari acerc risc par unidad jurisdicion material relevanc fat notici previst alud preceit passas enta exam tecnic
+
+
+
+exam tecnic
+
+
+
+
+expor sucint cad pont objet represent realiz respect analis
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+registr ped formul pel representant sed cautel
+
+
+
+
+med cautel ped pel representant
+
+
+
+x consoant regiment internotcu cc paragraf unic tcu item anex portariasegecex relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor otic exclus inter public bem esclarec sobr incidente eventual perig demor invers
+
+
+
+med cautel ped pel representant
+
+
+
+x embor tenh sid requer med cautel consider tcu pod conced ess med ofici ritcu analis requisit par concessa ritcu paragraf unic tcu item port segecex
+
+
+
+
+est model prev pressupost par concessa cautel present portant propost merit indefer cautel
+
+
+
+
+
+houv perd objet
+
+
+
+x houv perd objet justific nest cas deves consider prejudic represent ant perd objet decorrente
+
+
+
+x hana hana element suficient par pronunci quant plausibil jurid acord analis perfunctor element traz pel representant inclu analis sobr restrica competitiv restrica lisur proced licitatori ineg dan economic contrat justific
+
+
+x hana hana element suficient par pronunci quant ess topic perig demor perig dan irrepar caracteriz pel urgenc pel fund recei grav lesa erari eou inter public pel risc ineficac decisa merit justific
+
+
+x hana hana element suficient par pronunci quant ess topic perig demor invers perig dan irrepar unidad jurisdicion caracteriz pel dan resultant adoca cautel superior aquel pretend evit justific
+
+
+justificat item anex portariasegecex item acorda tcu cam
+
+
+
+x hana inter public tend vist cab tribunal atu defes inter particul junt administr public
+
+
+
+x analis element apresent pel representant verificas aut pressupost acim mencion sena vej resum element lev conclusa inexistente pressupost
+
+
+x adem verificas proced fat narr represent deu orig aut pel razaoo abaix descrit indic motiv permit conclusa pel improcedente represent
+
+
+
+
+cas haj ped ingress aut part interess
+
+
+
+
+ped ingress part interess
+
+
+
+x quant solicit ingress representant interess aut jurisprudente tcu pacif sent representant denunciant automatic admit process provoc interess prior papel cons mov aca fiscalizator encerr final dess moment quand propri tribunal tom curs apur ness sent acorda tcu tod plenari tcu cam
+
+
+x acord tcu redaca alter pel tcu interess aquel qualqu etap process sej reconhec pel relator pel tribunal virtud possibil direit subjet propri prejudic pel decisa exar pel tribunal existente outr raza legitim par interv process
+
+
+
+ped ingress aut part interess proced
+
+
+
+x present cas representant apresent raza legitim par interv process conform dispost regiment intern tcu raza pel ped dev indefer dev comunic representant teor deliber vier profer pel tribunal
+
+
+x qualqu maneir obediente principi transparente racional processual consoant dispost tcu trat acess inform aplic lei novembr ambit tribunal cont unia diant inter representant acompanh deslind questa trat present aut propoes sej conced part prolaca deliber merit acess aut apen par proced vist cop sem contud atribuirlh condica interess aut exempl decid acorda tcuplenari relator ministr raimund carreir
+
+
+
+ped ingress aut proced
+
+
+
+x quant ess pont embor vislumbr direit subjet propri dess representant poss prejudic fac decisa vier exar pel tribunal consider entidad representat var empres ram ess representant pod contribu positiv par process dialet busc defes inter public erari ped dev defer
+
+
+
+cas haj ped sustent oral
+
+
+
+
+ped sustent oral
+
+
+
+x tcu estabelec julgament apreci process salv cas embarg declar part pod produz sustent oral desd requer president colegi inici sessa
+
+
+
+
+representantedenunciant part process
+
+
+
+x representant dev conhec part process ped sustent oral pod defer adem pleit representant fora conced administrativ hav perd objet
+
+
+
+representantedenunciant part process propost instruca par consideral
+
+
+
+x quant ped sustent oral solicit pel respons recomendas defer term tcu
+
+
+
+
+conclusa
+
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif tcu
+
+
+x tang requer med cautel inaudit alter pars entendes est dev acolh present aut requisit fumus bon iur periculum in mor otic exclus inter public
+
+
+x tamb verific incidente perig demor invers ponder possiv benefici consequente negat pod result adoca cautel
+
+
+
+x diant fat apur itemns xx instruca concluius pel improcedente present represent formul pel identific representant cab comunic orgaoent representant decisa vier adot arquiv present aut term paragraf unic cc i regiment internotcu
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+
+propost encaminh
+
+
+
+
+cas haj perd objet
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu par merit consideral procedent parcial procedent improcedent
+
+
+b consider represent prejudic perd objet
+
+
+d arquiv present aut term paragraf unic cc i regiment internotcu
+
+
+
+
+
+siglaun diamesan
+
+
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu par merit consideral procedent parcial procedent improcedent
+
+
+b indefer requer med cautel inaudit alter pars formul identific representant tend vist inexistente pressupost necessari par adoca refer med
+
+
+
+
+houv ped sustent oral
+
+
+
+
+improcedent
+
+
+
+x indefer ped sustent oral solicit pel representant legal vist part interess process eou admit sustent oral apreci med cautel
+
+
+
+
+procedent
+
+
+
+x defer ped sustent oral solicit ocasia apreci dest aut pel colegi
+
+
+
+
+
+
+outr encaminh
+
+
+
+x comunic orgaoent representant decisa vier adot nest aut
+
+
+x arquiv present aut term paragraf unic cc i regiment internotcu
+
+
+
+
+
+
+
+siglaun diamesan
+
+
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+propost cautelaroitivadiligenciainspecao audienc conform encaminh
+
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+exam admissibil
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant bem encontrars acompanh indici concernent irregular ilegal
+
+
+alem diss oda orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu cc lei especif cas irregular aplic lei licit lei
+
+
+aind conform dispo in fin tcu verificas existente inter public trat supost irregularidadeilegal cit ilegal narr pel representant pod tes caus prejuiz aao cit trar prejuiz
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+houv atend requisit pressupost legitim representant houv indici irregular ilegal justifiqu atuaca ofici tribunal par aprofund analis questa
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat ilegalidadeirregular
+
+
+apes oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu consider mat supost irregularidadeilegal apont encontras are atuaca dest unidad tecnic existente suficient indici inform existente inter public par trat irregularidadeilegal apont fat consider alt risc alt material alt relevanc conform relat exam sumari exam tecnic adiant justific necess apur fat
+
+
+consider forc vi regiment intern tcu est unidad tecnic legitim par represent tcu par fins apur avali procedente represent term segund part cc regiment internotcu irregular provenient public imprens bem resolucaotcu propoes exam mat nest aut
+
+
+
+
+empres encaminh denunc sobr indici irregular proced licitatori document pod autu represent
+
+
+
+pes document sid encaminh denunc empres possu legitim par denunci irregular ilegal perant tribunal consoant dispost ritcu entant document pod autu represent fundament vii ritcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+
+alem diss deves registr document preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat supost ilegalidadeirregular
+
+
+dess form represent pod conhec par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+atend requisit admissibil unidad tecnic dev realiz exam sumari refer tcu entant cas trat represent fundament lei exam sumari dev realiz nest cas utilizas redaca segu passas exam tecnic
+
+
+
+x ressaltas represent cuid manifest licitant fundament lei fic afast forc tcu exam sumari acerc risc par unidad jurisdicion material relevanc fat notici previst alud preceit
+
+
+
+
+cas trat represent formul bas lei utiliz exam sumari conform dispost segu
+
+
+
+
+exam sumari
+
+
+
+
+cas exam sumari realiz propost adoca med cautel fic condicion fat sej consider alt risc alt material alt relevanc
+
+
+
+consider present aut requisit admissibil cab proced exam sumari refer tcu observandos premiss indic intcu
+
+
+
+par realiz exam sumari unidad tecnic dev consider criteri indic instruca normat tcu sab risc material relevanc
+
+
+
+i risc
+
+
+consider risc cons possibil alg acontec impact objet unidad jurisdicion instruca normat tcu send med term consequente probabil verificas irregularidadeilegal
+
+
+restana rest caracteriz risc baixoalt indic possiv consequente par orga entidad
+
+
+ii material
+
+
+mesm form consider material cons volum recurs envolv verificas irregularidadesilegal consider baixaalt material afirm motiv pel qua material irregularidadesilegal baixaalt
+
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir tcu
+
+
+
+entendes caracterizadadescaracteriz material irregularidadesilegal apresent
+
+
+iii relevanc
+
+
+tend vist relevanc defin aspect fat consider important context objet deline aind sej material economic significat verificas irregularidadesilegal apont pod consider altabaix relevanc
+
+
+iv conclusa exam sumari
+
+
+conclusa dest exam sumari conform expost tems fat pod consider alt risc eou alt material eou alt relevanc entendes outrossim sej acolh present represent haj vist preench quesit risc material relevanc fulcr tcu passas enta exam tecnic
+
+
+
+cas fat sej consider simultan baix risc baix material baix relevanc verific model r instruca cautel exsumbaix arquiv
+
+
+
+
+exam tecnic
+
+
+
+
+expor sucint cad pont objet represent realiz respect analis
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+cas conclu desd pel necess propost audienc important indic
+
+
+
+
+f caus constat quand houv element aut permit identifical
+
+
+
+
+g efeit consequente potenci rea
+
+
+
+
+h identific qualific respons indic nom complet carg funca epoc constat period gesta cas descrica condut nex causal entr condut result ilicit culpabil
+
+
+
+
+registr ped formul pel representant sed cautel cas
+
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+x analis element apresent pel representant verificas aut pressupost acim mencion
+
+
+x resum element constant aut caracteriz fumus bon iur carateriz institut fumus bon iur dev analis maior profund est unidad tecnic vist real possibil hav distorca licit contrat etc realiz pel orgaoent
+
+
+x resum element constant aut caracteriz periculum in mor evidenc periculum in mor poderaa ensej prejuiz orgaoent eou inter public compromet eficac decisa merit vier profer pel tribunal
+
+
+
+estiv configur periculum in mor revers
+
+
+
+x outr part verificas adoca med cautel form requer pel representant capaz traz prejuiz significat orgaoent inter public
+
+
+estiv configur periculum in mor revers mesm pertinent concessa med cautel
+
+
+x outr part verificas resum element constant aut caracteriz periculum in mor revers present aut caracteriz periculum in mor revers entretant represent risc maior aquel pod advir adoca med cautel pleite pel representant
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit lei tcu
+
+
+
+
+inclu redaca segu soment cas represent ped cautel sej fundament lei
+
+
+
+x alem diss exam sumari dispost itemns xx instruca conclu fat consider alt risc eou alt material eou alt relevanc
+
+
+
+
+
+estiv configur periculum in mor revers
+
+
+
+x tang requer necess med cautel inaudit alter pars entendes tal med dev adot present aut requisit fumus bon iur periculum in mor bem configur periculum in mor revers capaz traz prejuiz significat orgaoent inter public
+
+
+
+estiv configur periculum in mor revers mesm pertinent concessa med cautel
+
+
+x tang requer necess med cautel inaudit alter pars entendes tal med dev adot present aut requisit fumus bon iur periculum in mor periculum in mor revers est present aut entant represent risc maior aquel pod advir adoca med cautel pleite pel representant
+
+
+x cautel ora propost dev adot sem oitiv prev respons previst regiment internotcu tend vist possibil ocorr indic fat pod ocorr enquant estiv send adot med necess realiz analis oitiv prev
+
+
+x diant fat apur par melhor analis merit present represent fazs necess aind adoca seguint med prelimin resum med prelimin adot oitiv diligente inspeca eou audienc
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+oitiv orgaoentidaderespons
+
+
+
+x realiz oitiv orgaoentidaderespons nom carg par praz dias manifestars sobr fat apont represent formul identific representant especial quant fat sobr orgaoent dev manifest
+
+
+
+
+oitiv empres contratadadeclar vencedor etc poss prejuiz cautel
+
+
+
+x realiz oitiv empres contrat declar vencedor etc poss prejuiz cautel par praz dias quer manifestars sobr fat apont represent formul identific representant conform dispost itemns xx instruca
+
+
+obs conform dispost memorandocircul segecex quand dad situaca exig oitiv audienc sobr mesm assunt necessari fac primeir oitiv deves prossegu audienc quand oitiv troux esclarec esper
+
+
+
+
+diligente
+
+
+
+x realiz diligente orgaoent par sej encaminh document necessari analis conclus questa
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca orgaoent par sej colet inform dispost segu subsidi analis conclus questa
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+audienc
+
+
+
+x realiz audienc respons segu indic par apresent raza justificat par irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+
+obs lembr cas empres contrat declar vencedor etc poss prejuiz cautel sumul vinculant suprem tribunal federal dispo process perant tribunal cont unia assegurams contraditori ampl defes quand decisa pud result anul revog ato administrat benefic interess excetu apreci legal ato concessa inicial aposentador reform pensa
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit cc lei tcu
+
+
+b determin raza ped formul pel representanted ofici cautelar term regiment internotcu orgaoent suspend
+
+
+c determin term regiment internotcu oitiv orgaoentidaderespons nom carg par praz dias manifestars sobr fat apont represent formul identific representant especial quant fat sobr orgaoent dev manifest alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+d determin term v regiment internotcu oitiv empres contrat declar vencedor etc poss prejuiz cautel par praz dias quer manifestars sobr fat apont represent formul identific representant alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+diligente
+
+
+
+x realiz diligente fundament ritcu orgaoent par praz numer dias sej encaminh seguint document
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca fundament ritcu orgaoent par sej colet seguint inform
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+audienc
+
+
+
+x realiz fundament iv cc paragraf unic ritcu audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs redaca propost audienc dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat
+
+
+obs cas especific necess inclusa ofici audienc alert quant possibil
+
+
+cont ordin gestor cham audienc julg irregul decorrente constat identific nest process
+
+
+b empres declar inidone par licit administr public cas hav indici fraud licit conform dispost lei
+
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aoa orgaoent eou empres contrat declar vencedor etc fim subsidi manifest requer
+
+
+x comunic representant aoa orgaoent empres contrat declar vencedor etc poss prejuiz cautel decisa vier adot nest aut
+
+
+
+
+siglaun diamesan
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+interess sustent oral nom inscrica oab cpf cas exist registr
+
+
+propost oitiv previadiligente conform encaminh
+
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+exam admissibil
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant bem encontrars acompanh indici concernent irregular ilegal
+
+
+alem diss oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu cc lei especif cas irregular aplic lei licit lei
+
+
+
+aind conform dispo in fin tcu verificas existente inter public trat supost irregularidadeilegal cit ilegal narr pel representant pod tes caus prejuiz aao cit trar prejuiz
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+houv atend requisit pressupost legitim representant houv indici irregular ilegal justifiqu atuaca ofici tribunal par aprofund analis questa
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh indici concernent irregular ilegal exist inter public par trat ilegalidadeirregular
+
+
+apes oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu gravidad indici inform eou evidente traz aut existente inter public par trat irregular ilegal apont conform relat exam tecnic adiant justific necess apur fat
+
+
+consider forc vi regiment intern tcu est unidad tecnic legitim par represent tcu par fins apur avali procedente represent term segund part regiment internotcu aplic represent conform paragraf unic mesm norm propoes exam mat nest aut
+
+
+
+empres encaminh denunc sobr indici irregular proced licitatori document pod autu represent
+
+
+
+pes document sid encaminh denunc empres possu legitim par denunci irregular ilegal perant tribunal consoant dispost ritcu entant document pod autu represent fundament vii ritcu cc lei especif cas irregular aplic lei licit lei
+
+
+alem diss deves registr document preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat supost ilegalidadeirregular
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+atend requisit admissibil unidad tecnic dev realiz exam sumari refer tcu excet cas represent formul bas lei
+
+
+
+
+
+cas trat represent fundament lei exam sumari dev realiz nest cas utilizas redaca segu passas exam tecnic
+
+
+
+x ressaltas represent cuid manifest licitant fundament lei fic afast forc tcu exam sumari acerc risc par unidad jurisdicion material relevanc fat notici previst alud preceit
+
+
+
+
+cas trat represent formul bas lei utiliz exam sumari conform dispost segu
+
+
+
+
+exam sumari
+
+
+
+
+cas exam sumari realiz propost adoca med cautel fic condicion fat sej consider alt risc alt material alt relevanc
+
+
+
+consider present aut requisit admissibil cab proced exam sumari refer tcu observandos premiss risc material relevanc fat apresent
+
+
+
+par realiz exam sumari unidad tecnic dev consider criteri indic instruca normat tcu sab risc material relevanc
+
+
+
+i risc
+
+
+consider risc cons possibil alg acontec impact objet unidad jurisdicion instruca normat tcu send med term consequente probabil verificas irregularidadeilegal
+
+
+restana rest caracteriz risc baixoalt indic possiv consequente par orga entidad
+
+
+ii material
+
+
+mesm form consider material cons volum recurs envolv verificas irregularidadesilegal consider baixaalt material afirm motiv pel qua material irregularidadesilegal baix alt
+
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir tcu
+
+
+
+entendes caracterizadadescaracteriz material irregularidadesilegal apresent
+
+
+iii relevanc
+
+
+tend vist relevanc defin aspect fat consider important context objet deline aind sej material economic significat verificas irregularidadesilegal apont pod consider altabaix relevanc
+
+
+iv conclusa exam sumari
+
+
+conclusa dest exam sumari conform expost tems fat pod consider alt risc alt material alt relevanc entendes outrossim sej acolh present represent haj vist preench quesit risc material relevanc fulcr tcu passas enta exam tecnic
+
+
+
+cas fat sej consider simultan baix risc baix material baix relevanc verific model r instruca cautel exsumbaix arquiv
+
+
+
+
+exam tecnic
+
+
+
+
+expor sucint cad pont objet represent realiz respect analis
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+registr ped formul pel representant sed cautel cas
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+x analis element apresent pel representant verificas concessa cautel pleite dev realiz oitiv prev orgaoent bem indic interess pod inter prejudic raza concessa cautel cas par apresent inform imprescindiv confirm existente pressupost acim mencion sab list element sobr qua dev manifest eou encaminh document
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit cc lei tcu
+
+
+
+inclu redaca segu soment cas represent ped cautel sej fundament lei
+
+
+
+x alem diss exam sumari dispost itemns xx instruca conclu fat consider alt risc eou alt material eou alt relevanc
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+oitiv prev orgaoent respons
+
+
+
+x tang requer med cautel conform expost itemns xx instruca entendes necess realiz oitiv prev orgaoentidaderespons nom carg dem interess cas par confirm existente requisit fumus bon iur periculum in mor
+
+
+
+
+oitiv prev outr interess
+
+
+
+x conform expost item x instruca propoes oitiv empres contrat declar vencedor etc poss prejuiz cautel par quer manifestars sobr fat apont represent formul identific representant
+
+
+
+diligente
+
+
+
+x alem diss conform expost itemns xx instruca fazs necess realiz diligente orgaoent par obtenca document ajud elucid questaoqu praz numer dias sej encaminh seguint document
+
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit cc lei tcu
+
+
+b determin term regiment internotcu oitiv orgaoentidaderespons nom carg par praz dias ute manifestars sobr fat apont represent formul identific representant especial quant fat sobr orgaoent dev manifest alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+oitiv prev outr interess
+
+
+
+x determin term v regiment internotcu oitiv empres contrat declar vencedor etc poss prejuiz cautel par praz dias ute quer manifestars sobr fat apont represent formul identific representant alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+
+
+diligente
+
+
+
+x realiz diligente fundament ritcu orgaoent par praz numer dias sej encaminh seguint document
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aao orgaoent eou empres contrat declar vencedor etc fim subsidi manifest requer
+
+
+x comunic representant aao orgaoent eou empres contrat declar vencedor etc decisa vier adot nest aut
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+propost indefer ped cautelardiligenciainspecaoaudiencia conform encaminh
+
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+
+exam admissibil
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant bem encontrars acompanh indici concernent irregular ilegal
+
+
+alem diss oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu cc lei especif cas irregular aplic lei licit lei
+
+
+
+aind conform dispo in fin tcu verificas existente inter public trat supost irregularidadeilegal cit ilegal narr pel representant pod tes caus prejuiz aao cit trar prejuiz
+
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+houv atend requisit pressupost legitim representant houv indici irregular ilegal justifiqu atuaca ofici tribunal par aprofund analis questa
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat ilegalidadeirregular
+
+
+apes oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu consider mat supost irregularidadeilegal apont encontras are atuaca dest unidad tecnic existente suficient indici inform existente inter public par trat irregularidadeilegal apont fat consider alt risc alt material alt relevanc conform relat exam sumari exam tecnic adiant justific necess apur fat
+
+
+consider forc vi regiment intern tcu est unidad tecnic legitim par represent tcu par fins apur avali procedente represent term segund part cc paragraf unic regiment internotcu irregularidadesilegal provenient public imprens bem tcu propoes exam mat nest aut
+
+
+
+
+empres encaminh denunc sobr indici irregular proced licitatori document pod autu represent
+
+
+
+pes document sid encaminh denunc empres possu legitim par denunci irregular ilegal perant tribunal consoant dispost ritcu entant document pod autu represent fundament vii ritcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+alem diss deves registr document preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat supost ilegalidadeirregular
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+atend requisit admissibil unidad tecnic dev realiz exam sumari refer tcu excet cas represent formul bas lei
+
+
+
+
+cas trat represent fundament lei exam sumari dev realiz nest cas utilizas redaca segu passas exam tecnic
+
+
+
+x ressaltas represent cuid manifest licitant fundament lei fic afast forc tcu exam sumari acerc risc par unidad jurisdicion material relevanc fat notici previst alud preceit
+
+
+
+
+
+cas trat represent formul bas lei utiliz exam sumari conform dispost segu
+
+
+
+
+exam sumari
+
+
+
+
+cas exam sumari realiz propost adoca med cautel fic condicion fat sej consider alt risc alt material alt relevanc
+
+
+
+consider present aut requisit admissibil cab proced exam sumari refer tcu observandos premiss risc material relevanc fat apresent
+
+
+
+par realiz exam sumari unidad tecnic dev consider criteri indic instruca normat tcu sab risc material relevanc
+
+
+
+i risc
+
+
+consider risc cons possibil alg acontec impact objet unidad jurisdicion instruca normat tcu send med term consequente probabil verificas irregularidadeilegal
+
+
+restana rest caracteriz risc baixoalt indic possiv consequente par orga entidad
+
+
+ii material
+
+
+mesm form consider material cons volum recurs envolv verificas irregularidadesilegal consider baixaalt material afirm motiv pel qua material irregularidadesilegal baix alt
+
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir tcu
+
+
+
+entendes caracterizadadescaracteriz material irregularidadesilegal apresent
+
+
+iii relevanc
+
+
+tend vist relevanc defin aspect fat consider important context objet deline aind sej material economic significat verificas irregularidadesilegal apont pod consider altabaix relevanc
+
+
+iv conclusa exam sumari
+
+
+conclusa dest exam sumari conform expost tems fat pod consider alt risc alt material alt relevanc entendes outrossim sej acolh present represent haj vist preench quesit risc material relevanc fulcr tcu passas enta exam tecnic
+
+
+
+
+exam tecnic
+
+
+
+
+expor sucint cad pont objet represent realiz respect analis
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+cas conclu desd pel necess propost audienc important indic
+
+
+
+
+f caus constat quand houv element aut permit identifical
+
+
+
+
+g efeit consequente potenci rea
+
+
+
+
+h identific qualific respons indic nom complet carg funca epoc constat period gesta cas descrica condut nex causal entr condut result ilicit culpabil
+
+
+
+
+registr ped formul pel representant sed cautel
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+estiv caracteriz fumus bon iur periculum in mor
+
+
+
+x analis element apresent pel representant verificas aut pressupost acim mencion sena vej resum element lev conclusa inexistente pressupost
+
+
+estiv caracteriz fumus bon iur periculum in mor periculum in mor revers justific indefer cautel
+
+
+x analis element apresent pel representant verificas aut pressupost acim mencion
+
+
+x resum element constant aut caracteriz fumus bon iur carateriz institut fumus bon iur dev analis maior profund est unidad tecnic vist real possibil hav distorca licit contrat etc realiz pel orgaoent
+
+
+x resum element constant aut caracteriz periculum in mor evidenc periculum in mor poderaa ensej prejuiz orgaoent eou inter public compromet eficac decisa merit vier profer pel tribunal
+
+
+x outr part verificas resum element constant aut caracteriz periculum in mor revers present aut caracteriz periculum in mor revers represent risc aind maior par administr eou inter public entr qua vislumbras resum risc advind med cautel pleite pel representant
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit lei tcu
+
+
+
+inclu paragraf segu soment cas represent ped cautel sej fundament lei
+
+
+
+x alem diss exam sumari dispost itemns
+
+xx instruca conclu fat consider alt risc eou alt material eou alt relevanc
+
+
+estiv caracteriz fumus bon iur periculum in mor
+
+
+
+x tang requer med cautel inaudit alter pars entendes est dev acolh present aut requisit fumus bon iur periculum in mor
+
+
+
+
+estiv caracteriz fumus bon iur periculum in mor periculum in mor revers mais relevant
+
+
+x tang requer med cautel inaudit alter pars pes present aut requisit fumus bon iur periculum in mor entendes est dev acolh raza existente periculum in mor revers capaz traz prejuiz aind maior administr eou inter public cas sej conced refer cautel
+
+
+x diant fat apur conclu inform constant aut suficient par analis merit present represent raza pel fazs necess adoca seguint med prelimin resum med prelimin adot diligenciainspecaoaudiente
+
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+diligente
+
+
+
+x realiz diligente orgaoent par sej encaminh seguint document necessari analis conclus questa conform expost itemns xx instruca
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca orgaoent conform dispost itemns xx instruca par sej colet inform dispost segu subsidi analis conclus questa
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+
+
+audienc
+
+
+
+x realiz audienc respons segu indic par apresent raza justificat pel irregular indic conform discrimin itemns xx instruca
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit cc lei tcu
+
+
+b indefer requer med cautel inaudit alter pars formul identific representant tend vist inexistente pressupost necessari par adoca refer med
+
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+diligente
+
+
+
+x realiz diligente fundament ritcu orgaoent par praz numer dias sej encaminh seguint document
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca fundament ritcu orgaoent par sej colet seguint inform
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+
+
+audienc
+
+
+
+x realiz fundament iv cc paragraf unic ritcu audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs redaca propost audienc dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat
+
+
+obs cas especific necess inclusa ofici audienc alert quant possibil
+
+
+cont ordin gestor cham audienc julg irregul decorrente constat identific nest process
+
+
+b empres declar inidone par licit administr public cas hav indici fraud licit conform dispost lei
+
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aoa orgaoent fim subsidi manifest requer
+
+
+x comunic representant aao orgaoent decisa vier adot nest aut
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+propost merit
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+cas
+
+
+
+
+camp obrigatori destinas registr inform contribu efetiv par perfeit compreensa questa discut aut exempl fat processu relevant outr process instaur dev mesm fat gerador proced adot fas anterior remess process document tribunal atos processu cumpr final cas brev sintes element princip fat possibilit visa mais ampl aut mais clarez document
+
+
+
+digit text aqu
+
+
+
+
+exam admissibil
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant bem encontrars acompanh indici concernent irregular ilegal
+
+
+alem diss oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost aplic ritcu tcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+
+aind conform dispo in fin tcu verificas existente inter public trat supost irregularidadeilegal cit ilegal narr pel representant pod tes caus prejuiz aao cit trar prejuiz
+
+
+
+
+par verific existente inter public trat supost ilegal apont deves perquir sempr cognica exaurient admitindos verdadeir fat narr represent del pod result tes superveniente gravam inter public vot condutor acorda tcusegund cam
+
+
+
+
+titul exempl destacas entend inser entr competente constitucion tcu soluca controvers instal ambit contrat firm entr jurisdicion terceir prolaca proviment jurisdicion reclam particul par salvaguard direit inter subjet salv form reflex afet patrimoni public caus prejuiz erari acorda tcu cam
+
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+houv atend requisit pressupost legitim representant houv indici irregular ilegal justifiqu atuaca ofici tribunal par aprofund analis questa
+
+
+
+inicial deves registr represent preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat ilegalidadeirregular
+
+
+apes oa orgaoent autor pesso possu legitim par represent tribunal consoant dispost ritcu consider mat supost irregularidadeilegal apont encontras are atuaca dest unidad tecnic existente suficient indici inform existente inter public par trat irregularidadeilegal apont fat consider alt risc alt material alt relevanc conform relat exam sumari exam tecnic adiant justific necess apur fat
+
+
+consider forc vi regiment intern tcu est unidad tecnic legitim par represent tcu par fins apur avali procedente represent term segund part cc paragraf unic regiment internotcu irregularidadesilegal provenient public imprens bem tcu propoes exam mat nest aut
+
+
+
+
+empres encaminh denunc sobr indici irregular proced licitatori document pod autu represent
+
+
+
+pes document sid encaminh denunc empres possu legitim par denunci irregular ilegal perant tribunal consoant dispost ritcu entant document pod autu represent fundament vii ritcu cc lei especif cas irregular aplic lei licit cc lei
+
+
+alem diss deves registr document preench requisit admissibil constant regiment intern tcu tcu haj vist mat competente tribunal referirs respons sujeit jurisdica redig linguag clar objet cont nom legivel qualific enderec representant encontrars acompanh suficient indici concernent irregular ilegal exist inter public par trat supost ilegalidadeirregular
+
+
+dess form represent pod apur par fins comprov procedente term segund part regiment intern tcu aplic represent acord paragraf unic mesm ritcu
+
+
+
+
+atend requisit admissibil unidad tecnic dev realiz exam sumari refer tcu entant cas trat represent fundament lei exam sumari dev realiz nest cas utilizas redaca segu passas exam tecnic
+
+
+
+x ressaltas represent cuid manifest licitant fundament lei fic afast forc tcu exam sumari acerc risc par unidad jurisdicion material relevanc fat notici previst alud preceit
+
+
+
+
+cas trat represent formul bas lei utiliz exam sumari conform
+
+
+
+dispost segu
+
+
+
+
+exam sumari
+
+
+
+
+cas exam sumari realiz propost adoca med cautel fic condicion fat sej consider alt risc alt material alt relevanc
+
+
+
+consider present aut requisit admissibil cab proced exam sumari refer tcu observandos premiss risc material relevanc fat apresent
+
+
+
+
+par realiz exam sumari unidad tecnic dev consider criteri indic instruca normat tcu sab risc material relevanc
+
+
+
+i risc
+
+
+consider risc cons possibil alg acontec impact objet unidad jurisdicion instruca normat tcu send med term consequente probabil verificas irregularidadeilegal
+
+
+restana rest caracteriz risc baixoalt indic possiv consequente par orga entidad
+
+
+ii material
+
+
+mesm form consider material cons volum recurs envolv verificas irregularidadesilegal consider baixaalt material afirm motiv pel qua material irregularidadesilegal baix alt
+
+
+analis material fat envolv pagament prest continu efetu consider somatori eventu dispendi ocorr acresc daquel previst par prox cinc anos dat previst par cessaca pagament ocorr primeir tcu
+
+
+
+entendes caracterizadadescaracteriz material irregularidadesilegal apresent
+
+
+iii relevanc
+
+
+tend vist relevanc defin aspect fat consider important context objet deline aind sej material economic significat verificas irregularidadesilegal apont pod consider altabaix relevanc
+
+
+iv conclusa exam sumari
+
+
+conclusa dest exam sumari conform expost tems fat pod consider alt risc alt material alt relevanc entendes outrossim sej acolh present represent haj vist preench quesit risc material relevanc fulcr tcu passas enta exam tecnic
+
+
+
+exam tecnic
+
+
+
+
+expor sucint cad pont objet represent realiz respect analis
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+registr ped formul pel representant sed cautel
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+x analis element apresent pel representant verificas aut pressupost acim mencion sena vej resum element lev conclusa inexistente pressupost
+
+
+x adem verificas proced fat narr represent deu orig aut pel razaoo abaix descrit indic motiv permit conclusa pel improcedente represent
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit cc lei tcu
+
+
+
+utiliz redaca segu cas represent ped cautel sej fundament lei
+
+
+
+x alem diss exam sumari dispost itemns xx instruca conclu fat consider alt risc eou alt material eou alt relevanc
+
+
+
+x tang requer med cautel inaudit alter pars entendes est dev acolh present aut requisit fumus bon iur periculum in mor conform verific itemns xx instruca
+
+
+
+x diant fat apur concluius pel improcedente present represent raza pel propor arquiv
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+digit text aqu
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu par merit consideral procedent parcial procedent improcedent
+
+
+b indefer requer med cautel inaudit alter pars formul identific representant tend vist inexistente pressupost necessari par adoca refer med
+
+
+c comunic orgaoent representant decisa vier adot nest aut
+
+
+d arquiv present aut term paragraf unic cc i regiment internotcu
+
+
+
+
+
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+
+interess inclu nom empresalicitant contrat declar vencedor tiv sid ouv oitiv prev consider decisa tcu pod afet esfer jurid inter tend vist entend acorda tcu p item sumari memorandocircul segecex
+
+
+
+propost merit
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+
+
+
+
+destinas registr inform contribu efetiv par perfeit compreensa questa discut aut resum mer cop repetica inform anterior devendos evit transcrica trech pec processu poss sintetiz sem prejudic perfeit identific fat
+
+
+
+obs inclu histor consolid propost encaminh constant instruca anterior
+
+
+digit text aqu
+
+
+
+
+exam tecnic
+
+
+
+respost oitivadiligente promov est secret mei ofici pec numer dat dat orgaoent apresent tempestivamenteintempestivamente inform eou esclarec constant pec numer
+
+
+
+expor sucint cad pont objet oitiv diligente realiz analis document encaminh apresent encaminh consider adequ
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+x analis inform prest pel orgaoent dem interess cas verificas aut pressupost acim mencion sena vej resum element lev conclusa inexistente pressupost
+
+
+x adem verificas proced fat narr represent deu orig aut pel razaoo abaix descrit indic motiv permit conclusa pel improcedente represent
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit lei tcu
+
+
+x tang requer med cautel entendes est dev acolh present aut requisit fumus bon iur periculum in mor
+
+
+
+x alem diss diant fat apur concluius pel improcedente present represent raza pel propor arquiv
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+digit text aqu
+
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu par merit consideral procedent parcial procedent improcedent
+
+
+b indefer requer med cautel formul identific representant tend vist inexistente pressupost necessari par adoca refer med
+
+
+c comunic orgaoent representant decisa vier adot nest aut
+
+
+d arquiv present aut term paragraf unic cc i regiment internotcu
+
+
+
+
+
+
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+
+interess inclu nom empresalicitant contrat declar vencedor tiv sid ouv oitiv prev consider decisa tcu pod afet esfer jurid inter tend vist entend acorda tcu p item sumari memorandocircul segecex
+
+
+
+propostacautelaroitivadiligenciainspecao audienc conform encaminh
+
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+
+
+
+
+destinas registr inform contribu efetiv par perfeit compreensa questa discut aut resum mer cop repetica inform anterior devendos evit transcrica trech pec processu poss sintetiz sem prejudic perfeit identific fat
+
+
+
+digit text aqu
+
+
+
+exam tecnic
+
+
+
+respost oitivadiligente promov est secret mei ofici pec numer dat dat orgaoent cas dem interess apresent tempestivamenteintempestivamente inform eou esclarec constant pec numer
+
+
+
+expor sucint cad pont objet oitivadiligente realiz analis document encaminh apresent encaminh consider adequ
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+cas conclu pel necess propost audienc important indic
+
+
+
+
+f caus constat quand houv element aut permit identifical
+
+
+
+
+g efeit consequente potenci rea
+
+
+
+
+h identific qualific respons indic nom complet carg funca epoc constat period gesta cas descrica condut nex causal entr condut result ilicit culpabil
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+x analis inform prest pel orgaoent dem interess cas verificas aut pressupost acim mencion
+
+
+x resum element constant aut caracteriz fumus bon iur carateriz institut fumus bon iur dev analis maior profund est unidad tecnic vist real possibil hav distorca licit contrat etc realiz pel orgaoent
+
+
+x resum element constant aut caracteriz periculum in mor evidenc periculum in mor poderaa ensej prejuiz orgaoent eou inter public compromet eficac decisa merit vier profer pel tribunal
+
+
+estiv configur periculum in mor revers
+
+
+
+x outr part verificas adoca med cautel form requer pel representant capaz traz prejuiz significat orgaoent inter public
+
+
+estiv configur periculum in mor revers mesm pertinent concessa med cautel
+
+
+x outr part verificas resum element constant aut caracteriz periculum in mor revers present aut caracteriz periculum in mor revers entretant represent risc maior aquel pod advir adoca med cautel pleite pel representant
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc xx lei especif cas irregular aplic lei licit lei tcu
+
+
+
+estiv configur periculum in mor revers
+
+
+
+x tang requerimentoa necess med cautel entendes tal med dev adot present aut requisit fumus bon iur periculum in mor bem configur periculum in mor revers capaz traz prejuiz significat orgaoent inter public
+
+
+estiv configur periculum in mor revers mesm pertinent concessa med cautel
+
+
+x tang requer necess med cautel entendes tal med dev adot present aut requisit fumus bon iur periculum in mor periculum in mor revers est present aut entant represent risc maior aquel pod advir adoca med cautel pleite pel representant
+
+
+x diant fat apur par melhor analis merit present represent fazs necess aind adoca seguint med prelimin resum med prelimin adot oitiv diligente inspeca eou audienc
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+oitiv orgaoentidaderespons
+
+
+
+x realiz oitiv orgaoentidaderespons nom carg par praz dias manifestars sobr fat apont represent formul identific representant especial quant fat sobr orgaoent dev manifest conform dispost itemns xx instruca
+
+
+
+
+oitiv empres contratadadeclar vencedor etc poss prejuiz cautel
+
+
+
+x realiz oitiv empres contrat declar vencedor etc poss prejuiz cautel par praz dias quer manifestars sobr fat apont represent formul identific representant conform analis dispost itemns xx instruca
+
+
+
+
+diligente
+
+
+
+x realiz diligente orgaoent par praz numer dias sej encaminh seguint document conform analis dispost itemns xx instruca
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca orgaoent par sej colet inform dispost segu par subsidi analis conclus questa conform analis dispost itemns xx instruca
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+
+
+audienc
+
+
+
+x realiz audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic conform analis dispost itemns xx instruca
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs lembr cas empres contrat declar vencedor etc poss prejuiz cautel sumul vinculant suprem tribunal federal dispo process perant tribunal cont unia assegurams contraditori ampl defes quand decisa pud result anul revog ato administrat benefic interess excetu apreci legal ato concessa inicial aposentador reform pensa
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc xx lei especif cas irregular aplic lei licit lei tcu
+
+
+b determin raza ped formul pel representanted ofici cautelar term regiment internotcu orgaoent suspend
+
+
+c determin term regiment internotcu oitiv orgaoentidaderespons nom carg par praz dias manifestars sobr fat apont represent formul identific representant especial quant fat sobr orgaoent dev manifest alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+d determin term v regiment internotcu oitiv empres contrat declar vencedor etc poss prejuiz cautel par praz dias quer manifestars sobr fat apont represent formul identific representant alertando quant possibil tribunal indic med pod adot cas sej apresent manifest est sej acolh
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+
+
+
+
+diligente
+
+
+
+x realiz diligente fundament ritcu orgaoent par praz numer dias sej encaminh seguint document
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca fundament ritcu orgaoent par sej colet seguint inform
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+
+
+audienc
+
+
+
+x realiz fundament iv cc paragraf unic ritcu audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs redaca propost audienc dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat
+
+
+obs cas especific necess inclusa ofici audienc alert quant possibil
+
+
+cont ordin gestor cham audienc julg irregul decorrente constat identific nest process
+
+
+b empres declar inidone par licit administr public cas hav indici fraud licit conform dispost lei
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aoa orgaoent eou empres contrat declar vencedor etc fim subsidi manifest requer
+
+
+x comunic representant aoa orgaoent empres contrat declar vencedor etc poss prejuiz cautel decisa vier adot nest aut
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+
+interess inclu nom empresalicitant contrat declar vencedor tiv sid ouv oitiv prev consider decisa tcu pod afet esfer jurid inter tend vist entend acorda tcu p item sumari memorandocircul segecex
+
+
+
+propost indefer ped cautelaroitivadiligenciainspecaoaudiencia conform encaminh
+
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+
+
+
+
+destinas registr inform contribu efetiv par perfeit compreensa questa discut aut resum mer cop repetica inform anterior devendos evit transcrica trech pec processu poss sintetiz sem prejudic perfeit identific fat
+
+
+
+digit text aqu
+
+
+
+exam tecnic
+
+
+
+respost oitivadiligente promov est secret mei ofici pec numer dat dat orgaoent cas dem interess apresent tempestivamenteintempestivamente inform eou esclarec constant pec numer
+
+
+
+expor sucint cad pont objet oitiv diligente realiz analis document encaminh apresent encaminh consider adequ
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+
+cas conclu pel necess propost audienc important indic
+
+
+
+
+f caus constat quand houv element aut permit identifical
+
+
+
+
+g efeit consequente potenci rea
+
+
+
+
+h identific qualific respons indic nom complet carg funca epoc constat period gesta cas descrica condut nex causal entr condut result ilicit culpabil
+
+
+
+x consoant regiment internotcu relator pod cas urgenc fund recei grav lesa erari inter public risc ineficac decisa merit ofici mediant provoc adot med cautel determin suspensa proced impugn tribunal julg merit questa tal providente dev adot quand present pressupost fumus bon iur periculum in mor
+
+
+estiv caracteriz fumus bon iur periculum in mor
+
+
+
+x analis inform prest pel orgaoent dem interess cas verificas aut pressupost acim mencion sena vej resum element lev conclusa inexistente pressupost
+
+
+estiv caracteriz fumus bon iur periculum in mor periculum in mor revers justific indefer cautel
+
+
+x analis inform prest pel orgaoent dem interess cas verificas aut pressupost acim mencion
+
+
+x resum element constant aut caracteriz fumus bon iur carateriz institut fumus bon iur dev analis maior profund est unidad tecnic vist real possibil hav distorca licit contrat etc realiz pel orgaoent
+
+
+x resum element constant aut caracteriz periculum in mor evidenc periculum in mor pod ensej prejuiz orgaoent eou inter public compromet eficac decisa merit vier profer pel tribunal
+
+
+x outr part verificas resum element constant aut caracteriz periculum in mor revers present aut caracteriz periculum in mor revers represent risc aind maior par administr inter public entr qua vislumbras resum risc advind med cautel pleite pel representant
+
+
+
+conclusa
+
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit lei tcu
+
+
+estiv caracteriz fumus bon iur periculum in mor
+
+
+
+x tang requer med cautel entendes est dev acolh present aut requisit fumus bon iur periculum in mor
+
+
+
+estiv caracteriz fumus bon iur periculum in mor periculum in mor revers justific indefer cautel
+
+
+x tang requer med cautel pes present aut requisit fumus bon iur periculum in mor entendes est dev acolh raza existente periculum in mor revers capaz traz prejuiz aind maior administr inter public cas sej conced refer cautel
+
+
+x diant fat apur conclu inform constant aut suficient par analis merit present represent raza pel fazs necess adoca seguint med prelimin resum med prelimin adot diligenciainspecaoaudiente
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+diligente
+
+
+
+x realiz diligente orgaoent par sej encaminh document necessari analis conclus questa conform analis expost itemns xx instruca
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca orgaoent par sej colet inform dispost segu subsidi analis conclus questa conform analis expost itemns xx instruca
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+audienc
+
+
+
+x realiz audienc respons segu indic par apresent raza justificat par irregular indic conform analis expost itemns xx instruca
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+
+obs lembr cas empres contrat declar vencedor etc poss prejuiz cautel sumul vinculant suprem tribunal federal dispo process perant tribunal cont unia assegurams contraditori ampl defes quand decisa pud result anul revog ato administrat benefic interess excetu apreci legal ato concessa inicial aposentador reform pensa
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu
+
+
+b indefer requer med cautel formul identific representant tend vist inexistente pressupost necessari par adoca refer med
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+
+
+
+
+diligente
+
+
+
+x realiz diligente fundament ritcu orgaoent par praz numer dias sej encaminh seguint document
+
+
+obs indic element necessari continu exam process registr precis term dev feit diligente
+
+
+
+
+
+
+
+
+inspeca
+
+
+
+x realiz inspeca fundament ritcu orgaoent par sej colet seguint inform
+
+
+obs indic element necessari continu exam process registr precis inform dev colet mediant inspeca
+
+
+
+
+
+
+
+
+audienc
+
+
+
+x realiz fundament iv cc paragraf unic ritcu audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs redaca propost audienc dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat
+
+
+obs cas especific necess inclusa ofici audienc alert quant possibil
+
+
+cont ordin gestor cham audienc julg irregul decorrente constat identific nest process
+
+
+b empres declar inidone par licit administr public cas hav indici fraud licit conform dispost lei
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aoa orgaoent eou empres contrat declar vencedor etc cas fim subsidi manifest requer
+
+
+x comunic representant aoa orgaoent empres contrat declar vencedor etc poss prejuiz cautel decisa vier adot nest aut
+
+
+
+
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+interess sustent oral nom inscrica oab cpf cas exist registr
+
+
+propost merit
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+
+
+
+
+destinas registr inform contribu efetiv par perfeit compreensa questa discut aut resum mer cop repetica inform anterior devendos evit transcrica trech pec processu poss sintetiz sem prejudic perfeit identific fat
+
+
+
+obs instruca merit dev consolid propost encaminh constant instruca anterior
+
+
+
+digit text aqu
+
+
+
+
+exam tecnic
+
+
+
+
+oitivasdiligente
+
+
+
+respost oitivadiligente promov est secret mei ofici pec numer dat dat orgaoent cas dem interess apresent tempestivamenteintempestivamente inform eou esclarec constant pec numer
+
+
+
+expor sucint cad pont objet oitivadiligente realiz analis document encaminh apresent encaminh consider adequ
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+obs analis dev cont demonstr element fat direit fundament propost anul atos consider irregul
+
+
+
+audienc
+
+
+
+x cumpriment despach secretari ministrorelator pec numer promov audienc srs nom mei ofici numer pec numer dat dat respectiv edital numer public dou dat
+
+
+
+revel
+
+
+
+x responsavel tomou cienc alud ofici conform document constant pec numer apresentou raza justificat quant irregular verific cabivel audienc efetu edital
+
+
+obs faz referente tod pec document caracteriz revel ofici cienc houv ofici respect ar assin entreg residente local trabalh servidor public bem comprovant pesquis realiz par identific enderec local trabalh
+
+
+x transcorr praz regimental fix tend alud responsavel apresent raza justificat entend deveraa consider revel dandos prossegu process acord lei
+
+
+
+est camp dev cont necessari
+
+
+
+
+registr comunic entreg destinatari esgot med vist localiz respons chamament edital
+
+
+
+
+b exam bas dem element cont aut
+
+
+
+
+c indic condut agent envolv ensej aplic sanca
+
+
+
+
+d fundament legal encaminh
+
+
+
+
+apresent justificat
+
+
+
+x responsavel tomou cienc alud ofici conform document constant pec numer tend apresent tempestivamenteintempestivamente raza justificat acord document constant pec numer
+
+
+
+est camp dev cont necessari
+
+
+
+
+sintes analis raza justificat manifest tecnic quant aceit argument
+
+
+
+
+b fundament legal encaminh
+
+
+
+
+conclusa
+
+
+
+
+est camp destin registr sintes analis realiz fundament
+
+
+
+pod utiliz form considerand julg convenient pel unidad tecnic
+
+
+
+
+regr integr conclusa form sucint inform sobr
+
+
+
+
+conhec procedente represent
+
+
+
+
+b princip fat eou cas princip argument respons indic norm infring
+
+
+
+
+c reconhec boaf cad respons cas consequente processu dess entend
+
+
+
+
+d situaca cont relat exercici ocorr irregular apont aut quand houv envolv agent titul cont ordin extraordin
+
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+x document constant pec numer dev conhec represent preench requisit previst aplic regiment internotcu cc lei especif cas irregular aplic lei licit lei tcu
+
+
+
+
+escolh opca cas
+
+
+
+
+houv analis raza justificat
+
+
+
+
+audienc
+
+
+
+
+acolh raza justificat
+
+
+
+acord analis dispost itemns xx instruca argument apresent pel responsavel mostr suficient par elid irregular impost raza pel propoes acolh integralparcial raza justificat apresent
+
+
+
+rejeica raza justificat aplic mult
+
+
+
+acord analis dispost itemns xx instruca argument apresent pel responsavel sr nom respons cpf carg mostr suficient par elid irregular impost raza pel propoes rejeica raza justificat apresent aplicandolh mult previst ii lei
+
+
+
+
+determin
+
+
+
+
+
+format uso geral
+
+
+
+x consider motiv determin dispost item x instruca cab propor determin aoa orgaoent fundament ii ritcu adot praz praz conced par cumpriment determin providente vist indic aca descrica situaca regulariz desacord fundament legalnormat jurisprudencial infring
+
+
+conform dispost ii in fin resolucaotcu propost determin dev cont fundament legal legitim tcu exped determin exempl lei regiment intern tcu i lei ii regiment intern tcu lei regiment intern tcu lei regiment intern tcu lei regiment intern tcu
+
+
+
+
+cas mais ocorrente irregular
+
+
+
+x consider motiv determin motiv determin bdispost itens xx instruca cab determin orgaosentidadesun fundament ii ritcu adot praz praz conced par cumpriment determin providente vist
+
+
+x indic aca descrica situaca regulariz desacord fundament legalnormat jurisprudencial infring
+
+
+x indic aca descrica situaca regulariz b desacord fundament legalnormat jurisprudencial infring
+
+
+
+
+format plan aca resolucaotcu
+
+
+
+x consider motiv determin dispost itemns xx instruca cab determin orgaosentidadesun fundament ii ritcu apresent est tribunal praz praz conced par apresent plan aca plan aca vist descrica problem sane cont minim med adot respons pel aca praz previst par implement
+
+
+
+
+cas mais aca implement
+
+
+
+x consider ocorrente descrica problem identific descrica problem identific b descrica problem identific c dispost itens xx instruca cab determin orgaosentidadesun fundament ii ritcu apresent est tribunal praz praz conced par apresent plan aca plan aca vist san problem cont minim med adot respons pel aca praz previst par implement
+
+
+
+
+recomend
+
+
+
+x consider ocorrente descrica ocorrente dispost itemns xx instruca cab propor recomend orgaosentidadesun fundament iii regiment intern tcu par avali conveniente oportun descrica propost melhor vist melhoriaaperfeico esper
+
+
+
+
+cas mais recomend
+
+
+
+x consider ocorrente descrica ocorrente descrica ocorrente b dispost itemns xx instruca cab propor recomend orgaosentidadesun fundament iii regiment intern tcu avali conveniente oportun adot seguint proced
+
+
+x descrica propost melhor vist melhoriaaperfeico esper
+
+
+x descrica propost melhor b vist melhoriaaperfeico esper
+
+
+
+
+dar cienc
+
+
+
+x consider ocorreur impropriedad cit impropriedad dispost itemns xx instruca identific objet verif ocorrente afront dispost noa fundament legalnormat jurisprudencial infring cab propor cienc orgaosentidadesun vist adoca providente intern previn ocorrente outr semelhant
+
+
+
+
+
+
+cas ocorrente mais impropriedadefalh
+
+
+
+x consider ocorreur seguint impropriedadess dispost itemns xx instruca cab propor cienc orgaosentidadesun par sej adot med intern vist prevenca ocorrente outr semelhant
+
+
+x descrica impropriedad identific objet verif ocorrente afront dispost fundament legalnormat jurisprudencial infring
+
+
+x descrica impropriedad b identific objet verif ocorrente afront dispost fundament legalnormat jurisprudencial infring
+
+
+
+
+conversa tce
+
+
+
+x consider ocorrente cit irregularidadeilegal conform dispost item x instruca cab propor desd conversa present aut tom cont especial vis corret quantific dan apur responsabil convert aut tom cont especial propoes sej cit respons sra nom cpf xxxxxxxxxxx sr nom cpf xxxxxxxxxxx
+
+
+
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv propost mult eou conversa tce preliminar adoca dess encaminh envi proposica par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat hipotes proposica mult eou conversa tce hav imped efetiv imediat dess encaminh
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit lei tcu par merit consideral procedent parcial procedent improcedent
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+
+acolh raza justificat
+
+
+
+x acolh integral parcial raza justificat interpost pel sra nom respons
+
+
+
+
+assin praz
+
+
+
+x fundament ix constituica federal cc lei assin praz par orgaoent tang indic express ato contrat ilegal adot med abaix necess exat cumpriment lei
+
+
+x indic express ato contrat ilegal disposit observ
+
+
+
+
+mult rejeica raza justificat
+
+
+
+x rejeit raza justificat apresent pel srs nom cpf carg aplicandolh individual mult previst ii lei fixandolh praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment internotcu recolh div tesour nacional atualiz monetari desd dat acorda efet recolh pag venciment form legislacion vigor
+
+
+x autoriz descont div remuner servidor observ dispost lei quand cas
+
+
+x autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo sej possivel descont determin
+
+
+
+
+determin
+
+
+
+
+
+
+
+
+format uso geral
+
+
+
+x determin orgaosentidadesun fundament ii ritcu adot praz praz conced par cumpriment determin providente vist indic aca descrica situaca regulariz desacord fundament legalnormat jurisprudencial infring
+
+
+conform dispost ii in fin resolucaotcu propost determin dev cont fundament legal legitim tcu exped determin exempl lei regiment intern tcu i lei ii regiment intern tcu lei regiment intern tcu lei regiment intern tcu lei regiment intern tcu
+
+
+
+
+cas mais ocorrente irregular
+
+
+
+x determin orgaosentidadesun fundament ii ritcu adot praz praz conced par cumpriment determin providente vist
+
+
+x indic aca descrica situaca regulariz desacord fundament legalnormat jurisprudencial infring
+
+
+x indic aca descrica situaca regulariz b desacord fundament legalnormat jurisprudencial infring
+
+
+
+
+
+format plan aca resolucaotcu
+
+
+
+x determin orgaosentidadesun fundament ii ritcu apresent est tribunal praz praz conced par apresent plan aca plan aca vist descrica problem sane cont minim med adot respons pel aca praz previst par implement
+
+
+
+
+cas mais aca implement
+
+
+
+x determin orgaosentidadesun fundament ii ritcu apresent est tribunal praz praz conced par apresent plan aca plan aca vist san problem segu identific cont minim med adot respons pel aca praz previst par implement
+
+
+x descrica problem identific
+
+
+x descrica problem identific b
+
+
+x descrica problem identific c
+
+
+
+obs observ orient cont tcu disciplin proposica determin ambit tribunal cont unia
+
+
+
+
+
+
+
+
+recomend
+
+
+
+x recomend orgaosentidadesun fundament iii regiment intern tcu avali conveniente oportun descrica propost melhor vist melhoriaaperfeico esper
+
+
+
+
+cas mais recomend
+
+
+
+x recomend orgaosentidadesun fundament iii regiment intern tcu avali conveniente oportun adot seguint proced
+
+
+x descrica propost melhor vist melhoriaaperfeico esper
+
+
+x descrica propost melhor b vist melhoriaaperfeico esper
+
+
+
+
+cas monitor recomend determin pel tribunal acrescent
+
+
+
+xx determin unidad tecnic respons pel monitor monitor praz consider necessari par implement recomendacaoo implement recomendacaoo constant item anterior
+
+
+
+obs observ orient cont tcu disciplin proposica recomend ambit tribunal cont unia
+
+
+
+
+
+
+
+
+
+dar cienc
+
+
+
+x dar cienc orgaosentidadesun sobr descrica impropriedadefalh identific objet verif ocorrente afront dispost fundament legalnormat jurisprudencial infring vist adoca providente intern previn ocorrente outr semelhant
+
+
+
+
+cas ocorrente mais impropriedadefalh
+
+
+
+x dar cienc orgaosentidadesun sobr seguint impropriedadesfalh par sej adot med intern vist prevenca ocorrente outr semelhant
+
+
+x descrica impropriedad identific objet verif ocorrente afront dispost fundament legalnormat jurisprudencial infring
+
+
+x descrica impropriedad b identific objet verif ocorrente afront dispost fundament legalnormat jurisprudencial infring
+
+
+
+obs observ orient cont tcu disciplin proposica dar cienc ambit tribunal cont unia
+
+
+
+
+conversa tce
+
+
+
+x determin term lei conversa present process tom cont especial autoriz desd log citacaoo propost item numer item instruca
+
+
+obs redaca propost citaca dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat indic valor origin respect dat valor atualiz div
+
+
+obs cas citaca dirig empres houv indici fraud licit poss dar ensej declar inidon especific necess inclusa ofici alert quant dispost lei
+
+
+x comunic ministeri past supervisor adoca med propost item anterior term paragraf unic regiment intern tribunal utiliz cas conveni
+
+
+x apens present aut process tom cont especial vier autu form previst tcu
+
+
+
+
+
+
+outr encaminh
+
+
+
+x dar cienc acorda vier profer relatori vot fundament representant orgaoent cas dem interess
+
+
+x arquiv present process utiliz cas haj propost conversa tce propost mult
+
+
+obs cas mult propost arquiv feit quand process estiv condica efet arquiv sej quitaca instaur cbex
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nomeusuari
+
+
+aufc mat matriculaservidor
+
+
+
+
+tc numeroprocess
+
+
+
+apens tc processosapens
+
+
+
+tip represent ped med cautel
+
+
+
+unidad jurisdicion orga entidad vincul ministerial cabivel
+
+
+
+representant nom cpf cnpj
+
+
+
+represent nom cpf cnpj
+
+
+
+
+advog procur nom inscrica oab cpf cas exist registr pec numer indic localiz procur
+
+
+interess sustent oral nom inscrica oab cpf cas exist registr
+
+
+propost assin praz audienc
+
+
+
+introduca
+
+
+
+cuid aut represent ped med cautel respeit possiv irregular ocorr unidad jurisdicion relacion assunt valor outr element identifiqu objet represent
+
+
+obs necessari inclu paragraf inform adicion
+
+
+digit text aqu
+
+
+
+histor
+
+
+
+
+destinas registr inform contribu efetiv par perfeit compreensa questa discut aut resum mer cop repetica inform anterior devendos evit transcrica trech pec processu poss sintetiz sem prejudic perfeit identific fat
+
+
+
+digit text aqu
+
+
+
+exam tecnic
+
+
+
+respost oitivadiligente promov est secret mei ofici pec numer dat dat orgaoent cas dem interess apresent tempestivamenteintempestivamente inform eou esclarec constant pec numer
+
+
+
+expor sucint cad pont objet oitiv diligente realiz analis document encaminh apresent encaminh consider adequ
+
+
+
+
+analis dev registr seguint aspect par cad constat
+
+
+
+
+situaca encontr
+
+
+
+
+b objet identific constat
+
+
+
+
+c criteri
+
+
+
+
+d evidente present aut indic pec pagin ond encontr
+
+
+
+
+desfech sucint acerc constat anunci resum encaminh propost
+
+
+
+obs analis dev cont demonstr element fat direit fundament propost anul atos consider irregul
+
+
+
+cas conclu pel necess propost audienc important indic
+
+
+
+
+f caus constat quand houv element aut permit identifical
+
+
+
+
+g efeit consequente potenci rea
+
+
+
+
+h identific qualific respons indic nom complet carg funca epoc constat period gesta cas descrica condut nex causal entr condut result ilicit culpabil
+
+
+
+digit text aqu
+
+
+
+conclusa
+
+
+
+x diant fat apur concluis pel procedente procedente parcial represent objet dest aut especial refer indic fat ensej propost pel procedente represent
+
+
+x ess motiv entendes necess adoca seguint med resum med adot tais fix praz par adoca providente audienc respons
+
+
+
+escolh opca cas
+
+
+
+
+audienc
+
+
+
+x realiz audienc respons segu indic par apresent raza justificat pel irregular indic conform discrimin itemns xx instruca
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+
+obs indic entr parentes log apresent cad med item instruca mat examin possibilit leitor cas consider necessari rel analis fundament encaminh suger
+
+
+digit text aqu
+
+
+
+inform adicion
+quand cas
+
+
+
+
+quand existent registr inform referent incident processu relacion diret exam tecnic tais ped sustent oral existente process conex solicit inform demand inclusa med propost encaminh
+
+
+
+obs houv cont ordin extraordin andament julg pel tribunal lembr encaminh dev contempl indic providente eventual necess prossegu process
+
+
+obs registr instruca represent mat examin form express conclus process cont anu julg
+
+
+cas afirmat houv necess realiz audienc preliminar adoca dess med saneador encaminh propost par ministeri publicotcu avali conveniente oportun interpor recurs revisa term cc ritcu remet cop part process denunc constitu suport material probatori reabertur cont
+
+
+cas negat send necess proposica audienc hav imped efetiv imediat dess med saneador
+
+
+digit text aqu
+
+
+
+propost encaminh
+
+
+
+x ant tod expost submetems aut consider superior propond
+
+
+conhec present represent satisfeit requisit admissibil previst aplic regiment intern dest tribunal cc lei especif cas irregular aplic lei licit cc lei tcu par merit consideral procedenteparcial procedent
+
+
+b fundament ix constituica federal cc lei assin praz par orgaoent tang indic express ato contrat ilegal adot med abaix necess exat cumpriment lei
+
+
+b indic express ato contrat ilegal disposit observ
+
+
+
+
+escolh mais encaminh apliqu exam realiz
+
+
+
+
+audienc
+
+
+
+x realiz fundament iv cc paragraf unic ritcu audienc respons segu indic par praz quinz dias apresent raza justificat pel irregular indic
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+x sr nom cpf carg condut irregular contrari norm viol
+
+
+obs redaca propost audienc dev precis complet estrutur logic adequ respons dev devid identific nom cpf carg period efet exercici carg sej substitut sej titul send obrigatori explicit fat lev conclusa hav irregular apont element fatic condut cad respons conjunt respons cas condut ident ex membr comissa licit disposit constitucional legal regulament viol aspect normat
+
+
+obs cas especific necess inclusa ofici audienc alert quant possibil
+
+
+cont ordin gestor cham audienc julg irregul decorrente constat identific nest process
+
+
+b empres declar inidone par licit administr public cas hav indici fraud licit conform dispost lei
+
+
+
+
+outr encaminh
+
+
+
+x encaminh cop pec numer present instruca aoa orgaoent fim subsidi manifest requer
+
+
+x comunic representant aoa orgaoent dem interess cas decisa vier adot nest aut
+
+
+
+
+
+
+
+
+siglaun dataporextens
+
+
+
+
+assin eletronic
+
+
+
+nom
+
+
+aufc mat matriculaservidor
+
+

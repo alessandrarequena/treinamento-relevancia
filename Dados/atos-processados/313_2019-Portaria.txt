@@ -1,0 +1,522 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist competente confer ii cc resolucaotcu fevereir
+
+
+consider sistem planej gesta tribunal estabelec pel resolucaotcu
+
+
+consider necess rev indic previst par aferica result plan gesta
+
+
+consider inform parec constant tc resolv
+
+
+portariatcu mai pass vigor renumer paragraf unic par acrescim seguint term
+
+
+
+
+
+eventu revisa bem definica indic par met result institucional realiz mediant port president
+
+
+fic comissa coorden geral ccg autoriz alter anex ii dest port part subsidi encaminh pel secret planej governanc gesta seplan
+
+
+anex iii portariatcu pass vigor form anex unic dest port
+
+
+est port entr vigor dat public
+
+
+jos muci monteir
+
+
+
+anex unic portariatcu setembr
+
+
+anex iii portariatcu mai
+
+
+distribuica indic met integrant plan gesta
+
+
+indic control extern
+
+
+
+
+
+
+period
+
+avaliat
+
+abr
+
+set
+
+period avaliat
+
+out mar
+
+period avaliat
+
+abr
+
+set
+
+period avaliat
+
+out mar
+
+nom indic
+
+respons pel medica
+
+pes
+
+met
+
+pes
+
+met
+
+pes
+
+met
+
+pes
+
+met
+
+indic realiz trabalh prioriz
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nivel estoqu
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic deliber monitor trabalh relevant prioriz
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic deliber monitor
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process control extern instru merit
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic process grau recurs aguard instruca dias estoqu
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quantidad atos pessoal estoqu
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+homensd fiscaliz hdf
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tempestiv instruca process control extern
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic reduca estoqu process antig pendent merit
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic corporat
+
+
+
+
+
+
+period
+
+avaliat
+
+abr
+
+set
+
+period avaliat
+
+out mar
+
+period avaliat
+
+abr
+
+set
+
+period avaliat
+
+out mar
+
+nom indic
+
+respons pel medica
+
+pes
+
+met
+
+pes
+
+met
+
+pes
+
+met
+
+pes
+
+met
+
+indic realiz aca estruturant
+
+seplan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tabel descrica indic
+
+
+nom indic
+
+descrica
+
+formul calcul
+
+indic realiz trabalh prioriz
+
+percentual acumul realiz trabalh control extern prioriz relaca previsa trabalh prioriz plan
+
+x trabalh prioriz plan gesta conclu fim period trabalh prioriz plan gesta conclusa previst fim period
+
+nivel estoqu
+
+estoqu process pendent instruca merit med processobas
+
+processobas process control extern sobrest pendent instruca merit final period avali
+
+indic deliber monitor trabalh relevant prioriz
+
+percentual itens deliber monitor trabalh prioriz
+
+x item deliber monitor item deliber apreci gabinet item deliber conclu item deliber monitor item deliber analis
+
+
+
+ond
+
+item deliber monitor deliber analis consider monitor deliber tip sp suspens deliber monitor cuj praz conced uj tenh venc
+
+item deliber analis deliber existent sistem dat corrent dias
+
+
+
+consider par calcul dess indic apen deliber profer process associ trs eou terus cont govern trabalh prioriz desd plan operacional
+
+indic deliber monitor
+
+percentual itens deliber monitor tod process
+
+x item deliber monitor item deliber apreci gabinet item deliber conclu item deliber monitor item deliber analis
+
+
+
+ond
+
+item deliber monitor deliber analis consider monitor deliber tip sp suspens deliber monitor cuj praz conced uj tenh venc
+
+item deliber analis deliber existent sistem dat corrent dias
+
+process control extern instru merit
+
+instruca merit process oriund grup trabalh segecex
+
+process list instru merit
+
+indic process grau recurs aguard instruca dias estoqu
+
+percentual process grau recurs aguard instruca maxim dias secret recurs
+
+x process cuj responsabil agir sej serur dias men final period avali process cuj responsabil agir sej serur final period avaliat
+
+quantidad atos pessoal estoqu
+
+quantidad atos pessoal pendent autuaca
+
+atos pessoal autu estoqu sefip dat avali
+
+homensd fiscaliz hdf
+
+quantidad esforc destin fiscaliz
+
+hdf acumul fim period avali
+
+tempestiv instruca process control extern
+
+percentual process instru merit mes
+
+x process datax datainstruca
+
+datax dat fim period avaliat plan ºp process datax dat fim period avaliat plan ºp
+
+
+
+ond
+
+datax minim datainstruca datalimit cas haj instruca datax datalimit
+
+datalimit dataautu dias
+
+
+
+consider apen process cuj datalimit dat inici plan
+
+desconsider par efeit calcul process tenh sid sobrest excet aquel tenh tid instruca merit dentr praz
+
+indic reduca estoqu process antig pendent merit
+
+percentual process autu ana inici plan instruca merit
+
+x process autu ana inici plan instru merit process autu ana inici plan inici vigenc plan
+
+indic realiz aca estruturant
+
+percentual acumul aca estruturant realiz relaca total aca estruturant planej
+
+x aca estruturant plan gesta conclu fim period aca estruturant plan gesta conclusa previst fim period
+
+result plan gesta
+
+result alcanc execuca plan gesta period semestral
+
+med result indic control extern period x indic realiz aca estruturant period x
+
+
+process tip acom cct cgov cons den des mon pc pcex pcsp ra racom repr rl rmon scn tc tce tce conv tcex tcsp
+
+
+
+
+
+
+const revog express
+alter portariatcu mai aprov plan gesta tribunal cont unia par period abril marc distribuica period avaliat valor met compo result institucional
+
+

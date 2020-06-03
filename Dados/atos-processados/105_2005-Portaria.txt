@@ -1,0 +1,1014 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo resolucaotcu dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet implement process educ distanc pegas term propost anex est port
+
+
+fic design anal control extern pedr koshin matricul par exerc relativ projet trat est port funca confianc coorden projet codig fc constant dezembr aloc institut serzedell corre
+
+
+paragraf unic cab gestor projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+titul secretariageral administr fic autoriz proced sempr necessari substituica nomeaca gestor projet
+
+
+est port entr vigor dat public
+
+
+
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+public dou seca pag
+
+
+
+
+
+
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+x espec gestor
+
+orig fc
+
+pedr koshin
+
+
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+fc
+
+nom substitut eventual
+
+matricul
+
+violet mar sant galva
+
+
+
+localtelefon
+
+isc sal
+
+
+identific projet
+
+
+nom projet
+
+pegas
+
+period realiz
+
+unidad patrocin
+
+
+
+isc
+
+
+vincul estrateg
+
+
+vincul principal plan estrateg tcu objet estrateg port tcu janeir
+
+
+
+objet estrateg cumpr tempestiv qualidad competente tcu
+
+estrateg ampli aprimor uso tecnolog inform
+
+estrateg aperfeico process trabalh tcu
+
+b
+
+objet estrateg fortalec relacion sociedad orga public congress nacional mid
+
+estrateg fortalec aca control volt par melhor desempenh gesta public
+
+c
+
+objet estrateg aprimor polit intern gesta pesso
+
+estrateg desenvolv polit gesta conhec
+
+estrateg assegur elev nivel satisf servidor tcu
+
+vincul principal plan diretriz houv diretriz med port tcu janeir
+
+
+
+diretriz aprimor gesta pesso equip tribunal
+
+med desenvolv competente gerenci profission critic servidor sed estad
+
+med aprimor capacit especif par servidor sobr dificuldad pratic enfrent unidad tcu
+
+
+
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+problem
+
+
+
+baix ofert aca aprendizag par servidor especial par lot secret estad
+
+b
+
+baix compartilh conhec produz ativ control extern
+
+c
+
+ausenc bas dad sobr aca aprendizag disponibiliz inform gerenci
+
+d
+
+decorrente aposentador exoner perd conhec pel tribunal exist sistem armazen aca aprendizag
+
+f
+
+isc possu sistem informatiz gerenci process trabalh concernent event educ compromet eficiente eficac
+
+g
+
+isc possu model process execuca gesta educ distanc
+
+h
+
+exist dificuldad atualiz materi curs
+
+
+
+oportun
+
+
+
+ampli possibil treinament desenvolv servidor tcu principal secret estad
+
+b
+
+estend aca aprendizag tcu par gestor public geral
+
+c
+
+disponibiliz conhec relacion negoci propici aprendizag colaborat
+
+
+
+ampli competente profission servidor tcu med compartilh conhec ativ curs atu autor conteud par ead comit gestor conteud
+
+f
+
+complement aca aprendizag presenci uso recurs ead
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+exist discrepanc entr ofert event educ par servidor sed estad acord dad apresent segu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indic satisf pesquis quant capacit aprimor profissional servidor apes crescent aind represent quadr maior satisf servidor sed relaca estad
+
+
+
+
+
+satisf geral
+
+satisf sed
+
+satisf estad
+
+divers encontr dirigent maior reclam relaca isc sid inexistente ofert capacit par estad
+
+implement ead tcu mant problem atend treinament servidor region disponibiliz nov tecnolog aprendiz
+
+sucess comun pratic cri par atend sas demonstr ferrament ead pod larg uso tcu
+
+tutorial sisac desenvolv pel isc parc sefip par uso pel gestor public demonstr potencial ead explicit conhec det pel corp tecnic tcu
+
+entrad nov servidor torn ana ira ger aument progress demand event educacion agrav quadr
+
+implant soluca videoconferente ira requer definica process trabalh par uso dess soluca ferrament ead
+
+
+
+tip event
+
+sed
+estad
+treinament realiz promov pel isc
+
+
+palestr seminari
+
+
+capacit par anal tecnic are control extern
+
+
+capacit par anal tecnic are apoi administrat
+
+
+
+treinament competente basic tecnic
+
+
+capacit ativ control extern
+
+
+capacit gesta
+
+
+
+observ
+sistemat aferica entr anos diferent isc dispo posica fech relaca ana
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+
+implement process educ distanc ead suport sistem gerenci aprendizag learning management system lms
+
+
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+elabor process ead tcu
+
+
+
+
+
+process elabor
+
+document descrev process ead tcu
+
+isc
+
+b
+
+promov curs auditor natur operacional anop test pilot uso ead
+
+curs
+
+
+
+numer curs realiz
+
+curs realiz
+
+iscsegecex
+
+c
+
+promov curs distanc tcu ofert terceir
+
+curs
+
+
+
+numer curs realiz
+
+curs realiz
+
+tcu
+
+d
+
+contrat implant sistem gerenci aprendizag lms
+
+
+
+
+
+sistem implant
+
+sistem implant
+
+setec isc
+
+
+
+trein servidor gesta sistem gerenci aprendizag lms
+
+servidor
+
+
+
+
+
+numer pesso trein
+
+servidor competente utiliz lms
+
+isc
+
+f
+
+transpor curs presenci par modal distanc
+
+curs hor
+
+
+
+hor curs transport
+
+curs transport
+
+isc
+
+g
+
+implant process educ distanc
+
+
+
+
+
+process implant
+
+process trabalh implant
+
+isc
+
+h
+
+desenvolv execut campanh dissemin uso ead
+
+
+
+
+
+quantidad pesso utiliz ead
+
+campanh realiz
+
+tcu
+
+i
+
+realiz curs modal ead process desenvolv
+
+curs
+
+
+
+numer curs realiz
+
+curs realiz
+
+tcu
+
+j
+
+capacit servidor equip gestor projet
+
+servidor
+
+
+
+numer pesso capacit
+
+pesso capacit
+
+isc
+
+k
+
+avali process ead desenvolv
+
+
+
+
+
+indic satisf curs realiz
+
+relatori avali process ead
+
+tcu
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+elabor process ead
+
+b
+
+contrat implant sistem gerenci aprendizag lms
+
+c
+
+treinament equip gesta lms contrat
+
+d
+
+implant process ead
+
+
+
+transposicaodesenvolv curs presenci par modal distanc
+
+f
+
+realiz curs tcu ofert terceir
+
+g
+
+realiz curs auditor natur operacional anop
+
+h
+
+desenvolv dissemin campanh uso ead
+
+i
+
+realiz curs transpostosdesenvolv par modal distanc
+
+j
+
+capacit equip gestor projet
+
+
+escop projet vai faz
+
+
+
+
+projet prev ofert event educ modal ead idiom estrangeir
+
+b
+
+projet realiz pesquis necess educacion
+
+c
+
+projet ira model implant process isc ferrament lms sej pertinent modal ead
+
+d
+
+projet prov conteud par curs promov utiliz parc par suprim ess requisit
+
+
+identific part envolv projet relaca
+
+
+nom part envolv
+
+registr patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci part envolv intern
+
+item negoci part envolv extern
+
+
+
+isc
+
+principal patrocin projet
+
+provedor infraestrutur necess projet
+
+orient estrateg funca ead
+
+b
+
+enicef
+
+avali implement process ead
+
+particip elabor process ead
+
+particip treinament uso lms
+
+c
+
+setec
+
+suport tecnolog particip process licitatori par contrat instal lms
+
+particip process contrat envolv recurs mediant prev negoci
+
+disponibiliz infraestrutur necess par implant uso lms
+
+d
+
+segecex
+
+aloc autor especial conteud
+
+
+
+projet aten
+
+apoi elabor process ead visa gesta competente
+
+f
+
+projet bid
+
+contrat pagament consultor par transposica curs capacit equip dia
+
+g
+
+cedoc
+
+apoi par registr direit autor curs tcu
+
+h
+
+conjur
+
+apoi par registr direit autor curs tcu
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+falt recurs par contrat soluca ead
+
+
+
+b
+
+apresent projet bem estrutur mostr vantagens invest
+
+diretor isc gestor projet
+
+b
+
+dificuldad aloc anal are par ativ concernent projet
+
+
+
+
+
+terceiriz servic
+
+negoci antecipad taref realiz pel setec prioridad
+
+m aloc tecnic isc experiente informat
+
+m implant process trabalh par servic atend pel unidad
+
+diretor isc gestor projet
+
+c
+
+ausenc anal aloc implant lms
+
+
+
+b
+
+contrat consultor extern
+
+m aloc servidor isc conhec
+
+diretor
+
+diplad
+
+d
+
+baix receptiv modal educ distanc
+
+
+
+b
+
+r efetu constant divulg sobr vantagens result uso ead
+
+gestor projet
+
+
+
+atras decorrent process licit
+
+b
+
+m
+
+m acompanh trabalh licit junt setec cpl
+
+m respond rapid question impugn recurs
+
+gestor projet
+
+isc
+
+cpl
+
+f
+
+particip autoresconteud intern desenvolv curs
+
+
+
+m
+
+r contrat conteud extern
+
+m negoci antecipad particip autor conteud
+
+diretor diplad
+
+gestor projet
+
+
+relaca outr projet
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+estrutur educ distanc tcu
+
+aten gesta competente
+
+implant dem process trabalh isc lms
+
+
+
+informatiz gesta educ corporat tcu
+
+portal tcu
+
+
+
+
+cust estim
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+contrat lms temporari par hosped curs anop
+
+r
+
+
+
+b
+
+transposicaodesenvolv conteud par ead
+
+r
+
+
+
+c
+
+contrat lms cust previst par anos suport
+
+r
+
+
+
+d
+
+capacit equip projet
+
+r
+
+
+
+total cust estim
+
+r
+
+
+
+
+quant item b taref transposicaodesenvolv conteud par ead possu r orcament par convert hor conteud entretant present projet ira ativ pilot convert hor conteud
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+tutor estagiari
+
+seged
+
+b
+
+webdesign terceiriz estagiari
+
+seged
+
+c
+
+sal
+
+isc
+
+d
+
+mes
+
+isc
+
+
+
+comput estaca trabalh lig red tcu
+
+isc
+
+f
+
+microcomput usad servidor lig red tcu par realiz test ferrament concernent ead tais lms program autor
+
+setec
+
+
+
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+pedr koshin
+
+
+
+setec
+
+
+
+integral
+
+b
+
+violet mar sant galva
+
+
+
+diplad
+
+
+
+integral
+
+c
+
+francisc alenc
+
+
+
+
+
+diplad
+
+
+
+integral
+
+d
+
+ana carolin dytz fagund
+
+
+
+diplad
+
+
+
+integral
+
+
+
+ricard dant stumpf
+
+
+
+setec
+
+
+
+ativ
+
+f
+
+edward luci vieir borb
+
+
+
+setec
+
+
+
+ativ
+
+g
+
+ricard nelson goncalv
+
+
+
+seap
+
+
+
+parcial
+
+h
+
+gustav parolin piment
+
+
+
+secom
+
+
+
+parcial
+
+
+finaliz
+
+
+dat assinatur gestor projet
+
+isc abril
+
+
+
+
+
+manifest titul unidad patrocin
+
+
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+isc
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet implement process educ distanc pegas design gestor
+
+

@@ -1,0 +1,844 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu dezembr resolv
+
+
+fic aprov realiz projet portal gerencial gerenci term anex dest port
+
+
+fic design anal control extern gustav henriqu oliveir borg matricul par exerc funca confianc coorden projet codig fc constant anex x aloc funca gestor projet
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+tribunal cont unia
+
+propost projeto
+
+portal gerencial gerenci
+
+
+
+
+
+pagin
+
+
+
+identific
+nom projet
+
+
+
+portal gerencial gerenciar period realiz
+
+unidad patrocin
+
+
+
+
+
+secret planej gesta seplan nom gestor
+
+matricul
+
+email
+
+ramal
+
+
+
+gustav henriqu oliveir borg
+
+
+
+gustavohotcugovbr
+
+funca gestor
+
+
+
+gerent
+
+
+
+x coorden
+
+
+
+lid
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+
+
+martinh shintat
+
+
+
+martinhostcugovbr
+
+local telefon
+
+
+
+seplan ed sed sal
+
+
+
+
+
+vincul estrateg projet vai ajud estrateg defin pel tcu
+plan estrateg tcu
+
+
+
+
+
+objet estrateg desenvolv cultur orient result
+
+b
+
+objet estrateg ampli divulg result gesta public aca control
+
+c
+
+iniciat estrateg aperfeico process identific divulg aca result aca control plan diretriz tcu
+
+
+
+
+
+aca colh utiliz inform estrateg par definica aca control
+
+b
+
+aca ampli uso dw sinerg par extraca dissemin inform armazen bas dad tcu plan diretor tecnolog inform
+
+
+
+
+
+aca aperfeico sistem sinerg par fornec inform permit melhor acompanh prioriz process
+
+b
+
+aca ampli uso sistem sinerg par extraca dissemin inform armazen bas dad tcu
+
+c
+
+aca implement demand evolut seplan adcon sistem sinerg plan diretor seplan
+
+
+
+
+
+aca c reestrutur portal sinerg
+
+
+
+
+
+problemaoportun
+descrica objet problem oportun
+
+
+
+
+
+exist necess cad maior integr inform encontr dispers divers sistem informatiz unidad tribunal tal fat dificult obtenca tempest inform atend question suscit par suport process tom decisa gerencial ess deficiente pod minimiz mei desenvolv portal inform gerenci utilizandos sistem sinerg portal corporat tcu congreg inform princip bas dad tribunal relatori gerenci possibilit analis result tendenc auxili process definica estrateg atuaca melhor process trabalh consequent desempenh organiz
+
+b
+
+inform gerenci atual disponiv sistem sinerg dad volum dad dispost dificil acess condica est vem inib utiliz part autor corp tecnic tcu
+
+c
+
+secret seplan adcon disponibiliz esforc distint relatori inform gerenci pagin portal corporat tcu possivel unir trabalh desenvolv ness secret par form repositori inform gerenci nivel institucional evit duplic esforc agreg conhec diferent equip trabalh
+
+
+
+tribunal cont unia
+
+propost projeto
+
+portal gerencial gerenci
+
+
+
+
+
+pagin
+
+evoluca quadr apresent dad referent problem oportun
+
+
+
+
+
+sistem sinerg apresent dad extra sistem tcu processus rad grh fiscal sidoc clientel sisun sipad sisac entant relatori ger pel sistem cit apresent quantidad inform pod disponibiliz pel sinerg alem diss estrutur dess relatori pod ajust pel usuari contrari relatori desenvolv part sinerg pod modific acord necess usuari par auxili process tom decisa adequad
+
+b
+
+desenvolv relatori par apresent inform sinerg requ conhec tecnic ferrament business objects sistem sinerg atual servidor tcu possu capacit par realiz ess trabalh precis demand ess taref seplan adcon secret dispo servidor par execuca dess trabalh cumulativ outr atribuica ocasion atras consider par atend demand conclusa portal gerencial relatori dev atualiz utiliz periodic desenvolv equip especializ disponibiliz repositori unic acess tod servidor tcu
+
+c
+
+relatori disponibiliz pel secret seplan adcon apresent muit inform sobr mesm assunt possivel identific esforc duplic entr secret cerc relatori disponibiliz podes assum relatori bem elabor desenvolv despendendos med esforc hor consider apen temp elabor relatori pod conclu desperdici hor trabalh aproximad seman trabalh servidor cad grup relatori elabor secret consider temp manutenca dess relatori ess dispendi aind maior portant interessant servidor tcu execut mesm trabalh result ident secret diferent
+
+
+
+
+
+objet geral relaca problem aproveit oportun
+
+
+
+
+desenvolv agrup disponibiliz relatori gerenci portal tcu acerc desempenh unidad tecnic gabinet
+
+
+
+
+
+escop projet vai faz
+met
+
+produt
+
+client
+
+
+
+aprov objet especif
+
+quant
+
+dat termin
+
+
+
+
+
+desenvolv model especific document relatori
+
+
+
+
+
+model especific document relatori aceit
+
+seplan
+
+b
+
+desenvolv model apresent par relatori observ padra portal tcu
+
+
+
+
+
+model apresent par relatori aceit
+
+seplan
+
+c
+
+desenvolv model check list par orient implement relatori
+
+
+
+
+
+model check list par orient implement relatori aceit
+
+seplan
+
+d
+
+orient equip projet sobr process desenvolv
+
+
+
+
+
+orient equip projet sobr process desenvolv realiz
+
+seplan
+
+
+
+especific desenvolv homolog relatori necessari par atend gabinet ministr auditor corregedor
+
+
+
+
+
+relatori gerenc par gabinet public aceit
+
+seplan gabinet corregedor
+
+f
+
+especific desenvolv homolog relatori necessari par atend ministeri public junt tcu
+
+
+
+
+
+relatori gerenc par ministeri public junt tcu public aceit
+
+seplan mptcu
+
+g
+
+especific desenvolv homolog relatori necessari par atend segepr conjur
+
+
+
+
+
+relatori gerenc par tcu public aceit
+
+seplan segepr conjur
+
+h
+
+especific desenvolv homolog relatori necessari par atend segecex
+
+
+
+
+
+relatori gerenc par segecex public aceit
+
+seplan segecex
+
+
+
+tribunal cont unia
+
+propost projeto
+
+portal gerencial gerenci
+
+
+
+
+
+pagin
+
+met
+
+produt
+
+client
+
+
+
+aprov objet especif
+
+quant
+
+dat termin
+
+
+
+i
+
+especific desenvolv homolog relatori necessari par detalh unidad jurisdicion
+
+
+
+
+
+relatori gerenc unidad jurisdicion public aceit
+
+seplan segecex
+
+j
+
+especific desenvolv homolog relatori necessari par atend seca
+
+
+
+
+
+relatori gerenc par presidente public aceit
+
+seplan seca
+
+k
+
+especific desenvolv homolog relatori necessari par atend seged
+
+
+
+
+
+relatori gerenc par seged public aceit
+
+seplan seged
+
+l
+
+divulg result projet entr usuari mei apresent videoconferente not informat
+
+
+
+
+
+plan divulg result projet elabor implement
+
+seplan
+
+
+
+
+
+escop projet vai faz
+
+
+
+
+implement alter estrutur sistem sinerg
+
+b
+
+atend demand esporad desenvolv relatori inform
+
+c
+
+realiz manutenca relatori desenvolv divulg pel seplan adcon
+
+d
+
+realiz treinament usuari ferrament business objects
+
+
+
+
+
+benefici impact esper produt projet
+
+
+
+
+facilit acess inform gerenci mod incentiv tom decisa ampar indic desempenh dad objet
+
+b
+
+dar suport celer process tom decisa
+
+c
+
+adapt relatori gerenci existent tecnolog web inteligenc
+
+d
+
+disponibiliz local unic inform operacion gerenci sobr desempenh tcu unidad
+
+
+
+contribu par process monitor implement estrateg atuaca tcu
+
+f
+
+evit dispersa esforc produca relatori gerenci sobr desempenh tcu unidad
+
+
+
+
+
+risc fator pod risc exit projet
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+
+
+atras process instal ambient desenvolv execut versa xi ferrament business objects
+
+alt
+
+baix
+
+m particip gestor process instal par ampli recurs human aloc process r inici etap planej fas projet antecedente ajust cicl pdc
+
+gestor sedinsetec
+
+b
+
+indisponibil softwar business objects versa xi
+
+alt
+
+baix
+
+negoci empres cast informat sa disponibiliz versa xi ferrament business objects r inici etap planej fas posterior projet antecedente ajust cicl pdc
+
+gestor sedinsetec
+
+
+
+tribunal cont unia
+
+propost projeto
+
+portal gerencial gerenci
+
+
+
+
+
+pagin
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+c
+
+indisponibil sistem sinerg
+
+alt
+
+baix
+
+r execut ativ projet relacion sinerg correca tecnic falh
+
+gestor sedinsetec
+
+d
+
+falh estrutur dad sistem sinerg
+
+medi
+
+baix
+
+r prioriz desenvolv relatori dad relacion falh correca tecnic falh
+
+gestor sedinsetec
+
+
+
+atend insatisfatori ordens servic repass empres cast informat sa
+
+baix
+
+med
+
+m elabor ordens servic detalh acompanh execuca ativ empres soment atest execuca servic atend satisfatori
+
+gestor
+
+f
+
+demand implement nov relatori durant etap homolog relatori gerenci
+
+baix
+
+med
+
+m registr demand nov relatori negoci praz par atend seplan
+
+gestor seplan
+
+g
+
+dificuldad conduca etap homolog relatori gerenci
+
+baix
+
+baix
+
+solicit apoi princip dirigent tcu realiz etap homolog m planej antecedente realiz etap homolog
+
+gestor
+
+
+
+
+
+identific part envolv projet relaca aspect
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+
+
+seplan
+
+patrocin disponibiliz servidor temp parcial par projet
+
+b
+
+adcon
+
+disponibiliz servidor temp integral par ger projet
+
+c
+
+sedinsetec
+
+suport questa tecnic envolv sinerg apoi projet
+
+d
+
+segecsetec
+
+apoi public portal gerencial portal tcu
+
+
+
+projet arquitetur inform
+
+apoi organiz estrutur conteud portal gerencial
+
+
+
+
+
+relaca outr projet
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+inform gerenci sinerg
+
+sinerg
+
+arquitetur inform
+
+
+
+
+
+
+
+equip projet
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+
+
+gustav henriqu oliveir borg
+
+
+
+adcon
+
+
+
+integral
+
+
+
+leonard renn guimara lap
+
+
+
+seplan
+
+
+
+parcial
+
+
+
+martinh shintat
+
+
+
+seplan
+
+
+
+parcial
+
+
+
+
+
+tribunal cont unia
+
+propost projeto
+
+portal gerencial gerenci
+
+
+
+
+
+pagin
+
+
+
+recurs necessari recurs materi
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+
+
+
+
+cust adicion estim
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+
+
+aloc tecnic empres cast informat sa par atend ordens servic referent servic suport projet hor
+
+r
+
+total cust estim
+
+
+
+r
+
+
+
+
+obs contrat firm empres cast informat sa estabelec prest servic suport tecnic soluca olap business objects ess contrat defin tcu pod usufru hor ana servic prest ess empres part negoci sedinsetec unidad respons pel relacion cast informat sa definius projet dispor hor dess servic cust cad hor est defin contrat r
+
+
+
+
+
+finaliz
+dat
+
+assinatur gestor projet
+
+
+
+
+
+
+
+
+
+
+
+gustav henriqu oliveir borg
+
+coorden projeto manifest titul unidad patrocin
+
+
+
+acord conform ata reunia abertur realiz
+
+manifestom favoravel autoriz projet
+
+seplan
+
+
+
+
+
+
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+
+const revog express
+aprov realiz projet portal gerencial gerenci design gestor
+
+

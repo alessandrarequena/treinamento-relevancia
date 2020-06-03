@@ -1,0 +1,440 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider disciplin constant lei dezembr alter introduz pel lei marc
+
+
+consider dispost mai alter posterior estabelec pel dezembr janeir julh
+
+
+consider cont abril dispo sobr polit gesta pesso tribunal institu comit gesta pesso cgp
+
+
+consider process moderniz curs are gesta pesso tribunal ali necess ajust format program concessa estagi estudant
+
+
+consider estud parec constant tc tc resolv
+
+
+implement ambit tribunal cont unia concessa estagi estudant feit term dest port
+
+
+concessa estagi unidad tribunal dev observ seguint criteri
+
+
+i tod unidad tribunal observ respect peculiar pod aceit estagiari estudant curs profissionalizant grau curs superior qualqu are atuaca guard correl ativ desenvolv unidad interess
+
+
+ii ved estagi ativ control extern
+
+
+distribuica vag par concessa estagi unidad tribunal segu quantitat defin anex est port
+
+
+fic reserv cinc cent quantitat vag par estudant portador necess especi compativ estagi realiz
+
+
+preenchiment vag constant anex depend disponibil orcament tribunal observ pel secretariageral administr seged
+
+
+unidad sed dispo vag temporari utiliz pod cedel emprestim outr unidad localiz brasil praz determin mediant previ comunic secret gesta pesso segep
+
+
+
+cab comit gesta pesso apresent anual diagnost quantitat vag trat est propond ajust necessari
+
+
+aplic paragraf anterior dev observ limit maxim numer vag estagi quantitat quadr servidor previst par tribunal
+
+
+operacionaliz concessa estagi estudant realiz pel secret gesta pesso apoi agent integr mediant instrument celebr tribunal acord disponibil orcament
+
+
+paragraf unic agent integr dev selecion consonanc regr reg licit contrat ambit administr public federal
+
+
+cab secret gesta pesso
+
+
+i acompanh realiz estagi estudantil parc dirigent unidad ond estudant desenvolv ativ supervisor estagi
+
+
+ii autoriz estagi unidad preench requisit exig par realiz
+
+
+iii autoriz pagament bols estagi agent integr
+
+
+iv receb unidad avali desempenh estagiari relatori ativ estagi folh frequenc
+
+
+v fornec agent integr numer vag are ativ perfil desej estagiari
+
+
+vi apresent propost par atualiz anex est port sempr houv ajust estrutur organizacional tribunal estabelec ambit dezembr
+
+
+paragraf unic unidad localiz fora sed ativ trat ii v dest coorden pel respect dirigent auxili servic administr orient normat secret gesta pesso
+
+
+cab dirigent unidad ond realiz estagi
+
+
+i coorden especific are ativ relacion formaca estudant respeit dispost dest port
+
+
+ii receb candidat faz seleca dest mediant entrev analis curricul
+
+
+iii promov adequ entr carg hor diar estagi expedient tribunal instituica ensin vist cumpriment jorn vint hor seman quatr diar inclusiv durant period fer escol
+
+
+cab supervisor estagi
+
+
+i acompanh ativ estagi ambit unidad receb estagiari
+
+
+ii orient estagiari sobr aspect condut norm ambit tribunal
+
+
+iii acompanh desenvolv estagiari observ correl entr ativ desenvolv exig pel instituica ensin
+
+
+iv proced avali desempenh estagiari elabor relatori ativ estagi
+
+
+paragraf unic supervisor estagi defin pel dirigent entr servidor unidad ond estudant realiz ativ
+
+
+
+fic carg agent integr conform disposica inclu instrument refer dest port
+
+
+i articulars instituica ensin vist celebr conveni outr instrument jurid apropri indicandolh possibil estagi are inter numer vag adot prestez proced administrat par realiz dev observ norm vigor tribunal
+
+
+ii lavr term compromiss assin pel agent integr pel instituica ensin pel estagiari
+
+
+iii receb avali desempenh estagiari relatori estagi folh frequenc
+
+
+iv realiz pagament bols estagi
+
+
+par formaliz term compromiss agent integr dev observ exigente cont norm leg regulament pertinent
+
+
+estudant estagiari dev receb titul bols estagi seguint valor
+
+
+i r setecent rea cas nivel superior
+
+
+ii r quatrocent quatorz rea cas nivel medi
+
+
+receb bols estagi caracteriz remuner acarret vincul empregatici
+
+
+segur acident pesso fic carg agent integr
+
+
+estagiari direit concessa valetransport auxilioaliment qualqu outr benefici
+
+
+cas omiss dirim pel secretariageral administr
+
+
+est port entr vigor fevereir
+
+
+fic revog portariastcu dezembr mai
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+
+revog
+regulament program concessa estagi estudant ambit tribunal cont unia
+
+anex portariatcu fevereir
+
+
+
+
+
+
+
+unidad
+
+estagiari
+
+gabinet president
+
+
+
+secret control intern seca
+
+
+
+secret sessa ses
+
+
+
+secret planej gesta seplan
+
+
+
+secret tecnolog inform setec
+
+
+
+institut serzedell corre isc
+
+
+
+consultor jurid conjur
+
+
+
+assessor relaca internacion arint
+
+
+
+assessor comunic social ascom
+
+
+
+assessor parlament aspar
+
+
+
+assessor cerimonial rel institucion acer
+
+
+
+secretariageral control extern segecex gabinet
+
+
+
+secret adjunt fiscaliz adfis
+
+
+
+secret adjunt cont adcon
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret control extern secex
+
+
+
+secret fiscaliz pessoal sefip
+
+
+
+secret fisc obras pat unia secob
+
+
+
+secret fiscaliz desestatiz sefid
+
+
+
+secret fisc aval prog govern seprog
+
+
+
+secret fiscaliz tecnolog inform seft
+
+
+
+secret macroavali governamental semag
+
+
+
+secret recurs serur
+
+
+
+secexac
+
+
+
+secexal
+
+
+
+secexap
+
+
+
+secex
+
+
+
+secexb
+
+
+
+secexc
+
+
+
+secex
+
+
+
+secexg
+
+
+
+secexm
+
+
+
+secexmt
+
+
+
+secexms
+
+
+
+secexmg
+
+
+
+secexp
+
+
+
+secexpb
+
+
+
+secexpr
+
+
+
+secexp
+
+
+
+secexp
+
+
+
+secexrj
+
+
+
+secexrn
+
+
+
+secexrs
+
+
+
+secexr
+
+
+
+secexrr
+
+
+
+secexsc
+
+
+
+secexsp
+
+
+
+secexs
+
+
+
+secext
+
+
+
+secretariageral administr seged gabinet
+
+
+
+secret gesta pesso segep
+
+
+
+secret orcament financ contabil secof
+
+
+
+secret material patrimoni administrat semat
+
+
+
+secret engenh servic apoi sesap
+
+
+
+secretariageral administr seged reserv tecnic
+
+
+
+total geral
+
+
+
+
+
+
+
+

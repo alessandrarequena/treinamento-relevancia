@@ -1,0 +1,549 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas resolucaotcu agost portariatcu dezembr resolv
+
+
+fic aprov realiz projet visualiz term anex dest port
+
+
+fic design anal control extern marci hudson arrud figueired matricul par exerc atribuica coorden projet regim dedic integral
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet tribunal cont unia
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+ubiratan agui
+
+
+president
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetov i s u l i z r
+
+
+
+pagin
+
+
+identific gestor projet
+nom gestor
+
+matricul
+
+email
+
+ramal
+
+
+
+marci hudson arrud figueired
+
+
+
+marciohatcugovbr
+
+funcao gestor
+
+
+
+xcoorden
+
+
+
+lid
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+
+
+anselm losch bess
+
+
+
+anselmolbtcugovbr
+
+local telefon
+
+
+
+
+const revog express
+aprov realiz projet visualiz
+
+anex tcu
+
+
+identific projet
+nom projet
+
+visualizarperiod realizacaoun patrocin
+
+
+
+secret geral administr seged
+vincul estrateg
+plan estrateg tcu port tcu janeir
+
+
+
+objet estrateg reconhec pel contribuica combat corrupca desvi desperdici fraud aperfeico administr public
+
+b
+
+objet estrateg ampli divulg result gesta public aca control
+
+c
+
+objet estrateg promov motiv compromet
+
+d
+
+objet estrateg assegur adequ suport logist necess tcuplan diretriz tcu portariatcu abril
+
+
+
+objet ampli divulg result gesta public aca control
+
+b
+
+objet intensific relacion congress nacional sociedad
+problem oportun
+descrica problem oportun
+
+
+
+problem demand intern produt comunic audiovisual destin public intern extern
+
+b
+
+oportun disponibil pesso recurs tecnic tribunal pod contribu form sistem par geraca produt audiovisu baix cust grand repercussa junt public tcuevoluca quadr apresent dad
+
+
+
+projet comunic realiz prop criaca polit comunic institucional vis torn tcu mais conhec cidada comum elabor plan estrateg comunic implement outr med aind andament tal gravaca vide documentari destin emissor public
+
+b
+
+dentr projet pnud apoi moderniz tcu contrat duas pesquis sobr imag tcu junt recomend med vis melhor send implant
+
+c
+
+plan comunic estabelec necess aca vis prepar produt especif par divulg aca controleatribuico tcu mid televis radiofon
+
+d
+
+projet pegas realiz implement isc process educ distanc ead suport sistem gerenci aprendizag
+
+
+
+todav uso audiovisual comunic institucional aind incipient inexistent aplic tais produca edica vide event ofici par disponibiliz portal tcu par transmissa emissor tv public tamb ensin distanciaead par gestor public par instituica atu control social
+escop projet
+objet geral projet relaca oportun soluca problem
+
+realiz produca audi vide demand divers unidad tcu vis public extern
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetov i s u l i z r
+
+pagin
+met produt homolog
+metaprodutohomologadorobjetivo especificoquantodat termin
+
+
+
+produz vide institucional apresent president par curs destin gestor public regia nort
+
+
+
+
+
+vide institucional apresent president produz
+
+isc
+
+b
+
+aprimor condica materi par gravaca audi jornalist par voz brasil
+
+
+
+
+
+estudi gravaca audi
+
+ascom
+
+c
+
+produz vide documentari par banc memor museolog
+
+
+
+
+
+vide documentari elabor
+
+mus
+
+d
+
+produz vide documentari sobr exposica segund natur inser ativ ana franc brasil
+
+
+
+
+
+
+
+vide documentari elabor
+
+espac cultural
+
+
+
+produz vide institucional volt par congress
+
+
+
+
+
+
+
+vide institucional elabor
+
+aspar
+
+f
+
+elabor plan aca par implant ativ audiovisual tcu
+
+
+
+
+
+
+
+plan aca elabor
+
+seged
+escop projet vai faz
+
+
+
+
+vai feit distribuica vide audi par veicul produt fin entregu unidad solicitant
+benefici impact esper produt projet
+
+
+
+
+contribu mei pec comunic atraent audiovisual par maior divulg aca tcu
+
+b
+
+contribu mei pec comunic atraent audiovisual par maior assimil program ead
+fator pod risc exit projet
+riscoimpactoprobabilidaded ocorrer evit ocorrente riscom mitig ocorrente riscor reduz impact risc ocorridoresponsavelpel aca
+
+
+
+dificuldad disponibiliz servidor par compor equip projet
+
+alt
+
+baix
+
+negoci prev chef unidad
+
+patrocin
+
+b
+
+pouc inter servidor respons repass inform sobr process trabalh
+
+alt
+
+med
+
+intervenca diret patrocin chef imediat servidor ocorrente
+
+patrocin
+
+titul unidad parceir
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetov i s u l i z r
+
+pagin
+identific part envolv projet relaca
+nom part envolvidapatrocin client parceir fornecedor intern extern servic recurs human fisicosit negoci negoci part envolv
+
+
+
+gabinet seged patrocin
+
+fornec sal trabalh mov comput estudi vide estudi audi equip material estagiari extras
+
+b
+
+semit
+
+produca audiovisual
+
+c
+
+isc
+
+fornec discurs boas vind president
+
+d
+
+ascom
+
+prov text locutor par gravaca audi
+
+
+
+mus tcu
+
+fornec dad necessari elabor cronogram roteir
+
+f
+
+espac cultural
+
+fornec dad necessari elabor cronogram roteir
+
+g
+
+aspar
+
+fornec dad necessari elabor cronogram roteir
+relaca outr projet
+projet predecessoresprojet conexosprojet sucessor
+
+comunic
+
+ai arquitetur inform
+
+visa veicul internet produt multimid audiovisual tcu
+cust adicion estim
+recursovalor estimadodat inicial liber recurs
+
+
+
+estagiari audiovisual
+
+r
+
+
+
+b
+
+curs vide digital produtor faz vide paul dias
+
+r
+
+
+
+c
+
+curs extensa instrument comunic public iesbdf mes
+
+r
+
+cust estim
+
+r
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+outr recurs necessari
+recursofornecedor
+
+
+
+local trabalh mobiliari comput estudi vide estudi audi equip material
+
+seged
+equip projet
+nomematriculalotacaoperiododedicacao integral parcial ativ
+
+
+
+marci hudson arrud figueired
+
+
+
+seged
+
+
+
+integral
+
+
+
+melquizedequ soar santan
+
+
+
+semit
+
+
+
+ativ
+
+
+
+ana carolin ditz fagund mora
+
+
+
+isc
+
+
+
+ativ
+
+
+
+emerson dougl bonfim maced
+
+
+
+ascom
+
+
+
+ativ
+
+
+
+cint cald bacel lim
+
+
+
+ascom
+
+
+
+ativ
+
+
+
+anselm losch bess
+
+
+
+mus
+
+
+
+parcial
+
+
+
+carl raimund barbos maciel
+
+
+
+esp cultural
+
+
+
+ativ
+
+
+
+josiann menez lim
+
+
+
+aspar
+
+
+
+ativ
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetov i s u l i z r
+
+pagin
+finaliz
+dataassinatur gestor projet
+
+
+
+marci hudson arrud figueired
+
+gerent projetomanifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+
+
+seged
+
+carl robert caixet
+
+secretari geral administr substituicaomanifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+claudi sarian altounian
+
+secretari planej gesta
+
+
+
+
+
+
+
+

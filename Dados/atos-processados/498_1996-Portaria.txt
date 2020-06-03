@@ -1,0 +1,1106 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment consider dispo i vi lei julh resolv
+
+
+public tabel carg efet respect quantificat carg ocup vag secret dest tribunal bem quadr demonstrat forc trabalh dest orga respectiv numer i ix
+
+
+
+
+
+
+marc vinici vilac
+
+
+president
+
+
+
+
+
+i quantitat carg ocup vag
+
+
+
+carg
+
+existent
+
+ocup
+
+vag
+
+afc anal financ
+
+
+
+
+
+
+
+afc anal sistem
+
+
+
+
+
+
+
+afc bibliotecari
+
+
+
+
+
+
+
+afc enfermeir
+
+
+
+
+
+
+
+afc engenheir
+
+
+
+
+
+
+
+afc medic
+
+
+
+
+
+
+
+afc natur especial
+
+
+
+
+
+
+
+afc nutricion
+
+
+
+
+
+
+
+afc program
+
+
+
+
+
+
+
+afc psicolog
+
+
+
+
+
+
+
+auc auxili operacional servic divers
+
+
+
+
+
+
+
+auditor
+
+
+
+
+
+
+
+ministr
+
+
+
+
+
+
+
+procur
+
+
+
+
+
+
+
+subprocur
+
+
+
+
+
+
+
+tfc agent port
+
+
+
+
+
+
+
+tfc agent administrat
+
+
+
+
+
+
+
+tfc agent cin microfilmag
+
+
+
+
+
+
+
+tfc artific
+
+
+
+
+
+
+
+tfc auxili enfermag
+
+
+
+
+
+
+
+tfc auxili operacional servic divers
+
+
+
+
+
+
+
+tfc datilograf
+
+
+
+
+
+
+
+tfc desenh
+
+
+
+
+
+
+
+tfc digit
+
+
+
+
+
+
+
+tfc motor oficial
+
+
+
+
+
+
+
+tfc natur especial
+
+
+
+
+
+
+
+tfc oper comput
+
+
+
+
+
+
+
+tfc tecnic financ control extern
+
+
+
+
+
+
+
+tfc telefon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii quantitat carg atual vag
+
+
+
+total
+
+
+
+
+
+
+iii quantitat servidor ativ
+
+
+
+total
+
+
+
+
+
+
+iv quantitat servidor inat
+
+
+
+total
+
+
+
+
+
+
+
+v quantitat servidor ativ faix etar
+
+
+
+faix etar
+
+mulh
+
+homens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi quantitat servidor nivel escolar
+
+
+faix etar
+
+mulh
+
+homens
+
+afc anal financ control extern
+
+mestr complet
+
+
+
+afc anal financ control extern
+
+mestr incomplet
+
+
+
+afc anal financ control extern
+
+superior complet
+
+
+
+afc anal sistem
+
+mestr complet
+
+
+
+afc anal sistem
+
+superior complet
+
+
+
+afc bibliotecari
+
+superior complet
+
+
+
+afc enfermeir
+
+superior complet
+
+
+
+afc engenheir
+
+superior complet
+
+
+
+afc medic
+
+superior complet
+
+
+
+afc natur especial
+
+primeir grau complet
+
+
+
+tfc datilograf
+
+segund grau complet
+
+
+
+tfc datilograf
+
+segund grau incomplet
+
+
+
+tfc datilograf
+
+superior complet
+
+
+
+tfc datilograf
+
+superior incomplet
+
+
+
+tfc desenh
+
+segund grau complet
+
+
+
+tfc desenh
+
+superior complet
+
+
+
+tfc digit
+
+segund grau complet
+
+
+
+tfc digit
+
+superior complet
+
+
+
+tfc digit
+
+superior incomplet
+
+
+
+tfc motor oficial
+
+primari complet
+
+
+
+tfc motor oficial
+
+primari incomplet
+
+
+
+tfc motor oficial
+
+primeir grau complet
+
+
+
+tfc motor oficial
+
+primeir grau incomplet
+
+
+
+tfc motor oficial
+
+segund grau complet
+
+
+
+tfc motor oficial
+
+segund grau incomplet
+
+
+
+tfc motor oficial
+
+superior complet
+
+
+
+tfc motor oficial
+
+superior incomplet
+
+
+
+tfc natur especial
+
+primeir grau complet
+
+
+
+tfc natur especial
+
+segund grau complet
+
+
+
+tfc natur especial
+
+segund grau incomplet
+
+
+
+tfc natur especial
+
+superior incomplet
+
+
+
+tfc oper comput
+
+segund grau complet
+
+
+
+tfc oper comput
+
+superior complet
+
+
+
+tfc oper comput
+
+superior incomplet
+
+
+
+tfc program
+
+segund grau complet
+
+
+
+tfc tecnic financ control extern
+
+segund grau complet
+
+
+
+tfc tecnic financ control extern
+
+superior complet
+
+
+
+tfc tecnic financ control extern
+
+superior incomplet
+
+
+
+tfc telefon
+
+primeir grau complet
+
+
+
+tfc telefon
+
+segund grau complet
+
+
+
+tfc telefon
+
+segund grau incomplet
+
+
+
+afc natur especial
+
+superior complet
+
+
+
+afc nutricion
+
+superior complet
+
+
+
+afc program
+
+superior complet
+
+
+
+afc program
+
+superior incomplet
+
+
+
+afc psicolog
+
+superior complet
+
+
+
+auc artific
+
+segund grau incomplet
+
+
+
+auc auxili operacional servic divers
+
+primeir grau complet
+
+
+
+auc auxili operacional servic divers
+
+segund grau complet
+
+
+
+auc auxili operacional servic divers
+
+segund grau incomplet
+
+
+
+auc auxili operacional servic divers
+
+superior complet
+
+
+
+auc auxili operacional servic divers
+
+superior incomplet
+
+
+
+tfc agent port
+
+primari complet
+
+
+
+tfc agent port
+
+primari incomplet
+
+
+
+tfc agent port
+
+primeir grau complet
+
+
+
+tfc agent port
+
+primeir grau incomplet
+
+
+
+tfc agent port
+
+segund grau complet
+
+
+
+tfc agent port
+
+segund grau incomplet
+
+
+
+tfc agent port
+
+superior complet
+
+
+
+tfc agent port
+
+superior incomplet
+
+
+
+tfc agent administrat
+
+primeir grau complet
+
+
+
+tfc agent administrat
+
+segund grau complet
+
+
+
+tfc agent administrat
+
+superior complet
+
+
+
+tfc agent administrat
+
+superior incomplet
+
+
+
+tfc agent cinematograf microfilmag
+
+segund grau complet
+
+
+
+tfc agent cinematograf microfilmag
+
+superior complet
+
+
+
+tfc artific
+
+primeir grau complet
+
+
+
+tfc artific
+
+primeir grau incomplet
+
+
+
+tfc artific
+
+segund grau complet
+
+
+
+tfc artific
+
+superior complet
+
+
+
+tfc artific
+
+superior incomplet
+
+
+
+tfc auxili enfermag
+
+segund grau complet
+
+
+
+tfc auxili enfermag
+
+superior complet
+
+
+
+tfc auxili enfermag
+
+superior incomplet
+
+
+
+tfc auxili operacional servic divers
+
+primari incomplet
+
+
+
+tfc auxili operacional servic divers
+
+primeir grau complet
+
+
+
+tfc auxili operacional servic divers
+
+primeir grau incomplet
+
+
+
+tfc auxili operacional servic divers
+
+segund grau complet
+
+
+
+tfc auxili operacional servic divers
+
+segund grau incomplet
+
+
+
+tfc auxili operacional servic divers
+
+superior complet
+
+
+
+tfc auxili operacional servic divers
+
+superior incomplet
+
+
+
+tfc datilograf
+
+primeir grau complet
+
+
+
+
+
+
+v quantitat servidor ativ faix etar
+
+
+
+ativ rju lei
+
+
+
+autor
+
+
+
+nome par funca comission
+
+
+
+
+
+
+vii quantitat servidor ativ uf
+
+
+
+unidad federat
+
+servidor
+
+ac
+
+
+
+al
+
+
+
+am
+
+
+
+ap
+
+
+
+ba
+
+
+
+ce
+
+
+
+df
+
+
+
+es
+
+
+
+go
+
+
+
+ma
+
+
+
+mg
+
+
+
+ms
+
+
+
+mt
+
+
+
+pa
+
+
+
+pb
+
+
+
+pe
+
+
+
+pi
+
+
+
+pr
+
+
+
+rj
+
+
+
+rn
+
+
+
+ro
+
+
+
+rr
+
+
+
+rs
+
+
+
+sc
+
+
+
+
+
+
+
+sp
+
+
+
+to
+
+
+
+
+
+
+
+
+
+
+ix quantitat servidor ativ inat instituidor pensa
+
+
+
+
+
+quantidad
+
+brut r
+
+inat
+
+
+
+
+
+ativ
+
+
+
+
+
+instituidor pensa
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+public tabel carg efet respect quantificat carg ocup vag secret dest tribunal
+
+

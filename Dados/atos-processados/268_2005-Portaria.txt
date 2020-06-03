@@ -1,0 +1,572 @@
+port
+
+
+
+president tribunal cont unia uso atribuica constitucion leg regiment resolv
+
+
+fic aprov regul bibliotec ministr ruben ros term anex dest port
+
+
+est port entr vigor dat public
+
+
+fic revog portariagp fevereir
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+const revog express
+aprov regul bibliotec ministr ruben ros
+
+anex portariatcu novembr
+
+
+
+
+regul bibliotec ministr ruben ros
+
+
+tribunal cont unia
+
+
+
+bibliotec ministr ruben ros cri mei instruca mai constitu unidad diret subordin centr document cedoc institut serzedell corre isc
+
+
+final
+
+
+bibliotec final oferec membr servidor tcu recurs informacion necessari bom desempenh funca
+
+
+competente
+
+
+bibliotec compet gesta acerv bibliograf execut ativ seleca aquisica control analis manutenca utiliz dissemin recurs informacion
+
+
+acerv documental
+
+
+acerv bibliotec constitu livr period multimei vide cdrom outr materi
+
+
+acerv bibliotec especializ are control gast public enfas are direit contabil econom administr public financ public
+
+
+
+
+
+acerv constitu obras adquir recurs public doad pesso fisic jurid
+
+
+acess
+
+
+acess bibliotec tribunal cont unia consult acerv facult public geral
+
+
+par efeit control estatist form evit recoloc lug indev tod material consult dev deix sobr mes leitur
+
+
+acess acerv histor sal multimei farse mediant acompanh servidor bibliotec
+
+
+acerv histor bibliotec ministr ruben ros compost obras final secul xix inici secul xx
+
+
+sal multimei comport acerv vide cds map outr materi bibliograf
+
+
+entrad bibliotec usuari dev deposit volum past pod entretant conserv consig cadern apont livr pesso
+
+
+bibliotec dispo escaninh par guard pertenc pesso usuari tais bols malet past congen
+
+
+chav escaninh fic guard usuari enquant permanec recint bibliotec
+
+
+consult
+
+
+usuari pod obter inform sobr acerv bibliotec utiliz profission pesquis balca emprestim mei catalog inform disponibiliz pagin virtual mant pel bibliotec
+
+
+solicit pesquis dev feit mediant preenchiment formulari propri balca pesquis tamb disponibiliz pagin virtual correi eletron telefon aind fax
+
+
+inscrica
+
+
+soment servidor ativ tribunal autor cas membr ministeri public junt tcu pod habilitars solicit emprest desd cumpr formal express nest regul
+
+
+par efetu inscrica usuari dev apresent carteir funcional preench term responsabil seguint dad
+
+
+i nom complet
+
+
+ii matricul funcional
+
+
+iii qualific funcional
+
+
+iv unidad administrat trabalh respect ramal telefon
+
+
+v enderec residencial telefon
+
+
+vi enderec eletron red tcu
+
+
+qualqu mudanc enderec unidad trabalh dev comunic bibliotec
+
+
+emprestim
+
+
+
+emprestim public caracterizas pel transferente tempor carg patrimonial bem par signatari carta emprestim
+
+
+paragraf unic cab signatari conserv public refer bem devoluca dentr praz estabelec nest regul
+
+
+usuari inscrit pod obter emprestim public compo acerv bibliotec
+
+
+paragraf unic objet emprestim obras rar obras referente dicionari encicloped codig etc natur pod retir bibliotec period vis manutenca coleca salv cas especi criteri chef bibliotec
+
+
+cad usuari pod retir emprestim
+
+
+i livr pel praz dias
+
+
+ii volum legislacion pel praz dia
+
+
+iii curs complet titul avuls fit vide pel praz dias
+
+
+iv volum material internacional pel praz dias
+
+
+v apostil pel praz dias
+
+
+vi cds pel praz dias
+
+
+praz emprestim prorrog igual period desd haj solicit reserv mesm obr outr usuari
+
+
+par renov emprestim solicitant dev comparec bibliotec mun material bibliograf pretend mant emprestim
+
+
+facult renov soment dentr praz emprestim perd usuari ess direit dat devoluca estipul
+
+
+esgotandos praz regulament par devoluca public emprest bibliotec solicit devoluca mei mensag correi eletron cham telefon segu cobranc formal usuari
+
+
+enquant proced devoluca obr dev usuari fic imped solicit nov emprest conform dispo dest regul
+
+
+esgot recurs cobranc atras trint dias chef bibliotec encaminh dad usuari inadimplent direca cedoc par dev providente
+
+
+solicit emprestim par servidor secret control extern estad dev feit preferencial correi eletron atrav formulari pesquis dispon pagin virtual
+
+
+reserv obras
+
+
+usuari pod faz ped reserv obras encontr emprest
+
+
+bibliotec inform interess quand obr solicit estiv disposica
+
+
+paragraf unic obr solicit reserv fic disposica usuari par efetiv emprestim praz quarent oit hor
+
+
+emprestim outr bibliotec
+
+
+
+objet emprestim outr bibliotec obras fiz part acerv bibliotec ministr ruben ros desd sej pertinent are atuaca tribunal cont unia destin execuca trabalh dest cas
+
+
+paragraf unic permit emprestim obras literatur didat final academ excet par curs ministr isc
+
+
+emprestim maxim tres titul usuari
+
+
+obr solicit retir bibliotec cedent fic disposica interess hor setor pesquis ess period devolv aquel bibliotec
+
+
+solicit emprestim outr bibliotec dev encaminh via memor assin pel chef imediat usuari interess quand solicitant detentor funca comission
+
+
+bibliotec ministr ruben ros fic respons pel busc devoluca material bibliotec cedent
+
+
+usuari solicitant dev busc devolv obr bibliotec ministr ruben ros observ sempr praz devoluca
+
+
+cas extravi obr emprest usuari dev faz respect reposica acord norm bibliotec cedent
+
+
+mult cobr pel bibliotec cedent bibliotec ministr ruben ros repass usuari respons pel atras devoluca obr
+
+
+atras devoluca obr acarret suspensa dias par emprest outr bibliotec
+
+
+usuari dev assin term compromiss constant anex i dest regul moment retir livr pertencent acerv outr bibliotec
+
+
+emprestim par outr bibliotec
+
+
+bibliotec desej solicit emprestim bibliotec ministr ruben ros dev proced cadastr mei preenchiment formulari especif constant anex ii dest regul
+
+
+fornec document identific par bibliotec cadastr dev apresent balca emprestim
+
+
+bibliotec cadastr pod solicit maxim cinc livr emprestim
+
+
+objet emprestim par outr bibliotec period materi multimei livr ana corrent anterior
+
+
+bibliotec devolv obras atras tera emprestim suspens pel dobr period atras
+
+
+reprograf
+
+
+bibliotec fornec fotocop maxim pagin servidor tribunal apen material pertencent acerv send ved reproduca apostil document pesso outr congen
+
+
+proib entrad usuari sal reprograf
+
+
+ved utiliz maquin fotocopi impressor red pesso estranh setor
+
+
+dev usuari
+
+
+dev usuari
+
+
+i colabor par preserv acerv patrimoni bibliotec
+
+
+ii comunic qualqu alter dad term responsabil
+
+
+iii devolv obras retir emprestim funcionari respect balca dentr praz estabelec mesm condica receb
+
+
+iv comunic extravi obras responsabil providenci respect reposica
+
+
+v atend imediat solicit devoluca material bibliograf retir emprestim
+
+
+vi deix obras consult sobr mes
+
+
+vii mant silenci sala leitur
+
+
+vii fum dependencia bibliotec lei julh
+
+
+ix consum beb aliment dependencia bibliotec
+
+
+x utiliz telefon celul dependencia bibliotec
+
+
+direit usuari
+
+
+direit usuari
+
+
+i acess livr democrat gratuit acerv bibliotec par fins consult local cas usuari cadastr tamb emprestim
+
+
+ii circul livrement sala leitur
+
+
+iii receb atend boa qualidad part servidor bibliotec
+
+
+iv apresent critic sugesta par melhor servic
+
+
+v apresent sugesta titul par composica acerv
+
+
+penal
+
+
+tod retir irregul acerv bibliotec represent desvi bem public par tod efeit leg cabiv
+
+
+praz emprest dev rigoros observ descumpr implic suspensa tempor usuari correspondent dobr period atras
+
+
+paragraf unic suspensa trat est vigor enquant perdur motiv aplic
+
+
+tod obr danific extravi dev substitu exempl ident outr titul suger pel chef bibliotec valor contabil equivalent adquir pel usuari
+
+
+deposit obrigatori public tcu
+
+
+bibliotec repositori memor produca intelectual tecnic tcu
+
+
+unidad compo tcu fic obrig encaminh bibliotec quatr exempl document edit produz trint dias edica
+
+
+
+
+paragraf unic compreend disposica trat est livr period folhet separat monograf tes destin vend distribuica gratuit
+
+
+cab bibliotec organiz manutenca public trat anterior
+
+
+paragraf unic compet bibliotec mant circul tres exempl receb send dois acerv expositor assegur outr sej arquiv deposit legal salv risc extravi
+
+
+doaca
+
+
+doaca material bibliotec ministr ruben ros dev feit balca circul emprestim identific doador telefon par contat
+
+
+tod material receb encaminh setor process tecnic bibliotec par avali pel bibliotec quant pertinente relevanc par integr acerv
+
+
+cas doaca grand port avali feit propri setor ofertant
+
+
+quant bens patrimoni dev previ avali pel bibliotec quand aceit dev remanej apresent gui transferente execut pel divisa patrimoni dipat
+
+
+obras receb doaca duplicat sej inter acerv bibliotec constitu fund par intercambi public outr bibliotec instituica congen
+
+
+paragraf unic cab chef bibliotec destin final excess duplicat quand intercambi
+
+
+uso cabin
+
+
+bibliotec possu tres cabin estud destin prioritari trabalh servidor atividadefim tcu
+
+
+ocup dev estenders praz maxim seman pod prorrog igual period acord necess usuari disponibil cabin
+
+
+aceit reserv mediant solicit usuari desd defin period horari ocup
+
+
+paragraf unic cas usuari comparec duas consecut period reserv reserv automatic cancel
+
+
+material utiliz pel leitor dev retir cabin final dia
+
+
+paragraf unic bibliotec responsabiliz pel materi deix cabin
+
+
+chav cabin dev retir devolv diari balca circul emprestim
+
+
+cabin pod utiliz par aul qualqu natur
+
+
+disposica ger
+
+
+
+
+
+
+bibliotec funcion segund sextafeir horari h h par atend public
+
+
+emprestim material bibliograf fic suspens necessari durant period inventari acerv
+
+
+durant seman anterior inici inventari usuari dev devolv bibliotec tod material estiv pod
+
+
+dat inici termin inventari ampl divulg pel veicul comunic intern tribunal
+
+
+tod servidor tcu solicit afast temporari definit dev apresent junt requer encaminh diretor tecnic acompanh funcional cadastr direc document quitaca responsabil sej nad const fornec pel bibliotec
+
+
+hav irregular interess dev sanal acord present regul pod aind indeniz feit mediant descont folh pagament term lei dezembr
+
+
+afast trat dest compreend process aposentador licencapremi assidu licencacapacit licenc par trat inter particul licenc par tratament saud exced trint dias exoner
+
+
+expedica nad const bibliotec usuari perd direit solicit emprestim
+
+
+ved uso sala leitur par realiz reunia
+
+
+bibliotec dispo agent seguranc fim garant cumpriment disposica previst itens i vii vii ix x dest regul
+
+
+chef bibliotec dev comunic imediat direca cedoc irregular observ fac disposica dest regul
+
+
+cas omiss resolv pel direca cedoc consonanc chef bibliotec
+
+
+est regul entr vigor dat public
+
+
+
+
+
+
+tribunal cont unia
+
+institut serzedell corre
+
+term compromiss
+
+anex i regul bibliotec ministr ruben ros tcu
+
+centr document bibliotec ministr ruben ros
+
+
+
+
+
+
+matricul carg lot noa comprometom cumpr regul bibliotec ministr ruben ros tcu respeit emprestim entr bibliotec fic respons pel obr bibliotec pel period cinc dias ute estand cient dev devolvel imediat setor pesquis bibliotec ministr ruben ros cas bibliotec cedent solicit devoluca antecip
+
+
+
+
+
+
+
+assinatur matricul
+
+uso bibliotec
+
+entreg material
+
+devoluca material
+
+dat
+
+
+
+dat
+
+
+
+
+
+assinaturamatricul servidor
+
+
+
+
+
+assinaturamatricul servidor
+
+observ
+
+
+
+
+
+
+tribunal cont unia
+
+institut serzedell corre
+
+term compromiss
+
+anex ii regul bibliotec ministr ruben ros tcu
+
+centr document bibliotec ministr ruben ros
+
+
+
+preench pel bibliotec cadastr
+
+
+nom bibliotec
+
+nom respons pel bibliotec
+
+
+
+
+
+enderec
+
+
+
+telefon
+
+enderec eletron
+
+
+
+
+
+
+preench pel bibliotec ministr ruben ros
+
+
+numer matricul
+
+dat inserca sistem
+
+
+
+
+
+servidor respons pel cadastr sistem
+
+
+
+
+

@@ -1,0 +1,599 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment vist dispost resolucaotcu junh
+
+
+consider polit seguranc institucional tribunal cont unia psitcu estabelec pel resolucaotcu junh
+
+
+consider sistem gesta seguranc fisic patrimonial diretriz par polit corporat seguranc fisic patrimonial tribunal previst mencion resolucaotcu
+
+
+consider necess aprimor proced relacion control acess circul permanente pesso dependencia tribunal
+
+
+consider diretriz tribun edit norm par restring ingress pesso armad instal term conselh nacional justic junh
+
+
+consider testespilot realiz period outubr mai dependencia edificiosed brasil qua demonstr viabil adoca nov sistemat control acess circul permanente dependencia tribunal
+
+
+consider document inform constant tc resolv
+
+
+capitul i
+
+
+disposica prelimin
+
+
+control acess circul permanente pesso dependencia tribunal cont unia tcu dev observ dispost nest port bem principi objet diretriz estabelec pel polit corporat seguranc fisic patrimonial
+
+
+tod qualqu pesso tenh acess dependencia tribunal est sujeit proced estabelec nest port
+
+
+est port integr polit seguranc institucional psitcu form estabelec pel resolucaotcu junh
+
+
+par efeit dest port consideras
+
+
+i dignitari autor tribunal outr orga public entidad organ internacion
+
+
+ii autor tcu ministr ministrosubstitut membr ministeri public junt tribunal
+
+
+iii colabor prestador servic terceiriz estagiari qualqu pesso vincul transitori tribunal tenh acess form autoriz dependencia inform tcu
+
+
+iv agent seguranc prestador servic terceiriz vincul subun administrat respons operacionaliz seguranc tcu
+
+
+v cerimonial unidad tribunal respons pel recepca pel acompanh dignitari quand visit tribunal
+
+
+vi unidad seguranc unidad administrat tribunal sedi brasil integrant estrutur secretariageral administr seged encarreg operacionaliz seguranc fisic patrimonial outr assunt correlat
+
+
+vii are restrit perimetr seguranc sal conjunt sal acess restrit defin par proteg ativ critic inform sigil
+
+
+vii revist pessoal vistor corp pesso vest dem acessori discrica presenc testemunh realiz agent seguranc consent inspecion
+
+
+ix identific verific document pessoal fot concernent pesso interess ingress dependencia tcu
+
+
+x crach carta destin identific uso obrigatori dependencia tribunal
+
+
+xi credenci registr soluca tecnolog inform soluca dad referent identific pesso autoriz ingress dependencia tcu entreg respect crach
+
+
+xii inspeca seguranc proced destin verific pesso carg volum outr objet conform norm seguranc tribunal
+
+
+xii seguranc fisic patrimonial conjunt med proced estrutur principi objetiv proteg incolum fisic pesso ativ instituica par garant eficac process negoci preserv imag tcu
+
+
+xiv visit gui visit organiz unidad tribunal acompanh pessoal tecnic destin conhec local determin
+
+
+capitul ii
+
+
+crach
+
+
+control acess pesso dependencia tribunal independent control frequenc cabivel nov disposit implant form gradual
+
+
+fic institu crach tip permanent temporari provisori eventual uso pessoal intransfer obrigatori par acess circul permanente pesso dependencia tcu
+
+
+utiliz crach form visivel desautoriz permanente circul pesso dependencia tribunal
+
+
+crach uso personalissim send ved utiliz par liber acess terceir servidor
+
+
+crach permanent destin seguint categor usuari
+
+
+i servidor par uso servidor ativ tribunal
+
+
+ii aposent par uso servidor aposent tribunal
+
+
+paragraf unic crach refer dest dev observ seguint requisit
+
+
+i cont minim nom civil pesso nom pel est desej cham fot
+
+
+ii cas esquec perd extravi usuari pod solicit outr crach uso provisori
+
+
+iii gratuit expedica primeir via crach send segund via est condicion ressarc despes emissa
+
+
+crach temporari destin seguint categor usuari
+
+
+i pai mae par uso pai mae servidor tcu acompanh crianc usu servic bercari tribunal
+
+
+ii advog par uso advog postul frequenc tribunal
+
+
+
+iii estagiari par uso estudant realiz estagi profissionalizant dependencia tribunal
+
+
+iv prestador servic par uso empreg prepost orga entidad conveni empres prestador permission servic ambit tribunal
+
+
+v imprens par uso profissional imprens indic pel secret comunic atu frequenc tribunal ac portariatcu btcu administrat
+
+
+
+crach refer dest dev observ seguint requisit
+
+
+i cont minim nom civil pesso nom pel est desej cham fot
+
+
+ii cas esquec perd extravi usuari pod solicit outr crach uso provisori
+
+
+iii gratuit emissa primeir via crach destin pai mae estagiari prestador servic
+
+
+iv expedica segund via crach temporari est condicion ressarc despes emissa
+
+
+crach temporari destin advog profission imprens dev observ alem requisit constant paragraf anterior seguint disposica nr portariatcu btcu administrat
+
+
+
+i destinas uso exclus dependencia tribunal dev cust emissa ressarc pel profissional inclusiv quant primeir via
+
+
+ii possu validad doz mes pod renov igual period cas mant condica ensej emissa
+
+
+iii uso crach desacord dispost nest port ensej bloquei recolh sem prejuiz quand coub comunic seccional ordem advog brasil ond profissional tiv registr
+
+
+par fins dispost ii dest consideras postul frequent atuaca profissional pel men tres process tramit tribunal
+
+
+secret comunic dev mant list atualiz profission imprens atu frequent tcu encaminhal unidad seguranc tribunal ac portariatcu btcu administrat
+
+
+
+crach provisori soment pod utiliz dependencia tcu validad dia pod emit par usuari crach permanent temporari dev devolv said tribunal
+
+
+crach eventu destin seguint categor usuari
+
+
+i imprens par uso profissional imprens enquant permanec dependencia tribunal
+
+
+ii visitant par uso pension servidor autor pesso sem vincul tribunal enquant estiv dependente
+
+
+paragraf unic crach eventual possu validad dia entreg usuari credenci recepca dev devolv said cad dependencia tribunal
+
+
+crach dev emit pel unidad seguranc tribunal entreg fic condicion apresent document ident oficial outr fot tenh validad tod territori nacional
+
+
+uso guard conserv crach inteir responsabil usuari respond eventual extravi dan descaracteriz mau uso
+
+
+paragraf unic extravi dan crach dev imediat comunic unidad seguranc tribunal
+
+
+cess motiv utiliz crach usuari dev obrigatori restituil unidad seguranc tcu pen indeniz respect cust
+
+
+empres contrat permission servic ambit tribunal respons pel devoluca crach empreg bem pel respect indeniz cas devoluca dest
+
+
+compet unidad seguranc tribunal atest receb devoluca crach coub efetu respect baix soluca
+
+
+capitul iii
+
+
+acess pesso
+
+
+control acess pesso dependencia tribunal compreend identific credenci registr entrad said inspeca seguranc verific uso crach form registr restring audit moviment pesso dependencia tcu
+
+
+control acess refer dest englob garagens tribunal local ond dev hav entrad said pedestr
+
+
+control acess pesso realiz mediant catrac eletron barreir fisic contempl entr outr element soluca control acess integr circuit fech televisa cftv
+
+
+ingress circul permanente pesso dependencia tribunal permit dias ute interval temp compreend entr duas hor duas hor depo period regul jorn trabalh tribunal estabelec portariatcu mai
+
+
+pod acess permanec dependencia tribunal fora dias eou horari indic dest
+
+
+i autor tribunal
+
+
+ii ocupant funca confianc fc fc
+
+
+iii servidor necess servic desd previ autoriz pel dirigent respect unidad lotaca
+
+
+iv servidor desej apanh objet pessoal desd acompanh agent seguranc tribunal
+
+
+v terceiriz necess servic desd previ autoriz pel fiscal respect contrat
+
+
+vi estagiari necess servic mediant autoriz prev dirigent respect unidad lotaca
+
+
+autoriz trat paragraf anterior dev registr soluca dev cont pel men nom matricul cas servidor nom cpf cas colabor acompanh respect raza ingress
+
+
+cerimonial unidad assessor autor dirigent dem unidad pod solicit unidad seguranc tribunal condica diferenci acess par dignitari visit tcu bem ocasia realiz event institucion
+
+
+visit dignatari tribunal especial naquel preagend observ entr outr seguint proced
+
+
+i unidad solicitant envi previ unidad seguranc dad identific pesso acess diferenci
+
+
+ii dignitari atend recepca par identific credenci
+
+
+iii recepca inform unidad solicitant cheg dignitari
+
+
+iv unidad solicitant providente encaminh dignitari sal esper unidad assessor autor dirigent dem unidad
+
+
+aplic dispost dest dev observ integr requisit seguranc tribunal outr orga public entidad inclusiv refer eventual rastreament previ pos event are envolv
+
+
+visit gui instal tribunal depend autoriz prev unidad seguranc tcu
+
+
+paragraf unic acess grup visitant pod realiz mediant process identific simplific observ necess conveniente especif desd haj acompanh pessoal tecnic unidad respons pel visit
+
+
+ved ingress dependencia tribunal pesso encontr seguint condica
+
+
+i port arm fog ressalv dispost paragraf unic dest
+
+
+ii port artefat explos
+
+
+iii identific passivel represent risc integr fisic pesso seguranc institucional
+
+
+iv utiliz capacet qualqu tip cobertur ocult fac
+
+
+v acompanh qualqu animal excet caogu
+
+
+vi par pratic comerci propagand receb donat salv autoriz prev secretariogeral administr
+
+
+vii traj mod incompat ambient trabalh
+
+
+paragraf unic pod port arm fog dependencia tribunal form lei desd previ identific pel seguranc polici missa seguranc dignitari profission custod valor
+
+
+capitul iv
+
+
+inspeca seguranc
+
+
+ingress dependencia tribunal preced inspeca seguranc inclusiv equip raiosx detector metal salv par dignitari autor servidor aposent colabor dem pesso previ credenci nr portariatcu btcu administrat
+
+
+
+paragraf unic pesso motiv justific pud submet equip seguranc exempl daquel material implant corp submet revist pessoal
+
+
+quand identific armament qualqu espec proced ingress dependencia tribunal solicit apresent respect certific registr port arm outr document autoriz port
+
+
+paragraf unic apresent document correspondent arm ret contr recib cofr par guard armas send restitu soment said portador
+
+
+agent seguranc tribunal sempr julg necessari pod submet qualqu pesso inspeca outr med seguranc inclusiv revist pessoal verific manual volum utiliz equip adicion
+
+
+capitul v
+
+
+are restrit
+
+
+acess pesso are instal compo dependencia tribunal dev restrit acord nivel critic ativ proteg observandos perimetr seguranc previ defin
+
+
+acess are restrit soment permit determin grup pesso autoriz especif soluca mediant autoriz prev respons pel respect are
+
+
+capitul vi
+
+
+alter portariatcu
+
+
+fic alter portariatcu pass vigor seguint redaca
+
+
+control frequenc servidor tribunal lot sed estad realiz mei biometr disposit propri sistem informatiz
+
+
+control frequenc independent control acess pesso dependencia tribunal
+
+
+cas servidor apresent impressa digital registr frequenc realiz metod alternat uso crach senh
+
+
+utiliz indev control frequenc apur mediant process disciplin trat lei dezembr pod acarret infrator beneficiari penal demissa fundament iv mesm lei combin lei junh
+
+
+fic alter portariatcu pass vigor seguint redaca
+
+
+
+
+
+banc hor dev implement mei sistem informatiz integr dem soluca tecnolog inform soluca trat frequenc ambit tribunal
+
+
+fic alter portariatcu pass vigor seguint redaca
+
+
+
+
+
+horari especial conced servidor estudant dev obedec limit duas hor diar pod constituirs inici tardi termin antecip cumpriment jorn trabalh desd haj possibil compens horari unidad lotaca period regul jorn trabalh tribunal respeit jorn estiv sujeit servidor observ coub term portariatcu
+
+
+fic alter v portariatcu pass vigor seguint redaca
+
+
+sistem informatiz banc hor alem efetu registr automat horari inici termin cumpriment jorn trabalh servidor permitira sej efetu registr lancament manu observ seguint
+
+
+
+
+
+v dev permit correca falh marcaca eletron hor inici termin cumpriment jorn trabalh quand sistem qualqu motiv comput registr servidor equip biometr frequenc
+
+
+fic alter ii portariatcu pass vigor seguint redaca
+
+
+
+
+
+
+
+
+ii registr automat horari inici termin cumpriment jorn trabalh servidor
+
+
+fic alter ii portariatcu pass vigor seguint redaca
+
+
+
+
+
+
+
+
+ii permit chef imediat justific cas ocorrente detect pel sistem control inici termin cumpriment jorn trabalh servidor terceir dia mes subsequent apur
+
+
+capitul vii
+
+
+alter portariatcu novembr
+
+
+fic alter portariatcu inclusa i ii seguint term
+
+
+gestor contrat compet
+
+
+i analis document trabalh previdenci fiscal bem junt document probant respect process administrat liquid pagament acompanh analis document trabalh previdenci
+
+
+ii manutenca registr atualiz empreg terceiriz vincul contrat gesta precis acess dependencia tribunal
+
+
+fic inclu portariatcu renumerandos par paragraf unic seguint term
+
+
+
+
+
+relaca previst i dest lanc soluca tecnolog inform soluca servira solicit permissa acess dependencia tribunal
+
+
+dispost nest aplicas coub nov admissa empreg terceiriz
+
+
+fic alter inclu i ii portariatcu seguint term
+
+
+gestor contrat dev exig contrat dez dias ultim mes prest servic decorrente extinca rescisa contrat bem demissa ocorr durant vigenc contratual
+
+
+i term rescisa contrat trabalh empreg terceiriz devid homolog quand exig pel sindicat categor acompanh cop autentic cartori cop simpl acompanh origin par conferente local receb
+
+
+ii comprovant devoluca respect crach empreg terceiriz emit pel secret seguranc servic apoi sesap par contrat cuj unidad gestor localizas sed brasil
+
+
+capitul vii
+
+
+disposica ger transitor
+
+
+agent seguranc tcu pod imped acess pesso dependencia tribunal descumpr proced seguranc dispost nest port
+
+
+constat presenc dependencia tribunal qualqu pesso identific situaca poss parec suspeit dev servidor colabor comunic fat imediat unidad seguranc pel ramal
+
+
+incumb secretariogeral administr tribunal
+
+
+i exped norm necess operacionaliz dest port
+
+
+ii dirim cas omiss ouv sempr coub comit seguranc institucional cosin comissa coorden geral ccg
+
+
+iii autoriz dev justificat suspensa total parcial proced control acess pesso local especif durant realiz event sed tribunal situaca excepcion demand ess providente bem adoca outr proced diferenci par acess autor tcu
+
+
+iv estabelec acord caracterist servic prest ant necess administr limit horari par acess permanente determin dependencia are sed tribunal coub estad
+
+
+proced previst nest port implant med houv disponibiliz infraestrutur necess
+
+
+convalid pel secretariogeral administr rotin intermedi adot plen implant dispost nest port
+
+
+crach uso segu padra previst nest port continu utiliz respect substituica pel nov model observ cronogram estabelec pel unidad seguranc tribunal
+
+
+disposit registr frequenc tenh bas exclusiv carta proxim permanec uso complet entrad oper disposit registr frequenc mediant biometr
+
+
+compet unidad seguranc
+
+
+i ger instrument acess fisic claviculari tribunal
+
+
+ii viabiliz acess diferenci indic nest port bem suspensa proced control acess trat iii dest port
+
+
+iii disponibiliz are especif portal tcu formulari inerent operacionaliz dispost nest port exempl relat comunic perd furt extravi crach solicit segund via
+
+
+iv propor seged rotin intermedi adot plen implant dispost nest port
+
+
+v orient acerc disposica dest port promov aca necess divulg orient parc unidad competent
+
+
+vi apresent comit ident visual propost layout crach formul parc secret comunic
+
+
+vii submet seged propost regulament dest port
+
+
+classific quant confidencial temp guard inform referent control acess pesso dependencia tribunal trat est port dev observ disposica resolucaotcu abril polit corporat seguranc fisic patrimonial dispost ato normat especif
+
+
+observanc disposit previst nest port sujeit infrator sanca administrat civ pen term legislacion pertinent assegur envolv dev contraditori ampl defes
+
+
+est port aplicas coub institut serzedell corre secret control extern sedi estad feder
+
+
+fic revog portariatcu fevereir
+
+
+est port entr vigor dat public
+
+
+arold cedraz oliveir
+
+
+
+
+
+
+redaca anterior
+
+
+
+
+
+
+forc portariatcu
+
+
+
+
+
+
+
+
+
+
+
+crach temporari destin advog dev observ alem dispost paragraf anterior seguint requisit
+
+
+
+
+
+forc portariatcu
+
+
+
+
+
+ingress dependencia tribunal servidor aposent colabor pension bem qualqu pesso sem vincul tcu preced inspeca seguranc inclusiv equip raiosx detector metal
+
+
+
+const revog express
+dispo sobr control acess circul permanente pesso dependencia tribunal cont unia alter portariatcu mai dispo sobr horari funcion tribunal cont unia jorn trabalh acompanh frequenc servidor secret alter portariatcu novembr dispo sobr fiscaliz contrat prest servic terceiriz natur continu ambit secret tribunal cont unia
+forc portariatcu
+
+
+
+
+
+
+
+crach temporari destin advog dev observ alem dispost paragraf anterior seguint requisit
+
+
+
+forc portariatcu
+
+
+
+ingress dependencia tribunal servidor aposent colabor pension bem qualqu pesso sem vincul tcu preced inspeca seguranc inclusiv equip raiosx detector metal
+

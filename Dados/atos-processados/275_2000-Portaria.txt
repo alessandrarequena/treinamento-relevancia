@@ -1,0 +1,342 @@
+port
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider dispost instruca normat tcu mai
+
+
+consider necess adequ element dev coloc disponiv par acess homepag cont public part municipi particular dess entes feder resolv
+
+
+fic institu anex ii instruca normat tcu form anex est port
+
+
+dad inform trat instruca normat tcu responsabil municipi expressa element constant anex ii refer in institu est port
+
+
+adequ necess respect sit dev promov fevereir
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+
+
+iram saraiv
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public btcu
+
+
+
+
+
+
+
+anex unic
+
+
+
+
+
+anex ii instruca normat
+
+
+municipi
+
+
+institu pel port dezembr
+
+
+
+
+
+dad inform trat instruca normat tcu responsabil municipi expressa element constant dest anex ii
+
+
+
+
+
+tribut arrecad i
+
+
+
+i exercici mes arrecad
+
+
+ii montant cad tribut contribuica arrecad mes acumul exercici
+
+
+
+recurs receb
+
+
+
+i montant cad transferente constitucional receb mes acumul exercici discrimin titul
+
+
+ii montant transferente volunt receb discrimin corrent capital receb mes acumul exercici
+
+
+iii quant cad instrument celebr
+
+
+numer original
+
+
+b concedent
+
+
+c objet
+
+
+d valor conveni
+
+
+valor contrapart
+
+
+f praz par cumpriment objet
+
+
+
+recurs repass
+
+
+
+i exercici mes rep
+
+
+ii montant repass mes acumul exercici
+
+
+iii quant cad instrument
+
+
+numer original
+
+
+b secret orga vincul
+
+
+c concedent
+
+
+d beneficiari
+
+
+objet
+
+
+f valor conveni
+
+
+g valor contrapart
+
+
+h vigenc
+
+
+i situaca
+
+
+
+orcament anu x
+
+
+
+i exercici vigenc lei
+
+
+ii montant receit previst par exercici desdobr classific econom
+
+
+iii montant despes fix par exercici desdobr numer nom
+
+
+unidad orcament
+
+
+b funca
+
+
+c program
+
+
+d subprogram
+
+
+font recurs
+
+
+f grup despes
+
+
+
+execuca orcament xii
+
+
+
+i exercici bimestr execuca orcament
+
+
+ii montant receit realiz bimestr acumul bimestr desdobr classific econom
+
+
+iii montant despes autoriz exercici empenh bimestr acumul exercici bem montant despes liquid bimestr acumul exercici desdobr numer nom
+
+
+unidad orcament
+
+
+b funca
+
+
+c program
+
+
+d subprogram
+
+
+font recurs
+
+
+f grup despes
+
+
+
+balanc orcamentari xiv
+
+
+
+i exercici execuca orcament
+
+
+ii montant receit previst realiz ana diferenc entr desdobr classific econom
+
+
+iii montant despes autoriz liquid ana diferenc entr desdobr classific econom
+
+
+iv superavit deficit corrent apur exercici
+
+
+v superavit deficit capital apur exercici
+
+
+vi result orcamentari exercici
+
+
+
+contrat adit xx
+
+
+
+i exercici mes assinatur instrument
+
+
+iii nom secret orga vincul unidad administrat contratant
+
+
+iv nom numer cadastr nacional pesso jurid cnpj unidad administrat contratant
+
+
+v quant instrument contrat adit coub
+
+
+fundament legal licit dispens inexigibil
+
+
+b modal licit
+
+
+c numer process licit dispens inexigibil
+
+
+d numer process relat adit
+
+
+objet
+
+
+f nom cnpjcpf contrat
+
+
+g dat assinatur public resum instrument respect diari oficial
+
+
+h vigenc
+
+
+i numer empenh original
+
+
+j valor global
+
+
+
+compr xxiv
+
+
+
+i exercici mes aquisica
+
+
+ii nom secret orga vincul unidad administrat adquirent
+
+
+ii nom cnpj unidad administrat adquirent
+
+
+iii nom cnpjcpf fornecedor
+
+
+iv descrica bem adquir
+
+
+v prec unitari aquisica bem
+
+
+vi quantidad adquir bem
+
+
+vii valor total aquisica
+
+
+
+
+
+
+const revog express
+institu anex ii instruca normat mai aplic dad inform responsabil municipi coloc disposica par acess via internet homepag cont public cri pel lei
+
+

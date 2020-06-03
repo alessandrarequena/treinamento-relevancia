@@ -1,0 +1,11944 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment especial dispost xiv regiment intern
+
+
+consider disposica intcu abril
+
+
+consider implement sistemat consolid cont aprov pel decisa normativatcu dezembr resolv
+
+
+fic aprov form anex dest port atualiz manual instruca process tom prest cont
+
+
+fic revog portariatcu mai
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov atualiz manual instruca process tom prest cont
+
+anex unic
+
+
+
+
+
+
+
+
+manual instruca process tom prest cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcu tribunal cont unia
+
+
+segecex secretariageral control extern
+
+
+
+adcon secret adjunt cont
+
+
+
+
+diacon diretor tecnic acompanh exam cont
+
+
+
+
+
+
+
+
+
+
+brasil marc
+
+
+
+
+tribunal cont unia
+
+
+
+seged didiv btcu especial brasil ana xxxvi p mar
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+seged didiv btcu especial brasil ana xxxvi p mar
+
+
+
+
+
+
+versa
+
+
+
+
+
+
+
+
+sumari
+
+
+
+
+
+apresent
+
+
+utiliz est manual
+
+
+fluxogram rotin exam process tom prest cont
+
+
+citaca
+
+
+audienc
+
+
+notific
+
+
+proced adot par seleca process tom prest cont par exam instruca
+
+
+exam cont selecion
+
+
+orga pod legislat judiciari tribunal cont unia ministeri public unia advocaciageral unia defensor public unia distrit federal territori in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+administr diret in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+tom cont natur sigil
+
+
+f tom cont apresent form consolid
+
+
+g instruca process
+
+
+autarqu fundaca in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+orga entidad arrecad gerenc contribuica parafisc in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+fund constitucion invest in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta banc oper
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+outr fund in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+
+entidad administr contrat gesta eou in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+process simplific cont orga administr diret autarqu fundaca orgaosent gerenc contribuica parafisc in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori sintet certific auditor
+
+
+d demonstr financeir contab
+
+
+tom cont apresent form consolid
+
+
+f instruca process
+
+
+process simplific cont empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal in tcu
+
+
+
+exam prelimin formaliz process
+
+
+element necessari exam process
+
+
+exam process
+
+
+rol respons
+
+
+b relatori gesta
+
+
+c relatori sintet certific auditor
+
+
+d demonstr financeir contab
+
+
+instruca process
+
+
+instruca process
+
+
+propost merit
+
+
+formulari par instruca
+
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+exam prelimin
+
+
+
+formulari instruca par process simplific
+
+
+fls
+
+
+b fls
+
+
+formulari nº instruca inicial
+
+
+fls
+
+
+b fls
+
+
+c fls
+
+
+d fls
+
+
+fls
+
+
+formulari instruca diligente
+
+
+fls
+
+
+b fls
+
+
+formulari instruca audienc
+
+
+fls
+
+
+b fls
+
+
+formulari instruca citaca revel
+
+
+fls
+
+
+b fls
+
+
+formulari instruca citaca defes rejeit
+
+
+fls
+
+
+b fls
+
+
+formulari instruca citaca recolh debit acolh
+
+
+fls
+
+
+b fls
+
+
+formulari instruca cientific nov praz par recolh
+
+
+fls
+
+
+b fls
+
+
+formulari instruca par process retir difer final praz legal
+
+
+fls
+
+
+b fls
+
+
+definica conceit term utiliz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apresent
+
+
+
+
+
+
+
+
+
+
+
+m cumpriment dispost instruca normat apresent present manual instruca objet orient instruca process tom prest cont referent exercici seguint administr dem respons dinheir bens valor public unidad pod unia entidad administr indiret inclu fundaca sociedad institu mant pel pod public federal
+
+
+
+
+
+dev introduca conceit estad difer cont pel necess estabelec criteri seleca par instruca dess cont fezs necessari promov alter teor manual aprov pel port julh mesm form possibil consolid cont aprov pel decisa normat demand alter present manual tais alter apresent segu
+
+
+
+
+
+est manual dev constant process atualiz aperfeico proced adot par seleca process tom prest cont par instruca pod alter conform exercici exam form permit fiscaliz volt par material risc relevanc impact caus pel med ora adot avali permanent pel secret adjunt cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+seged didiv btcu especial brasil ana xxxvi p mar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+utiliz est manual
+
+
+
+
+
+
+manual instruca tom prest cont cons seguint capitul dispost seguint form
+
+
+
+
+
+
+
+
+
+fluxogram rotin exam process tom prest cont est capitul demonstr rotin simplific exam process tom prest cont mei fluxogram
+
+
+
+
+
+
+proced adot par seleca process tom prest cont par exam instruca apresent proced adot par seleca process tom prest cont relat exercici exam instru nest capitul defin orient par analis cont selecion estabelecendos ordem prioridad adot med possivel pel unidad tecnic
+
+
+
+
+
+
+exam process tom prestaca cont est capitul detalh pass pass orient par analis tip process cont
+
+
+
+
+
+
+instruca process apresent orient par instruca comum tod tip process
+
+
+
+
+
+
+formulari par instruca apresent formulari utiliz par ess fim cad fas instruca acord situaca aplic cad process
+
+
+
+
+
+
+not alter introduz pel refer rotin julgament pel irregular notific respons contempl manual proced cont irregul
+
+
+
+
+
+
+definica conceit term utiliz mencion definica conceit term utiliz propri manual list nest capitul form transmit uniformiz ide expost ness instrument control mesm lev cont destin usuari intern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fluxogram rotin exam process tom prest cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+citaca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+audienc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+notific
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+proced adot par seleca process tom prest cont par exam instruca
+
+
+
+
+
+
+
+
+pos exam prelimin par conferente document exig pel in autuaca respect process cont selecion par instruca funca seguint criteri
+
+
+
+
+
+i alt material cons gesta recurs superior r milha exceca cont anu subsidi internacional administr public federal indiret
+
+
+ii parec control intern pel irregular cont
+
+
+iii determin efetu pel tribunal estej pendent atend
+
+
+iv process conex apens process outr tip poss reflet merit cont
+
+
+v amostr cont difer retir grup cont parec control intern pel regular regular ressalv selecion itens i ii iii iv
+
+
+
+
+
+material cont orgaosent correspond recurs ger calcul acord parametr defin pel port tcu
+
+
+par orga administr diret autarqu fundacional pod execut orga pod legislat judiciari valor despes execut constant demonstrat execuca despes
+
+
+b par empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal valor total ativ obtid balanc patrimonial acresc receit operacional liqu outr receit operacion receit operacion obtid demonstr result exercici
+
+
+c orga entidad arrecad gerenci contribuica parafisc valor despes realiz constant balanc demonstrat orcamentari
+
+
+d fund constitucion invest despes execut constant process cont despes realiz constant demonstrat execuca despes
+
+
+unidad respons arrecad fiscaliz recurs public pel gerenci renunc receit public volum recurs arrecad fiscaliz renunci
+
+
+f unidad respons pel supervisa concessa permissa autoriz servic public respect valor
+
+
+
+
+
+volum recurs ger cont exercici exam inform opca alter material constant sistem difer localiz sigaweb intranetsigawebprocessusdiferimentoalterar material
+
+
+
+
+
+certific emit pel control intern regular regular ressalv irregular dev registr sistem difer opca cadastr inform par difer oferec tamb sigaweb intranetsigawebprocessusdiferimentocadastrar inform par difer cad secret control extern exam prelimin autuaca
+
+
+
+
+
+concern cont orga entidad dev verific determin efetu pel tribunal par acompanh exercici exam monitor dess determin execut cad secex par clientel tais inform dev registr tamb sistem difer term in dev const relatori auditor control intern soment selecion par instruca acord ess criteri cont control intern indic orga entidad cumpr total parcial determin cas control intern indiqu determin cumpr cont selecion par instruca ess criteri houv menca sobr cumpriment determin efetu relatori auditor secret dev promov saneament cont
+
+
+
+
+
+exist process conex julg denunc represent relatori auditor inspeca trat mat relat exercici exam despach relator determin junt par exam conjunt poss reflet gesta cont separ par instruca inform dev registr tamb sistem difer
+
+
+
+
+
+sistem emitira dois relatori cont selecion par exam instruca cont certific pel regular plen regular ressalv selecion outr criteri
+
+
+
+
+
+segund listag acim cont certific pel regular plen regular ressalv selecion outr criteri extra amostr aleator confianc err par tamb examin instru intuit mant expectat control cab adcon extraca dess amostr divulg selecion par cad secret control extern tal proced soment efetu receb tod cont registr inform sistem difer cad secret control extern praz par secret control extern registr inform sistem difer cas surj problem excepcion impec secret control extern registr inform praz estabelec secex dev comunic fat adcon par conhec estud soluca
+
+
+
+
+
+selecion cont passiv instruca dem cont parec control intern pel regular regular ressalv segreg dem difer nest cas ocorr exam detalh pel secret cas sej encontr outr trabalh motiv par retiral difer dias praz legal par julgament cont sej termin exercici seguint receb cont cad secret elabor listag relator encaminh par julgament relaca propost concordanc control intern
+
+
+
+
+
+qualqu moment cont pod retir difer instru segu flux convencional exam apur process fiscaliz denunc represent auditor inspeca irregular compromet gesta exercici indici justifiqu ess retir proced adot dev registr sistem processus camp aca relat aquel cont tant retir quant motiv induz adoca tal med
+
+
+
+
+
+cont receb fora praz caus justific tiv certific auditor pel regular plen regular ressalv dev difer salv enquadr criteri apont itens i ii iii iv
+
+
+
+
+
+cas excepcion deliber colegi outr grup tom prest cont pod difer mesm enquadr criteri apont item i material
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam cont selecion
+
+
+p
+
+
+
+
+
+ara instruca inicial cont selecion dev segu sempr possivel ordem prioridad estabelec bas criteri segu descrit primeir lug dev analis cont parec control intern pel irregular entr cont criteri par classifical mais important dev lev consider
+
+
+irregular aparent pud avali acord gravidad fat dev prioriz consider mais grav
+
+
+b cont representat recurs superior r milha ordem decrescent material
+
+
+c cont exist pendenc atend determin
+
+
+d process conex apens process outr tip poss refletirs sobr merit cont
+
+
+cont exercici anterior julg pel irregular tenh receb parec control intern pel irregular
+
+
+
+
+
+segu dev instru cont orgaosent execut despes ger recurs superior r milha exercici exam ordem decrescent material grau importanc del pod atribu mei criteri abaix
+
+
+cont exist pendenc atend determin
+
+
+b process conex junt process outr tip poss refletirs sobr merit cont
+
+
+c cont exercici anterior julg pel irregular tenh receb parec control intern pel irregular
+
+
+
+
+
+instruca cont irregul alt material prioridad dev dad cont orga eou entidad determin tribunal pendent atend dev constat pel existente pronunci control intern relatori auditor orga entidad cumpr cumpr parcial determin atribuica importanc dev consider
+
+
+i process conex apens process outr tip poss refletirs sobr merit cont
+
+
+ii cont exercici anterior julg pel irregular tenh receb parec pel irregular
+
+
+
+
+
+ultim ordem prioridad instruca inicial cont referent exercici exam cont parec control intern pel regular plen regular ressalv escolh amostrag par mant expectat control criteri prioridad adot dev
+
+
+
+
+
+i process conex apens process outr tip poss refletirs sobr merit cont
+
+
+ii cont exercici anterior julg pel irregular tenh receb parec pel irregular
+
+
+
+
+
+termin praz legal exist cont pendent apreci depend julgament process conex reflet merit secexs dev instru cont propost sobrest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+orga pod legislat judiciari tribunal cont unia ministeri public unia advocaciageral unia defensor public unia distrit federal territori in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process tomadaprest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+orden despes
+
+
+orden restituica receit houv
+
+
+encarreg setor financeir outr corespons atos gesta houv
+
+
+encarreg almoxarif material estoqu houv
+
+
+encarreg deposit mercador bens apreend houv
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca program trabalh esclarec cas sobr caus inviabiliz plen cumpriment met fix
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel orga
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+transferente recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet colim send hipotes lei dev const aind inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial pen responsabil solid in
+
+
+fiscaliz control exerc sobr entidad fech previdente priv patrocin especial quant cumpriment legislacion pertinent corret aplic recurs repass acord objet destin lei apresent aind demonstrat anual montant folh pagament empreg participant plan benefici contribuica pag pel mesm pel patrocin bem quaisqu outr recurs repass inclusiv adiant emprest acompanh parec auditor independent
+
+
+manifest cas orga justic eleitoral acerc observanc norm leg regulament pel part polit aplic recurs compo fund partidari send hipotes lei dev const aind inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc
+
+
+cumpriment met previst plan plurianual lei diretriz orcament bem program govern trabalh apont atos gesta ilegit antieconom result dan erari prejudic desempenh aca administrat indic qua providente adot
+
+
+transferente receb recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet colim
+
+
+regular process licitatori atos relat dispens inexigibil licit bem contrat
+
+
+polit recurs human destac especial forc trabalh existent observanc legislacion aplic sobr admissa remuner cessa requisica pessoal bem sobr concessa aposentador pensa
+
+
+cumpriment legislacion aplic entidad previdente priv especial quant observanc limit fix lei par rep recurs pel patrocin titul contribuica quant cessa pessoal bens bem quant regular eventu div existent entr patrocin patrocin
+
+
+result quant eficac eficiente gesta orcament financeir patrimonial
+
+
+cas control intern justic eleitoral observanc pel orga audit norm leg referent cobranc analis prestaca cont relat aplic recurs fund partidari pel part polit
+
+
+cumpriment pel orga determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process tcpcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv in
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+despes realiz
+x
+despes autoriz objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor indic houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+demonstr execuca despes celul orcament
+
+
+valor celul orcament despes autoriz maior despes realiz
+
+
+despes realiz font titul responsabil tesour nacional result banc central contribuica par fund desenvolv social aplic are
+
+
+
+
+
+
+
+amortiz jur outr encarg div public mobili federal intern
+
+
+refinanci div extern setor public div intern mobili estad distrit federal municipi
+
+
+aument capital empres unia diret detenh maior capital social direit vot estej inclu program desestatiz
+
+
+desapropri imov rur
+
+
+pagament integral equaliz tax jur financi export
+
+
+aquisica garant aceit exterior necess renegoci div extern
+
+
+custei program are cienc tecnolog saud defes nacional seguranc public mei ambient
+
+
+
+
+
+
+
+amortiz div public federal
+
+
+
+
+
+
+
+program projet ativ are social
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+indic receit propr
+
+
+
+
+receit corrent receit capital
+
+
+
+
+x
+
+
+
+
+receit corrent receit capital transf receb
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+indic autosuficiente receit propr
+
+
+
+
+receit corrent receit capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes outr natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+indic inscrica rest pag
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+verific aind const tom prest cont acord vii x in
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express indeleg autor maxim orgaoent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+administr diret in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process tom cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+orden despes
+
+
+orden restituica receit houv
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+encarreg almoxarif material estoqu
+
+
+encarreg deposit mercador bens apreend houv
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca avali program govern mei cumpriment met fix pel indic desempenh utiliz esclarec cas sobr caus inviabiliz alcanc result esper par program
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel orga
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+demonstrat flux financeir projet program financi recurs extern const individual indic cust total valor emprestim contrat contrapart ajust ingress extern contrapart nacional transferente recurs amortiz jur comissa compromiss outr individual ocorr ana acumul period exam esclarec cas sobr motiv imped inviabiliz plen conclusa etap total cad projet program indic providente adot
+
+
+transferente recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet previst send hipotes lei dev const aind inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial pen responsabil solid in
+
+
+result acompanh fiscaliz avali projet instituica benefici renunc receit public federal bem impact socioeconom ger ativ apresent aind demonstrat express situaca dest projet instituica
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc erari
+
+
+cumpriment met previst plan plurianual lei diretriz orcament bem program govern trabalh apont atos gesta ilegit antieconom result dan erari prejudic desempenh aca administrat indic qua providente adot
+
+
+transferente receb recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent especial exigente par realiz transferente volunt estabelec lei complement corret aplic recurs alcanc result colim
+
+
+regular process licitatori atos relat dispens inexigibil licit bem contrat
+
+
+polit recurs human destac especial forc trabalh existent observanc legislacion sobr admissa remuner cessa requisica pessoal bem sobr concessa aposentador reform pensa
+
+
+execuca projet program financi recurs extern contrat pel orga organ internacion quant aspect legal regular economic eficiente eficac destac irregular verific indic providente adot inclu apur mei tom cont especial responsabil gestor pel onus decorrent comissa compromiss resultant atras cumpriment respect program
+
+
+result quant eficac eficiente gesta orcament financeir patrimonial
+
+
+cumpriment pel orga determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process tcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv in
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+
+
+despes realiz
+
+
+
+
+x
+
+
+
+
+despes autoriz
+
+
+
+
+
+objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor quand houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+demonstr execuca despes celul orcament
+
+
+valor celul orcament despes autoriz maior despes realiz
+
+
+despes realiz font titul responsabil tesour nacional result banc central contribuica par fund desenvolv social aplic are
+
+
+
+
+
+
+
+amortiz jur outr encarg div public mobili federal intern
+
+
+refinanci div extern setor public div intern mobili estad distrit federal municipi
+
+
+aument capital empres unia diret detenh maior capital social direit vot estej inclu program desestatiz
+
+
+desapropri imov rur
+
+
+pagament integral equaliz tax jur financi export
+
+
+aquisica garant aceit exterior necess renegoci div extern
+
+
+custei program are cienc tecnolog saud defes nacional seguranc public mei ambient
+
+
+
+
+
+
+
+amortiz div public federal
+
+
+
+
+
+
+
+program projet ativ are social
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+
+indic receit propr
+
+
+
+
+receit corrent capital
+
+
+
+
+x
+
+
+
+
+receit corrent capital transf receb
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+indic autosuficiente receit propr
+
+
+
+
+receit corrent capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes outr natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+
+indic inscrica rest pag
+
+
+
+
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+verific aind const tom prest cont acord vii x in
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tom cont natur sigil
+
+
+verific tom cont recurs natur sigil supriment fund
+
+
+demonstrat pagament efetu cont especific cad despes inclusiv daquel efetu mediant supriment fund consoant dispost in
+
+
+orga contempl orcament geral unia credit par desenvolv aca carat sigil
+
+
+norm criaca orgaoent estabelec competente par desenvolv ativ consider sigil
+
+
+alem demonstrat pagament efetu trat subit tom cont decorrent recurs natur sigil eou supriment fund aplicams coub instruca previst nest manual
+
+
+
+
+
+
+
+
+
+
+
+
+tom cont apresent form consolid
+
+
+alem condica descrit itens anterior verific tom cont apresent form consolid
+
+
+const rol respons dad respons tod ugs consolid term i in tcu cc i decisa normat
+
+
+pec compo process const inform exig decisa normat
+
+
+ug consolid demand adoca med prelimin
+
+
+exist process denunc represent auditor inspeca outr relat exercici exam referent ug consolid
+
+
+cas sej constat qualqu duas ultim ocorrente dev constitu apart send cont daquel ug instru separ pel unidad tecnic cuj clientel mesm fiz part
+
+
+process original tom cont apresent form consolid continu tramit normal
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+autarqu fundaca in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim
+
+
+membr orga colegi respons atos gesta defin lei regul estatut
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+encarreg almoxarif material estoqu
+
+
+encarreg deposit mercador bens apreend houv
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca avali program govern mei cumpriment met fix indic desempenh utiliz esclarec cas sobr caus inviabiliz alcanc result esper par program
+
+
+observanc legislacion pertinent especial plan plurianual diretriz orcament orcament anual
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel entidad
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+demonstrat flux financeir projet program financi recurs extern const individual indic cust total valor emprestim contrat contrapart ajust ingress extern contrapart nacional transferente recurs amortiz jur comissa compromiss outr individualizad ocorr ana acumul period exam esclarec cas sobr motiv imped inviabiliz plen conclusa etap total cad projet program indic providente adot
+
+
+transferente recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet previst send hipotes lei dev const aind inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial pen responsabil solid in
+
+
+fiscaliz control exerc sobr entidad fech previdente priv patrocin especial quant cumpriment legislacion pertinent corret aplic recurs repass acord objet destin lei apresent aind demonstrat anual montant folh pagament empreg participant plan benefici contribuica pag pel mesm pel patrocin bem quaisqu outr recurs repass inclusiv adiant emprest acompanh parec auditor independent
+
+
+result acompanh fiscaliz avali projet instituica benefici renunc receit public federal bem impact socioeconom
+
+
+ger ativ apresent aind demonstrat express situaca dest projet instituica
+
+
+par autarqu supervisor fund invest dispost h subit aplic modal renunc relat isenca reduca impost rend pesso jurid irpj
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+auditor planej realiz pel control intern propr entidad justificat cas quant cumpriment met previst
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc entidad
+
+
+cumpriment met previst plan plurianual lei diretriz orcament bem program govern trabalh apont atos gesta ilegit antieconom result dan erari prejudic desempenh aca administrat indic qua providente adot
+
+
+transferente receb recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent especial exigente par realiz transferente volunt estabelec lei complement corret aplic recurs alcanc result colim
+
+
+regular process licitatori atos relat dispens inexigibil licit bem contrat
+
+
+polit recurs human destac especial forc trabalh existent observanc legislacion sobr admissa remuner cessa requisica pessoal bem sobr concessa aposentador reform pensa
+
+
+execuca projet program financi recurs extern contrat pel orga organ internacion quant aspect legal regular economic eficiente eficac destac irregular verific indic providente adot inclu apur mei tom cont especial responsabil gestor pel onus decorrent comissa compromiss resultant atras cumpriment respect program
+
+
+cumpriment legislacion aplic entidad previdente priv especial quant observanc limit fix lei par rep recurs pel patrocin titul contribuica quant cessa pessoal bens bem quant regular eventu div existent entr patrocin patrocin
+
+
+result quant eficac eficiente gesta orcament financeir patrimonial
+
+
+cumpriment pel orga entidad determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process pcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv vii in
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+
+despes realiz
+
+
+
+
+x
+
+
+
+
+despes autoriz
+
+
+
+
+
+objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor quand houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+demonstr execuca despes celul orcament
+
+
+valor celul orcament despes autoriz maior despes realiz
+
+
+despes realiz font titul responsabil tesour nacional result banc central contribuica par fund desenvolv social aplic are
+
+
+
+
+
+
+
+amortiz jur outr encarg div public mobili federal intern
+
+
+refinanci div extern setor public div intern mobili estad distrit federal municipi
+
+
+aument capital empres unia diret detenh maior capital social direit vot estej inclu program desestatiz
+
+
+desapropri imov rur
+
+
+pagament integral equaliz tax jur financi export
+
+
+aquisica garant aceit exterior necess renegoci div extern
+
+
+custei program are cienc tecnolog saud defes nacional seguranc public mei ambient
+
+
+
+
+
+
+
+amortiz div public federal
+
+
+
+
+
+
+
+program projet ativ are social
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+indic receit propr
+
+
+
+
+
+
+
+
+receit corrent capital transf cor capital
+
+
+
+
+x
+
+
+
+
+receit corrent capital transf receb
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+indic autosuficiente receit propr
+
+
+
+
+receit cor capital transf corrent capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes outr natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+indic inscrica rest pag
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+verific aind const tom prest cont acord vii xi in
+
+
+parec orga intern entidad dev pronunciars sobr cont consoant previst atos constitut
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+verific final const prest cont demonstrat remuner pag respect conselheir bem atas reunia realiz durant exercici conform dispost lei acorda plenari
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim
+
+
+membr diretor
+
+
+membr conselh administr deliberat curador fiscal
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+avali necess realiz diligente
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca program trabalh execuca avali program govern mei cumpriment met fix indic desempenh utiliz esclarec cas sobr caus inviabiliz alcanc result esper par program
+
+
+observanc legislacion pertinent plan plurianual diretriz orcament orcament anual especial program invest estat
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel entidad
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+demonstrat flux financeir projet program financi recurs extern const individual indic cust total valor emprestim contrat contrapart ajust ingress extern contrapart nacional transferente recurs amortiz jur comissa compromiss outr individualizad ocorr ana acumul period exam esclarec cas sobr motiv imped inviabiliz plen conclusa etap total cad projet program indic providente adot
+
+
+transferente recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica avali dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet previst send par hipotes cont lei dev verific aind existente inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial pen responsabil solid in
+
+
+fiscaliz control exerc sobr entidad fech previdente priv patrocin especial quant cumpriment legislacion pertinent corret aplic recurs repass acord objet destin lei cont demonstrat anual montant folh pagament empreg participant plan benefici contribuica pag pel mesm pel patrocin bem quaisqu outr recurs repass inclusiv adiant emprest acompanh parec auditor independent
+
+
+result acompanh fiscaliz avali projet instituica benefici renunc receit public federal bem impact socioeconom ger ativ apresent aind demonstrat express situaca dest projet instituica
+
+
+cas entidad send administr contrat gesta observ apresent indic estatist permit avali quantitat qualitat desempenh cumpriment met pactu
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+auditor planej realiz pel control intern propr entidad justificat cas quant cumpriment met previst
+
+
+falh irregular ilegal constat indic disposit leg infring providente adot
+
+
+irregular ilegal result prejuiz indic norm transgred med implement vist pront ressarc entidad
+
+
+cumpriment met previst plan plurianual lei diretriz orcament bem program govern trabalh englob program invest estat apont atos gesta ilegit antieconom result dan erari prejudic desempenh aca administrat indic providente adot
+
+
+transferente receb recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent especial exigente par realiz transferente volunt estabelec lei complement corret aplic recurs receb alcanc objet colim
+
+
+regular process licitatori atos relat dispens inexigibil licit bem contrat
+
+
+polit recurs human destac especial forc trabalh existent observanc legislacion sobr admissa remuner cessa requisica pessoal
+
+
+execuca projet program financi recurs extern contrat pel entidad organ internacion quant aspect legal regular economic eficiente eficac destac irregular verific indic providente adot inclu apur mei tom cont especial responsabil gestor pel onus decorrent comissa compromiss resultant atras cumpriment respect program
+
+
+cumpriment legislacion aplic entidad previdente priv especial quant observanc limit fix lei par rep recurs pel patrocin titul contribuica quant cessa pessoal bens bem quant regular eventu div existent entr patrocin patrocin
+
+
+result quant eficac eficiente gesta orcament financeir patrimonial
+
+
+cumpriment pel orga entidad determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falh eou irregular objet recomend anterior reincident
+
+
+exist registr outr ocorrente poss afet merit cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman tribunal process tcpcr outr
+
+
+examin certific auditor est consentane teor respect relatori cas estej efetu diligente junt control intern par obter esclarec
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv in
+
+
+balanc patrimonial
+
+
+corret classific cont segund conceitu estabelec lei
+
+
+princip cont ativ term sald compativ ativ entidad destaqu par cont
+
+
+ativ circulant realiz long praz credit receb provisa par credit liquid duvid estoqu
+
+
+ativ permanent invest particip permanent outr sociedad control colig outr particip
+
+
+cont mais significat passiv compativ ativ entidad destaqu par cont
+
+
+passiv circulant exig long praz emprest financi debentur provisa
+
+
+patrimoni liqu capital social reserv capital reserv reavali reserv lucr lucr prejuiz acumul
+
+
+indic
+
+
+
+quocient liquidez
+
+
+
+
+
+
+
+
+
+corrent ativ circulant
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+
+sec ativ circulant estoqu
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz excetuandos estoqu empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz sem incert conversa estoqu tamb nest indic ocorr problem praz conversa ativ passiv
+
+
+
+
+geral ativ circulant realiz long praz
+
+
+
+
+passiv circulant exig long praz
+
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+
+quocient endivid
+
+
+
+
+
+
+
+
+
+particip capital exig total
+
+
+
+
+terceir srecurs tot exig total patrimoni liqu
+
+
+
+
+
+objet indic porcentag endivid represent sobr fund tot
+
+
+
+interpret long praz porcentag capit terceir dev grand aument progressiv despes financeir prejudic rentabil empres dev compar tax retorn obtid gir ativ recurs tom emprestim
+
+
+
+
+capit terceir exig total
+
+
+
+
+relaca capital propri patrimoni liqu
+
+
+
+
+
+objet indic quant exig total pod cobert capital propri
+
+
+
+interpret vari anos quocient acentuad maior indic dependencia exager recurs terceir ist pod lev empres situaca insustent caix
+
+
+demonstr result exercici
+
+
+result exercici absorv prejuiz acumul qualqu particip lei
+
+
+houv distribuica result diretor empreg provenient aplic rend jur desacord lei
+
+
+cas empres apresent prejuiz adicional avali caus preponderant
+
+
+examin tendenc empres ultim tres exercici quant result operacion liqu lucr operacional lucr liqu
+
+
+demonstr origens aplic recurs
+
+
+demonstr elabor mold lei
+
+
+procedente origens aplic recurs compativ objet social empres
+
+
+mutaca patrimoni liqu
+
+
+atend dispost paragraf unic lei
+
+
+demonstrat composica acion capital social
+
+
+cont demonstrat composica acion capital social indic princip acion respect percentu particip
+
+
+not explicat
+
+
+observanc dispost lei
+
+
+invest outr sociedad cas particip empres priv respaldams autoriz legislat cf xx
+
+
+encarg financeir relat emprest compativ pratic merc financeir tax pel bacen rentabil empres
+
+
+cas emissa debentur eventual conversa mesm aca afet control acionari unia
+
+
+aplic financeir registr ativ circulant atend determin dl
+
+
+verific aind const prest cont entidad acord vii xi in
+
+
+parec orga intern entidad dev pronunciars sobr cont consoant previst atos constitut
+
+
+parec auditor independent
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+aplicams coub disposica cont nest manual empres encamp intervenca qualqu mod venh integr provisor permanent patrimoni unia outr entidad public federal
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+orga entidad arrecad gerenc contribuica parafisc in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord alter pel in i in quand cabiv
+
+
+dirigent maxim
+
+
+membr orga colegi respons atos gesta defin lei regul estatut
+
+
+membr conselh administr deliberat curador fiscal
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca projet trabalh execuca avali program govern mei cumpriment met fix indic desempenh utiliz esclarec cas sobr caus inviabiliz alcanc result esper par program
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel orga
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+transferente recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet previst send hipotes lei dev const aind inform sobr providente adot par dev regulariz cad cas inclusiv sobr instaur correspondent tom cont especial pen responsabil solid in
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc orga entidad
+
+
+atos gesta ilegit antieconom result dan erari prejudic desempenh aca administrat indic qua providente adot
+
+
+transferente receb recurs mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet colim
+
+
+regular process licitatori atos relat dispens inexigibil licit bem contrat
+
+
+result gesta quant eficac eficiente
+
+
+cumpriment pel orga determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process pcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv in
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+
+despes realiz
+
+
+
+
+x
+
+
+
+
+despes autoriz
+
+
+
+
+
+objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor quand houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+indic receit propr
+
+
+
+
+receit corrent capital transf cor capital
+
+
+
+
+x
+
+
+
+
+
+receit corrent capital transf receb
+
+
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+
+indic autosuficiente receit propr
+
+
+
+
+receit cor capital transf corrent capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes outr
+
+
+natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+indic inscrica rest pag
+
+
+
+
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+verific aind const prest cont acord vii xi in
+
+
+parec orga intern entidad dev pronunciars sobr cont consoant previst atos constitut
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+par conselh fiscaliz exercici profissional certific relatori auditor bem parec dirigent orga control intern ref iii x in substitu relatori parec auditor emit pel orga control cont minim element enumer iii conform dispus norm respect conselh feder in
+
+
+par conselh fiscaliz exercici profissional pronunci refer xi substitu colegi competent manifest conclus sobr cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fund constitucion invest in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer in constant formulari exam prelimin
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim orga entidad supervisor
+
+
+dirigent maxim banc oper
+
+
+membr orga colegi respons atos gesta defin lei regul estatut
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+relatori gesta orga supervisor
+
+
+
+verific relatori gesta dirigent orga entidad supervisor destac seguint element relacion ii in
+
+
+result acompanh fiscaliz avali projet financi
+
+
+demonstrat express situaca projet instituica benefici renunc receit
+
+
+impact socioeconom oper
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta banc oper
+
+
+relatori gesta dirigent maxim banc oper dev avali confront relatori gesta dirigent orga entidad supervisor
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iv in
+
+
+cumpriment norm leg regulament tecnic administrat relat aprov fiscaliz execuca control projet
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc fund
+
+
+atos gesta ilegit antieconom result dan fund prejudic desempenh aca administrat cumpriment program trabalh indic providente adot
+
+
+result gesta quant eficac eficiente
+
+
+manifest quant cumpriment pel orga entidad determin exped est tribunal exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman tribunal process pcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+demonstr financeir contab trat v in dev apresent conform dispost lei quand trat fund adot sistemat nel cont form lei quand segu sistemat lei sociedad anonim dev examin pec abaix relacion vist verific exatida
+
+
+fund adot sistemat lei verific
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+
+despes realiz
+
+
+
+
+x
+
+
+
+
+despes autoriz
+
+
+
+
+
+objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor quand houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+indic receit propr
+
+
+
+
+receit corrent capital transf cor capital
+
+
+
+
+x
+
+
+
+
+receit corrent capital transf receb
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+indic autosuficiente receit propr
+
+
+
+
+
+receit cor capital transf corrent capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes outr natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentams maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+indic inscrica rest pag
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas sej evidenci substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+fund adot sistemat lei verific
+
+
+balanc patrimonial
+
+
+corret classific cont segund conceitu estabelec lei
+
+
+princip cont ativ term sald compativ final fund
+
+
+cont mais significat passiv circulant exig long praz compativ final fund
+
+
+indic
+
+quocient liquidez
+
+
+
+
+
+corrent ativ circulant
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+
+sec ativ circulant estoqu
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz excetuandos estoqu empres dispo par sald cad unidad monet div curt praz
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz sem incert conversa estoqu tamb nest indic ocorr problem praz conversa ativ passiv
+
+
+
+
+geral ativ circulant realiz long praz
+
+
+
+
+passiv circulant exig long praz
+
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+quocient endivid
+
+
+
+
+
+particip capital exig total
+
+
+
+
+terceir srecurs tot exig total patrimoni liqu
+
+
+
+
+
+objet indic porcentag endivid represent sobr fund tot
+
+
+
+interpret long praz porcentag capit terceir dev grand aument progressiv despes financeir prejudic rentabil empres dev compar tax retorn obtid gir ativ recurs tom emprestim
+
+
+
+
+
+
+
+
+capit terceir exig total
+
+
+
+
+relaca capital propri patrimoni liqu
+
+
+
+
+
+objet indic quant exig total pod cobert capital propri
+
+
+
+interpret vari anos quocient acentuad maior indic dependencia exager recurs terceir ist pod lev empres situaca insustent caix
+
+
+demonstr result exercici
+
+
+result exercici absorv prejuiz acumul qualqu particip lei
+
+
+cas fund apresent prejuiz adicional avali caus preponderant
+
+
+avali despes financeir cotej outr despes
+
+
+mutaca patrimoni liqu
+
+
+atend dispost paragraf unic lei
+
+
+demonstr origens aplic recurs
+
+
+demonstr elabor mold lei
+
+
+procedente origens aplic recurs compativ objet social fund
+
+
+not explicat
+
+
+observanc dispost lei
+
+
+aplic financeir registr ativ circulant atend determin dl
+
+
+verific aind const prest cont fund acord vi ix in
+
+
+parec auditor independent houv
+
+
+parec orga intern entidad dev pronunciars sobr cont consoant previst atos constitut
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr fund in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer pel in constant formulari exam prelimin
+
+
+propor restituica process b orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim
+
+
+membr conselh administrat deliberat curador fiscal
+
+
+membr colegi orga entidad gestor
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca program trabalh execuca avali program govern mei cumpriment met fix indic desempenh utiliz esclarec cas sobr caus inviabiliz alcanc result esper par program
+
+
+impact socioeconom oper
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc objet colim
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc fund
+
+
+atos gesta ilegit antieconom result dan fund prejudic desempenh aca administrat cumpriment program trabalh indic providente adot
+
+
+result gesta quant eficac eficiente
+
+
+cumpriment pel orga entidad determin exped pel tribunal cont unia exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz tend vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process pcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+demonstr financeir contab trat iv in dev apresent conform dispost lei quand trat fund adot sistemat nel cont form lei quand segu sistemat lei sociedad anonim dev examin pec abaix relacion vist verific exatida
+
+
+fund adot sistemat lei verific
+
+
+balanc orcamentari soment par unidad orcament
+
+
+valor receit previst igual despes fix
+
+
+valor receit previst maior igual receit execut
+
+
+valor despes fix maior igual despes execut
+
+
+valor correspondent subtot receit execut despes execut igu somatori receit despes corrent capital balanc financeir
+
+
+indic utiliz orcament
+
+
+
+
+despes realiz
+
+
+
+
+x
+
+
+
+
+despes autoriz
+
+
+
+
+
+objet avali orcament ugent elabor form adequ sem superdimension gast
+
+
+
+indic percentual orcament liqu dotaca autoriz destaqu provisa efetiv utiliz
+
+
+
+interpret quant maior melhor quand houv econom realiz despes
+
+
+
+observ dev avali conjunt indic inscrica rest pag rest pag inscrit pag
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+indic receit propr
+
+
+
+
+receit corrent capital transf cor capital
+
+
+
+
+x
+
+
+
+
+receit corrent capital transf receb
+
+
+
+
+
+objet avali particip receit propr moviment financeir exercici
+
+
+
+indic percentual ingress financeir independent transferente governament
+
+
+
+interpret quant maior melhor
+
+
+indic autosuficiente receit propr
+
+
+
+
+receit cor capital transf corrent capital
+
+
+
+
+x
+
+
+
+
+despes corrent despes capital
+
+
+
+
+
+objet avali nivel despes unidadeent pod mant independent receb transferente governament
+
+
+
+indic percentual despes pag recurs propri
+
+
+
+interpret quant maior melhor
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes dem natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+indic inscrica rest pag
+
+
+
+
+
+
+
+
+rest pag inscrit process process
+
+
+
+
+x
+
+
+
+
+despes realiz
+
+
+
+
+
+objet avali credit orcamentari send utiliz exercici competente
+
+
+
+indic percentual despes realiz inscrit rest pag process
+
+
+
+interpret quant menor melhor
+
+
+
+observ dev avali conjunt indic rest pag inscrit pag despes apropri sem disponibil financeir
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+fund adot sistemat lei verific
+
+
+balanc patrimonial
+
+
+corret classific cont segund conceitu estabelec lei
+
+
+princip cont ativ term sald compativ final fund
+
+
+cont mais significat passiv circulant exig long praz compativ final fund
+
+
+indic
+
+
+
+quocient liquidez
+
+
+
+
+
+
+
+
+
+corrent ativ circulant
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+sec ativ circulant estoqu
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz excetuandos estoqu empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz sem incert conversa estoqu tamb nest indic ocorr problem praz conversa ativ passiv
+
+
+
+
+geral ativ circulant realiz long praz
+
+
+
+
+passiv circulant exig long praz
+
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+quocient endivid
+
+
+
+
+
+
+
+
+
+particip capital exig total
+
+
+
+
+terceir srecurs tot exig total patrimoni liqu
+
+
+
+
+
+objet indic porcentag endivid represent sobr fund tot
+
+
+
+interpret long praz porcentag capit terceir dev grand aument progressiv despes financeir prejudic rentabil empres dev compar tax retorn obtid gir ativ recurs tom emprestim
+
+
+
+
+capit terceir exig total
+
+
+
+
+relaca capital propri patrimoni liqu
+
+
+
+
+
+objet indic quant exig total pod cobert capital propri
+
+
+
+interpret vari anos quocient acentuad maior indic dependencia exager recurs terceir ist pod lev empres situaca insustent caix
+
+
+demonstr result exercici
+
+
+result exercici absorv prejuiz acumul qualqu particip lei
+
+
+cas fund apresent prejuiz adicional avali caus preponderant
+
+
+avali despes financeir cotej outr despes
+
+
+demonstr mutaca patrimoni liqu
+
+
+atend dispost paragraf unic lei
+
+
+demonstr origens aplic recurs
+
+
+demonstr elabor mold lei
+
+
+procedente origens aplic recurs compativ objet social fund
+
+
+not explicat
+
+
+observanc dispost lei
+
+
+aplic financeir porventur existent ativ circulant atend determin dl
+
+
+verific aind const prest cont fund acord v vii in
+
+
+parec auditor independent quand coub
+
+
+parec orga dev pronunciars sobr cont consoant previst atos constitut
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+entidad administr contrat gesta eou in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer eou in constant formulari exam prelimin
+
+
+propor restituica process b orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeca cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+cont orga entidad administr contrat gesta firm administr public federal dev cont seguint element alem daquel exig in coub lei regul constitut
+
+
+relatori anual gestor respons indic estatist permit avali quantitat qualitat desempenh cumpriment met pactu inclusiv cas quant lucrativ valor agreg sobr capital invest utiliz sempr possivel indic desempenh compativ padra internacion
+
+
+relatori auditor orga control intern competent titul propri manifest quant result alcanc confront indic gesta fix contrat bem sobr met pactu efetiv realiz
+
+
+parec dirigent orga respons pel control empres estat sobr result apreci supervisa compet
+
+
+ocorr celebr contrat gesta entr orga entidad administr public federal instituica alcanc pel disposica in prest cont contrat dev tribunal cont unia dev cont seguint pec alem daquel previst item
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim
+
+
+membr diretor
+
+
+membr colegi orga entidad gestor
+
+
+verific const rol seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in
+
+
+execuca program trabalh esclarec cas sobr caus inviabiliz plen cumpriment met estabelec
+
+
+indic gesta permit afer eficiente eficac economic aca administrat levandos cont result quantitat qualitat alcanc pel instituica
+
+
+med implement vist saneament eventu disfunca estrutur prejudic inviabiliz alcanc met fix
+
+
+
+
+
+
+
+
+
+
+
+
+relatori certific auditor
+
+
+verific relatori auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+desempenh entidad confront met pactu
+
+
+falh irregular ilegal constat indic providente adot
+
+
+irregular ilegal result prejuiz indic med implement vist pront ressarc entidad
+
+
+atos gesta ilegit antieconom result dan entidad prejudic desempenh aca administrat cumpriment program trabalh indic med implement
+
+
+manifest quant result alcanc confront indic gesta fix contrat bem sobr met pactu efetiv adot
+
+
+result gesta quant eficiente eficac
+
+
+cumpriment pel orgaoent determin exped est tribunal par exercici referente
+
+
+transferente receb recurs public feder mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica destac dentr outr aspect observanc norm leg regulament pertinent corret aplic recurs ating objet colim
+
+
+regular process licitatori atos relat contrat diret sem licit bem contrat
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+falhasirregular apont devid caracteriz vist legislacion aplic evidenci document constant aut
+
+
+falhasirregular objet determin anterior profer process cont reincident
+
+
+exist registr outr ocorrente poss afet cont restrica contab inobservanc disposit leg regulament despes impugn eou classific regulariz encerr exercici
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falhasirregular
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process pcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific demonstr financeir contab trat iv in
+
+
+balanc patrimonial
+
+
+corret classific cont segund conceitu estabelec lei
+
+
+princip cont ativ term sald compativ ativ entidad
+
+
+cont mais significat passiv circulant exig long praz compativ ativ entidad
+
+
+indic
+
+
+
+quocient liquidez
+
+
+
+
+
+corrent ativ circulant
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz empres dispo par sald cad unidad monet div curt praz
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+
+sec ativ circulant estoqu
+
+
+
+
+passiv circulant
+
+
+
+
+
+objet relacion quant unidad monet disponiv conversiv curt praz excetuandos estoqu empres dispo par sald cad unidad monet div curt praz
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz sem incert conversa estoqu tamb nest indic ocorr problem praz conversa ativ passiv
+
+
+
+
+
+
+
+
+geral ativ circulant realiz long praz
+
+
+
+
+passiv circulant exig long praz
+
+
+
+
+
+interpret maior igual indic empres pod sald tod div curt praz recurs disponiv conversiv curt praz embor sej indic muit divulg deves cuid utiliz vist praz conversa ativ pod diferent venciment passiv
+
+
+
+quocient endivid
+
+
+
+
+
+
+
+
+
+particip capital exig total
+
+
+
+
+terceir srecurs tot exig total patrimoni liqu
+
+
+
+
+
+objet indic porcentag endivid represent sobr fund tot
+
+
+
+interpret long praz porcentag capit terceir dev grand aument progressiv despes financeir prejudic rentabil empres dev compar tax retorn obtid gir ativ recurs tom emprestim
+
+
+
+
+capit terceir exig total
+
+
+
+
+relaca capital propri patrimoni liqu
+
+
+
+
+
+objet indic quant exig total pod cobert capital propri
+
+
+
+interpret vari anos quocient acentuad maior indic dependencia exager recurs terceir ist pod lev empres situaca insustent caix
+
+
+demonstr result exercici
+
+
+result exercici absorv prejuiz acumul qualqu particip lei
+
+
+houv distribuica result diretor empreg provenient aplic rend jur desacord lei
+
+
+cas entidad apresent prejuiz adicional avali caus preponderant
+
+
+avali despes financeir cotej outr despes eexamin tendenc entidad ultim tres exercici quant result operacion liqu lucr operacional lucr liqu
+
+
+demonstr origens aplic recurs
+
+
+demonstr elabor mold lei
+
+
+demonstr mutaca patrimoni liqu
+
+
+atend dispost paragraf unic lei
+
+
+not explicat
+
+
+observanc dispost lei
+
+
+aplic financeir registr ativ circulant atend determin decret lei
+
+
+verific aind const prest cont instituica administr contrat gesta acord v ix in
+
+
+parec auditor independent houv
+
+
+parec orga intern entidad dev pronunciars sobr cont consoant previst atos constitut
+
+
+declar express respect unidad pessoal respons arrol cont dia exigente apresent declar bens rend trat lei
+
+
+parec dirigent orga control intern competent
+
+
+pronunci express ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+entidad qualific organiz social aplic exigente balanc demonstrat contab declar bens rend pessoal trat lei cab entant apresent
+
+
+parec dirigent maxim orga entidad supervisor contrat gesta sobr result apreci supervisa
+
+
+relatori conclus comissa avali sobr result ating execuca contrat gesta
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process simplific cont orga administr diret autarqu fundaca orgaosent gerenc contribuica parafisc in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer pel in constant formulari exam prelimin
+
+
+verific identific process pel control intern consign expedient encaminh term process simplific conform estabelec in
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeco cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+verific process cont est organiz form simplific quand
+
+
+despes realiz exercici referente englob tod font recurs ultrapass limit anual fix pel tribunal mediant decisa normat conform in par exercici limit r milha dn
+
+
+enquadr cas excludent par organiz form simplific acord in
+
+
+tenh receb certific irregular orga control intern
+
+
+tocant cont exercici anterior houv sid julg irregul cas aind julg tenh receb certific irregular orga control intern
+
+
+envolv recurs destin cust pagament despes natur sigil
+
+
+compreend administr contrat gesta
+
+
+tenh sid objet especif deliber contrari tribunal
+
+
+estej pendent atend determin exped est tribunal par exercici referente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+administr diret
+
+
+orden despes
+
+
+orden restituica receit houv
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+encarreg almoxarif material estoqu
+
+
+encarreg deposit mercador bens apreend houv
+
+
+autarqu fundaca
+
+
+dirigent maxim
+
+
+membr orga colegi respons atos gesta defin lei regul estatut
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+encarreg almoxarif material estoqu
+
+
+encarreg deposit mercador bens apreend houv
+
+
+entidad arrecad gerenci contribuica parafisc
+
+
+dirigent maxim
+
+
+membr orga colegi respons atos gesta defin lei regul estatut
+
+
+encarreg setor financeir outr corespons atos gesta
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in conform cas
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori sintet certific auditor
+
+
+verific relatori sintet auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+total despes realiz
+
+
+sinops falh detect indic med saneador adot
+
+
+cumpriment pel orga entidad determin exped pel tribunal cont unia exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falh
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process tcpcr outr
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific
+
+
+balanc financeir
+
+
+valor fornecedor rest pag process confer sald correspondent balanc patrimonial
+
+
+valor disponibil par period seguint correspond sald dispon balanc patrimonial
+
+
+exist valor titul outr ingress indic desequilibri receit outr dispendi indic desequilibri despes contabiliz quand registr indev cont financeir financeir
+
+
+balanc patrimonial
+
+
+relaca igualdad sald entr ativ passiv inclusiv entr cont compens
+
+
+sald ativ real passiv real correspond b som ativ financeir ativ financeir passiv financeir passiv financeir respectiv
+
+
+exist cont sinal negat indic inversa sald excet cont retific result period
+
+
+exist cont transitor pod apresent sald final exercici representat execuca orcament receit despes dem natur dev apresent sald zer final exercici despes receit classific
+
+
+sald divers respons apresentas maior igual sald despes classific cas est ultim exist
+
+
+exclu ativ passiv financeir sald estoqu outr realiz financeir par permit indev suplement orcament tend bas sald
+
+
+demonstr variaca patrimoni
+
+
+valor registr receit despes mant relaca igualdad registr correspondent balanc financeir orcamentari
+
+
+valor superavit deficit correspond sald result period balanc patrimonial
+
+
+cas evidenc substancial uso receit corrent despes capital receit capital despes corrent respectiv justific aut motiv capitaliz descapitaliz excess
+
+
+sald elev desincorpor ativ incorpor passiv devid esclarec relatori gestor eou auditor
+
+
+verific aind const acord v vi in
+
+
+certific auditor parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+tom cont apresent form consolid
+
+
+alem condica descrit itens anterior verific tom cont apresent form consolid
+
+
+const rol respons dad respons tod ugs consolid term i in tcu cc i decisa normat
+
+
+pec compo process const inform exig decisa normat
+
+
+ug consolid demand adoca med prelimin
+
+
+exist process denunc represent auditor inspeca outr relat exercici exam referent ug consolid
+
+
+cas sej constat qualqu duas ultim ocorrente dev constitu apart send cont daquel ug instru separ pel unidad tecnic cuj clientel mesm fiz part
+
+
+process original tom cont apresent form consolid continu tramit normal
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process simplific cont empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal in tcu
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin formaliz process
+
+
+verific aut constitu tod pec enumer pel in constant formulari exam prelimin
+
+
+verific identific process pel control intern consign expedient encaminh term process simplific conform estabelec in
+
+
+propor restituica process orig par fins complement quand verific ausenc pec exig
+
+
+
+
+
+
+
+
+
+
+
+
+element necessari exam process
+
+
+reun par analis conjunt
+
+
+process prest cont exercici anterior anterior quand necessari
+
+
+relatori auditoriainspeco cas exist verific apont falh eou irregular comparando dad disponiv process cont providente adot fac confront realiz
+
+
+dem process conex cont
+
+
+
+
+
+
+
+
+
+
+
+
+exam process
+
+
+verific process cont est organiz form simplific quand
+
+
+despes realiz exercici referente englob tod font recurs ultrapass limit anual fix pel tribunal mediant decisa normat conform in
+
+
+enquadr cas excludent par organiz form simplific acord in
+
+
+tenh receb certific irregular orga control intern
+
+
+tocant cont exercici anterior houv sid julg irregul cas aind julg tenh receb certific irregular orga control intern
+
+
+envolv recurs destin cust pagament despes natur sigil
+
+
+compreend administr contrat gesta
+
+
+tenh sid objet especif deliber contrari tribunal
+
+
+
+
+
+
+
+
+
+
+
+
+rol respons
+
+
+verific arrol seguint respons acord i in
+
+
+dirigent maxim
+
+
+membr diretor
+
+
+membr conselh administr deliberat curador fiscal
+
+
+verific const rol respons seguint element conform in
+
+
+nom cpf respons substitut
+
+
+carg funca exerc
+
+
+indic period gesta
+
+
+atos nomeaca design exoner
+
+
+enderec residenci
+
+
+verific aind period sem definica responsabil
+
+
+cas constat ausenc qualqu element relacion
+
+
+verific possibil obtenca siaf
+
+
+verific possibil obtenca via contat telefon orga control intern
+
+
+avali necess realiz diligente dev aca propost ultim cas
+
+
+propor determin par correca falh proxim cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta
+
+
+verific relatori gesta destac seguint element relacion ii in conform cas
+
+
+assinal outr inform julg relevant par exam merit cont
+
+
+
+
+
+
+
+
+
+
+
+
+relatori sintet certific auditor
+
+
+verific relatori sintet auditor cont titul especif analis avali relat seguint aspect relacion iii in
+
+
+total despes realiz representativ calcul form indic in
+
+
+sinops falh detect indic med saneador adot
+
+
+cumpriment pel orga entidad determin exped pel tribunal cont unia exercici referente
+
+
+justificat apresent pel respons sobr irregular apont
+
+
+verific aind
+
+
+dad relat compativ dem element constant process
+
+
+providente adot suficient adequ par correca falh
+
+
+pronunci control intern quant cumpriment determin eman pel tribunal process tcpcr outr
+
+
+examin certific auditor est consentane teor respect relatori cas estej efetu diligente junt control intern par obter esclarec
+
+
+
+
+
+
+
+
+
+
+
+
+demonstr financeir contab
+
+
+verific
+
+
+balanc patrimonial
+
+
+corret classific cont segund conceitu estabelec lei
+
+
+princip cont ativ term sald compativ ativ entidad
+
+
+cont mais significat passiv circulant exig long praz compativ ativ entidad
+
+
+demonstr result exercici
+
+
+result exercici absorv prejuiz acumul qualqu particip lei
+
+
+cas empres apresent prejuiz adicional avali caus preponderant
+
+
+demonstr origens aplic recurs
+
+
+demonstr elabor mold lei
+
+
+procedente origens aplic recurs compativ objet social empres
+
+
+mutaca patrimoni liqu
+
+
+atend dispost paragraf unic lei
+
+
+demonstrat composica acion capital social
+
+
+cont demonstrat composica acion capital social indic princip acion respect percentu particip
+
+
+not explicat
+
+
+observanc dispost lei
+
+
+encarg financeir relat emprest compativ pratic merc financeir tax pel bacen rentabil empres
+
+
+aplic financeir registr ativ circulant atend determin decret lei
+
+
+verific aind const acord v vi in
+
+
+certific auditor parec dirigent orga control intern competent
+
+
+pronunci express indeleg ministr estad autor nivel hierarqu equivalent sobr cont parec control intern atest hav tom conhec conclusa nel cont
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+item especif final dest manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+instruca process
+
+
+p
+
+
+
+ara instruca process simplific dev utiliz model formulari propri levandos consider propost formul estagi encontr analis acord quadr segu fluxogram simplific proced tom prest cont inici dest manual pod utiliz instrument facilit nest fas par instruca process simplific dev utiliz formulari
+
+
+propost
+
+analis
+
+formulari
+
+situaca
+
+diligenciainspeca
+
+instruca inicial
+
+
+
+
+
+diligente
+
+
+
+
+
+audienc
+
+instruca inicial
+
+
+
+
+
+diligente
+
+
+
+
+
+citaca
+
+instruca inicial
+
+
+
+
+
+diligente
+
+
+
+
+
+julgament regul
+
+regul ressalv
+
+instruca inicial
+
+
+
+
+
+diligente
+
+
+
+
+
+audienc
+
+
+
+
+
+citaca
+
+
+
+
+
+cientific
+
+citaca defes rejeit verific boaf inexistente outr irregular
+
+
+
+
+
+audienc
+
+
+
+
+
+julgament irregul
+
+citaca revel
+
+
+
+
+
+citaca recolh
+
+
+
+
+
+cientific
+
+
+
+
+
+aplic mult
+
+
+
+
+
+atend diligente
+
+
+
+
+
+sobrest
+
+
+
+instruca inicial
+
+
+
+
+
+diligente
+
+
+
+
+
+iliquid
+
+diligente
+
+
+
+
+
+
+
+julgament relaca pel regular regular ressalv
+
+retir difer
+
+
+
+
+tabel aplic formulari propost
+
+
+ressaltes seguint pont quand preenchiment formulari
+
+
+expressa entr parentes indic possibil inclusa outr text funca situacaoo encontr cas utiliz dev delet
+
+
+formulari elabor prevendos divers situaca encontr cad fas instruca iss situaca respect opca amold cas analis dev delet
+
+
+expressa indic orient preenchiment exempl situaca tamb dev delet quand instruca
+
+
+criteri anal pod adapt dois mais model formulari cas situaca mist verific citaca audienc vari respons tais
+
+
+revel atend outr
+
+
+aleg defes raza justificat rejeit outr acolh
+
+
+tempestiv atend part intempestiv outr
+
+
+preliminar proposica merit cont pod realiz
+
+
+par saneament process
+
+
+diligente solicit escrit esclarec inform document feit orga entidad jurisdicion tcu
+
+
+inspeca exam realiz in loc par supr omissa lacun esclarec duv quand diligente adequ suficient
+
+
+audienc expedient dirig respons par apresent dentr praz fix raza justificat cas ocorrente irregular sem debit iii lei
+
+
+citaca expedient dirig respons par apresent dentr praz fix aleg defes cas ocorrente irregular debit quantific ii lei
+
+
+sobrest suspensa apreci merit quand exist fat relevant outr process andament cuj desfech poss afet merit cont analis
+
+
+agil analis tramit process important portant
+
+
+prescind audienciadiligenciainspeca falh natur formal alter merit cont
+
+
+proposica regular regular ressalv dev sempr possivel formul diret independent outr formal
+
+
+dev realiz citaca audienc notific edital public diari oficial unia quand destinatari localiz recus apor assinatur respect expedient iii lei consideras localiz conform paragraf unic tcu destinatari
+
+
+estiv lug ignor incert inacess
+
+
+correi inform avis receb maos propr armp localiz embor tenh procur tres enderec indic
+
+
+hipotes sid anex tom prest cont tom cont especi elabor consoant dispost in julgament realiz conjunt
+
+
+
+
+
+
+
+
+
+
+
+
+propost merit
+
+
+quand cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta dev propost julgament pel regular quitaca plen respons i lei
+
+
+quand cont evidenci impropriedad qualqu outr falt natur formal result dan erari dev propost julgament pel regular ressalv dandos quitaca respons determinandolh adoca med necess correca impropriedad falt identific mod preven ocorrente outr semelhant ii lei
+
+
+quand cont evidenci qualqu ocorrente abaix relacion dev propost julgament pel irregular iii lei
+
+
+omissa dev prest cont
+
+
+pratic ato gesta ilegal ilegitim antieconom infraca norm legal regulament natur contabil financeir orcament operacional patrimonial
+
+
+dan erari decorrent ato gesta ilegitim antieconom
+
+
+desfalqu desvi dinheir bens valor public
+
+
+comprov existente debit adot proced constant formulari dev propost cas conden respons pagament div atualiz monetari acresc jur mor dev pod aind propost aplic mult previst lei lei
+
+
+hav debit comprov qualqu ocorrente previst b c iii adot proced constant formulari dev propost cas aplic respons mult previst i lei paragraf unic lei
+
+
+atent par fat embor cont administr respons sej formaliz mediant unic process propost merit dev referirs atos pratic cad respons individual
+
+
+quand julgament merit imposs funca cas fortuit forc maior comprovad alhei vontad respons dev propost cont sej consider iliquid lei
+
+
+pod formul aind conform cas seguint propost dentr outr
+
+
+infraca comet grav respons sej declar inabilit par exerc carg comissa funca confianc ambit administr public federal lei
+
+
+cas ilegal fraud licit contrat particip licitant contrat audienc empres vist declar inidon mesm lei
+
+
+cas infraca civil penal tribunal conhec ministeri public unia lei
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari par instruca
+
+
+
+
+
+
+
+
+est capitul apresent dez formulari utiliz par instruca process ond aplic enquadrarse propost explic tabel capitul formulari
+
+
+
+
+
+exam prelimin
+
+
+formulari instruca par process simplific
+
+
+formulari instruca inicial
+
+
+formulari instruca diligente
+
+
+formulari instruca audienc
+
+
+formulari instruca citaca revel
+
+
+formulari instruca citaca defes rejeit
+
+
+formulari instruca citaca comrecolh debit acolh
+
+
+formulari instruca cientific nov praz par recolh
+
+
+formulari instruca retir difer final praz legal
+
+
+
+
+
+segu apresent formulari acim mencion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+constituica tom cont pod legislat judiciari tribunal cont unia ministeri public unia advocaciageral unia defensor public unia distrit federal territori
+
+
+
+orga
+
+
+
+
+
+
+
+
+
+tom cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+balanc demonstrat orcamentari
+
+
+
+f balanc financeir
+
+
+
+g balanc patrimonial
+
+
+
+h demonstr variaca patrimoni
+
+
+
+i declar unidad pessoal sobr declar bens rend
+
+
+
+j parec dirigent orga control intern
+
+
+
+l pronunci express autor maxim orga
+
+
+
+
+
+
+
+situaca
+
+tom cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent tom cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec unidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+constituica tom cont unidad administr diret integrant pod execut
+
+
+
+orga
+
+
+
+
+
+
+
+tom cont
+
+exercici
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+balanc demonstrat orcamentari
+
+
+
+f balanc financeir
+
+
+
+g balanc patrimonial
+
+
+
+h demonstrat variaca patrimoni
+
+
+
+j manifest unidad pessoal relativ declar bens rend
+
+
+
+j parec dirigent control intern
+
+
+
+l pronunci express ministr estad autor equivalent
+
+
+
+m demonstrat pagament efetu despes natur sigil cas tom cont recurs natur sigil
+
+
+
+
+
+situaca
+
+tom cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent tom cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec unidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+localdat
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+constituica prest cont autarqu fundaca
+
+
+
+entidad
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+balanc orcamentari
+
+
+
+f balanc financeir
+
+
+
+g balanc patrimonial
+
+
+
+h demonstrat variaca patrimoni
+
+
+
+i parec orga intern entidad dev pronunciars sobr cont cf atos constitut
+
+
+
+j manifest unidad pessoal relativ declar bens rend
+
+
+
+l parec dirigent control intern
+
+
+
+m pronunci express ministr estad autor equivalent
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+localdat
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica prest cont empres public sociedad econom mist dem empres control diret indiret pel unia empres encamp intervenca federal
+
+
+
+
+
+entidad
+
+
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+balanc patrimonial
+
+
+
+f demonstr result exercici
+
+
+
+g demonstrat origens aplic recurs
+
+
+
+h demonstrat mutaca patrimoni liqu
+
+
+
+i demonstrat composica acion
+
+
+
+j parec orga intern dev pronunciars sobr cont cf atos constitut
+
+
+
+l parec auditor independent
+
+
+
+m manifest unidad pessoal relativ declar bens rend
+
+
+
+parec dirigent control intern
+
+
+
+pronunci express ministr estad autor equivalent
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+constituica prest cont orga entidad arrecad gerenc contribuica parafisc
+
+
+
+entidad
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+balanc demonstrat orcamentari
+
+
+
+f balanc financeir
+
+
+
+g balanc patrimonial
+
+
+
+h demonstr variaca patrimoni
+
+
+
+i parec orga intern orgaoent dev pronunciars sobr cont cf atos constitut
+
+
+
+j manifest unidad pessoal relativ declar bens rend
+
+
+
+l parec dirigent control intern
+
+
+
+m pronunci express ministr estad autor equivalent
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica tom prest cont fund constitucion invest
+
+
+
+
+
+orgaoent
+
+
+
+
+
+
+
+
+
+tom cont prest cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta dirigent orga entidad supervisor
+
+
+
+c relatori gesta dirigent banc oper
+
+
+
+d relatori auditor control intern
+
+
+
+certific auditor control intern
+
+
+
+f demonstr financeir contab
+
+
+
+g parec auditor independent houv
+
+
+
+h parec orga intern dev pronunciars sobr cont cf atos constitut
+
+
+
+i parec dirigent control intern
+
+
+
+j pronunci express ministr estad autor equivalent
+
+
+
+
+
+
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec fund situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica tom prest cont outr fund
+
+
+
+
+
+
+
+orgaoent
+
+
+
+
+
+
+
+
+
+tom cont prest cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta orga entidad gestor
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+demonstr financeir contab
+
+
+
+f parec auditor independent houv
+
+
+
+g parec orga dev pronunciars sobr cont cf atos constitut
+
+
+
+h parec dirigent control intern
+
+
+
+i pronunci express ministr estad autor equivalent
+
+
+
+
+
+
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec fund situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica prest cont entidad priv administr contrat gesta
+
+
+
+
+
+entidad
+
+
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig eou in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+demonstr financeir contab
+
+f parec auditor independent houv
+
+g parec orga intern entidad dev pronunciars sobr cont cf atos constitut
+
+
+
+h manifest unidad pessoal relativ declar bens rend
+
+i parec dirigent control intern
+
+
+
+j pronunci ministr estad autor equivalent
+
+
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+constituica prest cont entidad priv administr contrat gesta
+
+
+
+entidad
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+pec exig eou in
+
+localiz fls
+
+rol respons
+
+
+
+b relatori gesta
+
+
+
+c relatori auditor control intern
+
+
+
+d certific auditor control intern
+
+
+
+demonstr financeir contab
+
+f parec auditor independent houv
+
+g parec orga intern entidad dev pronunciars sobr cont cf atos constitut
+
+
+
+h manifest unidad pessoal relativ declar bens rend
+
+i parec dirigent control intern
+
+
+
+j pronunci ministr estad autor equivalent
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica tom prest cont orga administr diret autarqu fundaca entidad arrecad gerenc contribuica parafisc organiz form simplific
+
+
+
+
+
+orgaoent
+
+
+
+
+
+
+
+
+
+tom cont prest cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b balanc demonstrat orcamentari
+
+
+
+c balanc financeir
+
+
+
+d balanc patrimonial
+
+
+
+demonstr variaca patrimoni
+
+
+
+f relatori gesta
+
+
+
+g relatori sintet auditor
+
+
+
+h certific auditor control intern
+
+
+
+i pronunci express ministr estad autor equivalent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+situaca
+
+tom contasprest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent tom cont prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec unidadeent situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exam prelimin
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+exam prelimin
+
+
+
+
+
+constituica prest cont empres public sociedad econom mist dem empres control diret indiret pel unia organiz form simplific
+
+
+
+
+
+entidad
+
+
+
+
+
+
+
+
+
+prest cont
+
+exercici
+
+
+
+
+
+
+
+
+
+pec exig in
+
+localiz fls
+
+rol respons
+
+
+
+b balanc patrimonial
+
+
+
+c demonstr result exercici
+
+
+
+d demonstr origens aplic recurs
+
+
+
+demonstr mutaca patrimoni liqu
+
+
+
+f demonstr composica acion
+
+
+
+g relatori gesta
+
+
+
+h relatori sintet auditor
+
+
+
+i certific auditor control intern
+
+
+
+j pronunci express ministr estad autor equivalent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+situaca
+
+prest cont est devid constitu pec acim relacion estand condica consider entreg oficial term in
+
+ausent prest cont pec exig pel in enumer subitens dest folh proponh restituica orig par fins complement praz quinz dias cont cienc interess esclarec recus registr protocol permanec entidad situaca omissa dev prest cont consoant dispost refer instruca normat
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb respons pel exam
+
+
+
+
+
+
+
+
+
+
+
+despach secretari
+
+protocoles restituas orig
+
+localdat
+
+
+
+
+
+
+
+assinaturacarimb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca par process simplific
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca process cont anu organiz form simplific
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+med prelimin
+
+propost merit
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+inform basic
+
+
+
+despes realiz exercici
+
+
+
+
+
+percentual representativ
+
+
+
+
+
+rol respons fls
+
+
+
+
+
+
+
+process conex
+
+
+
+cont exercici anterior tc
+
+
+
+
+
+situaca
+
+aind julg
+
+julg sessa acordaorel
+
+ministr relator
+
+regul regul ressalv
+
+
+
+determin tcu brev relat cas
+
+
+
+
+
+
+
+
+
+
+
+outr process tc
+
+
+
+
+
+natur
+
+
+
+
+
+situaca
+
+aind julgadoapreci
+
+julgadoapreci sessa acordaodecisa
+
+ministr relator
+
+
+
+comentari cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca process cont anu organiz form simplific
+
+
+
+exam cont fls
+
+
+
+proced exam cont conform instruca vigent constatous relatori sintet auditor cont element relacion iv in demonstrat contab constant aut reflet exatida contabil atest parec auditor houv manifest control intern sobr determin tcu exped cont exercici anterior outr process fls cas
+
+parec auditor
+
+
+
+
+
+unidad intern entidad
+
+
+
+
+
+conselhodiretor
+
+aprov
+
+aprov ressalv
+
+auditor control intern
+
+aprov
+
+aprov ressalv
+
+auditor independent
+
+sem ressalv limp
+
+ressalv
+
+control intern
+
+regul
+
+regul ressalv
+
+sinops falh verific houv
+
+
+
+
+
+
+
+
+
+conclusa
+
+
+
+diant expost submet aut consider superior propond
+
+situaca med prelimin
+
+preliminar sej realiz diligente term lei cc paragraf regiment internotcu junt orgaoent par apresent praz dias seguint esclarecimentosinform necessari saneament aut relat subitens dest instruca
+
+
+
+
+
+situaca propost merit
+
+cont sej julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+cont sej julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+localdat
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+acord parec procedas diligente form propost
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari nº instruca inicial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+tribunal cont unia
+
+
+
+instruca inicial process cont anu
+
+par process simplific
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+med prelimin
+
+merit
+
+iliquid
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+valor ger exercici
+
+
+
+cas orga administr diret autarqu fundaca fund outr
+
+
+
+gesta tesour
+
+gesta x
+
+sald exercici anterior
+
+
+
+
+
+receit orcament
+
+
+
+
+
+receit extraorcament
+
+
+
+
+
+despes orcament
+
+
+
+
+
+despes extraorcament
+
+
+
+
+
+sald par exercici seguint
+
+
+
+
+
+total ger
+
+
+
+
+
+indic
+
+
+
+
+
+utiliz orcament
+
+
+
+
+
+inscrica rest pag
+
+
+
+
+
+receit propr
+
+
+
+
+
+autosuficiente receit propr
+
+
+
+
+
+despes diret pessoal
+
+
+
+
+
+cas empres public sociedad econom mist fund outr
+
+
+
+gesta x
+
+gesta y
+
+valor ativ
+
+
+
+
+
+receit
+
+
+
+
+
+despes
+
+
+
+
+
+result exercici
+
+
+
+
+
+total ger
+
+
+
+
+
+indic
+
+
+
+
+
+liquidez
+
+
+
+
+
+corrent
+
+
+
+
+
+sec
+
+
+
+
+
+geral
+
+
+
+
+
+endivid
+
+
+
+
+
+particip capital terceir sobr recurs tot
+
+
+
+
+
+capit terceir relaca capital propri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca inicial process cont anu
+
+par process simplific
+
+
+
+respons fls
+
+
+
+nom
+
+
+
+
+
+cpf
+
+
+
+
+
+carg
+
+
+
+
+
+period
+
+
+
+
+
+nom
+
+
+
+
+
+cpf
+
+
+
+
+
+carg
+
+
+
+
+
+period
+
+
+
+
+
+dem respons arrol fls
+
+
+
+
+
+
+
+process conex
+
+
+
+cont exercici anterior tc
+
+
+
+
+
+situaca
+
+aind julg sobrest iliquid
+
+julg sessa acordaorel
+
+ministr relator
+
+regul regul ressalv
+
+determin tcu brev relat cas
+
+
+
+
+
+
+
+relatori auditor tc
+
+
+
+
+
+situaca
+
+aind apreci
+
+apreci sessa acordaodecisaorel
+
+ministr relator
+
+
+
+determin tcu brev relat cas
+
+
+
+
+
+
+
+outr process tc
+
+
+
+natur
+
+
+
+
+
+situaca
+
+aind julgadoapreci outr providente determin
+
+julgadoapreci sessa acordaodecisaorel
+
+ministr relator
+
+comentari cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca inicial process cont anu
+
+par process simplific
+
+
+
+histor unidadeorgaoent fls
+
+
+
+brev relat
+
+
+
+
+
+
+
+
+
+exam cont
+
+
+
+proced exam cont conform instruca vigent constat
+
+
+
+relatori gesta respons cont element relacion in
+
+relatori gesta respons cont seguint element relacion in
+
+
+
+
+
+
+
+const aut houv plen cumpriment program trabalh fls
+
+houv plen cumpriment program trabalh tend entretant gestor apresent justificat necess fls
+
+houv plen cumpriment program trabalh tend gestor apresent justificat necess
+
+
+
+
+
+relatori control intern const inform titul especif relat quesit requer in
+
+relatori control intern const seguint inform titul especif relat quesit requer in
+
+
+
+
+
+avali proced pel control intern vist element constant aut indic eficiente eficac economic gesta respons send satisfatori desempenh aca administrat quant result quantitat qualitat alcanc
+
+avali proced pel control intern vist element constant aut indic eficiente eficac economic gesta respons send satisfatori desempenh aca administrat quant result quantitat qualitat alcanc
+
+
+
+
+
+demonstrat contab constant aut reflet exatida contabil atest pel parec auditor
+
+demonstrat contab constant aut reflet exatida contabil atest pel parec auditor
+
+
+
+
+
+manifest control intern sobr determin tcu exped cont exercici anterior process conex
+
+total cumpr parcial cumpr cumpr
+
+
+
+comentari cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca inicial process cont anu
+
+par process simplific
+
+
+
+fls
+
+
+
+parec auditor
+
+
+
+
+
+unidad intern entidad
+
+aprov
+
+aprov ressalv
+
+conselhodiretor
+
+aprov
+
+aprov ressalv
+
+aprov
+
+auditor control intern
+
+aprov
+
+aprov ressalv
+
+aprov
+
+auditor independent
+
+sem ressalv limp
+
+ressalv
+
+advers
+
+negat opinia
+
+control intern
+
+regul
+
+regul ressalv
+
+irregul
+
+falhasirregular apont merec ressalt eou aind san
+
+descrica
+
+
+
+
+
+norm infring
+
+
+
+
+
+justificat unidad
+
+
+
+
+
+apreci control intern
+
+
+
+
+
+parec tecnic
+
+
+
+
+
+descrica
+
+
+
+
+
+norm infring
+
+
+
+
+
+justificat unidad
+
+
+
+
+
+apreci control intern
+
+
+
+
+
+parec tecnic
+
+
+
+
+
+outr aspect relevant
+
+
+
+
+
+
+
+
+
+conclusa
+
+
+
+diant expost submet aut consider superior propond
+
+situaca med prelimin
+
+diligente junt orgaoent term lei cc regiment internotcu par apresent praz dias seguint esclarecimentosinform necessari saneament aut relat subitemns dest instruca
+
+
+
+inspeca junt orgaoent term ii lei cc regiment internotcu ant existente omissa informacaoduv relat subitemns dest instruca segu relacion
+
+
+
+audienc term iii lei cc iii regiment internotcu responsavel abaix arrol par apresent praz quinz dias raza justificat par seguint ocorrente relat subitemns dest instruca
+
+respons
+
+ocorrente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca inicial process cont anu
+
+par process simplific
+
+
+
+fls
+
+
+
+situaca med prelimin cont
+
+citaca term ii lei cc ii regiment intern responsavel solidari abaix arrol pel valor debit indic par praz quinz dias apresent aleg defes recolh cofr tesour nacional entidadefund quant dev atualiz monetari acresc jur mor term legislacion vigent raza ocorrente relat subitens dest instruca
+
+respons
+
+valor original debit dat ocorrente
+
+valor atualiz debit
+
+obs valor debit superior limit cancel estabelec port
+
+
+
+sobrest julgament merit cont ant raza cont subit dest instruca term lei cc regiment internotcu
+
+
+
+situaca propost merit
+
+julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+situaca cont iliquid
+
+diant expost submet aut consider superior propond present cont sej consider iliquid term lei ant existente cas fortuit forc maior comprovad alhei vontad respons torn material imposs julgament merit propond aind trancament cont consequent arquiv process
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+acord parec encaminhems present aut consider relator
+
+acord parec procedas diligente form propost
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca diligente
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca diligente
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+atend
+
+atend plen
+
+atend parcial
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam esclarec inform prest conclusa
+
+
+
+situaca atend
+
+est secret promov diligente junt orgaoent mei ofici fls dat transcorr praz regimental fix responsavel sem caus justific atendeur diligente raza propom sej realiz audienc srs vist aplic mult previst iv lei par apresent praz quinz dias raza justificat sem prejuiz adoca med cabiv inspeca audienc respons epoc
+
+
+
+situaca atend plen
+
+respost diligente promov est secret mei ofici fls dat responsavel apresentou tempestivamenteintempestivamente seguint inform eou esclarec adicion fls
+
+descrica analis
+
+descrica analis
+
+descrica analis
+
+
+
+consider informacoesesclarec prest suficient par san aut submet aut consider superior propond present cont sej
+
+julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca diligente
+
+
+
+fls
+
+
+
+situaca atend parcial
+
+respost diligente promov est secret mei ofici fls dat responsavel apresentour tempestivamenteintempestivamente seguint inform eou esclarec adicion fls
+
+descrica analis
+
+descrica analis
+
+consider entretant permanec questa pendent esclarec eou justificat submet aut consider superior propond preliminar
+
+nov diligente junt orgaoent par apresent praz dias seguint esclarecimentosinform necessari saneament aut relat subitens dest instruca term lei cc regiment internotcu
+
+inspeca ant existente omissa lacun inform duv relat subitens dest instruca segu relacion term ii lei cc doegiment internotcu
+
+audienc term iii lei cc iii regiment internotcu responsavel abaix arrol par apresent praz quinz dias raza justificat par seguint ocorrente relat subitens dest instruca
+
+respons
+
+ocorrente
+
+citaca term ii lei cc ii regiment intern responsavel solidari abaix arrol pel valor debit indic par praz quinz dias apresent aleg defes recolh cofr tesour nacional entidadefund quant dev atualiz monetari acresc jur mor term legislacion vigent raza ocorrente relat subitens dest instruca
+
+respons
+
+valor original debit dat ocorrente
+
+valor atualiz debit
+
+obs valor debit superior limit cancel estabelec port
+
+
+
+sobrest julgament merit cont ant raza cont subit dest instruca term lei cc regiment internotcu
+
+
+
+
+
+localdat
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+acord parec
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+acord parec encaminhems present aut consider relator
+
+acord parec procedas diligente form propost
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca audienc
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca audienc respons
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+revel
+
+justificat rejeit
+
+justificat acolh
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam audienc
+
+
+
+cumpriment despach relator exm sr ministr fls promov audienc srs mei ofici nºs dat fls respectiv mei edital public dou
+
+situaca revel responsavel tomou cienc alud ofici conform docs fls tend apresent raza justificat quant irregular verific cabivel citaca efetu edital transcorr praz regimental fix tend retromencion responsavel apresent raza justificat entend deveraa consider revel dandos prossegu process acord lei
+
+
+
+situaca rejeica responsavel tomou cienc alud ofici conform docs fls cabivel citaca efetu edital tend apresent intempestiv raza justificat acord docs fls
+
+respons irregular norm infring
+
+justificat apresent analisefundament rejeica
+
+
+
+situaca acolh responsavel tomou cienc alud ofici conform docs fls tend apresent intempestiv raza justificat acord docs fls
+
+respons irregular norm infring
+
+justificat apresent analisefundament acolh
+
+
+
+conclusa situaca
+
+diant expost submet aut consider superior propond present cont sej julg irregul term i iii b c paragraf unic lei consider ocorrente relat subitemns dest instruca aplic mult responsavel srs fixandolh praz quinz dias cont notific par comprov perant est tribunal recolh refer quant cofr tesour nacional bas i iii cit lei cc regiment internotcu sej autoriz desd log cobranc judicial div term ii lei atualiz monetari acresc jur mor calcul part dia seguint termin praz ora estabelec dat recolh cas atend notific form legislacion vigor sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca audienc respons
+
+
+
+fls
+
+
+
+conclusa situaca
+
+
+
+
+
+consider raza justificat apresent suficient par elid irregular submet aut consider superior propond present cont sej
+
+
+
+
+
+julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+
+
+
+
+julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca citaca revel
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+revel
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam citaca
+
+
+
+cumpriment despach relator exm sr ministr fls promov citaca srs mei ofici nºs dat respectiv mei edital public dou responsavel tomou cienc alud ofici conform docs fls cabivel citaca efetu edital transcorr praz regimental fix apresentou aleg defes quant irregular verific efetu recolh debit iss entend dev consider revel dandos prossegu process acord iv lei
+
+
+
+
+
+diant expost submet aut consider superior propond present cont sej julg irregul debit responsavel abaix relacion term i iii c d lei consider ocorrente relat subitemns instruca fls condenando pagament importanc especific atualiz monetari acresc jur mor calcul part dat discrimin efet quitaca debit fixandolh praz quinz dias par comprov perant tribunal recolh refer quant cofr tesour nacional entidad term iii cit lei cc regiment internotcu
+
+respons
+
+valor original dat ocorrente sej aplic responsavel srs individual mult previst lei fixandolh praz quinz dias cont notific par comprov perant tribunal recolh refer quant cofr tesour nacional atualiz monetari acresc jur mor part dia seguint termin praz estabelec dat efet recolh form legislacion vigor opcional sej autoriz desd log cobranc judicial div term ii lei cas atend notific sej determin desd log term lei cc regiment internotcu arquiv aut cobranc execut econom processual sem cancel alud debit cuj pagament continuaraa obrig devedor par poss dad quitaca cas valor debit sej inferior r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+
+
+sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+sej remet cop present aut ministeri public unia par ajuiz aca civ pen cabiv term lei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca citaca defes rejeit
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+tom cont
+
+
+
+prest cont
+
+defes rejeit verific boaf inexistente outr irregular defes rejeit
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam citaca
+
+
+
+cumpriment despach relator exm sr ministr fls promov citaca srs mei ofici nºs dat respectiv mei edital public dou responsavel apresentou intempestiv aleg defes acord docs fls
+
+respons irregular valor atualiz
+
+aleg defes apresent analisefundament rejeica
+
+
+
+
+
+conclusa
+
+
+
+diant expost submet aut consider superior propond sej rejeit aleg
+
+defes apresent aind
+
+
+
+situaca
+
+
+
+sej cientific respons is abaix relacion term dispost paragraf unic lei cc regiment internotcu par nov improrrog praz quinz dias cont cienc comprov perant est tribunal recolh cofr tesour nacional entidad importanc dev segu discrimin atualiz monetari acresc jur mor calcul part dat especific dat efet recolh form previst legislacion vigor abatendos importanc satisfeit
+
+
+
+respons
+
+valor original debit dat ocorrente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+
+
+situaca present cont sej julg irregul debit responsavel abaix relacion term i iii c d lei consider ocorrente relat subitemns instruca fls condenando pagament importanc especific atualiz monetari acresc jur mor calcul part dat discrimin efet quitaca debit fixandolh praz quinz dias par comprov perant tribunal recolh
+
+refer quant cofr tesour nacional entidad term
+
+iii cit lei cc regiment internotcusej aplic responsavel srs individual mult previst lei fixandolh praz quinz dias cont notific par comprov perant tribunal recolh refer quant cofr tesour nacional atualiz monetari acresc jur mor part dia seguint termin praz estabelec dat efet recolh form legislacion vigor opcionalsej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+sej remet cop present aut ministeri public unia par ajuiz aca civ pen cabiv term lei
+
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca citaca recolh debit acolh
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+recolh debit subsist irregular
+
+liquid tempest boa fe sem irregular
+
+acolh aleg defes
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam citaca
+
+
+
+cumpriment despach relator exm sr ministr fls promov citaca srs mei ofici nºs dat respectiv mei edital public dou
+
+situaca recolh debit subsist irregular responsavel apresent aram intempestiv aleg defes recolh integral debit acord docs fls
+
+respons irregular
+
+justificat apresent analisefundament rejeicaoacolh obstant recolh integral debit subsist irregular apont aut fls raza pel submet aut consider superior propond
+
+sej present cont julg irregul term i iii c d iii lei consider ocorrente relat subitemns instruca fls dandos quitaca responsavel srs
+
+b sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+c sej remet cop present aut ministeri public unia par ajuiz aca civ pen cabiv term lei
+
+
+
+situaca liquid tempest boa fe sem outr irregular responsavel apresentou intempestiv aleg defes recolh integral debit acord docs fls
+
+respons irregular
+
+justificat apresent analisefundament rejeicaoacolh consider recolh tempest debit constat boaf part respons aind ausenc outr irregular submet aut consider superior propond sej present cont julg regul ressalv term i ii lei cc ii regiment internotcu dandos quitaca responsavel srs sem prejuiz sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca citaca respons
+
+
+
+fls
+
+
+
+situaca acolh responsavel tomou cienc alud ofici conform docs fls tend apresent intempestiv aleg defes acord docs fls
+
+respons irregular norm infring
+
+defes apresent analisefundament acolh consider aleg defes apresent suficient par elid irregular submet aut consider superior propond present cont sej
+
+julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca cientific nov praz par recolh
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca aplic cientific respons par recolh debit
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+recolh cont irregul
+
+recolh
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+exam cont
+
+cumpriment decisa foir cientific srs mei ofici nºs dat respectiv mei edital public dou respons tom cienc alud ofici conform docs fls cabivel citaca efetu edital
+
+situaca recolh cont irregul resposavel recolheur valor integral debit conform doc fls
+
+obstant recolh integral debit subsist irregular apont aut fls raza pel submet aut consider superior propond
+
+
+
+sej present cont julg irregul dandos quitaca responsavel srs term i iii c d lei consider ocorrente relat subitens instruca fls
+
+
+
+b sej aplic responsavel srs individual mult previst lei fixandolh praz quinz dias cont notific par comprov perant tribunal recolh refer quant cofr tesour nacional atualiz monetari acresc jur mor part dia seguint termin praz estabelec dat efet recolh form legislacion vigor opcional
+
+
+
+c sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+d sej remet cop present aut ministeri public unia par ajuiz aca civ pen cabiv term lei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca aplic cientific respons par recolh debit
+
+
+
+fls
+
+
+
+situaca recolh tend transcorr praz regimental fix srs apresentour comprovant importanc dev diant expost submet aut consider superior propond
+
+present cont sej julg irregul debit responsavel abaix relacion term i iii c d lei consider ocorrente relat subitemns instruca fls condenando pagament importanc especific atualiz monetari acresc jur mor calcul part dat discrimin efet quitaca debit fixandolh praz quinz dias par comprov perant tribunal recolh refer quant cofr tesour nacional entidad term iii cit lei cc regiment internotcu
+
+respons
+
+valor original dat ocorrente
+
+b sej aplic responsavel srs individual mult previst lei fixandolh praz quinz dias cont notific par comprov perant tribunal recolh refer quant cofr tesour nacional atualiz monetari acresc jur mor part dia seguint termin praz estabelec dat efet recolh form legislacion vigor opcional
+
+c sej autoriz desd log cobranc judicial div term ii lei cas atend notific
+
+d sej autoriz desd log term lei cc regiment internotcu arquiv aut cobranc execut econom processual sem cancel debit cuj pagament continuaraa obrig devedor par poss dad quitaca cas valor debit inferior ar
+
+sej determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+f sej remet cop present aut ministeri public unia par ajuiz aca civ pen cabiv term lei
+
+
+
+
+
+localdat
+
+
+
+
+
+
+
+
+
+afc matricul assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec
+
+
+
+diretor carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+acord parec encaminhems aut dout procurador par posterior envi relator
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formulari instruca par process retir difer final praz legal
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca par process retir
+
+difer
+
+
+
+
+
+fls
+
+
+
+tom cont
+
+prest cont
+
+
+
+merit
+
+
+
+
+
+dad unidad orgaoent
+
+
+
+nom
+
+
+
+
+
+tc
+
+
+
+
+
+vincul ministerial
+
+
+
+
+
+exercici
+
+
+
+
+
+natur jurid
+
+
+
+
+
+
+
+respons
+
+
+
+nom
+
+
+
+
+
+cpf
+
+
+
+
+
+carg
+
+
+
+
+
+period
+
+
+
+
+
+nom
+
+
+
+
+
+cpf
+
+
+
+
+
+carg
+
+
+
+
+
+period
+
+
+
+
+
+dem respons arrol fls
+
+
+
+
+
+parec auditor
+
+unidad intern entidad
+
+aprov aprov ressalv
+
+conselhodiretor
+
+aprov aprov ressalv
+
+auditor control intern
+
+aprov aprov ressalv
+
+auditor independent
+
+sem ressalv limp ressalv
+
+control intern regul regul ressalv
+
+
+
+
+
+conclusa
+
+
+
+diant expost submet aut consider superior propond present cont sej
+
+julg regul dandos quitaca plen responsavel srs arrol fls term i i i lei consider cont express form clar objet exatida demonstrat contab legal legitim economic atos gesta
+
+julg regul ressalv dandos quitaca responsavel srs arrol fls term i ii ii lei consider cont evidenc impropriedad natur formal relat subitemns dest instruca resultou dan erari sem prejuiz determin respons pel orga entidad adoca seguint med cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fls
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca par process retir
+
+difer
+
+
+
+
+
+fls
+
+
+
+
+localdat
+
+
+
+acord encaminhems aut dout
+
+procurador par posterior envi relator
+
+
+
+
+
+
+
+secretari carimb assinatur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+
+
+
+
+
+
+
+
+
+
+
+definica conceit term utiliz
+
+
+
+
+
+
+alt material valor total despes execut recurs ger conform defin port superior r milha
+
+
+
+
+
+audienc proced pel relator tribunal verific irregular cont sem ocorrente debit cham respons par apresent raza justificat
+
+
+
+
+
+citaca proced pel relator tribunal verific irregular cont ocorrente debit cham respons par apresent defes recolh quant dev
+
+
+
+
+
+cont conjunt inform poss obter diret indiret respeit dad gesta desd garant confiabil verac representativ permit avali legal eficac eficiente economic dess gesta
+
+
+
+
+
+determin pendent atend process qualqu tip houv determin express tribunal par verific cumpriment cont
+
+
+
+
+
+difer proced analis tecnic relaca instruca process tom prest cont contenh parec control intern pel regular regular ressalv observ aind criteri material relevanc risc ger sobrest analis unidad tecnic praz determin find inexist element supervenient infirm parec control intern ensej encaminh relator ouv ministeri public par julgament relaca praz par inclusa dia dezembr exercici seguint apresent cont
+
+
+
+
+
+inspeca proced fiscaliz par supr omissa lacun inform esclarec duv apur denunc quant legal legitim fat atos administrat
+
+
+
+
+
+notific comunic processual mei respons cham par efetu comprov recolh debit imput mult comin
+
+
+
+
+
+praz legal praz fix pel lei organ tcu par julgament merit tom prestaca cont correspondent termin exercici seguint aquel apresent tribunal
+
+
+
+
+
+prest cont process cont administr respons orga administr indiret inclu fundaca sociedad mant pel pod public federal bem fund administr ger orga entidad federal servic soci autonom cont nacion empres supranacion submet julgament pel tribunal
+
+
+
+
+
+process apens junca dois mais process par tramit conjunt tcu iii
+
+
+
+
+
+process conex quand objet comuns total parcial aind del sej maior abrangente tcu iv
+
+
+
+
+
+process relaca process tom prest cont cuj propost deliber sej acolh parec convergent titul unidad tecnic representant ministeri public desd tenh pronunci pel regular pel regular ressalv pel quitaca respons pel trancament acolh parec divergent desd conclu pel irregular aind acolh parec convergent qua const propost rejeica aleg defes irregular desd valor ressarc acresc encarg leg sej igual inferior valor fix anual pel tribunal part tom cont especial dev imediat encaminh par julgament
+
+
+
+
+
+tom cont process cont administr respons unidad administr diret pod unia submet julgament pel tribunal
+
+
+
+
+
+
+
+
+
+
+
+
+tcusarqprodsistemasbtcu sed tcusarqansistemasbtcu asa nort tcutcuufsistemasbtcu estadu
+
+
+

@@ -1,0 +1,538 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider competente institut serzedell corre dispost resolucaotcu dezembr
+
+
+consider dispost iii resolucaotcu junh
+
+
+consider dispost portariatcu setembr
+
+
+consider prioridad estabelec item anex unic portariaccg setembr mei aprov plan diretor desenvolv competente par period outubr marc
+
+
+consider inform constant tc resolv
+
+
+fic institu certific ambit program desenvolv profissional auditor setor public fundament auditor form defin anex dest port
+
+
+certific ambit program fundament auditor carat facultat exped servidor cumpr tod aca exig term anex i ii iii dest port
+
+
+cab institut serzdell corre isc disciplin condica minim par obtenca validad manutenca certific refer est port
+
+
+fic isc autoriz atualiz anex dest port
+
+
+est port entr vigor dat public
+
+
+raimund carreir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+republic said btcu administrat incorreca original
+
+
+
+
+
+
+
+const revog express
+dispo sobr certific ambit program desenvolv profissional auditor setor public fundament auditor
+
+anex i portariatcu outubr
+
+
+
+
+
+regr ger certific program fundament auditor
+
+
+program desenvolv profissional auditor setor public fundament auditor cri pel isc par atend demand segecex objet oferec auditor conhec indispens form sej capaz aplic melhor tecnic disponiv par conduca auditor realiz trabalh maior pod transform
+
+
+competente desenvolv ness program selecion vari representant segecex apoi isc workshops realiz pel institut segund semestr
+
+
+program cont aca obrigator elet dev conclu praz cinc anos moment inscrica program par obtenca certific carg hor total aca obrigator program hor aca elet hor par obter certific necessari cumpr total hor relat aca obrigator mais hor relat aca elet acord escolh participant
+
+
+participant pod solicit isc reconhec estud experiente vist dispens curs aca program concessa carg hor equivalent aca dispens par fins certific term anex iii dest port
+
+
+participant program consegu completal cinc anos pod apresent justificat isc examin conjunt secretariageral control extern segecex deferira continu program refer praz
+
+
+auditor interess particip program obter certific dev faz inscrica ness ato firm term cienc regr program disponibiliz pel isc inscrica program matricul automatic participant aca educacion individu participant dev proced inscrica especif cad aca pretend
+
+
+hav limit vag par inscrica program fundament auditor obstant cad aca program hav limit vag preench ordem cronolog inscrica outr criteri apont pel segecex
+
+
+servidor matricul program tera prioridad relaca outr interess process inscrica aca especif
+
+
+list aca educacion compo program fundament auditor est apresent anex ii dest port aca educacion program oferec regular pel isc conform cronogram divulg semestral
+
+
+isc mant pagin moodl destin program fundament auditor hav pagin individual par cad alun est pod acompanh evoluca vist certific pagin alun registr entr outr inform aca obrigator elet curs aca conclu aca dispens virtud aproveit estud experiente anterior
+
+
+duv sobr program pod dirim mei contat iscdicont iscdicontprogramasdedesenvolvimentotcugovbr
+
+
+
+
+
+
+anex ii portariatcu outubr
+
+
+
+aca educacion program fundament auditor
+
+
+
+aca educacional
+
+tip
+
+requisit
+
+ch
+
+modal
+
+avali conhec norm metod auditor
+
+process auditor
+
+obrigator
+
+
+
+material estud dispon ambient virtual prov realiz presencial isc
+
+avali conhec etic postur profissional
+
+comportamental
+
+obrigator
+
+
+
+material estud dispon ambient virtual prov realiz presencial isc
+
+auditor base risc modul
+
+process auditor
+
+obrigator
+
+
+
+ead sem tutor mooc
+
+auditor base risc modul
+
+process auditor
+
+obrigator
+
+
+
+ead sem tutor mooc
+
+auditor base risc modul
+
+process auditor
+
+obrigator
+
+
+
+ead tutor
+
+aperfeico auditor modul planej
+
+process auditor
+
+obrigator
+
+
+
+presencial desloc participant estad
+
+aperfeico auditor modul monitor execuca relatori
+
+process auditor
+
+obrigator
+
+
+
+presencial desloc participant estad
+
+oficin etic postur profissional
+
+comportamental
+
+obrigator
+
+
+
+presencial desloc participant estad
+
+orient redaca argumentat
+
+tecnic auditor
+
+obrigator
+
+
+
+presencial vide conferente
+
+pap trabalh
+
+tecnic auditor
+
+obrigator
+
+
+
+sal virtual
+
+palestr classific inform
+
+process auditor
+
+obrigator
+
+
+
+presencial transmissa par estad
+
+prepar par redaca
+
+tecnic auditor
+
+obrigator
+
+
+
+presencial transmissa par estad
+
+trabalh equip control extern
+
+comportamental
+
+obrigator
+
+
+
+presencial desloc participant estad
+
+amostrag basic
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+analis dad quantitat i
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+analis dad quantitat ii
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+analis dad qualitat
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+auditor dad acl
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+analis dad sql serv
+
+tecnic auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+avali risc fraud
+
+tecnic auditor
+
+elet
+
+
+
+presencial
+
+conduca reunia control extern
+
+comportamental
+
+elet
+
+
+
+presencial desloc participant estad
+
+comunic empat
+
+comportamental
+
+elet
+
+
+
+presencial desloc participant estad
+
+entrev aplic auditor
+
+tecnic auditor
+
+elet
+
+
+
+ead tutor
+
+estud cas auditor
+
+process auditor
+
+elet
+
+
+
+presencial transmissa par estad
+
+excel avanc aplic control
+
+tecnic auditor
+
+elet
+
+
+
+ead tutor
+
+oficin responsabiliz
+
+process auditor
+
+elet
+
+
+
+presencial desloc participant estad
+
+seguranc inform auditor
+
+process auditor
+
+elet
+
+
+
+ead tutor
+
+tecnic diagnost
+
+tecnic auditor
+
+elet
+
+
+
+sal virtual
+
+
+
+
+
+nom carg hor aca sujeit ajust public pagin isc
+
+
+
+
+
+
+anex iii portariatcu outubr
+
+
+
+regr par aproveit estud eou experiente anterior
+
+
+
+
+definica
+
+
+
+servidor pod solicit aproveit estud experiente par fins concessa equivalente disciplin program fundament auditor part experiente anterior aca educacion realiz tant tcuisc quant outr instituica acord disposica cont nest anex
+
+
+
+regr proced
+
+
+
+solicit aproveit estud eou experiente pod encaminh isc qualqu temp respeit limit minim dias inici aca educacional par est requer aproveit
+
+
+analis inici document complet exig pel isc
+
+
+avali aproveit estud eou experiente feit especial indic pel segecex pel isc pel instrutor aca educacional
+
+
+respost analis envi quinz dias inici aca educacional par aproveit solicit
+
+
+concessa equivalente disciplin realiz pel especial instrutor
+
+
+
+form aproveit estud experiente
+
+
+
+form aproveit estud experiente
+
+
+aproveit diret estud quand servidor tiv realiz mesm aca educacional program isc
+
+
+aproveit equivalente estud quand servidor tiv curs aca educacional isc outr instituica cuj conteud sej equivalent aca correspondent program
+
+
+aproveit experiente quand servidor possu experiente profissional aca educacional dev comprov formaca academ relacion
+
+
+
+criteri aproveit estud
+
+
+
+criteri par aproveit estud
+
+
+equivalente minim carg hor carg hor aca realiz dev minim mesm carg hor aca program cuj dispens est requer
+
+
+temp conclusa anos aca educacional realiz dev sid total conclu aprov cinc anos dat solicit aproveit estud isc pod consider estud feit mais cinc anos desd interess demonstr atu possu experiente recent are aca educacional questa
+
+
+equivalente conteud conteud estud dev compatibil conhec transmit aca program cab especial avali conteud estud anterior par verific compatibil equivalente aca requer
+
+
+necess conclusa aca educacional anterior aca educacion tiv sid curs parcial qua tenh obtid aprov consider par fins aproveit estud
+
+
+
+criteri aproveit experiente
+
+
+
+servidor dev apresent minim tres trabalh tenh realiz praz cinc anos moment solicit par avali pel instrutor aca educacional especial instrutor especial pod valid inform servidor solicitant diretor secretari unidad lotaca servidor unidad trabalh realiz
+
+
+
+solicit
+
+
+
+document par solicit aproveit estud experiente anterior
+
+
+certific conclusa aca educacional anterior cont nom aca educacional instituica carg hor dat conclusa acompanh detalh conteud programat
+
+
+trabalh document comprov experiente
+
+
+
+registr
+
+
+
+isc far registr aproveit diret estud pagin moodl participant part solicit feit pel servidor
+
+
+especial instrutor aca educacional far registr concessa equivalente disciplin aproveit experiente
+
+
+disciplin aproveit const registr program equivalente carg hor correspondent conced par emissa certific program
+
+
+
+consider fin
+
+
+
+cas omiss decid pel diretorgeral isc valid pel segecex
+
+

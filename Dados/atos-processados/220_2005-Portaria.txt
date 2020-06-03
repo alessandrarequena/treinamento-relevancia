@@ -1,0 +1,1112 @@
+port
+
+aprov realiz projet contrat produt servic pel tcu contrat design gestor
+
+
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet contrat produt servic pel tcu contrat term anex dest port
+
+
+fic design anal control extern mari fabbr ricc matricul par exerc funca confianc coorden projet codig fc constant dezembr aloc secretariageral control extern
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+titul secretariageral administr fic autoriz proced sempr necessari substituica nomeaca coorden projet
+
+
+est port entr vigor dat public
+
+
+
+adylson mott
+
+
+president
+
+
+
+
+tribunal cont unia anex i
+
+
+seged didiv btcu brasil ana xxxvii p out
+
+
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+mari fabbr ricc
+
+
+
+riccomftcugovbr
+
+
+
+funca gestororig fc
+
+
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+segecex
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+sergi august paul
+
+
+
+sergioaptcugovbr
+
+
+
+local telefon
+
+
+const revog express
+namehlt
+
+anex ii sal
+
+
+
+
+identific projet
+
+
+nom projet
+
+contrat produt servic pel tcu contrat
+
+period realiz
+
+unidad patrocin
+
+
+
+seged
+
+
+vincul estrateg
+plan estrateg tcu port tcu janeir
+
+
+
+objet estrateg contribu par melhor prest servic public
+
+b
+
+estrateg aperfeico process trabalh tcu
+
+plan diretriz tcu bieni port tcu janeir
+
+
+
+diretriz ampli contribuica tcu par melhor prest servic public feder
+
+b
+
+med realiz levant ambit tcu aca administrat control contribu par desenvolv sustent
+
+plan diretor seged diretriz med
+
+
+
+diretriz aperfeico execuca servic administrat tcu
+
+b
+
+med aprimor sistemat acompanh contrat
+
+c
+
+med racionaliz agiliz aquisica bens servic tcu
+
+d
+
+med reduz temp encerr process administrat
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+seged vem constat mod empir atras deficiente proced contrat produt servic bem ocorrente problem quant gesta contrat fiscaliz repactu renov tramit intern control etc
+
+ist ger demor atend usuari retrabalh procediment renov contratu decorrent descompass process licitatori demor analis solicit fornecedor cust operacion elev
+
+nest cenari oportun realiz levant diagnost dess ativ contrat verific flux trabalh praz realiz deficiente operacion existente control intern formaliz proced
+
+
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+anex apresent dad disponiv referent
+
+i proced licitatori ed sed secexs
+
+ii contrat conveni firm pel tcu
+
+iii execuca orcament modal licit
+
+iv praz medi realiz modal licit
+
+v contrat emergenci firm pel seged
+
+percepca praz medi realiz licit elev anex iv prejuiz atend usuari contrat emergenci firm pel seged anex v tamb patam superior desej oriund dess process licitatori outr fator relacion control intern
+
+cab portant realiz levant dess proced quantifical term praz flux tramit agreg valor fim diagnostic problem vigent propor soluca tal levant propici entr outr quantific met melhor proced exempl praz execuca verific posterior adequ med propost efetiv par melhor process contrat sed
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+elabor plan melhor proced contrat gesta contrat tcu
+
+
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+identific analis flux praz tramit process contrat amostrag
+
+
+
+
+
+
+
+
+
+tip proced contrat analis tip contrat existent
+
+relatori valid cont analis proced contrat praz
+
+seged
+
+b
+
+identific analis flux tramit process gesta contratual amostrag
+
+
+
+
+
+
+
+
+
+
+
+tip proced gesta contrat analis tip proced gesta contrat existent
+
+relatori valid cont analis proced gesta contrat
+
+seged
+
+c
+
+identific instituica extern boas pratic proced contrat gesta contratual aplic tcu
+
+
+
+
+
+
+
+
+
+
+
+boas pratic descrit avali boas pratic identific
+
+relatori valid cont descrica boas pratic extern proced contrat gesta contratual avali aplicabil tcu
+
+seged
+
+d
+
+elabor plan melhor proced contrat gesta contratual
+
+
+
+
+
+plan melhor aceit
+
+plan melhor valid
+
+seged
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+identific analis flux praz tramit process contrat amostrag
+
+b
+
+identific analis flux tramit process gesta contratual amostrag
+
+c
+
+identific instituica extern boas pratic proced contrat gesta contratual aplic tcu
+
+d
+
+elabor plan melhor proced contrat gesta contratual
+
+
+escop projet vai faz
+
+
+
+
+elabor manual proced contrat gesta contratual plan operacional padra taref
+
+b
+
+desenvolv cronogram implant propost
+
+c
+
+definica requisit desenvolv sistem
+
+d
+
+analis process contrat contrat secex estad
+
+
+
+mapeament process contrat gesta contrat
+
+f
+
+redesenh process contrat gesta contratual
+
+
+identific part envolv projet relaca
+
+
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+secretariageral administr
+
+seged
+
+patrocin projet
+
+fornec recurs materi human par projet
+
+b
+
+secret control intern seca
+
+contribuica tecnic par discussa estud problem encontr propost melhor
+
+c
+
+consultor jurid conjur
+
+contribuica tecnicojurid par analis problem verific propost soluca
+
+d
+
+secof semat seseg
+
+contribuica tecnic par discussa estud problem encontr propost melhor
+
+
+
+setec
+
+contribuica tecnic par discussa estud problem encontr propost melhor
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+dificuldad aloc profission qualific projet
+
+alt
+
+med
+
+negoci previ aloc projet tecnic tcu selecion pel seged
+
+coorden projet
+
+patrocin
+
+b
+
+dificuldad obter contribuica unidad tecnic pesso envolv projet
+
+alt
+
+baix
+
+m divulg benefici contribuica projet par desenvolv trabalh
+
+coorden projet
+
+patrocin
+
+
+relaca outr projet
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+
+
+projet aperfeico proced contrat gesta contratual
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+cust estim
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+tecnic suport informat nivel ii terceiriz send r cust mensal x mes r
+
+r
+
+
+
+total cust estim
+
+r
+
+
+
+
+obs tecnic aloc servic administr seged par apoi temp parcial projet
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+espac fisic par acomod equip projet
+
+seged
+
+b
+
+microcomput impressor lig red tcu
+
+seged setec
+
+c
+
+mobiliari estaca trabalh gaveteir cadeir armari mes par reunia
+
+segedamsematdipat
+
+d
+
+comunic linh ram telefon
+
+segedamsesegtel
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+sergi august paul
+
+
+
+seged
+
+
+
+integral
+
+mari fabbr ricc
+
+
+
+seged
+
+
+
+integral
+
+edn ferreir reis
+
+
+
+seseg
+
+
+
+integral
+
+rosan orland meir
+
+
+
+serec
+
+
+
+integral
+
+andr luiz queiroz dias
+
+
+
+secof
+
+
+
+integral
+
+antoni tarcisi ram
+
+
+
+secof
+
+
+
+integral
+
+mar ros barbos
+
+
+
+semat
+
+
+
+parcial
+
+
+finaliz
+
+
+dat
+
+assinatur gestor projet
+
+
+
+
+
+
+
+mari fabbr ricc
+
+manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+seged
+
+
+
+
+
+maur moreir barbos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+
+
+
+anex i portariatcu setembr
+
+
+
+
+
+proced licitatori ed sed secexs
+
+
+
+
+
+modal licit
+
+anoquant
+
+anoquant
+
+
+
+
+
+cadastr fornecedor
+
+
+
+
+
+dispens inexigibil
+
+
+
+
+
+convit
+
+
+
+
+
+tom prec
+
+
+
+
+
+concorrente
+
+
+
+
+
+prega
+
+
+
+
+
+total geral
+
+
+
+
+
+
+
+
+
+
+
+
+anex ii portariatcu setembr
+
+
+
+
+
+contrat conveni firm pel tcu
+
+
+
+
+
+tip formaliz
+
+anoquant
+
+anoquant
+
+
+
+
+
+contrat
+
+
+
+
+
+term adit
+
+
+
+
+
+contrat emergenci
+
+
+
+
+
+reajust
+
+
+
+
+
+conveni
+
+
+
+
+
+outr
+
+
+
+
+
+
+
+
+
+contrat vigent
+
+
+
+
+
+
+
+
+
+
+
+
+anex iii portariatcu setembr
+
+
+
+
+
+execuca orcament modal licit
+
+
+
+
+
+modal licit
+
+
+
+
+
+r
+
+
+
+r
+
+
+
+convit
+
+
+
+
+
+
+
+
+
+tom prec
+
+
+
+
+
+
+
+
+
+concorrente
+
+
+
+
+
+
+
+
+
+prega
+
+
+
+
+
+
+
+
+
+dispens
+
+
+
+
+
+
+
+
+
+inexigibil
+
+
+
+
+
+
+
+
+
+supriment fund
+
+
+
+
+
+
+
+
+
+total geral
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+secret planej gesta
+
+propost projet
+
+contrat produt servic pel tcu contrat
+
+pagin
+
+
+
+
+
+anex iv portariatcu setembr
+
+
+
+
+
+praz medi realiz modal licitator
+
+
+
+
+
+modal licit
+
+
+
+
+
+qtd
+
+praz medi
+
+qtd
+
+praz medi
+
+concorrente
+
+
+
+dias
+
+
+
+dias
+
+tom prec
+
+
+
+dias
+
+
+
+dias
+
+convit
+
+
+
+dias
+
+
+
+dias
+
+prega
+
+
+
+dias
+
+
+
+dias
+
+
+
+
+
+font comissa permanent licit cpl
+
+
+
+
+
+apur praz medi consid dat primeir entrad process comissa permanent licit cpl respect dat encerr homolog licit med apur consid temp par apreci process consultor jurid seged eventu retorn unidad interess praz recurs avali amostr outr proced correlat
+
+
+portant abrang praz cont inici process solicit aquisicaoprest servic cpl bem period decorrent homolog licit assinatur public extrat contrat firm
+
+
+
+
+
+
+
+
+anex v portariatcu setembr
+
+
+
+
+
+contrat emergenci firm pel seged
+
+
+vigent period
+
+
+
+
+
+period
+
+quantidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+mai
+
+
+
+
+font sistem contrat
+
+
+
+
+
+

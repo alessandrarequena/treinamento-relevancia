@@ -1,0 +1,9435 @@
+port
+
+
+
+vicepresident tribunal cont unia presidente exercici atribuica leg regiment tend vist dispost regiment intern resolucaotcu agost resolucaotcu junh
+
+
+consider necess normaliz conteud relatori gesta proposit darlh tratament isonom dentr tribunal permit process mei eletron
+
+
+consider dispost in tcu agost cc dn outubr sugesta apresent pel ministr cort resolv
+
+
+fic aprov orient par preenchiment part b anex ii decisa normat outubr
+
+
+orient respect quadr trat est port disponibiliz portal tribunal internet enderec portal tcu
+
+comun
+
+cont
+
+relatori gesta
+form permit cop part unidad jurisdicion tribunal
+
+
+paragraf unic quadr refer apen referente pod unidad jurisdicion apresent propri model desd contempl tod inform ali present
+
+
+est port entr vigor dat public
+
+
+benjamin zymler
+
+
+vic president presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr orient unidad jurisdicion tribunal quant preenchiment conteud relatori gesta referent exercici apresent term in tcu
+
+anex portariatcu dezembr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+consolid orient par preenchiment part b anex ii decisa normat tcu outubr
+
+
+
+
+
+sumari
+
+
+
+item part anex ii dn tcu outubr
+
+
+relatori gesta individual
+
+
+relatori gesta consolid
+
+
+relatori gesta agreg
+
+
+relatori gesta consolid agreg
+
+
+item part anex ii dn tcu outubr
+
+
+program orcament
+
+
+program despes corrent
+
+
+program despes capital
+
+
+quadr resum program despes reserv contingente
+
+
+moviment orcament grup despes
+
+
+execuca orcament
+
+
+execuca orcament credit originari uj
+
+
+execuca orcament credit receb pel uj moviment
+
+
+execuca orcament program govern
+
+
+execuca fisic aca realiz pel uj
+
+
+indic institucion
+
+
+item part anex ii dn tcu outubr
+
+
+composica recurs human
+
+
+contrat terceiriz areafim
+
+
+indic gerenci sobr recurs human
+
+
+analis critic
+
+
+item part anex ii dn tcu outubr
+
+
+reconhec passiv insuficiente credit recurs
+
+
+analis critic
+
+
+item part anex ii dn tcu outubr
+
+
+pagament rest pag
+
+
+analis critic
+
+
+item part anex ii dn tcu outubr
+
+
+quadr detalh transferente
+
+
+analis critic
+
+
+item part anex ii dn tcu outubr
+
+
+renunc tribut conced pel uj
+
+
+valor conced titul renunc receit respect contrapart
+
+
+usufrutuari diret renunc pesso jurid fisic
+
+
+beneficiari renunc pesso fisic jurid
+
+
+aca financi recurs renunc receit pel propr uj
+
+
+prestaca cont renunc receit
+
+
+indic gesta renunc receit
+
+
+declar
+
+
+item part anex ii dn outubr
+
+
+cumpriment deliber tcu
+
+
+item part b anex ii dn outubr
+
+
+declar plen ressalv advers
+
+
+item part b anex ii dn outubr
+
+
+composica acion capital social
+
+
+composica acion uj investidor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+
+text inform identific unidad jurisdicion cont pod orga vincul supervisa nom complet denomin abrevi codig siorg codig loa situaca operacional natur jurid principal ativ econom telefon contat enderec postal enderec eletron pagin internet norm criaca norm relacion gesta estrutur manu public relacion ativ unidad codig nom unidad gestor gesta sistem siaf
+
+
+
+objet imediat apresent element identific unidad jurisdicion uj apresent relatori gesta referent exercici tcu modal individual consolid eou agreg respect uj consolid eou agreg
+
+
+
+estrutur inform inform estrutur duas form distint primeir trat relatori gesta apresent modal individual enquant segund trat relatori gesta apresent modal consolid eou agreg
+
+
+
+
+
+
+relatori gesta individual
+
+
+relatori gesta individu apresent pel uj dev inform element identific complet uj norm relacion constituica gesta inclu orient public manu public unidad gestor gesta realiz despes aca vincul uj conform model apresent quadr i abaix descrev segu
+
+
+
+
+identific relatori gesta individual
+
+
+
+pod orga vincul
+
+pod executivolegislativojudiciariofuncao essencial justic
+
+orga vincul text
+
+codig siorg
+
+identific unidad jurisdicion
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+situaca ativainativa liquid
+
+natur jurid vid relaca text descrit
+
+principal ativ vid tabel cnaeibg
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+norm relacion unidad jurisdicion
+
+norm criaca alter unidad jurisdicion
+
+text identific norm dat public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion
+
+text identific norm dat public
+
+
+
+manu public relacion ativ unidad jurisdicion
+
+text identific norm dat public
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+unidad gestor relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+gesta relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+relacion entr unidad gestor gesta
+
+codig siaf unidad gestor
+
+codig siaf gesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+pod orga vincul
+
+
+
+
+pod pod dev entr seguint opca executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul orga uj subordin hierarquic exerc supervisa funcional orcamentariafinanceir sobr unidad
+
+
+
+
+codig siorg codig identific uj assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+identific unidad jurisdicion
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj unidad orcament
+
+
+
+codig siaf codig identific uj constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+situaca situaca uj consider ativ quand uj est oper normal ativ inat quand uj est oper mais negoci apes permanec exist enquant unidad administrat pesso jurid liquid quand uj est process liquid
+
+
+
+natur jurid natur jurid uj dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj cnaeibg
+
+
+
+telefonesfax contat telefon fax referente unidad apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj format httpwwwendereconainternet
+
+
+
+enderec postal enderec complet uj par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+norm relacion unidad jurisdicion
+
+
+
+
+norm criaca alter unidad jurisdicion norm criaca alter unidad jurisdicion constituica leis constitu modific status constitut uj unidad gestor aca public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion decret port instruca normat instruca operacion dem norm regulament gesta uj
+
+
+
+manu public relacion ativ unidad jurisdicion document public mid impress eou divulg mei eletron fit fornec orient gestor usuari par produca utiliz eficient eficaz produt servic produzidosofert pel unidad
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+
+
+
+unidad gestor relacion unidad jurisdicion
+
+
+
+
+codig siaf codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+nom nom ug relacion uj constant sistem siaf
+
+
+
+gesta relacion unidad jurisdicion
+
+
+
+
+codig siaf codig gesta constant sistem siaf associ despes eou receit aca vincul uj durant exercici
+
+
+
+nom nom gesta associ uj constant sistem siaf
+
+
+
+relacion entr unidad gestor gesta
+
+
+
+
+codig siaf ug codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+codig siaf gesta codig gesta constant sistem siaf associ despes eou receit aca vincul uj durant exercici
+
+
+
+
+
+
+
+
+
+
+
+relatori gesta consolid
+
+
+relatori gesta consolid apresent pel uj dev inform element identific complet uj consolid element identific resum uj consolid bem norm relacion constituica gesta unidad envolv inclu orient public manu public unidad gestor gesta realiz despes aca vincul uj conform model apresent quadr ii abaix descrev segu
+
+
+
+identific relatori gesta consolid
+
+
+
+pod orga vincul
+
+pod executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul text
+
+codig siorg
+
+identific unidad jurisdicion consolid
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+situaca ativa liquid
+
+natur jurid vid relaca text descrit
+
+principal ativ vid tabel cnaeibg
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+identific unidad jurisdicion consolid
+
+nom
+
+situaca
+
+codig siorg
+
+text
+
+ativainativa liquid
+
+
+
+
+
+
+
+
+
+norm relacion unidad jurisdicion
+
+norm criaca alter unidad jurisdicion
+
+text identific norm dat public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion
+
+text identific norm dat public
+
+
+
+manu public relacion ativ unidad jurisdicion
+
+text identific norm dat public
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+unidad gestor relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+
+
+gesta relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+relacion entr unidad gestor gesta
+
+codig siaf unidad gestor
+
+codig siaf gesta
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+pod orga vincul
+
+
+
+
+pod pod dev entr seguint opca executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul orga uj consolid subordin hierarquic exerc supervisa funcional orcamentariafinanceir sobr unidad
+
+
+
+
+codig siorg codig identific uj consolid assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+identific unidad jurisdicion consolid
+
+
+
+
+denomin complet denomin uj consolid depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj consolid normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj consolid assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj consolid unidad orcament
+
+
+
+codig siaf codig identific uj consolid constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+natur jurid natur jurid uj consolid dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj consolid conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj consolid cnaeibg
+
+
+
+telefonesfax contat telefon fax referente uj consolid apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj consolid format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj consolid format httpwwwendereconainternet
+
+
+
+enderec postal enderec complet uj consolid par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+
+
+
+identific unidad jurisdicion consolid
+
+
+
+
+nom titul uj realiz aca ambit consolid efetu sem constitu unidad consolid
+
+
+
+situaca situaca uj consolid consider ativ quand uj est oper normal ativ inat quand uj est oper mais negoci apes permanec exist enquant unidad administrat pesso jurid liquid quand uj est process liquid
+
+
+
+codig siorg codig identific ujs consolid assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+norm relacion unidad jurisdicion
+
+
+
+
+norm criaca alter unidad jurisdicion norm criaca alter unidad jurisdicion constituica leis decret constitu uj unidad gestor aca public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion outr norm infraleg relacion gesta estrutur uj decret port instruca normat instruca operacion dem norm regulament gesta uj
+
+
+
+manu public relacion ativ unidad jurisdicion manu public relacion uj document public mid impress eou divulg mei eletron fit fornec orient gestor usuari par produca utiliz eficient eficaz produt servic produz pel unidad
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+
+
+
+unidad gestor relacion unidad jurisdicion
+
+
+
+
+codig siaf codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+nom nom ug relacion uj constant sistem siaf
+
+
+
+gesta relacion unidad jurisdicion
+
+
+
+
+codig siaf codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+nom nom gesta associ uj constant sistem siaf
+
+
+
+relacion entr unidad gestor gesta
+
+
+
+
+codig siaf ug codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+codig siaf gesta codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+
+
+
+
+
+relatori gesta agreg
+
+
+relatori gesta agreg apresent pel uj dev inform element identific complet uj agreg uj agreg bem norm relacion constituica gesta unidad envolv inclu orient public manu public unidad gestor gesta realiz despes aca vincul uj conform model apresent quadr iii abaix descrev segu
+
+
+
+
+identific relatori gesta agreg
+
+
+
+pod orga vincul
+
+pod executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul text
+
+codig siorg
+
+identific unidad jurisdicion agreg
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+situaca ativa liquid
+
+natur jurid vid tabel
+
+principal ativ vid tabel
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+
+
+identific unidad jurisdicion agreg
+
+numer ordem
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+situaca ativa liquid
+
+natur jurid vid tabel
+
+principal ativ vid tabel
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+
+
+norm relacion unidad jurisdicion
+
+norm criaca alter unidad jurisdicion
+
+text identific norm dat public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion
+
+text identific norm dat public
+
+
+
+manu public relacion ativ unidad jurisdicion
+
+text identific norm dat public
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+unidad gestor relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+gesta relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+relacion entr unidad gestor gesta
+
+codig siaf unidad gestor
+
+codig siaf gesta
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+pod orga vincul
+
+
+
+
+pod pod dev entr seguint opca executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul orga uj agreg subordin hierarquic exerc supervisa funcional orcamentariafinanceir sobr unidad
+
+
+
+
+codig siorg codig identific uj agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+identific unidad jurisdicion agreg
+
+
+
+
+denomin complet denomin uj agreg depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj agreg normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj agreg unidad orcament
+
+
+
+codig siaf codig identific uj agreg constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+natur jurid natur jurid uj agreg dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj agreg conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj agreg cnaeibg
+
+
+
+telefonesfax contat telefon fax referente uj agreg apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj agreg format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj agreg format httpwwwendereconainternet
+
+
+
+enderec postal enderec complet uj agreg par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+identific unidad jurisdicion agreg
+
+
+
+
+numer ordem numer sequencial bas identif ordem identific uj agreg
+
+
+
+denomin complet denomin uj agreg depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj agreg normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj agreg unidad orcament
+
+
+
+codig siaf codig identific uj agreg constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+natur jurid natur jurid uj agreg dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj agreg conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj agreg cnaeibg
+
+
+
+telefonesfax contat telefon fax referente uj agreg apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj agreg format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj agreg format httpwwwendereconainternet
+
+
+
+enderec postal enderec postal uj agreg enderec complet unidad par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+norm relacion unidad jurisdicion
+
+
+
+
+norm criaca alter unidad jurisdicion norm criaca alter unidad jurisdicion constituica leis decret constitu uj unidad gestor aca public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion outr norm infraleg relacion gesta estrutur uj decret port instruca normat instruca operacion dem norm regulament gesta uj
+
+
+
+manu public relacion ativ unidad jurisdicion manu public relacion uj document public mid impress eou divulg mei eletron fit fornec orient gestor usuari par produca utiliz eficient eficaz produt servic produz pel unidad
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+
+
+
+unidad gestor relacion unidad jurisdicion
+
+
+
+
+codig siaf codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+nom nom ug relacion uj constant sistem siaf
+
+
+
+gesta relacion unidad jurisdicion
+
+
+
+
+codig siaf codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+nom nom gesta associ uj constant sistem siaf
+
+
+
+relacion entr unidad gestor gesta
+
+
+
+
+codig siaf ug codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+codig siaf gesta codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+
+
+relatori gesta consolid agreg
+
+
+relatori gesta consolid agreg apresent pel uj dev inform element identific complet uj consolid agreg uj agreg bem element identific resum uj consolid norm relacion constituica gesta unidad envolv inclu orient public manu public unidad gestor gesta realiz despes aca vincul uj conform model apresent quadr iv abaix descrev segu
+
+
+
+
+identific relatori gesta consolid agreg
+
+
+
+pod orga vincul
+
+pod executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul supervisa text
+
+codig siorg
+
+identific unidad jurisdicion consolid agreg
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+natur jurid vid tabel
+
+principal ativ vid tabel
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+
+
+
+
+identific unidad jurisdicion consolid
+
+nom
+
+situaca
+
+codig siorg
+
+text
+
+ativainativa liquid
+
+
+
+
+
+
+
+
+
+identific unidad jurisdicion agreg
+
+numer ordem
+
+denomin complet text
+
+denomin abrevi text
+
+codig siorg
+
+codig loa
+
+codig siaf
+
+situaca ativ liquid
+
+natur jurid vid tabel
+
+principal ativ vid tabel
+
+codig cna
+
+telefonesfax contat
+
+
+
+
+
+
+
+enderec eletron nomeendereconainternet
+
+pagin internet httpwwwendereconainternet
+
+enderec postal logradour cep cidad unidad feder
+
+
+
+norm relacion unidad jurisdicion
+
+norm criaca alter unidad jurisdicion
+
+text identific norm dat public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion
+
+text identific norm dat public
+
+
+
+manu public relacion ativ unidad jurisdicion
+
+text identific norm dat public
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+unidad gestor relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+gesta relacion unidad jurisdicion
+
+codig siaf
+
+nom
+
+
+
+text
+
+relacion entr unidad gestor gesta
+
+codig siaf unidad gestor
+
+codig siaf gesta
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+pod orga vincul
+
+
+
+pod pod dev entr seguint opca executivolegislativojudiciariofuncao essencial justic
+
+
+
+orga vincul orga uj consolid agreg subordin hierarquic exerc supervisa funcional orcamentariafinanceir sobr unidad
+
+
+
+codig siorg codig identific uj consolid agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+identific unidad jurisdicion consolid agreg
+
+
+
+
+denomin complet denomin uj consolid agreg depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj consolid agreg normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj consolid agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj consolid agreg unidad orcament
+
+
+
+codig siaf codig identific uj consolid agreg constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+natur jurid natur jurid uj consolid agreg dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj consolid agreg conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj consolid agreg cnaeibg
+
+
+
+telefonesfax contat telefon fax referente uj consolid agreg apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj consolid agreg format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj consolid agreg format httpwwwendereconainternet
+
+
+
+enderec postal enderec complet uj consolid agreg par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+identific unidad jurisdicion consolid
+
+
+
+
+nom titul orgaosent realiz aca ambit consolid efetu sem constitu unidad consolid agreg
+
+
+
+situaca situaca uj consolid consider ativ quand uj est oper normal ativ inat quand uj est oper mais negoci apes permanec exist enquant unidad administrat pesso jurid liquid quand uj est process liquid
+
+
+
+codig siorg codig identific ujs consolid assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+identific unidad jurisdicion agreg
+
+
+
+
+numer ordem numer sequencial bas identif ordem identific uj agreg
+
+
+
+denomin complet denomin uj agreg depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+denomin abrevi nom pel uj agreg normal trat pel mid pel sociedad
+
+
+
+codig siorg codig identific uj agreg assinal sistem inform organizacion govern federal siorg quand houv
+
+
+
+codig loa codig constant tabel institucional lei orcament anual loa quand uj agreg unidad orcament
+
+
+
+codig siaf codig identific uj agreg constant sistem integr administr financeir govern federal siaf quand houv
+
+
+
+natur jurid natur jurid uj agreg dentr seguint orga public autarqu empres public sociedad econom mist fundaca fund organiz social servic soci autonom
+
+
+
+principal ativ ativ finalist uj agreg conform tabel cadastr nacional ativ econom cna mant pel institut brasileir geograf estatist ibg
+
+
+
+codig cna codig classific complet principal ativ econom uj agreg cnaeibg
+
+
+
+telefonesfax contat telefon fax referente uj agreg apresent form ddd
+
+
+
+enderec eletron enderec internet normal utiliz par enviorecepca mensagens eletron par uj agreg format nomeendereconainternet
+
+
+
+pagin internet enderec internet normal utiliz par acess inform sobr uj agreg format httpwwwendereconainternet
+
+
+
+enderec postal enderec complet uj agreg par receb correspondente mei correi empres postal dev inclu identific complet logradour cep cidad unidad feder
+
+
+
+norm relacion unidad jurisdicion
+
+
+
+
+norm criaca alter unidad jurisdicion norm criaca alter unidad jurisdicion constituica leis decret constitu uj unidad gestor aca public
+
+
+
+outr norm infraleg relacion gesta estrutur unidad jurisdicion outr norm infraleg relacion gesta estrutur uj decret port instruca normat instruca operacion dem norm regulament gesta uj
+
+
+
+manu public relacion ativ unidad jurisdicion manu public relacion uj document public mid impress eou divulg mei eletron fit fornec orient gestor usuari par produca utiliz eficient eficaz produt servic produz pel unidad
+
+
+
+unidad gestor gesta relacion unidad jurisdicion
+
+
+
+
+unidad gestor relacion unidad jurisdicion
+
+
+
+
+codig siaf codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+nom nom ug relacion uj constant sistem siaf
+
+
+
+gesta relacion unidad jurisdicion
+
+
+
+
+codig siaf codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+nom nom gesta associ uj constant sistem siaf
+
+
+
+relacion entr unidad gestor gesta
+
+
+
+
+codig siaf ug codig sistem siaf unidad gestor ug realiz despes eou receit aca vincul uj durant exercici
+
+
+
+codig siaf gesta codig constant sistem siaf associ despes eou receit aca vincul unidad durant exercici relatori gesta
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr gesta orcament unidad consider ating objet met fisic financeir bem aca administrat consubstanci projet ativ contempl
+
+
+responsabil institucion unidad
+
+
+i competente
+
+
+ii objet estrateg
+
+
+b estrateg atuaca frent responsabil institucion
+
+
+i analis mapaplan estrateg unidad orga unidad estej inser
+
+
+ii plan aca referent exercici refer relatori gesta
+
+
+c program responsabil unidad
+
+
+i relaca program princip aca
+
+
+ii indic are unidad respons pel conduca program aca
+
+
+iii consider sobr ating met fisic financeir
+
+
+d desempenh operacional
+
+
+i evoluca receit despes
+
+
+ii indic desempenh
+
+
+iii analis desempenh
+
+
+
+objet imediat apresent result orcamentari fisic financeir alcanc pel gesta bas inform program execuca orcament fisic financeir consider objet program govern associ uj
+
+
+
+estrutur inform inform est organiz quadr agrup tres demonstrat distint qua sej program orcament execuca orcament indic institucion
+
+
+
+
+
+
+
+
+
+
+
+program orcament
+
+
+
+quadr program orcament uj dev preced inform identific unidad orcament uo det program orcament utiliz pel uj conform model abaix
+
+
+
+denomin unidad orcament
+
+codig uo
+
+codig siaf ugo
+
+text
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin unidad orcament titul atribu pel lei orcament anual loa exercici uo det program orcament execut pel unidad jurisdicion uj relacion relatori gesta
+
+
+
+codig uo codig atribu uo segund tabel classific institucional exped pel secret orcament federal sof
+
+
+
+codig siaf ugo codig atribu pel sistem siaf unidad gestor registr contabil credit atribu originari pel loa uo bem credit adicion receb pel uo exercici
+
+
+gestor preench inform dev preench mais tres quadr qua sej program despes corrent program despes capital quadr resum program despes reserv contingente segu analis critic program orcament tod demonstrat organiz grup despes pel tip credit adicion receb pel uo valor dev lanc r
+
+
+
+important demonstrat soment dev preench pel uj tamb uo detenh entr unidad gestor ug quaisqu ug registr contabil credit atribu originari pel loa uo bem credit adicion receb conced exercici
+
+
+
+
+
+
+
+
+
+
+program despes corrent
+
+
+
+primeir quadr denomin program despes corrent est organiz planilh cont tres colun dupl contempl tres grup despes categor econom despes corrent qua sej pessoal encarg soci jur encarg div outr despes corrent cad grup despes est segment exercici linh divid dois grup inform loa credit compost pel camp inform descrit segu
+
+
+
+
+program despes corrent
+
+
+
+orig credit orcamentari
+
+pessoal encarg soci
+
+jur encarg div
+
+outr despes corrent
+
+exercici
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+dotaca propost pel uo
+
+
+
+
+
+
+
+
+
+
+
+
+
+plo
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit
+
+suplement
+
+
+
+
+
+
+
+
+
+
+
+
+
+especi
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+extraordinari
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr oper
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+loa
+
+
+
+
+dotaca propost pel uo montant recurs propost pel unidad orcament par exam orga orcamentari setorial correspond tip detalh sistem sidor
+
+
+
+plo montant recurs propost projet lei lei orcament anual plo par exam congress nacional
+
+
+
+loa montant recurs atribu uo pel congress nacional
+
+
+
+credit
+
+
+
+
+suplement montant credit adicion tip suplement receb pel uo
+
+
+
+especi montant credit adicion tip especial receb pel uo divid dois subtip abert correspond credit especi abert propri exercici reabert correspond credit especi decorr aplic constituica federal ist credit especi abert exercici anterior reabert exercici gesta pel sald apur final exercici anterior
+
+
+
+extraordinari montant credit adicion tip extraordinari receb pel uo divid dois subtip abert correspond credit extraordinari abert propri exercici reabert correspond credit extraordinari decorr aplic constituica federal ist credit especi abert exercici anterior reabert exercici gesta pel sald apur final exercici anterior
+
+
+alem dess dois grup inform linh complet duas outr inform qua sej
+
+
+
+outr oper montant credit atribuidosreduz raza criaca transform uo consider valor posit negat registr cas dest ultim sinal negat
+
+
+
+credit cancel credit cancel long exercici salv cas criaca transform uo cuj montant dev registr linh referent outr oper registr apresent sinal negat consideral respect calcul
+
+
+fim conteud ultim linh demonstrat correspond seguint formul
+
+
+
+total dotaca inicial loa credit suplement credit especi credit extraordinari outr oper credit cancel
+
+
+
+
+
+
+
+
+
+
+
+program despes capital
+
+
+
+quadr seguint denomin program despes capital est organiz planilh cont tres colun dupl contempl tres grup despes categor econom despes capital qua sej invest inversa financeir outr despes capital cad grup despes est segment exercici mesm camp descrit demonstrat anterior
+
+
+
+
+program despes capital
+
+
+
+orig credit orcamentari
+
+invest
+
+inversa financeir
+
+outr despes capital
+
+exercici
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+dotaca propost pel uo
+
+
+
+
+
+
+
+
+
+
+
+
+
+plo
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit
+
+suplement
+
+
+
+
+
+
+
+
+
+
+
+
+
+especi
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+extraordinari
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr oper
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quadr resum program despes reserv contingente
+
+
+
+
+terceir quadr denomin quadr resum program despes reserv contingente apresent segu quadr resum dois demonstrat anterior contempl aind reserv contingente quand houv
+
+
+
+
+quadr resum program despes reserv contingente
+
+
+
+orig credit orcamentari
+
+despes corrent
+
+despes capital
+
+reserv contingente
+
+exercici
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+dotaca propost pel uo
+
+
+
+
+
+
+
+
+
+
+
+
+
+plo
+
+
+
+
+
+
+
+
+
+
+
+
+
+loa
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit
+
+suplement
+
+
+
+
+
+
+
+
+
+
+
+
+
+especi
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+extraordinari
+
+abert
+
+
+
+
+
+
+
+
+
+
+
+
+
+reabert
+
+
+
+
+
+
+
+
+
+
+
+
+
+credit cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr oper
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+preench tres quadr anterior uj dev proced analis critic program orcament origin adicional analis duas questa mod demonstr estagi atual alcanc pel uj gesta credit
+
+
+
+dotaca propost pel uo plo loa gestor dev examin compatibil limit orcamentari estabelec pel orga envolv gesta sistem orcamentari relaca necess credit uo par cumpriment program trabalh bem entr projet loa dotaca aprov pel congress nacional explicit consequente mudanc ocorr
+
+
+
+
+alter relevant ocorr dotaca exercici relaca dotaca exercici anterior dev preench gestor consider alter relevant par gesta ness cas gestor dev examin diferenc ocorr analis raza impact posit negat program uj
+
+
+alem dess questa gestor pod apresent outr inform ponder sobr dificuldad oportun surg durant exercici entr qua abertur credit adicion cancel credit solicit credit adicion atend afet process gesta orcament uj
+
+
+
+
+
+
+
+
+
+
+
+moviment orcament grup despes
+
+
+
+quart quadr denomin moviment orcament grup despes compreend conjunt credit orcamentari conced receb ug associ uj sej extern uj dev preench tod uj par efeit dest demonstrat conceituas moviment intern credit qualqu transferente credit entr uo mesm orga moviment extern credit moviment credit entr uo orga distint
+
+
+
+important dev inform moviment intern entr ug associ uj
+
+
+est quadr contempl cinc colun est divid dois grup inform primeir cont credit intern extern conced receb par realiz despes corrent enquant segund cont credit intern extern conced receb par realiz despes capital
+
+
+
+
+moviment orcament grup despes
+
+
+
+natur moviment credit
+
+ug concedent recebedor
+
+classific aca
+
+despes corrent
+
+pessoal encarg soci
+
+jur encarg div
+
+outr despes corrent
+
+moviment intern
+
+conced
+
+
+
+
+
+
+
+
+
+
+
+receb
+
+
+
+
+
+
+
+
+
+
+
+moviment extern
+
+conced
+
+
+
+
+
+
+
+
+
+
+
+receb
+
+
+
+
+
+
+
+
+
+
+
+natur moviment credit
+
+ug concedent recebedor
+
+classific aca
+
+despes capital
+
+invest
+
+inversa financeir
+
+outr despes capital
+
+moviment intern
+
+conced
+
+
+
+
+
+
+
+
+
+
+
+receb
+
+
+
+
+
+
+
+
+
+
+
+moviment extern
+
+conced
+
+
+
+
+
+
+
+
+
+
+
+receb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+ug concedent recebedor codig siaf ug extern uj conced receb credit orcamentari sej moviment intern extern
+
+
+
+classific aca classific institucional funcionalprogramat credit conced receb compost pel codig uo funca subfunca program aca estabelec program original loa necessari inform codig subtitul segu gestor dev preench valor conced receb correspondent grup despes
+
+
+
+important dev preench quant linh quant diferent credit conced eou receb
+
+
+preenchiment dest quadr gestor dev realiz analis critic concessa receb credit orcamentari moviment intern extern apresent justificat concessa receb ocorr exercici gesta analis impact realiz dess program conjunt recurs ger pel uj durant exercici
+
+
+
+
+
+
+
+
+
+
+
+
+execuca orcament
+
+
+execuca orcament compreend quatr demonstrat qua sej execuca orcament credit originari uj execuca orcament credit receb pel uj moviment execuca orcament program govern execuca fisic aca realiz pel uj
+
+
+quant dois primeir demonstrat cab observ compost tres quadr semelhant despes modal contrat despes corrent grup element despes despes capital grup element despes diferenc entr demonstrat resid fat primeir refer execuca credit inici receb loa credit adicion obtid long exercici enquant segund refer execuca credit receb moviment intern extern primeir soment dev preench pel uj tamb uo detenh entr ug aquel registr contabil tip credit enquant segund dev preench tod uj tenh sid benefici dess credit
+
+
+relaca dois demonstrat restant trat primeir analis cumpriment pel uj program govern constant plan plurianual govern federal par period ppa enquant segund cuid examin cumpriment met fisic relacion aca orcament constant loa responsabil uj primeir soment dev preench pel uj desempenh funca gerent program constant ppa enquant segund preenchiment obrigatori par tod uj
+
+
+
+
+
+
+
+
+
+execuca orcament credit originari uj
+
+
+despes modal contrat
+
+
+primeir quadr primeir demonstrat denomin despes modal contrat contempl duas colun inform sobr despes empenh despes liquid cad del divid exercici linh discrimin despes modal contrat divid grup totaliz grup totaliz licit encontras convit tom prec concorrente prega concurs consult enquant grup contrat diret inexigibil dispens grup regim execuca especial est supriment fund enquant grup pagament pessoal encontras pagament pessoal mei folh pagament diar fim grup totaliz denomin outr trat despes enquadr itens anterior
+
+
+
+
+despes modal contrat
+
+
+
+
+
+modal contrat
+
+despes empenh
+
+despes liquid
+
+
+
+
+
+
+
+
+
+licit
+
+
+
+
+
+
+
+
+
+convit
+
+
+
+
+
+
+
+
+
+tom prec
+
+
+
+
+
+
+
+
+
+concorrente
+
+
+
+
+
+
+
+
+
+prega
+
+
+
+
+
+
+
+
+
+concurs
+
+
+
+
+
+
+
+
+
+consult
+
+
+
+
+
+
+
+
+
+contrat diret
+
+
+
+
+
+
+
+
+
+dispens
+
+
+
+
+
+
+
+
+
+inexigibil
+
+
+
+
+
+
+
+
+
+regim execuca especial
+
+
+
+
+
+
+
+
+
+supriment fund
+
+
+
+
+
+
+
+
+
+pagament pessoal
+
+
+
+
+
+
+
+
+
+pagament folh
+
+
+
+
+
+
+
+
+
+diar
+
+
+
+
+
+
+
+
+
+outr
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp definica linh colun aquel atinent lei lei alter lei lei decret port mpog
+
+
+
+despes empenh montant empenh realiz pel uj
+
+
+
+despes liquid total despes pass pel fas liquid
+
+
+
+modal licit
+
+
+
+
+convit modal licit entr interess ram pertinent objet cadastr escolh convid numer minim tres pel uj afix local apropri cop instrument convocatori estend dem cadastr correspondent especial manifest inter antecedente vint quatr hor apresent propost
+
+
+
+tom prec modal licit entr interess devid cadastr atend tod condica exig par cadastr terceir dia anterior dat receb propost observ necess qualific
+
+
+
+concorrente modal licit entr quaisqu interess fas inicial habilit prelimin comprov possu requisit min qualific exig edital par execuca objet
+
+
+
+prega aquisica bens servic term lei
+
+
+
+concurs modal licit entr quaisqu interess par escolh trabalh tecnic cientif artist mediant instituica premi remuner vencedor conform criteri constant edital public imprens oficial antecedente minim quarent cinc dias
+
+
+
+
+consult modal licit men cinc pesso fisic jurid elev qualific cham apresent propost par fornec bens servic comuns
+
+
+
+
+
+
+contrat diret
+
+
+
+
+dispens montant recurs empenh term lei
+
+
+
+inexigibil montant recurs empenh term lei
+
+
+
+regim execuca especial
+
+
+
+
+supriment fund montant recurs empenh term decret
+
+
+
+pagament pessoal
+
+
+
+
+pagament folh valor pag pessoal mediant folh pagament
+
+
+
+diar valor pag pessoal mediant diar
+
+
+
+outr despes enquadr modal anterior
+
+
+
+
+despes corrent grup element despes
+
+
+segund quadr primeir demonstrat denomin despes corrent grup element despes cont quatr colun seguint camp despes empenh despes liquid valor inscrit rp process valor pag cad colun est divid exercici
+
+
+linh discrimin despes pel tres grup despes corrent qua sej despes pessoal jur encarg div outr despes corrent cad dest grup est organiz pel ordem tres princip element despes empreg classific mod decrescent raza montant empenh exercici enquant quart element totaliz denomin outr element grup acumul tod dem element despes grup
+
+
+
+despes corrent grup element despes
+
+
+
+grup despes
+
+despes empenh
+
+despes liquid
+
+rp process
+
+valor pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+despes pessoal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jur encarg div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr despes corrent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+despes empenh montant empenh realiz pel uj
+
+
+
+despes liquid total despes pass pel fas liquid
+
+
+
+valor inscrit rp process montant recurs inscrit rest pag aind tenh pass pel fas liquid
+
+
+
+valor pag somatori despes pass pel fas pagament
+
+
+
+element despes codig element despes defin anex ii port interministerial
+
+
+
+
+despes capital grup element despes
+
+
+
+terceir quadr primeir demonstrat denomin despes capital grup element despes mesm estrutur demonstrat anterior soment difer grup despes relacion invest inversa financeir amortiz div
+
+
+
+
+despes capital grup element despes
+
+
+
+grup despes
+
+despes empenh
+
+despes liquid
+
+rp process
+
+valor pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+invest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inversa financeir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amortiz div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+depo preench quadr gestor dev realiz analis critic gesta execuca orcament credit originari uj analis seguint questa
+
+
+
+alter significat ocorr exercici princip alter ocorr program orcament uj raza nov atribuica motiv cancel eou modific aca realiz exercici anterior destac princip alter montant despend grup element despes bem modal contrat
+
+
+
+
+contigenci exercici efeit gesta orcament provoc pel contingenci credit orcamentari despes financeir ocorr exercici destac consequente sobr result planej
+
+
+
+event negativosposit prejudicaramfacilit execuca orcament relaca event intern eou extern prejudicaramfacilit execuca orcament uj exempl problem pessoal licit licenci ambiental tempestiv liber recurs etc examin aind permanente efeit provoc event par exercici seguint
+
+
+
+
+
+alem dess questa gestor pod abord outr questa consider relevant par explan execuca orcament credit originari uj
+
+
+execuca orcament credit receb pel uj moviment
+
+
+
+
+dit anterior segund demonstrat denomin execuca orcament credit receb pel uj moviment contempl mesm estrutur inform demonstrat explan anterior diferenc entr demonstrat est fat primeir refer execuca credit inici receb loa credit adicion obtid long exercici enquant segund refer execuca credit receb moviment intern extern dev preench tod uj tenh sid benefici dess credit deixas discrimin quadr dest demonstrat semelhant quadr explan demonstrat anterior
+
+despes modal contrat
+
+
+
+despes modal contrat
+
+
+
+modal contrat
+
+despes empenh
+
+despes liquid
+
+
+
+
+
+
+
+
+
+licit
+
+
+
+
+
+
+
+
+
+convit
+
+
+
+
+
+
+
+
+
+tom prec
+
+
+
+
+
+
+
+
+
+concorrente
+
+
+
+
+
+
+
+
+
+prega
+
+
+
+
+
+
+
+
+
+concurs
+
+
+
+
+
+
+
+
+
+consult
+
+
+
+
+
+
+
+
+
+contrat diret
+
+
+
+
+
+
+
+
+
+dispens
+
+
+
+
+
+
+
+
+
+inexigibil
+
+
+
+
+
+
+
+
+
+regim execuca especial
+
+
+
+
+
+
+
+
+
+supriment fund
+
+
+
+
+
+
+
+
+
+pagament pessoal
+
+
+
+
+
+
+
+
+
+pagament folh
+
+
+
+
+
+
+
+
+
+diar
+
+
+
+
+
+
+
+
+
+outr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+despes corrent grup element despes
+
+
+
+despes corrent grup element despes
+
+
+
+grup despes
+
+despes empenh
+
+despes liquid
+
+rp process
+
+valor pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+despes pessoal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jur encarg div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr despes corrent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+despes capital grup element despes
+
+
+
+despes capital grup element despes
+
+
+
+grup despes
+
+despes empenh
+
+despes liquid
+
+rp process
+
+valor pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+invest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inversa financeir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amortiz div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element despes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem element grup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+depo preench quadr gestor dev realiz analis critic gesta execuca orcament credit receb pel uj moviment analis seguint questa
+
+
+
+alter significat ocorr exercici princip alter ocorr program orcament uj raza assunca nov atribuica cancel eou modific aca realiz exercici anterior destac princip alter montant despend grup element despes bem modal contrat
+
+
+
+
+contigenci exercici efeit gesta orcament provoc pel contingenci credit orcamentari despes financeir ocorr exercici destac consequente sobr result planej
+
+
+
+event negativosposit prejudicaramfacilit execuca orcament relaca event intern eou extern prejudicaramfacilit execuca orcament uj exempl problem pessoal licit licenci ambiental tempestiv liber recurs etc examin aind permanente efeit provoc event par exercici seguint
+
+
+alem dess questa gestor pod abord outr questa consider relevant par explan execuca orcament credit receb pel uj moviment
+
+
+
+
+
+
+execuca orcament program govern
+
+
+observ anterior demonstrat execuca orcament program govern apresent abaix soment dev preench pel uj tiv responsabil ger program govern inscrit lei plan plurianual ppa nest demonstrat destac dois grupament inform primeir denomin identific program govern trat inform financeir program enquant segund denomin inform sobr result alcanc trat inform sobr ating result alcanc pel uj relaca indic associ program pel lei ppa
+
+
+
+
+demonstrat execuca orcament program govern
+
+
+
+identific program govern
+
+codig ppa
+
+denomin
+
+dotaca
+
+despes empenh
+
+despes liquid
+
+rest pag process
+
+valor pag
+
+inicial
+
+final
+
+
+
+
+
+
+
+
+
+
+
+
+
+inform sobr result alcanc
+
+ordem
+
+indic unidad med
+
+referente
+
+indic previst exercici
+
+indic ating exercici
+
+dat
+
+indic inicial
+
+indic final
+
+
+
+text
+
+
+
+
+
+
+
+
+
+
+
+formul calcul indic
+
+text
+
+analis result alcanc
+
+text
+
+ordem
+
+indic unidad med
+
+referente
+
+indic previst exercici
+
+indic ating exercici
+
+dat
+
+indic inicial
+
+indic final
+
+
+
+text
+
+
+
+
+
+
+
+
+
+
+
+formul calcul indic
+
+text
+
+analis result alcanc
+
+text
+
+
+
+
+descrica camp
+
+
+
+
+identific program govern
+
+
+
+
+codig ppa identif codig atribu program pel lei aprov ppa par period
+
+
+
+denomin titul dad program pel lei
+
+
+
+dotaca inicial dotaca inicial atribu program pel loa exercici referente relatori gesta
+
+
+
+dotaca final dotaca final atribu program consider dotaca inicial alter sofr raza credit adicion
+
+
+
+despes empenh montant despes empenh pel program
+
+
+
+despes liquid montant despes liquid pel program
+
+
+
+rest pag process montant recurs inscrit rest pag process term lei
+
+
+
+valor pag montant valor pag exercici pel program
+
+
+
+inform sobr result alcanc
+
+
+
+
+ordem indic ordem sequencial apresent indic result program send obrigator analis cad indic constant lei ppa
+
+
+
+indic unidad med identif denomin indic express pel unidad med apresent ppa
+
+
+
+referente dat identif dat referente segund valor referente inicial indic apur conform indic ppa
+
+
+
+referente indic inicial identif valor inicial atribu indic inici ppa
+
+
+
+referente indic final identif valor pretend par indic final ppa
+
+
+
+indic previst exercici valor previst par indic alcanc exercici
+
+
+
+indic ating exercici valor efetiv alcanc pel indic exercici
+
+
+
+formul calcul indic formul segund indic calcul indic font prim inform utiliz tecnic metodologias calcul aplic
+
+
+
+analis result alcanc analis desenvolv pel gestor quant valor alcanc pel indic exercici discrimin caus consequente dest result
+
+
+preenchiment dest demonstrat gestor dev realiz analis critic execuca orcament program govern respond seguint questa
+
+
+
+contigenci exercici gestor dev examin efeit contigenci execuca orcament program govern destac consequente sobr ating indic result
+
+
+
+event negativosposit prejudicaramfacilit execuca program govern gestor dev apresent examin s consequente surg ocorrente event negativosposit porventur tenh prejudicadofacilit execuca program govern exempl problem pessoal licit licenci ambiental tempestiv liber recurs etc
+
+
+alem dess questa gestor pod analis outr questa tenh provoc impact gesta program govern responsabil tenh sid abord topic anterior
+
+
+
+
+
+
+
+
+
+
+execuca fisic aca realiz pel uj
+
+
+nest demonstrat gestor dev relacion aca orcament constant loa tenh sid objet gesta demonstrat compost dez itens inform compond linh detalh loa conform descrev segu
+
+
+
+
+execuca fisic aca realiz pel uj
+
+
+
+funca
+
+subfunca
+
+program
+
+aca
+
+tip aca
+
+prioridad
+
+unidad med
+
+met previst
+
+met realiz
+
+met realiz
+
+
+
+
+
+xxxx
+
+
+
+paop
+
+
+
+text
+
+
+
+
+
+
+
+
+
+
+
+xxxx
+
+
+
+paop
+
+
+
+text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+funca codig funca orcament relacion aca constant loa gesta uj
+
+
+
+subfunca codig subfunca orcament relacion aca constant loa gesta uj
+
+
+
+program codig program orcamentari relacion aca constant loa gesta uj
+
+
+
+aca codig aca orcament constant loa gesta uj
+
+
+
+tip aca classific aca quant tip pod p projet ativ op oper especial
+
+
+
+prioridad classific aca quant prioridad pod aca pac program aceler cresciment excet ppi aca ppi projet pilot invest dem aca priorit aca priorit
+
+
+
+unidad med unidad med assinal aca constant loa gesta uj
+
+
+
+met previst met previst realiz
+
+
+
+met realiz met efetiv realiz
+
+
+
+met realiz met realiz
+
+
+depo preench ess demonstrat gestor dev analis execuca fisic aca realiz pel uj analis seguint questa
+
+
+
+cumpriment met fisic analis circunstanci cumpriment met fisic analis impact result alcanc ating objet medi long praz uj
+
+
+
+aca apresent problem execuca evidenci aca apresent problem execuca especific natur mesm exempl dotaca insuficient contigenci obtenca licenc ambiental praz previst liber recurs orcamentari financeir fora praz previst problem licit etc
+
+
+
+aca super form significat met estabelec evidenci justificat aca super form significat met estabelec
+
+
+
+aca priorit ldo avali execuca aca uj frent aca priorit defin pel ldo examin diferenc posit negat porventur observ entr execuca realiz previst
+
+
+alem dess questa gestor pod analis outr questa tenh provoc impact execuca fisic aca realiz pel uj tenh sid abord topic anterior
+
+
+
+indic institucion
+
+
+alem preenchiment demonstrat relacion anterior gestor dev apresent indic institucion desenvolv pel uj par med produt servic result alcanc pel gesta exercici
+
+
+indic dev acompanh explan sucint sobr formul calcul consider util mensurabil par efeit dest instruca aspect retr relacion compreend
+
+
+
+util utiliz efet indic process tom decisa gerencial afet desempenh uj util indic est diret relacion representativ med fenomenoobjet ist comput unic expressa multipl vari correlacion fenomenoobjet indic util quand traduz par observ fenomenoobjet situaca relacion inter analis exempl indic mec relaca entr numer professor numer alun class estud util par examin economic dess relaca pod util par examin eficac dess relaca observandos estud indic existente fort correl entr numer professor alun class fator important eficac ensin ministr ness sent util indic pod clar perceb quand ess indic utiliz referente par tom decisa gerenci afet desempenh uj
+
+
+
+mensurabil viabil efet fenomenoobjet med intermedi indic mensurabil indic decorr principal conjug tres fator associ produca indic qua sej complex auditabil economic indic boa mensurabil dev possu grau complex proporcional menor fenomenoobjet dev audit terceir permit mesm result sej alcanc bas mesm inform utiliz pel uj dev econom ist cust produca indic dev proporcional cust associ fenomenoobjet desej analis exist valor defin par relaca entr cust produca indic cust associ fenomen indicat internacion apont cust total medica dev ultrapass valor fenomenoobjet med
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr recurs human unidad contempl seguint perspect
+
+
+composica recurs human
+
+
+b inform sobr contrat terceiriz maodeobr
+
+
+c indic gerenci sobr recurs human institu pel unidad inform possu
+
+
+d analis critic sobr situaca recurs human
+
+
+
+objet imediat obter inform quantitat qualitat sobr gesta recurs human uj possibilit unidad tecnic analis gesta quadr pessoal tant dimensa operacional quant dimensa estrateg
+
+
+
+estrutur inform inform est estrutur mod obter dad quantitat sobr composica cust ultim tres anos quadr recurs human uj propri terceiriz dad quantitat sobr contrat terceiriz maodeobr indic gerenci porventur institu pel uj sobr gesta recurs human analis critic uj sobr situaca gesta recurs human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+composica recurs human
+
+
+composica recurs human uj dev demonstr dois quadr primeir compreend demonstrat explicit lotaca efet autoriz recurs human uj apur quantitat pessoal consider ideal pel uj enquant segund contempl cust financeir associ gesta recurs human exercici referente dois anterior
+
+
+quadr abaix correspondent primeir demonstrat compreend quatr colun sab natur funcional ocupant carg lotaca efet lotaca autoriz lotaca consider ideal pel uj
+
+
+composica quadr recurs human
+
+situaca apur
+
+regim ocupant carg
+
+lotaca efet
+
+lotaca autoriz
+
+lotaca ideal
+
+estatutari
+
+
+
+
+
+
+
+propri
+
+
+
+
+
+
+
+requisit
+
+
+
+
+
+
+
+celet
+
+
+
+
+
+
+
+carg livr proviment
+
+
+
+
+
+
+
+estatutari
+
+
+
+
+
+
+
+estatutari
+
+
+
+
+
+
+
+terceiriz
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+estatutari servidor ocupant carg vincul regim jurid unic lei ocupant carg livr proviment uj
+
+
+
+propri servidor estatutari vincul quadr propri pessoal uj vincul carreir estad lot uj
+
+
+
+requisit servidor vincul outr uj incorpor quadr pessoal uj mediant requisica
+
+
+
+celet funcionari uj reg pel regim consolid leis trabalh
+
+
+
+carg livr proviment somatori carg livr nomeaca pel gestor
+
+
+
+estatutari servidor ocupant carg vincul regim jurid unic lei ocupant carg livr proviment uj
+
+
+
+estatutari servidor ocupant carg vincul regim jurid unic lei ocupant carg livr proviment uj
+
+
+
+terceiriz prestador servic vincul contrat firm entr uj empres fornecedor mao obr
+
+
+
+lotaca efet quantitat pessoal lot uj
+
+
+
+lotaca autoriz quantitat pessoal passivel contrat pel uj
+
+
+
+lotaca ideal quantitat pessoal consider ideal pel uj par faz frent ativ desenvolv exercici pel uj
+
+
+
+total somatori colun lotaca segund equaca servidor efet carg livr proviment terceiriz
+
+
+quadr abaix contempl composica cust associ quadr recurs human uj propri terceiriz estand divid duas estrutur inform distint descrev segu
+
+
+
+
+composica cust recurs human exercici
+
+
+
+
+quadr propri
+
+tipolog
+
+qtd
+
+venciment vantagens fix
+
+retribuica
+
+gratific
+
+adicion
+
+indeniz
+
+estatutari inclusiv ced onus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+celet inclusiv ced onus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+carg proviment comissa natur especial sem vincul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisit onus par uj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisit sem onus par uj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quadr terceiriz
+
+final
+
+conserv vigilanc
+
+apoi administrat
+
+ativ
+
+areafim
+
+estagiari
+
+qtd
+
+cust
+
+qtd
+
+cust
+
+qtd
+
+cust
+
+qtd
+
+cust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+primeir estrutur inform referent quadr propri recurs human uj encontras divid cinc grup inform estatutari inclusiv ced onus celet inclusiv ced onus carg proviment comissa natur especial sem vincul requisit onus par uj requisit sem onus par uj cad grup compreend seis itens inform referent exercici
+
+
+
+qtd quantitat recurs human uj
+
+
+
+venciment vantagens fix valor pag r mil titul venciment vantagens fix
+
+
+
+retribuica valor pag r mil titul retribuica
+
+
+
+gratific valor pag r mil titul gratific
+
+
+
+adicion valor pag r mil titul adicion
+
+
+
+indeniz valor pag r mil titul indeniz
+
+
+preenchiment quadr propri recurs human dev consider cad grup inform preenchendos seis itens inform acim descrit par exercici
+
+
+par preenchiment quadr propri recurs human dev observ seguint
+
+
+indic naoaplic dev assinal pel sigl correspondent aplic
+
+
+quantidad servidor inform camp qtd dev refer dat
+
+
+valor financeir inform respeit valor acumul long exercici excluindos comput valor pag titul aposentador pensa referent servidor funcionari tenh aposent falec
+
+
+inform referent ocupant carg proviment comissa natur especial vincul dev inclu primeir segund grup inform estatutari celet conform cas
+
+
+inform referent pessoal contrat egid lei dev inclu segund grup inform celet
+
+
+aind uj valh terminolog diferent total cust remuneratori incorr dev inform total mei rubric constant cad grup inform
+
+
+cust previdenciari part patronal pagament fgts dev desconsider
+
+
+segund estrutur referent quadr terceiriz recurs human uj est divid quatr grup inform distint conserv vigilanc apoi administrat outr ativ estagiari cad grup compreend dois itens inform comuns tamb referent exercici qua sej
+
+
+
+qtd quantitat recurs human uj
+
+
+
+cust valor pag milh rea pel uj contrat terceiriz titul grup inform
+
+
+preenchiment quadr terceiriz recurs human dev feit par cad grup inform preenchendos dois itens inform acim descrit par anos
+
+
+par efeit preenchiment quadr terceiriz dev observ valor inform dev contempl tod cust contratu inclusiv decorrent term adit hav decorr exercici
+
+
+
+
+
+
+
+contrat terceiriz areafim
+
+
+quadr abaix descrimin contrat terceiriz maodeobr par contrat pessoal areafim send compost unic estrutur inform descrev segu
+
+
+
+demonstrat contrat terceiriz areafim exercici
+
+
+
+nat
+
+contrat
+
+empres contrat
+
+cnpj
+
+vigenc contrat
+
+nivel escolar
+
+sit
+
+medi
+
+superior
+
+inici
+
+fim
+
+at
+
+ef
+
+at
+
+ef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ
+
+
+
+
+descrica camp
+
+
+
+estrutur inform demonstrat compost pel seguint camp
+
+
+
+nat natur contrat pod ordin emergencial
+
+
+
+contrat codig identific contrat terceiriz adot pel uj
+
+
+
+empres contrat cnpj codig cadastr nacional pessoal jurid receit federal brasil empres contrat pel uj par fornec maodeobr terceiriz
+
+
+
+vigenc contrat dat inici fim contrat terceiriz
+
+
+
+numer funcionari nivel escolar numer servidor suport pel contrat terceiriz descrimin nivel escolar medi superior distinguindos par cad nivel numer contrat previst contrat at quantidad funcionari contrat ef
+
+
+
+sit situaca contrat pod ativonormal ativoprorrog p encerr
+
+
+
+observ med adot pel uj par dar cumpriment acorda tcu p
+
+
+preenchiment demonstrat contrat terceiriz areafim dev feit par cad contrat terceiriz tenh vig exercici mesm encerr final exercici
+
+
+par efeit preenchiment demonstrat contrat terceiriz areafim dev observ inform dev refer dat dezembr cas contrat ativ dat encerr contrat cas contrat encerr
+
+
+
+
+
+
+
+
+indic gerenci sobr recurs human
+
+
+inform pertinent indic gerenci sobr recurs human depend existente manutenca tais indic pel propr uj portant quand disponiv tais indic dev inform mod explicit padra utiliz objet mensur objet met fix fim conclusa quantitat qualitat dai decorrent sobr gesta recurs human
+
+
+especial sem prejuiz outr indic uj consider adequ inform interess aquel trat seguint absente acident trabalh doenc ocupacion perfil etari rotativ turnov formaca academ educ continu satisf motiv disciplin desempenh funcional niv salari demand trabalh
+
+
+
+
+
+
+
+
+
+analis critic
+
+
+analis critic sobr situaca gesta recurs human present efeit medi long praz obrigator aplic tod uj
+
+
+ness context sem prejuiz outr abordagens uj consider adequ inform interess uj inform sobr
+
+
+adequ quantitat qualitat quadr missa organizacional
+
+
+adequ quantitat areamei relaca areafim
+
+
+desempenh funcional servidor funcionari
+
+
+necess reduca ampliaca quadr recurs human tant propri quant terceiriz
+
+
+necess renov quadr propri recurs human medi long praz
+
+
+plan capacit quadr recurs human
+
+
+efeit plan demission quand existent
+
+
+impact terceiriz produtiv uj
+
+
+polit remunerator uj
+
+
+situaca evoluca passiv trabalh vincul uj
+
+
+cumpriment cronogram med adot pel orga ministerial supervisor par substituica terceiriz indev ativ finalist administr public quand houv
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr reconhec passiv insuficiente credit recurs
+
+
+
+objet imediat obter inform quantitat sobr reconhec passiv insuficiente credit recurs mod analis gesta dess passiv exercici dimensa operacional
+
+
+
+estrutur inform inform estrutur mod obter mediant preenchiment quadr reconhec passiv insuficiente credit recurs especific valor inscrit ness rubric bem raza motiv inscrica providente adot pel uj par regulariz ess situaca
+
+
+
+
+
+
+
+
+
+
+
+reconhec passiv insuficiente credit recurs
+
+
+quadr abaix contempl inform contabiliz pel unidad gestor ug associ uj sistem integr administr financeir govern federal siaf cont contabil titul reconhec passiv insuficiente credit recurs descrev segu
+
+
+
+
+reconhec passiv insuficiente credit recurs exercici
+
+
+
+
+moviment cont contabil
+
+ug
+
+credor cnpjcpf
+
+sald inicial
+
+moviment devedor
+
+moviment credor
+
+sald final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+ug unidad gestor sistem siaf associ uj realiz lancament contabil credor eou devedor cont
+
+
+
+credor codig cadastr nacional pesso jurid cnpj pesso fisic cpf receit federal brasil credor credit recurs conform est sej pesso jurid fisic
+
+
+
+sald inicial valor inicial registr cont r
+
+
+
+moviment credor lancament anual credit realiz cont titul credor r
+
+
+
+moviment devedor lancament anual debit realiz cont titul credor r
+
+
+
+sald final valor registr cont dia r dev correspond seguint equaca sald inicial moviment credor moviment devedor
+
+
+par preenchiment quadr acim dev consider tod credor tinh sald inicial diferent zer inici exercici acresc daquel tiv reconhec passiv long exercici independent posica sald final apur termin exercici
+
+
+
+
+
+
+
+
+
+
+analis critic
+
+
+analis critic gesta reconhec passiv insuficiente credit recurs dev explicit raza ensej constituica nov passiv long exercici providente adot par regulariz passiv constitu
+
+
+adem uj dev apresent analis circunstanci sobr impact passiv reconhec sobr gesta orcament financeir uj
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr inscrica rest pag exercici sald rest pag exercici anterior
+
+
+
+objet imediat obter inform quantitat sobr pagament rest pag rp mod analis gesta dess pagament exercici dimensa operacional
+
+
+
+estrutur inform inform est estrutur mod obter dad referent execuca rest pag process naoprocess hav exercici mediant preenchiment quadr pagament rest pag exercici
+
+
+
+
+
+
+
+
+
+
+
+
+pagament rest pag
+
+
+quadr abaix contempl valor acumul exercici referent pagament rest pag estand div duas part rest pag process rest pag process cont mesm estrutur inform descrev segu
+
+
+
+
+pagament rest pag exercici
+
+
+
+
+rest pag process
+
+ana inscrica
+
+inscrit
+
+cancel
+
+pag
+
+pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rest pag process
+
+ana inscrica
+
+inscrit
+
+cancel
+
+pag
+
+pag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ
+
+
+
+
+
+
+descrica camp
+
+
+
+
+ana inscrica ana ocorr inscrica rest pag pel uj
+
+
+
+
+inscrit valor inscrit pel uj ana inscrica
+
+
+
+cancel somatori valor cancel desd inscrica rest pag final exercici
+
+
+
+pag somatori valor pag pel uj final titul rest pag
+
+
+
+pag result seguint equaca rest pag inscrit rest pag cancel valor pag
+
+
+
+observ relaca atos leg autoriz pagament exercici rp process naoprocess inscrit
+
+
+par preenchiment quadr acim dev consider tod valor execut cancel pag referent cad exercici anterior houv ocorr inscrica rest pag
+
+
+
+
+
+
+
+
+
+analis critic
+
+
+analis critic sobr gesta pagament rest pag exercici anterior obrigator aplic tod uj tenh sald rp final exercici tenh realiz pagament ess titul ness exercici
+
+
+ness context sem prejuiz outr abordagens uj consider adequ desenvolv import uj analis
+
+
+evoluca estrateg pagament rp adot pel uj
+
+
+impact porventur existent gesta financeir uj exercici decorrent pagament rp ness exercici
+
+
+raza eou circunstanc existent par permanente rp process process mais exercici financeir
+
+
+existente houv registr sistem integr administr financeir govern federal siaf valor referent rest pag exercici anterior sem vigenc tenh sid prorrog decret
+
+
+event negat eou posit prejudic eou facilit gesta rp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr transferente mediant conveni acord ajust term parc outr instrument congen bem titul subvenca auxili contribuica
+
+
+
+objet imediat obter inform sobr transferente mediant conveni contrat rep term cooper term parc bem transferente titul subvenca auxili contribuica
+
+
+
+estrutur inform inform estrutur mod obter mediant preenchiment quadr detalh transferente especific valor transfer bem aca destac par control acompanh
+
+
+
+observ quadr detalh transferente soment dev cont aquel vigent exercici
+
+
+
+
+
+
+quadr detalh transferente
+
+
+quadr abaix contempl valor transferente vigent exercici uj dev inform concedent conjunt transferente vigent exercici apresent tip transferente identific convenent valor contrapart pactu rep efetu exercici desd inici vigenc transferente dat inici fim vigenc consider tod term adit situaca transferente registr sistem siaf preenchiment dest quadr gestor dev proced analis critic sobr gesta transferente vigent exercici
+
+
+quadr detalh transferente
+
+concedent
+
+ug cnpj
+
+text
+
+
+
+
+
+tip
+
+identific
+
+convenent
+
+valor pactu
+
+contrapart pactu
+
+rep total exercici
+
+rep exercici
+
+vigenc
+
+sit
+
+inici
+
+fim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+concedent ness camp dev preench ug orga concedent constant sistem siaf cas concedent sej orga administr diret cnpj cas concedent sej entidad administr indiret segu denomin orga raza social entidad concedent estiv oper consorci dev preench tant identific quant necess par identific tod membr consorci concedent
+
+
+preench concedent dev relacion tod conveni vincul qua tera seguint estrutur inform
+
+
+
+tip identif tip transferente realiz conform descrimin abaix
+
+
+conveni acord ajust disciplin transferente recurs financeir dotaca consign orcament fiscal segur social unia tenh particip lad orga entidad administr public federal diret indiret outr lad orga entidad administr public estadual distrital municipal diret indiret aind entidad priv sem fins lucrat vis execuca program govern envolv realiz projet ativ servic aquisica bens event inter reciproc regim mutu cooper
+
+
+contrat rep instrument administrat mei transferente recurs financeir process intermedi instituica agent financeir public federal atu mandatari unia
+
+
+term parc instrument administrat mei realiz transferente recurs financeir organiz sociedad civil inter public oscip term lei marc
+
+
+term cooper tecnic instrument mei ajust transferente credit orga entidad administr public federal par outr orga federal mesm natur autarqu fundaca public empres estatal dependent
+
+
+term compromiss instrument pel realiz transferente obrigator recurs par pac term lei novembr
+
+
+
+identific transferente nest camp dev inform codig transferente registr sistem siaf
+
+
+
+convenent nest camp dev registr cnpj cpf uj convenent cas mesm sej pesso jurid pesso fisic orga administr
+
+
+
+valor pactu nest camp dev inform r mil valor total pactu final exercici referent relatori gesta consider tod term adit term original transferente
+
+
+
+contrapart pactu valor contrapart financeir valor monetariz contrapart efetu bens servic descrica bem servic monetariz oferec contrapart
+
+
+
+rep total exercici nest camp dev inform r mil valor total recurs transfer convenent final exercici referent relatori gesta
+
+
+
+rep exercici nest camp dev inform r mil valor total recurs transfer convenent exercici referent relatori gesta
+
+
+
+vigenc vigenc est divid dois camp vigenc inicial correspond dat inici execuca conveni vigenc final correspond dat estim termin conveni considerandos tod term adit
+
+
+
+situaca situaca correspond codig situaca conveni constant sistem siaf adimplent exclu inadimplent cancel rescind conclu inadimplente suspens sald baix arquiv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+analis critic
+
+
+analis critic sobr situaca gesta transferente vigent exercici efeit medi long praz obrigator aplic tod uj
+
+
+ness context sem prejuiz outr abordagens uj consider adequ inform interess uj inform sobr
+
+
+med adot par san transferente situaca tip inadimplent
+
+
+situaca transferente efetu exercici frent dispost decret l decret redaca dad pel decret legislacion alter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+item part anex ii dn tcu outubr
+
+
+
+
+text inform sobr renunc tribut cont declar gestor beneficiari diret renunc bem contrapart comprov exercici encontr situaca regul relaca pagament tribut junt secret receit federal brasil srfb fund garant temp servic fgts segur social
+
+
+
+objet imediat obter panoram geral acerc renunc receit pratic pel uj viabiliz exam acerc legal legitim eficiente eficac efetiv
+
+
+
+observ
+
+
+
+acord lei complement lei responsabil fiscal lrf term renunc receit compreend concessa prorrog ampliaca anist remissa subsidi natur tribut financeir creditic credit presum isenca carat geral reduca discrimin aliquot bas calcul relat impost tax contribuica outr benefici correspond tratament diferenci
+
+
+i lrf especif cas alter aliquot qua aplic conceit renunc receit qua sej impost previst i ii iv v constituica form
+
+
+term carat geral reduca discrimin tratament diferenci respeit disposit legal excepcion legislacion instituidor tribut objet especif alcanc grup especif contribuint setor regia tais expressa dev interpret restritiv cas concessa isenca alter aliquot modific bas calcul outr benefici turn anist remissa subsidi credit presum tant carat geral especif consider renunc receit
+
+
+est instruca reca sobr modal renunc receit benefici tributari tamb denomin gast tributari acord roqu antoni carrazz incent tributari situams camp extrafiscal sej empreg par fins fisc ordinatori ist par condicion comport virtu contribuint propri par abastec dinheir cofr public
+
+
+
+
+
+
+
+
+
+
+
+
+renunc tribut conced pel uj
+
+
+quadr abaix contempl inform sobr tribut renunc incid legislacion disciplin renunc leis decret port etc natur conform dispost lrf objet socioeconom renunc condica impost par fruica benefici tributari contrapart discrimin criteri estabelec par cumpriment legislacion defin conform descrev segu
+
+
+
+
+
+
+renunc tribut conced pel uj
+
+
+
+tribut
+
+legislacion
+
+natur renunc
+
+lrf
+
+objet socioeconom
+
+contrapart exig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+tribut rubric receit tribut impost tax contribuica par qua est send previst renunc bem renunc correspondent conced anos anterior aind estej vigor ex icms ipv ir tax ilumin etc
+
+
+
+legislacion normat disciplin renunc leis decret port etc
+
+
+
+natur renunc modal renunc par cad espec tribut anist remissa subsidi credit presum isenca carat geral alter aliquot modific bas calcul outr benefici conform dispost lrf
+
+
+
+objet socioeconom objet socioeconom vis renunc indic document ato normat administrat qua tais objet descrit fundament
+
+
+
+contrapart exig condica exig par contribuint poss usufru renunc tribut dev indic disposit normat estabelec normal renunc exig invest recurs financeir materi ativ vist promov desenvolv econom pretend alem contrapart mei aplic recurs determin setorativ outr tip contrapart tamb pod exig exempl implant sistem qualidad empres benefici
+
+
+
+
+
+
+
+valor conced titul renunc receit respect contrapart
+
+
+quadr abaix contempl valor receit renunci captaca recurs decorrent contrapart exig exercici refer relatori gestaoprocess cont dois anterior
+
+
+
+valor conced titul renunc receit respect contrapart
+
+
+
+valor
+
+
+
+
+
+
+
+previst
+
+realiz
+
+previst
+
+realiz
+
+previst
+
+realiz
+
+renunc
+
+
+
+
+
+
+
+
+
+
+
+
+
+contrapart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+renunc valor tribut arrecad raza benefici tributari conced exercici
+
+
+
+contrapart montant recurs financeir aplic form contrapart exig par fruica renunc tribut exercici
+
+
+
+previst valor previst par receit renunci par recurs aplic contrapart exercici
+
+
+
+realiz valor efetiv arrecad raza renunc efetiv aplic contrapart exig exercici
+
+
+
+
+
+
+
+
+
+
+usufrutuari diret renunc pesso jurid fisic
+
+
+dois quadr segu contempl quantitat pesso fisic jurid usufru diret renunc beneficiari diret deix recolh valor total impost dev cofr public respectiv valor renunci pel unidad feder exercici refer relatori gesta dois anterior
+
+
+
+usufrutuari diret renunc pesso fisic
+
+
+
+uf
+
+
+
+
+
+
+
+quantidad
+
+valor renunci
+
+quantidad
+
+valor renunci
+
+quantidad
+
+valor renunci
+
+ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+al
+
+
+
+
+
+
+
+
+
+
+
+
+
+ap
+
+
+
+
+
+
+
+
+
+
+
+
+
+am
+
+
+
+
+
+
+
+
+
+
+
+
+
+ba
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+df
+
+
+
+
+
+
+
+
+
+
+
+
+
+es
+
+
+
+
+
+
+
+
+
+
+
+
+
+go
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+mt
+
+
+
+
+
+
+
+
+
+
+
+
+
+ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+mg
+
+
+
+
+
+
+
+
+
+
+
+
+
+pa
+
+
+
+
+
+
+
+
+
+
+
+
+
+pb
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe
+
+
+
+
+
+
+
+
+
+
+
+
+
+pi
+
+
+
+
+
+
+
+
+
+
+
+
+
+rj
+
+
+
+
+
+
+
+
+
+
+
+
+
+rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro
+
+
+
+
+
+
+
+
+
+
+
+
+
+rr
+
+
+
+
+
+
+
+
+
+
+
+
+
+sc
+
+
+
+
+
+
+
+
+
+
+
+
+
+sp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+usufrutuari diret renunc pesso jurid
+
+
+
+uf
+
+
+
+
+
+
+
+quantidad
+
+valor renunci
+
+quantidad
+
+valor renunci
+
+quantidad
+
+valor renunci
+
+ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+al
+
+
+
+
+
+
+
+
+
+
+
+
+
+ap
+
+
+
+
+
+
+
+
+
+
+
+
+
+am
+
+
+
+
+
+
+
+
+
+
+
+
+
+ba
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+df
+
+
+
+
+
+
+
+
+
+
+
+
+
+es
+
+
+
+
+
+
+
+
+
+
+
+
+
+go
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+mt
+
+
+
+
+
+
+
+
+
+
+
+
+
+ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+mg
+
+
+
+
+
+
+
+
+
+
+
+
+
+pa
+
+
+
+
+
+
+
+
+
+
+
+
+
+pb
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe
+
+
+
+
+
+
+
+
+
+
+
+
+
+pi
+
+
+
+
+
+
+
+
+
+
+
+
+
+rj
+
+
+
+
+
+
+
+
+
+
+
+
+
+rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro
+
+
+
+
+
+
+
+
+
+
+
+
+
+rr
+
+
+
+
+
+
+
+
+
+
+
+
+
+sc
+
+
+
+
+
+
+
+
+
+
+
+
+
+sp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+uf unidad feder ond localiz usufrutuari diret renunc trat pesso jurid divers fili dev inform uf ond localiz matriz
+
+
+
+quantidad quantidad pesso fisic jurid usufru renunc exercici especific
+
+
+
+valor renunci valor dev sid recolh junt fazend public raza renunc tribut
+
+
+par preenchiment quadr acim uj dev solicit dad secret receit federal brasil med mesm encontr bas dad dess secret
+
+
+
+
+
+
+beneficiari renunc pesso fisic jurid
+
+
+dois quadr segu contempl quantitat pesso fisic jurid receb recurs oriund renunc respectiv valor receb distribuica pel unidad feder exercici refer relatori gesta dois anterior
+
+
+
+
+
+
+beneficiari renunc pesso fisic
+
+
+
+uf
+
+
+
+
+
+
+
+quantidad
+
+valor aplic
+
+quantidad
+
+valor aplic
+
+quantidad
+
+valor aplic
+
+ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+al
+
+
+
+
+
+
+
+
+
+
+
+
+
+ap
+
+
+
+
+
+
+
+
+
+
+
+
+
+am
+
+
+
+
+
+
+
+
+
+
+
+
+
+ba
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+df
+
+
+
+
+
+
+
+
+
+
+
+
+
+es
+
+
+
+
+
+
+
+
+
+
+
+
+
+go
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+mt
+
+
+
+
+
+
+
+
+
+
+
+
+
+ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+mg
+
+
+
+
+
+
+
+
+
+
+
+
+
+pa
+
+
+
+
+
+
+
+
+
+
+
+
+
+pb
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe
+
+
+
+
+
+
+
+
+
+
+
+
+
+pi
+
+
+
+
+
+
+
+
+
+
+
+
+
+rj
+
+
+
+
+
+
+
+
+
+
+
+
+
+rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro
+
+
+
+
+
+
+
+
+
+
+
+
+
+rr
+
+
+
+
+
+
+
+
+
+
+
+
+
+sc
+
+
+
+
+
+
+
+
+
+
+
+
+
+sp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+beneficiari renunc pesso jurid
+
+
+
+uf
+
+
+
+
+
+
+
+quantidad
+
+valor aplic
+
+quantidad
+
+valor aplic
+
+quantidad
+
+valor aplic
+
+ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+al
+
+
+
+
+
+
+
+
+
+
+
+
+
+ap
+
+
+
+
+
+
+
+
+
+
+
+
+
+am
+
+
+
+
+
+
+
+
+
+
+
+
+
+ba
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+df
+
+
+
+
+
+
+
+
+
+
+
+
+
+es
+
+
+
+
+
+
+
+
+
+
+
+
+
+go
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+mt
+
+
+
+
+
+
+
+
+
+
+
+
+
+ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+mg
+
+
+
+
+
+
+
+
+
+
+
+
+
+pa
+
+
+
+
+
+
+
+
+
+
+
+
+
+pb
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe
+
+
+
+
+
+
+
+
+
+
+
+
+
+pi
+
+
+
+
+
+
+
+
+
+
+
+
+
+rj
+
+
+
+
+
+
+
+
+
+
+
+
+
+rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro
+
+
+
+
+
+
+
+
+
+
+
+
+
+rr
+
+
+
+
+
+
+
+
+
+
+
+
+
+sc
+
+
+
+
+
+
+
+
+
+
+
+
+
+sp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+uf unidad feder ond localiz usufrutuari diret renunc trat pesso jurid divers fili dev inform uf ond localiz matriz
+
+
+
+quantidad quantidad pesso fisic jurid usufru renunc exercici especific
+
+
+
+valor aplic valor oriund renunc receb pel beneficiari exercici especific
+
+
+
+
+
+aca financi recurs renunc receit pel propr uj
+
+
+quadr abaix contempl aca financi recurs oriund renunc receit recurs orcament unia program projet ativ ger pel propr uj
+
+
+
+
+aplic recurs renunc receit pel propr uj
+
+
+
+renunc
+
+aca
+
+recurs renunci aplic
+
+recurs orcamentari liquid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+renunc legislacion institu renunc inclu identific ato normat dat public
+
+
+
+aca identific projet program ativ ger pel propr uj receb recurs oriund renunc receit eou recurs orcamentari
+
+
+
+recurs renunci aplic recurs efetiv liber par aplic program projet ativ benefici pel renunc receit
+
+
+
+recurs orcamentari liquid despes orcament liquid referent program projet ativ benefici pel contrapart renunc receit
+
+
+
+
+
+
+
+
+
+prestaca cont renunc receit
+
+
+quadr abaix contempl situaca prestaca cont referent aplic recurs oriund renunc exercici refer relatori gesta dois anterior seguint situaca apresent aguard analis analis aprov aprov
+
+
+
+
+
+
+prestaca cont renunc receit
+
+
+
+situaca
+
+
+
+
+
+
+
+qtd
+
+valor
+
+qtd
+
+valor
+
+qtd
+
+valor
+
+pc apresent
+
+
+
+
+
+
+
+
+
+
+
+
+
+pc aguard analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+pc analis
+
+
+
+
+
+
+
+
+
+
+
+
+
+pc aprov
+
+
+
+
+
+
+
+
+
+
+
+
+
+pc aprov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+qtd quantidad process prestaca cont cad situaca refer colun situaca
+
+
+
+valor montant recurs qua ref prestaca cont
+
+
+
+pc apresent quantidad prestaca cont apresent pel beneficiari renunc omissa term defin pel legislacion especif normatiz cad renunc tocant ess colun gestor dev explicit not explicat marc referencial part apresent prest cont pass consider omissa sujeitandos sanca previst dev inform tamb normat disciplin questa
+
+
+
+pc aguard analis quantidad prestaca cont encontr estoqu unidad aguard analis
+
+
+
+pc analis quantidad prestaca cont analis unidad
+
+
+
+pc aprov quantidad prestaca cont aprov conseguint sujeit sanca previst normat disciplin renunc
+
+
+
+pc aprov quantidad prestaca cont aprov
+
+
+
+
+
+
+
+
+
+indic gesta renunc receit
+
+
+quadr abaix contempl descrica indic gesta renunc receit bem particip valor renunci relaca pib nacional regional men relaca del geraca empreg diret indiret
+
+
+
+indic gesta renunc receit
+
+
+
+ana
+
+met
+
+renunciapib
+
+
+
+geraca empreg
+
+descrica
+
+indic
+
+prev
+
+real
+
+nac
+
+reg
+
+diret
+
+indiret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+met met defin par alcanc objet socioeconom projet program financi pel recurs renunci gestor dev inform not explicat document atos normat administrat qua met especific fundament
+
+
+
+descrica especific met alcanc exempl atend client exercici
+
+
+
+indic unidad med utiliz par averigu cumpriment met exempl atend exercici
+
+
+
+prev quantitat pretend alcanc determin met
+
+
+exempl
+
+
+
+real quantitat dentr aquel previst efetiv realiz exercici relatori gestaoprest cont refer
+
+
+exempl pesso atend pesso necessit atend x
+
+
+
+renunciapib particip porcentual renunc efet realiz exercici relaca produt intern brut nacional regional cas gestor disponh inform relat pib regional men nacional dev inform
+
+
+
+geraca empreg estimat empreg diret indiret ger part implement projet program financi recurs renunc receit
+
+
+
+
+
+
+
+
+
+declar
+
+
+declar abaix contempl model declar apresent pel gestor beneficiari diret renunc receit beneficiari contrapart comprov exercici encontr situaca regul pagament tribut junt secret receit federal brasil srfb fund garant temp servic fgts segur social atend dispost lei lei c lei i exceca beneficiari relacion final cumpr tais disposit
+
+
+
+
+declar
+
+
+
+gestor respons pel concessa pel acompanh fiscaliz benefici tributari cpf carg ocup pel respons declar par dev fins concessa renov benefici tributari previst normat disciplin concessa fruica benefici fiscal numer dat edica verific situaca regular beneficiari relaca pagament tribut junt secret receit federal brasil fund garant temp servic fgts segur social consonanc dispost constituica federal lei lei c lei i
+
+
+destac beneficiari abaix relacion cumpr tais disposit raza pel seguint med saneador adot med adot par cumpriment normat acim mencion
+
+
+
+brasil
+
+
+
+
+gestor
+
+
+
+
+cpf
+
+
+
+
+cargoun jurisdicion
+
+
+
+
+
+
+
+
+
+
+
+
+item part anex ii dn outubr
+
+
+
+
+text inform sobr providente adot par dar cumpriment determin recomend tcu exped exercici justificat par cas cumpriment
+
+
+
+objet imediat conhec providente adot pel unidad jurisdicion uj par dar cumpriment deliber tcu exped exercici gesta justificat par cumpriment mesm
+
+
+
+estrutur inform inform est estrutur quatr form distint primeir quand relatori gesta apresent unidad jurisdicion individual segund quand relatori gesta consolid unidad jurisdicion terceir quand relatori gesta apresent mod agreg quart quand relatori gesta consolid agreg unidad jurisdicion
+
+
+
+
+
+
+
+cumpriment deliber tcu
+
+
+inform sobr providente adot pel orga entidad jurisdicion tcu par dar cumpriment deliber justificat par cas cumpriment estrutur dois bloc inform unidad jurisdicion deliber tcu divid segund bloc duas part complement qua sej deliber exped pel tcu identif determin recomend lavr pel tcu nivel item acorda providente adot apresent inform apresent pel gestor sobr providente adot par dar cumpriment acorda justificat par cumpriment
+
+
+
+
+
+
+relatori cumpriment deliber tcu
+
+
+
+unidad jurisdicion
+
+denomin complet
+
+codig siorg
+
+
+
+
+
+deliber tcu
+
+deliber exped pel tcu
+
+ordem
+
+process
+
+acorda
+
+item
+
+tip
+
+comunic exped
+
+
+
+
+
+
+
+
+
+
+
+
+
+orgaoent objet determin eou recomend
+
+codig siorg
+
+
+
+
+
+descrica deliber
+
+
+
+providente adot
+
+setor respons pel implement
+
+codig siorg
+
+
+
+
+
+sintes providente adot justificat par cumpriment
+
+
+
+sintes result obtid
+
+
+
+analis critic fator positivosnegat facilitaramprejudic adoca providente pel gestor
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+unidad jurisdicion
+
+
+
+
+denomin complet denomin uj titul dad unidad jurisdicion vincul orgaoent objet deliber tcu sistem inform organizacion govern federal siorg sistem clientel tcu
+
+
+
+codig siorg codig assinal siorg par uj quand houv
+
+
+
+deliber tcu
+
+
+
+deliber apresent conjunt inform divid duas part primeir part compost seguint itens inform ordem identific process acorda item acorda tip deliber comunic exped respons bem identific orga entidad objet deliber descrica deliber conform public acorda
+
+
+segund part compreend seguint itens inform identific setor respons pel implement providente adot sintes providente adot justificat par cumpriment sintes result obtid providente adot analis critic fator positivosnegat facilitaramprejudic adoca providente result obtid quand cas
+
+
+
+deliber exped pel tcu
+
+
+
+
+ordem numer sequencial vari serv par identific intern deliber explan pel gestor
+
+
+
+process numer process tcu deu orig acorda format correspond seis primeir numer process numer seguint exercici autuaca process dois ultim digit verific serv par test validad numer process
+
+
+
+acorda combin inform seguint format pl send quatr primeir digit numer acorda dois seguint numer ata quatr segu exercici profer acorda enquant codig pl serv par identific colegi aprov acorda pl plenari primeir cam segund cam
+
+
+
+item item acorda objet explan pel gestor pod individual agreg item individual aquel desdobr subitens enquant item agreg desdobr subitens qua tamb dev consider explan gestor
+
+
+
+tip tip deliber adot pel tcu pod determin recomend re diligente di cientific ci
+
+
+
+comunic exped ofici avis envi pel tribunal par dar cienc respons sobr acorda lavr
+
+
+
+orgaosent objet deliber conjunt orga entidad destinatari deliber profer
+
+
+
+codig siorg codig assinal siorg par orgaoent destinatari deliber quand houv
+
+
+
+descrica deliber deliber constant item acorda supr refer
+
+
+
+providente adot
+
+
+
+
+setor respons pel implement unidad administrat encarreg dar cumpriment determin eou recomend refer item acorda
+
+
+
+codig siorg codig assinal siorg par setor respons pel implement quand houv
+
+
+
+sintes providente adot justificat par cumpriment sintes providente adot pel setor respons retr refer justificat mesm apresent par cumpriment deliber tribunal
+
+
+
+sintes result obtid sintes result decorrent providente adot encerr exercici
+
+
+
+analis critic fator positivosnegat facilitaramprejudic adoca providente pel gestor analis critic efetu pel gestor sobr fator positivosnegat facilitaramprejudic adoca providente pel gestor
+
+
+
+
+
+
+
+item part b anex ii dn outubr
+
+
+
+
+text declar contador respons pel unidad jurisdicion atest demonstrat contab balanc orcamentari financeir patrimonial demonstr variaca patrimoni previst lei marc demonstrat levant unidad gestor respons ugr val apen par unidad gestor executor reflet adequ situaca orcament financeir patrimonial unidad jurisdicion apresent relatori gesta
+
+
+
+objet evidenci responsabil contador quant registr analis elabor demonstr contab unidad jurisdicion uj
+
+
+
+estrutur inform declar pod elabor tres form distint acord julgament contador declar plen ressalv advers primeir quand demonstr contab reflet adequ situaca orcament financeir patrimonial uj apresent relatori gesta acord principi norm brasileir contabil segund quand discordanc contador sej tal magnitud requeir declar advers terceir quand demonstr contab reflet adequ situaca orcament financeir patrimonial uj apresent relatori gesta
+
+
+
+observ declar apresent relatori gesta dev extra declar lavr firm pel contador respons dev mant arquiv pel uj est afirm advers regular regular ressalv situaca orcament financeir patrimonial uj est declar dev fotocopi escane par inclu relatori gesta limitandos uj preench demonstrat segu defin conform situaca descrit pel contador
+
+
+
+
+
+
+declar plen ressalv advers
+
+
+declar contador respons uj apresent relatori gesta par dar cumpriment normat tcu incluira denomin complet uj codig uj siaf ug quand possu text declar acord quadr i ii iii plen ressalv advers apresent segu local dat elabor declar nom complet contador respons pel uj bem respect registr profissional conselh regional contabil crc
+
+
+
+
+
+quadr i
+
+
+
+declar contador
+
+declar plen
+
+denomin complet uj
+
+codig ug
+
+text
+
+xxx
+
+
+
+
+
+declar demonstrat contab constant sistem siaf balanc orcamentari financeir patrimonial demonstr variaca patrimoni previst lei marc reflet adequ situaca orcament financeir patrimonial unidad jurisdicion apresent relatori gesta
+
+
+
+cient responsabil civ profission dest declar
+
+
+
+local
+
+
+
+dat
+
+
+
+contador respons
+
+
+
+crc
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+codig ug codig siaf unidad gestor ug constant sistem integr administr financeir govern federal siaf utiliz modal total
+
+
+
+text declar camp destin registr declar contador segund model i ii iii constant anex dess iop
+
+
+
+local local feder ond situ uj eou ond declar elabor
+
+
+
+dat dia mes ana elabor declar
+
+
+
+contador respons nom contador respons pel contabil uj pel emissa declar
+
+
+
+crc numer registr contador junt conselh regional contabil
+
+
+
+
+
+
+
+
+
+quadr ii
+
+
+
+declar contador
+
+declar ressalv
+
+denomin complet uj
+
+codig ug
+
+text
+
+xxx
+
+
+
+
+
+declar demonstrat contab constant sistem siaf balanc orcamentari financeir patrimonial demonstr variaca patrimoni previst lei marc reflet adequ situaca orcament financeir patrimonial unidad jurisdicion apresent relatori gesta excet tocant
+
+
+
+b
+
+
+
+cient responsabil civ profission dest declar
+
+
+
+local
+
+
+
+dat
+
+
+
+contador respons
+
+
+
+crc
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+codig ug codig siaf unidad gestor ug constant sistem integr administr financeir govern federal siaf utiliz modal total
+
+
+
+text declar camp destin registr declar contador segund model i ii iii constant anex dess iop
+
+
+
+local local feder ond situ uj eou ond declar elabor
+
+
+
+dat dia mes ana elabor declar
+
+
+
+contador respons nom contador respons pel contabil uj pel emissa declar
+
+
+
+crc numer registr contador junt conselh regional contabil
+
+
+
+
+
+
+
+
+
+quadr iii
+
+
+
+declar contador
+
+declar advers
+
+denomin complet uj
+
+codig ug
+
+text
+
+xxx
+
+
+
+
+
+declar demonstrat contab constant sistem siaf balanc orcamentari financeir patrimonial demonstr variaca patrimoni previst lei marc reflet adequ situaca orcament financeir patrimonial unidad jurisdicion apresent relatori gesta
+
+
+
+cient responsabil civ profission dest declar
+
+
+
+local
+
+
+
+dat
+
+
+
+contador respons
+
+
+
+crc
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+codig ug codig siaf unidad gestor ug constant sistem integr administr financeir govern federal siaf utiliz modal total
+
+
+
+text declar camp destin registr declar contador segund model i ii iii constant anex dess iop
+
+
+
+local local feder ond situ uj eou ond declar elabor
+
+
+
+dat dia mes ana elabor declar
+
+
+
+contador respons nom contador respons pel contabil uj pel emissa declar
+
+
+
+crc numer registr contador junt conselh regional contabil
+
+
+
+item part b anex ii dn outubr
+
+
+
+
+text
+
+
+
+composica acion capital social indic princip acion respect percentu particip
+
+
+b posica uj detentor invest permanent outr sociedad investidor
+
+
+
+objet evidenci composica acion capital social uj bem posica detentor invest permanent outr sociedad investidor long exercici referente dois anterior possibilit unidad tecnic analis evoluca control acionari empres pertencent unia bem verific particip dess empres outr sociedad vist avali existente eou grau risc control existent
+
+
+
+estrutur inform inform estrutur duas form distint primeir quand refer composica acion capital social tend uj invest segund quand refer invest permanent mant pel uj investidor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+composica acion capital social
+
+
+composica acion capital social uj entidad invest incluira denomin complet relaca acion respect particip divid governament governament exercici referente dois anterior segregandos aca ordin preferenci acord quadr abaix
+
+
+composica acion capital social
+
+uj invest
+
+denomin complet
+
+text
+
+aca ordin
+
+acion
+
+
+
+
+
+
+
+governamental
+
+tesour nacional
+
+
+
+
+
+
+
+outr entidad governament
+
+
+
+
+
+
+
+fund pensa
+
+
+
+
+
+
+
+aca tesour
+
+
+
+
+
+
+
+governamental
+
+freefloat
+
+capital estrangeir
+
+
+
+
+
+
+
+pesso fisic
+
+
+
+
+
+
+
+pesso jurid
+
+
+
+
+
+
+
+capital estrangeir
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+aca preferenci
+
+acion
+
+
+
+
+
+
+
+governamental
+
+tesour nacional
+
+
+
+
+
+
+
+outr entidad governament
+
+
+
+
+
+
+
+fund pensa receb recurs public
+
+
+
+
+
+
+
+aca tesour
+
+
+
+
+
+
+
+governamental
+
+freefloat
+
+
+
+capital estrangeir
+
+
+
+
+
+
+
+pesso fisic
+
+
+
+
+
+
+
+pesso jurid
+
+
+
+
+
+
+
+capital estrangeir
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+aca ordin conjunt aca direit vot assemble est grup est divid dois subgrup acion governament governament
+
+
+
+governamental acion governament compost quatr tip sab tesour nacional outr entidad governament fund pensa receb recurs public aca tesour
+
+
+
+governamental acion governament compost tres tip sab pesso fisic pesso jurid capital estrangeir
+
+
+
+freefloat ness camp registr subtotaliz percentu particip aca entidad acion governament segund equaca pesso fisic pesso jurid capital estrangeir
+
+
+
+total camp destin totaliz particip governament governament
+
+
+
+aca preferenci conjunt aca sem direit vot assemble est grup est divid dois subgrup acion governament governament
+
+
+
+governamental acion governament compost quatr tip sab tesour nacional outr entidad governament fund pensa receb recurs public aca tesour
+
+
+
+governamental acion governament compost tres tip sab pesso fisic pesso jurid capital estrangeir
+
+
+
+freefloat ness camp registr subtotaliz percentu particip aca entidad acion governament segund equaca pesso fisic pesso jurid capital estrangeir
+
+
+
+total camp destin totaliz particip governament governament
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+composica acion uj investidor
+
+
+composica acion uj investidor incluira denomin complet relaca empres invest exercici referente dois anterior segregandos aca ordin preferenci acord quadr abaix
+
+
+invest permanent outr sociedad
+
+uj investidor posica
+
+denomin complet
+
+text
+
+aca ordin
+
+invest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+aca preferenci
+
+invest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+
+
+
+
+
+
+
+
+
+
+
+descrica camp
+
+
+
+
+denomin complet denomin uj depend natur jurid trat orga administr diret fund servic soci autonom denomin defin ato criaca mesm norm fix estrutur organ orga superior cas trat entidad administr indiret denomin apost registr constituica uj pesso jurid
+
+
+
+aca ordin conjunt aca direit vot assemble
+
+
+
+invest camp destin registr entidad uj possu invest permanent respect percentu particip abrang exercici referente dois exercici anterior
+
+
+
+total camp destin totaliz particip
+
+
+
+aca preferenci conjunt aca sem direit vot assemble
+
+
+
+invest camp destin registr entidad uj possu invest permanent respect percentu particip abrang exercici referente dois exercici anterior
+
+
+
+total camp destin totaliz particip
+
+
+
+
+
+
+
+
+

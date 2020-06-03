@@ -1,0 +1,207 @@
+administrat
+
+
+
+tribunal cont unia tend vist dispost paragraf decretol abril resolv
+
+
+capitul i
+grupoartesanat
+
+
+grupoartesanat codig tcultart fic constitu pel categor funcion abaix indic
+
+
+codig tcultart artific mecan
+
+
+codig tcultart artific eletric comunic
+
+
+codig tcultart artific carpint marcen
+
+
+codig tcultart artific artes grafic
+
+
+pod integr categor funcion trat anterior empreg vag ocup acord seguint criteri
+
+
+i categor funcional artific mecan especial motor combusta empreg mecan
+
+
+ii categor funcional artific eletric comunic especial eletric telecomunic empreg artific especializ atribuica eletric oper som respectiv
+
+
+iii categor funcional artific carpint marcen especial marcen empreg artific especializ atribuica marceneir
+
+
+iv categor funcional artific artes grafic especial impressa empreg artific especializ atribuica oper mimeograf
+
+
+capitul ii
+gruposerv auxili
+
+
+gruposerv auxili codig tcults fic constitu pel categor funcion abaix indic
+
+
+codig tcults agent administrat
+
+
+codig tcults datilograf
+
+
+
+
+
+
+
+
+pod integr categor funcion trat anterior empreg vag ocup acord seguint criteri
+
+
+i categor funcional agent administrat empreg auxili administrat auxili codific
+
+
+ii categor funcional datilograf empreg mecanograf
+
+
+paragraf unic empreg vag tecnic radiolog inclu categor funcional trat i dest
+
+
+capitul iii
+grupooutr ativ nivel superior
+
+
+grupooutr ativ nivel superior codig tcultns fic constitu pel categor funcion abaix indic
+
+
+codig tcultns medic
+
+
+codig tcultns enfermeir
+
+
+codig tcultns farmaceut
+
+
+codig tcultns engenheir
+
+
+codig tcultns bibliotecari
+
+
+pod integr categor funcion trat anterior empreg vag ocup acord seguint criteri
+
+
+i categor funcional medic empreg cardiolog clinic geral ginecoobstetr pediatr
+
+
+ii categor funcional enfermeir empreg enfermeir
+
+
+iii categor funcional farmaceut empreg farmaceut
+
+
+iv categor funcional engenheir empreg engenheir civil engenheir civil edific
+
+
+v categor funcional bibliotecari empreg bibliotecari
+
+
+capitul iv
+grupooutr ativ nivel medi
+
+
+grupooutr ativ nivel medi codig tcultnm fic constitu pel categor funcion abaix indic
+
+
+codig tcultnm auxili enfermag
+
+
+codig tcultnm tecnic laboratori
+
+
+codig tcultnm auxili operacional servic divers
+
+
+codig tcultnm agent cinefotograf microfilmag
+
+
+codig tcultnm telefon
+
+
+pod integr categor funcion trat anterior empreg vag ocup acord seguint criteri
+
+
+i categor funcional auxili enfermag empreg auxili enfermag
+
+
+ii categor funcional tecnic laboratori empreg laborator
+
+
+
+
+
+
+iii categor funcional auxili operacional servic divers empreg artific especializ atribuica bombeirohidraul pedreir pintor copeir lubrific veicul servical
+
+
+iv categor funcional agent cinefotograf microfilmag empreg oper microfilmag
+
+
+v categor funcional telefon empreg telefon
+
+
+capitul v
+gruposerv transport oficial port
+
+
+gruposerv transport oficial port codig tculttp fic constitu pel categor funcion abaix indic
+
+
+codig tculttp motor oficial
+
+
+codig tculttp agent port
+
+
+pod integr categor funcion trat anterior empreg vag ocup acord seguint criteri
+
+
+i categor funcional motor oficial empreg condutor viatur
+
+
+ii categor funcional agent port empreg ascensor continu encarreg servent
+
+
+est administrat entrar vigor dat public revog disposica contrari
+
+
+
+
+
+tcu sal sessa outubr
+
+
+wagn estelit camp
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+revog
+dispo sobr constituica gruposartesanat servic auxili outr ativ nivel superior outr ativ nivel medi servic transport oficial port tabel permanent secretariageral outr providente
+
+

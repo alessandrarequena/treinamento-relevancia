@@ -1,0 +1,1258 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo tcu dezembr portariatcu julh resolv
+
+
+
+fic aprov realiz projet sinerg term propost anex est port
+
+
+fic design anal control extern stanley silveir alves matricul par exerc relativ projet trat est port funca confianc coorden projet codig fc constant tcu dezembr aloc secretariageral control extern
+
+
+
+
+
+paragraf unic cab coorden projet responsabil gerenci projet exerc competente previst port tcu observ dispost manual gesta projet
+
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+anex unic
+
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+
+
+identific gestor projet
+
+
+
+
+nom
+
+matricul
+
+x espec gestororig fc
+
+
+
+
+
+stanley silveir alves
+
+
+
+
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+segecex
+
+
+
+email
+
+stanleyalvestcugovbr
+
+nom substitut eventual
+
+matricul
+
+email
+
+renat junqueir mai
+
+
+
+renatojmtcugovbr
+
+
+
+localtelefon
+
+setec anex i sal ramal
+
+
+identific projet
+
+
+
+
+nom projet
+
+projet sinerg
+
+
+
+period realiz
+
+
+
+
+
+unidad patrocin
+
+seplan secret planej gesta
+
+
+vincul estrateg
+
+
+
+
+vincul plan estrateg tcu
+
+
+
+estrateg ampli aprimor uso tecnolog inform
+
+sistem transacion tradicion permit geraca captur organiz enorm quantidad dad relat process trabalh tcu entretant tais sistem eficaz conjug dad par elabor inform gerenci relevant requ relatori said sej previ especific detalh necess ferrament tip olap on lin analytical processing par permit dad existent bas dad sej combin conform necess moment dand melhor suport decisa gerencial
+
+b
+
+estrateg aperfeico sistem planej gesta tcu
+
+aperfeico consolid sistemat medica avali divulg result institucion c
+
+defin implant sistemat gesta cust result f
+
+c
+
+estrateg aperfeico process trabalh tcu
+
+process trabalh pod aperfeico mediant monitor analis oportun melhor embor exist sistemat colet inform sobr execuca divers tip process trabalh tcu sistem fiscal rad processus clientel grh etc aind pouc ferrament facil recuper uso inform bas dad disponibil dat warehous fator favorec desenvolv process gerenci aperfeico process trabalh tcu
+
+
+
+vincul plan diretriz tcu
+
+
+
+diretriz aperfeico aca control volt par combat corrupca desvi fraud
+
+implement sistemat quantific volum recurs fiscaliz vrf benefici aca control outr indic result
+
+b
+
+diretriz aprimor polit intern gesta pesso
+
+incorpor grh folh sistem treinament sinerg projet moderniz
+
+
+
+vincul plan diretor segecex
+
+
+
+diretriz aperfeico aca control volt par combat corrupca desvi fraud
+
+implement sistemat quantific volum recurs fiscaliz vrf benefici aca control outr indic result
+
+b
+
+diretriz aprimor polit intern gesta pesso
+
+aprimor sistem informatiz objetiv facilit uso pel servidor cas aprimor propri sinerg
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+
+
+problemaoportun
+
+
+
+
+descrica problem oportun
+
+
+
+exist necess cad maior integr inform encontr dispers divers sistem informatiz distint cuj recuper oner fac rigidez caracterist sistem oltp on lin transaction processing desenvolv normal enfoqu process trabalh operacion process gerenci iss dificult obtenca tempest inform atend question suscit nivel gerencial par necess suport tom decisa tais deficiente pod minimiz adotandos soluca olap on lin analytical processing mediant usuari pod sintetiz divers inform analis vari long temp faz projeca base fat process est nov perspect manusei inform flexibiliz facilit consult inform part usuari final
+
+
+
+contextualiz problem oportun
+
+
+
+conceit dat warehous dw cons organiz dad corporat melhor maneir par subsidi corp gerencial organiz tom decisa dat warehous permit obtenca dad integr histor auxili dirigent servidor decid base inform precis tempest reduz risc decisa normal desempenh gerenc lid inform geral busc inform sintet agreg centen milh registr analis form pequen conjunt respost deves ment process formaca pergunt bas dad respost process dinam exig sistem flexiv recuper inform
+
+b
+
+propost aplic tecnolog dat warehousing ambit tribunal cont unia decorr necess utiliz cad maior consult gerenci suport tom decisa correspondent cruzament dad brut mant pel divers sistem transacion alem dess fat plan estrateg tcu estrateg numer consid imprescind portant tribunal intensifiqu aprimor uso tecnolog inform servic control
+
+c
+
+implement sistem sinerg alem proporcion maior integr dad corporat auxili control met predefin categoriz inform objet permit recuper dad histor sumariz divers enfoqu agreg form supr dinam suport decisa projeca simul base dad histor divers combin vari dimensa facil naveg diferent niv drilldown drillup serv insum planej medi long praz acompanh aca planej permit detect desvi corrig problem porventur identific
+
+d
+
+fazs necessari remodelag prototip sinerg encontr atual produca vist englob mais inform utiliz conceit modelag dimensional segund melhor tecnic dat warehousing permitira maior flexibil agreg nov inform melhor performanc recuper
+
+
+
+dat warehous tamb subsid analis consistente dad bas corporat med permit detecca eventu inconsistente omissa dad
+
+
+
+evoluca quadr apresent dad preferencial tabel
+
+
+
+ana tcu mei process licitatori contrat licenc uso softwar business objects bo realiz primeir treinament ana setec inici projet desenvolv prototip sinerg parc seplan ana deus inici oper primeir versa sistem sinerg desenvolv utilizandos ferrament olap empres business objects bo par extraca inform gerenci sobr process finalist ess sistem troux seri benefici tribunal tais agiliz public inform respeit desempenh secret apoi produca planilh subsid relatori ativ tcu estatist elabor pel seplan disponibiliz inform suport ferrament flexivel amig dad mant pel prototip sinerg tamb important subsidi par avali desempenh cuj inform embas calcul gratific desempenh perceb pel servidor dest cas
+
+b
+
+entretant versa atual sinerg apresent divers problem estrutur exempl problem relacion performanc ausenc inform important escop dad sistem sisac grh folh entr outr part dest problem tamb dev necess desenvolv primeir versa form rap imped utiliz melhor tecnic construca dat warehous demand pel utiliz prototip aument bastant tornous imperi desenvolv nov ferrament remodel bas dad process trabalh implement atual
+
+c
+
+tcu assin contrat bid par program apoi moderniz tcu contempl implement dat warehous sistem corporat tribunal
+
+d
+
+entr agost setembr elabor term referente criteri pontuaca vis contrat empres implement supervisa tcu dat warehous inform corporat projet sinerg
+
+
+
+mes setembr outubr novembr membr dest projet receb treinament par lid tecnolog dat warehous estimas final dezembr tenh sid contrat empres terceiriz implement sinerg portant urgent oficializ grup ira acompanh trabalh dest projet
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+f
+
+tamb necessari part membr dest projet sej permanent dara prossegu trabalh termin implement projet incorpor nov tecnolog implement construca sinerg mod tcu fiqu independent empres contrat
+
+g
+
+dia realiz audienc public vist suscit question empres prequalific sobr conteud edital san eventu duv mesm question respond oficial dia
+
+h
+
+dia acorr entreg propost empres qualific interess process licitatori propost analis dev agend apresent ora cad empres par complet process conform previst edital
+
+
+
+nad feit gravidad urgenc tendenc
+
+
+
+cas nad sej feit atual prototip sinerg continu carenc inform deficiente apresent nest primeir versa implant dat warehous sinerg permitira corp gerencial tribunal trabalh maior volum inform macr estrateg permit divers consult compar cruzament entr dad divers sistem dat warehous sinerg supr falt aprimor mecan geraca inform gerenci par tom decisa
+
+b
+
+est nov visa trabalh evit prejuiz desempenh dem sistem elev nivel acess mesm ambient dad utiliz pel sistem transacion degrad performanc inclusiv limit possibil cresciment bas dad
+
+d
+
+gravidad cas implant sinerg pod consider carat moder cab salient desej manifest pel administr tribunal materializ est projet conform podes verific previsa inclu divers plan diretriz estrateg tcu
+
+
+escop projet
+
+
+objet geral projet relaca soluca problem oportun
+
+
+conceb elabor implement dat warehous dad sistem corporat tribunal cont unia
+
+atend principi economic eficiente eficac efetiv uso recurs public implant dat warehous sinerg facilit tratament recuper uso efet inform existent bas dad sistem corporat tcu form dinam permit construca divers tip pesquis edific pel propri usuari divers angul perspect form amig adequ necess
+
+
+met indic produt client
+
+
+objet especif
+
+qtd
+
+praz
+
+indic
+
+produt
+
+client
+
+
+
+planej projet
+
+
+
+
+
+
+
+percentual plan projet conclu
+
+plan projet
+
+seplan
+
+b
+
+analis
+
+
+
+
+
+
+
+percentual levant necess atend pel prototip sistem sinerg conclu
+
+percentual levant model corporat tcu conclu
+
+levant necess atend pel prototip sistem sinerg
+
+levant model dad corporat tcu
+
+seplan
+
+
+
+setec
+
+c
+
+modelag dimensional
+
+tabel fat
+
+tabel dimensa
+
+
+
+
+
+
+
+percentual modelag dimensional conclu
+
+modelag tabel fat
+
+modelag tabel dimensa
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+d
+
+elabor projet banc dad
+
+
+
+
+
+percentual projet banc dad conclu
+
+percentual necess softwar hardwar levant
+
+projet banc dad
+
+levant necess softwar hardwar
+
+setec
+
+
+
+definica rotin extraca transform carg dad
+
+
+
+
+
+
+
+percentual rotin extraca transform carg dad etl realiz
+
+rotin extraca transform carg dad etl
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+objet especif
+
+qtd
+
+praz
+
+indic
+
+produt
+
+client
+
+f
+
+construca ambient consult utiliz olap
+
+
+
+
+
+
+
+percentual ambient consult seguranc dat warehous constru
+
+model acess dat warehous
+
+consult volt usuari final
+
+rotin seguranc dat warehous
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+g
+
+elabor projet interfac usuari
+
+
+
+
+
+
+
+percentual projet interfac elabor
+
+mecan control acess
+
+projet apresent dialog interfac
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+h
+
+implant sistem ambient homolog
+
+
+
+
+
+
+
+percentual implant sistem ambient homolog
+
+sistem implant ambient homolog
+
+setec
+
+i
+
+definica rotin acompanh produca
+
+
+
+
+
+
+
+percentual rotin aferica satisf usuari
+
+percentual rotin par definica aferica niv servic
+
+percentual rotin produca sistem
+
+percentual scripts atend
+
+rotin acompanh produca defin
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+j
+
+normatiz elabor manu
+
+
+
+
+
+
+
+percentual normatiz elabor manu conclu
+
+norm produca sistem
+
+norm evoluca sistem
+
+manu unidad gestor usuari
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+k
+
+treinament unidad gestor usuari
+
+
+
+
+
+
+
+numer usuari trein
+
+usuari trein
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+l
+
+implant sistem ambient produca
+
+
+
+
+
+
+
+
+
+sistem implant
+
+sistem implant ambient produca
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+m
+
+homolog final
+
+
+
+
+
+
+
+percentual ajust realiz tod produt ger fas anterior
+
+percentual document sistem homolog public conclu
+
+percentual transferente tecnolog complet
+
+percentual providente correca problem detect durant homolog conclu
+
+sistem sinerg implant
+
+tod produt ger fas anterior devid ajust
+
+tod document sistem homolog public
+
+transferente tecnolog complet
+
+registr ocorrente problem detect durant homolog providente tom
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+
+
+garant cont homolog final
+
+
+
+dias
+
+
+
+percentual produt devid corrig
+
+correca produt ger implement sistem devid realiz
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+
+
+
+
+manutenca evolut cont homolog final
+
+
+
+dias
+
+
+
+percentual produt manutenca evolut implant
+
+produt manutenca evolut implant
+
+seplan
+
+setec adcon adfis isc sefip serec
+
+
+
+obsev
+
+
+
+
+
+negoci empres vencedor acrescim escop projet seguint sistem sisac grh folh sistem treinament
+
+
+
+cronogram estipul item obedec condica estabelec anex i term referente edital projet sinerg objet negoci empres mod desenvolv dat warehous tcu prioriz implant bloc dat marts nest ordem
+
+
+processus rad paut autogab fiscal clientel
+
+
+sisac
+
+
+grh folh sistem treinament
+
+
+
+etap garant manutenca evolut faz part period realiz dest projet previst term referente par prest pel empres contrat
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+planej projet
+
+b
+
+analis
+
+c
+
+modelag dimensional tabel fat tabel dimensa
+
+d
+
+elabor projet banc dad
+
+
+
+definica rotin extraca transform carg dad
+
+f
+
+construca ambient consult utiliz olap
+
+g
+
+elabor projet interfac usuari
+
+h
+
+implant sistem ambient homolog
+
+i
+
+definica rotin acompanh produca
+
+j
+
+normatiz elabor manu
+
+k
+
+treinament unidad gestor usuari
+
+l
+
+implant sistem ambient produca
+
+m
+
+homolog final
+
+
+
+garant
+
+
+
+manutenca evolut
+
+
+escop projet vai faz
+
+
+
+
+projet implement nov sistem inform transacion entrad dad modific sistem oltp existent
+
+b
+
+projet ira implement nov dat marts const contrat firm empres licitant vencedor
+
+
+identific part envolv projet relaca
+
+
+
+
+setec fornec soluca infraestrutur necess desenvolv projet
+
+b
+
+sepr viabiliz espac fisic aloc projet infraestrutur par atend ativ sucessor
+
+c
+
+equip projet tcubid ucp acompanh projet
+
+d
+
+equip projet sinerg acompanh trabalh empres executor projet absorv tecnolog
+
+
+
+seplan patrocin disponibiliz recurs human par realiz test par particip projet
+
+f
+
+empres contrat elabor implement document dat warehous
+
+g
+
+pnud contrat empres realiz pagament
+
+h
+
+bid orga financi projet
+
+i
+
+adcon adfis isc sefip serec disponibiliz recurs human par realiz test homolog
+
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+aca par evit m mitig r reduz impact
+
+respons pel aca
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+
+
+
+
+dificuldad dedic servidor aloc projet
+
+alt
+
+baix
+
+
+
+m salient junt titul unidad tecnic importanc projet context estrateg tribunal
+
+m acord disponibil servidor taref
+
+port autor competent presidente nome servidor part integrant equip projet
+
+coorden projet titul seplan titul setec
+
+b
+
+surgiment nov demand long projet
+
+alt
+
+med
+
+m salient junt titul unidad tecnic necess segu escop estipul contrat assin empres licit
+
+coorden projet titul seplan
+
+c
+
+dificuldad particip gestor usuari avaliacaohomolog produt
+
+alt
+
+baix
+
+m salient junt titul unidad envolv importanc particip fas test avali produt
+
+
+
+coorden projet titul seplan
+
+d
+
+restrica orcament inviabiliz implant projet
+
+alt
+
+baix
+
+busc alternat par reduz cust
+
+obter mais recurs junt bid aument particip recurs orcament tcu projet
+
+coorden projet titul seplan
+
+presidente tcu
+
+
+
+necess recurs financeir par mant dat warehous oper
+
+alt
+
+med
+
+obter aloc recurs orcament tcu par manutenca infraestrutur par nov equip servidor maior capac processamentoarmazen
+
+coorden projet titul setec
+
+
+fator contribu par exit projet
+
+
+
+
+apoi presidente tcu inter dirigent pel result present projet ensej apoi par realiz
+
+b
+
+divulg sensibiliz corp gerencial utiliz nov ferrament trabalh
+
+
+projet predecessor
+
+
+
+
+prototip sistem sinerg
+
+
+projetosativ conex
+
+
+
+
+projet apoi moderniz tcu
+
+b
+
+projet sintes dat warehous servic public
+
+b
+
+desenvolv sistem administr recurs human
+
+
+projetosativ sucessor
+
+
+
+
+identific projet sucessor
+
+
+
+ativ sucessor est projet result nov sistem inform demand servic manutenca evoluca alem execut acompanh rotin produca configuras portant necess criaca nov unidad estrutur setec par absorv est nov tecnologiaativ
+
+
+
+
+
+cust estim
+
+
+recurs
+
+valor estim praz
+
+
+
+implement dat warehous sinerg
+
+valor estim auxili equip pnud us novembr mai recurs oriund projet bid
+
+b
+
+infraestrutur par dat warehous equip softwar
+
+valor estipul elabor projet banc dad item met d pel empres vencedor aquisica carg setec
+
+
+obs cust previst aprov oportun pel autor competent
+
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+recurs human anal control extern ce anal control extern tecnolog inform
+
+setec unidad tecnic envolv test
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sinerg
+
+pagin
+
+
+
+
+
+
+
+recurs human anal control extern ce anal control extern tecnolog inform
+
+setec unidad tecnic envolv test
+
+b
+
+recurs instrucion sal aul retr projetor canha projeca etc
+
+isc setec
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial
+
+
+
+stanley silveir alves coorden
+
+
+
+setec
+
+
+
+integral coorden
+
+b
+
+renat junqueir mai
+
+
+
+setec
+
+
+
+integral
+
+c
+
+claudi queiroz pereir
+
+
+
+setec
+
+
+
+parcial
+
+d
+
+leonard renn guimara lap
+
+
+
+seplan
+
+
+
+parcial
+
+
+
+
+
+consultor intern projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period chec period
+
+
+
+claudi cruz
+
+
+
+setec
+
+
+
+b
+
+paul andr matt carvalh
+
+
+
+setec
+
+
+
+c
+
+maur giacobb
+
+
+
+seplan
+
+
+
+d
+
+alessandr giubert laranj
+
+
+
+seplan
+
+
+
+
+consider fin fundament normat port
+
+
+
+
+caracteriz trabalh projet port
+
+
+
+desenvolv soluca result melhor gesta ambit intern tribunalincis i
+
+
+
+caracterist trabalh defin gestor projet gerent coorden port
+
+
+
+period minim duraca tres mes iv
+
+b
+
+produt importanc estrateg par alcanc met institucion vi
+
+c
+
+desenvolv nov tecnolog metodolog impact geral ativ secret tribunal especial are control extern vii
+
+
+
+
+
+finaliz
+
+
+dat assinatur coorden projet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stanley silveir alves
+
+coorden projet
+
+
+
+manifest titul unidad patrocin
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost sepr vis aprov projet junt presidente
+
+
+
+
+
+
+
+seplan
+
+
+
+
+
+
+
+
+
+maur giacobb
+
+secretari secret planej gesta
+
+
+
+const revog express
+aprov realiz projet sinerg design gestor
+
+

@@ -1,0 +1,653 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet par definica model prest assistente saud tcu remodel term propost anex est port
+
+
+fic design anal control extern pedr santan sous matricul par exerc funca confianc gerent projet codig fc constant dezembr aloc secretariageral administr
+
+
+paragraf unic cab gestor projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+titul secretariageral administr fic autoriz proced sempr necessari substituica nomeaca gestor projet
+
+
+est port entr vigor dat public
+
+
+
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+
+
+
+public dou seca pag
+
+
+
+
+
+
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+gestororig fc
+
+
+
+pedr santan sous
+
+
+
+x
+
+gerent
+
+
+
+coorden
+
+segedamemail
+
+
+
+telefon
+
+pedrosstcugovbr
+
+ramal
+
+nom substitut eventual
+
+matricul
+
+email
+
+telefon
+
+atil val nobr
+
+
+
+atilavntcugovbr
+
+ramal
+
+localtelefon
+
+edifici anex ii sal
+
+
+identific projet
+
+
+
+
+nom projet
+
+projet par definica model prest assistente saud tcu remodel
+
+
+
+period realiz
+
+
+
+
+
+unidad patrocin
+
+seged secretariageral administr
+
+
+
+
+
+vincul estrateg
+
+
+plan estrateg tcu port tcu janeir
+
+
+
+
+
+objet estrateg aprimor polit intern gesta pesso
+
+b
+
+estrateg aperfeico process trabalh tcu
+
+c
+
+estrateg assegur elev nivel satisf servidor tcu
+
+
+
+plan diretriz tcu bieni port tcu janeir
+
+
+
+diretriz aprimor gesta pesso equip tribunal
+
+b
+
+med desenvolv aca bemest biopsicossocial sed estad
+
+
+
+plan diretor seged bieni portariaseged marc
+
+
+
+diretriz aprimor gesta pesso equip tribunal
+
+b
+
+med desenvolv aca bemest biopsicossocial sed estad
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+part prest assistente medic servidor tcu dependent realiz mei entidad civil protcu constitu ess fim reconhec apoi pel tcu term tcu
+
+entant sobreposica tcu x protcu base ness requ analis foc orden jurid ora vigent difer daquel existent epoc edica cit normat necessari faz exam compatibil situaca fatic decorrent cit fac dess nov panoram legal morment entrad vigor part janeir lei nov codig civil brasileir
+
+fac dess nov panoram legal util necess moment edit carec reformul fundament mod continu propici servidor tranquil assistente medic qualidad temp tamb dot administr tant tcu quant protcu instrument respald atuaca ness mist
+
+evoluca quadr apresent dad
+
+
+
+
+
+
+
+
+
+
+
+constatous ambit tribunal mais instrument adequ regulament prest assistente saud servidor tcu diant diss editous reconhec entidad civil protcu inter tribunal congreg servidor cas entidad civil cuj objet just funcion plan saud entretant ess contempl disposit torn inadequ fac nov orden jurid
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+defin model prest assistente saud servidor tcu
+
+
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+estud detalh tcu estatut protcu aspect constitucional legal especial lei nccb lei responsabil fiscal
+
+
+
+
+
+relatori
+
+relatori acerc legal
+
+seged
+
+conjur
+
+b
+
+entrev fundador gestor protcu diretor dib servidor dess diretor envolv trabalh protcu dirigent entidad representat servidor astcu asap audit sindileg
+
+
+
+
+
+entrev realiz
+
+relatori consolid entrev
+
+seged
+
+c
+
+aferica quantitat recurs materi human tcu empreg taref protcu consult seca quant regular utiliz recurs tcu part protcu
+
+
+
+
+
+relatori entreg praz
+
+relatori inventari
+
+seged
+
+d
+
+realiz visit benchmarking outr orga instituica
+
+minim visit
+
+
+
+quantidad loc visit
+
+visit realiz
+
+divers entidad
+
+
+
+analis seleca material obtid benchmarking
+
+
+
+
+
+quantidad material analis
+
+relatori
+
+seged
+
+f
+
+estud adequ model selecion tcu
+
+
+
+
+
+relatori entreg
+
+relatori
+
+seged
+
+g
+
+elabor relatori propond model assistente saud servidor tcu
+
+
+
+
+
+relatori entreg praz
+
+relatori final
+
+seged
+
+conjur
+
+
+
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+planej
+
+pesquis legislacion aplic
+
+diagnost aspect leg situaca encontr
+
+audienc entrev visit tecnic
+
+elabor nov model
+
+
+escop projet vai faz
+
+
+
+
+proposica nov estatut protcu
+
+b
+
+interferente associ civil protcu
+
+c
+
+implant model elabor
+
+
+identific part envolv projet relaca
+
+
+nom part envolv
+
+registr patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv intern
+
+
+
+secretariageral administr seged
+
+fornec recurs materi human par projet
+
+b
+
+secret control intern
+
+contribuica tecnic par discussa estud regular utiliz recurs tcu desempenh taref gesta protcu
+
+c
+
+conjur
+
+estud legal
+
+d
+
+dib
+
+fornec consultor
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+dificuldad obter contribuica unidad pesso envolv projet
+
+alt
+
+alt
+
+agend encontr par discussa apresent contribuica par propost encaminh
+
+gerent projet
+
+b
+
+atribuica equip ativ vincul objet projet
+
+alt
+
+baix
+
+negoci transferente ativ rotin par outr servidor extern equip projet
+
+gerent projet
+
+
+relaca outr projet
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+
+
+projet atu
+
+implant model elabor
+
+b
+
+
+
+
+
+
+
+
+cust estim
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+terceiriz tecnic suport informat
+
+r
+
+
+
+b
+
+
+
+
+
+
+
+total cust estim
+
+r
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+espac fisic par acomod equip projet
+
+seged
+
+b
+
+microcomput impressor estrutur red
+
+seged
+
+c
+
+mobiliari mes cadeir armari gaveteir
+
+seged
+
+d
+
+ramal telefon
+
+seged
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+pedr santan sous
+
+
+
+seged
+
+
+
+integral
+
+b
+
+atil val nobr
+
+
+
+seged
+
+
+
+integral
+
+c
+
+adelin pereir souz
+
+
+
+seged
+
+
+
+integral
+
+d
+
+luiz eduard rodrigu pereir cost
+
+
+
+seged
+
+
+
+integral
+
+
+
+terceiriz
+
+
+
+seged
+
+
+
+integral
+
+
+finaliz
+
+
+dat assinatur gestor projet
+
+
+
+
+
+
+
+
+
+manifest titul unidad patrocin
+
+
+
+acord conform acord firm ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+seged
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov realiz projet par definica model prest assistente saud tcu remodel design gestor
+
+

@@ -1,0 +1,434 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider disposica resolucaotcu dezembr estabelec polit governanc tribunal pgtitcu
+
+
+consider disposica resolucaotcu outubr estabelec polit corporat seguranc inform tribunal pcsitcu
+
+
+consider necess defin responsabil unidad envolv proviment gesta soluca tecnolog inform
+
+
+consider necess assegur particip usuari fin gestor inform definica valid requisit regr negoci homolog soluca
+
+
+consider importanc estabelec process trabalh responsabil pratic compativ model excelente reconhec mundial norm nbr isoiec control objectiv information and related technologi cobit information technology infrastructur library itil seri norm nbr isoiec
+
+
+consider estud parec constant process tc resolv
+
+
+proviment gesta soluca ambit tribunal cont unia observ dispost nest port objet contribu par eficiente eficac efetiv soluca utiliz pel tribunal bem par alinh aca estrateg organiz
+
+
+unidad envolv proviment gesta soluca solidari respons pel cumpriment harmon competente atribu nest port
+
+
+est port aplicas soluca natur corporat natur departamental proviment realiz mei qualqu modal abordagens previst resolucaotcu dezembr pgtitcu
+
+
+proviment soluca mediant contrat realiz preferencial mei abordag centraliz observ dispost nest port norm disponh sobr licit contrat
+
+
+par efeit dispost nest port entendes
+
+
+i soluca soluca term pgtitcu conjunt form element process trabalh integr par produz result atend necess tribunal
+
+
+ii modul soluca subconjunt funcional correlat soluca agrup par fins gesta
+
+
+iii proviment soluca proviment conjunt aca necess par implant soluca assegur funcion dar suport adequ usuari pod realizars modal desenvolv aquisica manutenca
+
+
+iv unidad provedor centraliz titul atribu secret infraestrutur tecnolog inform setic secret soluca tecnolog inform sti quand dess unidad selecion par coorden esforc proviment centraliz soluca par centraliz inter unidad gestor
+
+
+v unidad provedor descentraliz qualqu unidad tribunal realiz proviment descentraliz soluca orient setic sti
+
+
+vi unidad gestor unidad respons definica relat process trabalh regr negoci requisit soluca bem acord niv servic par soluca term dest port
+
+
+vii requisit soluca requisit capac caracterist soluca dev apresent condica soluca dev atend vist realiz proposit
+
+
+vii regr negoci regr inerent process trabalh determin comport funcional soluca inform process
+
+
+ix part interess individu unidad organiz estej diret envolv gesta implement soluca aind form indiret poss exerc influenc afet pel soluca
+
+
+x homolog conjunt aca objet verific conform soluca respect regr negoci requisit
+
+
+xi ambient produca ambient computacional par uso efet soluca pel usuari est destin
+
+
+xii nivel servic met desempenh qualidad defin par soluca tais horari funcion temp maxim respost quantidad minim transaca process nivel minim disponibil
+
+
+xii acord nivel servic compromiss estabelec entr unidad provedor unidad gestor soluca estabelec niv servic par soluca ambient produca considerandos necess negoci impact par tribunal cust capac aloc recurs par proviment soluca
+
+
+xiv central servic equip respons pel atend centraliz usuari soluca tribunal
+
+
+xv roteir atend conjunt instruca destin central servic orient atend ocorrente requisica esclarec duv relat soluca
+
+
+xvi gestor inform term resolucaotcu novembr tratas unidad projet tcu exercici competente produz inform obtem font extern tribunal inform propriedad pesso fisic jurid
+
+
+soluca classificams seguint tip
+
+
+i sistem intern sistem inform desenvolv intern receb outr orga entidad adquir terceir pel tribunal
+
+
+ii sistem extern sistem inform desenvolv mant outr instituica cuj acess sej permit part ambient computacional tribunal
+
+
+iii softwar apoi softwar aplicat utilitari adquir utiliz pel tribunal
+
+
+iv servic basic servic relat infraestrutur comunic armazen hospedag seguranc dad inform outr soluca integr softwar hardwar present ambient computacional tribunal
+
+
+considerams requisit soluca tecnolog inform
+
+
+i funcional conjunt capac aca result soluca dev possu realiz produz par atend necess negoci par assegur niv adequ seguranc inform
+
+
+ii usabil conjunt aspect relat inter usuari soluca consider acessibil satisf soluca
+
+
+iii confiabil conjunt atribut relacion frequenc gravidad possibil recuper falh bem exatida result ger pel soluca
+
+
+iv desempenh conjunt atribut relat eficiente soluca oper tais temp respost quantidad recurs utiliz
+
+
+v suportabil conjunt aspect relacion instal configur capac adapt manutenca test soluca
+
+
+vi integr conjunt aspect relacion compartilh funcional inform outr soluca utiliz desenvolv ambit tribunal aind soluca outr orga administr public
+
+
+vii seguranc inform conjunt aspect relacion confidencial integr disponibil dad inform ger trat pel soluca criteri par definica perf acess funcional rastreament aca realiz verific autentic garant repudi alem outr aspect ger seguranc
+
+
+compet unidad gestor soluca independent natur soluca modal abordag proviment utiliz
+
+
+i identific necess institucion atend pel soluca map model process trabalh informatiz necessari acord metod tecnic padra defin pel secret planej gesta seplan mod maximiz benefici proporcion pel utiliz soluca
+
+
+ii autoriz conjunt unidad provedor inici ativ relat proviment soluca
+
+
+iii solicit fundamentad suspensa cancel alter ativ proviment previ autoriz
+
+
+iv defin mediant consult representant usuari gestor inform outr part interess requisit regr negoci soluca bem acord unidad provedor niv servic soluca mod maximiz benefici par tribunal promov integr dem soluca
+
+
+v propici particip representant usuari gestor inform tant sed quant estad par auxili definica valid regr negoci requisit niv servic bem homolog soluca
+
+
+vi apoi coub unidad provedor soluca realiz estud complement trat dest port
+
+
+vii solicit institut serzedell corre isc durant projet desenvolv contrat soluca planej aca desenvolv competente par uso soluca
+
+
+vii propor quand necessari criaca alter normat par regulament process trabalh apoi pel soluca
+
+
+ix elabor mant atualiz roteir atend soluca apoi coub unidad provedor
+
+
+x homolog soluca fundament homolog dentr praz acord unidad provedor
+
+
+xi defin conjunt unidad provedor estrateg implant soluca consider necess capacit usuari quand cas realiz implant regim projet pilot
+
+
+xii autoriz conjunt setic implant inicial posterior mudanc soluca ambient produca manifestars sobr motiv autoriz dentr praz acord unidad provedor
+
+
+xii apoi exerc conjunt unidad provedor fiscaliz contrat acord cooper outr instrument congen relat soluca
+
+
+xiv elabor disponibiliz par consult pel usuari mant atualiz portal tcu manu roteir utiliz tutori outr inform necess corret utiliz soluca compreensa process trabalh associ preferencial mei sistem trat dest port
+
+
+xv propor isc realiz diagnost necess desenvolv competente quand identific dificuldad utiliz soluca
+
+
+xvi particip planej execuca aca desenvolv competente par utiliz soluca
+
+
+xvi acompanh avali utiliz soluca necessari adot med ambit competente solicit providente par confidencial integr disponibil inform sej preserv par benefici esper sej alcanc par acord nivel servic sej cumpr
+
+
+xvii prepar divulg inform dar orient referent proced utiliz soluca sem prejuiz atuaca central servic
+
+
+xix receb analis solicit mudanc inform relat regr negoci requisit soluca adot providente competente comunical solicitant
+
+
+xx propor unidad provedor prioridad atend demand relat soluca observ estrateg institucion benefici esper cust estim par atend tais demand
+
+
+xxi defin ouv gestor inform requisit seguranc necessari par soluca relacion obtenca tratament transmissa uso armazen descart inform receb produz trat pel soluca
+
+
+xxi defin revis periodic ouv gestor inform privilegi perf direit acess usuari funcional inform disponibiliz pel soluca bem regr concessa revog
+
+
+xxii avali necess implement soluca funcional permit usuari gestor inform classific conform norm institucion pertinent element inform produz utiliz soluca
+
+
+xxiv manifestars quant conveniente oportun atend solicit orga entidad par cessa sistem desenvolv pel tribunal
+
+
+xxv reavali periodic benefici necess util utiliz soluca inform unidad provedor sobr raza poss ensej descontinu soluca par fins manifest dess unidad subsequent apreci mat pel comit gestor tecnolog inform cgt pel comissa coordenacaogeral ccg
+
+
+xxv coorden conjunt sti setic negoci orga entidad envolv par model propost acess uso sistem extern pel tcu viabiliz mediant celebr instrument especif
+
+
+titul unidad gestor soluca natur corporat dev design formal servidor perfil adequ quantidad suficient par exerc prioritari competente previst nest port sem prejuiz exercici outr atribuica tais servidor
+
+
+design trat paragraf anterior dev comunic assessor seguranc inform governanc assig registr sistem trat dest port vist control centraliz dess inform pod criteri titul unidad gestor efetu term competente especif
+
+
+quand definica regr negoci requisit afet outr soluca unidad gestor dev conjunt unidad provedor soluca promov negoci necess part interess
+
+
+cas duv quant identific gestor inform mat dev submet deliber comit seguranc inform csi institu pel resolucaotcu outubr
+
+
+normat ccg disciplin pap responsabil especif cas desenvolv manutenca soluca uso recurs terceir
+
+
+demand par proviment centraliz soluca demand manutenca impact significat sobr plan dev submet analis prev cgt mei solicit formal devid motiv par posterior apreci pel ccg
+
+
+solicit refer dest compet unidad demandant apoi setic sti constitu condica indispens apreci demand pel ccg dev cont minim justificat necess descrica produt benefici esper demonstr aderente plan institucion identific inter outr soluca
+
+
+inici ativ proviment soluca depend apreci viabil demand pel ccg bas inform refer paragraf anterior estud complement fiz necessari estimat cust analis risc levant alternat merc elabor pel unidad provedor soluca apoi coub unidad gestor
+
+
+iniciat par proviment descentraliz soluca comunic cgt par fins dispost ii ºdesta port
+
+
+paragraf unic abordag proviment descentraliz unidad provedor soluca propr unidad demandant cab aind desempenh papel unidad gestor
+
+
+compet cgt par efeit dispost nest port
+
+
+i analis encaminh ccg demand trat dest port acompanh motiv parec cgt propost design unidad gestor unidad provedor soluca alem propost prioridad modal abordag proviment
+
+
+ii analis iniciat proviment descentraliz soluca trat dest port vist avali possiv impact sobr result funcion tribunal verific eventual redundanc soluca existent process proviment valid abordag proviment utiliz
+
+
+iii analis encaminh ccg sugesta alter unidad gestor provedor bem solicit descontinu soluca natur corporat acompanh parec cgt
+
+
+compet ccg par efeit dispost nest port quant soluca natur corporat
+
+
+i avali demand trat dest port decid quant natur prioridad modal abordag proviment soluca design unidad gestor unidad provedor soluca aprov quand coub atualiz plan pertinent
+
+
+ii autoriz carat excepcional iniciat unidad tecnic par proviment descentraliz soluca
+
+
+iii decid quant alter unidad gestor unidad provedor sobr descontinu soluca
+
+
+design unidad gestor constitu condica indispens inici ativ proviment recaira preferencial sobr unidad funca competente institucional detenh conhec autonom decisa sobr inform process trabalh abrang pel soluca
+
+
+criteri ccg pod design unidad gestor par modul soluca especial quand proviment tiv impact relevant sobr plan ativ tribunal quand soluca serv process trabalh relacion diferent unidad organizacion
+
+
+compet setic sti unidad provedor centraliz soluca consider competente institucion dess unidad
+
+
+i prov ambient computacional adequ par desenvolv test homolog treinament uso soluca
+
+
+ii defin process metod tecnic ferrament padra aplic proviment soluca
+
+
+iii apoi unidad provedor descentraliz realiz ativ aquisica construca evoluca dissemin soluca
+
+
+iv negoci junt unidad gestor dem part interess escop praz projet desenvolv manutenca contrat soluca respeit premiss restrica estabelec plan tecnolog inform tribunal
+
+
+v defin conjunt unidad gestor estrateg implant sustent durant fas estabiliz soluca
+
+
+vi avali regr negoci requisit niv servic defin pel unidad gestor soluca apont possiv inconsistente incompatibil mod promov integr soluca padroniz arquitetur tecnolog maximiz benefici par tribunal
+
+
+vii assegur funcion soluca acord niv servic acord unidad gestor
+
+
+vii quand trat proviment centraliz desenvolv soluca planej solicit aquisica acord regr negoci requisit especific pel unidad gestor
+
+
+ix mant unidad gestor dem part interess inform sobr andament demand projet relat soluca
+
+
+x quand trat proviment centraliz fiscaliz apoi conjunt respect unidad gestor contrat acord cooper instrument congen relat soluca
+
+
+xi realiz test necessari par assegur corret funcion aderente soluca regr negoci requisit niv servic especific
+
+
+xii apoi unidad gestor soluca elabor roteir atend
+
+
+xii mant unidad gestor dem part interess inform sobr par program incident relacion soluca ambient homolog treinament produca
+
+
+xiv apoi ambit are atuaca unidad gestor planej execuca aca desenvolv competente par utiliz soluca
+
+
+xv encaminh unidad gestor par analis providente cabiv solicit relat modific regr negoci requisit soluca
+
+
+xvi apoi unidad gestor formul propost prioridad atend demand relat cad soluca consolid propost apresent pel unidad encaminhal instanc competent par subsidi planej aca
+
+
+xvi solicit sempr necessari atuaca unidad envolv gesta proviment soluca refer desempenh competente previst nest port
+
+
+xvii quand trat proviment centraliz realiz mediant autoriz ccg modific necess par viabiliz cessa outr orga entidad sistem desenvolv pel tribunal
+
+
+xix custodi form dispost resolucaotcu dispo sobr polit corporat seguranc inform tribunal pcsitcu inform ger utiliz pel soluca
+
+
+
+
+xx realiz ped cgt ccg estud complement trat dest port
+
+
+xxi manifestars quant aspect tecnic cust envolv atend solicit cessa soluca desenvolv pel tribunal
+
+
+xxi decid situaca emergente sobr interrupca funcion soluca estej degrad desempenh afet funcion dem soluca
+
+
+setic sti dev manters tempest reciproc inform sobr necess requisit soluca cuj proviment estej carg reque providente outr unidad poss impact significativ ambient computacional tcu plan
+
+
+niv servic acord par soluca pel unidad provedor pel unidad gestor dev fundament acord operacion realiz entr setic sti consider real capac atend dess unidad
+
+
+compet unidad provedor descentraliz soluca apoi tecnic setic sti par efeit dispost nest port
+
+
+i desenvolv soluca planej solicit aquisica acord regr negoci requisit especific observ dispost dest port
+
+
+ii realiz test necessari par assegur corret funcion aderente soluca regr negoci requisit especific
+
+
+iii document regr negoci caracterist tecnic soluca
+
+
+iv realiz manutenca corret evolut fiz necess
+
+
+v disponibiliz suport usuari soluca fiz necessari relativ ativ proviment execut complement atend realiz pel central servic
+
+
+vi manifestars mediant solicit ccg quant aspect tecnic cust envolv atend solicit orga entidad par cessa soluca responsabil
+
+
+vii realiz mediant autoriz ccg modific necess par viabiliz cessa outr orga entidad soluca desenvolv pel tribunal
+
+
+proviment descentraliz soluca qualqu modal defin pgtitcu observ process metod tecnic ferrament padra estabelec pel setic sti par ess fim
+
+
+cas proviment descentraliz soluca setic sti soment responsabiliz pel ambient computacional pel apoi ativ aquisica construca evoluca dissemin soluca desenvolv adquir consonanc dispost paragraf anterior
+
+
+compet institut serzedell corre isc par efeit dispost nest port
+
+
+i apoi secret gesta pesso segep definica espac ocupacion respect competente necess desempenh atribuica previst nest port
+
+
+ii elabor diagnost necess desenvolv competente profission organizacion par desempenh atribuica previst nest port par utiliz soluca
+
+
+iii planej coorden execut avali aca educ par desenvolv competente profission organizacion necess desempenh atribuica previst nest port utiliz soluca
+
+
+responsabil unidad gestor unidad provedor dem part envolv cessa outr orga entidad sistem desenvolv pel tribunal estabelec normat president tribunal observandos par cas concret limit condica indic respect instrument cessa
+
+
+compet assig par efeit dispost nest port
+
+
+i monitor avali periodic pratic relat proviment gesta soluca tribunal
+
+
+ii propor diretriz orient unidad gestor quant aspect seguranc inform observ definica requisit soluca
+
+
+iii atualiz inform sistem trat dest port mediant autoriz ccg
+
+
+iv revis bianual sempr necessari inform registr sistem trat dest port submet propost alter cgt par manifest comit posterior apreci mat pel ccg
+
+
+unidad gestor provedor soluca registr sistem inform propri par manutenca dess registr fic dispon par consult pel public intern portal tcu
+
+
+bas dad inicial registr sistem refer dest constitu pel inform constant anex portariatcu novembr alter pel portariaccg janeir
+
+
+sistem trat est dev fornec minim seguint inform nom soluca descrica final unidad gestor ato design servidor gestor identific servidor gestor period vigenc gesta natur abordag proviment unidad provedor niv servic acord
+
+
+fic autoriz ccg exped atos necessari regulament dest port decid sobr cas omiss
+
+
+est port entr vigor dat public
+
+
+fic revog portariatcu novembr portariaccg dezembr portariaccg dezembr portariaccg janeir
+
+
+benjamin zymler
+
+
+president
+
+
+
+revog
+dispo sobr proviment gesta soluca tecnolog inform ambit tribunal cont unia
+
+

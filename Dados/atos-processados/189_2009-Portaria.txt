@@ -1,0 +1,1098 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas resolucaotcu agost portariatcu dezembr resolv
+
+
+fic aprov realiz projet cont term anex dest port
+
+
+fic design anal control extern geovan ferreir oliveir matricul par exerc atribuica coorden projet regim dedic integral
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet tribunal cont unia
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+ubiratan agui
+
+
+president
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+
+
+pagin
+
+
+identific gestor projet
+nom gestor
+
+matricul
+
+email
+
+ramal
+
+
+
+geovan ferreir oliveir
+
+
+
+geovanifotcugovbr
+
+funcao gestor
+
+
+
+gerent
+
+
+
+xcoorden
+
+
+
+lid
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+
+
+paul robert pinheir dias pereir
+
+
+
+paulodptcugovbr
+
+local telefon
+
+
+
+
+const revog express
+aprov realiz projet cont
+
+anex ii sal
+
+
+identific projet
+nom projet
+
+projet contasperiod realizacaoun patrocin
+
+
+
+adplan
+vincul estrateg
+plan estrateg tcu port tcu janeir
+
+objet estrateg contribu par melhor desempenh administr public
+
+b objet estrateg estimul transparente gesta public
+
+c objet estrateg estimul control social
+
+d objet estrateg ampli divulg result gesta public aca control
+
+objet estrateg atu cooper orga public red control
+
+f objet estrateg reduz temp apreci process
+
+g objet estrateg atu form selet are risc relevanc
+
+h objet estrateg aperfeico estrutur legal normat suport control extern
+
+i objet estrateg aperfeico instrument control process trabalh
+
+j iniciat estrateg ampli facilit acess compreensa inform sobr gesta public
+
+k iniciat estrateg promov intercambi inform conhec metodologias trabalh realiz trabalh conjunt orga public entidad subsidi exercici control
+
+l iniciat estrateg atu proativ aperfeico legislacion suport control extern
+
+m iniciat estrateg map racionaliz princip process trabalh tcu
+
+projet aquil propost aprov
+
+ared control estabelec polit par secretari promov articul desenvolv mecan troc inform avali critic trabalh orga
+
+bcontrol intern promov planej conjunt aca control cgu outr orga control intern
+
+cfoc intensific foc control melhor gesta result unidad jurisdicion
+
+dplanej transform conceit tms element central planej aca control desdobr plan fiscaliz sistemat cont anu apreci cont govern
+
+econt redefin instrument prest cont mod promov maior accountability administr public serv bas par seleca unidad tera prestaca cont transform tom cont qua julg pel tcu
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+problem oportun
+descrica problem oportun
+
+aa divers general conteud atu process cont muit qua irrelevant par analis cas concret associ grand numer cont apresent anual tribunal par julgament reduz numer anal aloc exam dess process bem inexistente proced previ defin par verific dess conteud contribu par produz ativ intempest baix valor agreg alt cust financeir reduz result quer quant eficaz control conform atos gesta respons quer quant efet avali desempenh gesta unidad jurisdicion implic
+
+bal diss conteud atu process cont soment diferenc raza natur jurid unidad jurisdicion envolv relaca mant entr quand cont apresent form consolid agreg exist qualqu diferenci relaca significanc cad ambit polit public governament
+
+cpar agreg valor cont reduzindos temp medi exam julgament produz result mais efet tant par sociedad quant par gestor estrutur conteud dess process dev apreend are situaca risc corporat intern extern associ ativ unidad jurisdicion envolv
+
+projet cont propo soluca par important ruptur identific pel projet aquil alinhandos propost soluca sistem apresent ess projet principal trat focaliz trabalh cont sobr cont maior significanc par polit public utiliz model cos referente analis enfatiz gesta risc corporat bas principi boa governanc send relevant orga participant sistem control intern gestor unidad jurisdicion envolv ness process concert ess mudanc mediant parc tribunal
+
+ede acord sistem sinerg temp medi process cont permanec part autuaca unidad tecnic tribunal localiz sed ultrapass dois anos enquant unidad region mais anos tal situaca decorr principal sobrest process cont raza tces envolv respons arrol process contud particip superestrutur gesta unidad jurisdicion envolvidasevoluca quadr apresent dad
+
+aan ana process cont vem send melhor estrutur pel tribunal principal raza fixaca decisa orga colegi demonstrat especif par unidad jurisdicion obstant maior part inform natur gener aind apresent mod estrutur ger carg excess trabalh par anal instrutor volt simples par identific reestrutur inform receb limitandos consequente temp analis dess conteud
+
+ba part instituica in tornous possivel tribunal atu mais seletiv relaca cont anu unidad jurisdicion tant edica dn nºs univers aproximad process cont anu analis julg exercici anterior tribunal atu julg relativ exercici soment process entretant obstant reduca numer aind revis conteud pec compo process cont form tornal mais efet par avali gesta respons
+escop projet
+objet geral projet relaca oportun soluca problem
+
+implement nov sistemat prest cont pel unidad jurisdicion tribunal preconiz pel instruca normat tcu
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+met produtosfootnoteref produt elabor pel equip bem aquel dev trat projet sucessor relacion anex ii iii dest projet
+
+metadat terminoprodutohomologadorobjetivo especif
+
+
+
+elabor anteprojet decisa normat referent aplic in par relatori gesta relat exercici
+
+
+
+
+
+text par dn previst in par exercici elabor
+
+adplan
+
+
+
+
+
+conteud anex i dn revis
+
+adplan
+
+
+
+
+
+conteud part anex ii dn revis
+
+adplan
+
+
+
+
+
+conteud part b anex ii dn revis
+
+adplan
+
+
+
+
+
+conteud anex iii revis
+
+adplan
+
+
+
+
+
+represent anteprojet decisa normat previst in par exercici
+
+adplan
+
+b
+
+elabor anteprojet decisa normat referent aplic in par pec compora process cont exercici
+
+
+
+
+
+b text par dn previst in par exercici elabor
+
+adplan
+
+
+
+
+
+b conteud format anex iv vii vii ix x revis
+
+adplan
+
+
+
+
+
+b conteud anex i revis
+
+adplan
+
+
+
+
+
+b conteud anex v revis
+
+adplan
+
+
+
+
+
+b conteud part anex vi revis
+
+adplan
+
+
+
+
+
+b conteud part b anex vi revis
+
+adplan
+
+
+
+
+
+b represent anteprojet decisa normat previst in par exercici
+
+adplan
+
+c
+
+elabor anteprojet par regul atuaca unidad tecnic tribunal relaca process cont tamb tramit anteprojet dn previst in
+
+
+
+
+
+c anteprojet par regul atuaca unidad tecnic tribunal relaca process cont tamb tramit anteprojet dn previst in elabor
+
+adplan segecex
+
+
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+escop projet vai faz
+metadat terminoprodutohomologadorobjetivo especif
+
+d
+
+elabor anteprojet instruca normat par alter in
+
+
+
+
+
+d anteprojet instruca normat elabor
+
+adplan segecex
+
+
+
+elabor roteir analis conteud relatori gesta conform dispost in par exercici
+
+
+
+
+
+roteir analis conteud relatori gesta elabor
+
+adplan segecex
+
+f
+
+elabor roteir analis conteud pec compora process cont conform dispost in par exercici
+
+
+
+
+
+f roteir analis conteud pec compora process cont conform dispost in par exercici elabor
+
+adplan
+
+g
+
+prepar modul treinament ace acerc analis dev empreend sobr inform cont relatori gesta dem pec compora process cont
+
+
+
+
+
+
+
+g modul treinament ace sobr conteud relatori gesta
+
+adplan isc
+
+
+
+
+
+g modul treinament ace sobr conteud relatori auditor gesta
+
+adplan isc
+
+h
+
+modific sistem cont proposit receb mei eletron relatori gesta dem pec compora process cont relat exercici
+
+
+
+
+
+h requisit par sistem cont estabelec
+
+adplan setec
+
+
+
+
+
+h propost implement sistem cont homolog
+
+adplan setec
+
+
+
+
+
+h cas uso descrev funcion sistem cont homolog
+
+adplan setec
+
+
+
+
+
+h sistem cont homolog
+
+adplan setec
+
+i
+
+cadastr respons pel envi relatori gesta dem pec compora process cont exercici
+
+
+
+
+
+i respons pel envi pec cadastr sistem cont
+
+adplan setec
+
+j
+
+ajust bas sistem clientel par efeit receb relatori gesta dem pec par process cont mei sistem cont
+
+
+
+
+
+j sistem clientel ajust acord requisit sistem cont
+
+adplan setec
+
+k
+
+prepar sistem cont par recepca relatori gesta exercici
+
+
+
+
+
+k unidad jurisdicion obrig envi relatori gesta cadastr sistem cont
+
+adplan
+
+
+
+
+
+k usuari extern autoriz envi relatori gesta cadastr associ respect unidad jurisdicion
+
+adplan
+
+
+
+
+
+
+
+
+desenvolv sistem informatiz
+
+b
+
+treinament unidad jurisdicion unidad tecnic
+
+c
+
+manutenca sistem clientel
+
+d
+
+atualiz tod bas sistem clientel
+
+
+
+benefici impact esper implement produt projet
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+fator pod risc exit projet
+
+
+
+
+maior efetiv cont instrument control tant relaca conform quant desempenh gesta
+
+b
+
+utiliz prestaca cont instrument par aument transparente gesta public perant sociedad
+
+c
+
+visa global administr public sem prejuiz expectat control part jurisdicion
+
+d
+
+aument nivel confiabil inform cont cont par efeit julgament inclusiv refer fundament evidente achad auditor relat pel orga control intern
+
+
+
+aument sinerg entr tribunal orga control intern otimiz esforc dess orga auditor gesta
+
+f
+
+reduca risc julgament pel regular cont tenh sid analis profund adequ tant pel orga control intern quant pel tribunal
+
+g
+
+alinh expectat unidad tecnic tcu orga control intern
+
+
+
+
+
+riscoimpactoprobabilidaded ocorrer evit ocorrente riscom mitig ocorrente riscor reduz impact risc ocorridoresponsavelpel aca
+
+
+
+perd sincron projet planej setec pod compromet execuca recomend relat
+
+alt
+
+medi
+
+mant dialog proxim setec acompanh evoluca planej internom
+
+coorden projet
+
+b
+
+dificuldad cumpr praz produt dev recess fer servidor tcu
+
+medi
+
+baix
+
+mant cronogram projet ajust cronogram fer membr equip r
+
+busc sempr possivel font alternat inform outr servidor mesm unidad unidad correlat r
+
+coorden projet
+
+c
+
+dificuldad par agend reunia servidor unidad tribunal font inform par projet
+
+alt
+
+baix
+
+encaminh mensag apresent projet atrav patrocin m
+
+realiz reunia apresent m
+
+marc reunia antecedente m
+
+patrocin coorden projet
+
+d
+
+dificuldad consegu apoi orga control intern necessari par realiz intercambi inform
+
+alt
+
+medi
+
+encaminh mensag patrocin m
+
+realiz reunia apresent m
+
+mant orga public envolv inform sobr evoluca projet pertinent m
+
+patrocin coorden projet
+identific part envolv projet relaca
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+
+
+
+
+nom part envolvidapatrocin client parceir fornecedor intern extern servic recurs human fisicosit negoci negoci part envolv
+
+
+
+segecex patrocin client
+
+apoi font inform existent sistem administr secex estrutur
+
+b
+
+adsup
+
+manutenca sistem clientel necess desenvolv sistem cont
+
+manutenca sistem ger pel segecex necess desenvolv sistem cont
+
+c
+
+adplan patrocin client
+
+apoi logist espac fisic instal bem particip desenvolv conceitual trabalh
+
+d
+
+adplandipr
+
+desenvolv roteir par analis relatori gesta process cont pel unidad tecnic tribunal
+
+
+
+setec
+
+apoi font inform sobr sistem tribunal destinatari recomend sobr consider planej intern
+
+liber servidor par atu integral etap projet
+
+liber servidor period parcial par atu etap projet
+
+acess model dad corporat model dad projet sistem cont levant realiz anterior relacion escop projet
+
+ajust desenvolv funcional sistem cont par fins recepca tratament pec compo process tom prest cont
+
+f
+
+seft
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+g
+
+semag
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+h
+
+sefip
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+i
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+j
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+k
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+relaca outr projet
+
+
+l
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+m
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+p
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+q
+
+secex
+
+revisa conteud existent normat prest cont relacion responsabil dess secret bem formul nov conteud estabelec proced analis usad pel unidad tecnic
+
+r
+
+isc
+
+apoi tecnic elabor modul treinament
+
+apoi tecnic logist realiz encontr tecnic ator intern extern par diiscussa dissemin nov sistemat prest cont
+
+
+
+
+
+projet predecessoresprojet conexosprojet sucessor
+
+econt
+
+ess projet visav elabor sistemat par colet cont eletron pod oferec lica faz faz relaca projet cont
+
+siscont
+
+ess projet tamb visav implant sistemat colet eletron cont tamb pod oferec lica faz faz relaca projet cont
+
+aquil
+
+implement result present projet prerequisit par aca program aquil vis aument efetiv prest cont pel administr public
+
+organiz prest cont ativ continu ambit tcu requ instituica projet par coorden elabor norm entreg prest cad ana criaca are especif diretor par tal
+
+outr questa important trat pel projet sucessor est relacion treinament pesso unidad tecnic unidad jurisdiciond orga control intern par garant efetiv dissemin preceit nov sistemat prest cont
+cust adicion estim
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+outr recurs necessari
+recursovalor estimadodat inicial liber recurs
+
+
+
+diar par nov visit dois ace dois dias chei cad visit abrang secex regia sud secex regia sul secex regia nord secex regia nort totaliz diar valor r cad
+
+r
+
+
+
+b
+
+passagens aere par visit secex conform item valor medi r trech ace
+
+r
+
+cust estim
+
+r
+
+
+equip projet
+recursofornecedor
+
+
+
+dois ram telefon
+
+segecexadplan
+
+b
+
+local trabalh par cinc servidor dedic integral
+
+segecexadplan
+finaliz
+nomematriculalotacaoperiododedicacao integral parcial ativ
+
+
+
+geovan ferreir oliveir
+
+
+
+adplan
+
+
+
+integral
+
+
+
+paul robert pinheir dias pereir
+
+
+
+adplan
+
+
+
+integral
+
+
+
+cleb silv camp
+
+
+
+adplan
+
+
+
+integral
+
+
+
+dion gom roch
+
+
+
+adplan
+
+
+
+integral
+
+
+
+thais corcin nobreg estagi
+
+crach
+
+adplan
+
+
+
+integral
+
+
+
+servidor setec isc negoci respect unidad
+
+
+
+isc setec
+
+acord necess projet
+
+parcial
+
+
+dataassinatur gestor projet
+
+
+
+geovan ferreir oliveir
+
+coorden projetomanifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+segecex
+
+marcel luiz souz eir
+
+secretarioadjunt segecexaplan
+
+paul robert wiechers martins
+
+secretariogeral segecexmanifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+claudi sarian altounian
+
+secretari planej gesta seplan
+
+
+
+anex i ruptur identific pel projet aquil trat pel projet cont
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+
+
+
+
+
+
+ruptur dad pel projet aquil
+
+descrica ruptur projet aquil
+
+
+
+deficiente model tom prest cont
+
+
+
+ineficiente avali result tom prest cont aplic control legal avali result
+
+desempenh sid analis process cont falt visa program finalist cont avali gesta bas desempenh sid foc exam process cont anu apes solicit inform in
+
+problem pers mesm in atual organiz cont uj possivel avali form sistem execuca maior program govern muit aca program execut divers ujs inform relatori gesta apen sobr aca orcament normal pouc nad sobr cumpriment met fisic financeir estabelec lei orcament anual prec avali critic tamb sobr aca administrat qua associ program orcamentari raza ausenc insuficiente indic desempenh met pactu vincul
+
+
+
+analis cont pouc sistematiz pouc automatiz instruca atribu apen anal independent complex cont hav pouc oportun troc conhec outr coleg dad necessari exam antecipad colh valid ausenc metodolog par analis
+
+
+
+dificuldad detecca bas dad mat pod impact cont
+
+indisponibil inform sobr process conex determin feit atend
+
+
+
+dificuldad instru pctcs consolid
+
+
+
+process cont ujs grand volum irregular tend arrast muit anos funca sucess represent denunc auditor sobrest process cont ness situaca divers process corr separ muit relator distint analis equip distint
+
+
+
+baix seletiv grand part process cont pouc relevanc material social entretant obrig instru tod prestaca tom cont criteri par selecion qua instru criteri seleca process examin prioritari obedec met reduca estoqu aparent estimul prioriz process mais fac detriment mais trabalh send ultim geral mais relacion material risc relevanc portant mais alinh busc efetiv tcu criteri seletiv tais risc relevanc material complex consider definica maneir mais adequ tcu avali gesta unidad administr public tratament semelhant par process cont muit disp
+
+excess tom prest cont sem relevanc tradica julg tod cont atual flux process tcpc produz relat tempestiv julgament pel regular regular ressalv produz julgament irregular intempestiv iss decorr aplic mesm sistemat instruca tramit process tod tcpc cheg tcu
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+
+
+
+
+
+
+ruptur dad pel projet aquil
+
+descrica ruptur projet aquil
+
+
+
+retrabalh process difer desacord regr retorn par nov instruca process difer pel unidad tecnic apes sistemat existent par difer process observas vari cas process remet volt unidad tecnic par realiz nov instruca
+
+
+
+deficiente constituica tom prestaca cont
+
+
+
+relacion tcu gestor limit
+
+
+
+baix coorden entr trabalh orga control foc auditor gesta realiz pel orga control intern total descas exam cont redundant fiscaliz planejadasexecut pel tcu
+
+
+
+baix control confiabil inform control intern gestor falt fidedign inform prest fragil conteud cont dar subsidi par avali gesta
+
+conteud informacional restrit pouc confiavel ger pel propri interess confer julgament cont seguranc necess decisa apoi inform verdadeir abrangent
+
+trabalh feit sobr inform colh outr entidad control intern gestor sem menor control fidedign dess inform part tribunal
+
+garant dad agreg process cont reflet fat mais relevant gesta trabalh auditor cont tev extensa adequ par capt rea problem entidad
+
+ess questa agrav pel fat tcu avali sistematic grau confiabil trabalh control intern
+
+
+
+ausenc proced institucionaliz diferenci par process baix risc relevanc material entend vigent hoj cas tod process autu dev analis pel corp tecnic hav diferenci rit process bas tais criteri entretant grand part process apreci pel tcu conteud pouc relevant material inexpress agreg pouc valor exercici control alem diss mais faz apen reanalis feit pel control intern numer excess process baix relevanc material acab ofusc trabalh mais relevant fic perd mei tant process
+
+
+
+falt visa integr objet control permit elabor adequ planej dificuldad integr coorden process planej ativ control extern influenci pel dicotom entr cont fiscaliz
+
+
+
+
+anex ii produt acab relacion projet cont
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+
+
+
+
+metaprodutohomologadorobjetivo especificodat termin
+
+desenvolv sistemat automatiz par fins remess eletron pel unidad jurisdicion tribunal relatori gesta relat exercici entregu
+
+
+
+
+
+requisit par sistem par envi relatori gesta tcu homolog
+
+adplan
+
+
+
+sistem par envi relatori gesta tcu homolog
+
+adplan
+
+
+
+tutorial par cadastr usuari extern portal tcu par acess sistem par envi relatori gesta homolog
+
+adplan
+
+
+
+tutorial par uso sistem par envi relatori gesta homolog
+
+adplan
+
+
+
+tutorial par uso modul sistem envi relatori gesta usad pel secex homolog
+
+adplan
+
+
+
+acompanh cadastr usuari extern envi relatori gesta
+
+adplan
+
+
+
+
+anex iii produt desenvolv projet sucessor
+
+
+
+
+tribunal cont unia
+
+propost projetoprojet cont
+
+pagin
+
+
+
+
+

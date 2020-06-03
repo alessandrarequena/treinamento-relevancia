@@ -1,0 +1,1348 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg tend vist dispost xxxiv regiment intern tcu
+
+
+consider necess aperfeico normatiz control patrimonial mod abrig conceit boas pratic mat ambit tribunal cont unia
+
+
+consider sistem gesta seguranc fisic patrimonial diretriz par polit corporat seguranc fisic patrimonial tcu previst resolucaotcu junh
+
+
+consider dispost item acordaotcu determin secretariageral administr aperfeico manual patrimoni
+
+
+consider estud parec constant process tc resolv
+
+
+capitul i
+
+
+definica ger
+
+
+polit gesta bens mov pertencent patrimoni tribunal cont unia tcu obedec dispost nest port observ legislacion vigent
+
+
+est port integr polit corporat seguranc fisic patrimonial tribunal pcsftcu form estabelec pel resolucaotcu junh
+
+
+proced control acess fisic dependencia tcu defin normat especif dev possibilit cumpriment dispost nest port
+
+
+par fins dest port entendes
+
+
+i unidad compr subun administrat tcu localiz brasil estad respons pel compr materi assunt correlat
+
+
+ii unidad tecnic especializ subun sed tcu responsabiliz tecnic pel demand bens tribunal especial are engenh servic apoi seguranc institucional tecnolog inform
+
+
+iii unidad patrimoni subun administrat tcu localiz brasil estad respons pel control patrimonial armazen materi almoxarif assunt correlat
+
+
+iv unidad central patrimoni subun administrat tcu pertencent secretariageral administr seged localiz brasil respons pel control patrimonial armazen materi almoxarif assunt correlat
+
+
+v estoqu almoxarif conjunt materi consum armazen mais loc fisic
+
+
+vi deposit patrimoni conjunt are utiliz pel unidad patrimoni par armazen materi permanent usad nov reserv tecnic
+
+
+vii sistem patrimoni soluca corporat gesta patrimonial
+
+
+vii setorial contabil subun administrat tcu brasil pertencent seged respons supervision orient execuca ativ inerent gesta orcament financeir patrimonial tribunal aspect contab cas sed pel realiz registr contab moviment bens mov sistem integr administr financeir siaf conform relatori ger pel sistem patrimoni
+
+
+ix unidad seguranc servic apoi subun administrat sed tcu servic administr unidad tcu estad isc respons operacionaliz seguranc fisic patrimonial assunt correlat
+
+
+x unidad gestor unidad gestor executor gesta orcamentariofinanceir tribunal
+
+
+xi orden despes president tcu dirigent seged secret estad isc deleg subdeleg competente autoriz realiz moviment credit orcamentari emissa empenh autoriz pagament supriment dispendi
+
+
+xii lot bens conjunt defin bens par fins desfaz
+
+
+xii distribuica moviment inicial bens realiz pel unidad patrimoni
+
+
+xiv destin list bens adquir respect unidad dev receb materi
+
+
+paragraf unic term material bem design gener mov equip component sobressalent acessori utensili veicul geral materiasprim supriment outr itens utiliz passiv utiliz ativ tcu
+
+
+bens relevant par control patrimonial aquel cuj valor monetari eou risc extravi significat
+
+
+bens alt risc extravi aquel portat valor monetari significat
+
+
+normat seged definira rol bens relevant par control patrimonial bem aquel consider alt risc extravi
+
+
+capitul ii
+
+
+classific codific catalog
+
+
+bens mov classific material permanent material consum
+
+
+classific material permanent consum baseias element indic dois seguint bem enquadr contabil defin pel setorial contabil ocasia emissa empenh correspondent pel respect unidad gestor
+
+
+bem agreg material permanent funca caracterist fisic possu funcion autonom dev raza diss instal bem principal mantendos par control patrimoni individualiz especif
+
+
+material permanent aquel raza uso corrent definica lei marc legislacion complement perd ident fisic eou durabil superior dois anos bem possu control individualiz respect registr
+
+
+materi uso duradour form defin norm secret tesour nacional stn classific material permanent
+
+
+classific material permanent adot seguint parametr excludent consider conjunt
+
+
+i durabil material uso normal perd reduz condica funcion praz maxim dois anos
+
+
+ii fragil material cuj estrutur estej sujeit modific quebrad deform caracterizandos pel irrecuperabil eou perd ident
+
+
+iii perecibil material deterior perd caracterist normal uso quand sujeit modific quimic fisic
+
+
+iv incorporabil material destin incorpor outr bem pod retir sem prejuiz caracterist principal
+
+
+v transformabil material adquir par fim transform
+
+
+material consum aquel raza uso corrent definica lei legislacion complement perd normal ident fisic eou utiliz limit dois anos
+
+
+paragraf unic incumb unidad patrimoni control material consum soment enquant est estiv armazen estoqu almoxarif
+
+
+quant form utiliz bem movel classificas
+
+
+i uso individual quand possivel atribu responsabil pel bem soment usuari
+
+
+ii uso colet comum quand pel natur form instal bem utiliz mod concomitant vari usuari
+
+
+quant situaca patrimonial bem movel classificas
+
+
+i bom quand estiv perfeit condica uso normal
+
+
+ii ocios quand embor estej perfeit condica estiv uso
+
+
+iii recuper quand estiv avari recuper possivel cust repar orcar maxim valor merc
+
+
+iv antieconom quand rendiment precari quand estiv avari cust acumul recuper durant vid util orcar mais respect valor merc obsolescente
+
+
+v irrecuper quand mais pud utiliz par fim destin dev perd caracterist fisic
+
+
+paragraf unic criteri classific dispost nest pod excepcionaliz par bens valor histor signific especial par tcu
+
+
+quant natur final materi classificams conform aspect criteri inerent natur despes contab stn term dispost plan cont administr public federal
+
+
+nomenclatur definica codific materi par fins registr sistem patrimoni defin normat especif gesta unidad central patrimoni
+
+
+capitul iii
+
+
+requisica
+
+
+requisica material consum permanent padroniz dev realiz mei soluca especif send possivel efetiv via memor enderec unidad patrimoni
+
+
+requisica material permanent padroniz dev cont pel men seguint inform
+
+
+i codig material padroniz
+
+
+ii quantidad fornec
+
+
+iii servidor respons pel carg patrimonial
+
+
+hav necess aquisica qualqu bem especif part unidad localiz sed tcu fac part rol materi consum permanent fornec pel unidad central patrimoni dev autu process eletron cont memor enderec unidad compr sed acompanh term referente seguint inform basic
+
+
+i definica detalh leiaut model grafic desenh prospect amostr fot dem caracterist necess corret identific send ved especific frustr competetitiv
+
+
+ii apresent minim tres orcament estimat fundament pesquis prec preferente decorrent contrat anterior realiz orga entidad administr public
+
+
+iii manifest sobr form dar fornec bens
+
+
+iv emissa justificat quant necess urgenc aquisica bens requisit
+
+
+v registr necess apresent amostr
+
+
+vi indic servidor respons pel carg patrimonial
+
+
+term referente dev indic praz entreg par fornec bem parcel unic cont cronogram receb par fornec form parcel
+
+
+competent par requer material permanent servidor carg efet ocupant funca confianc direca quadr pessoal tcu anuenc respect dirigent unidad
+
+
+tod requisica analis pel unidad patrimoni aquel pud atend materi permanent deposit patrimoni cas material consum itens estoqu almoxarif submet orden despes par autoriz compr observ oportun conveniente dispendi
+
+
+capitul iv
+
+
+aquisica
+
+
+materi permanent integrant patrimoni tcu adquir mei
+
+
+i compr aquisica material utiliz recurs orcamentari
+
+
+ii doaca entreg gratuit bens materi tcu instituica public priv pesso fisic
+
+
+iii permut troc bens materi permanent entr tcu outr orga entidad administr public
+
+
+iv produca intern confecca produca propri tcu bens materi
+
+
+v abandon abandon bens materi pertencent patrimoni tribunal qua deix condica uso dependencia terren institucion bem sej inter tcu reclam legit proprietari
+
+
+aquisica realiz mei dev process administrat qua dev cont relaca destin cad bem discrimin unidad detentor carg contempl detalh cas constituica reserv tecnic
+
+
+especific material adquir const term referente elabor pel unidad patrimoni cas bens descrit catalog materi permanent tcu pel unidad solicitant dem cas apoi unidad tecnic especializ competent
+
+
+calcul valor incorpor bem abandon dev obedec coub dispost capitul xii dest port
+
+
+capitul v
+
+
+receb aceit
+
+
+receb ato pel material objet aquisica entreg tcu local previ design implic necessari aceit
+
+
+proced trat transfer apen responsabil pel guard conserv material fornecedor unidad recebedor
+
+
+prov receb constitu pel assinatur recebedor not fiscal outr document habil serv apen comprov dat horari entreg par efeit dest
+
+
+ato receb bem dev acompanh
+
+
+i cas compr not fiscal fatur correspondent
+
+
+ii cas receb doaca pel respect certific term doaca term avali outr document orient registr bem
+
+
+iii cas permut pel term permut outr document orient registr bem
+
+
+iv cas bem produz intern pel gui produca intern term avali valor cust produca
+
+
+v cas abandon pel dev process administrat avali fisicofinanceir feit pel unidad patrimoni
+
+
+compet unidad patrimoni receb materi adquir form defin anterior
+
+
+aquisica mediant compr cuj valor total sej superior limit trat lei junh receb bens realiz comissa servidor compost minim tres membr
+
+
+excepcional cas aquisica cuj valor total sej inferior limit estabelec lei unidad patrimoni pod ato receb solicit unidad tecnic especializ indic servidor habilit comissa tecnic par realiz exam fim determin material entreg atend especific cont not empenh contrat aquisica
+
+
+aceit ato pel servidor comissa competent decl not fiscal outr document habil hav receb bem adquir tornandos nest cas respons pel quantidad perfeit identific bem acord especific estabelec not empenh contrat aquisica outr instrument congen consoant disposit lei
+
+
+material receb mesm aceit apresent indici fraud falsific alter natur cois corpore qualidad quantidad pod ret par exam orga tecnic competent assegur ampl defes fornecedor
+
+
+capitul vi
+
+
+incorpor tombament
+
+
+tombament proced administrat cons identific cad material adquir numer unic registr patrimonial denomin numer patrimoni np
+
+
+par fins dest port np numer tombament nt registr geral patrimoni rgp expressa sinonim
+
+
+np unic par cad bem patrimoni
+
+
+np apost mediant gravaca fixaca plaquet etiquet qualqu outr metod adequ caracterist fisic bem
+
+
+incorpor proced administrat cons registr sistem patrimoni caracterist especific np valor aquisica dem inform referent material adquir
+
+
+incorpor atribu cont patrimonial plan cont administr public federal cad material acord final par adquir
+
+
+materi receb mediant qualqu process aquisica dev incorpor patrimoni tcu entregu unidad ira utilizal
+
+
+compet unidad patrimoni incorpor materi adquir pel form previst nest port
+
+
+incumb unidad central patrimoni mant catalog material unic aplic unidad secret tcu descrica padroniz par tod materi
+
+
+valor aquisica material incorpor aquel constant respect document fiscal not empenh document avali document doaca permut
+
+
+valor trat depreci reavali form normatiz pel stn
+
+
+pagament fornecedor efetu prev incorpor bens sistem patrimoni
+
+
+ocorrente situaca especif regr cont paragraf anterior precis excepcionaliz responsabil pel comprov existente fisic localiz bem cab servidor confirm existente bens
+
+
+material incorpor tomb denomin material patrimoni bem patrimoni
+
+
+capitul vii
+
+
+carg patrimonial
+
+
+
+seca i
+
+
+
+
+definica
+
+
+
+compet unidad patrimoni distribuica material permanent adquir acord destin dad process administrat aquisica correspondent
+
+
+material permanent pod distribu qualqu servidor sem respect registr carg patrimonial efet aceit sistem patrimoni
+
+
+carg patrimonial conjunt bens patrimoni confi pel tcu servidor carg efet ocupant funca confianc carat permanent temporari denomin detentor carg par execuca respect ativ profission inerent tribunal
+
+
+consideras funca confianc detentor carg patrimonial unidad detentor carg patrimonial sinon detentor carg patrimonial ambit dest port
+
+
+quand substituica titul funca confianc detentor carg patrimonial sair retorn est respect substitut dev conjunt confer minim relaca bens alt risc extravi realiz respect registr responsabil pel uso guard conserv sistem patrimoni term dest port
+
+
+compet unidad central patrimoni defin mant atualiz conjunt funca confianc autoriz perfil detentor carg
+
+
+
+seca ii
+
+
+
+
+moviment
+
+
+
+bens acerv patrimonial tcu pod moviment
+
+
+i fisic transferente bem entr enderec tcu par fora dependencia dest
+
+
+ii logic transferente carg patrimonial entr detentor tamb cham regulariz carg patrimonial
+
+
+enderec tcu entend menor recint identific numer pel unidad tribunal respons pel gesta corporat espac fisic
+
+
+registr moviment bens realiz pel propri detentor respect carg patrimonial impossibil dest pel unidad patrimoni
+
+
+configur moviment bem praz par aceit sistem patrimoni set dias cont registr moviment refer sistem
+
+
+cas haj moviment bens par unidad moment titul funca confianc detentor carg patrimonial estej send substitu correspondent aceit sistem patrimoni dev realiz pel respect substitut
+
+
+
+find praz estabelec registr irregular term dest port sistem patrimoni realiz aceit form tacit transfer carg patrimonial correspondent detentor carg recebedor inform oper unidad central patrimoni detentor carg envolv
+
+
+cas haj imped par aceit carg patrimonial parcial total recebedor dev registr sistem patrimoni raza dess imped dentr praz estipul nest
+
+
+modal moviment bens
+
+
+i distribuica
+
+
+ii recolh moviment bens enderec tcu par deposit patrimoni acompanh respect regulariz carg patrimonial devendos observ
+
+
+bem situaca patrimonial ocios apresent avar impec uso normal dev recolh deposit patrimoni
+
+
+b recolh bens period garant dev aprov pel dirigent unidad patrimoni
+
+
+iii redistribuica moviment bens armazen deposit patrimoni par enderec tcu acompanh respect regulariz carg patrimonial
+
+
+iv remanej moviment bens entr detentor carg patrimonial
+
+
+paragraf unic remanej entr detentor carg patrimonial lot distint unidad gestor dev aprov pel unidad central patrimoni
+
+
+moviment bens remanej exclus responsabil detentor carg orig detentor carg destin
+
+
+moviment dev registr pel detentor carg orig sistem patrimoni comunic mei mensag eletron unidad patrimoni
+
+
+detentor carg orig necessari dev solicit antecedente unidad patrimoni transport bens remanej
+
+
+hipotes paragraf anterior unidad patrimoni dev emit document correspondent assin pel detentor carg envolv
+
+
+concretiz transferente carg patrimonial pod vistori pel unidad patrimoni
+
+
+quand unidad central patrimoni verific existente bem ocios subutiliz carg determin detentor pod comunical previ submet secretariogeral administr propost remanej bem par outr detentor recolh deposit patrimoni
+
+
+
+seca iii
+
+
+
+
+responsabil pel uso pel guard pel conserv
+
+
+
+servidor usuari continu bem patrimoni denomin respons cab est responsabil pel uso pel guard pel conserv bem
+
+
+servidor consider usuari continu constant bem quand est estiv dispon par utiliz diret individualiz durant jorn trabalh diar
+
+
+cess necess uso continu bem servidor dev devolv responsabil pel bem respect detentor carg mei registr sistem patrimoni
+
+
+impossibil realiz devoluca trat paragraf anterior detentor carg dev avoc par responsabil bem
+
+
+detentor carg pod atribu avoc responsabil bem qualqu servidor unidad subun
+
+
+atribuica responsabil aplic bens uso colet
+
+
+atribuica responsabil dev realiz sempr detentor carg identific usuari continu bem mei registr sistem patrimoni
+
+
+cas haj imped par aceit responsabil patrimonial parcial total recebedor dev registr sistem patrimoni raza imped
+
+
+atribuica responsabil constituis prov documental uso conserv bens pod utiliz process administrat apur irregular relat control patrimoni tcu
+
+
+detentor carg respons qualqu bem carg patrimonial cuj responsabil tenh sid atribu outr servidor mesm est sej usuari continu bem
+
+
+detentor carg respons pel uso guard conserv bem principal respond tamb pel respect bens agreg
+
+
+cas bem contenh inform public detentor carg respons pel uso dev aplic control administrat tecnolog par proteca inform term defin polit corporat seguranc inform pcsitcu
+
+
+registr sistem patrimoni atribuica respons bem transfer responsabil pel uso pel conserv bem par signatari direit transfer carg patrimonial dest par outr servidor
+
+
+
+seca iv
+
+
+
+
+competente relat carg patrimonial
+
+
+
+compet detentor carg patrimonial
+
+
+i requisit unidad patrimoni realiz inventari par receb respect carg patrimonial assum funca confianc
+
+
+ii solicit unidad patrimoni realiz inventari par transferente carg patrimonial par outr detentor dispens funca confianc
+
+
+iii adot med estabelec proced complement norm constant dest port vis garant efet control material permanent existent unidad subun
+
+
+iv aceit sistem patrimoni carg bens distribu inventari respect unidad
+
+
+v realiz conferente period parcial total sempr julg convenient oportun independent realiz tip inventari trat nest port
+
+
+vi mant control sobr distribuica intern extern bens carg patrimonial bem sobr period garant dest
+
+
+vii atribu responsabil sistem patrimoni servidor respons pel uso continu bens carg patrimonial detentor
+
+
+vii supervision ativ relacion bom uso guard bens localiz respect unidad subun
+
+
+ix encaminh imediat conhec unidad patrimoni unidad seguranc servic apoi comunic sobr avar desaparec bens
+
+
+x adot providente par guard tempor bens carg patrimonial ocasia reform mudanc
+
+
+compet respons carg patrimonial
+
+
+i receb responsabil pel carg patrimonial bens usuari continu atribu pel respect detentor carg mediant aceit sistem patrimoni
+
+
+ii devolv responsabil detentor carg deix usuari continu bem requer respect registr sistem patrimoni
+
+
+iii encaminh imediat conhec detentor carg comunic sobr avar desaparec bens
+
+
+compet servidor tcu
+
+
+i zel pel bens acerv patrimonial tcu bem lig oper deslig equip conform recomend especific fabricant
+
+
+ii adot propor respect chef imediat providente par preserv seguranc conserv bens mov existent unidad
+
+
+iii mant bens pequen port local segur
+
+
+iv comunic mais brev possivel respect chef imediat unidad seguranc servic apoi ocorrente qualqu irregular envolv patrimoni tcu
+
+
+v facilit trabalh servidor unidad patrimoni quand realiz levant inventari
+
+
+vi requer unidad patrimoni certific nad const patrimonial qualqu moment hipotes dispens funca confianc obrigatori afast secret tribunal sem efet exercici aposentador dem tip vacanc
+
+
+empreg oper inadequ equip materi pod consider irregular dest port
+
+
+dispost nest aplicas coub estagiari prestador servic terceiriz quaisqu pesso vincul transitori tribunal observ term especific respect instrument reg ativ desempenh
+
+
+capitul vii
+
+
+consert manutenca
+
+
+consert manutenca restaur revisa bem responsabil fiscaliz respect contrat manutenca unidad patrimoni dem hipotes
+
+
+cas estej envolv despes adicion garant necess prev consult autoriz unidad patrimoni
+
+
+servic autoriz pel unidad patrimoni realiz material permanent period garant irregular passiv penaliz term dest port
+
+
+said bens patrimoni dependencia tcu par repar extern autoriz exclusiv pel unidad patrimoni mediant registr sistem patrimoni emissa respect autoriz said
+
+
+capitul ix
+
+
+levant inventari
+
+
+
+seca i
+
+
+
+
+levant
+
+
+
+levant proced administrat certif existente bem enderec especif tcu desenvolv duas modal
+
+
+i fisic quand dev verific conform registr control patrimonial seguint element
+
+
+exatida descrica material
+
+
+b situaca patrimonial
+
+
+c detentor carg patrimonial
+
+
+d integr afix plaquet etiquet identific patrimoni
+
+
+ii eletron quand dev verific seguint requisit
+
+
+exatida bem determin rol bens atribu detentor respons consider fator tais tip quantidad mei radiofrequente rfid
+
+
+b frequenc conexa bem red tcu intermedi red informatiz
+
+
+levant pod abrang bem conjunt bens total bens existent mais enderec tcu
+
+
+relatori levant dev const bens classific acord seguint situaca
+
+
+i encontr bem faz part conjunt inicial bens levant confirm mei leitur visual eletron
+
+
+ii encontr bem confirm mei leitur visual eletron faz part conjunt inicial bens levant
+
+
+iii previst bem faz part conjunt inicial bens levant encontr confirm mei leitur visual eletron
+
+
+iv baix bem retir control bens ativ encontr confirm mei leitur visual eletron
+
+
+
+seca ii
+
+
+
+
+inventari
+
+
+
+inventari proced administrat cons consolid inform obtid mei levant tamb mediant confront del bens existent mais enderec tcu
+
+
+paragraf unic inventari objet
+
+
+i confirm exatida registr control patrimonial mediant realiz levant mais enderec tcu
+
+
+ii verific adequ entr registr sistem patrimoni siaf
+
+
+iii fornec subsidi par avali control gerencial materi permanent
+
+
+iv disponibiliz inform orga fiscaliz
+
+
+v compor process tom cont tcu
+
+
+tip inventari
+
+
+i verific realiz qualqu temp objet verific regular conjunt bens iniciat unidad patrimoni ped detentor carg respons seged autor
+
+
+ii transferente realiz quand mudanc titul funca confianc detentor carg patrimonial
+
+
+iii criaca realiz quand criaca funca confianc detentor carg patrimonial unidad subun enderec tcu
+
+
+iv extinca realiz quand extinca transform funca confianc detentor carg patrimonial unidad subun enderec tcu
+
+
+v anual realiz raza exigente cont lei final comprov exatida registr control patrimonial tod patrimoni tcu demonstr acord plan cont administr public federal acerv cad detentor carg valor total ana anterior variaca patrimoni ocorr exercici
+
+
+vi baix realiz par fins desfaz bens
+
+
+inventari verific transferente criaca extinca realiz durant exercici pod consider par efeit inventari anual pel unidad central patrimoni
+
+
+par fins inventari anual consider encontr bem inventari pel men durant exercici excet mesm bem tiv sid localiz levant posterior realiz mesm ana
+
+
+bens relevant par control patrimonial objet levant inventari verific anu
+
+
+unidad patrimoni dev conclu inventari indic itens i iv dest quinz dias receb ped
+
+
+process inventari analis pel unidad central patrimoni encerr
+
+
+realiz inventari anual cab respect unidad patrimoni localiz estad isc par dem hipotes unidad central patrimoni
+
+
+criteri dirigent seged conform cas cad unidad mencion pod constitu comissa inventari compost minim tres servidor carg efet cont suport unidad central patrimoni consider dispost anterior
+
+
+entr membr comissa inventari dev design servidor preferencial experiente are administr material par presid trabalh
+
+
+estagiari funcionari empres prestador servic pod auxili comissa inventari desd membr dest estej present
+
+
+dirigent unidad tcu estad isc bem detentor carg pod design membr comissa inventari
+
+
+quand design comissa inventari refer dest dev fix praz maxim par conclusa trabalh
+
+
+inventari anual compreend seguint ativ document praz par execuca
+
+
+i setembr ana respect inventari registr sistem patrimoni levant tod bens sed isc unidad tcu estad
+
+
+ii dezembr ana respect inventari registr sistem patrimoni levant complement tod bens encontr setembr bens incorpor receb est dat
+
+
+iii janeir ana seguint inventari envi relatori circunstanci process administrat eletron unidad central patrimoni
+
+
+iv janeir ana seguint inventari par fins tom cont unidad patrimoni pod comunic localiz bens encontr dezembr ana respect inventari
+
+
+v fevereir ana seguint inventari par fins tom cont unidad central patrimoni dev inform setorial contabil process administrat eletron relaca consolid bens encontr inventari unidad gestor
+
+
+process administrat eletron inventari anual dev cont seguint document
+
+
+i port design comissa inventari houv
+
+
+ii relatori circunstanci inventari anual anuenc respect dirigent unidad
+
+
+iii relatori levant bens cad detentor carg preferencial orden pel tip situaca levant
+
+
+iv relatori bens mov
+
+
+v relatori bens pertencent outr detentor
+
+
+vi relatori bens detentor encontr sed isc secret estad
+
+
+vii relatori comparat patrimonialfinanceir
+
+
+vii relatori bens levant divergente
+
+
+ix fotograf bens sem plaquet etiquet danific
+
+
+relatori elenc ii vii dev extra sistem patrimoni
+
+
+normat seged edit subsidi propost unidad central patrimoni estabelec format orient par preenchiment formulariospadra referent relatori mencion nest
+
+
+unidad patrimoni comissa inventari desempenh funca competent par
+
+
+i cientific dirigent unidad sobr tod enderec envolv antecedente minim quarent oit hor dat marc par inici trabalh cas inventari anual
+
+
+ii solicit detentor carg element control intern outr document necessari levant
+
+
+iii requisit servidor maquin equip materi consum dem recurs servic necessari cumpriment taref
+
+
+iv identific estad uso conserv bens inventari discrimin relatori suscetiv recolh desfaz par cienc unidad patrimoni
+
+
+v propor secretariogeral administr diretorgeral isc dirigent unidad tcu estad apur irregular constat
+
+
+vi relacion identific conform dispost capitul vi dest port bens encontr sem nt sem codig barr sem plaquet outr tip etiquet comport np sem dev rgp possibilit adoca providente cabiv pel unidad patrimoni
+
+
+vii solicit autor competent livr acess qualqu recint par efetu levant vistor bens
+
+
+capitul x
+
+
+desfaz
+
+
+
+seca i
+
+
+
+
+condica definica
+
+
+
+desfaz par fins control patrimonial tcu cons transferente direit propriedad bens tcu autoriz pel presidente tribunal servidor ess competente deleg subdeleg mediant alien renunc ess direit term lei observ dispost nest capitul
+
+
+paragraf unic quand desfaz trat quaisqu modal dev adot providente necess relat seguranc inform seguranc fisic patrimonial bem
+
+
+material permanent passivel desfaz quand classific quant situaca patrimonial ocios recuper antieconom irrecuper cuj permanente remanej ambit tcu consider desaconselh pel comissa indic dest
+
+
+unidad patrimoni dev efetu periodic levant bens suscetiv desfaz
+
+
+avali bens suscetiv desfaz fic carg comissa compost tres membr design pel secretariogeral administr quand trat bens sed pel respect dirigent hipotes bens secret estad isc
+
+
+seged pod cas especi autoriz contrat praz determin servic empres profissional especializ par assessor comissa quand trat material grand complex vult valor estrateg cuj manusei poss oferec risc pesso instal mei ambient
+
+
+cas vend permut valor material atribu pel comissa refer anterior dev calcul conform prec atualiz pratic merc impossibil obtel valor atribu avali competent
+
+
+paragraf unic decorr mais cent vint dias cont dat avali material dev valor reavali
+
+
+
+seca ii
+
+
+
+
+doaca
+
+
+
+doaca bens ocios recuper realiz mei ofert public pel praz minim cinc dias ute obedec seguint ordem
+
+
+i orga entidad feder dev inform bens passiv doaca mei mensag siaf observandos preferente orga administr public federal diret qualqu esfer pod
+
+
+ii orga entidad esfer estadual distrit federal vincul are saud educ seguranc public observandos preferente entidad localiz mesm estad unidad doador
+
+
+iii orga entidad esfer municipal vincul are saud educ seguranc public observandos preferente entidad localiz mesm estad unidad doador
+
+
+cas haj inter doaca tratat entr tcu orga escolh dev formaliz
+
+
+houv mais ent inscrit mesm ordem preferente criteri atend dev ped doaca dat solicit mais antig
+
+
+doaca bens par entidad filantrop inter public pod ocorr cas bens antieconom irrecuper term dest port observ seguint criteri preferente
+
+
+i dat protocol receb ped doaca
+
+
+ii dat criaca entidad segund inform constant respect estatut
+
+
+doaca soment realiz benefici entidad filantrop reconhec util public pel govern federal fat devid comprov cop autentic seguint document
+
+
+i certific registr orga nacional assistente social competent
+
+
+ii registr cadastr geral pesso jurid cnpjmf
+
+
+iii ata eleica diretor execut exercici
+
+
+paragraf unic doaca mesm entidad limit dois lot bens bieni
+
+
+bens inserviv destin entidad filantrop separ tres grup
+
+
+i informat
+
+
+ii mobiliari geral
+
+
+iii equip divers
+
+
+formaca lot bens par doaca pod inclu bens tres grup refer respeitandos quantitat min max previst anex i ii dest port cab seged decid sobr cas doaca quantitat diferent mencion ness anex
+
+
+cad tres grup form bens mesm natur contabil send mais relevant defin itenspadra
+
+
+par formaca lot bens quantidad itenspadra pod inferior quantidad minim grup conform anex i dest port
+
+
+quantidad cad itenspadra compo lot bens pod superior quantidad maxim individual estabelec anex ii dest port
+
+
+ocorr doaca bens form previst nest seca falt manifest inter atend condica leg par receb process doaca dev submet apreci seged par avali quant possibil desfaz term dest port
+
+
+
+seca iii
+
+
+
+
+renunc
+
+
+
+quand comissa respons verific impossibil inconveniente alien material classific irrecuper autor competent pod determin renunc direit propriedad mei inutiliz descart retir part economic aproveit permit identific tcu
+
+
+inutiliz cons destruica total parcial material descart realiz loc apropri indic pel administr public
+
+
+inutiliz descart sempr necessari realiz mediant consult unidad especializ tcu form eficac assegur
+
+
+materi especif exempl simbol nacion armas munica materi pirotecn natur toxic venen contamin radioativ inutiliz observanc legislacion especif
+
+
+capitul xi
+
+
+baix patrimonial
+
+
+consideras baix patrimonial retir bem patrimoni tribunal mediant registr transferente dest par control bens baix autoriz pel presidente tcu servidor ess competente deleg subdeleg process administrat instru justificat correspondent
+
+
+np bem baix dev aproveit par qualqu outr bem
+
+
+baix patrimonial pod ocorr quaisqu form desfaz previst nest port dev process apur irregular
+
+
+autoriz baix patrimonial depend par efetiv anuenc dirigent unidad central patrimoni
+
+
+par fins registr siaf unidad central patrimoni dev encaminh document relat baix patrimonial bens sed tcu setorial contabil cas bens isc secret estad respect unidad gestor
+
+
+capitul xii
+
+
+irregular
+
+
+consideras irregular tod ocorrente result prejuiz tcu relativ bens propriedad terceir responsabil perceb qualqu servidor desempenh trabalh resultant levant inventari
+
+
+irregular pod decorr
+
+
+i extravi localiz bem component
+
+
+ii avar danific parcial total bem component desg natural empreg oper inadequ equip materi imperic event imprevisiv event previsiv consequente incalcul
+
+
+iii inobservanc praz garant deix solicit garant previst contrat execut repar manutenca modific bens durant period garant sem autoriz unidad central patrimoni
+
+
+iv falt aceit deix aceit bem dentr praz estabelec nest port sistem patrimoni
+
+
+v falt comunic imediat unidad patrimoni deix comunic imediat unidad patrimoni constat quaisqu irregular previst nest port excet cas mencion i dest paragraf hipotes dev comunic unidad seguranc servic apoi
+
+
+pod consider imperic entr outr cas instal inadequ equip eletroeletron red eletr
+
+
+constat irregular detentor carg respons dev
+
+
+i cas extravi envolv uso violenc roub arromb venh coloc risc guard seguranc bens mov comunic fat unidad seguranc servic apoi dev
+
+
+adot providente imediat par reav recuper bem
+
+
+orient comunicant par preserv local par eventual peric
+
+
+c comunic fat unidad patrimoni depart polic federal dpf cas
+
+
+ii dem cas extravi irregular descrit nest comunic fat unidad patrimoni
+
+
+paragraf unic cas extravi bem contenh inform produz custodi pel tcu fat dev imediat comunic incident seguranc inform term polit corporat seguranc inform pcsitcu
+
+
+receb comunic constat irregular unidad patrimoni dev
+
+
+i levant inform par subsidi especial instruca process apur responsabil
+
+
+junt detentor carg respons pesso envolv
+
+
+sistem patrimoni
+
+
+local ocorrente irregular
+
+
+equip especializ entidad conveni
+
+
+ii cas extravi notific detentor carg respons par quinz dias corr
+
+
+localiz bem dad desaparec
+
+
+b reponh outr bem mesm caracterist superior aprov prev unidad central patrimoni
+
+
+c apresent justificat extravi par inclusa dev process apur responsabil
+
+
+iii hipotes avar perd caracterist material decorr uso normal outr fator independ aca usuari propor secretariogeral administr baix patrimonial process administrat
+
+
+iv quand avar resultant empreg oper inadequ equip materi imperic quand comprov desleix maf apresent irregular avali valor prejuiz caus par apreci pel secretariogeral administr
+
+
+v cas repar manutenca modific autoriz pel unidad patrimoni bens period garant apresent irregular avali cust envolv eventual prejuiz perd garant par apreci pel secretariogeral administr
+
+
+vi quand falt aceit apur fat quand necessari inform unidad control intern corregedor tcu
+
+
+unidad patrimoni encaminh process apur responsabil relatori irregular san calcul indeniz dev levant qualqu temp quaisqu inventari corregedor tcu unidad control intern par cienc seged par adoca seguint providente
+
+
+i analis irregular justificat apresent quand houv determin servidor responsabiliz arqu despes consert indeniz valor envolv eventu prejuiz caus pel perd garant
+
+
+ii design comissa apur irregular cuj relatori dev abord seguint topic par orient julgament servidor envolv quant responsabil pel ocorr event
+
+
+ocorrente circunstanc
+
+
+b estad encontr encontrav material
+
+
+c valor bem estad encontr encontrav
+
+
+d hav materiaprim component passiv reaproveit
+
+
+sugesta sobr destin dad material cas
+
+
+f caracteriz responsabil pesso envolv
+
+
+iii analis justificat apresent cas acolh imput servidor envolv ressarc prejuiz dan caus
+
+
+comissa apur irregular trat ii anterior compost minim tres servidor
+
+
+paragraf unic servidor mencion dev obrigatori sed tcu preferencial isc unidad estad formaca direit conhec control patrimonial outr experiente proced seguranc servic apoi
+
+
+servidor responsabiliz civil quand comprov culp dol irregular bens propriedad responsabil tcu assegur contraditori ampl defes sem prejuiz sanca administrat pen cabiv
+
+
+paragraf unic apur irregular realiz conform disposit constant dest port
+
+
+capitul xii
+
+
+avali par fins indeniz
+
+
+valor avali bens par fins indeniz ativ imobiliz tcu dispost nest port calcul seguint form
+
+
+i inicial realiz avali bem obtid pel valor merc bem nov possu mesm caracterist superior
+
+
+ii impossibil obter valor merc bem dev atualiz valor aquisica pel indic prec consumidor ampl ipc outr indic venh substitu
+
+
+iii obtenca nov valor form anterior observandos norm stn sobr depreci calculas percentual depreci bem extravi sujeit dat comunic fat unidad patrimoni aplicas par calcul indeniz est percentual depreci sobr valor anterior obtid
+
+
+cas bem encontr total depreci mesm sid reavali valor ressarc correspond valor residual registr bem
+
+
+bens exempl livr obras antigu bens valor histor correlat depreci respect avali
+
+
+quand necessari par obter valor merc bem acord peculiar unidad patrimoni pod solicit avali profissional especial servidor tcu are especializ
+
+
+indeniz bens dev compens valor pec avari extravi tamb dan caus tod conjunt
+
+
+comissa apur irregular dev atualiz calcul valor indeniz term dest port
+
+
+valor avali indeniz pod mediant autoriz secretariogeral administr pagament divid observandos dispost lei dezembr quant indeniz reposica erari
+
+
+conform acord servidor indeniz pod descont folh pagament recolh unia via gui recolh unia gru conform codig fornec pel setorial contabil
+
+
+valor recolh mes respect calcul indeniz pod atualiz monetari pel tax selic part primeir dia util subsequent elabor calcul pel unidad central patrimoni
+
+
+indeniz erari efetu praz estipul apur irregular apresent seged par inscrica div ativ unia dem providente cabiv
+
+
+capitul xix
+
+
+disposica fin
+
+
+bens valor relevant signific especial par tcu pod segur acord propost unidad patrimoni respect anuenc secretariogeral administr sed tcu diretorgeral isc secretari unidad tcu estad
+
+
+cab secretariogeral administr ouv quand coub comit seguranc institucional cosin edit norm complement ativ control patrimonial bem dirim cas omiss nest port
+
+
+fic revog portariastcu nºs janeir novembr mai junh
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+joa august ribeir nard
+
+
+
+
+anex i portariatcu novembr
+
+
+quantidad minim grup itenspadra par formaca lot
+
+
+grup itenspadra
+
+itenspadra
+
+quantidad minim
+
+informat
+
+comput mes comput portatil monitor impressoramultifuncional scann mes servidor red
+
+
+
+mobiliari geral
+
+mes par escritori estaca trabalh cadeir poltron sof armari estant
+
+
+
+equip divers
+
+aparelh telefon estabiliz transform condicion ar portatilpared circuladorumidific ar aparelh televisa aparelh som projetor multimid
+
+
+
+
+
+
+
+anex ii portariatcu novembr
+
+
+quantidad maxim individual itenspadra par composica lot
+
+
+grup bens
+
+itenspadra
+
+quantidad
+
+maxim
+
+informat
+
+comput mes
+
+
+
+comput portatil
+
+
+
+monitor
+
+
+
+impressoramultifuncional
+
+
+
+scann mes
+
+
+
+outr
+
+
+
+mobiliari
+
+geral
+
+mes par escritorioest trabalh
+
+
+
+cadeirapoltron
+
+
+
+sof
+
+
+
+armarioestant
+
+
+
+outr
+
+
+
+equip divers
+
+aparelh telefon
+
+
+
+estabilizadortransform
+
+
+
+condicion ar portatilpared
+
+
+
+circuladorumidific ar
+
+
+
+aparelh televisa
+
+
+
+aparelh som
+
+
+
+projetor multimid
+
+
+
+outr
+
+
+
+
+
+
+
+const revog express
+dispo sobr polit gesta bens mov pertencent patrimoni tribunal cont unia tcu
+
+

@@ -1,0 +1,1114 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu dezembr resolv
+
+
+fic aprov realiz projet governanc term anex dest port
+
+
+fic design anal control extern claudi silv cruz matricul par exerc funca confianc coorden projet codig fc constant anex x aloc funca gestor projet
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+walton alenc rodrigu
+
+
+president
+
+
+public dou seca p
+
+
+
+
+
+const revog express
+aprov realiz projet governanc design gestor
+
+anex portariatcu setembr
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+claudi silv cruz
+
+
+
+cscruztcugovbr
+
+
+
+funca gestor
+
+orig fc
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+carl albert mamed hernand
+
+
+
+carlosmhtcugovbr
+
+
+
+local telefon
+
+secret tecnolog inform
+
+
+
+identific projet
+
+
+nom projet
+
+projet governanc fas
+
+period realiz
+
+unidad patrocin
+
+
+
+secretariageral presidente
+
+
+
+
+
+vincul estrateg
+
+
+plan estrateg tcu port tcu janeir
+
+
+
+objet estrateg oe relacion projet
+
+oe contribu par melhor desempenh administr public
+
+oe estimul transparente gesta public
+
+oe combat desperdici recurs
+
+oe aperfeico instrument control process trabalh
+
+oe assegur adequ suport logist necess tcu
+
+oe desenvolv cultur orient result
+
+b
+
+iniciat estrateg ie relacion projet
+
+ie ampli facilit acess compreensa inform sobr gesta public
+
+ie map racionaliz princip process trabalh tcu
+
+ie dissemin uso par apoi control extern
+
+ie assegur qualidad inform bas dad corporat tcu
+
+ie aprimor process gesta desempenh resultad ie compatibiliz orcament anual planej estrateg
+
+ie defin implant gesta contrat plan aquisica manutenca
+
+ie defin implant plan sustentabil
+
+plan diretriz tcu
+
+
+
+aca defin polit prioridad par desenvolvimentoaquisicaomanutencao soluca
+
+plan diretor setec
+
+
+
+aca propor ccg polit proviment soluca
+
+b
+
+aca institu ambit setec respons pel administr cad soluca matriz responsabil
+
+rev estrutur competente responsabil subun setec inclusiv refer seguranc inform
+
+c
+
+aca aperfeico process monitor manutenca infraestrutur foc soluca critic
+
+divulg dad consolid sobr utiliz disponibil servic
+
+defin mudanc administrat par aument disponibil
+
+defin inici mensur indic desempenh soluca critic
+
+d
+
+aca rev contrat suport infraestrutur responsabil mecan gesta
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+iniciat aderente tcu padra internacion governanc
+
+aca implant gerenci servic base model itil
+
+aca consolid pratic gesta acompanh projet ambit setec
+
+aca integr process gerenci demand gerenci projet
+
+aca realiz mapeamentorevisa servic process contrat bens servic fiscaliz contrat setec
+
+aca aprimor process desenvolv sistem tcuup enfas aument particip usuari fin utiliz prototip realiz projet pilot valid interfac especial
+
+aca aperfeico seguranc inform tcu
+
+
+
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+par weill ross p boa governanc corporat depend boa governanc tecnolog inform ativ inform consider seis ativ mais important organiz
+
+governanc capac organiz garant gesta uso contribu efetiv par alcanc met organizacion par iss organiz dev dispor lideranc estrutur organizacional process adequ alem definica clar responsabil autor quant alcanc met arcabouc accountability transparente prest cont favorec comport mais adequ tod envolv itg p weill ross p weill ross p
+
+embor uso tecnolog inform tcu estej complet anos importanc par funcion tcu sej inquestion exist aind preocup abrangent consistent quant governanc entr element pod evidenci ess afirm destacams
+
+ausenc plan continu negoci institucional mitig risc decorrent falh funcion infraestrutur
+
+fragil proteca fisic equip centr process dad eg sal segur salacofr cpd reserv mesm vigilanc especial dia cuj paralis complet ocorr recent eg inici incendi break sal servidor falh sistem arcondicion mesm sal provoc grav impact ativ tod tcu implant process eletron tcu eventual paralis cpd caus quas paralis ativ tcu eventual incendi cpd perd total maquin cabeament dad provoc paralis total ativ process dad recuper normal pod lev mes funca necess aloc orcament emergencial inum contrat diret emergenci temp import equip respect instal configur alem problem cit aind deves consider prejuiz decorrent contrat servic firm pod deix pag mesm paralis cpd
+
+ausenc sistemat classific inform tcu mei eletron bas par estabelec proced adequ tratament descart document vist resguard integr confidencial disponibil inform consequente risc vazament adulter inform elev ocorrente dess natur verific possivel ocorrente sequ tenh sid perceb pel instituica
+
+ausenc model gesta sistem inform tcu grand deficiente gestor sistem design pel port tcu falt treinament especif par cumpriment obrig ali dispost ensej escassez treinament usuari fin sistem disponiv consequent baix indic uso baix retorn invest feit concepca b ausenc auditor sistem uso traz grav risc adulter inform sensiv afet imag tcu perant clientel
+
+fragil planej vis atend demand futur frent expansa numer usuari intern extern sistem inform tcu necess integr sistem inform outr instituica lig red control necess fornec inform servic sociedad lei especial dificuldad relaca prioriz aca invest soluca dev dificuldad decid qua aca mais priorit
+
+fragil process contrat gesta contrat embor invest ness are tenh sid significat eg port setec aind muit oportun melhor dess process aperfeico servidor respons pel execuca
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+evoluca quadr apresent dad
+
+
+
+divers aca marc aprimor gesta are informat long temp segu expost event mais marcant ocorr ultim anos
+
+elabor planej anual aca informat inclusiv muit outr unidad propri tribunal tod constitu process planej eg planej cpd pel port pres
+
+aprov polit seguranc inform acord novembr
+
+elabor planej orcamentari anual gesta execuca orcament long tod exercici desd
+
+definica papel gestor sistem inform ocorr mediant implant port tcu posterior substitu pel port tcu
+
+implant tcuup period metod padroniz desenvolv sistem inform base model rup rational unified process metod consagr merc
+
+elabor primeir versa process trabalh par contrat bens servic ambit secret tecnolog inform mediant port setec janeir
+
+elabor referencial estrateg are tecnolog inform materializ port setec agost tamb defin estrutur organizacional competente subun secret tecnolog inform estrutur competente base process trabalh
+
+embor event apresent evidenci amadurec governanc tcu percept ess amadurec concentr setec
+
+entretant entend pratic governanc essenci par melhor result dess are pratic ocorr dentr fora unidad vem cresc ambit tribunal evidenci pel seguint aca
+
+subordin setec secretariageral presidente mediant tev objet possibilit maior coorden entr divers unidad report diret president cas eg coorden mais intens entr are informat planej
+
+criaca comit integr sistem corporat par control extern cisc mediant port tcu cuj final auxili comissa coordenacaogeral formul prioridad polit diretriz institucion relat sistem corporat control extern tcu
+
+indic ministr august sherman cavalcant coorden estrateg tribunal acord port tcu
+
+constituica present projet mod inici implant pratic governanc tcu
+
+primeir aca niv mais altos administr tribunal pod acompanh mais atent funcion evoluca are mod cas obtenh vari benefici maior alinh estrateg maior grau agreg valor part tcu
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+
+escop projet
+
+
+
+objet geral projet relaca oportun soluca problem
+
+elabor diagnost prelimin governanc propor melhor priorit par vis dot tcu pratic governanc base padra nacion internacion
+
+
+
+
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+nivel conhec sobr princip conceit relacion governanc conclusa trabalh inici
+
+pesso
+
+
+
+palestr profer par servidor
+
+palestr profer armazen par referente
+
+minasc
+
+segepr
+
+segecex
+
+seged
+
+setec
+
+b
+
+avali experiente outr organiz public
+
+organiz adot governanc
+
+
+
+reunia avali experiente terceir realiz
+
+relatori aceit
+
+event realiz armazen par referente
+
+relatori cont princip aspect experiente outr organiz public entreg
+
+minasc
+
+segepr
+
+segecex
+
+seged
+
+setec
+
+c
+
+aplic autoavali cobit pel metod preconiz pel intosa etap h vid anex i
+
+
+
+avali
+
+
+
+relatori autoavali aceit
+
+relatori autoavali entreg
+
+segepr
+
+d
+
+propor melhor priorit par setec par tcu relat governanc par ana
+
+
+
+
+
+relatori list prioridad par aceit
+
+relatori list prioridad par entreg
+
+segepr
+
+
+
+
+
+dispar acompanh licit avali extern governanc usand referencial cobit execut inici usand insum avali itil nbr execuca avali objet item c
+
+
+
+
+
+
+
+
+
+
+
+term referente entreg
+
+licit realiz
+
+term referente elabor
+
+objet adjudic
+
+setec
+
+semat
+
+
+
+f
+
+elabor propost fas projet governanc
+
+
+
+
+
+propost projet aceit
+
+propost projet entreg
+
+solicit projet aprov pel ccg
+
+port design projet public pel pres
+
+segepr
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+benefici impact esper produt projet
+
+
+
+
+melhor alinh estrateg negoci tcu
+
+b
+
+melhor sustentabil are tcu
+
+c
+
+melhor retorn invest tcu
+
+
+
+
+
+escop projet vai faz
+
+
+
+
+conduca avali itil nbr curs
+
+b
+
+prioriz execuca aca melhor qua cab respect are segund pap responsabil defin pel referencial cobit itg
+
+c
+
+execuca diagnost independent base cobit
+
+
+
+
+
+identific part envolv projet relaca
+
+
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+ministr august sherman cavalcant
+
+coorden tcu
+
+negoci escop etap produt projet
+
+particip definica prioridad governanc
+
+valid produt ger long projet
+
+b
+
+segepr patrocin
+
+negoci escop etap produt projet
+
+particip definica prioridad governanc
+
+valid produt ger long projet
+
+c
+
+segecex
+
+valid produt ger long projet
+
+particip definica prioridad governanc
+
+implant process fora are
+
+d
+
+seged
+
+valid produt ger long projet
+
+particip definica prioridad governanc
+
+implant process fora are
+
+
+
+setec
+
+valid produt ger long projet
+
+particip definica prioridad governanc
+
+implant process are
+
+sal par instal equip projet
+
+f
+
+seplan
+
+valid produt ger long projet
+
+particip definica prioridad governanc
+
+implant process fora are
+
+
+
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+envolv membr equip outr ativ dat agend
+
+alt
+
+med
+
+m program tod reunia antecedente confirm particip
+
+coorden
+
+b
+
+contrat avali extern governanc usand referencial cobit ocorr dat previst execuca
+
+alt
+
+med
+
+m dispar contrat imediat
+
+setec
+
+c
+
+rejeica propost melhor priorit par setec par tcu relat governanc par ana part ator envolv
+
+alt
+
+med
+
+m mant tod ator inform convidal par reunia projet mais relevant
+
+coorden
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+relaca outr projet
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+
+
+projet aquil
+
+projet governanc fas
+
+
+
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+
+
+claudi silv cruz
+
+
+
+setec
+
+
+
+integral
+
+
+
+carl albert mamed hernand
+
+
+
+setec
+
+
+
+integral
+
+
+
+maris rodrigu alh batist
+
+
+
+setec
+
+
+
+parcial
+
+
+
+gledson pomp corre cost
+
+
+
+setec
+
+
+
+parcial
+
+
+
+felici rib torr
+
+
+
+segepr
+
+
+
+parcial
+
+
+
+edison franklin alme
+
+
+
+segecex
+
+
+
+parcial
+
+
+
+luiz felip bezerr alme sima
+
+
+
+seged
+
+
+
+parcial
+
+
+
+alessandr giubert laranj
+
+
+
+seplan
+
+
+
+parcial
+
+
+cust adicion estim
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+contrat empres especializ par realiz avali independent matur governanc tcu pel referencial cobit usad sistem registr prec par viabiliz proced licitatori aind uso orcament estimat inicial obtid empres pink elephant
+
+r
+
+orcament
+
+total cust estim
+
+r
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+ambient trabalh inclu sal duas mes trabalh bai mes reunia pel men quatr cadeir ramal aparelh telefon
+
+assessor setec
+
+
+finaliz
+
+
+dat
+
+assinatur gestor projet
+
+
+
+
+
+
+
+claudi silv cruz
+
+coorden projet
+
+manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes seplan par fins aprov
+
+segepr
+
+
+
+
+
+maurici albuquerqu wanderley
+
+secretariogeral presidente
+
+manifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+
+
+
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+
+anex i metod autoavali preconiz pel intosa
+
+
+conform relatori anal robert queiroz martins brasil
+
+
+
+metodolog autoavali propost dev possibilit efs med matur control estabelec linh aca tenh fim evoluca linh ger possivel demonstr est metodolog dividindo seguint pass
+
+
+
+
+escolh grup pesso trabalh organiz respons pel process autoavali dev hav moder
+
+
+
+
+b definica princip process negoci efetu tod grup
+
+
+
+
+c definica nivel importanc atu sistem par cad process negoci especific cad integrant grup
+
+
+
+
+d definica nivel importanc possiv futur sistem par cad process negoci especific cad integrant grup
+
+
+
+
+definica nivel qualidad atu sistem par cad process negoci especific cad integrant grup
+
+
+
+
+f consolid pel moder respost apresent pass c d compo primeir formulari
+
+
+
+
+g seleca process mais important par orga process defin cobit efetu tod grup
+
+
+
+
+h definica nivel importanc cad process selecion pass g especific cad integrant grup
+
+
+
+
+i definica nivel matur conceit especific cobit cad process selecion pass g especific cad integrant grup
+
+
+
+
+j identific process negoci afet pel process baix nivel matur
+
+
+
+
+k consolid pel moder respost apresent pass h i compo segund formulari
+
+
+
+
+l apresent result grup pel moder
+
+
+
+
+m discussa valid result pel grup
+
+
+
+
+descrica problem mais important
+
+
+
+
+prepar plan aca
+
+
+
+
+p apresent discussa dirigent maxim orga
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+
+
+anex ii referente
+
+
+
+brasil tribunal cont unia portariatcu julh aprov plan diretor informat tribunal cont unia par trieni julh junh
+
+
+lei dezembr dispo sobr criaca homepag internet pel tribunal cont unia par divulg dad inform especif outr providente dispon httpwwwplanaltogovbrccivil leislhtm acess jun
+
+
+tribunal cont unia novembr dispo sobr polit seguranc inform tribunal cont unia psitcu outr providente
+
+
+tribunal cont unia portariatcu mai dispo sobr competente design unidad gestor sistem inform tribunal cont unia dispon httpwwwtcugovbrplsportaldocspagetcunormasjurisprudenciaatosnormativosportariasportarias prt doc acess jun
+
+
+relatori particip seminari sobr entidad fiscaliz superior control tecnolog inform relatori ace robert queiroz martins tcusegecexadfisdat
+
+
+tribunal cont unia port setec janeir aprov versa process trabalh par contrat bens servic ambit secret tecnolog inform
+
+
+tribunal cont unia port setec agost dispo sobr referencial estrateg organiz intern competente subun secret tecnolog inform dispon sarqprodunidadesseinfportarias port setec macroprocess estrutur competenciasdoc acess jun
+
+
+tribunal cont unia dezembr defin estrutur competente distribuica funca confianc unidad secret tribunal cont unia dispon httpwwwtcugovbrplsportaldocspagetcunormasjurisprudenciaatosnormativosresolucoesversaores doc acess jun
+
+
+tribunal cont unia portariatcu mai dispo sobr competente design unidad gestor soluca tecnolog inform tribunal cont unia dispon httpwwwtcugovbrplsportaldocspagetcunormasjurisprudenciaatosnormativosportariasprt doc acess jun
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet governanc
+
+pagin
+
+
+
+
+
+tribunal cont unia portariatcu mai design auditor august sherman cavalcant par coorden estrateg relat are tecnolog inform ambit tribunal cont unia tcu
+
+
+tribunal cont unia portariatcu mai cri comit integr sistem corporat par control extern cisc
+
+
+itg information technology governanc institut cobit control objectiv information and related technology ed rolling meadows itg dispon httpwwwisacaorgamtemplatecfmsectiondownloadstemplatemembersonlycfmcontentfileid acess mai
+
+
+weill pet ross jeann w it governanc on one pag cisrsloan working papers cisr working pap and sloan working pap cambridg massachusetts institut of technology dispon httpwebmiteducisrworking cisrwppdf acess mai
+
+
+governanc tecnolog inform paul m books brasil
+
+
+
+

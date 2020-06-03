@@ -1,0 +1,399 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment resolv
+
+
+aperfeico tecnic direca gerenc lideranc chef previst atend pel curs gerenci organizacionalcg oferec regular pel institut serzedell correaisc tend objet proporcion capacit servidor tribunal cont uniaotcu par desempenh carg direca chef
+
+
+cgo publicoalv gerent efet potenci divers niv hierarqu tcu preferencial agrup turm especif
+
+
+paragraf unic cas vag sej preench servidor ocupant mesm nivel hierarqu funca comission vag remanescent pod preench ocupant funca comission nivel hierarqu imediat inferior sucessiv
+
+
+curricul cgo compreend seguint niv disciplin
+
+
+i nivel basic
+
+
+habil gerenci basic
+
+
+b gesta pesso
+
+
+c gesta desempenh
+
+
+d informat par gerent
+
+
+ii nivel intermediari compost pel nivel basic acrescentandos seguint disciplin
+
+
+gesta mudanc
+
+
+b gesta process
+
+
+c conduca reunia
+
+
+d gesta pesso
+
+
+iii nivel avanc compost pel nivel intermediari acrescentandos seguint disciplin
+
+
+gesta public
+
+
+b visa raciocini estrateg
+
+
+decorr cad disciplin treinand submet avali aprendizag form quantidad defin respect manual trein
+
+
+paragraf unic participant cumpr exigente minim especific par cad disciplin exped certific frequenc aproveit
+
+
+servidor conclu aproveit cgo estara habilit ocup funca direca refer observ seguint equivalente
+
+
+i nivel basic par funca chef servic equivalent
+
+
+ii nivel intermediari par funca direca divisa equivalent
+
+
+iii nivel avanc par funca direca unidad basic execut equivalent
+
+
+
+
+
+servidor conclu disciplin cgo oferec pel isc anterior vigenc dest port consider habilit disciplin relacion tabel equivalente constant anex i dest port nr port btcu
+
+
+
+
+
+
+servidor conclu niv basic intermediari eou avanc estara habilit mesm niv nov model cgo
+
+
+
+
+
+escol nacional internacional control fiscaliz enicef isc pod mediant solicit servidor interess reconhec mat disciplin integrant curs posgradu especializ extensa mestr doutor cuj conteud programat atend objet ger especif carg hor estabelec nest port desd conclu mais dois anos ped nr port btcu
+
+
+
+
+
+
+conced equivalente entr curs graduaca disciplin curs gerenci organizacional ac port btcu
+
+
+
+disciplin trat est port pod oferec secret control extern estad mediant contrat professor instituica loc obedec mesm carg hor conteud programat defin pel isc
+
+
+isc dev organiz niv cgo refer iv port janeir form previst plan geral aca pga
+
+
+carg hor disciplin compo cgo indic anex ii dest port
+
+
+preinscrica disciplin cgo dev feit pel interess mediant preenchiment formulari especif
+
+
+paragraf unic quand numer preinscrit superior vag oferec seleca par inscrica definit dev obedec seguint criteri sucessiv
+
+
+exercici funca comission maior nivel hierarqu
+
+
+b exercici funca comission maior temp
+
+
+c design substitut eventual funca comission
+
+
+d maior interval realiz disciplin cgo
+
+
+maior temp servic tcu
+
+
+habilit participant disciplin conteud programat carg hor semelhant aquel cgo curs cit dispens particip disciplin correspondent nr port btcu
+
+
+
+dispens trat est depend requer interess quand trat event realiz outr instituica
+
+
+requer mencion paragraf anterior dev encaminh isc acompanh document demonstr conteud programat carg hor result avali aprendizag relat disciplin
+
+
+isc dev divulg boletim tribunal cont unia bimestral relaca servidor habilit niv cgo
+
+
+est port entr vigor dat public revogandos port nºs agost isc fevereir l
+
+
+
+
+
+
+iram saraiv
+
+
+president
+
+
+
+
+
+
+
+
+
+
+const revog express
+disciplin organiz realiz curs aperfeico tecnic direca gerenc lideranc chef refer dezembr outr providente
+
+anex i port
+
+
+
+
+tabel equivalente
+
+
+
+cgo model antig
+
+siglacg model nov
+
+sigl
+
+fundament gerenc
+
+fgr
+
+habil gerenci basic
+
+hgb
+
+avali desempenh
+
+adp
+
+gesta desempenh
+
+gde
+
+gerenc temp
+
+gtp
+
+palestr
+
+palgtp
+
+chef lideranc
+
+cld
+
+gesta pesso
+
+gpe
+
+process tom decisa
+
+ptd
+
+gesta mudanc
+
+gmu
+
+reunia produt apresent profission
+
+rpt apf
+
+conduca reunia
+
+cre
+
+planej organiz control
+
+poc
+
+gesta process
+
+gpr
+
+tecnic ferrament gerenci
+
+tfg
+
+gesta process
+
+gpr
+
+gerenc comportamental
+
+gcp
+
+gesta pesso
+
+gps
+
+qualidad produtiv
+
+qpd
+
+palestr
+
+qpdpal
+
+fundament process dad par gerent
+
+fdg
+
+informat par gerent
+
+ige
+
+
+
+
+
+observ
+
+
+
+
+est habilit conduca reunia servidor aprov curs reunia produt apresent profission
+
+
+
+
+
+est habilit gesta process servidor aprov curs planej organiz control curs tecnic ferrament gerenci
+
+
+
+
+
+disciplin gerenc temp qualidad produtiv fic transform palestr obrigator par habilit cgo
+
+
+
+
+redaca anterior
+
+
+
+servidor conclu disciplin cgo oferec pel isc anterior vigenc dest port consider habilit disciplin relacion tabel equivalente constant anex i alter port btcu
+
+
+
+
+escol nacional internacional control fiscalizacaoenicef isc pod mediant solicit servidor interess reconhec mat disciplin integrant curs posgradu especif carg hor estabelec nest port alter port btcu
+
+
+
+habilit participant disciplin conteud programat carg hor semelhant aquel cgo dispens particip disciplin correspondent alter port btcu
+
+
+
+
+
+
+
+
+anex ii port
+
+
+
+
+
+
+disciplin compo cgo respect carg hor
+
+
+
+
+
+
+
+disciplin
+
+carg hor
+
+minim
+
+habil gerenci basic
+
+
+
+gesta pesso
+
+
+
+gesta desempenh
+
+
+
+informat par gerent
+
+
+
+gesta mudanc
+
+
+
+gesta process
+
+
+
+conduca reunia
+
+
+
+gesta pesso
+
+
+
+gesta public
+
+
+
+visa raciocini estrateg
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,400 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider dispost decisa tcuplenari autoriz realiz curs especializ avali polit public
+
+
+consider necess estabelec criteri par ofert vag seleca candidat par mesm resolv
+
+
+vag curs especializ avali polit public ofert dev obedec seguint ordem decrescent prioridad distribuica
+
+
+i ocupant fc fc fc direca assessor dez vag
+
+
+ii anal financ control extern afces are control extern trabalh unidad ativ fim dez vag
+
+
+iii afces are control extern atu are fim lot divisa cont govern secon divisa norm proced auditor program govern saud quatr vag
+
+
+iv afces are control extern lot unidad trabalh produca eou dissemin conhec isc saud tres vag
+
+
+v afces are control extern trabalh unidad ativ mei tres vag
+
+
+vag preench cad grup dev redistribu entr dem observ proporcional mesm ordem prioridad distribuica fix i v dest
+
+
+diretorgeral institut serzedell corre isc autonom par negoci junt univers federal rio janeir ufrj aument numer vag sem acrescim despes cas excess candidat grup contempl i dest
+
+
+isc dev inform presidente quantidad vag ofert tenh sid preench encaminh par apreci propost ofert tfc are control extern curs superior orga conveni
+
+
+vag mencion nest soment pod ocup servidor tiv complet temp par aposentador proporcional integral desd atend dem servidor ocorr vag remanescent
+
+
+process selet par concorr vag ofert constituis
+
+
+i analis avali curricul academ profission interess segund criteri estabelec anex i carat classificatori
+
+
+ii entrev banc professor ufrj carat eliminatori
+
+
+isc respons pel organiz pel cronogram realiz process selet
+
+
+ato inscrica alem document comprobator inform prest process selet cad candidat dev apresent exposica fundament justifiqu particip curs inclu
+
+
+expectat relaca curs especializ analis polit public
+
+
+b gost concentr estud pesquis durant curs justific importanc
+
+
+c topic gost abord trabalh final
+
+
+servidor selecion lot secex estad dev fic disposica segecex provisori cumpr expedient secex sed preferencial localiz asa nort sem onus adicional par tribunal
+
+
+servidor enquadr situaca trat dest assegur exclusiv vag acomod aloj isc
+
+
+servidor enquadr nest situaca dev assin term compromiss aceit condica previst nest port anex ii
+
+
+servidor inici curs vier desist del sem raza justific ressarcira percentual valor despend pel tribunal relat cust vag
+
+
+paragraf unic cas servidor oriund secex estad alem ressarc refer dest retorn orig corr expens inclusiv reembols tribunal pel cust passag are utiliz
+
+
+isc dev realiz estud sobr viabil ofert semelhant curs especific par secex estad cargahor condens diminu period afast servidor unidad orig
+
+
+cas omiss excepcion resolv pel president tribunal
+
+
+est port entr vigor dat public
+
+
+revogams disposica contrari
+
+
+
+
+
+
+
+
+
+homer sant
+
+
+president
+
+
+
+
+
+
+const revog express
+estabelec criteri par ofert vag seleca candidat par curs especializ avali polit public realiz term decisa
+
+anex i
+
+
+
+
+
+tabel criteri seleca servidor par particip event treinament desenvolv profissional
+
+
+
+grup
+
+criteri
+
+unidad
+
+extensa especializ
+
+pmc
+
+pmg
+
+p
+
+experiente profissional
+
+desempenh efet tcu are funca correlat event
+
+semestr
+
+
+
+
+
+
+
+particip auditor are event operacion apoi analis cont president republ
+
+auditor
+
+
+
+
+
+atuaca outr orga empres are funca correlat event
+
+semestr
+
+
+
+
+
+temp servic tcu
+
+semestr
+
+
+
+
+
+exercici funca comission are correlat event
+
+nivel
+
+
+
+
+
+atuaca ensin produca tecnicocientif
+
+particip instrutor palestrant ultim cinc anos event promov pel isc
+
+particip
+
+
+
+
+
+
+
+particip grup trabalh pesquis organiz determin presidente plenari relatori conclus devid apreci
+
+particip
+
+
+
+
+
+public trabalh tecnic cientif livr period ultim cinc anos
+
+trabalh
+
+
+
+
+
+experiente didaticopedagog graus ativ extensa fora tcu
+
+
+
+
+
+
+
+formaca academ are event
+
+curs graduaca
+
+titul
+
+
+
+
+
+
+
+mestr
+
+titul
+
+
+
+
+
+doutor
+
+titul
+
+
+
+
+
+curs especializ
+
+certific
+
+
+
+
+
+curs extensa
+
+certific
+
+
+
+
+
+curs reciclag carg minim h aprov mei avali
+
+certific
+
+
+
+
+
+formaca academ are divers event
+
+curs graduaca
+
+titul
+
+
+
+
+
+
+
+mestr
+
+titul
+
+
+
+
+
+doutor
+
+titul
+
+
+
+
+
+curs especializ
+
+certific
+
+
+
+
+
+curs extensa
+
+certific
+
+
+
+
+
+curs reciclag carg minim h aprov mei avali
+
+certific
+
+
+
+
+
+outr
+
+temp restant par aposentador integral
+
+ana
+
+
+
+
+
+
+
+interval desd ultim particip event mesm tip
+
+semestr
+
+
+
+
+
+legend
+
+
+
+p pes
+
+
+pmc pontuaca maxim criteri
+
+
+pmg pontuaca maxim grup
+
+
+
+
+anex ii
+
+
+
+term compromiss aceit condica
+
+
+
+
+matricul atual lot secex vem mei dest manifest concordanc pagament diar ajud cust hospedag pel tribunal relativ period realiz curs especializ avali polit public brasil consider aceit tod condica criteri estabelec ofert vag seleca candidat inclu aloj isc percepca salarial taosoment auxili aliment pag
+
+
+
+
+
+secex
+
+
+
+
+
+
+
+
+
+nom matricul
+
+
+
+
+
+
+
+
+
+
+

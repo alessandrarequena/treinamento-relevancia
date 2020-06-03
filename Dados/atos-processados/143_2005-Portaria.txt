@@ -1,0 +1,2395 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet autom sistemat gesta pesso pesso i term anex dest port
+
+
+fic design anal control extern gec orion pereir goulart matricul par exerc funca confianc coorden projet codig fc constant dezembr aloc secretariageral control extern
+
+
+paragraf unic cab coorden projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+titul secretariageral administr fic autoriz proced sempr necessari mediant provoc unidad patrocin substituica nomeaca coorden projet
+
+
+est port entr vigor dat public
+
+
+
+adylson mott
+
+
+president
+
+
+
+public dou seca pag
+
+
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+gec orion goulart
+
+
+
+gecitcugovbr
+
+
+
+funca gestororig fc
+
+
+
+
+
+gerent
+
+x
+
+coorden
+
+
+
+lid
+
+segecex
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+raimund eustaqui carm
+
+
+
+raimundoectcugovbr
+
+
+
+local telefon
+
+setecdisin anex i terre sal
+
+
+identific projet
+
+
+nom projet
+
+autom sistemat gesta pesso pesso i
+
+period realiz
+
+unidad patrocin
+
+
+
+serec
+
+
+vincul estrateg
+plan estrateg tcu port tcu janeir
+
+
+
+
+
+objet estrateg aprimor polit intern gesta pesso
+
+b
+
+estrateg ampli aprimor uso tecnolog inform
+
+c
+
+estrateg aperfeico process trabalh tcu
+
+d
+
+estrateg assegur elev nivel satisf servidor tcu
+
+plan diretriz tcu bieni port tcu janeir
+
+
+
+diretriz aprimor gesta pesso equip tribunal
+
+med institu dissemin model integr gesta pesso
+
+plan diretor seged diretriz med
+
+
+
+met aperfeico execuca servic administrat tcu
+
+med auxili setec implant gerenci soluca tecnolog par racionaliz proced administrat
+
+plan diretor setec diretriz med
+
+
+
+diretriz ampli aprimor uso tecnolog inform
+
+met ampli aprimor uso tecnolog inform
+
+med promov junt respect gestor integr soluca mod racionaliz uniformiz process proced trabalh carg unidad tecnic
+
+b
+
+diretriz mant elev nivel satisfacaomotiv servidor
+
+met mant elev nivel satisfacaomotiv servidor
+
+med melhor suport gesta recurs human
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+evoluca regr negoci ambit gesta pesso consequent constant modific process trabalh ambit serec ger consider volum demand soluca tecnolog inform proposit adequ atual sistem gerenci recurs human grh nov condica trabalh
+
+b
+
+defasag tecnolog atual grh ali defasag term modelag negoci ger insatisf equip serec setec vist possivel alcanc result estav robust desej mesm quand ocorr intens aplic recurs human manutenca sistem
+
+c
+
+sistem grh implement linguag program borland delph versa utiliz plataform banc dad oracl versa i ultim anos virtud cresciment demand soluca consequent aument acerv armazen mid magnet softwar oracl evolu versa i par g provoc surgiment inconsistente codig grh dev defasag versa delph relaca nov component oferec pel versa g oracl ess fator sid motiv preocup par setec aplic escrit codig delph cad mais defas relaca atu tecnolog par resolv est problem med solicit manutenca atend setec est refaz program aplic antig linguag program jav versa minimiz risc incompatibil entr tecnolog utiliz
+
+d
+
+falt acess inform armazen bas dad sistem inconsistente dad existente var bas paralel inform ms access vari setor serec alem falt interfac par pesquis bas dad ger lacun disponibiliz inform par client
+
+pod cit exempl bas paralel delend
+
+
+
+portant oportun abertur dest projet porqu
+
+i pod utiliz modelag nov visa futur gesta pesso defin ambit projet atu aten ampl mapeament process trabalh serec conduz pel atu visa futur mapeament process trabalh serv insum par desenvolv nov conjunt soluca promov automatiz nov realidad
+
+ii urg realiz manutenca corret evolut sobr grh essenci continu trabalh serec
+
+iii ativ atualiz diret bas dad demand pel serec pod automatiz nov program comput liber setec dess onus operacional
+
+iv permitira reprogram part grh linguag jav reduz risc incompatibil entr tecnolog program armazen dad aind torn mais independent plataform inclusiv compatibiliz softwar livr
+
+v est projet utiliz contrat terceiriz par apoi mei contrat possivel aloc tecnic par ativ codific test mant equip tcu focaliz ativ maior valor agreg garant qualidad produt final permanente conhec negoci maos tcu
+
+evoluca quadr apresent dad
+
+
+
+grh entrou produca setembr cancel contrat servic vigent ibm brasil total deslig comput grand port mainfram constitu infraestrutur computacional operant epoc sistem projet desenvolv curtissim praz ana equip setec ambient microcomput conect red local tend vist sistem administr pessoal siap antecessor grh desativ junt deslig comput grand port emergente situaca epoc lev setec desenvolv nov sistem inform tinh premiss basic simpl substituica antig siap possivel virtud urgenc realiz levant mais detalh rea necess antig gesta recurs human exig epoc muit manutenca corret evolut realiz grh long dess set anos sistem est oper maior ocorr virtud necess adequ sistem constant mudanc lei proced gesta recurs human
+
+fator facilit
+
+
+
+gesta projet tribunal metodolog propr fator fundamental par consecuca dest projet gesta projet segu principi preconiz pel pmbok project management body of knowledg model gerenci projet defin pel pmi project management institut
+
+b
+
+metodolog desenvolv sistem tcuup defin bas rational unified process rup tamb fator fundamental par process gesta projet tcuup permit conduz ativ desenvolv softwar maneir planej sistemat colabor gesta projet pmbok concern ativ tecnolog especif are
+
+c
+
+inclusa client process trabalh particip efet ativ requisit document test homolog releas produt ger pel projet contribuira sobremaneir par melhor qualidad produt servic oferec pel projet
+
+benefici
+
+
+
+cri condica propic par assegur consistente dad mant pel sistem inform
+
+b
+
+desenvolv sistem capaz integr var bas dad paralel funca sistem integr gesta pesso sigp
+
+c
+
+implement condica par sigp futur sej capaz incorpor funcional indic conhec adfis gesta pesso mape pel projet aten
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+implement conjunt soluca vist reduca problem critic afet funcion sistem grh folh pagament sipad implant primeir etap nov sistem integr gesta pesso sigp cuj process mape ambit projet atu aten
+
+
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+manutenca evolut folh pagament
+
+
+
+
+
+implant demand compo manutenca evolut folh pagament
+
+
+
+serecdipag
+
+
+
+
+
+modific relatori fechament referent despes descont mod apresent valor tot quand impress part visualiz
+
+
+
+
+
+
+
+relatori fechament referent despes descont modific mod apresent valor tot
+
+serecdipag
+
+
+
+
+
+modific geraca disquet par banc mod emit relatori banc quand client solicit soment gravaca disquet
+
+
+
+
+
+
+
+geraca disquet par banc modific mod emit relatori banc quand client solicit soment gravaca disquet
+
+serecdipag
+
+
+
+
+
+modific interfac grafic emissa relatori fechament folh pagament par apresent list folh rod ordem invers ana ultim par primeir
+
+
+
+
+
+
+
+interfac grafic emissa relatori fechament folh pagament modific par apresent list folh rod ordem invers ana
+
+serecdipag
+
+
+
+
+
+cri funcional par ger automatic dad fechament folh par secof
+
+
+
+
+
+
+
+funcional par ger automatic dad fechament folh par secof
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat substituica fc
+
+
+
+
+
+
+
+funcional par lancament calcul automat substituica fc
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat gratific natalin par servidor tenh exerc fc period mais exercici
+
+
+
+
+
+
+
+funcional par lancament calcul automat gratific natalin par servidor tenh exerc fc period mais exercici
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat acert pagament fc quand houv poss exoner funca confianc
+
+
+
+
+
+
+
+funcional par lancament calcul automat acert pagament fc quand houv poss exoner funca confianc
+
+serecdipag
+
+
+
+
+
+cri interfac grafic permit control disponibil indisponibil modul emissa declar marg consign par client comum
+
+
+
+
+
+
+
+interfac grafic permit control disponibil indisponibil modul emissa declar marg consign par client comum
+
+serecdipag
+
+
+
+
+
+cri interfac grafic par lancament consign ressarc fazend nacional opca valor fix valor corrig percentual remuner sem correca monet
+
+
+
+
+
+
+
+interfac grafic par lancament consign ressarc fazend nacional
+
+serecdipag
+
+
+
+
+
+cri funcional permit atualiz consign mass
+
+
+
+
+
+
+
+funcional permit atualiz consign mass
+
+serecdipag
+
+
+
+
+
+modific interfac trat rubric model folh mod apresent soment rubric model folh send utiliz
+
+
+
+
+
+
+
+interfac trat rubric model folh modific mod apresent soment rubric model folh send utiliz
+
+serecdipag
+
+
+
+
+
+cri funcional par tratament histor pensa judici mod fiqu registr mudanc tip percentual etc
+
+
+
+
+
+
+
+funcional par tratament histor pensa judici
+
+serecdipag
+
+
+
+
+
+modific interfac grafic lancament pensa civil par consider dat concessa inici pensa
+
+
+
+
+
+
+
+
+
+interfac grafic lancament pensa civil modific mod consider dat concessa inici pensa
+
+serecdipag
+
+
+
+
+
+modific interfac grafic pensa alimentic par aceit inclusa mais pensa par mesm pension
+
+
+
+
+
+
+
+
+
+interfac grafic pensa alimentic par aceit inclusa mais pensa par mesm pension
+
+serecdipag
+
+
+
+
+
+modific interfac grafic pensa judicial referent dad bancari par apont par mesm tabel utiliz interfac grafic cont banc pesso vincul tcu
+
+
+
+
+
+
+
+interfac grafic pensa judicial referent dad bancari par apont par mesm tabel utiliz interfac grafic cont banc pesso vincul tcu
+
+serecdipag
+
+
+
+
+
+modific interfac grafic pensa civil par contempl lancament cont corrent pensa dev pag
+
+
+
+
+
+
+
+interfac grafic pensa civil modific par contempl lancament cont corrent pensa dev pag
+
+serecdipag
+
+
+
+
+
+cri funcional par disponibiliz intranet declar rendiment pag retenca par impost rend par servidor ativ
+
+
+
+
+
+
+
+funcional par disponibiliz intranet declar rendiment pag retenca par impost rend par servidor ativ
+
+serecdipag
+
+
+
+
+
+cri funcional par imprim declar rendiment pag retenca par impost rend personaliz form contrachequ atual par poss envelop encaminh servidor inat pension civ judici
+
+
+
+
+
+
+
+funcional par imprim declar rendiment pag retenca par impost rend personaliz form contrachequ atual par poss envelop encaminh servidor inat pension civ judici
+
+serecdipag
+
+
+
+
+
+cri interfac grafic par control parametriz rubric utiliz par calcul declar anu rendiment pag retenca par impost rend dirf
+
+
+
+
+
+
+
+interfac grafic par control parametriz rubric utiliz par calcul declar anu rendiment pag retenca par impost rend dirf
+
+serecdipag
+
+
+
+
+
+cri relatori discrimin lancament manu realiz mes par servidor especif par tod servidor possibil especific situaca ativoinativopension
+
+
+
+
+
+
+
+
+
+relatori discrimin lancament manu realiz mes par servidor especif par tod servidor possibil especific situaca ativoinativopension
+
+serecdipag
+
+
+
+
+
+cri relatori discrimin alter consign inclusa quitaca antecip entidad consignat servidor
+
+
+
+
+
+
+
+relatori discrimin alter consign inclusa quitaca antecip entidad consignat servidor
+
+serecdipag
+
+
+
+
+
+modific interfac grafic modul cadastr menu pagament opca contrachequ bota pesquis tel seleca pesso recebedor vincul tcu par mesm aparec foc radi button nom apresent nom med mesm send digit
+
+
+
+
+
+
+
+funcional modul cadastr menu pagament opca contrachequ bota pesquis tel seleca pesso recebedor vincul tcu par mesm aparec foc radi button nom apresent nom med mesm send digit
+
+serecdipag
+
+
+
+
+
+cri interfac grafic par tratament valor referenci dependent independent
+
+
+
+
+
+
+
+interfac grafic par tratament valor referenci dependent independent
+
+serecdipag
+
+
+
+
+
+cri interfac grafic par tratament inform relat restituica erari
+
+
+
+
+
+
+
+interfac grafic par tratament inform relat restituica erari
+
+serecdipag
+
+
+
+
+
+cri interfac grafic permit secof secex estad lanc valor diar pag fich financeir servidor benefici
+
+
+
+
+
+
+
+interfac grafic permit secof secex estad lanc valor diar pag fich financeir servidor benefici
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat pagament valor retroat opca correca monet
+
+
+
+
+
+
+
+funcional par lancament calcul automat pagament valor retroat
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat adicional insalubr
+
+
+
+
+
+
+
+
+
+funcional par lancament calcul automat adicional insalubr
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat auxili transport
+
+
+
+
+
+
+
+funcional par lancament calcul automat auxili transport
+
+serecdipag
+
+
+
+
+
+cri funcional par calcul pagament automat aposentador pensa fundament pel emend constitucional
+
+
+
+
+
+
+
+
+
+funcional par calcul pagament automat aposentador pensa fundament pel emend constitucional
+
+serecdipag
+
+
+
+
+
+modific funcional calcul pensa civil mod contempl cas reversa cot acert pensa est send encerr dias dev gratific natalin etc
+
+
+
+
+
+
+
+
+
+funcional calcul pensa civil modific mod contempl cas reversa cot acert pensa est send encerr
+
+serecdipag
+
+
+
+
+
+cri funcional par calcul automat pagament relat dias ativ inativ mes ocorr aposentador servidor
+
+
+
+
+
+
+
+
+
+funcional par calcul automat pagament relat dias ativ inativ mes ocorr aposentador servidor
+
+
+
+serecdipag
+
+
+
+
+
+modific funcional calcul consign par lev consider tant padra servidor quant proporcional ocasia aposentador proporcional
+
+
+
+
+
+
+
+funcional calcul consign modific par lev consider tant padra servidor quant proporcional ocasia aposentador proporcional
+
+serecdipag
+
+
+
+
+
+cri funcional par lancament calcul automat adicional noturn
+
+
+
+
+
+
+
+
+
+funcional par lancament calcul automat adicional noturn
+
+serecdipag
+
+
+
+
+
+cri funcional par calcul automatic pensa tip pa preescol
+
+
+
+
+
+
+
+funcional par calcul automatic pensa tip pa preescol
+
+serecdipag
+
+
+
+
+
+modific calcul benefici preescol par pag indevid mes subsequent extinca benefici mes crianc complet anos
+
+
+
+
+
+
+
+
+
+funcional corrig calcul benefici preescol
+
+
+
+serecdipag
+
+manutenca evolut sistem gerenci recurs human grh
+
+
+
+
+
+implant demand compo manutenca evolut grh
+
+
+
+serec
+
+
+
+
+
+concepca implement implant funca grh par emissa relaca anual inform soci rais
+
+
+
+
+
+
+
+rais
+
+serecdirec
+
+
+
+
+
+cri interfac grafic modul dilp permit client desfaz cancel pensa civil
+
+
+
+
+
+
+
+interfac grafic modul dilp permit client desfaz cancel pensa civil
+
+serecdilp
+
+
+
+
+
+cri servic autonom par cancel automat pensa civil
+
+
+
+
+
+
+
+servic autonom par cancel automat pensa civil
+
+serecdilp
+
+manutenca evolut sistem permanent avali desempenh sipad
+
+
+
+
+
+implant demand compo manutenca evolut sipad
+
+
+
+serecdirec
+
+
+
+
+
+cri relatori servidor avali inferior dad parametr especial valor par fins promoca
+
+
+
+
+
+
+
+relatori servidor avali inferior dad parametr especial valor par fins promoca
+
+serecdirec
+
+
+
+
+
+cri relatori parametriz servidor avali period
+
+
+
+
+
+
+
+relatori servidor avali period
+
+serecdirec
+
+
+
+
+
+cri relatori servidor avali period
+
+
+
+
+
+
+
+relatori servidor avali period
+
+serecdirec
+
+
+
+
+
+cri relatori servidoresperiod avaliat selecion pel perfil avali
+
+
+
+
+
+
+
+relatori servidoresperiod avaliat selecion pel perfil avali
+
+
+
+
+
+
+
+cri relatori valor gratific desempenh servidor
+
+
+
+
+
+
+
+relatori valor gratific desempenh servidor
+
+serecdirec
+
+
+
+
+
+cri relatori sipad tod inform cadastr sistem
+
+
+
+
+
+
+
+relatori sipad tod inform cadastr sistem
+
+serecdirec
+
+
+
+
+
+control servidor receb pis
+
+
+
+
+
+
+
+camp registr avali servidor
+
+serecdirec
+
+
+
+
+
+cri relatori servidor receb pis
+
+
+
+
+
+
+
+relatori servidor receb pis
+
+serecdirec
+
+
+
+
+
+cri funca inclusa automat bas avali sipad servidor rec emposs
+
+
+
+
+
+
+
+funca inclusa automat bas avali sipad servidor rec emposs
+
+serecdirec
+
+
+
+
+
+cri relatori gerencial servidor afast mais period avaliat
+
+
+
+
+
+
+
+relatori gerencial servidor afast mais period avaliat
+
+serecdirec
+
+
+
+
+
+control not receb pel servidor cas frequenc inferior igual period
+
+
+
+
+
+
+
+camp not receb pel servidor cas frequenc inferior igual period
+
+serecdirec
+
+
+
+
+
+cri relatori tod inform cadastr sipad par detentor perfil cadad
+
+
+
+
+
+
+
+relatori tod inform cadastr sipad par detentor perfil cadad
+
+serecdirec
+
+
+
+
+
+cri maior vincul entr grh sipad refer inform funcion servidor
+
+
+
+
+
+
+
+funca vincul automat entr grh sipad refer inform funcion servidor
+
+serecdirec
+
+
+
+
+
+cri funca permit titul defin est autoriz lanc not sipad avali substitut
+
+
+
+
+
+
+
+
+
+funca permit titul defin est autoriz lanc not sipad avali substitut
+
+serecdirec
+
+
+
+
+
+cri perfil respons pel digit apen permit lancament not par determin period nom avali
+
+
+
+
+
+
+
+perfil respons pel digit apen permit lancament not par determin period nom avali
+
+serecdirec
+
+
+
+
+
+cri funca inclusa chef gabinet avali substitut autor deleg competente
+
+
+
+
+
+
+
+funca inclusa chef gabinet avali substitut autor deleg competente
+
+serecdirec
+
+
+
+
+
+cri funca permit servidor quand perfil sipad avali substitut pod lanc propr not par ratific posterior pel avali
+
+
+
+
+
+
+
+funca permit servidor quand perfil sipad avali substitut pod lanc propr not par ratific posterior pel avali
+
+serecdirec
+
+
+
+
+
+cri camp mod trat inclusa not identific nom avali unidad cas avali respond mais unidad
+
+
+
+
+
+
+
+camp mod trat inclusa not identific nom avali unidad cas avali respond mais unidad
+
+serecdirec
+
+
+
+
+
+cri consult par detentor perfil avali permit visualiz not atribu servidor determin unidad qualqu period
+
+
+
+
+
+
+
+consult par detentor perfil avali permit visualiz not atribu servidor determin unidad qualqu period
+
+serecdirec
+
+
+
+
+
+padroniz mensag confirm lancament inform
+
+
+
+
+
+
+
+mensag padroniz confirm lancament inform
+
+serecdirec
+
+
+
+
+
+cri relatori inform result institucional cadastr sipad
+
+
+
+
+
+
+
+relatori inform result institucional cadastr sipad
+
+serecdirec
+
+
+
+
+
+inclu caix text confirm lancament sipad
+
+
+
+
+
+
+
+caix text confirm lancament sipad
+
+serecdirec
+
+
+
+
+
+alter regr disponibiliz menus par determin perf exempl acess menu referent result institucional
+
+
+
+
+
+
+
+regr alter relaca disponibiliz menus par determin perf
+
+serecdirec
+
+
+
+
+
+disponibiliz ultim avali dispon servidor tel lancament avali possibil alter not par period vigent
+
+
+
+
+
+
+
+tel lancament not alter
+
+
+
+serecdirec
+
+
+
+
+
+alter nom menus
+
+
+
+
+
+
+
+nom menus alter
+
+serecdirec
+
+
+
+
+
+inclu help on lin sipad
+
+
+
+
+
+
+
+help on lin sistem sipad
+
+serecdirec
+
+desenvolv sistem integr gesta pesso sigp
+
+
+
+
+
+autom process inici sigp
+
+
+
+serec
+
+
+
+
+
+autom process trabalh dad cadastr
+
+
+
+
+
+
+
+modul dad cadastr
+
+serec
+
+
+
+
+
+autom process trabalh dependent
+
+
+
+
+
+
+
+modul dependent
+
+serec
+
+
+
+
+
+autom process trabalh proviment
+
+
+
+
+
+
+
+modul proviment
+
+serec
+
+
+
+
+
+autom process trabalh vacanc
+
+
+
+
+
+
+
+modul vacanc
+
+serec
+
+
+
+
+
+autom process trabalh licenc
+
+
+
+
+
+
+
+modul licenc
+
+serec
+
+
+
+
+
+autom process trabalh afast
+
+
+
+
+
+
+
+modul afast
+
+serec
+
+
+
+
+
+autom process trabalh horari especial
+
+
+
+
+
+
+
+modul horari especial
+
+serec
+
+
+
+
+
+autom process trabalh acompanh frequenc
+
+
+
+
+
+
+
+modul acompanh frequenc
+
+serec
+
+acompanh oper corrent
+
+
+
+
+
+atend demand corrent med sej solicit
+
+
+
+serec
+
+
+
+
+
+dad cadastr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cadastr autor
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+cadastr nov servidor quand dependent servidor
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+atualiz parentesc
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+dad funcion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz dat poss servidor
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+atualiz histor moviment padra
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+atualiz fc anterior
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+fer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+goz antecip fer decisa process
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+alter fer efeit financeir decisa process
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+assistente medic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+correca cadastr dependent assistente medic
+
+
+
+
+
+
+
+
+
+serecdib
+
+
+
+
+
+correca fatur lanc
+
+
+
+
+
+
+
+
+
+serecdib
+
+
+
+
+
+pagament pessoal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+criaca metod calcul rubric pagament
+
+
+
+
+
+
+
+
+
+serecdipag
+
+
+
+
+
+orient auxili process folh
+
+
+
+
+
+
+
+
+
+serecdipag
+
+
+
+
+
+atualiz valor referenci
+
+
+
+
+
+
+
+
+
+serecdipag
+
+
+
+
+
+realiz calcul atuari
+
+
+
+
+
+
+
+
+
+serecdipag
+
+
+
+
+
+avali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cadastr nov servidor par avali desempenh gd
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+acert avali desempenh
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+banc hor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atualiz cot decisa process
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+lancament cot mes sistem cobr
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+atualiz moviment parcel junh
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+execuca rotin mensal descont
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+cancel descont mensal servidor decisa process
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+correca inconsistente banc hor
+
+
+
+
+
+
+
+
+
+serecdirec
+
+
+
+
+
+consult
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+geraca planilh padra inform disponiv grh
+
+
+
+
+
+
+
+
+
+serec
+
+
+
+
+
+relatori sobr control cot
+
+
+
+
+
+
+
+
+
+serec
+
+
+
+
+
+relatori sobr utiliz sald restituica erari
+
+
+
+
+
+
+
+
+
+serec
+
+
+
+
+
+relatori final period avaliat
+
+
+
+
+
+
+
+
+
+serec
+
+
+
+
+
+relatori avali period secex
+
+
+
+
+
+
+
+
+
+serec
+
+
+
+
+
+pesquis gerenci esporad par tod setor serec
+
+
+
+
+
+
+
+
+
+serec
+
+apoi document treinament client
+
+
+
+
+
+document ger pel ativ document sigp treinament client
+
+
+
+serec
+
+
+
+
+
+document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apoi serec elabor manual client sistem integr gesta pesso sigp
+
+
+
+
+
+
+
+manu client divers produt ger pel projet
+
+serec
+
+
+
+
+
+apoi serec elabor help on lin sistem integr gesta pesso sigp
+
+
+
+
+
+
+
+help on lin divers produt ger pel projet
+
+serec
+
+
+
+
+
+apoi serec elabor scripts atend sistem integr gesta pesso sigp
+
+
+
+
+
+
+
+scripts atend divers produt ger pel projet
+
+serec
+
+
+
+
+
+treinament
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apoi serec elabor artefat treinament sobr uso funcion sistem integr gesta pesso sigp
+
+
+
+
+
+
+
+artefat treinament divers produt ger pel projet
+
+serec
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+planej
+
+b
+
+montag mobiliz equip projet
+
+c
+
+manutenca evolut folh pagament
+
+d
+
+manutenca evolut sistem permanent avali desempenh sipad
+
+
+
+manutenca evolut sistem gerenci recurs human grh
+
+f
+
+acompanh oper corrent
+
+g
+
+desenvolv parcial sistem integr gesta pesso sigp
+
+h
+
+apoi document treinament client
+
+i
+
+desmobiliz projet
+
+j
+
+encerr
+
+
+escop
+
+
+quant sistem oper
+
+
+
+projet vis refaz sistem grh folh pagament sipad total nest primeir etap
+
+b
+
+sistem grh folh pagament sipad coexist durant execuca dest projet nov soluca implement par automatiz process trabalh mape pel consultor contrat pel serec ambit projet atu
+
+quant autom nov process trabalh serec
+
+
+
+atribuica projet levant regr negoci process trabalh nivel mape pel consultor contrat ambit projet atu
+
+b
+
+responsabil projet realiz atualiz regr negoci fluxogram process trabalh nivel mape pel consultor contrat ambit projet atu fac necess virtud exigente limit tecnolog utiliz pel setec par implement
+
+c
+
+projet implement soluca par tod process trabalh nivel mape pel consultor contrat ambit projet atu
+
+quant produt fas homolog pel serec
+
+
+
+responsabil projet realiz implant sistem estagiari sistem ressarc despes medic banc hor continu carg anal alexandr magn
+
+
+
+responsabil projet realiz implant sistem estagiari sistem ressarc despes medic banc hor continu carg anal alexandr magn apoi post trabalh terceriz complet homolog
+
+quant document treinament client
+
+
+
+atribuica projet defin conteud dev compor manual client help on lin scripts atend artefat treinament sistem integr gesta pesso sigp projet dar apoi realiz taref inclusiv cessa redator tecnic contrat
+
+b
+
+atribuica projet realiz treinament par utiliz soluca produz treinament realiz ambit projet atu apoi equip dest projet isc
+
+quant bas dad sistem sipad grh folh
+
+
+
+projet realiz auditor bas dad sistem grh sipad folh
+
+
+identific part envolv projet
+
+
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+serec
+
+patrocin principal client
+
+encerr projet respons pel utiliz soluca propost pel definica conjunt setec sobr continu automatiz process trabalh mape pel projet atu implement est projet
+
+realiz auditor bas dad grh mei utiliz ferrament ods disponibiliz pel projet sinerg conform defin port pres
+
+definica mudanc eventu regr negoci referent avali desempenh quand manutenca sipad
+
+cessa estagiari durant tod period realiz projet
+
+b
+
+setec
+
+respons tecnic pel execuca projet pel apoi elabor document softw produz execuca treinament
+
+respons pel termin manutenca sistem ressarc despes medic banc hor sistem control estagiari
+
+c
+
+projet atu
+
+projet concomitant orient execuca trabalh fornec insum par trabalh realiz definica regr negoci document process trabalh mape definica prioridad par atend demand tant corret quant evolut par realiz oper corrent
+
+d
+
+seplan
+
+contribuica tecnic referent redesenh process trabalh serec compatibiliz trabalh realiz ambit projet atu outr projet especial aquel modelag process trabalh
+
+
+
+projet aten
+
+delend sinton necess projet aten
+
+f
+
+projet bid
+
+sinton necess projet bid
+
+g
+
+adfis
+
+
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+indisponibil temp servidor serec servic administr par particip efetiv trabalh realiz fas levant requisit homolog produt
+
+alt
+
+med
+
+m busc junt serec sa maior compromiss envolv projet
+
+m atuaca proativ coorden projet monitor servic produt
+
+m agend reunia par levant requisit antecip par client poss program
+
+m program reunia par period fora pic determin servic exempl evit seman limit par fechament folh pagament quand trat servidor diretor tecnic pagament pessoal dipag
+
+serec
+
+coorden projet
+
+
+
+
+const revog express
+aprov realiz projet autom sistemat gesta pesso pesso i design gestor
+
+

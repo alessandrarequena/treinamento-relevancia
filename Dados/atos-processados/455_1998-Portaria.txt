@@ -1,0 +1,8002 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist dispost instruca normat fevereir resolv
+
+
+fic aprov manual auditor sistem tribunal cont unia cont proced operacion estrateg metodolog utiliz realiz auditor sistem
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+homer sant
+
+
+president
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+internet httpwwwtcugovbr
+
+
+
+
+safs lt
+
+
+cep brasil df
+
+
+
+
+
+
+secretariogeral control extern
+
+
+
+
+jos nagel
+
+
+
+
+secretari auditor inspeca
+
+
+
+
+claudi souz castell branc
+
+
+
+
+diretor inform par planej execuca auditor
+
+
+
+
+andr luiz furt pachec
+
+
+
+
+chef servic avali sistem administr public
+
+
+
+
+daniel dias pereir
+
+
+
+
+anal financ control extern are control extern
+
+
+
+
+adrian oliveir beal pdt
+
+
+claud august dias
+
+
+robert ribeir queiroz martins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fich catalograf elabor pel divisa document tcu
+
+
+
+
+apresent
+
+
+
+
+
+
+
+numer cad maior sistem computacion control oper grand relevanc context organiz torn imperat prepar tcu par enfrent desafi audit administr public cad mais informatiz
+
+
+
+utiliz tecnolog inform par manipul armazen dad orga audit introduz nov risc par control extern acrescent outr vari questa relacion planej execuca ativ fiscaliz
+
+
+
+objet aperfeico ativ auditor desenvolv pel corp tecnic tribunal enfrent dificuldad audit entidad alt grau informatiz institu agost grup trabalh objet desenvolv increment aplic tecnolog inform ativ fiscaliz ambit tcu
+
+
+
+est manual desenvolv pel secret auditor inspeca saud pel component mencion grup trabalh frut dest esforc dot tcu instrument necessari moderniz ativ fiscalizator
+
+
+
+
+
+
+
+
+
+homer sant
+
+
+
+president
+
+
+
+
+
+sumari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pagin
+
+
+
+
+
+list quadr
+
+
+
+
+
+
+
+list sigl
+
+
+
+
+
+
+
+introduca
+
+
+
+
+
+
+
+
+part tecnolog inform ativ fiscaliz
+
+
+
+
+requisit par utiliz evidente provenient dad processadospor comput
+
+
+
+
+
+
+
+metod avali dad process comput
+
+
+
+
+
+tecnic proced avali limit confiabil dad
+
+
+
+
+
+determin uso dad
+
+
+
+determin dad dev confiabil avali
+
+
+
+levant conhec previ sobr sistem eou dad
+
+
+
+avali control sistem process dad
+
+
+
+indici ineficac control sistem
+
+
+
+parec sobr eficac control sistem
+
+
+
+determin risc confiabil dad
+
+
+
+test dad
+
+
+
+auditor sem auxili comput
+
+
+
+confront dad entrad said comput
+
+font independent
+
+
+
+
+
+duplic manual process execut pel comput
+
+
+
+verific dit pel sens comum
+
+
+
+observ sobr uso auditor sem auxili comput
+
+
+
+auditor auxili comput
+
+
+
+divulg font dad confiabil atribu mesm
+
+
+
+pap trabalh
+
+
+
+inform dev const relatori
+
+
+
+model utiliz relatori
+
+
+
+
+
+roteir par avali control sistem
+
+
+
+control ger
+
+
+
+control organizacion
+
+
+
+control projet desenvolv modific sistem
+
+
+
+
+
+control seguranc
+
+
+
+control aplicat
+
+
+
+control entrad dad
+
+
+
+control process dad
+
+
+
+control said dad
+
+
+
+avali extens control sistem
+
+
+
+avali moder control sistem
+
+
+
+avali reduz control sistem
+
+
+
+
+
+estud cas
+
+
+
+situaca hipotet
+
+
+
+inform basic sobr are audit
+
+
+
+proced avali
+
+
+
+determin uso planej par dad
+
+
+
+levant element conhec previ sobr dad sistem
+
+
+
+
+
+avali control sistem
+
+
+
+avali extens
+
+
+
+avali moder
+
+
+
+determin confiabil dad
+
+
+
+test dad
+
+
+
+test extens
+
+
+
+test reduz
+
+
+
+conclusa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part auditor sistem inform
+
+
+
+
+control ger
+
+
+
+
+
+
+
+control organizacion
+
+
+
+organiz depart tecnolog inform
+
+
+
+segreg funca
+
+
+
+unidad organizacion bem defin
+
+
+
+ativ funcionari control polit clar seleca treinament avali desempenh
+
+
+
+
+
+polit segreg funca control acess
+
+
+
+recurs computacion gerenci form eficient econom
+
+
+
+program geral seguranc
+
+
+
+principi gesta seguranc
+
+
+
+avali risc
+
+
+
+estrutur seguranc
+
+
+
+avali period risc
+
+
+
+document program seguranc
+
+
+
+estrutur gerenc seguranc atribuica clar responsabil
+
+
+
+
+
+polit seguranc eficaz
+
+
+
+supervisa eficac program seguranc
+
+
+
+continu servic
+
+
+
+avali vulnerabil oper computadoriz identific recurs apo
+
+
+
+
+
+adoca med par preven minimiz dan interrupca potenci
+
+
+
+
+
+proced cop seguranc backup
+
+
+
+control ambient
+
+
+
+treinament pessoal par respond emergente
+
+
+
+med prevenca interrupca inesper
+
+
+
+desenvolv document plan geral contingente
+
+
+
+
+
+document plan contingente
+
+
+
+alternat process dad telecomunic
+
+
+
+test period plan contingente realiz ajust apropri
+
+
+
+
+
+control acess
+
+
+
+classific recurs inform acord importanc vulnerabil
+
+
+
+
+
+manutenca list atualiz usuari autoriz nivel acess
+
+
+
+
+
+implant control logic fisic par prevenca detecca acess autoriz
+
+
+
+
+
+control logic sobr arquiv dad program softwar
+
+
+
+
+
+control logic sobr bas dad
+
+
+
+control logic sobr acess remot
+
+
+
+supervisa acess investig indici violaca seguranc adoca med corret
+
+
+
+
+
+control softwar sistem
+
+
+
+acess limit softwar sistem
+
+
+
+caminh acess
+
+
+
+acess uso supervision softwar sistem
+
+
+
+control alter softwar sistem
+
+
+
+instal softwar sistem
+
+
+
+
+
+
+
+
+
+
+
+control desenvolv alter softw aplicat
+
+
+
+caracterist process modific program devid autoriz
+
+
+
+
+
+tod softw nov revis test aprov
+
+
+
+alter emergente
+
+
+
+bibliotec control softwar
+
+
+
+identific inventari program
+
+
+
+restrica aces bibliotec
+
+
+
+control moviment program dad entr bibliotec
+
+
+
+
+
+
+
+control aplicat
+
+
+
+control entrad dad
+
+
+
+document tel entrad dad
+
+
+
+rotin prepar dad batch
+
+
+
+autoriz par entrad dad
+
+
+
+retenca document entrad sistem batch
+
+
+
+valid dad entrad
+
+
+
+tratament erros
+
+
+
+mecan suport par entrad dad
+
+
+
+control process dad
+
+
+
+integr process
+
+
+
+valid process
+
+
+
+tratament erros process
+
+
+
+control said dad
+
+
+
+revisa dad said
+
+
+
+distribuica dad said
+
+
+
+seguranc dad said
+
+
+
+
+
+
+
+desenvolv sistem
+
+
+
+fas planej
+
+
+
+fas elabor plan desenvolv inici projet
+
+
+
+fas organiz projet
+
+
+
+fas elabor projet sistem
+
+
+
+fas revisa aprov pel dirigent
+
+
+
+fas desenvolv implant
+
+
+
+test sistem
+
+
+
+implement
+
+
+
+bibliotec control
+
+
+
+fas revisa posimplement
+
+
+
+
+
+
+
+banc dad
+
+
+
+dicionari dad
+
+
+
+armazen dad
+
+
+
+acess banc dad
+
+
+
+banc dad distribu
+
+
+
+administr banc dad
+
+
+
+administr dad
+
+
+
+avali banc dad
+
+
+
+control administr dad
+
+
+
+control administr banc dad
+
+
+
+control acess banc dad dicionari dad
+
+
+
+control sobr conteud alter dicionari dad
+
+
+
+disponibil recuper banc dad
+
+
+
+integr banc dad
+
+
+
+
+
+
+
+red comput
+
+
+
+avali red comunic comput
+
+
+
+gerenc red
+
+
+
+seguranc dad
+
+
+
+integr dad
+
+
+
+seguranc red
+
+
+
+control acess
+
+
+
+seguranc comunic red
+
+
+
+seguranc fisic
+
+
+
+plan contingente
+
+
+
+oper red
+
+
+
+falh interrupca servic
+
+
+
+softwar red
+
+
+
+control alter
+
+
+
+
+
+
+
+microcomput
+
+
+
+control softwar uso
+
+
+
+control seguranc
+
+
+
+control sobr oper
+
+
+
+
+
+
+
+glossari
+
+
+
+
+
+
+
+bibliograf
+
+
+
+
+
+
+
+relaca document elabor are fiscaliz control extern
+
+
+
+
+
+
+
+
+
+folh sugesta
+
+
+
+
+
+
+
+
+
+
+list quadr
+
+
+
+
+
+part tecnolog inform ativ fiscaliz
+
+
+
+
+
+
+
+
+pagin
+
+
+
+determin necess avali confiabil dad quand outr evidente comprobator disponiv
+
+
+
+
+
+determin extensa avali control sistem
+
+
+
+
+
+determin risc confiabil dad part conhec previ sobr sistem uso planej par dad
+
+
+
+
+
+determin risc confiabil ajust dad
+
+
+
+
+
+determin extensa test dad
+
+
+
+
+
+
+part auditor sistem inform
+
+
+
+
+
+
+exempl estrutur organizacional par depart tecnolog inform
+
+
+
+
+
+
+
+
+list sigl
+
+
+
+
+
+
+
+
+cipf the chartered institut of public financ and accountancy
+
+
+
+efs entidad fiscaliz superior
+
+
+
+gao united stat general accounting offic
+
+
+
+icas the institut of chartered accountants of scotland
+
+
+
+intosa international organization of suprem audit institutions
+
+
+
+national audit offic
+
+
+
+tcu tribunal cont unia
+
+
+
+introduca
+
+
+
+
+
+
+grand part orga entidad jurisdica tcu utiliz macic tecnolog inform par automatiz oper registr process mant apresent inform iss cad mais equip auditor tera usar evidente dad provenient sistem informatiz
+
+
+
+dev part principi dad extra comput confi embor oferec vantagens par organiz sistem informatiz pod tamb represent grand risc possivel erros fraud sej detect caus enorm quantidad dad control pel sistem possivel discrepanc entr est armazen efetiv apresent relatori said minim necess intervenca human process
+
+
+
+est manual elabor intuit orient anal tribunal ativ fiscaliz dev utiliz auditor geral part taref planej execuca complement norm proced auditor adot pel tcu
+
+
+
+primeir part dest manual aplic qualqu auditor possibilit avali dad process comput serv evidente par achad auditor confi sej complet exat segund part volt especific par auditor sistem ond sistem computacion analis detalhad
+
+
+
+segu instruca primeir part dest manual usuari estara capacit constat seguranc inform ira fundament relatori integr possu grau precisa adequ alcanc objet auditor
+
+
+
+par bom aproveit inform apresent recomend usuari possu conhec element informat abrang hardwar comput softw aplicat red comunic outr noca apresent curs introdutori process eletron dad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual auditor sistem
+
+
+
+
+
+
+part tecnolog inform ativ fiscaliz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisit par utiliz evidente provenient dad process comput
+
+
+
+
+utiliz dad fornec comput par fundament achad auditor equip precis lev consider seguint questa
+
+
+
+importanc dess dad par alcanc objet auditor
+
+
+dad pod consider complet exat sab sobr sistem process
+
+
+
+quand dad process comput utiliz pel equip auditor inclu relatori apen proposit fornec histor relat fat significat par result trabalh citaca font dad relatori normal suficient par estabelec confiabil inform apresent dad serv principal instrument par ating objet auditor equip dev atest confiabil mediant pratic proced avali tant dad quant sistem process dad soment pod consider confi complet sem omissa inclusa indev capaz distorc analis exat sem incorreca significat valor atribu precis corret represent adequad univers audit pratic pod equip auditor tenh estim ajud metod estatist valor provavel err maxim dad limit superior err comparal nivel material estabelec levandos cont uso previst par dad
+
+
+
+determin confiabil dad necess independent fornec pel organiz audit extra sistem pel propr equip auditor
+
+
+
+analis confiabil dad process comput dev inici aind fas planej auditor sempr estud preparatori permit identific investig font dad ira serv par alcanc objet auditor
+
+
+
+dad utiliz suficient confi par atend objet auditor serv evidente prim equip planej proced alternat seguint opca dev consider discut superior
+
+
+
+obter dad outr font cuj confiabil poss confirm
+
+
+colet dad primari par atend objet utiliz font secund ess proced soment pod adot possivel complet trabalh temp previst par auditor
+
+
+redefin objet auditor par elimin necess utiliz dad confi
+
+
+utiliz dad explic limit abstendos extra conclusa recomend
+
+
+interromp taref outr alternat possivel
+
+
+
+
+
+
+metod avali dad process comput
+
+
+
+
+
+
+
+eficac utiliz proced aqu recomend depend capac equip auditor julg qualidad control sistem extensa form test dad erros ness julgament pod traz consequente indesej aprofund excess investig desperd recurs valios enquant esforc insuficient poe risc confiabil trabalh circunstanc equip pod conclu necess presenc especial are auditor sistem informatiz par auxilial trabalh par ess auxili poss providenci coorden equip dev inform fat respons pel supervisa trabalh
+
+
+
+exist basic dois metod par avali confiabil dad extra comput
+
+
+
+
+avali sistem test aval profund tod control sistem informatiz abrang aplic produt proced utiliz exam control ger aplicat sistem test observanc control test dad produz pel sistem apes oferec melhor compreensa final form oper sistem est tip avali tend consum muit temp exig particip especial are auditor sistem informatiz
+
+
+
+
+avali limit direcion par dad especif ess raza normal requ avali men profund control ger aplicat pod realiz equip compost soment tecnic general control pertinent examin extensa necess par julg grau abrangente test feit dad vis determin confiabil
+
+
+
+cas opca pel avali sistem mais vantaj exempl quand unidad tecnic utiliz repetid dad mesm sistem informatiz ativ fiscaliz ness circunstanc avali extens periodic atualiz pod revelars men oner long praz sucess avali limit dad par execuca avali extens deves utiliz capitul part dest manual maior auditor entretant segund metod avali adequ suficient pod aplic atrav tecnic proced constant itens seguint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tecnic proced avali limit confiabil dad
+
+
+
+par determin confiabil dad process comput pel metod avali limit utiliz seguint pass
+
+
+
+determin uso dad decid qua dad process comput ira utiliz par alcanc objet auditor maneir dad utiliz identific aquel provavel ira serv unic evidente par achad b pod confirm outr font independent c serv apen referente par trabalh influ result auditor
+
+
+
+definica dad dev confiabil avali
+
+
+
+
+
+levant conhec previ sobr sistem eou dad
+
+
+
+
+
+avali control sistem process dad restrit control relevant sistem pod reduz risc err par nivel aceit
+
+
+
+determin risc confiabil dad extensa test dad
+
+
+
+
+
+test dad execuca proced par avali integr autentic dad exatida process comput
+
+
+
+divulg font dad confiabil atribu mesm
+
+
+
+sempr possivel ativ relacion pass dev execut durant etap planej auditor entretant muit cas possivel obter aind ness fas inform necess ness situaca quand durant trabalh surg nov evidente achad exij uso outr dad process comput tod etap pod cumpr period execuca auditor
+
+
+
+segu apresent tecnic proced associ cad etap avali confiabil dad
+
+
+
+determin uso dad
+
+
+
+
+quand auditor requ uso dad process comput primeir pass decid utiliz par alcanc objet auditor normal dad utiliz
+
+
+
+unic evidente par fundament achad
+
+
+evidente auxili ratific
+
+
+inform geral histor descrica etc
+
+
+
+
+
+
+inicial deves identific dad sistem utiliz segu cad grup dad dev classific acord util unic evidente comprov auxili dad inform geral
+
+
+
+
+definica dad dev confiabil avali
+
+
+
+
+part definica uso dad inform provenient sistem informatiz podes determin qua grup dad precis confiabil avali pod utiliz evidente relatori auditor bas classific defin pass anterior tems seguint situaca
+
+
+
+
+dad classific unic evidente
+quand dad process comput unic suport par objet auditor grau confiabil exig del alt dev equip auditor proced rigor test avali dad sistem
+
+
+
+
+dad classific evidente auxili
+quand dad process comput pod ratific outr comprov auditor grau confiabil exig vai depend quant outr evidente suficient par vist isolad respald conclusa
+
+
+
+
+dad classific inform geral
+menor risc usar dad informatiz ocorr quand funca apen informat contribu par result auditor ness cas citaca font dad garant melhor disponiv satisf padra confiabil esper relatori men haj raza par acredit falt rigor dad pod distorc result trabalh
+
+
+
+quadr segu resum implic tres usos possiv par dad
+
+
+
+quadr determin necess avali confiabil dad quand outr evidente comprobator disponiv
+
+
+tip uso
+
+caracterist outr evidente
+
+exigente avali dad process comput
+
+unic evidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+evidente auxili
+
+font prim inform ex comprov fisic existente bem document bancari confirm valor declar etc
+
+
+
+
+
+font auxili sos pod consider suficient ex entrev funcionari unidad
+
+
+
+
+
+inform geral
+
+font prim auxili
+
+
+
+
+
+inexistent
+
+
+
+
+
+men haj raza par acredit falt rigor dad pod form distorc result trabalh
+
+
+
+
+
+levant conhec previ sobr sistem eou dad
+
+
+
+
+cas infer necess avali confiabil dad proxim etap cons levant tod inform disponiv sobr sistem dad
+
+
+
+inform favor sobr confiabil sistem dad pod reduz risc confiabil diminu trabalh avali control sistem test dad inform desfavor lev aument risc exig maior cuid avali control realiz test dad qua dev suficient par garant inform ira serv evidente sej complet exat
+
+
+
+seguint exempl illustr equip pod sab mais sobr dad sistem process
+
+
+
+mesm dad utiliz auditor anterior sid estabelec confiabil risc utiliz mesm dad nov outr relatori baix necessari averigu dad modific ultim auditor
+
+
+control sistem process dad avali auditor recent consider adequ certificars mudanc significat ocorr sistem desd aquel avali equip auditor pod reduz extensa test dad ira determin confiabil
+
+
+auditor sistem informatiz execut recent abrang sistem respons pel process dad exam aind outr aplic result dess avali sistem confirm ausenc alter significat oper pod utiliz par defin amplitud test realiz dad
+
+
+
+
+avali control sistem process dad
+
+
+
+
+durant fas execuca auditor proced test dad proced ultim instanc ira determin confiabil normal indic avali control present sistem process dess dad
+
+
+
+segund principi geral aceit auditor quant menor confiabil control ger aplicat avali maior extensa test necessari par determin confiabil dad
+
+
+
+abrangente avali control depend conhec previ sobr dad sistem quadr mostr pod defin extensa avali control part inform obtid
+
+
+
+
+
+
+
+quadr determin extensa avali control sistem
+
+
+conhec previ sobr sistem dad
+
+uso planej par dad
+
+amplitud avali control sistem
+
+inform insuficient avali anterior detect erros significat control sistem propri dad
+
+unic evidente par possiv achad
+
+extens
+
+evidente auxili
+
+moder
+
+inform ger histor descrica etc
+
+
+
+desnecess
+
+confiabil sistem dad avali consider adequ trabalh anterior
+
+unic evidente par possiv achad
+
+moder
+
+evidente auxili
+
+reduz
+
+inform ger histor descrica etc
+
+desnecess
+
+
+men haj raza par acredit falt rigor dad pod form distorc result trabalh ness cas equip dev decid entr avali existente eficac elementoschav control desist uso inform confirm validad atrav outr font
+
+
+
+item dest modul apresent proced par avali control sistem tres niv indic extens moder reduz
+
+
+
+segu apresentams indici pod caracteriz inadequ control sistem metod par classific dess control acord grau eficac atribu
+
+
+
+
+
+indici ineficac control sistem
+
+
+
+
+aind bem planej projet aplic form inconsistent incorret control sistem ineficaz muit raza par control sej desconsider ignor pel pessoal envolv tais falt temp fadig tedi falt atenca control oner oper sistem mesm conlui par ganh pessoal ess motiv equip dev selecion proced control mais significat confirm eficac
+
+
+
+document sistem bem control dev complet atualiz ausenc dess document pod indic exist control compreend inadequad aplic outr sin sug vulnerabil dad erros pod
+
+
+
+sistem antig exig muit manutenca
+
+
+grand volum dad
+
+
+ativ atualiz muit frequent
+
+
+numer tip transaca font dad
+
+
+grand numer element dad codific exempl itens estoqu represent mei codig numer nom bem pod dificult identific mesm erros grosseir
+
+
+alt rotativ pessoal digit oper program anal treinament inadequ escal insuficient
+
+
+estrutur dad complex desorganiz
+
+
+falt padra par process dad especial quant seguranc acess control mudanc program
+
+
+
+entrev funcionari grand conhec organiz pod auxili equip entend control sistem evidente testemunhal entretant sempr possivel dev corrobor atrav observ diret outr test prev manual auditor tcu
+
+
+
+
+parec sobr eficac control sistem
+
+
+
+
+avali control sistem equip dev dar parec sobr eficac iss capac preven erros detect corrig aquel venh ocorr
+
+
+
+acord result analis efetu equip auditor ira classifical
+
+
+
+
+control sol
+quand assumirs sistem tod est capacit preven detect corrig qualqu err significat dad
+
+
+
+control adequ
+quand detect deficiente control mod geral demonstr suficient par preven erros mais significat acus venh ocorr
+
+
+
+control fracosindetermin
+quand identificars ausenc ineficac control sistem consequent oportun introduca dad incorret sistem
+
+
+
+opinia equip quant grau eficac control depend evidente sej mesm temp relevant confiavel outr ativ auditor conform prev manual auditor tcu pod necessari defin indic material outr criteri observ bas compar julgament apreci desempenh
+
+
+
+
+
+determin risc confiabil dad
+
+
+
+
+risc confiabil dad defin send risc dad utiliz sej suficient confi par fim destin sej risc sej exat complet suficient par serv fundament par achad auditor
+
+
+
+part inform reun uso planej par dad podes identific risc confiabil envolv defin alt moder baix mostr quadr abaix
+
+
+
+quadr determin risc confiabil dad part conhec previ sobr sistem uso planej par dad
+
+
+conhec previ sobr sistem dad
+
+uso planej par dad
+
+risc confiabil
+
+inform insuficient avali anterior detect erros significat control sistem propri dad
+
+unic evidente par possiv achad
+
+
+
+alt
+
+evidente auxili
+
+moder
+
+inform ger histor descrica etc
+
+
+
+baix
+
+confiabil sistem dad avali consider adequ trabalh anterior
+
+unic evidente par possiv achad
+
+moder
+
+evidente auxili
+
+baix
+
+inform ger histor descrica etc
+
+muit baix
+
+
+
+risc confiabil dad pod ajust pel result avali control sistem mostr quadr segu
+
+
+quadr determin risc confiabil ajust dad
+
+
+risc confiabil inicial calcul
+
+
+
+
+
+
+
+avali control sistem
+
+
+
+
+
+
+
+risc confiabil ajust
+
+alt
+
+fracosindetermin
+
+alt
+
+adequ
+
+alt moder
+
+sol
+
+moder baix
+
+moder
+
+fracosindetermin
+
+moder
+
+adequ
+
+moder baix
+
+sol
+
+baix
+
+baix
+
+fracosindetermin
+
+baix
+
+adequ
+
+baix muit baix
+
+sol
+
+muit baix
+
+muit baix
+
+normal necess alt custobenefici
+
+muit baix
+
+
+
+determin risc confiabil ajust defines extensa test dad mostr quadr
+
+
+
+
+quadr determin extensa test dad
+
+
+risc confiabil
+
+abrangente test dad
+
+alt
+
+extens
+
+moder
+
+moder
+
+baix
+
+reduz
+
+
+
+
+
+test dad
+
+
+
+
+principi auditor exig qualqu evidente independent font format sej confiavel relevant suficient test dad objet estabelec consistente del relaca uso planej
+
+
+
+test dad sempr necessari quand pretend avali confiabil inform process comput mesm quand control sistem bem projet mod geral eficaz exatida dad garant aind equip poss fiars bons control par reduz amplitud test dad demonstr quadr avali control sistem pod substituil
+
+
+
+embor sej improv qualqu sistem comput contenh dad complet livr err conceit confiabil exig dad perfeit pressupo entant execuca proced par avali integr autentic dad exatida process comput abrang
+
+
+
+
+test integr dad determin univers cont tod element dad registr relevant par objet auditor period abrang omissa dad particular danos represent segment especif popul total exempl tod pagament efetu mesm fornecedor
+
+
+
+
+test autentic dad verific dad computadoriz reflet exatida font registr entrad dad dev reproduz fielment documentosfont
+
+
+
+
+test exatida process inform tod registr relevant process form complet tod process atend objet preestabelec
+
+
+
+exist duas maneir test dad process comput diferenci pel particip sistem computadoriz process metod apropri combin metod vai depend natur sistem envolv
+
+
+
+
+auditor sem auxili comput
+
+
+
+
+auditor sem auxili comput part principi tecnic proced comput utiliz par process dad precis consider desd exist trilh auditor visivel eou result process poss manual verific exist tres form realiz ess tip auditor confront dad entrad said comput font independent duplic manual process execut pel comput verific dit pel sens comum qua descrit segu
+
+
+
+
+confront dad entrad said comput font independent
+
+
+
+est proced confront dad mant pel comput dad provenient outr font tais relatori inspeca arquiv registr document comp dad contagens fisic inspeca confirm quantidad tip condica bens tangiv relatori program govern outr document produz terceir tais univers auditor independent organiz priv tamb pod fornec bas dad util par compar
+
+
+
+outr font independent qua podes obter confirm inclu
+
+
+
+banc extrat bancari etc
+
+
+almoxarif bens armazen volum said etc
+
+
+instituica treinament numer estudant valor contrat
+
+
+
+
+duplic manual process execut pel comput
+
+
+
+
+outr mei evit uso comput confirm confiabil dad selecion transaca duplic manual process comput compar result said dad ess proced pod usad exempl auditor are licit contrat dad relat contrat audit foss process sistem informatiz ness cas equip pod utiliz formul matemat par calcul reajust prec contratu aplic amostr contrat par posterior confront valor calcul pel sistem audit
+
+
+
+
+verific dit pel sens comum
+
+
+
+
+possivel tamb revel problem potenci confiabil mei verific dit pel sens comum questa segu exempl test pod execut especial cas conclu test reduz dad suficient par atend objet trabalh quand test extens moder necessari verific dev complet outr test mais abrangent
+
+
+valor pequen dem cust mensal manutenca veicul entidad igual r muit altos bols estudant valor r
+
+
+camp dad tod preench dat pagament mensal contrat branc
+
+
+result inval valor inventari numer negat
+
+
+
+
+
+observ sobr uso auditor sem auxili comput
+
+
+
+
+apes test mencion indic precisa dad mant pel comput muit dificil identific tod situaca ameac integr autentic dad exatida process quand autentic dad comput estiv suspeit sej quand exist possibil presenc dad fictici dev consider hipotes complement test atrav rastreament amostr dad said comput documentosfont duv quant integr dad ist quand houv suspeit dad complet amostr val documentosfont pod acompanh cheg dad said sistem par confirm tod document orig devid inser
+
+
+
+util audit sem auxili comput diminu med aument numer complex decisa tom pod tornars inviavel quand process dad abrang muit element oper dificult analis manual dess inform
+
+
+
+
+auditor auxili comput
+
+
+
+
+audit auxili comput context dest manual signif utiliz test program comput par auxili medica confiabil dad
+
+
+
+determin integr exatida documentosfont utilizams test program comput pod desenvolv pel propr equip auditor par examin legitim dad identific defeit pod tornal confi
+
+
+
+vantag audit auxili comput ess metod pod usad independent complex sistem numer decisa comput tom durant process tal proced proporcion alem rapidez exatida amplitud muit maior test possivel outr metod
+
+
+
+par desenvolv test dad program comput necessari identific qua element dad afet objet auditor tod dad significat par result auditor dev test
+
+
+
+quand element dad significat par auditor deriv ist calcul pel comput base outr element dad equip dev tamb test element dad orig exempl element salari liqu pod empreg evidente par ating objet auditor dicionari dad sistem indic program comput usa tres outr element dad salari hor trabalh hor trabalh deduca par calcul ess valor erros quaisqu dess element acarret erros valor pagament dess form equip dev determin exatida cad dess element
+
+
+
+sistem possu ambient process dad test funca ident ambient oper normal ess ambient comument utiliz par test sistem aplicat aprov pel usuari pod aproveit pel equip auditor par process analis dad test
+
+
+
+divulg font dad confiabil atribu mesm
+
+
+
+conclu process avali confiabil dad necessari document result obtid mediant preenchiment pap trabalh inclusa parec relatori auditor
+
+
+
+
+pap trabalh
+
+
+
+
+pap trabalh dev document form deix clar
+
+
+
+objet auditor fundament dad process comput
+
+
+grau importanc dess dad par objet auditor font adicion pod confirmal
+
+
+inform colet sobr dad sistem process control
+
+
+
+
+
+inform dev const relatori
+
+
+
+
+quand dad process comput usad apen par elabor histor descrica inform geral sobr orga influenc sobr result auditor geral suficient citaca font dad relatori par dad process comput sej cruci par objet auditor relatori dev assegur leitor inform base confiavel especific dev inform
+
+
+
+abrangente avali control quand confianc atribu control sistem utiliz par reduz test dad
+
+
+tip test dad execut proposit tax err encontr tres are oper entrad process said dad
+
+
+qualqu fator conhec limit confiabil dad tip influenc ess limit sobr result conclusa apresent
+
+
+
+amostrag usad par determin confiabil dad relatori dev inclu objet utiliz tamanh univers amostr bas par dimension amostr tip amostr random sistemat etc erros porventur detect
+
+
+
+cas confiabil dad sid determin nivel desej relatori dev inclu declar clar dess situaca equip dev consider conveniente apresent conclusa propost determin base ness dad
+
+
+
+
+model utiliz relatori
+
+
+
+
+segu apresentams exempl illustr form pod apresent result avali confiabil dad relatori
+
+
+
+
+dad confi utiliz
+
+
+par alcanc objet auditor base dad process pel sistem cit bas dad utiliz aval confiabil dess dad atrav control ger aplic relevant consid adequ tamb conduz test suficient dad base ness test avali conclu dad suficient confi par utiliz evidente par fundament conclusa proposica apresent
+
+
+
+
+dad confi utiliz
+
+
+par alcanc objet auditor base dad process pel sistem cit bas dad utiliz avali control sistem result test dad demonstr tax err coloc duv validad dad objet auditor depend inform base ness dad fat prov suficient par serv evidente independent disponiv possivel prov projeca conclusa propost determin especif
+
+
+
+
+confiabil estabelec
+
+
+
+
+par alcanc objet auditor base dad process pel sistem cit bas dad utiliz estabelec confiabil dess dad porqu cit raza dest form estam impossibilit prov projeca conclusa determin sobr dad exceca acim inform trabalh conduz acord padra previst norm proced auditor adot est tribunal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+roteir par avali control sistem
+
+
+
+
+
+nest item apresent conceit basic sobr control sistem informatiz element determin eficac dess control roteir par avali extens moder reduz verific suger obrigator dev equip auditor decid sobr itens adequ cad situaca concret temp esforc gast avali control sistem dev proporcion possivel influenc reduca test dad cust avali control pod ultrapass benefici diminuica trabalh fas test dad
+
+
+
+conclu control sistem insuficient par limit test dad continu avali control mais custos efetu test extens dad fas avali control sistem dev interromp ness cas equip dev pass par etap test extens dad control sistem foss frac inexistent
+
+
+
+control sistem informatiz classific dois grup princip control ger aplic tod process execut ambient informatiz vis garant ambient computacional tod sej segur confiavel control aplic aplicat incorpor diret aplic individu objet garant process confiavel exat
+
+
+
+apresent segu roteir aspect mais important dess control quand proposit avali permit reduca volum test dad
+
+
+
+
+
+control ger
+
+
+
+
+control aplic tod process execut ambient informatiz vis garant ambient computacional tod sej eficient eficaz segur confiavel relacion organiz projet desenvolv modific seguranc sistem
+
+
+
+
+control organizacion
+
+
+
+
+
+
+objet garant organiz responsabil pessoal envolv funca process dad padra estabelec par funcion eficient
+
+
+
+
+
+proced control verific existente seguint element control
+
+
+
+
+
+particip ativ alt administr gestor sistem decisa afet process dad
+
+
+avali rotineir funca process dad pel auditor intern extern
+
+
+evidente aca efet acompanh relaca recomend auditor
+
+
+
+
+adequ segreg funca dentr oper process dad seguint funca dev preferivel execut diferent individu grup
+
+
+analis sistem
+
+
+program aplic
+
+
+test aceit
+
+
+control alter program
+
+
+control dad
+
+
+manutenca sistem softwar
+
+
+manutenca arquiv informatiz oper equip informat
+
+
+
+control projet desenvolv modific sistem
+
+
+
+
+
+objet assegur sistem atend necess usuari sej desenvolv economic sej total document test inclu control intern apropri
+
+
+
+
+
+proced control verific existente seguint element control
+
+
+
+
+
+proced form par requisit aprov test implement mudanc sistem
+
+
+metod formal abordag par desenvolv sistem
+
+
+envolv usuari desenvolv requisit sistem
+
+
+document atualiz sobr sistem inclu
+
+
+document requisit funcion
+
+
+requisit colet dad
+
+
+caracterist projet sistem subsistem
+
+
+manual usuari
+
+
+manual oper sistem
+
+
+estrateg par test sistem automatiz inclu proced test criteri avali
+
+
+relatori analis test document result conclusa test efetu
+
+
+
+
+
+
+
+control seguranc
+
+
+
+
+
+objet garant comput dad process adequad proteg contr roub perd acess autoriz desastr natur
+
+
+
+
+
+proced control verific existente seguint element control
+
+
+
+
+
+analis risc period
+
+
+responsabil pel seguranc comput formal estabelec
+
+
+acess centr process dad control mecan fisic port tranc crach seguranc etc
+
+
+permanente pel men duas pesso sal comput durant tod expedient
+
+
+responsabil pel armazen dad magnet clar document
+
+
+plan recuper desastr periodic test
+
+
+senh individu acess sistem alter periodic sujeit divulg pel usuari
+
+
+softwar control acess comput encarreg identific usuari verific permissa uso pesso tent ganh acess
+
+
+
+
+control aplicat
+
+
+
+
+
+
+
+objet
+garant process sej confiavel exat part control incorpor diret program aplicat tres are oper entrad process said dad
+
+
+
+
+
+proced control verific existente seguint element control
+
+
+
+
+
+control entrad dad
+
+
+
+
+
+projet par garant dad sej convert par format padra inser aplic form precis complet tempest control verific
+
+
+
+
+
+proced document par inserca dad aplic
+
+
+proced autoriz fisic eletron par registr entrad
+
+
+med seguranc par limit acess termin entrad valid inscrica usuari
+
+
+valid tod camp dad entrad sistem
+
+
+rejeica armazenag automat dad atend requisit entrad arquiv dad process interromp
+
+
+proced document par tratament erros identific correca reprocess dad rejeit pel aplic
+
+
+analis period arquiv process interromp par examin tax err entrad dad situaca registr corrig
+
+
+
+med corret par reduca tax err excess
+
+
+control integr dad entrad mei confront entr total registr inser registr rejeit registr aceit total document orig
+
+
+
+
+
+control process dad
+
+
+
+
+
+utiliz par garant dad sej manipul pel comput form precis complet tempest dev verific
+
+
+
+
+
+proced document sobr metod process utiliz ex formul usad par calcul jur tabel consult par calcul venciment basic etc
+
+
+registr histor armazen event registr pel comput oper durant process aplic
+
+
+proteca contr acess alter program aplicat atrav termin oper
+
+
+proteca sistem onlin contr atualiz simultane arquiv diferent usuari
+
+
+test integr arquiv par garant arquiv aplicat complet process
+
+
+
+
+control said dad
+
+
+
+
+
+present par garant integr corret tempest distribuica dad said dev verific seguint pont
+
+
+
+
+
+proced document par confirm validad produt said distribuica adequ
+
+
+entrev period usuari par determin dad produz continu send necessari ute
+
+
+produt said etiquet par identific nom produt nom destinatari dat hor produca
+
+
+proced document sobr metod par relat corrig reprocess produt said erros
+
+
+conferente montant registr entrad said tot control par garant dad extravi adicion durant process
+
+
+armazen document orig sequenc logic par facil recuper
+
+
+
+
+
+
+
+
+avali extens control sistem
+
+
+
+
+part proced par avali cad grup control apresent itens anterior dev elabor roteir par avali extens control sistem
+
+
+
+princip pont defin adequ control ger
+
+
+
+grau compromet administr projet oper sistem
+
+
+metod supervisa acompanh administr desempenh sistem
+
+
+aca corret relaca recomend auditor intern reclam usuari
+
+
+organiz funca sistem inclu atribuica formal responsabil segreg funca sent garant funca critic responsabil autoriz process registr revis transaca sej atribu diferent individu
+
+
+seguranc fisic instal especial quant restrica acess
+
+
+seguranc logic control acess sistem dad atrav senh outr metod ajud garant confiabil dad reduz risc ocorr entrad modific autoriz dad
+
+
+
+princip element defin adequ control aplicat
+
+
+
+
+
+existente proced garant program aplicat modific subsequent sej autoriz test implement
+
+
+frequenc alter sistem motiv realiz
+
+
+proced adequ control document alter program
+
+
+proced revisa aprov control edica dad entrad par garant integr preven erros
+
+
+existente document fluxogram atualiz par sistem
+
+
+confront entr registr said entrad par confirm tod registr val entrad process soment
+
+
+proced detecca err correca
+
+
+opinia usuari sobr confiabil dad
+
+
+relatori auditor intern outr estud avali
+
+
+
+avali moder control sistem
+
+
+
+
+roteir avali extens pod serv bas par elabor program avali moder dev enfatiz elementoschav control direcion mediant conhec previ dad par ond ocorrente falh mais provavel
+
+
+
+
+
+avali reduz control sistem
+
+
+
+
+quand conhec previ dad indic confiabil sistem avali consider adequ trabalh anterior avali control dev resum atualiz inform existent equip auditor dev determin
+
+
+
+modific feit sistem trabalh anterior
+
+
+elementoschav control aind atu
+
+
+eventu recomend feit sobr control sistem implement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+estud cas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nest seca apresent exempl aplic proced mencion nest modul par determin confiabil evidente process comput
+
+
+
+
+
+situaca hipotet
+
+
+
+
+
+equip design par audit folh pagament empres public x dev determin
+
+
+
+
+
+pagament salari est send feit acord legislacion pertinent
+
+
+deduca sobr salari corret transfer par cont apropri
+
+
+exist control suficient par garant haj desvi valor destin pagament folh
+
+
+
+
+
+inform basic sobr are audit
+
+
+
+
+
+empres x funcionari cuj folh pagament prepar pel setor pagament depart pessoal setor pagament usa sistem informatiz denomin folh pagament par calcul salari deduca ess sistem desenvolv pel centr process dad cpd empres administr pel setor pagament tamb respons solicit cpd quaisqu alter necess sistem
+
+
+
+
+
+proced avali
+
+
+
+
+
+dad ira fundament trabalh auditor dev extra sistem informatiz folh pagament inici auditor propri dit equip auditor dev proced avali confiabil dess dad
+
+
+
+
+
+objet dess avali determin declar cont sistem correspond efetiv situaca real audit respond pergunt dad provenient sistem folh pagament utiliz evidente par objet auditor confi complet exat
+
+
+
+
+
+aplicandos proced indic capitul dest modul confiabil dad avali proposit obters seguranc razoavel dad sistem folh pagament cont erros capaz compromet credibil analis conclusa equip auditor
+
+
+
+
+
+determin uso planej par dad
+
+
+
+
+
+par determin uso planej par dad provenient sistem folh pagament equip dev analis seguint pont
+
+
+dad realment important par ating objet auditor sistem utiliz apen par estabelec histor folh pagament dad vao diret utiliz evidente conclusa relatori
+
+
+
+
+dad sistem folh pagament unic font inform sobr despes pagament pessoal faz part conjunt maior evidente comprobator
+
+
+
+
+
+ness exempl utiliz hipotes dad sistem folh pagament unic capaz fornec inform necess par realiz auditor
+
+
+
+
+
+tend sid planej uso feit dad process pel sistem folh pagament identific necess avali confiabil podes pass levant inform disponiv sobr ess sistem
+
+
+
+
+
+levant element conhec previ sobr dad sistem
+
+
+
+
+
+equip auditor dev formul questa
+
+
+
+
+
+tcu utiliz est mesm bas dad suport par achad auditor outr trabalh recent respost avali confiabil dess dad naquel ocasia
+
+
+auditor intern empres x avali recent sistem confiabil dess dad respost opinia emit sobr dad feit recomend par melhor control sistem depart pessoal cpd adot med necess par implement recomend
+
+
+funcionari depart pessoal outr usuari sistem sobr exatida dad frequenc encontr erros ness dad importanc dess erros
+
+
+funcionari relat problem duv quant exatida valor declar sistem conf dad par desempenh funca mant registr manu separ
+
+
+outr font inform tend confirm contradiz dad process comput
+
+
+
+
+
+avali control sistem
+
+
+
+
+
+extensa trabalh avali control sistem vai depend result levant anterior dad utiliz unic evidente avali control dev extens moder depend inform obtid sobr confiabil sistem dad quadr
+
+
+
+
+
+segu apresentams proced adot cad situaca
+
+
+
+
+
+avali extens
+
+
+
+
+
+hipotes dad sistem folh pagament unic disponiv evidente par objet auditor inform conhec sobr sistem permit consideral confiavel
+
+
+
+
+
+
+
+
+avali dev segu proced indic capitul dest modul abrang tod aspect control ger aplicat
+
+
+
+
+
+avali moder
+
+
+
+
+
+hipotes determin unidad tcu utiliz inform mesm bas dad par fundament achad relatori elabor ultim mes naquel ocasia equip conclu control sistem eram eficient dad eram confi
+
+
+
+ness situaca avali extens control sistem necess confianc sistem determin bas principal inform conhec associ test reduz par indic
+
+
+
+modific feit sistem trabalh anterior
+
+
+elementoschav control continu oper
+
+
+eventu recomend feit sobr control sistem implement
+
+
+
+avali control sistem concluira parec equip auditor dev classifical sol adequ frac
+
+
+
+
+
+determin confiabil dad
+
+
+
+
+
+bas tabel quadr risc confiabil cas hipotet aqu trat pod classific alt moder avali control obtems risc confiabil ajust pod reduz mant mesm nivel cas haj respectiv avali posit negat control sistem quadr conhecendos risc confiabil ajust dad obtems acord quadr grau abrangente atribu test dad
+
+
+
+
+
+test dad
+
+
+
+
+
+segu apresentams proced pod adot duas situaca extrem possiv risc confiabil alt exig execuca test extens dad risc confiabil baix autoriz realiz test minim situaca utilizous metod auditor sem auxili comput possivel ness cas porqu result process dad pod manual verific
+
+
+
+
+
+test extens
+
+
+
+
+
+hipotes equip auditor determin
+
+
+
+
+
+sistem folh pagament unic font dispon par dad utiliz evidente
+
+
+trabalh tcu control intern determin recent confiabil dess dad
+
+
+control ger aplic mostrarams deficient
+
+
+
+
+
+
+ness cas risc confiabil alt result test dad sos dev determin confianc dad abrangente test extens indic quadr
+
+
+
+tod test dev enta execut amostr estatistic val v seca tecnic auditor manual auditor tcu possivel realiz tod registr atrav ferrament automatiz extraca analis dad
+
+
+
+primeir test dad consist confirm dad entrad inser form exat complet iss pod consegu mei seguint proced
+
+
+
+compar total registr entrad comput font independent confi mesm inform ex relaca pessoal ativ arquiv depart pessoal relatori contabil inform numer funcionari receb salari mes investig etc par verific tod funcionari receb salari efetiv cadastr sistem
+
+
+par amostr val registr faz confront entr registr existent comput font prim dess dad ex par maior camp font prim past funcional servidor ond pod verific exatida camp temp servic carg etc par averigu tod camp important registr preench corret tax err entrad dad sistem
+
+
+
+prox test projet par avali exatida integr dad said sistem pod inclu
+
+
+
+classific registr ordem alfabet beneficiari pagament par permit identific possiv duplicat eventu discrepanc entr list nom constant sistem relaca pessoal ativ fornec pel depart pessoal
+
+
+utiliz formul par recalcul element dad ger pel comput ex calcul valor anueni dev part dad venciment basic temp servic par confirm correca process efetu dad entrad
+
+
+compar total registr constant relatori final folh pagament total registr entrad par garant tod dad entrad process tod funcionari cadastr sistem present ness relatori final
+
+
+valor pagament inform pel sistem dentr parametr raza quant irrisor extrem elev extrapol limit leg
+
+
+som valor pagament mens correspond valor despes pagament pessoal declar pel setor contabil empres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test reduz
+
+
+
+
+
+par pequen amostr funcionari deves compar registr funcion pagament obtid comput documentosfont dess inform formulari entrad dad comput fich funcion etc
+
+
+
+test basic produz tax significat erros abrangente test dev expand utilizandos proced indic par test extens tax err aceit base ness atualiz trabalh anterior confiabil equip conclu dad confi
+
+
+
+
+
+conclusa
+
+
+
+
+
+part result test dad respect tax err encontr equip apt avali confiabil dad pod relat acord model constant dest modul inici trabalh necessari par atend objet auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual auditor sistem
+
+
+
+
+
+
+part auditor sistem
+
+
+inform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+control ger
+
+
+
+
+
+control ger consist estrutur polit proced aplic oper sistem computacional organiz tod cri ambient sistem aplicat control ira oper
+
+
+
+durant auditor sej necessari avali sistem informatiz sej financeir contabil pagament pessoal etc precis inicial avali control ger atu sobr sistem computacional organiz
+
+
+
+control ger deficient acarret diminuica confiabil atribu control aplic individu ess raza control ger normal avali separad avali control aplicat venh examin auditor sistem informatiz
+
+
+
+quand objet auditor sistem informatiz avali aplicat especif exempl sistem process folh pagament entidad control emprest instituica banc equip auditor pod muit economiz temp antecip ativ auditor planej test avali control tant ambient geral quant aplicat exempl part avali control ger equip ira test control abrang alter program
+
+
+
+exist seis categor control ger dev consider auditor
+
+
+control organizacion
+
+polit proced estrutur organizacional estabelec par organiz responsabil tod envolv ativ relacion are informat
+
+
+program geral seguranc oferec estrutur par gerenc risc desenvolv polit seguranc atribuica responsabil seguranc supervisa adequ control ger entidad
+
+
+continu servic control garant ocorrente event inesper oper critic sej interromp sej imediat retom dad critic sej proteg
+
+
+control softwar sistem limit supervision acess program arquiv critic par sistem control hardwar sistem computacional proteg aplic present
+
+
+control acess limit detect acess recurs computacion dad program equip instal proteg recurs contr modific autoriz perd divulg inform confidenci
+
+
+control desenvolv alter softw aplicat previn implement modific autoriz program
+
+
+
+par cad dess seis categor est manual identif element critic ira determin qualidad control audit apresent tecnic proced auditor recomend par avali dess control
+
+
+
+
+
+
+mod facilit utiliz dess inform auditor manual cont roteir reun tod tecnic proced distribu divers itens roteir apresent dev serv apen referente par equip auditor dev determin cad cas qua tecnic proced aplic extensa test realiz lev cont ambit auditor complex organiz audit
+
+
+
+
+alem roteir apresent segu equip auditor dev utiliz proced auditor sistem pa par planej execut trabalh mais complet maior nivel detalh
+
+
+
+
+
+control organizacion
+
+
+
+
+
+organiz depart tecnolog inform
+
+
+
+estabelec glossari term tecnic dest manual term depart tecnolog inform dti utiliz par substitu antig cpd centr process dad represent depart respons tod servic relacion are informat red comput centr telecomunic etc
+
+
+
+dti precis estrutur organizacional bem defin responsabil unidad organizacion clar estabelec document divulg polit pessoal adequ quant seleca segreg funca treinament avali desempenh ess estrutur dev gerenci racional recurs computacion organiz mod supr necess inform form eficient econom
+
+
+
+
+segreg funca
+
+
+
+segreg funca objet evit individu venh control tod estagi critic process exempl program permissa par independent escrev test aprov alter program
+
+
+
+frequent segreg funca alcanc pel divisa responsabil entr dois mais grup organizacion ess divisa probabil erros aca indev sej detect aument sensivel vist ativ grup individu ira serv par chec ativ outr
+
+
+
+ausenc inadequ segreg funca informat aument risc ocorrente transaca errone fraudulent alter impropr program dan recurs computacion
+
+
+
+extensa segreg funca aplic organiz ira depend tamanh risc associ instal ativ organiz grand port mais flexibil separ funcoeschav organiz pequen depend pouc individu par execut oper mesm form ativ envolv transaca financeir alt valor outr form bastant arrisc dev divid entr divers individu sujeit supervisa mais rigor
+
+
+
+exempl estrutur organizacional par dti permit adequ segreg funca est illustr quadr segu
+
+
+
+
+
+
+gerent
+process dad
+
+
+
+
+gerent suport tecnic
+gerent sistem
+gerent oper
+
+
+
+
+
+
+
+especial tecnic
+lid turn
+supervisor control dad
+administr banc dad
+lid projet
+
+
+
+
+
+
+anal
+program
+oper
+
+
+
+
+
+
+quadr exempl estrutur organizacional par depart tecnolog inform organiz tamanh medi
+
+
+
+
+
+caus natur oper comput segreg funca garant soment ativ autoriz sej execut pel funcionari especial oper comput par auxili prevenca detecca aca autoriz incorret tamb necess supervisa gerencial efet proced form oper
+
+
+
+element critic par avali control organizacion
+
+
+
+unidad organizacion bem defin niv clar autor responsabil habil tecnic necess par exerc carg
+
+
+ativ funcionari control atrav proced oper supervisa document polit clar seleca treinament avali desempenh
+
+
+polit segreg funca control acess par garant pratic segreg funca
+
+
+recurs computacion gerenci form supr necess inform form eficient econom
+
+
+segu apresent roteir cont element critic control organizacion
+
+
+
+
+unidad organizacion bem defin
+
+
+
+
+
+defin par cad unidad organizacional dti
+
+
+
+princip objet padra desempenh
+
+
+divers niv autor responsabil cad carg habil tecnic necess par exercel
+
+
+funcionari dti
+
+
+
+exerc ativ compativ estabelec formal pel organiz
+
+
+possu capacit tecnic compat previst respect plan carg
+
+
+
+
+ativ funcionari control polit clar seleca treinament avali desempenh
+
+
+
+
+
+pont verific
+
+
+exist instruca document par desempenh ativ dentr dti segu pel funcionari
+
+
+manu instruca indic oper softw sistem aplicat
+
+
+pessoal supervisa adequ inclusiv troc turn oper comput
+
+
+tod ativ oper sistem computacional automatic armazen registr histor oper
+
+
+supervisor revis periodic registr histor oper investig qualqu anormal
+
+
+inicializ sistem supervision execut pessoal autoriz parametr inform durant carreg inicial sistem operacional initial progr load ipl acord proced estabelec
+
+
+feit planej necess pessoal especializ exist polit defin metod criteri par preenchiment vag permit afer rea habil tecnic pretendent
+
+
+exist program treinament pessoal are tecnolog inform recurs suficient par capacit pessoal tecnic
+
+
+exist program avali desempenh eficaz
+
+
+
+
+polit segreg funca control acess
+
+
+
+
+
+funca distint desempenh diferent individu inclu seguint
+
+
+
+gerenc sistem inform
+
+
+projet sistem
+
+
+program aplicat
+
+
+program sistem
+
+
+test garant qualidad
+
+
+gerenc bibliotecagerente alter
+
+
+oper comput
+
+
+control dad
+
+
+seguranc dad
+
+
+administr dad
+
+
+
+
+
+segu destac princip pont verific quant polit segreg funca dti
+
+
+
+individu dev control complet sobr funca process incompativ exempl entrad dad verific validad dad entrad dad conferente dad said cadastr not fisc receb bens diant observ ativ tecnic par determin conform segreg funca pretend
+
+
+
+
+tecnic process dad gerent seguranc dev encarreg inser dad execut transaca sistem inform atend areasfim organiz
+
+
+
+proced norm oper dti adequad document aca indev identific
+
+
+
+previst rotaca period pessoal substituica period fer tend vist individu desempenh funca incompativ conduz aca fraudulent pod descobert quand substitu motiv fer rotaca pessoal
+
+
+
+descrica atribuica carg reflet principi segreg funca examin descrica par amostr carg dentr administr seguranc grup usuari
+
+
+
+
+tod funcionari cient funca responsabil desempenh responsabil acord descrica carg entrevist ocupant carg cuj descrica examin verific ativ responsabil conf formal estabelec
+
+
+
+
+alt administr oferec recurs treinament adequ par garant principi segreg funca sej conhec segu institucionaliz dentr organiz
+
+
+
+responsabil restring acess funcionari ativ critic oper program clar defin divulg aplic
+
+
+
+exist control logic fisic acess par auxili restrica ativ funcionari aca autoriz acord responsabil respect carg
+
+
+
+desempenh funcionari supervision periodic control par garant ativ cad sej compativ atribuica respect carg
+
+
+
+
+
+alt administr realiz avali period risc par determin tecnic control par segreg funca funcion esper mant risc niv aceit est proced dev execut conjunt previst item seg
+
+
+
+
+
+
+
+recurs computacion gerenci form eficient econom
+
+
+
+
+
+taref execut pel dti obedec cronogram adequ form permit recurs computacion sej utiliz eficiente solicit usuari poss atend entrevist usuari proprietari recurs computacion par detect eventu distorca aloc recurs eou conflit caus falh planej distribuica carg trabalh
+
+
+
+
+
+
+capac hardwar instal suficient par atend demand horari pic mant qualidad servic par usuari entrevist usuari analis registr utiliz hardwar log accounting par detect desbalance configur sistem pel caracteriz disposit unidad disc impressor termin etc estej folg sobrecarreg
+
+
+
+
+
+exist plan defin acord entr dti grup usuari quant disponibil recurs computacion prioridad process adequ necess organiz
+
+
+
+
+
+estabelec met pel alt administr quant disponibil process dad servic onlin
+
+
+
+
+
+alt administr periodic aval comp desempenh servic met previst pesquis junt depart usuari par sab necess disponibil sistem send atend
+
+
+
+
+
+program geral seguranc
+
+
+
+
+program seguranc entidad inclu polit seguranc respect plan implement
+
+
+
+ess program dev estabelec estrutur par avali risc desenvolv implement proced eficaz seguranc supervisa eficac dess proced sem program bem elabor control seguranc pod inadequ responsabil pod clar compreend propri implement control pod aplic form inconsistent tais condica pod lev proteca insuficient recurs critic vulner possivel desperdici recurs par implant control situaca baix risc
+
+
+
+
+
+
+
+
+principi gesta seguranc
+
+
+
+gesta seguranc reg pel seguint principi basic
+
+
+disposit proteca seguranc dev consistent vulnerabil dad send proteg
+
+
+proteca seguranc dev acompanh dad durant tod etap process transmissa permanec efet tod situaca
+
+
+
+principi post pratic determinandos grau vulnerabil dadosfootnoteref pont vist integr carat confidencial disponibil atrav aplic concret plan seguranc abranj seguint aspect proteca element human fator fisic pratic proced hardwar softwar aplic element apoi seguranc v term vulnerabil dad glossari dest manual
+
+
+
+
+
+
+
+avali risc
+
+
+
+avali complet risc dev pont part par desenvolv modific plan polit seguranc organiz ess avali important porqu atrav del identif tod ameac vulnerabil sistem decid qua risc aceit qua dev reduz atrav control seguranc
+
+
+
+avali risc dev consider vulnerabil inerent dad sej susceptibil erros materi caus omissa inserca incorret indev dad risc adicional sistem dad pod sujeit funca uso usuari intern extern eventu tentat acess estranh autoriz
+
+
+
+ess analis dev tamb contempl revisa configur sistem red observ test control seguranc implant aind pessoal envolv ativ seguranc poss oferec visa valios sobr vulnerabil existent avali geral risc dev feit pessoal independent par garant objetiv
+
+
+
+avali risc gerenc risc esforc continu aind avali geral risc poss feit mais espacad cad ana dois risc dev reavali tod houv mudanc oper organiz influenc extern afet ess oper
+
+
+
+
+
+
+estrutur seguranc
+
+
+
+organiz grand port possu estrutur complet administr seguranc apresent seguint carg pod assum diferent denomin cad cas
+
+
+superintendent seguranc administr senior responsabil final pel seguranc organiz elo ligaca outr orga entidad administr prest cont tod questa seguranc dentr organiz
+
+
+diretor seguranc gerent senior autor deleg pel superintendent seguranc responsabil administr questa rotineir seguranc dentr organiz
+
+
+gerent seguranc computacional gerent senior autor deleg pel superintendent seguranc prest cont diretor seguranc tend responsabil administr rotin administr seguranc questa informat tecnolog tod organiz
+
+
+equip seguranc grup individu provenient divers setor organiz design par realiz exam seguranc efetu recomend par correca vulnerabil detect equip seguranc dev preferivel chefi membr influent grup usuari form recomend poss mais facil aceit pel dirigent usuari part especial tecnic
+
+
+
+element critic defin qualidad control program seguranc
+
+
+
+avali period risc
+
+
+document program seguranc
+
+
+estrutur gerenc seguranc atribuica clar responsabil
+
+
+polit seguranc eficaz
+
+
+supervisa eficac program seguranc
+
+
+segu apresent roteir cont element critic program seguranc
+
+
+
+
+
+
+avali period risc
+
+
+
+
+
+risc periodic avali acord polit document par ess avali
+
+
+
+
+
+avali risc realiz pessoal suficient independent diret respons pel questa seguranc send revist tod sistem instal outr condica alter
+
+
+
+
+
+avali risc lev cont vulnerabil inerent dad risc adicional acrescent pel divers caminh acess passiv utiliz usuari estranh autoriz
+
+
+
+
+
+avali ger risc mais recent acord polit estabelec atend dem requisit acim indic
+
+
+
+
+
+
+document program seguranc
+
+
+
+
+
+plan seguranc
+
+
+document aprov pel alt gerenc pel setor afet
+
+
+cobr tod instal oper essenci
+
+
+mant atualiz revisa period ajust reflit mudanc condica oper risc
+
+
+
+
+
+
+estrutur gerenc seguranc atribuica clar responsabil
+
+
+
+
+
+plan seguranc
+
+
+estabelec estrutur gerenc seguranc independente autor conhec suficient
+
+
+prev existente gerent seguranc sistem inform tant nivel geral quant niv subordin
+
+
+identif precis proprietari cad recurs computacional respons pel gerenc acess recurs
+
+
+defin responsabil seguranc seguint niv proprietari usuari recurs inform pessoal process dad alt gerenc administr seguranc
+
+
+periodic revist atualiz estand dia necess entidad
+
+
+
+
+
+
+
+polit seguranc eficaz
+
+
+
+
+exist program treinament sobr polit seguranc inclu treinament inicial tod nov funcionari usuari treinament period atualiz est est send segu examin registr ativ treinament
+
+
+
+
+
+entrev pessoal utiliz recurs computacion demonstr funcionari cient responsabil quant seguranc
+
+
+
+
+
+registr funcion empreg lid inform confidenci eou trabalh funca seguranc demonstr possu conhec experiente requer descrica carg examin amostr registr funcion comparal descrica cont plan carg
+
+
+
+
+
+entidad exig funcionari usuari extern acess inform confidenci assin declar confidencial verific polit acord confidencial examin amostr registr par constat usuari assin declar
+
+
+
+
+
+exist funcionari proprietari inform critic confidenci previsa mudanc turn troc funca entr funcionari acess inform periodic taref funcionari redistribu durant fer
+
+
+
+
+
+registr funcion indic efetiv feit revez pessoal taref maior risc
+
+
+
+
+
+process transferente demissa inclu proced seguranc tais
+
+
+devoluca crach chav pass identific etc
+
+
+notific gerenc seguranc par pront desativ senh acess
+
+
+imediat retir funcionari local trabalh
+
+
+definica period funcionari afast fic sujeit guard sigil inform confidenci qua tev acess
+
+
+
+
+
+
+
+supervisa eficac program seguranc
+
+
+
+
+
+alt administr atu pront correca deficiente detect program seguranc
+
+
+
+
+
+aca corret test sid implement par confirm eficac quand necessari supervision periodic verific situaca recomend mais recent auditor intern med corret adot test quant eficac
+
+
+
+
+continu servic
+
+
+
+
+perd capac process recuper proteg inform mant eletronic pod impact significat habil organiz desempenh missa
+
+
+
+ess raza organiz precis proced estabelec par proteg recurs inform minimiz risc interrupca planej recuper oper critic cas interrupca plan dev consider ativ execut ambient suport geral tais centr process dad bem ambient oper aplic especif par garant plan recuper ira funcion previst dev test periodic exercici simul desastr
+
+
+
+embor frequent cham plan recuper desastr control par garant continu servic dev enfoc tod possibil interrupca existent sej interrupca relativ insignificant tais falt tempor energ destruica acidental arquiv problem seri incendi desastr natur reque restabelec oper outr local
+
+
+
+control adequ mesm interrupca men grav pod result perd process incorret dad ocasion prejuiz financeir esforc dispendi recuper inform gerenci financeir inexat incomplet par oper tais envolv cuid medic seguranc public interrupca sistem pod mesm result dan pesso perd vid
+
+
+
+par diminu interrupca servic essencial control estabelec sej conhec adot pel gerenc pel pessoal envolv compromet alt administr important par garant recurs adequ sej dedic par planej emergente treinament test necessari pessoal respons ativ manutenca continu servic tais realiz cop seguranc arquiv precis bem inform risc realiz dess taref
+
+
+
+element critic par avali continu servic
+
+
+
+avali vulnerabil oper computadoriz identific recurs apo
+
+
+adoca med par preven minimiz dan interrupca potenci
+
+
+desenvolv document plan geral contingente
+
+
+test period plan contingente realiz ajust apropri
+
+
+
+segu apresent roteir cont element critic continu servic
+
+
+
+
+
+
+avali vulnerabil oper computadoriz identific recurs apo
+
+
+
+
+
+organiz prepar list dad oper sistem critic
+
+
+inform prioridad cad item
+
+
+aprov pel gestor respons
+
+
+reflet situaca atual recurs computacion
+
+
+
+
+
+recurs dao suport oper critic identific document inclu hardwar softwar fornecedor document sistem telecomunic instal supriment escritori recurs human
+
+
+
+
+
+prioridad process emergencial document aprov pel alt administr gerenc process dad
+
+
+
+
+
+
+adoca med par preven minimiz dan interrupca potenci
+
+
+
+
+proced cop seguranc backup
+
+
+
+
+
+
+cop seguranc arquiv document sistem providenci desloc par local extern armazen frequenc suficient par evit problem cas perd dan arquiv uso
+
+
+
+
+
+local extern armazen est localiz geografic distant sed organiz proteg control ambient control acess fisic
+
+
+
+
+control ambient
+
+
+
+
+disposit supressa prevenca incendi instal funcion detetor fumac extintor incendi etc
+
+
+
+control fisic implement par evit outr desastr tais inund elev excess temperatur etc control fisic periodic test
+
+
+
+providenci font substitut supriment energ eletr permit cas falh font principal conclusa segur oper andament
+
+
+
+beb aliment outr itens poss danific equip proib ambient comput verific existente cumpriment norm proced ess respeit
+
+
+
+treinament pessoal par respond emergente
+
+
+
+
+
+proced emergente periodic test
+
+
+
+
+
+funcionari centr process dad receb treinament par cas emergente tend sid inform responsabil ocorrente event gener verific exist registr treinament period previst efetu par proced emergente envolv fog inund dispar alarm
+
+
+
+
+med prevenca interrupca inesper
+
+
+
+
+
+
+exist polit proced atualiz manutenca hardwar gerenc problem gerenc alter program par preven interrupca inesper oper
+
+
+
+
+
+exist hardwar reserv garant cas problem equip principal disponibil sistem par aplic critic vulner
+
+
+
+
+
+manutenca period hardwar softwar program execut acord especific fornecedor circunstanc minimiz impact oper utiliz pel usuari permit realiz test necessari
+
+
+
+
+
+exist flexibil suficient oper process dad par acomod manutenca regul numer razoavel manutenca previst
+
+
+
+
+
+mudanc equip hardwar softwar associ program form minimiz impact oper utiliz pel usuari permit execuca test necessari
+
+
+
+
+
+mudanc hardwar inform antecedente par usuari form imped servic sej interromp inesperad
+
+
+
+
+desenvolv document plan geral contingente
+
+
+
+
+
+
+document plan contingente
+
+
+
+
+
+
+exist plan contingente devid document
+
+
+reflet condica atu organiz
+
+
+aprov pel grup mais afet inclu alt administr dti gerent proprietari sistem
+
+
+atribu responsabil recuper form clar
+
+
+inclu instruca detalh par restaur oper tant sistem operacional quant aplic critic
+
+
+identif instal alternat process local extern armazen cop seguranc
+
+
+inclu proced segu quand centr process dad estiv impossibilit receb transmit dad
+
+
+identif sistem arquiv dad critic
+
+
+detalh suficient par compreend tod gerent organiz
+
+
+distribu par tod pesso apropri
+
+
+plan prev pessoal substitut form pod implement independent individu especif
+
+
+
+
+
+depart usuari possu proced process manual eou perifer par uso restaur oper
+
+
+
+
+
+pel men duas cop plan contingente atualiz armazen seguranc diferent loc
+
+
+
+
+
+plan contingente periodic reavali cas revist par reflet alter hardwar softwar pessoal
+
+
+
+
+alternat process dad telecomunic
+
+
+
+
+
+
+exist acord outr orga entidad par estabelec centr process dad telecomunic substitut
+
+
+oferec condica oper espac temp compat risc oper interromp
+
+
+tenh capac suficient process
+
+
+apresent grand probabil dispon par uso cas necess
+
+
+
+
+test period plan contingente realiz ajust apropri
+
+
+
+
+
+plan contingente test condica simul desastr examin polit test relatori execuca
+
+
+
+
+
+result test document relatori lica aprend providenci encaminh par alt administr
+
+
+
+
+
+plan contingente acord relacion ajust par corrig quaisqu deficiente constat durant test
+
+
+
+
+control acess
+
+
+
+
+control acess proposit oferec garant razoavel recurs computacion arquiv dad program aplicat instal equip relacion comput proteg contr modific divulg autoriz perd dan inclu control fisic tais manutenca comput sal tranc par limit acess fisic control logic softw seguranc projet par preven detect acess autoriz arquiv critic
+
+
+
+control acess inadequ diminu confiabil dad process pel sistem aument risc destruica divulg indev dad seguint exempl illustr possiv consequente tais vulnerabil
+
+
+
+obtend acess irrestrit arquiv dad individu pod faz mudanc autoriz par ganh pessoal par obter inform control exempl pesso pod alter numer cont pagament desvi desembols par mesm alter quantidad inventari par escond furt alter quant receb obter inform confidenci respeit transaca individu
+
+
+acess program aplicat utiliz par process dad permit modific autoriz dess program introduca codig program malintencion pod utiliz par obter acess arquiv dad result situaca simil indic item anterior exempl funcionari pod alter program calcul salari ger pagament indev par mesm
+
+
+sem presenc control termin equip telecomunic permit entrad sistem computacion entidad individu pod obter acess inform confidenci uso control estej mei magnet impress substitu dad program furt danific intencional equip program comput
+
+
+
+objet limit acess vis garant
+
+
+
+usuari tenh acess soment recurs necessari par execut taref
+
+
+acess recurs alt risc tais softw seguranc sej limit pouc individu
+
+
+funcionari estej imped execut funca incompativ alem responsabil
+
+
+
+objet ating risc modific divulg indev dad pod reduz sem interferente necess pratic usuari equilibri apropri entr necess usuari requer seguranc exig analis cuidad vulnerabil importanc cad recurs inform dispon confront taref execut pel usuari
+
+
+
+implement control acess apropri exig primeir determin nivel tip proteca adequ cad recurs identific pesso precis acess recurs definica dev efetu pel proprietari recurs exempl chef depart precis determin importanc program dad nivel acess apropri par pessoal usa sistem informatiz par execut avali relat oper depart mesm form gerent encarreg desenvolv modific sistem dev determin vulnerabil recurs hardwar softwar control nivel acess necessari par anal sistem program diant
+
+
+
+
+
+element critic determin adequ control acess
+
+
+
+classific recurs inform acord importanc vulnerabil
+
+
+manutenca list atualiz usuari autoriz nivel acess
+
+
+implant control logic fisic par preven detect acess autoriz
+
+
+supervisa acess investig indici violaca seguranc adoca med corret apropri
+
+
+segu apresent roteir cont element critic control acess
+
+
+
+
+
+
+classific recurs inform acord importanc vulnerabil
+
+
+
+
+
+exist polit proced document par classific recurs inform pel criteri importanc vulnerabil dad
+
+
+
+
+
+proprietari recurs cient criteri classific estabelec efetu classific princip recurs responsabil
+
+
+
+
+
+classific recurs base avali risc document aprov pel alt administr periodic revis
+
+
+
+
+
+
+manutenca list atualiz usuari autoriz niv acess
+
+
+
+
+
+autoriz acess
+
+
+document formulari padroniz mant arquiv organiz
+
+
+aprov pel proprietari recurs computacional
+
+
+transmit par gerent seguranc form proteg
+
+
+
+proprietari recurs computacion periodic revis autoriz acess par verific continu necess adequ
+
+
+
+numer usuari autoriz acess remot sistem limit justificat par ess acess document aprov pel proprietari recurs v item par control adicion acess remot
+
+
+
+gerent seguranc revis autoriz acess discut quaisqu autoriz question proprietari recurs
+
+
+
+tod mudanc perfil seguranc automatic registr revis periodic pel alt administr
+
+
+
+
+ativ usu investig
+
+
+
+
+
+seguranc notific imediat quand usuari sistem demit transfer
+
+
+
+
+
+autoriz acess tempor
+
+
+document formulari padra mant arquiv
+
+
+aprov pel gerenc encarreg
+
+
+comunic form proteg par servic seguranc
+
+
+automatic desativ period determin
+
+
+
+exist formulari padra par document aprov par compartilh arquiv dad outr entidad examin formulari entrevist respons pel manutenca dad
+
+
+
+
+
+compartilh dad program outr entidad formaliz acord defin arquiv program proteg examin document autoriz compartilh acord seguranc
+
+
+
+
+
+
+
+
+control logic fisic par prevenca detecca acess autoriz
+
+
+
+
+
+
+tod ameac significat par seguranc fisic recurs mais vulner identific verific disposica fisic recurs
+
+
+
+
+
+acess fisic limit funcionari precis rotineir recurs computacion atrav vig crach identific carta magnet par acion port acess etc observ pont acess instal durant hor funcion fora expedient verific list pesso acess autoriz instal quant adequ nom inclu
+
+
+
+
+
+gerenc revis regular list pesso acess fisic instal critic
+
+
+
+
+
+exist obstacul fisic par acess sal comput fitotec outr instal critic
+
+
+
+
+
+tod entreg retir fit magnet outr mei armazen dad autoriz registr
+
+
+
+
+
+chav carta magnet acion port outr disposit acess reserv send usad pel funcionari mant pel gerenc seguranc form proteg
+
+
+
+
+
+visitant are critic tais sal comput central fitotec formal registr acompanh verific registr entrad visitant entrevist vig respons pel seguranc observ transit pesso pel are critic period dentr fora expedient normal
+
+
+proced adequ abandon are risc situaca emergente retorn pessoal normaliz situaca imped acess pessoal autoriz are critic durant event ameac incendi outr exij desocup local
+
+
+
+
+
+senh
+
+
+unic par individu especif grup
+
+
+control pel usuari sujeit divulg
+
+
+alter periodic entr dias
+
+
+apresent tel durant digit
+
+
+compost pel men seis caract alfanumer imped repetica seis troc pel men
+
+
+
+exist restrica quant uso nom palavr facil desvend analis list ger pel sistem senh uso
+
+
+
+senh fornec par primeir acess usuari imediat alter
+
+
+
+codig identific senh uso compartilh pel funcionari permit
+
+
+
+sistem permit mais tres tentat logon entrad comand par inici sessa senh inval
+
+
+
+relaca pessoal ativ periodic atualiz usad par verific automatic list usuari autoriz sistem par remoca senh funcionari demit transfer
+
+
+
+cont acess inat supervision remov quand deix necess verific especific softwar seguranc examin list ger pel sistem usuari inat determin acess dess usuari cancel
+
+
+
+usuari detentor outr disposit acess tais codig carta magnet conscienc necess guard cuidad pod emprest compartilh perd dev imediat comunic respons
+
+
+
+identific caminh acess feit analis caminh logic acess tod ocorr mudanc sistem
+
+
+
+
+control logic sobr arquiv dad program softwar
+
+
+
+
+
+
+softw seguranc usad par restring acess arquiv dad program
+
+
+
+acess softw seguranc restrit administr seguranc
+
+
+
+
+sessa acess sistem via termin comput termin automatic period inativ oper
+
+
+
+
+
+respons pel administr seguranc configur softwar seguranc par restring acess autoriz arquiv dad bibliotec dad proced oper lot batch bibliotec codig font arquiv seguranc arquiv sistem operacional test control tent obter acess arquiv restrit
+
+
+
+
+control logic sobr bas dad
+
+
+
+
+
+
+control sobr gerenci banc dad sgbd dbms dicionari dad implement par
+
+
+restring acess arquiv dad niv leitur dad camp etc
+
+
+control acess dicionari dad usand perf seguranc senh
+
+
+mant trilh auditor permit supervision mudanc dicionari dad
+
+
+prev form pesquis atualiz funca aplicat funca sgbd dicionari dad
+
+
+
+
+
+uso facil sgbd limit funcionari cuj atribuica exig ess acess
+
+
+
+
+
+acess softwar tabel seguranc sgdb perf seguranc dicionari dad control restrit pessoal autoriz
+
+
+
+
+
+
+control logic sobr acess remot
+
+
+
+
+
+
+softwar comunic implement par
+
+
+identific terminal uso form restring acess mei termin especif
+
+
+chec ids codig identific usuari senh par acess aplicat especif
+
+
+control acess atrav conexa entr sistem termin
+
+
+restring uso facil red aplic especif
+
+
+interromp automatic conexa final sessa
+
+
+mant registr ativ red
+
+
+restring acess tabel defin opca red recurs perf oper
+
+
+permit soment usuari autoriz desconect component red
+
+
+supervision acess disc atrav control font cham pel interrupca cham retorn ligaca par numer telefon previ autoriz
+
+
+restring acess intern softw telecomunic
+
+
+control mudanc ness softw
+
+
+garant dad sej acess modific usuari autoriz durant transmissa enquant temporari armazen
+
+
+restring supervision acess hardwar telecomunic instal
+
+
+
+
+
+numer par discag remot public periodic alter
+
+
+
+
+
+ferrament criptograf implement par proteg integr confidencial dad softw vulner critic
+
+
+
+
+
+exist proced par apag dad confidenci program instal recurs descart pel entidad leila doad etc
+
+
+
+
+
+
+supervisa acess investig evidente violaca seguranc adoca med corret
+
+
+
+
+
+trilh auditor mant tod ativ envolv acess modific arquiv vulner critic registr
+
+
+
+
+
+violaca seguranc ativ suspeit tais tentat frustr entrad sistem relat par gerenc investig examin relatori sobr ativ suspeit
+
+
+
+
+
+gerent seguranc investig violaca seguranc relat result par alt administr
+
+
+
+
+
+med disciplin tom par corrig violaca seguranc detect
+
+
+
+
+
+polit control acess modific quand violaca seguranc detect
+
+
+
+
+
+
+
+control softwar
+
+
+
+
+
+
+softwar sistem conjunt program projet par oper control ativ process equip computacional
+
+
+
+normal softwar sistem utiliz par dar suport control variedad aplic poss execut mesm hardwar comput
+
+
+
+softwar sistem auxil control coorden entrad process said armazen dad relat tod aplic execut sistem softw sistem pod alter dad codig program arquiv sem deix trilh auditor
+
+
+
+exempl softwar sistem
+
+
+softwar sistem operacional
+
+
+utilitari sistem
+
+
+sistem bibliotec program
+
+
+softwar manutenca arquiv
+
+
+softwar seguranc
+
+
+sistem comunic dad
+
+
+sistem gerenc bas dad sgbd
+
+
+
+
+
+control sobr acess alter softwar sistem essenci par oferec garant razoavel control seguranc base sistem operacional compromet prejudic bom funcion sistem computacional tod
+
+
+
+control ness are inadequ individu autoriz pod utiliz softwar sistem par desvi control seguranc bem ler modific apag inform program critic vulner softw sistem control ineficaz pod utiliz aind par neutraliz control present program aplicat diminu significativ confiabil inform produz pel aplic existent sistem computacional aument risc fraud sabotag
+
+
+
+preocup control softwar sistem simil control acess discut seca control mudanc softwar apresent seca entretant caus alt nivel risc associ ativ softwar sistem maior entidad possu conjunt separ proced control par ativ
+
+
+
+control softwar sistem avali atrav seguint element critic
+
+
+acess limit softwar sistem
+
+
+acess uso supervision softwar sistem
+
+
+control alter softwar sistem
+
+
+
+segu apresent roteir cont element critic softwar sistem
+
+
+
+
+
+
+
+
+acess limit softwar sistem
+
+
+
+
+
+exist polit proced atualiz par restrica acess softwar sistem
+
+
+
+
+
+acess softwar sistem restrit numer limit pesso cuj responsabil exij ess acess program aplicat oper comput dev possu autoriz acess softwar sistem
+
+
+
+
+
+document justificat aprov gerenc par acess softwar sistem mant arquiv
+
+
+
+
+
+nivel acess permit program sistem periodic reavali pel gerent par permissa acess correspond necess servic verific ultim nivel acess revist
+
+
+
+
+
+
+caminh acess
+
+
+
+
+sistem operacional configur par imped control softwar seguranc aplicat sej ignor test parametr sistem operacional par verific est configur par mant integr softwar seguranc control aplicat
+
+
+tod acess arquiv softwar sistem automatic registr
+
+
+
+tod senh codig entrad sistem vind fabric substitu
+
+
+
+control fisic logic instal par proteg termin acess softwar sistem inclu restrica acess remot termin
+
+
+
+
+
+acess uso supervision softwar sistem
+
+
+
+
+exist polit proced document atualiz par uso utilitari softwar sistem
+
+
+
+
+
+responsabil uso utilitari sistem clar defin compreend pel program sistem
+
+
+
+
+
+responsabil pel supervisa uso utilitari sistem defin exerc pel gerenc informat
+
+
+
+
+
+uso utilitari sistem registr relatori produz pel softwar control acess outr mecan registr acess
+
+
+
+
+
+registr acess softwar sistem utilitari periodic examin pel gerenc informat ativ suspeit usu investig
+
+
+
+
+
+revisa gerenci efetu par determin tecnic supervisa uso softwar sistem funcion previst mant risc dentr niv aceit avali period risc
+
+
+
+
+
+
+
+
+control alter softwar sistem
+
+
+
+
+
+exist polit proced atualiz par identific selecion instal modific softwar sistem bem identific document solucion problem ess softwar
+
+
+
+
+
+
+implant nov versa softwar sistem utilitari segu proced seguranc inclu
+
+
+justificat document par alter
+
+
+realiz test conduz ambient propri ambient oper normal
+
+
+parec tecnic sobr result test
+
+
+revisa result test opinia document pel gerent
+
+
+autoriz gerent par coloc nov versa softwar sistem uso
+
+
+
+exist proced par control alter emergente inclu form autoriz document alter emergente relatori fat gerenc revisa alter respons pel control dess alter
+
+
+instal softwar sistem
+
+
+
+
+instal program form minimiz impact process dad send comunic antecedente par usuari
+
+
+
+migraca par uso nov softwar test aprov feit grup independent respons pel control bibliotec
+
+
+
+versa ultrapass softwar sistem remov bibliotec program uso
+
+
+
+instal tod softwar sistem document registr par estabelec trilh auditor permit supervisa gerenc informat
+
+
+
+softwar sistem cont suport fornecedor
+
+
+
+softwar sistem document mant atualiz entrevist gerenc program sistem respeit atualiz softwar sistem document examin document par constat alter mais recent incorpor
+
+
+
+
+
+
+
+control desenvolv alter softw aplicat
+
+
+
+
+
+softw aplicat projet par execut determin tip oper exempl calcul folh pagament control estoqu tipic divers aplic pod oper dentr mesm conjunt softwar sistem
+
+
+
+control sobr modific program aplicat ajud garant soment program modific autoriz sej implement
+
+
+
+sem control apropri exist risc caracterist seguranc poss omit contorn intencional process errone codig fraudulent sej introduz exempl
+
+
+program pod modific codig program par desvi control obter acess dad confidenci
+
+
+versa errad program pod implement perpetu process errad desatualiz
+
+
+virus pod introduz prejudic process
+
+
+
+principal preocup dest item control exerc sobr sistem softwar oper program manipul dad financeir inform utiliz auditor sofr maior part alter softwar entretant mesm risc control aplic sistem desenvolv
+
+
+
+element critic par avali control mudanc desenvolv softwar
+
+
+caracterist process modific program devid autoriz
+
+
+tod softw nov revis test aprov
+
+
+bibliotec control softwar
+
+
+
+segu apresent roteir cont element critic control alter softw aplicat
+
+
+
+
+
+
+caracterist process alter program devid autoriz
+
+
+
+
+
+desenvolv metodolog desenvolv sistem
+
+
+fornec abordag estrutur desenvolv compat conceit pratic geral aceit inclu envolv ativ usuari durant process
+
+
+suficient document send capaz oferec orient funcionari divers niv conhec experiente
+
+
+oferec mei control mudanc requisit projet ocorr durant vid sistem
+
+
+inclu requisit document
+
+
+
+pessoal envolv desenvolv test softwar trein par utiliz metodolog desenvolv adot pel entidad
+
+
+
+formulari solicit alter softwar utiliz par document ped autoriz mudanc
+
+
+
+solicit alter submet aprov tant usuari sistem quant dti
+
+
+
+softw domini public uso pessoal objet polit restrit important entidad tenh polit clar respeit uso softw domini public propriedad pessoal funcionari trabalh permit funcionari utiliz propri softw mesm disquet par armazen dad usad outr lug aument risc introduca virus violaca patent process errad dad caus pel utiliz program inadequ
+
+
+
+
+tod softw nov alter test aprov
+
+
+
+
+desenvolv padra par test softwar indic responsabil cad part envolv usuari anal sistem program auditor control qualidad etc
+
+
+
+plan test document aprov
+
+
+
+
+
+test rotin alter integr sistem execut aprov acord plan test utiliz numer suficient condica val inval
+
+
+
+
+
+amostr suficient transaca dad utiliz par represent var ativ condica encontr process
+
+
+
+
+
+ambient test divers ambient real process dad rea usad test alter program excet par constru arquiv dad test
+
+
+
+
+
+result test revist document
+
+
+
+
+
+alter program coloc uso soment aprov formal usuari gerenc desenvolv sistem
+
+
+
+
+
+quand sistem nov modific post oper document atualiz relaca softwar hardwar pessoal oper usuari
+
+
+
+
+
+gerenc informat eou administr seguranc periodic revis alter introduz softw par determin control acess control alter respeit
+
+
+
+
+alter emergente
+
+
+
+
+
+
+exist proced alter emergente document
+
+
+
+
+
+alter emergente
+
+
+document aprov pel supervisor oper
+
+
+formal relat gerenc oper par providente necess
+
+
+aprov aind depo realiz pel gerent desenvolv proprietari sistem
+
+
+
+
+
+exist proced padra par distribuica softwar nov alter implement
+
+
+
+
+
+inform sobr alter inclu dat realiz fornec par tod setor mantenh cop sistem
+
+
+
+
+
+
+bibliotec control softwar
+
+
+
+
+
+identific inventari program
+
+
+
+
+
+
+exist softwar gerenci bibliotec par
+
+
+produz trilh auditor alter program
+
+
+mant numer versa program
+
+
+registr relat alter program
+
+
+mant inform sobr dat criaca modul uso
+
+
+mant cop versa anterior
+
+
+control atualiz paralel
+
+
+restrica acess bibliotec
+
+
+
+
+
+
+bibliotec separ mant par program desenvolv manutenca program test program uso produca
+
+
+
+
+
+codigosfont mant bibliotec propr
+
+
+
+
+
+codig uso codigofont cop extras program proteg softwar control acess caracterist seguranc sistem operacional
+
+
+
+
+control moviment program dad entr bibliotec
+
+
+
+grup independent usuari program control moviment program dad entr bibliotec
+
+
+
+
+
+reproduca codig program depo alter arquiv compar par garant soment mudanc aprov implant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+control aplicat
+
+
+
+
+
+control aplicat aquel incorpor diret program aplicat tres are oper entrad process said dad objet garant process confiavel acur
+
+
+
+avali control aplicat dev sempr execut conjunt verific control ger sistem informatiz bem legal process efetu ist produt final est acord leis vigor est acarret desvi recurs public
+
+
+
+present modul objet apresent control dev verific trabalh fiscaliz inclu avali mais program aplicat organiz audit
+
+
+
+
+control entrad dad
+
+
+
+
+control dest categor projet par garant dad convert par format padra inser aplic form precis complet tempest
+
+
+
+control entrad dad dev detect transaca autoriz incomplet duplic errone assegur sej control corrig
+
+
+
+
+
+
+document tel entrad dad
+
+
+
+
+
+exist proced document par inserca dad aplic
+
+
+
+
+
+document tel entrad garant entrad dad maneir exat consistent
+
+
+
+
+
+camp dad preenchiment obrigatori facil identific tel
+
+
+
+
+
+exist padra par tel entrad quant apresent disposica camp acion tecl
+
+
+
+rotin prepar dad batch
+
+
+
+
+
+exist rotin par prepar dad preench cad document
+
+
+
+
+
+pesso clar identific respons pel prepar revisa autoriz entrad dad
+
+
+
+
+
+exist rotin escrit par cad ativ process prepar dad instruca clar adequ
+
+
+
+
+
+
+autoriz par entrad dad
+
+
+
+sempr possivel proced autoriz entrad dad sistem entrad dad onlin indispens rotin valid dad par compens ausenc autoriz sistem dev chec automatic usuari est cadastr par usar aquel aplicat dad preench satisfaz cert condica
+
+
+
+organiz dev estabelec rotin impec uso autoriz mal uso microcomput termin durant entrad dad
+
+
+
+verific abaix indic dev utiliz par entrad dad batch onlin
+
+
+
+cas aplicat entrad dad ocorr termin microcomput proced seguranc par uso manutenca control codig identific oper terminal estaca trabalh
+
+
+codig identific oper terminal chec process autoriz entrad dad
+
+
+exist proced document par cas transmissa eletron document rot utiliz proced autoriz sej registr
+
+
+microcomput termin usad pel organiz par entrad dad localiz sal fisic segur
+
+
+rotin entrad dad organiz assegur est ativ pod execut funcionari determin nivel acess
+
+
+rotin entrad dad organiz preve gerenc utiliz senh par preven uso autoriz microcomput termin
+
+
+exist numer codig identific unic individu par possibilit control acess dad
+
+
+exist mecan seguranc par gerenci acess batch arquiv dad
+
+
+
+
+verific par aplic entrad dad batch
+
+
+
+aprov entrad dad est limit individu especific pel organiz document escrit
+
+
+pessoal respons pel autoriz entrad dad execut outr taref incompativ pel principi segreg funca v modul control ger control organizacion segreg funca item
+
+
+
+entrad dad onlin dev verific
+
+
+
+
+
+exist control logic fisic termin microcomput par prevenca detecca entrad dad autoriz
+
+
+instal mecan seguranc par gerenci autoriz acess transaca onlin registr histor associ
+
+
+
+
+
+
+
+
+
+
+
+mecan seguranc organiz garant tod tentat acess sem sucess grav logs registr dat hor event acess identific usuari
+
+
+
+retenca document entrad sistem batch
+
+
+
+document origin dev ret pel organiz determin period temp intuit facilit recuper reconstruca dad
+
+
+
+exist proced document par retenca documentosfont organiz
+
+
+
+document fic ret temp suficient par permit reconstruca dad cas sej perd durant fas process
+
+
+
+document mant arquiv organiz par facil recuper
+
+
+
+depart origin document mant cop mesm
+
+
+
+
+
+soment pesso devid autoriz acess document arquiv
+
+
+
+
+
+exist proced document par remov destru document quand expir temp retenca obedec
+
+
+
+
+
+valid dad entrad
+
+
+
+organiz dev estabelec rotin assegur dad entrad valid edit form espelh corret document origin
+
+
+
+exist proced document defin format dad par assegur entrad dad camp corret format adequ
+
+
+
+rotin entrad dad exist inform ajud help par facilit entrad dad reduz numer erros
+
+
+
+exist mecan par valid edica control entrad dad termin inteligent softwar dedic ess funca
+
+
+
+camp essenci par corret process posterior dad preenchiment obrigatori
+
+
+
+exist rotin par detect rejeit imped entrad dad incorret sistem
+
+
+
+
+
+valid dad execut tod camp relevant registr tel entrad
+
+
+
+
+
+rotin valid dad test presenc
+
+
+codig aprov autoriz
+
+
+digit verific tod chav identific
+
+
+digit verific final sequenc string dad numer
+
+
+codig val
+
+
+valor alfanumer numer val
+
+
+tamanh val camp
+
+
+camp combin
+
+
+limit val razoabil valor faix valor val
+
+
+camp obrigatori preench
+
+
+simbol
+
+
+registr entrad complet
+
+
+camp repetit elimin necess entrad mesm dad mais
+
+
+
+
+
+organiz utiliz tot control process lot batch ger pel termin entrad dad pel softwar microcomput par assegur tod dad envi lot receb corret
+
+
+
+
+
+rotin entrad dad organiz estabelec registr histor dad proporcion trilh auditor
+
+
+
+
+
+tratament erros
+
+
+
+organiz dev estabelec rotin par correca resubmissa dad entrad incorret
+
+
+
+exist rotin par identific correca resubmissa dad incorret
+
+
+rotin entrad dad possu proced automat manu permit dad errone sej pront corrig resubmet
+
+
+
+
+
+exist control sobr erros ocorr entrad dad send possivel identifical junt med tom par corrigil temp transcorr entr ocorrente correca
+
+
+
+
+
+mensagens err ger pel rotin entrad dad suficient clar fac entend pel usuari terminal microcomput facilit correca resubmissa dad
+
+
+
+
+
+mecan suport par entrad dad
+
+
+
+
+
+organiz possu grup control respons pel seguint ativ
+
+
+investig corrig qualqu problem operacional terminal microcomput outr disposit entrad dad
+
+
+assegur proced reinicializ execut maneir apropri
+
+
+monitor ativ entrad dad terminal microcomput outr disposit simil
+
+
+investig qualqu desvi proced entrad dad preestabelec
+
+
+recurs computacion human disponiv par entrad dad garant sej inser tempestiv
+
+
+
+control process dad
+
+
+
+
+control process dev assegur tod dad entrad sej process aplicat sej execut sucess usand arquiv dad rotin oper logic process corret
+
+
+
+integr process
+
+
+
+
+
+exist proced document explic form dad process pel program aplicat
+
+
+
+
+
+sistem onlin proteg contr atualiz simultane arquiv diferent usuari
+
+
+
+
+
+exist registr histor logs armazen event ocasion pel comput oper durant process aplic fornec trilh auditor transaca process
+
+
+
+
+
+codig identific usuari terminal microcomput junt dad dat hor inform anterior alter est ultim quand relevanc justific mant registr histor
+
+
+
+valid process
+
+
+
+
+
+dad incorret rejeit pel aplicat
+
+
+
+
+
+proced valid execut tod camp relevant preenchiment obrigatori gravaca dad
+
+
+
+
+
+rotin arredond matemat control efeit provoc ess arredond
+
+
+
+
+
+tratament erros process
+
+
+
+rotin tratament err dev capaz identific transaca erros suspend process sem afet execuca outr transaca val exist proced document par identific correca reinserca dad rejeit
+
+
+
+mensagens ger pel rotin tratament err process clar objet
+
+
+
+arquiv temporari dad rejeit pel sistem control adequad ger mensagens alert par dad sej devid revis corrig
+
+
+
+
+
+exist control sobr erros ocorr durant process dad send possivel identifical junt med tom par corrigil temp transcorr entr ocorrente correca
+
+
+
+
+
+
+control said dad
+
+
+
+
+control said dad utiliz par garant integr corret tempest distribuica dad said
+
+
+
+revisa dad said
+
+
+
+
+relatori dad said revis relaca integr exatida liber par usuari
+
+
+
+exist proced document par relat corrig refaz relatori said erros
+
+
+
+revisa relatori said inclu confront contagens registr tot control par garant dad inser omit indevid
+
+
+
+distribuica dad said
+
+
+
+
+cad relatori impress etiquet par identific nom produt nom destinatari dat hor produca
+
+
+
+exist proced escrit descrev process distribuica dad said relatori impress onlin
+
+
+exist list distribuica predefin par tod dad cri pel aplic list distribuica dad alter acord necess organiz
+
+
+
+usuari question periodic par determin dad produz continu send necessari ute
+
+
+
+relatori impress entregu destin dentr praz estipul
+
+
+
+exist control sobr dad said apresent tel par usuari imped adulter
+
+
+
+exist registr histor inform sobr dad said
+
+
+
+exist proced document par report control erros ocorr process dad said
+
+
+
+usuari comunic sobr erros relatori receb
+
+
+
+
+
+mant registr relatori erros
+
+
+
+
+
+exist control sobr erros ocorr relatori batch onlin send possivel identific erros med tom par corrigil temp transcorr entr ocorrente err correca
+
+
+
+
+
+seguranc dad said
+
+
+
+organiz dev mant proced par restring acess relatori apen pessoal autoriz
+
+
+
+exist proced document par classific relatori confidenci critic acess geral
+
+
+
+exist proced adequ assegur seguranc relatori consider confidenci pel organiz
+
+
+
+proced par restring acess dad confidenci soment pesso autoriz
+
+
+
+usuari acess relatori confidenci impress onlin conhec necess sigil tom med adequ par protegel
+
+
+
+relatori confidenci clar identific marc quand mais ute organiz destru form adequ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+desenvolv sistem
+
+
+
+
+
+
+auditor desenvolv sistem objet avali adequ metodologias proced projet desenvolv implant revisa posimplant sistem produz dentr organiz audit ess avali pod abrang apen ambient desenvolv organiz prev tamb analis process desenvolv sistem especif aind fas planej andament conclusa
+
+
+
+
+
+desenvolv sistem inform represent invest pod assum sem dad confi precis sobr cust projet benefici risc envolv tod projet desenvolv sistem precis sid avali profund dev preced analis custobenefici capac satisf usuari atend objet organiz cust desenvolv med desempenh plan implement previsa recurs human etc necessari tamb mecan gerenci auxili definica prioridad projet permit avali control durant tod process desenvolv
+
+
+
+desenvolv sistem possu divers fas evoluca pod separ seguint form planej elabor plan desenvolv inici projet organiz projet elabor projet sistem revisa aprov pel dirigent desenvolv implant revisa posimplement
+
+
+
+
+segu apresent roteir par auditor sistem desenvolv ira permit avali ambient process desenvolv sistem organiz audit
+
+
+
+
+
+
+
+
+
+fas planej
+
+
+
+organiz
+
+
+identif necess inform aind atend estabelec plan aca par desenvolv sistem maior prioridad
+
+
+estabelec document metodologias desenvolv adot
+
+
+defin document responsabil tod pesso envolv desenvolv sistem
+
+
+
+
+
+
+organiz possu estrateg desenvolv sistem inform elabor plan operacional consistent ess estrateg estabelec prioridad sistem desenvolv acord importanc par cumpriment missa institucional
+
+
+estabelec metodolog desenvolv sistem
+
+
+fornec abordag estrutur desenvolv compat conceit pratic geral aceit
+
+
+prev envolv ativ usuari process desenvolv sistem
+
+
+prev uso tecnic atu tais tecnolog banc dad red comunic dad ferrament cas linguagens quart geraca prototip etc
+
+
+suficient document send capaz oferec orient funcionari divers niv conhec experiente
+
+
+oferec mei control mudanc requisit projet ocorr durant vid sistem
+
+
+inclu requisit program document padra par usuari program desenvolvedor sistem oper centr process dad
+
+
+estabelec mecan reavali acompanh control tod fas process pel equip gerenc envolv permit redirecion trabalh abandon projet quand conclu nov sistem ira atend necess organiz
+
+
+
+
+
+organiz defin document responsabil tod pesso envolv desenvolv sistem
+
+
+
+
+
+estabelec padra par test sistem produz indic responsabil cad part envolv usuari anal sistem program auditor control qualidad etc
+
+
+
+
+
+pessoal envolv desenvolv test softwar trein par utiliz metodolog adot pel entidad possu habil conhec suficient
+
+
+
+
+
+
+fas elabor plan desenvolv inici projet
+
+
+
+projet avali mais minucios quant analis viabil tecnic custobenefici etc send confirm conveniente desenvolv projet organiz estabelec aprov plan desenvolv moderniz sistem especif element suficient par permit projet fisic logic proxim fas natur abrangente sistem requisit usuari dev atend outr inform relevant
+
+
+
+selecion equip projet dev conjunt habil conhec suficient par conduz sucess ativ elabor projet fisic logic desenvolv implant sistem
+
+
+sistem desenvolv avali mais minucios tend sid realiz analis abrang custobenefici estud viabil tecnic importanc inform par usuari relaca objet ger funcion organiz cust desenvolv plan implement previsa recurs human dem element relevant par tom decisa
+
+
+
+organiz estabelec aprov plan desenvolv moderniz sistem element suficient par permit projet fisic logic identific natur sistem requisit usuari dev atend outr inform relevant
+
+
+
+
+
+projet objet atac deficiente reconhec problem sistem organiz
+
+
+
+
+
+estimat analis feit relaca cronogram cust raza benefici esper atingiv
+
+
+
+
+
+reserv recurs suficient par complet realiz projet
+
+
+
+
+
+design equip projet form representant grup usuari dti possu conjunt requisit habil conhec necessari par desempenh taref
+
+
+
+
+
+
+
+
+fas organiz projet
+
+
+
+equip projet bas plan desenvolv aprov cri submet gerenc plan trabalh inform abrangente conteud projet bem mecan acompanh control cronogram dataslimit process supervisa acompanh etap med desempenh etc acord estabelec metodolog desenvolv sistem
+
+
+
+equip projet defin clar abrangente projet conteud sistem form coerent objet previst plan desenvolv
+
+
+
+
+
+usuari concord abrangente conteud sistem
+
+
+
+
+
+elabor plan trabalh cont mecan acompanh control process cronogram dataslimit process supervisa acompanh etap med desempenh acord metodolog desenvolv sistem
+
+
+
+
+
+plan trabalh devid analis aprov pel gerenc planej simil pel dti
+
+
+
+
+
+
+
+
+fas elabor projet sistem
+
+
+
+fas elabor projet sistem cons produca projet fisic logic utiliz metodolog desenvolv sistem padra organiz
+
+
+
+equip projet defin detalhad especific tecnic funcion sistem form mais complet possivel elabor projet sistem acord especific lev cont ambient oper existent
+
+
+
+equip projet elabor projet fisic logic sistem produz document apresent
+
+
+caracterist sistem fisic plataform recurs exig funcion ativ execut
+
+
+restrica imped poss limit implement
+
+
+tecnolog envolv arquitetur sistem sistem seguranc questa integr tais interconectiv interoperabil
+
+
+abordag adot par projet component mais important dev oper conjunt par ating objet organizacion
+
+
+relatori viabil tecnic analis risc custobenefici projet
+
+
+control prevent corret trilh auditor par pont critic sistem
+
+
+
+projet fisic logic dentr padra adot pel organiz respeit hardwar softwar sistem operacional linguag program
+
+
+
+relatori viabil tecnic analis risc custobenefici consistent confi
+
+
+
+
+
+
+
+
+fas revisa aprov pel dirigent
+
+
+
+depart envolv revis tod document produz par determin projet adequ par atend necess organizacion usuari confirm exequibil projet pont vist tecnolog orcamentari analis risc atras extrapol orcament aprov ingress fas desenvolv
+
+
+
+equip projet submet superior relatori document simil par revisa aprov projet
+
+
+
+
+
+gerent analis document produz fas anterior concord conteud
+
+
+
+
+
+are usu aprov relatori equip projet autorizando segu par fas desenvolv implant sistem
+
+
+
+
+
+
+fas desenvolv implant
+
+
+
+equip desenvolv ist codif integr test sistem aval qualidad
+
+
+
+usuari test sistem aprov implant etap tamb conhec homolog
+
+
+sistem aprov implant acord plan detalh test transica implant oper
+
+
+
+
+
+sistem produz acord metodolog desenvolv adot pel organiz atend especific projet
+
+
+
+
+
+document sistem desenvolv apropri estand dentr padra adot pel organiz respeit hardwar softwar sistem operacional linguag program cont descrica logic diagram flux dad descrica arquiv model relatori outr itens consider relevant par bom entend control
+
+
+
+
+
+prepar manu oper usuari manutenca sistem bem plan treinament futur usuari
+
+
+
+test sistem
+
+
+
+
+
+
+cri plan detalh par test sistem compat padra test estabelec pel organiz respeit responsabil defin par cad part envolv usuari anal sistem program auditor control qualidad etc
+
+
+
+
+
+test sistem integr outr sistem execut aprov acord plan test utiliz numer suficient condica val inval
+
+
+
+
+
+amostr suficient transaca dad utiliz par represent var ativ condica encontr process real
+
+
+
+
+
+ambient test divers ambient real dad rea usad test program excet par constru arquiv dad test
+
+
+
+
+
+test revist document result analis aprov pel dti pel are usu sistem
+
+
+
+
+
+efetu test aceit final junt usuari selecion
+
+
+
+
+
+deficiente desempenh devid corrig sistem consider condica entrar oper
+
+
+
+implement
+
+
+
+
+sistem desenvolv coloc uso soment aprov formal usuari gerenc desenvolv sistem
+
+
+
+quand sistem nov post oper document atualiz relaca softwar hardwar pessoal oper usuari
+
+
+
+exist proced padra par distribuica softwar nov implement
+
+
+
+bibliotec control
+
+
+
+bibliotec sistem desenvolv independent sistem manutenca test program uso
+
+
+
+codigosfont mant bibliotec propr
+
+
+
+
+fas revisa posimplement
+
+
+
+
+
+gerenc desenvolv sistem verif grau satisf usuari sistem implement chec requisit inici usuari satisfeit
+
+
+
+feit avali result sistem desenvolv atend necess requisit usuari grau satisf
+
+
+
+
+
+sistem test par verific conform padra desenvolv implant estabelec pel organiz
+
+
+
+banc dad
+
+
+
+
+tradicional term banc dad usad par descrev arquiv cont dad acessiv mais program usuari arquiv dad eram design par aplic especif program projet par acessal form predetermin ess abordag entant oferec muit dificuldad cas dad program tiv modific
+
+
+
+alternat mais modern acess banc dad mei sistem gerenci banc dad sgbd dbms ingles databas management system
+
+
+
+sgbd surg par resolv problem relat dad duplic deficiente integr seguranc dad del med aplicat desenvolv dad necessari eram produz quas sempr format especif par aquel program exempl sistem pessoal cri segu sistem folh pagament normal dois sistem tiv cop separ element dad comuns dess form dad eram duplic integr ameac cop dad rapid perd sincron
+
+
+
+papel sgbd mant organiz dad tornal disponiv par program aplicat quand requisit gerenci banc dad softwar complex responsabiliz tamb pel seguranc integr dad elimin divers taref administr precis execut pel aplicat
+
+
+
+sistem gerenci banc dad tornarams requisit essencial maior ambient tecnolog inform apes alt cust instal vantagens costum compensal
+
+
+
+princip funca desempenh pel sgbd
+
+
+mant arquiv constitu banc dad
+
+
+oferec interfac uniform par usuari aplicat utiliz dad
+
+
+fornec element dad par aplicat solicit
+
+
+diminu necess aplicat saib dad armazen estrutur arquiv registr
+
+
+mant integr dad quant conteud valid referente dependente element existente outr
+
+
+control acess dad mei mecan seguranc
+
+
+
+
+
+
+dicionari dad
+
+
+
+quand dad compartilh duas mais aplic acontec banc dad precis mant registr tod element dad disponiv sistem caracterist usad pel program aplicat dicionari dad desenvolv ess objet
+
+
+normal dicionari dad armazen seguint inform par cad element
+
+
+descrica nom element dad descrica conteud
+
+
+format estrutur element dad
+
+
+relaca outr element dad
+
+
+program transaca acess dad raza par ess acess
+
+
+relatori said cont element dad
+
+
+
+
+armazen dad
+
+
+
+
+
+metod usad par armazen dad fic carg propri sgbd depend tip sistem adot pod hierarqu red relacional
+
+
+
+sgbd hierarqu red normal armazen dad estrutur registr vincul ponteir oferec acess rap manutenca complex
+
+
+
+sistem relacion qua base teor matemat defin pel professor ted codd anos armazen registr dad tabel cad tabel represent arquiv index relacion exist entr registr mant mediant uso camp referente cruz tabel qua avali durant temp acess dad iss signif sistem relacional facil manutenca mais lent quant acess quand compar sistem hierarqu red
+
+
+
+
+
+
+acess banc dad
+
+
+
+acess banc dad necess par program tamb par usuari sistem gestor maior gerenci banc dad sgbd modern oferec divers mei acess dad nel armazen oper dentr esquem control acess bastant rigor
+
+
+
+geral consult dad feit mecan interat mei usuari instad fornec instruca sobr dad send requisit ess mecan solicit dad frequent especif par sistem hoj linguag padra ans cham sql projet par atend model banc dad relacional mencion anterior
+
+
+
+sql structured query languag linguag consult estrutur interpret pel sgbd exig apen usuari defin qua dad desej dispensando inform encontral iss mais facilit trabalh desenvolv aplicat represent maior vantagens uso sgbd independente dad
+
+
+
+
+
+
+banc dad distribu
+
+
+
+normal banc dad armazen sistem computacional unic estand dispon par usuari diret conect ess sistem acess via red ess tip banc dad dit centraliz muit satisfaz complet necess organiz
+
+
+
+organiz entretant exist necess acess mesm dad diferent local soluca alternat instal banc dad duplic cad local cop tod dad apen dad loc iss oferec independente cad local relaca disponibil dad cas sej interromp acess sistem central acarret problem manutenca integr duplic dad
+
+
+
+melhor soluca ness cas uso sgbd permit banc dad distribu cad local participant execut cop sgbd coop dem mei red par tod efeit form sistem unic
+
+
+
+dad compartilh mei red pel divers local tamb trat pel sgbd banc dad unic complet dad distribu pel red acord solicit cad local aument veloc acess
+
+
+
+exempl vendedor pod solicit inform sobr tod ped client companh trabalh sgbd respond junt tod pedac inform espalh pel red form conjunt dad solicit
+
+
+
+dad pod distribu form horizontal registr vertical camp dentr tabel acord necess especif distribuica banc dad evit dependencia maquin necess duplic dad
+
+
+
+banc dad distribu projet par mant tod vantagens oferec pel sgbd funcion pont vist usuari mesm form banc dad centraliz
+
+
+
+
+
+
+
+
+administr banc dad
+
+
+
+tamanh complex bas dad exig organiz possu pessoal especific design par cuid tod aspect administr banc dad coletiv cham administr banc dad taref administr banc dad inclu manutenca estrutur subestrutur dad softwar sgbd program relacion document banc dad verific compatibil nov sistem banc dad proced cop seguranc registr histor recuper falh banc dad etc administr banc dad respons tamb pel manutenca control sobr dad pod combin responsabil abranj proced control sistem convencion normal efetu pesso diferent quand proced control estiv muit concentr administr banc dad important par preserv adequ segreg funca ess administr sej imped obter acess supervision instal computacion sistem oper bem inici transaca
+
+
+
+
+
+
+
+
+administr dad
+
+
+
+outr tecnic merec destaqu dti figur administr dad est respons pel control tod tip dad manipul pel banc dad pont vist signific format relacion outr tip dad difer administr banc dad porqu preocupas element operacion seguranc funcion banc dad dad propri dit garant exempl mesm dad mesm conteud sej armazen element dad diferent conhec sobretud negoci empres enquant administr banc dad dev especial softwar gerenci banc dad administr dad garant primeir instanc uniform coerenc banc dad possibilit dad sej inser form logic orden nad adiant possu softwar ultim geraca element dad foss defin aleatori
+
+
+
+segu apresentams tecnic control proced auditor pod usad ativ fiscaliz tenh objet avali banc dad organiz audit complement verific indic capitul control ger
+
+
+
+
+avali banc dad
+
+
+
+
+
+
+
+segu apresent roteir par avali banc dad
+
+
+
+
+
+
+
+control administr dad
+
+
+
+
+
+clar defin document responsabil relacion administr dad tais
+
+
+coorden manutenca dad definica criaca exclusa propriedad dad
+
+
+estabelec polit acess confidencial integr dad
+
+
+manutenca document
+
+
+coorden entr administr dad usuari program sistem
+
+
+desenvolv manutenca padra
+
+
+
+
+
+pessoal respons pel ativ administr dad possu habil conhec tecnic necessari par executal
+
+
+
+
+
+organiz estabelec padra metod par desenvolv aplic utiliz banc dad
+
+
+
+
+
+ativ administr dad armazen registr histor periodic analis supervisor
+
+
+
+
+
+
+
+
+
+control administr banc dad
+
+
+
+
+
+clar defin document responsabil relacion administr banc dad tais
+
+
+projet manutenca estrutur bas dad
+
+
+revisa avali confiabil sistem gerenci banc dad
+
+
+avali pessoal encarreg funca banc dad
+
+
+treinament pessoal respons pel administr banc dad
+
+
+seguranc dad
+
+
+
+pessoal respons pel ativ administr banc dad possu habil conhec tecnic necessari par executal
+
+
+
+ativ administr banc dad armazen registr histor periodic analis supervisor
+
+
+
+plan treinament linguagens acess banc dad adequ
+
+
+
+
+
+control acess banc dad dicionari dad
+
+
+
+
+
+uso facil gerenci banc dad limit pessoal atribuica compativ ess acess
+
+
+
+
+
+exist mecan par restring acess arquiv dad dicionari dad senh tabel perf seguranc imped acess pesso autoriz
+
+
+
+
+
+acess softwar tabel seguranc sgbd perf seguranc dicionari dad limit
+
+
+
+
+
+estabelec proced autoriz acess banc dad cumpr
+
+
+
+produz registr histor acess atualiz bem trilh auditor possibilit investig acess atualiz element bas dad
+
+
+
+
+
+gerenci banc dad control acess simultane element dad possu mecan par preven process incorret ness situaca
+
+
+
+
+
+control sobr conteud alter dicionari dad
+
+
+
+
+
+consistente entr estrutur dad banc dad dicionari dad
+
+
+
+
+
+dicionari dad cont element necessari tais
+
+
+dat criaca ultim atualiz
+
+
+descrica cad element dad
+
+
+chav utiliz
+
+
+estrutur cad element dad registr logic cont element
+
+
+program sistem utiliz cad element dad form
+
+
+
+
+
+estabelec proced par produca cop seguranc backup recuper dicionari dad
+
+
+
+
+
+mant trilh auditor permit supervision mudanc dicionari dad
+
+
+
+
+
+alter criaca nov nom arquiv descrica dad control segu padra polit predefin
+
+
+
+
+
+disponibil recuper banc dad
+
+
+
+organiz dev estabelec polit proced garant disponibil banc dad pront recuper ocorrente falh operacion desastr tecnic proced indic dev usad conjunt apresent item continu servic modul control ger
+
+
+
+proced backup hardwar softwar assegur disponibil bas dad par aplic consider priorit cas reduca capac oper
+
+
+
+exist caminh alternat acess par banc dad acess via red
+
+
+
+estabelec proced par recuper logic fisic ambient banc dad obedec
+
+
+
+proced recuper periodic test atualiz
+
+
+
+
+
+integr banc dad
+
+
+
+
+
+exist proced par avali desempenh banc dad
+
+
+
+
+
+gerenci banc dad apresent element control sobr organiz acess compartilh dad
+
+
+
+
+
+exist mecan control sobr integr dad rotin dicionari dad sistem gerenci banc dad
+
+
+
+
+
+sistem gerenci banc dad mant control mudanc realiz bas
+
+
+
+
+
+gerenci banc dad estabelec control sobr ativ pesquis atualiz aplicat funca sgbd dicionari dad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+red comput
+
+
+
+
+
+
+atual bastant comum usuari sistem estej local diferent ond encontr recurs computacion organiz iss torn necessari uso mecan transport inform entr diferent comput entr comput perifer
+
+
+
+red comunic comput permit pesso acess instantane dad usuari diferent escritori local organiz
+
+
+
+resum red oferec seguint facil
+
+
+acess compartilh dad aplic impressor outr disposit
+
+
+correi eletron
+
+
+acess usuari disposit remot
+
+
+reduca cust softwar mei licenc multiusuari
+
+
+acess execuca process sistem remot
+
+
+
+par bom funcion comunic dad usad
+
+
+arquiv log comunic ond fic registr tod bloc transmit corret incorret par efeit estatist par tentat recuper dad transmit
+
+
+softwar comunic dad par verific protocol transmissa gravaca arquiv log transaca par codific decodific sin comunic
+
+
+protocol transmissa garant recepca corret bloc inform transmit
+
+
+softwar hardwar par realiz codific decodific inform transmit
+
+
+
+principal risc oferec pel red acess autoriz dad program organiz pod result dan prejuiz intencion acident
+
+
+
+exist grand variedad softwar hardwar especializ limit acess individu sistem extern red comunic exempl component red pod usad par limit acess inclu gateways firewalls disposit restring acess entr red important par reduz risc associ uso internet monitor teleprocess program incorpor sistem operacional comput par limit acess disposit proteca can comunic
+
+
+
+cas envolv telecomunic possivel pratic restring acess red mediant control fisic logic ness cas ferrament criptograf pod usad par identific autentic usuari bem par auxili proteca integr sigil dad program quand encontr sistem computacional send transmit par outr sistem armazen mei removiv disquet outr
+
+
+criptograf envolv uso algoritm formul matemat combin chav sequenc bits serv par transform mensag codig ininteligiv par aquel possu chav secret necess par decifral mant conteud arquiv mensag confidencial serv tamb par fornec assinatur eletron pod indic alter feit arquiv garant integr identific autor mensag
+
+
+
+alem risc associ facil acess dad program auditor red comunic comput dev contempl risc relat oper incorret sistem perd inform proteg cop seguranc outr situaca pod caus dan prejuiz organiz funca ambient red
+
+
+
+auditor red comunic dev abrang seguint element critic
+
+
+gerenc red dev exist proced polit par auxili gerenc ambient red padra defin par control hardwar softwar envolv
+
+
+seguranc dad red dev exist mecan control hardwar softwar garant seguranc integr dad mant ambient red recurs fisic compo bem limit control acess program dad
+
+
+oper red organiz dev oferec condica par oper eficient red inclu norm proced treinament pessoal execuca cop seguranc avali eficiente servic rotin recuper red interrupca inesper
+
+
+
+softwar red gerenc red dev monitor control softwar comunic sistem operacional instal
+
+
+
+segu apresentas roteir pod usad ativ fiscaliz possu objet avali red comput organiz audit complement verific indic modul control ger
+
+
+
+
+avali red comunic comput
+
+
+
+
+gerenc red
+
+
+
+
+
+estabelec objet curt medi praz par process dad distribu organiz defin precis configur hardwar banc dad topolog red interfac red comunic
+
+
+
+
+
+escolh plataform red par organiz preced analis custobenefici fundament element suficient par justific alternat adot
+
+
+
+plan implant process red contempl
+
+
+particip usuari
+
+
+risc conversa sistem
+
+
+diferent necess process usuari divers local
+
+
+test aceit execut pel dti depart tecnolog inform pel control qualidad usuari selecion
+
+
+proced control process red test avali periodic
+
+
+
+
+
+exist proced document defin ativ permit ambient red
+
+
+
+
+
+proced oper red distribu usuari cad depart
+
+
+
+
+
+estabelec mecan par garant compatibil arquiv entr aplic med red cresc tamanh complex
+
+
+
+
+
+estabelec polit auditor backup par red
+
+
+
+
+
+exist proced document responsabil atribu par ativ inicializ startup supervisa uso red recuper defeit funcion hardwar
+
+
+
+
+
+depart tecnolog inform possu polit proced padra document atualiz divulg par pessoal respons cobr seguint are
+
+
+descrica resum cad aplicat rod red
+
+
+proced oper tais startup shutdown
+
+
+gerenc fit disc
+
+
+cop seguranc backup
+
+
+proced emergente
+
+
+planej contingente
+
+
+
+
+seguranc dad
+
+
+
+
+
+
+institu mecan par padroniz definica dad compartilh mant dicionari dad uso comum
+
+
+
+
+
+exist mecan eficaz control sobr mudanc feit dad compartilh
+
+
+
+integr dad
+
+
+
+
+
+
+exist control par garant integr dad sej mant durant transferente dad red tais
+
+
+proced autentic mensagens
+
+
+mecan garant exatida integr transmissa
+
+
+
+
+seguranc red
+
+
+
+
+
+
+depart usuari mant inventari atualiz equip red encontr local trabalh revis periodic eficac pratic seguranc adot
+
+
+
+
+
+
+proced seguranc adequ par proteg recurs fisic red integr softwar aplicat dad armazen periodic revis v itens program geral seguranc control acess capitul control ger
+
+
+
+
+
+grup respons pel seguranc red confer periodic document seguranc est devid atualiz reaval frequenc suficient adequ control seguranc
+
+
+hardwar comunic estaca trabalh
+
+
+sistem operacional
+
+
+aplicat relevant
+
+
+dad consider confidenci
+
+
+
+
+
+exist segreg funca adequ entr gerenc red gerenc seguranc
+
+
+
+
+
+
+control acess
+
+
+
+
+
+
+mant trilh auditor period raza inform ativ tais
+
+
+loginout local hor dat identific usuari
+
+
+tip acess disc estaca trabalh etc
+
+
+tentat acess inval local hor dat id
+
+
+
+usuari soment consegu acess disc volum diretori arquiv par qua possu autoriz
+
+
+
+implant control acess termin estaca trabalh tod usuari identific senh individu
+
+
+
+termin estaca trabalh inabilit determin numer tentat acess autoriz
+
+
+
+
+
+
+estabelec perf acess par usuari defin recurs dad aplic transaca comand autoriz acord responsabil respect carg
+
+
+
+seguranc comunic red
+
+
+
+
+
+
+control adequ par preven
+
+
+transmissa incomplet
+
+
+roteament incorret
+
+
+alter autoriz mensagens
+
+
+divulg autoriz inform
+
+
+
+
+
+disposit conexa red possu control seguranc inclu pacot softwar disposit criptograf
+
+
+
+
+
+exist control acess implement sobr seguint funca comunic
+
+
+mudanc ambient red
+
+
+acess disc
+
+
+registr histor ativ red
+
+
+criptograf dad
+
+
+
+seguranc fisic
+
+
+
+
+
+
+seguranc fisic oferec par servidor equip comunic conexa red adequ
+
+
+
+
+
+servidor localiz are acess restrit apen pessoal autoriz
+
+
+
+
+
+termin estaca trabalh possu mecan seguranc fisic previn remoca autoriz
+
+
+
+
+plan contingente
+
+
+
+
+
+
+organiz desenvolv plan contingente par recuper red inclu
+
+
+proteca arquiv dad
+
+
+proced par vari niv interrupca emergente
+
+
+proced recuper aplic sistem
+
+
+list document arquiv cop mant outr local
+
+
+
+plan contingente test simul period
+
+
+
+
+oper red
+
+
+
+
+
+proced administr oper red document atualiz
+
+
+
+
+
+responsabil oper clar defin par tod posica preserv principi segreg funca
+
+
+
+
+
+dti estabelec acord nivel servic usuari defin
+
+
+disponibil red
+
+
+temp respost
+
+
+requer backup
+
+
+requer control seguranc
+
+
+exist proced par avali period red quant desempenh temp respost temp recuper falh
+
+
+
+
+
+exist proced document par administr problem soluca indic responsabil fornecedor examin registr problem determin problem ocorr frequenc excess temp razoavel problem report consequente falh control sistem
+
+
+
+
+falh interrupca servic
+
+
+
+
+configur red imped ocorrente falh pont provoqu qued tod red
+
+
+
+
+
+red cont mecan minimiz impact provoc falh sistem exist proced document par retorn oper cas ocorr interrupca inesper servic
+
+
+
+
+
+proced recuper red interrupca inesper servic periodic test atualiz cas pessoal respons est devid capacit par execut ativ necess form eficient rap
+
+
+
+
+
+
+
+
+
+softwar red
+
+
+
+
+
+
+softwar comunic red cont mecan par armazen temporari mensagens destin usuari provisori desconect retransmitil automatic quand conexa restabelec
+
+
+
+
+
+exist proced document trat manutenca rot comunic norm alternat
+
+
+
+
+
+softwar red apresent rotin tratament erros supervisa desempenh
+
+
+
+
+
+especific contrat manutenca prevent repar red
+
+
+
+control alter
+
+
+
+
+exist mecan control registr mudanc efetu softwar red
+
+
+
+proced alter softwar red adequ preve mecan supervisa autoriz
+
+
+
+mod geral proced control alter sistem lev consider impact par organiz inclu disponibil sistem impact par usuari eficiente sistem atualiz document manu
+
+
+
+exist proced adequ par inform trein auxili pessoal oper implement suport mudanc softwar red
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microcomput
+
+
+
+
+
+
+normal cham microcomput comput mes compreend process disc rig flexivel monitor tecl microcomput pod utiliz isolad conect red proposit compartilh dad perifer
+
+
+
+microcomput oferec organiz divers vantagens quant aument eficiente flexibil entretant raza necess mecan seguranc propri dif daquel tipic instal centr process dad organiz tamb pod fic expost risc substanci
+
+
+
+exempl risc especif associ microcomput
+
+
+familiar caus aparent simplic facil uso exist risc uso inadequ sej subestim usuari pel gerenc
+
+
+cust aind microcomput poss consider baix cust important lev cont cust softw perifer manutenca pod elev significativ cust maquin
+
+
+localiz microcomput normal localiz escritori comuns pouc proteca contr furt acess autoriz dan acidental
+
+
+softw proprietari apes mais barat adquir program desenvolvel intern softw oferec pel merc muit apresent mecan seguranc adequ
+
+
+conexa outr comput quand microcomput usad termin mainfram inser red comunic comput uso autoriz pod lev acess indev dad program tod organiz
+
+
+
+par poss protegers contr risc organiz precis adot polit proced especif quant uso microcomput pel funcionari compreend padra hardwar softwar aquisica treinament suport alem control ger aplicat
+
+
+
+microcomput precis control especif destin protegel perd dad program furt acident evit restrica fisic acess maquin control softwar tais senh acess realiz period cop seguranc furt equip mei mecan adequ seguranc local trabalh
+
+
+
+element critic par auditor microcomput
+
+
+
+control softwar uso destin garant consistente oper softwar instal microcomput imped instal program autoriz alter indev softwar instal etc
+
+
+seguranc control acess recurs computacion dad program protegendo contr alter indev furt divulg document sigil etc
+
+
+control sobr oper proteg recurs microinformat contr prejuiz dan caus falt treinament pessoal manutenca adequ
+
+
+
+segu apresent roteir indic par auditor are microcomput dev complement pel investig sobr control ger aplicat apresent capitul dest manual
+
+
+
+control softwar uso
+
+
+
+
+
+organiz estabelec polit padra proced document par aquisica uso microcomput softwar associ abrang tamb dad sobr
+
+
+desenvolv test aplicat
+
+
+document
+
+
+control entrad said process
+
+
+backup recuper dad program
+
+
+autoriz par uso softwar hardwar dad
+
+
+
+organiz mant inventari atualiz recurs microinformat hardwar softwar localiz fisic usuari softw uso etc
+
+
+
+aquisica recurs microinformat preced analis custobenefici compatibil mesm ambient instal
+
+
+
+uso microcomput supervision pel gerent cad unidad
+
+
+
+exist norm proib instal program pesso funcionari microcomput organiz mecan par preven detect uso instal program licenci softwar pirat
+
+
+
+document softwar micr mant atualiz local segur
+
+
+
+depart usuari micr possu proced document par catalog armazen faz cop seguranc arquiv dad program send segu
+
+
+
+control seguranc
+
+
+
+
+recurs microinformat classific acord importanc vulnerabil form permit mecan control sej direcion par proteca recurs oferec maior risc par organiz
+
+
+
+exist mecan identific usuari verific nivel acess microcomput codig identific ids senh individu
+
+
+microcomput conect red public comunic mecan proteca contr acess extern indev
+
+
+
+
+
+
+codig identific senh uso compartilh pel funcionari permit
+
+
+
+proced par document backup program arquiv dad aplicat adequ send segu
+
+
+
+backups dad critic confidenci mant local segur
+
+
+
+plan contingente contempl ambient microinformat v capitul control ger continu servic desenvolv document plan geral contingente
+
+
+
+program aplicat proteg contr atualiz indev
+
+
+
+
+
+recurs fisic microinformat cont identific unic inventari
+
+
+
+
+
+utiliz estabiliz energ outr disposit simil par proteca microcomput
+
+
+
+
+
+organiz mant tod micr program antivirus versa atualiz
+
+
+
+
+
+usuari micr costum submet program antivirus disquet receb ambient extern organiz
+
+
+
+
+
+oferec seminari palestr curs funcionari organiz intuit conscientizal sobr importanc seguranc ambient microinformat
+
+
+
+
+
+funcionari organiz conscient risc envolv microcomput agem form minimizal
+
+
+
+
+
+control sobr oper
+
+
+
+
+
+usuari micr receb treinament adequ
+
+
+
+
+
+program manutenca period prevent tod microcomput organiz
+
+
+
+
+
+conteud disc rig microcomput supervision control
+
+
+
+
+
+exist centr suport usuari capaz dar inform tir duv utiliz registr problem process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glossari
+
+
+
+
+
+
+aplicat aplic program conjunt program comput efetu mais taref aplic camp especif depend tip taref par projet aplicat pod manipul text numer grafic combin tod element
+
+
+
+
+arquiv coleca organiz inform prepar par usad final especif identific nom
+
+
+
+
+banc bas dad coleca dad organiz conjunt tod inform armazen sistem comput
+
+
+
+
+codigosfont
+arquiv text instruca origin part qua program cri represent textual program proced
+
+
+
+
+control acess recurs permit bloqu acess dad pesso autoriz
+
+
+
+
+control aplicat metod proced cont softwar aplicat cuj funca garant autor par origin dad exatida dad entrad integr process distribuica dad said
+
+
+
+
+control ger control aplic tod process execut ambient informatiz vis garant ambient computacional tod sej eficient eficaz segur confiavel relacion organiz projet desenvolv modific seguranc sistem
+
+
+
+
+dad represent formaliz fat conceit instruca adequ par comunic interpret process qualqu represent tais caract simbol etc pod associ signific
+
+
+
+
+dad test conjunt dad escolh especific par test sistem
+
+
+
+
+dbms
+v sistem gerenci banc dad
+
+
+
+
+depart tecnolog inform dti term utiliz par substitu antig cpd centr process dad represent depart respons tod servic lig are informat tais red comput centr telecomunic etc normal compost pel seguint categor pessoal
+
+
+gerenc divisa corporat chefi diretor execut
+
+
+divisa desenvolv suport aplic dedic projet desenvolv manutenca softw aplicat pod consist divers equip desenvolv inclu anal sistem projet program
+
+
+divisa oper setor chefi pel gerent oper respons pel organiz oper diar hardwar sistem uso prest servic par equip desenvolv aplicat usuari sistem
+
+
+divisa suport produca intermediari entr usuari pessoal oper red comunic oferec suport par identific soluca problem falh sistem ess divisa pod tamb respons pel administr bas dad par aplic
+
+
+divisa softwar sistem grup program sistem respons pel instal manutenca softwar sistem dar suport rest pessoal usuari mat tecnic garant sistem hardwar softwar oper desempenh otim
+
+
+divisa comunic dad grup comunic dad red oferec assistente auxili usuari sistem experiment problem teleprocess precis comunic disposit usuari remot respons pel desenvolv manutenca tod red comunic entidad
+
+
+
+
+dicionari dad repositori centraliz inform sobr dad exempl signific relacion outr dad orig utiliz format auxil administr bas dad anal sistem program planej efet control avali sistem armazen utiliz dad
+
+
+
+
+documentofont registr original dev convert par linguag computacional
+
+
+
+
+element dad item especif inform parametr defin exempl numer cgc
+
+
+
+
+elementoschav control pont control sistem desempenh funca essencial par evit detect erros fas decis proced oper
+
+
+
+
+entrad dad metod introduz dad comput par process normal via termin micr
+
+
+
+
+
+firewall conjunt component hardwar softwar instal entr red proposit seguranc implement dest disposit pod preven reduz ataqu invasa bas dad corporat podes instal firewalls entr subred red intern firewalls extern par proteg red corporat ataqu vind exterior firewall compost duas part chok gat pod mesm comput comput diferent configur firewall aconselh desabilit servic red necessari par organiz
+
+
+
+
+
+
+
+gateway
+maquin conjunt maquin fornec servic entr duas red disposit usad traduca entr protocol aplic
+
+
+
+
+gerenci banc dad
+v sistem gerenci banc dad
+
+
+
+
+
+hardwar component fisic equip sistem process dad equip mecan eletron combin softwar program instruca etc implement sistem process inform eletron
+
+
+
+
+integr dad qualidad resistente dad perd tentat destruica alter acidental intencional qualidad dad mant comput conjunt represent univers complet dad origin base
+
+
+
+
+interconectiv habil conect eletronic equip exempl conectars red envi receb dad
+
+
+
+
+interoperabil
+habil sistem trabalh junt envi interpret mensagens compartilh dad etc
+
+
+
+
+
+log
+arquiv disc fit registr tod fat relevant relat process transaca muit util par recuper inform par fins auditor recuper falh
+
+
+
+
+nivel acess
+
+conjunt caracterist defin tip ativ permit pel usuari sistem computacional ex soment consult entrad dad alter configur etc
+
+
+
+
+plataform tecnolog bas sistem comput
+
+
+
+
+projet
+aplic recurs materi human objet especif mediant execuca sequenc preestabelec event principi mei fim
+
+
+
+
+projet sistem
+
+fas produca sistem elabor projet fisic logic sistem especific detalh par desenvolv
+
+
+
+
+proprietari gestor dad sistem setor respons pel manutenca utiliz determin sistem proprietari dev primeir respons pel seguranc dad
+
+
+
+
+recurs computacion element faz part sistem computacional inclu dad program equip instal
+
+
+
+
+registr grup fat camp inform relacion entr trat unidad
+
+
+
+
+risc efeit latent resultant exposica sistem situaca est vulner
+
+
+
+risc confiabil risc dad utiliz sej suficient confi par fim destin risc dad sej exat complet suficient par serv fundament par achad auditor
+
+
+
+
+said dad inform transfer part comput par mund extern
+
+
+
+
+seguranc computacional conceit tecnic med fisic administrat tecnic usad par proteg hardwar softwar dad sistem contr dan destruica acess manipul modific uso perd decorrent aca deliber acidental objet seguranc computacional assegur integr disponibil sistem sigil inform nel cont
+
+
+
+
+seguranc dad prevenca contr acess uso dad pessoal autoriz
+
+
+
+
+seguranc fisic med seguranc par proteg sistem inform predi equip contr incendi outr intemperi natur ataqu invasa acident geral feit atrav control administrat alarm tranc crach identific etc
+
+
+
+
+seguranc fisic logic sistem conjunt salvaguard tecnolog administrat estabelec aplic par proteca hardwar softwar dad contr alter acident proposit aind destruica
+
+
+
+
+sistem conjunt process element interrelacion funcion junt par ating determin result
+
+
+
+
+sistem process dad conjunt equip program process dad capaz aceit inform processal acord plan produz result desej
+
+
+
+
+sistem gerenci banc dad sgbd dbms
+program projet par permit criaca arquiv especial organiz bem entrad manipul remoca elabor relatori dad existent ness arquiv
+
+
+
+
+sistem onlin sistem dad introduz comput diret pel pont orig pod remot local said retorn imediat est mesm pont
+
+
+
+
+
+softwar
+conjunt program instruca oper comput dois tip softwar comput softwar sistem englob oper basic necess par oper hardwar exempl sistem operacional utilitari comunic monitor performanc editor compil etc softwar aplicat execut taref especif par auxili usuari ativ
+
+
+
+
+test execuca program process rotin intuit identific falh
+
+
+
+
+transaca conjunt ativ
+
+
+
+
+trilh auditor rotin especif program sistem par fornec inform inter auditor conjunt cronolog registr proporcion evidente funcion sistem registr pod utiliz par reconstru revis examin transaca desd entrad dad said result fin bem par rastr uso sistem detect identific usuari autoriz
+
+
+
+
+usuari qualqu pesso utiliz comput aplicat
+
+
+
+
+usuari dad
+funcionari terceir possu direit acess conced pel proprietari sistem
+
+
+
+
+utilitari program projet par otimiz facilit trabalh comput repar dan softwarehardwar ajud pratic program realiz configur cop seguranc varredur antivirus etc
+
+
+
+
+valid process avali sistem component durant final process desenvolv par determin est satisfaz requer especific process verific dad entrad aplic
+
+
+
+
+vulnerabil inform qualidad condica inform vulner determin part avali seguint aspect
+
+
+disponibil inform servic sistem program pod caus prejuiz estiv disponiv moment oportun
+
+
+confidencial inform pod caus prejuiz divulg
+
+
+integr inform pod caus prejuiz modific estiv incorret incomplet
+
+
+
+
+
+
+
+bibliograf
+
+
+
+
+
+
+
+
+part tecnolog inform ativ fiscaliz
+
+
+
+
+cipf comput audit
+londr rein unid
+
+
+
+
+
+guid to certification audit
+londr rein unid
+
+
+
+gao preparing documenting and referencing microcomput dat bas applications
+washingtondc eua
+
+
+
+assessing the reliability of comput processed dat
+washingtondc eua
+
+
+
+tcu manual auditor tribunal cont unia brasiliadf
+
+
+
+bibliograf
+
+
+
+
+
+
+part auditor sistem inform
+
+
+
+
+audinet lan audit progr in asap auditor sharing audit programs internet
+
+
+
+lan basic audit in asap auditor sharing audit programs internet
+
+
+
+cipf guid to certification audit
+londr rein unid
+
+
+
+comput audit
+londr rein unid
+
+
+
+gao
+assessing risks and returns guid evaluating federal agenci it investment decisionmaking
+washingtondc eua
+
+
+
+assessing the reliability of comput processed dat
+washingtondc eua
+
+
+
+
+federal information system control audit manual vol i financial statement audits
+washingtondc eua
+
+
+
+the system assessment framework
+washingtondc eua
+
+
+
+gil antoni loureir
+auditor comput
+paul atlas
+
+
+
+icas auditing small comput systems
+edinburgh escoc
+
+
+
+intosa information system security review methodology
+
+
+
+
+
+it audit training intosa
+barb
+
+
+
+jenkins brian an audit approach to computers
+london coopers lybrand
+
+
+
+tcu proced auditor auditor sistem pa
+brasiliadf
+
+
+
+
+
+
+
+relaca document elabor are fiscaliz control extern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+estrateg
+
+ultim atualiz
+
+
+
+
+
+estrateg atuaca par control gesta ambiental
+
+
+
+
+
+
+
+
+
+manu auditor
+
+ultim atualiz
+
+
+
+
+
+manual auditor
+
+
+
+
+
+
+
+manual auditor desempenh
+
+
+
+
+
+
+
+manual auditor sistem
+
+
+
+
+
+
+
+manual instruca tom cont especi
+
+
+
+
+
+
+
+manual instruca tom prest cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proced auditor
+
+ultim atualiz
+
+
+
+
+
+pa conveni
+
+
+
+
+
+
+
+pa sistem
+
+
+
+
+
+
+
+pa licit
+
+
+
+
+
+
+
+pa contrat administrat
+
+
+
+
+
+
+
+pa pessoal
+
+
+
+
+
+
+
+pa obras public
+
+
+
+
+
+
+
+pa imov
+
+
+
+
+
+
+
+pa public propagand
+
+
+
+
+
+
+
+pa unidad sedi exterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+roteir auditor
+
+ultim atualiz
+
+
+
+
+
+roteir acompanh via siaf
+
+
+
+
+
+
+
+roteir extraca dad siaf
+
+
+
+
+
+
+
+roteir extraca dad siap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tecnic auditor
+
+ultim atualiz
+
+
+
+
+
+tecnic entrev par auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outr public
+
+ultim atualiz
+
+
+
+
+
+conveni princip inform par estad municipi
+
+
+
+
+
+
+
+auditor tcu repartica mre exterior
+
+
+
+
+
+
+
+folh sugesta
+
+
+
+
+
+
+tcu preocupas constant aperfeico qualidad manu orient busc par iss ouv valios opinia publicoalv refer trabalh
+
+
+
+questionari segu referes especific manual auditor sistem distribu part setembr muit util par tcu leitor dest manual pud dispor minut par respond pergunt elenc refer questionari envial correi precis sel port pag pel tcu
+
+
+
+sugesta sobr est manual tamb pod envi segu
+
+
+
+email sauditcugovbr
+
+
+
+fax
+
+
+fon
+
+
+enderec tribunal cont unia tcu
+
+
+saudidipe
+
+
+setor administr federal sul lot
+
+
+cep brasil df
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+questionari avali
+
+manual auditor sistem
+
+
+
+final
+
+est questionari objet obter opinia leitor sobr manual auditor sistem vist aperfeico
+
+
+
+favor respond questa abaix assinal x alternat mais adequ desd agradec colabor
+
+
+
+esfer govern voc trabalh
+
+federal
+
+estadual df
+
+municipal
+
+orga voc trabalh
+
+pod legislat
+
+pod execut
+
+pod judiciari
+
+control intern
+
+outr especific
+
+part manual auditor sistem voc leu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tod
+
+itens tod part
+
+itens tod part
+
+lei atenca cad indic escolh pont escal melhor descrev opinia sobr manual auditor sistem marqu x opca melhor represent julgament
+
+
+
+concord integralmenteconcordaindiferentediscordadiscorda integral
+
+
+
+
+
+
+
+manual
+
+facil lid
+
+facil entend
+
+logic
+
+sucint
+
+complet
+
+util
+
+voc tom conhec manual auditor sistem
+
+
+
+quand receb
+
+divulg intern tcu
+
+mensag siaf
+
+pel internet
+
+pel imprens
+
+outr especific
+
+voc obtev manual auditor sistem
+
+solicit diret tcu
+
+download pel internet
+
+outr especific
+
+apresent segu comentari sugesta par aprimor qualidad manual auditor sistem cas sugesta par alteracaosupressaoadit itens verific favor preench quadr anex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+quadr sugesta
+
+manual auditor sistem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ptrbsb
+
+
+upactcu
+
+
+drbsb
+
+
+
+
+
+
+cart respost
+
+
+necessari sel
+
+
+
+sel pag
+
+
+tribunal cont unia
+
+
+brasiliadf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unidad secret tribunal cont unia
+
+
+
+final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+aprov manual auditor sistem tribunal cont unia
+
+

@@ -1,0 +1,7278 @@
+
+
+
+
+tribunal cont unia uso competente acord dispost paragraf unic regiment intern aprov pel tcu dezembr tend vist estud parec const process tc
+
+
+consider necess padroniz uniformiz proced formaliz deliber compreend elabor redaca acorda parec atos normat alter atualiz consolid normat bem instruca parec tecnic ambit tribunal
+
+
+consider dispost lei complement fevereir alter pel lei complement abril decret marc
+
+
+consider norm tecnic par envi eletron mat par public diari oficial unia aprov pel imprens nacional term port dezembr resolv
+
+
+capitul i
+disposica prelimin
+
+
+formaliz deliber compreend elabor redaca acorda parec atos normat instruca parec tecnic bem dem document subsidi fundament deliber ambit tribunal cont unia observ dispost nest
+
+
+par fins dispost nest entendes
+
+
+i instruca normat ato deliberat natur normatiz adot quand trat disciplin mat atinent
+
+
+atos gesta dev observ pesso fisic orga entidad sujeit jurisdica tribunal
+
+
+b relacion entr tribunal jurisdicion
+
+
+ii ato deliberat natur normatiz adot quand trat mat atinent
+
+
+aprov regiment intern ato definidor estrutur competente atribuica funcion tribunal unidad secret dem servic auxili
+
+
+b outr process natur administrat intern criteri tribunal dev revestirs dess form exempl mat referent plan estrateg fiscaliz
+
+
+iii decisa normat ato deliberat natur normatiz adot quand trat fixaca criteri orient cas especif abrangente restrit justifiqu expedica instruca normat
+
+
+iv parec ato deliberat utiliz quand trat
+
+
+cont govern federal
+
+
+b outr cas lei iniciat propr dev tribunal manifest
+
+
+v acorda quand trat deliber mat competente tribunal cont unia enquadr anterior
+
+
+vi port ato carat normat emit par baix instruca estabelec proced relacion regulament mat norm hierarqu superior definica clientel distribuica organiz ativ bem pratic atos gesta recurs materi financeir pessoal nomeaca exoner design substituica aposentador deleg competente aplic penal
+
+
+vii ordem servic ato emit par constitu grup trabalh determin alter lotaca design servidor par realiz estud pesquis
+
+
+paragraf unic form deliber refer i iv competente exclus tribunal plen refer v competente tribunal plen cam atos refer vi vii constitu atribuica president ministr auditor procuradorgeral coorden comissa coorden geral titul unidad basic tecnicoexecut equivalent
+
+
+capitul ii
+atos normat
+
+
+
+seca i
+regr ger elabor format atos
+
+
+
+editor text ato normat dev feit utilizandos obrigatori versa softwar indic pel secret tecnolog inform setec estil padra format defin conform dispost nest
+
+
+paragraf unic estil padra necessari format atos normat estara cont model denomin atonormativodot dispon red tcu par uso pel arquivonov
+
+
+atos trat est observ padra configur pagin defin pel utiliz papel branc tamanh duzent novent set milimetr altur duzent dez milimetr largur sem medianiz largur text dezesset centimetr mei marg esquerd dois centimetr mei marg direit centimetr marg superior dois centimetr mei marg inferior centimetr mei marg cabecalh centimetr mei marg rodap centimetr margens compativ maior tecnolog impressa
+
+
+paragraf unic leiaut pagin alinh vertical superior orient impressa sempr posica retrat
+
+
+text atos trat est dev acompanh cabecalh rodap
+
+
+format cad paragraf text aplic mediant utiliz estil predefin evitandos qualqu outr tip format excet par tabel observandos
+
+
+i nom estil format correspond tipolog paragraf text tipic ato normat questa preced caract vist posicion superior list estil dispon editor text excetuandos estil cabecalh rodap
+
+
+ii estil configur hierarqu mod caracterist format sej herd quand convenient long cade tip paragraf text
+
+
+iii estil bas par formaca dem estil normal receb format defin alinh esquerd font tim new roman doz pont espac simpl entr linh
+
+
+iv elabor tabel utiliz estil normal aplic format manual diret sobr paragraf text vist hav necess aplic format apropri par cad cas particul tabel
+
+
+v tecl atalh par estil dev defin mod facilit editor text
+
+
+vi palavr expressa latim outr idiom estrangeir format mediant aplic estil termoestrangeir defin estil tip caract aplic negrit sem verific idiom
+
+
+vii aspas usad soment par destac expressa citaca
+
+
+cabecalh constitu tabel bord ocult duas celul horizontal
+
+
+primeir celul destin logotip tribunal cont unia largur centimetr mei
+
+
+segund celul destin tribunal cont unia letr maiuscul facult segund linh identific unidad emitent ato normat soment inici maiuscul
+
+
+estil cabecalh receb format defin alinh esquerd font tim new roman oit pont negrit espac simpl entr linh
+
+
+cabecalh inser centimetr mei bord superior papel
+
+
+rodap cont soment dad necessari suficient complet identific document red comput tribunal servidor arquiv unidad microcomput nom arquiv text ger automatic pel inserca camp propri autom
+
+
+paragraf unic estil rodap receb format caix baix alinh esquerd font tim new roman pont espac simpl entr linh
+
+
+
+seca ii
+projet ato normat
+
+
+
+projet ato normat estrutur tres modul basic
+
+
+i prelimin epigraf ement preambul enunci objet indic ambit aplic disposica normat
+
+
+ii normat norm regul objet defin part prelimin
+
+
+iii final disposica sobr med necess implement norm constant part normat disposica transitor cas clausul vigenc clausul revog quand coub
+
+
+paragraf text atos normat format mediant aplic estil format propri cad tipolog tend estil bas text orig estil normal aplic adicional alinh justific font tim new roman doz pont espac simpl entr linh espac relat paragraf posterior seis pont recu especial dois centimetr primeir linh sem tabul sem control orfa viuv
+
+
+epigraf cont identific singul ato normat par fins public referente form pel titul designat espec normat separ hifen segu pel sigl tribunal unidad autor ato quand cas virgul pel dat promulg ato tcu mai port segecex mai
+
+
+estil epigraf format mediant aplic caix alt sem negrit alinh centraliz espac relat paragraf anterior pont correspond seis espac simpl cinc centimetr mei bord superior papel
+
+
+quand espac relat paragraf anterior descrit dest prejudic estet document opcional pod utiliz espac divers mais apropri
+
+
+port ordens servic assin pel president tribunal dev utiliz sigl tcu
+
+
+ement cont explicit conteud ato normat mod concis form titul fim permit imediat conhec mat disciplin dev guard estreit correl ide central text bem ato propost ved uso expressa outr providente
+
+
+paragraf unic estil ement receb format adicion recu esquerd oit centimetr mei propici largur text nov centimetr espac pont relaca epigraf inici preambul correspond dois espac simpl depo
+
+
+preambul indic autor ato graf caix alt fundament legal graf caix baix sem negrit tribunal cont unia uso competente president tribunal cont unia uso atribuica
+
+
+opcional pod inser paragraf adicion preambul par registr motiv emissa ato normat sempr inici pel expressa consider finaliz pont virgul
+
+
+final preambul inser expressa resolv
+
+
+preambul ond melhor ajust dev const identific process vinculas propost ato normat mediant inserca expressa tend vist estud parec const process tc
+
+
+estil preambul receb format adicion negrit numer
+
+
+primeir text indic objet ambit aplic ato normat
+
+
+ambit aplic ato normat estabelec form especif conform conhec tecnic cientif respect are
+
+
+ato normat unic objet excet quand trat consolid
+
+
+ato normat soment cont mat vincul afin pertinente conexa objet enunci respect ement
+
+
+paragraf unic mesm assunt disciplin mais ato normat excet quand remissa express destin complement outr consider basic
+
+
+
+seca iii
+articul tecnic redacional
+
+
+
+text atos trat est observ seguint
+
+
+i unidad basic articul pod desdobrars paragraf
+
+
+ii paragraf pod desdobrars
+
+
+iii pod desdobrars
+
+
+iv pod desdobrars itens
+
+
+v redaca paragraf disposit norm inici verb infinit
+
+
+vi format feit mediant aplic estil design pel abreviatur segu espac branc separ numer ordinal non cardinal part dest acompanh pont separ text dois espac branc separ sem trac outr sin
+
+
+vii text inicias letr maiuscul termin pont cas desdobr dois pont
+
+
+vii format paragraf unic feit pel aplic estil paragrafoun design pel expressa paragraf unic segu pont separ text dois espac branc separ
+
+
+ix format paragraf feit pel aplic estil paragraf indic pel simbol segu espac branc separ numer ordinal non cardinal part dest acompanh pont separ text dois espac branc separ
+
+
+x text paragraf unic paragraf inicias letr maiuscul termin pont cas desdobr dois pont
+
+
+xi format design algar roman segu espac branc separ hifen nov espac branc separ feit pel aplic estil
+
+
+xii text inici letr minuscul men primeir palavr sej nom propri final pontu pontoevirgul excet ultim encerr pont doispont contiv desdobr
+
+
+xii format feit pel aplic estil mediant enumer graf letr minuscul segu alfabet acompanh parentes separ text espac branc separ
+
+
+xiv text inicias letr minuscul salv quand trat nom propri termin pontoevirgul dois pont quand desdobr itens pont cas sej ultim anteced paragraf
+
+
+xv format itens feit pel aplic estil item mediant enumer graf algar arab segu pont separ text espac branc separ
+
+
+xvi text itens inici letr minuscul excet quand trat nom propri termin pontoevirgul salv ultim cas anteced paragraf encerr pont
+
+
+xvi remissa outr text normat empreg form abrevi segu numer correspondent etc quand numer substitu adjet palavr dev graf extens mencionandos expressa anterior seguint conform cas
+
+
+xvii primeir remissa text legal ordem execuca citaca clausul revogator dat ato normat graf extens lei dezembr dem remissa citaca feit form reduz lei
+
+
+xix text ato normat dev evit remissa numer disposit outr text normat dandos preferente explicit minim conteud form dispens consult disposit integrant propr norm
+
+
+xx referente numer percentu graf extens excet dat numer ato normat cas houv prejuiz par compreensa text
+
+
+xxi valor monetari express algar arab r segu indic extens entr parentes tres mil setecent cinquent quatr rea vint centav recomendandos
+
+
+uso espac separ ctrlshiftespac par separ r numer express valor mod simbol fiqu linh valor outr
+
+
+b uso hifen separ ctrlshifthifen par facilit compreensa principal separ numer final linh digit verific inici outr exempl cpf cont banc
+
+
+xxi dat observ seguint form
+
+
+quand graf extens
+
+
+marc marc
+
+
+mai mai
+
+
+b quand graf form abrevi
+
+
+
+
+
+xxii indic ana dev graf sem pont entr cas milh centen contrari numer leis
+
+
+xxiv agrup pod constitu subseca subseca seca seca capitul capitul titul titul livr livr part
+
+
+xxv agrup refer anterior tamb pod divid form disposica prelimin disposica ger disposica fin disposica transitor
+
+
+xxv capitul titul livr part separ quebr linh manual shiftent graf letr maiuscul sem negrit identific algar roman
+
+
+xxvi part pod subdividirs part geral especial part express numeral ordinal extens
+
+
+xxvii subseca seca graf inici maiuscul negrit identific algar roman tamb negrit separ text quebr linh manual shiftent
+
+
+xxix dev usad espac simpl entr part livr titul capitul seca paragraf itens
+
+
+send necessari acrescim disposit text est conserv form disposit preced segu letr maiuscul b seca ia capitul iib
+
+
+paragraf unic inserca unidad inferior paragraf item sequenc existent dev feit form estabelec dest renumer conv coloc nov unidad final sequenc
+
+
+vigenc ato dev indic form express send regr geral entrad vigor dat public estabelecendos par atos maior repercussa fixaca period vacanc mod contempl praz razoavel par del tenh ampl conhec
+
+
+paragraf unic projet ato normat maior repercussa utiliz expressa est instruca normat entrar vigor decorr cit numer dias public oficial
+
+
+contag praz par entrad vigor atos normat estabelec period vacanc incluira dat public ultim dia praz entrand vigor dia subsequent
+
+
+clausul revog quand necessari cit express disposica revog ved utiliz expressa revogams disposica contrari
+
+
+nom signatari format pel estil signatari dev inser form centraliz letr maiuscul quatr espac simpl final text ato quand identific respect carg const preambul dev aparec apen inicial maiuscul nov linh obtid quebr manual shiftent
+
+
+bord tabel dev simpl facult uso bord ocult quand convenient ved uso mescl vertical
+
+
+paragraf unic dev evit conteud celul sej separ quebr pagin
+
+
+transcrica bloc text normat citaca format pel aplic estil text citaca est ultim defin estil caract ital sem recu adicional
+
+
+fic ved utiliz recurs tais comentari not hyperlinks marcador automat paragraf alinh espac text ocult control alter not rodap marc tabul mescl vertical celul tabel
+
+
+paragraf unic elabor relatori parec quand necessari utiliz not fim graf final text
+
+
+recu especi primeir linh format mediant aplic estil format ved uso recu negat inserca espac branc tabul par simul recu
+
+
+pod utiliz espac retorn carr enter par realiz alinh text vertical
+
+
+paragraf unic alinh vertical colun dev obtid pel uso tabel bord aparent ocult conform conveniente
+
+
+caract especi simbol inexistent font tim new roman soment dev ger pel font symbol wingdings
+
+
+disposica normat redig clarez precisa ordem logic observandos seguint
+
+
+i par obtenca clarez
+
+
+usar palavr expressa sent comum salv quand norm vers sobr assunt tecnic hipotes empreg nomenclatur propr are estej regulament
+
+
+b usar fras curt concis
+
+
+c constru oraca ordem diret evit precios neolog adjetiv dispens
+
+
+d busc uniform temp verbal tod text norm dand preferente temp present futur simpl present
+
+
+usar recurs pontuaca form judici evit abus carat estilist
+
+
+ii par obtenca precisa
+
+
+utiliz linguag tecnic comum ensej perfeit compreensa objet text evidenci conteud alcanc pretend
+
+
+b express ide quand repet text mei mesm palavr evit empreg sinonim proposit mer estilist
+
+
+c evit empreg expressa palavr conf dupl sent text
+
+
+d escolh term tenh mesm sent signific maior part territori nacional evit uso expressa loc region
+
+
+usar apen sigl consagr pel uso observ principi primeir referente text sej acompanh explicit signific
+
+
+f utiliz conjunca penultim item conform sequenc disposit sej respectiv cumulat disjunt
+
+
+g graf remissa atos normat seguint form
+
+
+tcu dezembr ement preambul primeir remissa clausul revog
+
+
+tcu dem cas
+
+
+iii par obtenca ordem logic
+
+
+reun categor agreg subseca seca capitul titul livr apen disposica relacion especific conteud categor
+
+
+b restring conteud cad unic assunt principi
+
+
+c express aspect complement norm enunci exceca regr ess estabelec mei paragraf
+
+
+d apresent element discrimin paragraf quand assunt enunci text paragraf requer form
+
+
+
+seca iv
+numer atos
+
+
+
+decisa normat instruca normat redaca final aprov pel plenari assin pel president numer pel secret geral sessa sequenc numer distint continu seri inici
+
+
+acorda profer process constant paut relaca numer pel secret geral sessa sequenc numer distint seri anu segund orga deliberat houv aprov independent natur sessa
+
+
+sumul jurisprudente tribunal cont unia tera numer sequencial continu seri inici
+
+
+
+seca v
+alter atualiz atos normat
+
+
+
+alter atos trat est farse mediant
+
+
+i reproduca integral text quand quantidad alter requeir
+
+
+ii revog parcial
+
+
+iii modific substituica supressa acrescim disposit
+
+
+hipotes previst i dest hav necess edica nov ato normat revog express ato preexistent
+
+
+hipotes ii public subsequent ato normat sofr revog parcial disposit revog dev cont expressa revog segu identific ato revogatori
+
+
+hipotes iii observ seguint regr
+
+
+i numer disposit alter pod modific
+
+
+ii ved tod renumer subseca seca capitul titul livr part atos normat vigor dev utiliz mesm numer disposit imediat anterior segu hifen letr maiuscul ordem alfabet tant quant necess par identific acresc conform dispost dest
+
+
+iii permit renumer paragraf itens desd sej inconvenient acrescim nov unidad final sequenc
+
+
+iv ved aproveit numer disposit revog
+
+
+v disposit sofr modific substituica acrescim redaca dev identific final letr ac acresc nr nov redaca entr parentes caix alt exempl ac nr
+
+
+ocorrente fat previst iii dest dev graf font tim new roman caix baix corp estil ital exempl nr instruca normat x dou
+
+
+ement ato modific outr norm identific mat est send alter
+
+
+ato normat tenh sofr sucess significat alter text atualiz republic mod facilit conhec integral conteud
+
+
+
+seca vi
+consolid atos normat
+
+
+
+consolid atos normat consistira aglutin tod text atos normat trat mesm mat assunt vincul afin pertinente conexa
+
+
+paragraf unic consolid refer est constituira ato nov cont disposit revog express atos aglutin
+
+
+text consolid atos normat dev mant tant quant possivel fidel text atos consolid send recomend soment alter seguint teor
+
+
+i introduca eventu nov divisa text normat bas
+
+
+ii diferent coloc numer consolid
+
+
+iii fusa disposit signific ident
+
+
+iv alter denomin orga unidad carg etc
+
+
+v atualiz valor pecuniari bas index padra aquel pel lei estipul
+
+
+vi atualiz term proced antiqu mod escrit ultrapass
+
+
+vii garant homogen terminolog text
+
+
+vii elimin ambigu decorrent mau uso vernacul
+
+
+ix declar express revog disposit implicit revog atos posterior
+
+
+preambul text consolid dev cont fundament qualqu supressa alter realiz atos normat origin esclarec motiv necess justifiqu
+
+
+capitul iii
+deliber mat competente
+
+
+
+seca i
+process inclu paut
+
+
+
+elabor acorda process inclu paut dev observ requisit previst lei organ regiment intern bem model orient constant anex i vii xvii dest
+
+
+relatori relator elabor observanc requisit previst lei organ regiment intern bem model orient constant anex xvi xvii dest destacandos
+
+
+i epigraf cont grup class assunt orga deliber numer process principal apens anex indic orga entidad jurisdicion identific responsavel interess respect cpf identific advog constitu aut respect numer inscrica oab exercici period refer quand cas
+
+
+ii sumari cont objet pont analis indic conclusa merit relator conteud propost deliber
+
+
+iii conclusa control intern instruca parec titul unidad tecnic representant ministeri public junt tribunal quand cas
+
+
+hav advog constitu aut gabinet relator dev consign obrigatori nom respect numer inscrica oab list destin constituica paut public diari oficial unia boletim tribunal cont unia
+
+
+
+seca ii
+process inclu relaca
+
+
+
+deliber process inclu relaca formaliz form acorda assin pel relator pel president respect colegi pel representant ministeri public
+
+
+paragraf unic elabor acorda refer dest dev observ requisit previst lei organ regiment intern bem model orient constant anex vii xiv xvii dest
+
+
+process inclu relaca submet deliber colegi receb gabinet relator cop deliber excert deliber indic anex xv dest
+
+
+
+seca iii
+process inclu paut relaca
+
+
+
+acorda constant process inclu paut relaca dev constituirs pec processual capaz possibilit complet entend dev nel transcrit integr determin outr providente cabiv
+
+
+paragraf unic anex constant dest bem estil padra necessari format deliber mencion dest estara cont model denomin acordaodot disponibiliz red tcu pel secret tecnolog inform setec par uso pel arquivonov
+
+
+correca materi acorda efetu mediant relaca submet respect colegi observandos obrigatori utiliz model referent anex xiv dest
+
+
+gabinet relator dev disponibiliz mei eletron antecedente minim dois dias ute sessa julgament apreci process arquiv relatori facultativ vot text respect acorda propost process inclu paut bem arquiv referent process inclu relaca
+
+
+document refer dest dev formaliz consonanc criteri format apresent tecnic redacional estabelec est pod quand adot padroniz requer restitu gabinet orig
+
+
+cas anteprojet propost sumul instruca normat decisa normat arquiv cont norm propost respect justific dev tamb disponibiliz antecipad mei eletron
+
+
+capitul iv
+disposica ger fin
+
+
+minut atos normat vers sobr estrutur competente nomenclatur unidad integrant secret dest tribunal exam pel secret planej gesta seplan conform dispo tcu dev submet consultor jurid par exam juridic document
+
+
+exam refer dest dev feit praz maxim dez dias cont dat receb unidad
+
+
+aprov pel titul unidad mencion dest reunia comissa coorden geral desd convoc par ess final suprira respect exam
+
+
+instruca normat decisa normat sobr mat indic ii dest independent divulg atas public diari oficial unia boletim tribunal cont unia
+
+
+paragraf unic abrang nest public apen boletim tribunal cont unia
+
+
+envi mat mei eletron par fins public diari oficial unia dev observ norm especif aprov pel imprens nacional
+
+
+
+paragraf unic quand imprescind inserca illustr deliber utiliz cor pret eou tons cinz grayscal contr fund branc prez pel nitidez conteud public
+
+
+elabor sumul dev observ model orient constant anex xvi xvii dest
+
+
+elabor ement acorda prolat pel colegi par fins sistematiz divulg jurisprudente tribunal dev observ orient constant manual especif elabor pel secretariageral sessa aprov mediant port president tribunal cont unia nr btcu
+
+
+
+cab secret geral sessa conform previst vi tcu
+
+
+i elabor ement refer anterior
+
+
+ii coorden trabalh atualiz orient model anex est mantendo disponiv red tcu apoi secret tecnolog inform setec
+
+
+iii orden republic normat alter
+
+
+aplicas coub dispost nest port ordens servic edit ambit tribunal atas sessa colegi bem comunic ofici exped
+
+
+port ordens servic tera sequenc numer distint seri anu acord respect autor emitent dev traz obrigatori epigraf identific unidad emissor ato mediant coloc respect sigl
+
+
+port carat normatiz exig formul ement
+
+
+unidad tecnic secret tribunal adot med necess vist aplic estil padra format dem disposica previst nest instruca parec tecnic elabor ambit respect competente
+
+
+document refer dest dev formaliz consonanc criteri format apresent tecnic redacional estabelec est dev quand adot padroniz requer restitu orig
+
+
+secret geral control extern segecex secret planej gesta seplan secret tecnolog inform setec conjunt fic encarreg disponibiliz red intern tribunal tod model instruca relatori aprov uso pel unidad tecnic devid adequ format previst present
+
+
+correca err material ato normat sem efeit merit farse mediant apostil public diari oficial unia boletim tribunal cont unia conform cas not indicat correca term retific utilizandos preferente expressa ond le leias
+
+
+fic president tribunal cont unia autoriz promov sempr necessari mediant port atualiz model orient constant anex est
+
+
+est entr vigor dat public
+
+
+fic revog administrat tcu outubr novembr tcu setembr abril outubr port tcu janeir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr formaliz deliber atos document exped pel tribunal cont unia
+
+anex
+
+
+
+
+
+
+
+i paut cont regul quitaca plen
+
+
+
+ii paut cont regul ressalv quitaca determin
+
+
+
+iii paut irregular cont debit aplic mult
+
+
+
+iv paut irregular cont sem debit aplic mult
+
+
+
+v paut irregular cont quitaca respons ant recolh debit
+
+
+
+vi paut outr deliber process natur divers sem mult
+
+
+
+vii paut recurs process natur divers
+
+
+
+vii relaca cont regul regul ressalv
+
+
+
+ix relaca quitaca ant recolh integral debit
+
+
+
+x relaca cont irregular debit
+
+
+
+xi relaca rejeica aleg defes boaf
+
+
+
+xii relaca fiscaliz atos contrat
+
+
+
+xii relaca atos admissa pessoal concessa
+
+
+
+xiv relaca correca err material
+
+
+
+xv excert deliber par junt process inclu relaca
+
+
+
+xvi sumul
+
+
+
+xvi relatori vot propost deliber
+
+
+
+xvii orient relat anex i xvi
+
+
+
+xix ement
+
+
+
+xx orient relat model anex xix
+
+
+
+
+
+anex i tcu
+
+
+paut cont regul quitaca plen
+
+
+
+nr port btcu
+
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+
+
+acorda
+
+
+vist relat discut aut responsabil relat exercici period
+
+
+consider
+
+
+consider
+
+
+consider aind
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam ant raza expost pel relator fundament i i i lei julh cc i i regiment intern julg regul cont responsavel srs responsavel indic item supr dandoselh quitaca plen
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+fui present
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex ii tcu
+
+
+paut cont regul ressalv quitaca determin
+
+
+
+nr port btcu
+
+
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil derelat exercici period
+
+
+consider
+
+
+consider
+
+
+consider aind
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam ant raza expost pel relator
+
+
+fundament i ii ii lei julh cc i ii regiment intern julg regul ressalv cont responsavel srs responsavel indic item supr dandoselh quitaca
+
+
+determin
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+anex iii tcu
+
+
+paut irregular cont debit aplic mult
+
+
+
+nr port btcu
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil relat exercici period
+
+
+consider process devid organiz apur debit contr responsavel valor r r provenient
+
+
+consider devid cit responsavel
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam fundament i iii b c d conform cas cas lei julh cc iii mesm lei i i ii iii iv iii regiment intern conform cas
+
+
+
+julg irregul cont responsavel srs ocupant doa carg funca public conform cas condica condenal pagament quant r fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional entidad x atualiz monetari acresc jur mor calcul part dat recolh form previst legislacion vigor
+
+
+aplic responsavelis mult previst lei julh cc regiment intern valor r fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div tesour nacional atualiz monetari desd dat present acorda efet recolh pag venciment form legislacion vigor
+
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo
+
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+anex iv tcu
+
+
+paut irregular cont sem debit aplic mult
+
+
+
+nr port btcu
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil derelat exercici deou period
+
+
+consider
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas fundament i iii b c conform cas lei julh cc paragraf unic iii mesm lei i i ii iii iv iii regiment intern cas
+
+
+julg irregul cont responsavel srs ocupant doa carg funca public conform cas condica aplicarlh mult previst i lei cc i regiment intern valor r rea fixandolh praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div tesour nacional atualiz monetari desd dat present acorda efet recolh pag venciment form legislacion vigor
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo form legislacion vigor
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+anex v tcu
+
+
+
+
+paut irregular cont quitaca responsavel ant recolh integral debit
+
+
+
+nr port btcu
+
+
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+
+
+acorda
+
+
+
+vist relat discut aut responsabil derelat exercici deou period
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas fundament i iii b c conform cas lei julh cc iii mesm lei i i ii iii iv conform cas iii regiment intern
+
+
+julg irregul cont responsavel srs ocupant doa carg funca public conform cas condica cpf
+
+
+dar quitaca responsavel ant recolh integral debit term lei cc regiment intern
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+anex vi tcu
+
+
+paut outr deliber process natur divers sem mult
+
+
+
+nr port btcu
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+
+
+process tc sigil quand cas
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+part
+
+
+
+responsaveliscpf
+
+
+interess conform casocpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public
+
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+
+
+acorda
+
+
+
+
+
+vist relat discut aut
+
+
+consider
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas diant raza expost pel relator transcrev deliber tod determin integr alem outr providente cabiv sem faz remissa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aplic responsavel srs mult previst ii iii vii conform cas lei cc ii iii vii conform cas regiment intern valor r rea fixandolh praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div tesour nacional atualiz monetari desd dat present acorda efet recolh pag venciment form legislacion vigor quand cas
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo form legislacion vigor
+
+
+
+levant chancel sigil reca sobr aut quand cas
+
+
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+especific quorum
+
+
+
+ministr present
+
+
+ministr vot venc quand cas
+
+
+ministr alegou imped sessa quand cas
+
+
+ministr votou ressalv quand cas
+
+
+auditor present
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+anex vii tcu
+
+
+paut recurs process natur divers
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+process tc
+
+
+grupocl i recurs
+
+
+
+responsavel interess conform cas cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut
+
+
+consider
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas diant raza expost pel relator emtranscrev deliber tod determin alem outr providente cabiv integr sem faz remissa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ata plenari sessa extraordin carat reserv
+
+
+
+ata plenari sessa ordin quand cas
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+fui present
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+anex portariatcu janeir
+
+
+
+
+anex vii tcu
+
+
+nr port btcu
+
+
+relaca cont regul regul ressalv
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tom prestaca cont
+
+
+cont regul quitaca plen
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament i i i lei julh cc i i regiment intern julg cont segu relacion regul dar quitaca plen responsavel acord parec emit aut
+
+
+
+vincul cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+tc
+
+
+
+
+
+
+vincul cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+cont regul ressalv quitaca determin
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament i ii ii lei julh cc i ii regiment intern julg cont segu relacion regul ressalv dar quitaca responsavel conform cas gestor responsavel pel almoxarif mand faz quand cas seguint determinacaoo eou recomendacaoo suger parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+fui present
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+anex ix tcu
+
+
+relaca quitaca ant recolh integral debit
+
+
+
+nr port btcu
+
+
+
+
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament lei julh cc regiment intern dar quitaca responsavel ant recolh integral debit mult conform cas foir imput comin acord parec emit aut
+
+
+
+
+
+vinculacaos cas
+
+
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+
+quitaca relat itemns acorda profer pel plenari primeir segund cam sessa conform relaca cas ata
+
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+vinculacaos cas
+
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+
+quitaca relat itemns acorda profer pel plenari primeir segund cam sessa conform relaca cas ata
+
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+
+
+anex x tcu
+
+
+relaca cont irregular debit
+
+
+
+nr port btcu
+
+
+
+
+
+
+
+
+
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+
+
+relator
+
+
+
+
+
+tip process
+
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider process devid organiz apur debit contr responsavel valor indic provenient consider devid cit responsavel consider parec coincident unidad tecnic ministeri public sent irregular present cont debit responsavel acord unanim maior conform cas quant process segu relacion fundament i iii b c d conform cas iii lei cc i i ii iii iv conform cas iii regiment intern julg irregul cont responsavel abaix indic condenal pagament quant correspondent fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional entidad x acresc atualizacaoo monet jur mor calcul part dat indic dat recolh form previst legislacion vigor abatendos oportun valor ressarc cas autoriz descont div remuner servidor observ dispost lei dezembr quand cas determin desd log econom processual term lei cc regiment intern arquiv process responsavel constant tabel segu sem julgament merit sem cancel div determin inclusa nom responsavel cadastr especif dest tribunal
+
+
+
+
+
+
+vinculacaos cas
+
+
+
+
+
+
+
+
+
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel ocupant doa carg funca public conform cas condica cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+
+valor original debit dat orig debit
+
+
+valor ressarc cas dat ressarc
+
+
+tce arquiv sem julgament merit dad inform pel orig
+
+cpf nom
+
+valor original dan
+
+dat
+
+valor ressarc
+
+dat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ ordem alfabet
+
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel ocupant doa carg funca public conform cas condica cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+
+valor original debitodat orig debit
+
+
+valor ressarc cas dat ressarc
+
+
+tce arquiv sem julgament merit dad inform pel orig
+
+cpf nom
+
+valor original dan
+
+dat
+
+valor ressarc
+
+dat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ ordem alfabet
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+anex xi tcu
+
+
+nr port btcu
+
+
+
+relaca rejeica aleg defes boaf
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenarioprimeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider parec coincident unidad tecnic ministeri public sent rejeica aleg defes considerandoboaf acord unanim maior conform cas quant process segu relacion fundament paragraf unic lei cc regiment intern rejeit aleg defes apresent pel responsavel indic porquant apresentou element comprov regul aplic recurs repass mediant comunic responsavel inteir teor present acorda fixandolh nov improrrog praz quinz dias cont cienc par efetu comprov perant est tribunal iii regiment intern recolh div cofr tesour nacional entidad x importanc original atualiz monetari acresc jur mor dev part dat indic dia efet recolh form legislacion vigor abatendos oportun valor ressarc cas cientific responsavel liquid tempest debit atualiz monetari sane process respect cont pod julg regul ressalv dandoselh quitaca comprov boaf term regiment intern
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici exam quand cas segu descrica sucint assunt
+
+
+advog constitu aut
+
+
+
+vinculacaos cas
+
+
+
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+advog constitu aut
+
+
+
+valor original debitodat orig debit
+
+
+valor ressarc casodat ressarc
+
+
+
+vinculacaos cas
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+anex xii tcu
+
+
+nr port btcu
+
+
+relaca fiscaliz atos contrat
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas quant process segu relacion fundament i ii iv lei julh cc i ii vii regiment intern acord parec emit aut indic conteud deliber merit bem tod determin eou recomend cas
+
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+anex xii tcu
+
+
+nr port btcu
+
+
+relaca atos admissa pessoal concessa
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament v lei julh cc vii regiment intern consider legal par fins registr atos admissa pessoal concessa segu relacion fazendos cas seguint determinacaoo eou recomendacaoo suger parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc nom interess
+
+
+tc nom interess
+
+
+advog constitu aut
+
+
+
+determin eou recomend quand cas
+
+
+x
+
+
+x
+
+
+
+vinculacaos cas
+
+
+
+tc nom interess
+
+
+tc nom interess
+
+
+advog constitu aut
+
+
+
+determin eou recomend quand cas
+
+
+x
+
+
+x
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+anex xiv tcu
+
+
+nr port btcu
+
+
+relaca correca err material
+
+
+
+relaca
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam fundament v d regiment intern cc enunci sumul jurisprudente predominant tribunal acord unanim retific inexatida material acorda tcu plenari primeir segund cam prolat sessa ata relativ subit x ond le leias mantendos dem term acorda ora retific acord parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+advog constitu aut
+
+
+
+ata plenari primeir segund cam
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+
+
+
+
+anex xv tcu
+
+
+excert deliber par junt process inclu relaca
+
+
+
+
+excert acorda
+
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament lei julh cc regiment intern
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+transcrev respect determin eou recomend existent aut
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+gabinet relator
+
+
+
+
+
+
+
+
+
+
+
+nom
+
+
+chef gabinet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anex xvi tcu
+
+
+sumul
+
+
+
+
+sumul
+
+
+
+
+text
+
+
+
+
+
+
+
+
+
+
+
+
+fundament legal
+
+
+
+constituica
+
+
+lei julh
+
+
+lei
+
+
+
+precedent
+
+
+
+proc tc sessa ata plenari primeir segund cam in dou pags
+
+
+proc tc sessa ata plenari primeir segund cam in dou pags
+
+
+proc tc sessa ata plenari primeir segund cam in dou pags
+
+
+
+
+
+
+
+
+anex xvi tcu
+
+
+relatori vot propost deliber
+
+
+
+nr port btcu
+
+
+
+
+
+
+grup ii class ii plenari cam cam
+
+
+tc
+
+
+natur tom cont especial
+
+
+unidad prefeitur municipal
+
+
+respons cpf
+
+
+
+
+
+
+sumari conveni tom cont especial omissa prest cont responsabiliz ilegitim atual prefeit citaca exprefeit conveni indic desvi final pel control intern parec tecnic orga convenent atest cumpriment met cont regul
+
+
+
+
+
+relatori
+
+
+
+
+
+tratas tom cont especial prefeitur municipal instaur fac atend final pactu mediant conveni omissa apresent cont relat conveni instrument celebr ministeri respectiv
+
+
+parec control internoqu trat cont anu
+
+
+orga control intern ministeri emit certific auditor pel irregular cont responsavel srs responsabilizando
+
+
+parec instruca
+
+
+anal respons pel instruca observ fat origin present tom cont especial ocorr durant gesta sr prop
+
+
+citaca sr
+
+
+b citaca prefeitur municipal par recolh tesour nacional
+
+
+titul unidad tecnic fls consider inform constant pronunci ministerial recurs propo dissent part conclusa instruca
+
+
+sej cont referent conveni celebr
+
+
+b sej consequente omissa apresent cont conveni celebr
+
+
+parec ministeri public
+
+
+aut represent pel procuradorgeral subprocuradorgeral dr dissent conclusa oferec pel secex opin pel citaca sr par aleg direit
+
+
+
+
+
+
+
+
+
+vot propost deliber
+
+
+
+
+
+tce ora examin instaur decorrente omissa apresent cont relat conveni firm valor r glos despes efetu pel respons cont conveni celebr
+
+
+dess form acolh part parec unidad tecnic vot sent tribunal adot acorda ora submet deliber dest colegi
+
+
+
+
+
+tcu sal sessa ministr lucian branda alves souz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nom
+
+
+relator
+
+
+
+
+
+
+
+
+
+anex xvii tcu
+
+
+
+orient ger especif
+
+
+
+i orient ger
+
+
+evit sublinh palavr expressa
+
+
+b usar negrit soment par destac palavr expressa latim outr idiom
+
+
+c usar aspas soment par destac expressa citaca transcrica
+
+
+d usar dat abrevi seguint format
+
+
+utiliz sempr mesm format par process tc mantendos inclusiv zer esquerd
+
+
+f numer acorda relaca seri sequenci anu sem utiliz zer esquerd
+
+
+
+
+
+ii orient especif
+
+
+
+preench camp propri nom complet part respect cpf cnpj conform cas sej tod responsavel pesso fisic jurid direit public priv sujeit jurisdica tribunal hav tod interess aquel reconhec pel relator pel tribunal raza legitim par interv process
+
+
+
+cas process cont inclu tamb inform relat ocup carg funca public epoc fat par permit registr nom respons cadastr respons cont julg irregul cas refira carg funca publico inform condica posica profissional respons interess agiu representant legal dirigent empres priv etc
+ac port btcu
+
+
+
+
+
+
+
+
+usar expressa atu sempr inexist parec ministeri public unidad tecnic eou advog constitu aut
+
+
+
+
+
+
+class assunt plenari regiment intern
+
+
+class i recurs
+
+
+class ii ped inform outr solicit formul pel congress nacional qualqu cas respect comissa
+
+
+class iii consult
+
+
+class iv tom prestaca cont
+
+
+class v auditor inspeca outr mat concernent fiscaliz
+
+
+class vi mat remet pel relator pel cam form estabelec paragraf unic regiment intern
+
+
+class vii denunc represent outr assunt competente plenari
+
+
+obs process autu acompanhamentolevant monitor dev inclu class v
+
+
+
+class assunt cam regiment intern
+
+
+class i recurs
+
+
+class ii tom prestaca cont
+
+
+class iii auditor inspeca outr mat concernent fiscaliz
+
+
+class iv atos admissa pessoal
+
+
+class v concessa aposentador reform pensa
+
+
+class vi represent
+
+
+
+inser nom relator item expressa venc part venc conform cas entr parentes
+
+
+venc relator tod part dev const acorda
+
+
+nom assinatur president redator deliber vencedor relator hipotes dest hav sid venc apen part
+
+
+b nom president redator deliber vencedor hipotes relator hav sid venc tod
+
+
+
+cas aplic determin arquiv process econom processual lei observ aind orient segu
+
+
+
+
+
+acorda dev entr outr seguint consider
+
+
+consider valor debit mult conform cas r inferior portant limit fix par arquiv aut econom processual estabelec est cort cont
+
+
+
+
+
+b substitu redaca item pel seguint
+
+
+determin desd log econom processual term lei cc regiment intern arquiv dest process sem julgament merit sem cancel div nr port btcu
+
+
+
+
+
+
+
+c inser seguint item
+
+
+determin inclusa nom srs cpf cadastr especif dest tribunal term instruca normat tcu dezembr
+
+
+
+
+
+
+d inser cas trat var tom cont especi arquiv sem julgament merit tabel seguint dad
+ac port btcu
+
+
+
+
+
+
+
+
+
+tce arquiv sem julgament merit dad inform pel orig
+
+cpf
+
+nom
+
+valor original dan
+
+dat
+
+valor ressarc
+
+dat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observ ordem alfabet
+
+
+
+
+
+
+
+
+
+
+situaca ensej julgament pel irregular debit ocorr vigenc lei cab aplic mult part tribunal dev observ dispost paragraf unic decretol
+
+
+
+
+
+situaca ensej julgament pel irregular aplic mult ocorr vigenc lei item acorda dev redig seguint form
+
+
+aplic respons eis mult previst i cit lei valor r valor superior maior salariominim bas limit permit legislacion enta vigent decretol fixandolh praz quinz dias cont notific par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional
+
+
+
+
+situaca ensej apen aplic mult ocorr vigenc lei item acorda dev redig seguint form
+
+
+aplic responsavel mult previst ii iii vii conform cas lei valor r valor superior maior salariominim bas limit permit legislacion enta vigent decretol fixandolh praz quinz dias cont notific par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional
+
+
+
+
+
+
+tom prestaca cont outr conform cas
+
+
+
+
+tom prestaca cont decisa prelimin terminat relatori inspeca relatori auditor operacion atos contrat houv audienc obrigator representant ministeri public
+
+
+
+
+
+
+atos admissa pessoal aposentador pensa civil pensa milit reform
+
+
+
+
+
+
+cas responsavel solicit recolh parcel importanc dev observ aind orient segu
+
+
+inser acorda entr outr seguint consider
+
+
+consider solicit parcel debit imput eou mult comin conform cas feit pel responsavel pel srs
+
+
+b inser entr outr seguint itens nr port btcu
+
+
+
+
+
+autoriz pagament div srs parcel mens consecut term lei cc regiment intern fixandolh praz quinz dias cont receb notific par comprov perant tribunal recolh primeir parcel trint dias cont parcel anterior par comprov recolh dem parcel dev incid sobr cad valor mensal atualiz monetari jur mor dev form previst legislacion vigor nr port btcu
+
+
+
+
+
+
+alert responsavel falt comprov recolh qualqu parcel import venciment antecip sald devedor term regiment intern dest tribunal
+
+
+
+
+
+determin secex conclu recolh observanc dat apraz promov reinstruca process vist expedica quitaca
+
+
+
+
+
+
+autoriz desd log term ii lei cobranc judicial div remanescent cas cumpr integral obrig assum pel respons eis ac port btcu
+
+
+
+
+
+
+cas irregular cont fund c d iii lei dev const acorda seguint item
+
+
+x remet cop aut bem dest acorda relatori vot fundament ministeri public unia term lei cc regiment intern par ajuiz aca cabiv
+
+
+
+
+
+
+cas aplic arquiv process sem julgament merit inser seguint item
+
+
+x determin arquiv present aut sem julgament merit term regiment intern ausenc pressupost constituica desenvolv val regul
+
+
+
+
+
+
+cas process relaca julg regul regul ressalv sem determin bem deliber process inspeca auditor contrat atos admissa pessoal concessa utiliz mesm model excert acorda anex xv fazendos dev adapt fundament teor deliber
+
+
+
+
+
+
+subdivisa acorda itens dev numer quand houv item dand seguiment paragraf inicial acorda
+
+
+
+
+term regiment intern pod const relaca process referent
+
+
+
+criteri relator pod submet mediant relaca plenari cam observ respect competente process
+
+
+i prest tom cont mesm especial cuj propost deliber
+
+
+acolh parec convergent titul unidad tecnic representant ministeri public desd tenh pronunci pel regular pel regular ressalv pel quitaca respons pel trancament
+
+
+b acolh parec mesm divergent conclu pel irregular
+
+
+c acolh parec convergent qua const propost rejeica aleg defes irregular desd valor ressarc acresc encarg leg sej igual inferior valor fix anual pel tribunal part tom cont especial dev imediat encaminh par julgament observ dispost
+
+
+d pel regular regular ressalv process levant estad difer term paragraf unic
+
+
+ii admissa concessa aposentador reform pensa cuj propost deliber acolh parec convergent titul unidad tecnic representant ministeri public desd tenh pronunci pel legal aind tenh sid pel ilegal trat exclusiv questa jurid soluca compendi sumul jurisprudente
+
+
+iii referent auditor inspeca excet mencion outr mat relat fiscaliz atos sujeit registr atos contrat relator estej acord conclusa tecnic respons pel analis process quand houv equip fiscaliz parec chef unidad tecnic ministeri public existent desd conclu pel ocorrente ilegal irregular
+
+
+iv apreci recurs cuj propost deliber acolh parec convergent unidad tecnic ministeri public quand existent conclu pel
+
+
+conhec proviment total quand deliber recorr tiv sid adot process inclu relaca
+
+
+b naoconhec observ dispost
+
+
+v relator acolh parec convergent inexistente dest formul propost deliber acerc seguint mat
+
+
+apens arquiv process
+
+
+b ped recolh parcel div denegatori observ dispost
+
+
+c adoca med saneador
+
+
+d correca err material
+
+
+ped prorrog praz fix pel tribunal denegatori observ dispost
+
+
+f naoconhec embarg declar observ dispost
+
+
+g conversa process tom cont especial
+
+
+
+
+
+
+term regiment intern pod const relaca process referent
+
+
+
+
+
+
+
+
+
+
+pod const relaca process trat
+
+
+i propost aplic mult
+
+
+ii propost fixaca entend sobr questa direit dad mat determin carat normat estud sobr proced tecnic
+
+
+iii solicit qualqu natur oriund congress nacional cas comissa
+
+
+iv auditor inspeca acompanh realiz solicit congress nacional
+
+
+v auditor inspeca acompanh obr public determin pel lei diretriz orcament pel lei orcament anual unia
+
+
+vi obr public inclu plan fiscaliz
+
+
+vii auditor operacional
+
+
+vii auditor inspeca classific grup ii form
+
+
+
+
+
+
+competente plenari regiment intern
+
+
+
+
+
+
+compet privativ plenari dirig pel president tribunal
+
+
+i deliber originari sobr
+
+
+parec previ relat cont govern republ
+
+
+b ped inform solicit sobr mat competente tribunal sej enderec pel congress nacional qualqu cas comissa
+
+
+c solicit pronunci formul pel comissa mist permanent senador deput refer constituica federal term constituica federal
+
+
+d incident uniformiz jurisprudente form
+
+
+conflit lei ato normat pod public constituica federal mat competente tribunal
+
+
+f fixaca coeficient destin calcul parcel entregu estad distrit federal municipi cont recurs fund particip estad distrit federal fpe fund particip municipi fpm alud paragraf unic constituica federal observ criteri estabelec norm leg regulament pertinent
+
+
+g fixaca coeficient destin calcul parcel dev entregu estad distrit federal sobr produt arrecad impost sobr produt industrializ trat ii constituica federal observ criteri estabelec norm leg regulament pertinent
+
+
+h contest mencion
+
+
+i inabilit respons inidon licitant term adoca med cautel previst resguard cas ultim possibil antecip med pel relator pel president
+
+
+j realiz auditor inspeca unidad pod legislat suprem tribunal federal tribun superior presidente republ tribunal cont unia bem ministeri public unia advocaciageral unia
+
+
+l represent equip fiscaliz previst
+
+
+m relatori auditor operacional
+
+
+relatori auditor inspeca realiz virtud solicit congress nacional cas respect comissa
+
+
+consult sobr mat competente tribunal
+
+
+p denunc
+
+
+q mat regimental carat normat
+
+
+r conflit competente entr relator
+
+
+s qualqu assunt inclu express competente cam
+
+
+ii deliber sobr recurs reconsider embarg declar ped reexam apresent contr propr decisa bem agrav interpost despach decisori profer process competente
+
+
+iii deliber sobr recurs revisa
+
+
+iv deliber sobr recurs contr decisa adot pel president sobr mat administrat
+
+
+v aprov propost acord cooper objetiv intercambi inform vis aperfeico sistem control fiscaliz conform previst
+
+
+vi aprov plan fiscaliz
+
+
+vii aprov enunci sumul jurisprudente tribunal
+
+
+vii aprov propost relat projet lei tribunal dev encaminh pod execut legislat
+
+
+ix deliber sobr list triplic auditor membr ministeri public junt tribunal par preenchiment carg ministr form previst
+
+
+
+compet aind plenari
+
+
+i constitu comissa tempor sem prejuiz dispost xli
+
+
+ii apreci questa administrat carat relevant
+
+
+iii deliber sobr process avoc raza relevanc sugesta ministr auditor convoc submet colegi
+
+
+iv deliber sobr process remet pel relator pel cam term paragraf unic excet trat vii
+
+
+
+
+
+
+competente cam regiment intern
+
+
+
+compet primeir segund cam deliber sobr
+
+
+i prest tom cont mesm especial
+
+
+ii ato admissa pessoal administr diret indiret inclu fundaca institu mant pel pod public federal
+
+
+iii legal par fins registr concessa aposentador reform pensa servidor public milit federal beneficiari
+
+
+iv represent excet trat l i
+
+
+v realiz inspeca ressalv dispost j i
+
+
+vi relatori fiscaliz excet natur operacional trat i
+
+
+vii ped reexam recurs reconsider embarg declar apresent contr propr deliber bem agrav interpost despach decisori profer process competente
+
+
+assunt competente cam excet previst vii pod inclu paut plenari pel relator deliber cam acolh propost ministr sugesta auditor representant ministeri public sempr relevanc mat recomend ess proced
+
+
+pod apreci pel cam process contenh propost fixaca entend sobr questa direit determin mat determin carat normat estud sobr proced tecnic
+
+
+
+
+
+
+model const considerand dispens excet cas previst regiment intern
+
+
+
+
+
+
+
+
+acorda profer process constant relaca haj deliber pel rejeica aleg defes pel irregular cont pel naoconhec recurs pel deneg ped recolh parcel div prorrog praz aind pel ilegal ato admissa concessa previst part final ii dest cont considerand qua estara descrit tod element fat indispens juiz merit
+
+
+
+
+
+
+preench
+
+
+
+
+
+cas recurs deliber nr port btcu
+
+
+
+
+
+
+pel conhec proviment recurs inser entr outr seguint item
+
+
+
+
+
+conhec recurs term conform tip lei interpost peloap merit darlh proviment
+
+
+
+
+
+torn insubsistent acorda itemns acorda profer pel plenari primeir segund cam nest process sessa conform relaca cas ata
+
+
+
+
+
+julgarred nov deliber cas recurs revisa indic correca err engan apur
+
+
+
+
+
+b pel conhec proviment parcial recurs inser entr outr seguint item
+
+
+conhec recurs term conform tip lei interpost par merit darlh proviment parcial
+
+
+
+dar item x acorda profer plenari primeir segund cam sessa conform relaca cas ata seguint redacaos cas
+
+
+
+torn insubsistent itemns acorda profer plenari primeir segund cam sessa conform relaca cas ata mantendos exat term teor dem itens acorda recorr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cas suscit divergente entr deliber anterior tribunal ocasion incident uniformiz jurisprudente pod colegi decid pel apreci prelimin controvers anex aut princip observ
+
+
+
+
+
+reconhec divergente relator dev
+
+
+
+
+
+retir paut aut par apreci prelimin divergente question term ritcu
+
+
+constitu anex referent aut princip form cc
+
+
+remet aut ministeri public junt tcu cumpriment dispost inc iii ritcu
+
+
+inclu aut paut plenari segund sessa subsequent incident
+
+
+plenari relat preliminar questa incident uniformiz prossegu apreci merit cas sej mat competente dest colegi dev acorda cont dentr outr seguint itens
+
+
+entend firm pel tribunal sobr mat houv
+
+
+remess acorda comissa jurisprudente term ritcu
+
+
+deliber merit process
+
+
+incident relat plenari competente cam observarse dispost itens acim dev remeters aut cam origin par apreci merit
+
+
+
+
+
+b send reconhec pel relator divergente acorda exar dev cont dentr outr itens seguint
+
+
+
+
+
+fundament pel qua reconhec divergente apont aut
+
+
+deliber merit process
+
+
+mat relat plenari competente cam remet aut cam origin par apreci merit
+
+
+
+
+
+c hipotes divergente reconhec pel relator entend plenari dissent prosseguira adot aca previst item pass revisor ministr primeir profer vot dissident
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cas gestor falec observ orient segu acresolucaotcu btcu dou
+
+
+
+cas tenh cheg aut inform partilh homolog sentenc substitu redaca part inicial item pel seguint acresolucaotcu btcu dou
+
+
+
+julg irregul cont sr falec cargofunca conden espoli herdeir leg cas tenh hav partilh bens limit valor patrimoni transfer pagament quant
+
+
+b cas estej comprov aut homolog partilh substitu redaca part inicial item pel seguint acresolucaotcu btcu dou
+
+
+
+julg irregul cont sr falec cargofunca conden herdeir srs cad proporca part heranc coub limit valor patrimoni transfer pagament quant
+
+
+anex iii paut irregular cont debit aplic mult
+
+
+
+
+
+julg form previst legislacion vigor
+
+
+anex x relaca cont irregular debit
+
+
+determin inclusa nom responsavel cadastr especif dest tribunal
+
+
+
+
+
+
+anex xix tcu
+
+
+
+revog btcu
+
+
+
+
+
+
+
+anex xx tcu
+
+
+
+revog btcu
+
+
+
+
+redaca anterior
+
+
+
+
+
+
+anex i tcu
+
+
+paut cont regul quitaca plen
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut responsabil relat exercici period
+
+
+consider
+
+
+consider
+
+
+consider aind
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam ant raza expost pel relator fundament i i i lei julh cc i i regiment intern julg present cont regul dandos quitaca plen responsavel indic item supr
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+anex ii tcu
+
+
+paut cont regul ressalv quitaca determin
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil derelat exercici period
+
+
+consider
+
+
+consider
+
+
+consider aind
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam ant raza expost pel relator
+
+
+fundament i ii ii lei julh cc i ii regiment intern julg present cont regul ressalv dandos quitaca responsavel mencion item
+
+
+determin
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+fui present
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex iii tcu
+
+
+paut irregular cont debit aplic mult
+
+acorda tcu plenari primeir segund cam
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil relat exercici period
+
+
+consider process devid organiz apur debit contr responsavel valor r r provenient
+
+
+consider devid cit responsavel
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam fundament i iii b c d conform cas cas lei julh cc iii mesm lei i i ii iii iv iii regiment intern conform cas
+
+
+
+julg present cont irregul conden srs pagament quant r fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional entidad x atualiz monetari acresc jur mor calcul part dat recolh form previst legislacion vigor
+
+
+aplic responsavelis mult previst lei julh cc regiment intern valor r fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional atualiz monetari part dia seguint termin praz ora estabelec dat recolh
+
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo
+
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex iv tcu
+
+
+paut irregular cont sem debit aplic mult
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+vist relat discut aut ded responsabil derelat exercici deou period
+
+
+consider
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas fundament i iii b c conform cas lei julh cc paragraf unic iii mesm lei i i ii iii iv iii regiment intern cas
+
+
+julg irregul present cont aplic responsavel srs mult previst i lei cc i regiment intern valor r rea fixandolh praz quinz dias cont notificacaoo par recolh div tesour nacional atualiz monetari dat efet recolh pag venciment form legislacion vigor
+
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo form legislacion vigor
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+anex v tcu
+
+
+paut irregular cont quitaca responsavel ant recolh integral debit
+
+acorda tcu plenari primeir segund cam
+
+
+
+process tc
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+
+
+acorda
+
+
+
+vist relat discut aut responsabil derelat exercici deou period
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas fundament i iii b c conform cas lei julh cc iii mesm lei i i ii iii iv conform cas iii regiment intern
+
+
+julg present cont irregul
+
+
+dar quitaca responsavel ant recolh integral debit term lei cc regiment intern
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex vi tcu
+
+
+paut outr deliber process natur divers sem mult
+
+acorda tcu plenari primeir segund cam
+
+
+
+process tc sigil quand cas
+
+
+grup class assunt exercici exam quand cas segu descrica sucint assunt
+
+
+
+part
+
+
+
+responsaveliscpf
+
+
+interess conform casocpf
+
+
+entidad orga unidad conform cas
+
+
+vincul cas
+
+
+relator
+
+
+
+revisor quand cas
+
+
+redator quand cas
+
+
+relator deliber recorr quand cas
+
+
+ministr alegou imped aut quand cas
+
+
+representant ministeri public rit resolucaotcu nr port btcu
+
+
+unidad tecnic
+
+
+
+advog constitu aut nom inscricaoo oab
+
+
+
+
+acorda
+
+
+
+vist relat discut aut
+
+
+consider
+
+
+consider
+
+
+acord ministr tribunal cont unia reun sessa plen primeir segund cam conform cas diant raza expost pel relator transcrev deliber tod determin integr alem outr providente cabiv sem faz remissa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aplic responsavel srs mult previst ii iii vii conform cas lei cc ii iii vii conform cas regiment intern valor r rea fixandolh praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div tesour nacional atualiz monetari dat efet recolh pag venciment form legislacion vigor quand cas
+
+
+autoriz descont div remuner servidor observ dispost lei dezembr quand cas
+
+
+autoriz desd log term ii lei cobranc judicial div cas atend notificacaoo form legislacion vigor
+
+
+
+levant chancel sigil reca sobr aut quand cas
+
+
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+codig eletron par localiz pagin tcu internet acxxxxyyzzv ond ac sigl acorda xxxx numer acorda quatr digit yy numer ata dois digit zz ana profer deliber dois digit v sigl colegi profer deliber p par plenari par cam par cam nr port btcu dou
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+anex ix tcu
+
+
+nr port btcu
+
+
+relaca quitaca ant recolh integral debit
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament lei julh cc regiment intern dar quitaca responsavel ant recolh integral div debit mult conform cas foir imput comin acord parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+advog constitu aut
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+advog constitu aut
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+anex x tcu
+
+
+nr port btcu
+
+
+
+relaca cont irregular debit
+
+
+
+relaca
+
+
+
+
+
+gabinet ministr
+
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider process devid organiz apur debit contr responsavel valor indic provenient consider devid cit responsavel consider parec coincident unidad tecnic ministeri public sent irregular present cont debit responsavel acord unanim maior conform cas quant process segu relacion fundament i iii b c d conform cas iii lei cc i i ii iii iv conform cas iii regiment intern julg cont irregul conden responsavel indic pagament quant correspondent fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional entidad x acresc atualizacaoo monet jur mor calcul part dat indic dat recolh form previst legislacion vigor abatendos oportun valor ressarc cas autoriz descont div remuner servidor observ dispost lei dezembr quand cas determin desd log econom processual term lei cc regiment intern arquiv process sem cancel div cuj pagament continuaraa obrig devedor par poss dad quitaca determin inclusa nom responsavel cadastr especif dest tribunal
+
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+advog constitu aut
+
+
+
+
+
+
+
+fl anex portariatcu janeir
+
+
+
+
+
+
+valor original debit dat orig debit
+
+
+valor ressarc cas dat ressarc
+
+
+
+vinculacaos cas
+
+
+
+tc
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+advog constitu aut
+
+
+
+valor original debitodat orig debit
+
+
+valor ressarc casodat ressarc
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex xvi tcu
+
+
+relatori vot propost deliber
+
+
+
+
+
+grup ii class ii plenari cam cam
+
+
+tc
+
+
+natur tom cont especial
+
+
+unidad prefeitur municipal
+
+
+respons cpf
+
+
+
+
+sumari conveni tom cont especial omissa prest cont responsabiliz ilegitim atual prefeit citaca exprefeit conveni indic desvi final pel control intern parec tecnic orga convenent atest cumpriment met cont regul
+
+
+
+
+
+relatori
+
+
+
+
+
+tratas tom cont especial prefeitur municipal instaur fac atend final pactu mediant conveni omissa apresent cont relat conveni instrument celebr ministeri respectiv
+
+
+parec control internoqu trat cont anu
+
+
+orga control intern ministeri emit certific auditor pel irregular present cont responsabiliz sr
+
+
+parec instruca
+
+
+anal respons pel instruca observ fat origin present tom cont especial ocorr durant gesta sr prop
+
+
+citaca sr
+
+
+b citaca prefeitur municipal par recolh tesour nacional
+
+
+titul unidad tecnic fls consider inform constant pronunci ministerial recurs propo dissent part conclusa instruca
+
+
+sej cont referent conveni celebr
+
+
+b sej consequente omissa apresent cont conveni celebr
+
+
+parec ministeri public
+
+
+aut represent pel procuradorgeral subprocuradorgeral dr dissent conclusa oferec pel secex opin pel citaca sr par aleg direit
+
+
+
+vot propost deliber
+
+
+
+
+
+tce ora examin instaur decorrente omissa apresent cont relat conveni firm valor r glos despes efetu pel respons cont conveni celebr
+
+
+dess form acolh part parec unidad tecnic vot sent tribunal adot acorda ora submet deliber dest colegi
+
+
+
+
+
+tcu sal sessa ministr lucian branda alves souz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nom
+
+
+relator
+
+
+
+anex xvii tcu
+
+
+
+
+
+ii orient especif nr port btcu
+
+
+
+preench camp propri nom complet part respect cpf cnpj conform cas sej tod responsavel pesso fisic jurid direit public priv sujeit jurisdica tribunal hav tod interess aquel reconhec pel relator pel tribunal raza legitim par interv process
+
+
+
+
+
+cas aplic determin arquiv process econom processual lei observ aind orient segu
+
+
+
+
+
+acorda dev entr outr seguint consider
+
+
+consider valor debit mult conform cas r inferior portant limit fix par arquiv aut econom processual estabelec est cort cont
+
+
+
+b substitu redaca item pel seguint
+
+
+determin desd log econom processual term lei cc regiment intern arquiv dest process sem cancel div cuj pagament continu obrig devedor par poss dad quitaca
+
+
+
+c inser seguint item
+
+
+determin inclusa nom srs cpf cadastr especif dest tribunal term instruca normat tcu dezembr
+
+
+
+
+cas responsavel solicit recolh parcel importanc dev observ aind orient segu
+
+
+inser acorda entr outr seguint consider
+
+
+consider solicit parcel debit imput eou mult comin conform cas feit pel responsavel pel srs
+
+
+b omit item referent cobranc judicial entr outr inser seguint
+
+
+
+
+
+autoriz pagament div srs parcel mens consecut term lei cc regiment intern fixandos venciment primeir parcel quinz dias cont receb notific dem parcel cad trint dias dev incid sobr cad parcel atualiz monetari jur mor dev form previst legislacion vigor
+
+
+
+
+
+alert responsavel falt comprov recolh qualqu parcel import venciment antecip sald devedor term regiment intern dest tribunal
+
+
+
+
+
+determin secex conclu recolh observanc dat apraz cas inadimplement obrig assum pel responsavel promov reinstruca process
+
+
+
+
+
+
+cas recurs deliber
+
+
+
+
+
+pel conhec proviment recurs inser entr outr seguint item
+
+
+
+
+
+conhec recurs term conform tip lei interpost peloap merit darlh proviment
+
+
+
+
+
+torn insubsistent acorda profer pel plenari primeir segund cam nest process sessa conform relaca cas ata
+
+
+
+
+
+julgarred nov deliber cas recurs revisa indic correca err engan apur
+
+
+
+
+
+
+
+anex vii tcu
+
+
+relaca cont regul regul ressalv
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tom prestaca cont
+
+
+cont regul quitaca plen
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament i i i lei julh cc i i regiment intern julg cont segu relacion regul dar quitaca plen responsavel acord parec emit aut
+
+
+
+vincul cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+
+
+
+
+vincul cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+cont regul ressalv quitaca determin
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament i ii ii lei julh cc i ii regiment intern julg cont segu relacion regul ressalv dar quitaca responsavel conform cas gestor responsavel pel almoxarif mand faz quand cas seguint determinacaoo eou recomendacaoo suger parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+fui present
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex ix tcu
+
+
+relaca quitaca ant recolh integral debit
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament lei julh cc regiment intern dar quitaca responsavel ant recolh integral div debit mult conform cas foir imput comin acord parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period cas
+
+
+
+valor original debit
+
+dat orig debit
+
+valor recolh
+
+dat recolh
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex x tcu
+
+
+
+
+
+relaca cont irregular debit
+
+
+
+
+
+relaca
+
+
+gabinet ministr
+
+
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider process devid organiz apur debit contr responsavel valor indic provenient consider devid cit responsavel consider parec coincident unidad tecnic ministeri public sent irregular present cont debit responsavel acord unanim maior conform cas quant process segu relacion fundament i iii b c d conform cas iii lei cc i i ii iii iv conform cas iii regiment intern julg cont irregul conden responsavel indic pagament quant correspondent fixaca praz quinz dias cont notificacaoo par comprov perant tribunal iii regiment intern recolh div cofr tesour nacional entidad x acresc atualizacaoo monet jur mor calcul part dat indic dat recolh form previst legislacion vigor abatendos oportun valor ressarc cas autoriz descont div remuner servidor observ dispost lei dezembr quand cas determin desd log econom processual term lei cc regiment intern arquiv process sem cancel div cuj pagament continuaraa obrig devedor par poss dad quitaca determin inclusa nom responsavel cadastr especif dest tribunal
+
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+
+valor original debit dat orig debit
+
+
+valor ressarc cas dat ressarc
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+
+valor original debitodat orig debit
+
+
+valor ressarc casodat ressarc
+
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+anex xi tcu
+
+
+
+relaca rejeica aleg defes boaf
+
+
+
+
+
+relaca
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenarioprimeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider parec coincident unidad tecnic ministeri public sent rejeica aleg defes considerandoboaf acord unanim maior conform cas quant process segu relacion fundament paragraf unic lei cc regiment intern rejeit aleg defes apresent pel responsavel indic porquant apresentou element comprov regul aplic recurs repass mediant comunic responsavel inteir teor present acorda fixandolh nov improrrog praz quinz dias cont cienc par efetu comprov perant est tribunal iii regiment intern recolh div cofr tesour nacional entidad x importanc original atualiz monetari acresc jur mor dev part dat indic dia efet recolh form legislacion vigor abatendos oportun valor ressarc cas cientific responsavel liquid tempest debit atualiz monetari sane process respect cont pod julg regul ressalv dandoselh quitaca comprov boaf term regiment intern
+
+
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+
+class assunt
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici exam quand cas segu descrica sucint assunt
+
+
+
+
+
+vinculacaos cas
+
+
+
+
+
+tc
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period quand cas segu descrica sucint assunt
+
+
+
+
+
+
+valor original debitodat orig debit
+
+
+valor ressarc casodat ressarc
+
+
+
+
+
+vinculacaos cas
+
+
+
+ata colegi
+
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex xii tcu
+
+
+
+relaca fiscaliz atos contrat
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas quant process segu relacion fundament i ii iv lei julh cc i ii vii regiment intern acord parec emit aut indic conteud deliber merit bem tod determin eou recomend cas
+
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+determin eou recomend quand cas
+
+
+
+
+
+
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex xii tcu
+
+
+
+relaca atos admissa pessoal concessa
+
+
+
+relaca
+
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam consider consider acord unanim maior conform cas fundament v lei julh cc vii regiment intern consider legal par fins registr atos admissa pessoal concessa segu relacion fazendos cas seguint determinacaoo eou recomendacaoo suger parec emit aut
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nom interess nr port btcu
+
+
+
+tc rit resolucaotcu nom interess nr port btcu
+
+
+
+
+
+determin eou recomend quand cas
+
+
+x
+
+
+x
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nom interess nr port btcu
+
+
+tc rit resolucaotcu nom interess nr port btcu
+
+
+
+
+
+determin eou recomend quand cas
+
+
+x
+
+
+x
+
+
+
+
+ata colegi
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+
+
+fui present
+
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+anex xiv tcu
+
+
+
+relaca correca err material
+
+
+
+relaca
+
+
+
+gabinet ministr
+
+
+
+relaca process submet plenari primeir segund cam par votaca form regiment intern v plenari cam regiment intern
+
+
+
+relator
+
+
+
+tip process
+
+
+
+acorda tcu plenari primeir segund cam
+
+
+
+ministr tribunal cont unia reun sessa plen primeir segund cam fundament v d regiment intern cc enunci sumul jurisprudente predominant tribunal acord unanim retific inexatida material acorda tcu plenari primeir segund cam prolat sessa ata relativ subit x ond le leias mantendos dem term acorda ora retific acord parec emit aut
+
+
+
+
+
+vinculacaos cas
+
+
+
+tc rit resolucaotcu nr port btcu
+
+
+class assunt
+
+
+
+responsavel cpf
+
+
+
+entidad orga unidad conform cas
+
+
+exercici period
+
+
+
+ata plenari primeir segund cam
+
+
+dat sessa ordin extraordin extraordin carat reserv
+
+
+
+
+
+
+nom president ministr auditor
+
+
+president relator
+
+
+
+
+
+fui present
+
+
+
+
+
+nom
+
+
+procuradorgeral subprocuradorgeral procur
+
+
+
+
+
+anex i tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex ii tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex iii tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex iv tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex v tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex vi tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex vii tcu
+
+
+especific quorum renumer port btcu dou
+
+
+ministr present renumer port btcu dou
+
+
+ministr vot venc quand cas renumer port btcu dou
+
+
+ministr alegou imped sessa quand cas renumer port btcu dou
+
+
+ministr votou ressalv quand cas renumer port btcu dou
+
+
+auditor present renumer port btcu dou
+
+
+
+
+
+
+anex i tcu
+
+
+representant ministeri public
+
+
+anex ii tcu
+
+
+representant ministeri public port btcu
+
+
+
+anex iii tcu
+
+
+representant ministeri public
+
+
+
+anex iv tcu
+
+
+representant ministeri public
+
+
+anex v tcu
+
+
+representant ministeri public
+
+
+anex vi tcu
+
+
+representant ministeri public
+
+
+anex vii tcu
+
+
+representant ministeri public
+
+
+anex vii tcu
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+
+
+
+tc
+
+
+
+anex ix tcu
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+anex x tcu
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+
+
+
+anex xi tcu
+
+
+
+
+
+tc
+
+
+anex xii tcu
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+anex xii tcu
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+
+
+
+tc
+
+
+anex xiv tcu
+
+
+
+
+
+tc
+
+
+anex xv tcu
+
+
+
+
+
+tc
+
+
+
+
+
+
+
+
+anex xix tcu revog btcu
+
+
+
+model ement
+
+
+acompanh
+
+acompanh program nacional desestatiz outorg concessa servic public transmissa energ execuca prev obras implant linh transmissa camp nov blumenau sc exam estagi regular arquiv
+administrat
+
+administrat levant auditor exercici obras public subsidi congress nacional consolid compil inform constant process tramit tcu quantidad relaca obras fiscaliz volum recurs envolv result classific ocorrente identific sistem acompanh banc dad sobr obras public remess cop congress nacional
+admissa
+
+admissa pessoal ausenc concurs public par proviment carg admissa posterior ilegal determin
+aposentador
+
+aposentador alter incorpor quint referent carg isol proviment efet transform posterior carg comissa pagament quint relat period carg proviment efet ilegal aplic sumul tcu determin
+
+
+auditor
+
+
+
+auditor program equaliz cust produca canadeacuc descumpr parcial determin tcu audienc respons raza justificat acolh determin cienc congress nacional
+consult
+
+consult formul pel ministeri abrangente vedaca execuca obras verific irregular mat fora ambit competente tcu ausenc requisit admissibil conhec arquiv
+cont govern
+
+cont govern exercici parec previ sobr cont pod execut legislat judiciari ministeri public unia desempenh econom brasileir orcament public feder analis balanc ger unia terceiriz administr public projet alvor program brasil empreendedor ref cris carcer cris energet aca setorial govern aspect violaca orga public lei responsabil fiscal acompanh recomend formul cont govern divergente inform acompanh relat arrecad receit recuper credit tributari parec previ pel aprov cont
+denunc
+
+denunc possiv irregular ambit contrat advog colabor eventu prorrog contrat aleg defes rejeit conhec procedente parcial mult fixaca praz par anul contrat junt aut process conexocontrat advog sem licit consider
+inspeca
+
+inspeca apur indici irregular utiliz bens imov formaliz irregul process ocup locaca imov falt control pagament tax ocup alugu ausenc control despes agu energ eletr telefon imovel utiliz servidor cessa informal imovel associ servidor mult respons determin praz par adoca providente
+levant
+
+levant obras revitaliz infraestrutur ocorrente falh form determin recomend cienc congress nacional
+pensa
+
+
+
+pensa civil acumul benefici decorrent carg acumul ativ ilegal aplic sumul tcu acumul carg consider
+
+
+prest cont
+
+
+
+prest cont entidad exercici aquisica materi contrat prest servic sem adoca proced licitatori pertinent insuficiente aleg defes apresent cont president irregul mult cont regul ressalv quant dem respons quitaca
+
+
+recurs
+
+
+
+tom cont especial conveni entidad prefeitur municipal embarg declar opost acorda conhec recurs reconsider contr acorda julg cont irregul debit respons ant inexecuca objet pactu inexistente omissa obscur contradica conhec
+
+
+represent
+
+
+
+represent formul licitant possiv irregular ambit ministeri prega exigente editalic restrit carat competit certam exigente prec global par servic distint licit revog represent consider prejudic arquiv
+
+
+solicit
+
+
+
+solicit formul pel congress nacional auditor par apur irregular aplic recurs public feder part govern estad prefeitur inclusa municipi plan fiscaliz par exercici tom cont especi instaur fas exam auditor andament comunic determin arquiv
+
+
+tom cont
+
+
+
+tom cont entidad exercici aquisica medic prec superior merc insuficiente defes apresent cont irregul quant respons mult cont regul ressalv quant dem respons quitaca
+
+
+tom cont especial
+
+
+
+tom cont especial conveni prefeitur municipal omissa prest cont recolh mult solicit par exclusa relaca inelegibil quitaca mantenc irregular cont consider sobr competente tcu sobr inelegibil respons
+
+
+
+
+
+anex xx tcu revog btcu
+
+
+
+
+
+
+
+
+
+
+i orient ger
+
+
+
+consideras ement conjunt anot apont indic resumid pont relevant mat submet deliber tribunal bem deliber resultant julgament cad cas concret
+
+
+objet primordial ement reflet fidedign motiv essencial deliber exar portant ement bem elabor proporcion usuariopesquis alcanc sent teor ato decisori possibilit tamb compreensa basic apen leitur text
+
+
+ement possu caracterist informat dev oferec usuariopesquis element suficient par est poss decid sobr conveniente leitur text inteir document
+
+
+
+
+
+b ement form duas part verbet disposit
+
+
+verbet sequenc palavraschav expressa indic assunt apreci pel tribunal dev encaminh consulent realment apreci lancandos par tant gener espec assunt focaliz
+
+
+disposit regr condut resultant julgament cas concret principi disposit dev original ist dev reproduz text lei orient doutrin vist deliber adot sobr cas particul aplic disposica legal
+
+
+
+
+
+c ement pod simpl compost
+
+
+simpl contiv disposit provenient pont controvert
+
+
+compost contiv mais disposit resultant cad pont controvert cad contraditori
+
+
+
+
+
+d verbet compost hav principi verbet par cad disposit podendos todav empreg verbet quand gener comum diferent especi
+
+
+
+
+
+disposit aparec paragraf distint verbet
+
+
+
+
+
+f ement compost necessari enumer disposit verbet distinguira disposit entretant dev figur paragraf distint
+
+
+
+
+
+g disposit eman pont discut arrazo expend parec relatori vot dev abstrat refer element concret process questa
+
+
+
+
+
+h ement dev redig dentr orient tecnic legislat elabor maior rigor formal vist linguag realiz direit
+
+
+
+
+
+i verbet dev escrit caract vertic clar caixabaix usandos maiuscul par inicial pont final cad del sem qualqu destaqu
+
+
+
+
+
+j ement possu caracterist objetiv obrig ement correspond exat teor acorda concisa exig tod palavr sej ute aconselh empreg form sintet lug analit afirmat precis clar usar fras curt concis busc uniform temp verbal tod text norm leg dand preferente temp present futur simpl present voz ativ
+
+
+
+
+
+l cas falh ement prevalec dispost acorda parec
+
+
+
+
+
+ii orient especif
+
+
+
+
+
+basic ement compost seguint element
+
+
+natur process
+
+
+
+
+
+b orga entidad envolv
+
+
+
+
+
+c assunt geral par particul especif controvers
+
+
+
+
+
+d manifest tcu sobr cad especif controvers sobr encaminh process
+
+
+
+
+
+result especif deliber legal regular conhec arquiv determin orient recomend etc
+
+
+
+
+
+recomend extensa ement limites maxim palavr
+
+
+
+
+
+redaca verbet
+
+
+
+
+
+mod geral construca verbet ement inicias lancament natur process segu coub orga ministerial supervisa orga entidad jurisdicion denomin projet ativ audit natur orig recurs financeir
+
+
+
+
+
+ambit tribunal process autu segund tip acord sistem processus gesta process document
+
+
+
+
+
+cas deliber profer sed recursal proced tamb inici natur process mold acim deline lancandos segu palavr recurs nomeandos tip recurs especif
+
+
+
+
+
+verbet natur pod cont sentenc ocorr seguint exempl
+
+
+solicit auditor obras relat br relativ trech situ estad requer encaminh pel presidente sen federal
+
+
+
+
+
+redaca suger
+
+
+solicit formul pel sen federal obras paralis auditor obras br quand trat solicit auditor
+
+
+
+
+
+
+
+
+elabor ement acorda prolat pel colegi par fins sistematiz divulg jurisprudente tribunal dev observ model orient constant anex xix xx dest
+
+
+
+
+
+
+
+
+
+
+
+

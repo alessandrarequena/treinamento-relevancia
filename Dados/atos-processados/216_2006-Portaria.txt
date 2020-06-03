@@ -1,0 +1,424 @@
+port
+
+
+
+walton alenc rodrigu
+
+
+vicepresident exercici presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+instruca par preenchiment
+
+
+
+
+
+camp i dad basic aposentadopension civil
+
+
+
+assinal x opca aposent pension civil
+
+
+escrev nom complet beneficiari provent pensa sem abreviatur
+
+
+indic numer matricul inclu ultim digit
+
+
+
+camp ii dad basic instituidor
+
+
+
+est camp dev preench soment pension civ
+
+
+escrev nom complet instituidor pensa civil servidor falec
+
+
+indic numer matricul inclu ultim digit instituidor pensa civil
+
+
+
+camp iii dad complement aposentadopension civil
+
+
+
+numer cpf rg dev inclu ultim digit
+
+
+enderec dev mesm receb contrachequ ond efetiv res servidor aposentadopension civil
+
+
+indic numer telefon anteced codig ddd
+
+
+indic nom complet mae beneficiari provent benefici pensa civil sem abreviatur
+
+
+indic dat nasciment beneficiari format ddmmaaa
+
+
+
+camp iv dad basic respons legalprocuradorcuradortutor
+
+
+
+est camp destinas colh inform
+
+
+respons legal representant menor pension civil
+
+
+b procur formal constitu autor servidor aposent pension civil maior idad mediant procur especif par atu junt tcu nom favor
+
+
+c curador tutor judicial constitu autor servidor aposent pension civil
+
+
+dev prest inform unic respons legal procur curador tutor design par atu junt tcu nom favor autor servidor aposent pension civil mesm beneficiari tenh vari procur constitu par divers fins dev inform soment dad daquel express autoriz represental junt tcu
+
+
+numer cpf rg dev inclu ultim digit digit verific
+
+
+enderec dev aquel ond efetiv res tenh escritori respons legal procur curador tutor
+
+
+numer telefon dev anteced codig ddd
+
+
+alem inform prest nest camp dev entregu origin cop autentic seguint document conform cas
+
+
+certida comprobator responsabil legal nasciment casament etc acompanh document ident representant
+
+
+cop autentic instrument design tutor cop decisa judicial interdica autentic pel cartori juiz profer interdica
+
+
+procur outorg autor servidor aposent pension civil acompanh document ident procur acompanh seguint document
+
+
+
+atest relatori laud firm medic especializ cont nom complet beneficiari classific internacional doenc cid assinatur profissional respect numer registr profissional crm comunic autor servidor aposent pension civil encontras acomet molest grav impossibilit locomovers
+
+
+
+
+b document comprobatori ausenc autor servidor aposent pension civil territori nacional period recadastr indic dat provavel retorn brasil quand comparec unidad cadastr par realiz recadastr pessoal
+
+
+
+
+camp v dad procur
+
+
+
+est camp destinas colh inform relat procur outorg pel autor servidor aposent pension civil mandatari
+
+
+indic dat inici cas termin vigenc mandat ressalt limit mes
+
+
+indic nom cartori lavr procur numer livr respect folh
+
+
+
+camp vi dad bancari
+
+
+
+indic nom numer banc agenc banc cont corrent inclu digit verific deposit provent aposentador pensa civil admit cont corrent conjunt par receb provent aposentador pensa
+
+
+dev entreg present formulari certida emit pel banc comprov cont corrent inform individual obrigatori
+
+
+
+camp vii declar
+
+
+
+preench local dat assin preferencial presenc servidor tcu encarreg receb formulari atualiz cadastral
+
+
+
+
+
+
+
+
+revog
+disciplin atualiz dad cadastr ministr ministrosubstitut membr ministeri public servidor aposent pension civ tribunal cont unia
+
+anex ii portariatcu
+
+
+
+
+
+
+
+
+
+
+term responsabil
+
+
+
+
+
+
+
+
+nom complet
+
+
+
+portador document ident orga expedidor
+
+
+
+uf exped resident domicili
+
+
+
+
+
+
+
+
+
+
+enderec complet
+
+
+
+qualidad representant legal aposentadopension
+
+
+
+
+
+
+nom aposentadopension
+
+
+
+matricul unic grh numer firm perant tribunal cont unia compromiss comunic secret recurs human dess orga ond mant aposentadoriapensa qualqu event venh faz cess efeit procur tutel
+curatel especial obit represent praz maxim cinc dias cont ocorrente
+
+
+
+comprometom aind form lei perceb qualqu importanc vier credit pel unia favor beneficiari cessaca efeit procur tutel curatel
+
+
+
+
+
+
+
+local dat
+
+
+
+
+
+
+
+
+assinatur representant legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+quadr demonstrat cancel assistente preescol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+matricul
+
+unidad
+
+nom servidor
+
+nom dependent
+
+dat
+
+motiv
+
+dt nasc
+
+termin
+
+cancel
+
+dependent
+
+
+
+serurdt
+
+elmith ferreir sant filh
+
+lariss dias ferreir
+
+
+
+idad
+
+
+
+
+
+minmv
+
+erik oliveir anders
+
+thom hassl klaus silv anders
+
+
+
+idad
+
+
+
+
+
+secros
+
+jandira fatim dutr anjos
+
+luc dutr gom
+
+
+
+idad
+
+
+
+
+
+secexmt
+
+joa batist diniz capanem
+
+guilherm leroy teixeir capanem
+
+
+
+idad
+
+
+
+
+
+semag
+
+mar dor nasciment mot
+
+joa pedr nasciment mot
+
+
+
+idad
+
+
+
+
+
+diat
+
+osmar marqu oliveir
+
+gisel moreir marqu
+
+
+
+idad
+
+
+
+
+
+secobdt
+
+rafael jardim cavalcant
+
+alic menez jardim cavalcant
+
+
+
+idad
+
+
+
+
+
+sig
+
+vagn aureli carneir
+
+yasmin valerian carneir
+
+
+
+idad
+
+
+
+
+tc
+
+
+
+
+
+
+
+
+

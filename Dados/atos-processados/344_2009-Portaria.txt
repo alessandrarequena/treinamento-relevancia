@@ -1,0 +1,515 @@
+port
+
+
+
+president tribunal cont unia uso competente leg regiment
+
+
+consider importanc impact servic tecnolog inform red comput par execuca ativ administrat control extern carg tribunal
+
+
+consider uso indev red comput tcu disposit portat dem recurs pod compromet seguranc inform produz custodi pel tribunal
+
+
+consider direit garant individu assegur constituica federal dev obrig servidor public defin lei dezembr
+
+
+consider diretriz objet principi definica constant resolucaotcu outubr dispo sobr polit corporat seguranc inform pcsitcu
+
+
+consider necess aprimor mecan proteca inform servic disponiv red comput tcu
+
+
+consider aprimor seguranc inform uso red comput disposit portat dem recurs constituis etap fundamental par implant sustent process eletron tribunal resolv
+
+
+capitul i
+
+
+disposica ger
+
+
+regr ger par uso red comput disposit portat dem recurs tribunal obedec dispost nest port legislacion pertinent alinh principi diretriz pcsitcu
+
+
+paragraf unic par fins dest norm conceit recurs abrang soluca compreend soment equip funcional grup usuari diretori list distribuica sej utiliz par prov servic red comput tcu utiliz servic
+
+
+red comput disposit portat dem recurs propriedad tcu constitu recurs corporat par utiliz inter servic
+
+
+par efeit dispost nest port entendes
+
+
+i red comput tcu red tcu conjunt comput funcional outr disposit propriedad tcu prov lig red comunic dad possibilit prest servic
+
+
+ii cont identific unic usuari senh associ par acess red tcu
+
+
+iii cont uso colet cont par acess red tcu utiliz mais usuari final especif
+
+
+iv estaca trabalh comput mes desktop propriedad tcu
+
+
+v disposit portatil qualqu disposit utiliz par acess red tcu tenh caracterist portabil tais notebooks organiz pesso eletron pdas smartphon
+
+
+vi disposit comunic equip roteador switch utiliz par prov servic comunic entr estaca trabalh disposit portat mei red tcu sem fio
+
+
+vii diretori espac armazen especif red tcu
+
+
+vii administr diretori servidor respond pel unidad subun projet comissa comit grup trabalh relaca utiliz diretori
+
+
+ix incident seguranc inform term pcsitcu qualqu indici fraud sabotag desvi falh event indesej inesper tenh probabil compromet oper negoci ameac seguranc inform
+
+
+x administr recurs usuari grup usuari respons defin criteri utiliz autoriz conced modific permissa uso sobr recurs
+
+
+xi administr grup usuari respons pel criaca manual manutenca grup usuari
+
+
+xii privilegi permissa conced usuari grup usuari recurs
+
+
+xii copiaimag cop disc configur padra par cad model estaca trabalh cont tod program instal configur conform defin pel secret tecnolog inform setec
+
+
+xiv acess intern acess servic prov pel tribunal mei equip conect diret red tcu
+
+
+xv acess extern acess servic prov red tcu mei conexa internet fornec pel tribunal
+
+
+xvi nivel servic padra qualidad express parametr horari funcion temp maxim respost quantidad minim transaca process percentu min disponibil praz par atend demand
+
+
+xvi autentic process valid ident usuari pod feit divers mei tais combin usuariosenh biometr utiliz certific digital
+
+
+xvii program captur trafeg program softwar permit captur apresent dad trafeg entr estaca trabalh disposit portat red
+
+
+xix program geraca trafeg program softwar permit definica parametr par geraca transmissa dad part estaca trabalh disposit portat possibilit test med trafeg dad red
+
+
+xx conexa red tcu ligaca equip red tcu mei cabeament fisic telefon eletr optic coaxial equip radiofrequente comunic via infravermelh microond red sem fio
+
+
+xxi central servic setor vincul setec atribuica atend providenci par sej atend solicit usuari relat servic soluca corporat
+
+
+paragraf unic par fins dest norm disposit portatil propriedad tcu tratament equivalent estaca trabalh
+
+
+usuari red tcu
+
+
+i usuari intern autor servidor ativ tribunal tenh acess form autoriz inform produz custodi pel tcu
+
+
+ii usuari colabor term pcsitcu prestador servic terceiriz estagiari qualqu outr colabor tribunal tenh acess form autoriz inform produz custodi pel tribunal
+
+
+iii usuari extern servidor inat pesso fisic jurid tenh acess form autoriz inform produz custodi pel tribunal enquadr definica cont i ii dest
+
+
+iv usuari visitant pesso fisic enquadr definica dispost i ii iii dest acess temporari soment internet autoriz part red tcu
+
+
+
+capitul ii
+
+
+
+identific usuari tratament senh
+
+
+cad usuari dev possu unic cont par acess red tcu excet cas explicit defin autoriz pel setec
+
+
+criaca atualiz cont usuari intern par acess red tcu dev realiz pel setec bas registr cont sistem informatiz gesta pesso
+
+
+setec dev defin divulg proced execut vist criaca desativ cont usuari extern colabor visitant
+
+
+utiliz cont uso colet permit par usuari treinament
+
+
+criaca cont uso colet par final diferent treinament dev solicit central servic autoriz soment cas devid justific avali pel setec par qua sej possivel trabalh cont usuari individual
+
+
+usuari respons pel ativ realiz mei utiliz cont par acess red tcu
+
+
+cont par acess red tcu seguint praz validad
+
+
+i cont autor servidor ativ inat enquant dur vincul tcu
+
+
+ii cont usuari colabor durant exercici ativ par tcu
+
+
+iii cont usuari visitant cont uso colet pel period necessari par execuca ativ motiv criaca
+
+
+iv cont usuari extern exceca daquel relat servidor inat sem praz validad previ fix ressalv cas norm especif defin praz pertinent
+
+
+situaca abaix identific acarret suspensa uso red tcu
+
+
+i cont cinc tentat sucess autentic senh incorret
+
+
+ii cont sem uso period igual superior seis mes
+
+
+iii quand servidor ativ estiv efet exercici praz igual superior quinz dias funca licenc afast previst lei
+
+
+iv quand servidor ativ estiv afast prevent exercici carg decorrente dispost lei
+
+
+suspensa cont ref i ii realiz automatic observ proced estabelec pel setec
+
+
+suspensa cont decorrente i revog automatic acord parametr defin pel setec
+
+
+suspensa cont decorrente ii pod revog pel central servic mediant solicit usuari
+
+
+suspensa posterior liber uso red tcu par hipotes previst iii realiz pel setec part solicit encaminh pel secret gesta pesso segep
+
+
+suspensa posterior liber uso red tcu par situaca indic iv realiz pel setec part solicit envi pel secretariageral administr seged
+
+
+senh associ cont usuari par acess red tcu pessoal intransfer dev sigil responsabil exclus titul cont
+
+
+setec respons pel definica pel divulg regr formaca cont usuari senh
+
+
+senh associ cont uso colet dev divulg par pesso efetiv utiliz cont par treinament par final par cri
+
+
+alter senh associ cont usuari par acess red tcu pod solicit efetu pel propri usuari mediant ped pel chef imediat
+
+
+paragraf unic alter senh associ cont uso colet dev solicit demand criaca pel respons pel treinament ministr
+
+
+
+capitul iii
+
+
+
+permissa acess recurs
+
+
+permissa acess recurs conced grup usuari pel respect administr recurs
+
+
+grup usuari relat unidad lotaca automatic cri atualiz pel setec bas inform lanc sistem informatiz gesta pesso
+
+
+par grup usuari atualiz manual cab administr grup verific period component inclusa retir tempest membr
+
+
+permissa dev conced form usuari tenh soment privilegi necessari par desempenh funca
+
+
+responsabil administr recurs verific adequ periodic permissa acess
+
+
+cas mudanc lotaca servidor usuari colabor permissa conced raza ativ realiz unidad revog automatic excet cas defin anterior
+
+
+
+capitul iv
+
+
+
+acess red
+
+
+acess red tcu obedec seguint criteri
+
+
+i acess intern conced autor servidor ativ durant vincul tcu usuari colabor durant exercici ativ par tcu
+
+
+ii acess extern conteud restrit fornec pel sit tcu internet prov soment usuari autentic
+
+
+iii acess extern conteud public fornec pel sit tcu internet requ autentic
+
+
+
+aplic ii entr usuari autentic incluems servidor inat
+
+
+acess intern restrit internet pod conced servidor inat usuari intern colabor visitant quand utiliz equip particul observ dispost dest port
+
+
+capitul v
+
+
+
+armazen arquiv red tcu
+
+
+red tcu dev prov ambient segur par armazen arquiv
+
+
+unidad subun grup trabalh comissa comit projet autor servidor ativ colabor diretori especif red tcu
+
+
+definica permissa diretori unidad subun grup trabalh comissa comit projet responsabil administr diretori
+
+
+administr diretori unidad dev solicit central servic concessa alter revog permissa sobr diretori
+
+
+dispost paragraf anterior aplic cas diretori conteud sigil par qua concessa alter revog permissa dev feit pel administr diretori
+
+
+ved armazen seguint inform diretori red tcu
+
+
+i arquiv desacord defin pcsitcu tais arquiv imag apresent audi vide sej inter servic
+
+
+ii program homolog licenci pel tcu
+
+
+iii program conteud potencial prejudicial seguranc red tcu
+
+
+iv program desacord dem criteri requisit seguranc trat pcsitcu
+
+
+v cop seguranc diretori usuari copiaimag estaca trabalh
+
+
+paragraf unic setec dev defin parametr par armazen arquiv equip servidor inclu requisit tamanh maxim tip arquiv permit vist compromet desempenh seguranc servic
+
+
+inform armazen diretori red tcu pod inspecion pel setec ouv assessor seguranc inform governanc assig mei program proced automatiz setec quand houv indici armazen inform desacord dispost anterior
+
+
+proced cit tamb aplic diretori resident estaca trabalh existent tribunal curs sindicanc proced investigat prelimin mediant prev autoriz comissa coorden geral ccg
+
+
+inform armazen diretori red tcu desacord dispost anterior exclu pel setec fat caracteriz incident seguranc inform prev comunic administr diretori chef imediat titul unidad est lot
+
+
+
+capitul vi
+
+
+
+instal execuca program estaca trabalh
+
+
+identific cad estaca trabalh tcu realiz pel setec dev acord padra defin
+
+
+instal program estaca trabalh red tcu atribuica exclus setec pesso empres express autoriz
+
+
+ved usuari privilegi administr acess senh administr local estaca trabalh excet cas autoriz pel setec sej estrit necessari par desempenh funca
+
+
+ved usuari modific configur estaca trabalh desabilit desinstal program seguranc
+
+
+cab setec elabor mant atualiz divulg relaca program homolog par utiliz red tcu
+
+
+compet setec defin criteri requisit seguranc par instal execuca program estaca trabalh red tcu
+
+
+paragraf unic program instal execut desacord criteri requisit seguranc trat desinstal pel setec fat caracteriz incident seguranc inform previ comunic dirigent respect unidad encontr estaca trabalh par sej tom providente pertinent
+
+
+cas haj necess usuari utiliz program comput homolog licenci par tcu dev encaminh solicit aquisica instal setec acompanh justificat quand cas requisit necessari
+
+
+estaca trabalh dev dispor are disc destin inform personaliz dad usuari
+
+
+paragraf unic soment dad dess are estej acord pcsitcu resguard pel central servic quand instal copiaimag
+
+
+ved abertur fisic desmontag equip informat propriedad tcu excet realiz pel setec pesso empres express autoriz
+
+
+ved conexa mais equip pont red excet cas express autoriz pel setec
+
+
+ved conexa red tcu mei cabeament fisic comput mes disposit portatil sej propriedad tribunal excet cas express autoriz pel setec
+
+
+autoriz setec depend solicit justific motiv period conexa bem verific seguranc comput
+
+
+cas necess conexa red tcu comput organiz utiliz dependencia tribunal cab setec autoriz defin criteri requisit seguranc necessari
+
+
+ved instal program licenci par tcu comput mes disposit portatil sej propriedad tribunal excetuandos program especif par acess red tcu
+
+
+
+capitul vii
+
+
+
+disposit portat red sem fio
+
+
+conexa disposit portatil red tcu dev segu proced especif defin pel setec
+
+
+paragraf unic cas disposit portatil particul conexa diret red tcu fic restrit acess internet mei red sem fio
+
+
+cas extravi roub disposit portatil propriedad tcu ocorrente dev imediat registr junt assig incident seguranc inform sem prejuiz dem providente necess
+
+
+setec dev divulg requisit compatibil configur disposit portatil par conexa red sem fio tribunal
+
+
+paragraf unic configur disposit portatil particul par acess red sem fio tcu responsabil usuari
+
+
+setec respons pel problem utiliz red sem fio tcu disposit portat particul pel problem relat acess disposit portat tribunal red terceir
+
+
+
+capitul vii
+
+
+
+disposica fin
+
+
+cab usuari custodiant term pcsitcu garant seguranc inform guard armazen tant comput mes disposit portat independent tribunal proprietari dess equip
+
+
+cab setec administr servic red
+
+
+i garant disponibil servic acord niv servic defin
+
+
+ii implant mant atualiz mecan proced monitor proteca red contr ataqu extern intern
+
+
+iii implant mant atualiz sistem operacion mecan proteca estaca trabalh servidor equip red
+
+
+acess internet red outr orga mei red tcu dev prov exclusiv pel setec
+
+
+paragraf unic enquant conect red tcu comput disposit portatil pod conect internet soluca diferent daquel prov pel setec
+
+
+utiliz recurs integrant red tcu pod monitor pel setec vist identific inobservanc norm defin pcsitcu fornec evidente cas incident seguranc inform respeit direit garant individu previst lei observ proced previst par situaca especif dispost nest port
+
+
+seguint aca indev relat red tcu passiv apur responsabil
+
+
+i conexa red sem autoriz express setec disposit comunic tais disposit acess red sem fio equip red sej propriedad tcu
+
+
+ii utiliz program par captur geraca trafeg red excet pel equip administr red seguranc tcu
+
+
+iii desenvolv manutenca utiliz divulg mecan permit tent viol sistem seguranc red tcu
+
+
+iv tentat acess autoriz recurs indici fraud sabotag
+
+
+v utiliz tentat utiliz indici fraud sabotag cont cuj acess sej autoriz usuari
+
+
+vi utiliz recurs tecnolog par burl disposit seguranc restrica acess implement red
+
+
+vii utiliz indici fraud sabotag mecan provoqu congestion red sobrecarg indisponibil servic
+
+
+vii outr utiliz desacord norm seguranc estabelec pel pcsitcu
+
+
+utiliz red comput extern mei disposit portat propriedad tcu usuari dev obedec tamb norm diretriz daquel red
+
+
+paragraf unic cas divergente entr norm red extern pcsitcu prevalec defin norm tcu
+
+
+cab setec mei central servic esclarec eventu duv usuari quant conform determin atitud utiliz relaca norm uso red tcu
+
+
+violaca norm pcsitcu inobservanc disposit dest port pod acarret isol cumulativ
+
+
+i limit uso red tcu conform estabelec dest port
+
+
+ii term legislacion aplic outr sanca administrat civ pen
+
+
+par servidor ativ uso red tcu pod limit cautelar mediant anuenc titul respect unidad secretariageral qua encontr vincul posterior comunic usuari envolv
+
+
+limit cautel uso red tcu pod propost iniciat setec assig aind mediant solicit justific pel titul unidad lotaca usuari
+
+
+liber limit uso red tcu refer dest realiz pel setec dia util expir med cautel
+
+
+limit uso red tcu usuari colabor extern visitant pod realiz pel setec qualqu temp prev autoriz ccg cab deleg competente assig
+
+
+paragraf unic limit trat dest dev comunic usuari envolv respect liber realiz dia util termin limit
+
+
+incumb comit seguranc inform csi consonanc dispost portariatcu novembr monitor avali periodic pratic seguranc inform relat regr estabelec nest port propor ajust consider necessari
+
+
+cas omiss analis conjunt pel setec pel assig ouv administr recurs questa dirim pel secretariageral presidente segepr
+
+
+fic setec assig autoriz ambit respect competente edit atos fiz necessari par operacionaliz dispost nest port
+
+
+paragraf unic atos refer dest dev submet previ exam ccg
+
+
+est port integr pcsitcu
+
+
+est port entr vigor dat public
+
+
+ubiratan agui
+
+
+
+const revog express
+dispo sobr regr ger uso red comput disposit portat dem recurs tribunal cont unia
+
+

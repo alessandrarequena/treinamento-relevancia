@@ -1,0 +1,1122 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dezembr portariatcu julh resolv
+
+
+fic aprov realiz projet arquitetur inform term anex dest port
+
+
+fic design anal control extern are biblioteconom flav lacerd oliveir maced matricul par exerc funca confianc gerent projet codig fc constant dezembr aloc secret presidente
+
+
+paragraf unic cab gerent projet responsabil exerc competente previst portariatcu observ dispost manual gesta projet
+
+
+fic autoriz secretariogeral administr proced sempr necessari mediant provoc unidad patrocin substituica nomeaca gestor membr projet
+
+
+est port entr vigor dat public
+
+
+adylson mott
+
+
+president
+
+
+public dou seca pag
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+identific gestor projet
+
+
+nom
+
+matricul
+
+email
+
+ramal
+
+flav lacerd oliveir maced
+
+
+
+flaviaomtcugovbr
+
+
+
+funca gestor
+
+orig fc
+
+x
+
+ggerent
+
+
+
+ccoorden
+
+
+
+llid
+
+ssepr
+
+nom substitut eventual
+
+matricul
+
+email
+
+ramal
+
+luis henriqu raj gabagl mitchell
+
+
+
+luishrtcugovbr
+
+
+
+local telefon
+
+isccedocbibliotec
+
+
+identific projet
+
+
+nom projet
+
+arquitetur inform
+
+period realiz
+
+unidad patrocin
+
+
+
+sepr
+
+
+vincul estrateg
+
+
+plan estrateg tcu port tcu janeir
+
+
+
+objet estimul control social
+
+iniciat ampli facilit acess compreensa inform sobr gesta public
+
+b
+
+objet otimiz utiliz conhec organizacional
+
+iniciat estrutur integr pratic gesta conhec
+
+iniciat assegur qualidad inform bas dad corporat tcu
+
+plan diretriz tcu port tcu fevereir
+
+
+
+diretriz aument tempestiv apreci process control extern
+
+med implement soluca gesta arvor conhec observ especial elabor unic bibliotec virtual manu formulari fiscaliz instruca processual sistematiz jurisprudente tcu assunt disponibilizando sit tcu aperfeico divulg aca control portal tcu
+
+b
+
+diretriz melhor nivel conhec tcu junt sociedad
+
+med aperfeico migr inform intranet par portal tcu
+
+plan diretor unidad diretriz med
+
+
+
+diretriz realiz aca gesta conhec tcu
+
+med implement auxili sepr segecex sgs seged setec seplan soluca gesta arvor conhec observ especial elabor unic bibliotec virtual manu formulari fiscaliz instruca processual sistematiz jurisprudente tcu assunt disponibilizando sit tcu aperfeico divulg aca control portal tcu
+
+med auxili setec aperfeico migraca inform intranet par portal tcu
+
+
+problem oportun
+
+
+descrica problem oportun
+
+
+
+inform disponiv portal intranet tcu armazen diferent format sem padra apresent organiz classific consequent flux inform tant par public intern quant extern prejudic compromet produtiv servidor imag institucional
+
+b
+
+dificuldad recuper compartilh inform ambit tribunal deves ausenc diretriz par gesta conteud promov adoca format divers par armazen apresent inform intranet portal alem falt uniformiz conceit represent conteud institucion
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+evoluca quadr apresent dad
+
+
+
+estav previst par mes junh migraca tod conteud intranet par portal pel setec entretant par migraca ocorr form adequ tornavas iminent necess sistematiz estrutur conteud portal decorrente formaliz dest projet proposs migraca foss feit trabalh definica model arquitetur inform par evit duplic esforc mobiliz pesso par trabalh migraca duas oportun dess form alterous plan diretriz tribunal vigor contemplav ess med
+
+b
+
+setor pesquis bibliotec tcu registr ultim ana solicit intern solicit extern referiams inform estav disponiv portal ess estatist mostr dificuldad recuper conteud pel usuari
+
+c
+
+comput solicit ferrament par editor web pel unidad tribunal ultim anos send dreamweav fireworks flash frontpag demand dev suprim pel ferrament gesta conteud portal
+
+d
+
+segu destacas trech pesquis tendenc control gesta public realiz novembr enfatiz necess implant mecan gesta inform tcu tribunal dev abrevi temp respost questa confront pod consegu mediant analis melhor process trabalh implant mecan gesta inform aument disponibil equip sistem informat aument deleg formal competente
+
+
+
+iniciat estrutur conhec vem send implement ambit tribunal projet moderniz control extern regul secret fiscaliz desestatiz parc fundaca getuli varg pretendes present projet faz portal sej capaz apoi iniciat oper ambient integr produca dissemin intercambi inform sirv bas par aca gesta conhec
+
+f
+
+isc intermedi tres diretor finalist enicef diplad cedoc lanc bas par projet arquitetur inform program formaca ace oportun promov oficin gesta conhec reun participant program servidor tcu isc setec sgs curs oficin possibilit naquel ocasia sensibiliz equip tres unidad mapeament problem discussa model tcu invest bem caminh percorr
+
+
+escop projet
+
+
+objet geral projet relaca oportun soluca problem
+
+instrumentaliz gesta conteud portal tcu vist promov acess integr padroniz produt servic inform tribunal
+
+
+met indic produt client
+
+
+met
+
+indic
+
+produt
+
+client
+
+objet especif
+
+quant
+
+dat termin
+
+
+
+apresent projet titul unidad tcu indic respect gestor conteud
+
+
+
+
+
+projet apresent
+
+minut port aceit
+
+apresent projet
+
+minut port presidente defin are respons pel gesta conteud
+
+sepr
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+b
+
+elabor diagnost conteud tcu disponiv atual portal intranet banc dad textual sisdoc
+
+
+
+
+
+
+
+diagnost aprov component
+
+diagnost conteud tcu
+
+isccedoc
+
+setec
+
+c
+
+especific tipolog document
+
+
+
+
+
+
+
+tipolog aprov
+
+document tipolog conteud tcu
+
+recomend alter ambient corporat
+
+isccedoc
+
+setec
+
+sematdicom
+
+
+
+d
+
+elabor taxonom nivel
+
+
+
+
+
+
+
+taxonom tres niv aprov class subcl
+
+document class subcl represent conteud tcu disponiv portal intranet valid
+
+recomend alter ambient corporat
+
+isccedoc
+
+setec
+
+
+
+delimit univers conteud implement portal
+
+
+
+
+
+
+
+univers conteud selecion aprov
+
+document tip conteud inclu portal
+
+
+
+ccg
+
+f
+
+propor model represent inform portal definica atribut tip document form entrad dad
+
+
+
+
+
+
+
+model aprov
+
+document model represent inform valid
+
+isccedoc
+
+setec
+
+g
+
+propor model apresent prototip conteud leiaut bas conceit usabil acessibil ident visual
+
+
+
+
+
+
+
+
+
+model templat tod tel portal defin aprov
+
+document prototip projet tel portal
+
+
+
+ccg
+
+
+
+h
+
+revis polit pratic norm proced gesta conteud tcu
+
+
+
+
+
+
+
+polit gesta conteud defin aprov
+
+minut port polit pratic gesta conteud
+
+ccg
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+i
+
+implant model represent inform entrad dad
+
+
+
+
+
+
+
+conjunt metad atribut implement valid oracl portal
+
+tel entrad dad oracl portal metad implement
+
+isccedoc
+
+setec
+
+j
+
+implant model apresent conteud leiaut solicit certific acessibil entidad competent
+
+
+
+
+
+
+
+model apresent conteud implant
+
+certific acessibil solicit
+
+estrutur conteud public portal nov leiaut acord model defin
+
+solicit formal certific acessibil
+
+isccedoc
+
+setec
+
+
+
+k
+
+atualiz manual naveg atualiz portal
+
+
+
+
+
+
+
+manual atualiz
+
+manual naveg atualiz portal atualiz public
+
+isc
+
+setec
+
+
+
+l
+
+trein provedor conteud par inclusa dad portal
+
+
+
+
+
+
+
+provedor conteud trein
+
+treinament realiz
+
+isc
+
+setec
+
+
+
+m
+
+apoi provedor conteud migraca antig portal intranet par nov estrutur portal
+
+
+
+
+
+
+
+migraca conclu pel provedor conteud unidad
+
+portal dad migr
+
+isc
+
+setec
+
+
+
+
+
+divulg nov estrutur portal
+
+
+
+
+
+
+
+
+
+nov estrutur portal divulg usuari intern extern tcu
+
+material divulg nov portal public distribu
+
+sepr
+
+gestor conteud
+
+
+
+avali satisf usuari intern extern nov portal promov modific necess
+
+
+
+
+
+
+
+satisf usuari intern extern portal analis ajust realiz
+
+relatori consolid opinia usuari acerc usabil arquitetur defin
+
+isccedoc
+
+setec
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+benefici impact esper produt projet
+
+
+
+
+
+aprimor flux inform par public intern extern tribunal
+
+b
+
+estimul par utiliz portal ambient produca dissemin recuper inform apoi aca gesta conhec tcu
+
+c
+
+melhor divulg transparente aca tcu consequent imag institucional consider portal important veicul comunic entr tribunal sociedad
+
+d
+
+simplific ambient computacional manutenca unic ferrament par gesta descentraliz conteud
+
+
+
+reduca cust aquisica diferent ferrament par desenvolv web pel unidad
+
+f
+
+adequ portal julh comit execut govern eletron decret dezembr regulament leis nºs novembr prioridad atend pesso especif dezembr estabelec norm ger criteri basic par promoca acessibil pesso portador deficiente mobil reduz outr providente
+
+
+escop projet vai faz
+
+
+
+
+
+integr tod sistem autom process trabalh tcu armazen conteud unic repositori dad
+
+b
+
+represent inteir teor tod tip document mesm padra
+
+c
+
+elabor tesaur capaz represent tod conteud tribunal
+
+d
+
+elabor sistem gesta eletron document
+
+
+
+implant soluca par autom process trabalh unidad
+
+f
+
+conversa integr sistem leg desenvolv pel propr unidad
+
+g
+
+contrat ferrament eou equip par soluca gesta conteud
+
+h
+
+reestrutur conteud disponiv ntfs bas dad textu
+
+
+identific part envolv projet relaca
+
+
+
+nom part envolv
+
+patrocin client parceir fornecedor intern extern servic recurs human fisic
+
+item negoci negoci part envolv
+
+
+
+sepr
+
+patrocini projet apoi polit operacional projet
+
+b
+
+isc
+
+elabor diagnost conteud tcu definica tipolog document taxonom model represent apresent conteud portal avali satisf usuari treinament provedor conteud disponibiliz estagiari divulg nov estrutur portal
+
+c
+
+setec
+
+definica estrateg migraca conteud intranet par portal operacionaliz definica implant model represent apresent conteud treinament gestor provedor par utiliz ferrament gesta conteud suport projet disponibiliz recurs par contrat consultor implant alter tip conteud mudanc taxonom ambient corporat fornec ferrament editor par web contrat consultor par elabor nov leiaut portal necessari
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+d
+
+sgs
+
+contribuica definica tipolog taxonom
+
+
+
+segedamserec
+
+disponibiliz estagiari
+
+f
+
+seplan
+
+contribuica metodolog par gerenci projet
+
+g
+
+ccg
+
+analis valid soluca propost
+
+h
+
+sematdicom
+
+contribuica definica tipolog taxonom
+
+i
+
+gestor conteud
+
+contribuica diagnost conteud particip treinament par public conteud portal public conteud respect unidad nov estrutur portal
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+ocorr
+
+aca par
+
+evit ocorrente risc
+
+m mitig ocorrente risc
+
+r reduz impact risc ocorr
+
+respons
+
+pel aca
+
+
+
+falt inter compromet gestor conteud tcu projet
+
+alt
+
+medi
+
+m promov ampl divulg projet mostr compromet presidente problem
+
+demonstr gestor cad are importanc reestrutur conteud portal
+
+m promov videoconferente par apresent projet
+
+m propor substituica gestor conteud titul unidad tecnic necessari
+
+equip projet
+
+b
+
+falt disponibil temp gestor conteud par discut propost reestrutur portal par promov alter necess conteud responsabil
+
+alt
+
+alt
+
+m identific pesso cad unidad tenh competente inter disponibil par contribu projet
+
+agend antecipad visit unidad
+
+m propor substituica gestor conteud titul unidad tecnic necessari
+
+equip projet titul unidad
+
+
+
+c
+
+divergente entr gestor conteud cad are acerc definica inform form divulg portal propost
+
+alt
+
+alt
+
+promov reunia entr gestor ond haj divergente
+
+m estabelec polit clar par definica conteud inclu portal
+
+r tom decisa respald dirigent ccg
+
+equip projetoccg
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+
+d
+
+dificuldad tecnolog customiz ferrament gesta conteud oracl portal par adequ definica model propost
+
+alt
+
+medi
+
+contrat consultor par soluca questa pontu desenvolv oracl portal
+
+capacit equip envolv projet par utiliz ferrament oracl portal
+
+analis potencial limit ferrament propor model arquitetur inform
+
+m solicit suport fornecedor ferrament
+
+equip projet
+
+
+
+dificuldad par redefinica leiaut portal
+
+alt
+
+medi
+
+contrat consultor par soluca questa pontu concepca implement nov leiaut
+
+capacit equip envolv projet are webdesign usabil
+
+promov intercambi inform experiente outr orga governament
+
+equip projet
+
+
+relaca outr projet
+
+
+projet predecessor
+
+projet conex
+
+projet sucessor
+
+projet portal
+
+projet diagnost
+
+
+
+
+
+projet aten
+
+
+
+
+
+projet comunic
+
+
+
+
+cust estim
+
+
+recurs
+
+valor estim
+
+dat inicial liber recurs
+
+
+
+consultor par elabor nov leiaut portal
+
+
+
+
+
+b
+
+consultor par desenvolv oracl portal
+
+
+
+
+
+c
+
+estagiari par inclusa dad portal mes
+
+
+
+
+
+total cust estim
+
+
+
+
+
+
+obs coment sobr font recurs bas calcul outr esclarec necessari
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+
+
+
+
+b
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+propost projet
+
+arquitetur inform ai
+
+pagin
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial ativ
+
+flav lacerd oliveir maced
+
+
+
+isc
+
+
+
+integral
+
+luis henriqu raj gabagl mitchell
+
+
+
+setec
+
+
+
+integral
+
+marc martins arauj altounian
+
+
+
+isc
+
+
+
+integral
+
+son luz caldeir del fiac
+
+
+
+isc
+
+
+
+parcial
+
+benon batist brag junior
+
+
+
+setec
+
+
+
+parcial
+
+cassim borg cost
+
+
+
+setec
+
+
+
+parcial
+
+dalton hiss souz
+
+
+
+setec
+
+
+
+parcial
+
+wilson moren sant
+
+
+
+setec
+
+
+
+parcial
+
+marcell august cardos sant
+
+
+
+isc
+
+
+
+parcial
+
+marcel oliveir viann
+
+
+
+sgs
+
+
+
+ativ
+
+
+finaliz
+
+
+dat
+
+assinatur gestor projet
+
+
+
+flav lacerd oliveir maced
+
+gerent projet
+
+
+
+manifest titul unidad patrocin
+
+acord conform ata reunia abertur realiz
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+sepr
+
+ary brag pachec filh
+
+secretari presidente
+
+manifest seplan
+
+manifestom favoravel autoriz projet
+
+seplan
+
+alessandr giubert laranj
+
+secretari planej gesta
+
+
+
+
+
+const revog express
+aprov realiz projet arquitetur inform design gestor
+
+

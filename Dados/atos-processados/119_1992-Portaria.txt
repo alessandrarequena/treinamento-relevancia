@@ -1,0 +1,694 @@
+port
+
+
+
+
+
+
+president tribunal cont unia uso atribuica constitucion leg regiment vist dispost lei julh
+
+
+
+consider dispost combin lei julh
+
+
+
+consider necess adequ disposica lei julh rit process relacion fundament regiment intern resolv
+
+
+
+aprov model anex acorda decisa formaliz numer conform cas pel gabinet ministrorelator cad process relacion submet deliber cam anex i ii
+
+
+
+formaliz acorda mold anex iii vii decisa definit cam process prest tom cont inclu relaca especif par votaca global
+
+
+
+paragraf unic relaca process trat dest assin pel relator pel president cam pel representant ministeri public
+
+
+
+instruca process parec dev observ coub disposica lei julh
+
+
+
+est port entr vigor dat public revog disposica contrari especial port gp julh
+
+
+
+
+
+
+
+
+
+
+
+
+carl atil alvar silv
+president
+
+
+
+
+
+
+
+
+
+
+
+
+
+revog pel port
+
+
+
+
+const revog express
+aprov model acorda decisa formaliz process inclu relaca outr providente
+
+anex i port
+
+
+
+
+
+decisa cam cam
+
+
+
+relatori
+
+
+
+process tc
+
+
+
+class assunt
+
+
+
+respons
+
+
+
+interess
+
+
+
+entidad orga unidad
+
+
+
+vincul
+
+
+
+relator
+
+
+
+orga instruca
+
+
+
+conclusa instruca sintes
+
+
+
+conclusa parec chef imediat sintes
+
+
+
+representant ministeri public
+
+
+
+l conclusa ministeri public sintes
+
+
+
+fundament
+
+
+
+disposit decisa sobr merit process
+
+
+
+decisa constant relaca quer integr ata cam
+
+
+
+dat sessa
+
+
+
+ministrorelator
+
+
+
+
+anex ii port
+
+
+
+
+
+
+acorda cam cam
+
+
+
+
+
+
+
+relatori
+
+
+
+process tc
+
+
+
+class assunt
+
+
+
+respons
+
+
+
+interess
+
+
+
+entidad orga unidad
+
+
+
+vincul
+
+
+
+relator
+
+
+
+orga instruca
+
+
+
+conclusa instruca sintes
+
+
+
+conclusa parec chef imediat sintes
+
+
+
+representant ministeri public
+
+
+
+l conclusa ministeri public sintes
+
+
+
+fundament
+
+
+
+disposit decisa sobr merit process
+
+
+
+acorda constant relaca quer integr ata cam
+
+
+
+dat sessa
+
+
+
+ministrorelator
+
+
+
+
+
+anex iii port
+
+
+
+
+
+
+
+relaca
+
+
+
+relaca process submet cam par votaca form regiment intern item iii
+
+
+
+relator
+
+
+
+prestaca tom cont
+
+
+
+acorda ministr tribunal cont unia reun cam sessa acord fundament i lei julg regul cont segu relacion dar quitaca responsavel acord parec emit aut
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+
+
+
+
+sal sessa
+
+
+
+nom president nom relator
+
+
+
+fui present
+
+
+
+representant ministeri public
+
+
+
+
+
+
+
+deix espac branc
+
+
+
+
+anex iv port
+
+
+
+
+relaca
+
+
+
+relaca process submet cam par votaca form regiment intern item iii
+
+
+
+relator
+
+
+
+prestaca tom cont
+
+
+
+acorda ministr tribunal cont unia reun cam sessa acord fundament i lei julg regul cont segu relacion ressalv dar quitaca responsavel acord parec emit aut
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+
+
+
+
+sal sessa
+
+
+
+nom president nom relator
+
+
+
+fui present
+
+
+
+
+anex v port
+
+
+
+
+
+
+relaca
+
+
+
+relaca process submet cam par votaca form regiment intern item iii
+
+
+
+relator
+
+
+
+prestaca tom cont
+
+
+
+acorda ministr tribunal cont unia reun cam sessa acord fundament ii lei julg regul cont segu relacion ressalv dar quitaca responsavel fazendos recomend oes suger s parec emit aut
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+sal sessa
+
+
+
+nom president nom relator
+
+
+
+fui present
+
+
+
+representant ministeri public
+
+
+
+
+
+
+
+deix espac branc
+
+
+
+
+anex vi port
+
+
+
+
+relaca
+
+
+
+relaca process submet cam par votaca form regiment intern item iii
+
+
+
+relator
+
+
+
+prestaca tom cont
+
+
+
+acorda ministr tribunal cont unia reun cam sessa acord fundament i lei julg regul cont segu relacion ressalv dar quitaca responsavel pel almoxarif acord parec emit aut
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+
+
+
+
+sal sessa
+
+
+
+nom president nom relator
+
+
+
+fui present
+
+
+
+representant ministeri public
+
+
+
+
+
+
+
+deix espac branc
+
+
+
+
+anex vii port
+
+
+
+
+
+
+relaca
+
+
+
+relaca process submet cam par votaca form regiment intern item iii
+
+
+
+relator
+
+
+
+prestaca tom cont
+
+
+
+acorda ministr tribunal cont unia reun cam sessa acord fundament i ii lei julg regul cont segu relacion ressalv dar quitaca gestor julg regul s cont dar quitaca responsavel pel almoxarif faz recomend suger parec emit aut
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+tc nom respons
+
+
+
+class assunt
+
+
+
+entidad orga unidad conform cas
+
+
+
+vincul cas
+
+
+
+exercici period
+
+
+
+
+
+
+
+sal sessa
+
+
+
+nom president nom relator
+
+
+
+fui present
+
+
+
+representant ministeri public
+
+

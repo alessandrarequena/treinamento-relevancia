@@ -1,0 +1,730 @@
+port
+
+
+
+
+
+
+
+
+
+president tribunal cont unia uso atribuica leg regiment tend vist dispost mai resolv
+
+
+fic institu regulament term dest port mal remess document mrdoc ambit tribunal cont unia
+
+
+encaminh pel mrdoc envelop lacr sel model tamanh constant anex i dest port process document correspondente reque cuid maior seguranc remess justifiqu economic envi diret pel empres brasileir correi telegraf ect
+
+
+process document correspondente remet via mrdoc dev entregu unidad distribuidor envelop defin anterior par encaminh destin via malot ect
+
+
+consider unidad distribuidor servic protocol expedica spt sed servic administr sa unidad localiz estad
+
+
+unidad sed tribunal entreg envelop mrdoc spt h par remess efetu mesm dia
+
+
+sas unidad tribunal estad estabelec horari par entreg envelop mrdoc vist possibilit remess mesm dia
+
+
+unidad distribuidor efetu control remess envelop mrdoc intermedi numer nel impress relacionando gui remess malot tribunal
+
+
+distribuica destinatari final envelop mrdoc feit sem conteud sej manuse excet quand spt sas atu distribuidor conteud refer envelop situaca estara tamb condica destinatari
+
+
+unidad remetent relacion gui intitul remessadistribuica document conform anex ii iii document encaminh junt refer gui dentr envelop mrdoc segu
+
+
+i remess mei mrdoc par mesm destinatari extern tribunal gui tip anex ii vias
+
+
+via par control destinatari extern
+
+
+b via par control unidad distribuidor obter recib destinatari
+
+
+c via par control unidad remetent est via devolv recib unidad distribuidor
+
+
+d via par control temporari unidad remetent elimin quand retorn via
+
+
+ii remess mei mrdoc par mais destinatari extern tribunal gui tip b anex iii vias
+
+
+via par control unidad distribuidor obter recib destinatari extern
+
+
+b via par control unidad remetent est via devolv recib unidad distribuidor
+
+
+c via par control temporari unidad remetent elimin quand retorn via
+
+
+iii remess mei mrdoc par unidad tribunal gui tip anex ii vias
+
+
+via par control destinatari intern
+
+
+b via par control unidad remetent est via devolv pel unidad destin respect recib
+
+
+correspondente exig comprovant receb remet via malot ect sem inclusa mrdoc fic dispens qualqu control remess
+
+
+control entreg envelop mrdoc pel unidad sed spt par inclusa malot ect feit criteri unidad remetent
+
+
+inclusa mrdoc process document pap natur sigil dev preced cumpriment norm tribunal disciplin mat
+
+
+spt far distribuica correspondente document unidad sed precis comprovant receb destinatari extern localiz brasil dev document relacion pel unidad remetent gui remessadistribuica document anex ii iii segu
+
+
+i remess par mesm destinatari extern gui tip anex ii vias
+
+
+via par control destinatari extern
+
+
+b via par control unidad distribuidor obter recib destinatari
+
+
+c via par control unidad remetent est devolv recib unidad distribuidor
+
+
+ii remess par mais destinatari extern gui tip b anex iii vias
+
+
+via par control unidad distribuidor obter recib destinatari extern
+
+
+b via par control unidad remetent est devolv recib unidad distribuidor
+
+
+paragraf unic document consider urgent exij comprovant receb cop expedient entregu preferencial pel unidad remetent cuj destinatari fac part clientel faz uso gui refer nest
+
+
+entreg document encaminh via mrdoc exij recib destinatari cop expedient cas citaca notific diligente entr outr feit pel unidad distribuidor brevidad possivel devolv cop recib orig
+
+
+correspondente remet via ect registr relacion pel unidad remetent formulari propri correi dev cont respect numer registr
+
+
+unidad remetent sed cumpriment determin dest encaminh correspondente spt par adoca providente fin remess via ect
+
+
+unidad distribuidor providenci aquisica formulari propri numer registr junt ect par cumpriment determin dest
+
+
+quand formulari ect contiv numer vias suficient par control remess document unidad remetent distribuidor dev utiliz control alternat cop xerograf outr
+
+
+unidad dev solicit servic almoxarif almox envelop mrdoc acord tip quantidad fiz necessari par atend demand cad unidad remetent
+
+
+quand unidad tribunal receb equivoc correspondente document dev providenci imediat nov remess destinatari corret observ conform cas proced disciplin nest port
+
+
+unidad remetent sempr possivel dev privilegi uso outr servic oferec pel empres brasileir correi telegraf fim sej observ relaca custobenefici remess correspondente
+
+
+est port entr vigor dat public
+
+
+revogams disposica contrari
+
+
+
+
+
+homer sant
+
+
+president
+
+
+
+
+
+
+port janeir
+
+
+
+
+
+
+const revog express
+institu regulament mal remess document mrdoc tribunal cont unia outr providente
+
+anex i
+
+
+
+
+
+
+
+frent
+
+
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+mal remess document mrdoc
+
+
+
+
+
+
+
+
+
+destinatari
+
+
+
+
+
+
+
+enderec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cidad
+
+
+
+uf
+
+fon s
+
+
+
+
+
+
+
+
+vers
+
+
+
+
+
+
+
+
+
+
+
+
+remetent
+
+
+
+
+
+
+
+enderec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cidad
+
+
+
+uf
+
+fon s
+
+
+
+
+
+
+
+dimensa envelop defin pel abnt milimetr
+
+
+
+seri b b x seri c c x
+
+
+x x c x
+
+
+b x
+
+
+b x
+
+
+
+
+port janeir
+
+
+
+
+anex ii
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+remess distribuica document
+
+gui tip
+
+final
+
+control remess document par mesm destinatari
+
+par uso unidad remetent
+
+unidad distribuidor
+
+
+
+
+
+unidad orig
+
+
+
+
+
+via
+
+
+
+
+
+tip destinatari
+
+
+
+extern
+
+tip remess
+
+
+
+mrdoc
+
+destinatari
+
+
+
+
+
+envelop
+
+
+
+
+
+dat
+
+
+
+
+
+unidad tcu
+
+outr
+
+
+seplomdiombddesenvprojmrdoc anex i ii iii
+
+
+
+port janeir
+
+
+
+
+
+continu anex ii
+
+
+
+
+
+expedient
+
+observ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obs combin unidad tcu outr pod aplic nest formulari
+
+recib unidad distribuidor
+
+recib unidad destin
+
+
+
+
+
+
+
+port janeir
+
+
+
+
+
+anex iii
+
+
+
+
+dat carimb assinatur
+
+
+
+dat carimb assinatur
+
+
+
+
+seplomdiombddesenvprojmrdoc anex i ii iii
+
+
+
+
+
+
+
+port janeir
+
+
+
+
+
+continu anex iii
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+instruca preenchiment gui tip
+
+final
+
+control remess document par mesm destinatari
+
+tip
+
+tip
+
+
+
+tip usuari
+
+camp par preench
+
+remess
+
+destinatari
+
+via
+
+via control
+
+formulari remess distribuica document
+
+mrdoc
+
+extern
+
+
+
+destinatari extern
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas
+
+
+
+
+
+
+
+unidad distribuidor
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas recib unidad destin expedient
+
+
+
+
+
+
+
+unidad remetent
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas recib unidad distribuidor
+
+
+
+
+
+
+
+unidad remetent
+
+idem via par control temporari remetent
+
+
+
+unidad tcu
+
+
+
+destinatari intern
+
+unidad orig destinatari via envelop dat expedient observ quand cas
+
+
+
+
+
+
+
+unidad remetent
+
+unidad orig destinatari via envelop dat expedient observ quand cas recib unidad destin
+
+outr
+
+extern
+
+
+
+destinatari extern
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas
+
+
+
+
+
+
+
+unidad distribuidor
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas recib unidad destin
+
+
+
+
+
+
+
+unidad remetent
+
+unidad distribuidor orig destinatari via envelop dat expedient observ quand cas recib unidad distribuidor
+
+
+
+
+
+
+
+
+
+
+

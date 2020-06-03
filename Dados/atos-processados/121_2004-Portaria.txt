@@ -1,0 +1,4466 @@
+port
+
+
+
+president tribunal cont unia exercici competente leg regiment
+
+
+consider diversific conjunt invest program ambit projet apoi moderniz tcu parcial financi recurs oriund banc interamerican desenvolv bid
+
+
+consider implement invest previst projet requ particip diret indiret diferent unidad tribunal bem outr orga administr federal entidad internacion
+
+
+consider necess padroniz atuaca unidad tribunal envolv projet identificandos atribuica responsabil mod resguard boa execuca aca previst
+
+
+consider final conveniente confer process trabalh trat est port atribut impessoal resolv
+
+
+fic aprov form anex dest port manual proced operacion projet apoi moderniz tcu vist baliz atuaca servidor dest tribunal trabalh vincul mencion projet
+
+
+compet unidad coorden projet ucp institu pel port setembr mant atualiz manual aprov est port bem esclarec eventu duv receb sugesta par aperfeico fiz necessari
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+
+
+
+tribunal cont unia
+
+
+
+
+
+
+
+
+const revog express
+aprov manual proced operacion projet apoi moderniz tcu
+
+anex unic
+
+
+
+
+
+
+
+
+
+
+
+
+
+projet apoi moderniz tcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manual proced operacion
+
+
+
+
+indic
+
+
+
+
+
+realiz planej ativ
+
+
+
+realiz planej orcamentari
+
+
+
+realiz execuca orcament financeir
+
+
+
+elabor program financeir ativ
+
+
+
+promov contrat bens servic cpl
+
+
+
+realiz process pre qualific pnud
+
+
+
+promov contrat bens servic pnud pf
+
+
+
+promov contrat bens servic pnud firm pre qualific
+
+
+
+promov contrat bens servic pnud lc abert
+
+
+
+promov contrat bens servic pnud abert nacional
+
+
+
+promov contrat bens servic pnud abert internacional
+
+
+
+acompanh execuca ativ projet
+
+
+
+acompanh execuca fisic contrat uts
+
+
+
+proced encerr contrat
+
+
+
+autoriz ativ contrat sujeit ordem servic
+
+
+
+autoriz rep recurs pnud
+
+
+
+liber pagament contrat
+
+
+
+prest cont adiant recurs tesour
+
+
+
+
+
+
+
+
+
+
+proced
+
+realiz planej ativ
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca realiz par
+
+
+planej ativ projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp
+
+
+unidad tecnic tribunal cont unia uttcu
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c fluxogram realiz planej ativ
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+coorden particip reunia par discut ajust plan aquisica
+
+
+b formaliz alter plan aquisica
+
+
+c reprogram ativ project
+
+
+d atualiz cronogram desembols financeir projet
+
+
+
+compet uttcu
+
+
+particip reunia par discut ajust plan aquisica
+
+
+
+
+condica especif
+
+
+
+
+bas plan aquisica projet apoi moderniz tcu semestral gerent ucp dev coorden reunia par discussa ajust plan junt particip coorden tecnic aquisica administrativofinanceir ucp utstcu
+
+
+
+not planej ativ projet apoi moderniz tcu pod realiz eventual sempr houv demand utstcu cas ucp bas evoluca process licitatori eou execuca projet tod sint necess promov replanej mesm
+
+
+
+realiz reunia par discussa ajust plan aquisica
+
+
+coorden aquisica ucp formaliz alter arquiv plan aquisica
+
+
+
+efetu alter arquiv plan aquisica coorden tecnic ucp reprogram ativ registr arquiv control ativ projet ms project
+
+
+
+plan ativ defin reprogram coorden administrativofinanceir ucp atualiz arquiv cronogram desembols financeir projet servira instrument par par realiz process realiz planej orcamentari paralel dev realiz ativ descrit seguint process
+
+
+promov contrat bens servic cpl
+
+
+realiz process prequalific pnud
+
+
+promov contrat bens servic pnud pesso fisic
+
+
+promov contrat bens servic pnud firm prequalific
+
+
+promov contrat bens servic pnud list curt abert
+
+
+promov contrat bens servic pnud licit abert nacional
+
+
+promov contrat bens servic pnud licit abert internacional
+
+
+
+
+
+
+
+
+proced
+
+realiz planej orcamentari
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca realiz par
+
+
+realiz planej orcamentari par projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp secret orcament financ tribunal cont unia secoftcu
+
+
+
+
+document complement
+
+
+
+
+cronogram desembols financeir projet
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c fluxogram realiz planej orcamentari
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+levant inform sobr andament aquisica contrat
+
+
+necess recurs orcamentari
+
+
+b consolid necess recurs orcamentari
+
+
+c encaminh inform necess recurs par orcament
+
+
+
+compet secoftcu
+
+
+inclu necess recurs propost orcament tcu envi par aprov
+
+
+b envi propost orcament tcu par sof
+
+
+
+compet plenari tcu
+
+
+aprov propost orcament tcu
+
+
+
+
+condica especif
+
+
+
+
+bas cronogram desembols financeir projet ger conform descrit process realiz planej ativ anual coorden tecnic aquisica ucp levant inform sobr
+
+
+andament aquisica necess recurs orcamentari atrav
+
+
+consult plan aquisica projet apoi moderniz tcu
+
+
+paralel coorden administrativofinanceir ucp levant inform sobr andament contrat necess recurs orcamentari par est final atrav consult sistemat intern acompanh contabil financeir excel par verific ativ execut execut
+
+
+
+levant necess recurs orcamentari par aquisica par execuca contrat coorden administrativofinanceir ucp consol necess recurs orcamentari arquiv demonstrat necess recurs orcamentari font natur despes excel
+
+
+
+consolid necess recurs orcamentari gerent ucp prep memor encaminh demonstrat necess recurs orcamentari font natur despes envi secoftcu par orcament
+
+
+
+receb demonstrat necess recurs orcamentari font natur despes secoftcu inclu necess recurs orcamentari par projet apoi moderniz tcu propost orcament tcu envi par aprov pel plenari tcu
+
+
+
+aprov propost orcament tcu pel plenari tcu secoftcu envi propost par secret orcament financ sof consol propost orcament orga feder proced ajust necessari consolid propost orcament sof prep projet lei encaminh congress nacional par aprov aprov public lei orcament anual loa sof lib recurs orcamentari tcu inform secoftcu liber secret tesour nacional stn envi secoftcu cronogram desembols financeir anual est inform ucp
+
+
+
+quand liber recurs orcamentari pel sof secof realiz descentraliz mesm par ugs inclusiv ucp
+
+
+
+quand receb recurs financeir secret tesour nacional stn secof realiz descentraliz mesm par ugs inclusiv ucp
+
+
+
+recurs orcamentari liber cronogram desembols financeir inform ucp dev realiz ativ previst process realiz execuca orcamentariafinanceir elabor program financeir ativ sempr necessari
+
+
+
+
+
+
+
+
+
+
+proced
+
+realiz execuca orcamentariafinanceir
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca realiz par
+
+
+realiz execuca orcamentariafinanceir projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+est proced aplic unidad coorden projet ucp secret orcament financ tribunal cont unia secoftcu presidente tribunal cont unia
+
+
+
+
+document complement
+
+
+
+
+cronogram desembols financeir projet
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c fluxogram realiz execuca orcamentariafinanceir
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+propor adequ ativ posterg execuca previst plan aquisica project
+
+
+b simul desembols bas propost adiament ativ
+
+
+aquisica previst ativ contrat
+
+
+c emit aprov demonstrat necess recurs
+
+
+d aprov propost intern execuca ativ envi par secof
+
+
+adequ plan aquisica project dad propost aprov
+
+
+
+compet secoftcu
+
+
+emit minut port limit empenh envi par presidente tcu par assinatur
+
+
+
+compet presidente tcu
+
+
+assin public port limit empenh
+
+
+
+
+condica especif
+
+
+
+
+projet lei orcament public recurs orcamentari liber pel sof inform ucp pel secoftcu conform descrit process realiz planej orcamentari eou hav contingenci orcamentari eventu long ana coorden tecnic aquisica ucp propo adequ ativ previst plan aquisica arquiv control ativ projet ms project identific aquisica ativ contrat pod posterg funca orcament dispon
+
+
+
+realiz adequ plan aquisica projet control ativ projet project coorden administrativofinanceir ucp simul arquiv sistemat intern acompanh contabil financeir desembols bas propost posterg apresent pel coorden tecnic aquisica ucp cas propost sej suficient par atend orcament dispon coorden administrativofinanceir ucp solicit coorden tecnic aquisica ucp apresent nov propost adiament ativ projet
+
+
+
+cas propost atend orcament dispon coorden administrativofinanceir ucp prep demonstrat necess recurs font natur despes emit memor encaminh par gerent par aprov
+
+
+
+receb demonstrat necess recurs gerent ucp analis assin memor encaminh enviando secoftcu
+
+
+
+aprov demonstrat necess recurs pel gerent ucp coorden tecnic aquisica ucp realiz adequ arquiv plan aquisica projet excel control ativ projet project respectiv
+
+
+
+receb demonstrat necess recurs ucp secoftcu emit minut port limit empenh encaminh atrav memor presidente tcu par assinatur providente public
+
+
+
+adequ arquiv plan aquisica projet control
+
+
+ativ projet public port limit empenh dev
+
+
+realiz ativ previst process elabor program financeir ativ
+
+
+
+
+
+
+
+
+proced
+
+elabor program financeir ativ
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca realiz par
+
+
+elabor program financeir ativ projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp secret orcament financ tribunal cont unia secoftcu presidente tribunal cont unia unidad tecnic tribunal cont unia uttcu secret tesour nacional stn
+
+
+
+
+document complement
+
+
+
+
+cronogram desembols financeir projet
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c fluxogram elabor program financeir ativ
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+levant contrat assin period
+
+
+b consolid dad program financeir
+
+
+c analis aprov program financeir ativ
+
+
+d envi program financeir ativ par secof
+
+
+
+compet secoftcu
+
+
+consolid program financeir tcu emit minut port
+
+
+desembols financeir anual
+
+
+b aliment siaf dad program financeir tcu
+
+
+c solicit stn adiant recurs necessari
+
+
+d inform ucp liber adiant recurs pel stn
+
+
+
+compet presidente tcu
+
+
+assin providenci public port desembols financeir anual
+
+
+
+compet uttcu
+
+
+fornec ucp inform sobr previsa execuca fisic ativ
+
+
+
+compet stn
+
+
+analis solicit adiant recurs
+
+
+b transfer recurs par cont especif
+
+
+
+
+condica especif
+
+
+
+
+recurs orcamentari liber pel sof cronogram desembols financeir inform ucp conform descrit process realiz planej orcamentari plan aquisica project atualiz port limit empenh public conform descrit process realiz execuca orcamentariafinanceir utstcu fornec ucp inform sobr previsa execuca fisic ativ contrat atrav email
+
+
+
+paralel coorden tecnic ucp inform coorden
+
+
+administrat financeir contrat assin period bas consult dad arquiv control ativ projet project
+
+
+not est process realiz anual hav possibil reprogram long ana sempr necess
+
+
+
+receb inform sobr previsa execuca fisic ativ contrat utstcu sobr contrat assin period coorden tecnic ucp coorden administrat financeir consol dad program financeir utilizandos arquiv sistemat intern acompanh contabil financeir excel consolid program financeir emit document dad previsa execuca financeir font natur despes envi gerent ucp
+
+
+
+receb document dad previsa execuca financeir font natur despes gerent ucp analis aprov prepar memor encaminh mesm secoftcu
+
+
+
+receb memor ucp secoftcu consol program financeir tcu emit minut port cronogram desembols anual envi presidente tcu atrav memor
+
+
+
+receb minut port cronogram desembols anual presidente tcu assin providente public mesm
+
+
+
+public port cronogram desembols anual secoftcu aliment siaf dad program financeir tcu verif program questa anual eventual program anual dad siaf atualiz inform program financeir tcu stn lib automatic recurs financeir conform previst port
+
+
+
+cas program sej eventual secoftcu solicit stn adiant recurs financeir
+
+
+
+receb solicit adiant recurs financeir secoftcu stn analis ped aprov transfer recurs par cont especif
+
+
+
+transfer recurs par cont especif secoftcu inform ucp adiant recurs
+
+
+
+transfer recurs par cont especif estand ucp inform adiant dev realiz ativ previst process liber pagament contrat autoriz rep recurs pnud sempr necess
+
+
+
+
+
+proced
+
+promov contrat bens servic cpl
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi comissa permanent licit cpl
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu acomissa permanent licit cpl banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c fluxogram promov contrat bens servic cpl
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par inici process aquisica
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi edital licit bid par objeca
+
+
+envi edital licit par cpl
+
+
+divulg edital licit
+
+
+sessa abertur document habilit
+
+
+sessa abertur propost tecnic
+
+
+sessa abertur propost comerci
+
+
+divulg propost vencedor
+
+
+assinatur contrat
+
+
+c verific document aquisica acord plan aquisica
+
+
+d solicit ut ajust document aquisica
+
+
+envi edital licit bid par objeca
+
+
+f envi edital par cpl
+
+
+g verific contrat envolv financi bid
+
+
+h inform bid assinatur contrat
+
+
+i envi process fiscaliz par ut par acompanh execuca
+
+
+
+compet uttcu
+
+
+prepar document par licit
+
+
+b envi document aquisica par seged par envi cpl
+
+
+c analis propost tecnic licitant junt cpl
+
+
+
+compet cpl
+
+
+solicit secof verific disponibil recurs orcamentari
+
+
+b prepar edital licit
+
+
+c envi edital licit par parec jurid
+
+
+d verific necess envi edital bid
+
+
+providenci divulg edital licit bens eou servic
+
+
+f realiz sessa abertur habilit licitant
+
+
+g analis document habilit licitant prepar relatori
+
+
+acompanh process licitatori
+
+
+h realiz sessa abertur propost tecnic licitant
+
+
+i analis propost tecnic licitant junt uttcu atualiz
+
+
+relatori acompanh process licitatori
+
+
+j realiz sessa abertur propost comerci licitant
+
+
+k realiz escolh propost vencedor atualiz relatori acompanh process licitatori
+
+
+l divulg escolh propost vencedor
+
+
+
+compet bid
+
+
+analis edital licit emit objeca
+
+
+b registr nov contrat sistem bid
+
+
+c inform numer registr contrat prism ucp
+
+
+
+compet secoftcu
+
+
+inform disponibil recurs orcamentari reserv recurs ucp
+
+
+
+compet conjur
+
+
+realiz analis emit parec sobr edital licit
+
+
+
+compet semat
+
+
+prepar contrat obter assinatur abrir process fiscaliz
+
+
+b envi process fiscaliz cop contrat ucp
+
+
+
+
+condica especif
+
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor document par inici process licit assin pel gerent ucp envi mesm
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor criteri avali cas projet basic prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas projet basic coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp revis document cas estej acord plan aquisica devolv atrav memor assin pel gerent
+
+
+ucp uttcu par adequ
+
+
+
+cas tor cas projet basic estej acord plan
+
+
+aquisica gerent ucp envi par seged atrav memor par encaminh cpl
+
+
+
+receb tor cas projet basic cpl solicit secoftcu atrav memor verific disponibil recurs orcamentari par realiz process licitatori
+
+
+
+receb memor cpl secoftcu inform atrav memor disponibil recurs
+
+
+
+houv disponibil recurs orcamentari cpl prep
+
+
+document par licit edital contrat bens servic anex encaminh atrav memor conjur par parec
+
+
+
+receb edital contrat bens servic anex conjur analis emit parec solicit cpl adequ cas necess
+
+
+
+edital contrat bens servic anex estiv
+
+
+conform cpl verif necess envi edital anex bid par objeca
+
+
+
+houv necess cpl providente divulg edital enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess envi bid cpl encaminh atrav memor par ucp par envi bid gerent ucp encaminh edital contrat bens servic anex bid atrav ofici par objeca
+
+
+
+not exist necess envi edital anex bid cas sej primeir tip modal licit estiv ocorr
+
+
+
+envi document bid coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi edital contrat bens servic anex bid par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt edital contrat bens servic anex bid analis emit document objeca devolv ucp edital acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh memor cpl solicit abertur process licitatori
+
+
+
+envi memor solicit abertur process licitatori cpl coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process licitatori ucp cpl providente divulg edital contrat bens servic anex
+
+
+
+public edital contrat bens servic anex
+
+
+interess prepar document habilit propost tecnic comercial entreg cpl praz estabelec
+
+
+
+receb propost interess dat estabelec cpl realiz sessa abertur document habilit interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur document habilit par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+realiz sessa abertur document habilit
+
+
+interess cpl proced analis mesm prep relatori
+
+
+acompanh process licitatori result dest etap process licitatori
+
+
+
+conhec classific par proxim etap process licitatori cpl realiz sessa abertur propost tecnic interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost tecnic par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost tecnic interess classific etap
+
+
+habilit cpl junt uttcu solicitant particip
+
+
+coorden aquisica gerent ucp proced analis mesm tal mod result dest etap process registr pel cpl relatori acompanh process licitatori
+
+
+
+conhec classific par ultim etap process licitatori cpl realiz sessa abertur propost comerci interess
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost comerci par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost comerci interess classific etap
+
+
+propost tecnic cpl realiz escolh propost vencedor conform
+
+
+modal questa atualiz relatori acompanh process
+
+
+licitatori
+
+
+
+conclu process licitatori cpl providente divulg escolh propost vencedor
+
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel semattcu prep contrat providente assinatur mesm pel part envolv providente abertur process fiscaliz assin contrat semattcu envi process fiscaliz ucp
+
+
+
+receb process fiscaliz coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica verif contrat envolv
+
+
+financi bid envolv envi process fiscaliz uttcu solicitant par acompanh execuca contrat
+
+
+
+contrat envolv financi bid coorden aquisica
+
+
+prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb process fiscaliz pel uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+realiz process pre qualific pnud
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent pre qualific empres par particip process licitatori
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp
+
+
+representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram realiz process pre qualific pnud
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+identific are temat contempl pre qualific
+
+
+b atualiz project inform
+
+
+inici process pre qualific
+
+
+envi edital pre qualific bid
+
+
+divulg edital pre qualific
+
+
+sessa abertur document habilit
+
+
+envi relatori pre qualific bid
+
+
+objeca bid
+
+
+c envi ofici par pnud par elabor edital pre qualific
+
+
+d envi bid edital pre qualific
+
+
+encaminh document par pnud par realiz process pre
+
+
+qualific
+
+
+f envi relatori acompanh process pre qualific bid
+
+
+g solicit pnud providente par regulariz pendenc
+
+
+
+compet pnud
+
+
+elabor edital pre qualific
+
+
+b divulg edital pre qualific jorn loc db
+
+
+c realiz sessa abertur habilit licitant
+
+
+d analis document habilit interess
+
+
+emit relatori acompanh process pre qualific
+
+
+f regulariz pendenc apont pel bid
+
+
+
+compet bid
+
+
+examin aprov relatori acompanh process pre
+
+
+qualific
+
+
+b solicit regulariz pendenc identific relatori acompanh process pre qualific
+
+
+
+
+condica especif
+
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet orcament aprov par tcu marc logic cronogram trabalh acord emprestim bid govern brasileir coorden aquisica ucp identif are temat contempl process prequalific empres par process licitatori ambit projet apoi moderniz tcu
+
+
+
+identific are temat contempl process prequalific empres par process licitatori gerent ucp prep ofici encaminh par pnud par elabor edital prequalific
+
+
+
+paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process prequalific par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici pnud prep document par licit edital prequalific encaminh atrav ofici ucp
+
+
+
+receb pnud ofici junt edital prequalific gerent ucp prep ofici encaminh par bid par objeca
+
+
+
+paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi edital prequalific bid par objeca par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt edital prequalific bid analis emit document objeca devolv ucp edital acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh ofici pnud solicit abertur process pre
+
+
+qualific
+
+
+
+envi ofici solicit abertur process prequalific pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process prequalific ucp pnud providente divulg edital prequalific jorn loc db
+
+
+
+public edital prequalific interess prepar document habilit entreg pnud praz estabelec
+
+
+
+receb document habilit interess dat estabelec pnud realiz sessa abertur document habilit interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur document habilit par posterior acompanh ativ conform descrit
+
+
+process acompanh execuca ativ projet
+
+
+
+realiz sessa abertur document habilit
+
+
+interess pnud proced analis mesm prep relatori
+
+
+acompanh process prequalific result dest etap process encaminh ucp
+
+
+
+receb relatori acompanh process prequalific gerent ucp prep ofici inform result process envi bid junt cop relatori pel pnud
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis
+
+
+
+estiv acord emit document objeca encaminhando ucp atrav ofici receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+process prequalific aprov bid inform ucp atrav ofici solicit pnud regulariz situaca
+
+
+
+receb ofici bid gerent ucp prep encaminh pnud ofici solicit regulariz pendenc
+
+
+
+receb ofici ucp pnud providente regulariz pendenc apont pel bid
+
+
+
+
+
+
+
+
+proced
+
+promov contrat bens servic pnud pesso fisic
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi pnud modal pesso fisic
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram promov contrat bens servic pnud pesso fisic
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par elabor tor ca
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi pnud document contrat
+
+
+public avis convoc interess
+
+
+conclusa fas analis cvs
+
+
+divulg propost vencedor
+
+
+envi pnud par contrat
+
+
+assinatur contrat
+
+
+c analis viabil contrat pesso fisic previst plan
+
+
+aquisica
+
+
+d consult serec rh tcu exist funcionari poss realiz servic contrat
+
+
+revis document contrat elabor pel uts envi pnud
+
+
+f inform ut solicitant existente funcionari intern par realiz servic
+
+
+g inform viabil contrat pesso fisic ut solicitant
+
+
+h adequ avis convoc envi par segedamsemat par public
+
+
+i verific necess inform result process licitatori bid
+
+
+j inform bid result process licitatori necessari
+
+
+k solicit adjudic process licitatori pnud
+
+
+l emit envi ofici solicit contrat pnud
+
+
+m envi cop contrat par ut par acompanh
+
+
+inform bid assinatur contrat
+
+
+
+compet uttcu
+
+
+consult ucp sobr viabil contrat pesso fisic previst plan aquisica
+
+
+b prepar term referente criteri avali
+
+
+c analis document escolh vencedor solicit contrat ucp
+
+
+
+compet pnud
+
+
+analis document aquisca emit minut avis convoc
+
+
+interess pf
+
+
+b divulg escolh vencedor
+
+
+c prepar contrat obter assinatur
+
+
+
+compet bid
+
+
+analis result process licitatori emit objeca
+
+
+b registr nov contrat sistem bid
+
+
+c inform numer registr contrat prism ucp
+
+
+
+compet sematseged
+
+
+public avis convoc interess pf dou jornal circul nacional
+
+
+
+
+condica especif
+
+
+
+
+est process duas entrad possiv
+
+
+contrat pesso fisic pf previst plan aquisica
+
+
+b contrat pesso fisic pf previst plan aquisica
+
+
+
+contrat pesso fisic pf estiv previst plan aquisica bas definica plan ativ defin conform descrit process realiz planej ativ propri plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor term referente tor criteri avali propost ca assin pel gerent ucp envi mesm prossegu process est descrit part ativ dest proced
+
+
+contrat pesso fisic pf estiv previst plan aquisica uttcu interess realiz consult ucp sobr viabil contrat pf atrav email
+
+
+
+receb email consult uttcu interess coorden
+
+
+tecnic aquisica ucp analis viabil contrat verific servic questa enquadr component plan aquisica prodoc exist recurs disponiv par est contrat exist viabil gerent ucp inform uttcu interess atrav memor viabil solicit prepar tor criteri avali prossegu process est descrit part ativ dest proced
+
+
+
+houv viabil gerent ucp inform uttcu interess atrav email viabil contrat pesso fisic previst plan aquisica
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor cas
+
+
+prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp consult serectcu atrav email par verific exist funcionari intern tcu poss realiz servic solicit pel uttcu
+
+
+
+houv funcionari intern dispon par atend demand uttcu gerent ucp envi email comunic realiz process contrat funca existente funcionari intern dispon par execut servic
+
+
+
+houv disponibil funcionari intern coorden aquisica ucp revis document contrat cas estej acord criteri pnud devolv atrav memor assin pel gerent ucp uttcu par adequ
+
+
+
+cas tor cas estej acord criteri pnud gerent ucp envi par pnud atrav ofici encaminh paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi document aquisica tor cas pnud par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici junt tor cas pnud prep minut avis convoc interess encaminh atrav ofici ucp
+
+
+
+receb pnud minut avis convoc interess
+
+
+coorden aquisica ucp complet dad pertinent realiz process encaminh minut atrav email par sematseged par providente public
+
+
+
+receb email ucp sematseged providente divulg avis convoc interess diari oficial unia dou jorn circul nacional
+
+
+
+public avis convoc interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat public par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel interess prepar cvs entreg uttcu solicitant praz estabelec
+
+
+
+receb cvs interess dat estabelec uttcu solicitant analis escolh vencedor dentr criteri avali predetermin prep relatori process avali cvs solicit contrat atrav memor ucp encaminh relatori junt cvs seis classific diplom vencedor
+
+
+
+paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project dat conclusa fas analis cvs par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+solicit contrat coorden aquisica ucp verif
+
+
+necess inform bid result process houv necess prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess comunic bid result process licitatori coorden aquisica ucp prep ofici inform result process licitatori assin pel gerent ucp envi par bid junt cop relatori acompanh process licitatori elabor pel pnud
+
+
+
+not exist necess inform result process licitatori bid cas sej primeir tip licit estiv ocorr
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis emit document objeca encaminhando atrav ofici ucp
+
+
+
+receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh atividadesconform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud
+
+
+
+receb ofici ucp solicit adjudic process licitatori pnud providente divulg vencedor
+
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel gerent ucp emit ofici solicit contrat envi pnud par providente
+
+
+
+envi ofici solicit contrat pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project dat envi par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit contrat ucp pnud prep
+
+
+contrat providente assinatur mesm pel part envolv assin
+
+
+contrat pnud envi cop mesm ucp
+
+
+
+receb cop contrat assin coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica envi cop contrat uttcu solicitant par acompanh execuca contrat prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb cop contrat pel
+
+
+uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+promov contrat bens servic pnud firm pre qualific
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi pnud modal firm prequalific
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram promov contrat bens servic pnud firm pre
+
+
+qualific
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par elabor tor ca list curt
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi pnud tor ca
+
+
+envi sdp bid par objeca
+
+
+envi ofici pnud par abertur process licitatori
+
+
+sessa abertur propost tecnic
+
+
+sessa abertur propost comerci
+
+
+negoci propost vencedor
+
+
+objeca bid
+
+
+divulg propost vencedor
+
+
+envi pnud par contrat
+
+
+assinatur contrat
+
+
+c revis tor criteri avali propost
+
+
+d envi pnud tor criteri avali propost
+
+
+verific necess envi solicit propost anex sdp bid
+
+
+f envi edital licit bid par objeca
+
+
+g envi ofici pnud par abertur process licitatori
+
+
+h particip sessa abertur propost tecnic licitant
+
+
+i particip analis propost tecnic licitant
+
+
+j particip sessa abertur propost comerci licitant
+
+
+k particip negoci par ajust propost
+
+
+l inform bid result process licitatori
+
+
+m solicit adjudic process licitatori pnud
+
+
+emit envi ofici solicit contrat pnud
+
+
+envi cop contrat par ut par acompanh
+
+
+p inform bid assinatur contrat
+
+
+
+compet uttcu
+
+
+elabor tor criteri avali propost list curt
+
+
+b analis propost tecnic licitant junt pnud
+
+
+
+compet pnud
+
+
+prepar document par licit
+
+
+b envi sdp par firm list curt
+
+
+c realiz sessa abertur propost tecnic licitant
+
+
+d analis propost tecnic licitant junt uttcu atualiz
+
+
+relatori acompanh process licitatori
+
+
+realiz sessa abertur propost comerci licitant
+
+
+f realiz escolh propost vencedor atualiz relatori acompanh process licitatori
+
+
+g realiz negoci par ajust propost escolh atualiz relatori
+
+
+acompanh process licitatori
+
+
+h divulg escolh propost vencedor
+
+
+i prepar contrat obter assinatur
+
+
+
+compet bid
+
+
+analis sdp emit objeca
+
+
+b analis result process licitatori emit objeca
+
+
+c registr nov contrat sistem bid
+
+
+d inform numer registr contrat prism ucp
+
+
+
+
+condica especif
+
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor term referente tor criteri avali propost ca list curt assin pel gerent ucp envi mesm
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor cas list curt prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas list curt
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp revis document cas estej acord criteri pnud devolv atrav memor assin pel gerent ucp uttcu par adequ
+
+
+
+cas tor cas list curt estej acord criteri pnud gerent ucp envi par pnud atrav ofici encaminh paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi document aquisica tor cas list curt pnud par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici junt tor cas list curt pnud prep document par licit solicit propost anex sdp encaminh atrav ofici ucp
+
+
+
+receb pnud ofici junt solicit propost anex sdp coorden aquisica ucp verif necess envi sdp bid par objeca
+
+
+
+houv necess gerent ucp envi acompanh ofici pnud solicit abertur process licitatori enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess envi bid gerent ucp encaminh atrav ofici par objeca
+
+
+
+not exist necess envi sdp bid cas sej primeir tip licit est ocorr valor envolv maior us mil par contrat servic maior us mil par bens
+
+
+
+envi document bid coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi solicit propost anex sdp bid par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt solicit propost anex sdp bid analis emit document objeca devolv ucp sdp acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh ofici pnud solicit abertur process licitatori
+
+
+
+envi ofici solicit abertur process licitatori pnud
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process licitatori ucp pnud envi sdp empres list curt
+
+
+
+receb sdp interess prepar propost tecnic comercial entreg pnud praz estabelec
+
+
+
+receb propost interess dat estabelec pnud realiz sessa abertur propost tecnic interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost tecnic par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost tecnic interess pnud junt
+
+
+uttcu solicitant particip coorden aquisica gerent ucp proced analis mesm tal mod result dest etap process registr pel pnud relatori acompanh process licitatori
+
+
+
+conhec classific pnud realiz sessa abertur propost comerci interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost comerci par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost comerci interess classific etap propost tecnic pnud realiz escolh propost vencedor conform
+
+
+modal questa atualiz relatori acompanh process
+
+
+licitatori
+
+
+
+escolh propost vencedor pnud particip coorden aquisica gerent ucp proced fas negoci junt representant empres vencedor par ajust propost escolh acord term entr part pnud atualiz relatori acompanh process licitatori
+
+
+
+conclu fas negoci coorden tecnic ucp atualiz arquiv control ativ projet ms project dat conclusa dest fas par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica ucp verif necess inform bid result process licitatori houv necess prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess comunic bid result process licitatori coorden aquisica ucp prep ofici inform result process licitatori assin pel gerent ucp envi par bid junt cop relatori acompanh process licitatori elabor pel pnud
+
+
+
+not exist necess envi sdp bid cas sej primeir tip licit est ocorr valor envolv maior us mil par contrat servic maior us mil par bens
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis emit document objeca encaminhando atrav ofici ucp
+
+
+
+receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud
+
+
+
+receb ofici ucp solicit adjudic process licitatori pnud providente divulg propost vencedor
+
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel gerent ucp emit ofici solicit contrat envi pnud par providente
+
+
+
+envi ofici solicit contrat pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project dat envi par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit contrat ucp pnud prep
+
+
+contrat providente assinatur mesm pel part envolv assin
+
+
+contrat pnud envi cop mesm ucp
+
+
+
+receb cop contrat assin coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica envi cop contrat uttcu solicitant par acompanh execuca contrat prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb cop contrat pel
+
+
+uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+promov contrat bens servic pnud list curt abert
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi pnud modal list curt abert
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram promov contrat bens servic pnud list curt abert
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par elabor tor ca list curt abert
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi pnud tor ca
+
+
+envi sdp bid par objeca
+
+
+envi ofici pnud par abertur process licitatori
+
+
+sessa abertur document habilit
+
+
+sessa abertur propost tecnic
+
+
+sessa abertur propost comerci
+
+
+negoci propost vencedor
+
+
+objeca bid
+
+
+divulg propost vencedor
+
+
+envi pnud par contrat
+
+
+assinatur contrat
+
+
+c revis tor criteri avali propost
+
+
+d envi pnud tor criteri avali propost list curt abert
+
+
+verific necess envi document bid
+
+
+f envi sdp bid par objeca
+
+
+g envi ofici pnud par abertur process licitatori
+
+
+h particip sessa abertur propost tecnic licitant
+
+
+i particip analis propost tecnic licitant
+
+
+j particip sessa abertur propost comerci licitant
+
+
+k particip negoci par ajust propost escolh
+
+
+l verific necess comunic result process licitatori bid
+
+
+m inform bid result process licitatori necessari
+
+
+solicit adjudic process licitatori pnud
+
+
+emit envi ofici solicit contrat pnud
+
+
+p envi cop contrat par ut par acompanh
+
+
+q inform bid assinatur contrat
+
+
+
+compet uttcu
+
+
+elabor tor criteri avali propost list curt abert
+
+
+b analis propost tecnic licitant junt pnud
+
+
+
+compet pnud
+
+
+prepar document par licit
+
+
+b envi sdp par firm list curt abert
+
+
+c realiz sessa abertur habilit licitant
+
+
+d analis document habilit licitant prepar relatori
+
+
+acompanh process licitatori
+
+
+realiz sessa abertur propost tecnic licitant
+
+
+f analis propost tecnic licitant junt uttcu atualiz
+
+
+relatori acompanh process licitatori
+
+
+g realiz sessa abertur propost comerci licitant
+
+
+h realiz escolh propost vencedor atualiz relatori acompanh process licitatori
+
+
+i realiz negoci par ajust propost escolh atualiz relatori
+
+
+acompanh process licitatori
+
+
+j divulg escolh propost vencedor
+
+
+k prepar contrat obter assinatur
+
+
+
+compet bid
+
+
+analis sdp emit objeca
+
+
+b analis result process licitatori emit objeca
+
+
+c registr contrat sistem bid
+
+
+d inform numer registr contrat prism
+
+
+
+
+condica especif
+
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor term referente tor criteri avali propost ca list curt abert assin pel gerent ucp envi mesm
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor cas list curt abert prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas list curt abert coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp revis document cas estej acord criteri pnud devolv atrav memor assin pel gerent
+
+
+ucp uttcu par adequ
+
+
+
+cas tor cas list curt abert estej acord criteri pnud gerent ucp envi par pnud atrav ofici encaminh paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi document aquisica tor cas list curt abert pnud par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici junt tor cas list curt abert pnud prep document par licit solicit propost anex sdp encaminh atrav ofici ucp
+
+
+
+receb pnud ofici junt solicit propost anex sdp coorden aquisica ucp verif necess envi sdp bid par objeca
+
+
+
+houv necess gerent ucp envi acompanh ofici pnud solicit abertur process licitatori enta dev realiz ativ descrit part item dest proced
+
+
+houv necess envi bid gerent ucp encaminh atrav ofici par objeca
+
+
+
+not exist necess envi sdp bid cas sej primeir tip modal licit est ocorr
+
+
+
+envi document bid coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi solicit propost anex sdp bid par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt solicit propost anex sdp bid analis emit document objeca devolv ucp sdp acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh ofici pnud solicit abertur process licitatori
+
+
+
+envi ofici solicit abertur process licitatori pnud
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process licitatori ucp pnud envi sdp empres list curt abert
+
+
+
+receb sdp interess prepar document habilit propost tecnic comercial entreg pnud praz estabelec
+
+
+
+receb propost interess dat estabelec pnud realiz sessa abertur document habilit interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur document habilit par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+realiz sessa abertur document habilit
+
+
+interess pnud proced analis mesm prep relatori
+
+
+acompanh process licitatori result dest etap process licitatori
+
+
+
+conhec classific par proxim etap process licitatori pnud realiz sessa abertur propost tecnic interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost tecnic par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost tecnic interess classific etap
+
+
+habilit pnud junt uttcu solicitant particip coorden aquisica gerent ucp proced analis mesm tal mod result dest etap process registr pel pnud relatori acompanh process licitatori
+
+
+
+conhec classific par ultim etap process licitatori pnud realiz sessa abertur propost comerci interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost comerci par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost comerci interess classific etap propost tecnic pnud realiz escolh propost vencedor conform
+
+
+modal questa atualiz relatori acompanh process
+
+
+licitatori
+
+
+
+escolh propost vencedor pnud particip coorden aquisica gerent ucp proced fas negoci junt representant empres vencedor par ajust propost escolh acord term entr part pnud atualiz relatori acompanh process licitatori
+
+
+
+conclu fas negoci coorden tecnic ucp atualiz arquiv control ativ projet ms project dat conclusa dest fas par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica ucp verif necess inform bid result process licitatori houv necess prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess comunic bid result process licitatori coorden aquisica ucp prep ofici inform result process licitatori assin pel gerent ucp envi par bid junt cop relatori acompanh process licitatori elabor pel pnud
+
+
+
+not exist necess comunic bid result process licitatori cas sej primeir tip modal licit est ocorr
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis emit document objeca encaminhando atrav ofici ucp
+
+
+
+receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud
+
+
+
+receb ofici ucp solicit adjudic process licitatori pnud providente divulg propost vencedor
+
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel gerent ucp emit ofici solicit contrat envi pnud par providente
+
+
+
+envi ofici solicit contrat pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project dat envi par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit contrat ucp pnud prep
+
+
+contrat providente assinatur mesm pel part envolv assin
+
+
+contrat pnud envi cop mesm ucp
+
+
+receb cop contrat assin coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica envi cop contrat uttcu solicitant par acompanh execuca contrat prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb cop contrat pel
+
+
+uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+promov contrat bens servic pnud licit abert nacional
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi pnud modal licit abert nacional
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram promov contrat bens servic pnud licit abert nacional
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par elabor tor ca
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi pnud tor ca
+
+
+envi sdp bid par objeca
+
+
+envi ofici pnud par abertur process licitatori
+
+
+sessa abertur document habilit
+
+
+sessa abertur propost tecnic
+
+
+sessa abertur propost comerci
+
+
+negoci propost vencedor
+
+
+objeca bid
+
+
+divulg propost vencedor
+
+
+envi pnud par contrat
+
+
+assinatur contrat
+
+
+c revis tor criteri avali propost
+
+
+d envi pnud tor criteri avali propost
+
+
+verific necess envi edital licit bid
+
+
+f envi edital licit bid par objeca
+
+
+g envi ofici pnud par abertur process licitatori
+
+
+h particip sessa abertur propost tecnic licitant
+
+
+i particip analis propost tecnic licitant
+
+
+j particip sessa abertur propost comerci licitant
+
+
+k particip negoci par ajust propost junt pnud
+
+
+l verific necess comunic bid result process licitatori
+
+
+m solicit adjudic process licitatori pnud
+
+
+emit envi ofici solicit contrat pnud
+
+
+envi cop contrat par ut par acompanh
+
+
+p inform bid assinatur contrat
+
+
+
+compet uttcu
+
+
+elabor tor criteri avali propost
+
+
+b analis propost tecnic licitant junt pnud
+
+
+
+compet pnud
+
+
+prepar document par licit
+
+
+b divulg edital jorn loc
+
+
+c realiz sessa abertur habilit licitant
+
+
+d analis document habilit licitant prepar relatori
+
+
+acompanh process licitatori
+
+
+realiz sessa abertur propost tecnic licitant
+
+
+f analis propost tecnic licitant junt uttcu atualiz
+
+
+relatori acompanh process licitatori
+
+
+g realiz sessa abertur propost comerci licitant
+
+
+h realiz escolh propost vencedor atualiz relatori acompanh process licitatori
+
+
+i realiz negoci par ajust propost escolh atualiz relatori
+
+
+acompanh process licitatori
+
+
+j divulg escolh propost vencedor
+
+
+k prepar contrat obter assinatur
+
+
+
+compet bid
+
+
+analis edital emit objeca
+
+
+b analis result process licitatori emit objeca
+
+
+c registr nov contrat sistem bid
+
+
+d inform numer registr contrat prism ucp
+
+
+
+
+condica especif
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor term referente tor criteri avali propost ca assin pel gerent ucp envi mesm
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor cas
+
+
+prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp revis document cas estej acord criteri pnud devolv atrav memor assin pel gerent ucp uttcu par adequ
+
+
+
+cas tor cas estej acord criteri pnud gerent ucp envi par pnud atrav ofici encaminh paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi document aquisica tor cas pnud par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici junt tor cas pnud prep
+
+
+document par licit edital contrat bens servic anex encaminh atrav ofici ucp
+
+
+
+receb pnud ofici junt edital contrat bens servic anex coorden aquisica ucp verif necess envi edital anex bid par objeca
+
+
+
+houv necess gerent ucp envi acompanh ofici pnud solicit abertur process licitatori enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess envi bid gerent ucp encaminh atrav ofici par objeca
+
+
+
+not exist necess envi edital anex bid cas sej primeir tip licit estiv ocorr valor licit questa sej maior us mil par contrat servic maior us mil par bens obras
+
+
+
+envi document bid coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi edital contrat bens servic anex bid par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt edital contrat bens servic anex bid analis emit document objeca devolv ucp edital acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh ofici pnud solicit abertur process licitatori
+
+
+
+envi ofici solicit abertur process licitatori pnud
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process licitatori ucp pnud providente divulg edital contrat bens servic anex jorn loc
+
+
+
+public edital contrat bens servic anex
+
+
+interess prepar document habilit propost tecnic comercial entreg pnud praz estabelec
+
+
+
+receb propost interess dat estabelec pnud realiz sessa abertur document habilit interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur document habilit par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+realiz sessa abertur document habilit
+
+
+interess pnud proced analis mesm prep relatori
+
+
+acompanh process licitatori result dest etap process licitatori
+
+
+
+conhec classific par proxim etap process licitatori pnud realiz sessa abertur propost tecnic interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost tecnic par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost tecnic interess classific etap
+
+
+habilit pnud junt uttcu solicitant particip coorden aquisica gerent ucp proced analis mesm tal mod result dest etap process registr pel pnud relatori acompanh process licitatori
+
+
+
+conhec classific par ultim etap process licitatori pnud realiz sessa abertur propost comerci interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost comerci par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost comerci interess classific etap propost tecnic pnud realiz escolh propost vencedor conform
+
+
+modal questa atualiz relatori acompanh process
+
+
+licitatori
+
+
+
+escolh propost vencedor pnud particip coorden aquisica gerent ucp proced fas negoci junt representant empres vencedor par ajust propost escolh acord term entr part pnud atualiz relatori acompanh process licitatori
+
+
+
+conclu fas negoci coorden tecnic ucp atualiz arquiv control ativ projet ms project dat conclusa dest fas par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica ucp verif necess inform bid result process licitatori houv necess prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud enta dev realiz ativ descrit part item dest proced
+
+
+
+houv necess comunic bid result process licitatori coorden aquisica ucp prep ofici inform result process licitatori assin pel gerent ucp envi par bid junt cop relatori acompanh process licitatori elabor pel pnud
+
+
+
+not exist necess inform result process licitatori bid cas sej primeir tip licit estiv ocorr valor licit questa sej maior us mil par contrat servic maior us mil par bens obras
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis emit document objeca encaminhando atrav ofici ucp
+
+
+
+receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud
+
+
+
+receb ofici ucp solicit adjudic process licitatori pnud providente divulg propost vencedor
+
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel gerent ucp emit ofici solicit contrat envi pnud par providente
+
+
+
+envi ofici solicit contrat pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project dat envi par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit contrat ucp pnud prep
+
+
+contrat providente assinatur mesm pel part envolv assin
+
+
+contrat pnud envi cop mesm ucp
+
+
+
+receb cop contrat assin coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica envi cop contrat uttcu solicitant par acompanh execuca contrat prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb cop contrat pel
+
+
+uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+promov contrat bens servic pnud licit abert internacional
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ referent contrat bens servic par tcu intermedi pnud modal licit abert internacional
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia uttcu representant program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+plan ativ elabor pel ucp
+
+
+b plan aquisica projet apoi moderniz tcu
+
+
+c prodoc
+
+
+d fluxogram promov contrat bens servic pnud licit abert internacional
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor envi par ut memor par elabor tor ca
+
+
+b atualiz project inform
+
+
+inici process licitatori
+
+
+receb document aquisica prepar
+
+
+envi pnud tor ca
+
+
+envi sdp bid par objeca
+
+
+envi ofici pnud par abertur process licitatori
+
+
+sessa abertur document habilit
+
+
+sessa abertur propost tecnic
+
+
+sessa abertur propost comerci
+
+
+negoci propost vencedor
+
+
+objeca bid
+
+
+divulg propost vencedor
+
+
+envi pnud par contrat
+
+
+assinatur contrat
+
+
+c revis tor criteri avali propost
+
+
+d envi pnud tor criteri avali propost
+
+
+envi edital licit bid par objeca
+
+
+f envi ofici pnud par abertur process licitatori
+
+
+g particip sessa abertur propost tecnic licitant
+
+
+h particip analis propost tecnic licitant
+
+
+i particip sessa abertur propost comerci licitant
+
+
+j particip negoci par ajust propost junt pnud
+
+
+k inform bid result process licitatori
+
+
+l solicit adjudic process licitatori pnud
+
+
+m emit envi ofici solicit contrat pnud
+
+
+envi cop contrat par ut par acompanh
+
+
+inform bid assinatur contrat
+
+
+
+compet uttcu
+
+
+elabor tor criteri avali propost
+
+
+b analis propost tecnic licitant junt pnud
+
+
+
+compet pnud
+
+
+prepar document par licit
+
+
+b divulg edital contrat bens servic jorn loc db
+
+
+c realiz sessa abertur habilit licitant
+
+
+d analis document habilit licitant prepar relatori
+
+
+acompanh process licitatori
+
+
+realiz sessa abertur propost tecnic licitant
+
+
+f analis propost tecnic licitant junt uttcu atualiz
+
+
+relatori acompanh process licitatori
+
+
+g realiz sessa abertur propost comerci licitant
+
+
+h realiz escolh propost vencedor atualiz relatori acompanh process licitatori
+
+
+i realiz negoci par ajust propost escolh atualiz relatori
+
+
+acompanh process licitatori
+
+
+j divulg escolh propost vencedor
+
+
+k prepar contrat obter assinatur
+
+
+
+compet bid
+
+
+analis edital emit objeca
+
+
+b analis result process licitatori emit objeca
+
+
+c registr nov contrat sistem bid
+
+
+d inform numer registr contrat prism ucp
+
+
+
+
+condica especif
+
+
+
+
+bas definica plan ativ defin conform descrit process realiz planej ativ plan aquisica projet coorden aquisica ucp elabor memorand par utstcu solicit elabor term referente tor criteri avali propost ca assin pel gerent ucp envi mesm
+
+
+
+envi memor par utstcu coorden tecnic ucp atualiz arquiv control ativ projet ms project inform inici process licitatori par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb memor ucp utstcu elabor tor cas
+
+
+prep memor encaminh dest document envi ucp
+
+
+
+receb memor utstcu tor cas coorden tecnic ucp atualiz arquiv control ativ projet ms project inform receb document aquisica prepar pel utstcu par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp revis document cas estej acord criteri pnud devolv atrav memor assin pel gerent ucp uttcu par adequ
+
+
+
+cas tor cas estej acord criteri pnud gerent ucp envi par pnud atrav ofici encaminh paralel coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi document aquisica tor cas pnud par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici junt tor cas pnud prep
+
+
+document par licit edital contrat bens servic anex encaminh atrav ofici ucp
+
+
+
+receb pnud ofici junt edital contrat bens servic anex gerent ucp encaminh atrav ofici bid par objeca
+
+
+
+envi document bid coorden tecnic ucp atualiz arquiv control ativ projet ms project inform envi edital contrat bens servic anex bid par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ucp ofici junt edital contrat bens servic anex bid analis emit document objeca devolv ucp edital acompanh document objeca ofici encaminh
+
+
+
+receb document objeca bid gerent ucp envi
+
+
+acompanh ofici pnud solicit abertur process licitatori
+
+
+
+envi ofici solicit abertur process licitatori pnud
+
+
+coorden tecnic ucp atualiz arquiv control ativ projet ms project est inform par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit abertur process licitatori ucp pnud providente divulg edital contrat bens servic anex jorn loc db
+
+
+
+public edital contrat bens servic anex
+
+
+interess prepar document habilit propost tecnic comercial entreg pnud praz estabelec
+
+
+
+receb propost interess dat estabelec pnud realiz sessa abertur document habilit interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur document habilit par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+realiz sessa abertur document habilit
+
+
+interess pnud proced analis mesm prep relatori
+
+
+acompanh process licitatori result dest etap process licitatori
+
+
+
+conhec classific par proxim etap process licitatori pnud realiz sessa abertur propost tecnic interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost tecnic par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost tecnic interess classific etap
+
+
+habilit pnud junt uttcu solicitant particip coorden aquisica gerent ucp proced analis mesm tal mod result dest etap process registr pel pnud relatori acompanh process licitatori
+
+
+
+conhec classific par ultim etap process licitatori pnud realiz sessa abertur propost comerci interess coorden tecnic ucp atualiz arquiv control ativ projet ms project dat realiz sessa abertur propost comerci par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+abert propost comerci interess classific etap propost tecnic pnud realiz escolh propost vencedor conform
+
+
+modal questa atualiz relatori acompanh process
+
+
+licitatori
+
+
+
+escolh propost vencedor pnud particip coorden aquisica gerent ucp proced fas negoci junt representant empres vencedor par ajust propost escolh acord term entr part pnud atualiz relatori acompanh process licitatori
+
+
+
+conclu fas negoci coorden tecnic ucp atualiz arquiv control ativ projet ms project dat conclusa dest fas par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici inform result process licitatori assin pel gerent ucp envi par bid junt cop relatori acompanh process licitatori elabor pel pnud
+
+
+
+receb relatori acompanh process licitatori elabor pel pnud bid analis emit document objeca encaminhando atrav ofici ucp
+
+
+
+receb document objeca bid coorden tecnic ucp atualiz arquiv control ativ projet ms project dat receb refer document par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel coorden aquisica ucp prep ofici solicit adjudic process licitatori assin pel gerent ucp envi par pnud
+
+
+
+receb ofici ucp solicit adjudic process licitatori pnud providente divulg propost vencedor
+
+
+public result process licitatori coorden tecnic ucp atualiz arquiv control ativ projet ms project dat divulg par posterior acompanh ativ conform descrit process acompanh execuca ativ projet paralel gerent ucp emit ofici solicit contrat envi pnud par providente
+
+
+
+envi ofici solicit contrat pnud coorden tecnic ucp atualiz arquiv control ativ projet ms project dat envi par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+receb ofici solicit contrat ucp pnud prep
+
+
+contrat providente assinatur mesm pel part envolv assin
+
+
+contrat pnud envi cop mesm ucp
+
+
+
+receb cop contrat assin coorden tecnic ucp atualiz arquiv control ativ projet ms project dat assinatur contrat par posterior acompanh ativ conform descrit process acompanh execuca ativ projet
+
+
+
+paralel coorden aquisica envi cop contrat uttcu solicitant par acompanh execuca contrat prep ofici inform formaliz contrat assin pel gerent envi bid junt cop contrat assin
+
+
+
+receb ofici inform formaliz contrat ucp bid
+
+
+registr contrat sistem prism inform ucp numer registr mesm
+
+
+
+registr contrat sistem bid receb cop contrat pel
+
+
+uttcu gestor dev realiz ativ previst process autoriz ativ contrat sujeit ordem servic acompanh execuca ativ projet eou acompanh execuca fisic contrat uts conform necess
+
+
+
+
+
+
+
+
+proced
+
+acompanh execuca ativ projet
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca realiz par
+
+
+acompanh ativ projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad coorden projet ucp unidad tecnic tribunal cont unia utstcu program naca unid par desenvolv pnud banc interamerican desenvolv bid
+
+
+
+
+document complement
+
+
+
+
+fluxogram acompanh execuca ativ projet
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+emit relatori acompanh ativ projet ativ atras envial gestor respons
+
+
+b atualiz project inform receb gestor sobr taref
+
+
+apresent relatori
+
+
+c registr desvi caus apresent par cad ativ
+
+
+d atualiz acompanh marc logic
+
+
+tom med cabiv par solucion desvi registral project
+
+
+
+compet uttcu
+
+
+prest inform sobr taref apresent relatori acompanh ativ projet ativ atras
+
+
+
+compet pnud
+
+
+prest inform sobr taref apresent relatori acompanh ativ projet ativ atras
+
+
+
+compet bid
+
+
+prest inform sobr taref apresent relatori acompanh ativ projet ativ atras
+
+
+
+
+condica especif
+
+
+
+
+arquiv control ativ projet project atualiz
+
+
+sistematic pel coorden tecnic ucp inform ger process
+
+
+promov contrat bens servic cpl
+
+
+b promov contrat bens servic pnud pesso fisic
+
+
+c promov contrat bens servic pnud firm prequalific
+
+
+d promov contrat bens servic pnud list curt abert
+
+
+promov contrat bens servic pnud licit abert nacional
+
+
+f promov contrat bens servic pnud licit abert internacional
+
+
+g realiz prequalific pnud
+
+
+h liber pagament contrat
+
+
+i autoriz ativ contrat sujeit ordem servic
+
+
+
+arquiv control ativ projet project atualiz contrat registr sistem bid cop contrat envi uttcu gestor mesm conform descrit process mencion f item dest proced coorden tecnic ucp mensal emit relatori acompanh ativ projet atrav ms project apont tod ativ atras moment emit relatori mesm encaminh via email gerent ucp par cienc
+
+
+
+receb relatori acompanh ativ projet gerent ucp tom conhec envi email respons pel ativ atras uttcu pnud bid par esclarec
+
+
+
+respons receb email relatori acompanh ativ projet ativ atras coorden prep comunic email ucp apresent motiv lev atras nov praz previst par conclusa ativ questa
+
+
+
+receb emails respons motiv nov praz execuca coorden tecnic ucp atualiz arquiv control ativ projet project inform
+
+
+
+atualiz control ativ projet project coorden tecnic ucp registr desvi identific period caus apont pel respons arquiv analis desempenh ativ word servira subsidi posterior par atualiz marc logic
+
+
+
+semestral coorden tecnic ucp atualiz arquiv marc logic inform arquiv analis desempenh ativ word
+
+
+
+marc logic atualiz coorden tecnic gerent ucp
+
+
+analis situaca tom med cabiv par solucion desvi
+
+
+identific desdobr dest med dev registr arquiv control ativ projet project pel coorden tecnic ucp par poss realiz ativ descrit process acompanh desempenh projet apoi moderniz tcu
+
+
+
+
+
+
+
+
+proced
+
+acompanh execuca fisic contrat uts
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ acompanh execuca fisic contrat assin ambit projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad tecnic tribunal cont unia utstcu
+
+
+
+
+document complement
+
+
+
+
+contrat fornec bens prest servic assin ambit projet apoi moderniz tcu
+
+
+b fluxogram acompanh execuca fisic contrat uts
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet uttcu
+
+
+acompanh execuca fisic contrat
+
+
+b verific conform bemserv entreg pel fornecedorprest especific contrat
+
+
+c solicit fornecedorprest regulariz pendenc cas necessari
+
+
+d atest receb bemserv faturanf
+
+
+preench memor solicit pagament contrat
+
+
+f verific objet contrat cumpr entreg ultim produt
+
+
+g inform ucp cumpriment objet
+
+
+h encaminh memor solicit pagament junt document par ucp
+
+
+
+
+condica especif
+
+
+
+
+registr contrat fornec bens prest servic
+
+
+assin ambit projet apoi moderniz tcu sistem bid receb cop contrat conform descrit process
+
+
+promov contrat bens servic cpl
+
+
+b promov contrat bens servic pnud pesso fisic
+
+
+c promov contrat bens servic pnud firm prequalific
+
+
+d promov contrat bens servic pnud list curt abert
+
+
+promov contrat bens servic pnud licit abert nacional
+
+
+f promov contrat bens servic pnud licit abert internacional
+
+
+
+utstcu gestor dev acompanh execuca fisic contrat responsabil
+
+
+
+receb fornecedor prestador servic produt previst contrat uttcu gestor verif conform bem servic entreg especific contrat cas produt bemserv apresent conform uttcu gestor dev solicit fornecedorprest regulariz pendenc par dar prossegu process
+
+
+
+cas produt bemserv estej conform especific contrat uttcu gestor atest receb bemserv faturanot fiscal relatori ativ pesso fisic receb fornecedorprest prep memor encaminh document ucp mencion seguint inform dat receb produt dat aceit atest produt
+
+
+
+envi document memor faturanot fiscal relatori ativ pesso fisic ucp par providente pagament uttcu dev verific receb produt bemserv questa objet contrat conclu ist produt ultim previst contrat
+
+
+
+cas objet contrat tenh sid cumpr ultim produt uttcu dev registr memor mencion item cumpriment objet envial junt document fornecedorprest par pagament ucp paralel uttcu dev realiz ativ descrit process proced encerr contrat
+
+
+
+not cas contrat tenh sid realiz pel semattcu uttcu dev
+
+
+encaminh ucp memor document par pagament atrav process fiscaliz
+
+
+
+cas produt bemserv sej intermediari uttcu envi gerent ucp memor document fornecedorprest par pagament
+
+
+
+not cas contrat tenh sid realiz pel semattcu uttcu dev
+
+
+encaminh ucp memor document par pagament atrav process fiscaliz
+
+
+receb memor uttcu document fornecedorprest par pagament faturanot fiscal relatori ativ pesso fisic ucp dev realiz ativ descrit process liber pagament contrat
+
+
+
+
+
+
+
+
+proced
+
+proced encerr contrat
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ par encerr
+
+
+contrat assin ambit projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad control projet ucp unidad tecnic tribunal cont unia utstcu program naca unidad par desenvolv pnud semattcu
+
+
+
+
+document complement
+
+
+
+
+contrat fornec bens prest servic assin ambit projet apoi moderniz tcu
+
+
+b fluxogram proced encerr contrat
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+verific contrat financi pel bid comunic bid
+
+
+encerr
+
+
+b arquiv document pertinent contrat
+
+
+
+compet uttcu
+
+
+envi par ucp document pertinent contrat par arquiv
+
+
+b tom providente par encerr contrat
+
+
+c comunic conclusa providente ucp
+
+
+
+compet pnud
+
+
+emit atest conclusa contrat envi contrat
+
+
+
+compet semattcu
+
+
+emit atest conclusa contrat envi contrat
+
+
+
+
+condica especif
+
+
+
+
+cas objet contrat assin ambit projet apoi moderniz tcu tenh sid cumpr ultim produt conform descrit process acompanh execuca fisic contrat uts uttcu envi tod document pertinent contrat ucp par arquiv tom providente cabiv necess par encerr contrat tais recolh crach terceiriz liber sal disponibiliz par trabalh terceir solicit cancel acess terceir red tcu ect
+
+
+
+tom providente cabiv uttcu comun conclusa mesm ucp atrav email gerent are
+
+
+
+receb email uttcu inform conclusa providente par encerr contrat coorden tecnic ucp atualiz arquiv control ativ projet project dat encerr
+
+
+
+receb document pertinent contrat registr pagament ultim produt conform descrit process liber pagament contrat coorden administrativofinanceir ucp verif contrat financi pel bid cas negat document contrat arquiv ucp
+
+
+
+cas contrat tenh sid financi pel bid gerent ucp comun bid atrav ofici encerr contrat assin ambit projet apoi moderniz tcu providente arquiv document contrat ucp
+
+
+
+efetu pagament pnud eou semattcu emit atest
+
+
+conclusa contrat envi contrat
+
+
+
+
+
+
+
+
+proced
+
+autoriz ativ contrat sujeit aord servic
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev aca par autoriz ativ contrat assin ambit projet apoi moderniz tcu estej sujeit ordem servic
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad control projet ucp unidad tecnic tribunal cont unia utstcu
+
+
+
+
+document complement
+
+
+
+
+contrat fornec bens prest servic assin ambit projet apoi moderniz tcu
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+verific disponibil recurs financeir par execuca ativ sujeit
+
+
+b verific possibil reforc program financeir
+
+
+c inform ut disponibil indisponibil recurs par contrat sujeit
+
+
+d atualiz project
+
+
+
+compet uttcu
+
+
+consult ucp sobr disponibil recurs par contrat sujeit
+
+
+b autoriz execuca ativ
+
+
+c comunic ucp emissa ordem servic
+
+
+
+
+condica especif
+
+
+
+
+registr contrat fornec bens prest servic
+
+
+assin ambit projet apoi moderniz tcu sistem bid receb cop contrat conform descrit process
+
+
+promov contrat bens servic cpl
+
+
+b promov contrat bens servic pnud pesso fisic
+
+
+c promov contrat bens servic pnud firm prequalific
+
+
+d promov contrat bens servic pnud list curt abert
+
+
+promov contrat bens servic pnud licit abert nacional
+
+
+f promov contrat bens servic pnud licit abert internacional
+
+
+
+utstcu gestor dev cas ativ contrat estej sujeit ordem servic consult ucp atrav email par sab disponibil recurs par execuca
+
+
+
+receb email consult uttcu coorden administrativofinanceir ucp verif disponibil recur par execuca ativ sujeit
+
+
+
+cas haj recurs dispon coorden administrativofinanceir ucp inform uttcu solicitant atrav email disponibil recurs par execuca ativ sujeit
+
+
+
+cas haj recurs dispon coorden administrativofinanceir ucp verif possibil reforc program financeir cas negat inform uttcu solicitant atrav email indisponibil recurs par execuca ativ sujeit
+
+
+
+cas haj possibil reforc program financeir coorden administrativofinanceir ucp inform uttcu solicitant atrav email disponibil recurs par execuca ativ sujeit
+
+
+
+inform disponibil recurs uttcu autoriz execuca ativ emit respect emit uttcu inform ucp atrav email dat emissa
+
+
+
+comunic dat emissa coorden tecnic ucp atualiz arquiv control ativ projet project inform fim permit realiz ativ descrit process acompanh execuca ativ projet
+
+
+
+
+
+
+
+
+proced
+
+autoriz rep recurs pnud
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ par autoriz rep recurs pnud ambit projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad control projet ucp unidad tecnic tribunal cont unia utstcu secret orcament financ tribunal cont unia secoftcu
+
+
+
+
+document complement
+
+
+
+
+fluxogram autoriz rep recurs pnud
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+verific necess rep recurs par pnud
+
+
+b elabor memor solicit rep recurs pnud envial secoftcu
+
+
+
+compet uttcu
+
+
+fornec inform sobr previsa execuca fisic ativ
+
+
+
+compet secoftcu
+
+
+efetu rep recurs par pnud
+
+
+
+
+condica especif
+
+
+
+
+recurs transfer pel stn par cont especif liber dest recurs inform pel secoftcu ucp conform descrit process elabor program financeir ativ uttcu semanal fornec inform sobr previsa execuca fisic ativ contrat atrav email ucp
+
+
+
+receb email utstcu previsa execuca fisic ativ contrat coorden administrativofinanceir ucp verif necess rep recurs par pnud houv process finaliz
+
+
+
+houv necess rep recurs par pnud coorden
+
+
+administrativofinanceir ucp elabor memor solicit rep recurs par pnud assin pel gerent ucp encaminh secotcu par providente
+
+
+
+receb memor solicit rep recurs pnud
+
+
+secotcu efetu transferente mesm atrav siaf possibilit
+
+
+realiz ativ descrit process liber pagament contrat
+
+
+
+
+
+
+
+
+proced
+
+liber pagament contrat
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ par liber pagament contrat ambit projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad control projet ucp secret orcament financ tribunal cont unia secoftcu program naca unidad par desenvolv pnud
+
+
+
+
+document complement
+
+
+
+
+fluxogram liber pagament contrat
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+atualiz project inform
+
+
+dat receb bemserv
+
+
+dat atest pel ut
+
+
+dat autoriz pagament
+
+
+dat pagament
+
+
+b verific tip contrat par encaminh
+
+
+c lanc dad pagament sistem pnud sistem sapr
+
+
+d certific pagament sistem sapr
+
+
+autoriz pagament sistem sapr
+
+
+f solicit contrat regulariz pendenc par pagament
+
+
+g verific regular document relaca contrat
+
+
+h prepar memor solicit secoftcu pagament contrat
+
+
+i inform dat autoriz pagament coorden tecnic par atualiz project
+
+
+j autoriz recolh inss secoftcu
+
+
+k acompanh inform pagament
+
+
+l realiz registr contabil especif referent pagament efetu
+
+
+m inform dat pagament coorden tecnic par atualiz project
+
+
+
+compet secoftcu
+
+
+efetu recolh inss aguard document par pagament
+
+
+b efetu pagament contrat
+
+
+c devolv process fiscaliz ucp
+
+
+
+compet pnud
+
+
+efetu pagament contrat
+
+
+
+
+condica especif
+
+
+
+
+receb memor solicit pagament junt document fornecedorprest faturanot fiscal relatori ativ pesso fisic conform descrit process acompanh execuca fisic contrat uts coorden tecnic ucp atualiz arquiv control ativ projet project inform dat receb bemserv dat aceit atest mesm permit realiz ativ process acompanh
+
+
+execuca ativ projet paralel coorden administrativofinanceir ucp verif tip contrat par dar encaminh corret process
+
+
+
+contrat realiz entr pnud contrat coorden tecnic coorden aquisica ucp lanc dad referent pagament constant memor envi pel uttcu gestor sistem pnud sapr
+
+
+
+registr dad pagament sistem sapr coorden
+
+
+administrativofinanceir ucp certif pagament sistem gerent ucp aprov tamb sistem pnud
+
+
+
+autoriz pagament sistem sapr gerent ucp inform dat autoriz pagament coorden tecnic par proced atualiz arquiv control ativ projet project est inform atualiz project dev realiz ativ descrit process acompanh execuca ativ projet
+
+
+
+paralel autoriz pagament sapr tend sid efetu rep recurs pnud conform descrit process autoriz rep recurs pnud pnud efetu pagament empres contrat
+
+
+
+efetu pagament coorden administrativofinanceir ucp
+
+
+respons pel acompanh pagament identific pagament sistem sapr realiz registr contabil especif arquiv sistemat intern acompanh contabil financeir excel bas dev realiz ativ descrit process prest cont adiant recurs tesour
+
+
+
+paralel dev realiz ativ descrit process
+
+
+proced encerr contrat cas pagament efetu sej correspondent entreg ultim produt previst contrat alem diss dev inform dat pagament coorden tecnic par proced atualiz arquiv control ativ projet project est inform atualiz project dev realiz ativ descrit process acompanh execuca ativ projet
+
+
+
+contrat realiz entr semattcu contrat coorden
+
+
+administrativofinanceir ucp verif regular document relaca contrat ist verif certida cnd fgtscef cas sej identific pendenc coorden administrativofinanceir ucp solicit contrat atrav email regulariz mesm aguard retorn empres par dar prossegu process pagament
+
+
+
+apes exist pendenc gerent ucp autoriz recolh inss atrav memor secotcu envi process fiscaliz par est are par providente
+
+
+
+receb process fiscaliz ucp secoftcu efetu
+
+
+recolh inss contrat aguard receb document par pagament
+
+
+
+cas document estej conform clausul contrat coorden administrativofinanceir ucp prep memor autoriz pagament dev assin pel gerent ucp envi atrav process fiscaliz secoftcu par providente
+
+
+
+assin memor gerent ucp inform dat autoriz
+
+
+pagament coorden tecnic par proced atualiz arquiv control ativ projet project est inform atualiz project dev realiz ativ descrit process acompanh execuca ativ projet
+
+
+
+receb process fiscaliz memor solicit
+
+
+pagament document fornecedorprest faturanot fiscal relatori ativ pesso fisic tend sid liber transfer recurs par cont especif pel stn conform descrit process elabor program financeir ativ secoftcu efetu pagament empres contrat devolv process fiscaliz ucp
+
+
+
+receb process fiscaliz coorden administrativofinanceir ucp respons pel acompanh pagament realiz registr contabil especif arquiv sistemat intern acompanh contabil financeir excel bas dev realiz ativ descrit process prest cont adiant recurs tesour
+
+
+
+paralel dev realiz ativ descrit process
+
+
+proced encerr contrat cas pagament efetu sej correspondent entreg ultim produt previst contrat alem diss dev inform dat pagament coorden tecnic par proced atualiz arquiv control ativ projet project est inform atualiz project dev realiz ativ descrit process acompanh execuca ativ projet
+
+
+
+
+
+
+
+
+proced
+
+prest cont adiant recurs tesour
+
+
+
+
+
+
+
+objet
+
+
+
+
+est proced objet descrev ativ relat prest cont adiant recurs tesour secret tesour nacional stn ambit projet apoi moderniz tcu
+
+
+
+
+camp aplic
+
+
+
+
+est proced aplic unidad control projet ucp secret tesour nacional stn
+
+
+
+
+document complement
+
+
+
+
+fluxogram prest cont adiant recurs tesour
+
+
+
+
+condica ger
+
+
+
+
+
+atribuica responsabil
+
+
+
+
+compet ucp
+
+
+elabor prest cont adiant recurs tesour envial stn
+
+
+b regulariz pendenc solicit pel stn
+
+
+
+compet stn
+
+
+analis prest cont adiant recurs tesour
+
+
+
+
+condica especif
+
+
+
+
+bas registr contab arquiv sistemat intern
+
+
+acompanh contabil financeir excel pagament efetu ambit projet apoi moderniz tcu conform descrit process liber pagament contrat coorden administrativofinanceir ucp elabor prest cont adiant recurs tesour envi par gerent par apreci
+
+
+
+receb prest cont adiant recurs tesour
+
+
+gerent ucp analis envi par stn atrav ofici
+
+
+
+receb ofici ucp junt prest cont adiant recurs tesour stn analis document cas estej acord process finaliz
+
+
+
+cas sej identific pendenc prest cont stn solicit atrav ofici regulariz mesm ucp
+
+
+
+receb ofici stn coorden administrativofinanceir ucp
+
+
+providente ajust necessari prest cont envi par gerent ucp reencaminh par stn
+
+
+
+
+

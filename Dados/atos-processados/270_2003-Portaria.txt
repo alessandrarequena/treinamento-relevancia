@@ -1,0 +1,1385 @@
+port
+
+
+
+president tribunal cont unia exercici atribuica bas dispo dezembr portariatcu julh resolv
+
+
+
+fic aprov realiz projet sintes sistem inteligente suport control extern term propost anex est port
+
+
+
+
+
+fic design anal control extern are control extern chen wen lin matricul par exerc relativ projet trat est port funca confianc gerent projet codig fc constant dezembr aloc secretariageral control extern mediant portariatcu agost
+
+
+paragraf unic cab gerent projet responsabil exerc competente previst port observ dispost manual gesta projet
+
+
+
+fic design comit consult projet sintes par auxili equip projet definica estrateg levant requisit especific valid soluca propost
+
+
+
+
+
+comit refer est compost pel titul unidad
+
+
+
+
+
+i secretariageral control extern segecex
+
+
+
+
+
+ii secret adjunt fiscaliz adfis
+
+
+
+
+
+iii secret adjunt cont adcon
+
+
+
+
+
+iv secret fiscaliz pessoal sefip
+
+
+
+
+
+v secret fiscaliz obras patrimoni unia secob
+
+
+
+
+
+vi secret macroavali governamental semag
+
+
+
+
+
+vii secret tecnolog inform setec
+
+
+
+
+
+comit refer est presid pel titul segecex
+
+
+
+
+
+est port entr vigor dat public
+
+
+
+
+
+
+valm campel
+
+
+president
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+identific gestor projet
+
+
+
+
+nom
+
+matricul
+
+x espec gestororig fc
+
+
+
+chen wen lin
+
+
+
+x
+
+gerent
+
+
+
+coorden
+
+segecex
+
+
+
+email
+
+chenwltcugovbr
+
+nom substitut eventual
+
+matricul
+
+email
+
+pedr koshin
+
+
+
+pedroktcugovbr
+
+
+
+localtelefon
+
+sal anex adfis ramal
+
+
+identific projet
+
+
+
+
+nom projet
+
+sintes sistem inteligente suport control extern
+
+
+
+period realiz
+
+
+
+
+
+unidad patrocin
+
+segecex
+
+
+vincul estrateg
+
+
+
+
+vincul plan estrateg tcu
+
+
+
+estrateg ampli aprimor uso tecnolog inform
+
+b
+
+estrateg fortalec parc tcu dem orga public
+
+c
+
+estrateg aperfeico process trabalh tcu
+
+
+
+vincul plan diretriz tcu
+
+
+
+diretriz increment qualidad fiscaliz mant esforc fiscaliz prioriz are maior significanc
+
+princip med associ projet
+
+desenvolv metodolog acompanh gesta seleca planej auditor mei utiliz datawarehous integr dad sistem administr public
+
+ampli integr tcu outr orga public
+
+desenvolv sistemat par analis despes are pessoal obras bas inform disponiv sistem administr public
+
+b
+
+diretriz melhor tempestiv qualidad efetiv aca control extern
+
+princip med associ projetoaprimor gesta inform ambit tcu med aperfeico proced fiscaliz cumpriment disposit lei responsabil fiscal ampli integr tcu outr orga public especial tribun cont estadu ministeri public
+
+c
+
+diretriz fortalec relacion sociedad orga public congress nacional mid
+
+princip med associ projetoimplement aca parc prioriz intercambi inform inter control
+
+
+
+vincul plan diretor segecex
+
+
+
+met increment qualidad fiscaliz mant esforc fiscaliz prioriz are maior significanc
+
+principal med associ projetoinici desenvolv metodolog acompanh gesta seleca planej auditor mei utiliz datawarehous integr dad sistem administr public ampli integr tcu outr orga control desenvolv sistemat par analis despes are pessoal obras bas inform disponiv sistem administr public
+
+
+
+b
+
+met melhor tempestiv qualidad efetiv aca control extern
+
+principal med associ projetoaperfeico proced fiscaliz cumpriment disposit lei responsabil fiscal med cri mecan viabiliz obtenca junt sociedad administr public inform sobr are risc inter tribunal
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+problemaoportun
+
+
+
+
+descrica problem oportun
+
+
+
+necess utiliz cad mais intens inform execuca ativ control extern encontr dispers divers sistem informatiz administr public federal cuj acess obtenca dificult pel inumer padra organiz softw adot pel orga entidad
+
+
+
+contextualiz problem oportun
+
+
+
+conceit dat warehous dw cons organiz dad corporat melhor maneir par dar subsidi inform gerent diretor organiz par tom decisa dw permit geraca dad integr histor auxili dirigent decid base fat intuica especul reduz probabil erros aument veloc hor decisa
+
+b
+
+propost aplic tecnolog datawarehousing ambit tribunal cont unia decorr necess utiliz cad mais intens vast gam inform execuca ativ control extern correspondent cruzament circulariz qua encontr dispers divers sistem informatiz administr public federal cuj acess obtenca dificult pel inumer padra disposica adot pel orga entidad patrocin
+
+c
+
+benefici utiliz tecnolog datawarehous pod cit
+
+planej aca control pel identific corret are requ mais atuaca tcu risc material relevanc etc
+
+implement control extern eletron bas inform divers sistem cruzament
+
+disponibiliz ferrament permit detecca indici fraud mei tratament inform
+
+d
+
+inicial identic cinc grand are par aplic tecnolog datawarehous
+
+cont public lrf
+
+plan fiscaliz
+
+fiscaliz obras
+
+fiscaliz pessoal
+
+certific cont
+
+
+
+are cont public lrf plan fiscaliz maior part inform encontr levant conhec utiliz frequenc domini tribunal iss are apresent maior facil par implement rev grand importanc par sucess dess nov process are ide par test uso dess nov tecnolog exercici control previst constituica federal lei complement atual process verific cumpriment lrf bastant artesanal
+
+
+
+evoluca quadr apresent dad preferencial tabel
+
+
+
+determin ministropresident tcu cri grup trabalh compost pel aces andr luiz furt pachec francisc carl nova galhan rem balaniuk mari audifax pint ribeir robert carl martins pont daniel dias pereir supervisor par elabor especific inform par construca dat warehous tcu grup trabalh cri pel entreg trabalh propond criaca present projet
+
+b
+
+tcu assin contrat bid par program apoi moderniz tcu contempl implement datawarehous
+
+c
+
+entr julh agost elabor term referente vis contrat empres prest consultor elabor plan estrateg par implement datawarehous
+
+d
+
+estimas dezembr tenh sid contrat empres prest consultor projet portant urgent constitu grup par acompanh trabalh dest empres mes setembr novembr membr dest projet servidor setec servidor are vao atu consultor projet pilot dev capacit par lid tecnolog datawarehous
+
+
+
+tamb necessari part membr dest projet sej permanent dara prossegu trabalh fas implement datawarehous
+
+
+
+nad feit gravidad urgenc tendenc
+
+
+
+cas nad sej feit tcu pod perd oportun otimiz recurs melhor produtiv pod cont ferrament fornec inform par orient melhor aca control
+
+b
+
+empres consultor conseguira viabiliz trabalh
+
+c
+
+tcu pod consegu utiliz adequad recurs obtid junt bid
+
+
+escop projet
+
+
+objet geral projet relaca soluca problem oportun
+
+
+conceb elabor implement datawarehous control administr public
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+met indic produt client
+
+
+objet especif
+
+qtd
+
+praz
+
+indic
+
+produt
+
+client
+
+
+
+elabor projet basic dat warehous control administr public
+
+
+
+
+
+
+
+projet basic datawarehous aprov pel segecex
+
+projet basic datawarehous
+
+segecex
+
+b
+
+auxili elabor edital par implement projet pilot
+
+
+
+
+
+edital projet pilot aprov pel bidpnud
+
+edital par implement projet pilot
+
+bidpnud
+
+c
+
+defin conveni necessari
+
+
+
+
+
+definica par estabelec conveni aprov pel sepr
+
+definica par estabelec conveni
+
+sepr
+
+d
+
+defin contrat necessari ex serpr
+
+
+
+
+
+definica par estabelec contrat aprov pel setec
+
+definica par estabelec contrat
+
+setec
+
+
+
+defin infraestrutur tecnolog inform par projet pilot
+
+
+
+
+
+definica infraestrutur projet pilot aprov pel setec
+
+definica infraestrutur projet pilot
+
+setec
+
+f
+
+defin infraestrutur tecnolog inform
+
+
+
+
+
+definica infraestrutur aprov pel setec
+
+definica infraestrutur
+
+setec
+
+g
+
+implement projet pilot datawarehous
+
+
+
+
+
+projet pilot datawarehous homolog
+
+component datawarehous selecion projet pilot
+
+segecex
+
+adfis adcon semag secob sefip
+
+h
+
+defin proced oper atend usuari par projet pilot datawarehous
+
+
+
+
+
+proced oper atend usuari par projet pilot aprov pel setec
+
+proced oper atend usuari par projet pilot
+
+setec
+
+i
+
+defin treinament par projet pilot datawarehous par usuari
+
+
+
+
+
+treinament par component selecion projet pilot aprov pel isc
+
+treinament par component selecion projet pilot
+
+isc
+
+j
+
+auxili elabor edital par implement component restant
+
+
+
+
+
+edital aprov pel bidpnud
+
+edital
+
+bidpnud
+
+k
+
+implement dem component datawarehous
+
+
+
+
+
+component datawarehous aprov pel respect client
+
+component datawarehous
+
+segecex
+
+adfis adcon semag secob eou sefip
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+
+
+
+objet especif
+
+qtd
+
+praz
+
+indic
+
+produt
+
+client
+
+l
+
+defin proced oper atend usuari par dem component datawarehous
+
+
+
+
+
+proced oper atend usuari par dem component datawarehous aprov pel setec
+
+proced oper atend usuari par dem component datawarehous
+
+setec
+
+m
+
+defin treinament par dem component datawarehous
+
+
+
+
+
+treinament par dem component datawarehous aprov pel isc
+
+treinament par dem component datawarehous
+
+isc
+
+
+macroetap primeir nivel estrutur analit projet eap
+
+
+
+
+gerenci projet
+
+b
+
+estabelec definica estrateg projet
+
+c
+
+acompanh estabelec conveni par obtenca inform
+
+d
+
+acompanh desenvolv
+
+
+
+valid
+
+f
+
+test
+
+g
+
+definica infraestrutur conjunt setec
+
+h
+
+definica proced produca atend usuari
+
+i
+
+definica treinament
+
+j
+
+divulg
+
+
+escop projet vai faz
+
+
+
+
+projet implement sistem inform transacion entrad dad
+
+
+identific part envolv projet relaca
+
+
+
+
+setec fornec soluca infraestrutur necess funcion fornec anal sistem necessari par manutenca codig font soluca realiz operacionaliz conveni realiz proced produca realiz contrat necessari par obtenca dad realiz atend usuari
+
+b
+
+isc disponibiliz treinament
+
+c
+
+sepr negoci conveni
+
+d
+
+equip projet tcubid acompanh projet
+
+
+
+consultor extern elabor implement datawarehous
+
+f
+
+orga extern disponibiliz acess inform
+
+g
+
+semag client component datawarehous relat are cont public
+
+h
+
+adfis client component datawarehous relat are plan fiscaliz
+
+i
+
+secob client component datawarehous relat are fiscaliz obras datawarehous
+
+j
+
+sefip client component datawarehous relat are fiscaliz pessoal datawarehous
+
+k
+
+adcon client component datawarehous relat are certific cont
+
+l
+
+segecex patrocin disponibiliz recurs human par realiz test par particip projet
+
+m
+
+congress nacional controladoriageral unia mpog compatibiliz unific esforc implement dw
+
+
+fator pod risc exit projet
+
+
+risc
+
+impact
+
+probabil
+
+aca par evit m mitig r reduz impact
+
+respons pel aca
+
+
+
+dificuldad liber servidor par compor equip projet
+
+alt
+
+alt
+
+
+
+m salient junt titul unidad tecnic importanc projet context estrateg tribunal
+
+m acord disponibil servidor taref
+
+port autor competent segecex presidente nome servidor part integrant equip projet
+
+coorden projet titul segecex
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+
+
+
+b
+
+mudanc orient cultural relaca tecnolog inform
+
+alt
+
+baix
+
+enfatiz junt autor tcu importanc datawarehous par orient aca tcu
+
+coorden projet titul segecex
+
+c
+
+surgiment nov demand long projet
+
+alt
+
+med
+
+m salient junt titul unidad tecnic importanc particip fas elabor projet basic
+
+
+
+coorden projet titul segecex
+
+d
+
+dificuldad particip stakeholders par definica soluca
+
+alt
+
+med
+
+m salient junt titul unidad tecnic importanc particip fas elabor projet basic
+
+
+
+coorden projet titul segecex
+
+
+
+dificuldad identific necess inform pel gestor negoci
+
+alt
+
+med
+
+m salient junt titul unidad tecnic importanc particip fas elabor projet basic
+
+coorden projet titul segecex
+
+f
+
+dificuldad particip stakeholders avali produt
+
+alt
+
+med
+
+m salient junt titul unidad tecnic importanc particip fas test avali produt
+
+
+
+coorden projet titul segecex
+
+g
+
+restrica orcament inviabiliz realiz met projet
+
+alt
+
+alt
+
+busc alternat par reduz cust
+
+
+
+obter mais recurs junt bid aument particip recurs orcament tcu projet
+
+coorden projet titul segecex
+
+presidente tcu
+
+
+
+h
+
+dificuldad setec par fornec anal par acompanh desenvolv datawarehous
+
+alt
+
+alt
+
+negoci setec disponibiliz recurs human especif
+
+m negoci alter prioridad
+
+coorden projet titul segecex
+
+i
+
+dificuldad obtenca inform junt orga extern
+
+alt
+
+med
+
+solicit contat presidente tcu autor are correspondent
+
+coorden projet titul segecex
+
+j
+
+necess recurs financeir par mant datawarehous oper
+
+alt
+
+baix
+
+obter aloc recurs orcament tcu par manutenca infraestrutur par pagament contrat serpr circuit comuic dad etc
+
+coorden projet titul segecex
+
+k
+
+baix qualidad inform
+
+alt
+
+med
+
+r procur outr font inform
+
+determin orga correca inform
+
+coorden projet presidente tcu
+
+l
+
+dificuldad sincron pamtcuare fiscaliz
+
+baix
+
+med
+
+realiz parc adfis
+
+m faz adapt projet
+
+coorden projet titul adfis
+
+
+fator contribu par exit projet
+
+
+
+
+apoi presidente tcu inter dirigent pel result present projet ensej apoi par realiz
+
+b
+
+motiv sensibiliz servidor utiliz nov ferrament trabalh
+
+c
+
+apoi dem orga administr public par fornec inform
+
+
+projet predecessor
+
+
+
+
+identific projet predecessor
+
+
+projet conex
+
+
+
+
+projet apoi moderniz tcu
+
+projet sinerg
+
+portal tcu
+
+pamtcuare fiscaliz
+
+
+projet sucessor
+
+
+
+
+identific projet sucessor
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+cust estim
+
+
+recurs
+
+valor estim praz
+
+
+
+consultor par elabor projet basic
+
+valor estim auxili equip pnud us janeir agost recurs oriund projet bid
+
+b
+
+implement datawarehous
+
+valor estipul conclusa projet basic recurs oriund projet bid
+
+c
+
+infraestrutur par datawarehous equip softwar
+
+valor estipul conclusa projet basic contrat carg setec
+
+d
+
+remuner instrutor
+
+valor praz par utiliz estipul ocasia elabor plan par treinament
+
+
+
+cust relat remuner orga extern par geraca inform
+
+valor estipul conclusa projet basic contrat carg setec recurs oriund orcament tcu
+
+f
+
+cust relat viagens vis visit entidad fora brasiliadf
+
+r par pagament passagens diar equip projet colabor eventu
+
+
+obs cust previst aprov oportun pel autor competent
+
+
+outr recurs necessari
+
+
+recurs
+
+fornecedor
+
+
+
+recurs human anal control externoc anal control extern tecnolog inform
+
+setec unidad tecnic envolv test
+
+b
+
+recurs instrucion sal aul retr projetor canha projeca etc
+
+isc setec
+
+c
+
+sal par equip projet empres consultor mes comput
+
+seged
+
+
+equip projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+dedic integral parcial
+
+
+
+chen wen lin coorden
+
+
+
+adfis
+
+
+
+integral gerent
+
+b
+
+pedr koshin
+
+
+
+setec
+
+
+
+integral
+
+c
+
+claiton custodi silv
+
+
+
+secob
+
+
+
+parcial
+
+d
+
+rem balaniuk
+
+
+
+setec
+
+
+
+parcial
+
+
+
+anal control extern ce indic oportun pel titul unidad tecnic conform solicit segecex
+
+final apoi conhec negoci test homolog soluca
+
+
+
+secex sed
+
+
+
+parcial
+
+f
+
+anal control extern tecnolog inform indic oportun pel setec
+
+final implement infraestrutur acompanh desenvolv elabor rotin produca atend usuari realiz transferente tecnolog
+
+
+
+setec
+
+
+
+parcial
+
+
+comit consult
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+
+
+lucian carl batist coorden
+
+
+
+segecex
+
+
+
+b
+
+alexandr valent xavi
+
+
+
+adcon
+
+
+
+c
+
+antoni juli ferreir
+
+
+
+sefip
+
+
+
+d
+
+claudi cruz
+
+
+
+setec
+
+
+
+
+
+claudi sarian altounian
+
+
+
+secob
+
+
+
+f
+
+claudi souz castell branc
+
+
+
+adfis
+
+
+
+g
+
+paul robert pinheir dias pereir
+
+
+
+semag
+
+
+
+
+
+
+
+tribunal cont unia
+
+propost projet
+
+projet sintes sistem inteligente suport control extern
+
+pagin
+
+
+
+
+
+consultor intern projet
+
+
+nom
+
+matricul
+
+lotaca
+
+period
+
+
+
+andr luiz furt pachec
+
+
+
+corregedor
+
+
+
+b
+
+daniel dias pereir
+
+
+
+adfis
+
+
+
+c
+
+francisc carl nova galhan
+
+
+
+semag
+
+
+
+d
+
+laerci mend vieir
+
+
+
+semag
+
+
+
+
+consider fin fundament normat port
+
+
+
+
+caracteriz trabalh projet port
+
+
+
+atend demand especif segecex comport grand esforc planej coorden par ger result dentr praz estabelecidoincis iv
+
+b
+
+desenvolv soluca result melhor gesta ambit intern tribunalincis ii
+
+
+
+caracterist trabalh defin gestor projet gerent coorden port
+
+
+
+period minim tres mes iv
+
+b
+
+desenvolv nov tecnolog metodolog impact geral ativ secret tribunal especial are control extern vii
+
+c
+
+produt importanc estrateg par alcanc met institucion vi
+
+d
+
+complex ativ coorden relaca numer met alcanc itens control vii
+
+
+
+
+
+finaliz
+
+
+dat assinatur coorden projet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chen wen lin
+
+gerent projet
+
+
+
+
+
+
+
+
+
+claudi souz castell branc
+
+supervisor projet
+
+
+
+
+
+manifest titul unidad patrocin
+
+acord conform acord firm ata reunia abertur realiz dezembr
+
+encaminhes present propost seplan vis aprov projet junt presidente
+
+segecex
+
+
+
+
+
+
+
+claudi souz castell branc
+
+secretariogeral substitut control extern
+
+
+
+
+
+const revog express
+aprov realiz projet sintes sistem inteligente suport control extern design gestor
+
+

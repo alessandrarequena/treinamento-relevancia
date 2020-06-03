@@ -1,0 +1,401 @@
+port
+
+
+
+president tribunal cont unia uso atribuica confer xxxiv regiment intern tcu
+
+
+consider criaca secret apoi gesta control extern segest mediant portariatcu novembr
+
+
+consider necess adequ vag estagi raza criaca unidad supramencion extinca subun relat projet
+
+
+consider inform constant process tc resolv
+
+
+anex portariatcu dezembr pass vigor form anex unic dest port
+
+
+est port entr vigor dat public
+
+
+joa august ribeir nard
+
+
+president
+
+
+
+
+
+anex unic portariatcu junh
+
+
+
+anex portariatcu dezembr
+
+
+
+unidad
+
+nºd estagiari
+
+gabinet president
+
+
+
+gabinet ministr
+
+
+
+gabinet ministr substitut
+
+
+
+gabinet procur geral ministeri public junt tcu
+
+
+
+gabinet corregedor
+
+
+
+secret control intern seca
+
+
+
+secret planej governanc gesta seplan
+
+
+
+secretariageral presidente segepr gabinet assessor
+
+
+
+secretariageral adjunt presidente adgepr
+
+
+
+assessor cerimonial relaca institucion acer
+
+
+
+secret relaca internacion serint
+
+
+
+assessor seguranc inform governanc assig
+
+
+
+secret comunic secom
+
+
+
+assessor parlament aspar
+
+
+
+consultor jurid conjur
+
+
+
+institut serzedell corre isc
+
+
+
+ouvidor
+
+
+
+secret sessa ses
+
+
+
+secret infraestrutur tecnolog inform setic
+
+
+
+secret soluca tecnolog inform sti
+
+
+
+secretariageral presidente segepr reserv tecnic
+
+
+
+secretariageral control extern segecex gabinet assessor
+
+
+
+secretariageral adjunt control extern adgecex
+
+
+
+secret apoi gesta control extern segest
+
+
+
+secret metod aplic suport auditor seaud
+
+
+
+secret gesta sistem inform par control seginf
+
+
+
+secret recurs serur
+
+
+
+coordenacaogeral control extern servic essenci estad regia sul centr oest coest
+
+
+
+secret control extern defes nacional seguranc public secexdefes
+
+
+
+secret control extern administr estad secexadministr
+
+
+
+secret control extern aquisica logist selog
+
+
+
+secret fiscaliz tecnolog inform seft
+
+
+
+secret fiscaliz pessoal sefip
+
+
+
+coordenacaogeral control extern are social regia nord cosocial
+
+
+
+secret control extern educ cultur desport secexeduc
+
+
+
+secret control extern saud secexsaud
+
+
+
+secret control extern previdente trabalh assistente social secexprevidente
+
+
+
+coordenacaogeral control extern are desenvolv nacional regia nort codesenvolv
+
+
+
+secret control extern fazend nacional secexfazend
+
+
+
+secret control extern desenvolv econom secexdesenvolv
+
+
+
+secret control extern agricultur mei ambient secexambiental
+
+
+
+secret macroavali governamental semag
+
+
+
+coordenacaogeral control extern are infraestrutur regia sud coinfr
+
+
+
+secret infraestrutur obras urban secobinfraurban
+
+
+
+secret fiscaliz desestatiz regul transport sefidtransport
+
+
+
+secret fiscaliz desestatiz regul energ comunic sefidenerg
+
+
+
+secret control extern administr indiret rio janeir secexestataisrj
+
+
+
+secret fiscaliz obras rodovi secobrodov
+
+
+
+secret fiscaliz obras energ saneament secobenerg
+
+
+
+secret fiscaliz obras portu hidric ferrovi secobhidroferrov
+
+
+
+secret control extern estad acr secexac
+
+
+
+secret control extern estad alago secexal
+
+
+
+secret control extern estad amazon secex
+
+
+
+secret control extern estad amap secexap
+
+
+
+secret control extern estad bah secexb
+
+
+
+secret control extern estad cear secexc
+
+
+
+secret control extern estad espirit sant secex
+
+
+
+secret control extern estad goi secexg
+
+
+
+secret control extern estad maranha secexm
+
+
+
+secret control extern estad min ger secexmg
+
+
+
+secret control extern estad mat gross sul secexms
+
+
+
+secret control extern estad mat gross secexmt
+
+
+
+secret control extern estad par secexp
+
+
+
+secret control extern estad paraib secexpb
+
+
+
+secret control extern estad pernambuc secexp
+
+
+
+secret control extern estad piau secexp
+
+
+
+secret control extern estad paran secexpr
+
+
+
+secret control extern estad rio janeir secexrj
+
+
+
+secret control extern estad rio grand nort secexrn
+
+
+
+secret control extern estad rondon secexr
+
+
+
+secret control extern estad roraim secexrr
+
+
+
+secret control extern estad rio grand sul secexrs
+
+
+
+secret control extern estad sant catarin secexsc
+
+
+
+secret control extern estad sergip secexs
+
+
+
+secret control extern estad paul secexsp
+
+
+
+secret control extern estad tocant secext
+
+
+
+secretariageral control extern segecex reserv tecnic
+
+
+
+secretariageral administr seged gabinet assessor
+
+
+
+secret orcament financ contabil secof
+
+
+
+secretariageral adjunt administr adged
+
+
+
+secret planej metod gesta soluca par administr seadmin
+
+
+
+secret gesta pesso segep
+
+
+
+secret licit contrat patrimoni selip
+
+
+
+secret seguranc servic apoi sesap
+
+
+
+secret engenh seng
+
+
+
+secretariageral administr seged reserv tecnic
+
+
+
+total geral
+
+
+
+
+
+
+
+
+
+const revog express
+alter anex portariatcu dezembr regulament program concessa estagi estudant ambit tribunal cont unia
+
+

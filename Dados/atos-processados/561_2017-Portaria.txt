@@ -1,0 +1,156 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+consider dispost i g lei complement mai lei setembr lei julh
+
+
+consider divulg sociedad inform relat atuaca respons pel gesta recurs public submet control tribunal cont unia est harmon principi public supremac inter public
+
+
+consider proced destin atend solicit certida previst resolucaotcu mai especial previst
+
+
+consider dispost resolucaotcu janeir
+
+
+consider inform constant tc resolv
+
+
+tribunal cont unia tcu mant sistem informatiz cadastr respons cont julg irregul cadirreg relaca histor tod pesso fisic jurid tiv cont julg irregul pel tcu part dat respect acorda condenatori
+
+
+cadastr trat possuira limit temporal abrang respons viv falec detentor carg funca public tenh tid cont julg irregul pel tcu
+
+
+deliber tcu julg irregul cont respons unidad tecnic competent dev providenci registr inform cadirreg
+
+
+alem registr relat julgament cont pel irregular dev registr cadirreg outr situaca poss alter calcul transit julg conden respons inicial inclu cadastr tais
+
+
+i notific cienc deliber
+
+
+ii interposica admissibil merit recurs
+
+
+iii nov deliber result exclusa responsabil respons insubsistente acorda condenatori
+
+
+iv decisa judici alter suspend anul julgament respons pel irregular
+
+
+cadirreg cont entr outr seguint inform
+
+
+i identific respons nom cpf cnpj conform cas
+
+
+
+
+
+ii numer process
+
+
+iii numer dat deliber
+
+
+iv orga vincul carg funca respons houv
+
+
+v situaca process
+
+
+vi dat transit julg
+
+
+compet secretariageral control extern segecex organiz mant permanent atualiz cadirreg
+
+
+compet secret adjunt control extern adgecex gestor sistem mei servic cadastr cobranc execut scbex ativ
+
+
+i coorden taref dem unidad tecnic segecex
+
+
+ii revisa dad cadastr cad novent dias
+
+
+iii registr situaca especi decisa judici ped dem unidad tecnic
+
+
+compet secret gesta inform par control extern sgi mei servic cadastr inform radarcadirreg secinf registr inform referent acorda tcu
+
+
+compet dem unidad tecnic segecex providenci registr outr situaca relat respect clientel especial transit julg inform relat interposica admissibil merit recurs
+
+
+inform cont cadirreg carat public disponibiliz list portal tcu segund polit dad abert
+
+
+list respons cont julg irregul disponibiliz portal tcu extra cadirreg cont minim seguint dad
+
+
+i identific respons nom cpf cnpj
+
+
+ii numer process tcu ocorr julgament cont pel irregular
+
+
+iii acorda profer process
+
+
+iv identific unidad jurisdicion process carg funca respons ocupav epoc irregular cas
+
+
+v dat transit julg
+
+
+inform inser list respons cont julg irregul fic disponiv temp indetermin
+
+
+exclu list respons cont julg irregul disponibiliz portal tcu respons tenh tid exclu responsabil cont julg irregul aquel cuj acorda condenatori tenh sid torn insubsistent respons cuj inclusa cadirreg tenh sid suspens raza decisa judicial
+
+
+exclusa respons trat dest refer exclusa registr respons cadirreg apen list respons cont julg irregul disponibiliz portal tcu
+
+
+respons constant list respons cont julg irregul pod emit certida negat cont julg irregul portal tcu
+
+
+
+
+
+
+
+
+compet secret metod suport control extern semec mant disponibiliz portal tcu list respons cont julg irregul bem funcional par emissa certida negat
+
+
+semec praz sessent dias cont public dest port proced implement soluca tecnolog inform necess cumpriment dispost nest normat
+
+
+fic segecex autoriz edit atos normat necessari cumpriment dispost nest port
+
+
+fic revog portariatcu outubr
+
+
+raimund carreir
+
+
+claudi souz castell branc
+
+
+secretariogeral control extern
+
+
+
+const revog express
+dispo sobr cadastr respons cont julg irregul cadirreg outr providente
+
+

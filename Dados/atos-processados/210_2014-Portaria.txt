@@ -1,0 +1,349 @@
+port
+
+
+
+president tribunal cont unia uso atribuica confer xxxiv regiment intern tcu
+
+
+consider tribunal produz receb inform exercici competente constitucion leg regulament tais inform dev permanec integr disponiv bem eventual sigil dev resguard
+
+
+consider inform tribunal armazen diferent suport veicul divers form tais mei impress eletron microform estand portant vulner incident desastr natur acess autoriz mau uso falh equip extravi furt
+
+
+consider seguranc aspect essencial par adequ gesta inform
+
+
+consider advent lei novembr lei acess inform lai regul acess inform previst xxxii ii constituica federal
+
+
+consider boas pratic seguranc preconiz pel norm abnt nbr isoiec
+
+
+consider norm abnt nbr isoiec recomend revisa period polit seguranc inform instituica
+
+
+consider dispost resolucaotcu junh
+
+
+consider estud parec constant process tc resolv
+
+
+capitul i
+
+
+disposica prelimin
+
+
+polit corporat seguranc inform tribunal cont unia pcsitcu observ principi objet diretriz estabelec nest port bem disposica constitucion leg regiment vigent
+
+
+paragraf unic autor servidor colabor quaisqu pesso tenh acess inform tcu sujeitams diretriz norm proced seguranc inform polit trat est port respons garant seguranc inform tenh acess
+
+
+par efeit dest port entendes
+
+
+i inform conjunt dad text imagens metod sistem quaisqu form represent dot signific determin context independent suport res form pel sej veicul
+
+
+ii seguranc inform proteca inform contr ameac confidencial integr disponibil autentic par minimiz risc garant eficac aca negoci preserv imag tcu
+
+
+iii sistem gesta seguranc inform sgsitcu part integrant sistem gesta seguranc institucional tribunal sgsintcu base risc negoci vis estabelec implement oper monitor analis critic mant melhor seguranc inform
+
+
+iv confidencial propriedad garant inform sej acess soment pel pesso process tenh autoriz par tal
+
+
+v integr propriedad garant violaca inform intuit protegel contr alter gravaca exclusa indev acidental proposital
+
+
+vi disponibil propriedad garant inform estej acessiv pesso process autoriz moment requer
+
+
+vii autentic propriedad assegur correspondente entr autor determin inform pesso process sistem atribu autor
+
+
+vii incident seguranc inform qualqu indici fraud sabotag espionag desvi falh event indesej inesper tenh probabil compromet ameac seguranc inform
+
+
+ix gestor inform colegi tcu secret autor tribunal dirigent unidad respons inform mat competente inerent are atuaca
+
+
+x custodiant inform qualqu pesso fisic jurid intern extern unidad projet tribunal det poss mesm transitor inform produz receb pel tribunal
+
+
+xi cicl vid inform compreend etap event produca receb armazen acess uso alter cop transport descart inform
+
+
+xii colabor prestador servic terceiriz estagiari qualqu pesso vincul transitori tcu tenh acess form autoriz inform dependencia tribunal
+
+
+seguranc inform tcu alinhas estrateg organizacion principi seguranc institucional principi
+
+
+i garant integr autentic inform produz
+
+
+ii preserv integr autentic inform receb
+
+
+iii transparente inform public
+
+
+iv proteca adequ inform necess restrica acess
+
+
+v planej aca seguranc inform mei abordag base risc
+
+
+vi garant disponibil inform custodi
+
+
+paragraf unic seguranc inform tcu abrang aspect fisic tecnolog human tribunal
+
+
+capitul ii
+
+
+sistem gesta seguranc inform
+
+
+polit corporat seguranc inform pcsitcu integr sistem gesta seguranc inform tcu sgsitcu institu pel resolucaotcu junh compost pel seguint process
+
+
+i classific inform
+
+
+ii gesta risc seguranc inform
+
+
+iii gesta incident seguranc inform
+
+
+iv control acess inform
+
+
+v seguranc inform recurs human conscientiz seguranc inform
+
+
+vi seguranc tecnolog inform comunic
+
+
+process sgsitcu interdependent dev estrutur monitor form permit melhor continu
+
+
+gesta continu negoci gcn dispost polit especif harmonizas process sgsitcu objet relaca seguranc inform garant niv adequ disponibil integr confidencial autentic inform essenci funcion process critic negoci tcu
+
+
+seguranc fisic patrimonial dispost polit especif harmonizas process sgsitcu objet relaca seguranc inform preven dan interferente instal tcu poss caus perd roub compromet inform
+
+
+classific inform objet assegur inform receb nivel adequ proteca
+
+
+paragraf unic inform dev classific par indic necess prioridad nivel esper proteca quant tratament inform durant tod cicl vid
+
+
+gesta risc seguranc inform objet identific risc poss compromet confidencial integr disponibil autentic inform prioriz tratament bas criteri par aceit risc compativ objet institucion
+
+
+control seguranc inform dev planej aplic implement periodic avali acord objet institucion risc par tcu
+
+
+process gesta risc seguranc inform alinhas gesta risc seguranc institucional term resolucaotcu
+
+
+gesta incident seguranc inform objet assegur fragil incident seguranc inform sej identific par permit tom aca corret temp habil
+
+
+paragraf unic autor servidor quaisqu colabor tribunal respons
+
+
+i inform imediat assessor seguranc inform governanc assig incident seguranc inform tenh cienc suspeit
+
+
+ii colabor respect are competente identific tratament incident seguranc inform
+
+
+process control acess inform objet garant acess fisic logic inform sej franque exclusiv pesso autoriz bas requisit negoci seguranc inform
+
+
+acess inform produz custodi pel tcu sej public dev permanec restrit pesso tenh necess conhecel
+
+
+acess inform public quaisqu colabor condicion aceit term sigil responsabil
+
+
+acess inform produz custodi pel tcu submet control administrat tecnolog defin acord respect classific
+
+
+certific digital ambit tcu segu padra infraestrutur chav public brasileir icpbrasil institu pel med provisor agost
+
+
+control acess fisic inform alinhas diretriz cont polit corporat seguranc fisic patrimonial tribunal pcsftcu
+
+
+seguranc inform recurs human objet garant quaisqu pesso tenh vincul estatutari funcional contratual processual tcu entend responsabil atu consonanc preceit pcsitcu par risc furt fraud mau uso inform sej reduz
+
+
+conscientiz seguranc inform objet internaliz conceit boas pratic seguranc inform cultur tcu mei aca permanent divulg treinament educ par minimiz risc seguranc inform
+
+
+seguranc inform recurs human alinhas dispost polit seguranc institucional aprov pel resolucaotcu bem polit gesta pesso tribunal defin resolucaotcu abril
+
+
+seguranc tecnolog inform comunic objet adot med control tecnolog par proteg inform mei eletron
+
+
+paragraf unic diretriz proced par uso recurs tecnolog tais disposit mov pesso comput nuv cloud computing
+red soci sujeitams coub comand pcsitcu objet normat presidente tcu
+
+
+capitul iii
+
+
+competente responsabil
+
+
+comit seguranc inform csi orga colegi natur consult carat permanent final
+
+
+i formul conduz diretriz par sistem gesta seguranc inform sgsitcu polit corporat seguranc inform pcsitcu bem analis periodic efetiv
+
+
+ii propor ajust sgsitcu aca necess implement subsidi monitor avali period pratic seguranc inform
+
+
+iii propor elabor revisa norm proced inerent seguranc inform
+
+
+iv manifestars sobr propost alter revisa pcsitcu bem sobr minut normat iniciat natur estrateg necessit cooper entr unidad vers sobr seguranc inform
+
+
+v manifestars sobr mat atinent seguranc inform sej submet
+
+
+vi assessor mat correlat comissa coorden geral ccg presidente tcu
+
+
+exam pel csi aspect perp dem dimensa seguranc institucional dev realiz reunia conjunt comit seguranc institucional cosin eman deliber unic comit
+
+
+normat ccg dispor sobr composica csi garant represent divers are negoci tcu
+
+
+compet assig
+
+
+i gerenci monitor sgsitcu bem propor adapt necess par garant melhor continu dess sistem gesta
+
+
+ii coorden acompanh implement sgsitcu norm complement seguranc inform
+
+
+iii apresent csi propost revisa pcsitcu mod atualizal frent nov requisit corporat
+
+
+iv apoi unidad tcu definica process trabalh proced operacion necessari proteca inform
+
+
+v monitor avali periodic pratic seguranc inform adot pel tribunal
+
+
+vi coorden apoi institut serzedell corre isc dem unidad competent aca permanent divulg treinament educ conscientiz servidor dem colabor tcu relaca conceit pratic seguranc inform tod abrangente
+
+
+vii coorden tratament incident seguranc inform vist identific motiv lev compromet seguranc inform
+
+
+vii coorden csi
+
+
+paragraf unic aplic competente indic nest observ coub competente inerent dem unidad secret tcu
+
+
+responsabil gestor inform concern inform gesta produz custodi pel tcu
+
+
+i garant seguranc inform
+
+
+ii classific inform defin proced criteri acess observ disposit leg regiment relat confidencial outr criteri classific pertinent
+
+
+iii propor regr especif par uso inform
+
+
+iv defin requisit seguranc inform necessari negoci bas criteri aceit tratament risc inerent process trabalh
+
+
+president ministr ministrossubstitut pod indic orient autoriz qualqu temp proced vis garant seguranc inform process document competente segu pel gestor inform
+
+
+cas duv identific gestor inform compet ccg definil
+
+
+responsabil custodiant inform
+
+
+i garant seguranc inform poss conform criteri defin pel respect gestor inform
+
+
+ii comunic tempestiv gestor inform sobr situaca compromet seguranc inform custod
+
+
+iii comunic gestor inform eventu limit par cumpriment criteri defin vist proteca inform
+
+
+responsabil dirigent unidad dem gestor tcu refer seguranc inform
+
+
+i conscientiz servidor quaisqu colabor supervisa relaca conceit pratic seguranc inform
+
+
+ii incorpor process trabalh unidad are pratic inerent seguranc inform
+
+
+iii tom med administrat necess par sej adot aca corret temp habil cas compromet seguranc inform
+
+
+capitul iv
+
+
+disposica fin
+
+
+inform produz servidor quaisqu colabor tcu exercici atribuica patrimoni intelectual tribunal cab criador qualqu form direit autoral ressalv reconhec autor cas
+
+
+quand inform produz colabor tcu par uso exclus pel tribunal instrument propri estabelec obrig criador inclusiv refer eventual confidencial inform
+
+
+ved utiliz inform refer paragraf anterior projet ativ divers daquel estabelec pel tcu salv autoriz especif ministr ministrossubstitut process document competente president dem cas
+
+
+contrat conveni acord cooper outr instrument congen celebr pel tribunal dev observ coub disposica pcsitcu
+
+
+observanc disposit pcsitcu sujeit infrator isol cumulativ sanca administrat civ pen term legislacion pertinent assegur envolv contraditori ampl defes
+
+
+pcsitcu revist maxim cad cinc anos mod atualizal frent nov requisit corporat
+
+
+consoant determin resolucaotcu fic revog resolucaotcu outubr part dat inici vigenc dest port
+
+
+est port entr vigor dat public
+
+
+joa august ribeir nard
+
+
+
+const revog express
+dispo sobr polit corporat seguranc inform pcsitcu sobr sistem gesta seguranc inform tribunal cont unia sgsitcu
+
+

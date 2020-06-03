@@ -1,0 +1,4985 @@
+port
+
+
+
+president tribunal cont unia uso atribuica leg regiment
+
+
+
+
+consider result propost decorrent workshops promov pel grup trabalh governanc institu mei portariatcu junh par realiz diagnost governanc tribunal propor med par aprimor
+
+
+consider necess defin competente unidad envolv gesta soluca mod garant bom funcion aprimor continu dess model gesta tend bas competente institucion unidad secret tcu defin normat propri
+
+
+consider estabelec paragraf resolucaotcu outubr dispo sobr polit corporat seguranc inform tribunal cont unia pcsitcu
+
+
+consider necess assegur particip usuari fin sed estad definica valid regr negoci requisit homolog soluca fim garant necessari alinh are negoci process trabalh bem corret utiliz dess soluca infraestrutur tecnolog inform coloc disposica secret tribunal
+
+
+consider importanc estabelec process trabalh responsabil pratic governanc preconiz model reconhec mundial control objectiv information and related technologi cobit information technology infrastructur library itil capability maturity model integration cmm norm nbr isoiec form assegur maior eficiente eficac efetiv soluca resolv
+
+
+gesta soluca corporat tecnolog inform observ dispost nest port objet contribu par eficiente eficac efetiv soluca utiliz pel tribunal cont unia bem par alinh dess soluca estrateg organiz
+
+
+unidad envolv gesta soluca solidari respons pel desempenh harmon competente atribu nest port pel alcanc objet estabelec
+
+
+abrang est normat soluca tecnolog inform natur departamental entend aquel cuj benefici uso restrinj unidad especif tribunal
+
+
+par efeit dispost nest port entendes
+
+
+i soluca corporat tecnolog inform soluca conjunt form element tecnolog inform process trabalh integr par produz result atend necess tribunal
+
+
+ii requisit soluca tecnolog inform condica capac soluca tecnolog inform dev acord
+
+
+iii unidad gestor soluca unidad organizacional tribunal respons definica relat process trabalh regr negoci requisit utiliz mais soluca term dest port
+
+
+iv part interess individu unidad organiz estej diret envolv gesta implement soluca aind form indiret poss exerc influenc afet pel soluca
+
+
+v regr negoci conjunt condica requisit proced defin suport process trabalh tratament inform inerent
+
+
+vi homolog aca conceb par verific aderente soluca respect regr negoci requisit
+
+
+vii ambient produca ambient computacional par uso efet soluca pel usuari destin
+
+
+vii nivel servic padra qualidad soluca express parametr horari funcion temp maxim respost quantidad minim transaca process percentu min disponibil praz par atend demand
+
+
+ix roteir atend instruca destin equip secret tecnolog inform setec respons pel atend usuari acerc duv ocorrente relat soluca
+
+
+x comun virtual pratic local especif permit contat virtual permanent entr pesso inter comuns cuj objet compartilh experiente problem definica padra divulg tecnic metodologias inerent mais soluca
+
+
+considerams soluca par fins dispost i dest
+
+
+sistem intern sistem inform desenvolv intern receb outr orga entidad adquir terceir pel tribunal
+
+
+b sistem extern sistem inform desenvolv mant outr instituica cuj acess sej permit part ambient computacional tribunal
+
+
+c softwar apoi produt softwar caracteriz sistem intern extern adquir pel tribunal
+
+
+d servic basic servic comunic armazen seguranc dad inform constitu ambient computacional tribunal
+
+
+considerams requisit soluca par fins dispost ii dest
+
+
+funcional aca soluca dev capaz execut comport entrad said inform perf acess aca inform dem caracterist ger seguranc
+
+
+b usabil aspect interfac usuari relacion acessibil eficac eficiente satisf uso mais soluca
+
+
+c confiabil aspect relacion frequenc gravidad possibil recuper falh exatida result ger pel soluca
+
+
+d desempenh aspect relacion temp respost soluca
+
+
+suportabil aspect relacion instal configur capac adapt manutenca test soluca
+
+
+f integr aspect relacion compartilh funcional inform outr soluca utiliz desenvolv ambit tribunal aind soluca outr orga administr public
+
+
+compet unidad gestor soluca apoi orient tecnic setec
+
+
+i identific necess institucion atend pel soluca bem map model process trabalh informatiz acord metod tecnic padra defin pel secret planej gesta seplan mod maximiz benefici proporcion pel utiliz soluca
+
+
+ii defin conjunt setec regr negoci requisit soluca mod maximiz benefici par tribunal promov integr dem soluca
+
+
+iii propici particip representant usuari tant sed quant estad par auxili definica valid regr negoci requisit bem homolog soluca
+
+
+iv solicit isc durant projet desenvolv contrat soluca planej aca desenvolv competente par uso soluca
+
+
+v propor quand necessari criaca alter normat par regulament process trabalh apoi pel soluca
+
+
+vi fornec subsidi par elabor aprov roteir atend soluca
+
+
+vii homolog soluca manifestars sobr motiv homolog dentr praz acord
+
+
+vii autoriz implant soluca ambient produca manifestars sobr motiv autoriz dentr praz acord
+
+
+ix apoi exerc conjunt setec fiscaliz contrat acord cooper outr instrument congen relat soluca
+
+
+x defin conjunt setec estrateg implant soluca consider necess capacit usuari quand cas realiz implant regim projet pilot
+
+
+xi mant quand cas comun virtual pratic portal tcu manu roteir utiliz tutori outr inform necess corret utiliz mais soluca compreensa process trabalh associ
+
+
+xii propor isc realiz diagnost necess desenvolv competente quand identific dificuldad utiliz soluca
+
+
+xii particip planej execuca aca desenvolv competente par utiliz soluca
+
+
+xiv acompanh avali utiliz soluca adot med ambit competente solicit providente necess par confiabil integr disponibil inform sej preserv benefici esper soluca sej alcanc
+
+
+xv prepar divulg inform dar orient referent proced utiliz soluca sem prejuiz atuaca servic atend usuari mant pel setec
+
+
+xvi receb analis solicit mudanc inform relat regr negoci requisit soluca adot providente competente comunical solicitant
+
+
+xvi propor setec prioridad atend demand relat soluca par consolid posterior encaminh par analis pel instanc competent observ estrateg institucion benefici esper cust estim pel setec par atend tais demand
+
+
+xvii manifestars quant conveniente oportun atend solicit orga entidad par cessa sistem desenvolv pel tribunal
+
+
+titul unidad gestor dev design formal servidor perfil adequ quantidad suficient par exerc prioritari competente previst nest port sem prejuiz exercici outr atribuica tais servidor
+
+
+design trat paragraf anterior pod criteri titul unidad gestor efetu term competente especif bem abrangente restrit modul funcional individu soluca
+
+
+quand definica regr negoci requisit afet outr soluca unidad gestor dev conjunt setec promov negoci necess part interess
+
+
+quand trat sistem extern cab unidad gestor coorden negoci orga entidad envolv par acess uso sistem pel tribunal cont unia
+
+
+quand trat softwar apoi cab unidad gestor motiv contrat propor quantidad licenc contrat defin criteri par utiliz dess licenc
+
+
+compet setec par efeit dispost nest port
+
+
+i negoci junt unidad gestor dem part interess escop praz aloc recurs unidad envolv projet desenvolv manutenca contrat soluca respeit premiss restrica estabelec plan tecnolog inform tribunal
+
+
+ii defin conjunt unidad gestor praz recurs aloc par apoi fas inicial oper soluca mod garant correca ajust necessari sej pront execut
+
+
+iii avali regr negoci requisit defin pel unidad gestor soluca apont possiv inconsistente incompatibil promov integr dem soluca arquitetur tecnolog tribunal
+
+
+iv negoci niv servic par soluca junt unidad gestor dem part interess garant funcion dentr dess parametr
+
+
+v desenvolv soluca solicit contrat acord regr negoci requisit especific pel unidad gestor
+
+
+vi mant unidad gestor dem part interess inform sobr andament demand projet relat soluca
+
+
+vii fiscaliz apoi conjunt respect unidad gestor contrat acord cooper instrument congen relat soluca
+
+
+vii realiz test necessari par assegur corret funcion aderente soluca regr negoci requisit especific
+
+
+ix prov ambient computacional adequ par desenvolv test homolog treinament uso soluca
+
+
+x elabor mant atualiz roteir atend soluca submetendo aprov unidad gestor sempr necessari
+
+
+xi particip planej execuca aca desenvolv competente par utiliz soluca
+
+
+xii mant unidad gestor dem part interess inform sobr par program problem relacion soluca ambient homolog treinament produca
+
+
+xii orient apoi ambit are atuaca unidad gestor adoca providente trat xii dest port
+
+
+xiv encaminh unidad gestor par analis providente cabiv solicit relat modific regr negoci requisit soluca
+
+
+xv apoi unidad gestor formul propost prioridad atend demand relat cad soluca consolid propost apresent pel unidad encaminhal instanc competent par subsidi planej aca
+
+
+xvi solicit sempr necessari atuaca unidad envolv gesta soluca refer desempenh competente previst nest port
+
+
+xvi manifestars quant aspect tecnic cust envolv atend solicit orga entidad par cessa sistem desenvolv pel tribunal
+
+
+xvii realiz mediant autoriz comissa coorden geral ccg modific necess par viabiliz cessa outr orga entidad sistem desenvolv pel tribunal
+
+
+xix elabor mant atualiz catalog soluca inform descrica soluca final unidad gestor niv servic acord
+
+
+compet isc par efeit dispost nest port
+
+
+i defin conjunt secret gesta pesso segep espac ocupacion respect competente necess par desempenh atribuica previst nest port
+
+
+ii elabor diagnost necess desenvolv competente profission organizacion par desempenh atribuica previst nest port par utiliz soluca
+
+
+iii planej coorden execut avali aca educ par desenvolv competente profission organizacion necess desempenh atribuica previst nest port utiliz soluca
+
+
+compet secretariageral presidente segepr mei assessor seguranc inform apoi governanc assig par efeit dispost nest port
+
+
+i monitor avali periodic pratic relat gesta soluca tribunal fim identific desvi propor aca corret
+
+
+ii propor diretriz orient unidad gestor quant aspect seguranc inform observ definica regr negoci requisit soluca
+
+
+iii orient apoi ambit are atuaca unidad gestor adoca providente trat xii dest port
+
+
+iv revis anual sempr necessari anex dest port submet ccg propost alter afet design unidad gestor soluca
+
+
+quand cessa sistem desenvolv pel tribunal outr orga entidad responsabil unidad gestor setec dem part envolv estabelec ato especif
+
+
+classific inform relat soluca obedec disposit constant resolucaotcu trat atribuica gestor inform tribunal
+
+
+unidad gestor soluca design anex est port
+
+
+qualqu demand par desenvolv contrat nov soluca dev devid motiv pel are demandant analis pel instanc competent submet aprov ccg
+
+
+motiv refer dest dev inclu necess institucional atend process trabalh abrang produt benefici esper usuari soluca inter outr soluca
+
+
+design unidad gestor par nov soluca efetu pel ccg quand aprov demand constitu requisit indispens par inici respect projet desenvolv contrat soluca
+
+
+design trat paragraf anterior recaira preferencial sobr unidad funca competente institucional detenh conhec autonom decisa sobr inform process trabalh abrang pel soluca
+
+
+fic autoriz ccg exped atos necessari regulament dest normat bem alter mei ato propri anex est port
+
+
+est port entr vigor dat public
+
+
+fic revog portariatcu mai
+
+
+walton alenc rodrigu
+
+
+president
+
+
+
+
+
+
+
+
+
+anex portariatcu novembr
+
+
+
+nrportariaccg btcu redaca dad pel portariaccg btcu
+
+
+
+
+unidad gestor
+
+soluca
+
+nom conhec
+
+tip
+
+abordag proviment
+
+unidad provedor
+
+isc
+
+acess siaf par treinament
+
+siaf educacional
+
+sistem extern
+
+centraliz
+
+setic
+
+acess bas dad legislacion brasileir
+
+dataleg
+
+sistem extern
+
+centraliz
+
+setic
+
+agend curs treinament
+
+agend curs
+
+sistem intern
+
+descentraliz
+
+isc
+
+ambient virtual educ corporat tcu
+
+avec tcu
+
+servic basic
+
+centraliz
+
+setic
+
+autentic certific treinament
+
+certific
+
+sistem intern
+
+descentraliz
+
+isc
+
+bibliotec forens digital
+
+bibliotec forens digital
+
+sistem extern
+
+centraliz
+
+setic
+
+bols idiom
+
+bols idiom
+
+sistem intern
+
+descentraliz
+
+isc
+
+encicloped jurid soibelman
+
+encicloped jurid
+
+sistem extern
+
+centraliz
+
+setic
+
+gesta public control estoqu
+
+public
+
+sistem intern
+
+descentraliz
+
+isc
+
+histor treinament pessoal unidad
+
+histor treinament
+
+sistem intern
+
+descentraliz
+
+isc
+
+inscrica eletron event
+
+inscrica eletron event
+
+sistem intern
+
+descentraliz
+
+isc
+
+sistem autom isc
+
+isc net
+
+sistem intern
+
+descentraliz
+
+isc
+
+sistem bibliotec
+
+sof
+
+sistem intern
+
+centraliz
+
+sti
+
+suit design grafic desenvolv web edica vide
+
+adob mast collection
+
+softwar apoi
+
+centraliz
+
+setic
+
+ouvidor
+
+tratament manifest receb pel ouvidor
+
+sisouvweb
+
+sistem intern
+
+descentraliz
+
+ouvidor
+
+secex
+
+acess sistem banc central
+
+sisbacen
+
+sistem extern
+
+centraliz
+
+setic
+
+secex
+
+acess cadastr nacional inform soci
+
+cnis
+
+sistem extern
+
+centraliz
+
+setic
+
+acess gui gfips emit empres
+
+gfipweb
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem acompanh div ativ
+
+div
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem ajust gui arrecad
+
+agu i
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem debit parcel cobranc
+
+sicob ii
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem inform arrecad
+
+inform iii
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem inform sobr concessa benefici
+
+maiprev
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem legislacion jurisprudente parec
+
+sislex
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem unic benefici
+
+sisben
+
+sistem extern
+
+centraliz
+
+setic
+
+secob
+
+acess sistem administr servic ger
+
+siasg
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem nacional prec referente
+
+sinap
+
+sistem extern
+
+centraliz
+
+setic
+
+apoi orcament obras
+
+volar
+
+softwar apoi
+
+centraliz
+
+setic
+
+modelag d multius
+
+googl sketchup pro
+
+softwar apoi
+
+centraliz
+
+setic
+
+modelag inform construca
+
+autocad civil d
+
+softwar apoi
+
+centraliz
+
+setic
+
+process dad topograf
+
+topograph iv
+
+softwar apoi
+
+centraliz
+
+setic
+
+sistem apoi fiscaliz modul fiscaliz obras
+
+modul fiscobr fiscal
+
+sistem intern
+
+centraliz
+
+sti
+
+visualiz element geograf
+
+googl earth pro
+
+softwar apoi
+
+centraliz
+
+setic
+
+sefid
+
+georeferenci inform
+
+maptitud
+
+softwar apoi
+
+centraliz
+
+setic
+
+sefip
+
+acess sistem administr pessoal
+
+siap
+
+sistem extern
+
+centraliz
+
+setic
+
+analis automat atos pessoal
+
+ap
+
+sistem intern
+
+descentraliz
+
+sefip
+
+acess sistem informatiz control obit
+
+sisob
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem relaca anual inform soci
+
+rais
+
+sistem extern
+
+centraliz
+
+setic
+
+apreci registr atos admissa concessa
+
+sisac
+
+sistem intern
+
+centraliz
+
+sti
+
+registr declar bens rend
+
+sisdbr
+
+sistem intern
+
+descentraliz
+
+sefip
+
+seft
+
+auditor dad
+
+acl
+
+softwar apoi
+
+centraliz
+
+setic
+
+segecex
+
+acess red infoseg
+
+infoseg
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr respons inadimplent
+
+cadin
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional empres mdic
+
+cne
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional pesso fisic jurid
+
+cpfcnpj
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional veicul
+
+detran ren
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem ativ
+
+ativ
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem control afrmm
+
+mercant
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem control conveni
+
+siconv
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem parcel especial
+
+paes
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem rep recurs projet govern
+
+rpg
+
+sistem extern
+
+centraliz
+
+setic
+
+analis estatist statistical packag social scienc
+
+spss
+
+softwar apoi
+
+centraliz
+
+setic
+
+atualiz valor
+
+debit
+
+sistem intern
+
+centraliz
+
+sti
+
+autuaca process cobranc execut
+
+cbex web
+
+sistem intern
+
+centraliz
+
+sti
+
+benefici control
+
+benefici control
+
+sistem intern
+
+centraliz
+
+sti
+
+cadastr respons cont julg irregul
+
+cadirreg
+
+sistem intern
+
+centraliz
+
+sti
+
+cadastr integr conden ilicit administrat
+
+cadicon
+
+sistem intern
+
+centraliz
+
+sti
+
+colet eletron process cont
+
+siscont
+
+sistem intern
+
+centraliz
+
+sti
+
+comunic processu
+
+comunic
+
+sistem intern
+
+centraliz
+
+sti
+
+control clientel
+
+clientel
+
+sistem intern
+
+centraliz
+
+sti
+
+emissa certida via web
+
+certida
+
+sistem intern
+
+centraliz
+
+sti
+
+extraca analis dad public ofici
+
+adp
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta process document
+
+processus
+
+sistem intern
+
+centraliz
+
+sti
+
+registr monitor apreci deliber
+
+rad
+
+sistem intern
+
+centraliz
+
+sti
+
+etcu unidad tecnic
+
+etcu unidad tecnic
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem apoi fiscaliz
+
+fiscal
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gesta document eletron
+
+sisdoc
+
+servic basic
+
+centraliz
+
+sti
+
+integr font inform par inteligente control
+
+sgi
+
+sistem intern
+
+descentraliz
+
+segecex
+
+wik control extern
+
+wikic
+
+servic basic
+
+centraliz
+
+setic
+
+sistem inteligente par control extern
+
+sintes
+
+sistem intern
+
+centraliz
+
+sti
+
+seged
+
+process eletron administrat
+
+process eletron administrat
+
+sistem intern
+
+centraliz
+
+sti
+
+segep
+
+banc competente
+
+banc competente
+
+sistem intern
+
+descentraliz
+
+segep
+
+folh pagament
+
+folh
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta recurs human
+
+grh
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta prontuari
+
+gsweb
+
+sistem intern
+
+centraliz
+
+sti
+
+indic eletron
+
+indic
+
+sistem intern
+
+descentraliz
+
+segep
+
+sistem avali desempenh
+
+sipad
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gesta pesso
+
+sgp v
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gerenci estagi estudantil
+
+sig
+
+sistem intern
+
+descentraliz
+
+segep
+
+sistem informatiz program reconhes
+
+reconhes
+
+sistem intern
+
+centraliz
+
+sti
+
+selip
+
+acompanh divulg licit
+
+licit
+
+sistem intern
+
+centraliz
+
+sti
+
+control contrat
+
+contrat
+
+sistem intern
+
+centraliz
+
+sti
+
+control material almoxarif
+
+asi
+
+sistem intern
+
+centraliz
+
+sti
+
+control patrimonial
+
+patrimoni
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem requisica materi
+
+sismac
+
+sistem intern
+
+descentraliz
+
+selip
+
+semag
+
+acess sistem orcament
+
+sidor
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem patrimoni unia
+
+spiu
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem integr administr financeir
+
+siafisiaf gerencial
+
+sistem extern
+
+centraliz
+
+setic
+
+cont public cadastr pagin public
+
+cont public
+
+sistem intern
+
+centraliz
+
+sti
+
+control transferente constitucion
+
+transcon
+
+sistem intern
+
+descentraliz
+
+semag
+
+seplan
+
+control cadastr unidad tcu
+
+sisun
+
+sistem intern
+
+centraliz
+
+sti
+
+gerenci projet
+
+project
+
+softwar apoi
+
+centraliz
+
+setic
+
+portal inform gerenci
+
+sinerg
+
+sistem intern
+
+centraliz
+
+sti
+
+planej tcu
+
+sisplan
+
+sistem intern
+
+descentraliz
+
+seplan
+
+softwar modelag process
+
+aris toolset
+
+softwar apoi
+
+centraliz
+
+setic
+
+seprog
+
+elabor aplic pesquis
+
+pesquis
+
+sistem intern
+
+descentraliz
+
+seprog
+
+analis estatist econometr
+
+stat
+
+softwar apoi
+
+centraliz
+
+setic
+
+sesap
+
+autor dvd
+
+adob encor dvd
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+control acess pesso
+
+suricat
+
+sistem intern
+
+centraliz
+
+setic
+
+edica audi vide final cut
+
+final cut
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+edica audi vide premier
+
+adob premier
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+efeit vide
+
+adob after efects
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+integr voz dad red tcu
+
+telefon ip voip
+
+servic basic
+
+centraliz
+
+setic
+
+orcament planej acompanh obras
+
+primas sipom
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+projet engenh
+
+autocad
+
+softwar apoi
+
+centraliz
+
+setic
+
+solicit servic ger
+
+servic ger
+
+sistem intern
+
+descentraliz
+
+sesap
+
+transmissa audiovide event tcu via red
+
+intramid streaming
+
+servic basic
+
+centraliz
+
+setic
+
+ses
+
+aliment norm jurisprudente tcu
+
+judoc
+
+sistem intern
+
+centraliz
+
+sti
+
+apoi gerenci acompanh sessa
+
+sag
+
+sistem intern
+
+centraliz
+
+sti
+
+atos normat tcu
+
+atos
+
+sistem intern
+
+descentraliz
+
+ses
+
+autom paut sessa
+
+paut
+
+sistem intern
+
+centraliz
+
+sti
+
+consult jurisprudente
+
+jur
+
+sistem intern
+
+centraliz
+
+sti
+
+consol sessa
+
+cons
+
+sistem intern
+
+descentraliz
+
+ses
+
+consol gabinet
+
+congab
+
+sistem intern
+
+descentraliz
+
+ses
+
+control aloc tempor servidor
+
+cats
+
+sistem intern
+
+centraliz
+
+sti
+
+etcu gabinet mptcu
+
+etcu gabinet mptcu
+
+sistem intern
+
+centraliz
+
+sti
+
+ger vot
+
+ger vot
+
+sistem intern
+
+descentraliz
+
+ses
+
+informat jurisprudente
+
+infojus
+
+sistem intern
+
+descentraliz
+
+ses
+
+jurisprudente sistematiz
+
+sisjur
+
+sistem intern
+
+descentraliz
+
+ses
+
+push informat jurisprudente
+
+push infojus
+
+sistem intern
+
+descentraliz
+
+ses
+
+questa ordem
+
+qdo
+
+sistem intern
+
+descentraliz
+
+ses
+
+sinops acorda decisa tribunal
+
+sinops
+
+sistem intern
+
+descentraliz
+
+ses
+
+sortei process
+
+sortei
+
+sistem intern
+
+centraliz
+
+sti
+
+setic
+
+acess internet
+
+internet
+
+servic basic
+
+centraliz
+
+setic
+
+acess red serpr
+
+red serpr
+
+sistem extern
+
+centraliz
+
+setic
+
+armazen centraliz arquiv
+
+servidor arquiv
+
+servic basic
+
+centraliz
+
+setic
+
+armazen arquiv control criptograf
+
+servidor segur
+
+servic basic
+
+centraliz
+
+setic
+
+autom escritori
+
+offic
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca demonstr
+
+adob captivat
+
+softwar apoi
+
+centraliz
+
+setic
+
+central servic
+
+servic desk
+
+servic basic
+
+centraliz
+
+setic
+
+correi eletron
+
+correi eletron
+
+servic basic
+
+centraliz
+
+setic
+
+design grafic avanc
+
+corel draw
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica avanc audi
+
+soundforg
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica avanc vide
+
+adob premier
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica gravaca avanc cddvd
+
+ner
+
+softwar apoi
+
+centraliz
+
+setic
+
+editor avanc public
+
+adob indesign
+
+softwar apoi
+
+centraliz
+
+setic
+
+enxoval padra softw par estaca trabalh
+
+enxoval softwar par estaca
+
+softwar apoi
+
+centraliz
+
+setic
+
+estaca trabalh red tcu
+
+estaca trabalh
+
+servic basic
+
+centraliz
+
+setic
+
+geraca aplic flash
+
+adob flash
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca diagram
+
+visi
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca edica avanc arquiv pdf
+
+adob acrobat professional
+
+softwar apoi
+
+centraliz
+
+setic
+
+gerenci projet
+
+project
+
+softwar apoi
+
+centraliz
+
+setic
+
+hospedag sit protcu
+
+hospedag protcu
+
+servic basic
+
+centraliz
+
+setic
+
+impressor impressa
+
+impressa
+
+servic basic
+
+centraliz
+
+setic
+
+process remot aplic
+
+citrix metafram
+
+servic basic
+
+centraliz
+
+setic
+
+proteca antivirus
+
+antivirus
+
+softwar apoi
+
+centraliz
+
+setic
+
+red comunic dad tribunal
+
+red tcu
+
+servic basic
+
+centraliz
+
+setic
+
+sistem mensag instantane
+
+spark
+
+softwar apoi
+
+centraliz
+
+setic
+
+sistem integr gerenci acess
+
+sig
+
+sistem intern
+
+centraliz
+
+setic
+
+softw livr homolog par estaca trabalh
+
+softw livr par estaca
+
+softwar apoi
+
+centraliz
+
+setic
+
+videoconferente tcuinterleg
+
+videoconferente
+
+servic basic
+
+centraliz
+
+setic
+
+sti
+
+acess portal especializ inform jurid legislat
+
+lexml
+
+sistem extern
+
+centraliz
+
+sti
+
+portal pesquis textual
+
+portal textual
+
+sistem intern
+
+centraliz
+
+sti
+
+portal tcu
+
+portal tcu
+
+servic basic
+
+centraliz
+
+sti
+
+
+
+
+
+not
+
+
+i sistem agu deix utiliz desativ
+
+
+ii sistem sicob deix utiliz desativ
+
+
+iii sistem inform deix utiliz desativ
+
+
+iv softwar topograph encontras process aquisica
+
+
+v analis viabil par aquisica sistem sgp conclu
+
+
+
+
+redaca anterior
+
+
+
+
+
+revog
+dispo sobr gesta soluca corporat tecnolog inform soluca tribunal cont unia
+
+anex portariatcu novembr
+
+
+
+
+
+
+unidad gestor
+
+soluca
+
+nom conhec
+
+tip
+
+abordag proviment
+
+unidad provedor
+
+isc
+
+acess siaf par treinament
+
+siaf educacional
+
+sistem extern
+
+centraliz
+
+setic
+
+acess bas dad legislacion brasileir
+
+dataleg
+
+sistem extern
+
+centraliz
+
+setic
+
+agend curs treinament
+
+agend curs
+
+sistem intern
+
+descentraliz
+
+isc
+
+ambient virtual educ corporat tcu
+
+avec tcu
+
+servic basic
+
+centraliz
+
+setic
+
+autentic certific treinament
+
+certific
+
+sistem intern
+
+descentraliz
+
+isc
+
+bibliotec forens digital
+
+bibliotec forens digital
+
+sistem extern
+
+centraliz
+
+setic
+
+bols idiom
+
+bols idiom
+
+sistem intern
+
+descentraliz
+
+isc
+
+encicloped jurid soibelman
+
+encicloped jurid
+
+sistem extern
+
+centraliz
+
+setic
+
+gesta public control estoqu
+
+public
+
+sistem intern
+
+descentraliz
+
+isc
+
+histor treinament pessoal unidad
+
+histor treinament
+
+sistem intern
+
+descentraliz
+
+isc
+
+inscrica eletron event
+
+inscrica eletron event
+
+sistem intern
+
+descentraliz
+
+isc
+
+sistem autom isc
+
+isc net
+
+sistem intern
+
+descentraliz
+
+isc
+
+sistem bibliotec
+
+sof
+
+sistem intern
+
+centraliz
+
+sti
+
+suit design grafic desenvolv web edica vide
+
+adob mast collection
+
+softwar apoi
+
+centraliz
+
+setic
+
+ouvidor
+
+tratament manifest receb pel ouvidor
+
+sisouvweb
+
+sistem intern
+
+descentraliz
+
+ouvidor
+
+secex
+
+acess sistem banc central
+
+sisbacen
+
+sistem extern
+
+centraliz
+
+setic
+
+secex
+
+acess cadastr nacional inform soci
+
+cnis
+
+sistem extern
+
+centraliz
+
+setic
+
+acess gui gfips emit empres
+
+gfipweb
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem acompanh div ativ
+
+div
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem ajust gui arrecad
+
+agu
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem debit parcel cobranc
+
+sicob
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem inform arrecad
+
+inform
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem inform sobr concessa benefici
+
+maiprev
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem legislacion jurisprudente parec
+
+sislex
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem unic benefici
+
+sisben
+
+sistem extern
+
+centraliz
+
+setic
+
+secob
+
+acess sistem administr servic ger
+
+siasg
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem nacional prec referente
+
+sinap
+
+sistem extern
+
+centraliz
+
+setic
+
+apoi orcament obras
+
+volar
+
+softwar apoi
+
+centraliz
+
+setic
+
+modelag d multius
+
+googl sketchup pro
+
+softwar apoi
+
+centraliz
+
+setic
+
+modelag inform construca
+
+autocad civil d
+
+softwar apoi
+
+centraliz
+
+setic
+
+process dad topograf
+
+topograph
+
+softwar apoi
+
+centraliz
+
+setic
+
+sistem apoi fiscaliz modul fiscaliz obras
+
+modul fiscobr fiscal
+
+sistem intern
+
+centraliz
+
+sti
+
+visualiz element geograf
+
+googl earth pro
+
+softwar apoi
+
+centraliz
+
+setic
+
+sefid
+
+georeferenci inform
+
+maptitud
+
+softwar apoi
+
+centraliz
+
+setic
+
+sefip
+
+acess sistem administr pessoal
+
+siap
+
+sistem extern
+
+centraliz
+
+setic
+
+analis automat atos pessoal
+
+ap
+
+sistem intern
+
+descentraliz
+
+sefip
+
+acess sistem informatiz control obit
+
+sisob
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem relaca anual inform soci
+
+rais
+
+sistem extern
+
+centraliz
+
+setic
+
+apreci registr atos admissa concessa
+
+sisac
+
+sistem intern
+
+centraliz
+
+sti
+
+registr declar bens rend
+
+sisdbr
+
+sistem intern
+
+descentraliz
+
+sefip
+
+seft
+
+auditor dad
+
+acl
+
+softwar apoi
+
+centraliz
+
+setic
+
+segecex
+
+acess red infoseg
+
+infoseg
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr respons inadimplent
+
+cadin
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional empres mdic
+
+cne
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional pesso fisic jurid
+
+cpfcnpj
+
+sistem extern
+
+centraliz
+
+setic
+
+acess cadastr nacional veicul
+
+detranren
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem ativ
+
+ativ
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem control afrmm
+
+mercant
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem control conveni
+
+siconv
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem parcel especial
+
+paes
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem rep recurs projet govern
+
+rpg
+
+sistem extern
+
+centraliz
+
+setic
+
+analis estatist statistical packag social scienc
+
+spss
+
+softwar apoi
+
+centraliz
+
+setic
+
+atualiz valor
+
+debit
+
+sistem intern
+
+centraliz
+
+sti
+
+autuaca process cobranc execut
+
+cbex web
+
+sistem intern
+
+centraliz
+
+sti
+
+benefici control
+
+benefici control
+
+sistem intern
+
+centraliz
+
+sti
+
+cadastr respons cont julg irregul
+
+cadirreg
+
+sistem intern
+
+centraliz
+
+sti
+
+cadastr integr conden ilicit administrat
+
+cadicon
+
+sistem intern
+
+centraliz
+
+sti
+
+colet eletron process cont
+
+siscont
+
+sistem intern
+
+centraliz
+
+sti
+
+comunic processu
+
+comunic
+
+sistem intern
+
+centraliz
+
+sti
+
+control clientel
+
+clientel
+
+sistem intern
+
+centraliz
+
+sti
+
+emissa certida via web
+
+certida
+
+sistem intern
+
+centraliz
+
+sti
+
+extraca analis dad public ofici
+
+adp
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta process document
+
+processus
+
+sistem intern
+
+centraliz
+
+sti
+
+registr monitor apreci deliber
+
+rad
+
+sistem intern
+
+centraliz
+
+sti
+
+etcu unidad tecnic
+
+etcu unidad tecnic
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem apoi fiscaliz
+
+fiscal
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gesta document eletron
+
+sisdoc
+
+servic basic
+
+centraliz
+
+sti
+
+integr font inform par inteligente control
+
+sgi
+
+sistem intern
+
+descentraliz
+
+segecex
+
+wik control extern
+
+wikic
+
+servic basic
+
+centraliz
+
+setic
+
+sistem inteligente par control extern
+
+sintes
+
+sistem intern
+
+centraliz
+
+sti
+
+seged
+
+process eletron administrat
+
+process eletron administrat
+
+sistem intern
+
+centraliz
+
+sti
+
+segep
+
+banc competente
+
+banc competente
+
+sistem intern
+
+descentraliz
+
+segep
+
+folh pagament
+
+folh
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta recurs human
+
+grh
+
+sistem intern
+
+centraliz
+
+sti
+
+gesta prontuari
+
+gsweb
+
+sistem intern
+
+centraliz
+
+sti
+
+indic eletron
+
+indic
+
+sistem intern
+
+descentraliz
+
+segep
+
+sistem avali desempenh
+
+sipad
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gesta pesso
+
+sgp
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem gerenci estagi estudantil
+
+sig
+
+sistem intern
+
+descentraliz
+
+segep
+
+sistem informatiz program reconhes
+
+reconhes
+
+sistem intern
+
+centraliz
+
+sti
+
+selip
+
+acompanh divulg licit
+
+licit
+
+sistem intern
+
+centraliz
+
+sti
+
+control contrat
+
+contrat
+
+sistem intern
+
+centraliz
+
+sti
+
+control material almoxarif
+
+asi
+
+sistem intern
+
+centraliz
+
+sti
+
+control patrimonial
+
+patrimoni
+
+sistem intern
+
+centraliz
+
+sti
+
+sistem requisica materi
+
+sismac
+
+sistem intern
+
+descentraliz
+
+selip
+
+semag
+
+acess sistem orcament
+
+sidor
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem patrimoni unia
+
+spiu
+
+sistem extern
+
+centraliz
+
+setic
+
+acess sistem integr administr financeir
+
+siafisiaf gerencial
+
+sistem extern
+
+centraliz
+
+setic
+
+cont public cadastr pagin public
+
+cont public
+
+sistem intern
+
+centraliz
+
+sti
+
+control transferente constitucion
+
+transcon
+
+sistem intern
+
+descentraliz
+
+semag
+
+seplan
+
+control cadastr unidad tcu
+
+sisun
+
+sistem intern
+
+centraliz
+
+sti
+
+gerenci projet
+
+project
+
+softwar apoi
+
+centraliz
+
+setic
+
+portal inform gerenci
+
+sinerg
+
+sistem intern
+
+centraliz
+
+sti
+
+planej tcu
+
+sisplan
+
+sistem intern
+
+descentraliz
+
+seplan
+
+softwar modelag process
+
+aris toolset
+
+softwar apoi
+
+centraliz
+
+setic
+
+seprog
+
+elabor aplic pesquis
+
+pesquis
+
+sistem intern
+
+descentraliz
+
+seprog
+
+analis estatist econometr
+
+stat
+
+softwar apoi
+
+centraliz
+
+setic
+
+sesap
+
+autor dvd
+
+adob encor dvd
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+control acess pesso
+
+suricat
+
+sistem intern
+
+centraliz
+
+setic
+
+edica audi vide final cut
+
+final cut
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+edica audi vide premier
+
+adob premier
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+efeit vide
+
+adob after efects
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+integr voz dad red tcu
+
+telefon ip voip
+
+servic basic
+
+centraliz
+
+setic
+
+orcament planej acompanh obras
+
+primas sipom
+
+softwar apoi
+
+descentraliz
+
+sesap
+
+projet engenh
+
+autocad
+
+softwar apoi
+
+centraliz
+
+setic
+
+solicit servic ger
+
+servic ger
+
+sistem intern
+
+descentraliz
+
+sesap
+
+transmissa audiovide event tcu via red
+
+intramidiastreaming
+
+servic basic
+
+centraliz
+
+setic
+
+ses
+
+aliment norm jurisprudente tcu
+
+judoc
+
+sistem intern
+
+centraliz
+
+sti
+
+apoi gerenci acompanh sessa
+
+sag
+
+sistem intern
+
+centraliz
+
+sti
+
+atos normat tcu
+
+atos
+
+sistem intern
+
+descentraliz
+
+ses
+
+autom paut sessa
+
+paut
+
+sistem intern
+
+centraliz
+
+sti
+
+consult jurisprudente
+
+jur
+
+sistem intern
+
+centraliz
+
+sti
+
+consol sessa
+
+cons
+
+sistem intern
+
+descentraliz
+
+ses
+
+consol gabinet
+
+congab
+
+sistem intern
+
+descentraliz
+
+ses
+
+control aloc tempor servidor
+
+cats
+
+sistem intern
+
+centraliz
+
+sti
+
+etcu gabinet mptcu
+
+etcu gabinet mptcu
+
+sistem intern
+
+centraliz
+
+sti
+
+ger vot
+
+ger vot
+
+sistem intern
+
+descentraliz
+
+ses
+
+informat jurisprudente
+
+infojus
+
+sistem intern
+
+descentraliz
+
+ses
+
+jurisprudente sistematiz
+
+sisjur
+
+sistem intern
+
+descentraliz
+
+ses
+
+push informat jurisprudente
+
+push infojus
+
+sistem intern
+
+descentraliz
+
+ses
+
+questa ordem
+
+qdo
+
+sistem intern
+
+descentraliz
+
+ses
+
+sinops acorda decisa tribunal
+
+sinops
+
+sistem intern
+
+descentraliz
+
+ses
+
+sortei process
+
+sortei
+
+sistem intern
+
+centraliz
+
+sti
+
+setic
+
+acess internet
+
+internet
+
+servic basic
+
+centraliz
+
+setic
+
+acess red serpr
+
+red serpr
+
+sistem extern
+
+centraliz
+
+setic
+
+armazen centraliz arquiv
+
+servidor arquiv
+
+servic basic
+
+centraliz
+
+setic
+
+armazen arquiv control criptograf
+
+servidor segur
+
+servic basic
+
+centraliz
+
+setic
+
+autom escritori
+
+offic
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca demonstr
+
+adob captivat
+
+softwar apoi
+
+centraliz
+
+setic
+
+central servic
+
+servic desk
+
+servic basic
+
+centraliz
+
+setic
+
+correi eletron
+
+correi eletron
+
+servic basic
+
+centraliz
+
+setic
+
+design grafic avanc
+
+corel draw
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica avanc audi
+
+soundforg
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica avanc vide
+
+adob premier
+
+softwar apoi
+
+centraliz
+
+setic
+
+edica gravaca avanc cddvd
+
+ner
+
+softwar apoi
+
+centraliz
+
+setic
+
+editor avanc public
+
+adob indesign
+
+softwar apoi
+
+centraliz
+
+setic
+
+enxoval padra softw par estaca trabalh
+
+enxoval softwar par estaca
+
+softwar apoi
+
+centraliz
+
+setic
+
+estaca trabalh red tcu
+
+estaca trabalh
+
+servic basic
+
+centraliz
+
+setic
+
+geraca aplic flash
+
+adob flash
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca diagram
+
+visi
+
+softwar apoi
+
+centraliz
+
+setic
+
+geraca edica avanc arquiv pdf
+
+adob acrobat professional
+
+softwar apoi
+
+centraliz
+
+setic
+
+gerenci projet
+
+project
+
+softwar apoi
+
+centraliz
+
+setic
+
+hospedag sit protcu
+
+hospedag protcu
+
+servic basic
+
+centraliz
+
+setic
+
+impressor impressa
+
+impressa
+
+servic basic
+
+centraliz
+
+setic
+
+process remot aplic
+
+citrix metafram
+
+servic basic
+
+centraliz
+
+setic
+
+proteca antivirus
+
+antivirus
+
+softwar apoi
+
+centraliz
+
+setic
+
+red comunic dad tribunal
+
+red tcu
+
+servic basic
+
+centraliz
+
+setic
+
+sistem mensag instantane
+
+spark
+
+softwar apoi
+
+centraliz
+
+setic
+
+sistem integr gerenci acess
+
+sig
+
+sistem intern
+
+centraliz
+
+setic
+
+softw livr homolog par estaca trabalh
+
+softw livr par estaca
+
+softwar apoi
+
+centraliz
+
+setic
+
+videoconferente tcuinterleg
+
+videoconferente
+
+servic basic
+
+centraliz
+
+setic
+
+sti
+
+acess portal especializ inform jurid legislat
+
+lexml
+
+sistem extern
+
+centraliz
+
+sti
+
+portal pesquis textual
+
+portal textual
+
+sistem intern
+
+centraliz
+
+sti
+
+portal tcu
+
+portal tcu
+
+servic basic
+
+centraliz
+
+sti
+
+
+
+
+
+
+
+
+not
+
+
+sistem agu deix utiliz desativ
+
+
+sistem sicob deix utiliz desativ
+
+
+sistem inform deix utiliz desativ
+
+
+
+softwar topograph encontras process aquisica
+
+
+analis viabil par aquisica sistem sgp conclu
+
+
+
+anex portariatcu novembr
+
+
+
+
+
+
+
+
+
+unidad gestor
+
+soluca
+
+sigl
+
+tip
+
+isc
+
+acess bas dad legislacion brasileir
+
+dataleg
+
+sistem extern
+
+acess red virtual bibliotec institucion
+
+red rvb
+
+sistem extern
+
+acess siaf par treinament
+
+siaf educacional
+
+sistem extern
+
+acess sistem acompanh norm
+
+sisnorm
+
+sistem extern
+
+ambient virtual educ corporat tcu
+
+avec tcu
+
+servic basic
+
+indic conhec
+
+indic conhec
+
+sistem intern
+
+sistem autom isc
+
+isc net
+
+sistem intern
+
+sistem bibliotec
+
+sof
+
+sistem intern
+
+gt process eletron
+
+process eletron control extern
+
+process eletron
+
+sistem intern
+
+secex
+
+acess sistem banc central
+
+sisbacen
+
+sistem extern
+
+secex
+
+acess cadastr nacional inform soci
+
+cnis
+
+sistem extern
+
+acess sistem acompanh div ativ
+
+div
+
+sistem extern
+
+acess sistem ajust gui arrecad
+
+agu
+
+sistem extern
+
+acess sistem debit parcel cobranc
+
+sicob
+
+sistem extern
+
+acess sistem inform arrecad
+
+inform
+
+sistem extern
+
+acess sistem legislacion jurisprudente parec
+
+sislex
+
+sistem extern
+
+acess sistem unic benefici
+
+sisben
+
+sistem extern
+
+acess sistem patrimoni unia
+
+spiu
+
+sistem extern
+
+secob
+
+acess sistem administr servic ger
+
+siasg
+
+sistem extern
+
+acess sistem nacional prec referente
+
+sinap
+
+sistem extern
+
+apoi orcament obras
+
+volar
+
+softwar apoi
+
+sistem apoi fiscaliz funcional relat fiscaliz obras
+
+fiscal funcional fiscobr
+
+sistem intern
+
+sefid
+
+georeferenci inform
+
+maptitud
+
+softwar apoi
+
+sefip
+
+acess sistem administr pessoal
+
+siap
+
+sistem extern
+
+acess sistem informatiz control obit
+
+sisob
+
+sistem extern
+
+acess sistem relaca anual inform soci
+
+rais
+
+sistem extern
+
+apreci registr atos admissa concessa
+
+sisac
+
+sistem intern
+
+colet atos admissa concessa
+
+sisac net
+
+sistem intern
+
+seft
+
+auditor dad
+
+acl
+
+softwar apoi
+
+segecex
+
+acess red infoseg
+
+infoseg
+
+sistem extern
+
+acess cadastr respons inadimplent
+
+cadin
+
+sistem extern
+
+acess cadastr nacional pesso fisic jurid
+
+cpfcnpj
+
+sistem extern
+
+acess cadastr nacional veicul
+
+detranren
+
+sistem extern
+
+acess sistem ativ
+
+ativ
+
+sistem extern
+
+acess sistem control afrmm
+
+mercant
+
+sistem extern
+
+acess sistem control conveni
+
+siconv
+
+sistem extern
+
+acess sistem parcel especial
+
+paes
+
+sistem extern
+
+acess sistem rep recurs projet govern
+
+rpg
+
+sistem extern
+
+analis estatist statistical packag social scienc
+
+spss
+
+softwar apoi
+
+atualiz valor
+
+debit
+
+sistem intern
+
+autuaca process cobranc execut
+
+cbex web
+
+sistem intern
+
+benefici control
+
+benefici control
+
+sistem intern
+
+cadastr respons cont julg irregul
+
+cadirreg
+
+sistem intern
+
+colet eletron process cont
+
+siscont
+
+sistem intern
+
+comunic processu
+
+comunic
+
+sistem intern
+
+control clientel
+
+clientel
+
+sistem intern
+
+emissa certida via web
+
+certida
+
+sistem intern
+
+gesta process document
+
+processus
+
+sistem intern
+
+mes trabalh funcional relat soluca gesta
+
+mes trabalh
+
+sistem intern
+
+registr monitor apreci deliber
+
+rad
+
+sistem intern
+
+servic eletron control extern
+
+etcu
+
+sistem intern
+
+sistem apoi fiscaliz
+
+fiscal
+
+sistem intern
+
+sistem gesta document eletron
+
+sisdoc
+
+servic basic
+
+sistem inteligente par control extern
+
+sintes
+
+sistem intern
+
+seged
+
+mes trabalh funcional relat soluca gesta
+
+mes trabalh
+
+sistem intern
+
+process eletron administrat
+
+pegasus
+
+sistem intern
+
+segep
+
+control aloc tempor servidor
+
+cats
+
+sistem intern
+
+gesta recurs human
+
+grh
+
+sistem intern
+
+indic eletron
+
+indic
+
+sistem intern
+
+sistem gesta pesso
+
+sgp
+
+sistem intern
+
+sistem informatiz program reconhes
+
+reconhes
+
+sistem intern
+
+selip
+
+acompanh divulg licit
+
+licit
+
+sistem intern
+
+control contrat
+
+contrat
+
+sistem intern
+
+control material almoxarif
+
+asi
+
+sistem intern
+
+control patrimonial
+
+patrimoni
+
+sistem intern
+
+semag
+
+acess sistem orcament
+
+sidor
+
+sistem extern
+
+acess sistem integr administr financeir
+
+siafisiaf gerencial
+
+sistem extern
+
+cont public cadastr pagin public
+
+cont public
+
+sistem intern
+
+control transferente constitucion
+
+transcon
+
+sistem intern
+
+seplan
+
+control cadastr unidad tcu
+
+sisun
+
+sistem intern
+
+gerenci projet
+
+project
+
+softwar apoi
+
+portal inform gerenci
+
+sinerg
+
+sistem intern
+
+softwar modelag process
+
+aris toolset
+
+softwar apoi
+
+seprog
+
+elabor aplic pesquis
+
+pesquis
+
+sistem intern
+
+sesap
+
+control acess pesso
+
+cap
+
+sistem intern
+
+integr voz dad red tcu
+
+telefon ip voip
+
+servic basic
+
+projet engenh
+
+autocad
+
+softwar apoi
+
+solicit servic ger
+
+servic ger
+
+sistem intern
+
+transmissa audiovide via red
+
+intramid
+
+servic basic
+
+ses
+
+aliment norm jurisprudente tcu
+
+judoc
+
+sistem intern
+
+apoi gerenci acompanh sessa
+
+sag
+
+sistem intern
+
+autom paut sessa
+
+paut
+
+sistem intern
+
+consult jurisprudente
+
+jur
+
+sistem intern
+
+jurisprudente sistematiz
+
+sisjur
+
+sistem intern
+
+mes trabalh funcional relat soluca gesta
+
+mes trabalh
+
+sistem intern
+
+sortei process
+
+sortei
+
+sistem intern
+
+
+
+setec
+
+acess internet
+
+internet
+
+servic basic
+
+acess red serpr
+
+red serpr
+
+sistem extern
+
+armazen centraliz arquiv
+
+servic arquiv
+
+servic basic
+
+autom escritori
+
+offic
+
+softwar apoi
+
+captur tel
+
+captivat
+
+softwar apoi
+
+compact arquiv
+
+masterzip
+
+softwar apoi
+
+correi eletron
+
+correi eletron
+
+servic basic
+
+dicionari eletron
+
+dicionari
+
+softwar apoi
+
+edica imagens
+
+gimp
+
+softwar apoi
+
+edica gravaca cddvd
+
+ner
+
+softwar apoi
+
+editor public
+
+indesign
+
+softwar apoi
+
+elabor map ment
+
+freemind
+
+softwar apoi
+
+estaca trabalh red tcu
+
+estaca trabalh
+
+servic basic
+
+geraca arquiv pdf
+
+acrobatfre pdf
+
+softwar apoi
+
+gerenci recurs computacion
+
+landesk
+
+servic basic
+
+infraestrutur gerenci eletron document
+
+ged
+
+servic basic
+
+portal pesquis textual
+
+portal textual
+
+sistem intern
+
+portal tcu
+
+portal tcu
+
+servic basic
+
+process remot aplic
+
+citrix metafram
+
+servic basic
+
+proteca antivirus
+
+antivirus
+
+softwar apoi
+
+red comunic dad tribunal
+
+red tcu
+
+servic basic
+
+sistem mensag instantane
+
+spark
+
+sistem extern
+
+sistem integr gerenci acess
+
+sig
+
+sistem intern
+
+videoconferente tcuinterleg
+
+videoconferente
+
+servic basic
+
+
+
+visualiz arquiv pdf
+
+acrobat read
+
+softwar apoi
+
+
+
+
+
+
+anex portariatcu novembr
+
+
+
+
+unidad gestor
+
+soluca
+
+sigl
+
+tip
+
+isc
+
+acess bas dad legislacion brasileir
+
+dataleg
+
+sistem extern
+
+acess red virtual bibliotec institucion
+
+red rvb
+
+sistem extern
+
+acess siaf par treinament
+
+siaf educacional
+
+sistem extern
+
+acess sistem acompanh norm
+
+sisnorm
+
+sistem extern
+
+ambient virtual educ corporat tcu
+
+avec tcu
+
+servic basic
+
+indic conhec
+
+indic conhec
+
+sistem intern
+
+sistem autom isc
+
+isc net
+
+sistem intern
+
+sistem bibliotec
+
+sof
+
+sistem intern
+
+secex
+
+acess sistem banc central
+
+sisbacen
+
+sistem extern
+
+secex
+
+acess cadastr nacional inform soci
+
+cnis
+
+sistem extern
+
+acess sistem acompanh div ativ
+
+div
+
+sistem extern
+
+acess sistem ajust gui arrecad
+
+agu
+
+sistem extern
+
+acess sistem debit parcel cobranc
+
+sicob
+
+sistem extern
+
+acess sistem inform arrecad
+
+inform
+
+sistem extern
+
+acess sistem legislacion jurisprudente parec
+
+sislex
+
+sistem extern
+
+acess sistem unic benefici
+
+sisben
+
+sistem extern
+
+secex
+
+acess sistem patrimoni unia
+
+spiu
+
+sistem extern
+
+secob
+
+acess sistem administr servic ger
+
+siasg
+
+sistem extern
+
+acess sistem nacional prec referente
+
+sinap
+
+sistem extern
+
+apoi orcament obras
+
+volar
+
+softwar apoi
+
+sistem apoi fiscaliz obras
+
+fiscobr
+
+sistem intern
+
+sefid
+
+georeferenci inform
+
+maptitud
+
+softwar apoi
+
+sefip
+
+acess sistem administr pessoal
+
+siap
+
+sistem extern
+
+acess sistem informatiz control obit
+
+sisob
+
+sistem extern
+
+acess sistem relaca anual inform soci
+
+rais
+
+sistem extern
+
+apreci registr atos admissa concessa
+
+sisac
+
+sistem intern
+
+colet atos admissa concessa
+
+sisac net
+
+sistem intern
+
+seft
+
+auditor dad
+
+acl
+
+softwar apoi
+
+segecex
+
+acess red infoseg
+
+infoseg
+
+sistem extern
+
+acess cadastr respons inadimplent
+
+cadin
+
+sistem extern
+
+acess cadastr nacional pesso fisic jurid
+
+cpfcnpj
+
+sistem extern
+
+acess cadastr nacional veicul
+
+detranren
+
+sistem extern
+
+acess sistem ativ
+
+ativ
+
+sistem extern
+
+acess sistem comerci exterior
+
+siscomex
+
+sistem extern
+
+acess sistem inform financeir
+
+reuters
+
+sistem extern
+
+acess sistem orcament
+
+sidor
+
+sistem extern
+
+acompanh process cobranc execut
+
+cbex web
+
+sistem intern
+
+analis estatist statistical packag social scienc
+
+spss
+
+softwar apoi
+
+atualiz valor
+
+debit
+
+sistem intern
+
+benefici control
+
+benefici control
+
+sistem intern
+
+cadastr respons cont julg irregul
+
+cadirreg
+
+sistem intern
+
+colet eletron process cont
+
+siscont
+
+sistem intern
+
+comunic processu
+
+comunic
+
+sistem intern
+
+cont public cadastr pagin public
+
+cont public
+
+sistem intern
+
+control clientel
+
+clientel
+
+sistem intern
+
+difer process cont
+
+difer
+
+sistem intern
+
+emissa certida via web
+
+certida
+
+sistem intern
+
+gesta process document
+
+processus
+
+sistem intern
+
+instruca eletron process cont
+
+ie
+
+sistem intern
+
+notific moviment process
+
+processus push
+
+sistem intern
+
+registr monitor apreci deliber
+
+rad
+
+sistem intern
+
+sistem apoi fiscaliz
+
+fiscal
+
+sistem intern
+
+sistem gesta document eletron
+
+sisdocged
+
+servic basic
+
+sistem inteligente par control extern
+
+sintes
+
+sistem intern
+
+seged
+
+process eletron administrat
+
+pegasus
+
+sistem intern
+
+segep
+
+gesta recurs human
+
+grh
+
+sistem intern
+
+indic eletron
+
+indic
+
+sistem intern
+
+sistem gesta pesso
+
+sgp
+
+sistem intern
+
+selip
+
+acompanh divulg licit
+
+licit
+
+sistem intern
+
+control contrat
+
+contrat
+
+sistem intern
+
+control material almoxarif
+
+asi
+
+sistem intern
+
+control patrimonial
+
+patrimoni
+
+sistem intern
+
+semag
+
+acess sistem integr administr financeir
+
+siafisiaf gerencial
+
+sistem extern
+
+control transferente constitucion
+
+transcon
+
+sistem intern
+
+seplan
+
+control cadastr unidad tcu
+
+sisun
+
+sistem intern
+
+gerenci projet
+
+project
+
+softwar apoi
+
+portal inform gerenci
+
+sinerg
+
+sistem intern
+
+softwar modelag process
+
+aris toolset
+
+softwar apoi
+
+seprog
+
+elabor aplic pesquis
+
+pesquis
+
+sistem intern
+
+ferrament pesquis sphinx
+
+sphinx
+
+softwar apoi
+
+sesap
+
+gerenc control acess
+
+rond
+
+sistem intern
+
+integr voz dad red tcu
+
+telefon ip voip
+
+servic basic
+
+projet engenh
+
+autocad
+
+softwar apoi
+
+solicit servic ger
+
+servic ger
+
+sistem intern
+
+transmissa audiovide via red
+
+intramid
+
+servic basic
+
+ses
+
+aliment norm jurisprudente tcu
+
+judoc
+
+sistem intern
+
+apoi gerenci acompanh sessa
+
+sag
+
+sistem intern
+
+autom paut sessa
+
+paut
+
+sistem intern
+
+autom gabinet
+
+autogab
+
+sistem intern
+
+consult jurisprudente
+
+jur
+
+sistem intern
+
+jurisprudente sistematiz
+
+sisjur
+
+sistem intern
+
+sortei process
+
+sortei
+
+sistem intern
+
+setec
+
+acess internet
+
+internet
+
+servic basic
+
+acess red serpr
+
+red serpr
+
+sistem extern
+
+armazen centraliz arquiv
+
+servic arquiv
+
+servic basic
+
+autom escritori
+
+offic
+
+softwar apoi
+
+captur tel
+
+captivat
+
+softwar apoi
+
+compact arquiv
+
+masterzip
+
+softwar apoi
+
+correi eletron
+
+correi eletron
+
+servic basic
+
+dicionari eletron
+
+dicionari
+
+softwar apoi
+
+edica imagens
+
+gimp
+
+softwar apoi
+
+edica gravaca cddvd
+
+ner
+
+softwar apoi
+
+editor public
+
+indesign
+
+softwar apoi
+
+elabor map ment
+
+freemind
+
+softwar apoi
+
+estaca trabalh red tcu
+
+estaca trabalh
+
+servic basic
+
+geraca arquiv pdf
+
+acrobat
+
+softwar apoi
+
+gerenci recurs computacion
+
+sms
+
+servic basic
+
+portal pesquis textual
+
+portal textual
+
+sistem intern
+
+portal tcu
+
+portal tcu
+
+servic basic
+
+process remot aplic
+
+citrix metafram
+
+servic basic
+
+proteca antivirus
+
+antivirus
+
+softwar apoi
+
+red comunic dad tribunal
+
+red tcu
+
+servic basic
+
+sistem integr gerenci acess
+
+sig
+
+sistem intern
+
+sistem mensag instantane
+
+spark
+
+sistem extern
+
+transferente arquiv red serpr
+
+tempus transf
+
+softwar apoi
+
+videoconferente tcuinterleg
+
+videoconferente
+
+servic basic
+
+visualiz arquiv pdf
+
+acrobat read
+
+softwar apoi
+
+
+
+
+
+

@@ -1,0 +1,834 @@
+
+
+
+
+tribunal cont unia uso atribuica leg regiment
+
+
+consider necess facilit acess sociedad servic prest pel tribunal cont unia tcu aprimor atend oferec cidada
+
+
+consider iniciat curs par implant process eletron control extern ambit tcu necess definica proced relat nov sistemat processual
+
+
+consider disciplin cont lei dezembr dispo sobr informatiz process judicial
+
+
+consider dispost med provisor agost institu infraestrutur chav public brasileir icpbrasil par garant autentic integr validad jurid document eletron
+
+
+consider term lei janeir codig process civil acorda vot dem atos processu pod registr arquiv eletron inviol assin eletronic
+
+
+consider document mei eletron produz utiliz process certific disponibiliz pel icpbrasil presumems verdadeir relaca signatari form lei janeir codig civil
+
+
+consider tratament confer numer process recurs term resolucaocnj dezembr
+
+
+consider necess regulament utiliz servic eletron prest pel tcu mei portal internet
+
+
+consider estud parec constant process tc acerc funcion process eletron dem servic eletron ofert pel tcu bem process tc respeit validad jurid document eletron resolv
+
+
+capitul i
+
+
+disposica inici
+
+
+funcion process eletron dem servic eletron ofert mei soluca denomin tcueletron etcu obedec dispost nest observ legislacion vigent
+
+
+
+par efeit dest entendes
+
+
+i usuari intern autor servidor ativ tribunal tenh acess form autoriz inform produz custodi pel tcu
+
+
+ii usuari colabor prestador servic terceiriz estagiari qualqu outr colabor tcu tenh acess form autoriz inform produz custodi pel tribunal
+
+
+iii usuari extern qualqu pesso fisic jurid tenh acess form autoriz inform produz custodi pel tcu sej caracteriz usuari intern colabor
+
+
+iv document eletron document armazen form arquiv eletron inclusiv aquel resultant digitaliz
+
+
+v process eletron conjunt document eletron atos processu organic acumul curs aca administrat control extern tcu
+
+
+vi assinatur eletron registr realiz eletronic usuari identific mod inequivoc vist firm determin document assinatur
+
+
+vii certific digital conjunt proced assegur integr inform autor aca realiz mei eletron mediant assinatur eletron
+
+
+vii pec processual document junt aut process dev cont quand cabivel respect assinatur eletron
+
+
+ix gesta documental conjunt proced objet garant produca manutenca preserv long temp document fidedign autent acessiv compreensiv independent form suport inform res
+
+
+x custodiant pesso unidad tcu det poss mesm transitor inform produz receb pel tribunal
+
+
+xi unidad competent unidad det atribuica institucional afet assunt principal trat determin document
+
+
+xii unidad gestor soluca tecnolog inform unidad organizacional tcu respons definica relat process trabalh regr negoci requisit utiliz determin soluca tecnolog inform
+
+
+capitul ii
+
+
+funcion etcu
+
+
+etcu constituis canal servic eletron oferec mei portal tribunal internet portal tcu dispon par usuari intern colabor extern contempl entr outr seguint funcional
+
+
+i assinatur eletron document produz eletronic resultant digitaliz
+
+
+ii registr autuaca instruca gesta inform document process
+
+
+iii transferente divulg inform par pesso orga entidad interess determin process
+
+
+iv comunic dem atos processu inclusiv relacion deliber tcu
+
+
+v atend solicit formul orga entidad agent legitim term normat vigor
+
+
+
+vi envi document tcu
+
+
+vii intercambi eletron inform outr orga entidad
+
+
+raza natur servic funcional etcu cuj acess exclus par usuari intern tip oper autoriz funcional compo etcu par usuari intern colabor extern defin pel respect unidad gestor soluca tecnolog inform observ dispost nest normat especif tribunal
+
+
+incorpor servic etcu realiz gradual funca implant funcional tecnolog alter regiment normat
+
+
+ofert servic ambit etcu dispens prest mediant atend presencial unidad tribunal ressalv hipotes previst ato president
+
+
+diretriz reg etcu
+
+
+i confiabil integr inform relat document process cadastr bas dad corporat
+
+
+ii transparente disponibil agil obtenca pel usuari inform segur precis sobr deliber tcu andament process inclusiv possibil leitur pec produz cad fas observ grau confidencial atribu inform consoant normat tribunal
+
+
+iii garant disponibil servic tecnolog inform mod assegur possibil utiliz institucional recurs tecnolog tcu mesm ocorrente imprevist
+
+
+iv integr soluca tecnolog inform reduca gradat quantitat sistem utiliz tcu bem melhor alinh soluca necess negoci
+
+
+v aprimor usabil soluca tecnolog inform padroniz interfac logic utiliz funcional tecnolog
+
+
+vi facil agil obtenca pel unidad secret tcu inform gerenci carat estrateg relat document process
+
+
+vii celer andament processual moviment document ambit tcu
+
+
+vii moderniz continu process trabalh corporat tcu intensific uso tecnolog inform
+
+
+ix implant servic eletron mod alinh principi polit gesta pesso tcu proviment inov tecnolog funcional possibilit aperfeico pratic institucion gesta pesso
+
+
+x automatiz proced operacion redirecion forc trabalh nel empreg par realiz outr atribuica
+
+
+xi adoca pratic gesta alinh principi sustentabil reduca impact ambient decorrent ativ institucional
+
+
+xii cumpriment requisit transparente dispost pel lei complement mai lei responsabil fiscal pel lei diretriz orcament vigor bem disposit acess inform trat lei novembr lei acess inform acresolucaotcu btcu dou
+
+
+
+par utiliz etcu necessari
+
+
+i autoriz acess funcional soluca tecnolog inform par usuari intern colabor mediant previ cadastr cont identific unic usuari senh concessa perf acess
+
+
+ii previ credenci usuari extern par dem servic
+
+
+credenci trat ii dest ato pessoal darse part solicit efetu portal tcu
+
+
+credenci import aceit condica regulament disciplin etcu mediant assinatur term adesa responsabil usuari pel uso indev soluca tecnolog inform
+
+
+autoriz credenci consequent liber servic disponiv etcu depend prev aprov part tribunal conced analis cumpriment requisit necessari credenci verific legitim usuari par acess servic solicit
+
+
+descredenci darse
+
+
+solicit express usuari
+
+
+b raza uso indev servic etcu descumpr condica regulament disciplin utiliz
+
+
+c quand ocorrente situaca tecnic previst ato president
+
+
+d criteri administr mediant ato motiv
+
+
+consult etcu inform classific public pel tribunal conform resolucaotcu novembr prescind autoriz credenci previ
+
+
+utiliz etcu dev observ polit corporat seguranc inform tribunal
+
+
+atos processu pratic etcu consider realiz dia hor respect registr eletron conform horari oficial brasil
+
+
+ato president definira horari funcion etcu observ period minim expedient tribunal ampl divulg usuari ressalv ocorrente eventu problem tecnolog
+
+
+quand ato processual tiv pratic determin praz mei petica eletron consider tempest aquel efetiv horari previst instrument normat mencion
+
+
+hipotes trat paragraf anterior indisponibil tecnic servic etcu devid atest pel tribunal implic prorrog automat termin praz par primeir dia util seguint problem consonanc lei
+
+
+process document eletron tcu inclusiv resultant digitaliz produz assin armazen mei eletron ambient segur mei tecnolog garant integr autentic disponibil inform
+
+
+paragraf unic etcu dev contempl proced control seguranc inform previst tribunal especial aquel relat confidencial
+
+
+
+capitul iii
+
+
+assinatur eletron document
+
+
+document eletron produz tcu tera garant autor autentic integr assegur term lei mediant utiliz assinatur eletron seguint modal
+
+
+i assinatur digital base certific digital uso pessoal intransfer emit autor certific credenci infraestrutur chav public brasileir icpbrasil
+
+
+ii assinatur mediant login senh
+
+
+cas impossibil tecnic document pod produz papel assin propri punh pel pesso competent dev versa assin digitaliz inser soluca tecnolog inform etcu pertinent certific digital
+
+
+qualqu servidor ativ pod certific document eletron oriund digitaliz quand solicit mediant uso assinatur eletron descrit i dest
+
+
+
+pratic atos assin eletronic import aceit norm regulament sobr assunt responsabil usuari pel utiliz indev assinatur eletron
+
+
+certific digital senh acess soluca tecnolog inform uso pessoal intransfer send responsabil titul guard sigil
+
+
+ato president dispor sobr diretriz relat validad uso certific digital part propost formul pel comit gestor tecnolog inform examin pel comissa coorden geral
+
+
+deliber tcu assin term regiment intern tribunal utiliz criteri autor qualqu modal previst dest nrresolucaotcu dou
+
+
+
+paragraf unic julg process arquiv eletron relat deliber tcu pod sofr ajust conteud concern mat julg excet hipotes regiment mediant nov deliber tribunal
+
+
+capitul iv
+
+
+document process eletron
+
+
+
+seca i
+
+
+
+
+regr uso
+
+
+
+proced ambit tcu par receb autuaca tramit process document independent natur suport cont observ dispost resolucaotcu junh ressalv requisit especif mei eletron estabelec nest
+
+
+document receb pel tcu preferencial mei eletron dev atend requisit autentic integr validad jurid preconiz pel icpbrasil bem outr indic pel tribunal
+
+
+document papel receb pel tcu dev digitaliz document eletron resultant dess proced certific digital garant fidedign versa eletron consider origin par tod efeit leg
+
+
+document papel objet digitaliz mant pel unidad competent pel praz retenca dev descart realiz term indic ato president tcu
+
+
+objet cuj digitaliz sej tecnic possivel dev convert arquiv eletron mei alternat tais captur vide imag fotograf audi mod viabiliz inserca del aut eletron cab devoluca dess objet respect fornecedor
+
+
+hipotes arquiv eletron refer paragraf anterior apresent format inviabiliz exam ambit aut eletron objet dev identific document fisic vincul process envi unidad competent par guard posterior devoluca fornecedor descart term defin ato president
+
+
+document produz eletronic inser process dev assinatur eletron consider origin par tod efeit leg
+
+
+extrat digit document digitaliz junt aut dev certific digital usuari intern mesm forc probant origin ressalv aleg motiv fundament adulter durant process digitaliz
+
+
+paragraf unic arguica falsidad document original process form legislacion vigor
+
+
+conversa document par mei eletron dev observ proced control seguranc inform previst tcu especial aquel relat confidencial
+
+
+document process eletron dev classific ambit etcu especial quant confidencial praz retenca consonanc normat tribunal
+
+
+paragraf unic classific quant praz retenca feit mediant codig classific document arquiv estabelec ato president dispon soluca tecnolog inform etcu
+
+
+process eletron dev observ seguint requisit
+
+
+i integral eletron ressalv existente document fisic vincul process term dest
+
+
+ii form maneir cronolog sequencial numer continu pec cab organiz anex desdobr volum
+
+
+iii possibilit consult conjunt segreg pec processu inclusiv quant identific dess natur urgent consoant determin normat
+
+
+iv permit vincul entr process utiliz cas recurs apens monitor cobranc execut outr situaca reque autuaca nov process part origin mod permit consult part qualqu del
+
+
+v atos processu realiz preferencial mei eletron autentic garant mediant assinatur eletron
+
+
+vi propici consult arquiv eletron origin pec processual desd disponiv par tcu mod possibilit utiliz funcional inerent observ grau confidencial atribu inform consonanc normat tribunal
+
+
+autuaca process eletron dispens realiz proced tipic process papel tais capeament inclusa term abertur numer folh aposica etiquet padroniz
+
+
+apens process papel aut eletron dev preced conversa process par mei eletron term dispost nest
+
+
+inserca desentranh pec process eletron implic registr eletron realiz usuari intern par situaca previst normat mod automat pel soluca tecnolog inform etcu
+
+
+soluca tecnolog inform etcu dev permit realiz atos simultane process eletron quand implic prejuiz tratament adequ situaca processu
+
+
+exclusa pec processual indevid junt aut eletron pod realiz mediant prev autoriz
+
+
+i respons pel inclusa pec quand houv pec posterior exclu
+
+
+ii relator president respect process competente cab deleg quand trat pec subsidi manifest colegi tcu
+
+
+ato autoriz exclusa trat est dev inser eletronic respect aut
+
+
+pec exclu aut dev fic dispon par consult soluca tecnolog inform etcu observ grau confidencial atribu inform consonanc normat tribunal
+
+
+exclusa pec processual indevid junt aut subsidi manifest colegi tcu dev comunic ess colegi primeir sessa suced exclusa
+
+
+retir aut mei eletron dependencia tcu part advog term dispost lei darse pel vist eletron impossibil pel concessa gratuit cop eletron
+
+
+
+seca ii
+
+
+
+
+implant process eletron control extern
+
+
+
+fic autoriz implant uso process eletron control extern tcu part agost
+
+
+ato president disciplin implant process eletron unidad secret tcu
+
+
+implant cad unidad secret tcu dev contempl entr outr aca capacit divulg acerc nov proced adot
+
+
+part respect dat implant unidad secret tcu soment autu nov process mei eletron ressalv situaca excepcion previst normat especif
+
+
+aut instaur dat implant process eletron continu tramit encerr definit papel ressalv conversa par mei eletron previst paragraf unic dest
+
+
+
+seca iii
+
+
+
+
+funcion process eletron administrat
+
+
+
+ato president definira dat regr par integr process eletron administrat funcional integrant etcu
+
+
+paragraf unic fic mant dat refer atu regr funcion process eletron administrat aplicandos coub dispost nest
+
+
+autuaca process administrat dev realiz preferencial mei eletron
+
+
+paragraf unic aut instaur papel continu tramit encerr definit papel ressalv conversa par mei eletron previst paragraf unic dest
+
+
+
+seca iv
+
+
+
+
+conserv document process mei eletron
+
+
+
+tratament arquivist inclusiv descart document process eletron dev observ proced gesta documental tcu defin mediant ato president paragraf unic gesta document eletron orientas pel criteri integr disponibil inform produz custodi pel tcu respeit requisit leg principi seguranc inform
+
+
+document process eletron constant bas dad corporat dev armazen equip mid permit acess celer compat necess negoci tcu possu custodiant
+
+
+i logic pesso fisic unidad projet tribunal det poss mesm transitor inform produz receb pel tcu
+
+
+ii fisic secret infraestrutur tecnolog inform
+
+
+constituis custodiant fisic logic inform pesso fisic unidad tcu detenh poss mid tais notebook pen driv document eletron encontr armazen
+
+
+custodiant logic fisic incumb responsabil pel seguranc inform previst resolucaotcu outubr
+
+
+ato president definira plan preserv document eletron part propost formul pel comit gestor tecnolog inform examin pel comissa coordenacaogeral ouv comissa permanent avali document
+
+
+plan preserv document eletron dev cont entr outr element polit cop seguranc backup recuper cas perd inform bem retenca versa document eletron
+
+
+descart document process eletron pod realiz soment aprov plan preserv document eletron ressalv proced relat descart versa document defin pel comissa coordenacaogeral
+
+
+aut process papel pod conserv total parcial mei eletron
+
+
+conversa aut papel par mei eletron envolv necessari certific digital garant fidedign versa eletron pec processu digitaliz dev observ proced defin normat especif
+
+
+paragraf unic ato president pod indic dat par inici conversa sistemat process papel par mei eletron
+
+
+capitul v
+
+
+comunic eletron atos processu
+
+
+fic inclu resolucaotcu junh seguint term
+
+
+
+
+
+
+
+
+
+uso correi eletron dev observ proced defin ato president
+
+
+fic alter renumer paragraf unic bem inclu resolucaotcu seguint term
+
+
+
+
+
+
+
+
+expedient citatori farse acompanh demonstrat atualiz debit quand valor dev recolh tesour nacional gui recolh unia gru devid preench dad sofr modific dat indic par pagament
+
+
+hav disponibiliz portal tcu demonstrat atualiz debit gru mecan permit quand cas atualiz valor nel constant darse atend dispost paragraf anterior desd ess inform const expedient citatori
+
+
+fic alter renumer paragraf unic inclu resolucaotcu seguint term
+
+
+
+
+
+
+
+
+expedient acompanh demonstrat atualiz debit quand valor dev recolh tesour nacional gru devid preench dad sofr modific dat indic par pagament
+
+
+hav disponibiliz portal tcu demonstrat atualiz debit gru mecan permit quand cas atualiz valor nel constant darse atend dispost paragraf anterior desd ess inform const expedient
+
+
+fic alter inclu resolucaotcu seguint term
+
+
+notific par pagament debit mult dev cont inform sobr acorda condenatori dem element necessari recolh div fazendos acompanh quand cabivel demonstrat atualiz monet respect jur send beneficiari recolh tesour nacional gru devid preench dad sofr modific dat indic par pagament
+
+
+
+
+
+hav disponibiliz portal tcu demonstrat atualiz debit gru mecan permit quand cas atualiz valor nel constant darse atend dispost quant document dev acompanh notific desd ess inform const notific par pagament debit mult
+
+
+capitul vi
+
+
+alter regr relat document process papel mei eletron
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+
+
+
+
+
+
+
+dev compor aut princip entr outr instruca parec despach decisa monocrat colegi relatori fiscaliz junt ordem cronolog excet quand refer solicit outr mat submet apreci pel tcu dev inser respect anex
+
+
+
+
+
+quand anex cri par abrig solicit ess condica dev realc respect etiquet local apropri
+
+
+fic revog resolucaotcu vigenc part portariatcu btcu
+
+
+
+fic alter resolucaotcu seguint term
+
+
+
+
+
+correspondente oficial natur sigil dirig autor encaminh fech respect destinatari indic envelop numer registr sistem informatiz cab unidad destinatari cas conversa par mei eletron
+
+
+correspondente natur sigil sem identific unidad destinat abert pel chef setor trat encaminh unidad competent envelop lacr indic sigil respect numer registr cab unidad destinatari cas conversa par mei eletron
+
+
+fic alter iv resolucaotcu seguint term vigenc part portariatcu btcu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iv vermelh recurs mat urgent independent natur process conform previst regiment intern nest
+
+
+fic alter inclu resolucaotcu seguint term vigenc part portariatcu btcu
+
+
+
+
+
+
+
+
+
+hipotes process fiscaliz tom cont especial houv motiv interposica recurs trat fat relat mais exercici deves busc reproduca document fundament propost desentranh element par compor recurs
+
+
+hav outr questa envolv cont ordin aind julg mat pertinent cont julg dev apart trat exclusiv ambit recurs revisa
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+recurs der entrad tcu encaminh unidad tecnic respons pel process objet deliber recorr par fins autuaca nov process vincul process objet recurs envi serur cop eletron aut refira par exam prelimin admissibil gabinet relator cas embarg declar agrav
+
+
+quand registr recurs sistem control process dev const camp especif inform encontr pendent exam admissibil
+
+
+fic dispens realiz cop trat quand eletron aut qua refira recurs
+
+
+unidad gabinet respons pel exam recurs pod solicit aut fisic par fins subsidi exam quand estiv papel process objet recurs
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+efetu exam prelimin admissibil realiz sortei eletron relator par recurs quand trat recurs reconsider recurs revisa ped reexam
+
+
+
+
+
+cas analis prelimin realiz pel serur conclu tratars petica poss conhec recurs decisa transit julg haj viabil jurid par interposica quaisqu outr recurs hav deleg competente president tcu cab titul servidor tiv sid subdeleg competente neg receb pleit restitu petica interess
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+realiz sortei refer dest aut encaminh relator par apreci admissibil recurs
+
+
+
+
+
+hipotes paragraf anterior unidad tecnic orig dev cientific relaca part disposit alcanc pel efeit suspens vist prossegu execuca decisa observ dispost regiment intern tcu recurs dev encaminh serur par analis merit itens recorr
+
+
+ratific exam previ admissibil pel conhec relator determin providente par instruca saneament julgament salv hipotes recurs revisa interpost pel ministeri public junt tcu fundament iii lei cc regiment intern process dev encaminh unidad tecnic respons pel conduca process deu caus reabertur cont par identific fat respons quantific debit conform cas posterior instaur contraditori exam merit term regiment intern
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+
+
+
+
+
+
+
+petica autonom procedent ministeri public devid acompanh element nov supervenient necessari par analis recurs tendent reabertur cont mais exercici observ disposica constant form nov process recurs revisa term dest
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+
+
+
+
+
+
+comunic trat paragraf anterior dest realiz pel unidad orig
+
+
+resolucaotcu pass vigor seguint redaca vigenc part portariatcu btcu
+
+
+
+apreci recurs realiz comunic processu dev process recurs dev encerr sistem
+
+
+fic inclu resolucaotcu seguint term
+
+
+atend solicit inform cop inform par subsidi aca judicial certida inform par defes inter particul colet geral dev realiz preferencial mei eletron
+
+
+concessa vist cop aut realiz mei eletron salv impossibil tecnic
+
+
+par fins refer est pod ger cop eletron aut papel mediant digitaliz observ proced defin normat especif
+
+
+concessa vist cop aut par atend solicit pesso disponh soluca tecnolog inform compat aquel utiliz pel tcu dev realiz preferencial mei mid eletron cont necessari pec processu respect dad indispens par identific organiz processual impossibil uso mid mei cop aut papel
+
+
+resolucaotcu pass vigor seguint redaca
+
+
+
+
+
+
+
+
+cas possivel definica relator pel criteri estabelec bem realiz sortei automat mediant soluca tecnolog inform document autu aut encaminh secret sessa par sortei relator observ proced defin ato president
+
+
+resolucaotcu pass vigor seguint redaca
+
+
+sortei relator observ proced defin ato president
+
+
+hav urgenc pod realiz sortei qualqu temp durant horari funcion tcu consonanc dispost ato refer
+
+
+capitul vii
+
+
+disposica fin
+
+
+
+incumb president part propost formul pel comit seguranc inform examin pel comissa coorden geral aprov plan continu negoci relat etcu
+
+
+plan trat dev cont entr outr element mecan redundanc dad plan contingente mod garant continu ativ tribunal retorn situaca normal cas desastr falh recurs suport etcu
+
+
+plan contingente relat funcional process eletron etcu dev submet president dezembr
+
+
+compet secret infraestrutur tecnolog inform soluca tecnolog inform prov continu atualiz tecnolog necess implant plen efet servic previst par etcu
+
+
+compet secret refer adequ soluca tecnolog tribunal requisit defin pel unidad gestor funcional compo etcu
+
+
+infraestrutur tecnolog inform especif par preserv recuper grand volum document eletron dev prov pel secret infraestrutur tecnolog inform dezembr
+
+
+atualiz tecnolog dev privilegi proviment equip soluca tecnolog inform mais preserv saud usuari
+
+
+ato president dispor sobr gesta documental tcu indic requisit especif mei eletron part propost formul pel comissa permanent avali document examin pel comissa coorden geral dezembr
+
+
+aloc pesso mei administrat necessari eventual funcion etcu horari distint daquel expedient tribunal dev defin normat especif part propost formul pel comit gesta pesso
+
+
+decorr tres anos entrad vigor dest comit gesta pesso dev apresent propost revisa atribuica carg efet compo quadr pessoal tcu constant resolucaotcu dezembr mod contempl evoluca perf profission requer raza implant funcional etcu consequent alter process trabalh correlat
+
+
+atos processu dem aca realiz ambit process document eletron tera registr mant bas corporat par fins auditor observ praz retenca inform dispost ato president
+
+
+fic convalid atos pratic mei eletron dat inici vigenc dest norm relat soluca tecnolog inform process eletron administrat dem funcional previst etcu desd final tenh sid alcanc
+
+
+uso inadequ etcu fic sujeit apur responsabil penal civil administrat form legislacion vigor
+
+
+cas omiss relat assinatur eletron deliber tribunal resolv pel respect president colegi dandos cienc president tcu par fins uniformiz proced
+
+
+fic president autoriz exped atos necessari operacionaliz dest dirim cas omiss ressalv dispost anterior
+
+
+
+fic revog resolucaotcu outubr portariatcu abril
+
+
+est entr vigor agost exceca cuj vigenc darse dat defin ato president nrresolucaotcu dou btcu
+
+
+
+paragraf unic fic president tribunal autoriz exped atos necessari par regul tratament processual dad recurs ambit tcu period compreend entr entrad vigor dest vigenc nrresolucaotcu dou btcu
+
+
+
+tcu sal sessa ministr lucian branda alves souz agost
+
+
+valm campel
+
+
+presidente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+redaca anterior
+
+
+
+forc resolucaotcu
+
+
+deliber tcu assin term regiment intern tribunal utiliz certific digital
+
+
+
+forc resolucaotcu
+
+
+est entr vigor agost exceca cuj vigenc inicias primeir dia util
+
+
+paragraf unic ato president dispor sobr tratament processual dad recurs ambit tcu period compreend entr entrad vigor dest dezembr
+
+
+
+
+
+const revog express
+dispo sobr funcion process eletron dem servic eletron ofert mei soluca denomin tcueletron etcu alter resolucoestcu junh mai junh
+forc resolucaotcu
+
+deliber tcu assin term regiment intern tribunal utiliz certific digital
+
+
+
+forc resolucaotcu
+
+est entr vigor agost exceca cuj vigenc inicias primeir dia util
+
+paragraf unic ato president dispor sobr tratament processual dad recurs ambit tcu period compreend entr entrad vigor dest dezembr
+

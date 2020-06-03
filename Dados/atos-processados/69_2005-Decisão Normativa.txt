@@ -1,0 +1,350 @@
+decisa normat
+
+
+
+president tribunal cont unia uso atribuica confer regiment intern aprov pel dezembr
+
+
+consider previst instruca normativatcu dezembr sobr disponibiliz pel comit olimp brasileir pel comit paraolimp brasileir siti internet inform sobr utiliz recurs propri destin forc vi lei
+
+
+consider necess especific conteud pagin disponibiliz pel comit par garant tribunal acess dad inform necessari acompanh control recurs trat instruca normativatcu
+
+
+consider questa relat mecan control acess seguranc dev defin pel propri comit proprietari dad inform disponibiliz internet
+
+
+consider par garant flexibil alter pagin questa relat format dad inform dev objet entend entr est cort cont comit olimp paraolimp brasileir resolv ad referendum plenari
+
+
+objet possibilit exercici control pel tribunal cont unia pel orga central sistem control intern pod execut federal comit olimp brasileir cob comit paraolimp brasileir cpb dev disponibiliz siti internet vincul hipertext par acess pagin inform refer intcu dezembr
+
+
+paragraf unic vincul hipertext denomin gesta recurs lei dev propici dev destaqu pagin respect comit
+
+
+pagin inicial cont vincul hipertext par acess seguint pagin subsequent
+
+
+i inform ger
+
+
+ii tabel
+
+
+iii despes diret
+
+
+iv despes indiret
+
+
+v moviment financeir
+
+
+vi proced licitatori
+
+
+vii contrat
+
+
+vii process apur debit
+
+
+ix normat
+
+
+x outr inform
+
+
+paragraf unic detalh conteud pagin relacion nest const anex dest decisa normat
+
+
+comit olimp brasileir comit paraolimp brasileir dev adot mecan control acess seguranc dad inform disponibiliz pod responsabil possibilit outr usuari public geral acess subconjunt total pagin
+
+
+paragraf unic comit dev possibilit acess pagin ministeri esport educ form atend dispost lei marc
+
+
+dad inform inser pagin relacion dest decisa normat dev atualiz mensal ultim dia util mes subsequent aquel process
+
+
+dad inform inser pagin relacion dest decisa normat dev permanec disponiv par consult pel praz cinc anos cont encerr exercici correspondent
+
+
+i process inform relaca conteud pagin tabel despes diret moviment financeir process apur debit
+
+
+ii termin analis prestaca cont referent conteud pagin despes indiret
+
+
+iii termin vigenc instrument document ref pagin contrat normat outr inform
+
+
+iv termin proced licitatori par conteud pagin proced licitatori
+
+
+termin praz implement pagin defin dest decisa normat dev inclu minim seguint dad inform
+
+
+i valor exercici corrent relaca conteud pagin tabel
+
+
+ii dad process edica dest decisa normat relaca conteud pagin despes diret moviment financeir
+
+
+iii proced andament bem instrument normat document vigent quand edica dest decisa normat relaca conteud pagin despes indiret proced licitatori contrat process apur debit normat outr inform
+
+
+comit olimp brasileir comit paraolimp brasileir dev adot soluca tecnolog apropri mod assegur usabil pagin par exercici ativ control
+
+
+period implement pagin equip comit tribunal cont unia dev mant entend par definica questa tecnic pertinent inclusiv quant format dad
+
+
+termin implement pagin fic secret control extern refer intcu autoriz mant entend comit sempr necessari redefin questa tecnic normatiz est decisa normat
+
+
+comit olimp brasileir comit paraolimp brasileir dev implement disponibiliz pagin conteud especific nest decisa normat dia dezembr
+
+
+disponibiliz pagin internet dad inform defin nest decisa normat dispens apresent tribunal cont unia mei fisic document especific decret julh
+
+
+est decisa normat entr vigor dat public
+
+
+
+
+
+adylson mott
+
+
+president
+
+
+
+
+
+
+
+
+
+const revog express
+dispo sobr conteud dem questa tecnic pertinent disponibiliz pel comit olimp brasileir pel comit paraolimp brasileir internet inform trat instruca normativatcu dezembr
+
+anex decisa normativatcu agost
+
+i conteud
+pagin inform ger cont seguint relaca dad
+i enderec par correspondente
+ii numer telefon par contat
+iii numer fax
+iv enderec email par contat
+v numer cadastr nacional pesso jurid cnpj
+vi nom dat investidur president entidad
+vii relaca membr diretor seguint dad
+nom
+b carg
+c dat investidur carg
+vii relaca certida negat propri comit iv lei seguint dad
+titul
+b period vigenc
+ix relaca entidad fili vincul reconhec seguint dad
+nom
+b vincul hipertext par pagin inform sobr entidad
+x demonstr financeir conform previst v lei inclu pel lei evidenci recurs aufer virtud lei correspondent aplic
+pagin inform sobr entidad cont seguint relaca dad
+i classific entidad fili vincul reconhec
+ii enderec par correspondente
+iii numer telefon par contat
+iv numer fax
+v enderec email par contat
+vi numer cadastr nacional pesso jurid cnpj
+vii nom dat investidur president entidad
+vii relaca membr diretor seguint dad
+nom
+b carg
+c dat investidur carg
+ix relaca certida negat declar refer vii decret seguint dad
+titul
+b period vigenc
+x situaca parec refer ii lei
+xi demonstr financeir conform previst v lei inclu pel lei evidenci recurs aufer virtud lei correspondent aplic
+pagin tabel cont seguint tabel indic dat ultim atualiz
+i valor transfer pel caix econom federal caix exercici vi lei elabor seguint form
+linh mes ana
+b colun valor transfer
+c algoritm valor transfer determin mes dev calcul pel somator credit caix relat recurs trat vi lei ocorr naquel mes cont captador
+ii destin recurs cont captador exercici vi lei constru seguint form
+linh
+transferente par aplic geral
+transferente par desport escol
+transferente par desport universitari
+b colun
+valor
+percentual
+c algoritm
+valor transferente par aplic geral dev calcul pel somator debit cont captador ocorr exercici destin par cont especif aplic geral lei
+valor transferente par desport escol dev calcul pel somator debit cont captador ocorr exercici destin par cont especif desport escol lei
+valor transferente par desport universitari dev calcul pel somator debit cont captador ocorr exercici destin par cont especif desport universitari lei
+percentual cad linh dad pel divisa percentual valor pel somator valor tod linh
+tabel exib dev selecion pel correspondent exercici financeir
+pagin despes diret cont relaca program projet seguint camp
+i identific program projet
+ii titul program projet
+iii valor acumul dispendi
+iv dat inici
+v dat termin
+vi descrica program projet
+vii descrica resum dispendi
+vii valor percentu distribuica montant acumul dispendi itens vincul ii lei
+ix valor percentu distribuica montant acumul dispendi grup despes iii iv decret
+x item aplic program projet geral escol universitari
+xi indic outr font recurs alem oriund lei suport program projet houv
+program projet exib pagin dev selecion pel seguint conjunt parametr
+i identific
+ii titul
+iii exercici inici
+iii situaca vigent encerr
+cad parametr dev inclu opca par seleca tod program projet
+pagin despes indiret cont relaca conveni seguint camp
+i identific conveni
+ii convenent
+iii descrica detalh objet
+iv valor original
+v period vigenc
+vi itens aplic conveni geral escol universitari
+vii dat valor efet transferente recurs
+vii dat efet apresent prest cont
+ix situaca prest cont
+x descrica resum dispendi
+xi valor percentu distribuica montant dispendi itens vincul ii lei
+xii valor percentu distribuica montant dispendi grup despes iii iv decret
+xii indic outr font recurs alem oriund lei suport program projet houv
+xiv vincul hipertext par transferente term conveni
+xv vincul hipertext par transferente plan trabalh
+situaca prest cont dev correspond seguint opca
+i apresent praz apresent venc
+ii atras praz apresent venc
+iii analis
+iv aprov
+v rejeit
+conveni exib pagin dev selecion pel seguint conjunt parametr
+i identific
+ii convenent
+iii exercici firmatur
+iv situaca prest cont
+cad parametr dev inclu opca par seleca tod conveni
+pagin moviment financeir incluira conteud extrat bancari cont especif comit olimp brasileir comit paraolimp brasileir utiliz par gesta recurs refer in tcu vi lei seguint camp
+i numer cont
+ii agenc cont
+iii banc cont
+iv tip cont captador aplic geral escol universit corrent invest
+v relaca lancament seguint camp
+dat
+b numer document
+c histor
+d valor
+indicat debit credit
+f sald
+g identific favorec cpf cnpj nom
+h identific conveni
+i identific program projet
+camp identific favorec cpf cnpj nom dev const lancament referent pagament pesso natur empres concessa supriment fund cas respect devoluca recurs
+camp identific conveni dev const lancament referent transferente recurs financeir mei conveni cas respect devoluca recurs
+camp identific program projet dev const lancament situaca previst itens
+extrat bancari exib dev selecion pel seguint conjunt parametr
+i identific cont especif
+ii period inici termin lancament
+dev fornec vincul hipertext par transferente arquiv format planilh tod lancament cont especif ocorr period selecion
+pagin proced licitatori cont relaca licit comit olimp brasileir comit paraolimp brasileir seguint camp
+i identific licit
+ii modal
+iii dat public edital
+iv dat abertur
+v valor previst
+vi valor adjudic
+vii objet
+vii dat homolog
+ix relaca licitant apresent propost
+x licitant vencedor
+xi vincul hipertext par transferente edital
+xii vincul hipertext par transferente contrat
+licit exib pagin dev selecion pel seguint conjunt parametr
+i identific
+ii exercici abertur
+iv modal
+v licitant vencedor
+cad parametr dev inclu opca par seleca tod licit
+pagin contrat cont relaca contrat firm pel comit olimp brasileir comit paraolimp brasileir seguint camp
+i identific contrat
+ii contrat
+iii objet
+iv period vigenc
+v valor
+vi situaca
+vii codig licit origin
+vii indic enquadr legal dispens inexigibil licit
+ix vincul hipertext par transferente contrat adit
+situaca contrat dev correspond seguint opca
+i vigent
+ii rescind
+iii encerr
+contrat exib pagin dev selecion pel seguint conjunt parametr
+i identific
+ii contrat
+iv exercici firmatur
+v exercici vigenc
+vi situaca
+cad parametr dev inclu opca par seleca tod contrat
+pagin process apur debit cont relaca apur instaur pel comit encaminh secret federal control intern term in tcu seguint camp
+i identific process
+ii entidad
+iii valor
+iv dat encaminh secret federal control intern sfc
+v relaca respons
+vi descrica objet
+vii identific conveni program projet relacion debit
+process exib pagin dev selecion pel seguint parametr
+i identific
+ii entidad
+iii exercici encaminh
+cad parametr dev inclu opca par seleca tod process
+pagin normat cont relaca norm public pel comit inclusiv previst decret seguint camp
+i identific
+ii dat inici vigenc
+iv situaca
+v ement
+vi vincul hipertext par transferente normat
+situaca normat dev correspond seguint opca
+i vigent
+ii revog
+normat exib pagin dev selecion pel seguint conjunt parametr
+i identific
+ii situaca
+cad parametr dev inclu opca par seleca tod normat
+pagin outr inform cont seguint
+i plan estrateg aplic recurs refer decret seguint camp
+quadrieni correspondent
+b vincul hipertext par transferente arquiv
+ii quadrosresum receit aplic recurs refer decret seguint camp
+exercici financeir correspondent
+b vincul hipertext par transferente arquiv
+iii cadastr entidad inadimplent refer in tcu seguint camp
+vincul hipertext par transferente arquiv
+iv plan carg salari vigent seguint camp
+vincul hipertext par transferente arquiv
+v relaca cont especif comit olimp brasileir pel comit paraolimp brasileir utiliz par moviment recurs lei seguint camp
+numer cont
+b agenc cont
+c banc cont
+d descrica cont inform cont corrent invest item aplic relacion geral escol universitari lei referente
+
+
+
+
+
+
+
+
+
